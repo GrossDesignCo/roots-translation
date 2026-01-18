@@ -6,7 +6,10 @@ let lexiconIndex: { [key: string]: boolean } | null = null;
 
 async function loadLexiconIndex(language: string) {
   if (lexiconIndex === null) {
-    const indexPath = path.join(process.cwd(), `public/lexicon/${language}/index-by-word.json`);
+    const indexPath = path.join(
+      process.cwd(),
+      `public/lexicon/${language}/index-by-word.json`
+    );
     const indexData = await readFile(indexPath, 'utf-8');
     lexiconIndex = JSON.parse(indexData);
   }
@@ -15,7 +18,7 @@ async function loadLexiconIndex(language: string) {
 
 export async function POST(request: Request) {
   try {
-    const { words, language = 'hebrew' } = await request.json();
+    const { words, language = 'hebrew' } = await request?.json();
 
     if (!Array.isArray(words)) {
       return NextResponse.json(
@@ -35,7 +38,7 @@ export async function POST(request: Request) {
     }
 
     // Check each word against the index
-    const results = words.map(word => index[word.toLowerCase()] || false);
+    const results = words.map((word) => index[word.toLowerCase()] || false);
 
     return NextResponse.json({ results });
   } catch (error) {
@@ -46,4 +49,4 @@ export async function POST(request: Request) {
       { status: 500 }
     );
   }
-} 
+}
