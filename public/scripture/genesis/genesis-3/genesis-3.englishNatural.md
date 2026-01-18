@@ -85,5 +85,5 @@ And He-Who-Is (YHWH) God sent him out from Garden of Delight (Eden);
 to serve the earth from there which he was taken.
 And he banished the Earth (Adam); 
 and he caused to dwell east of Garden of Delight (Eden) the Approaching-Ones; 
-and the Bright-Flash of the Sword, the Overturning, 
+and Bright-Flash the Sword, the Overturning, 
 to keep the way to the Tree of Life. 

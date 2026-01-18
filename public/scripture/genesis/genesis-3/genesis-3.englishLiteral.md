@@ -86,5 +86,5 @@ to-serve ↳ the-earth which was-taken from-there.
 
 And-he-banished ↳ the-Earth (Adam); 
 and-he-caused-to-dwell from-east to-Garden Delight (Eden) ↳ the-Approaching_Ones; 
-and-↳ bright_flash-of the-sword, the-overturning, 
+and-↳ bright_flash the-sword, the-overturning, 
 to-keep ↳ way tree the-lives.
