@@ -466,7 +466,8 @@ const ROOTS = {
     englishLiteral: 'half',
     englishNatural: 'half',
     type: 'noun',
-    description: 'half, middle, midst; midnight, halving (of the night); includes both chatzot (חֲצֹת) and chatziy (חצי) forms',
+    description:
+      'half, middle, midst; midnight, halving (of the night); includes both chatzot (חֲצֹת) and chatziy (חצי) forms',
   },
   ken: {
     hebrew: 'כֵּן',
@@ -7978,7 +7979,8 @@ const ROOTS = {
     englishLiteral: 'pit',
     englishNatural: 'pit',
     type: 'noun',
-    description: 'pit, cistern, well, dungeon; often used for a prison or place of confinement',
+    description:
+      'pit, cistern, well, dungeon; often used for a prison or place of confinement',
   },
   tzeaqah: {
     hebrew: 'צעקה',
@@ -7987,7 +7989,6 @@ const ROOTS = {
     englishNatural: 'outcry',
     type: 'noun',
     description: 'outcry, cry, shriek; a loud cry of distress or anguish',
-    related: ['tzaaq'],
   },
   eyn: {
     hebrew: 'אין',
@@ -7995,7 +7996,8 @@ const ROOTS = {
     englishLiteral: 'there-is-not',
     englishNatural: 'there is not',
     type: 'particle',
-    description: 'there is not, there are not, nothing; particle of negation expressing non-existence',
+    description:
+      'there is not, there are not, nothing; particle of negation expressing non-existence',
   },
 } as const;
 
