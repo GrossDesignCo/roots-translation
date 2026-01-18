@@ -460,6 +460,14 @@ const ROOTS = {
     description: 'the middle, the center, the midst, the midst of',
     type: 'noun',
   },
+  chatzot: {
+    hebrew: 'חֲצֹת / חצי',
+    transliteration: 'chatzot',
+    englishLiteral: 'half',
+    englishNatural: 'half',
+    type: 'noun',
+    description: 'half, middle, midst; midnight, halving (of the night); includes both chatzot (חֲצֹת) and chatziy (חצי) forms',
+  },
   ken: {
     hebrew: 'כֵּן',
     transliteration: 'ken',
@@ -515,7 +523,7 @@ const ROOTS = {
     englishNatural: 'to send',
     type: 'verb',
     description: 'to send or to send-out, depending on intensity',
-    related: ['Metushalach'],
+    related: ['Metushalach', 'shalakh'],
   },
   shafakh: {
     hebrew: 'שָׁפַךְ',
@@ -624,7 +632,7 @@ const ROOTS = {
     englishNatural: 'to strike',
     description:
       'flipped consonants from the word for snake, sometimes used to mean charging interest',
-    related: ['nachash'],
+    related: ['nachash', 'nakah'],
     type: 'verb',
   },
   sim: {
@@ -765,13 +773,6 @@ const ROOTS = {
     englishLiteral: 'wing',
     englishNatural: 'wing',
     type: 'noun',
-  },
-  khasah: {
-    hebrew: 'כסה',
-    transliteration: 'khasah',
-    englishLiteral: 'to cover',
-    englishNatural: 'to cover',
-    type: 'verb',
   },
   regel: {
     hebrew: 'רגל',
@@ -2596,14 +2597,6 @@ const ROOTS = {
       'angelic beings, cherubim, spiritual beings stationed at the entrances of places',
     related: ['qarav'],
   },
-  hat: {
-    hebrew: 'הט',
-    transliteration: 'hat',
-    englishLiteral: 'flame',
-    englishNatural: 'flame',
-    type: 'noun',
-    description: 'flame, blaze, flashing fire',
-  },
   cherev: {
     hebrew: 'חרב',
     transliteration: 'cherev',
@@ -2793,14 +2786,6 @@ const ROOTS = {
     englishNatural: 'to drive-away',
     type: 'verb',
     description: 'to drive away, scatter, blow away',
-  },
-  al_khen: {
-    hebrew: 'עַל כֵּן',
-    transliteration: 'al ken',
-    englishLiteral: 'therefore',
-    englishNatural: 'therefore',
-    type: 'conjunction',
-    description: 'therefore, for this reason, on account of this',
   },
   qum: {
     hebrew: 'קוּם',
@@ -3233,6 +3218,70 @@ const ROOTS = {
     englishNatural: 'firstborn',
     type: 'noun',
     description: 'firstborn, firstling',
+  },
+  shifchah: {
+    hebrew: 'שִׁפְחָה',
+    transliteration: 'shifchah',
+    englishLiteral: 'maidservant',
+    englishNatural: 'maidservant',
+    type: 'noun',
+    description: 'maidservant, female servant, handmaid',
+  },
+  rechayim: {
+    hebrew: 'רֵחַיִם',
+    transliteration: 'rechayim',
+    englishLiteral: 'millstones',
+    englishNatural: 'millstones',
+    type: 'noun',
+    description: 'millstones, hand mill (always dual form)',
+  },
+  tzaakah: {
+    hebrew: 'צְעָקָה',
+    transliteration: 'tzaakah',
+    englishLiteral: 'cry',
+    englishNatural: 'cry',
+    type: 'noun',
+    description: 'cry, outcry, shriek, loud cry of distress or appeal',
+  },
+  kamo: {
+    hebrew: 'כָּמֹה',
+    transliteration: 'kamo',
+    englishLiteral: 'like',
+    englishNatural: 'like',
+    type: 'particle',
+    description: 'like, as, according to (comparative particle)',
+  },
+  charatz: {
+    hebrew: 'חרץ',
+    transliteration: 'charatz',
+    englishLiteral: 'to sharpen',
+    englishNatural: 'to sharpen',
+    type: 'verb',
+    description: 'to sharpen, decide, decree, determine; to cut, to be sharp',
+  },
+  kelev: {
+    hebrew: 'כֶּלֶב',
+    transliteration: 'kelev',
+    englishLiteral: 'dog',
+    englishNatural: 'dog',
+    type: 'noun',
+    description: 'dog',
+  },
+  lashon: {
+    hebrew: 'לָשׁוֹן',
+    transliteration: 'lashon',
+    englishLiteral: 'tongue',
+    englishNatural: 'tongue',
+    type: 'noun',
+    description: 'tongue, language, speech',
+  },
+  palah: {
+    hebrew: 'פלה',
+    transliteration: 'palah',
+    englishLiteral: 'to distinguish',
+    englishNatural: 'to distinguish',
+    type: 'verb',
+    description: 'to distinguish, separate, make distinct, make wonderful',
   },
   chelev: {
     hebrew: 'חֵלֶב',
@@ -4252,6 +4301,22 @@ const ROOTS = {
     type: 'adjective',
     description: 'wandering, restless, moving to and fro',
   },
+  na_particle: {
+    hebrew: 'נָא',
+    transliteration: 'na',
+    englishLiteral: 'please',
+    englishNatural: 'please',
+    type: 'particle',
+    description: 'particle of entreaty or request - please, now, I pray',
+  },
+  ozen: {
+    hebrew: 'אֹזֶן',
+    transliteration: 'ozen',
+    englishLiteral: 'ear',
+    englishNatural: 'ear',
+    type: 'noun',
+    description: 'ear, hearing',
+  },
   nadad: {
     hebrew: 'נָדַד',
     transliteration: 'nadad',
@@ -4581,7 +4646,8 @@ const ROOTS = {
     englishLiteral: 'friend',
     englishNatural: 'friend',
     type: 'noun',
-    description: 'friend, companion, fellow, neighbor',
+    description:
+      'broad word for a person in close proximity, friend, companion, fellow, neighbor',
   },
   rekush: {
     hebrew: 'רכוש',
@@ -4657,10 +4723,11 @@ const ROOTS = {
   ivri: {
     hebrew: 'עברי',
     transliteration: 'ivri',
-    englishLiteral: 'Hebrew',
-    englishNatural: 'Hebrew',
-    type: 'adjective',
-    description: 'Hebrew, one who crosses over, descendant of Eber',
+    englishLiteral: 'Passes_Through (Hebrew)',
+    englishNatural: 'Passes-Through (Hebrew)',
+    type: 'noun',
+    description:
+      'Hebrew, one who passes-through or crosses over, descendant of Eber',
     related: ['avar'],
   },
   // Exodus 3:14 additions
@@ -7017,10 +7084,12 @@ const ROOTS = {
   mitzrayim: {
     hebrew: 'מצרים',
     transliteration: 'mitzrayim',
-    englishLiteral: 'Narrow_Place (Egypt)',
-    englishNatural: 'Narrow-Place (Egypt)',
+    englishLiteral: 'Double_Narrows (Egypt)',
+    englishNatural: 'Double-Narrows (Egypt)',
     type: 'noun',
-    description: 'Egypt; literally "narrow place" or "place of distress"',
+    description:
+      'Egypt; Dual form of narrowness, literally "two narrow places" or "places of distress"',
+    related: ['tzar'],
   },
   // Genesis 14:17 additions
   sedom: {
@@ -7482,7 +7551,7 @@ const ROOTS = {
     englishNatural: 'flame',
     type: 'noun',
     description: 'flame, blaze, flashing point of fire',
-    related: ['esh', 'hat'] as const,
+    related: ['esh', 'lahat'] as const,
   },
   // Exodus 3:5 additions
   halom: {
@@ -7637,6 +7706,296 @@ const ROOTS = {
     englishNatural: 'feast',
     type: 'noun',
     description: 'feast, festival, pilgrimage feast',
+  },
+  // Exodus 5:3 additions
+  dever: {
+    hebrew: 'דבר',
+    transliteration: 'dever',
+    englishLiteral: 'plague',
+    englishNatural: 'plague',
+    type: 'noun',
+    description: 'plague, pestilence, epidemic disease',
+  },
+  aw: {
+    hebrew: 'או',
+    transliteration: 'aw',
+    englishLiteral: 'or',
+    englishNatural: 'or',
+    type: 'conjunction',
+    description: 'or, either',
+  },
+  // Exodus 5:4 additions
+  para: {
+    hebrew: 'פרע',
+    transliteration: 'para',
+    englishLiteral: 'to let_loose',
+    englishNatural: 'to let-loose',
+    type: 'verb',
+    description:
+      'to let loose, to uncover, to neglect, to disturb, to let go unrestrained',
+  },
+  sevel: {
+    hebrew: 'סבל',
+    transliteration: 'sevel',
+    englishLiteral: 'burden',
+    englishNatural: 'burden',
+    type: 'noun',
+    description: 'burden, load, forced labor, heavy work',
+  },
+  // Exodus 6:6 additions
+  lakhen: {
+    hebrew: 'לכן',
+    transliteration: 'lakhen',
+    englishLiteral: 'therefore',
+    englishNatural: 'therefore',
+    type: 'adverb',
+    description: 'therefore, for this reason, on account of this',
+    related: ['ken'] as const,
+  },
+  avodah: {
+    hebrew: 'עבדה',
+    transliteration: 'avodah',
+    englishLiteral: 'service',
+    englishNatural: 'service',
+    type: 'noun',
+    description:
+      'service, work, labor, bondage, slavery; can refer to both forced labor and worship/service to God',
+    related: ['avad'] as const,
+  },
+  gaal: {
+    hebrew: 'גאל',
+    transliteration: 'gaal',
+    englishLiteral: 'to redeem',
+    englishNatural: 'to redeem',
+    type: 'verb',
+    description:
+      'to redeem, to act as kinsman-redeemer, to buy back, to avenge; the role of the goel (kinsman-redeemer) who has the right and duty to redeem family members or property',
+  },
+  zeroa: {
+    hebrew: 'זרוע',
+    transliteration: 'zeroa',
+    englishLiteral: 'arm',
+    englishNatural: 'arm',
+    type: 'noun',
+    description:
+      'arm, forearm, strength, power; often used metaphorically for divine power and might',
+  },
+  // Exodus 7:1 additions
+  navi: {
+    hebrew: 'נביא',
+    transliteration: 'navi',
+    englishLiteral: 'prophet',
+    englishNatural: 'prophet',
+    type: 'noun',
+    description:
+      'prophet, spokesperson for God, one who speaks forth divine messages; from root meaning to bubble forth or announce',
+  },
+  // Exodus 7:3 additions
+  qashah: {
+    hebrew: 'קשה',
+    transliteration: 'qashah',
+    englishLiteral: 'to harden',
+    englishNatural: 'to harden',
+    type: 'verb',
+    description:
+      'to be hard, to harden, to make difficult, to be severe; in hiphil: to harden, to make stubborn, to make obstinate',
+    related: ['chazaq'] as const,
+  },
+  // Exodus 7:8 additions
+  lemor: {
+    hebrew: 'לאמר',
+    transliteration: 'lemor',
+    englishLiteral: 'to say',
+    englishNatural: 'saying',
+    type: 'verb',
+    description:
+      'infinitive construct of amar (to say), meaning "to say" or "saying"; commonly used to introduce direct speech',
+    related: ['amar'] as const,
+  },
+  // Exodus 7:9 additions
+  shalakh: {
+    hebrew: 'שלך',
+    transliteration: 'shalakh',
+    englishLiteral: 'to throw',
+    englishNatural: 'to throw',
+    type: 'verb',
+    description:
+      'to throw, to cast, to hurl, to fling; in hiphil: to cast down, to throw down',
+    related: ['shalach'] as const,
+  },
+  eved: {
+    hebrew: 'עבד',
+    transliteration: 'eved',
+    englishLiteral: 'servant',
+    englishNatural: 'servant',
+    type: 'noun',
+    description: 'servant, slave, bondservant; one who serves',
+    related: ['avad'] as const,
+  },
+  // Exodus 7:11 additions
+  kashaph: {
+    hebrew: 'כשף',
+    transliteration: 'kashaph',
+    englishLiteral: 'sorcerer',
+    englishNatural: 'sorcerer',
+    type: 'noun',
+    description: 'sorcerer, one who practices sorcery or witchcraft',
+  },
+  lahat: {
+    hebrew: 'להט',
+    transliteration: 'lahat',
+    englishLiteral: 'bright_flash',
+    englishNatural: 'bright-flash',
+    type: 'noun',
+    description:
+      'flame, blaze; also used for enchantments or secret arts (flames/flashing of magic)',
+  },
+  // Exodus 7:13 additions
+  kaasher: {
+    hebrew: 'כאשר',
+    transliteration: 'kaasher',
+    englishLiteral: 'as-which',
+    englishNatural: 'as',
+    type: 'conjunction',
+    description:
+      'compound conjunction meaning "as which", "just as", "according to what"; combines ka (like/as) + asher (which/that)',
+    related: ['asher'] as const,
+  },
+  alehem: {
+    hebrew: 'אלהם',
+    transliteration: 'alehem',
+    englishLiteral: 'to-them',
+    englishNatural: 'to them',
+    type: 'preposition',
+    description:
+      'compound preposition meaning "to them"; combines el (to) + hem (them)',
+    related: ['el', 'hem'] as const,
+  },
+  // Exodus 10:21 additions
+  mash: {
+    hebrew: 'מש',
+    transliteration: 'mash',
+    englishLiteral: 'to feel',
+    englishNatural: 'to feel',
+    type: 'verb',
+    description: 'to feel, to touch, to grope; to handle by touch',
+  },
+  // Exodus 10:22 additions
+  afelah: {
+    hebrew: 'אפלה',
+    transliteration: 'afelah',
+    englishLiteral: 'gloom',
+    englishNatural: 'gloom',
+    type: 'noun',
+    description:
+      'thick opaque darkness, deep gloom, obscurity; intense darkness beyond normal night',
+    related: ['choshekh'] as const,
+  },
+  // Exodus 10:24 additions
+  yatzag: {
+    hebrew: 'יצג',
+    transliteration: 'yatzag',
+    englishLiteral: 'to be_stationed',
+    englishNatural: 'to be stationed',
+    type: 'verb',
+    description: 'to be stationed, to be set, to be placed; to stand firm',
+  },
+  taph: {
+    hebrew: 'טף',
+    transliteration: 'taph',
+    englishLiteral: 'little_ones',
+    englishNatural: 'little ones',
+    type: 'noun',
+    description:
+      'little ones, children, young children; the vulnerable members of a family or community',
+  },
+  // Exodus 10:25 additions
+  zevach: {
+    hebrew: 'זבח',
+    transliteration: 'zevach',
+    englishLiteral: 'sacrifice',
+    englishNatural: 'sacrifice',
+    type: 'noun',
+    description:
+      'sacrifice, slaughtered offering; an animal slaughtered for worship or covenant',
+  },
+  olah: {
+    hebrew: 'עלה',
+    transliteration: 'olah',
+    englishLiteral: 'ascending_offering',
+    englishNatural: 'ascending-offering',
+    type: 'noun',
+    description:
+      'burnt offering, ascending offering; a sacrifice completely consumed by fire that ascends to God',
+    related: ['alah'] as const,
+  },
+  // Exodus 10:26 additions
+  parsah: {
+    hebrew: 'פרסה',
+    transliteration: 'parsah',
+    englishLiteral: 'hoof',
+    englishNatural: 'hoof',
+    type: 'noun',
+    description: 'hoof, divided hoof; the foot of a cloven-hoofed animal',
+  },
+  anachnu: {
+    hebrew: 'אנחנו',
+    transliteration: 'anachnu',
+    englishLiteral: 'we',
+    englishNatural: 'we',
+    type: 'pronoun',
+    description: 'we, first person plural pronoun',
+  },
+  shachah: {
+    hebrew: 'שחה',
+    transliteration: 'shachah',
+    englishLiteral: 'to bow_down',
+    englishNatural: 'to bow-down',
+    type: 'verb',
+    description: 'to bow down, prostrate oneself, worship, pay homage',
+  },
+  le: {
+    hebrew: 'ל',
+    transliteration: 'le',
+    englishLiteral: 'to',
+    englishNatural: 'to',
+    type: 'preposition',
+    description:
+      'to, for, toward, belonging to; the most common Hebrew preposition indicating direction, purpose, or possession',
+  },
+  sheviy: {
+    hebrew: 'שבי',
+    transliteration: 'sheviy',
+    englishLiteral: 'captive',
+    englishNatural: 'captive',
+    type: 'noun',
+    description: 'captive, prisoner, one taken captive',
+    related: ['shavah'],
+  },
+  bor: {
+    hebrew: 'בור',
+    transliteration: 'bor',
+    englishLiteral: 'pit',
+    englishNatural: 'pit',
+    type: 'noun',
+    description: 'pit, cistern, well, dungeon; often used for a prison or place of confinement',
+  },
+  tzeaqah: {
+    hebrew: 'צעקה',
+    transliteration: 'tzeaqah',
+    englishLiteral: 'outcry',
+    englishNatural: 'outcry',
+    type: 'noun',
+    description: 'outcry, cry, shriek; a loud cry of distress or anguish',
+    related: ['tzaaq'],
+  },
+  eyn: {
+    hebrew: 'אין',
+    transliteration: 'eyn',
+    englishLiteral: 'there-is-not',
+    englishNatural: 'there is not',
+    type: 'particle',
+    description: 'there is not, there are not, nothing; particle of negation expressing non-existence',
   },
 } as const;
 

@@ -95,8 +95,8 @@ export const exodus_2_4: Verse = {
     {
       hebrew: 'יֵּעָשֶׂה',
       transliteration: 'yeaseh',
-      englishLiteral: 'will-be-done',
-      englishNatural: 'would be done',
+      englishLiteral: 'will-be-made',
+      englishNatural: 'would be made',
       root: 'asah',
       order: 6,
       morphology: {
@@ -129,10 +129,10 @@ export const exodus_2_4: Verse = {
     hebrew: 'וַתֵּתַצַּב אֲחֹתוֹ מֵרָחֹק לְדֵעָה מַה־יֵּעָשֶׂה לוֹ',
     transliteration: 'vaTetatzav achoto meRachok leDeah mah-yeaseh lo',
     englishLiteral:
-      'And-positioned-herself sister-his from-distance, to-know what- will-be-done to-him.',
+      'And-positioned-herself sister-his from-distance, to-know what- will-be-made to-him.',
     englishNatural:
-      'And his sister positioned-herself from a distance, to know what would be done to him.',
+      'And his sister positioned-herself from a distance, to know what would be made to him.',
     kjv: 'And his sister stood afar off, to wit what would be done to him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-22' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+  },
 };

@@ -12,7 +12,7 @@ export const psalms_1_5: Verse = {
       transliteration: 'al',
       englishLiteral: 'Over',
       englishNatural: 'moreover',
-      root: 'al_khen',
+      root: 'al',
       order: {
         hebrew: 1,
         english: 2,
@@ -172,6 +172,6 @@ export const psalms_1_5: Verse = {
     englishNatural:
       'So moreover the wicked will stand-up not in judgment; and sinners, in the assembly of the righteous.',
     kjv: 'Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
   },
 };

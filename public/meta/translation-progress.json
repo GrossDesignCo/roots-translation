@@ -1971,9 +1971,9 @@
           "verses": {
             "1": true,
             "2": true,
-            "3": false,
-            "4": false,
-            "5": false,
+            "3": true,
+            "4": true,
+            "5": true,
             "6": false,
             "7": false,
             "8": false,
@@ -1993,17 +1993,17 @@
             "22": false,
             "23": false
           },
-          "progress": 8.695652173913043
+          "progress": 21.73913043478261
         },
         "6": {
           "chapterNumber": 6,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
+            "1": true,
+            "2": true,
+            "3": true,
             "4": false,
             "5": false,
-            "6": false,
+            "6": true,
             "7": false,
             "8": false,
             "9": false,
@@ -2029,24 +2029,24 @@
             "29": false,
             "30": false
           },
-          "progress": 0
+          "progress": 13.333333333333334
         },
         "7": {
           "chapterNumber": 7,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
+            "1": true,
+            "2": true,
+            "3": true,
             "4": false,
             "5": false,
             "6": false,
             "7": false,
-            "8": false,
-            "9": false,
-            "10": false,
-            "11": false,
-            "12": false,
-            "13": false,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true,
+            "13": true,
             "14": false,
             "15": false,
             "16": false,
@@ -2060,7 +2060,7 @@
             "24": false,
             "25": false
           },
-          "progress": 0
+          "progress": 36
         },
         "8": {
           "chapterNumber": 8,
@@ -2163,34 +2163,34 @@
             "17": false,
             "18": false,
             "19": false,
-            "20": false,
-            "21": false,
-            "22": false,
-            "23": false,
-            "24": false,
-            "25": false,
-            "26": false,
-            "27": false,
-            "28": false,
-            "29": false
+            "20": true,
+            "21": true,
+            "22": true,
+            "23": true,
+            "24": true,
+            "25": true,
+            "26": true,
+            "27": true,
+            "28": true,
+            "29": true
           },
-          "progress": 0
+          "progress": 34.48275862068966
         },
         "11": {
           "chapterNumber": 11,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
-            "5": false,
-            "6": false,
-            "7": false,
-            "8": false,
-            "9": false,
-            "10": false
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true
           },
-          "progress": 0
+          "progress": 100
         },
         "12": {
           "chapterNumber": 12,
@@ -2223,8 +2223,8 @@
             "26": false,
             "27": false,
             "28": false,
-            "29": false,
-            "30": false,
+            "29": true,
+            "30": true,
             "31": false,
             "32": false,
             "33": false,
@@ -2247,7 +2247,7 @@
             "50": false,
             "51": false
           },
-          "progress": 0
+          "progress": 3.9215686274509802
         },
         "13": {
           "chapterNumber": 13,
@@ -3296,7 +3296,7 @@
           "progress": 0
         }
       },
-      "progress": 2.225886232481451
+      "progress": 5.3586150041220115
     },
     "LEVITICUS": {
       "bookName": "Leviticus",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.3278461884705657
+  "totalProgress": 1.4500208983056297
 }

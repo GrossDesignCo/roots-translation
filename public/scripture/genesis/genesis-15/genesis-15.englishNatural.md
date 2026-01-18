@@ -40,7 +40,7 @@ and a turtledove, and a young pigeon."
 
 And he took to him all these,
 and divided them in the midst,
-and gave man piece of him to meet his companion;
+and gave man piece of him to meet his friend;
 and the birds he divided not.
 
 And the birds-of-prey descended over the carcasses,
@@ -71,5 +71,5 @@ which passed between these pieces.
 
 In the day that He-Who-Is (YHWH) cut Exalted-Father (Abram) a covenant,
 saying, "To your seed I have given the land this,
-from The River of Narrow-Place (Egypt) 
+from The River of Double-Narrows (Egypt) 
 until The River, The Great, the River of Fruitful (Euphrates)."

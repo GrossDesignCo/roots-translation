@@ -148,8 +148,8 @@ export const exodus_3_7: Verse = {
     {
       hebrew: 'בְּמִצְרָיִם',
       transliteration: 'beMitzrayim',
-      englishLiteral: 'in-Egypt',
-      englishNatural: 'in Egypt',
+      englishLiteral: 'in-Double_Narrows (Egypt)',
+      englishNatural: 'in Double-Narrows (Egypt)',
       root: 'mitzrayim',
       prefixes: ['be'],
       order: 9,
@@ -307,10 +307,10 @@ export const exodus_3_7: Verse = {
     transliteration:
       'vaYomer YHWH raoh raiti et-oni ammi asher beMitzrayim veEt-tzaaqatam shamati miPenei nogsav ki yadati et-makheovav',
     englishLiteral:
-      'And-said He_Who_Is (YHWH) "seeing I-see ↳ affliction-of people-my which in-Egypt, and-↳ outcry-their I-hear from-faces-of taskmasters-his, that I-know ↳ pains-his.',
+      'And-said He_Who_Is (YHWH) "seeing I-see ↳ affliction-of people-my which in-Double_Narrows (Egypt), and-↳ outcry-their I-hear from-faces-of taskmasters-his, that I-know ↳ pains-his.',
     englishNatural:
-      'And He-Who-Is (YHWH) said, "Seeing, I have seen the affliction of my people which, in Egypt, and their outcry I have heard from the faces of his taskmasters, that I have known his pains.',
+      'And He-Who-Is (YHWH) said, "Seeing, I have seen the affliction of my people which, in Double-Narrows (Egypt), and their outcry I have heard from the faces of his taskmasters, that I have known his pains.',
     kjv: 'And the LORD said, I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-22' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+  },
 };

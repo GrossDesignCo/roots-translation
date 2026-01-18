@@ -14,7 +14,7 @@ and the heading of his kingdom was Confusion (Babylon),
 and Length (Erech), and Fortress (Akkadia), and Fortress (Calneh),
 in the land of Tooth-of-Two (Shinar).
 
-from that land went forth Steppe (Assyria), 
+from that land brought-out Steppe (Assyria), 
 and he built Dwelling-of-Fish (Nineveh)
 and Open-Places (Rehoboth) City and Vigor (Calah), and Bridle (Resen), 
 between Dwelling-of-Fish (Nineveh) and between Vigor (Calah); 

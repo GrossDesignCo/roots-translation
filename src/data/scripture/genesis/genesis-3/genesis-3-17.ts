@@ -292,7 +292,7 @@ export const genesis_3_17: Verse = {
     },
     {
       hebrew: 'בַּעֲבוּרֶךָ',
-      transliteration: 'baavurekha',
+      transliteration: 'baAvurekha',
       englishLiteral: 'in-passing_through-your',
       englishNatural: 'in your passing-through',
       root: 'avar',
@@ -394,12 +394,12 @@ export const genesis_3_17: Verse = {
     hebrew:
       'וּלְאָדָם אָמַר כִּי־שָׁמַעְתָּ לְקוֹל אִשְׁתֶּךָ וַתֹּאכַל מִן־הָעֵץ אֲשֶׁר צִוִּיתִיךָ לֵאמֹר לֹא תֹאכַל מִמֶּנּוּ אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ בְּעִצָּבוֹן תֹּאכְלֶנָּה כֹּל יְמֵי חַיֶּיךָ׃',
     transliteration:
-      'uleAdam amar ki-shmamta leQol ishtekha vaToAkhal min-haEtz asher tzivitikha lemor lo tokhal mimenu arurah haAdamah baavurekha beItzavon tokhlena kol yemey chayyekha',
+      'uleAdam amar ki-shmamta leQol ishtekha vaToAkhal min-haEtz asher tzivitikha lemor lo tokhal mimenu arurah haAdamah baAvurekha beItzavon tokhlena kol yemey chayyekha',
     englishLiteral:
       'And-to-Earth (Adam) he-said, "That you-listened to-voice woman-your, and-you-ate from the-tree, which I-commanded-you to-say, \'Not you-will-eat from-it\'; cursed the-earth in-passing_through-your; in-pain you-will-eat, all days-of lives-your;"',
     englishNatural:
       'And to Earth (Adam) he said, "That you listened to the voice of your woman, and you ate from the tree, which I commanded you saying, \'You will eat from it not\'; cursed is the earth in your passing-through; in pain you will eat, all the days of your life;"',
     kjv: 'And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
   },
 };

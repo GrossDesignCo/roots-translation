@@ -57,7 +57,7 @@ uleAdam amar
 ki-shmamta leQol ishtekha 
 vaToAkhal min-haEtz 
 asher tzivitikha lemor lo tokhal mimenu 
-arurah haAdamah baavurekha 
+arurah haAdamah baAvurekha 
 beItzavon tokhlena 
 kol yemey chayyekha
 
@@ -86,5 +86,5 @@ laAvod et-haAdamah asher luQach miSham
 
 vayGaresh et-haAdam 
 vayYashken miQedem leGan-Eden et-haKeruvim 
-veEt laHat haCherev haMithapekhet 
+veEt lahat haCherev haMithapekhet 
 lishMor et-derekh etz haChayyim

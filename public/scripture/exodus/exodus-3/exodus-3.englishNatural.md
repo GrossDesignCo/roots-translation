@@ -27,7 +27,7 @@ and the God of Heel-Grasper (Jacob)."
 And Drawn-Out (Moses) hid his face, that he feared to look to the God.
 
 And He-Who-Is (YHWH) said, 
-"Seeing, I have seen the affliction of my people which, in Egypt, 
+"Seeing, I have seen the affliction of my people which, in Double-Narrows (Egypt), 
 and their outcry I have heard from the faces of his taskmasters, 
 that I have known his pains.
 

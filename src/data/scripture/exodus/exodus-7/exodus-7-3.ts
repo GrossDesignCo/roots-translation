@@ -1,0 +1,200 @@
+import { Verse } from '@/types';
+
+export const exodus_7_3: Verse = {
+  meta: {
+    book: 'Exodus',
+    chapter: 7,
+    verse: 3,
+  },
+  words: [
+    {
+      hebrew: 'וַאֲנִי',
+      transliteration: 'vaAni',
+      englishLiteral: 'And-I',
+      englishNatural: 'And I',
+      root: 'ani',
+      prefixes: ['va'],
+      order: 1,
+      morphology: {
+        person: '1st',
+        number: 'singular',
+        type: 'pronoun',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'אַקְשֶׁה',
+      transliteration: 'aqsheh',
+      englishLiteral: 'I-will-cause-to-harden',
+      englishNatural: 'will cause to harden',
+      root: 'qashah',
+      order: 2,
+      morphology: {
+        gender: 'common',
+        number: 'singular',
+        person: '1st',
+        tense: 'imperfect',
+        stem: 'hiphil',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: 3,
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'לֵב',
+      transliteration: 'lev',
+      englishLiteral: 'heart-of',
+      englishNatural: 'the heart of',
+      root: 'lev',
+      order: 4,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'פַּרְעֹה',
+      transliteration: 'Paroh',
+      englishLiteral: 'Pharaoh',
+      englishNatural: 'Pharaoh',
+      root: 'paroh',
+      order: 5,
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְהִרְבֵּיתִי',
+      transliteration: 'veHirbeti',
+      englishLiteral: 'and-I-will-cause-to-multiply',
+      englishNatural: 'and I will cause to multiply',
+      root: 'rabah',
+      prefixes: ['ve'],
+      order: 6,
+      morphology: {
+        gender: 'common',
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'hiphil',
+        type: 'verb',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: 7,
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'אֹתֹתַי',
+      transliteration: 'ototai',
+      englishLiteral: 'signs-my',
+      englishNatural: 'my signs',
+      root: 'ot',
+      suffixes: ['ai'],
+      order: 8,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וְאֶת־',
+      transliteration: 'veEt-',
+      englishLiteral: 'and-↳',
+      englishNatural: 'and',
+      root: 'et',
+      prefixes: ['ve'],
+      order: 9,
+      morphology: {
+        type: 'particle',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'מוֹפְתַי',
+      transliteration: 'moftai',
+      englishLiteral: 'wonders-my',
+      englishNatural: 'my wonders',
+      root: 'mofet',
+      suffixes: ['ai'],
+      order: 10,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'בְּאֶרֶץ',
+      transliteration: 'beEretz',
+      englishLiteral: 'in-land-of',
+      englishNatural: 'in the land of',
+      root: 'eretz',
+      prefixes: ['ba'],
+      order: 11,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'מִצְרָיִם',
+      transliteration: 'Mitzrayim',
+      englishLiteral: 'Double_Narrows (Egypt)',
+      englishNatural: 'Double-Narrows (Egypt)',
+      root: 'mitzrayim',
+      order: 12,
+      morphology: {
+        gender: 'masculine',
+        number: 'dual',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '."',
+        englishNatural: '."',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַאֲנִי אַקְשֶׁה אֶת־לֵב פַּרְעֹה וְהִרְבֵּיתִי אֶת־אֹתֹתַי וְאֶת־מוֹפְתַי בְּאֶרֶץ מִצְרָיִם',
+    transliteration:
+      'vaAni aqsheh et-lev Paroh veHirbeti et-ototai veEt-moftai beEretz Mitzrayim',
+    englishLiteral:
+      'And-I I-will-cause-to-harden ↳ heart-of Pharaoh and-I-will-cause-to-multiply ↳ signs-my and-↳ wonders-my in-land-of Double_Narrows (Egypt)."',
+    englishNatural:
+      'And I will cause to harden the heart of Pharaoh, and I will cause to multiply my signs and my wonders in the land of Double-Narrows (Egypt)."',
+    kjv: "And I will harden Pharaoh's heart, and multiply my signs and my wonders in the land of Egypt.",
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+},
+};

@@ -111,8 +111,8 @@ export const exodus_4_21: Verse = {
     {
       hebrew: 'מִצְרַיְמָה',
       transliteration: 'mitzraymah',
-      englishLiteral: 'Narrow_Place (Egypt)-ward',
-      englishNatural: 'to Narrow-Place (Egypt)',
+      englishLiteral: 'Double_Narrows (Egypt)-ward',
+      englishNatural: 'to Double-Narrows (Egypt)',
       root: 'mitzrayim',
       suffixes: ['ah'],
       order: 7,
@@ -215,8 +215,8 @@ export const exodus_4_21: Verse = {
     {
       hebrew: 'וַעֲשִׂיתָם',
       transliteration: 'vaAsitam',
-      englishLiteral: 'and-do-them',
-      englishNatural: 'and do them',
+      englishLiteral: 'and-make-them',
+      englishNatural: 'and make them',
       root: 'asah',
       prefixes: ['va'],
       suffixes: ['tam'],
@@ -234,7 +234,7 @@ export const exodus_4_21: Verse = {
       hebrew: 'לִפְנֵי',
       transliteration: 'lifnei',
       englishLiteral: 'to-face-of',
-      englishNatural: 'before',
+      englishNatural: 'to the face of',
       root: 'panim',
       prefixes: ['li'],
       suffixes: ['ei'],
@@ -387,10 +387,10 @@ export const exodus_4_21: Verse = {
     transliteration:
       'vaYomer YHWH el-Moshe beLekhtkha lashuv mitzraymah reeh kol-haMoftim asher-samti veYadekha vaAsitam lifnei Paroh vaAni achazek et-libbo veLo yeshallach et-haAm',
     englishLiteral:
-      'And-said He_Who_Is (YHWH) to- Drawn_Out (Moses) "in-going-your to-return Narrow_Place (Egypt)-ward, see all- the-wonders which- placed in-hand-your and-do-them to-face-of Pharaoh, and-I will-intensify ↳ heart-his and-not will-send ↳ the-people."',
+      'And-said He_Who_Is (YHWH) to- Drawn_Out (Moses) "in-going-your to-return Double_Narrows (Egypt)-ward, see all- the-wonders which- placed in-hand-your and-make-them to-face-of Pharaoh, and-I will-intensify ↳ heart-his and-not will-send ↳ the-people."',
     englishNatural:
-      'And He-Who-Is (YHWH) said to Drawn-Out (Moses), "In your going, to return to Narrow-Place (Egypt), see all the wonders which I have placed in your hand and do them before Pharaoh, but I will intensify his heart and he will send-out not the people."',
+      'And He-Who-Is (YHWH) said to Drawn-Out (Moses), "In your going, to return to Double-Narrows (Egypt), see all the wonders which I have placed in your hand and make them to the face of Pharaoh, but I will intensify his heart and he will send-out not the people."',
     kjv: 'And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
   },
 };

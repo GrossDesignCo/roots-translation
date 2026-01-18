@@ -130,7 +130,7 @@ export const isaiah_6_2: Verse = {
       transliteration: 'yeKhasseh',
       englishLiteral: 'he-covers',
       englishNatural: 'he covers',
-      root: 'khasah',
+      root: 'kasah',
       prefixes: ['ye'],
       order: 9,
       morphology: {
@@ -178,7 +178,7 @@ export const isaiah_6_2: Verse = {
       transliteration: 'yeKhasseh',
       englishLiteral: 'he-covers',
       englishNatural: 'he covers',
-      root: 'khasah',
+      root: 'kasah',
       prefixes: ['ye'],
       order: 12,
       morphology: {
@@ -254,6 +254,6 @@ export const isaiah_6_2: Verse = {
     englishNatural:
       'Incinerating-ones were standing above him; six wings to each one, in two he covers his faces, and in two he covers his feet, and in two he flies.',
     kjv: 'Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
   },
 };

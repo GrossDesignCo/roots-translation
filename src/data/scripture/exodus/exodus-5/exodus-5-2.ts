@@ -93,7 +93,7 @@ export const exodus_5_2: Verse = {
     {
       hebrew: 'אֶשְׁמַע',
       transliteration: 'eshma',
-      englishLiteral: 'will-hear',
+      englishLiteral: 'I-will-hear',
       englishNatural: 'I will hear',
       root: 'shama',
       order: 6,
@@ -132,6 +132,9 @@ export const exodus_5_2: Verse = {
         tense: 'infinitive_construct',
         stem: 'piel',
         type: 'verb',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -177,7 +180,7 @@ export const exodus_5_2: Verse = {
     {
       hebrew: 'יָדַעְתִּי',
       transliteration: 'yadati',
-      englishLiteral: 'knew',
+      englishLiteral: 'I-knew',
       englishNatural: 'I have known',
       root: 'yada',
       suffixes: ['ti'],
@@ -282,7 +285,7 @@ export const exodus_5_2: Verse = {
     {
       hebrew: 'אֲשַׁלֵּחַ',
       transliteration: 'ashalach',
-      englishLiteral: 'will-send',
+      englishLiteral: 'I-will-send',
       englishNatural: 'I will send-out',
       root: 'shalach',
       order: {
@@ -310,10 +313,10 @@ export const exodus_5_2: Verse = {
     transliteration:
       'vaYomer Paroh mi YHWH asher eshma beQolo leshalach et-Yisrael lo yadati et-YHWH veGam et-Yisrael lo ashalach',
     englishLiteral:
-      'And-said Pharaoh "who He_Who_Is (YHWH) which will-hear in-voice-his to-send ↳ Struggles_with_God (Israel), not knew ↳ He_Who_Is (YHWH), and-also ↳ Struggles_with_God (Israel) not will-send."',
+      'And-said Pharaoh "who He_Who_Is (YHWH) which I-will-hear in-voice-his to-send ↳ Struggles_with_God (Israel), not I-knew ↳ He_Who_Is (YHWH), and-also ↳ Struggles_with_God (Israel) not I-will-send."',
     englishNatural:
       'And Pharaoh said, "Who is He-Who-Is (YHWH) which I will hear in his voice to send-out Struggles-with-God (Israel)? I have known not He-Who-Is (YHWH), and also Struggles-with-God (Israel) I will send-out not."',
     kjv: 'And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+  },
 };

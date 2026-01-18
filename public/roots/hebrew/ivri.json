@@ -2,14 +2,21 @@
   "key": "ivri",
   "hebrew": "עברי",
   "transliteration": "ivri",
-  "englishLiteral": "Hebrew",
-  "englishNatural": "Hebrew",
-  "type": "adjective",
-  "description": "Hebrew, one who crosses over, descendant of Eber",
+  "englishLiteral": "Passes_Through (Hebrew)",
+  "englishNatural": "Passes-Through (Hebrew)",
+  "type": "noun",
+  "description": "Hebrew, one who passes-through or crosses over, descendant of Eber",
   "related": [
     "avar"
   ],
   "wordIndexes": {
+    "exodus": {
+      "5": {
+        "3": [
+          2
+        ]
+      }
+    },
     "jonah": {
       "1": {
         "9": [

@@ -4,7 +4,7 @@ And it was in their journeying from the east,
 and they found a plain in the land of Tooth-of-Two (Shinar) 
 and they settled there.
 
-And they said, man to his neighbor, 
+And they said, man to his friend, 
 "Come let us make-bricks bricks and let us incinerate to an incinerating." 
 And the brick was to them for stone, 
 and the bitumen was to them for mortar.
@@ -26,7 +26,7 @@ all which they will plan to make.
 
 Come let us descend, 
 and let us confuse there the lip of them,
-which man will hear not the lip of his companion."
+which man will hear not the lip of his friend."
 
 And He-Who-Is (YHWH) scattered them from there 
 over the face of all the land;

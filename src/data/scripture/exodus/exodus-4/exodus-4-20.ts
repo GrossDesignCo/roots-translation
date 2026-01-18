@@ -186,8 +186,8 @@ export const exodus_4_20: Verse = {
     {
       hebrew: 'מִצְרָיִם',
       transliteration: 'Mitzrayim',
-      englishLiteral: 'Narrow_Place (Egypt)',
-      englishNatural: 'Narrow-Place (Egypt)',
+      englishLiteral: 'Double_Narrows (Egypt)',
+      englishNatural: 'Double-Narrows (Egypt)',
       root: 'mitzrayim',
       order: 12,
       morphology: {
@@ -305,10 +305,10 @@ export const exodus_4_20: Verse = {
     transliteration:
       'vaYiqqach Moshe et-ishto veEt-banav vaYarkivem al-haChamor vaYashav artzah Mitzrayim vaYiqqach Moshe et-mateh haElohim beYado',
     englishLiteral:
-      'And-took Drawn_Out (Moses) ↳ woman-his and-↳ sons-his and-caused-to-ride-them over- the-donkey, and-returned land-ward Narrow_Place (Egypt), and-took Drawn_Out (Moses) ↳ branch-of the-Gods in-hand-his.',
+      'And-took Drawn_Out (Moses) ↳ woman-his and-↳ sons-his and-caused-to-ride-them over- the-donkey, and-returned land-ward Double_Narrows (Egypt), and-took Drawn_Out (Moses) ↳ branch-of the-Gods in-hand-his.',
     englishNatural:
-      'And Drawn-Out (Moses) took his woman and his sons, and caused them to ride over the donkey, and returned to the land of Narrow-Place (Egypt), and Drawn-Out (Moses) took the branch of the God in his hand.',
+      'And Drawn-Out (Moses) took his woman and his sons, and caused them to ride over the donkey, and returned to the land of Double-Narrows (Egypt), and Drawn-Out (Moses) took the branch of the God in his hand.',
     kjv: 'And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+  },
 };

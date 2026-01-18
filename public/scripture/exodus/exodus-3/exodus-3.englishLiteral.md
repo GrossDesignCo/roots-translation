@@ -18,7 +18,7 @@ And-said "I Gods-of father-your, Gods-of Exalted_Father (Abraham), Gods-of He_La
 
 And-hid Drawn_Out (Moses) faces-his, that feared from-to-look to- the-Gods.
 
-And-said He_Who_Is (YHWH) "seeing I-see ↳ affliction-of people-my which in-Egypt, and-↳ outcry-their I-hear from-faces-of taskmasters-his, that I-know ↳ pains-his.
+And-said He_Who_Is (YHWH) "seeing I-see ↳ affliction-of people-my which in-Double_Narrows (Egypt), and-↳ outcry-their I-hear from-faces-of taskmasters-his, that I-know ↳ pains-his.
 
 And-said Drawn_Out (Moses) to- the-Gods "behold I coming to- sons-of Struggles_with_God (Israel) and-say to-them, 'Gods-of fathers-your sent-me to-you,' 
 and-say- to-me 'what- name-his,' what will-I-say to-them."

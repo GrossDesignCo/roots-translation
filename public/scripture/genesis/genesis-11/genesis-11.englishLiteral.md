@@ -5,7 +5,7 @@ And-was in-journeying-their from-east,
 and-they-found plain in-land-of Tooth-of-Two (Shinar) 
 and-they-settled there.
 
-And-they-said man to- his-neighbor, 
+And-they-said man to- his-friend, 
 come let-us-make-bricks bricks and-let-us-incinerate to-incinerating." 
 And-she-was to-them the-brick for-stone, 
 and-the-bitumen was to-them for-mortar.
@@ -26,7 +26,7 @@ and-now not- he-will-be-restrained from-them all which they-will-plan to-make.
 
 Come let-us-descend 
 and-let-us-confuse there lip-of-them,
-which not they-will-hear man lip-of companion-of-him."
+which not they-will-hear man lip-of friend-his."
 
 And-he-scattered He_Who_Is (YHWH) ↳ them from-there over- faces-of all- the-land,
 and-they-ceased to-build the-city.

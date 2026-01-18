@@ -2,10 +2,13 @@
   "key": "mitzrayim",
   "hebrew": "מצרים",
   "transliteration": "mitzrayim",
-  "englishLiteral": "Narrow_Place (Egypt)",
-  "englishNatural": "Narrow-Place (Egypt)",
+  "englishLiteral": "Double_Narrows (Egypt)",
+  "englishNatural": "Double-Narrows (Egypt)",
   "type": "noun",
-  "description": "Egypt; literally \"narrow place\" or \"place of distress\"",
+  "description": "Egypt; Dual form of narrowness, literally \"two narrow places\" or \"places of distress\"",
+  "related": [
+    "tzar"
+  ],
   "wordIndexes": {
     "exodus": {
       "3": {
@@ -19,6 +22,65 @@
         ],
         "21": [
           6
+        ]
+      },
+      "5": {
+        "4": [
+          3
+        ]
+      },
+      "6": {
+        "6": [
+          10
+        ]
+      },
+      "7": {
+        "3": [
+          11
+        ],
+        "11": [
+          9
+        ]
+      },
+      "10": {
+        "21": [
+          12
+        ],
+        "22": [
+          11
+        ]
+      },
+      "11": {
+        "1": [
+          11
+        ],
+        "3": [
+          6,
+          13
+        ],
+        "4": [
+          10
+        ],
+        "5": [
+          4
+        ],
+        "6": [
+          5
+        ],
+        "7": [
+          16
+        ],
+        "9": [
+          12
+        ]
+      },
+      "12": {
+        "29": [
+          8
+        ],
+        "30": [
+          7,
+          11
         ]
       }
     },

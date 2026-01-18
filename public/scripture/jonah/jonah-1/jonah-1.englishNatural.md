@@ -38,7 +38,7 @@ And they said to him, "Tell us to us, in which, for who the bad this is to us;
 What is your work? and from where come you? 
 What is your land? and where 'from this people' are you?"
 
-And he said to them, "A Hebrew am I; 
+And he said to them, "Passes-Through (Hebrew) am I; 
 and He-Who-Is (YHWH) God of the skies I fear, 
 which made the sea and the dry-ground."
 

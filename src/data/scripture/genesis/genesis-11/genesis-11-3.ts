@@ -56,8 +56,8 @@ export const genesis_11_3: Verse = {
     {
       hebrew: 'רֵעֵהוּ',
       transliteration: 'reeyhu',
-      englishLiteral: 'his-neighbor',
-      englishNatural: 'his neighbor',
+      englishLiteral: 'his-friend',
+      englishNatural: 'his friend',
       root: 'rea',
       suffixes: ['hu'],
       order: 4,
@@ -300,10 +300,10 @@ export const genesis_11_3: Verse = {
     transliteration:
       'vayYomeru ish el-reeyhu havah nilvnah levenim veNisrefah liSrefah vatTehi lahem haLevenah leEven veHacheymar hayah lahem laChomer',
     englishLiteral:
-      'And-they-said man to- his-neighbor, come let-us-make-bricks bricks and-let-us-incinerate to-incinerating." And-she-was to-them the-brick for-stone, and-the-bitumen was to-them for-mortar.',
+      'And-they-said man to- his-friend, come let-us-make-bricks bricks and-let-us-incinerate to-incinerating." And-she-was to-them the-brick for-stone, and-the-bitumen was to-them for-mortar.',
     englishNatural:
-      'And they said, man to his neighbor, "Come let us make-bricks bricks and let us incinerate to an incinerating." And the brick was to them for stone, and the bitumen was to them for mortar.',
+      'And they said, man to his friend, "Come let us make-bricks bricks and let us incinerate to an incinerating." And the brick was to them for stone, and the bitumen was to them for mortar.',
     kjv: 'And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
   },
 };

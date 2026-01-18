@@ -47,7 +47,7 @@ and-turtledove, and-young-pigeon."
 
 And-he-took- to-him ↳ all-of- these,
 and-he-divided ↳ them in-midst,
-and-he-gave man- piece-of-him to-meet companion-of-him,
+and-he-gave man- piece-of-him to-meet friend-his,
 and-↳ the-bird not he-divided.
 
 And-he-descended the-bird_of_prey over- the-carcasses,
@@ -70,4 +70,4 @@ And-generation fourth they-will-return here, that not- complete iniquity-of the-
 
 And-he-was the-sun she-came and-darkness he-was, and-behold furnace smoke and-torch fire which he-passed between the-pieces the-these.
 
-in-day the-that he-cut He_Who_Is (YHWH) ↳ Exalted_Father (Abram) covenant, to-say, "to-seed-of-you I-gave ↳ the-land the-this, from-river-of Narrow_Place (Egypt) until- the-river the-great river-of- Fruitful (Euphrates)."
+in-day the-that he-cut He_Who_Is (YHWH) ↳ Exalted_Father (Abram) covenant, to-say, "to-seed-of-you I-gave ↳ the-land the-this, from-river-of Double_Narrows (Egypt) until- the-river the-great river-of- Fruitful (Euphrates)."

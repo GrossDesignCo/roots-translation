@@ -31,9 +31,9 @@ export const exodus_4_3: Verse = {
     {
       hebrew: 'הַשְׁלִיכֵהוּ',
       transliteration: 'hashlikhehu',
-      englishLiteral: 'hurl-it',
-      englishNatural: 'Hurl it',
-      root: 'tul',
+      englishLiteral: 'throw-it',
+      englishNatural: 'throw it',
+      root: 'shalakh',
       prefixes: ['ha'],
       suffixes: ['hu'],
       order: 2,
@@ -72,9 +72,9 @@ export const exodus_4_3: Verse = {
     {
       hebrew: 'וַיַּשְׁלִכֵהוּ',
       transliteration: 'vaYashlikhehu',
-      englishLiteral: 'And-hurled-it',
-      englishNatural: 'And he hurled it',
-      root: 'tul',
+      englishLiteral: 'And-threw-it',
+      englishNatural: 'And he threw it',
+      root: 'shalakh',
       prefixes: ['va'],
       suffixes: ['hu'],
       order: 4,
@@ -212,10 +212,10 @@ export const exodus_4_3: Verse = {
     transliteration:
       'vaYomer hashlikhehu artzah vaYashlikhehu artzah vaYehi leNachash vaYanas Moshe miPanav',
     englishLiteral:
-      'And-said "hurl-it land-ward." And-hurled-it land-ward, and-was to-snake, and-fled Drawn_Out (Moses) from-face-its.',
+      'And-said "throw-it land-ward." And-threw-it land-ward, and-was to-snake, and-fled Drawn_Out (Moses) from-face-its.',
     englishNatural:
-      'And he said, "Hurl it to the land." And he hurled it to the land, and it was a snake, and Drawn-Out (Moses) fled from its face.',
+      'And he said, "throw it to the land." And he threw it to the land, and it was a snake, and Drawn-Out (Moses) fled from its face.',
     kjv: 'And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+  },
 };

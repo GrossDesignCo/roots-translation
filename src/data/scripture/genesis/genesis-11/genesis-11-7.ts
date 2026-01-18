@@ -169,8 +169,8 @@ export const genesis_11_7: Verse = {
     {
       hebrew: 'רֵעֵהוּ',
       transliteration: 'reehu',
-      englishLiteral: 'companion-of-him',
-      englishNatural: 'his companion',
+      englishLiteral: 'friend-his',
+      englishNatural: 'his friend',
       root: 'rea',
       suffixes: ['ehu'],
       order: 11,
@@ -192,10 +192,10 @@ export const genesis_11_7: Verse = {
     transliteration:
       "havah nerdah veNavlah sham sefatam asher lo yishme'u ish sefat reehu",
     englishLiteral:
-      'Come let-us-descend and-let-us-confuse there lip-of-them, which not they-will-hear man lip-of companion-of-him."',
+      'Come let-us-descend and-let-us-confuse there lip-of-them, which not they-will-hear man lip-of friend-his."',
     englishNatural:
-      'Come let us descend, and let us confuse there the lip of them, which man will hear not the lip of his companion."',
+      'Come let us descend, and let us confuse there the lip of them, which man will hear not the lip of his friend."',
     kjv: "Go to, let us go down, and there confound their language, that they may not understand one another's speech.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+  },
 };

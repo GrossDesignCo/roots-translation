@@ -57,8 +57,8 @@ export const genesis_10_11: Verse = {
     {
       hebrew: 'יָצָא',
       transliteration: 'yatsa',
-      englishLiteral: 'went-forth',
-      englishNatural: 'went forth',
+      englishLiteral: 'brought_out',
+      englishNatural: 'brought-out',
       root: 'yatsa',
       order: 4,
       morphology: {
@@ -204,10 +204,10 @@ export const genesis_10_11: Verse = {
     transliteration:
       'min-haAretz hahi yatsa Ashur vayYiven et-Nineveh veEt-Rechoboth ir veEt-Kalach',
     englishLiteral:
-      'from- the-land the-that went-forth Steppe (Assyria), and-he-built ↳ Dwelling_of_Fish (Nineveh) and-↳ Open_Places (Rehoboth) city and-↳ Vigor (Calah),',
+      'from- the-land the-that brought_out Steppe (Assyria), and-he-built ↳ Dwelling_of_Fish (Nineveh) and-↳ Open_Places (Rehoboth) city and-↳ Vigor (Calah),',
     englishNatural:
-      'from that land went forth Steppe (Assyria), and he built Dwelling-of-Fish (Nineveh) and Open-Places (Rehoboth) City and Vigor (Calah),',
+      'from that land brought-out Steppe (Assyria), and he built Dwelling-of-Fish (Nineveh) and Open-Places (Rehoboth) City and Vigor (Calah),',
     kjv: 'Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
   },
 };

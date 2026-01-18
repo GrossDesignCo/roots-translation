@@ -37,7 +37,7 @@ And-said to-him, "Tell- us to-us, in-which, for-who- the-bad this to-us;
 What- work-your? and-from-where you-come? 
 What land-your? and-where- from-this people you?"
 
-And-said to-them, "Hebrew I; 
+And-said to-them, "Passes_Through (Hebrew) I; 
 and-↳ He_Who_Is (YHWH) Gods-of the-skies I fear, 
 which- made ↳ the-sea and-↳ the-dry_ground."
 
