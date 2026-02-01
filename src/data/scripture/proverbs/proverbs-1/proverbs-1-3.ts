@@ -76,8 +76,8 @@ export const proverbs_1_3: Verse = {
     {
       hebrew: 'וּמִשְׁפָּט',
       transliteration: 'umishpat',
-      englishLiteral: 'and-judgement',
-      englishNatural: 'and judgement',
+      englishLiteral: 'and-justice',
+      englishNatural: 'and justice',
       root: 'mishpat',
       prefixes: ['u'],
       order: 5,
@@ -114,9 +114,9 @@ export const proverbs_1_3: Verse = {
   expectedTranslations: {
     hebrew: 'לָקַחַת מוּסַר הַשְׂכֵּל צֶדֶק וּמִשְׁפָּט וּמֵישָׁרִים',
     transliteration: 'laqachat musar haskel tzedeq umishpat umesharim',
-    englishLiteral: 'To-receive discipline, wise_conduct; righteousness, and-judgement, and-uprightness.',
-    englishNatural: 'To receive discipline, wise-conduct; righteousness, and judgement, and uprightness.',
+    englishLiteral: 'To-receive discipline, wise_conduct; righteousness, and-justice, and-uprightness.',
+    englishNatural: 'To receive discipline, wise-conduct; righteousness, and justice, and uprightness.',
     kjv: 'To receive the instruction of wisdom, in justice, and judgment, and equity',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-01' },
   },
 }; 

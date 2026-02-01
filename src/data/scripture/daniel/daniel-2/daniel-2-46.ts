@@ -94,8 +94,8 @@ export const daniel_2_46: Verse = {
     {
       aramaic: 'וּלְדָנִיֵּאל',
       transliteration: 'uleDaniel',
-      englishLiteral: 'and-to-God_Is_My_Judge (Daniel)',
-      englishNatural: 'and to God-Is-My-Judge (Daniel)',
+      englishLiteral: 'and-to-My_Judge_God (Daniel)',
+      englishNatural: 'and to My-Judge-God (Daniel)',
       root: 'daniel_name',
       prefixes: ['u', 'le'],
       order: 7,
@@ -213,10 +213,10 @@ export const daniel_2_46: Verse = {
     transliteration:
       'beEdayin malka Nevukhadnetzar nephal al-anpohi uleDaniel segid uMinchah veNichochin amar leNasakah leh',
     englishLiteral:
-      'then king-the Nebuchadnezzar fell over- face-his, and-to-God_Is_My_Judge (Daniel) he-prostrated, and-offering and-soothing_aromas he-said to-pour_out to-him.',
+      'then king-the Nebuchadnezzar fell over- face-his, and-to-My_Judge_God (Daniel) he-prostrated, and-offering and-soothing_aromas he-said to-pour_out to-him.',
     englishNatural:
-      'Then the king Nebuchadnezzar had fallen over his face, and to God-Is-My-Judge (Daniel) he prostrated, and an offering and soothing-aromas he had said to pour-out to him.',
+      'Then the king Nebuchadnezzar had fallen over his face, and to My-Judge-God (Daniel) he prostrated, and an offering and soothing-aromas he had said to pour-out to him.',
     kjv: 'Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-01' },
 },
 };

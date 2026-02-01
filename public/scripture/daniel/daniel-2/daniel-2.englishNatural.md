@@ -44,5 +44,5 @@ And in their days which those kings, the God of the skies will raise-up a kingdo
 All because which you saw, that from the mountain was cut out a stone which was not in hands, and crushed the iron, the bronze, the clay, the silver, and the gold, the great God has made-known to the king what which will be after this, and certain is the dream, and trustworthy is its interpretation."
 
 Then the king Nebuchadnezzar had fallen over his face, 
-and to God-Is-My-Judge (Daniel) he prostrated, 
+and to My-Judge-God (Daniel) he prostrated, 
 and an offering and soothing-aromas he had said to pour-out to him.

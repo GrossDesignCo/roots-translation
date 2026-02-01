@@ -10,12 +10,14 @@ import { jonah } from './jonah';
 import { revelation } from './revelation';
 import { matthew } from './matthew';
 import { daniel } from './daniel';
+import { ruth } from './ruth';
 
 export const scripture = {
   books: [
     genesis,
     exodus,
     numbers,
+    ruth,
     proverbs,
     psalms,
     isaiah,

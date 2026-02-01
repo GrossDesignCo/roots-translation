@@ -1136,10 +1136,10 @@ const ROOTS = {
   daniel_name: {
     aramaic: 'דָּנִיֵּאל',
     transliteration: 'Daniel',
-    englishLiteral: 'God_Is_My_Judge',
-    englishNatural: 'God-Is-My-Judge',
+    englishLiteral: 'My_Judge_God (Daniel)',
+    englishNatural: 'My-Judge-God (Daniel)',
     type: 'noun',
-    description: 'Daniel (personal name meaning "God is my judge")',
+    description: 'Daniel (personal name, traditionally meaning "God is my judge" but more accurately "Judge-my, God")',
     cognateHebrew: ['daniel'] as const,
   },
   amar_aramaic: {

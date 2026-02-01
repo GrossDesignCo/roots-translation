@@ -13,7 +13,7 @@ and-all which he-makes, it-prospers.
 Not so the-wicked, 
 that if as-chaff which it-drives_away-it wind.
 
-Over so not they-will-stand_up wicked-ones in-judgment; 
+Over so not they-will-stand_up wicked-ones in-justice; 
 and-sinners, in-assembly-of righteous-ones.
 
 That knowing He-Who-Is (YHWH) way-of righteous-ones, 

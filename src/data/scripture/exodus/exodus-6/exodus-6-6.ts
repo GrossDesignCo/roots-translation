@@ -296,8 +296,8 @@ export const exodus_6_6: Verse = {
     {
       hebrew: 'וּבִשְׁפָטִים',
       transliteration: 'uVishfatim',
-      englishLiteral: 'and-in-judgments',
-      englishNatural: 'judgments',
+      englishLiteral: 'and-in-justices',
+      englishNatural: 'justices',
       root: 'mishpat',
       prefixes: ['u', 'ba'],
       suffixes: ['im'],
@@ -347,10 +347,10 @@ export const exodus_6_6: Verse = {
     transliteration:
       'lakhen emor livnei-Yisrael ani YHWH veHotzeti etkhem mitachat sivlot Mitzrayim veHitzalti etkhem meAvodatam veGaalti etkhem biZeroa netuyah uVishfatim gedolim',
     englishLiteral:
-      'therefore say to-sons-of- Struggles_with_God (Israel) "I He_Who_Is (YHWH) and-I-will-bring_out ↳you from-under burdens-of Double_Narrows (Egypt) and-I-will-deliver ↳you from-service-their and-I-will-redeem ↳you in-arm stretched_out and-in-judgments great."',
+      'therefore say to-sons-of- Struggles_with_God (Israel) "I He_Who_Is (YHWH) and-I-will-bring_out ↳you from-under burdens-of Double_Narrows (Egypt) and-I-will-deliver ↳you from-service-their and-I-will-redeem ↳you in-arm stretched_out and-in-justices great."',
     englishNatural:
-      'Therefore say to the sons of Struggles-with-God (Israel), "I, He-Who-Is (YHWH), and I will bring-out you from under the burdens of Double-Narrows (Egypt), and I will deliver you from their service, and I will redeem you in a stretched-out arm and in great judgments."',
+      'Therefore say to the sons of Struggles-with-God (Israel), "I, He-Who-Is (YHWH), and I will bring-out you from under the burdens of Double-Narrows (Egypt), and I will deliver you from their service, and I will redeem you in a stretched-out arm and in great justices."',
     kjv: 'Wherefore say unto the children of Israel, I am the LORD, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments:',
-    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-01' },
 },
 };

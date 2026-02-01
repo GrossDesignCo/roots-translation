@@ -34,4 +34,4 @@ and-in-days-their which kings-the those he-will-raise_up God-the skies-the kingd
 
 all- because which you-saw which from- mountain-the was-cut-out stone which not in-hands, and-crushed iron-the bronze-the clay-the silver-the and-gold-the, God-the great he-made_known to-king-the what which to-be after this, and-certain dream-the, and-trustworthy interpretation-its."
 
-then king-the Nebuchadnezzar fell over- face-his, and-to-God_Is_My_Judge (Daniel) he-prostrated, and-offering and-soothing_aromas he-said to-pour_out to-him.
+then king-the Nebuchadnezzar fell over- face-his, and-to-My_Judge_God (Daniel) he-prostrated, and-offering and-soothing_aromas he-said to-pour_out to-him.

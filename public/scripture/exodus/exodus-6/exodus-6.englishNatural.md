@@ -15,4 +15,4 @@ Therefore say to the sons of Struggles-with-God (Israel),
 "I, He-Who-Is (YHWH), 
 and I will bring-out you from under the burdens of Double-Narrows (Egypt), 
 and I will deliver you from their service, 
-and I will redeem you in a stretched-out arm and in great judgments."
+and I will redeem you in a stretched-out arm and in great justices."

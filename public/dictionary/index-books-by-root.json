@@ -33,7 +33,8 @@
     "jonah",
     "numbers",
     "proverbs",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "or": [
     "exodus",
@@ -46,7 +47,8 @@
     "genesis",
     "isaiah",
     "jonah",
-    "proverbs"
+    "proverbs",
+    "ruth"
   ],
   "erev": [
     "genesis"
@@ -115,7 +117,8 @@
   ],
   "sheni": [
     "genesis",
-    "jonah"
+    "jonah",
+    "ruth"
   ],
   "shlishi": [
     "exodus",
@@ -184,7 +187,8 @@
     "psalms"
   ],
   "sadeh": [
-    "genesis"
+    "genesis",
+    "ruth"
   ],
   "asah": [
     "exodus",
@@ -197,7 +201,8 @@
   "ishah": [
     "exodus",
     "ezekiel",
-    "genesis"
+    "genesis",
+    "ruth"
   ],
   "akhal": [
     "exodus",
@@ -316,7 +321,8 @@
   "mut": [
     "exodus",
     "genesis",
-    "numbers"
+    "numbers",
+    "ruth"
   ],
   "pen": [
     "exodus",
@@ -358,7 +364,8 @@
     "ezekiel",
     "genesis",
     "jonah",
-    "numbers"
+    "numbers",
+    "ruth"
   ],
   "chata": [
     "genesis",
@@ -437,7 +444,8 @@
     "isaiah",
     "jonah",
     "numbers",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "nabat": [
     "exodus",
@@ -466,7 +474,8 @@
     "genesis",
     "isaiah",
     "jonah",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "et": [
     "daniel",
@@ -550,7 +559,8 @@
     "ezekiel",
     "genesis",
     "isaiah",
-    "jonah"
+    "jonah",
+    "ruth"
   ],
   "echad": [
     "daniel",
@@ -558,7 +568,8 @@
     "ezekiel",
     "genesis",
     "isaiah",
-    "jonah"
+    "jonah",
+    "ruth"
   ],
   "shnayim": [
     "ezekiel",
@@ -629,7 +640,8 @@
     "genesis",
     "jonah",
     "proverbs",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "layil": [
     "exodus",
@@ -667,7 +679,8 @@
     "exodus",
     "genesis",
     "proverbs",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "shemen": [
     "proverbs",
@@ -716,7 +729,8 @@
     "daniel",
     "ezekiel",
     "genesis",
-    "isaiah"
+    "isaiah",
+    "ruth"
   ],
   "peri": [
     "genesis",
@@ -939,7 +953,8 @@
     "ezekiel",
     "genesis",
     "jonah",
-    "proverbs"
+    "proverbs",
+    "ruth"
   ],
   "chamad": [
     "genesis"
@@ -1047,7 +1062,8 @@
     "ezekiel",
     "genesis",
     "jonah",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "ashur": [
     "genesis"
@@ -1158,7 +1174,8 @@
     "ezekiel",
     "genesis",
     "isaiah",
-    "jonah"
+    "jonah",
+    "ruth"
   ],
   "kavod": [
     "ezekiel",
@@ -1191,7 +1208,8 @@
     "ezekiel",
     "genesis",
     "isaiah",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "oy": [
     "isaiah"
@@ -1266,7 +1284,8 @@
   "gam": [
     "exodus",
     "genesis",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "hem": [
     "exodus",
@@ -1337,7 +1356,8 @@
   "hi": [
     "daniel",
     "ezekiel",
-    "genesis"
+    "genesis",
+    "ruth"
   ],
   "mah": [
     "daniel",
@@ -1390,7 +1410,8 @@
     "ezekiel",
     "genesis",
     "jonah",
-    "proverbs"
+    "proverbs",
+    "ruth"
   ],
   "teshuqah": [
     "genesis"
@@ -1405,7 +1426,8 @@
     "genesis"
   ],
   "lechem": [
-    "genesis"
+    "genesis",
+    "ruth"
   ],
   "shuv": [
     "exodus",
@@ -1989,7 +2011,8 @@
   ],
   "yeled": [
     "exodus",
-    "genesis"
+    "genesis",
+    "ruth"
   ],
   "chaburah": [
     "genesis"
@@ -3191,7 +3214,8 @@
     "daniel"
   ],
   "yehudah": [
-    "daniel"
+    "daniel",
+    "ruth"
   ],
   "nevukhadnetzar": [
     "daniel"
@@ -3428,7 +3452,8 @@
   ],
   "le": [
     "daniel",
-    "exodus"
+    "exodus",
+    "ruth"
   ],
   "sheviy": [
     "exodus"
@@ -3441,6 +3466,54 @@
   ],
   "eyn": [
     "exodus"
+  ],
+  "shafat": [
+    "ruth"
+  ],
+  "shofet": [
+    "ruth"
+  ],
+  "raav": [
+    "ruth"
+  ],
+  "gur": [
+    "ruth"
+  ],
+  "moav": [
+    "ruth"
+  ],
+  "shenayim": [
+    "ruth"
+  ],
+  "elimelekh": [
+    "ruth"
+  ],
+  "naomi": [
+    "ruth"
+  ],
+  "machlon": [
+    "ruth"
+  ],
+  "khilyon": [
+    "ruth"
+  ],
+  "efratim": [
+    "ruth"
+  ],
+  "shaar_remain": [
+    "ruth"
+  ],
+  "moaviyot": [
+    "ruth"
+  ],
+  "orpah": [
+    "ruth"
+  ],
+  "rut": [
+    "ruth"
+  ],
+  "eser": [
+    "ruth"
   ],
   "en": [
     "john",

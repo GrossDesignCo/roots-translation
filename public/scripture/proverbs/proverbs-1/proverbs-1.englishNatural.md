@@ -4,7 +4,7 @@ king of Struggles-with-God (Israel).
 To know Wisdom and Discipline; 
 To understand words of understanding.
 To receive discipline, wise-conduct; 
-righteousness, and judgement, and uprightness.
+righteousness, and justice, and uprightness.
 
 To give to simple men, shrewdness; 
 to a young man, knowledge and purpose.

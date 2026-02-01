@@ -93,8 +93,8 @@ export const psalms_1_5: Verse = {
     {
       hebrew: 'בַּמִּשְׁפָּט',
       transliteration: 'baMishpat',
-      englishLiteral: 'in-judgment',
-      englishNatural: 'in judgment',
+      englishLiteral: 'in-justice',
+      englishNatural: 'in justice',
       root: 'mishpat',
       prefixes: ['ba'],
       order: 6,
@@ -168,10 +168,10 @@ export const psalms_1_5: Verse = {
     transliteration:
       'al ken lo yaqumu reshaim baMishpat veChataim baAdat tzadiqim',
     englishLiteral:
-      'Over so not they-will-stand_up wicked-ones in-judgment; and-sinners, in-assembly-of righteous-ones.',
+      'Over so not they-will-stand_up wicked-ones in-justice; and-sinners, in-assembly-of righteous-ones.',
     englishNatural:
-      'So moreover the wicked will stand-up not in judgment; and sinners, in the assembly of the righteous.',
+      'So moreover the wicked will stand-up not in justice; and sinners, in the assembly of the righteous.',
     kjv: 'Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-01' },
   },
 };
