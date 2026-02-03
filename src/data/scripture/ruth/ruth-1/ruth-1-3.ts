@@ -123,6 +123,9 @@ export const ruth_1_3: Verse = {
       morphology: {
         type: 'pronoun',
       },
+      grammarSuffix: {
+        englishLiteral: ';',
+      },
     },
     {
       hebrew: 'וּשְׁנֵ֥י',
@@ -164,10 +167,10 @@ export const ruth_1_3: Verse = {
     transliteration:
       'vaYamat Elimelekh ish Naomi vatTishare hi usheney vaneha',
     englishLiteral:
-      'And-died My_God_King (Elimelech) man-of Pleasant_My (Naomi); and-was-left she and-two-of sons-her.',
+      'And-died My_God_King (Elimelech) man-of Pleasant_My (Naomi); and-was-left she; and-two-of sons-her.',
     englishNatural:
       'And My-God-King (Elimelech) the man of My-Pleasant (Naomi) died, and she was left, and the two of her sons.',
     kjv: 'And Elimelech Naomis husband died; and she was left, and her two sons.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-02' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-03' },
 },
 };

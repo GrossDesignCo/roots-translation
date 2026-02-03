@@ -90,6 +90,9 @@ export const ruth_1_5: Verse = {
       morphology: {
         type: 'noun',
       },
+      grammarSuffix: {
+        englishLiteral: ';',
+      },
     },
     {
       hebrew: 'וַתִּשָּׁאֵר֙',
@@ -132,6 +135,9 @@ export const ruth_1_5: Verse = {
       },
       lineBreaksBefore: {
         english: 1,
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
       },
     },
     {
@@ -191,10 +197,10 @@ export const ruth_1_5: Verse = {
     transliteration:
       'vaYamutu gam-shneyhem Machlon veKhilyon vatTishare haIshah miShney yeladeha uMeIshah',
     englishLiteral:
-      'And-they-died also- two-of-them Sickness (Mahlon) and-Wasting (Chilion) and-was-left the-woman from-two-of children-her and-from-man-her.',
+      'And-they-died also- two-of-them Sickness (Mahlon) and-Wasting (Chilion); and-was-left the-woman; from-two-of children-her and-from-man-her.',
     englishNatural:
       'And also the two of them Sickness (Mahlon) and Wasting (Chilion) died; and the woman was left, from the two of her children and from her man.',
     kjv: 'And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-02' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-03' },
 },
 };

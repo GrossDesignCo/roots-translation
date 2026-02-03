@@ -255,6 +255,9 @@ export const ruth_1_2: Verse = {
       morphology: {
         type: 'noun',
       },
+      grammarSuffix: {
+        englishLiteral: ';',
+      },
     },
     {
       hebrew: 'וַיִּֽהְיוּ־',
@@ -297,10 +300,10 @@ export const ruth_1_2: Verse = {
     transliteration:
       'veShem haIsh Elimelekh veShem ishto Naomi veShem sheney-vanav Machlon veKhilyon Efratim miBeit lechem Yehudah vaYavou sedey-Moav vayihyu-sham',
     englishLiteral:
-      'and-name-of the-man God_My_King (Elimelech) and-name-of woman-his Pleasant_My (Naomi) and-name-of two-of- sons-his Sickness (Mahlon) and-Wasting (Chilion) Fruitful_Ones (Ephrathites) from-House-of Bread (Bethlehem) Praise (Judah); and-they-came fields-of- From_Father (Moab) and-they-were- there.',
+      'and-name-of the-man God_My_King (Elimelech) and-name-of woman-his Pleasant_My (Naomi) and-name-of two-of- sons-his Sickness (Mahlon) and-Wasting (Chilion) Fruitful_Ones (Ephrathites) from-House-of Bread (Bethlehem) Praise (Judah); and-they-came fields-of- From_Father (Moab); and-they-were- there.',
     englishNatural:
       'And the name of the man God-My-King (Elimelech) and the name of his woman My-Pleasant (Naomi) and the name of the two of his sons Sickness (Mahlon) and Wasting (Chilion), Fruitful-Ones (Ephrathites) from the House of Bread (Bethlehem) Praise (Judah), and they came the fields of From-Father (Moab) and were there.',
     kjv: 'And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-02' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-03' },
 },
 };

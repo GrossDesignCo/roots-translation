@@ -180,6 +180,9 @@ export const ruth_1_4: Verse = {
       morphology: {
         type: 'adverb',
       },
+      grammarSuffix: {
+        englishLiteral: ';',
+      },
     },
     {
       hebrew: 'כְּעֶ֥שֶׂר',
@@ -219,10 +222,10 @@ export const ruth_1_4: Verse = {
     transliteration:
       'vaYisu lahem nashim Moaviyot shem haAchat Orpah veShem haShenit Rut vaYeshvu sham keEser shanim',
     englishLiteral:
-      'And-they-lifted to-them women Moabite_Women name-of the-one Neck (Orpah) and-name-of the-second Friend (Ruth); and-they-sat there like-ten years.',
+      'And-they-lifted to-them women Moabite_Women name-of the-one Neck (Orpah) and-name-of the-second Friend (Ruth); and-they-sat there; like-ten years.',
     englishNatural:
       'And they lifted to them women Moabite-Women, the name of the one Neck (Orpah) and the name of the second Friend (Ruth), and they sat there like ten years.',
     kjv: 'And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-02' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-03' },
 },
 };
