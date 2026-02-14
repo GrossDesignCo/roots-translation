@@ -297,7 +297,7 @@ export const ruth_1_8: Verse = {
       grammarSuffix: {
         hebrew: '׃',
         englishLiteral: '.',
-        englishNatural: '."',
+        englishNatural: '.',
       },
       lineBreaksAfter: 1,
     },
@@ -310,7 +310,7 @@ export const ruth_1_8: Verse = {
     englishLiteral:
       'And-said Pleasant_My (Naomi) to-two-of daughters_in_law-her "Go return woman to-house-of mother-her; make He_Who_Is (YHWH) with-you steadfast_love as-which you-made with- the-dead and-with-me.',
     englishNatural:
-      'And My-Pleasant (Naomi) said to the two of her daughters-in-law, "Go return, woman to the house of her mother; He-Who-Is (YHWH) make with you steadfast-love as which you made with the dead and with me."',
+      'And My-Pleasant (Naomi) said to the two of her daughters-in-law, "Go return, woman to the house of her mother; He-Who-Is (YHWH) make with you steadfast-love as which you made with the dead and with me.',
     kjv: 'And Naomi said unto her two daughters in law, Go, return each to her mothers house: the LORD deal kindly with you, as ye have dealt with the dead, and with me.',
     lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
 },

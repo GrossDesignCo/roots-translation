@@ -33,7 +33,7 @@ and the two of her daughters-in-law with her,
 and they walked in the way to return to the land of Praise (Judah).
 
 And My-Pleasant (Naomi) said to the two of her daughters-in-law, 
-"Go return, woman to the house of her mother; He-Who-Is (YHWH) make with you steadfast-love as which you made with the dead and with me."
+"Go return, woman to the house of her mother; He-Who-Is (YHWH) make with you steadfast-love as which you made with the dead and with me.
 
 He-Who-Is (YHWH) give to you, and find rest, woman the house of her man." 
 And she kissed to them, and they lifted their voice and wept.

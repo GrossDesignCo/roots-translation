@@ -11,6 +11,7 @@ import { revelation } from './revelation';
 import { matthew } from './matthew';
 import { daniel } from './daniel';
 import { ruth } from './ruth';
+import { ecclesiastes } from './ecclesiastes';
 
 export const scripture = {
   books: [
@@ -18,6 +19,7 @@ export const scripture = {
     exodus,
     numbers,
     ruth,
+    ecclesiastes,
     proverbs,
     psalms,
     isaiah,

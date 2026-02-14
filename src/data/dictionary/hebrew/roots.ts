@@ -1009,6 +1009,15 @@ const ROOTS = {
     englishNatural: 'to gather',
     type: 'verb',
   },
+  qahal: {
+    hebrew: 'קהל',
+    transliteration: 'qahal',
+    englishLiteral: 'to assemble',
+    englishNatural: 'to assemble',
+    type: 'verb',
+    description: 'to gather, to assemble, to call together; also used as noun for assembly or congregation',
+    related: ['edah'],
+  },
   maqom: {
     hebrew: 'מקום',
     transliteration: 'maqom',

@@ -21397,8 +21397,8 @@
         "1": {
           "chapterNumber": 1,
           "verses": {
-            "1": false,
-            "2": false,
+            "1": true,
+            "2": true,
             "3": false,
             "4": false,
             "5": false,
@@ -21416,7 +21416,7 @@
             "17": false,
             "18": false
           },
-          "progress": 0
+          "progress": 11.11111111111111
         },
         "2": {
           "chapterNumber": 2,
@@ -21689,7 +21689,7 @@
           "progress": 0
         }
       },
-      "progress": 0
+      "progress": 0.9009009009009009
     },
     "SONG_OF_SONGS": {
       "bookName": "Song of Songs",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.4789570137928818
+  "totalProgress": 1.4853872616789376
 }
