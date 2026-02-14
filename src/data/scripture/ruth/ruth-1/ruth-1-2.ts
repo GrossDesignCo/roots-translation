@@ -36,6 +36,9 @@ export const ruth_1_2: Verse = {
         gender: 'masculine',
         number: 'singular',
       },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'אֱֽלִימֶ֡לֶךְ',
@@ -46,6 +49,9 @@ export const ruth_1_2: Verse = {
       order: 3,
       morphology: {
         type: 'noun',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
       },
     },
     {
@@ -62,6 +68,9 @@ export const ruth_1_2: Verse = {
         number: 'singular',
         state: 'construct',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'אִשְׁתּ֨וֹ',
@@ -77,6 +86,9 @@ export const ruth_1_2: Verse = {
         number: 'singular',
         state: 'construct',
       },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'נָעֳמִ֜י',
@@ -87,6 +99,9 @@ export const ruth_1_2: Verse = {
       order: 6,
       morphology: {
         type: 'noun',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
       },
     },
     {
@@ -102,6 +117,9 @@ export const ruth_1_2: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -130,6 +148,9 @@ export const ruth_1_2: Verse = {
         number: 'plural',
         state: 'construct',
       },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'מַחְל֤וֹן',
@@ -153,7 +174,8 @@ export const ruth_1_2: Verse = {
         type: 'noun',
       },
       grammarSuffix: {
-        englishNatural: ',',
+        englishLiteral: ';',
+        englishNatural: ';',
       },
     },
     {
@@ -275,6 +297,9 @@ export const ruth_1_2: Verse = {
         number: 'plural',
         stem: 'qal',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'שָֽׁם׃',
@@ -300,10 +325,10 @@ export const ruth_1_2: Verse = {
     transliteration:
       'veShem haIsh Elimelekh veShem ishto Naomi veShem sheney-vanav Machlon veKhilyon Efratim miBeit lechem Yehudah vaYavou sedey-Moav vayihyu-sham',
     englishLiteral:
-      'and-name-of the-man God_My_King (Elimelech) and-name-of woman-his Pleasant_My (Naomi) and-name-of two-of- sons-his Sickness (Mahlon) and-Wasting (Chilion) Fruitful_Ones (Ephrathites) from-House-of Bread (Bethlehem) Praise (Judah); and-they-came fields-of- From_Father (Moab); and-they-were- there.',
+      'and-name-of the-man God_My_King (Elimelech) and-name-of woman-his Pleasant_My (Naomi) and-name-of two-of- sons-his Sickness (Mahlon) and-Wasting (Chilion); Fruitful_Ones (Ephrathites) from-House-of Bread (Bethlehem) Praise (Judah); and-they-came fields-of- From_Father (Moab); and-they-were- there.',
     englishNatural:
-      'And the name of the man God-My-King (Elimelech) and the name of his woman My-Pleasant (Naomi) and the name of the two of his sons Sickness (Mahlon) and Wasting (Chilion), Fruitful-Ones (Ephrathites) from the House of Bread (Bethlehem) Praise (Judah), and they came the fields of From-Father (Moab) and were there.',
+      'And the name of the man, God-My-King (Elimelech), and the name of his woman, My-Pleasant (Naomi), and the name of the two of his sons, Sickness (Mahlon) and Wasting (Chilion); Fruitful-Ones (Ephrathites) from the House of Bread (Bethlehem) Praise (Judah), and they came the fields of From-Father (Moab) and were there.',
     kjv: 'And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
 },
 };

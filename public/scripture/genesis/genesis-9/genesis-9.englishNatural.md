@@ -30,12 +30,12 @@ swarm in the land, and multiply in it."
 And God said to Rest (Noah), 
 and to his sons with him, saying,
 
-"And I, behold me, causing to stand, my covenant with you, 
+"And I, behold me, causing to stand-up, my covenant with you, 
 and your seed after you;
 and all the wind of the living-being which is with you;
 in the flyer, in the beast, and in all the living-being of the land with you,
 from all the going-out of the ark, to all the living-being of the land;
-and I will cause to stand my covenant with you,
+and I will cause to stand-up my covenant with you,
 and not will be cut all flesh again from the waters of the flood,
 and not will be again a flood to corrupt the land.
 

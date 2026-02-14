@@ -23,10 +23,7 @@ export const ruth_1_4: Verse = {
         number: 'plural',
         stem: 'qal',
       },
-      lineBreaksBefore: {
-        hebrew: 1,
-        english: 1,
-      },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'לָהֶ֣ם',
@@ -82,6 +79,9 @@ export const ruth_1_4: Verse = {
         number: 'singular',
         state: 'construct',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'הָֽאַחַת֙',
@@ -120,6 +120,9 @@ export const ruth_1_4: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -226,6 +229,6 @@ export const ruth_1_4: Verse = {
     englishNatural:
       'And they lifted to them women Moabite-Women, the name of the one Neck (Orpah) and the name of the second Friend (Ruth), and they sat there like ten years.',
     kjv: 'And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
 },
 };

@@ -106,6 +106,9 @@ export const genesis_1_22: Verse = {
         englishLiteral: '"',
         englishNatural: '"',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'וּרְב֗וּ',
@@ -244,6 +247,6 @@ export const genesis_1_22: Verse = {
     englishNatural:
       'And God blessed them, saying, "Be-fruitful and multiply and fill the waters in the seas, And let the flyer multiply in the land."',
     kjv: 'And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
   },
 };

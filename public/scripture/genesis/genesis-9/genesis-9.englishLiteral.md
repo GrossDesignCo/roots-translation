@@ -30,12 +30,12 @@ swarm in-land, and-multiply- in-it."
 And-said Gods to- Rest (Noah), 
 and-to- his-sons with-him, to-say,
 
-"And-I, behold-me, causing-to-stand, ↳ my-covenant with-you, 
+"And-I, behold-me, causing-to-stand_up, ↳ my-covenant with-you, 
 and-↳ your-seed after-you;
 and-↳ all- wind-of the-living_being which with-you;
 in-flyer, in-beast, and-in-all- living_being-of the-land with-you,
 from-all going-out-of the-ark, to-all living_being-of the-land;
-and-I-will-cause-to-stand 
+and-I-will-cause-to-stand_up 
 ↳, my-covenant with-you,
 and-not- it-will-be-cut all- flesh again from-waters-of the-flood,
 and-not- it-will-be again flood to-corrupt the-land.

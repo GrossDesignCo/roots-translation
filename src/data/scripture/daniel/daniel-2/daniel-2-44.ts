@@ -388,8 +388,8 @@ export const daniel_2_44: Verse = {
     {
       aramaic: 'תְּקוּם',
       transliteration: 'teqom',
-      englishLiteral: 'will-stand',
-      englishNatural: 'will stand',
+      englishLiteral: 'will-stand_up',
+      englishNatural: 'will stand-up',
       root: 'qum',
       order: 24,
       morphology: {
@@ -429,10 +429,10 @@ export const daniel_2_44: Verse = {
     transliteration:
       'uBeYomehon di malkaiya innun yeqim elah shemaya malkhu di leAlmin la titchabal uMalkhutah leAm achoran la tishtebiq veTaddiq veTasef kol-illen malkhevata veHi teqom leAlmaya',
     englishLiteral:
-      'and-in-days-their which kings-the those he-will-raise_up God-the skies-the kingdom which to-the_ages not will-be_damaged, and-kingdom-the to-people another not will-be-left, and-she-will-crush and-she-will-consume all- these kingdoms-the, and-she will-stand to-the_ages.',
+      'and-in-days-their which kings-the those he-will-raise_up God-the skies-the kingdom which to-the_ages not will-be_damaged, and-kingdom-the to-people another not will-be-left, and-she-will-crush and-she-will-consume all- these kingdoms-the, and-she will-stand_up to-the_ages.',
     englishNatural:
-      'And in their days which those kings, the God of the skies will raise-up a kingdom, which to the-ages will be-damaged not, and the kingdom to another people it will be-left not, and it will crush and consume all these, the kingdoms, and it will stand to the-ages.',
+      'And in their days which those kings, the God of the skies will raise-up a kingdom, which to the-ages will be-damaged not, and the kingdom to another people it will be-left not, and it will crush and consume all these, the kingdoms, and it will stand-up to the-ages.',
     kjv: 'And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
 },
 };

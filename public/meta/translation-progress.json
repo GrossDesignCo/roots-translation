@@ -8573,10 +8573,10 @@
             "3": true,
             "4": true,
             "5": true,
-            "6": false,
-            "7": false,
-            "8": false,
-            "9": false,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
             "10": false,
             "11": false,
             "12": false,
@@ -8591,7 +8591,7 @@
             "21": false,
             "22": false
           },
-          "progress": 22.727272727272727
+          "progress": 40.909090909090914
         },
         "2": {
           "chapterNumber": 2,
@@ -8675,7 +8675,7 @@
           "progress": 0
         }
       },
-      "progress": 5.88235294117647
+      "progress": 10.588235294117647
     },
     "FIRST_SAMUEL": {
       "bookName": "1 Samuel",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.4660965180207697
+  "totalProgress": 1.4789570137928818
 }

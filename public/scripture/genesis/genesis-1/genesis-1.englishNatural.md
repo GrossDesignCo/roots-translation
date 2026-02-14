@@ -50,7 +50,8 @@ A third day.
 
 And God said, "Let there be light-sources in the hammering-out, the skies, to separate between the day, and between the night, 
 And they will be for signs, and for appointed-times, and for days, and years.
-And they will be for light-sources in the hammering-out, the skies, to shine-light over the land.
+And they will be for light-sources in the hammering-out, the skies, to shine-light over the land. 
+And it was so.
 
 And God made two, the light-sources, the greats, 
 the light-source the great, for the ruling of the day, 
@@ -74,7 +75,8 @@ And all throat the living the crawling which swarmed the waters, to their kind,
 And all winged flyer to its kind, 
 And God saw, that it was good.
 
-And God blessed them, saying, "Be-fruitful and multiply and fill the waters in the seas, 
+And God blessed them, saying, 
+"Be-fruitful and multiply and fill the waters in the seas, 
 And let the flyer multiply in the land."
 
 And evening was, 
@@ -89,7 +91,7 @@ And all crawler the earth, to its kind,
 And God saw, that it was good.
 
 And God said, "Let us make Earth (Adam), in our image, as our likeness, 
-And let them subjugate, among fish of the sea, and among flyer of the skies, and among the beast, and among all the land, and among all the crawler, the crawling, over the land."
+And let them subjugate, in fish of the sea, and in flyer of the skies, and in the beast, and in all the land, and in all the crawler, the crawling, over the land."
 
 And God created the Earth (Adam), in his image,
 in the image of God, created him, 
@@ -97,7 +99,7 @@ male and female, created them.
 
 And God blessed them, 
 And God said to them, "Be-fruitful and multiply and fill the land, 
-And conquer and subjugate among fish of the sea, and among flyer of the skies, and among all the crawling living thing over the land."
+And conquer and subjugate in fish of the sea, and in flyer of the skies, and in all the crawling living thing over the land."
 
 And God said, "Behold, I give to you all herb seeding seed, which over the face of all the land, 
 And all the tree which in it is fruit of tree seeding seed, to you it shall be for food.

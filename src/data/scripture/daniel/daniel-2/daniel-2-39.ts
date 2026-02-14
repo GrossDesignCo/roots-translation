@@ -24,8 +24,8 @@ export const daniel_2_39: Verse = {
     {
       aramaic: 'תְּקוּם',
       transliteration: 'tequm',
-      englishLiteral: 'will-arise',
-      englishNatural: 'will arise',
+      englishLiteral: 'will-stand_up',
+      englishNatural: 'will stand-up',
       root: 'qum',
       order: 2,
       morphology: {
@@ -241,10 +241,10 @@ export const daniel_2_39: Verse = {
     transliteration:
       'uVathrakh tequm malkhu ochori ara minnakh uMalkhu telitaah ochori di nechasha di tishlat beKhol ara',
     englishLiteral:
-      'and-after-you will-arise kingdom another lower from-you, and-kingdom third another which bronze-the, which will-rule in-all land-the.',
+      'and-after-you will-stand_up kingdom another lower from-you, and-kingdom third another which bronze-the, which will-rule in-all land-the.',
     englishNatural:
-      'And after you will arise another kingdom, lower than you, and another third kingdom of the bronze, which will rule over all the land.',
+      'And after you will stand-up another kingdom, lower than you, and another third kingdom of the bronze, which will rule over all the land.',
     kjv: 'And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
 },
 };

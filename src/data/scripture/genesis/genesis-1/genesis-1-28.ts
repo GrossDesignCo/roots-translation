@@ -254,7 +254,7 @@ export const genesis_1_28: Verse = {
       hebrew: 'בִּדְגַ֤ת',
       transliteration: 'biDgat',
       englishLiteral: 'in-fish-of',
-      englishNatural: 'among fish of',
+      englishNatural: 'in fish of',
       root: 'dagah',
       prefixes: ['bi'],
       order: 14,
@@ -286,7 +286,7 @@ export const genesis_1_28: Verse = {
       hebrew: 'וּבְע֣וֹף',
       transliteration: 'uVeOf',
       englishLiteral: 'and-in-flyer-of',
-      englishNatural: 'and among flyer of',
+      englishNatural: 'and in flyer of',
       root: 'oph',
       prefixes: ['u', 'be'],
       order: 16,
@@ -318,7 +318,7 @@ export const genesis_1_28: Verse = {
       hebrew: 'וּבְכָל־',
       transliteration: 'uVeKol-',
       englishLiteral: 'and-in-all',
-      englishNatural: 'and among all',
+      englishNatural: 'and in all',
       root: 'kol',
       prefixes: ['u', 'be'],
       order: 18,
@@ -400,8 +400,8 @@ export const genesis_1_28: Verse = {
     englishLiteral:
       'And-blessed them Gods, And-said to-them Gods, "Be_fruitful and-multiply and-fill ↳ the-land, And-conquer and-subjugate in-fish-of the-sea, and-in-flyer-of the-skies, and-in-all living-being the-crawling over the-land."',
     englishNatural:
-      'And God blessed them, And God said to them, "Be-fruitful and multiply and fill the land, And conquer and subjugate among fish of the sea, and among flyer of the skies, and among all the crawling living thing over the land."',
+      'And God blessed them, And God said to them, "Be-fruitful and multiply and fill the land, And conquer and subjugate in fish of the sea, and in flyer of the skies, and in all the crawling living thing over the land."',
     kjv: 'And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
   },
 };

@@ -10,8 +10,8 @@ export const genesis_9_11: Verse = {
     {
       hebrew: 'וַהֲקִמֹתִי',
       transliteration: 'vaHaqimoti',
-      englishLiteral: 'and-I-will-cause-to-stand',
-      englishNatural: 'and I will cause to stand',
+      englishLiteral: 'and-I-will-cause-to-stand_up',
+      englishNatural: 'and I will cause to stand-up',
       root: 'qum',
       prefixes: ['va'],
       order: 1,
@@ -264,10 +264,10 @@ export const genesis_9_11: Verse = {
     transliteration:
       'vaHaqimoti et-beriti itkhem veLo-yikaret kol-basar od mimei haMabbul veLo-yihyeh od mabbul leshachet haAretz',
     englishLiteral:
-      'and-I-will-cause-to-stand ↳, my-covenant with-you, and-not- it-will-be-cut all- flesh again from-waters-of the-flood, and-not- it-will-be again flood to-corrupt the-land.',
+      'and-I-will-cause-to-stand_up ↳, my-covenant with-you, and-not- it-will-be-cut all- flesh again from-waters-of the-flood, and-not- it-will-be again flood to-corrupt the-land.',
     englishNatural:
-      'and I will cause to stand my covenant with you, and not will be cut all flesh again from the waters of the flood, and not will be again a flood to corrupt the land.',
+      'and I will cause to stand-up my covenant with you, and not will be cut all flesh again from the waters of the flood, and not will be again a flood to corrupt the land.',
     kjv: 'And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of the flood; neither shall there any more be a flood to destroy the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
 },
 };

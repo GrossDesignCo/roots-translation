@@ -219,8 +219,8 @@ export const daniel_2_31: Verse = {
     {
       aramaic: 'קָאֵם',
       transliteration: 'qaem',
-      englishLiteral: 'standing',
-      englishNatural: 'standing',
+      englishLiteral: 'standing_up',
+      englishNatural: 'standing-up',
       root: 'qum',
       order: 14,
       morphology: {
@@ -287,10 +287,10 @@ export const daniel_2_31: Verse = {
     transliteration:
       'antah malka chazeh havayta vaAlu tselem chad saggi tsalma dikken rav veZiveh yattir qaem leQovlakh veReveh dechil',
     englishLiteral:
-      'you the-king seeing you-were and-behold image one great, image-the that great and-brightness-its surpassing, standing before-you, and-appearance-its fearsome.',
+      'you the-king seeing you-were and-behold image one great, image-the that great and-brightness-its surpassing, standing_up before-you, and-appearance-its fearsome.',
     englishNatural:
-      'You the king, were seeing, and behold, one great image, the image that was great, and its brightness surpassing, standing before you, and its appearance, fearsome.',
+      'You the king, were seeing, and behold, one great image, the image that was great, and its brightness surpassing, standing-up before you, and its appearance, fearsome.',
     kjv: 'Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof was terrible.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
   },
 };

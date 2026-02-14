@@ -3,7 +3,7 @@ you king-the thoughts-your over bed-your they-came-up, what which to-be after th
 
 and-I not in-wisdom which there-is-in-me from all living-the, mystery-the this he-revealed to-me, but on-word-of which interpretation-the to-king-the they-will-make-known, and-thoughts-of heart-your you-will-know.
 
-you the-king seeing you-were and-behold image one great, image-the that great and-brightness-its surpassing, standing before-you, and-appearance-its fearsome.
+you the-king seeing you-were and-behold image one great, image-the that great and-brightness-its surpassing, standing_up before-you, and-appearance-its fearsome.
 
 he image-the head-its which gold good, breast-its and-arms-its which silver, belly-its and-thighs-its which bronze legs-its which iron, feet-its from-them which iron and-from-them which clay.
 
@@ -20,7 +20,7 @@ you king-the king-of kings-the which God-of skies-the kingdom-the power-the and-
 
 and-in-all which dwelling sons-of mortal_man-the beasts-of field-the and-birds-of skies-the he-gave in-hand-your and-caused-you-to-rule in-all-them, you he head-the which gold-the.
 
-and-after-you will-arise kingdom another lower from-you, and-kingdom third another which bronze-the, which will-rule in-all land-the.
+and-after-you will-stand_up kingdom another lower from-you, and-kingdom third another which bronze-the, which will-rule in-all land-the.
 
 and-kingdom fourth will-be strong-the like-iron-the, all because which iron-the crushing and-shatters all, and-like-iron-the which breaking all it-will-crush and-will-break.
 
@@ -30,7 +30,7 @@ and-toes feet-the from-them iron and-from-them clay, from- end-of kingdom-the wi
 
 and-which you-saw iron-the mixed in-clay mud-the, mixing-themselves to-be-them in-seed mortal_man-the, and-not- to-be-them adhering this with- this. Behold just_as iron-the not mix-itself with- clay-the.
 
-and-in-days-their which kings-the those he-will-raise_up God-the skies-the kingdom which to-the_ages not will-be_damaged, and-kingdom-the to-people another not will-be-left, and-she-will-crush and-she-will-consume all- these kingdoms-the, and-she will-stand to-the_ages.
+and-in-days-their which kings-the those he-will-raise_up God-the skies-the kingdom which to-the_ages not will-be_damaged, and-kingdom-the to-people another not will-be-left, and-she-will-crush and-she-will-consume all- these kingdoms-the, and-she will-stand_up to-the_ages.
 
 all- because which you-saw which from- mountain-the was-cut-out stone which not in-hands, and-crushed iron-the bronze-the clay-the silver-the and-gold-the, God-the great he-made_known to-king-the what which to-be after this, and-certain dream-the, and-trustworthy interpretation-its."
 

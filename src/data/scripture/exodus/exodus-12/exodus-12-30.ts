@@ -10,8 +10,8 @@ export const exodus_12_30: Verse = {
     {
       hebrew: 'וַיָּ֨קָם',
       transliteration: 'vaYaqam',
-      englishLiteral: 'And-arose',
-      englishNatural: 'arose',
+      englishLiteral: 'And-stood_up',
+      englishNatural: 'stood-up',
       root: 'qum',
       prefixes: ['va'],
       order: {
@@ -298,10 +298,10 @@ export const exodus_12_30: Verse = {
     transliteration:
       'vaYaqam Paroh laylah hu veKhol-avadav veKhol-Mitzrayim vatTehi tzeaqah gedolah beMitzrayim ki-eyn bayit asher eyn-sham met',
     englishLiteral:
-      'And-arose Pharaoh night he and-all- servants-his and-all- Double_Narrows (Egypt); and-was outcry great in-Double_Narrows (Egypt); that- there-is-not house which there-is-not- there dead.',
+      'And-stood_up Pharaoh night he and-all- servants-his and-all- Double_Narrows (Egypt); and-was outcry great in-Double_Narrows (Egypt); that- there-is-not house which there-is-not- there dead.',
     englishNatural:
-      'And Pharaoh arose, night, he and all his servants and all Double-Narrows (Egypt), and a great outcry was in Double-Narrows (Egypt), that there was not a house which there was not there a dead one.',
+      'And Pharaoh stood-up, night, he and all his servants and all Double-Narrows (Egypt), and a great outcry was in Double-Narrows (Egypt), that there was not a house which there was not there a dead one.',
     kjv: 'And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
 },
 };

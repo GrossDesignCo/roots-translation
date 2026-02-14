@@ -223,6 +223,9 @@ export const ruth_1_1: Verse = {
         tense: 'infinitive_construct',
         stem: 'qal',
       },
+      lineBreaksBefore:{
+        english: 1,
+      },
     },
     {
       hebrew: 'בִּשְׂדֵ֣י',
@@ -251,7 +254,7 @@ export const ruth_1_1: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ';',
-        englishNatural: ',',
+        englishNatural: ';',
       },
     },
     {
@@ -263,6 +266,9 @@ export const ruth_1_1: Verse = {
       order: 16,
       morphology: {
         type: 'pronoun',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -324,8 +330,8 @@ export const ruth_1_1: Verse = {
     englishLiteral:
       'And-was in-days-of justice-doing-of the-Just_Ones and-was famine in-the-land; and-walked man from-House-of Bread (Bethlehem) Praise (Judah) to-sojourn in-fields-of From_Father (Moab); he and-woman-his and-two-of sons-his.',
     englishNatural:
-      'And it was in the days of the justice-doing of the Just-Ones, and famine was in the land; and a man walked from the House of Bread (Bethlehem) Praise (Judah), to sojourn in the fields of From-Father (Moab), he and his woman and the two of his sons.',
+      'And it was in the days of the justice-doing of the Just-Ones, and famine was in the land; and a man walked from the House of Bread (Bethlehem) Praise (Judah), to sojourn in the fields of From-Father (Moab); he and his woman and the two of his sons.',
     kjv: 'Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
 },
 };

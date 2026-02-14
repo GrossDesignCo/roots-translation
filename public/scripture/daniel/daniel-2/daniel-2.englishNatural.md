@@ -4,7 +4,7 @@ You the king, your thoughts over your bed came up, what which will be after this
 And I, not in wisdom which is in me from all the living, has he revealed this, the mystery to me, 
 but on the word of which the interpretation might be made known to the king, and the thoughts of your heart you might know.
 
-You the king, were seeing, and behold, one great image, the image that was great, and its brightness surpassing, standing before you, and its appearance, fearsome.
+You the king, were seeing, and behold, one great image, the image that was great, and its brightness surpassing, standing-up before you, and its appearance, fearsome.
 
 He, the image, its head of good gold, its breast and its arms of silver, its belly and its thighs of bronze, its legs of iron, its feet from them of iron and from them of clay.
 
@@ -28,7 +28,7 @@ and the birds of the skies, he has given into your hand,
 and has caused you to rule in them all, 
 you are he, the head of the gold.
 
-And after you will arise another kingdom, lower than you, and another third kingdom of the bronze, which will rule over all the land.
+And after you will stand-up another kingdom, lower than you, and another third kingdom of the bronze, which will rule over all the land.
 
 And a fourth kingdom will be the strong, like the iron, all because which the iron crushing and shatters all, 
 and like the iron which breaking all, it will crush and will break.
@@ -39,7 +39,7 @@ And the toes of the feet, from them iron and from them clay, from the end of the
 
 And which you saw the iron mixed in clay, the mud, themselves mixing to be in the seed of the mortal-man, and they will be not adhering this with this. Behold, just as the iron mixes itself not with the clay.
 
-And in their days which those kings, the God of the skies will raise-up a kingdom, which to the-ages will be-damaged not, and the kingdom to another people it will be-left not, and it will crush and consume all these, the kingdoms, and it will stand to the-ages.
+And in their days which those kings, the God of the skies will raise-up a kingdom, which to the-ages will be-damaged not, and the kingdom to another people it will be-left not, and it will crush and consume all these, the kingdoms, and it will stand-up to the-ages.
 
 All because which you saw, that from the mountain was cut out a stone which was not in hands, and crushed the iron, the bronze, the clay, the silver, and the gold, the great God has made-known to the king what which will be after this, and certain is the dream, and trustworthy is its interpretation."
 

@@ -51,7 +51,8 @@ yom shlishi
 vaYomer Elohim yehi meOrot biRqia haShamayim leHavdil beyn haYom uBeyn haLaylah 
 veHayu leOtot uLeMoedim uLeYamim veShanim
 
-veHayu liMeOrot biRqia haShamayim leHair al-haAretz
+veHayu liMeOrot biRqia haShamayim leHair al-haAretz 
+vaVayhi-ken
 
 vaYaas Elohim et-shney haMeOrot haGdolim 
 et-haMaor haGadol leMemShelet haYom 

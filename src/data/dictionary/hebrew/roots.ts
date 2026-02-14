@@ -8132,6 +8132,32 @@ const ROOTS = {
     type: 'numeral',
     description: 'ten, the number ten',
   },
+  // Ruth 1:6 additions
+  kallah: {
+    hebrew: 'כלה',
+    transliteration: 'kallah',
+    englishLiteral: 'daughter_in_law',
+    englishNatural: 'daughter-in-law',
+    type: 'noun',
+    description: 'daughter-in-law, bride',
+  },
+  // Ruth 1:9 additions
+  nashaq: {
+    hebrew: 'נשק',
+    transliteration: 'nashaq',
+    englishLiteral: 'to kiss',
+    englishNatural: 'to kiss',
+    type: 'verb',
+    description: 'to kiss, to touch with the lips as a sign of affection or greeting',
+  },
+  bakah: {
+    hebrew: 'בכה',
+    transliteration: 'bakah',
+    englishLiteral: 'to weep',
+    englishNatural: 'to weep',
+    type: 'verb',
+    description: 'to weep, to cry, to shed tears',
+  },
 } as const;
 
 export type HebrewRootKey = keyof typeof ROOTS;

@@ -50,8 +50,8 @@ export const genesis_9_9: Verse = {
     {
       hebrew: 'מֵקִים',
       transliteration: 'meqim',
-      englishLiteral: 'causing-to-stand',
-      englishNatural: 'causing to stand',
+      englishLiteral: 'causing-to-stand_up',
+      englishNatural: 'causing to stand-up',
       root: 'qum',
       order: 3,
       morphology: {
@@ -161,10 +161,10 @@ export const genesis_9_9: Verse = {
     transliteration:
       'vaAni hineni meqim et-beriti itkhem veEt-zarkhem acharekhem',
     englishLiteral:
-      '"And-I, behold-me, causing-to-stand, ↳ my-covenant with-you, and-↳ your-seed after-you;',
+      '"And-I, behold-me, causing-to-stand_up, ↳ my-covenant with-you, and-↳ your-seed after-you;',
     englishNatural:
-      '"And I, behold me, causing to stand, my covenant with you, and your seed after you;',
+      '"And I, behold me, causing to stand-up, my covenant with you, and your seed after you;',
     kjv: 'And I, behold, I establish my covenant with you, and with your seed after you;',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
 },
 };

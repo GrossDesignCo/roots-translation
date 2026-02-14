@@ -1,0 +1,312 @@
+import { Verse } from '@/types';
+
+export const ruth_1_6: Verse = {
+  meta: {
+    book: 'Ruth',
+    chapter: 1,
+    verse: 6,
+  },
+  words: [
+    {
+      hebrew: 'וַתָּ֤קָם',
+      transliteration: 'vatTaqam',
+      englishLiteral: 'And-stood_up',
+      englishNatural: 'stood-up',
+      root: 'qum',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 3,
+      },
+      morphology: {
+        type: 'verb',
+        tense: 'imperfect',
+        person: '3rd',
+        gender: 'feminine',
+        number: 'singular',
+        stem: 'qal',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+    },
+    {
+      hebrew: 'הִיא֙',
+      transliteration: 'hi',
+      englishLiteral: 'she',
+      englishNatural: 'And she',
+      root: 'hi',
+      order: {
+        hebrew: 2,
+        english: 1,
+      },
+      morphology: {
+        type: 'pronoun',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'וְכַלֹּתֶ֔יהָ',
+      transliteration: 'veKhalloteha',
+      englishLiteral: 'and-daughters_in_law-her',
+      englishNatural: 'and her daughters-in-law',
+      root: 'kallah',
+      prefixes: ['ve'],
+      suffixes: ['ha_feminine'],
+      order: {
+        hebrew: 3,
+        english: 2,
+      },
+      morphology: {
+        type: 'noun',
+        gender: 'feminine',
+        number: 'plural',
+        state: 'construct',
+      },
+    },
+    {
+      hebrew: 'וַתָּ֖שָׁב',
+      transliteration: 'vatTashav',
+      englishLiteral: 'and-returned',
+      englishNatural: 'and returned',
+      root: 'shuv',
+      prefixes: ['va'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        type: 'verb',
+        tense: 'imperfect',
+        person: '3rd',
+        gender: 'feminine',
+        number: 'singular',
+        stem: 'qal',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'מִשְּׂדֵ֣י',
+      transliteration: 'miSdey',
+      englishLiteral: 'from-fields-of',
+      englishNatural: 'from the fields of',
+      root: 'sadeh',
+      prefixes: ['mi'],
+      order: 5,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+      },
+    },
+    {
+      hebrew: 'מוֹאָ֑ב',
+      transliteration: 'Moav',
+      englishLiteral: 'From_Father (Moab)',
+      englishNatural: 'From-Father (Moab)',
+      root: 'moav',
+      order: 6,
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'כִּ֤י',
+      transliteration: 'ki',
+      englishLiteral: 'that',
+      englishNatural: 'that',
+      root: 'ki',
+      order: 7,
+      morphology: {
+        type: 'conjunction',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'שָֽׁמְעָה֙',
+      transliteration: 'shamah',
+      englishLiteral: 'she-had-heard',
+      englishNatural: 'she had heard',
+      root: 'shama',
+      order: 8,
+      morphology: {
+        type: 'verb',
+        tense: 'perfect',
+        person: '3rd',
+        gender: 'feminine',
+        number: 'singular',
+        stem: 'qal',
+      },
+    },
+    {
+      hebrew: 'בִּשְׂדֵ֣ה',
+      transliteration: 'biSdeh',
+      englishLiteral: 'in-field-of',
+      englishNatural: 'in the field of',
+      root: 'sadeh',
+      prefixes: ['be'],
+      order: 9,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+      },
+    },
+    {
+      hebrew: 'מוֹאָ֔ב',
+      transliteration: 'Moav',
+      englishLiteral: 'From_Father (Moab)',
+      englishNatural: 'From-Father (Moab)',
+      root: 'moav',
+      order: 10,
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'כִּֽי־',
+      transliteration: 'ki-',
+      englishLiteral: 'that-',
+      englishNatural: 'that',
+      root: 'ki',
+      order: 11,
+      morphology: {
+        type: 'conjunction',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'פָקַ֤ד',
+      transliteration: 'faqad',
+      englishLiteral: 'had-visited',
+      englishNatural: 'had visited',
+      root: 'paqad',
+      order: {
+        hebrew: 12,
+        english: 13,
+      },
+      morphology: {
+        type: 'verb',
+        tense: 'perfect',
+        person: '3rd',
+        gender: 'masculine',
+        number: 'singular',
+        stem: 'qal',
+      },
+    },
+    {
+      hebrew: 'יְהוָה֙',
+      transliteration: 'YHWH',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
+      root: 'yhwh',
+      order: {
+        hebrew: 13,
+        english: 12,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: 14,
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'עַמּ֔וֹ',
+      transliteration: 'ammo',
+      englishLiteral: 'people-his',
+      englishNatural: 'his people',
+      root: 'am',
+      suffixes: ['o'],
+      order: 15,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+      },
+    },
+    {
+      hebrew: 'לָתֵ֥ת',
+      transliteration: 'laTet',
+      englishLiteral: 'to-give',
+      englishNatural: 'to give',
+      root: 'natan',
+      prefixes: ['le'],
+      order: 16,
+      morphology: {
+        type: 'verb',
+        tense: 'infinitive_construct',
+        stem: 'qal',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'לָהֶ֖ם',
+      transliteration: 'lahem',
+      englishLiteral: 'to-them',
+      englishNatural: 'to them',
+      root: 'le',
+      suffixes: ['hem'],
+      order: 17,
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'לָֽחֶם׃',
+      transliteration: 'lechem',
+      englishLiteral: 'bread',
+      englishNatural: 'bread',
+      root: 'lechem',
+      order: 18,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'singular',
+      },
+      grammarSuffix: {
+        hebrew: '׃',
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃',
+    transliteration:
+      'vatTaqam hi veKhalloteha vatTashav miSdey Moav ki shamah biSdeh Moav ki-faqad YHWH et-ammo laTet lahem lechem',
+    englishLiteral:
+      'And-stood_up she and-daughters_in_law-her and-returned from-fields-of From_Father (Moab); that she-had-heard in-field-of From_Father (Moab) that- had-visited He_Who_Is (YHWH) ↳ people-his to-give to-them bread.',
+    englishNatural:
+      'And she and her daughters-in-law stood-up and returned from the fields of From-Father (Moab), that she had heard in the field of From-Father (Moab) that He-Who-Is (YHWH) had visited his people to give to them bread.',
+    kjv: 'Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the LORD had visited his people in giving them bread.',
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
+},
+};

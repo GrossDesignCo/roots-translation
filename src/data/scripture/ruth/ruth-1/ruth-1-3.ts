@@ -103,9 +103,6 @@ export const ruth_1_3: Verse = {
         number: 'singular',
         stem: 'niphal',
       },
-      lineBreaksBefore: {
-        english: 1,
-      },
       grammarSuffix: {
         englishNatural: ',',
       },
@@ -125,6 +122,9 @@ export const ruth_1_3: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ';',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -171,6 +171,6 @@ export const ruth_1_3: Verse = {
     englishNatural:
       'And My-God-King (Elimelech) the man of My-Pleasant (Naomi) died, and she was left, and the two of her sons.',
     kjv: 'And Elimelech Naomis husband died; and she was left, and her two sons.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
 },
 };

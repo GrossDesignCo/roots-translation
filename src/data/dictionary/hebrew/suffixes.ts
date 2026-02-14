@@ -344,6 +344,13 @@ const SUFFIXES = {
     englishNatural: 'their',
     function: '3rd person feminine plural possessive',
   },
+  an: {
+    hebrew: 'ן',
+    transliteration: 'an',
+    englishLiteral: 'their',
+    englishNatural: 'their',
+    function: '3rd person feminine plural possessive (alternate form)',
+  },
   kh: {
     hebrew: 'ךְ',
     transliteration: 'kh',
