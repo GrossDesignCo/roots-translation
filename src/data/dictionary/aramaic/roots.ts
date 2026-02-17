@@ -598,10 +598,10 @@ const ROOTS = {
   ara: {
     aramaic: 'אֲרַע',
     transliteration: 'ara',
-    englishLiteral: 'earth',
-    englishNatural: 'earth',
+    englishLiteral: 'land',
+    englishNatural: 'land',
     type: 'noun',
-    description: 'earth, land, ground (Aramaic)',
+    description: 'land, the whole earth, ground (Aramaic)',
     cognateHebrew: ['eretz'] as const,
   },
   // Daniel 2:36 additions
@@ -644,8 +644,8 @@ const ROOTS = {
   shemay: {
     aramaic: 'שְׁמַי',
     transliteration: 'shemay',
-    englishLiteral: 'heaven',
-    englishNatural: 'heaven',
+    englishLiteral: 'sky',
+    englishNatural: 'sky',
     type: 'noun',
     description: 'heaven, sky (Aramaic, always plural in form)',
     cognateHebrew: ['shamayim'] as const,

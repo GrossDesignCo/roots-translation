@@ -73,14 +73,14 @@ export const ecclesiastes_1_2: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
-        englishNatural: ',"',
+        englishNatural: ',',
       },
     },
     {
       hebrew: 'הֲבֵ֥ל',
       transliteration: 'havel',
       englishLiteral: 'vapor-of',
-      englishNatural: 'vapor of',
+      englishNatural: 'Vapor of',
       root: 'hevel',
       order: 5,
       morphology: {
@@ -90,6 +90,9 @@ export const ecclesiastes_1_2: Verse = {
         state: 'construct',
       },
       lineBreaksBefore: 1,
+      grammarPrefix: {
+        englishNatural: '"',
+      },
     },
     {
       hebrew: 'הֲבָלִ֖ים',
@@ -148,8 +151,8 @@ export const ecclesiastes_1_2: Verse = {
     hebrew: 'הֲבֵ֤ל הֲבָלִים֙ אָמַ֣ר קֹהֶ֔לֶת הֲבֵ֥ל הֲבָלִ֖ים הַכֹּ֥ל הָֽבֶל׃',
     transliteration: 'havel havalim amar qohelet havel havalim haKol havel',
     englishLiteral: 'Vapor-of vapors, said Assembler, vapor-of vapors; the-all vapor.',
-    englishNatural: '"Vapor of vapors," said Assembler, "vapor of vapors; all is vapor."',
+    englishNatural: '"Vapor of vapors," said Assembler, "Vapor of vapors; all is vapor."',
     kjv: 'Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-17' },
   },
 };

@@ -19,7 +19,7 @@ that my eyes have seen the King, He-Who-Is (YHWH) of Hosts."
 
 
 And flew to me one from the incinerating-ones 
-and in his hand a live-coal he had taken with tongs from upon the altar.
+and in his hand a live-coal he had taken with tongs from over the altar.
 
 And he touched it to my mouth,
 and he said, "Behold, this has touched over your lips; 

@@ -5,12 +5,20 @@
   "englishLiteral": "ten",
   "englishNatural": "ten",
   "type": "numeral",
-  "description": "ten, decade",
+  "description": "ten, decade (Hebrew and Aramaic)",
+  "related": [
+    "eser"
+  ],
   "wordIndexes": {
     "daniel": {
       "1": {
         "20": [
           9
+        ]
+      },
+      "7": {
+        "7": [
+          30
         ]
       }
     },

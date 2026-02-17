@@ -76,7 +76,7 @@ export const daniel_2_39: Verse = {
       transliteration: 'ara',
       englishLiteral: 'lower',
       englishNatural: 'lower',
-      root: 'ara',
+      root: 'ara_lower',
       order: 5,
       morphology: {
         type: 'adjective',
@@ -245,6 +245,6 @@ export const daniel_2_39: Verse = {
     englishNatural:
       'And after you will stand-up another kingdom, lower than you, and another third kingdom of the bronze, which will rule over all the land.',
     kjv: 'And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-17' },
 },
 };

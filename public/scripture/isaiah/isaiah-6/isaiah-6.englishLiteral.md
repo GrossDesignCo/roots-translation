@@ -19,7 +19,7 @@ that ↳ the-king, He_Who_Is (YHWH) of-Hosts have-seen my-eyes."
 
 
 And-flew to-me one from the-incinerating_ones 
-and-in-his-hand live_coal with-tongs he-took from-upon the-altar.
+and-in-his-hand live_coal with-tongs he-took from-over the-altar.
 
 And-he-touched to- my-mouth,
 and-he-said, "Behold, has-touched this over- your-lips; 
