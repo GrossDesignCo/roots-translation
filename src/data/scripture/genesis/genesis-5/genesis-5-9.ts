@@ -35,7 +35,7 @@ export const genesis_5_9: Verse = {
       transliteration: 'Enosh',
       englishLiteral: 'Mortal_Man (Enosh)',
       englishNatural: 'And Mortal-Man (Enosh)',
-      root: 'Enosh',
+      root: 'enosh',
       order: {
         hebrew: 2,
         english: 1,
@@ -135,6 +135,6 @@ export const genesis_5_9: Verse = {
     englishNatural:
       'And Mortal-Man (Enosh) lived ninety years, and birthed Nest (Cainan).',
     kjv: 'And Enos lived ninety years, and begat Cainan:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
 },
 };

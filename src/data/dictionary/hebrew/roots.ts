@@ -4047,23 +4047,14 @@ const ROOTS = {
     description: 'still, yet, again, more, further',
   },
   // Genesis 4:26 additions
-  Enosh: {
-    hebrew: 'אֱנוֹשׁ',
-    transliteration: 'Enosh',
-    englishLiteral: 'Mortal (Enosh)',
-    englishNatural: 'Mortal (Enosh)',
-    type: 'noun',
-    description: 'proper name, Enosh, meaning "mortal" or "frail humanity"',
-    related: ['enosh'],
-  },
   enosh: {
     hebrew: 'אֱנוֹשׁ',
-    transliteration: 'enosh',
-    englishLiteral: 'mortal',
-    englishNatural: 'mortal',
+    transliteration: 'Enosh',
+    englishLiteral: 'Mortal_Man (Enosh)',
+    englishNatural: 'Mortal-Man (Enosh)',
     type: 'noun',
-    description: 'mortal man, frail humanity, mankind in weakness',
-    related: ['adam', 'ish', 'anash_aramaic'],
+    description: 'proper name, Enosh, meaning "mortal" or "frail humanity", eventually the aramaic word for humanity (Enash)',
+    related: ['adam', 'ish'],
   },
   chalal: {
     hebrew: 'חָלַל',
@@ -4845,7 +4836,7 @@ const ROOTS = {
     englishLiteral: 'cloud',
     englishNatural: 'cloud',
     type: 'noun',
-    description: 'cloud, thick cloud, divine presence cloud',
+    description: 'cloud, thick cloud, divine presence cloud (Hebrew and Aramaic)',
   },
   yatzav: {
     hebrew: 'יצב',
@@ -8636,15 +8627,6 @@ const ROOTS = {
     englishNatural: 'to uproot',
     type: 'verb',
     description: 'to uproot, to pluck up by the roots (Aramaic)',
-  },
-  anash_aramaic: {
-    hebrew: 'אנש',
-    transliteration: 'anash',
-    englishLiteral: 'man',
-    englishNatural: 'man',
-    type: 'noun',
-    description: 'man, human being, mortal (Aramaic)',
-    related: ['enosh', 'adam', 'ish'],
   },
   malal: {
     hebrew: 'מלל',

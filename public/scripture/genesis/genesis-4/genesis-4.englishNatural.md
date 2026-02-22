@@ -91,4 +91,4 @@ and Powerful (Lamech) seventy and seven."
 
 And Earthling (Adam) knew his woman again; and she bore a son, and called-out his name "Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him."
 
-And to Appointed (Seth) also he was born a son; and he called-out his name Mortal (Enosh); then it began, to call-out in the name of He-Who-Is (YHWH).
+And to Appointed (Seth) also he was born a son; and he called-out his name Mortal-Man (Enosh); then it began, to call-out in the name of He-Who-Is (YHWH).

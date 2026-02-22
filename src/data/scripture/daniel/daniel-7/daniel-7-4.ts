@@ -275,8 +275,8 @@ export const daniel_7_4: Verse = {
     {
       aramaic: 'כֶּאֱנָ֣שׁ',
       transliteration: 'keEnash',
-      englishLiteral: 'as-mortal_man',
-      englishNatural: 'as a mortal-man',
+      englishLiteral: 'as-Mortal_Man (Enash)',
+      englishNatural: 'as a Mortal-Man (Enash)',
       root: 'enosh',
       prefixes: ['ke'],
       order: 18,
@@ -324,8 +324,8 @@ export const daniel_7_4: Verse = {
     {
       aramaic: 'אֱנָ֖שׁ',
       transliteration: 'enash',
-      englishLiteral: 'mortal_man',
-      englishNatural: 'of a mortal-man',
+      englishLiteral: 'Mortal_Man (Enash)',
+      englishNatural: 'of a Mortal-Man (Enash)',
       root: 'enosh',
       order: 21,
       morphology: {
@@ -371,9 +371,9 @@ export const daniel_7_4: Verse = {
   expectedTranslations: {
     aramaic: 'קַדְמָיְתָ֣א כְאַרְיֵ֔ה וְגַפִּ֥ין דִּֽי־נְשַׁ֖ר לַ֑הּ חָזֵ֣ה הֲוֵ֡ית עַד֩ דִּי־מְּרִ֨יטוּ גַפַּ֜יהּ וּנְטִ֣ילַת מִן־אַרְעָ֗א וְעַל־רַגְלַ֙יִן֙ כֶּאֱנָ֣שׁ הֳקִימַ֔ת וּלְבַ֥ב אֱנָ֖שׁ יְהִ֥יב לַֽהּ׃',
     transliteration: 'qadmayeta keAryeh veGappin di-neshar lah chazeh haveit ad di-meritu gappayh uNetilat min-ara veAl-raglayyin keEnash hoqimat uLevav enash yehiv lah',
-    englishLiteral: 'The-first as-lion, and-wings of- eagle to-her. Looking I-was until that- were-plucked wings-its, and-lifted-up from- the-land, and-on- feet as-mortal_man was-caused-to-stand, and-heart mortal_man was-given to-her.',
-    englishNatural: 'The first as a lion, and wings of an eagle to it. I was looking until that its wings were plucked; and it was lifted-up from the land, and on feet as a mortal-man it was caused to stand, and a heart of a mortal-man was given to it.',
+    englishLiteral: 'The-first as-lion, and-wings of- eagle to-her. Looking I-was until that- were-plucked wings-its, and-lifted-up from- the-land, and-on- feet as-Mortal_Man (Enash) was-caused-to-stand, and-heart Mortal_Man (Enash) was-given to-her.',
+    englishNatural: 'The first as a lion, and wings of an eagle to it. I was looking until that its wings were plucked; and it was lifted-up from the land, and on feet as a Mortal-Man (Enash) it was caused to stand, and a heart of a Mortal-Man (Enash) was given to it.',
     kjv: 'The first was like a lion, and had eagles wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a mans heart was given to it.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-17' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

@@ -8,8 +8,8 @@ different this from- this.
 
 The-first as-lion, and-wings of- eagle to-her. 
 Looking I-was until that- were-plucked wings-its, 
-and-lifted-up from- the-land, and-on- feet as-mortal_man was-caused-to-stand, 
-and-heart mortal_man was-given to-her.
+and-lifted-up from- the-land, and-on- feet as-Mortal_Man (Enash) was-caused-to-stand, 
+and-heart Mortal_Man (Enash) was-given to-her.
 
 And-behold, beast another second, similar to-bear. 
 And-to-side- one it-was-raised_up, 
@@ -31,7 +31,7 @@ and-horns ten to-her.
 Considering I-was in-the-horns, 
 and-behold, horn another small came-up between-them, 
 and-three from- horns-the first-the were-uprooted from- before-it; 
-and-behold, eyes like-eyes-of mortal_man-the in-horn- this, 
+and-behold, eyes like-eyes-of Mortal_Man (Enash)-the in-horn- this, 
 and-mouth speaking great_things.
 
 Looking I-was until that thrones were-placed, 
@@ -42,3 +42,7 @@ throne-his flames of- fire, wheels-its fire burning.
 river of- fire flowing and-coming-out from- before-him; 
 thousand thousands ministered-to-him, and-ten_thousand ten_thousands before-him stood; 
 judge-the had-sat, and-books had-been-opened.
+
+Looking I-was in-visions night-the, 
+and-behold, with- clouds-of skies-the as-son-of Mortal_Man (Enash) 
+coming was, and-unto- Ancient-of Days-the had-reached, and-before-him had-caused-to-approach.

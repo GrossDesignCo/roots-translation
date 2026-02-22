@@ -1,15 +1,14 @@
 {
   "key": "enosh",
   "hebrew": "אֱנוֹשׁ",
-  "transliteration": "enosh",
-  "englishLiteral": "mortal",
-  "englishNatural": "mortal",
+  "transliteration": "Enosh",
+  "englishLiteral": "Mortal_Man (Enosh)",
+  "englishNatural": "Mortal-Man (Enosh)",
   "type": "noun",
-  "description": "mortal man, frail humanity, mankind in weakness",
+  "description": "proper name, Enosh, meaning \"mortal\" or \"frail humanity\", eventually the aramaic word for humanity (Enash)",
   "related": [
     "adam",
-    "ish",
-    "anash_aramaic"
+    "ish"
   ],
   "wordIndexes": {
     "daniel": {
@@ -17,6 +16,30 @@
         "4": [
           17,
           20
+        ]
+      }
+    },
+    "genesis": {
+      "4": {
+        "26": [
+          8
+        ]
+      },
+      "5": {
+        "6": [
+          8
+        ],
+        "7": [
+          5
+        ],
+        "9": [
+          1
+        ],
+        "10": [
+          1
+        ],
+        "11": [
+          3
         ]
       }
     }

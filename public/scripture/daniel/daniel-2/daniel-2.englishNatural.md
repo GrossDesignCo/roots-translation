@@ -23,7 +23,7 @@ This, the dream, and its interpretation, we will tell before the king.
 You, the king, the king of the kings, which the God of the skies 
 has given to you the kingdom, the power, and the strength, and the glory.
 
-And in all which dwell the sons of the mortal-man, the beasts of the field, 
+And in all which dwell the sons of the Mortal-Man (Enash), the beasts of the field, 
 and the birds of the skies, he has given into your hand, 
 and has caused you to rule in them all, 
 you are he, the head of the gold.
@@ -37,7 +37,7 @@ And which you saw the feet and the toes from them the clay of the potter and fro
 
 And the toes of the feet, from them iron and from them clay, from the end of the kingdom will be the strong, and from it will be the fragile.
 
-And which you saw the iron mixed in clay, the mud, themselves mixing to be in the seed of the mortal-man, and they will be not adhering this with this. Behold, just as the iron mixes itself not with the clay.
+And which you saw the iron mixed in clay, the mud, themselves mixing to be in the seed of the Mortal-Man (Enash), and they will be not adhering this with this. Behold, just as the iron mixes itself not with the clay.
 
 And in their days which those kings, the God of the skies will raise-up a kingdom, which to the-ages will be-damaged not, and the kingdom to another people it will be-left not, and it will crush and consume all these, the kingdoms, and it will stand-up to the-ages.
 

@@ -315,9 +315,9 @@ export const daniel_7_8: Verse = {
     {
       aramaic: 'אֲנָשָׁא֙',
       transliteration: 'anasha',
-      englishLiteral: 'mortal_man-the',
-      englishNatural: 'the mortal-man',
-      root: 'anash_aramaic',
+      englishLiteral: 'Mortal_Man (Enash)-the',
+      englishNatural: 'the Mortal-Man (Enash)',
+      root: 'enash',
       suffixes: ['a'],
       order: 20,
       morphology: {
@@ -417,9 +417,9 @@ export const daniel_7_8: Verse = {
   expectedTranslations: {
     aramaic: 'מִשְׂתַּכַּ֨ל הֲוֵ֜ית בְּקַרְנַיָּ֗א וַ֠אֲלוּ קֶ֣רֶן אָחֳרִ֤י זְעֵירָה֙ סִלְקָ֣ת ביניהון וּתְלָ֗ת מִן־קַרְנַיָּא֙ קַדְמָ֣יָתָ֔א אתעקרו מִן־קדמיה וַאֲל֙וּ עַיְנִ֜ין כְּעַיְנֵ֤י אֲנָשָׁא֙ בְּקַרְנָא־דָ֔א וּפֻ֖ם מְמַלִּ֥ל רַבְרְבָֽן׃',
     transliteration: 'mistakkal haveit beQarnaiya vaAlu qeren ochori zeeirah silqat beynehon uTelat min-qarnaiya qadmayata iteqaru min-qodameyh vaAlu ayinin keAynei anasha beQarna-da uPum memallil ravrevan',
-    englishLiteral: 'Considering I-was in-the-horns, and-behold, horn another small came-up between-them, and-three from- horns-the first-the were-uprooted from- before-it; and-behold, eyes like-eyes-of mortal_man-the in-horn- this, and-mouth speaking great_things.',
-    englishNatural: 'I was considering in the horns, and behold, another small horn came up between them, and three from the horns the first were uprooted from before it; and behold, eyes, like the eyes of the mortal-man in this horn, and a mouth speaking great-things.',
+    englishLiteral: 'Considering I-was in-the-horns, and-behold, horn another small came-up between-them, and-three from- horns-the first-the were-uprooted from- before-it; and-behold, eyes like-eyes-of Mortal_Man (Enash)-the in-horn- this, and-mouth speaking great_things.',
+    englishNatural: 'I was considering in the horns, and behold, another small horn came up between them, and three from the horns the first were uprooted from before it; and behold, eyes, like the eyes of the Mortal-Man (Enash) in this horn, and a mouth speaking great-things.',
     kjv: 'I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn were eyes like the eyes of man, and a mouth speaking great things.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-17' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

@@ -151,8 +151,8 @@ export const daniel_2_43: Verse = {
     {
       aramaic: 'אֲנָשָׁא',
       transliteration: 'anasha',
-      englishLiteral: 'mortal_man-the',
-      englishNatural: 'the mortal-man',
+      englishLiteral: 'Mortal_Man (Enash)-the',
+      englishNatural: 'the Mortal-Man (Enash)',
       root: 'anash',
       suffixes: ['a'],
       order: 10,
@@ -363,10 +363,10 @@ export const daniel_2_43: Verse = {
     transliteration:
       'veDi chazayta parzela mearav baChasaf tina mitarvin lehevon biZera anasha veLa-lehevon davqin denah im-denah hen kedi parzela la mitarav im-chaspa',
     englishLiteral:
-      'and-which you-saw iron-the mixed in-clay mud-the, mixing-themselves to-be-them in-seed mortal_man-the, and-not- to-be-them adhering this with- this. Behold just_as iron-the not mix-itself with- clay-the.',
+      'and-which you-saw iron-the mixed in-clay mud-the, mixing-themselves to-be-them in-seed Mortal_Man (Enash)-the, and-not- to-be-them adhering this with- this. Behold just_as iron-the not mix-itself with- clay-the.',
     englishNatural:
-      'And which you saw the iron mixed in clay, the mud, themselves mixing to be in the seed of the mortal-man, and they will be not adhering this with this. Behold, just as the iron mixes itself not with the clay.',
+      'And which you saw the iron mixed in clay, the mud, themselves mixing to be in the seed of the Mortal-Man (Enash), and they will be not adhering this with this. Behold, just as the iron mixes itself not with the clay.',
     kjv: 'And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
 },
 };

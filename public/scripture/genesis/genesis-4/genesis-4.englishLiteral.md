@@ -95,4 +95,4 @@ and-Powerful (Lamech) seventy and-seven."
 
 and-knew Earthling (Adam) again ↳ woman-his; and-bore son, and-called_out ↳ name-his "Appointed (Seth); that appointed to-me Gods seed another instead-of Vapor (Abel); that killed-him Acquired (Cain)."
 
-and-to-Appointed (Seth) also he was-born son; and-called_out ↳ name-his Mortal (Enosh); then was-begun, to-call_out in-name-of He-Who-Is (YHWH).
+and-to-Appointed (Seth) also he was-born son; and-called_out ↳ name-his Mortal_Man (Enosh); then was-begun, to-call_out in-name-of He-Who-Is (YHWH).

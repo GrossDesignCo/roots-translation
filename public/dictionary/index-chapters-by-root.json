@@ -5241,15 +5241,13 @@
       3
     ]
   },
-  "Enosh": {
-    "genesis": [
-      4,
-      5
-    ]
-  },
   "enosh": {
     "daniel": [
       7
+    ],
+    "genesis": [
+      4,
+      5
     ]
   },
   "chalal": {
@@ -5842,6 +5840,9 @@
     ]
   },
   "anan": {
+    "daniel": [
+      7
+    ],
     "exodus": [
       34
     ],
@@ -8298,11 +8299,6 @@
       7
     ]
   },
-  "anash_aramaic": {
-    "daniel": [
-      7
-    ]
-  },
   "malal": {
     "daniel": [
       7
@@ -9064,7 +9060,8 @@
   },
   "shemay": {
     "daniel": [
-      2
+      2,
+      7
     ]
   },
   "chisen": {
@@ -9089,12 +9086,14 @@
   },
   "bar": {
     "daniel": [
-      2
+      2,
+      7
     ]
   },
   "enash": {
     "daniel": [
-      2
+      2,
+      7
     ]
   },
   "cheiva": {
@@ -9260,6 +9259,21 @@
   "nichoach": {
     "daniel": [
       2
+    ]
+  },
+  "ateh": {
+    "daniel": [
+      7
+    ]
+  },
+  "meta": {
+    "daniel": [
+      7
+    ]
+  },
+  "qerev": {
+    "daniel": [
+      7
     ]
   }
 }

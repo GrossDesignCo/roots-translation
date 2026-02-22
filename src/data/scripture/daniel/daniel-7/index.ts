@@ -8,13 +8,14 @@ import { daniel_7_7 } from './daniel-7-7';
 import { daniel_7_8 } from './daniel-7-8';
 import { daniel_7_9 } from './daniel-7-9';
 import { daniel_7_10 } from './daniel-7-10';
+import { daniel_7_13 } from './daniel-7-13';
 
 const chapter: Chapter = {
   meta: {
     book: 'Daniel',
     chapter: 7,
   },
-  verses: [daniel_7_2, daniel_7_3, daniel_7_4, daniel_7_5, daniel_7_6, daniel_7_7, daniel_7_8, daniel_7_9, daniel_7_10],
+  verses: [daniel_7_2, daniel_7_3, daniel_7_4, daniel_7_5, daniel_7_6, daniel_7_7, daniel_7_8, daniel_7_9, daniel_7_10, daniel_7_13],
 };
 
 export default chapter;

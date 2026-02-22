@@ -18,7 +18,7 @@ this dream-the, and-interpretation-its we-will-tell before king-the.
 
 you king-the king-of kings-the which God-of skies-the kingdom-the power-the and-strength-the and-glory-the he-has-given to-you.
 
-and-in-all which dwelling sons-of mortal_man-the beasts-of field-the and-birds-of skies-the he-gave in-hand-your and-caused-you-to-rule in-all-them, you he head-the which gold-the.
+and-in-all which dwelling sons-of Mortal_Man (Enash)-the beasts-of field-the and-birds-of skies-the he-gave in-hand-your and-caused-you-to-rule in-all-them, you he head-the which gold-the.
 
 and-after-you will-stand_up kingdom another lower from-you, and-kingdom third another which bronze-the, which will-rule in-all land-the.
 
@@ -28,7 +28,7 @@ and-which you-saw feet-the and-toes-the from-them clay-of potter and-from-them i
 
 and-toes feet-the from-them iron and-from-them clay, from- end-of kingdom-the will-be strong-the, and-from-it will-be fragile-the.
 
-and-which you-saw iron-the mixed in-clay mud-the, mixing-themselves to-be-them in-seed mortal_man-the, and-not- to-be-them adhering this with- this. Behold just_as iron-the not mix-itself with- clay-the.
+and-which you-saw iron-the mixed in-clay mud-the, mixing-themselves to-be-them in-seed Mortal_Man (Enash)-the, and-not- to-be-them adhering this with- this. Behold just_as iron-the not mix-itself with- clay-the.
 
 and-in-days-their which kings-the those he-will-raise_up God-the skies-the kingdom which to-the_ages not will-be_damaged, and-kingdom-the to-people another not will-be-left, and-she-will-crush and-she-will-consume all- these kingdoms-the, and-she will-stand_up to-the_ages.
 

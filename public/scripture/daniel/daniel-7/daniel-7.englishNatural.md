@@ -9,8 +9,8 @@ this different from this.
 The first as a lion, and wings of an eagle to it. 
 I was looking until that its wings were plucked; 
 and it was lifted-up from the land, 
-and on feet as a mortal-man it was caused to stand, 
-and a heart of a mortal-man was given to it.
+and on feet as a Mortal-Man (Enash) it was caused to stand, 
+and a heart of a Mortal-Man (Enash) was given to it.
 
 And behold a second, another beast, similar to a bear. 
 And to one side it was raised-up, 
@@ -32,7 +32,7 @@ and ten horns to it.
 I was considering in the horns, 
 and behold, another small horn came up between them, 
 and three from the horns the first were uprooted from before it; 
-and behold, eyes, like the eyes of the mortal-man in this horn, 
+and behold, eyes, like the eyes of the Mortal-Man (Enash) in this horn, 
 and a mouth speaking great-things.
 
 I was looking until that thrones were placed, 
@@ -44,3 +44,7 @@ A river of fire, flowing and coming out from before him;
 a thousand thousands ministered to him; 
 and ten-thousand ten-thousands stood before him; 
 the judge had sat, and the books had been opened.
+
+I was looking in the visions of the night, 
+and behold, with the clouds of the skies, as a son of Mortal-Man (Enash) 
+he was coming, and unto the Ancient of the Days he had reached, and before him had caused to approach.

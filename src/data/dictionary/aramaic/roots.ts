@@ -714,11 +714,11 @@ const ROOTS = {
   enash: {
     aramaic: 'אֱנָשׁ',
     transliteration: 'enash',
-    englishLiteral: 'mortal_man',
-    englishNatural: 'mortal-man',
+    englishLiteral: 'Mortal_Man (Enash)',
+    englishNatural: 'Mortal-Man (Enash)',
     type: 'noun',
     description:
-      'generic word for human (Aramaic), cognate of the Hebrew name Mortal-Man (Enosh)',
+      'generic word for Human (Aramaic), cognate of the Hebrew name Mortal-Man (Enosh)',
     cognateHebrew: ['enosh', 'adam'] as const,
   },
   cheiva: {
@@ -1175,6 +1175,31 @@ const ROOTS = {
     englishNatural: 'soothing-aroma',
     type: 'noun',
     description: 'soothing aroma, sweet savor, pleasant fragrance (Aramaic)',
+  },
+  ateh: {
+    aramaic: 'אתה',
+    transliteration: 'ateh',
+    englishLiteral: 'to come',
+    englishNatural: 'to come',
+    type: 'verb',
+    description: 'to come, to arrive (Aramaic)',
+  },
+  meta: {
+    aramaic: 'מטא',
+    transliteration: 'meta',
+    englishLiteral: 'to reach',
+    englishNatural: 'to reach',
+    type: 'verb',
+    description: 'to reach, to arrive at, to come to (Aramaic)',
+  },
+  qerev: {
+    aramaic: 'קרב',
+    transliteration: 'qerev',
+    englishLiteral: 'to approach',
+    englishNatural: 'to approach',
+    type: 'verb',
+    description: 'to bring near, to approach, to offer (Aramaic)',
+    cognateHebrew: ['qarav'] as const,
   },
 } as const;
 

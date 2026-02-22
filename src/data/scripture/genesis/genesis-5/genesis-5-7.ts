@@ -87,7 +87,7 @@ export const genesis_5_7: Verse = {
       transliteration: 'Enosh',
       englishLiteral: 'Mortal_Man (Enosh)',
       englishNatural: 'Mortal-Man (Enosh)',
-      root: 'Enosh',
+      root: 'enosh',
       order: 6,
       morphology: {
         type: 'noun',
@@ -235,6 +235,6 @@ export const genesis_5_7: Verse = {
     englishNatural:
       'And Appointed (Seth) lived after he begot Mortal-Man (Enosh), seven years and eight hundred years, and begot sons and daughters.',
     kjv: 'And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
 },
 };

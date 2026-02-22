@@ -42,3 +42,7 @@ korseyeh shevivin di-nur galgellohi nur daliq
 nehar di-nur naged veNafeq min-qodamohi 
 eleph alphin yeShammeshunneh veRibbo ribvan qodamohi yequmun 
 dina yetiv veSiphrin pethichu
+
+chazeh haveit beKhezevei leila 
+vaAru im-ananei shemaya keVar enash 
+ateh havah veAd-Attiq yomaya meta uQodamohi haqrevuhi

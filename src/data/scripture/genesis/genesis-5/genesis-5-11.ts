@@ -64,7 +64,7 @@ export const genesis_5_11: Verse = {
       transliteration: 'Enosh',
       englishLiteral: 'Mortal_Man (Enosh)',
       englishNatural: 'Mortal-Man (Enosh)',
-      root: 'Enosh',
+      root: 'enosh',
       order: {
         hebrew: 4,
         english: 3,
@@ -181,6 +181,6 @@ export const genesis_5_11: Verse = {
     englishNatural:
       'And all the days of Mortal-Man (Enosh) were five years and nine hundred years, and he died.',
     kjv: 'And all the days of Enos were nine hundred and five years: and he died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
 },
 };

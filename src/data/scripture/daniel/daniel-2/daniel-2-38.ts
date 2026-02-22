@@ -62,8 +62,8 @@ export const daniel_2_38: Verse = {
     {
       aramaic: 'אֲנָשָׁא',
       transliteration: 'anasha',
-      englishLiteral: 'mortal_man-the',
-      englishNatural: 'the mortal-man',
+      englishLiteral: 'Mortal_Man (Enash)-the',
+      englishNatural: 'the Mortal-Man (Enash)',
       root: 'enash',
       suffixes: ['a'],
       order: 5,
@@ -302,10 +302,10 @@ export const daniel_2_38: Verse = {
     transliteration:
       'uBekhol di dayerin benei anasha cheivat bara veOf shemayya yehav biDakh veHashletakh beKholhon antah hu reshah di dahava',
     englishLiteral:
-      'and-in-all which dwelling sons-of mortal_man-the beasts-of field-the and-birds-of skies-the he-gave in-hand-your and-caused-you-to-rule in-all-them, you he head-the which gold-the.',
+      'and-in-all which dwelling sons-of Mortal_Man (Enash)-the beasts-of field-the and-birds-of skies-the he-gave in-hand-your and-caused-you-to-rule in-all-them, you he head-the which gold-the.',
     englishNatural:
-      'And in all which dwell the sons of the mortal-man, the beasts of the field, and the birds of the skies, he has given into your hand, and has caused you to rule in them all, you are he, the head of the gold.',
+      'And in all which dwell the sons of the Mortal-Man (Enash), the beasts of the field, and the birds of the skies, he has given into your hand, and has caused you to rule in them all, you are he, the head of the gold.',
     kjv: 'And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee ruler over them all. Thou art this head of gold.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
 },
 };
