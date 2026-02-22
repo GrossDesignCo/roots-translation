@@ -21,7 +21,7 @@ and-from-midst-its like-eye-of the-glowing_metal from-midst-of the-fire.
 
 And-from-midst-its likeness-of four living_beings;
 and-this appearance-their,
-likeness-of Earth (Adam) to-them.
+likeness-of Earthling (Adam) to-them.
 
 And-four faces to-one,
 and-four wings to-one to-them.
@@ -30,7 +30,7 @@ And-legs-their leg straight,
 and-palm-of legs-their like-palm-of leg-of calf,
 and-sparkling like-eye-of bronze polished.
 
-And-hands-of Earth (Adam) from-under wings-their
+And-hands-of Earthling (Adam) from-under wings-their
 over four-of sides-their;
 and-faces-their and-wings-their to-four-them.
 
@@ -39,7 +39,7 @@ not- they-went_around in-going-their;
 man to- side-of faces-his they-went.
 
 And-likeness-of faces-their:
-faces-of Earth (Adam),
+faces-of Earthling (Adam),
 and-faces-of lion to- the-right to-four-of-them,
 and-faces-of- ox from-the-left to-four-of-them,
 and-faces-of- eagle to-four-of-them.
@@ -112,7 +112,7 @@ in-standing-their they-sank wings-their.
 And-from-over to-the-hammering_out which over- head-his
 like-appearance-of stone-of- sapphire likeness-of throne;
 and-over likeness-of the-throne 
-likeness like-appearance-of Earth (Adam), over-him from-to-upward.
+likeness like-appearance-of Earthling (Adam), over-him from-to-upward.
 
 And-I-saw like-eye-of glowing_metal,
 like-appearance-of- fire house- to all_around

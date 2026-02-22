@@ -169,8 +169,8 @@ export const genesis_11_5: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -196,10 +196,10 @@ export const genesis_11_5: Verse = {
     transliteration:
       'vayYered YHWH liRot et-haIr veEt-haMigdal asher banu beney haAdam',
     englishLiteral:
-      'And-he-descended He_Who_Is (YHWH) to-see ↳ the-city and-↳ the-tower which they-had-built sons-of the-Earth (Adam).',
+      'And-he-descended He_Who_Is (YHWH) to-see ↳ the-city and-↳ the-tower which they-had-built sons-of the-Earthling (Adam).',
     englishNatural:
-      'And He-Who-Is (YHWH) descended to see the city and the tower which the sons of the Earth (Adam) had built.',
+      'And He-Who-Is (YHWH) descended to see the city and the tower which the sons of the Earthling (Adam) had built.',
     kjv: 'And the LORD came down to see the city and the tower, which the children of men builded.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
 },
 };

@@ -94,8 +94,8 @@ export const genesis_2_21: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 6,
@@ -232,10 +232,10 @@ export const genesis_2_21: Verse = {
     transliteration:
       'vaYapel YHWH Elohim tardemah al haAdam vaYishan vaYikach achat miTzalotav vaYisgor basar tachtennah',
     englishLiteral:
-      'And-caused-to-fall He_Who_Is (YHWH) Gods deep_trance over the-Earth (Adam), and-he-slept; and-he-took one from-his-sides, and-closed-up flesh under-it.',
+      'And-caused-to-fall He_Who_Is (YHWH) Gods deep_trance over the-Earthling (Adam), and-he-slept; and-he-took one from-his-sides, and-closed-up flesh under-it.',
     englishNatural:
-      'And He-Who-Is (YHWH) God caused a deep-trance to fall over the Earth (Adam), and he slept; and he took one from his sides, and closed up flesh under it.',
+      'And He-Who-Is (YHWH) God caused a deep-trance to fall over the Earthling (Adam), and he slept; and he took one from his sides, and closed up flesh under it.',
     kjv: 'And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

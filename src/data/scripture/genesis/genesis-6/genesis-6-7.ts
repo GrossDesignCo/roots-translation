@@ -87,8 +87,8 @@ export const genesis_6_7: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 5,
@@ -175,8 +175,8 @@ export const genesis_6_7: Verse = {
     {
       hebrew: 'מֵאָדָם',
       transliteration: 'meAdam',
-      englishLiteral: 'from-Earth (Adam)',
-      englishNatural: 'from Earth (Adam)',
+      englishLiteral: 'from-Earthling (Adam)',
+      englishNatural: 'from Earthling (Adam)',
       root: 'adam',
       prefixes: ['me'],
       order: 11,
@@ -355,10 +355,10 @@ export const genesis_6_7: Verse = {
     transliteration:
       'vayYomer YHWH emcheh et-haAdam asher-barati meAl peney haAdamah meAdam ad-behemah ad-remes vead-oph haShamayim ki nichamti ki asitim',
     englishLiteral:
-      'And-he-said He_Who_Is (YHWH), "I-will-wipe_out ↳ the-Earth (Adam) which- I-created from-over faces-of the-earth, from-Earth (Adam) unto- beast, unto- creeping_thing, and-unto- bird-of the-skies; that I-have-relented that I-have-made-them."',
+      'And-he-said He_Who_Is (YHWH), "I-will-wipe_out ↳ the-Earthling (Adam) which- I-created from-over faces-of the-earth, from-Earthling (Adam) unto- beast, unto- creeping_thing, and-unto- bird-of the-skies; that I-have-relented that I-have-made-them."',
     englishNatural:
-      'And He-Who-Is (YHWH) said, "I will wipe-out the Earth (Adam) which I created from over the face of the earth, from Earth (Adam) unto beast, unto creeping-thing, and unto bird of the skies; for I have relented that I have made them."',
+      'And He-Who-Is (YHWH) said, "I will wipe-out the Earthling (Adam) which I created from over the face of the earth, from Earthling (Adam) unto beast, unto creeping-thing, and unto bird of the skies; for I have relented that I have made them."',
     kjv: 'And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

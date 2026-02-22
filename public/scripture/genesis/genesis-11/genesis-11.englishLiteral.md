@@ -16,7 +16,7 @@ and-let-us-make- for-us name
 lest- we-are-scattered over- faces-of all- the-land."
 
 And-he-descended He_Who_Is (YHWH) to-see ↳ the-city 
-and-↳ the-tower which they-had-built sons-of the-Earth (Adam).
+and-↳ the-tower which they-had-built sons-of the-Earthling (Adam).
 
 And-he-said He_Who_Is (YHWH), 
 "Behold, people one 

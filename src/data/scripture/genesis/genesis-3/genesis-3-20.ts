@@ -33,8 +33,8 @@ export const genesis_3_20: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'And the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'And the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -191,10 +191,10 @@ export const genesis_3_20: Verse = {
     transliteration:
       'vayYiqra haAdam shem ishto Chavah ki hi hayetah em kol-chai',
     englishLiteral:
-      'And-he-called_out the-Earth (Adam) name woman-his Life (Eve); that she was Mother all Living.',
+      'And-he-called_out the-Earthling (Adam) name woman-his Life (Eve); that she was Mother all Living.',
     englishNatural:
-      "And the Earth (Adam) called-out his woman's name Life (Eve); that she was Mother of all Living.",
+      "And the Earthling (Adam) called-out his woman's name Life (Eve); that she was Mother of all Living.",
     kjv: "And Adam called his wife's name Eve; because she was the mother of all living.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

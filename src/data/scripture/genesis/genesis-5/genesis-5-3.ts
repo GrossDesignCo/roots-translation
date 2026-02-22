@@ -33,8 +33,8 @@ export const genesis_5_3: Verse = {
     {
       hebrew: 'אָדָם',
       transliteration: 'Adam',
-      englishLiteral: 'Earth (Adam)',
-      englishNatural: 'And Earth (Adam)',
+      englishLiteral: 'Earthling (Adam)',
+      englishNatural: 'And Earthling (Adam)',
       root: 'adam',
       order: {
         hebrew: 2,
@@ -226,10 +226,10 @@ export const genesis_5_3: Verse = {
     transliteration:
       'vaYechi Adam shloshim uMeat shanah vaYoled biDemuto keTselmo vaYiqra et-shemo Shet',
     englishLiteral:
-      'and-lived Earth (Adam) thirty and-hundred year, and-birthed in-likeness-his, as-image-his; and-called_out ↳ name-his, "Appointed (Seth)."',
+      'and-lived Earthling (Adam) thirty and-hundred year, and-birthed in-likeness-his, as-image-his; and-called_out ↳ name-his, "Appointed (Seth)."',
     englishNatural:
-      'And Earth (Adam) lived thirty and a hundred years, and birthed in his likeness, as his image; and called-out his name, "Appointed (Seth)."',
+      'And Earthling (Adam) lived thirty and a hundred years, and birthed in his likeness, as his image; and called-out his name, "Appointed (Seth)."',
     kjv: 'And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

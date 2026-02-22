@@ -43,6 +43,6 @@ which not- you-labored in-it and-not you-grew-it,
 yet-son-of- night was and-son-of- night perished.
 
 And-I, not I-will-pity over- Dwelling_of_Fish (Nineveh), the-city, the-great, 
-which there_is- in-her much from-two- ten ten_thousand Earth (Adam), 
+which there_is- in-her much from-two- ten ten_thousand Earthling (Adam), 
 which not- knows between- right_hand-his to-left_hand-his; 
 and-beast many?"

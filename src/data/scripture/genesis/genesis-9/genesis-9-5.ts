@@ -160,8 +160,8 @@ export const genesis_9_5: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 11,
@@ -263,8 +263,8 @@ export const genesis_9_5: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 18,
@@ -286,10 +286,10 @@ export const genesis_9_5: Verse = {
     transliteration:
       'veAkh et-dimkhem leNafshotekhem edrosh miYad kol-chayah edreshennu uMiYad haAdam miYad ish achiv edrosh et-nefesh haAdam',
     englishLiteral:
-      'And-only ↳ your-blood for-your-winds I-will-require; from-hand-of all- living_being I-will-require-it; and-from-hand-of the-Earth (Adam), from-hand-of man his-brother I-will-require ↳ soul-of the-Earth (Adam).',
+      'And-only ↳ your-blood for-your-winds I-will-require; from-hand-of all- living_being I-will-require-it; and-from-hand-of the-Earthling (Adam), from-hand-of man his-brother I-will-require ↳ soul-of the-Earthling (Adam).',
     englishNatural:
-      'And only your blood for your winds I will require; from the hand of all living-being I will require it; and from the hand of the Earth (Adam), from the hand of a man his brother I will require the soul of the Earth (Adam).',
+      'And only your blood for your winds I will require; from the hand of all living-being I will require it; and from the hand of the Earthling (Adam), from the hand of a man his brother I will require the soul of the Earthling (Adam).',
     kjv: "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man's brother will I require the life of man.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
 },
 };

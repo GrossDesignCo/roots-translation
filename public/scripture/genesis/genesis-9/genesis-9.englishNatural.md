@@ -16,13 +16,13 @@ Only flesh, in its wind, its blood, you will eat not.
 
 And only your blood for your winds I will require;
 from the hand of all living-being I will require it;
-and from the hand of the Earth (Adam),
+and from the hand of the Earthling (Adam),
 from the hand of a man his brother
-I will require the soul of the Earth (Adam).
+I will require the soul of the Earthling (Adam).
 
-One-pouring the blood of the Earth (Adam),
-in Earth (Adam) his blood will be poured;
-for in the image of God, he made the Earth (Adam).
+One-pouring the blood of the Earthling (Adam),
+in Earthling (Adam) his blood will be poured;
+for in the image of God, he made the Earthling (Adam).
 
 And you, be-fruitful and multiply,
 swarm in the land, and multiply in it."

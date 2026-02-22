@@ -40,8 +40,8 @@ export const genesis_9_6: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 3,
@@ -59,8 +59,8 @@ export const genesis_9_6: Verse = {
     {
       hebrew: 'בָּאָדָם',
       transliteration: 'baAdam',
-      englishLiteral: 'in-Earth (Adam)',
-      englishNatural: 'in Earth (Adam)',
+      englishLiteral: 'in-Earthling (Adam)',
+      englishNatural: 'in Earthling (Adam)',
       root: 'adam',
       prefixes: ['ba'],
       order: 4,
@@ -179,8 +179,8 @@ export const genesis_9_6: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 12,
@@ -202,10 +202,10 @@ export const genesis_9_6: Verse = {
     transliteration:
       'shofekh dam haAdam baAdam damo yishafekh ki beTselem Elohim asah et-haAdam',
     englishLiteral:
-      'One-pouring blood-of the-Earth (Adam), in-Earth (Adam) his-blood it-will-be-poured; for in-image-of Gods, he-made ↳ the-Earth (Adam).',
+      'One-pouring blood-of the-Earthling (Adam), in-Earthling (Adam) his-blood it-will-be-poured; for in-image-of Gods, he-made ↳ the-Earthling (Adam).',
     englishNatural:
-      'One-pouring the blood of the Earth (Adam), in Earth (Adam) his blood will be poured; for in the image of God, he made the Earth (Adam).',
+      'One-pouring the blood of the Earthling (Adam), in Earthling (Adam) his blood will be poured; for in the image of God, he made the Earthling (Adam).',
     kjv: "Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

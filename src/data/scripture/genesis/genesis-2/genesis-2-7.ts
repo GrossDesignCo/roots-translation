@@ -75,8 +75,8 @@ export const genesis_2_7: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 5,
@@ -218,8 +218,8 @@ export const genesis_2_7: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'and the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'and the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -285,10 +285,10 @@ export const genesis_2_7: Verse = {
     transliteration:
       'vaYiytzer YHWH Elohim et-haAdam afar min-haAdamah vaYipach beAppav nishmat chayyim vaYehi haAdam leNefesh chayyah',
     englishLiteral:
-      'And-formed He_Who_Is (YHWH) Gods ↳ the-Earth (Adam) dust from- the-earth; and-blew in-his-nostrils breath-of lives, and-was the-Earth (Adam) to-throat living.',
+      'And-formed He_Who_Is (YHWH) Gods ↳ the-Earthling (Adam) dust from- the-earth; and-blew in-his-nostrils breath-of lives, and-was the-Earthling (Adam) to-throat living.',
     englishNatural:
-      'And He-Who-Is (YHWH) God formed the Earth (Adam), dust from the earth; and blew into his nostrils the breath of life, and the Earth (Adam) was a living throat.',
+      'And He-Who-Is (YHWH) God formed the Earthling (Adam), dust from the earth; and blew into his nostrils the breath of life, and the Earthling (Adam) was a living throat.',
     kjv: 'And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

@@ -44,5 +44,5 @@ which you labored in it not, and you grew it not,
 yet son of a night it was and son of a night it perished.
 
 And I, will I pity not over Dwelling-of-Fish (Nineveh), the city, the great, 
-which there-is in her much more than two ten ten-thousand Earth (Adam), 
+which there-is in her much more than two ten ten-thousand Earthling (Adam), 
 which knows not between his right-hand to his left-hand; and many beast?"

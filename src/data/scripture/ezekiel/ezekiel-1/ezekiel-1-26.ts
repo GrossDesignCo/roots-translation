@@ -217,8 +217,8 @@ export const ezekiel_1_26: Verse = {
     {
       hebrew: 'אָדָם',
       transliteration: 'Adam',
-      englishLiteral: 'Earth (Adam)',
-      englishNatural: 'Earth (Adam)',
+      englishLiteral: 'Earthling (Adam)',
+      englishNatural: 'Earthling (Adam)',
       root: 'adam',
       order: 16,
       morphology: {
@@ -280,10 +280,10 @@ export const ezekiel_1_26: Verse = {
     transliteration:
       'uMiMaal laRaqia asher al-rosham keMareeh even-sappir demut kisse veAl demut haKisse demut keMareeh Adam alav milMaalah',
     englishLiteral:
-      'And-from-over to-the-hammering_out which over- head-his like-appearance-of stone-of- sapphire likeness-of throne; and-over likeness-of the-throne likeness like-appearance-of Earth (Adam), over-him from-to-upward.',
+      'And-from-over to-the-hammering_out which over- head-his like-appearance-of stone-of- sapphire likeness-of throne; and-over likeness-of the-throne likeness like-appearance-of Earthling (Adam), over-him from-to-upward.',
     englishNatural:
-      'And from over the hammering-out which over his head like the appearance of a stone of sapphire the likeness of a throne; and over the likeness of the throne a likeness like the appearance of Earth (Adam), from upward over him.',
+      'And from over the hammering-out which over his head like the appearance of a stone of sapphire the likeness of a throne; and over the likeness of the throne a likeness like the appearance of Earthling (Adam), from upward over him.',
     kjv: 'And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was the likeness as the appearance of a man above upon it.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

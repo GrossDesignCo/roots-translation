@@ -101,8 +101,8 @@ export const proverbs_8_31: Verse = {
     {
       hebrew: 'אָדָם',
       transliteration: 'adam',
-      englishLiteral: 'Earth (Adam)',
-      englishNatural: 'Earth (Adam)',
+      englishLiteral: 'Earthling (Adam)',
+      englishNatural: 'Earthling (Adam)',
       root: 'adam',
       order: 7,
       morphology: {
@@ -120,10 +120,10 @@ export const proverbs_8_31: Verse = {
     hebrew: 'מְשַׂחֶקֶת בְּתֵבֵל אַרְצוֹ וְשַׁעֲשֻׁעַי אֶת־בְּנֵי אָדָם',
     transliteration: 'mesacheqet beTevel artso veShaashuai et-benei adam',
     englishLiteral:
-      'laughing in-world-of his-land, and-my-darlings ↳ sons-of Earth (Adam).',
+      'laughing in-world-of his-land, and-my-darlings ↳ sons-of Earthling (Adam).',
     englishNatural:
-      'laughing in the world of his land, and my darlings the sons of Earth (Adam).',
+      'laughing in the world of his land, and my darlings the sons of Earthling (Adam).',
     kjv: 'Rejoicing in the habitable part of his earth; and my delights were with the sons of men.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-07' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
 },
 };

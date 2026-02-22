@@ -90,10 +90,10 @@ And the beast, to its kind,
 And all crawler the earth, to its kind, 
 And God saw, that it was good.
 
-And God said, "Let us make Earth (Adam), in our image, as our likeness, 
+And God said, "Let us make Earthling (Adam), in our image, as our likeness, 
 And let them subjugate, in fish of the sea, and in flyer of the skies, and in the beast, and in all the land, and in all the crawler, the crawling, over the land."
 
-And God created the Earth (Adam), in his image,
+And God created the Earthling (Adam), in his image,
 in the image of God, created him, 
 male and female, created them.
 

@@ -1,4 +1,4 @@
-And-the-Earth (Adam) knew ↳ Life (Eve) his-woman,
+And-the-Earthling (Adam) knew ↳ Life (Eve) his-woman,
 and-she-conceived and-she-bore ↳ Acquired (Cain),
 and-she-said, "I-have-acquired a-man ↳- He_Who_Is (YHWH)."
 
@@ -93,6 +93,6 @@ and-newborn to-stripe-my.
 that sevenfold shall-be-avenged Acquired (Cain),
 and-Powerful (Lamech) seventy and-seven."
 
-and-knew Earth (Adam) again ↳ woman-his; and-bore son, and-called_out ↳ name-his "Appointed (Seth); that appointed to-me Gods seed another instead-of Vapor (Abel); that killed-him Acquired (Cain)."
+and-knew Earthling (Adam) again ↳ woman-his; and-bore son, and-called_out ↳ name-his "Appointed (Seth); that appointed to-me Gods seed another instead-of Vapor (Abel); that killed-him Acquired (Cain)."
 
 and-to-Appointed (Seth) also he was-born son; and-called_out ↳ name-his Mortal (Enosh); then was-begun, to-call_out in-name-of He-Who-Is (YHWH).

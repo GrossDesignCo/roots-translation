@@ -29,14 +29,14 @@ and sat over the ashes.
 
 And he cried-out and said in Dwelling-of-Fish (Nineveh), 
 from the decree of the king and his greats, to say, 
-"The Earth (Adam) and the beast, 
+"The Earthling (Adam) and the beast, 
 the cattle and the flock, 
 they will taste not anything, 
 they will graze not, 
 and waters they will drink not;
 
 And they will be covered sackcloth,
-the Earth (Adam) and the beast, 
+the Earthling (Adam) and the beast, 
 and they will call-out to God in intensity; 
 and return man from the bad of his way 
 and from the violence which is in their hands.

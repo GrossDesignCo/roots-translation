@@ -1,4 +1,4 @@
-And the Earth (Adam) knew Life (Eve) his woman,
+And the Earthling (Adam) knew Life (Eve) his woman,
 and she conceived and bore Acquired (Cain),
 and said, "I have acquired a man with He-Who-Is (YHWH)."
 
@@ -89,6 +89,6 @@ and newborn to my stripe.
 that Acquired (Cain) shall be avenged sevenfold,
 and Powerful (Lamech) seventy and seven."
 
-And Earth (Adam) knew his woman again; and she bore a son, and called-out his name "Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him."
+And Earthling (Adam) knew his woman again; and she bore a son, and called-out his name "Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him."
 
 And to Appointed (Seth) also he was born a son; and he called-out his name Mortal (Enosh); then it began, to call-out in the name of He-Who-Is (YHWH).

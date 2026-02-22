@@ -65,8 +65,8 @@ export const genesis_5_5: Verse = {
     {
       hebrew: 'אָדָם',
       transliteration: 'Adam',
-      englishLiteral: 'Earth (Adam)',
-      englishNatural: 'Earth (Adam)',
+      englishLiteral: 'Earthling (Adam)',
+      englishNatural: 'Earthling (Adam)',
       root: 'adam',
       order: {
         hebrew: 4,
@@ -225,10 +225,10 @@ export const genesis_5_5: Verse = {
     transliteration:
       'vaYihyu kol-yemey Adam asher chai tesha meot shanah uShloshim shanah vaYamot',
     englishLiteral:
-      'and-were all- days-of Earth (Adam), which he-lived, nine hundreds year and-thirty year, and-he-died.',
+      'and-were all- days-of Earthling (Adam), which he-lived, nine hundreds year and-thirty year, and-he-died.',
     englishNatural:
-      'And all the days of Earth (Adam), which he lived, were nine hundred years and thirty years, and he died.',
+      'And all the days of Earthling (Adam), which he lived, were nine hundred years and thirty years, and he died.',
     kjv: 'And all the days that Adam lived were nine hundred and thirty years: and he died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

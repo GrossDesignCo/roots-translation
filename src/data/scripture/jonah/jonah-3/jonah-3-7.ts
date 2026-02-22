@@ -130,8 +130,8 @@ export const jonah_3_7: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'The Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'The Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 8,
@@ -360,10 +360,10 @@ export const jonah_3_7: Verse = {
     transliteration:
       'vaYazeeq vaYomer beNineveh mitaam haMelekh uGedolav lemor haAdam veHaBehemah haBaqar veHaTzon al-yitamu meumah al-yiru uMayim al-yishtu',
     englishLiteral:
-      'And-cried_out and-said in-Dwelling_of_Fish (Nineveh), from-decree-of the-king and-greats-his, to-say, "the-Earth (Adam) and-the-beast, the-cattle and-the-flock, not- they-will-taste anything, not- they-will-graze and-waters not- they-will-drink;',
+      'And-cried_out and-said in-Dwelling_of_Fish (Nineveh), from-decree-of the-king and-greats-his, to-say, "the-Earthling (Adam) and-the-beast, the-cattle and-the-flock, not- they-will-taste anything, not- they-will-graze and-waters not- they-will-drink;',
     englishNatural:
-      'And he cried-out and said in Dwelling-of-Fish (Nineveh), from the decree of the king and his greats, to say, "The Earth (Adam) and the beast, the cattle and the flock, they will taste not anything, they will graze not, and waters they will drink not;',
+      'And he cried-out and said in Dwelling-of-Fish (Nineveh), from the decree of the king and his greats, to say, "The Earthling (Adam) and the beast, the cattle and the flock, they will taste not anything, they will graze not, and waters they will drink not;',
     kjv: 'And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

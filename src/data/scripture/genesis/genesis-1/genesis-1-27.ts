@@ -64,8 +64,8 @@ export const genesis_1_27: Verse = {
     {
       hebrew: 'הָֽאָדָם֙',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 4,
@@ -236,10 +236,10 @@ export const genesis_1_27: Verse = {
     transliteration:
       'vaYiVra Elohim et-haAdam beTsalmo beTselem Elohim bara oto zakhar uNekevah bara otam',
     englishLiteral:
-      'And-created Gods, ↳ the-Earth (Adam), in-his-image, in-image-of Gods, created him, male and-female, created them.',
+      'And-created Gods, ↳ the-Earthling (Adam), in-his-image, in-image-of Gods, created him, male and-female, created them.',
     englishNatural:
-      'And God created the Earth (Adam), in his image, in the image of God, created him, male and female, created them.',
+      'And God created the Earthling (Adam), in his image, in the image of God, created him, male and female, created them.',
     kjv: 'So God created man in his own image, in the image of God created he him; male and female created he them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

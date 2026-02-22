@@ -36,4 +36,4 @@ and-I-was darlings day day,
 laughing to-faces-his in-all- time.
 
 laughing in-world-of his-land, 
-and-my-darlings ↳ sons-of Earth (Adam). 
+and-my-darlings ↳ sons-of Earthling (Adam). 

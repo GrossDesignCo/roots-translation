@@ -16,13 +16,13 @@ Only- flesh, in-its-wind, its-blood, not you-will-eat.
 
 And-only ↳ your-blood for-your-winds I-will-require;
 from-hand-of all- living_being I-will-require-it;
-and-from-hand-of the-Earth (Adam),
+and-from-hand-of the-Earthling (Adam),
 from-hand-of man his-brother
-I-will-require ↳ soul-of the-Earth (Adam).
+I-will-require ↳ soul-of the-Earthling (Adam).
 
-One-pouring blood-of the-Earth (Adam),
-in-Earth (Adam) his-blood it-will-be-poured;
-for in-image-of Gods, he-made ↳ the-Earth (Adam).
+One-pouring blood-of the-Earthling (Adam),
+in-Earthling (Adam) his-blood it-will-be-poured;
+for in-image-of Gods, he-made ↳ the-Earthling (Adam).
 
 And-you, be_fruitful and-multiply,
 swarm in-land, and-multiply- in-it."

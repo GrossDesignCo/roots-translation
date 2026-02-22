@@ -59,8 +59,8 @@ export const genesis_5_1: Verse = {
     {
       hebrew: 'אָדָם',
       transliteration: 'Adam',
-      englishLiteral: 'Earth (Adam)',
-      englishNatural: 'Earth (Adam)',
+      englishLiteral: 'Earthling (Adam)',
+      englishNatural: 'Earthling (Adam)',
       root: 'adam',
       order: 4,
       morphology: {
@@ -127,8 +127,8 @@ export const genesis_5_1: Verse = {
     {
       hebrew: 'אָדָם',
       transliteration: 'Adam',
-      englishLiteral: 'Earth (Adam)',
-      englishNatural: 'Earth (Adam)',
+      englishLiteral: 'Earthling (Adam)',
+      englishNatural: 'Earthling (Adam)',
       root: 'adam',
       order: 8,
       morphology: {
@@ -214,10 +214,10 @@ export const genesis_5_1: Verse = {
     transliteration:
       'zeh sefer toledot Adam beYom bero Elohim Adam biDemut Elohim asah oto',
     englishLiteral:
-      'This book, birthings Earth (Adam). In-day create Gods Earth (Adam), in-likeness-of Gods he-made him.',
+      'This book, birthings Earthling (Adam). In-day create Gods Earthling (Adam), in-likeness-of Gods he-made him.',
     englishNatural:
-      'This book, Birthings of Earth (Adam). In the day God created Earth (Adam), in the likeness of God he made him.',
+      'This book, Birthings of Earthling (Adam). In the day God created Earthling (Adam), in the likeness of God he made him.',
     kjv: 'This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

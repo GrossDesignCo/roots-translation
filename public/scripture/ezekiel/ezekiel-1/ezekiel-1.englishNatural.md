@@ -21,7 +21,7 @@ and from its midst like an eye of the glowing-metal from the midst of the fire.
 
 And from its midst a likeness of four living-beings;
 and this their appearance,
-a likeness of Earth (Adam) to them.
+a likeness of Earthling (Adam) to them.
 
 And four faces to one,
 and four wings to one, to them.
@@ -30,7 +30,7 @@ And their legs were a leg straight,
 and the palm of their legs like the palm of the leg of a calf,
 and sparkling like an eye of polished bronze.
 
-And hands of Earth (Adam) from under their wings
+And hands of Earthling (Adam) from under their wings
 over four of their sides;
 and their faces and their wings to four of them.
 
@@ -39,7 +39,7 @@ they went-around not in their going;
 man to the side of his face they went.
 
 And the likeness of their faces:
-the face of Earth (Adam),
+the face of Earthling (Adam),
 and the face of a lion to the right to four of them,
 and the face of an ox from the left to four of them,
 and the face of an eagle to four of them.
@@ -112,7 +112,7 @@ in their standing they sank their wings.
 And from over the hammering-out which over his head
 like the appearance of a stone of sapphire the likeness of a throne;
 and over the likeness of the throne 
-a likeness like the appearance of Earth (Adam), from upward over him.
+a likeness like the appearance of Earthling (Adam), from upward over him.
 
 And I saw like an eye of glowing-metal,
 like an appearance of fire a house to all-around

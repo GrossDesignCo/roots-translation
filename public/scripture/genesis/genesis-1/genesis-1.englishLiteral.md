@@ -91,10 +91,10 @@ And-↳ the-beast, to-its-kind,
 And-↳ all crawler the-earth, to-its-kind, 
 And-saw Gods, that- good.
 
-And-said Gods, "Let_us-make Earth (Adam), in-our-image, as-our-likeness, 
+And-said Gods, "Let_us-make Earthling (Adam), in-our-image, as-our-likeness, 
 And-let-them-subjugate, in-fish-of the-sea, and-in-flyer-of the-skies, and-in-beast, and-in-all the-land, and-in-all the-crawler, the-crawling, over the-land."
 
-And-created Gods, ↳ the-Earth (Adam), in-his-image,
+And-created Gods, ↳ the-Earthling (Adam), in-his-image,
 in-image-of Gods, created him, 
 male and-female, created them.
 

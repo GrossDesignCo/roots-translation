@@ -62,8 +62,8 @@ export const genesis_6_1: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -192,10 +192,10 @@ export const genesis_6_1: Verse = {
     transliteration:
       'vayHi ki-hechel haAdam laRov al-peney haAdamah uVanot yuledu lahem',
     englishLiteral:
-      'And-it-was, that- began the-Earth (Adam) to-multiply over- faces-of the-earth; and-daughters were-birthed to-them.',
+      'And-it-was, that- began the-Earthling (Adam) to-multiply over- faces-of the-earth; and-daughters were-birthed to-them.',
     englishNatural:
-      'And it was, that the Earth (Adam) began to multiply over the face of the earth; and daughters were birthed to them.',
+      'And it was, that the Earthling (Adam) began to multiply over the face of the earth; and daughters were birthed to them.',
     kjv: 'And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

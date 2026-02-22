@@ -1,6 +1,6 @@
 
 And He said to me,
-"Son of Earth (Adam), stand over your feet,
+"Son of Earthling (Adam), stand over your feet,
 and I will speak to you."
 
 And wind came in me

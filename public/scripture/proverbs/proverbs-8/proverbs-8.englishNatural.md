@@ -36,4 +36,4 @@ and I was darlings day day,
 laughing to his faces in all time.
 
 laughing in the world of his land, 
-and my darlings the sons of Earth (Adam). 
+and my darlings the sons of Earthling (Adam). 

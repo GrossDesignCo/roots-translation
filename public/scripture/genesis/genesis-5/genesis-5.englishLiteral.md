@@ -1,21 +1,21 @@
 
-This book, birthings Earth (Adam).
+This book, birthings Earthling (Adam).
 
-In-day create Gods Earth (Adam),
+In-day create Gods Earthling (Adam),
 in-likeness-of Gods he-made him.
 male and-female he-created; 
 and-blessed them, 
-and-called_out ↳ name-their, "Earth (Adam)," 
+and-called_out ↳ name-their, "Earthling (Adam)," 
 in-day them-being-created.
 
-and-lived Earth (Adam) thirty and-hundred year, 
+and-lived Earthling (Adam) thirty and-hundred year, 
 and-birthed in-likeness-his, as-image-his; 
 and-called_out ↳ name-his, "Appointed (Seth)."
 
-and-were days-of Earth (Adam) after birthing-him ↳ Appointed (Seth), eight hundreds year; 
+and-were days-of Earthling (Adam) after birthing-him ↳ Appointed (Seth), eight hundreds year; 
 and-birthed sons and-daughters.
 
-and-were all- days-of Earth (Adam), which he-lived,
+and-were all- days-of Earthling (Adam), which he-lived,
 nine hundreds year and-thirty year, 
 and-he-died.
 

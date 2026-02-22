@@ -214,8 +214,8 @@ export const genesis_2_19: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 15,
@@ -345,8 +345,8 @@ export const genesis_2_19: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -435,10 +435,10 @@ export const genesis_2_19: Verse = {
     transliteration:
       'vaYitzer YHWH Elohim min-haAdamah kol-chayyat haSadeh veEt kol-of haShamayim vaYave el-haAdam liReot mah-yiqra-lo veKol asher yiqra-lo haAdam nephesh chayyah hu shemo',
     englishLiteral:
-      'And-formed He_Who_Is (YHWH) Gods from- the-earth all- living_being-of the-field, and-↳ all- flyer the-skies; And-brought to- the-Earth (Adam) to-see what- he-calls_out- to-it; And-all which he-calls_out- to-it the-Earth (Adam), throat living, it its-name.',
+      'And-formed He_Who_Is (YHWH) Gods from- the-earth all- living_being-of the-field, and-↳ all- flyer the-skies; And-brought to- the-Earthling (Adam) to-see what- he-calls_out- to-it; And-all which he-calls_out- to-it the-Earthling (Adam), throat living, it its-name.',
     englishNatural:
-      'And He-Who-Is (YHWH) God formed from the earth every living-being of the field, and every flyer of the skies; And brought to the Earth (Adam) to see what he would call-out to it; And everything which the Earth (Adam) would call-out to it, each living throat, that was its name.',
+      'And He-Who-Is (YHWH) God formed from the earth every living-being of the field, and every flyer of the skies; And brought to the Earthling (Adam) to see what he would call-out to it; And everything which the Earthling (Adam) would call-out to it, each living throat, that was its name.',
     kjv: 'And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

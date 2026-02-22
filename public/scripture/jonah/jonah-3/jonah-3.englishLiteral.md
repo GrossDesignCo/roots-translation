@@ -29,14 +29,14 @@ and-sat over- the-ashes.
 
 And-cried_out and-said in-Dwelling_of_Fish (Nineveh), 
 from-decree-of the-king and-greats-his, to-say, 
-"the-Earth (Adam) and-the-beast, 
+"the-Earthling (Adam) and-the-beast, 
 the-cattle and-the-flock, 
 not- they-will-taste anything, 
 not- they-will-graze 
 and-waters not- they-will-drink;
 
 And-they-will-be-covered sackcloth,
-the-Earth (Adam) and-the-beast, 
+the-Earthling (Adam) and-the-beast, 
 and-they-will-call_out to- Gods in-intensity; 
 and-return man from-way-his the-bad 
 and-from- the-violence which in-palms-their.

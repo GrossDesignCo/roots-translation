@@ -276,8 +276,8 @@ export const genesis_8_21: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 17,
@@ -333,8 +333,8 @@ export const genesis_8_21: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 21,
@@ -521,10 +521,10 @@ export const genesis_8_21: Verse = {
     transliteration:
       'vayYarach YHWH et-reach haNichoach vayYomer YHWH el-libo lo-osif leQalel od et-haAdamah baAvur haAdam ki yetzer lev haAdam ra miNeurav veLo-osif od leHakot et-kol-chai kaAsher asiti',
     englishLiteral:
-      'And-winded He_Who_Is (YHWH) ↳ wind-of the-restful; and-said He_Who_Is (YHWH) to- his-heart, "not- I-will-add, to-treat-lightly again ↳ the-earth, in-passing_through-of the-Earth (Adam), for forming heart-of the-Earth (Adam), bad from-his-youth; and-not- I-will-add again to-strike ↳ all- living, as-which I-have-done.',
+      'And-winded He_Who_Is (YHWH) ↳ wind-of the-restful; and-said He_Who_Is (YHWH) to- his-heart, "not- I-will-add, to-treat-lightly again ↳ the-earth, in-passing_through-of the-Earthling (Adam), for forming heart-of the-Earthling (Adam), bad from-his-youth; and-not- I-will-add again to-strike ↳ all- living, as-which I-have-done.',
     englishNatural:
-      'And He-Who-Is (YHWH) winded the wind of the restful; and He-Who-Is (YHWH) said to his heart, "I will add not, to treat-lightly again the earth, in the passing-through of the Earth (Adam), for the forming of the heart of the Earth (Adam), bad from his youth; and I will add not again to strike all living, as which I have done.',
+      'And He-Who-Is (YHWH) winded the wind of the restful; and He-Who-Is (YHWH) said to his heart, "I will add not, to treat-lightly again the earth, in the passing-through of the Earthling (Adam), for the forming of the heart of the Earthling (Adam), bad from his youth; and I will add not again to strike all living, as which I have done.',
     kjv: "And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-07' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

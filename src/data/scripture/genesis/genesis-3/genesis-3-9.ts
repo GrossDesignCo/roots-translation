@@ -78,8 +78,8 @@ export const genesis_3_9: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 5,
@@ -152,10 +152,10 @@ export const genesis_3_9: Verse = {
     hebrew: 'וַיִּקְרָא יְהוָה אֱלֹהִים אֶל־הָאָדָם וַיֹּאמֶר לוֹ אַיֶּכָּה',
     transliteration: 'vaYiqra YHWH Elohim el-haAdam vaYomer lo ayekah',
     englishLiteral:
-      'And-called_out He_Who_Is (YHWH) Gods to- the-Earth (Adam), and-said to-him, "Where?"',
+      'And-called_out He_Who_Is (YHWH) Gods to- the-Earthling (Adam), and-said to-him, "Where?"',
     englishNatural:
-      'And He-Who-Is (YHWH) God called-out to the Earth (Adam), and said to him, "Where are you?"',
+      'And He-Who-Is (YHWH) God called-out to the Earthling (Adam), and said to him, "Where are you?"',
     kjv: 'And the LORD God called unto Adam, and said unto him, Where art thou?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

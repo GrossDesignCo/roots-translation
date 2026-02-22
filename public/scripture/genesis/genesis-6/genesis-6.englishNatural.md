@@ -1,30 +1,30 @@
 
-And it was, that the Earth (Adam) began to multiply over the face of the earth;
+And it was, that the Earthling (Adam) began to multiply over the face of the earth;
 and daughters were birthed to them.
 
-And the sons of God saw the daughters of Earth (Adam),
+And the sons of God saw the daughters of Earthling (Adam),
 that they were good;
 and they took to themselves women, from all which they chose.
 
-And He-Who-Is (YHWH) said, "My Wind will judge not in Earth (Adam) to the-age,
+And He-Who-Is (YHWH) said, "My Wind will judge not in Earthling (Adam) to the-age,
 in moreover he is flesh;
 and his days will be a hundred and twenty years."
 
 The Fallen (Nephilim) were in the land in those
 days; and also after so,
-which the sons of God came to the daughters of Earth (Adam),
+which the sons of God came to the daughters of Earthling (Adam),
 and to them they birthed the mighty-ones,
 which from the-age, men of the name.
 
-And He-Who-Is (YHWH) saw that the bad of Earth (Adam) was multiplying in the land,
+And He-Who-Is (YHWH) saw that the bad of Earthling (Adam) was multiplying in the land,
 and all the forming of thoughts of his heart, only bad, all the day.
 
-And He-Who-Is (YHWH) relented, that he made Earth (Adam) in the land,
+And He-Who-Is (YHWH) relented, that he made Earthling (Adam) in the land,
 and it grieved him to his heart.
 
-And He-Who-Is (YHWH) said, "I will wipe-out the Earth (Adam) which I created
+And He-Who-Is (YHWH) said, "I will wipe-out the Earthling (Adam) which I created
 from over the face of the earth,
-from Earth (Adam) unto beast, unto creeping-thing, and unto bird of the skies;
+from Earthling (Adam) unto beast, unto creeping-thing, and unto bird of the skies;
 for I have relented that I have made them."
 
 And Rest (Noah) found grace in the eyes of He-Who-Is (YHWH).

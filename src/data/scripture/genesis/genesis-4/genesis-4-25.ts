@@ -33,8 +33,8 @@ export const genesis_4_25: Verse = {
     {
       hebrew: 'אָדָם',
       transliteration: 'Adam',
-      englishLiteral: 'Earth (Adam)',
-      englishNatural: 'And Earth (Adam)',
+      englishLiteral: 'Earthling (Adam)',
+      englishNatural: 'And Earthling (Adam)',
       root: 'adam',
       order: {
         hebrew: 2,
@@ -384,10 +384,10 @@ export const genesis_4_25: Verse = {
     transliteration:
       'vaYeda Adam od et-ishto vaTeled ben vaTiqra et-shemo Shet ki shat-li Elohim zera acher tachat Hevel ki harago Qayin',
     englishLiteral:
-      'and-knew Earth (Adam) again ↳ woman-his; and-bore son, and-called_out ↳ name-his "Appointed (Seth); that appointed to-me Gods seed another instead-of Vapor (Abel); that killed-him Acquired (Cain)."',
+      'and-knew Earthling (Adam) again ↳ woman-his; and-bore son, and-called_out ↳ name-his "Appointed (Seth); that appointed to-me Gods seed another instead-of Vapor (Abel); that killed-him Acquired (Cain)."',
     englishNatural:
-      'And Earth (Adam) knew his woman again; and she bore a son, and called-out his name "Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him."',
+      'And Earthling (Adam) knew his woman again; and she bore a son, and called-out his name "Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him."',
     kjv: 'And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel; for Cain slew him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

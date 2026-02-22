@@ -1,19 +1,19 @@
 
-This book, Birthings of Earth (Adam).
+This book, Birthings of Earthling (Adam).
 
-In the day God created Earth (Adam),
+In the day God created Earthling (Adam),
 in the likeness of God he made him.
 Male and female he created; 
 and blessed them, 
-and called-out their name, "Earth (Adam)," 
+and called-out their name, "Earthling (Adam)," 
 in the day of them being created.
 
-And Earth (Adam) lived thirty and a hundred years, 
+And Earthling (Adam) lived thirty and a hundred years, 
 and birthed in his likeness, as his image; 
 and called-out his name, "Appointed (Seth)."
-And the days of Earth (Adam) after he had birthed Appointed (Seth), were eight hundred years; 
+And the days of Earthling (Adam) after he had birthed Appointed (Seth), were eight hundred years; 
 and he birthed sons and daughters.
-And all the days of Earth (Adam), which he lived,
+And all the days of Earthling (Adam), which he lived,
 were nine hundred years and thirty years, 
 and he died.
 

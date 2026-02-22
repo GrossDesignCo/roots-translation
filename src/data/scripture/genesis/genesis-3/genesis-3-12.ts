@@ -36,8 +36,8 @@ export const genesis_3_12: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'And the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'And the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -216,10 +216,10 @@ export const genesis_3_12: Verse = {
     transliteration:
       'vaYomer haAdam haIshah asher natata imadi hi natnah-li min-haEtz vaOkhel',
     englishLiteral:
-      'And-he-said the-Earth (Adam), "The-woman which you-gave with-me; she she-gave- to-me from- the-tree, and-I-ate."',
+      'And-he-said the-Earthling (Adam), "The-woman which you-gave with-me; she she-gave- to-me from- the-tree, and-I-ate."',
     englishNatural:
-      'And the Earth (Adam) said, "The woman which you gave with me; she gave to me from the tree, and I ate."',
+      'And the Earthling (Adam) said, "The woman which you gave with me; she gave to me from the tree, and I ate."',
     kjv: 'And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

@@ -127,8 +127,8 @@ export const genesis_2_22: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 9,
@@ -192,8 +192,8 @@ export const genesis_2_22: Verse = {
     {
       hebrew: 'הָאָדָם׃',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 13,
@@ -215,10 +215,10 @@ export const genesis_2_22: Verse = {
     transliteration:
       'vaYiven YHWH Elohim et-haTzela asher lakach min-haAdam leIshah vaYeviEha el-haAdam',
     englishLiteral:
-      'And-built He_Who_Is (YHWH) Gods ↳ the-side which he-took from- the-Earth (Adam), to-woman, and-brought-her to- the-Earth (Adam).',
+      'And-built He_Who_Is (YHWH) Gods ↳ the-side which he-took from- the-Earthling (Adam), to-woman, and-brought-her to- the-Earthling (Adam).',
     englishNatural:
-      'And He-Who-Is (YHWH) God built the side which he took from the Earth (Adam), into a woman, and brought her to the Earth (Adam).',
+      'And He-Who-Is (YHWH) God built the side which he took from the Earthling (Adam), into a woman, and brought her to the Earthling (Adam).',
     kjv: 'And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

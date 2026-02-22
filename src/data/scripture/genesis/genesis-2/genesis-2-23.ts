@@ -36,8 +36,8 @@ export const genesis_2_23: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'And the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'And the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -286,10 +286,10 @@ export const genesis_2_23: Verse = {
     transliteration:
       'vaYomer haAdam zot haPaam etsem meAtzamai uVasar miVesari leZot yiqarei ishah ki meIsh luqqachah zot',
     englishLiteral:
-      'And-said the-Earth (Adam), "This the-time! Bone from-my-bones, and-flesh from-my-flesh; to-this will-be-called_out \'Woman,\' that from-Man was-taken this."',
+      'And-said the-Earthling (Adam), "This the-time! Bone from-my-bones, and-flesh from-my-flesh; to-this will-be-called_out \'Woman,\' that from-Man was-taken this."',
     englishNatural:
-      'And the Earth (Adam) said, "This is the time! Bone from my bones, and flesh from my flesh; to this will be called-out \'Woman,\' that from Man this was taken."',
+      'And the Earthling (Adam) said, "This is the time! Bone from my bones, and flesh from my flesh; to this will be called-out \'Woman,\' that from Man this was taken."',
     kjv: 'And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

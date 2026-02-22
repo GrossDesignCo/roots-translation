@@ -78,8 +78,8 @@ export const genesis_2_16: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 5,
@@ -201,10 +201,10 @@ export const genesis_2_16: Verse = {
     transliteration:
       'vaYetzav YHWH Elohim al-haAdam leEmor miKol etz-haGan akhol toAkhel',
     englishLiteral:
-      'And-commanded He_Who_Is (YHWH) Gods over- the-Earth (Adam), to-say, "From-all tree- the-garden, eating, let-you-will-eat,',
+      'And-commanded He_Who_Is (YHWH) Gods over- the-Earthling (Adam), to-say, "From-all tree- the-garden, eating, let-you-will-eat,',
     englishNatural:
-      'And He-Who-Is (YHWH) God commanded over the Earth (Adam), saying, "From all tree of the garden, eating, let you eat,',
+      'And He-Who-Is (YHWH) God commanded over the Earthling (Adam), saying, "From all tree of the garden, eating, let you eat,',
     kjv: 'And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

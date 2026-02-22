@@ -10,8 +10,8 @@ export const genesis_3_17: Verse = {
     {
       hebrew: 'וּלְאָדָם',
       transliteration: 'uleAdam',
-      englishLiteral: 'And-to-Earth (Adam)',
-      englishNatural: 'And to Earth (Adam)',
+      englishLiteral: 'And-to-Earthling (Adam)',
+      englishNatural: 'And to Earthling (Adam)',
       root: 'adam',
       prefixes: ['u', 'le'],
       order: 1,
@@ -396,10 +396,10 @@ export const genesis_3_17: Verse = {
     transliteration:
       'uleAdam amar ki-shmamta leQol ishtekha vaToAkhal min-haEtz asher tzivitikha lemor lo tokhal mimenu arurah haAdamah baAvurekha beItzavon tokhlena kol yemey chayyekha',
     englishLiteral:
-      'And-to-Earth (Adam) he-said, "That you-listened to-voice woman-your, and-you-ate from the-tree, which I-commanded-you to-say, \'Not you-will-eat from-it\'; cursed the-earth in-passing_through-your; in-pain you-will-eat, all days-of lives-your;"',
+      'And-to-Earthling (Adam) he-said, "That you-listened to-voice woman-your, and-you-ate from the-tree, which I-commanded-you to-say, \'Not you-will-eat from-it\'; cursed the-earth in-passing_through-your; in-pain you-will-eat, all days-of lives-your;"',
     englishNatural:
-      'And to Earth (Adam) he said, "That you listened to the voice of your woman, and you ate from the tree, which I commanded you saying, \'You will eat from it not\'; cursed is the earth in your passing-through; in pain you will eat, all the days of your life;"',
+      'And to Earthling (Adam) he said, "That you listened to the voice of your woman, and you ate from the tree, which I commanded you saying, \'You will eat from it not\'; cursed is the earth in your passing-through; in pain you will eat, all the days of your life;"',
     kjv: 'And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life:',
-    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

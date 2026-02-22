@@ -110,8 +110,8 @@ export const genesis_6_3: Verse = {
     {
       hebrew: 'בָאָדָם',
       transliteration: 'baAdam',
-      englishLiteral: 'in-Earth (Adam)',
-      englishNatural: 'in Earth (Adam)',
+      englishLiteral: 'in-Earthling (Adam)',
+      englishNatural: 'in Earthling (Adam)',
       root: 'adam',
       prefixes: ['ba'],
       order: 6,
@@ -270,10 +270,10 @@ export const genesis_6_3: Verse = {
     transliteration:
       'vayYomer YHWH lo-yadon ruchi baAdam leOlam beShagam hu basar veHayu yamav meah veEsrim shanah',
     englishLiteral:
-      'And-he-said He_Who_Is (YHWH), "not- will-judge my-wind in-Earth (Adam) to-the_age, in-moreover he flesh; and-they-will-be his-days hundred and-twenty year."',
+      'And-he-said He_Who_Is (YHWH), "not- will-judge my-wind in-Earthling (Adam) to-the_age, in-moreover he flesh; and-they-will-be his-days hundred and-twenty year."',
     englishNatural:
-      'And He-Who-Is (YHWH) said, "My Wind will judge not in Earth (Adam) to the-age, in moreover he is flesh; and his days will be a hundred and twenty years."',
+      'And He-Who-Is (YHWH) said, "My Wind will judge not in Earthling (Adam) to the-age, in moreover he is flesh; and his days will be a hundred and twenty years."',
     kjv: 'And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

@@ -1,6 +1,6 @@
 
 And-he-said to-me,
-"son-of- Earth (Adam), stand over- feet-your,
+"son-of- Earthling (Adam), stand over- feet-your,
 and-I-will-speak you."
 
 And-came in-me wind

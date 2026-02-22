@@ -75,8 +75,8 @@ export const genesis_2_15: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 5,
@@ -179,10 +179,10 @@ export const genesis_2_15: Verse = {
     transliteration:
       'vaYikach YHWH Elohim et-haAdam vaYanNichehu beGan-Eden leAvdah uLeShamrah',
     englishLiteral:
-      'And-took He_Who_Is (YHWH) Gods ↳ the-Earth (Adam), and-rested-him in-Garden- Delight (Eden), to-serve-her and-to-keep-her.',
+      'And-took He_Who_Is (YHWH) Gods ↳ the-Earthling (Adam), and-rested-him in-Garden- Delight (Eden), to-serve-her and-to-keep-her.',
     englishNatural:
-      'And He-Who-Is (YHWH) God took the Earth (Adam), and rested him in Garden Delight (Eden), to serve her and to keep her.',
+      'And He-Who-Is (YHWH) God took the Earthling (Adam), and rested him in Garden Delight (Eden), to serve her and to keep her.',
     kjv: 'And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

@@ -15,7 +15,7 @@ and let us make for us a name
 lest we are scattered over the face of all the land."
 
 And He-Who-Is (YHWH) descended to see the city 
-and the tower which the sons of the Earth (Adam) had built.
+and the tower which the sons of the Earthling (Adam) had built.
 
 And He-Who-Is (YHWH) said, 
 "Behold, the people is one 

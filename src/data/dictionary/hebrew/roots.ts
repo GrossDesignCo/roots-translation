@@ -1292,8 +1292,8 @@ const ROOTS = {
   adam: {
     hebrew: 'אדם',
     transliteration: 'Adam',
-    englishLiteral: 'Earth (Adam)',
-    englishNatural: 'Earth (Adam)',
+    englishLiteral: 'Earthling (Adam)',
+    englishNatural: 'Earthling (Adam)',
     description:
       'Humans in general, Name of Adam, distinct term from from man (ish), male (zakhar), always refers to humanity when in masculine form, to the ground from which humans were formed when in feminine form',
     related: [

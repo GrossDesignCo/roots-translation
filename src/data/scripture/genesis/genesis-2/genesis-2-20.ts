@@ -33,8 +33,8 @@ export const genesis_2_20: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'And the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'And the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -171,8 +171,8 @@ export const genesis_2_20: Verse = {
     {
       hebrew: 'וּלְאָדָם',
       transliteration: 'uLeAdam',
-      englishLiteral: 'and-to-Earth (Adam)',
-      englishNatural: 'and to Earth (Adam)',
+      englishLiteral: 'and-to-Earthling (Adam)',
+      englishNatural: 'and to Earthling (Adam)',
       root: 'adam',
       prefixes: ['u', 'le'],
       order: 11,
@@ -254,10 +254,10 @@ export const genesis_2_20: Verse = {
     transliteration:
       'vaYiqra haAdam shemot leKol-haBehemah uLeOf haShamayim uLeKol chayyat haSadeh uLeAdam lo matza ezer keNegdo',
     englishLiteral:
-      'And-called_out the-Earth (Adam) names to-every- the-beast, and-to-flyer the-skies, and-to-every living_being-of the-field, and-to-Earth (Adam) no was-found help as-his_opposite.',
+      'And-called_out the-Earthling (Adam) names to-every- the-beast, and-to-flyer the-skies, and-to-every living_being-of the-field, and-to-Earthling (Adam) no was-found help as-his_opposite.',
     englishNatural:
-      'And the Earth (Adam) called-out names to every beast, and to flyer of the skies, and to every living-being of the field, and to Earth (Adam), no help was found as his opposite.',
+      'And the Earthling (Adam) called-out names to every beast, and to flyer of the skies, and to every living-being of the field, and to Earthling (Adam), no help was found as his opposite.',
     kjv: 'And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

@@ -115,8 +115,8 @@ export const genesis_2_18: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'for the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'for the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -214,10 +214,10 @@ export const genesis_2_18: Verse = {
     transliteration:
       'vaYomer YHWH Elohim lo-tov heyot haAdam leVaddo eese-lo ezer keNegdo',
     englishLiteral:
-      'And-said He_Who_Is (YHWH) Gods, "No- good to-be the-Earth (Adam) to-alone-him; I-will-make- to-him help, as-his_opposite."',
+      'And-said He_Who_Is (YHWH) Gods, "No- good to-be the-Earthling (Adam) to-alone-him; I-will-make- to-him help, as-his_opposite."',
     englishNatural:
-      'And He-Who-Is (YHWH) God said, "No good for the Earth (Adam) to be to himself alone; I will make to him a help, as his opposite."',
+      'And He-Who-Is (YHWH) God said, "No good for the Earthling (Adam) to be to himself alone; I will make to him a help, as his opposite."',
     kjv: 'And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };

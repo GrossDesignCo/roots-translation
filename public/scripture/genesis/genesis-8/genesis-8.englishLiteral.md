@@ -8,8 +8,8 @@ And-winded He_Who_Is (YHWH) ↳ wind-of the-restful;
 and-said He_Who_Is (YHWH) to- his-heart,
 
 "not- I-will-add, to-treat-lightly again ↳ the-earth,
-in-passing_through-of the-Earth (Adam),
-for forming heart-of the-Earth (Adam), bad from-his-youth;
+in-passing_through-of the-Earthling (Adam),
+for forming heart-of the-Earthling (Adam), bad from-his-youth;
 and-not- I-will-add again to-strike ↳ all- living,
 as-which I-have-done.
 

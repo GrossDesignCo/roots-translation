@@ -93,8 +93,8 @@ export const genesis_3_22: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Earth (Adam)',
-      englishNatural: 'the Earth (Adam)',
+      englishLiteral: 'the-Earthling (Adam)',
+      englishNatural: 'the Earthling (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: 5,
@@ -360,10 +360,10 @@ export const genesis_3_22: Verse = {
     transliteration:
       'vayYomer YHWH Elohim hen haAdam hayah keAchad miMennu laDaat tov vaRa veAtah pen-yishLach yado veLaqach gam meEtz haChayyim veAkhal vaChai leOlam',
     englishLiteral:
-      'And-he-said He_Who_Is (YHWH) Gods, "Behold, the-Earth (Adam) has-become as-one from-us to-know good and-bad; and-now —or-else he-will-send hand-his and-take also from-tree the-lives and-eat and-live to-the_age—"',
+      'And-he-said He_Who_Is (YHWH) Gods, "Behold, the-Earthling (Adam) has-become as-one from-us to-know good and-bad; and-now —or-else he-will-send hand-his and-take also from-tree the-lives and-eat and-live to-the_age—"',
     englishNatural:
-      'And He-Who-Is (YHWH) God said, "Behold, the Earth (Adam) has become as one from us to know good and bad; and now —or else he will send-out his hand and take also from the Tree of Life and eat and live to the-age—"',
+      'And He-Who-Is (YHWH) God said, "Behold, the Earthling (Adam) has become as one from us to know good and bad; and now —or else he will send-out his hand and take also from the Tree of Life and eat and live to the-age—"',
     kjv: 'And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
   },
 };
