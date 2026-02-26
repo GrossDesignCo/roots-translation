@@ -9,7 +9,7 @@ import styles from './nav.module.css';
 type BookNameKey = keyof typeof currentStructure;
 type BookData = (typeof currentStructure)[BookNameKey];
 
-export const ScriptureNav = () => {
+export const ScriptureNav = ({ onChapterChange }: { onChapterChange: () => void }) => {
   const [openBook, setOpenBook] = useState<BookNameKey | null>(null);
   const { visibleVerseIds } = useScripturePosition();
 
@@ -33,11 +33,12 @@ export const ScriptureNav = () => {
                 openBook === bookNameKey || visibleBookIds.includes(bookNameKey)
               }
               visibleVerseIds={visibleVerseIds}
-              onToggleOpen={() =>
+              onToggleOpen={() => {
                 setOpenBook(
                   openBook === bookNameKey ? null : (bookNameKey as BookNameKey)
-                )
-              }
+                );
+              }}
+              onChapterChange={onChapterChange}
             />
           </li>
         ))}
@@ -52,6 +53,7 @@ interface BookNavProps {
   isOpen: boolean;
   onToggleOpen: () => void;
   visibleVerseIds: string[];
+  onChapterChange: () => void;
 }
 
 export const BookNav = ({
@@ -60,6 +62,7 @@ export const BookNav = ({
   isOpen,
   onToggleOpen,
   visibleVerseIds,
+  onChapterChange,
 }: BookNavProps) => {
   const visibleChapterIds = useMemo(() => {
     return Object.keys(bookData.chapters)
@@ -115,6 +118,7 @@ export const BookNav = ({
                   document
                     .getElementById(chapterId)
                     ?.scrollIntoView({ behavior: 'smooth' });
+                  onChapterChange();
                 }}
               >
                 {chapter}

@@ -54,7 +54,7 @@ export const Main = () => {
     <>
       {secondaryPanel === 'lexicon' && <LexiconEntryReader />}
       {secondaryPanel === 'settings' && <Settings />}
-      {secondaryPanel === 'scriptureNav' && <ScriptureNav />}
+      {secondaryPanel === 'scriptureNav' && <ScriptureNav onChapterChange={isDesktop ? () => {} : () => setSecondaryPanel(null)} />}
     </>
   );
 
