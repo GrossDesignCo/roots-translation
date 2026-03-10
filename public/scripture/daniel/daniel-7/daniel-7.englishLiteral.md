@@ -46,3 +46,7 @@ judge-the had-sat, and-books had-been-opened.
 Looking I-was in-visions night-the, 
 and-behold, with- clouds-of skies-the as-son-of Mortal_Man (Enash) 
 coming was, and-unto- Ancient-of Days-the had-reached, and-before-him had-caused-to-approach.
+
+and-to-him had-been-given dominion and-glory and-kingdom, 
+and-all peoples-the, nations-the, and-languages-the to-him will-serve; 
+dominion-His dominion everlasting which- not pass-away, and-kingdom-His which- not be-destroyed.

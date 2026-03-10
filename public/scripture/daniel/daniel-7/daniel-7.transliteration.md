@@ -46,3 +46,7 @@ dina yetiv veSiphrin pethichu
 chazeh haveit beKhezevei leila 
 vaAru im-ananei shemaya keVar enash 
 ateh havah veAd-Attiq yomaya meta uQodamohi haqrevuhi
+
+veleh yehiv sholtan viqar uMalkhu 
+veKhol ammaya umaya veLishanaya leh yiphlakhun 
+sholtaneh sholtan alam di-la yeddeh uMalkhuteh di-la titkhabbal

@@ -48,3 +48,7 @@ the judge had sat, and the books had been opened.
 I was looking in the visions of the night, 
 and behold, with the clouds of the skies, as a son of Mortal-Man (Enash) 
 he was coming, and unto the Ancient of the Days he had reached, and before him had caused to approach.
+
+And to Him had been given dominion and glory and a kingdom; 
+and all the peoples, nations, and languages Him will serve; 
+His dominion is a dominion everlasting that will not pass away, and His kingdom that will not be destroyed.

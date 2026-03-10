@@ -1,11 +1,14 @@
 {
   "key": "lashon",
-  "hebrew": "לָשׁוֹן",
+  "aramaic": "לִשָּׁן",
   "transliteration": "lashon",
-  "englishLiteral": "tongue",
-  "englishNatural": "tongue",
+  "englishLiteral": "language",
+  "englishNatural": "language",
   "type": "noun",
-  "description": "tongue, language, speech",
+  "description": "language, tongue (Aramaic and Hebrew)",
+  "cognateHebrew": [
+    "lashon"
+  ],
   "wordIndexes": {
     "daniel": {
       "7": {
