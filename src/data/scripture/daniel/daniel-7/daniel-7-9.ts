@@ -33,7 +33,7 @@ export const daniel_7_9: Verse = {
       transliteration: 'haveit',
       englishLiteral: 'I-was',
       englishNatural: 'I was',
-      root: 'hava_aramaic',
+      root: 'hava',
       order: {
         aramaic: 2,
         english: 1,
@@ -415,6 +415,6 @@ export const daniel_7_9: Verse = {
     englishLiteral: 'Looking I-was until that thrones were-placed, and-Ancient-of Days had-sat, garment-his as-snow white, and-hair-of head-his as-wool pure; throne-his flames of- fire, wheels-its fire burning.',
     englishNatural: 'I was looking until that thrones were placed, and the Ancient of Days had sat; his garment as white snow, and the hair of his head as pure wool; his throne, flames of fire; its wheels, burning fire.',
     kjv: 'I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-17' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-03-27' },
   },
 };

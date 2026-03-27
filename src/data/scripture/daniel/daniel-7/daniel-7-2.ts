@@ -86,7 +86,7 @@ export const daniel_7_2: Verse = {
       transliteration: 'haveit',
       englishLiteral: 'I-was',
       englishNatural: 'I was',
-      root: 'hava_aramaic',
+      root: 'hava',
       order: {
         aramaic: 5,
         english: 4,
@@ -274,6 +274,6 @@ export const daniel_7_2: Verse = {
     englishLiteral: 'Answered God_Is_My_Judge (Daniel) and-said, Looking I-was in-vision-my with- night; and-behold, four winds-of the-skies stirring_up to-the-sea great.',
     englishNatural: 'Daniel answered and said, "I was looking in my vision with night, and behold, the four winds of the skies were stirring-up to the great sea.',
     kjv: 'Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-17' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-03-27' },
   },
 };

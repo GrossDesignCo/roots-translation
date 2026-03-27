@@ -56,7 +56,7 @@ export const daniel_7_6: Verse = {
       transliteration: 'haveit',
       englishLiteral: 'I-was',
       englishNatural: 'I was',
-      root: 'hava_aramaic',
+      root: 'hava',
       order: {
         aramaic: 4,
         english: 3,
@@ -244,7 +244,7 @@ export const daniel_7_6: Verse = {
       transliteration: 'lekheyveta',
       englishLiteral: 'to-the-beast',
       englishNatural: 'to the beast',
-      root: 'khayva',
+      root: 'cheiva',
       prefixes: ['le'],
       suffixes: ['a'],
       order: {
@@ -317,6 +317,6 @@ export const daniel_7_6: Verse = {
     englishLiteral: 'After this looking I-was, and-behold, another, as-leopard, and-to-her- wings four of- bird on- back-its, and-four heads to-the-beast; and-dominion was-given to-her.',
     englishNatural: 'After this I was looking, and behold, another, as a leopard, and to it wings four of a bird on its back, and four heads to the beast; and dominion was given to it.',
     kjv: 'After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-17' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-03-27' },
   },
 };

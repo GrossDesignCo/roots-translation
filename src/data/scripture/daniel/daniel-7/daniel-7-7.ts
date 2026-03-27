@@ -53,7 +53,7 @@ export const daniel_7_7: Verse = {
       transliteration: 'haveit',
       englishLiteral: 'I-was',
       englishNatural: 'I was',
-      root: 'hava_aramaic',
+      root: 'hava',
       order: {
         aramaic: 4,
         english: 3,
@@ -122,7 +122,7 @@ export const daniel_7_7: Verse = {
       transliteration: 'kheyva',
       englishLiteral: 'beast',
       englishNatural: 'beast',
-      root: 'khayva',
+      root: 'cheiva',
       order: {
         aramaic: 8,
         english: 9,
@@ -141,7 +141,7 @@ export const daniel_7_7: Verse = {
       transliteration: 'reviaa',
       englishLiteral: 'fourth',
       englishNatural: 'a fourth',
-      root: 'reviai',
+      root: 'revai',
       suffixes: ['aah'],
       order: {
         aramaic: 9,
@@ -188,7 +188,7 @@ export const daniel_7_7: Verse = {
       transliteration: 'veTaqqipha',
       englishLiteral: 'and-strong',
       englishNatural: 'strong',
-      root: 'taqqiph',
+      root: 'taqqif',
       prefixes: ['ve'],
       suffixes: ['a'],
       order: {
@@ -299,7 +299,7 @@ export const daniel_7_7: Verse = {
       transliteration: 'uMaddeqah',
       englishLiteral: 'and-crushing',
       englishNatural: 'and crushing',
-      root: 'deqaq',
+      root: 'daq',
       prefixes: ['u'],
       order: 19,
       morphology: {
@@ -435,7 +435,7 @@ export const daniel_7_7: Verse = {
       transliteration: 'kheyvata',
       englishLiteral: 'the-beasts',
       englishNatural: 'the beasts',
-      root: 'khayva',
+      root: 'cheiva',
       suffixes: ['a'],
       order: 27,
       morphology: {
@@ -535,6 +535,6 @@ export const daniel_7_7: Verse = {
     englishLiteral: 'After this looking I-was in-visions night-the, and-behold, beast fourth, dreadful and-terrible and-strong exceedingly, and-teeth of- iron to-her; devouring and-crushing, and-the-remainder with-feet-its trampling; and-she different from- all- the-beasts which before-her, and-horns ten to-her.',
     englishNatural: 'After this I was looking in the visions of the night, and behold, a fourth beast, dreadful and terrible and exceedingly strong; and teeth of iron to it; devouring and crushing, and trampling the remainder with its feet; and it, different from all the beasts that, before it, and ten horns to it.',
     kjv: 'After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-17' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-03-27' },
   },
 };

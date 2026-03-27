@@ -33,7 +33,7 @@ export const daniel_7_13: Verse = {
       transliteration: 'haveit',
       englishLiteral: 'I-was',
       englishNatural: 'I was',
-      root: 'hava_aramaic',
+      root: 'hava',
       order: {
         aramaic: 2,
         english: 1,
@@ -202,7 +202,7 @@ export const daniel_7_13: Verse = {
       transliteration: 'havah',
       englishLiteral: 'was',
       englishNatural: 'he was',
-      root: 'hava_aramaic',
+      root: 'hava',
       order: {
         aramaic: 12,
         english: 11,
@@ -324,6 +324,6 @@ export const daniel_7_13: Verse = {
     englishLiteral: 'Looking I-was in-visions night-the, and-behold, with- clouds-of skies-the as-son-of Mortal_Man (Enash) coming was, and-unto- Ancient-of Days-the had-reached, and-before-him had-caused-to-approach.',
     englishNatural: 'I was looking in the visions of the night, and behold, with the clouds of the skies, as a son of Mortal-Man (Enash) he was coming, and unto the Ancient of the Days he had reached, and before him had caused to approach.',
     kjv: 'I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-03-27' },
   },
 };

@@ -118,7 +118,7 @@ export const daniel_7_4: Verse = {
       transliteration: 'haveit',
       englishLiteral: 'I-was',
       englishNatural: 'I was',
-      root: 'hava_aramaic',
+      root: 'hava',
       order: {
         aramaic: 8,
         english: 7,
@@ -374,6 +374,6 @@ export const daniel_7_4: Verse = {
     englishLiteral: 'The-first as-lion, and-wings of- eagle to-her. Looking I-was until that- were-plucked wings-its, and-lifted-up from- the-land, and-on- feet as-Mortal_Man (Enash) was-caused-to-stand, and-heart Mortal_Man (Enash) was-given to-her.',
     englishNatural: 'The first as a lion, and wings of an eagle to it. I was looking until that its wings were plucked; and it was lifted-up from the land, and on feet as a Mortal-Man (Enash) it was caused to stand, and a heart of a Mortal-Man (Enash) was given to it.',
     kjv: 'The first was like a lion, and had eagles wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a mans heart was given to it.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-03-27' },
   },
 };

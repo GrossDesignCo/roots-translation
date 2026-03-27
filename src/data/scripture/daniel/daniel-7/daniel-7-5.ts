@@ -28,7 +28,7 @@ export const daniel_7_5: Verse = {
       transliteration: 'kheyva',
       englishLiteral: 'beast',
       englishNatural: 'beast',
-      root: 'khayva',
+      root: 'cheiva',
       order: {
         aramaic: 2,
         english: 4,
@@ -367,6 +367,6 @@ export const daniel_7_5: Verse = {
     englishLiteral: 'And-behold, beast another second, similar to-bear. And-to-side- one it-was-raised_up, and-three ribs in-mouth-its between teeth-its; and-thus saying to-her, Arise devour flesh much.',
     englishNatural: 'And behold a second, another beast, similar to a bear. And to one side it was raised-up, and three ribs in its mouth between its teeth; and thus they said to it, "Arise, devour much flesh."',
     kjv: 'And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-17' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-03-27' },
   },
 };

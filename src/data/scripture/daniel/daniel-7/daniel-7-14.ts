@@ -70,7 +70,7 @@ export const daniel_7_14: Verse = {
       aramaic: 'וּמַלְכ֔וּ',
       transliteration: 'uMalkhu',
       englishLiteral: 'and-kingdom',
-      englishNatural: 'and a kingdom',
+      englishNatural: 'and kingdom',
       root: 'malkhut',
       prefixes: ['u'],
       order: 5,
@@ -121,7 +121,7 @@ export const daniel_7_14: Verse = {
       aramaic: 'אֻמַיָּ֛א',
       transliteration: 'umaya',
       englishLiteral: 'nations-the',
-      englishNatural: 'nations',
+      englishNatural: 'the nations',
       root: 'ummah',
       suffixes: ['a'],
       order: 8,
@@ -140,7 +140,7 @@ export const daniel_7_14: Verse = {
       aramaic: 'וְלִשָּׁנַיָּ֖א',
       transliteration: 'veLishanaya',
       englishLiteral: 'and-languages-the',
-      englishNatural: 'and languages',
+      englishNatural: 'and the languages',
       root: 'lashon',
       prefixes: ['ve'],
       suffixes: ['a'],
@@ -159,9 +159,15 @@ export const daniel_7_14: Verse = {
       englishNatural: 'Him',
       root: 'le',
       suffixes: ['h'],
-      order: 10,
+      order: {
+        aramaic: 10,
+        english: 11,
+      },
       morphology: {
         type: 'preposition',
+      },
+      grammarSuffix: {
+        englishNatural: ';',
       },
     },
     {
@@ -170,7 +176,10 @@ export const daniel_7_14: Verse = {
       englishLiteral: 'will-serve',
       englishNatural: 'will serve',
       root: 'pelakh',
-      order: 11,
+      order: {
+        aramaic: 11,
+        english: 10,
+      },
       morphology: {
         type: 'verb',
         tense: 'imperfect',
@@ -181,7 +190,6 @@ export const daniel_7_14: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ';',
-        englishNatural: ';',
       },
     },
     {
@@ -204,7 +212,7 @@ export const daniel_7_14: Verse = {
       aramaic: 'שָׁלְטָ֤ן',
       transliteration: 'sholtan',
       englishLiteral: 'dominion',
-      englishNatural: 'is a dominion',
+      englishNatural: 'is dominion',
       root: 'sholtan',
       order: 13,
       morphology: {
@@ -232,7 +240,7 @@ export const daniel_7_14: Verse = {
       aramaic: 'דִּֽי־',
       transliteration: 'di-',
       englishLiteral: 'which-',
-      englishNatural: 'that',
+      englishNatural: 'which',
       root: 'di',
       order: 15,
       morphology: {
@@ -243,20 +251,29 @@ export const daniel_7_14: Verse = {
       aramaic: 'לָ֣א',
       transliteration: 'la',
       englishLiteral: 'not',
-      englishNatural: 'will not',
+      englishNatural: 'not',
       root: 'la',
-      order: 16,
+      order: {
+        aramaic: 16,
+        english: 17,
+      },
       morphology: {
         type: 'particle',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
       },
     },
     {
       aramaic: 'יֶעְדֵּ֔ה',
       transliteration: 'yeddeh',
       englishLiteral: 'pass-away',
-      englishNatural: 'pass away',
+      englishNatural: 'will pass away',
       root: 'adah',
-      order: 17,
+      order: {
+        aramaic: 17,
+        english: 16,
+      },
       morphology: {
         type: 'verb',
         tense: 'imperfect',
@@ -267,7 +284,6 @@ export const daniel_7_14: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
-        englishNatural: ',',
       },
     },
     {
@@ -290,7 +306,7 @@ export const daniel_7_14: Verse = {
       aramaic: 'דִּי־',
       transliteration: 'di-',
       englishLiteral: 'which-',
-      englishNatural: 'that',
+      englishNatural: 'which',
       root: 'di',
       order: 19,
       morphology: {
@@ -301,20 +317,32 @@ export const daniel_7_14: Verse = {
       aramaic: 'לָ֥א',
       transliteration: 'la',
       englishLiteral: 'not',
-      englishNatural: 'will not',
+      englishNatural: 'not',
       root: 'la',
-      order: 20,
+      order: {
+        aramaic: 20,
+        english: 21,
+      },
       morphology: {
         type: 'particle',
+      },
+      grammarSuffix: {
+        englishNatural: '.',
+      },
+      lineBreaksAfter: {
+        english: 1,
       },
     },
     {
       aramaic: 'תִתְחַבַּֽל׃',
       transliteration: 'titkhabbal',
       englishLiteral: 'be-destroyed',
-      englishNatural: 'be destroyed',
+      englishNatural: 'will be destroyed',
       root: 'khaval',
-      order: 21,
+      order: {
+        aramaic: 21,
+        english: 20,
+      },
       morphology: {
         type: 'verb',
         tense: 'imperfect',
@@ -326,17 +354,18 @@ export const daniel_7_14: Verse = {
       grammarSuffix: {
         aramaic: '׃',
         englishLiteral: '.',
-        englishNatural: '.',
       },
-      lineBreaksAfter: 1,
+      lineBreaksAfter: {
+        aramaic: 1,
+      },
     },
   ],
   expectedTranslations: {
     aramaic: 'וְלֵ֨הּ יְהִ֤יב שָׁלְטָן֙ וִיקָ֣ר וּמַלְכ֔וּ וְכֹ֣ל עַֽמְמַיָּ֗א אֻמַיָּ֛א וְלִשָּׁנַיָּ֖א לֵ֣הּ יִפְלְח֑וּן שָׁלְטָנֵ֞הּ שָׁלְטָ֤ן עָלַם֙ דִּֽי־לָ֣א יֶעְדֵּ֔ה וּמַלְכוּתֵ֖הּ דִּי־לָ֥א תִתְחַבַּֽל׃',
     transliteration: 'veleh yehiv sholtan viqar uMalkhu veKhol ammaya umaya veLishanaya leh yiphlakhun sholtaneh sholtan alam di-la yeddeh uMalkhuteh di-la titkhabbal',
-    englishLiteral: 'and-to-him was-given dominion and-glory and-kingdom, and-all peoples-the, nations-the, and-languages-the to-him will-serve; dominion-His dominion everlasting which- not pass-away, and-kingdom-His which- not be-destroyed.',
-    englishNatural: 'And to Him was given dominion and glory and a kingdom; and all the peoples, nations, and languages will serve Him; His dominion is an everlasting dominion that will not pass away, and His kingdom that will not be destroyed.',
+    englishLiteral: 'and-to-him had-been-given dominion and-glory and-kingdom, and-all peoples-the, nations-the, and-languages-the to-him will-serve; dominion-His dominion everlasting which- not pass-away, and-kingdom-His which- not be-destroyed.',
+    englishNatural: 'And to Him had been given dominion and glory and kingdom; and all the peoples, the nations, and the languages will serve Him; His dominion is dominion everlasting which will pass away not, and His kingdom which will be destroyed not.',
     kjv: 'And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-03-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-03-27' },
   },
 };

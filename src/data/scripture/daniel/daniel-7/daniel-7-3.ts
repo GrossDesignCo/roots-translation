@@ -26,7 +26,7 @@ export const daniel_7_3: Verse = {
       transliteration: 'kheyvan',
       englishLiteral: 'beasts',
       englishNatural: 'beasts',
-      root: 'khayva',
+      root: 'cheiva',
       order: {
         aramaic: 2,
         english: 3,
@@ -176,6 +176,6 @@ export const daniel_7_3: Verse = {
     englishLiteral: 'And-four beasts great coming_up from- the-sea, different this from- this.',
     englishNatural: 'And four great beasts, coming up from the sea, this different from this.',
     kjv: 'And four great beasts came up from the sea, diverse one from another.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-17' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-03-27' },
   },
 };

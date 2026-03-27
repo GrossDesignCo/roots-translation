@@ -33,7 +33,7 @@ export const daniel_7_8: Verse = {
       transliteration: 'haveit',
       englishLiteral: 'I-was',
       englishNatural: 'I was',
-      root: 'hava_aramaic',
+      root: 'hava',
       order: {
         aramaic: 2,
         english: 1,
@@ -420,6 +420,6 @@ export const daniel_7_8: Verse = {
     englishLiteral: 'Considering I-was in-the-horns, and-behold, horn another small came-up between-them, and-three from- horns-the first-the were-uprooted from- before-it; and-behold, eyes like-eyes-of Mortal_Man (Enash)-the in-horn- this, and-mouth speaking great_things.',
     englishNatural: 'I was considering in the horns, and behold, another small horn came up between them, and three from the horns the first were uprooted from before it; and behold, eyes, like the eyes of the Mortal-Man (Enash) in this horn, and a mouth speaking great-things.',
     kjv: 'I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn were eyes like the eyes of man, and a mouth speaking great things.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-03-27' },
   },
 };
