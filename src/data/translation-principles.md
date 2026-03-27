@@ -26,6 +26,9 @@ Usually this works best if the ai-model:
 ## Original Hebrew, Aramaic & Greek Principles
 
 1. Generally use the most widely accepted text.
+1. Verse numbering should follow the generally accepted text most closely associated with the original language.
+  
+  - For example, Psalm 8:1 in hebrew starts with the introductory text, where in english that is usually provided before verse 1. In this case we follow msoretic numbering instead of modern.
 
 ## Transliteration Principles
 
@@ -67,6 +70,7 @@ Usually this works best if the ai-model:
    - Use a 1:1 Hebrew-to-English mapping whenever possible
    - Hebrew transliterated "ruach" should always use "wind" (not "spirit" or "breath") in some form
    - Hebrew transliterated "arum" should always use "shrewd" (not "crafty" or "prudent") in some form
+   - If a given root is translated a given way in english, the verse translation of that word should always include the same root, eg. "arum/shrewd" should always include "shrewd" in some form, be it "shrewdness", "was made to be shrewd", etc.
 
 1. Expressly render Hebrew את / et (direct object marker).
 

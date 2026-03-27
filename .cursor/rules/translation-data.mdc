@@ -1,0 +1,38 @@
+---
+description: Guardrails for working with scripture translation and dictionary data files
+globs: src/data/scripture/**/*.ts,src/data/dictionary/**/*.ts
+alwaysApply: false
+---
+
+# Translation Data Guardrails
+
+## Human Review Protection
+
+- Never modify a verse that has a `lastReviewed` field without explicit user permission.
+- If a verse has been human-reviewed, confirm with the user before changing any word data, translations, or expectedTranslations.
+
+## Dictionary Integrity
+
+- Before generating or editing verse data, check the relevant dictionary for existing root translations.
+  - Hebrew roots: `src/data/dictionary/hebrew/roots.ts`
+  - Aramaic roots: `src/data/dictionary/aramaic/roots.ts`
+  - Greek roots: `src/data/dictionary/greek/roots.ts`
+- Never place dictionary entries in the wrong language file (e.g., no Aramaic roots in the Hebrew dictionary, no Hebrew roots in the Aramaic dictionary).
+- When adding new roots, check for potential duplicates or near-duplicates first.
+- Prefixes and suffixes must also go in their correct language directory.
+
+## Root Consistency
+
+- If a root already has an English mapping in the dictionary, every verse translation using that root must include the same English root word in some form.
+- Example: if `ruach` → `wind`, then every occurrence must use "wind" in some form (wind, winds, winding), never "spirit" or "breath".
+- Check the dictionary entry before choosing a translation for any root word.
+
+## Source Material
+
+- Generate translations from memory/training data. Do not search the internet for translations.
+- Use the most widely accepted text (Masoretic for Hebrew, standard critical texts for Greek).
+- KJV is for reference comparison only, not as a translation source.
+
+## Verse Numbering
+
+- Follow source-language numbering (e.g., Masoretic for Hebrew), not modern English conventions.
