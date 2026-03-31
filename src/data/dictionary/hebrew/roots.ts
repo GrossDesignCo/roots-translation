@@ -6909,6 +6909,7 @@ const ROOTS = {
     englishNatural: 'to count',
     type: 'verb',
     description: 'to count, number, recount; to tell or declare',
+    related: ['sepher'],
   },
   // Genesis 15:6 additions
   tsedaqah: {
@@ -8222,14 +8223,6 @@ const ROOTS = {
     type: 'verb',
     description: 'to crush, to beat fine, to pulverize (Hebrew)',
   },
-  shear_hebrew: {
-    hebrew: 'שאר',
-    transliteration: 'shear',
-    englishLiteral: 'to remain',
-    englishNatural: 'to remain',
-    type: 'verb',
-    description: 'to remain, to be left over (Hebrew)',
-  },
   liphnei: {
     hebrew: 'לפני',
     transliteration: 'liphnei',
@@ -8278,14 +8271,6 @@ const ROOTS = {
     type: 'noun',
     description: 'wool (Hebrew)',
   },
-  naqah: {
-    hebrew: 'נקה',
-    transliteration: 'naqah',
-    englishLiteral: 'to be_pure',
-    englishNatural: 'to be-pure',
-    type: 'verb',
-    description: 'to be pure, to be clean, to be innocent (Hebrew)',
-  },
   lahav: {
     hebrew: 'להב',
     transliteration: 'lahav',
@@ -8293,14 +8278,6 @@ const ROOTS = {
     englishNatural: 'flame',
     type: 'noun',
     description: 'flame, blade (Hebrew)',
-  },
-  baer: {
-    hebrew: 'בער',
-    transliteration: 'baer',
-    englishLiteral: 'to burn',
-    englishNatural: 'to burn',
-    type: 'verb',
-    description: 'to burn, to kindle, to consume (Hebrew)',
   },
   atiq: {
     hebrew: 'עתיק',
@@ -8317,6 +8294,7 @@ const ROOTS = {
     englishNatural: 'book',
     type: 'noun',
     description: 'book, scroll, document (Aramaic and Hebrew)',
+    related: ['safar'],
   },
   nazal: {
     hebrew: 'נזל',

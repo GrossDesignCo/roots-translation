@@ -49,6 +49,6 @@ I was looking in the visions of the night,
 and behold, with the clouds of the skies, as a son of Mortal-Man (Enash) 
 he was coming, and unto the Ancient of the Days he had reached, and before him had caused to approach.
 
-And to Him had been given dominion and glory and a kingdom; 
-and all the peoples, nations, and languages Him will serve; 
-His dominion is a dominion everlasting that will not pass away, and His kingdom that will not be destroyed.
+And to Him had been given dominion and glory and kingdom; 
+and all the peoples, the nations, and the languages will serve Him; 
+His dominion is dominion everlasting which will pass away not, and His kingdom which will be destroyed not.

@@ -17037,17 +17037,17 @@
         "8": {
           "chapterNumber": 8,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
-            "5": false,
-            "6": false,
-            "7": false,
-            "8": false,
-            "9": false
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true
           },
-          "progress": 0
+          "progress": 100
         },
         "9": {
           "chapterNumber": 9,
@@ -20282,7 +20282,7 @@
           "progress": 0
         }
       },
-      "progress": 0.6904955320877335
+      "progress": 1.0560519902518277
     },
     "PROVERBS": {
       "bookName": "Proverbs",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.5207536250522458
+  "totalProgress": 1.5496897405394978
 }

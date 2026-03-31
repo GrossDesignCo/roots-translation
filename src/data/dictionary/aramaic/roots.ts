@@ -1522,7 +1522,7 @@ const ROOTS = {
     englishNatural: 'pure',
     type: 'adjective',
     description: 'pure, clean (Aramaic)',
-    cognateHebrew: ['naqah'] as const,
+    cognateHebrew: ['nakeh'] as const,
   },
   sheviv: {
     aramaic: 'שביב',
@@ -1549,7 +1549,7 @@ const ROOTS = {
     englishNatural: 'to burn',
     type: 'verb',
     description: 'to burn, to be kindled (Aramaic)',
-    cognateHebrew: ['baer'] as const,
+    cognateHebrew: ['baar'] as const,
   },
   nagad_flow: {
     aramaic: 'נגד',
