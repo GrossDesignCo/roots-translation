@@ -73,8 +73,8 @@ const PREFIXES = {
   tav: {
     hebrew: 'ת',
     transliteration: 'tav',
-    englishLiteral: 'you-shall',
-    englishNatural: 'you shall',
+    englishLiteral: 'you-will',
+    englishNatural: 'you will',
   },
   pen: {
     hebrew: 'פֶּן',
@@ -129,8 +129,8 @@ const PREFIXES = {
   ti: {
     hebrew: 'ת',
     transliteration: 'ti',
-    englishLiteral: 'you-shall',
-    englishNatural: 'you shall',
+    englishLiteral: 'you-will',
+    englishNatural: 'you will',
   },
   la: {
     hebrew: 'לַ',
@@ -185,8 +185,8 @@ const PREFIXES = {
   yo: {
     hebrew: 'יֹ',
     transliteration: 'yo',
-    englishLiteral: 'he-shall',
-    englishNatural: 'he shall',
+    englishLiteral: 'he-will',
+    englishNatural: 'he will',
   },
   te: {
     hebrew: 'תְּ',

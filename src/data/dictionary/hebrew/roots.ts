@@ -42,7 +42,7 @@ const ROOTS = {
     transliteration: 'hayah',
     englishLiteral: 'to be',
     englishNatural: 'to be',
-    related: ['chayah', 'hava_aramaic'],
+    related: ['chayah'],
     type: 'verb',
     translatedTo: ['eimi'],
   },
@@ -59,7 +59,7 @@ const ROOTS = {
     transliteration: 'eretz',
     englishLiteral: 'land',
     englishNatural: 'land',
-    related: ['adamah', 'yabashah', 'ara'],
+    related: ['adamah', 'yabashah'],
     description: 'land as a category of place, the whole earth, all the land',
     type: 'noun',
   },
@@ -194,7 +194,6 @@ const ROOTS = {
     englishLiteral: 'first',
     englishNatural: 'first',
     type: 'numeral',
-    related: ['qadmay'],
   },
   sheni: {
     hebrew: 'שני',
@@ -202,7 +201,6 @@ const ROOTS = {
     englishLiteral: 'second',
     englishNatural: 'second',
     type: 'numeral',
-    related: ['tinyan'],
   },
   shlishi: {
     hebrew: 'שלישי',
@@ -216,7 +214,7 @@ const ROOTS = {
     transliteration: 'revii',
     englishLiteral: 'fourth',
     englishNatural: 'fourth',
-    related: ['arba', 'reviai'],
+    related: ['arba'],
     type: 'numeral',
   },
   chamishi: {
@@ -256,7 +254,7 @@ const ROOTS = {
     englishLiteral: 'to see',
     englishNatural: 'to see',
     type: 'verb',
-    related: ['raah_shepherd', 'chazah'],
+    related: ['raah_shepherd'],
   },
   satar: {
     hebrew: 'סתר',
@@ -313,7 +311,7 @@ const ROOTS = {
     type: 'noun',
     description:
       'living-being/being-thing, living creature, mostly animals but broad term for all lifeforms',
-    related: ['chayah', 'chayyim', 'chai', 'hayah', 'khayva'],
+    related: ['chayah', 'chayyim', 'chai', 'hayah'],
   },
   sadeh: {
     hebrew: 'שׂדה',
@@ -366,7 +364,6 @@ const ROOTS = {
     englishNatural: 'which',
     description: 'which, that, which it is, which is in it, which has',
     type: 'relative',
-    related: ['di'],
   },
   yhwh: {
     hebrew: 'יְהוָה',
@@ -717,7 +714,6 @@ const ROOTS = {
     englishLiteral: 'to sit',
     englishNatural: 'to sit',
     type: 'verb',
-    related: ['yetiv'],
   },
   negev: {
     hebrew: 'נגב',
@@ -845,7 +841,6 @@ const ROOTS = {
     englishNatural: 'to bring-out',
     description: 'to come out, to bring out, to bring forth',
     type: 'verb',
-    related: ['naphaq'],
   },
   tsefa: {
     hebrew: 'צפע',
@@ -867,7 +862,6 @@ const ROOTS = {
     englishLiteral: 'one',
     englishNatural: 'one',
     type: 'numeral',
-    related: ['chad'],
   },
   shnayim: {
     hebrew: 'שנים',
@@ -1131,7 +1125,6 @@ const ROOTS = {
     englishLiteral: 'this',
     englishNatural: 'this',
     type: 'pronoun',
-    related: ['da'],
   },
   ot: {
     hebrew: 'אות',
@@ -1186,7 +1179,6 @@ const ROOTS = {
     englishLiteral: 'small',
     englishNatural: 'small',
     type: 'adjective',
-    related: ['zeer'],
   },
   kokhav: {
     hebrew: 'כוכב',
@@ -1201,7 +1193,6 @@ const ROOTS = {
     englishLiteral: 'to give',
     englishNatural: 'to give',
     type: 'verb',
-    related: ['yahav'],
   },
   sharats: {
     hebrew: 'שרץ',
@@ -1231,7 +1222,6 @@ const ROOTS = {
     englishLiteral: 'to crawl',
     englishNatural: 'to crawl',
     type: 'verb',
-    related: ['raphas'],
   },
   barakh: {
     hebrew: 'ברך',
@@ -1367,7 +1357,6 @@ const ROOTS = {
     englishLiteral: 'behold',
     englishNatural: 'behold',
     type: 'particle',
-    related: ['aru'],
   },
   okhel: {
     hebrew: 'אכל',
@@ -1392,7 +1381,6 @@ const ROOTS = {
     englishNatural: 'very',
     description: 'very, extremely, much, many, overflowingly much',
     type: 'adverb',
-    related: ['yattir'],
   },
   // Add missing roots from Genesis 1:24-30
   sherets: {
@@ -1547,7 +1535,6 @@ const ROOTS = {
     englishLiteral: 'to go_up',
     englishNatural: 'to go up',
     type: 'verb',
-    related: ['salaq'],
   },
   shaqah: {
     hebrew: 'שקה',
@@ -1919,7 +1906,6 @@ const ROOTS = {
     englishLiteral: 'side',
     englishNatural: 'side',
     type: 'noun',
-    related: ['ila'],
   },
   sagar: {
     hebrew: 'סגר',
@@ -2004,7 +1990,6 @@ const ROOTS = {
     englishLiteral: 'throne',
     englishNatural: 'throne',
     type: 'noun',
-    related: ['korsa'],
   },
   hekhal: {
     hebrew: 'היכל',
@@ -2060,6 +2045,23 @@ const ROOTS = {
     englishNatural: 'lord',
     type: 'noun',
   },
+  addir: {
+    hebrew: 'אַדִּיר',
+    transliteration: 'addir',
+    englishLiteral: 'majestic',
+    englishNatural: 'majestic',
+    type: 'adjective',
+    description:
+      'mighty, majestic, noble, powerful; used of God, rulers, waters, trees',
+  },
+  hod: {
+    hebrew: 'הוֹד',
+    transliteration: 'hod',
+    englishLiteral: 'splendor',
+    englishNatural: 'splendor',
+    type: 'noun',
+    description: 'splendor, majesty, glory, honor, grandeur',
+  },
   rum: {
     hebrew: 'רום',
     transliteration: 'rum',
@@ -2073,7 +2075,6 @@ const ROOTS = {
     englishLiteral: 'to lift_up',
     englishNatural: 'to lift-up',
     type: 'verb',
-    related: ['netal'],
   },
   kavod: {
     hebrew: 'כבוד',
@@ -2333,7 +2334,7 @@ const ROOTS = {
     englishNatural: 'to fear',
     type: 'verb',
     description: 'to fear, be afraid, revere, awesome',
-    related: ['yirah', 'nora', 'mora', 'dechal'] as const,
+    related: ['yirah', 'nora', 'mora'] as const,
   },
   yirah: {
     hebrew: 'יִרְאָה',
@@ -3616,7 +3617,6 @@ const ROOTS = {
     englishNatural: 'mouth',
     type: 'noun',
     description: 'mouth, opening, entrance',
-    related: ['pum'],
   },
   qiryah: {
     hebrew: 'קִרְיָה',
@@ -3923,7 +3923,6 @@ const ROOTS = {
     englishNatural: 'iron',
     type: 'noun',
     description: 'iron (as cutting); iron tool',
-    related: ['parzel'],
   },
   Naamah: {
     hebrew: 'נַעֲמָה',
@@ -4036,7 +4035,6 @@ const ROOTS = {
     englishNatural: 'another',
     type: 'adjective',
     description: 'another, other, following',
-    related: ['ochoran'],
   },
   od: {
     hebrew: 'עוֹד',
@@ -4107,7 +4105,6 @@ const ROOTS = {
     englishNatural: 'after',
     type: 'preposition',
     description: 'after, behind, following',
-    related: ['bathar'],
   },
   shmoneh: {
     hebrew: 'שְׁמֹנֶה',
@@ -4172,7 +4169,7 @@ const ROOTS = {
     englishNatural: 'three',
     type: 'numeral',
     description: 'three, the number three',
-    related: ['shlishi', 'telat'],
+    related: ['shlishi'],
   },
   // Genesis 5:23 additions
   chamesh: {
@@ -5123,7 +5120,7 @@ const ROOTS = {
     type: 'verb',
     description:
       'to be strong, grow strong, strengthen, harden, intensify; in Qal: be/grow strong; in Piel: strengthen, make firm; in Hiphil: seize, grasp firmly, hold fast; with heart as object: to make obstinate/unyielding',
-    related: ['chozeq', 'taqqiph'],
+    related: ['chozeq'],
   },
   chozeq: {
     hebrew: 'חֹזֶק',
@@ -5885,7 +5882,6 @@ const ROOTS = {
     englishNatural: 'fire',
     type: 'noun',
     description: 'fire, flame',
-    related: ['nur'],
   },
   nogah: {
     hebrew: 'נגה',
@@ -6138,7 +6134,7 @@ const ROOTS = {
     englishNatural: 'fearsome',
     type: 'adjective',
     description: 'fearful, awesome, terrible, to be feared',
-    related: ['yare', 'yirah', 'emtan'] as const,
+    related: ['yare', 'yirah'] as const,
   },
   natah: {
     hebrew: 'נטה',
@@ -6426,7 +6422,6 @@ const ROOTS = {
     englishNatural: 'wing',
     type: 'noun',
     description: 'wing, extremity, edge, corner; also used metaphorically',
-    related: ['gaph'],
   },
   // Ezekiel 1:1-3 additions
   golah: {
@@ -6708,7 +6703,6 @@ const ROOTS = {
     type: 'verb',
     description:
       'to make white, to make bricks; in this context: to form and bake bricks',
-    related: ['khivvar'],
   },
   levenah: {
     hebrew: 'לְבֵנָה',
@@ -6814,7 +6808,6 @@ const ROOTS = {
     englishNatural: 'vision',
     type: 'noun',
     description: 'vision, sight, appearance; prophetic vision or revelation',
-    related: ['chazah', 'khezev'],
   },
   anoki: {
     hebrew: 'אנכי',
@@ -8347,6 +8340,128 @@ const ROOTS = {
     englishNatural: 'to open',
     type: 'verb',
     description: 'to open, to loose, to free (Hebrew)',
+  },
+  natsach: {
+    hebrew: 'נצח',
+    transliteration: 'natsach',
+    englishLiteral: 'to endure',
+    englishNatural: 'to endure',
+    type: 'verb',
+    description:
+      'to endure, be perpetual, be preeminent; in Piel: to oversee, lead, direct; the participial form m\'natseach is used as a title in psalm superscriptions',
+  },
+  zamar: {
+    hebrew: 'זמר',
+    transliteration: 'zamar',
+    englishLiteral: 'to make_melody',
+    englishNatural: 'to make-melody',
+    type: 'verb',
+    related: ['shir', 'mizmor'],
+    description:
+      'to make music, to sing praises with instruments; root of mizmor (melody/psalm)',
+  },
+  mizmor: {
+    hebrew: 'מִזְמוֹר',
+    transliteration: 'mizmor',
+    englishLiteral: 'melody',
+    englishNatural: 'melody',
+    type: 'noun',
+    related: ['zamar'],
+    description:
+      'a song sung with musical accompaniment; derived from zamar (to make melody)',
+  },
+  gittit: {
+    hebrew: 'גִּתִּית',
+    transliteration: 'gittit',
+    englishLiteral: 'Gittith',
+    englishNatural: 'Gittith',
+    type: 'noun',
+    description:
+      'A musical term of uncertain meaning, possibly related to Gath (wine press city) or a type of instrument/melody; used in psalm superscriptions (Psalms 8, 81, 84)',
+  },
+  olel: {
+    hebrew: 'עוֹלֵל',
+    transliteration: 'olel',
+    englishLiteral: 'infant',
+    englishNatural: 'infant',
+    type: 'noun',
+    description: 'infant, child, babe, suckling child',
+  },
+  yoneq: {
+    hebrew: 'יוֹנֵק',
+    transliteration: 'yoneq',
+    englishLiteral: 'suckling',
+    englishNatural: 'suckling',
+    type: 'noun',
+    description: 'suckling, nursing child; participle of yanaq (to suck, nurse)',
+  },
+  yasad: {
+    hebrew: 'יָסַד',
+    transliteration: 'yasad',
+    englishLiteral: 'to found',
+    englishNatural: 'to found',
+    type: 'verb',
+    description: 'to found, establish, lay a foundation, ordain',
+    related: ['mosed'],
+  },
+  oyev: {
+    hebrew: 'אוֹיֵב',
+    transliteration: 'oyev',
+    englishLiteral: 'enemy',
+    englishNatural: 'enemy',
+    type: 'noun',
+    description:
+      'enemy, foe, adversary; active participle of ayav (to be hostile)',
+  },
+  etsba: {
+    hebrew: 'אֶצְבַּע',
+    transliteration: 'etsba',
+    englishLiteral: 'finger',
+    englishNatural: 'finger',
+    type: 'noun',
+    description: 'finger, toe; used of both human and divine fingers',
+  },
+  meat: {
+    hebrew: 'מְעַט',
+    transliteration: 'meat',
+    englishLiteral: 'a_little',
+    englishNatural: 'a little',
+    type: 'adverb',
+    description: 'a little, few, small amount; used adverbially for degree',
+  },
+  hadar: {
+    hebrew: 'הָדָר',
+    transliteration: 'hadar',
+    englishLiteral: 'honor',
+    englishNatural: 'honor',
+    type: 'noun',
+    description: 'honor, majesty, splendor, ornament, beauty',
+  },
+  atar_crown: {
+    hebrew: 'עָטַר',
+    transliteration: 'atar',
+    englishLiteral: 'to crown',
+    englishNatural: 'to crown',
+    type: 'verb',
+    description: 'to crown, encircle, surround; to bestow a crown or wreath',
+  },
+  elef_ox: {
+    hebrew: 'אֶלֶף',
+    transliteration: 'elef',
+    englishLiteral: 'ox',
+    englishNatural: 'ox',
+    type: 'noun',
+    description:
+      'ox, cattle; same consonants as elef (thousand) but distinct meaning in pastoral contexts',
+    related: ['baqar', 'shor'],
+  },
+  orach: {
+    hebrew: 'אֹרַח',
+    transliteration: 'orach',
+    englishLiteral: 'path',
+    englishNatural: 'path',
+    type: 'noun',
+    description: 'path, way, road, course; traveler',
   },
 } as const;
 

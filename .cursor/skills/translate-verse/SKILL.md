@@ -11,6 +11,7 @@ description: Generate word-by-word scripture translation data for Biblical Hebre
 2. **All translation decisions are made by a human.** AI scaffolds the data structure and reference material only.
 3. Always **run tests** after generating verse data: `npm test`
 4. Review the dictionary and add missing roots/prefixes/suffixes when generating verse data.
+5. If you find yourself circling back over the same translation uncertainties more than three times, just pick a placeholder and move on. Note this placeholder to the human so they can dig deeper.
 
 ## Verse Numbering
 
@@ -28,7 +29,20 @@ Follow the source-language numbering, not modern English conventions. For exampl
 4. **Add missing dictionary entries** for any roots, prefixes, or suffixes not yet in the dictionary. Check for potential duplicates first.
 5. **Generate the verse file** following the data structure below.
 6. **Add the verse export** to the chapter's `index.ts`.
-7. **Run tests** to validate: `npm test`
+7. **Verify each word** against the post-generation checklist (see below).
+8. **Run tests** to validate: `npm test` — check output for `console.warn` messages and fix any flagged issues.
+9. **Check for TypeScript errors**: run `npx tsc --noEmit` and resolve any errors before finishing. Common issues include `related` fields referencing keys from the wrong dictionary (e.g., Aramaic keys in a Hebrew `related` array).
+
+## Post-Generation Verification Checklist
+
+After generating verse data, review **each word** against this checklist before running tests:
+
+1. **Root word preserved**: Does `englishLiteral` contain the dictionary root's English word (or a recognizable form of it)? Does `englishNatural`?
+2. **Prefix/suffix preserved**: For each prefix/suffix, does the verse word's English contain the prefix/suffix dictionary English? (e.g., `le` = "to" — don't substitute "of" or "for")
+3. **Compound formatting**: Multi-word concepts use `_` in `englishLiteral` and `-` in `englishNatural` — never bare spaces.
+4. **Root type match**: Does the word's `morphology.type` match the dictionary root's `type`? If the word is a noun but the root is a verb, create a separate noun root with `related` linking them.
+5. **Dictionary separation**: Noun/verb/adjective forms of the same Hebrew word must be separate dictionary entries linked with `related`. Verse words must reference the entry matching their part of speech.
+6. **`related` field scope**: The `related` array must only contain keys from the **same** dictionary. Hebrew roots reference other Hebrew root keys; Aramaic roots reference other Aramaic root keys. For cross-language links, use `cognateHebrew` on the Aramaic side or `translatedTo` for Greek — never put Aramaic/Greek keys in a Hebrew `related` array.
 
 ## File Structure
 
@@ -99,12 +113,13 @@ Each word in the `words` array has this shape:
 ## Key Translation Patterns
 
 For complete rules, read [translation-principles.md](../../src/data/translation-principles.md).
+For Hebrew grammar conventions (implied copula, cantillation punctuation, connective word preservation), see `.cursor/rules/hebrew-grammar.mdc`.
 
 ### englishLiteral
 
 - **Source word order** (Hebrew/Aramaic/Greek). The `order` field's source-language value determines position.
 - **Hyphenated prefixes**: `and-said`, `in-heading`, `the-land`
-- **Underscores** for multi-word concepts from single roots: `steadfast_love`, `Mortal_Man`
+- **Underscores** for multi-word concepts from single roots: `steadfast_love`, `Mortal_Man`. Never use bare spaces in compound translations — both in verse words AND dictionary entries.
 - **↳ marker** for Hebrew direct object marker (את/et): `englishLiteral: '↳'`
 - **No filler words**. Restrict to what the source text says.
 - **Root consistency**: if a root is mapped to an English word, every translation of that root must include that same English root in some form (e.g., `arum` → always includes "shrewd": "shrewdness", "was-shrewd", etc.).
@@ -114,7 +129,7 @@ For complete rules, read [translation-principles.md](../../src/data/translation-
 ### englishNatural
 
 - **English word order**. Use `order.english` to reposition words naturally.
-- **Dashes** replace underscores: `steadfast-love`, `Mortal-Man`
+- **Dashes** replace underscores: `steadfast-love`, `Mortal-Man`. Never use underscores or bare spaces — both in verse words AND dictionary entries.
 - **Natural punctuation**: commas, semicolons, periods for clause breaks.
 - Definite articles follow English norms but respect source when present.
 - May add minimal words for readability (e.g., "he was" instead of just "was").
@@ -168,6 +183,25 @@ This is a **doublecheck** — the built string from `buildVerseText()` must matc
 Carefully construct these by mentally walking through the word list in the appropriate order and joining all parts (grammarPrefix + word + grammarSuffix + spacing).
 
 ## Dictionary Entry Structure
+
+### Noun/verb/adjective separation
+
+Noun, verb, and adjective forms of the same Hebrew word must be **separate dictionary entries** linked with `related`. Verse words must reference the root matching their part of speech.
+
+```typescript
+zamar: {
+  englishLiteral: 'to make_melody',
+  type: 'verb',
+  related: ['mizmor'],
+},
+mizmor: {
+  englishLiteral: 'melody',
+  type: 'noun',
+  related: ['zamar'],
+},
+```
+
+A verse word with `morphology.type: 'noun'` should reference `mizmor`, not `zamar`.
 
 ### Root entries (Hebrew)
 

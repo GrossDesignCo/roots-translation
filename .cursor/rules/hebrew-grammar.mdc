@@ -1,0 +1,108 @@
+---
+description: Hebrew grammatical nuance conventions for scripture translation renderings
+globs: src/data/scripture/**/*.ts
+alwaysApply: false
+---
+
+# Hebrew Grammar Conventions
+
+## Implied Copula
+
+Hebrew frequently omits the copula (is/are/was/were). When a Hebrew clause implies a copula without an explicit verb:
+
+- In `englishLiteral`: do NOT add anything — preserve the absence as the Hebrew has it.
+- In `englishNatural`: add a **comma** via `grammarSuffix: { englishNatural: ',' }` on the predicate word to mark where English would expect the copula.
+
+Example: מָה־אַדִּיר שִׁמְךָ — literal: `what- majestic your-name` → natural: `how majestic, your name`. The comma after "majestic" signals where English would say "is."
+
+## Connective Word Preservation
+
+Preserve Hebrew connective, relative, and prepositional words with the **same** English rendering in both `englishLiteral` and `englishNatural`. Do not substitute a more idiomatic English equivalent in the natural:
+
+- `asher` → "which" in both (not "who" or "that" in natural)
+- `al` → "over" in both (not "upon" or "above" in natural)
+- `be` → "in" in both (not "at" or "among" in natural)
+- `ke` → "like" in both (not "as" or "that" in natural)
+- `le` → "to" in both (not "for" or "of" in natural)
+
+This preserves the Hebrew conceptual framing of these relationships — the reader should encounter the same connective vocabulary the Hebrew uses, even in the natural rendering.
+
+## Cantillation-Guided Punctuation
+
+Hebrew cantillation marks (te'amim) serve as syntactic clause markers. Use them to guide punctuation in `hebrew`, `transliteration`, and `englishLiteral` renderings:
+
+**Major disjunctive (clause breaks):**
+- **Atnach (֑)**: Half-verse break → semicolon (`;`) or comma (`,`), typically the strongest pause in the verse
+- **Silluq + Sof Pasuq (׃)**: End of verse → period (`.`)
+
+**Moderate disjunctive:**
+- **Zaqef Qatan (֔) / Zaqef Gadol (֕)**: Clause break → comma (`,`)
+- **Revia (֗)**: Moderate pause → comma (`,`) when separating clauses
+- **Pashta (֤) / Segol (֒)**: Minor pause → comma or nothing, depending on clause structure
+
+**Conjunctive (no break):**
+- **Munach (֣), Mercha (֥), Mahpakh (֤)**: Words bound together — no punctuation between them
+
+For `englishNatural`, you have more flexibility to follow natural English clause conventions, but the cantillation-guided breaks are the starting reference.
+
+## English Clause Commas (Natural Only)
+
+In `englishNatural`, add commas for standard English clause punctuation even when Hebrew has no explicit marker:
+
+- **Vocative address**: "He-Who-Is (YHWH), our lord," — commas around the appositional phrase
+- **Appositive phrases**: commas to set off descriptive phrases
+- **Clause boundaries**: between clauses joined by relative pronouns
+
+These go in `grammarSuffix` or `grammarPrefix` with an `englishNatural` key — never embedded in the word text itself.
+
+## Construct State in Natural English
+
+When Hebrew uses the construct state (noun-chain / סְמִיכוּת), render it in `englishNatural` as **"the ___ of"** to convey the possessive/genitive relationship:
+
+- מִפִּי עוֹלְלִים — literal: `from-mouth infants` → natural: `from the mouth of infants`
+- שִׁמְךָ — literal: `your-name` → natural: `your name` (suffix possessive, not construct — no change needed)
+- דְבַר יְהוָה — literal: `word-of He_Who_Is (YHWH)` → natural: `the word of He-Who-Is (YHWH)`
+
+Only add "the" where English would naturally expect an article. Proper nouns and words already definite don't need an extra article.
+
+## Hebrew Perfect → English Present Perfect
+
+Render Hebrew perfect tense verbs using the English **present perfect** ("have/has + past participle") rather than simple present or simple past:
+
+- יִסַּדְתָּ → "you have founded" (not "you found" or "you establish")
+- בָּרָא → "he has created" (not "he created" or "he creates")
+- אָמַר → "he has said" (not "he said" or "he says")
+
+This captures the Hebrew perfect's sense of completed action with present relevance. In `englishLiteral`, keep the form minimal and hyphenated: `you-have-founded`. In `englishNatural`, use natural spacing: `you have founded`.
+
+## Transliteration camelCase
+
+Transliterations must use **camelCase** to mark prefix boundaries. The root portion capitalizes its first letter after each prefix:
+
+- `be` + `reshit` → `beReshit`
+- `ve` + `et` → `veEt`
+- `ha` + `shamayim` → `haShamayim`
+- `e` + `reh` → `eReh`
+- `ti` + `zkrennu` → `tiZkrennu`
+- `mi` + `pi` → `miPi`
+
+This applies to **all** prefixes — prepositions (`be`, `le`, `mi`), articles (`ha`), conjunctions (`ve`), and imperfect verb prefixes (`yi`, `ti`, `e`, `te`, etc.). Suffixes do NOT trigger camelCase.
+
+## Imperfect Tense: Use "will" (not "shall")
+
+Always render the Hebrew imperfect with **"will"**, never "shall":
+
+- "I-will-see", "you-will-remember", "he-will-give" (not "I-shall-see", "you-shall-remember", "he-shall-give")
+
+This applies uniformly across all persons and numbers. The imperfect prefix dictionary entries (`ti`, `tav`, `yi`, `ya`, `yo`, `e`, `te`, `to`) all use "will."
+
+## Verb Person and Number
+
+When rendering verbs in English, match the grammatical person and number from the Hebrew morphology:
+
+- 2nd person singular: bare form — "give", "hear", "say"
+- 3rd person singular: "-s" form — "gives", "hears", "says"
+- Imperative: bare form — "give!", "hear!"
+- Plural subjects: bare form — "give", "hear"
+
+If the Hebrew has a person shift (common in poetry and prayer — addressing God in 2nd person, then describing in 3rd person), preserve the morphological person rather than harmonizing to English expectations.

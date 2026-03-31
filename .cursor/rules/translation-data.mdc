@@ -21,10 +21,30 @@ alwaysApply: false
 - When adding new roots, check for potential duplicates or near-duplicates first.
 - Prefixes and suffixes must also go in their correct language directory.
 
+## Compound Word Formatting
+
+- In `englishLiteral`: multi-word concepts from a single root use underscores (`steadfast_love`, `make_melody`), never bare spaces.
+- In `englishNatural`: those same concepts use dashes (`steadfast-love`, `make-melody`), never underscores or bare spaces.
+- This applies to both dictionary entries AND verse word translations.
+
+## Root Type Matching
+
+- A verse word's `morphology.type` must match its dictionary root's `type`.
+- Noun/verb/adjective forms of the same Hebrew word must be separate dictionary entries linked with `related`.
+- Example: `zamar` (verb, "to make_melody") and `mizmor` (noun, "melody") are separate roots with `related: ['mizmor']` / `related: ['zamar']`.
+- A verse word with `morphology.type: 'noun'` must reference the noun root, not the verb root.
+
+## Cross-Dictionary References
+
+- The `related` field must only contain keys from the **same** dictionary file. Hebrew `related` arrays reference Hebrew root keys only; Aramaic `related` arrays reference Aramaic root keys only.
+- For cross-language links, Aramaic roots use `cognateHebrew` and Hebrew roots use `translatedTo` (for Greek). Never put Aramaic or Greek keys in a Hebrew `related` array.
+- After adding or modifying dictionary entries, run `npx tsc --noEmit` to verify no type errors from invalid cross-references.
+
 ## Root Consistency
 
 - If a root already has an English mapping in the dictionary, every verse translation using that root must include the same English root word in some form.
 - Example: if `ruach` → `wind`, then every occurrence must use "wind" in some form (wind, winds, winding), never "spirit" or "breath".
+- This also applies to prefix/suffix translations: if `le` = "to", don't substitute "of" or "for" in verse words.
 - Check the dictionary entry before choosing a translation for any root word.
 
 ## Source Material
