@@ -1,0 +1,166 @@
+import { Verse } from '@/types';
+
+export const psalms_8_3: Verse = {
+  meta: {
+    book: 'Psalms',
+    chapter: 8,
+    verse: 3,
+  },
+  words: [
+    {
+      hebrew: 'כִּֽי־',
+      transliteration: 'ki-',
+      englishLiteral: 'that-',
+      englishNatural: 'When',
+      root: 'ki',
+      order: 1,
+      morphology: {
+        type: 'conjunction',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'אֶרְאֶ֥ה',
+      transliteration: 'ereh',
+      englishLiteral: 'I-will-see',
+      englishNatural: 'I see',
+      root: 'raah',
+      prefixes: ['e'],
+      order: 2,
+      morphology: {
+        type: 'verb',
+        stem: 'qal',
+        tense: 'imperfect',
+        gender: 'masculine',
+        number: 'singular',
+        person: '1st',
+      },
+    },
+    {
+      hebrew: 'שָׁמֶ֗יךָ',
+      transliteration: 'shamekha',
+      englishLiteral: 'your-skies',
+      englishNatural: 'your skies',
+      root: 'shamayim',
+      suffixes: ['ekha'],
+      order: 3,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'מַעֲשֵׂ֣ה',
+      transliteration: 'maaseh',
+      englishLiteral: 'work-of',
+      englishNatural: 'the work of',
+      root: 'maaseh',
+      order: 4,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+      },
+    },
+    {
+      hebrew: 'אֶצְבְּעֹתֶ֑יךָ',
+      transliteration: 'etsbeotekha',
+      englishLiteral: 'your-fingers',
+      englishNatural: 'your fingers',
+      root: 'etsba',
+      suffixes: ['otekha'],
+      order: 5,
+      morphology: {
+        type: 'noun',
+        gender: 'feminine',
+        number: 'plural',
+        state: 'construct',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'יָרֵ֥חַ',
+      transliteration: 'yareakh',
+      englishLiteral: 'moon',
+      englishNatural: 'moon',
+      root: 'yareakh',
+      order: 6,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'singular',
+      },
+    },
+    {
+      hebrew: 'וְכוֹכָבִ֗ים',
+      transliteration: 'veKhokhavim',
+      englishLiteral: 'and-stars',
+      englishNatural: 'and stars',
+      root: 'kokhav',
+      prefixes: ['ve'],
+      suffixes: ['im'],
+      order: 7,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'plural',
+      },
+    },
+    {
+      hebrew: 'אֲשֶׁ֥ר',
+      transliteration: 'asher',
+      englishLiteral: 'which',
+      englishNatural: 'which',
+      root: 'asher',
+      order: 8,
+      morphology: {
+        type: 'relative',
+      },
+    },
+    {
+      hebrew: 'כּוֹנָ֥נְתָּה',
+      transliteration: 'konantah',
+      englishLiteral: 'you-have-established',
+      englishNatural: 'you have established',
+      root: 'kun',
+      suffixes: ['ta'],
+      order: 9,
+      morphology: {
+        type: 'verb',
+        stem: 'polel',
+        tense: 'perfect',
+        gender: 'masculine',
+        number: 'singular',
+        person: '2nd',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'כִּֽי־אֶרְאֶ֥ה שָׁמֶ֗יךָ מַעֲשֵׂ֣ה אֶצְבְּעֹתֶ֑יךָ יָרֵ֥חַ וְכוֹכָבִ֗ים אֲשֶׁ֥ר כּוֹנָ֥נְתָּה',
+    transliteration:
+      'ki-ereh shamekha maaseh etsbeotekha yareakh veKhokhavim asher konantah',
+    englishLiteral:
+      'that- I-will-see your-skies, work-of your-fingers, moon and-stars which you-have-established.',
+    englishNatural:
+      'When I see your skies, the work of your fingers, moon and stars which you have established.',
+    kjv: 'When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;',
+    lastReviewed: { name: 'Matt Gross', date: '2026-03-31' },
+},
+};

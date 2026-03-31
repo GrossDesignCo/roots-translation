@@ -6369,6 +6369,7 @@ const ROOTS = {
     englishNatural: 'month',
     type: 'noun',
     description: 'month, new moon, lunar month',
+    related: ['yerach', 'yareakh'],
   },
   asar: {
     hebrew: 'עשר',
@@ -8281,7 +8282,7 @@ const ROOTS = {
     hebrew: 'נקה',
     transliteration: 'naqah',
     englishLiteral: 'to be_pure',
-    englishNatural: 'to be pure',
+    englishNatural: 'to be-pure',
     type: 'verb',
     description: 'to be pure, to be clean, to be innocent (Hebrew)',
   },
@@ -8425,7 +8426,7 @@ const ROOTS = {
     hebrew: 'מְעַט',
     transliteration: 'meat',
     englishLiteral: 'a_little',
-    englishNatural: 'a little',
+    englishNatural: 'a-little',
     type: 'adverb',
     description: 'a little, few, small amount; used adverbially for degree',
   },
@@ -8462,6 +8463,26 @@ const ROOTS = {
     englishNatural: 'path',
     type: 'noun',
     description: 'path, way, road, course; traveler',
+  },
+  tsorer: {
+    hebrew: 'צוֹרֵר',
+    transliteration: 'tsorer',
+    englishLiteral: 'adversary',
+    englishNatural: 'adversary',
+    type: 'noun',
+    description:
+      'adversary, enemy, foe; active participle of tsarar (to bind, be hostile); one who shows hostility',
+    related: ['oyev'],
+  },
+  yareakh: {
+    hebrew: 'יָרֵחַ',
+    transliteration: 'yareakh',
+    englishLiteral: 'moon',
+    englishNatural: 'moon',
+    type: 'noun',
+    description:
+      'moon (the celestial body); distinct from yerach (month/lunar cycle)',
+    related: ['yerach'],
   },
 } as const;
 

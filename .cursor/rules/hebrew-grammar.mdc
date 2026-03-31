@@ -106,3 +106,13 @@ When rendering verbs in English, match the grammatical person and number from th
 - Plural subjects: bare form — "give", "hear"
 
 If the Hebrew has a person shift (common in poetry and prayer — addressing God in 2nd person, then describing in 3rd person), preserve the morphological person rather than harmonizing to English expectations.
+
+## Dictionary Roots Use Singular Form
+
+Dictionary root entries always use the **singular** (or simplest) form of a word. Plural, dual, and other inflected forms are expressed through suffixes in the verse data, not by creating separate dictionary entries.
+
+- אֱלֹהִים (elohim) → root `eloah` + suffix `im`. Do NOT create a separate `elohim` root.
+- שָׁמַיִם (shamayim) → root `shamayim` is acceptable because the word is inherently plural (no singular form in common use).
+- עוֹלְלִים (olelim) → root `olel` + suffix `im`.
+
+The principle: if a word has a meaningful singular form that exists as a root, use that root and express the plural morphologically. Only use an inherently-plural root key when no singular form is standard.

@@ -413,6 +413,13 @@ const SUFFIXES = {
     englishNatural: 'their',
     function: '3rd person feminine plural possessive with infinitive construct',
   },
+  otekha: {
+    hebrew: 'וֹתֶיךָ',
+    transliteration: 'otekha',
+    englishLiteral: 'your',
+    englishNatural: 'your',
+    function: '2nd person masculine singular possessive on feminine plural noun',
+  },
 } as const;
 
 type SuffixKey = keyof typeof SUFFIXES;
