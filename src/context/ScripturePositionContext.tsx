@@ -21,11 +21,39 @@ export const ScripturePositionProvider: React.FC<{
   children: React.ReactNode;
 }> = ({ children }) => {
   const observer = useRef<IntersectionObserver | null>(null);
+  const hasRestoredScroll = useRef(false);
   const [visibleChapterIds, setVisibleChapterIds, hydrated] = useLocalStorage<
     string[]
   >('visible-chapters', []);
   const middleChapterId =
     visibleChapterIds[Math.floor((visibleChapterIds.length - 1) / 2)];
+
+  // Restore scroll position after hydration
+  useEffect(() => {
+    if (!hydrated || hasRestoredScroll.current) return;
+    hasRestoredScroll.current = true;
+
+    if (visibleChapterIds.length === 0) return;
+
+    const targetId =
+      visibleChapterIds[Math.floor(visibleChapterIds.length / 2)];
+
+    // The chapter heading element may not be in the DOM yet if its book
+    // hasn't inflated. Poll briefly to give IntersectionObservers time to
+    // fire and mount the chapter shell.
+    let attempts = 0;
+    const tryScroll = () => {
+      const el = document.getElementById(targetId);
+      if (el) {
+        el.scrollIntoView({ block: 'start' });
+        return;
+      }
+      if (++attempts < 20) {
+        requestAnimationFrame(tryScroll);
+      }
+    };
+    requestAnimationFrame(tryScroll);
+  }, [hydrated]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleIntersection = useCallback(
     (entries: IntersectionObserverEntry[]) => {
