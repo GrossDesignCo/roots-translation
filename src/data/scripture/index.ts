@@ -12,6 +12,7 @@ import { matthew } from './matthew';
 import { daniel } from './daniel';
 import { ruth } from './ruth';
 import { ecclesiastes } from './ecclesiastes';
+import { job } from './job';
 
 export const scripture = {
   books: [
@@ -19,6 +20,7 @@ export const scripture = {
     exodus,
     numbers,
     ruth,
+    job,
     ecclesiastes,
     proverbs,
     psalms,

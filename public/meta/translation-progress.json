@@ -15594,7 +15594,7 @@
         "1": {
           "chapterNumber": 1,
           "verses": {
-            "1": false,
+            "1": true,
             "2": false,
             "3": false,
             "4": false,
@@ -15617,7 +15617,7 @@
             "21": false,
             "22": false
           },
-          "progress": 0
+          "progress": 4.545454545454546
         },
         "2": {
           "chapterNumber": 2,
@@ -16914,7 +16914,7 @@
           "progress": 0
         }
       },
-      "progress": 0
+      "progress": 0.09345794392523366
     },
     "PSALMS": {
       "bookName": "Psalms",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.5496897405394978
+  "totalProgress": 1.5529048644825258
 }

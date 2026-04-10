@@ -120,16 +120,20 @@ The Hebrew definite article is a prefix that makes nouns definite. In `englishLi
 
 ## English-Natural Translation Principles
 
+For **fixed multi-word Hebrew formulas** (e.g. עַל־כֵּן) and how they interact with morpheme glosses vs phrase-level English, see [dictionary/hebrew/hebrew-idioms.md](./dictionary/hebrew/hebrew-idioms.md).
+
 1. Maintain readability while preserving meaning.
 
    - Balance literal accuracy with natural English expression
    - Ensure the translation remains comprehensible while staying true to the original phrasing
 
-1. Use English word-order.
+1. Use English word-order (clause-level), without erasing Hebrew connectives.
 
    - English-Literal Translation: "And-said, Gods, 'Let_be, light.' And-was, light."
    - English-Natural Translation: "And God said, 'Let light be.' And light was."
    - In the data structures this usually means reversing subject-verb order, and moving prefixes like "va-"/"and-" to the subject word
+   - **Hebrew-tilted natural** (especially poetry): prefer readable **English clause structure** and punctuation, but keep the same **gloss** for small words (`al`/`over`, `ki`/`that`, etc.) as in literal — see `.cursor/rules/hebrew-grammar.mdc` (Connective Word Preservation). Where modern idiomatic English would reorder negation or modality heavily, **literary or slightly archaic but clear** word order is acceptable if it tracks the Hebrew surface better (reviewer choice).
+   - **Hebrew imperfect** in poetry or contemplative lines: `englishLiteral` stays **will** (`I-will-see`); `englishNatural` may use **present** (“I see”) when it reads better. Default to **will** in narrative prose. See `.cursor/rules/hebrew-grammar.mdc` (Imperfect Tense).
 
 1. Use more natural english punctuation.
 
@@ -150,7 +154,7 @@ The Hebrew definite article is a prefix that makes nouns definite. In `englishLi
 
    - Like the English-Literal, the root word should be consistently translated, even in strange situations.
    - This is most important for verbs, nouns, and adjectives.
-   - Smaller/connective/marker words are allowed more flexibility due to their variety of use and function, especially in the Hebrew.
+   - **Connectives and high-frequency prepositions / particles** (`al`, `ki`, `asher`, `be`, `le`, etc.): treat like content words for **gloss stability** in natural as well as literal — do not substitute smoother English synonyms in `englishNatural` unless the project explicitly revises the dictionary convention. Other small words (pronouns, optional “that” in complement clauses, etc.) may still be adjusted for readability when grammar requires it.
 
 1. Handle definite articles (Hebrew ה / ha) for readability.
 

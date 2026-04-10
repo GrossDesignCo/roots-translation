@@ -5852,10 +5852,20 @@ const ROOTS = {
   tamim: {
     hebrew: 'תמים',
     transliteration: 'tamim',
-    englishLiteral: 'blameless',
-    englishNatural: 'blameless',
+    englishLiteral: 'wholesome',
+    englishNatural: 'wholesome',
     type: 'adjective',
-    description: 'blameless, complete, perfect, whole, sound',
+    description: 'intensive form of tam, wholesome, blameless, complete, perfect, sound',
+    related: ['tam'],
+  },
+  tam: {
+    hebrew: 'תם',
+    transliteration: 'tam',
+    englishLiteral: 'whole',
+    englishNatural: 'whole',
+    type: 'adjective',
+    description: 'whole, complete, blameless, having integrity',
+    related: ['tamim'],
   },
   // Genesis 6:12 additions
   hineh: {
@@ -8461,6 +8471,22 @@ const ROOTS = {
     description:
       'moon (the celestial body); distinct from yerach (month/lunar cycle)',
     related: ['yerach'],
+  },
+  uts: {
+    hebrew: 'עוץ',
+    transliteration: 'uts',
+    englishLiteral: 'Counsel (Uz)',
+    englishNatural: 'Uz',
+    type: 'noun',
+    description: 'a land east of Israel, homeland of Job; from root meaning counsel or firmness',
+  },
+  iyov: {
+    hebrew: 'איוב',
+    transliteration: 'iyov',
+    englishLiteral: 'Persecuted (Job)',
+    englishNatural: 'Job',
+    type: 'noun',
+    description: 'proper name, possibly from root meaning to be hostile or persecuted',
   },
 } as const;
 

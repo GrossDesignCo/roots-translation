@@ -46,7 +46,7 @@ export const psalms_8_9: Verse = {
       hebrew: 'מָֽה־',
       transliteration: 'mah-',
       englishLiteral: 'what-',
-      englishNatural: 'how',
+      englishNatural: 'what',
       root: 'mah',
       order: 3,
       morphology: {
@@ -125,8 +125,8 @@ export const psalms_8_9: Verse = {
     englishLiteral:
       'He_Who_Is (YHWH), our-lord, what- majestic your-name in-all- the-land.',
     englishNatural:
-      'He-Who-Is (YHWH), our lord, how majestic, your name in all the land.',
+      'He-Who-Is (YHWH), our lord, what majestic, your name in all the land.',
     kjv: 'O LORD our Lord, how excellent is thy name in all the earth!',
-    lastReviewed: { name: 'Matt Gross', date: '2026-03-31' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-04-10' },
 },
 };

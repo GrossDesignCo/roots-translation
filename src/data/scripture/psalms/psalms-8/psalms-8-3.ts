@@ -11,7 +11,7 @@ export const psalms_8_3: Verse = {
       hebrew: 'כִּֽי־',
       transliteration: 'ki-',
       englishLiteral: 'that-',
-      englishNatural: 'When',
+      englishNatural: 'That',
       root: 'ki',
       order: 1,
       morphology: {
@@ -159,8 +159,8 @@ export const psalms_8_3: Verse = {
     englishLiteral:
       'that- I-will-see your-skies, work-of your-fingers, moon and-stars which you-have-established.',
     englishNatural:
-      'When I see your skies, the work of your fingers, moon and stars which you have established.',
+      'That I see your skies, the work of your fingers, moon and stars which you have established.',
     kjv: 'When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;',
-    lastReviewed: { name: 'Matt Gross', date: '2026-03-31' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-04-10' },
 },
 };

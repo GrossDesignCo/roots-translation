@@ -27,6 +27,10 @@ Preserve Hebrew connective, relative, and prepositional words with the **same** 
 
 This preserves the Hebrew conceptual framing of these relationships — the reader should encounter the same connective vocabulary the Hebrew uses, even in the natural rendering.
 
+**Exception — fixed phrases:** Collocations such as **עַל־כֵּן** are listed in `src/data/dictionary/hebrew/hebrew-idioms.md`. There, `englishLiteral` stays morpheme-accurate (`over-` + `so`), while `englishNatural` may use a **registered** whole-phrase equivalent (e.g. “Therefore,” “So moreover”) with `order.english` as needed.
+
+That does **not** require mirroring full Hebrew linear order in `englishNatural`: use `order.english`, commas, and subject–verb reordering so clauses read as English. The **English gloss** of each connective stays tied to the Hebrew morpheme; the **arrangement** of clauses and predicates may still be tuned for clarity and for a deliberately Hebrew-tilted, literary register when reviewers prefer it (see `translate-verse` skill: “Readable, but Hebrew-tilted”).
+
 ## Cantillation-Guided Punctuation
 
 Hebrew cantillation marks (te'amim) serve as syntactic clause markers. Use them to guide punctuation in `hebrew`, `transliteration`, and `englishLiteral` renderings:
@@ -45,6 +49,14 @@ Hebrew cantillation marks (te'amim) serve as syntactic clause markers. Use them 
 
 For `englishNatural`, you have more flexibility to follow natural English clause conventions, but the cantillation-guided breaks are the starting reference.
 
+## Grammar Prefix and Suffix: Marks Only (No English Words)
+
+`grammarPrefix` and `grammarSuffix` may contain **typographic or script marks only**: punctuation (`.`, `,`, `;`, `:`, `!`, `?`, em dash, etc.), quotation or bracket characters used as wrappers (`"`, `'`, and similar), and non-English columns where needed (`aramaic`, `hebrew`, `greek`, `transliteration` for marks like sof pasuq).
+
+**Do not** put English **words** or phrases in these fields (e.g. not `grammarPrefix: { englishNatural: 'and ' }`). Lexical English belongs in `englishLiteral` and `englishNatural` on the word, or in the gloss implied by `prefixes` / `suffixes` and the dictionary.
+
+When natural English **word order** needs a conjunction or other function word to surface on a different token than in Hebrew, express it in that word’s `englishNatural` (and use `order.english` as needed). Example: Job 1:1 — וְהָיָה הָאִישׁ הַהוּא as “and that man was” in natural English uses `englishNatural: 'and that'` on הַהוּא and `was` on וְהָיָה, not a grammar prefix carrying `and`.
+
 ## English Clause Commas (Natural Only)
 
 In `englishNatural`, add commas for standard English clause punctuation even when Hebrew has no explicit marker:
@@ -53,7 +65,7 @@ In `englishNatural`, add commas for standard English clause punctuation even whe
 - **Appositive phrases**: commas to set off descriptive phrases
 - **Clause boundaries**: between clauses joined by relative pronouns
 
-These go in `grammarSuffix` or `grammarPrefix` with an `englishNatural` key — never embedded in the word text itself.
+The **comma character** (and similar clause marks) goes in `grammarSuffix` or `grammarPrefix` with the appropriate language key — never embedded in the word text itself. This is punctuation, not lexical English; see **Grammar Prefix and Suffix: Marks Only** above.
 
 ## Construct State in Natural English
 
@@ -88,13 +100,15 @@ Transliterations must use **camelCase** to mark prefix boundaries. The root port
 
 This applies to **all** prefixes — prepositions (`be`, `le`, `mi`), articles (`ha`), conjunctions (`ve`), and imperfect verb prefixes (`yi`, `ti`, `e`, `te`, etc.). Suffixes do NOT trigger camelCase.
 
-## Imperfect Tense: Use "will" (not "shall")
+## Imperfect Tense: "will" in literal; present allowed in natural (poetry)
 
-Always render the Hebrew imperfect with **"will"**, never "shall":
+**`englishLiteral`:** Always render the Hebrew imperfect with **"will"** (never "shall"): `I-will-see`, `you-will-remember`, `he-will-give`. Dictionary imperfect prefixes stay aligned with **will**.
 
-- "I-will-see", "you-will-remember", "he-will-give" (not "I-shall-see", "you-shall-remember", "he-shall-give")
+**`englishNatural`:** Default to **will** / **I will …** in narrative and prose so English tense matches the Hebrew form.
 
-This applies uniformly across all persons and numbers. The imperfect prefix dictionary entries (`ti`, `tav`, `yi`, `ya`, `yo`, `e`, `te`, `to`) all use "will."
+**Exception (poetry, psalms, prayer, vivid contemplation):** When it **reads better** without changing the semantic frame, natural English may use the **simple present** (or progressive) — e.g. "I see your heavens" (Psalm 8:3) beside literal `I-will-see`. The Hebrew is still tagged `imperfect`; the literal line keeps **will**. Reviewer choice; use consistently within a passage where possible.
+
+Never use **shall** for the Hebrew imperfect.
 
 ## Verb Person and Number
 

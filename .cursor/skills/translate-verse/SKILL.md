@@ -1,6 +1,6 @@
 ---
 name: translate-verse
-description: Generate word-by-word scripture translation data for Biblical Hebrew, Aramaic, or Greek verses. Use when the user asks to translate a verse, add a new verse, generate verse data, or work with scripture translation files.
+description: Generate word-by-word scripture translation data for Biblical Hebrew, Aramaic, or Greek verses. Use when the user asks to translate a verse, add a new verse, generate verse data, review or edit existing verse files, or work with scripture translation data.
 ---
 
 # Translate Verse
@@ -12,6 +12,8 @@ description: Generate word-by-word scripture translation data for Biblical Hebre
 3. Always **run tests** after generating verse data: `npm test`
 4. Review the dictionary and add missing roots/prefixes/suffixes when generating verse data.
 5. If you find yourself circling back over the same translation uncertainties more than three times, just pick a placeholder and move on. Note this placeholder to the human so they can dig deeper.
+
+**Reviewing or revising** existing verses uses the same rules below (dictionary, `englishLiteral` / `englishNatural`, connective preservation, marks-only grammar fields). You do not need a separate skill — only respect `lastReviewed` and explicit human permission when changing reviewed text.
 
 ## Verse Numbering
 
@@ -26,12 +28,14 @@ Follow the source-language numbering, not modern English conventions. For exampl
    - Aramaic: `src/data/dictionary/aramaic/roots.ts`
    - Greek: `src/data/dictionary/greek/roots.ts`
    - Also check prefixes/suffixes in the same directories
-4. **Add missing dictionary entries** for any roots, prefixes, or suffixes not yet in the dictionary. Check for potential duplicates first.
-5. **Generate the verse file** following the data structure below.
-6. **Add the verse export** to the chapter's `index.ts`.
-7. **Verify each word** against the post-generation checklist (see below).
-8. **Run tests** to validate: `npm test` — check output for `console.warn` messages and fix any flagged issues.
-9. **Check for TypeScript errors**: run `npx tsc --noEmit` and resolve any errors before finishing. Common issues include `related` fields referencing keys from the wrong dictionary (e.g., Aramaic keys in a Hebrew `related` array).
+   - Hebrew multi-word idioms: `src/data/dictionary/hebrew/hebrew-idioms.md` (see workflow step 4)
+4. **Check [hebrew-idioms.md](../../src/data/dictionary/hebrew/hebrew-idioms.md)** (Hebrew dictionary phrasebook) if the verse contains a known multi-word formula (e.g. עַל־כֵּן).
+5. **Add missing dictionary entries** for any roots, prefixes, or suffixes not yet in the dictionary. Check for potential duplicates first.
+6. **Generate the verse file** following the data structure below.
+7. **Add the verse export** to the chapter's `index.ts`.
+8. **Verify each word** against the post-generation checklist (see below).
+9. **Run tests** to validate: `npm test` — check output for `console.warn` messages and fix any flagged issues.
+10. **Check for TypeScript errors**: run `npx tsc --noEmit` and resolve any errors before finishing. Common issues include `related` fields referencing keys from the wrong dictionary (e.g., Aramaic keys in a Hebrew `related` array).
 
 ## Post-Generation Verification Checklist
 
@@ -114,6 +118,7 @@ Each word in the `words` array has this shape:
 
 For complete rules, read [translation-principles.md](../../src/data/translation-principles.md).
 For Hebrew grammar conventions (implied copula, cantillation punctuation, connective word preservation), see `.cursor/rules/hebrew-grammar.mdc`.
+For **fixed Hebrew phrases** whose English discourse equivalent is conventional (e.g. עַל־כֵּן), see **[hebrew-idioms.md](../../src/data/dictionary/hebrew/hebrew-idioms.md)** in the Hebrew dictionary folder.
 
 ### englishLiteral
 
@@ -135,6 +140,22 @@ For Hebrew grammar conventions (implied copula, cantillation punctuation, connec
 - May add minimal words for readability (e.g., "he was" instead of just "was").
 - **Reverse subject-verb** when needed: literal `And-said Gods` → natural `And God said`.
 
+#### Readable, but Hebrew-tilted (especially poetry / Psalms)
+
+`englishNatural` is **not** the same as idiomatic contemporary English. Aim for a **middle path**:
+
+1. **Keep Hebrew connectives stable** — Follow `.cursor/rules/hebrew-grammar.mdc` (**Connective Word Preservation**). In natural as in literal, keep the same gloss for `al`/`over`, `ki`/`that`, `asher`/`which`, `be`/`in`, `le`/`to`, etc. Do **not** swap them for smoother but different English (e.g. `al` → “upon”, `ki` → “for” / “because”) just to sound more colloquial. That training is for readers learning Hebrew conceptual wiring.
+
+2. **Clause-level reordering is allowed** — Inside those constraints, use `order.english` so phrases read as **English clauses** (subject–verb, sensible phrase breaks, cantillation-informed pauses). You are avoiding **raw Hebrew linear copy** in natural, not avoiding **Hebrew vocabulary** for small words.
+
+3. **Literary / older English word order when it tracks Hebrew better** — When fully idiomatic English would scramble the Hebrew **sequence** of predication, negation, or modality, prefer **intelligible but slightly archaic or formal** order if it flows better to the reviewer than either (a) pure Hebrew mirror or (b) full modern smoothing. Examples (illustrative, not mandatory): placing negation or a trailing “not” closer to Hebrew stress than “I will not …”, or clause orders that sound Jacobean but remain clear. **Human reviewers** choose; AI should scaffold consistent glosses and flag tradeoffs rather than “fixing” toward newspaper English.
+
+4. **Imperfect in `englishNatural` (poetry)** — Keep `englishLiteral` as `I-will-…` / `you-will-…`. In psalms and similar discourse, natural may use **present** (“I see”) when it flows better; default to **will** in prose. See `.cursor/rules/hebrew-grammar.mdc` (Imperfect Tense).
+
+5. **Registered idioms** — For multi-word Hebrew formulas (e.g. עַל־כֵּן), see **[hebrew-idioms.md](../../src/data/dictionary/hebrew/hebrew-idioms.md)** (`src/data/dictionary/hebrew/`): morpheme-accurate **literal**, phrase-level **natural** options approved for the project.
+
+When in doubt: **preserve connector glosses**; **adjust order and punctuation** for breath and clarity; **do not** silently replace Hebrew function words with English near-synonyms in `englishNatural` **except** where [hebrew-idioms.md](../../src/data/dictionary/hebrew/hebrew-idioms.md) explicitly registers a whole-phrase natural equivalent.
+
 ### Word Order
 
 - `order: number` — same position in all languages.
@@ -145,9 +166,10 @@ For Hebrew grammar conventions (implied copula, cantillation punctuation, connec
 
 ### grammarSuffix / grammarPrefix
 
+- **Marks only** — punctuation, quotes, and similar typographic/script characters. Do **not** put English words or phrases here; use `englishLiteral` / `englishNatural` (and `order.english` when needed) for lexical material. See `.cursor/rules/hebrew-grammar.mdc` (Grammar Prefix and Suffix: Marks Only).
 - Language-specific punctuation: `{ englishLiteral: ',', englishNatural: ';' }`
 - Aramaic sof pasuq: `{ aramaic: '׃', englishLiteral: '.' }`
-- Can include quotes: `{ englishNatural: "'" }`
+- Quotation marks used as punctuation (dialogue, etc.) are allowed — same marks-only rule as commas and periods.
 - Only on the `TranslationWord`, never embedded in the word text itself.
 
 ### lineBreaks
@@ -239,4 +261,5 @@ Study these files for patterns before generating:
 - Aramaic: `src/data/scripture/daniel/daniel-7/daniel-7-13.ts`
 - Full translation rules: `src/data/translation-principles.md`
 - Dictionary README: `src/data/dictionary/README.md`
+- Hebrew idiom phrasebook: `src/data/dictionary/hebrew/hebrew-idioms.md`
 - Full type definitions: `src/types.ts`

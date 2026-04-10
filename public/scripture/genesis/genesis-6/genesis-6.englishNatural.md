@@ -31,7 +31,7 @@ And Rest (Noah) found grace in the eyes of He-Who-Is (YHWH).
 
 These are the birthings of Rest (Noah);
 
-Rest (Noah), a man righteous, blameless he was in his generation;
+Rest (Noah), a man righteous, wholesome he was in his generation;
 Rest (Noah) walked-with the God.
 
 And Rest (Noah) birthed three sons:

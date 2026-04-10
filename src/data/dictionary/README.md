@@ -2,6 +2,10 @@
 
 Dictionaries are organized as typescript objects containing distinct and related roots.
 
+## Hebrew reference (non-TypeScript)
+
+- **[hebrew/hebrew-idioms.md](./hebrew/hebrew-idioms.md)** — Multi-word formulas and approved `englishLiteral` / `englishNatural` discourse options (phrasebook for verse work). Linked from `.cursor/skills/translate-verse/SKILL.md` and [translation-principles.md](../translation-principles.md).
+
 ## Grouping/Relationships between roots
 
 Noun/Verb/Adjective/etc forms of words should be distinct entries, flagged with a `related` key linking them together.

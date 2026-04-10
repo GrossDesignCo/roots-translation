@@ -61,7 +61,7 @@ export const psalms_8_5: Verse = {
       hebrew: 'וְכָב֖וֹד',
       transliteration: 'veKhavod',
       englishLiteral: 'and-glory',
-      englishNatural: 'and with glory',
+      englishNatural: 'and glory',
       root: 'kavod',
       prefixes: ['ve'],
       order: 4,
@@ -117,8 +117,8 @@ export const psalms_8_5: Verse = {
     englishLiteral:
       'and-you-have-made-him-lack a_little from-God, and-glory and-honor you-will-crown-him.',
     englishNatural:
-      'and you have made him lack a-little from God, and with glory and honor you will crown him.',
+      'and you have made him lack a-little from God, and glory and honor you will crown him.',
     kjv: 'For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-03-31' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-04-10' },
 },
 };

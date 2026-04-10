@@ -98,8 +98,8 @@ export const genesis_6_9: Verse = {
     {
       hebrew: 'תָּמִים',
       transliteration: 'tamim',
-      englishLiteral: 'blameless',
-      englishNatural: 'blameless',
+      englishLiteral: 'wholesome',
+      englishNatural: 'wholesome',
       root: 'tamim',
       order: 7,
       morphology: {
@@ -227,10 +227,10 @@ export const genesis_6_9: Verse = {
     transliteration:
       'eleh toledot noach noach ish tzaddiq tamim hayah bedorotav et-haElohim hithalekh-noach',
     englishLiteral:
-      'These birthings-of Rest (Noah); Rest (Noah), man righteous, blameless he-was in-generation-his; ↳ the-Gods walked-with- Rest (Noah).',
+      'These birthings-of Rest (Noah); Rest (Noah), man righteous, wholesome he-was in-generation-his; ↳ the-Gods walked-with- Rest (Noah).',
     englishNatural:
-      'These are the birthings of Rest (Noah); Rest (Noah), a man righteous, blameless he was in his generation; Rest (Noah) walked-with the God.',
+      'These are the birthings of Rest (Noah); Rest (Noah), a man righteous, wholesome he was in his generation; Rest (Noah) walked-with the God.',
     kjv: 'These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-04-10' },
   },
 };
