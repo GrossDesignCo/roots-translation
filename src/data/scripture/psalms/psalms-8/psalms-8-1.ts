@@ -125,7 +125,6 @@ export const psalms_8_1: Verse = {
       morphology: {
         type: 'relative',
       },
-      lineBreaksBefore: 1,
     },
     {
       hebrew: 'תְּנָ֥ה',

@@ -2,7 +2,6 @@ laMnatseach al-haGittit
 mizmor leDavid
 
 YHWH adoneinu mah-addir shimkha beKhol-haAretz
-
 asher tenah hodkha al-haShamayim
 
 miPi olelim veYoneqim yisadta oz

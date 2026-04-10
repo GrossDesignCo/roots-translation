@@ -2,7 +2,6 @@ To the one-who-endures over the Gittith.
 A melody to David.
 
 He-Who-Is (YHWH), our lord, what majestic, your name in all the land;
-
 which give your splendor over the skies.
 
 from the mouth of infants and sucklings you have founded strength,
