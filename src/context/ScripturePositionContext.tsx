@@ -6,19 +6,12 @@ import React, {
   useEffect,
 } from 'react';
 import { useLocalStorage } from '@/hooks/useLocalStorage';
-import { sortVerseIds } from '@/utils/scriptureOrder';
-
-interface IntersectionObserverOptions {
-  root?: Element | null;
-  rootMargin?: string;
-  threshold?: number | number[];
-}
 
 interface ScripturePositionContextType {
   observe: (element: Element) => void;
   unobserve: (element: Element) => void;
-  visibleVerseIds: string[];
-  middleVerseId: string;
+  visibleChapterIds: string[];
+  middleChapterId: string;
 }
 
 const ScripturePositionContext =
@@ -26,53 +19,50 @@ const ScripturePositionContext =
 
 export const ScripturePositionProvider: React.FC<{
   children: React.ReactNode;
-  options?: IntersectionObserverOptions;
-}> = ({ children, options = {} }) => {
+}> = ({ children }) => {
   const observer = useRef<IntersectionObserver | null>(null);
-  const [visibleVerseIds, setVisibleVerseIds, hydrated] = useLocalStorage<
+  const [visibleChapterIds, setVisibleChapterIds, hydrated] = useLocalStorage<
     string[]
-  >('visible-verses', []);
-  const middleVerseId =
-    visibleVerseIds[Math.floor((visibleVerseIds.length - 1) / 2)];
+  >('visible-chapters', []);
+  const middleChapterId =
+    visibleChapterIds[Math.floor((visibleChapterIds.length - 1) / 2)];
 
-  // Callback for intersection observer, manages list of visible verses
   const handleIntersection = useCallback(
     (entries: IntersectionObserverEntry[]) => {
       entries.forEach((entry) => {
-        const verseId = entry.target.getAttribute('data-verse-id');
+        const chapterId = entry.target.getAttribute('data-chapter-id');
 
-        if (verseId) {
+        if (chapterId) {
           if (entry.isIntersecting) {
-            // Store the verse ID when it becomes visible
-            setVisibleVerseIds((prev) => {
+            setVisibleChapterIds((prev) => {
               const newSet = new Set(prev);
-              newSet.add(verseId);
-              return sortVerseIds(Array.from(newSet));
+              newSet.add(chapterId);
+              return Array.from(newSet).sort();
             });
           } else {
-            // Remove the verse ID when it's no longer visible
-            setVisibleVerseIds((prev) => {
+            setVisibleChapterIds((prev) => {
               const newSet = new Set(prev);
-              newSet.delete(verseId);
-              return sortVerseIds(Array.from(newSet));
+              newSet.delete(chapterId);
+              return Array.from(newSet).sort();
             });
           }
         }
       });
     },
-    [setVisibleVerseIds]
+    [setVisibleChapterIds]
   );
 
-  // Only instanciate intersection observer once
   useEffect(() => {
-    observer.current = new IntersectionObserver(handleIntersection, options);
+    observer.current = new IntersectionObserver(handleIntersection, {
+      threshold: 0.1,
+    });
 
     return () => {
       if (observer.current) {
         observer.current.disconnect();
       }
     };
-  }, [handleIntersection, options]);
+  }, [handleIntersection]);
 
   const observe = useCallback((element: Element) => {
     if (observer.current) {
@@ -86,12 +76,11 @@ export const ScripturePositionProvider: React.FC<{
     }
   }, []);
 
-  // Don't render children until hydrated to avoid hydration mismatch
   if (!hydrated) return null;
 
   return (
     <ScripturePositionContext.Provider
-      value={{ observe, unobserve, visibleVerseIds, middleVerseId }}
+      value={{ observe, unobserve, visibleChapterIds, middleChapterId }}
     >
       {children}
     </ScripturePositionContext.Provider>

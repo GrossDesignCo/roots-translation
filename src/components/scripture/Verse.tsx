@@ -4,10 +4,9 @@ import { useSettings } from '@/context/SettingsContext';
 import { String } from '../text/String';
 import styles from './Verse.module.css';
 import { useLexicon } from '@/context/LexiconContext';
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { resolveLanguage } from '@/utils/resolveLanguage';
 import { useSelection } from '@/context/SelectionContext';
-import { useScripturePosition } from '@/context/ScripturePositionContext';
 import { getVerseId, getBookNameKey } from '@/data/utils/idUtils';
 
 interface VerseProps {
@@ -17,10 +16,8 @@ interface VerseProps {
 export default function Verse({ verse }: VerseProps) {
   const { languages } = useSettings();
 
-  // (If there are multiple translations being shown)
   const isShowingMultiple = languages.length > 1;
 
-  // Track which words have lexicon entries (used/rendered in Word component)
   const { checkWordsForEntryPresence } = useLexicon();
 
   useEffect(() => {
@@ -36,8 +33,6 @@ export default function Verse({ verse }: VerseProps) {
     checkWordsForEntryPresence,
   ]);
 
-  // Track whether this verse should be filtered out
-  // Used in logic that only shows verses with matching words/roots
   const { selectedWords, filterVerses } = useSelection();
   const [isFilteredOut, setIsFilteredOut] = useState<boolean>(false);
 
@@ -53,31 +48,16 @@ export default function Verse({ verse }: VerseProps) {
     }
   }, [filterVerses, selectedWords, verse.words]);
 
-  // Observe this verses' position in the viewport
-  // Analogous to a scroll being opened, with several verses visible to the reader
-  const { observe, unobserve } = useScripturePosition();
-  const verseNumberElementRef = useRef<HTMLElement>(null);
   const verseId = getVerseId({
     book: getBookNameKey(verse.meta.book),
     chapter: verse.meta.chapter,
     verse: verse.meta.verse,
   });
 
-  useEffect(() => {
-    const verseElement = verseNumberElementRef.current;
-
-    if (verseElement) {
-      observe(verseElement);
-
-      return () => unobserve(verseElement);
-    }
-  }, [observe, unobserve, verseNumberElementRef, languages]);
-
   if (Boolean(selectedWords.length) && isFilteredOut) return;
 
-  // Render Content
   const verseContent = (
-    <span data-verse-id={verseId} ref={verseNumberElementRef}>
+    <span data-verse-id={verseId}>
       {verse.meta.verse ? (
         <sup className={styles.VerseNumber} id={verseId}>
           {verse.meta.verse}
@@ -85,7 +65,6 @@ export default function Verse({ verse }: VerseProps) {
       ) : null}
 
       {languages.map((language) => {
-        // Resolve `original` to actual language used for styling
         const resolvedLanguage = resolveLanguage(
           verse.words?.[0],
           language as LanguageKey
@@ -100,7 +79,6 @@ export default function Verse({ verse }: VerseProps) {
           />
         );
 
-        // If showing multiple renderings of the verse, block them to make it more clear
         return isShowingMultiple ? (
           <span className={styles.VerseAsBlock} dir={dir} key={language}>
             {renderedString}
@@ -112,7 +90,6 @@ export default function Verse({ verse }: VerseProps) {
     </span>
   );
 
-  // Wrap the whole thing in an extra container for visual effects if showing multiple
   return isShowingMultiple ? (
     <div className={styles.VersesAsBlocks}>{verseContent}</div>
   ) : (

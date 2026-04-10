@@ -6,6 +6,9 @@ import { useSelection } from '@/context/SelectionContext';
 import { getBookNameKey } from '@/data/utils/idUtils';
 import { WorkInProgressMarker } from './WorkInProgressMarker';
 import { Fragment } from 'react/jsx-runtime';
+import { useEffect, useRef, useState } from 'react';
+
+const NEARBY_MARGIN = '500%';
 
 interface BookProps {
   bookData: BookData;
@@ -13,9 +16,33 @@ interface BookProps {
 
 export const Book = ({ bookData }: BookProps) => {
   const { filterVerses, filteredStructure } = useSelection();
+  const bookRef = useRef<HTMLDivElement>(null);
+  const [isNearby, setIsNearby] = useState(false);
+
+  useEffect(() => {
+    const el = bookRef.current;
+    if (!el) return;
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsNearby(true);
+          observer.disconnect();
+        }
+      },
+      { rootMargin: NEARBY_MARGIN },
+    );
+    observer.observe(el);
+
+    return () => observer.disconnect();
+  }, []);
 
   return (
-    <div className={styles.Book}>
+    <div
+      className={styles.Book}
+      ref={bookRef}
+      data-book-id={getBookNameKey(bookData.meta.name)}
+    >
       <div className={styles.bookMeta}>
         <h1 className={styles.BookName} id={getBookNameKey(bookData.meta.name)}>
           {bookData?.meta?.name}
@@ -28,7 +55,6 @@ export const Book = ({ bookData }: BookProps) => {
 
       <div className={styles.chapters}>
         {bookData?.chapters?.map((chapter, i) => {
-          // Filter verses based on filteredStructure
           const filteredVerses = chapter.verses.filter((verse) => {
             if (!filterVerses || !filteredStructure) return true;
             const bookName = bookData.meta.name.toLowerCase();
@@ -37,16 +63,13 @@ export const Book = ({ bookData }: BookProps) => {
             ]?.includes(verse.meta.verse);
           });
 
-          // Only render the chapter if it has verses to show
           if (filteredVerses.length === 0) return null;
 
-          // Create a filtered version of the chapter
           const filteredChapter = {
             ...chapter,
             verses: filteredVerses,
           };
 
-          // Handle non-consecutive chapters
           const nonConsecutiveChapters =
             chapter.meta.chapter !==
               bookData.chapters[i - 1]?.meta.chapter + 1 &&
@@ -56,13 +79,20 @@ export const Book = ({ bookData }: BookProps) => {
             return (
               <Fragment key={chapter.meta.chapter}>
                 <WorkInProgressMarker />
-                <Chapter chapterData={filteredChapter} />
+                <Chapter
+                  chapterData={filteredChapter}
+                  renderVerseContent={isNearby}
+                />
               </Fragment>
             );
           }
 
           return (
-            <Chapter chapterData={filteredChapter} key={chapter.meta.chapter} />
+            <Chapter
+              chapterData={filteredChapter}
+              renderVerseContent={isNearby}
+              key={chapter.meta.chapter}
+            />
           );
         })}
       </div>

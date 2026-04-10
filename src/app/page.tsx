@@ -8,7 +8,7 @@ import { ScripturePositionProvider } from '@/context/ScripturePositionContext';
 
 const Home = () => {
   return (
-    <ScripturePositionProvider options={{ threshold: 0.1 }}>
+    <ScripturePositionProvider>
       <SettingsProvider>
         <SelectionProvider>
           <LexiconProvider>

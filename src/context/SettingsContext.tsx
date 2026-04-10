@@ -20,31 +20,31 @@ export const SettingsProvider = ({ children }: { children: ReactNode }) => {
   const [settings, setSettings, hydrated] = useSettingsFromLocalStorage();
   const { languages, theme, font } = settings;
 
-  const preChangeVerse = useRef<string | null>(null);
-  const getPreChangeVerse = () => {
-    const verseArray = JSON.parse(
-      localStorage.getItem('visible-verses') || '{}'
+  const preChangeChapter = useRef<string | null>(null);
+  const getPreChangeChapter = () => {
+    const chapters = JSON.parse(
+      localStorage.getItem('visible-chapters') || '[]'
     );
-    const middle = Math.floor(verseArray.length / 2);
-    return verseArray[middle];
+    if (!Array.isArray(chapters) || chapters.length === 0) return null;
+    const middle = Math.floor(chapters.length / 2);
+    return chapters[middle];
   };
 
   useEffect(() => {
-    const markedVerseElement = document.querySelector(
-      `[data-verse-id="${preChangeVerse.current}"]`
-    );
-    if (markedVerseElement) {
-      markedVerseElement.scrollIntoView({ block: 'center' });
+    if (!preChangeChapter.current) return;
+    const el = document.getElementById(preChangeChapter.current);
+    if (el) {
+      el.scrollIntoView({ block: 'start' });
     }
-  }, [languages, preChangeVerse]);
+  }, [languages, preChangeChapter]);
 
   // Don't render children until hydrated to avoid hydration mismatch
   if (!hydrated) return null;
 
   // Toggle an individual language
   const toggleLanguage = (lang: LanguageKey) => {
-    const markedVerse = getPreChangeVerse();
-    preChangeVerse.current = markedVerse;
+    const markedChapter = getPreChangeChapter();
+    preChangeChapter.current = markedChapter;
 
     if (languages.includes(lang)) {
       setSettings({
@@ -60,8 +60,8 @@ export const SettingsProvider = ({ children }: { children: ReactNode }) => {
   };
 
   const handleSetLanguages = (languages: LanguageKey[]) => {
-    const markedVerse = getPreChangeVerse();
-    preChangeVerse.current = markedVerse;
+    const markedChapter = getPreChangeChapter();
+    preChangeChapter.current = markedChapter;
 
     const languageOrder: LanguageKey[] = [
       'original',

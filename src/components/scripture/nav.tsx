@@ -11,15 +11,15 @@ type BookData = (typeof currentStructure)[BookNameKey];
 
 export const ScriptureNav = ({ onChapterChange }: { onChapterChange: () => void }) => {
   const [openBook, setOpenBook] = useState<BookNameKey | null>(null);
-  const { visibleVerseIds } = useScripturePosition();
+  const { visibleChapterIds } = useScripturePosition();
 
   const visibleBookIds = useMemo(() => {
     return Object.keys(currentStructure).filter((bookNameKey) =>
-      visibleVerseIds.some((verseId) =>
-        verseId.startsWith(bookNameKey as ScriptureBookNameKey)
+      visibleChapterIds.some((chapterId) =>
+        chapterId.startsWith(bookNameKey as ScriptureBookNameKey)
       )
     );
-  }, [visibleVerseIds]);
+  }, [visibleChapterIds]);
 
   return (
     <nav className={styles.nav}>
@@ -32,7 +32,7 @@ export const ScriptureNav = ({ onChapterChange }: { onChapterChange: () => void 
               isOpen={
                 openBook === bookNameKey || visibleBookIds.includes(bookNameKey)
               }
-              visibleVerseIds={visibleVerseIds}
+              visibleChapterIds={visibleChapterIds}
               onToggleOpen={() => {
                 setOpenBook(
                   openBook === bookNameKey ? null : (bookNameKey as BookNameKey)
@@ -52,7 +52,7 @@ interface BookNavProps {
   bookData: BookData;
   isOpen: boolean;
   onToggleOpen: () => void;
-  visibleVerseIds: string[];
+  visibleChapterIds: string[];
   onChapterChange: () => void;
 }
 
@@ -61,28 +61,19 @@ export const BookNav = ({
   bookData,
   isOpen,
   onToggleOpen,
-  visibleVerseIds,
+  visibleChapterIds,
   onChapterChange,
 }: BookNavProps) => {
-  const visibleChapterIds = useMemo(() => {
+  const highlightedChapterIds = useMemo(() => {
     return Object.keys(bookData.chapters)
-      .filter((chapter) =>
-        visibleVerseIds.some((verseId) =>
-          verseId.startsWith(
-            getChapterId({
-              book: bookNameKey as ScriptureBookNameKey,
-              chapter: parseInt(chapter),
-            })
-          )
-        )
-      )
       .map((chapter) =>
         getChapterId({
           book: bookNameKey as ScriptureBookNameKey,
           chapter: parseInt(chapter),
         })
-      );
-  }, [visibleVerseIds, bookData, bookNameKey]);
+      )
+      .filter((id) => visibleChapterIds.includes(id));
+  }, [visibleChapterIds, bookData, bookNameKey]);
 
   return (
     <>
@@ -104,7 +95,7 @@ export const BookNav = ({
             book: bookNameKey as ScriptureBookNameKey,
             chapter: parseInt(chapter),
           });
-          const highlighted = visibleChapterIds.includes(chapterId);
+          const highlighted = highlightedChapterIds.includes(chapterId);
 
           return (
             <li key={chapter}>
