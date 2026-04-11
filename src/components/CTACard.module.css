@@ -34,7 +34,9 @@
   margin-inline-start: -20px; /* Width of icon */
   opacity: 0;
   pointer-events: none;
-  transition: 0.3s ease;
+  transition:
+    margin-inline-start 0.3s ease 0.1s,
+    opacity 0.3s ease;
 }
 
 @media (pointer: fine) {
@@ -44,6 +46,9 @@
     & svg {
       margin-inline-start: var(--ds-space-2);
       opacity: 1;
+      transition:
+        margin-inline-start 0.3s ease,
+        opacity 0.3s ease 0.1s;
     }
   }
 }
