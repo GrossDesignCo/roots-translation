@@ -1,0 +1,79 @@
+{
+  "key": "bah",
+  "language": "hebrew",
+  "root": "be",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "בָּהּ",
+        "transliteration": "bah",
+        "englishLiteral": "in-it",
+        "englishNatural": "in it",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וּבַזָּפֶת וַתָּשֶׂם **בָּהּ** אֶת־ הַיֶּלֶד",
+        "transliteration": "uVaZafet vaTasem **bah** et- haYeled",
+        "englishLiteral": "and-in-pitch and-placed **in-it** ↳ the-child",
+        "englishNatural": "and in pitch and placed **in it** ↳ the child"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "בָּהּ",
+        "transliteration": "bah",
+        "englishLiteral": "in-her",
+        "englishNatural": "into it",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "שְׂכָרָהּ וַיֵּרֶד **בָּהּ** לָבוֹא עִמָּהֶם",
+        "transliteration": "sekhorah vaYered **bah** lavo immahhem",
+        "englishLiteral": "fare-her and-went_down **in-her** to-go with-them",
+        "englishNatural": "the fare of it and went-down **into it** to go with them to"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בָּהּ",
+        "transliteration": "bah",
+        "englishLiteral": "in-her",
+        "englishNatural": "in her",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר יֶשׁ־ **בָּהּ** הַרְבֵּה מִשְׁתֵּים־",
+        "transliteration": "asher yesh- **bah** harbeh mishteym-",
+        "englishLiteral": "which there_is- **in-her** much from-two-",
+        "englishNatural": "which there-is **in her** much more than two"
+      }
+    }
+  ]
+}

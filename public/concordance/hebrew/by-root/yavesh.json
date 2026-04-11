@@ -1,0 +1,32 @@
+{
+  "root": "yavesh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיִּיבָשׁ",
+        "transliteration": "vaYivash",
+        "englishLiteral": "and-withered",
+        "englishNatural": "and it withered",
+        "root": "yavesh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַקִּיקָיוֹן **וַיִּיבָשׁ**",
+        "transliteration": "et- haQiqayon **vaYivash**",
+        "englishLiteral": "↳ the-luscious_plant **and-withered**",
+        "englishNatural": "↳ the luscious-plant **and it withered**"
+      }
+    }
+  ]
+}

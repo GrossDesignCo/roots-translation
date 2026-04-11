@@ -1,0 +1,30 @@
+{
+  "root": "erekh_name",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְאֶרֶךְ",
+        "transliteration": "veErekh",
+        "englishLiteral": "and-Length (Erech)",
+        "englishNatural": "and Length (Erech)",
+        "root": "erekh_name",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַמְלַכְתּוֹ בָּבֶל **וְאֶרֶךְ** וְאַכַּד וְכַלְנֵה",
+        "transliteration": "mamlakhto Babel **veErekh** veAkkad veKhalneh",
+        "englishLiteral": "his-kingdom Confusion (Babylon) **and-Length (Erech)** and-Fortress (Akkadia) and-Fortress (Calneh)",
+        "englishNatural": "his kingdom Confusion (Babylon) **and Length (Erech)** and Fortress (Akkadia) and Fortress (Calneh)"
+      }
+    }
+  ]
+}

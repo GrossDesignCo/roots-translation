@@ -1,0 +1,33 @@
+{
+  "key": "vayishlach",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַיִּשְׁלַח",
+        "transliteration": "vaYishlach",
+        "englishLiteral": "And-sent",
+        "englishNatural": "And he sent-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וֶאֱחֹז בִּזְנָבוֹ **וַיִּשְׁלַח** יָדוֹ וַיַּחֲזֶק",
+        "transliteration": "veEchoz biZnavo **vaYishlach** yado vaYachazek",
+        "englishLiteral": "and-seize in-tail-its **And-sent** hand-his and-handled",
+        "englishNatural": "and seize its tail **And he sent-out** his hand and handled"
+      }
+    }
+  ]
+}

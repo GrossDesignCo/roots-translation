@@ -1,0 +1,33 @@
+{
+  "key": "giddalto",
+  "language": "hebrew",
+  "root": "gadal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "גִדַּלְתּוֹ",
+        "transliteration": "giddalto",
+        "englishLiteral": "you-grew-it",
+        "englishNatural": "and you grew it",
+        "root": "gadal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "בּוֹ וְלֹא **גִדַּלְתּוֹ** שֶׁבִּן־ לַיְלָה",
+        "transliteration": "bo veLo **giddalto** shebin- laylah",
+        "englishLiteral": "in-it and-not **you-grew-it** yet-son-of- night",
+        "englishNatural": "in it not **and you grew it** yet son of a night"
+      }
+    }
+  ]
+}

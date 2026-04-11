@@ -1,0 +1,55 @@
+{
+  "key": "lehair",
+  "language": "hebrew",
+  "root": "or",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לְהָאִ֖יר",
+        "transliteration": "leHair",
+        "englishLiteral": "to-shine_light",
+        "englishNatural": "to shine-light",
+        "root": "or",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "בִּרְקִ֣יעַ הַשָּׁמַ֔יִם **לְהָאִ֖יר** עַל־ הָאָ֑רֶץ",
+        "transliteration": "biRqia haShamayim **leHair** al- haAretz",
+        "englishLiteral": "in-hammering_out the-skies **to-shine_light** over the-land",
+        "englishNatural": "in the hammering-out the skies **to shine-light** over the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לְהָאִ֖יר",
+        "transliteration": "leHair",
+        "englishLiteral": "to-shine_light",
+        "englishNatural": "to shine-light",
+        "root": "or",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "בִּרְקִ֣יעַ הַשָּׁמָ֑יִם **לְהָאִ֖יר** עַל־ הָאָֽרֶץ׃",
+        "transliteration": "biRqia haShamayim **leHair** al- haAretz",
+        "englishLiteral": "in-hammering_out the-skies **to-shine_light** over the-land",
+        "englishNatural": "in the hammering-out the skies **to shine-light** over the land"
+      }
+    }
+  ]
+}

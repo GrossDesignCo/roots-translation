@@ -1,0 +1,31 @@
+{
+  "key": "bemaasei",
+  "language": "hebrew",
+  "root": "maaseh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "בְּמַעֲשֵׂ֣י",
+        "transliteration": "beMaasei",
+        "englishLiteral": "in-works-of",
+        "englishNatural": "in the works of",
+        "root": "maaseh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תַּ֭מְשִׁילֵהוּ **בְּמַעֲשֵׂ֣י** יָדֶ֑יךָ כֹּ֝ל",
+        "transliteration": "taMshilehu **beMaasei** yadekha kol",
+        "englishLiteral": "you-will-cause-him-to-rule **in-works-of** your-hands all",
+        "englishNatural": "You will cause him to rule **in the works of** your hands all"
+      }
+    }
+  ]
+}

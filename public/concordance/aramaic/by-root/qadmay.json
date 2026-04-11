@@ -1,0 +1,30 @@
+{
+  "root": "qadmay",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "קַדְמָ֣יָתָ֔א",
+        "transliteration": "qadmayata",
+        "englishLiteral": "first-the",
+        "englishNatural": "the first",
+        "root": "qadmay",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ קַרְנַיָּא֙ **קַדְמָ֣יָתָ֔א** אתעקרו מִן־",
+        "transliteration": "min- qarnaiya **qadmayata** iteqaru min-",
+        "englishLiteral": "from- horns-the **first-the** were-uprooted from-",
+        "englishNatural": "from the horns **the first** were uprooted from"
+      }
+    }
+  ]
+}

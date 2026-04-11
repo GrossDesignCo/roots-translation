@@ -1,0 +1,31 @@
+{
+  "key": "beragleyh",
+  "language": "aramaic",
+  "root": "regel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "בְּרַגְלַ֣יהּ",
+        "transliteration": "beRagleyh",
+        "englishLiteral": "with-feet-its",
+        "englishNatural": "with its feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמַדֱּקָ֔ה וּשְׁאָרָ֖א **בְּרַגְלַ֣יהּ** רָפְסָ֑ה וְהִ֣יא",
+        "transliteration": "uMaddeqah uShara **beRagleyh** raphsah veHi",
+        "englishLiteral": "and-crushing and-the-remainder **with-feet-its** trampling and-she",
+        "englishNatural": "and crushing the remainder **with its feet** and trampling and it"
+      }
+    }
+  ]
+}

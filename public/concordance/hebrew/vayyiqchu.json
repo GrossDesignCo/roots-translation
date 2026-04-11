@@ -1,0 +1,33 @@
+{
+  "key": "vayyiqchu",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיִּקְחוּ",
+        "transliteration": "vayYiqchu",
+        "englishLiteral": "and-they-took",
+        "englishNatural": "and they took",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "טֹבֹת הֵנָּה **וַיִּקְחוּ** לָהֶם נָשִׁים",
+        "transliteration": "tovot henah **vayYiqchu** lahem nashim",
+        "englishLiteral": "good they **and-they-took** to-them women",
+        "englishNatural": "good they were **and they took** to themselves women"
+      }
+    }
+  ]
+}

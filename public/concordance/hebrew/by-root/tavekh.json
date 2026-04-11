@@ -1,0 +1,78 @@
+{
+  "root": "tavekh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בַּתָּוֶךְ",
+        "transliteration": "batavekh",
+        "englishLiteral": "in-midst",
+        "englishNatural": "in the midst",
+        "root": "tavekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְבַתֵּר אֹתָם **בַּתָּוֶךְ** וַיִּתֵּן אִישׁ־",
+        "transliteration": "vayevater otam **batavekh** vayiten ish-",
+        "englishLiteral": "and-he-divided ↳ them **in-midst** and-he-gave man-",
+        "englishNatural": "and divided them **in the midst** and gave man"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מִתּוֹךְ",
+        "transliteration": "miTokh",
+        "englishLiteral": "from-midst-of",
+        "englishNatural": "from the midst of",
+        "root": "tavekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּלַבַּת־ אֵשׁ **מִתּוֹךְ** הַסְּנֶה וַיַּרְא",
+        "transliteration": "beLabbat- esh **miTokh** haSeneh vaYar",
+        "englishLiteral": "in-flame-of fire **from-midst-of** the-thornbush and-saw",
+        "englishNatural": "in a flame of fire **from the midst of** the thornbush and he saw"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "מִתּוֹךְ",
+        "transliteration": "miTokh",
+        "englishLiteral": "from-midst-of",
+        "englishNatural": "from the midst of",
+        "root": "tavekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלָיו אֱלֹהִים **מִתּוֹךְ** הַסְּנֶה וַיֹּאמֶר",
+        "transliteration": "elav Elohim **miTokh** haSeneh vaYomer",
+        "englishLiteral": "to-him Gods **from-midst-of** the-thornbush and-said",
+        "englishNatural": "to him and God **from the midst of** the thornbush and said"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "bochori-",
+  "language": "hebrew",
+  "root": "charon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "בָּחֳרִי־",
+        "transliteration": "boChori-",
+        "englishLiteral": "in-burning-",
+        "englishNatural": "in burning",
+        "root": "charon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵֽעִם־ פַּרְעֹ֖ה **בָּחֳרִי־** אָֽף׃",
+        "transliteration": "meIm- Paroh **boChori-** af",
+        "englishLiteral": "from-with- Pharaoh **in-burning-** nose",
+        "englishNatural": "from with Pharaoh **in burning** nose"
+      }
+    }
+  ]
+}

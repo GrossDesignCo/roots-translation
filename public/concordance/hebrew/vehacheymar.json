@@ -1,0 +1,31 @@
+{
+  "key": "vehacheymar",
+  "language": "hebrew",
+  "root": "chemar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְהַחֵמָר",
+        "transliteration": "veHacheymar",
+        "englishLiteral": "and-the-bitumen",
+        "englishNatural": "and the bitumen",
+        "root": "chemar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַלְּבֵנָה לְאָבֶן **וְהַחֵמָר** הָיָה לָהֶם",
+        "transliteration": "haLevenah leEven **veHacheymar** hayah lahem",
+        "englishLiteral": "the-brick for-stone **and-the-bitumen** was to-them",
+        "englishNatural": "And the brick for stone **and the bitumen** was to them"
+      }
+    }
+  ]
+}

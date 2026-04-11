@@ -1,0 +1,55 @@
+{
+  "key": "perat",
+  "language": "hebrew",
+  "root": "perat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "פְּרָת׃",
+        "transliteration": "Perat",
+        "englishLiteral": "Fruitful (Perat)",
+        "englishNatural": "Fruitful (Perat)",
+        "root": "perat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָרְבִיעִי הוּא **פְּרָת׃**",
+        "transliteration": "haRevii hu **Perat**",
+        "englishLiteral": "the-fourth he **Fruitful (Perat)**",
+        "englishNatural": "And the fourth it is **Fruitful (Perat)**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 18
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "פְּרָת",
+        "transliteration": "Perat",
+        "englishLiteral": "Fruitful (Euphrates)",
+        "englishNatural": "Fruitful (Euphrates)",
+        "root": "perat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַגָּדֹל נְהַר־ **פְּרָת**",
+        "transliteration": "haGadol nehar- **Perat**",
+        "englishLiteral": "the-great river-of- **Fruitful (Euphrates)**",
+        "englishNatural": "The Great the River of **Fruitful (Euphrates)**"
+      }
+    }
+  ]
+}

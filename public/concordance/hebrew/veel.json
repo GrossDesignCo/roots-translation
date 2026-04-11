@@ -1,0 +1,31 @@
+{
+  "key": "veel",
+  "language": "hebrew",
+  "root": "el",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְאֶל",
+        "transliteration": "veEl",
+        "englishLiteral": "and-to",
+        "englishNatural": "and to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "תֵּלְדִי בָנִים **וְאֶל** אִישֵׁךְ תְּשׁוּקָתֵךְ",
+        "transliteration": "teldi banim **veEl** ishekh teshuqatek",
+        "englishLiteral": "you-will_birth sons **and-to** man-your fixation-your",
+        "englishNatural": "you will birth sons **and to** your man your fixation"
+      }
+    }
+  ]
+}

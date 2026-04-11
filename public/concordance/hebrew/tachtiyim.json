@@ -1,0 +1,31 @@
+{
+  "key": "tachtiyim",
+  "language": "hebrew",
+  "root": "tachti",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "תַּחְתִּיִּם",
+        "transliteration": "tachtiyim",
+        "englishLiteral": "lower",
+        "englishNatural": "lower",
+        "root": "tachti",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בְּצִדָּהּ תָּשִׂים **תַּחְתִּיִּם** שְׁנִיִּם וּשְׁלִשִׁים",
+        "transliteration": "beTzidah tasim **tachtiyim** shniyim uShlishim",
+        "englishLiteral": "in-side-her you-shall-set **lower** second and-third",
+        "englishNatural": "in its side you shall set **lower** second and third"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "kadosh",
+  "language": "hebrew",
+  "root": "qadash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "קָדוֹשׁ",
+        "transliteration": "kadosh",
+        "englishLiteral": "Holy",
+        "englishNatural": "Holy",
+        "root": "qadash",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "זֶה וְאָמַר **קָדוֹשׁ** קָדוֹשׁ קָדוֹשׁ",
+        "transliteration": "zeh veAmar **kadosh** kadosh kadosh",
+        "englishLiteral": "this and-said **Holy** holy holy",
+        "englishNatural": "this and said **Holy** holy holy"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "קָדוֹשׁ",
+        "transliteration": "kadosh",
+        "englishLiteral": "holy",
+        "englishNatural": "holy",
+        "root": "qadash",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְאָמַר קָדוֹשׁ **קָדוֹשׁ** קָדוֹשׁ יְהוָה",
+        "transliteration": "veAmar kadosh **kadosh** kadosh YHWH",
+        "englishLiteral": "and-said Holy **holy** holy He_Who_Is (YHWH)",
+        "englishNatural": "and said Holy **holy** holy He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "קָדוֹשׁ",
+        "transliteration": "kadosh",
+        "englishLiteral": "holy",
+        "englishNatural": "holy",
+        "root": "qadash",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "קָדוֹשׁ קָדוֹשׁ **קָדוֹשׁ** יְהוָה צְבָאוֹת",
+        "transliteration": "kadosh kadosh **kadosh** YHWH tsvaot",
+        "englishLiteral": "Holy holy **holy** He_Who_Is (YHWH) of-Hosts",
+        "englishNatural": "Holy holy **holy** He-Who-Is (YHWH) of Hosts"
+      }
+    }
+  ]
+}

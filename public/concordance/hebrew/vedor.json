@@ -1,0 +1,31 @@
+{
+  "key": "vedor",
+  "language": "hebrew",
+  "root": "dor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְדוֹר",
+        "transliteration": "veDor",
+        "englishLiteral": "And-generation",
+        "englishNatural": "generation",
+        "root": "dor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְדוֹר** רְבִיעִי יָשׁוּבוּ",
+        "transliteration": "**veDor** revii yashuvu",
+        "englishLiteral": "**And-generation** fourth they-will-return",
+        "englishNatural": "**generation** And the fourth will return"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayaal",
+  "language": "hebrew",
+  "root": "alah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַיַּעַל",
+        "transliteration": "vaYaal",
+        "englishLiteral": "and-went_up",
+        "englishNatural": "and made it go-up",
+        "root": "alah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים קִיקָיוֹן **וַיַּעַל** מֵעַל לְיוֹנָה",
+        "transliteration": "Elohim qiqayon **vaYaal** meAl leYonah",
+        "englishLiteral": "Gods luscious_plant **and-went_up** from-over to-Dove (Jonah)",
+        "englishNatural": "God a luscious-plant **and made it go-up** from over to Dove (Jonah)"
+      }
+    }
+  ]
+}

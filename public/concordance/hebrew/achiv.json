@@ -1,0 +1,151 @@
+{
+  "key": "achiv",
+  "language": "hebrew",
+  "root": "ach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אָחִיו",
+        "transliteration": "achiv",
+        "englishLiteral": "his-brother",
+        "englishNatural": "his brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָלֶדֶת אֶת־ **אָחִיו** אֶת־ הָבֶל",
+        "transliteration": "laLedet et- **achiv** et- Havel",
+        "englishLiteral": "to-her-birthing ↳ **his-brother** ↳ Vapor (Abel)",
+        "englishNatural": "to her birthing ↳ **his brother** ↳ Vapor (Abel)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אָחִיו",
+        "transliteration": "achiv",
+        "englishLiteral": "his-brother",
+        "englishNatural": "his brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הֶבֶל **אָחִיו** וַיְהִי בִּהְיוֹתָם",
+        "transliteration": "el- Hevel **achiv** vayHi biHyotam",
+        "englishLiteral": "to Vapor (Abel) **his-brother** And-it-was in-their-being",
+        "englishNatural": "to Vapor (Abel) **his brother** and it was in their being"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אָחִיו",
+        "transliteration": "achiv",
+        "englishLiteral": "his-brother",
+        "englishNatural": "his brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הֶבֶל **אָחִיו** וַיַּהַרְגֵהוּ",
+        "transliteration": "el- Hevel **achiv** vayYahargehu",
+        "englishLiteral": "to- Vapor (Abel) **his-brother** and-he-killed-him",
+        "englishNatural": "to Vapor (Abel) **his brother** and killed him"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אָחִיו",
+        "transliteration": "achiv",
+        "englishLiteral": "brother-his",
+        "englishNatural": "of his brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֵׁם **אָחִיו** יוּבָל הוּא",
+        "transliteration": "veShem **achiv** Yuval hu",
+        "englishLiteral": "and-name **brother-his** Music (Jubal) he",
+        "englishNatural": "And the name **of his brother** Music (Jubal) he"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 5
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אָחִיו",
+        "transliteration": "achiv",
+        "englishLiteral": "his-brother",
+        "englishNatural": "his brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִיַּד אִישׁ **אָחִיו** אֶדְרֹשׁ אֶת־",
+        "transliteration": "miYad ish **achiv** edrosh et-",
+        "englishLiteral": "from-hand-of man **his-brother** I-will-require ↳",
+        "englishNatural": "from the hand of a man **his brother** I will require ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אָחִיו",
+        "transliteration": "achiv",
+        "englishLiteral": "brother-his",
+        "englishNatural": "his brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ אֶת־ **אָחִיו** וְלֹא־ קָמוּ",
+        "transliteration": "ish et- **achiv** veLo- qamu",
+        "englishLiteral": "man ↳ **brother-his** and-not- stood_up",
+        "englishNatural": "Man ↳ **his brother** not stood-up"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "uvderekh",
+  "language": "hebrew",
+  "root": "derekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וּבְדֶרֶךְ",
+        "transliteration": "uvDerekh",
+        "englishLiteral": "and-in-way-of",
+        "englishNatural": "and in the way of",
+        "root": "derekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּעֲצַת רְשָׁעִים **וּבְדֶרֶךְ** חַטָּאִים לֹא",
+        "transliteration": "baAtzat reshaim **uvDerekh** chataim lo",
+        "englishLiteral": "in-counsel-of wicked_ones **and-in-way-of** sinners not",
+        "englishNatural": "in the counsel of wicked-ones **and in the way of** sinners not"
+      }
+    }
+  ]
+}

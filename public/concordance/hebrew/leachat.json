@@ -1,0 +1,31 @@
+{
+  "key": "leachat",
+  "language": "hebrew",
+  "root": "echad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לְאַחַת",
+        "transliteration": "leAchat",
+        "englishLiteral": "to-one",
+        "englishNatural": "to one",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַרְבַּע כְּנָפַיִם **לְאַחַת** לָהֶם",
+        "transliteration": "veArba kenafayim **leAchat** lahem",
+        "englishLiteral": "and-four wings **to-one** to-them",
+        "englishNatural": "and four wings **to one** to them"
+      }
+    }
+  ]
+}

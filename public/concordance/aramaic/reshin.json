@@ -1,0 +1,31 @@
+{
+  "key": "reshin",
+  "language": "aramaic",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "רֵאשִׁ֣ין",
+        "transliteration": "reshin",
+        "englishLiteral": "heads",
+        "englishNatural": "heads",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַּבַּ֔הּ וְאַרְבְּעָה֙ **רֵאשִׁ֣ין** לְחֵֽיוְתָ֔א וְשָׁלְטָ֖ן",
+        "transliteration": "gabbah veArbea **reshin** lekheyveta veSholtan",
+        "englishLiteral": "back-its and-four **heads** to-the-beast and-dominion",
+        "englishNatural": "its back and four **heads** to the beast and dominion"
+      }
+    }
+  ]
+}

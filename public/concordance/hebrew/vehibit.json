@@ -1,0 +1,33 @@
+{
+  "key": "vehibit",
+  "language": "hebrew",
+  "root": "nabat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 9
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְהִבִּיט",
+        "transliteration": "veHibit",
+        "englishLiteral": "and-he-looked",
+        "englishNatural": "and he looked",
+        "root": "nabat",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת אִישׁ **וְהִבִּיט** אֶל נְחַשׁ",
+        "transliteration": "et ish **veHibit** el nechash",
+        "englishLiteral": "↳ man **and-he-looked** to snake",
+        "englishNatural": "↳ a man **and he looked** to snake"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "taavah-",
+  "language": "hebrew",
+  "root": "avah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "תַאֲוָה־",
+        "transliteration": "taavah-",
+        "englishLiteral": "desirable-",
+        "englishNatural": "desirable",
+        "root": "avah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַאֲכָל וְכִי **תַאֲוָה־** הוּא לָעֵינַיִם",
+        "transliteration": "leMaakhal veKi **taavah-** hu laEynayim",
+        "englishLiteral": "for-food and-that **desirable-** it to-eyes",
+        "englishNatural": "for food and that **desirable** it was to the eyes"
+      }
+    }
+  ]
+}

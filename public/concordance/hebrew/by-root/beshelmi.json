@@ -1,0 +1,30 @@
+{
+  "root": "beshelmi",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בְּשֶׁלְּמִי",
+        "transliteration": "beshelmi",
+        "englishLiteral": "for-whose-sake",
+        "englishNatural": "for whose sake",
+        "root": "beshelmi",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "גוֹרָלוֹת וְנֵדְעָה **בְּשֶׁלְּמִי** הָרָעָה הַזֹּאת",
+        "transliteration": "goralot veNedah **beshelmi** haRaah hazot",
+        "englishLiteral": "lots and-let-us-know **for-whose-sake** the-bad this",
+        "englishNatural": "lots and let us know **for whose sake** this bad is"
+      }
+    }
+  ]
+}

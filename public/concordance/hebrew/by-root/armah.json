@@ -1,0 +1,30 @@
+{
+  "root": "armah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "עָרְמָה",
+        "transliteration": "armah",
+        "englishLiteral": "shrewdness",
+        "englishNatural": "shrewdness",
+        "root": "armah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָתֵת לַפְּתָאיִם **עָרְמָה** לְנַעַר דַּעַת",
+        "transliteration": "latet lapetaim **armah** lenaar daat",
+        "englishLiteral": "To-give to-simple_men **shrewdness** to-young_man knowledge",
+        "englishNatural": "To give to simple men **shrewdness** to a young man knowledge"
+      }
+    }
+  ]
+}

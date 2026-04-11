@@ -1,0 +1,32 @@
+{
+  "root": "nadaf",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "תִּדְּפֶנּוּ",
+        "transliteration": "tidpenu",
+        "englishLiteral": "it-drives_away-it",
+        "englishNatural": "drives-away",
+        "root": "nadaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כַּמֹּץ אֲשֶׁר **תִּדְּפֶנּוּ** רוּחַ",
+        "transliteration": "kaMotz asher **tidpenu** ruach",
+        "englishLiteral": "as-chaff which **it-drives_away-it** wind",
+        "englishNatural": "as chaff which **drives-away** the wind"
+      }
+    }
+  ]
+}

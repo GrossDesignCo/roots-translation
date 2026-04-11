@@ -1,0 +1,33 @@
+{
+  "key": "vayitperu",
+  "language": "hebrew",
+  "root": "taphar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַיִּתְפְּרוּ",
+        "transliteration": "vayItperu",
+        "englishLiteral": "and-sewed",
+        "englishNatural": "and they sewed",
+        "root": "taphar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֵירֻמִּם הֵם **וַיִּתְפְּרוּ** עֲלֵה תְאֵנָה",
+        "transliteration": "eyrumim hem **vayItperu** aleh teenah",
+        "englishLiteral": "naked they **and-sewed** leaf-of fig",
+        "englishNatural": "naked they were **and they sewed** leaf of fig"
+      }
+    }
+  ]
+}

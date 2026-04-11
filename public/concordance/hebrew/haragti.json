@@ -1,0 +1,33 @@
+{
+  "key": "haragti",
+  "language": "hebrew",
+  "root": "harag",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הָרַגְתִּי",
+        "transliteration": "haragti",
+        "englishLiteral": "I-have-killed",
+        "englishNatural": "I have killed",
+        "root": "harag",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי אִישׁ **הָרַגְתִּי** לְפִצְעִי וְיֶלֶד",
+        "transliteration": "ki ish **haragti** leFitzi veYeled",
+        "englishLiteral": "that man **I-have-killed** to-wound-my and-newborn",
+        "englishNatural": "that man **I have killed** to my wound and newborn"
+      }
+    }
+  ]
+}

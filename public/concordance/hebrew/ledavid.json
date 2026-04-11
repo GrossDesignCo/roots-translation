@@ -1,0 +1,79 @@
+{
+  "key": "ledavid",
+  "language": "hebrew",
+  "root": "david",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 0
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לְדָוִֽד",
+        "transliteration": "leDavid",
+        "englishLiteral": "to-David",
+        "englishNatural": "to David",
+        "root": "david",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַגִּתִּ֑ית מִזְמ֖וֹר **לְדָוִֽד**",
+        "transliteration": "haGittit mizmor **leDavid**",
+        "englishLiteral": "the-Gittith melody **to-David**",
+        "englishNatural": "the Gittith A melody **to David**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 0
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לְדָוִ֑ד",
+        "transliteration": "leDavid",
+        "englishLiteral": "to-David",
+        "englishNatural": "to David",
+        "root": "david",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִזְמ֥וֹר **לְדָוִ֑ד**",
+        "transliteration": "mizmor **leDavid**",
+        "englishLiteral": "melody **to-David**",
+        "englishNatural": "A melody **to David**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 0
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לְדָוִד",
+        "transliteration": "leDavid",
+        "englishLiteral": "to-David",
+        "englishNatural": "To David",
+        "root": "david",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁיר הַמַּעֲלוֹת **לְדָוִד**",
+        "transliteration": "shir haMaalot **leDavid**",
+        "englishLiteral": "song the-overs **to-David**",
+        "englishNatural": "A Song of The Overs **To David**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "root": "chad",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "חַד",
+        "transliteration": "chad",
+        "englishLiteral": "one",
+        "englishNatural": "one",
+        "root": "chad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲלוּ צְלֵם **חַד** שַׂגִּיא צַלְמָא",
+        "transliteration": "vaAlu tselem **chad** saggi tsalma",
+        "englishLiteral": "and-behold image **one** great image-the",
+        "englishNatural": "and behold image **one** great the image"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "כַחֲדָה",
+        "transliteration": "kaChada",
+        "englishLiteral": "as-one",
+        "englishNatural": "as one",
+        "root": "chad",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּאדַיִן דָּקוּ **כַחֲדָה** פַּרְזְלָא חַסְפָּא",
+        "transliteration": "beEdayin daqu **kaChada** parzela chaspa",
+        "englishLiteral": "in-then they-were-crushed **as-one** iron-the clay-the",
+        "englishNatural": "Then they were crushed **as one** the iron the clay"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "חַד֙",
+        "transliteration": "chad",
+        "englishLiteral": "one",
+        "englishNatural": "And to one",
+        "root": "chad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "לְדֹ֗ב וְלִשְׂטַר־ **חַד֙** הֳקִמַ֔ת וּתְלָ֥ת",
+        "transliteration": "leDov veListar- **chad** hoqimat uTelat",
+        "englishLiteral": "to-bear And-to-side- **one** it-was-raised_up and-three",
+        "englishNatural": "to a bear side **And to one** it was raised-up and three"
+      }
+    }
+  ]
+}

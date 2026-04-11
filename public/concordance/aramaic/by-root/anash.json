@@ -1,0 +1,30 @@
+{
+  "root": "anash",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אֲנָשָׁא",
+        "transliteration": "anasha",
+        "englishLiteral": "Mortal_Man (Enash)-the",
+        "englishNatural": "the Mortal-Man (Enash)",
+        "root": "anash",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֶהֱוֺן בִּזְרַע **אֲנָשָׁא** וְלָא־ לֶהֱוֺן",
+        "transliteration": "lehevon biZera **anasha** veLa- lehevon",
+        "englishLiteral": "to-be-them in-seed **Mortal_Man (Enash)-the** and-not- to-be-them",
+        "englishNatural": "to be in the seed of **the Mortal-Man (Enash)** not and they will be"
+      }
+    }
+  ]
+}

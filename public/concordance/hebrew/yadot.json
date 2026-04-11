@@ -1,0 +1,31 @@
+{
+  "key": "yadot",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "יָדוֹת",
+        "transliteration": "yadot",
+        "englishLiteral": "hands",
+        "englishNatural": "hands",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּמְצָאֵם עֶשֶׂר **יָדוֹת** עַל כָּל־",
+        "transliteration": "vaYimtzaem eser **yadot** al kol-",
+        "englishLiteral": "and-he-found-them ten **hands** over all-",
+        "englishNatural": "and he found them ten **hands** over all"
+      }
+    }
+  ]
+}

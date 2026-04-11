@@ -1,0 +1,31 @@
+{
+  "key": "miggedolam",
+  "language": "hebrew",
+  "root": "gadol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "מִגְּדוֹלָם",
+        "transliteration": "miggedolam",
+        "englishLiteral": "from-great-their",
+        "englishNatural": "from their great",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּלְבְּשׁוּ שַׂקִּים **מִגְּדוֹלָם** וְעַד־ קְטַנָּם",
+        "transliteration": "vaYilbeshu saqim **miggedolam** veAd- qetanam",
+        "englishLiteral": "and-clothed sackcloth **from-great-their** and-unto- small-their",
+        "englishNatural": "and clothed sackcloth **from their great** and unto their small"
+      }
+    }
+  ]
+}

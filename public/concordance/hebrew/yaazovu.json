@@ -1,0 +1,33 @@
+{
+  "key": "yaazovu",
+  "language": "hebrew",
+  "root": "azav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "יַעֲזֹבוּ",
+        "transliteration": "yaazovu",
+        "englishLiteral": "they-forsake",
+        "englishNatural": "they forsake",
+        "root": "azav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁוְא חַסְדָּם **יַעֲזֹבוּ**",
+        "transliteration": "shav chasdam **yaazovu**",
+        "englishLiteral": "emptiness steadfast_love-their **they-forsake**",
+        "englishNatural": "emptiness their steadfast-love **they forsake**"
+      }
+    }
+  ]
+}

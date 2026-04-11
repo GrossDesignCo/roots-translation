@@ -1,0 +1,32 @@
+{
+  "key": "eimi",
+  "language": "greek",
+  "root": "eimi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "εἰμί",
+        "transliteration": "eimi",
+        "englishLiteral": "am",
+        "englishNatural": "Am",
+        "root": "eimi",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "γενέσθαι ἐγὼ **εἰμί**",
+        "transliteration": "genesthai egō **eimi**",
+        "englishLiteral": "to-become I **am**",
+        "englishNatural": "was I **Am**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "lehachayot",
+  "language": "hebrew",
+  "root": "chayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 19
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לְהַחֲיֹת",
+        "transliteration": "leHachayot",
+        "englishLiteral": "to-keep_alive",
+        "englishNatural": "to keep-alive",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַתֵּבָה **לְהַחֲיֹת** אִתָּךְ זָכָר",
+        "transliteration": "el- haTevah **leHachayot** itakh zakhar",
+        "englishLiteral": "to- the-ark **to-keep_alive** with-you male",
+        "englishNatural": "to the ark **to keep-alive** with you male"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 20
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לְהַחֲיוֹת",
+        "transliteration": "leHachayot",
+        "englishLiteral": "to-keep_alive",
+        "englishNatural": "to keep-alive",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יָבֹאוּ אֵלֶיךָ **לְהַחֲיוֹת**",
+        "transliteration": "yavou eleikha **leHachayot**",
+        "englishLiteral": "they-will-come to-you **to-keep_alive**",
+        "englishNatural": "they will come to you **to keep-alive**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "shofekh",
+  "language": "hebrew",
+  "root": "shafakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "שֹׁפֵךְ",
+        "transliteration": "shofekh",
+        "englishLiteral": "One-pouring",
+        "englishNatural": "One-pouring",
+        "root": "shafakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**שֹׁפֵךְ** דַּם הָאָדָם",
+        "transliteration": "**shofekh** dam haAdam",
+        "englishLiteral": "**One-pouring** blood-of the-Earthling (Adam)",
+        "englishNatural": "**One-pouring** the blood of the Earthling (Adam)"
+      }
+    }
+  ]
+}

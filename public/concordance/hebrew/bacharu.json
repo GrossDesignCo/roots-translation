@@ -1,0 +1,33 @@
+{
+  "key": "bacharu",
+  "language": "hebrew",
+  "root": "bachar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "בָּחָרוּ",
+        "transliteration": "bacharu",
+        "englishLiteral": "they-chose",
+        "englishNatural": "they chose",
+        "root": "bachar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִכֹּל אֲשֶׁר **בָּחָרוּ**",
+        "transliteration": "mikol asher **bacharu**",
+        "englishLiteral": "from-all which **they-chose**",
+        "englishNatural": "from all which **they chose**"
+      }
+    }
+  ]
+}

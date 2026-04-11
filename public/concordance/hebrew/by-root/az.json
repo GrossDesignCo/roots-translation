@@ -1,0 +1,54 @@
+{
+  "root": "az",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 26
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אָז",
+        "transliteration": "az",
+        "englishLiteral": "then",
+        "englishNatural": "then",
+        "root": "az",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁמוֹ אֱנוֹשׁ **אָז** הוּחַל לִקְרֹא",
+        "transliteration": "shemo Enosh **az** huchal liqro",
+        "englishLiteral": "name-his Mortal_Man (Enosh) **then** was-begun to-call_out",
+        "englishNatural": "his name Mortal-Man (Enosh) **then** it began to call-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מֵאָז",
+        "transliteration": "meAz",
+        "englishLiteral": "from-that_time",
+        "englishNatural": "from that-time",
+        "root": "az",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "קֶדֶם מִפְעָלָיו **מֵאָז**",
+        "transliteration": "qedem miphalav **meAz**",
+        "englishLiteral": "before from-works-his **from-that_time**",
+        "englishNatural": "before his works **from that-time**"
+      }
+    }
+  ]
+}

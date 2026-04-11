@@ -1,0 +1,33 @@
+{
+  "key": "tamuth",
+  "language": "hebrew",
+  "root": "mut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 17
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "תָּמוּת׃",
+        "transliteration": "tamuth",
+        "englishLiteral": "you-will-die",
+        "englishNatural": "you will die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִמֶּנּוּ מוֹת **תָּמוּת׃**",
+        "transliteration": "mimennu mot **tamuth**",
+        "englishLiteral": "from-it death **you-will-die**",
+        "englishNatural": "from it death **you will die**"
+      }
+    }
+  ]
+}

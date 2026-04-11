@@ -1,0 +1,30 @@
+{
+  "root": "na_particle",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "נָ֖א",
+        "transliteration": "na",
+        "englishLiteral": "please",
+        "englishNatural": "please",
+        "root": "na_particle",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "דַּבֶּר־ **נָ֖א** בְּאָזְנֵ֣י הָעָ֑ם",
+        "transliteration": "daber- **na** beOzney haAm",
+        "englishLiteral": "speak- **please** in-ears-of the-people",
+        "englishNatural": "Speak **please** in the ears of the people"
+      }
+    }
+  ]
+}

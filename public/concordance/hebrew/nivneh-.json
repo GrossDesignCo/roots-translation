@@ -1,0 +1,33 @@
+{
+  "key": "nivneh-",
+  "language": "hebrew",
+  "root": "banah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "נִבְנֶה־",
+        "transliteration": "nivneh-",
+        "englishLiteral": "let-us-build-",
+        "englishNatural": "let us build",
+        "root": "banah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמְרוּ הָבָה **נִבְנֶה־** לָּנוּ עִיר",
+        "transliteration": "vayYomeru havah **nivneh-** lanu ir",
+        "englishLiteral": "And-they-said come **let-us-build-** for-us city",
+        "englishNatural": "And they said Come **let us build** for us a city"
+      }
+    }
+  ]
+}

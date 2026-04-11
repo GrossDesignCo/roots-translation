@@ -1,0 +1,57 @@
+{
+  "key": "mearav",
+  "language": "aramaic",
+  "root": "arav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 23,
+      "word": {
+        "originalScript": "מְעָרַב",
+        "transliteration": "mearav",
+        "englishLiteral": "mixed",
+        "englishNatural": "mixed",
+        "root": "arav",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "חֲזַיְתָ פַּרְזְלָא **מְעָרַב** בַּחֲסַף טִינָא",
+        "transliteration": "chazayta parzela **mearav** baChasaf tina",
+        "englishLiteral": "you-saw iron-the **mixed** in-clay mud-the",
+        "englishNatural": "you saw the iron **mixed** in clay the mud"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מְעָרַב",
+        "transliteration": "mearav",
+        "englishLiteral": "mixed",
+        "englishNatural": "mixed",
+        "root": "arav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "חֲזַיְתָ פַרְזְלָא **מְעָרַב** בַּחֲסַף טִינָא",
+        "transliteration": "chazayta parzela **mearav** baChasaf tina",
+        "englishLiteral": "you-saw iron-the **mixed** in-clay mud-the",
+        "englishNatural": "you saw the iron **mixed** in clay the mud"
+      }
+    }
+  ]
+}

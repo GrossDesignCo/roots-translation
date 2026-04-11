@@ -1,0 +1,31 @@
+{
+  "key": "umeayin",
+  "language": "hebrew",
+  "root": "ayin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וּמֵאַיִן",
+        "transliteration": "uMeAyin",
+        "englishLiteral": "and-from-where",
+        "englishNatural": "and from where",
+        "root": "ayin",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "מַה־ מְּלַאכְתְּךָ **וּמֵאַיִן** תָּבוֹא מָה",
+        "transliteration": "mah- melakhtekha **uMeAyin** tavo mah",
+        "englishLiteral": "What- work-your **and-from-where** you-come What",
+        "englishNatural": "What is your work **and from where** come you What"
+      }
+    }
+  ]
+}

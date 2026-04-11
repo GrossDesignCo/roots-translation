@@ -1,0 +1,31 @@
+{
+  "key": "musar",
+  "language": "hebrew",
+  "root": "musar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מוּסַר",
+        "transliteration": "musar",
+        "englishLiteral": "discipline",
+        "englishNatural": "discipline",
+        "root": "musar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָקַחַת **מוּסַר** הַשְׂכֵּל צֶדֶק",
+        "transliteration": "laqachat **musar** haskel tzedeq",
+        "englishLiteral": "To-receive **discipline** wise_conduct righteousness",
+        "englishNatural": "To receive **discipline** wise-conduct righteousness"
+      }
+    }
+  ]
+}

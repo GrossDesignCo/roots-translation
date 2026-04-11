@@ -1,0 +1,33 @@
+{
+  "key": "veshilach",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְשִׁלַּח",
+        "transliteration": "veShilach",
+        "englishLiteral": "and-he-will-send_out",
+        "englishNatural": "and he will send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ פַּרְעֹה **וְשִׁלַּח** אֶת־ בְּנֵי",
+        "transliteration": "el- Paroh **veShilach** et- benei",
+        "englishLiteral": "to- Pharaoh **and-he-will-send_out** ↳ sons-of",
+        "englishNatural": "to Pharaoh **and he will send-out** ↳ the sons of"
+      }
+    }
+  ]
+}

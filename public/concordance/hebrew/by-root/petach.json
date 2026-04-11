@@ -1,0 +1,78 @@
+{
+  "root": "petach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לַפֶּתַח",
+        "transliteration": "laPetach",
+        "englishLiteral": "to-opening",
+        "englishNatural": "to the opening",
+        "root": "petach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא תֵיטִיב **לַפֶּתַח** חַטָּאת רֹבֵץ",
+        "transliteration": "lo teytiv **laPetach** chatat rovetz",
+        "englishLiteral": "not you-do_well **to-opening** sin crouching",
+        "englishNatural": "not you do-well **to the opening** sin is crouching"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וּפֶתַח",
+        "transliteration": "uFetach",
+        "englishLiteral": "and-opening-of",
+        "englishNatural": "and the opening of",
+        "root": "petach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תְּכַלֶּנָּה מִלְמַעְלָה **וּפֶתַח** הַתֵּבָה בְּצִדָּהּ",
+        "transliteration": "tekhalennah milMaalah **uFetach** haTevah beTzidah",
+        "englishLiteral": "you-shall-finish-her from-to-upward **and-opening-of** the-ark in-side-her",
+        "englishNatural": "you shall finish it from upward **and the opening of** the ark in its side"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "פְתָחִים",
+        "transliteration": "petachim",
+        "englishLiteral": "openings",
+        "englishNatural": "openings",
+        "root": "petach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קָרְיָה מְבוֹא **פְתָחִים** תָּרֹנָּה",
+        "transliteration": "qaryah mevo **petachim** taRonnah",
+        "englishLiteral": "city incoming-of **openings** she-cries_out",
+        "englishNatural": "a city incoming of **openings** she cries-out"
+      }
+    }
+  ]
+}

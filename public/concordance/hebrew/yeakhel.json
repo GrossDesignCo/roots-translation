@@ -1,0 +1,33 @@
+{
+  "key": "yeakhel",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 21
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יֵאָכֵל",
+        "transliteration": "yeAkhel",
+        "englishLiteral": "it-is-eaten",
+        "englishNatural": "is eaten",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "מַאֲכָל אֲשֶׁר **יֵאָכֵל** וְאָסַפְתָּ אֵלֶיךָ",
+        "transliteration": "maakhal asher **yeAkhel** veAsafta eleikha",
+        "englishLiteral": "food which **it-is-eaten** and-you-shall-gather to-you",
+        "englishNatural": "food which **is eaten** and you shall gather to you"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "hakohen",
+  "language": "hebrew",
+  "root": "kohen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הַכֹּהֵן",
+        "transliteration": "haKohen",
+        "englishLiteral": "the-priest",
+        "englishNatural": "the priest",
+        "root": "kohen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֶּן־ בּוּזִי **הַכֹּהֵן** בְּאֶרֶץ כַּשְׂדִּים",
+        "transliteration": "ben- Buzi **haKohen** beEretz Kasdim",
+        "englishLiteral": "son-of- Contempt (Buzi) **the-priest** in-land-of Chaldeans",
+        "englishNatural": "son of Contempt (Buzi) **the priest** in the land of Chaldeans"
+      }
+    }
+  ]
+}

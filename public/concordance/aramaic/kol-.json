@@ -1,0 +1,79 @@
+{
+  "key": "kol-",
+  "language": "aramaic",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְתַדִּק וְתָסֵף **כָּל־** אִלֵּין מַלְכְוָתָא",
+        "transliteration": "veTaddiq veTasef **kol-** illen malkhevata",
+        "englishLiteral": "and-she-will-crush and-she-will-consume **all-** these kingdoms-the",
+        "englishNatural": "and it will crush and consume **all** these the kingdoms"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "All",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**כָּל־** קֳבֵל דִּי",
+        "transliteration": "**kol-** qevel di",
+        "englishLiteral": "**all-** because which",
+        "englishNatural": "**All** because which"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 25,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מְשַׁנְּיָ֗ה מִן־ **כָּל־** חֵֽיוָתָא֙ דִּ֣י",
+        "transliteration": "meshanyah min- **kol-** kheyvata di",
+        "englishLiteral": "different from- **all-** the-beasts which",
+        "englishNatural": "different from **all** the beasts that"
+      }
+    }
+  ]
+}

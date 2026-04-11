@@ -1,0 +1,31 @@
+{
+  "key": "mishteym-",
+  "language": "hebrew",
+  "root": "shnayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מִשְׁתֵּים־",
+        "transliteration": "mishteym-",
+        "englishLiteral": "from-two-",
+        "englishNatural": "more than two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "בָּהּ הַרְבֵּה **מִשְׁתֵּים־** עֶשְׂרֵה רִבּוֹ",
+        "transliteration": "bah harbeh **mishteym-** esreh ribbo",
+        "englishLiteral": "in-her much **from-two-** ten ten_thousand",
+        "englishNatural": "in her much **more than two** ten ten-thousand"
+      }
+    }
+  ]
+}

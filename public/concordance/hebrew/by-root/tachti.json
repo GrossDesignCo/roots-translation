@@ -1,0 +1,54 @@
+{
+  "root": "tachti",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "תַּחְתִּיִּם",
+        "transliteration": "tachtiyim",
+        "englishLiteral": "lower",
+        "englishNatural": "lower",
+        "root": "tachti",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בְּצִדָּהּ תָּשִׂים **תַּחְתִּיִּם** שְׁנִיִּם וּשְׁלִשִׁים",
+        "transliteration": "beTzidah tasim **tachtiyim** shniyim uShlishim",
+        "englishLiteral": "in-side-her you-shall-set **lower** second and-third",
+        "englishNatural": "in its side you shall set **lower** second and third"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "מִתַּחְתָּיו",
+        "transliteration": "miTachtav",
+        "englishLiteral": "from-lowness-his",
+        "englishNatural": "from his lowness",
+        "root": "tachti",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "קָמוּ אִישׁ **מִתַּחְתָּיו** שְׁלֹשֶׁת יָמִים",
+        "transliteration": "qamu ish **miTachtav** sheloshet yamim",
+        "englishLiteral": "stood_up man **from-lowness-his** three-of days",
+        "englishNatural": "stood-up and man **from his lowness** three days"
+      }
+    }
+  ]
+}

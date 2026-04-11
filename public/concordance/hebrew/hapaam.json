@@ -1,0 +1,31 @@
+{
+  "key": "hapaam",
+  "language": "hebrew",
+  "root": "paam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הַפַּעַם",
+        "transliteration": "haPaam",
+        "englishLiteral": "the-time",
+        "englishNatural": "the time",
+        "root": "paam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם זֹאת **הַפַּעַם** עֶצֶם מֵעֲצָמַי",
+        "transliteration": "haAdam zot **haPaam** etsem meAtzamai",
+        "englishLiteral": "the-Earthling (Adam) This **the-time** Bone from-my-bones",
+        "englishNatural": "And the Earthling (Adam) This is **the time** Bone from my bones"
+      }
+    }
+  ]
+}

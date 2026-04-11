@@ -1,0 +1,33 @@
+{
+  "key": "yequmun",
+  "language": "aramaic",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "יְקוּמ֔וּן",
+        "transliteration": "yequmun",
+        "englishLiteral": "stood",
+        "englishNatural": "stood",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "רִבְבָן֙ קָֽדָמ֣וֹהִי **יְקוּמ֔וּן** דִּינָ֥א יְתִ֖ב",
+        "transliteration": "ribvan qodamohi **yequmun** dina yetiv",
+        "englishLiteral": "ten_thousands before-him **stood** judge-the had-sat",
+        "englishNatural": "ten-thousands before him **stood** the judge had sat"
+      }
+    }
+  ]
+}

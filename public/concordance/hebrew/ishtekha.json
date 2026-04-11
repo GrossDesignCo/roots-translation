@@ -1,0 +1,31 @@
+{
+  "key": "ishtekha",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אִשְׁתֶּךָ",
+        "transliteration": "ishtekha",
+        "englishLiteral": "woman-your",
+        "englishNatural": "of your woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁמַעְתָּ לְקוֹל **אִשְׁתֶּךָ** וַתֹּאכַל מִן־",
+        "transliteration": "shmamta leQol **ishtekha** vaToAkhal min-",
+        "englishLiteral": "you-listened to-voice **woman-your** and-you-ate from",
+        "englishNatural": "you listened to the voice **of your woman** and you ate from"
+      }
+    }
+  ]
+}

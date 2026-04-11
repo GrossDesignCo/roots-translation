@@ -1,0 +1,31 @@
+{
+  "key": "chug",
+  "language": "hebrew",
+  "root": "chug",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 27
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "חוּג",
+        "transliteration": "chug",
+        "englishLiteral": "circle",
+        "englishNatural": "a circle",
+        "root": "chug",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָנִי בְּחוּקוֹ **חוּג** עַל־ פְּנֵי",
+        "transliteration": "ani beChuqo **chug** al penei",
+        "englishLiteral": "I in-inscribing-his **circle** over faces-of",
+        "englishNatural": "I in his inscribing **a circle** over the face of"
+      }
+    }
+  ]
+}

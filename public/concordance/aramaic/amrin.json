@@ -1,0 +1,33 @@
+{
+  "key": "amrin",
+  "language": "aramaic",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "אָמְרִ֣ין",
+        "transliteration": "amrin",
+        "englishLiteral": "saying",
+        "englishNatural": "they said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "שניה וְכֵן֙ **אָמְרִ֣ין** לַ֔הּ ק֥וּמִֽי",
+        "transliteration": "shinnah veKhen **amrin** lah qumi",
+        "englishLiteral": "teeth-its and-thus **saying** to-her Arise",
+        "englishNatural": "its teeth and thus **they said** to it Arise"
+      }
+    }
+  ]
+}

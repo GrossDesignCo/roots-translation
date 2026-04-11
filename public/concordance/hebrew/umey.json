@@ -1,0 +1,31 @@
+{
+  "key": "umey",
+  "language": "hebrew",
+  "root": "mayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וּמֵי",
+        "transliteration": "uMey",
+        "englishLiteral": "and-waters-of",
+        "englishNatural": "and waters of",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְשִׁבְעַת הַיָּמִים **וּמֵי** הַמַּבּוּל הָיוּ",
+        "transliteration": "leShivat haYamim **uMey** haMabbul hayu",
+        "englishLiteral": "to-seven-of the-days **and-waters-of** the-flood they-were",
+        "englishNatural": "to seven of the days **and waters of** the flood were"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "root": "pen",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "פֶּן־",
+        "transliteration": "pen-",
+        "englishLiteral": "lest",
+        "englishNatural": "lest",
+        "root": "pen",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "תִגְּעוּ בּוֹ **פֶּן־** תְּמֻתוּן׃",
+        "transliteration": "tigu bo **pen-** temutun",
+        "englishLiteral": "you-shall-touch in-it **lest** you-shall-die",
+        "englishNatural": "and you shall touch it **lest** you should die"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "פֶּן־",
+        "transliteration": "pen-",
+        "englishLiteral": "or-else",
+        "englishNatural": "or else",
+        "root": "pen",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "וָרָע וְעַתָּה **פֶּן־** יִשְׁלַח יָדוֹ",
+        "transliteration": "vaRa veAtah **pen-** yishLach yado",
+        "englishLiteral": "and-bad and-now **or-else** he-will-send hand-his",
+        "englishNatural": "and bad and now **or else** he will send-out his hand"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "פֶּן־",
+        "transliteration": "pen-",
+        "englishLiteral": "lest-",
+        "englishNatural": "lest",
+        "root": "pen",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "לָּנוּ שֵׁם **פֶּן־** נָפוּץ עַל־",
+        "transliteration": "lanu shem **pen-** naFuts al-",
+        "englishLiteral": "for-us name **lest-** we-are-scattered over-",
+        "englishNatural": "for us a name **lest** we are scattered over"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "פֶּן־",
+        "transliteration": "pen-",
+        "englishLiteral": "or-else-",
+        "englishNatural": "or else",
+        "root": "pen",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "לַיהוָה אֱלֹהֵינוּ **פֶּן־** יִפְגָּעֵנוּ בַּדֶּבֶר",
+        "transliteration": "laYHWH Eloheinu **pen-** yifgaenu baDever",
+        "englishLiteral": "to-He_Who_Is (YHWH) Gods-our **or-else-** he-will-strike_down-us in-the-plague",
+        "englishNatural": "to He-Who-Is (YHWH) our God **or else** he strike-down us in the plague"
+      }
+    }
+  ]
+}

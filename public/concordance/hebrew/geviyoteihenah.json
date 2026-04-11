@@ -1,0 +1,31 @@
+{
+  "key": "geviyoteihenah",
+  "language": "hebrew",
+  "root": "geviyah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "גְּוִיֹּתֵיהֶנָה",
+        "transliteration": "geviyoteihenah",
+        "englishLiteral": "bodies-their",
+        "englishNatural": "their bodies",
+        "root": "geviyah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מְכַסּוֹת אֵת **גְּוִיֹּתֵיהֶנָה**",
+        "transliteration": "mekhasot et **geviyoteihenah**",
+        "englishLiteral": "covering ↳ **bodies-their**",
+        "englishNatural": "covering ↳ **their bodies**"
+      }
+    }
+  ]
+}

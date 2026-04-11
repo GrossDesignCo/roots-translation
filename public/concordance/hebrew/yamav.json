@@ -1,0 +1,31 @@
+{
+  "key": "yamav",
+  "language": "hebrew",
+  "root": "yom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "יָמָיו",
+        "transliteration": "yamav",
+        "englishLiteral": "his-days",
+        "englishNatural": "and his days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָשָׂר וְהָיוּ **יָמָיו** מֵאָה וְעֶשְׂרִים",
+        "transliteration": "basar veHayu **yamav** meah veEsrim",
+        "englishLiteral": "flesh and-they-will-be **his-days** hundred and-twenty",
+        "englishNatural": "is flesh will be **and his days** a hundred and twenty"
+      }
+    }
+  ]
+}

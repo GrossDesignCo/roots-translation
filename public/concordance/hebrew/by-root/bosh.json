@@ -1,0 +1,32 @@
+{
+  "root": "bosh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 25
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יִתְבּוֹשָׁשׁוּ׃",
+        "transliteration": "yitboshashu",
+        "englishLiteral": "were-ashamed",
+        "englishNatural": "and were ashamed",
+        "root": "bosh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "וְאִשְׁתּוֹ וְלֹא **יִתְבּוֹשָׁשׁוּ׃**",
+        "transliteration": "veIshto veLo **yitboshashu**",
+        "englishLiteral": "and-his-woman and-not **were-ashamed**",
+        "englishNatural": "and his woman not **and were ashamed**"
+      }
+    }
+  ]
+}

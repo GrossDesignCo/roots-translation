@@ -1,0 +1,32 @@
+{
+  "key": "bahakhino",
+  "language": "hebrew",
+  "root": "kun",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 27
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בַּהֲכִינוֹ",
+        "transliteration": "baHakhino",
+        "englishLiteral": "In-establishing-his",
+        "englishNatural": "In his establishing",
+        "root": "kun",
+        "morphology": {
+          "type": "verb",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**בַּהֲכִינוֹ** שָׁמַיִם שָׁם",
+        "transliteration": "**baHakhino** shamayim sham",
+        "englishLiteral": "**In-establishing-his** skies there",
+        "englishNatural": "**In his establishing** skies there"
+      }
+    }
+  ]
+}

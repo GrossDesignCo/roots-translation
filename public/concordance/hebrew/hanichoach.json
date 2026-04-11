@@ -1,0 +1,31 @@
+{
+  "key": "hanichoach",
+  "language": "hebrew",
+  "root": "nuach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַנִּיחֹחַ",
+        "transliteration": "haNichoach",
+        "englishLiteral": "the-restful",
+        "englishNatural": "the restful",
+        "root": "nuach",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ רֵיחַ **הַנִּיחֹחַ** וַיֹּאמֶר יְהוָה",
+        "transliteration": "et- reach **haNichoach** vayYomer YHWH",
+        "englishLiteral": "↳ wind-of **the-restful** and-said He_Who_Is (YHWH)",
+        "englishNatural": "↳ the wind of **the restful** said and He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

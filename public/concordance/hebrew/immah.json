@@ -1,0 +1,55 @@
+{
+  "key": "immah",
+  "language": "hebrew",
+  "root": "em",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "עִמָּ֑הּ",
+        "transliteration": "immah",
+        "englishLiteral": "with-her",
+        "englishNatural": "with her",
+        "root": "im_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וּשְׁתֵּ֣י כַלֹּתֶ֣יהָ **עִמָּ֑הּ** וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ",
+        "transliteration": "uShtey khalloteha **immah** vatTelakhnah baDerekh",
+        "englishLiteral": "and-two-of daughters_in_law-her **with-her** and-walked in-the-way",
+        "englishNatural": "and the two of her daughters-in-law **with her** and they walked in the way"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אִמָּ֑הּ",
+        "transliteration": "immah",
+        "englishLiteral": "mother-her",
+        "englishNatural": "her mother",
+        "root": "em",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִשָּׁ֖ה לְבֵ֣ית **אִמָּ֑הּ** יַעַשׂ֩ יְהוָ֨ה",
+        "transliteration": "ishah leVeit **immah** yaas YHWH",
+        "englishLiteral": "woman to-house-of **mother-her** make He_Who_Is (YHWH)",
+        "englishNatural": "woman to the house of **her mother** make He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

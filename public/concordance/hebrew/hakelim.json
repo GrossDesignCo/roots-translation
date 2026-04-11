@@ -1,0 +1,55 @@
+{
+  "key": "hakelim",
+  "language": "hebrew",
+  "root": "keli",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "הַכֵּלִים",
+        "transliteration": "haKelim",
+        "englishLiteral": "the-vessels",
+        "englishNatural": "the vessels",
+        "root": "keli",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּבֵא אֶת־ **הַכֵּלִים** בֵּית אוֹצָר",
+        "transliteration": "vaYave et- **haKelim** beit otzar",
+        "englishLiteral": "and-he-brought ↳ **the-vessels** house treasure",
+        "englishNatural": "and he brought ↳ **the vessels** to the house of treasure"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הַכֵּלִים",
+        "transliteration": "haKelim",
+        "englishLiteral": "the-vessels",
+        "englishNatural": "the vessels",
+        "root": "keli",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּטִלוּ אֶת־ **הַכֵּלִים** אֲשֶׁר בָּאֳנִיָּה",
+        "transliteration": "vaYatilu et- **haKelim** asher baOniyah",
+        "englishLiteral": "and-hurled ↳ **the-vessels** which in-ship",
+        "englishNatural": "and hurled ↳ **the vessels** which were in the ship"
+      }
+    }
+  ]
+}

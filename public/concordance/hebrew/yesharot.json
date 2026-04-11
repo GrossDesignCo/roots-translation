@@ -1,0 +1,31 @@
+{
+  "key": "yesharot",
+  "language": "hebrew",
+  "root": "yashar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 23
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "יְשָׁרוֹת",
+        "transliteration": "yesharot",
+        "englishLiteral": "straight",
+        "englishNatural": "straight",
+        "root": "yashar",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הָרָקִיעַ כַּנְפֵיהֶם **יְשָׁרוֹת** אִשָּׁה אֶל־",
+        "transliteration": "haRaqia kanfeihem **yesharot** ishah el-",
+        "englishLiteral": "the-hammering_out wings-their **straight** woman to-",
+        "englishNatural": "the hammering-out their wings **straight** woman to"
+      }
+    }
+  ]
+}

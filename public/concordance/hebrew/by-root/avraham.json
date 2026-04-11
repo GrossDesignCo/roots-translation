@@ -1,0 +1,102 @@
+{
+  "root": "avraham",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אַבְרָהָם",
+        "transliteration": "Avraham",
+        "englishLiteral": "Exalted_Father (Abraham)",
+        "englishNatural": "Exalted-Father (Abraham)",
+        "root": "avraham",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָבִיךָ אֱלֹהֵי **אַבְרָהָם** אֱלֹהֵי יִצְחָק",
+        "transliteration": "avikha elohei **Avraham** elohei Yitzchaq",
+        "englishLiteral": "father-your Gods-of **Exalted_Father (Abraham)** Gods-of He_Laughs (Isaac)",
+        "englishNatural": "your father the God of **Exalted-Father (Abraham)** the God of He-Laughs (Isaac)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "אַבְרָהָם",
+        "transliteration": "Avraham",
+        "englishLiteral": "Father_of_Multitudes (Abraham)",
+        "englishNatural": "Father-of-Multitudes (Abraham)",
+        "root": "avraham",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבֹתֵיכֶם אֱלֹהֵי **אַבְרָהָם** אֱלֹהֵי יִצְחָק",
+        "transliteration": "avoteikem Elohey **Avraham** Elohey Yitzchaq",
+        "englishLiteral": "your-fathers Gods-of **Father_of_Multitudes (Abraham)** Gods-of He_Laughs (Isaac)",
+        "englishNatural": "your fathers the God of **Father-of-Multitudes (Abraham)** the God of He-Laughs (Isaac)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אַבְרָהָם",
+        "transliteration": "Avraham",
+        "englishLiteral": "Exalted_Father (Abraham)",
+        "englishNatural": "Exalted-Father (Abraham)",
+        "root": "avraham",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבֹתָם אֱלֹהֵי **אַבְרָהָם** אֱלֹהֵי יִצְחָק",
+        "transliteration": "avotam elohei **Avraham** elohei Yitzchaq",
+        "englishLiteral": "fathers-their Gods-of **Exalted_Father (Abraham)** Gods-of He_Laughs (Isaac)",
+        "englishNatural": "their fathers the God of **Exalted-Father (Abraham)** the God of He-Laughs (Isaac)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אַבְרָהָם",
+        "transliteration": "Avraham",
+        "englishLiteral": "Exalted_Father (Abraham)",
+        "englishNatural": "Exalted-Father (Abraham)",
+        "root": "avraham",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וָאֵרָא אֶל־ **אַבְרָהָם** אֶל־ יִצְחָק",
+        "transliteration": "vaEra el- **Avraham** el- Yitzchaq",
+        "englishLiteral": "And-I-was_seen to- **Exalted_Father (Abraham)** to- He_Laughs (Isaac)",
+        "englishNatural": "And I was-seen to **Exalted-Father (Abraham)** to He-Laughs (Isaac)"
+      }
+    }
+  ]
+}

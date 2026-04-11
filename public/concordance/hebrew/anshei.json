@@ -1,0 +1,55 @@
+{
+  "key": "anshei",
+  "language": "hebrew",
+  "root": "ish",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "אַנְשֵׁי",
+        "transliteration": "anshei",
+        "englishLiteral": "men-of",
+        "englishNatural": "men of",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר מֵעוֹלָם **אַנְשֵׁי** הַשֵּׁם",
+        "transliteration": "asher meOlam **anshei** haShem",
+        "englishLiteral": "which from-the_age **men-of** the-name",
+        "englishNatural": "which from the-age **men of** the name"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אַנְשֵׁי",
+        "transliteration": "anshei",
+        "englishLiteral": "men-of",
+        "englishNatural": "And the men of",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּאֲמִינוּ **אַנְשֵׁי** נִינְוֵה בֵּאלֹהִים",
+        "transliteration": "vaYaaminu **anshei** Nineveh bElohim",
+        "englishLiteral": "And-believed **men-of** Dwelling_of_Fish (Nineveh) in-Gods",
+        "englishNatural": "believed **And the men of** Dwelling-of-Fish (Nineveh) in God"
+      }
+    }
+  ]
+}

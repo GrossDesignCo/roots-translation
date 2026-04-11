@@ -1,0 +1,30 @@
+{
+  "root": "tzarar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "צֹרְרָי",
+        "transliteration": "tzorerai",
+        "englishLiteral": "my-enemies",
+        "englishNatural": "my enemies",
+        "root": "tzarar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֻׁלְחָן נֶגֶד **צֹרְרָי** דִּשַּׁנְתָּ בַשֶּׁמֶן",
+        "transliteration": "shulchan neged **tzorerai** dishanta baShemen",
+        "englishLiteral": "table in-presence-of **my-enemies** you-anoint with-oil",
+        "englishNatural": "a table in the presence of **my enemies** you anoint with oil"
+      }
+    }
+  ]
+}

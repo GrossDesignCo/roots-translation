@@ -1,0 +1,31 @@
+{
+  "key": "parsah",
+  "language": "hebrew",
+  "root": "parsah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "פַּרְסָה",
+        "transliteration": "parsah",
+        "englishLiteral": "hoof",
+        "englishNatural": "a hoof",
+        "root": "parsah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא תִשָּׁאֵר **פַּרְסָה** כִּי מִמֶּנּוּ",
+        "transliteration": "lo tishaer **parsah** ki mimenu",
+        "englishLiteral": "not will-remain **hoof** that from-it",
+        "englishNatural": "not will remain **a hoof** for from it"
+      }
+    }
+  ]
+}

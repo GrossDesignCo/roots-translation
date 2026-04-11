@@ -1,0 +1,31 @@
+{
+  "key": "shemah",
+  "language": "hebrew",
+  "root": "shem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שְׁמָהּ",
+        "transliteration": "shemah",
+        "englishLiteral": "name-of-her",
+        "englishNatural": "the name of it",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֵּן קָרָא **שְׁמָהּ** בָּבֶל כִּי־",
+        "transliteration": "ken qara **shemah** Babel ki-",
+        "englishLiteral": "so he-called **name-of-her** Confusion (Babylon) that-",
+        "englishNatural": "So he called **the name of it** Confusion (Babylon) that"
+      }
+    }
+  ]
+}

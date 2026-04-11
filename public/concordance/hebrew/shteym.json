@@ -1,0 +1,31 @@
+{
+  "key": "shteym",
+  "language": "hebrew",
+  "root": "shnayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שְׁתֵּים",
+        "transliteration": "shteym",
+        "englishLiteral": "two",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "יְמֵי שֵׁת **שְׁתֵּים** עֶשְׂרֵה שָׁנָה",
+        "transliteration": "yemey Shet **shteym** esreh shanah",
+        "englishLiteral": "days-of Appointed (Seth) **two** ten year",
+        "englishNatural": "the days of Appointed (Seth) **two** ten years"
+      }
+    }
+  ]
+}

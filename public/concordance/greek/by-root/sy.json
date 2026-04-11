@@ -1,0 +1,30 @@
+{
+  "root": "sy",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "ὑμῖν",
+        "transliteration": "hymin",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "sy",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "ἀμὴν λέγω **ὑμῖν** πρὶν Ἀβραὰμ",
+        "transliteration": "amēn legō **hymin** prin Abraam",
+        "englishLiteral": "amen I-say **to-you** before Exalted_Father (Abraham)",
+        "englishNatural": "amen I say **to you** Before Exalted-Father (Abraham)"
+      }
+    }
+  ]
+}

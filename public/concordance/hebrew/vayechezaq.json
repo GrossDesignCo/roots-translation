@@ -1,0 +1,33 @@
+{
+  "key": "vayechezaq",
+  "language": "hebrew",
+  "root": "chazaq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֶּחֱזַק",
+        "transliteration": "vaYechezaq",
+        "englishLiteral": "And-intensified",
+        "englishNatural": "intensified",
+        "root": "chazaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֶּחֱזַק** לֵב פַּרְעֹה",
+        "transliteration": "**vaYechezaq** lev Paroh",
+        "englishLiteral": "**And-intensified** heart-of Pharaoh",
+        "englishNatural": "**intensified** And the heart of Pharaoh"
+      }
+    }
+  ]
+}

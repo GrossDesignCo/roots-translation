@@ -1,0 +1,54 @@
+{
+  "root": "tzela",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מִצַּלְעֹתָיו",
+        "transliteration": "miTzalotav",
+        "englishLiteral": "from-his-sides",
+        "englishNatural": "from his sides",
+        "root": "tzela",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקַּח אַחַת **מִצַּלְעֹתָיו** וַיִּסְגֹּר בָּשָׂר",
+        "transliteration": "vaYikach achat **miTzalotav** vaYisgor basar",
+        "englishLiteral": "and-he-took one **from-his-sides** and-closed-up flesh",
+        "englishNatural": "and he took one **from his sides** and closed up flesh"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 22
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַצֵּלָע",
+        "transliteration": "haTzela",
+        "englishLiteral": "the-side",
+        "englishNatural": "the side",
+        "root": "tzela",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים אֶת־ **הַצֵּלָע** אֲשֶׁר לָקַח",
+        "transliteration": "Elohim et- **haTzela** asher lakach",
+        "englishLiteral": "Gods ↳ **the-side** which he-took",
+        "englishNatural": "God ↳ **the side** which he took"
+      }
+    }
+  ]
+}

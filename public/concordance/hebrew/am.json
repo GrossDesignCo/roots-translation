@@ -1,0 +1,103 @@
+{
+  "key": "am",
+  "language": "hebrew",
+  "root": "am",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "עַם",
+        "transliteration": "am",
+        "englishLiteral": "people",
+        "englishNatural": "the people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה הֵן **עַם** אֶחָד וְשָׂפָה",
+        "transliteration": "YHWH hen **am** echad veSafah",
+        "englishLiteral": "He_Who_Is (YHWH) Behold **people** one and-lip",
+        "englishNatural": "And He-Who-Is (YHWH) Behold **the people** is one lip"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עַם",
+        "transliteration": "am",
+        "englishLiteral": "people-of",
+        "englishNatural": "the people of",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רַבִּים עַתָּה **עַם** הָאָרֶץ וְהִשְׁבַּתֶּם",
+        "transliteration": "rabbim atah **am** haAretz veHishbatem",
+        "englishLiteral": "many now **people-of** the-land and-will-cause_to_sabbath",
+        "englishNatural": "many now **the people of** the land and you cause them to sabbath"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עַם",
+        "transliteration": "am",
+        "englishLiteral": "people",
+        "englishNatural": "people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָעָם וַיָּמָת **עַם** רָב מִיִּשְׂרָאֵל",
+        "transliteration": "haAm vaYamat **am** rav miYisrael",
+        "englishLiteral": "the-people and-died **people** many from-Struggles_with_God (Israel)",
+        "englishNatural": "the people died **people** and many of Struggles-with-God (Israel)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "עַם",
+        "transliteration": "am",
+        "englishLiteral": "people",
+        "englishNatural": "people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵי־ מִזֶּה **עַם** אָתָּה",
+        "transliteration": "veEi- mizeh **am** atah",
+        "englishLiteral": "and-where- from-this **people** you",
+        "englishNatural": "and where from this **people** are you"
+      }
+    }
+  ]
+}

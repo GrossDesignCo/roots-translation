@@ -1,0 +1,31 @@
+{
+  "key": "opheis",
+  "language": "greek",
+  "root": "ophis",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "ὄφεις",
+        "transliteration": "opheis",
+        "englishLiteral": "snakes",
+        "englishNatural": "snakes",
+        "root": "ophis",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ὡς οἱ **ὄφεις** καὶ ἀκέραιοι",
+        "transliteration": "hos hoi **opheis** kai akeraioi",
+        "englishLiteral": "as the **snakes** and innocent",
+        "englishNatural": "as the **snakes** and innocent"
+      }
+    }
+  ]
+}

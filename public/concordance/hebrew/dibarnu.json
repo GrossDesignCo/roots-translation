@@ -1,0 +1,33 @@
+{
+  "key": "dibarnu",
+  "language": "hebrew",
+  "root": "dabar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "דִבַּרְנוּ",
+        "transliteration": "dibarnu",
+        "englishLiteral": "we-have-spoken",
+        "englishNatural": "we have spoken",
+        "root": "dabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "חָטָאנוּ כִּי **דִבַּרְנוּ** בַיהוָה וָבָךְ",
+        "transliteration": "chatanu ki **dibarnu** vaYHWH vaVeKha",
+        "englishLiteral": "we-have-sinned that **we-have-spoken** against-He_Who_Is (YHWH) and-against-you",
+        "englishNatural": "We have sinned that **we have spoken** against He-Who-Is (YHWH) and against you"
+      }
+    }
+  ]
+}

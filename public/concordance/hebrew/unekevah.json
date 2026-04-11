@@ -1,0 +1,31 @@
+{
+  "key": "unekevah",
+  "language": "hebrew",
+  "root": "neqevah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וּנְקֵבָ֖ה",
+        "transliteration": "uNekevah",
+        "englishLiteral": "and-female",
+        "englishNatural": "and female",
+        "root": "neqevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֹת֑וֹ זָכָ֥ר **וּנְקֵבָ֖ה** בָּרָ֥א אֹתָֽם׃",
+        "transliteration": "oto zakhar **uNekevah** bara otam",
+        "englishLiteral": "him male **and-female** created them",
+        "englishNatural": "him male **and female** created them"
+      }
+    }
+  ]
+}

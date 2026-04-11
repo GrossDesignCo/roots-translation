@@ -1,0 +1,103 @@
+{
+  "key": "ben",
+  "language": "hebrew",
+  "root": "ben",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בֵּן",
+        "transliteration": "ben",
+        "englishLiteral": "son",
+        "englishNatural": "a son",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִשְׁתּוֹ וַתֵּלֶד **בֵּן** וַתִּקְרָא אֶת־",
+        "transliteration": "ishto vaTeled **ben** vaTiqra et-",
+        "englishLiteral": "woman-his and-bore **son** and-called_out ↳",
+        "englishNatural": "his woman and she bore **a son** and called-out ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 26
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בֵּן",
+        "transliteration": "ben",
+        "englishLiteral": "son",
+        "englishNatural": "a son",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא יֻלַּד־ **בֵּן** וַיִּקְרָא אֶת־",
+        "transliteration": "hu yulad- **ben** vaYiqra et-",
+        "englishLiteral": "he was-born **son** and-called_out ↳",
+        "englishNatural": "he was born **a son** and he called-out ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 28
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בֵּן",
+        "transliteration": "ben",
+        "englishLiteral": "son",
+        "englishNatural": "a son",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה וַיּוֹלֶד **בֵּן**",
+        "transliteration": "shanah vaYoled **ben**",
+        "englishLiteral": "year and-birthed **son**",
+        "englishNatural": "years and birthed **a son**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בֵּן",
+        "transliteration": "ben",
+        "englishLiteral": "son",
+        "englishNatural": "a son",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאִשָּׁה וַתֵּלֶד **בֵּן** וַתֵּרֶא אֹתוֹ",
+        "transliteration": "haIshah vaTeledֿ **ben** vaTere oto",
+        "englishLiteral": "the-woman and-birthed **son** and-saw ↳him",
+        "englishNatural": "And the woman and birthed **a son** and she saw him"
+      }
+    }
+  ]
+}

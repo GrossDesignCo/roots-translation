@@ -1,0 +1,31 @@
+{
+  "key": "idrei",
+  "language": "aramaic",
+  "root": "iddar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "אִדְּרֵי",
+        "transliteration": "idrei",
+        "englishLiteral": "threshing_floors-of",
+        "englishNatural": "the threshing-floors of",
+        "root": "iddar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּעוּר מִן **אִדְּרֵי** קַיִט וּנְשָׂאתְהוֹן",
+        "transliteration": "keUr min **idrei** qayit uNesathon",
+        "englishLiteral": "like-chaff from **threshing_floors-of** summer and-carried-them",
+        "englishNatural": "like chaff from **the threshing-floors of** summer carried them"
+      }
+    }
+  ]
+}

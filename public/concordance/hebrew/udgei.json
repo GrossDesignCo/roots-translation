@@ -1,0 +1,31 @@
+{
+  "key": "udgei",
+  "language": "hebrew",
+  "root": "dagah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וּדְגֵ֣י",
+        "transliteration": "uDgei",
+        "englishLiteral": "and-fish-of",
+        "englishNatural": "and the fish of",
+        "root": "dagah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צִפּ֣וֹר שָׁ֭מַיִם **וּדְגֵ֣י** הַיָּ֑ם עֹ֝בֵ֗ר",
+        "transliteration": "tsippor shamayim **uDgei** haYam over",
+        "englishLiteral": "bird-of skies **and-fish-of** the-sea passing-through",
+        "englishNatural": "The bird of skies **and the fish of** the sea passing-through"
+      }
+    }
+  ]
+}

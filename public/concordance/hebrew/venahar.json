@@ -1,0 +1,55 @@
+{
+  "key": "venahar",
+  "language": "hebrew",
+  "root": "nahar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְנָהָר",
+        "transliteration": "veNahar",
+        "englishLiteral": "And-river",
+        "englishNatural": "And a river",
+        "root": "nahar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְנָהָר** יֹצֵא מֵעֵדֶן",
+        "transliteration": "**veNahar** yotze meEden",
+        "englishLiteral": "**And-river** goes-out from-Delight (Eden)",
+        "englishNatural": "**And a river** went out from Delight (Eden)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְנָהָר",
+        "transliteration": "veNahar",
+        "englishLiteral": "and-river",
+        "englishNatural": "and the river",
+        "root": "nahar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בִּלְבַב יַמִּים **וְנָהָר** יְסֹבְבֵנִי כָּל־",
+        "transliteration": "biLevav yamim **veNahar** yesoveveni kol-",
+        "englishLiteral": "in-heart-of seas **and-river** goes_around-me all-",
+        "englishNatural": "in the heart of the seas **and the river** goes-around me all"
+      }
+    }
+  ]
+}

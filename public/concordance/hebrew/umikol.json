@@ -1,0 +1,55 @@
+{
+  "key": "umikol",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וּמִכֹּל",
+        "transliteration": "umikol",
+        "englishLiteral": "and-from-all",
+        "englishNatural": "and from all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מִכֹּל בְּהֵמָה **וּמִכֹּל** חַיַּת הַשָּׂדֶה",
+        "transliteration": "mikol behemah **umikol** chayat haSadeh",
+        "englishLiteral": "from-all beast **and-from-all** living_being the-field",
+        "englishNatural": "from all beast **and from all** living-being of the field"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 20
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וּמִכֹּל",
+        "transliteration": "uMikol",
+        "englishLiteral": "and-from-all",
+        "englishNatural": "and from all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַבְּהֵמָה הַטְּהוֹרָה **וּמִכֹּל** הָעוֹף הַטָּהֹר",
+        "transliteration": "haBehemah haTehorah **uMikol** haOf haTahor",
+        "englishLiteral": "the-beast the-clean **and-from-all** the-flyer the-clean",
+        "englishNatural": "the beast the clean **and from all** the flyer the clean"
+      }
+    }
+  ]
+}

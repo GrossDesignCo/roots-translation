@@ -1,0 +1,31 @@
+{
+  "key": "veanoki",
+  "language": "hebrew",
+  "root": "anoki",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְאָנֹכִי",
+        "transliteration": "veAnoki",
+        "englishLiteral": "And-I",
+        "englishNatural": "And I",
+        "root": "anoki",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "תִּתֶּן־ לִי **וְאָנֹכִי** הוֹלֵךְ עֲרִירִי",
+        "transliteration": "titen- li **veAnoki** holekh ariri",
+        "englishLiteral": "you-will-give- to-me **And-I** walking childless",
+        "englishNatural": "will you give to me **And I** walk childless"
+      }
+    }
+  ]
+}

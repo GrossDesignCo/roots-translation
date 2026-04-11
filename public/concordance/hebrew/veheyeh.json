@@ -1,0 +1,33 @@
+{
+  "key": "veheyeh",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וֶהְיֵה",
+        "transliteration": "veHeyeh",
+        "englishLiteral": "and-be",
+        "englishNatural": "and be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲגַדְּלָה שְׁמֶךָ **וֶהְיֵה** בְּרָכָה",
+        "transliteration": "vaAgadelah shemekha **veHeyeh** berakah",
+        "englishLiteral": "and-I-will-make-great your-name **and-be** blessing",
+        "englishNatural": "and I will make great your name **and be** a blessing"
+      }
+    }
+  ]
+}

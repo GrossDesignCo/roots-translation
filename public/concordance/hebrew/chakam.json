@@ -1,0 +1,31 @@
+{
+  "key": "chakam",
+  "language": "hebrew",
+  "root": "chakam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "חָכָם",
+        "transliteration": "chakam",
+        "englishLiteral": "wise-man",
+        "englishNatural": "A wise man",
+        "root": "chakam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׁמַע **חָכָם** וְיוֹסֵף לֶקַח",
+        "transliteration": "yishma **chakam** veYosef leqach",
+        "englishLiteral": "Will-hear **wise-man** and-will-add teaching",
+        "englishNatural": "will hear **A wise man** and will add teaching"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "veal",
+  "language": "hebrew",
+  "root": "al",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְעַל",
+        "transliteration": "veAl",
+        "englishLiteral": "and-over",
+        "englishNatural": "and over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "חַיַּת הָאָרֶץ **וְעַל** כָּל־ עוֹף",
+        "transliteration": "chayat haAretz **veAl** kol- of",
+        "englishLiteral": "living-of the-land **and-over** all- flyer-of",
+        "englishNatural": "the living of the land **and over** all the flyer of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְעַל",
+        "transliteration": "veAl",
+        "englishLiteral": "and-over",
+        "englishNatural": "and over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "דְּמוּת כִּסֵּא **וְעַל** דְּמוּת הַכִּסֵּא",
+        "transliteration": "demut kisse **veAl** demut haKisse",
+        "englishLiteral": "likeness-of throne **and-over** likeness-of the-throne",
+        "englishNatural": "the likeness of a throne **and over** the likeness of the throne"
+      }
+    }
+  ]
+}

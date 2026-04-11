@@ -1,0 +1,32 @@
+{
+  "root": "nahal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יְנַהֲלֵנִי",
+        "transliteration": "yeNahaleni",
+        "englishLiteral": "he-leads-me",
+        "englishNatural": "he leads me",
+        "root": "nahal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "מֵי מְנֻחוֹת **יְנַהֲלֵנִי**",
+        "transliteration": "mei menuchot **yeNahaleni**",
+        "englishLiteral": "water-of rest_place **he-leads-me**",
+        "englishNatural": "water of rest-place **he leads me**"
+      }
+    }
+  ]
+}

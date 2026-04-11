@@ -1,0 +1,85 @@
+{
+  "key": "yehiv",
+  "language": "aramaic",
+  "root": "yahav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "יְהִ֥יב",
+        "transliteration": "yehiv",
+        "englishLiteral": "was-given",
+        "englishNatural": "was given",
+        "root": "yahav",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְבַ֥ב אֱנָ֖שׁ **יְהִ֥יב** לַֽהּ",
+        "transliteration": "uLevav enash **yehiv** lah",
+        "englishLiteral": "and-heart Mortal_Man (Enash) **was-given** to-her",
+        "englishNatural": "and a heart of a Mortal-Man (Enash) **was given** to it"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "יְהִ֥יב",
+        "transliteration": "yehiv",
+        "englishLiteral": "was-given",
+        "englishNatural": "was given",
+        "root": "yahav",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "לְחֵֽיוְתָ֔א וְשָׁלְטָ֖ן **יְהִ֥יב** לַֽהּ",
+        "transliteration": "lekheyveta veSholtan **yehiv** lah",
+        "englishLiteral": "to-the-beast and-dominion **was-given** to-her",
+        "englishNatural": "to the beast and dominion **was given** to it"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יְהִ֤יב",
+        "transliteration": "yehiv",
+        "englishLiteral": "had-been-given",
+        "englishNatural": "had been given",
+        "root": "yahav",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peil"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֵ֨הּ **יְהִ֤יב** שָׁלְטָן֙ וִיקָ֣ר",
+        "transliteration": "veleh **yehiv** sholtan viqar",
+        "englishLiteral": "and-to-him **had-been-given** dominion and-glory",
+        "englishNatural": "And to Him **had been given** dominion and glory"
+      }
+    }
+  ]
+}

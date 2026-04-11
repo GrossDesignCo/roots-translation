@@ -1,0 +1,33 @@
+{
+  "key": "minso",
+  "language": "hebrew",
+  "root": "nasa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מִנְּשֹׂא",
+        "transliteration": "minso",
+        "englishLiteral": "from-lifting_up",
+        "englishNatural": "from lifting-up",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "גָּדוֹל עֲוֹנִי **מִנְּשֹׂא**",
+        "transliteration": "gadol avoni **minso**",
+        "englishLiteral": "Great my-twisting **from-lifting_up**",
+        "englishNatural": "Great is my twisting **from lifting-up**"
+      }
+    }
+  ]
+}

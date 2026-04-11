@@ -1,0 +1,31 @@
+{
+  "key": "umishpat",
+  "language": "hebrew",
+  "root": "mishpat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וּמִשְׁפָּט",
+        "transliteration": "umishpat",
+        "englishLiteral": "and-justice",
+        "englishNatural": "and justice",
+        "root": "mishpat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשְׂכֵּל צֶדֶק **וּמִשְׁפָּט** וּמֵישָׁרִים",
+        "transliteration": "haskel tzedeq **umishpat** umesharim",
+        "englishLiteral": "wise_conduct righteousness **and-justice** and-uprightness",
+        "englishNatural": "wise-conduct righteousness **and justice** and uprightness"
+      }
+    }
+  ]
+}

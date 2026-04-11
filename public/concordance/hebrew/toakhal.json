@@ -1,0 +1,33 @@
+{
+  "key": "toakhal",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תֹאכַל",
+        "transliteration": "toAkhal",
+        "englishLiteral": "you-will-eat",
+        "englishNatural": "you will eat",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וָרָע לֹא **תֹאכַל** מִמֶּנּוּ כִּי",
+        "transliteration": "vaRa lo **toAkhal** mimennu ki",
+        "englishLiteral": "and-bad not **you-will-eat** from-it that",
+        "englishNatural": "and Bad not **you will eat** from it that"
+      }
+    }
+  ]
+}

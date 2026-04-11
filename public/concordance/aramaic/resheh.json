@@ -1,0 +1,31 @@
+{
+  "key": "resheh",
+  "language": "aramaic",
+  "root": "resh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רֵאשֵׁהּ",
+        "transliteration": "resheh",
+        "englishLiteral": "head-its",
+        "englishNatural": "its head",
+        "root": "resh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא צַלְמָא **רֵאשֵׁהּ** דִּי דְהַב",
+        "transliteration": "hu tsalma **resheh** di dehav",
+        "englishLiteral": "he image-the **head-its** which gold",
+        "englishNatural": "He the image **its head** of gold"
+      }
+    }
+  ]
+}

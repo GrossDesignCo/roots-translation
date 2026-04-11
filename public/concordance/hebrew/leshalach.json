@@ -1,0 +1,33 @@
+{
+  "key": "leshalach",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְשַׁלַּח",
+        "transliteration": "leshalach",
+        "englishLiteral": "to-send",
+        "englishNatural": "to send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֶשְׁמַע בְּקֹלוֹ **לְשַׁלַּח** אֶת־ יִשְׂרָאֵל",
+        "transliteration": "eshma beQolo **leshalach** et- Yisrael",
+        "englishLiteral": "I-will-hear in-voice-his **to-send** ↳ Struggles_with_God (Israel)",
+        "englishNatural": "I will hear in his voice **to send-out** ↳ Struggles-with-God (Israel)"
+      }
+    }
+  ]
+}

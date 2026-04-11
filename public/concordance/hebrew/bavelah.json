@@ -1,0 +1,31 @@
+{
+  "key": "bavelah",
+  "language": "hebrew",
+  "root": "babel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "בָּבֶלָה",
+        "transliteration": "Bavelah",
+        "englishLiteral": "to-Confusion (Babylon)",
+        "englishNatural": "to Confusion (Babylon)",
+        "root": "babel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֱלֹהִים וַיְבִיאֵם **בָּבֶלָה** אֶל־ אֶרֶץ",
+        "transliteration": "haElohim vaYeviem **Bavelah** el- eretz",
+        "englishLiteral": "the-Gods and-he-brought-them **to-Confusion (Babylon)** to- land",
+        "englishNatural": "the God and he brought them **to Confusion (Babylon)** to the land"
+      }
+    }
+  ]
+}

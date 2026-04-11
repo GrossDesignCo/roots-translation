@@ -1,0 +1,79 @@
+{
+  "key": "vehaaretz",
+  "language": "hebrew",
+  "root": "eretz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְהָאָ֗רֶץ",
+        "transliteration": "veHaAretz",
+        "englishLiteral": "And-the-land",
+        "englishNatural": "And the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהָאָ֗רֶץ** הָיְתָ֥ה תֹ֙הוּ֙",
+        "transliteration": "**veHaAretz** haytah tohu",
+        "englishLiteral": "**And-the-land** was waste",
+        "englishNatural": "**And the land** was waste"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וְהָאָרֶץ",
+        "transliteration": "veHaAretz",
+        "englishLiteral": "and-the-land",
+        "englishNatural": "and the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְכֻלּוּ הַשָּׁמַיִם **וְהָאָרֶץ** וְכָל־ צְבָאָם׃",
+        "transliteration": "vaYechullu haShamayim **veHaAretz** veKol- tsevaam",
+        "englishLiteral": "And-were-finished the-skies **and-the-land** and-all- their-host",
+        "englishNatural": "And finished were the skies **and the land** and all their host"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְהָאָרֶץ",
+        "transliteration": "veHaAretz",
+        "englishLiteral": "and-the-land",
+        "englishNatural": "and the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תוֹלְדוֹת הַשָּׁמַיִם **וְהָאָרֶץ** בְּהִבָּרְאָם בְּיוֹם",
+        "transliteration": "toledot haShamayim **veHaAretz** beHibaram beYom",
+        "englishLiteral": "birthings the-skies **and-the-land** in-being-created-them in-day",
+        "englishNatural": "are the birthings of the skies **and the land** in their being created in the day"
+      }
+    }
+  ]
+}

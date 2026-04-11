@@ -1,0 +1,33 @@
+{
+  "key": "hibaram",
+  "language": "hebrew",
+  "root": "bara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הִבָּרְאָם",
+        "transliteration": "hiBaram",
+        "englishLiteral": "them-being-created",
+        "englishNatural": "them being created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "אָדָם בְּיוֹם **הִבָּרְאָם**",
+        "transliteration": "Adam beYom **hiBaram**",
+        "englishLiteral": "Earthling (Adam) in-day **them-being-created**",
+        "englishNatural": "Earthling (Adam) in the day of **them being created**"
+      }
+    }
+  ]
+}

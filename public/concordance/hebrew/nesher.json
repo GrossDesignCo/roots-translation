@@ -1,0 +1,31 @@
+{
+  "key": "nesher",
+  "language": "hebrew",
+  "root": "nesher",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "נֶשֶׁר",
+        "transliteration": "nesher",
+        "englishLiteral": "eagle",
+        "englishNatural": "an eagle",
+        "root": "nesher",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְאַרְבַּעְתָּן וּפְנֵי־ **נֶשֶׁר** לְאַרְבַּעְתָּן",
+        "transliteration": "leArbatan uFeney- **nesher** leArbatan",
+        "englishLiteral": "to-four-of-them and-faces-of- **eagle** to-four-of-them",
+        "englishNatural": "to four of them and the face of **an eagle** to four of them"
+      }
+    }
+  ]
+}

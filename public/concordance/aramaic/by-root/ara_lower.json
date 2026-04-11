@@ -1,0 +1,30 @@
+{
+  "root": "ara_lower",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 39
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֲרַע",
+        "transliteration": "ara",
+        "englishLiteral": "lower",
+        "englishNatural": "lower",
+        "root": "ara_lower",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מַלְכוּ אָחֳרִי **אֲרַע** מִנָּךְ וּמַלְכוּ",
+        "transliteration": "malkhu ochori **ara** minnakh uMalkhu",
+        "englishLiteral": "kingdom another **lower** from-you and-kingdom",
+        "englishNatural": "kingdom another **lower** than you kingdom"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "yemei",
+  "language": "hebrew",
+  "root": "yom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יְמֵי",
+        "transliteration": "yemei",
+        "englishLiteral": "days-of",
+        "englishNatural": "the days of",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֹד כָּל־ **יְמֵי** הָאָרֶץ זֶרַע",
+        "transliteration": "od kol- **yemei** haAretz zera",
+        "englishLiteral": "Still all- **days-of** the-land seed",
+        "englishNatural": "Still all **the days of** the land seed"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יְמֵי",
+        "transliteration": "yemei",
+        "englishLiteral": "days-of",
+        "englishNatural": "the days of",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִרְדְּפוּנִי כָּל־ **יְמֵי** חַיַּי וְשַׁבְתִּי",
+        "transliteration": "yirdefuni kol- **yemei** chayai veShavti",
+        "englishLiteral": "they-will-pursue-me all- **days-of** my-life and-I-will-sit",
+        "englishNatural": "will pursue me all **the days of** my life and I will sit"
+      }
+    }
+  ]
+}

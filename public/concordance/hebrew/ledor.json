@@ -1,0 +1,31 @@
+{
+  "key": "ledor",
+  "language": "hebrew",
+  "root": "dor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 26,
+      "word": {
+        "originalScript": "לְדֹר",
+        "transliteration": "leDor",
+        "englishLiteral": "to-generation",
+        "englishNatural": "to generation of",
+        "root": "dor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְזֶה זִכְרִי **לְדֹר** דֹּר",
+        "transliteration": "veZeh zikri **leDor** dor",
+        "englishLiteral": "and-this my-rememberance **to-generation** generation",
+        "englishNatural": "and this is my rememberance **to generation of** generation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ilin",
+  "language": "aramaic",
+  "root": "ila",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עִלְעִ֛ין",
+        "transliteration": "ilin",
+        "englishLiteral": "ribs",
+        "englishNatural": "ribs",
+        "root": "ila",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֳקִמַ֔ת וּתְלָ֥ת **עִלְעִ֛ין** בְּפֻמַּ֖הּ בֵּ֣ין",
+        "transliteration": "hoqimat uTelat **ilin** bePummah beyn",
+        "englishLiteral": "it-was-raised_up and-three **ribs** in-mouth-its between",
+        "englishNatural": "it was raised-up and three **ribs** in its mouth between"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "root": "nashaq",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַתִּשַּׁ֣ק",
+        "transliteration": "vatTishaq",
+        "englishLiteral": "and-kissed",
+        "englishNatural": "And she kissed",
+        "root": "nashaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּ֣ית אִישָׁ֑הּ **וַתִּשַּׁ֣ק** לָהֶ֔ן וַתִּשֶּׂ֥אנָה",
+        "transliteration": "beit ishah **vatTishaq** lahen vatTissenah",
+        "englishLiteral": "house-of man-her **and-kissed** to-them and-lifted",
+        "englishNatural": "the house of her man **And she kissed** to them and they lifted"
+      }
+    }
+  ]
+}

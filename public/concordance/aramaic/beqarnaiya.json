@@ -1,0 +1,31 @@
+{
+  "key": "beqarnaiya",
+  "language": "aramaic",
+  "root": "qeren",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בְּקַרְנַיָּ֗א",
+        "transliteration": "beQarnaiya",
+        "englishLiteral": "in-the-horns",
+        "englishNatural": "in the horns",
+        "root": "qeren",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִשְׂתַּכַּ֨ל הֲוֵ֜ית **בְּקַרְנַיָּ֗א** וַ֠אֲלוּ קֶ֣רֶן",
+        "transliteration": "mistakkal haveit **beQarnaiya** vaAlu qeren",
+        "englishLiteral": "Considering I-was **in-the-horns** and-behold horn",
+        "englishNatural": "considering I was **in the horns** and behold horn"
+      }
+    }
+  ]
+}

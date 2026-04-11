@@ -1,0 +1,31 @@
+{
+  "key": "vechoshekh",
+  "language": "hebrew",
+  "root": "choshekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְחֹ֖שֶׁךְ",
+        "transliteration": "veChoshekh",
+        "englishLiteral": "And-darkness",
+        "englishNatural": "And darkness",
+        "root": "choshekh",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "תֹ֙הוּ֙ וָבֹ֔הוּ **וְחֹ֖שֶׁךְ** עַל־פְּנֵ֣י תְהֹ֑ום",
+        "transliteration": "tohu vaVohu **veChoshekh** al-peney tehom",
+        "englishLiteral": "waste and-void **And-darkness** over-faces-of abyss",
+        "englishNatural": "waste and void **And darkness** over the face of the abyss"
+      }
+    }
+  ]
+}

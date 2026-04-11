@@ -1,0 +1,30 @@
+{
+  "root": "habah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "הָבָה",
+        "transliteration": "havah",
+        "englishLiteral": "Come",
+        "englishNatural": "Come",
+        "root": "habah",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "**הָבָה** נֵרְדָה וְנָבְלָה",
+        "transliteration": "**havah** nerdah veNavlah",
+        "englishLiteral": "**Come** let-us-descend and-let-us-confuse",
+        "englishNatural": "**Come** let us descend and let us confuse"
+      }
+    }
+  ]
+}

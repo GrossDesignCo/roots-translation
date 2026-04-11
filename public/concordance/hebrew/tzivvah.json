@@ -1,0 +1,59 @@
+{
+  "key": "tzivvah",
+  "language": "hebrew",
+  "root": "tzavah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 22
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "צִוָּה",
+        "transliteration": "tzivvah",
+        "englishLiteral": "he-commanded",
+        "englishNatural": "commanded",
+        "root": "tzavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כְּכֹל אֲשֶׁר **צִוָּה** אֹתוֹ אֱלֹהִים",
+        "transliteration": "keKhol asher **tzivvah** oto Elohim",
+        "englishLiteral": "like-all which **he-commanded** him Gods",
+        "englishNatural": "like all which **commanded** him God"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "צִוָּה",
+        "transliteration": "tzivvah",
+        "englishLiteral": "he-commanded",
+        "englishNatural": "commanded",
+        "root": "tzavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וּנְקֵבָה כַּאֲשֶׁר **צִוָּה** אֱלֹהִים אֶת־",
+        "transliteration": "uNeqevah kaAsher **tzivvah** Elohim et-",
+        "englishLiteral": "and-female as-which **he-commanded** Gods ↳",
+        "englishNatural": "and female as which **commanded** God ↳"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "mimmeykha",
+  "language": "hebrew",
+  "root": "meah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 4
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מִמֵּעֶיךָ",
+        "transliteration": "mimmeykha",
+        "englishLiteral": "from-bowels-of-you",
+        "englishNatural": "from your bowels",
+        "root": "meah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר יֵצֵא **מִמֵּעֶיךָ** הוּא יִירָשֶׁךָ",
+        "transliteration": "asher yetze **mimmeykha** hu yirashekha",
+        "englishLiteral": "which he-will-come-out **from-bowels-of-you** he he-will-inherit-you",
+        "englishNatural": "he which will come out **from your bowels** he will inherit you"
+      }
+    }
+  ]
+}

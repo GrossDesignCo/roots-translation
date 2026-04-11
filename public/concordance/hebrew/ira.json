@@ -1,0 +1,33 @@
+{
+  "key": "ira",
+  "language": "hebrew",
+  "root": "yare",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אִירָא",
+        "transliteration": "ira",
+        "englishLiteral": "I-fear",
+        "englishNatural": "I fear",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "צַלְמָוֶת לֹא־ **אִירָא** רָע כִּי־",
+        "transliteration": "tzalmavet lo- **ira** ra ki-",
+        "englishLiteral": "shadow_death not- **I-fear** bad that-",
+        "englishNatural": "shadow-death not **I fear** bad that"
+      }
+    }
+  ]
+}

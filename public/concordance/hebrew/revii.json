@@ -1,0 +1,31 @@
+{
+  "key": "revii",
+  "language": "hebrew",
+  "root": "revii",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 16
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "רְבִיעִי",
+        "transliteration": "revii",
+        "englishLiteral": "fourth",
+        "englishNatural": "And the fourth",
+        "root": "revii",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְדוֹר **רְבִיעִי** יָשׁוּבוּ הֵנָּה",
+        "transliteration": "veDor **revii** yashuvu hennah",
+        "englishLiteral": "And-generation **fourth** they-will-return here",
+        "englishNatural": "generation **And the fourth** will return here"
+      }
+    }
+  ]
+}

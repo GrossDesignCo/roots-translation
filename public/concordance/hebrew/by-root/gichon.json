@@ -1,0 +1,30 @@
+{
+  "root": "gichon",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "גִּיחוֹן",
+        "transliteration": "Gichon",
+        "englishLiteral": "Gusher (Gichon)",
+        "englishNatural": "Gusher (Gichon)",
+        "root": "gichon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַנָּהָר הַשֵּׁנִי **גִּיחוֹן** הוּא הַסּוֹבֵב",
+        "transliteration": "haNahar haSheni **Gichon** hu haSovev",
+        "englishLiteral": "the-river the-second **Gusher (Gichon)** he the-going_around",
+        "englishNatural": "river the second **Gusher (Gichon)** it goes-around"
+      }
+    }
+  ]
+}

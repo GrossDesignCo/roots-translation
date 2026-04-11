@@ -1,0 +1,31 @@
+{
+  "key": "lifnei-",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "לִפְנֵי־",
+        "transliteration": "lifnei-",
+        "englishLiteral": "to-faces-of-",
+        "englishNatural": "to the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַטְּךָ וְהַשְׁלֵךְ **לִפְנֵי־** פַרְעֹה יְהִי",
+        "transliteration": "matekha veHashlekh **lifnei-** Paroh yehi",
+        "englishLiteral": "branch-your and-throw-him **to-faces-of-** Pharaoh let-him-be",
+        "englishNatural": "your branch and throw it **to the face of** Pharaoh let it be"
+      }
+    }
+  ]
+}

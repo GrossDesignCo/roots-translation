@@ -1,0 +1,31 @@
+{
+  "key": "kinmar",
+  "language": "aramaic",
+  "root": "namer",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "כִּנְמַ֔ר",
+        "transliteration": "kiNmar",
+        "englishLiteral": "as-leopard",
+        "englishNatural": "as a leopard",
+        "root": "namer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲר֤וּ אָחֳרִי֙ **כִּנְמַ֔ר** וְלַהּ־ גַּפִּ֥ין",
+        "transliteration": "vaAru ochori **kiNmar** veLah- gappin",
+        "englishLiteral": "and-behold another **as-leopard** and-to-her- wings",
+        "englishNatural": "and behold another **as a leopard** and to it wings"
+      }
+    }
+  ]
+}

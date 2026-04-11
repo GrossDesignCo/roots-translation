@@ -1,0 +1,31 @@
+{
+  "key": "achoran",
+  "language": "aramaic",
+  "root": "ochoran",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "אָחֳרָן",
+        "transliteration": "achoran",
+        "englishLiteral": "another",
+        "englishNatural": "to another",
+        "root": "ochoran",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וּמַלְכוּתָה לְעַם **אָחֳרָן** לָא תִשְׁתְּבִק",
+        "transliteration": "uMalkhutah leAm **achoran** la tishtebiq",
+        "englishLiteral": "and-kingdom-the to-people **another** not will-be-left",
+        "englishNatural": "and the kingdom people **to another** not it will be-left"
+      }
+    }
+  ]
+}

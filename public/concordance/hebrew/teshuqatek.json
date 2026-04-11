@@ -1,0 +1,31 @@
+{
+  "key": "teshuqatek",
+  "language": "hebrew",
+  "root": "teshuqah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "תְּשׁוּקָתֵךְ",
+        "transliteration": "teshuqatek",
+        "englishLiteral": "fixation-your",
+        "englishNatural": "your fixation",
+        "root": "teshuqah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶל אִישֵׁךְ **תְּשׁוּקָתֵךְ** וְהוּא יִמְשָׁל",
+        "transliteration": "veEl ishekh **teshuqatek** veHu yimshal",
+        "englishLiteral": "and-to man-your **fixation-your** and-he he-will_rule",
+        "englishNatural": "and to your man **your fixation** and he will rule"
+      }
+    }
+  ]
+}

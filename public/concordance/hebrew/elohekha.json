@@ -1,0 +1,31 @@
+{
+  "key": "elohekha",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אֱלֹהֶיךָ",
+        "transliteration": "elohekha",
+        "englishLiteral": "gods-your",
+        "englishNatural": "your God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קְרָא אֶל־ **אֱלֹהֶיךָ** אוּלַי יִתְעַשֵּׁת",
+        "transliteration": "qera el- **elohekha** ulay yitashet",
+        "englishLiteral": "call_out to- **gods-your** Perhaps will-think_upon",
+        "englishNatural": "call-out to **your God** If so be will think upon"
+      }
+    }
+  ]
+}

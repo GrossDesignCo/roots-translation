@@ -1,0 +1,30 @@
+{
+  "root": "ou",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 27,
+      "word": {
+        "originalScript": "οὐ",
+        "transliteration": "ou",
+        "englishLiteral": "not",
+        "englishNatural": "not",
+        "root": "ou",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "οἴσει ὅπου **οὐ** θέλεις",
+        "transliteration": "oisei hopou **ou** theleis",
+        "englishLiteral": "will-carry where **not** you-want",
+        "englishNatural": "will carry where **not** you want"
+      }
+    }
+  ]
+}

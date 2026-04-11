@@ -1,0 +1,103 @@
+{
+  "key": "im",
+  "language": "hebrew",
+  "root": "im",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אִם",
+        "transliteration": "im",
+        "englishLiteral": "if",
+        "englishNatural": "if",
+        "root": "im",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "הַנֵּס וְהָיָה **אִם** נָשַׁךְ הַנָּחָשׁ",
+        "transliteration": "haNes veHayah **im** nashakh haNachash",
+        "englishLiteral": "the-standard and-it-was **if** struck the-snake",
+        "englishNatural": "the standard and it came about **if** struck the snake"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אִם",
+        "transliteration": "im",
+        "englishLiteral": "if",
+        "englishNatural": "if",
+        "root": "im",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי **אִם** בְּתוֹרַת יְהוָה",
+        "transliteration": "ki **im** beTorah YHWH",
+        "englishLiteral": "That **if** in-law-of He_Who_Is (YHWH)",
+        "englishNatural": "That **if** in the law of He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אִם",
+        "transliteration": "im",
+        "englishLiteral": "if",
+        "englishNatural": "if",
+        "root": "im",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "הָרְשָׁעִים כִּי **אִם** כַּמֹּץ אֲשֶׁר",
+        "transliteration": "haRshaim ki **im** kaMotz asher",
+        "englishLiteral": "the-wicked that **if** as-chaff which",
+        "englishNatural": "the wicked that **if** as chaff which"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עִם",
+        "transliteration": "im",
+        "englishLiteral": "with",
+        "englishNatural": "with",
+        "root": "im",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "נִפְגָּשׁוּ זֶה **עִם** זֶה יְהוָה",
+        "transliteration": "niFgashu zeh **im** zeh YHWH",
+        "englishLiteral": "meet this **with** this He_Who_Is (YHWH)",
+        "englishNatural": "meet together **with** this He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

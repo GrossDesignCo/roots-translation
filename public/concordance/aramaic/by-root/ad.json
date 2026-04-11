@@ -1,0 +1,102 @@
+{
+  "root": "ad",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 34
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "עַד",
+        "transliteration": "ad",
+        "englishLiteral": "until",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "חָזֵה הֲוַיְתָ **עַד** דִּי אִתְגְּזֶרֶת",
+        "transliteration": "chazeh havayta **ad** di itgezeret",
+        "englishLiteral": "seeing you-were **until** which was-cut-out",
+        "englishNatural": "seeing You were **until** which was cut out"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "עַד֩",
+        "transliteration": "ad",
+        "englishLiteral": "until",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "חָזֵ֣ה הֲוֵ֡ית **עַד֩** דִּי־ מְּרִ֨יטוּ",
+        "transliteration": "chazeh haveit **ad** di- meritu",
+        "englishLiteral": "Looking I-was **until** that- were-plucked",
+        "englishNatural": "looking I was **until** that were plucked"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "עַ֣ד",
+        "transliteration": "ad",
+        "englishLiteral": "until",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "חָזֵ֣ה הֲוֵ֗ית **עַ֣ד** דִּ֤י כָרְסָוָן֙",
+        "transliteration": "chazeh haveit **ad** di korsavan",
+        "englishLiteral": "Looking I-was **until** that thrones",
+        "englishNatural": "looking I was **until** that thrones"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וְעַד־",
+        "transliteration": "veAd-",
+        "englishLiteral": "and-unto-",
+        "englishNatural": "and unto",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אָתֵ֣ה הֲוָ֔ה **וְעַד־** עַתִּ֤יק יֽוֹמַיָּא֙",
+        "transliteration": "ateh havah **veAd-** Attiq yomaya",
+        "englishLiteral": "coming was **and-unto-** Ancient-of Days-the",
+        "englishNatural": "coming he was **and unto** the Ancient of the Days"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "arbaat",
+  "language": "hebrew",
+  "root": "arba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אַרְבַּעַת",
+        "transliteration": "arbaat",
+        "englishLiteral": "four-of",
+        "englishNatural": "four of",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "כַּנְפֵיהֶם עַל **אַרְבַּעַת** רִבְעֵיהֶם וּפְנֵיהֶם",
+        "transliteration": "kanfeihem al **arbaat** riveihem uFeneihem",
+        "englishLiteral": "wings-their over **four-of** sides-their and-faces-their",
+        "englishNatural": "their wings over **four of** their sides and their faces"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אַרְבַּעַת",
+        "transliteration": "arbaat",
+        "englishLiteral": "four-of",
+        "englishNatural": "four of",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ **אַרְבַּעַת** רִבְעֵיהֶן יֵלֵכוּ",
+        "transliteration": "al- **arbaat** riveihen yelekhu",
+        "englishLiteral": "over- **four-of** sides-their they-went",
+        "englishNatural": "Over **four of** their sides they went"
+      }
+    }
+  ]
+}

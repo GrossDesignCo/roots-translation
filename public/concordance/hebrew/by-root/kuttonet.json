@@ -1,0 +1,30 @@
+{
+  "root": "kuttonet",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 21
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "כָּתְנוֹת",
+        "transliteration": "kotnot",
+        "englishLiteral": "tunics",
+        "englishNatural": "tunics",
+        "root": "kuttonet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְאָדָם וּלְאִשְׁתּוֹ **כָּתְנוֹת** עוֹר וַיַּלְבִּשֵׁם׃",
+        "transliteration": "leAdam uleIshto **kotnot** or vayYaLbishem",
+        "englishLiteral": "to-Earthling (Adam) and-to-woman-his **tunics** skin and-he-clothed-them",
+        "englishNatural": "to Earthling (Adam) and to his woman **tunics** of skin and clothed them"
+      }
+    }
+  ]
+}

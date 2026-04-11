@@ -1,0 +1,55 @@
+{
+  "key": "bagan",
+  "language": "hebrew",
+  "root": "gan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בַּגָּן",
+        "transliteration": "baGan",
+        "englishLiteral": "in-Garden",
+        "englishNatural": "in Garden",
+        "root": "gan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים מִתְהַלֵּךְ **בַּגָּן** לְרוּחַ הַיּוֹם",
+        "transliteration": "Elohim mithallekh **baGan** leRuach haYom",
+        "englishLiteral": "Gods walking **in-Garden** to-wind the-day",
+        "englishNatural": "God walking **in Garden** to the wind of the day"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בַּגָּן",
+        "transliteration": "baGan",
+        "englishLiteral": "in-Garden",
+        "englishNatural": "in Garden",
+        "root": "gan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קֹלְךָ שָׁמַעְתִּי **בַּגָּן** וָאִירָא כִּי־",
+        "transliteration": "qolkha shamati **baGan** vaIra ki-",
+        "englishLiteral": "Your-voice I-heard **in-Garden** and-I-feared that-",
+        "englishNatural": "Your voice I heard **in Garden** and I feared that"
+      }
+    }
+  ]
+}

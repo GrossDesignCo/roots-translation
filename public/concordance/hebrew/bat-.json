@@ -1,0 +1,31 @@
+{
+  "key": "bat-",
+  "language": "hebrew",
+  "root": "bat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בַּת־",
+        "transliteration": "bat-",
+        "englishLiteral": "daughter-of",
+        "englishNatural": "a daughter of",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקַּח אֶת־ **בַּת־** לֵוִי",
+        "transliteration": "vaYiqqach et- **bat-** Levi",
+        "englishLiteral": "and-took ↳ **daughter-of** Joined (Levi)",
+        "englishNatural": "and took ↳ **a daughter of** Joined (Levi)"
+      }
+    }
+  ]
+}

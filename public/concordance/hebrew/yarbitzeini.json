@@ -1,0 +1,33 @@
+{
+  "key": "yarbitzeini",
+  "language": "hebrew",
+  "root": "ravatz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יַרְבִּיצֵנִי",
+        "transliteration": "yaRbitzeini",
+        "englishLiteral": "he-causes-me-to-lie-down",
+        "englishNatural": "he lies-me-down",
+        "root": "ravatz",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "בִּנְאוֹת דֶּשֶׁא **יַרְבִּיצֵנִי** עַל־ מֵי",
+        "transliteration": "biNot deshe **yaRbitzeini** al- mei",
+        "englishLiteral": "in-pastures-of tender_shoot **he-causes-me-to-lie-down** over- water-of",
+        "englishNatural": "in pastures of tender-shoot **he lies-me-down** over water of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "echsar",
+  "language": "hebrew",
+  "root": "chaser",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אֶחְסָר",
+        "transliteration": "echsar",
+        "englishLiteral": "I-will-lack",
+        "englishNatural": "I will lack",
+        "root": "chaser",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רֹעִי לֹא **אֶחְסָר**",
+        "transliteration": "roi lo **echsar**",
+        "englishLiteral": "my-shepherd not **I-will-lack**",
+        "englishNatural": "my shepherd not **I will lack**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "vearba",
+  "language": "aramaic",
+  "root": "arba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאַרְבַּ֤ע",
+        "transliteration": "veArba",
+        "englishLiteral": "And-four",
+        "englishNatural": "And four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאַרְבַּ֤ע** חֵיוָן֙ רַבְרְבָ֔ן",
+        "transliteration": "**veArba** kheyvan ravravan",
+        "englishLiteral": "**And-four** beasts great",
+        "englishNatural": "**And four** beasts great"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "venivrekhu",
+  "language": "hebrew",
+  "root": "barakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְנִבְרְכוּ",
+        "transliteration": "veNivrekhu",
+        "englishLiteral": "and-they-will-be-blessed",
+        "englishNatural": "and they will be blessed",
+        "root": "barakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "וּמְקַלֶּלְךָ אָאֹר **וְנִבְרְכוּ** בְךָ כֹּל",
+        "transliteration": "uMeqalelkha aor **veNivrekhu** vekha kol",
+        "englishLiteral": "and-one-treating-you-lightly I-will-curse **and-they-will-be-blessed** in-you all",
+        "englishNatural": "and the one treating you lightly I will curse **and they will be blessed** in you all"
+      }
+    }
+  ]
+}

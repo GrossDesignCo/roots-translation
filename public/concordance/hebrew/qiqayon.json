@@ -1,0 +1,31 @@
+{
+  "key": "qiqayon",
+  "language": "hebrew",
+  "root": "qiqayon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "קִיקָיוֹן",
+        "transliteration": "qiqayon",
+        "englishLiteral": "luscious_plant",
+        "englishNatural": "a luscious-plant",
+        "root": "qiqayon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה־ אֱלֹהִים **קִיקָיוֹן** וַיַּעַל מֵעַל",
+        "transliteration": "YHWH- Elohim **qiqayon** vaYaal meAl",
+        "englishLiteral": "He_Who_Is (YHWH)- Gods **luscious_plant** and-went_up from-over",
+        "englishNatural": "And He-Who-Is (YHWH) God **a luscious-plant** and made it go-up from over"
+      }
+    }
+  ]
+}

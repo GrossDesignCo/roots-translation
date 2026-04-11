@@ -1,0 +1,79 @@
+{
+  "key": "mou",
+  "language": "greek",
+  "root": "ego",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 29,
+      "word": {
+        "originalScript": "μου",
+        "transliteration": "mou",
+        "englishLiteral": "my",
+        "englishNatural": "of mine",
+        "root": "ego",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "τὰ ἀρνία **μου**",
+        "transliteration": "ta arnia **mou**",
+        "englishLiteral": "the lambs **my**",
+        "englishNatural": "these lambs **of mine**"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "μου",
+        "transliteration": "mou",
+        "englishLiteral": "my",
+        "englishNatural": "of mine",
+        "root": "ego",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "τὰ πρόβατά **μου**",
+        "transliteration": "ta probata **mou**",
+        "englishLiteral": "the sheep **my**",
+        "englishNatural": "these sheep **of mine**"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 35,
+      "word": {
+        "originalScript": "μου",
+        "transliteration": "mou",
+        "englishLiteral": "of-mine",
+        "englishNatural": "of mine",
+        "root": "ego",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "τὰ πρόβατά **μου**",
+        "transliteration": "ta probata **mou**",
+        "englishLiteral": "these sheep **of-mine**",
+        "englishNatural": "these sheep **of mine**"
+      }
+    }
+  ]
+}

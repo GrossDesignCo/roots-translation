@@ -1,0 +1,30 @@
+{
+  "root": "telag",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "כִּתְלַ֣ג",
+        "transliteration": "keTlag",
+        "englishLiteral": "as-snow",
+        "englishNatural": "snow",
+        "root": "telag",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְתִ֑ב לְבוּשֵׁ֣הּ׀ **כִּתְלַ֣ג** חִוָּ֗ר וּשְׂעַ֤ר",
+        "transliteration": "yetiv levusheh **keTlag** khivvar uSear",
+        "englishLiteral": "had-sat garment-his **as-snow** white and-hair-of",
+        "englishNatural": "had sat his garment **snow** as white and the hair of"
+      }
+    }
+  ]
+}

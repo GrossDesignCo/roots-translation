@@ -1,0 +1,30 @@
+{
+  "root": "ayekah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אַיֶּכָּה",
+        "transliteration": "ayekah",
+        "englishLiteral": "Where",
+        "englishNatural": "Where are you",
+        "root": "ayekah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר לוֹ **אַיֶּכָּה**",
+        "transliteration": "vaYomer lo **ayekah**",
+        "englishLiteral": "and-said to-him **Where**",
+        "englishNatural": "and said to him **Where are you**"
+      }
+    }
+  ]
+}

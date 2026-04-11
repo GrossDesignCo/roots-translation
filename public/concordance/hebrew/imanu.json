@@ -1,0 +1,31 @@
+{
+  "key": "imanu",
+  "language": "hebrew",
+  "root": "im",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "עִמָּנוּ",
+        "transliteration": "imanu",
+        "englishLiteral": "with-us",
+        "englishNatural": "with us",
+        "root": "im",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "מִקְנֵנוּ יֵלֵךְ **עִמָּנוּ** לֹא תִשָּׁאֵר",
+        "transliteration": "miqnenu yelekh **imanu** lo tishaer",
+        "englishLiteral": "livestock-our will-go **with-us** not will-remain",
+        "englishNatural": "our livestock will go **with us** not will remain"
+      }
+    }
+  ]
+}

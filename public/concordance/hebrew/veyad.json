@@ -1,0 +1,31 @@
+{
+  "key": "veyad",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "בְיָד",
+        "transliteration": "veYad",
+        "englishLiteral": "in-hand",
+        "englishNatural": "hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְפַרְעֹה כִּי **בְיָד** חֲזָקָה יְשַׁלְּחֵם",
+        "transliteration": "leParoh ki **veYad** chazaqah yeshalchem",
+        "englishLiteral": "to-Pharaoh that **in-hand** intense he-will-send_out-them",
+        "englishNatural": "to Pharaoh that **hand** in an intense he will send-out them"
+      }
+    }
+  ]
+}

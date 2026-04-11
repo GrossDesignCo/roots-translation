@@ -1,0 +1,31 @@
+{
+  "key": "uleyamim",
+  "language": "hebrew",
+  "root": "yom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וּלְיָמִ֣ים",
+        "transliteration": "uLeYamim",
+        "englishLiteral": "and-for-days",
+        "englishNatural": "and for days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְאֹתֹ֔ת וּלְמוֹעֲדִ֖ים **וּלְיָמִ֣ים** וְשָׁנִֽים",
+        "transliteration": "leOtot uLeMoedim **uLeYamim** veShanim",
+        "englishLiteral": "for-signs and-for-appointed_times **and-for-days** and-years",
+        "englishNatural": "for signs and for appointed-times **and for days** and years"
+      }
+    }
+  ]
+}

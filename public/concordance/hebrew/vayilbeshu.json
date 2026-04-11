@@ -1,0 +1,33 @@
+{
+  "key": "vayilbeshu",
+  "language": "hebrew",
+  "root": "labash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיִּלְבְּשׁוּ",
+        "transliteration": "vaYilbeshu",
+        "englishLiteral": "and-clothed",
+        "englishNatural": "and clothed",
+        "root": "labash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקְרְאוּ־ צוֹם **וַיִּלְבְּשׁוּ** שַׂקִּים מִגְּדוֹלָם",
+        "transliteration": "vaYiqreu- tzom **vaYilbeshu** saqim miggedolam",
+        "englishLiteral": "and-called_out- fast **and-clothed** sackcloth from-great-their",
+        "englishNatural": "and called-out a fast **and clothed** sackcloth from their great"
+      }
+    }
+  ]
+}

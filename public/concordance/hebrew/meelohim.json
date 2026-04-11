@@ -1,0 +1,31 @@
+{
+  "key": "meelohim",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מֵאֱלֹהִ֑ים",
+        "transliteration": "meElohim",
+        "englishLiteral": "from-God",
+        "englishNatural": "from God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתְּחַסְּרֵ֣הוּ מְּ֭עַט **מֵאֱלֹהִ֑ים** וְכָב֖וֹד וְהָדָ֣ר",
+        "transliteration": "vatechasrehu meat **meElohim** veKhavod veHadar",
+        "englishLiteral": "and-you-have-made-him-lack a_little **from-God** and-glory and-honor",
+        "englishNatural": "and you have made him lack a-little **from God** and glory and honor"
+      }
+    }
+  ]
+}

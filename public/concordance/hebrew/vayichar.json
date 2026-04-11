@@ -1,0 +1,33 @@
+{
+  "key": "vayichar",
+  "language": "hebrew",
+  "root": "charah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וַיִּחַר",
+        "transliteration": "vaYichar",
+        "englishLiteral": "and-fumed_angrily",
+        "englishNatural": "and it fumed angrily",
+        "root": "charah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רָעָה גְדוֹלָה **וַיִּחַר** לוֹ",
+        "transliteration": "raah gedolah **vaYichar** lo",
+        "englishLiteral": "bad great **and-fumed_angrily** to-him",
+        "englishNatural": "bad a great **and it fumed angrily** to him"
+      }
+    }
+  ]
+}

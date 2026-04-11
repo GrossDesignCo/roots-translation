@@ -1,0 +1,33 @@
+{
+  "key": "sar",
+  "language": "hebrew",
+  "root": "sur",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "סָר",
+        "transliteration": "sar",
+        "englishLiteral": "turned_aside",
+        "englishNatural": "he had turned-aside",
+        "root": "sur",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה כִּי **סָר** לִרְאוֹת וַיִּקְרָא",
+        "transliteration": "YHWH ki **sar** lirot vaYiqra",
+        "englishLiteral": "He_Who_Is (YHWH) that **turned_aside** to-see and-he-called",
+        "englishNatural": "And He-Who-Is (YHWH) that **he had turned-aside** to see called"
+      }
+    }
+  ]
+}

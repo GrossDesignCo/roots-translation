@@ -1,0 +1,103 @@
+{
+  "key": "of",
+  "language": "hebrew",
+  "root": "oph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "ע֤וֹף",
+        "transliteration": "of",
+        "englishLiteral": "flyer",
+        "englishNatural": "flyer",
+        "root": "uf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵ֣ת כָּל־ **ע֤וֹף** כָּנָ֖ף לְמִינֵ֑הוּ",
+        "transliteration": "veEt kol- **of** kaNaf leMinehu",
+        "englishLiteral": "And-↳ all **flyer** wing to-its-kind",
+        "englishNatural": "And all **flyer** winged to its kind"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "ע֣וֹף",
+        "transliteration": "of",
+        "englishLiteral": "flyer-of",
+        "englishNatural": "flyer of",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָ֗רֶץ וּלְכָל־ **ע֣וֹף** הַשָּׁמַ֔יִם וּלְכֹ֖ל",
+        "transliteration": "haAretz uLeKol- **of** haShamayim uLeKol",
+        "englishLiteral": "the-land and-to-all **flyer-of** the-skies and-to-all",
+        "englishNatural": "the land and to all **flyer of** the skies and to all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עוֹף",
+        "transliteration": "of",
+        "englishLiteral": "flyer",
+        "englishNatural": "flyer of",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵת כָּל־ **עוֹף** הַשָּׁמַיִם וַיָּבֵא",
+        "transliteration": "veEt kol- **of** haShamayim vaYave",
+        "englishLiteral": "and-↳ all- **flyer** the-skies And-brought",
+        "englishNatural": "and every **flyer of** the skies And brought"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "עוֹף",
+        "transliteration": "of",
+        "englishLiteral": "flyer-of",
+        "englishNatural": "the flyer of",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַל כָּל־ **עוֹף** הַשָּׁמָיִם בְּכֹל",
+        "transliteration": "veAl kol- **of** haShamayim beKhol",
+        "englishLiteral": "and-over all- **flyer-of** the-skies in-all",
+        "englishNatural": "and over all **the flyer of** the skies in all"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "himtir",
+  "language": "hebrew",
+  "root": "matar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הִמְטִיר",
+        "transliteration": "himtir",
+        "englishLiteral": "caused_to_rain",
+        "englishNatural": "caused it to rain",
+        "root": "matar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי לֹא **הִמְטִיר** יְהוָה אֱלֹהִים",
+        "transliteration": "ki lo **himtir** YHWH Elohim",
+        "englishLiteral": "for not **caused_to_rain** He_Who_Is (YHWH) Gods",
+        "englishNatural": "for had not **caused it to rain** He-Who-Is (YHWH) God"
+      }
+    }
+  ]
+}

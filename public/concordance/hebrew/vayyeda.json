@@ -1,0 +1,33 @@
+{
+  "key": "vayyeda",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֵּדַע",
+        "transliteration": "vayYeda",
+        "englishLiteral": "And-he-knew",
+        "englishNatural": "And",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּדַע** קַיִן אֶת־",
+        "transliteration": "**vayYeda** Qayin et-",
+        "englishLiteral": "**And-he-knew** Acquired (Cain) ↳",
+        "englishNatural": "**And** Acquired (Cain) ↳"
+      }
+    }
+  ]
+}

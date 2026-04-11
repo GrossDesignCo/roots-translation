@@ -1,0 +1,33 @@
+{
+  "key": "meta",
+  "language": "aramaic",
+  "root": "meta",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "מְטָ֔ה",
+        "transliteration": "meta",
+        "englishLiteral": "had-reached",
+        "englishNatural": "he had reached",
+        "root": "meta",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "עַתִּ֤יק יֽוֹמַיָּא֙ **מְטָ֔ה** וּקְדָמ֖וֹהִי הַקְרְב֥וּהִי",
+        "transliteration": "Attiq yomaya **meta** uQodamohi haqrevuhi",
+        "englishLiteral": "Ancient-of Days-the **had-reached** and-before-him had-caused-to-approach",
+        "englishNatural": "the Ancient of the Days **he had reached** and before him had caused to approach"
+      }
+    }
+  ]
+}

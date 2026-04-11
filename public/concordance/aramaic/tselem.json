@@ -1,0 +1,31 @@
+{
+  "key": "tselem",
+  "language": "aramaic",
+  "root": "tselem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "צְלֵם",
+        "transliteration": "tselem",
+        "englishLiteral": "image",
+        "englishNatural": "image",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲוַיְתָ וַאֲלוּ **צְלֵם** חַד שַׂגִּיא",
+        "transliteration": "havayta vaAlu **tselem** chad saggi",
+        "englishLiteral": "you-were and-behold **image** one great",
+        "englishNatural": "were and behold **image** one great"
+      }
+    }
+  ]
+}

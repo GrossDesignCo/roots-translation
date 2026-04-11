@@ -1,0 +1,31 @@
+{
+  "key": "lephi",
+  "language": "hebrew",
+  "root": "peh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לְפִי",
+        "transliteration": "lePhi",
+        "englishLiteral": "to-mouth-of",
+        "englishNatural": "to the mouth of",
+        "root": "peh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְיַד שְׁעָרִים **לְפִי** קָרְיָה מְבוֹא",
+        "transliteration": "leYad shearim **lePhi** qaryah mevo",
+        "englishLiteral": "To-hand-of gates **to-mouth-of** city incoming-of",
+        "englishNatural": "To the hand of gates **to the mouth of** a city incoming of"
+      }
+    }
+  ]
+}

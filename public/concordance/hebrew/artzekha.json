@@ -1,0 +1,31 @@
+{
+  "key": "artzekha",
+  "language": "hebrew",
+  "root": "eretz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "אַרְצֶךָ",
+        "transliteration": "artzekha",
+        "englishLiteral": "land-your",
+        "englishNatural": "is your land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תָּבוֹא מָה **אַרְצֶךָ** וְאֵי־ מִזֶּה",
+        "transliteration": "tavo mah **artzekha** veEi- mizeh",
+        "englishLiteral": "you-come What **land-your** and-where- from-this",
+        "englishNatural": "come you What **is your land** and where from this"
+      }
+    }
+  ]
+}

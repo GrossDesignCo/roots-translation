@@ -1,0 +1,78 @@
+{
+  "root": "chakam",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לַחֲכָמִים",
+        "transliteration": "laChakhamim",
+        "englishLiteral": "to-the-wise",
+        "englishNatural": "to the wise",
+        "root": "chakam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַם־ פַּרְעֹה **לַחֲכָמִים** וְלַמְכַשְּׁפִים וַיַּעֲשׂוּ",
+        "transliteration": "gam- Paroh **laChakhamim** veLaMkhashshefim vaYaasu",
+        "englishLiteral": "also- Pharaoh **to-the-wise** and-to-the-sorcerers and-made",
+        "englishNatural": "also And Pharaoh **to the wise** and to the sorcerers made"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "חָכָם",
+        "transliteration": "chakam",
+        "englishLiteral": "wise-man",
+        "englishNatural": "A wise man",
+        "root": "chakam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׁמַע **חָכָם** וְיוֹסֵף לֶקַח",
+        "transliteration": "yishma **chakam** veYosef leqach",
+        "englishLiteral": "Will-hear **wise-man** and-will-add teaching",
+        "englishNatural": "will hear **A wise man** and will add teaching"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "חֲכָמִים",
+        "transliteration": "chachamim",
+        "englishLiteral": "wise-men",
+        "englishNatural": "wise men",
+        "root": "chakam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמְלִיצָה דִּבְרֵי **חֲכָמִים** וְחִידֹתָם",
+        "transliteration": "uMelitzah divre **chachamim** veChidotam",
+        "englishLiteral": "and-interpretation words-of **wise-men** and-sharp_sayings-their",
+        "englishNatural": "and the interpretation words of **wise men** and their sharp-sayings"
+      }
+    }
+  ]
+}

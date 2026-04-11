@@ -1,0 +1,31 @@
+{
+  "key": "nod",
+  "language": "hebrew",
+  "root": "nadad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 16
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "נוֹד",
+        "transliteration": "Nod",
+        "englishLiteral": "Wandering",
+        "englishNatural": "of Wandering",
+        "root": "nadad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּשֶׁב בְּאֶרֶץ־ **נוֹד** קִדְמַת־ עֵדֶן",
+        "transliteration": "vayYeshev beEretz- **Nod** qidmat- Eden",
+        "englishLiteral": "and-he-dwelt in-land- **Wandering** east- Delight",
+        "englishNatural": "and dwelt in the land **of Wandering** east of Delight"
+      }
+    }
+  ]
+}

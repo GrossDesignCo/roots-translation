@@ -1,0 +1,31 @@
+{
+  "key": "kedi",
+  "language": "aramaic",
+  "root": "kedi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "כְּדִי",
+        "transliteration": "kedi",
+        "englishLiteral": "just_as",
+        "englishNatural": "just as",
+        "root": "kedi",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "דְּנָה הֵן **כְּדִי** פַרְזְלָא לָא",
+        "transliteration": "denah hen **kedi** parzela la",
+        "englishLiteral": "this Behold **just_as** iron-the not",
+        "englishNatural": "this Behold **just as** the iron not"
+      }
+    }
+  ]
+}

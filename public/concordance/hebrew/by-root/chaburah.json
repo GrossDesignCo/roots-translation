@@ -1,0 +1,30 @@
+{
+  "root": "chaburah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "לְחַבֻּרָתִי",
+        "transliteration": "leChaburati",
+        "englishLiteral": "to-stripe-my",
+        "englishNatural": "to my stripe",
+        "root": "chaburah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְפִצְעִי וְיֶלֶד **לְחַבֻּרָתִי**",
+        "transliteration": "leFitzi veYeled **leChaburati**",
+        "englishLiteral": "to-wound-my and-newborn **to-stripe-my**",
+        "englishNatural": "to my wound and newborn **to my stripe**"
+      }
+    }
+  ]
+}

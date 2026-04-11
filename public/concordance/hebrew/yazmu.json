@@ -1,0 +1,33 @@
+{
+  "key": "yazmu",
+  "language": "hebrew",
+  "root": "zamam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "יָזְמוּ",
+        "transliteration": "yazmu",
+        "englishLiteral": "they-will-plan",
+        "englishNatural": "they will plan",
+        "root": "zamam",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כֹּל אֲשֶׁר **יָזְמוּ** לַעֲשׂוֹת",
+        "transliteration": "kol asher **yazmu** laAsot",
+        "englishLiteral": "all which **they-will-plan** to-make",
+        "englishNatural": "all which **they will plan** to make"
+      }
+    }
+  ]
+}

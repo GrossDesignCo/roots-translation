@@ -1,0 +1,33 @@
+{
+  "key": "niqra",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "נִקְרָא",
+        "transliteration": "niqra",
+        "englishLiteral": "was-called_out",
+        "englishNatural": "was called-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֵי הָעִבְרִים **נִקְרָא** עָלֵינוּ נֵלְכָה",
+        "transliteration": "elohei haIvrim **niqra** aleinu nelkhah",
+        "englishLiteral": "Gods-of the-Passes_Through (Hebrews) **was-called_out** over-us we-will-go",
+        "englishNatural": "The God of the Passes-Through (Hebrews) **was called-out** over us we will go"
+      }
+    }
+  ]
+}

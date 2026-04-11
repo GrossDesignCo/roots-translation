@@ -1,0 +1,33 @@
+{
+  "key": "vayyarach",
+  "language": "hebrew",
+  "root": "ruach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּרַח",
+        "transliteration": "vayYarach",
+        "englishLiteral": "And-winded",
+        "englishNatural": "winded",
+        "root": "ruach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּרַח** יְהוָה אֶת־",
+        "transliteration": "**vayYarach** YHWH et-",
+        "englishLiteral": "**And-winded** He_Who_Is (YHWH) ↳",
+        "englishNatural": "**winded** And He-Who-Is (YHWH) ↳"
+      }
+    }
+  ]
+}

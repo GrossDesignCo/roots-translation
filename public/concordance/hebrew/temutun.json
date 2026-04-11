@@ -1,0 +1,59 @@
+{
+  "key": "temutun",
+  "language": "hebrew",
+  "root": "mut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "תְּמֻתוּן׃",
+        "transliteration": "temutun",
+        "englishLiteral": "you-shall-die",
+        "englishNatural": "you should die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בּוֹ פֶּן־ **תְּמֻתוּן׃**",
+        "transliteration": "bo pen- **temutun**",
+        "englishLiteral": "in-it lest **you-shall-die**",
+        "englishNatural": "it lest **you should die**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "תְּמֻתוּן׃",
+        "transliteration": "temutun",
+        "englishLiteral": "you-shall-die",
+        "englishNatural": "You shall die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ מוֹת **תְּמֻתוּן׃**",
+        "transliteration": "lo- mot **temutun**",
+        "englishLiteral": "Not- dying **you-shall-die**",
+        "englishNatural": "not Dying **You shall die**"
+      }
+    }
+  ]
+}

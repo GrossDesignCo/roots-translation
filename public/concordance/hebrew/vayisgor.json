@@ -1,0 +1,33 @@
+{
+  "key": "vayisgor",
+  "language": "hebrew",
+  "root": "sagar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וַיִּסְגֹּר",
+        "transliteration": "vaYisgor",
+        "englishLiteral": "and-closed-up",
+        "englishNatural": "and closed up",
+        "root": "sagar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אַחַת מִצַּלְעֹתָיו **וַיִּסְגֹּר** בָּשָׂר תַּחְתֶּנָּה",
+        "transliteration": "achat miTzalotav **vaYisgor** basar tachtennah",
+        "englishLiteral": "one from-his-sides **and-closed-up** flesh under-it",
+        "englishNatural": "one from his sides **and closed up** flesh under it"
+      }
+    }
+  ]
+}

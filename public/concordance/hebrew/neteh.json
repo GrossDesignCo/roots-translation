@@ -1,0 +1,33 @@
+{
+  "key": "neteh",
+  "language": "hebrew",
+  "root": "natah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "נְטֵה",
+        "transliteration": "neteh",
+        "englishLiteral": "stretch_out",
+        "englishNatural": "Stretch-out",
+        "root": "natah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ מֹשֶׁה **נְטֵה** יָדְךָ עַל־",
+        "transliteration": "el- Moshe **neteh** yadkha al-",
+        "englishLiteral": "to- Drawn_Out (Moses) **stretch_out** hand-your over-",
+        "englishNatural": "to Drawn-Out (Moses) **Stretch-out** your hand over"
+      }
+    }
+  ]
+}

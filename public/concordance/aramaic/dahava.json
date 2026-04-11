@@ -1,0 +1,31 @@
+{
+  "key": "dahava",
+  "language": "aramaic",
+  "root": "dehav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 38
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "דַהֲבָא",
+        "transliteration": "dahava",
+        "englishLiteral": "gold-the",
+        "englishNatural": "the gold",
+        "root": "dehav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֵאשָׁה דִּי **דַהֲבָא**",
+        "transliteration": "reshah di **dahava**",
+        "englishLiteral": "head-the which **gold-the**",
+        "englishNatural": "the head of **the gold**"
+      }
+    }
+  ]
+}

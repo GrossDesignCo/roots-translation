@@ -1,0 +1,31 @@
+{
+  "key": "alei-",
+  "language": "hebrew",
+  "root": "alei",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "עֲלֵי־",
+        "transliteration": "alei-",
+        "englishLiteral": "overlooking",
+        "englishNatural": "overlooking",
+        "root": "alei",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בְּרֹאשׁ מְרוֹמִים **עֲלֵי־** דָרֶךְ בֵּין",
+        "transliteration": "beRosh meromim **alei-** derekh bein",
+        "englishLiteral": "In-head-of heights **overlooking** way between",
+        "englishNatural": "In the head of heights **overlooking** a way between"
+      }
+    }
+  ]
+}

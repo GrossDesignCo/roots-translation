@@ -1,0 +1,31 @@
+{
+  "key": "veqots",
+  "language": "hebrew",
+  "root": "qots",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 18
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְקוֹץ",
+        "transliteration": "veQots",
+        "englishLiteral": "And-thorn",
+        "englishNatural": "And thorn",
+        "root": "qots",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְקוֹץ** וְדַרְדַּר תַּצְמִיחַ",
+        "transliteration": "**veQots** veDardar tatzmich",
+        "englishLiteral": "**And-thorn** and-thistle it-will-grow",
+        "englishNatural": "**And thorn** and thistle it will grow"
+      }
+    }
+  ]
+}

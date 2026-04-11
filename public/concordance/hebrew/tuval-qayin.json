@@ -1,0 +1,31 @@
+{
+  "key": "tuval-qayin",
+  "language": "hebrew",
+  "root": "TuvalQayin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "תּוּבַל־קַיִן",
+        "transliteration": "Tuval-Qayin",
+        "englishLiteral": "World-Aquired (Tubal-Cain)",
+        "englishNatural": "World-Aquired (Tubal-Cain)",
+        "root": "TuvalQayin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבַרְזֶל וַאֲחוֹת **תּוּבַל־קַיִן** נַעֲמָה",
+        "transliteration": "uVarzel vaAchot **Tuval-Qayin** Naamah",
+        "englishLiteral": "and-iron and-sister-of **World-Aquired (Tubal-Cain)** Pleasant (Naamah)",
+        "englishNatural": "and iron and the sister of **World-Aquired (Tubal-Cain)** Pleasant (Naamah)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "lehon",
+  "language": "aramaic",
+  "root": "le",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "לְהוֹן",
+        "transliteration": "lehon",
+        "englishLiteral": "to-them",
+        "englishNatural": "to them",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לָא הִשְׁתֲּכַח **לְהוֹן** וְאַבְנָא דִּי",
+        "transliteration": "la hishtakach **lehon** veAvna di",
+        "englishLiteral": "not was-found **to-them** and-the-stone that",
+        "englishNatural": "was not found **to them** And the stone that"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "boreach",
+  "language": "hebrew",
+  "root": "barach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "בֹרֵחַ",
+        "transliteration": "boreach",
+        "englishLiteral": "fleeing",
+        "englishNatural": "was fleeing",
+        "root": "barach",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה הוּא **בֹרֵחַ** כִּי הִגִּיד",
+        "transliteration": "YHWH hu **boreach** ki higid",
+        "englishLiteral": "He_Who_Is (YHWH) he **fleeing** that he-declared",
+        "englishNatural": "He-Who-Is (YHWH) he **was fleeing** that he had declared"
+      }
+    }
+  ]
+}

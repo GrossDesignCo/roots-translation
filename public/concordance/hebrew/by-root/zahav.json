@@ -1,0 +1,78 @@
+{
+  "root": "zahav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הַזָּהָב׃",
+        "transliteration": "haZahav",
+        "englishLiteral": "the-gold",
+        "englishNatural": "the gold",
+        "root": "zahav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר שָׁם **הַזָּהָב׃**",
+        "transliteration": "asher sham **haZahav**",
+        "englishLiteral": "which there **the-gold**",
+        "englishNatural": "which there is **the gold**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּזְהַב",
+        "transliteration": "uZehav",
+        "englishLiteral": "and-gold",
+        "englishNatural": "And the gold",
+        "root": "zahav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּזְהַב** הָאָרֶץ הַהִוא",
+        "transliteration": "**uZehav** haAretz haHi",
+        "englishLiteral": "**and-gold** the-land the-that",
+        "englishNatural": "**And the gold** land of that"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "זָהָֽב׃",
+        "transliteration": "zahav",
+        "englishLiteral": "gold",
+        "englishNatural": "gold",
+        "root": "zahav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֶ֖סֶף וּכְלֵ֥י **זָהָֽב׃**",
+        "transliteration": "kesef uKhley **zahav**",
+        "englishLiteral": "silver and-vessels-of **gold**",
+        "englishNatural": "silver and vessels of **gold**"
+      }
+    }
+  ]
+}

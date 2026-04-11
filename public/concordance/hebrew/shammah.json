@@ -1,0 +1,31 @@
+{
+  "key": "shammah",
+  "language": "hebrew",
+  "root": "sham",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שָׁ֖מָּה",
+        "transliteration": "shammah",
+        "englishLiteral": "there",
+        "englishNatural": "there",
+        "root": "sham",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁ֥ר הָֽיְתָה־ **שָׁ֖מָּה** וּשְׁתֵּ֣י כַלֹּתֶ֣יהָ",
+        "transliteration": "asher hayetah- **shammah** uShtey khalloteha",
+        "englishLiteral": "which she-had-been- **there** and-two-of daughters_in_law-her",
+        "englishNatural": "which she had been **there** and the two of her daughters-in-law"
+      }
+    }
+  ]
+}

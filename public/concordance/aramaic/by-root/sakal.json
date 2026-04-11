@@ -1,0 +1,32 @@
+{
+  "root": "sakal",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "מִשְׂתַּכַּ֨ל",
+        "transliteration": "mistakkal",
+        "englishLiteral": "Considering",
+        "englishNatural": "considering",
+        "root": "sakal",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "**מִשְׂתַּכַּ֨ל** הֲוֵ֜ית בְּקַרְנַיָּ֗א",
+        "transliteration": "**mistakkal** haveit beQarnaiya",
+        "englishLiteral": "**Considering** I-was in-the-horns",
+        "englishNatural": "**considering** I was in the horns"
+      }
+    }
+  ]
+}

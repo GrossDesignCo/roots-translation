@@ -1,0 +1,33 @@
+{
+  "key": "tenu",
+  "language": "hebrew",
+  "root": "natan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תְּנוּ",
+        "transliteration": "tenu",
+        "englishLiteral": "give",
+        "englishNatural": "Give",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹה לֵאמֹר **תְּנוּ** לָכֶם מוֹפֵת",
+        "transliteration": "Paroh lemor **tenu** lakhem mofet",
+        "englishLiteral": "Pharaoh to-say **give** to-you wonder",
+        "englishNatural": "Pharaoh saying **Give** to you a wonder"
+      }
+    }
+  ]
+}

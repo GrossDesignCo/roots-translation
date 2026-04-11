@@ -1,0 +1,33 @@
+{
+  "key": "akhul",
+  "language": "aramaic",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "אֲכֻ֥ל",
+        "transliteration": "akhul",
+        "englishLiteral": "devour",
+        "englishNatural": "devour",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "לַ֔הּ ק֥וּמִֽי **אֲכֻ֥ל** בְּשַׂ֥ר שַׂגִּֽיא",
+        "transliteration": "lah qumi **akhul** besar saggi",
+        "englishLiteral": "to-her Arise **devour** flesh much",
+        "englishNatural": "to it Arise **devour** flesh much"
+      }
+    }
+  ]
+}

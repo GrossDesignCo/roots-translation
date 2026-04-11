@@ -1,0 +1,33 @@
+{
+  "key": "vayyered",
+  "language": "hebrew",
+  "root": "yarad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֵּרֶד",
+        "transliteration": "vayYered",
+        "englishLiteral": "And-he-descended",
+        "englishNatural": "descended",
+        "root": "yarad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּרֶד** יְהוָה לִרְאֹת",
+        "transliteration": "**vayYered** YHWH liRot",
+        "englishLiteral": "**And-he-descended** He_Who_Is (YHWH) to-see",
+        "englishNatural": "**descended** And He-Who-Is (YHWH) to see"
+      }
+    }
+  ]
+}

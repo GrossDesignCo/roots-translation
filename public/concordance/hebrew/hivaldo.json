@@ -1,0 +1,33 @@
+{
+  "key": "hivaldo",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הִוָּלְדוֹ",
+        "transliteration": "hiValdo",
+        "englishLiteral": "of-his-birth",
+        "englishNatural": "of birth",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hophal"
+        }
+      },
+      "context": {
+        "hebrew": "מָוֶת מִיּוֹם **הִוָּלְדוֹ**",
+        "transliteration": "mavet miYom **hiValdo**",
+        "englishLiteral": "of-death than-day **of-his-birth**",
+        "englishNatural": "of death than the day **of birth**"
+      }
+    }
+  ]
+}

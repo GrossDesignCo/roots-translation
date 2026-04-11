@@ -1,0 +1,31 @@
+{
+  "key": "rucha",
+  "language": "aramaic",
+  "root": "ruach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "רוּחָא",
+        "transliteration": "rucha",
+        "englishLiteral": "wind-the",
+        "englishNatural": "and the wind",
+        "root": "ruach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קַיִט וּנְשָׂאתְהוֹן **רוּחָא** וְכָל אֲתַר",
+        "transliteration": "qayit uNesathon **rucha** veKhol atar",
+        "englishLiteral": "summer and-carried-them **wind-the** and-all place",
+        "englishNatural": "summer carried them **and the wind** and any place"
+      }
+    }
+  ]
+}

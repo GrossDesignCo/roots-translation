@@ -1,0 +1,31 @@
+{
+  "key": "piw",
+  "language": "hebrew",
+  "root": "peh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 29
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "פִיו",
+        "transliteration": "piw",
+        "englishLiteral": "his-mouth",
+        "englishNatural": "his mouth",
+        "root": "peh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא יַעַבְרוּ־ **פִיו** בְּחוּקוֹ מוֹסְדֵי",
+        "transliteration": "lo yaavru- **piw** beChuqo mosdei",
+        "englishLiteral": "not they-will-pass- **his-mouth** in-inscribing-his foundations-of",
+        "englishNatural": "not will pass **his mouth** in his inscribing the foundations of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "migan-",
+  "language": "hebrew",
+  "root": "gan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 23
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מִגַּן־",
+        "transliteration": "miGan-",
+        "englishLiteral": "from-Garden",
+        "englishNatural": "from Garden",
+        "root": "gan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהִים **מִגַּן־** עֵדֶן לַעֲבֹד",
+        "transliteration": "YHWH Elohim **miGan-** Eden laAvod",
+        "englishLiteral": "He_Who_Is (YHWH) Gods **from-Garden** Delight (Eden) to-serve",
+        "englishNatural": "And He-Who-Is (YHWH) God **from Garden** of Delight (Eden) to serve"
+      }
+    }
+  ]
+}

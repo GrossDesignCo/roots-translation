@@ -1,0 +1,31 @@
+{
+  "key": "raashey",
+  "language": "hebrew",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 22
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רָאשֵׁי",
+        "transliteration": "raashey",
+        "englishLiteral": "heads-of",
+        "englishNatural": "the heads of",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּדְמוּת עַל־ **רָאשֵׁי** הַחַיָּה רָקִיעַ",
+        "transliteration": "uDemut al- **raashey** haChayah raqia",
+        "englishLiteral": "And-likeness-of over- **heads-of** the-living-being hammering_out",
+        "englishNatural": "And the likeness of over **the heads of** the living-being a hammering-out"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "key": "charah",
+  "language": "hebrew",
+  "root": "charah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "חָרָה",
+        "transliteration": "charah",
+        "englishLiteral": "it-fumed_angrily",
+        "englishNatural": "is it fuming-anger",
+        "root": "charah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "קַיִן לָמָּה **חָרָה** לָךְ וְלָמָּה",
+        "transliteration": "Qayin lamah **charah** lakh velamah",
+        "englishLiteral": "Acquired (Cain) Why **it-fumed_angrily** to-you and-why",
+        "englishNatural": "Acquired (Cain) Why **is it fuming-anger** to you and why"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "חָרָה",
+        "transliteration": "charah",
+        "englishLiteral": "fuming_angrily",
+        "englishNatural": "Is fuming-angrily",
+        "root": "charah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה הַהֵיטֵב **חָרָה** לָךְ",
+        "transliteration": "YHWH haHeitiv **charah** lakh",
+        "englishLiteral": "He_Who_Is (YHWH) the-doing_well **fuming_angrily** to-you",
+        "englishNatural": "And He-Who-Is (YHWH) the doing-well **Is fuming-angrily** to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "חָרָה",
+        "transliteration": "charah",
+        "englishLiteral": "fuming_angrily",
+        "englishNatural": "fuming-angrily",
+        "root": "charah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹנָה הַהֵיטֵב **חָרָה** לְךָ עַל־",
+        "transliteration": "Yonah haHeitiv **charah** lekha al-",
+        "englishLiteral": "Dove (Jonah) the-doing_well **fuming_angrily** to-you over-",
+        "englishNatural": "Dove (Jonah) Is the doing-well **fuming-angrily** to you over"
+      }
+    }
+  ]
+}

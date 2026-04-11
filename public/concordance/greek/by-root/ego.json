@@ -1,0 +1,126 @@
+{
+  "root": "ego",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "ἐγὼ",
+        "transliteration": "ego",
+        "englishLiteral": "I",
+        "englishNatural": "I",
+        "root": "ego",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "Ἰδοὺ **ἐγὼ** ἀποστέλλω ὑμᾶς",
+        "transliteration": "Idou **ego** apostello humas",
+        "englishLiteral": "Behold **I** send you",
+        "englishNatural": "Behold **I** send you"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "ἐγὼ",
+        "transliteration": "egō",
+        "englishLiteral": "I",
+        "englishNatural": "I",
+        "root": "ego",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "Ἀβραὰμ γενέσθαι **ἐγὼ** εἰμί",
+        "transliteration": "Abraam genesthai **egō** eimi",
+        "englishLiteral": "Exalted_Father (Abraham) to-become **I** am",
+        "englishNatural": "Exalted-Father (Abraham) was **I** Am"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 29,
+      "word": {
+        "originalScript": "μου",
+        "transliteration": "mou",
+        "englishLiteral": "my",
+        "englishNatural": "of mine",
+        "root": "ego",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "τὰ ἀρνία **μου**",
+        "transliteration": "ta arnia **mou**",
+        "englishLiteral": "the lambs **my**",
+        "englishNatural": "these lambs **of mine**"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "μου",
+        "transliteration": "mou",
+        "englishLiteral": "my",
+        "englishNatural": "of mine",
+        "root": "ego",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "τὰ πρόβατά **μου**",
+        "transliteration": "ta probata **mou**",
+        "englishLiteral": "the sheep **my**",
+        "englishNatural": "these sheep **of mine**"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 35,
+      "word": {
+        "originalScript": "μου",
+        "transliteration": "mou",
+        "englishLiteral": "of-mine",
+        "englishNatural": "of mine",
+        "root": "ego",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "τὰ πρόβατά **μου**",
+        "transliteration": "ta probata **mou**",
+        "englishLiteral": "these sheep **of-mine**",
+        "englishNatural": "these sheep **of mine**"
+      }
+    }
+  ]
+}

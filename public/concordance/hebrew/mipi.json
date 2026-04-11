@@ -1,0 +1,31 @@
+{
+  "key": "mipi",
+  "language": "hebrew",
+  "root": "peh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "מִפִּ֤י",
+        "transliteration": "miPi",
+        "englishLiteral": "from-mouth-of",
+        "englishNatural": "from the mouth of",
+        "root": "peh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**מִפִּ֤י** עוֹלְלִ֣ים וְ֭יֹנְקִים",
+        "transliteration": "**miPi** olelim veYoneqim",
+        "englishLiteral": "**from-mouth-of** infants and-sucklings",
+        "englishNatural": "**from the mouth of** infants and sucklings"
+      }
+    }
+  ]
+}

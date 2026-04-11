@@ -1,0 +1,33 @@
+{
+  "key": "silqat",
+  "language": "aramaic",
+  "root": "salaq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "סִלְקָ֣ת",
+        "transliteration": "silqat",
+        "englishLiteral": "came-up",
+        "englishNatural": "came up",
+        "root": "salaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "אָחֳרִ֤י זְעֵירָה֙ **סִלְקָ֣ת** ביניהון וּתְלָ֗ת",
+        "transliteration": "ochori zeeirah **silqat** beynehon uTelat",
+        "englishLiteral": "another small **came-up** between-them and-three",
+        "englishNatural": "another small **came up** between them and three"
+      }
+    }
+  ]
+}

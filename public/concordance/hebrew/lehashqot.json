@@ -1,0 +1,33 @@
+{
+  "key": "lehashqot",
+  "language": "hebrew",
+  "root": "shaqah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לְהַשְׁקוֹת",
+        "transliteration": "leHashqot",
+        "englishLiteral": "to-give_drink",
+        "englishNatural": "to give-drink to",
+        "root": "shaqah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יֹצֵא מֵעֵדֶן **לְהַשְׁקוֹת** אֶת־ הַגָּן",
+        "transliteration": "yotze meEden **leHashqot** et- haGan",
+        "englishLiteral": "goes-out from-Delight (Eden) **to-give_drink** ↳ the-garden",
+        "englishNatural": "went out from Delight (Eden) **to give-drink to** ↳ the garden"
+      }
+    }
+  ]
+}

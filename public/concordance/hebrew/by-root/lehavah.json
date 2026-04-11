@@ -1,0 +1,30 @@
+{
+  "root": "lehavah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בְּלַבַּת־",
+        "transliteration": "beLabbat-",
+        "englishLiteral": "in-flame-of",
+        "englishNatural": "in a flame of",
+        "root": "lehavah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֵלָיו **בְּלַבַּת־** אֵשׁ מִתּוֹךְ",
+        "transliteration": "YHWH elav **beLabbat-** esh miTokh",
+        "englishLiteral": "He_Who_Is (YHWH) to-him **in-flame-of** fire from-midst-of",
+        "englishNatural": "He-Who-Is (YHWH) to him **in a flame of** fire from the midst of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "root": "adon",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אֲדֹנֵ֗ינוּ",
+        "transliteration": "adoneinu",
+        "englishLiteral": "our-lord",
+        "englishNatural": "our lord",
+        "root": "adon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֤ה **אֲדֹנֵ֗ינוּ** מָֽה־ אַדִּ֣יר",
+        "transliteration": "YHWH **adoneinu** mah- addir",
+        "englishLiteral": "He_Who_Is (YHWH) **our-lord** what- majestic",
+        "englishNatural": "He-Who-Is (YHWH) **our lord** what majestic"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אֲדֹנֵ֑ינוּ",
+        "transliteration": "adoneinu",
+        "englishLiteral": "our-lord",
+        "englishNatural": "our lord",
+        "root": "adon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֥ה **אֲדֹנֵ֑ינוּ** מָֽה־ אַדִּ֥יר",
+        "transliteration": "YHWH **adoneinu** mah- addir",
+        "englishLiteral": "He_Who_Is (YHWH) **our-lord** what- majestic",
+        "englishNatural": "He-Who-Is (YHWH) **our lord** what majestic"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אֲדֹנָי",
+        "transliteration": "Adonai",
+        "englishLiteral": "my-Lord",
+        "englishNatural": "my Lord",
+        "root": "adon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וָאֶרְאֶה אֶת **אֲדֹנָי** יֹשֵׁב עַל",
+        "transliteration": "vaEr'eh et **Adonai** yoshev al",
+        "englishLiteral": "And-I-saw ↳ **my-Lord** sitting over",
+        "englishNatural": "And I saw ↳ **my Lord** sitting over"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "avoteikhem",
+  "language": "hebrew",
+  "root": "av",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אֲבוֹתֵיכֶם",
+        "transliteration": "avoteikhem",
+        "englishLiteral": "fathers-your",
+        "englishNatural": "your fathers",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶם אֱלֹהֵי **אֲבוֹתֵיכֶם** שְׁלָחַנִי אֲלֵיכֶם",
+        "transliteration": "lahem elohei **avoteikhem** shelachani aleikhem",
+        "englishLiteral": "to-them Gods-of **fathers-your** sent-me to-you",
+        "englishNatural": "to them The God of **your fathers** has sent me to you"
+      }
+    }
+  ]
+}

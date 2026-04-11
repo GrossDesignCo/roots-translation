@@ -1,0 +1,55 @@
+{
+  "key": "uven-",
+  "language": "hebrew",
+  "root": "ben",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וּבֶן־",
+        "transliteration": "uVen-",
+        "englishLiteral": "and-son-of-",
+        "englishNatural": "and the son of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוֹלֵךְ עֲרִירִי **וּבֶן־** מֶשֶׁק בֵּיתִי",
+        "transliteration": "holekh ariri **uVen-** mesheq beyti",
+        "englishLiteral": "walking childless **and-son-of-** possessor-of house-of-me",
+        "englishNatural": "walk childless **and the son of** possessor of my house"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וּבֶן־",
+        "transliteration": "uVen-",
+        "englishLiteral": "and-son-of-",
+        "englishNatural": "and the son of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ תִזְכְּרֶ֑נּוּ **וּבֶן־** אָ֝דָ֗ם כִּ֣י",
+        "transliteration": "ki- tiZkrennu **uVen-** Adam ki",
+        "englishLiteral": "that- you-will-remember-him **and-son-of-** Earthling (Adam) that",
+        "englishNatural": "that you will remember him **and the son of** Earthling (Adam) that"
+      }
+    }
+  ]
+}

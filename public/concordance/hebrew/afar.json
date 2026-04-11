@@ -1,0 +1,79 @@
+{
+  "key": "afar",
+  "language": "hebrew",
+  "root": "afar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עָפָר",
+        "transliteration": "afar",
+        "englishLiteral": "dust",
+        "englishNatural": "dust",
+        "root": "afar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הָאָדָם **עָפָר** מִן־ הָאֲדָמָה",
+        "transliteration": "et- haAdam **afar** min- haAdamah",
+        "englishLiteral": "↳ the-Earthling (Adam) **dust** from- the-earth",
+        "englishNatural": "↳ the Earthling (Adam) **dust** from the earth"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "עָפָר",
+        "transliteration": "afar",
+        "englishLiteral": "dust",
+        "englishNatural": "dust are",
+        "root": "afar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֻקָּחְתָּ כִּי־ **עָפָר** אַתָּה וְאֶל־",
+        "transliteration": "luqachta ki- **afar** atah veEl-",
+        "englishLiteral": "you-were-taken that **dust** you and-to",
+        "englishNatural": "you were taken that **dust are** you and to"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "עָפָר",
+        "transliteration": "afar",
+        "englishLiteral": "dust",
+        "englishNatural": "dust",
+        "root": "afar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַתָּה וְאֶל־ **עָפָר** תָּשׁוּב׃",
+        "transliteration": "atah veEl- **afar** taShuv",
+        "englishLiteral": "you and-to **dust** you-will-return",
+        "englishNatural": "you and to **dust** you will return"
+      }
+    }
+  ]
+}

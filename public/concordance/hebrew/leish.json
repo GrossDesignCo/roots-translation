@@ -1,0 +1,55 @@
+{
+  "key": "leish",
+  "language": "hebrew",
+  "root": "ish",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לְאִישׁ",
+        "transliteration": "leIsh",
+        "englishLiteral": "to-man",
+        "englishNatural": "to man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פְּרֻדוֹת מִלְמָעְלָה **לְאִישׁ** שְׁתַּיִם חֹבְרוֹת",
+        "transliteration": "perudot miLemaala **leIsh** shtayim choverot",
+        "englishLiteral": "separated from-to-upward **to-man** two joining",
+        "englishNatural": "separated upward **to man** two joining"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 23
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְאִישׁ",
+        "transliteration": "leIsh",
+        "englishLiteral": "to-man",
+        "englishNatural": "to a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ אֲחוֹתָהּ **לְאִישׁ** שְׁתַּיִם מְכַסּוֹת",
+        "transliteration": "el- achotah **leIsh** shtayim mekhasot",
+        "englishLiteral": "to- sister-her **to-man** two covering",
+        "englishNatural": "to her sister **to a man** two a covering"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "paqach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְנִפְקְחוּ",
+        "transliteration": "veNifqechu",
+        "englishLiteral": "and-will-be-opened",
+        "englishNatural": "will be opened",
+        "root": "paqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲכָלְכֶם מִמֶּנּוּ **וְנִפְקְחוּ** עֵינֵיכֶם וִהְיִיתֶם",
+        "transliteration": "akhalchem mimenu **veNifqechu** eyneychen viHyiytem",
+        "englishLiteral": "eating-you from-it **and-will-be-opened** your-eyes and-you_all-will-be",
+        "englishNatural": "you eating from it **will be opened** and your eyes and you-all will be"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתִּפָּקַחְנָה",
+        "transliteration": "vaTipakachnah",
+        "englishLiteral": "And-opened-were",
+        "englishNatural": "were opened",
+        "root": "paqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתִּפָּקַחְנָה** עֵינֵי שְׁנֵיהֶם",
+        "transliteration": "**vaTipakachnah** eyney shneyhem",
+        "englishLiteral": "**And-opened-were** eyes-of two-of-them",
+        "englishNatural": "**were opened** And the eyes of both of them"
+      }
+    }
+  ]
+}

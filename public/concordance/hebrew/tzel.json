@@ -1,0 +1,31 @@
+{
+  "key": "tzel",
+  "language": "hebrew",
+  "root": "tzel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "צֵל",
+        "transliteration": "tzel",
+        "englishLiteral": "shadow",
+        "englishNatural": "a shadow",
+        "root": "tzel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְיוֹנָה לִהְיוֹת **צֵל** עַל־ רֹאשׁוֹ",
+        "transliteration": "leYonah lihyot **tzel** al- rosho",
+        "englishLiteral": "to-Dove (Jonah) to-be **shadow** over- head-his",
+        "englishNatural": "to Dove (Jonah) to be **a shadow** over his head"
+      }
+    }
+  ]
+}

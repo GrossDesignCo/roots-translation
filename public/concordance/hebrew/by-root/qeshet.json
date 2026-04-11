@@ -1,0 +1,54 @@
+{
+  "root": "qeshet",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 13
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "קַשְׁתִּי",
+        "transliteration": "qashti",
+        "englishLiteral": "my-bow",
+        "englishNatural": "My bow",
+        "root": "qeshet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ **קַשְׁתִּי** נָתַתִּי בֶּעָנָן",
+        "transliteration": "et- **qashti** natati beAnan",
+        "englishLiteral": "↳ **my-bow** I-have-given in-cloud",
+        "englishNatural": "↳ **My bow** I have given in the cloud"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַקֶּשֶׁת",
+        "transliteration": "haQeshet",
+        "englishLiteral": "the-bow",
+        "englishNatural": "the bow",
+        "root": "qeshet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּמַרְאֵה **הַקֶּשֶׁת** אֲשֶׁר יִהְיֶה",
+        "transliteration": "keMareeh **haQeshet** asher yihyeh",
+        "englishLiteral": "like-appearance-of **the-bow** which it-is",
+        "englishNatural": "Like the appearance of **the bow** which is"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "yedaber",
+  "language": "hebrew",
+  "root": "davar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יְדַבֵּר",
+        "transliteration": "yedaber",
+        "englishLiteral": "will-speak",
+        "englishNatural": "will speak",
+        "root": "davar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַהֲרֹן אָחִיךָ **יְדַבֵּר** אֶל־ פַּרְעֹה",
+        "transliteration": "veAharon achicha **yedaber** el- Paroh",
+        "englishLiteral": "and-Light_Bringer (Aaron) brother-your **will-speak** to- Pharaoh",
+        "englishNatural": "and Light-Bringer (Aaron) your brother **will speak** to Pharaoh"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יְדַבֵּר",
+        "transliteration": "yedaber",
+        "englishLiteral": "will-speak",
+        "englishNatural": "will speak",
+        "root": "davar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי **יְדַבֵּר** אֲלֵכֶם פַּרְעֹה",
+        "transliteration": "ki **yedaber** alekhem Paroh",
+        "englishLiteral": "that **will-speak** to-you Pharaoh",
+        "englishNatural": "That **will speak** to you Pharaoh"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "beeden",
+  "language": "hebrew",
+  "root": "eden",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בְּעֵדֶן",
+        "transliteration": "beEden",
+        "englishLiteral": "in-Delight (Eden)",
+        "englishNatural": "in Delight (Eden)",
+        "root": "eden",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים גַּן **בְּעֵדֶן** מִקֶּדֶם וַיָּשֶׂם",
+        "transliteration": "Elohim gan **beEden** miQedem vaYasem",
+        "englishLiteral": "Gods garden **in-Delight (Eden)** from-east and-set",
+        "englishNatural": "God a garden **in Delight (Eden)** from the east and set"
+      }
+    }
+  ]
+}

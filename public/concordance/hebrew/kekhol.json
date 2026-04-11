@@ -1,0 +1,31 @@
+{
+  "key": "kekhol",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 22
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "כְּכֹל",
+        "transliteration": "keKhol",
+        "englishLiteral": "like-all",
+        "englishNatural": "like all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעַשׂ נֹחַ **כְּכֹל** אֲשֶׁר צִוָּה",
+        "transliteration": "vayYaas Noach **keKhol** asher tzivvah",
+        "englishLiteral": "And-he-made Rest (Noah) **like-all** which he-commanded",
+        "englishNatural": "made And Rest (Noah) **like all** which commanded"
+      }
+    }
+  ]
+}

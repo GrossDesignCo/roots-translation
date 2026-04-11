@@ -1,0 +1,31 @@
+{
+  "key": "etsem",
+  "language": "hebrew",
+  "root": "etsem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עֶצֶם",
+        "transliteration": "etsem",
+        "englishLiteral": "Bone",
+        "englishNatural": "Bone",
+        "root": "etsem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֹאת הַפַּעַם **עֶצֶם** מֵעֲצָמַי וּבָשָׂר",
+        "transliteration": "zot haPaam **etsem** meAtzamai uVasar",
+        "englishLiteral": "This the-time **Bone** from-my-bones and-flesh",
+        "englishNatural": "This is the time **Bone** from my bones and flesh"
+      }
+    }
+  ]
+}

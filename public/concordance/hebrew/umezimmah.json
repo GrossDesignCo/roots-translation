@@ -1,0 +1,31 @@
+{
+  "key": "umezimmah",
+  "language": "hebrew",
+  "root": "mezimmah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּמְזִמָּה",
+        "transliteration": "umezimmah",
+        "englishLiteral": "and-purpose",
+        "englishNatural": "and purpose",
+        "root": "mezimmah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְנַעַר דַּעַת **וּמְזִמָּה**",
+        "transliteration": "lenaar daat **umezimmah**",
+        "englishLiteral": "to-young_man knowledge **and-purpose**",
+        "englishNatural": "to a young man knowledge **and purpose**"
+      }
+    }
+  ]
+}

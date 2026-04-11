@@ -1,0 +1,31 @@
+{
+  "key": "veeivah",
+  "language": "hebrew",
+  "root": "eivah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאֵיבָה",
+        "transliteration": "veEivah",
+        "englishLiteral": "And-enmity",
+        "englishNatural": "And enmity",
+        "root": "eivah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֵיבָה** אָשִׁית בֵּינְךָ",
+        "transliteration": "**veEivah** ashit beynkha",
+        "englishLiteral": "**And-enmity** I-will_place between-you",
+        "englishNatural": "**And enmity** I will place between you"
+      }
+    }
+  ]
+}

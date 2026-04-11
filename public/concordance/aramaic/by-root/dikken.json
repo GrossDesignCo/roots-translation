@@ -1,0 +1,30 @@
+{
+  "root": "dikken",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "דִכֵּן",
+        "transliteration": "dikken",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "dikken",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "שַׂגִּיא צַלְמָא **דִכֵּן** רַב וְזִיוֵהּ",
+        "transliteration": "saggi tsalma **dikken** rav veZiveh",
+        "englishLiteral": "great image-the **that** great and-brightness-its",
+        "englishNatural": "great the image **that** was great and its brightness"
+      }
+    }
+  ]
+}

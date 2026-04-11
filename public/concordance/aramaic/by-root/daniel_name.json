@@ -1,0 +1,30 @@
+{
+  "root": "daniel_name",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 46
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וּלְדָנִיֵּאל",
+        "transliteration": "uleDaniel",
+        "englishLiteral": "and-to-My_Judge_God (Daniel)",
+        "englishNatural": "and to My-Judge-God (Daniel)",
+        "root": "daniel_name",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ אַנְפּוֹהִי **וּלְדָנִיֵּאל** סְגִד וּמִנְחָה",
+        "transliteration": "al- anpohi **uleDaniel** segid uMinchah",
+        "englishLiteral": "over- face-his **and-to-My_Judge_God (Daniel)** he-prostrated and-offering",
+        "englishNatural": "over his face **and to My-Judge-God (Daniel)** he prostrated and an offering"
+      }
+    }
+  ]
+}

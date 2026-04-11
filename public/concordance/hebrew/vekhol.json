@@ -1,0 +1,103 @@
+{
+  "key": "vekhol",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְכֹל",
+        "transliteration": "veKhol",
+        "englishLiteral": "and-all",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִן־ הָעוֹף **וְכֹל** אֲשֶׁר־ רֹמֵשׂ",
+        "transliteration": "uMin- haOph **veKhol** asher- romes",
+        "englishLiteral": "and-from- the-bird **and-all** which- creeping",
+        "englishNatural": "and from the bird **and all** which creeps"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "וְכֹ֖ל",
+        "transliteration": "veKhol",
+        "englishLiteral": "and-all",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אַחַ֣ר הָרֵחָ֑יִם **וְכֹ֖ל** בְּכ֥וֹר בְּהֵמָֽה׃",
+        "transliteration": "achar haRechayim **veKhol** bekhor behemah",
+        "englishLiteral": "after the-millstones **and-all** firstborn-of beast",
+        "englishNatural": "after the millstones **and all** the firstborn of beast"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 29
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "וְכֹ֖ל",
+        "transliteration": "veKhol",
+        "englishLiteral": "and-all",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בְּבֵ֣ית הַבּ֑וֹר **וְכֹ֖ל** בְּכ֥וֹר בְּהֵמָֽה׃",
+        "transliteration": "beveit haBor **veKhol** bekhor behemah",
+        "englishLiteral": "in-house-of the-pit **and-all** firstborn-of beast",
+        "englishNatural": "in the house of the pit **and all** the firstborn of beast"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְכֹל",
+        "transliteration": "veKhol",
+        "englishLiteral": "and-all",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא יִבּוֹל **וְכֹל** אֲשֶׁר יַעֲשֶׂה",
+        "transliteration": "lo yibol **veKhol** asher yaAseh",
+        "englishLiteral": "not it-withers **and-all** which he-makes",
+        "englishNatural": "not withers **and all** which he makes"
+      }
+    }
+  ]
+}

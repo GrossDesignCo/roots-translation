@@ -1,0 +1,32 @@
+{
+  "key": "genesthai",
+  "language": "greek",
+  "root": "ginomai",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "γενέσθαι",
+        "transliteration": "genesthai",
+        "englishLiteral": "to-become",
+        "englishNatural": "was",
+        "root": "ginomai",
+        "morphology": {
+          "type": "verb",
+          "tense": "aorist"
+        }
+      },
+      "context": {
+        "hebrew": "πρὶν Ἀβραὰμ **γενέσθαι** ἐγὼ εἰμί",
+        "transliteration": "prin Abraam **genesthai** egō eimi",
+        "englishLiteral": "before Exalted_Father (Abraham) **to-become** I am",
+        "englishNatural": "Before Exalted-Father (Abraham) **was** I Am"
+      }
+    }
+  ]
+}

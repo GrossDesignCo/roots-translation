@@ -1,0 +1,33 @@
+{
+  "key": "qera",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "קְרָא",
+        "transliteration": "qera",
+        "englishLiteral": "call_out",
+        "englishNatural": "call-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נִרְדָּם קוּם **קְרָא** אֶל־ אֱלֹהֶיךָ",
+        "transliteration": "nirdam qum **qera** el- elohekha",
+        "englishLiteral": "sleeper Stand_up **call_out** to- gods-your",
+        "englishNatural": "O sleeper Stand-up **call-out** to your God"
+      }
+    }
+  ]
+}

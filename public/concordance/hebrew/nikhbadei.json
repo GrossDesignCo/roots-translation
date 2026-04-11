@@ -1,0 +1,32 @@
+{
+  "key": "nikhbadei",
+  "language": "hebrew",
+  "root": "kavad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 24
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נִכְבַּדֵּי",
+        "transliteration": "nikhbadei",
+        "englishLiteral": "heavy_with",
+        "englishNatural": "heavy-with",
+        "root": "kavad",
+        "morphology": {
+          "type": "adjective",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאֵין מַעְיָנוֹת **נִכְבַּדֵּי** מָיִם",
+        "transliteration": "beEin mayanot **nikhbadei** mayim",
+        "englishLiteral": "in-nothing springs **heavy_with** waters",
+        "englishNatural": "in nothing springs **heavy-with** waters"
+      }
+    }
+  ]
+}

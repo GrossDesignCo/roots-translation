@@ -1,0 +1,33 @@
+{
+  "key": "yegarshem",
+  "language": "hebrew",
+  "root": "garash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "יְגָרְשֵׁם",
+        "transliteration": "yeGarshem",
+        "englishLiteral": "he-will-drive_out-them",
+        "englishNatural": "he will drive-out them",
+        "root": "garash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְיָד חֲזָקָה **יְגָרְשֵׁם** מֵאַרְצוֹ",
+        "transliteration": "uVeYad chazaqah **yeGarshem** meArtzo",
+        "englishLiteral": "and-in-hand intense **he-will-drive_out-them** from-land-his",
+        "englishNatural": "hand and in an intense **he will drive-out them** from his land"
+      }
+    }
+  ]
+}

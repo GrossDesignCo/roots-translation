@@ -1,0 +1,33 @@
+{
+  "key": "shat-",
+  "language": "hebrew",
+  "root": "shit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "שָׁת־",
+        "transliteration": "shat-",
+        "englishLiteral": "appointed",
+        "englishNatural": "has appointed",
+        "root": "shit",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁת כִּי **שָׁת־** לִי אֱלֹהִים",
+        "transliteration": "Shet ki **shat-** li Elohim",
+        "englishLiteral": "Appointed (Seth) that **appointed** to-me Gods",
+        "englishNatural": "Appointed (Seth) that **has appointed** me God"
+      }
+    }
+  ]
+}

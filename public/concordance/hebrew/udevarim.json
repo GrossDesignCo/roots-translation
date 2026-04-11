@@ -1,0 +1,31 @@
+{
+  "key": "udevarim",
+  "language": "hebrew",
+  "root": "davar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּדְבָרִים",
+        "transliteration": "uDevarim",
+        "englishLiteral": "and-words",
+        "englishNatural": "words",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׂפָה אֶחָת **וּדְבָרִים** אֲחָדִים",
+        "transliteration": "safah echat **uDevarim** achadim",
+        "englishLiteral": "lip one **and-words** ones",
+        "englishNatural": "lip one **words** and of one"
+      }
+    }
+  ]
+}

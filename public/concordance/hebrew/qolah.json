@@ -1,0 +1,31 @@
+{
+  "key": "qolah",
+  "language": "hebrew",
+  "root": "qol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "קוֹלָהּ",
+        "transliteration": "qolah",
+        "englishLiteral": "voice-her",
+        "englishNatural": "her voice",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּתְבוּנָה תִּתֵּן **קוֹלָהּ**",
+        "transliteration": "uTevunah titten **qolah**",
+        "englishLiteral": "and-Understanding will-give **voice-her**",
+        "englishNatural": "and Understanding give **her voice**"
+      }
+    }
+  ]
+}

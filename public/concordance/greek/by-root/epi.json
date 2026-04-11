@@ -1,0 +1,30 @@
+{
+  "root": "epi",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "ἐπὶ",
+        "transliteration": "epi",
+        "englishLiteral": "upon",
+        "englishNatural": "in",
+        "root": "epi",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "ἅλυσιν μεγάλην **ἐπὶ** τὴν χεῖρα",
+        "transliteration": "halusin megalēn **epi** tēn cheira",
+        "englishLiteral": "chain great **upon** the hand",
+        "englishNatural": "a chain great **in** the hand"
+      }
+    }
+  ]
+}

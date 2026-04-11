@@ -1,0 +1,102 @@
+{
+  "root": "hem",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הֵם",
+        "transliteration": "hem",
+        "englishLiteral": "they",
+        "englishNatural": "they were",
+        "root": "hem",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי עֵירֻמִּם **הֵם** וַיִּתְפְּרוּ עֲלֵה",
+        "transliteration": "ki eyrumim **hem** vayItperu aleh",
+        "englishLiteral": "that naked **they** and-sewed leaf-of",
+        "englishNatural": "that naked **they were** and they sewed leaf of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "הֵמָּה",
+        "transliteration": "hemmah",
+        "englishLiteral": "they",
+        "englishNatural": "they",
+        "root": "hem",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**הֵמָּה** וְכָל־ הַחַיָּה",
+        "transliteration": "**hemmah** veKhol- haChayah",
+        "englishLiteral": "**they** and-all- the-living_being",
+        "englishNatural": "**they** and all the living-being"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הֵם",
+        "transliteration": "hem",
+        "englishLiteral": "they",
+        "englishNatural": "they",
+        "root": "hem",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעֲשׂוּ גַם־ **הֵם** חַרְטֻמֵּי מִצְרַיִם",
+        "transliteration": "vaYaasu gam- **hem** chartumei Mitzrayim",
+        "englishLiteral": "and-made also- **they** magicians-of Double_Narrows (Egypt)",
+        "englishNatural": "made also **they** and the magicians of Double-Narrows (Egypt)"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הֵמָּה",
+        "transliteration": "hemah",
+        "englishLiteral": "they",
+        "englishNatural": "they",
+        "root": "hem",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁבְטְךָ וּמִשְׁעַנְתֶּךָ **הֵמָּה** יְנַחֲמֻנִי",
+        "transliteration": "shivtekha uMishantekha **hemah** yenachamuni",
+        "englishLiteral": "your-rod and-your-staff **they** comfort-me",
+        "englishNatural": "your rod and your staff **they** comfort me"
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "root": "chalal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 26
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הוּחַל",
+        "transliteration": "huchal",
+        "englishLiteral": "was-begun",
+        "englishNatural": "it began",
+        "root": "chalal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hophal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱנוֹשׁ אָז **הוּחַל** לִקְרֹא בְּשֵׁם",
+        "transliteration": "Enosh az **huchal** liqro beShem",
+        "englishLiteral": "Mortal_Man (Enosh) then **was-begun** to-call_out in-name-of",
+        "englishNatural": "Mortal-Man (Enosh) then **it began** to call-out in the name of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הֵחֵל",
+        "transliteration": "hechel",
+        "englishLiteral": "began",
+        "englishNatural": "began",
+        "root": "chalal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי כִּי־ **הֵחֵל** הָאָדָם לָרֹב",
+        "transliteration": "vayHi ki- **hechel** haAdam laRov",
+        "englishLiteral": "And-it-was that- **began** the-Earthling (Adam) to-multiply",
+        "englishNatural": "And it was that **began** the Earthling (Adam) to multiply"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הֵחֵל",
+        "transliteration": "hechel",
+        "englishLiteral": "caused-to-begin",
+        "englishNatural": "caused to begin",
+        "root": "chalal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "נִמְרֹד הוּא **הֵחֵל** לִהְיוֹת גִּבֹּר",
+        "transliteration": "Nimrod hu **hechel** lihyot gibbor",
+        "englishLiteral": "Rebel (Nimrod) he **caused-to-begin** to-be mighty_one",
+        "englishNatural": "Rebel (Nimrod) he **caused to begin** to be a mighty-one"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הַחִלָּם",
+        "transliteration": "hachilam",
+        "englishLiteral": "the-beginning-of-them",
+        "englishNatural": "the beginning of",
+        "root": "chalal",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "לְכֻלָּם וְזֶה **הַחִלָּם** לַעֲשׂוֹת וְעַתָּה",
+        "transliteration": "leKhulam veZeh **hachilam** laAsot veAttah",
+        "englishLiteral": "to-all-of-them and-this **the-beginning-of-them** to-make and-now",
+        "englishNatural": "to all of them and this **the beginning of** their making and now"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּחֶל",
+        "transliteration": "vaYachel",
+        "englishLiteral": "And-began",
+        "englishNatural": "began",
+        "root": "chalal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּחֶל** יוֹנָה לָבוֹא",
+        "transliteration": "**vaYachel** Yonah lavo",
+        "englishLiteral": "**And-began** Dove (Jonah) to-enter",
+        "englishNatural": "**began** And Dove (Jonah) to enter"
+      }
+    }
+  ]
+}

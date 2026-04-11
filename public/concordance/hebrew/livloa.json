@@ -1,0 +1,33 @@
+{
+  "key": "livloa",
+  "language": "hebrew",
+  "root": "bala",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לִבְלֹעַ",
+        "transliteration": "livloa",
+        "englishLiteral": "to-swallow",
+        "englishNatural": "to swallow",
+        "root": "bala",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "דָּג גָּדוֹל **לִבְלֹעַ** אֶת־ יוֹנָה",
+        "transliteration": "dag gadol **livloa** et- Yonah",
+        "englishLiteral": "fish great **to-swallow** ↳ Dove (Jonah)",
+        "englishNatural": "fish a great **to swallow** ↳ Dove (Jonah)"
+      }
+    }
+  ]
+}

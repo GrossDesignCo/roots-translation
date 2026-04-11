@@ -1,0 +1,55 @@
+{
+  "key": "usheney",
+  "language": "hebrew",
+  "root": "shenayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וּשְׁנֵ֥י",
+        "transliteration": "usheney",
+        "englishLiteral": "and-two-of",
+        "englishNatural": "and the two of",
+        "root": "shenayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "ה֥וּא וְאִשְׁתּ֖וֹ **וּשְׁנֵ֥י** בָנָֽיו׃",
+        "transliteration": "hu veIshto **usheney** vanav",
+        "englishLiteral": "he and-woman-his **and-two-of** sons-his",
+        "englishNatural": "he and his woman **and the two of** his sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וּשְׁנֵ֥י",
+        "transliteration": "usheney",
+        "englishLiteral": "and-two-of",
+        "englishNatural": "and the two of",
+        "root": "shenayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּשָּׁאֵ֥ר הִ֖יא **וּשְׁנֵ֥י** בָנֶֽיהָ׃",
+        "transliteration": "vatTishare hi **usheney** vaneha",
+        "englishLiteral": "and-was-left she **and-two-of** sons-her",
+        "englishNatural": "was left and she **and the two of** her sons"
+      }
+    }
+  ]
+}

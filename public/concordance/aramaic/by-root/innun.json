@@ -1,0 +1,30 @@
+{
+  "root": "innun",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אִנּוּן",
+        "transliteration": "innun",
+        "englishLiteral": "those",
+        "englishNatural": "those",
+        "root": "innun",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי מַלְכַיָּא **אִנּוּן** יְקִים אֱלָהּ",
+        "transliteration": "di malkaiya **innun** yeqim elah",
+        "englishLiteral": "which kings-the **those** he-will-raise_up God-the",
+        "englishNatural": "which kings **those** will raise-up the God"
+      }
+    }
+  ]
+}

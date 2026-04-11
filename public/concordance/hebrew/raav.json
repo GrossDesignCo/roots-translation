@@ -1,0 +1,31 @@
+{
+  "key": "raav",
+  "language": "hebrew",
+  "root": "raav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "רָעָ֖ב",
+        "transliteration": "raav",
+        "englishLiteral": "famine",
+        "englishNatural": "and famine",
+        "root": "raav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשֹּׁפְטִ֔ים וַיְהִ֥י **רָעָ֖ב** בָּאָ֑רֶץ וַיֵּ֨לֶךְ",
+        "transliteration": "haShoftim vayHi **raav** baAretz vaYelekh",
+        "englishLiteral": "the-Just_Ones and-was **famine** in-the-land and-walked",
+        "englishNatural": "the Just-Ones was **and famine** in the land walked"
+      }
+    }
+  ]
+}

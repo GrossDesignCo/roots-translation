@@ -1,0 +1,55 @@
+{
+  "key": "rabbim",
+  "language": "hebrew",
+  "root": "rav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "רַבִּים",
+        "transliteration": "rabbim",
+        "englishLiteral": "many",
+        "englishNatural": "many",
+        "root": "rav",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹה הֵן־ **רַבִּים** עַתָּה עַם",
+        "transliteration": "Paroh hen- **rabbim** atah am",
+        "englishLiteral": "Pharaoh behold- **many** now people-of",
+        "englishNatural": "And Pharaoh Behold **many** now the people of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 24
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "רַבִּים",
+        "transliteration": "rabbim",
+        "englishLiteral": "many",
+        "englishNatural": "many",
+        "root": "rav",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כְּקוֹל מַיִם **רַבִּים** כְּקוֹל־ שַׁדַּי",
+        "transliteration": "keQol mayim **rabbim** keQol- shaddai",
+        "englishLiteral": "like-voice-of waters **many** like-voice-of- All_Powerful (Shaddai)",
+        "englishNatural": "like the voice of waters **many** like the voice of All-Powerful (Shaddai)"
+      }
+    }
+  ]
+}

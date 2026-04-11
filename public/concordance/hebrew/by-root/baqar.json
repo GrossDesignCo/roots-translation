@@ -1,0 +1,54 @@
+{
+  "root": "baqar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 24
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וּבְקַרְכֶם",
+        "transliteration": "uVqarkhem",
+        "englishLiteral": "and-herd-your",
+        "englishNatural": "and your herd",
+        "root": "baqar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רַק צֹאנְכֶם **וּבְקַרְכֶם** יֻצָּג גַּם־",
+        "transliteration": "raq tzonkhem **uVqarkhem** yutzag gam-",
+        "englishLiteral": "only flock-your **and-herd-your** will-be_stationed also-",
+        "englishNatural": "only your flock **and your herd** let be stationed also"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הַבָּקָר",
+        "transliteration": "haBaqar",
+        "englishLiteral": "the-cattle",
+        "englishNatural": "the cattle",
+        "root": "baqar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם וְהַבְּהֵמָה **הַבָּקָר** וְהַצֹּאן אַל־",
+        "transliteration": "haAdam veHaBehemah **haBaqar** veHaTzon al-",
+        "englishLiteral": "the-Earthling (Adam) and-the-beast **the-cattle** and-the-flock not-",
+        "englishNatural": "The Earthling (Adam) and the beast **the cattle** and the flock not"
+      }
+    }
+  ]
+}

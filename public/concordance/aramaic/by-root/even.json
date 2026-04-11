@@ -1,0 +1,78 @@
+{
+  "root": "even",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 34
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֶבֶן",
+        "transliteration": "even",
+        "englishLiteral": "stone",
+        "englishNatural": "a stone",
+        "root": "even",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי אִתְגְּזֶרֶת **אֶבֶן** דִּי לָא",
+        "transliteration": "di itgezeret **even** di la",
+        "englishLiteral": "which was-cut-out **stone** which not",
+        "englishNatural": "which was cut out **a stone** which was not"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "וְאַבְנָא",
+        "transliteration": "veAvna",
+        "englishLiteral": "and-the-stone",
+        "englishNatural": "And the stone",
+        "root": "even",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הִשְׁתֲּכַח לְהוֹן **וְאַבְנָא** דִּי מְחָת",
+        "transliteration": "hishtakach lehon **veAvna** di mechat",
+        "englishLiteral": "was-found to-them **and-the-stone** that struck",
+        "englishNatural": "found to them **And the stone** that struck"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אֶבֶן",
+        "transliteration": "even",
+        "englishLiteral": "stone",
+        "englishNatural": "a stone",
+        "root": "even",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "טוּרָא אִתְגְּזֶרֶת **אֶבֶן** דִּי לָא",
+        "transliteration": "tura itgezeret **even** di la",
+        "englishLiteral": "mountain-the was-cut-out **stone** which not",
+        "englishNatural": "the mountain was cut out **a stone** which was not"
+      }
+    }
+  ]
+}

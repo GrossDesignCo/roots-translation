@@ -1,0 +1,54 @@
+{
+  "root": "avot",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אֲבֹתֵיכֶם",
+        "transliteration": "avoteikem",
+        "englishLiteral": "your-fathers",
+        "englishNatural": "your fathers",
+        "root": "avot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהֵי **אֲבֹתֵיכֶם** אֱלֹהֵי אַבְרָהָם",
+        "transliteration": "YHWH Elohey **avoteikem** Elohey Avraham",
+        "englishLiteral": "He_Who_Is (YHWH) Gods-of **your-fathers** Gods-of Father_of_Multitudes (Abraham)",
+        "englishNatural": "He-Who-Is (YHWH) God of **your fathers** the God of Father-of-Multitudes (Abraham)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אָבוֹת",
+        "transliteration": "avot",
+        "englishLiteral": "fathers",
+        "englishNatural": "fathers",
+        "root": "avot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פֹּקֵד עֲוֹן **אָבוֹת** עַל־ בָּנִים",
+        "transliteration": "poqed avon **avot** al- banim",
+        "englishLiteral": "visiting twisting **fathers** over- sons",
+        "englishNatural": "visiting twisting **fathers** on sons"
+      }
+    }
+  ]
+}

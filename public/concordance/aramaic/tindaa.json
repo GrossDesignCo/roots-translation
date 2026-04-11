@@ -1,0 +1,33 @@
+{
+  "key": "tindaa",
+  "language": "aramaic",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "תִּנְדַּע",
+        "transliteration": "tindaa",
+        "englishLiteral": "you-will-know",
+        "englishNatural": "you might know",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "וְרַעְיוֹנֵי לִבְבָךְ **תִּנְדַּע**",
+        "transliteration": "veRaayonei levavakh **tindaa**",
+        "englishLiteral": "and-thoughts-of heart-your **you-will-know**",
+        "englishNatural": "and the thoughts of your heart **you might know**"
+      }
+    }
+  ]
+}

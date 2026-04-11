@@ -1,0 +1,30 @@
+{
+  "root": "kedarlaomer",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 17
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "כְּדָרְלָעֹמֶר",
+        "transliteration": "Kedarlaomer",
+        "englishLiteral": "Sheaf_Binder (Chedorlaomer)",
+        "englishNatural": "Sheaf-Binder (Chedorlaomer)",
+        "root": "kedarlaomer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵהַכּוֹת אֶת־ **כְּדָרְלָעֹמֶר** וְאֶת־ הַמְּלָכִים",
+        "transliteration": "meHakot et- **Kedarlaomer** veEt- haMelakhim",
+        "englishLiteral": "from-the-striking_down ↳ **Sheaf_Binder (Chedorlaomer)** and-↳ the-kings",
+        "englishNatural": "from the striking-down of ↳ **Sheaf-Binder (Chedorlaomer)** and the kings"
+      }
+    }
+  ]
+}

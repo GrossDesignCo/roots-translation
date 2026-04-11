@@ -1,0 +1,31 @@
+{
+  "key": "belahateihem",
+  "language": "hebrew",
+  "root": "lahat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "בְּלַהֲטֵיהֶם",
+        "transliteration": "beLahateihem",
+        "englishLiteral": "in-bright_flashes-their",
+        "englishNatural": "in their bright-flashes",
+        "root": "lahat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַרְטֻמֵּי מִצְרַיִם **בְּלַהֲטֵיהֶם** כֵּן",
+        "transliteration": "chartumei Mitzrayim **beLahateihem** khen",
+        "englishLiteral": "magicians-of Double_Narrows (Egypt) **in-bright_flashes-their** so",
+        "englishNatural": "and the magicians of Double-Narrows (Egypt) **in their bright-flashes** so"
+      }
+    }
+  ]
+}

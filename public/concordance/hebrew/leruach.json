@@ -1,0 +1,31 @@
+{
+  "key": "leruach",
+  "language": "hebrew",
+  "root": "ruach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְרוּחַ",
+        "transliteration": "leRuach",
+        "englishLiteral": "to-wind",
+        "englishNatural": "to the wind",
+        "root": "ruach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִתְהַלֵּךְ בַּגָּן **לְרוּחַ** הַיּוֹם וַיִּתְחַבֵּא",
+        "transliteration": "mithallekh baGan **leRuach** haYom vaYitchabe",
+        "englishLiteral": "walking in-Garden **to-wind** the-day and-hid",
+        "englishNatural": "walking in Garden **to the wind** of the day hid"
+      }
+    }
+  ]
+}

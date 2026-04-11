@@ -1,0 +1,79 @@
+{
+  "key": "ra",
+  "language": "hebrew",
+  "root": "ra",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "רַע",
+        "transliteration": "ra",
+        "englishLiteral": "bad",
+        "englishNatural": "bad",
+        "root": "ra",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לִבּוֹ רַק **רַע** כָּל־ הַיּוֹם",
+        "transliteration": "libbo raq **ra** kol- haYom",
+        "englishLiteral": "heart-his only **bad** all- the-day",
+        "englishNatural": "his heart only **bad** all the day"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "רַע",
+        "transliteration": "ra",
+        "englishLiteral": "bad",
+        "englishNatural": "bad",
+        "root": "ra",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לֵב הָאָדָם **רַע** מִנְּעֻרָיו וְלֹא־",
+        "transliteration": "lev haAdam **ra** miNeurav veLo-",
+        "englishLiteral": "heart-of the-Earthling (Adam) **bad** from-his-youth and-not-",
+        "englishNatural": "of the heart of the Earthling (Adam) **bad** from his youth not"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "רָע",
+        "transliteration": "ra",
+        "englishLiteral": "bad",
+        "englishNatural": "bad",
+        "root": "ra",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ אִירָא **רָע** כִּי־ אַתָּה",
+        "transliteration": "lo- ira **ra** ki- atah",
+        "englishLiteral": "not- I-fear **bad** that- you",
+        "englishNatural": "not I fear **bad** that you"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "vehabehemah",
+  "language": "hebrew",
+  "root": "behemah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וְהַבְּהֵמָה",
+        "transliteration": "veHaBehemah",
+        "englishLiteral": "and-the-beast",
+        "englishNatural": "and the beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֵאמֹר הָאָדָם **וְהַבְּהֵמָה** הַבָּקָר וְהַצֹּאן",
+        "transliteration": "lemor haAdam **veHaBehemah** haBaqar veHaTzon",
+        "englishLiteral": "to-say the-Earthling (Adam) **and-the-beast** the-cattle and-the-flock",
+        "englishNatural": "to say The Earthling (Adam) **and the beast** the cattle and the flock"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְהַבְּהֵמָה",
+        "transliteration": "veHaBehemah",
+        "englishLiteral": "and-the-beast",
+        "englishNatural": "and the beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שַׂק הָאָדָם **וְהַבְּהֵמָה** וְיִקְרְאוּ אֶל־",
+        "transliteration": "saq haAdam **veHaBehemah** veYiqreu el-",
+        "englishLiteral": "sackcloth the-Earthling (Adam) **and-the-beast** and-they-will-call_out to-",
+        "englishNatural": "sackcloth the Earthling (Adam) **and the beast** and they will call-out to"
+      }
+    }
+  ]
+}

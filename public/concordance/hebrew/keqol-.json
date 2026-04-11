@@ -1,0 +1,31 @@
+{
+  "key": "keqol-",
+  "language": "hebrew",
+  "root": "qol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 24
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "כְּקוֹל־",
+        "transliteration": "keQol-",
+        "englishLiteral": "like-voice-of-",
+        "englishNatural": "like the voice of",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַיִם רַבִּים **כְּקוֹל־** שַׁדַּי בְּלֶכְתָּם",
+        "transliteration": "mayim rabbim **keQol-** shaddai beLekhtan",
+        "englishLiteral": "waters many **like-voice-of-** All_Powerful (Shaddai) in-going-their",
+        "englishNatural": "waters many **like the voice of** All-Powerful (Shaddai) in their going"
+      }
+    }
+  ]
+}

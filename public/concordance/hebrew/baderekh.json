@@ -1,0 +1,31 @@
+{
+  "key": "baderekh",
+  "language": "hebrew",
+  "root": "derekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "בַדֶּ֔רֶךְ",
+        "transliteration": "baDerekh",
+        "englishLiteral": "in-the-way",
+        "englishNatural": "in the way",
+        "root": "derekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עִמָּ֑הּ וַתֵּלַ֣כְנָה **בַדֶּ֔רֶךְ** לָשׁ֖וּב אֶל־",
+        "transliteration": "immah vatTelakhnah **baDerekh** lashuv el-",
+        "englishLiteral": "with-her and-walked **in-the-way** to-return to-",
+        "englishNatural": "with her and they walked **in the way** to return to"
+      }
+    }
+  ]
+}

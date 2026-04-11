@@ -1,0 +1,33 @@
+{
+  "key": "teda",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "תֵּדַע",
+        "transliteration": "teda",
+        "englishLiteral": "you-will-know",
+        "englishNatural": "you will know",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְאַבְרָם יָדֹעַ **תֵּדַע** כִּי־ גֵר",
+        "transliteration": "leAbram yadoa **teda** ki- ger",
+        "englishLiteral": "to-Exalted_Father (Abram) Knowing **you-will-know** that- sojourner",
+        "englishNatural": "to Exalted-Father (Abram) Knowing **you will know** that a sojourner"
+      }
+    }
+  ]
+}

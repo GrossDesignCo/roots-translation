@@ -1,0 +1,28 @@
+{
+  "key": "bead",
+  "language": "hebrew",
+  "root": "ad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "בְּעַד",
+        "transliteration": "beAd",
+        "englishLiteral": "in-unto",
+        "englishNatural": "in unto",
+        "root": "ad"
+      },
+      "context": {
+        "hebrew": "וַיִּתְפַּלֵּל מֹשֶׁה **בְּעַד** הָעָם",
+        "transliteration": "vaYitpalel Moshe **beAd** haAm",
+        "englishLiteral": "And-prayed Drawn_Out (Moses) **in-unto** the-people",
+        "englishNatural": "prayed And Drawn-Out (Moses) **in unto** the people"
+      }
+    }
+  ]
+}

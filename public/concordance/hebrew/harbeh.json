@@ -1,0 +1,57 @@
+{
+  "key": "harbeh",
+  "language": "hebrew",
+  "root": "harbeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 1
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "הַרְבֵּה",
+        "transliteration": "harbeh",
+        "englishLiteral": "to-multiply",
+        "englishNatural": "to multiply",
+        "root": "rabah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "לָךְ שְׂכָרְךָ **הַרְבֵּה** מְאֹד",
+        "transliteration": "lakh sekharcha **harbeh** meod",
+        "englishLiteral": "to-you reward-of-you **to-multiply** exceedingly",
+        "englishNatural": "to you your reward **to multiply** exceedingly"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הַרְבֵּה",
+        "transliteration": "harbeh",
+        "englishLiteral": "much",
+        "englishNatural": "much",
+        "root": "harbeh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "יֶשׁ־ בָּהּ **הַרְבֵּה** מִשְׁתֵּים־ עֶשְׂרֵה",
+        "transliteration": "yesh- bah **harbeh** mishteym- esreh",
+        "englishLiteral": "there_is- in-her **much** from-two- ten",
+        "englishNatural": "there-is in her **much** more than two ten"
+      }
+    }
+  ]
+}

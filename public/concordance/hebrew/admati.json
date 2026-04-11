@@ -1,0 +1,31 @@
+{
+  "key": "admati",
+  "language": "hebrew",
+  "root": "adamah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אַדְמָתִי",
+        "transliteration": "admati",
+        "englishLiteral": "earth-my",
+        "englishNatural": "my earth",
+        "root": "adamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֱיוֹתִי עַל־ **אַדְמָתִי** עַל־ כֵּן",
+        "transliteration": "heyoti al- **admati** al- ken",
+        "englishLiteral": "being-my over- **earth-my** over- so",
+        "englishNatural": "I was over **my earth** moreover So"
+      }
+    }
+  ]
+}

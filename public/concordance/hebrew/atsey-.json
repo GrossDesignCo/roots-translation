@@ -1,0 +1,31 @@
+{
+  "key": "atsey-",
+  "language": "hebrew",
+  "root": "etz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 14
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "עֲצֵי־",
+        "transliteration": "atsey-",
+        "englishLiteral": "trees-of-",
+        "englishNatural": "trees of",
+        "root": "etz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ תֵּבַת **עֲצֵי־** גֹפֶר קִנִּים",
+        "transliteration": "lekha tevat **atsey-** gopher qinnim",
+        "englishLiteral": "to-you ark-of **trees-of-** gopher nests",
+        "englishNatural": "for yourself an ark of **trees of** gopher nests"
+      }
+    }
+  ]
+}

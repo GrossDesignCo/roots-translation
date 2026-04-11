@@ -1,0 +1,59 @@
+{
+  "key": "vatakh",
+  "language": "hebrew",
+  "root": "nakah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַתַּךְ",
+        "transliteration": "vaTakh",
+        "englishLiteral": "and-struck_down",
+        "englishNatural": "and it struck-down",
+        "root": "nakah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הַשַּׁחַר לַמָּחֳרָת **וַתַּךְ** אֶת־ הַקִּיקָיוֹן",
+        "transliteration": "haShachar laMacharath **vaTakh** et- haQiqayon",
+        "englishLiteral": "the-dawn to-the-next_day **and-struck_down** ↳ the-luscious_plant",
+        "englishNatural": "the dawn to the next-day **and it struck-down** ↳ the luscious-plant"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַתַּךְ",
+        "transliteration": "vatakh",
+        "englishLiteral": "and-struck",
+        "englishNatural": "struck",
+        "root": "nakah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "קָדִים חֲרִישִׁית **וַתַּךְ** הַשֶּׁמֶשׁ עַל־",
+        "transliteration": "qadim charishit **vatakh** haShemesh al-",
+        "englishLiteral": "east_wind scorching **and-struck** the-sun over-",
+        "englishNatural": "east-wind a scorching **struck** and the sun over"
+      }
+    }
+  ]
+}

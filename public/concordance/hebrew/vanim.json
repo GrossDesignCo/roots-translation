@@ -1,0 +1,55 @@
+{
+  "key": "vanim",
+  "language": "hebrew",
+  "root": "ben",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בָנִים",
+        "transliteration": "vanim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ שְׁלֹשָׁה **בָנִים** אֶת־ שֵׁם",
+        "transliteration": "noach shloshah **vanim** et- shem",
+        "englishLiteral": "Rest (Noah) three **sons** ↳ Name (Shem)",
+        "englishNatural": "And Rest (Noah) three **sons** ↳ Name (Shem)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "בָנִים",
+        "transliteration": "vanim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַל־ בְּנֵי **בָנִים** עַל־ שִׁלֵּשִׁים",
+        "transliteration": "veAl- beney **vanim** al- shilleshim",
+        "englishLiteral": "and-over- sons-of **sons** over- third_ones",
+        "englishNatural": "and on sons of **sons** on third-ones"
+      }
+    }
+  ]
+}

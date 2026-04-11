@@ -1,0 +1,132 @@
+{
+  "root": "badal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיַּבְדֵּ֣ל",
+        "transliteration": "vaYavdel",
+        "englishLiteral": "And-separated",
+        "englishNatural": "separated",
+        "root": "badal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ ט֑וֹב **וַיַּבְדֵּ֣ל** אֱלֹהִ֔ים בֵּ֥ין",
+        "transliteration": "ki- tov **vaYavdel** Elohim beyn",
+        "englishLiteral": "that- good **And-separated** Gods between",
+        "englishNatural": "that it was good **separated** And God between"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מַבְדִּיל",
+        "transliteration": "mavdil",
+        "englishLiteral": "separating",
+        "englishNatural": "separating",
+        "root": "badal",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הַמָּיִם֙ וִיהִי **מַבְדִּיל** בֵּין מַיִם",
+        "transliteration": "haMayim vihi **mavdil** beyn mayim",
+        "englishLiteral": "the-waters and-let-be **separating** between waters",
+        "englishNatural": "the waters and let it be **separating** between waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַיַּבְדֵּ֗ל",
+        "transliteration": "vaYavdel",
+        "englishLiteral": "and-separated",
+        "englishNatural": "and separated",
+        "root": "badal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הָרָקִ֖יעַ **וַיַּבְדֵּ֗ל** בֵּ֤ין הַמַּ֙יִם֙",
+        "transliteration": "et- haRaqia **vaYavdel** beyn haMayim",
+        "englishLiteral": "↳ the-hammering_out **and-separated** between the-waters",
+        "englishNatural": "↳ the hammering-out **and separated** between the waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לְהַבְדִּ֕יל",
+        "transliteration": "leHavdil",
+        "englishLiteral": "to-separate",
+        "englishNatural": "to separate",
+        "root": "badal",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "בִּרְקִ֣יעַ הַשָּׁמַ֔יִם **לְהַבְדִּ֕יל** בֵּ֥ין הַיּ֖וֹם",
+        "transliteration": "biRqia haShamayim **leHavdil** beyn haYom",
+        "englishLiteral": "in-hammering_out the-skies **to-separate** between the-day",
+        "englishNatural": "in the hammering-out the skies **to separate** between the day"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וֽלֲהַבְדִּ֔יל",
+        "transliteration": "uLeHavdil",
+        "englishLiteral": "and-to-separate",
+        "englishNatural": "and to separate",
+        "root": "badal",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "בַּיּ֣וֹם וּבַלַּ֔יְלָה **וֽלֲהַבְדִּ֔יל** בֵּ֥ין הָא֖וֹר",
+        "transliteration": "baYom uBaLaylah **uLeHavdil** beyn haOr",
+        "englishLiteral": "in-day and-in-night **and-to-separate** between the-light",
+        "englishNatural": "in the day and in the night **and to separate** between the light"
+      }
+    }
+  ]
+}

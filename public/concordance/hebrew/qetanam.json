@@ -1,0 +1,31 @@
+{
+  "key": "qetanam",
+  "language": "hebrew",
+  "root": "qatan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "קְטַנָּם",
+        "transliteration": "qetanam",
+        "englishLiteral": "small-their",
+        "englishNatural": "their small",
+        "root": "qatan",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מִגְּדוֹלָם וְעַד־ **קְטַנָּם**",
+        "transliteration": "miggedolam veAd- **qetanam**",
+        "englishLiteral": "from-great-their and-unto- **small-their**",
+        "englishNatural": "from their great and unto **their small**"
+      }
+    }
+  ]
+}

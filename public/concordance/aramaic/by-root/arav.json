@@ -1,0 +1,108 @@
+{
+  "root": "arav",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 23,
+      "word": {
+        "originalScript": "מְעָרַב",
+        "transliteration": "mearav",
+        "englishLiteral": "mixed",
+        "englishNatural": "mixed",
+        "root": "arav",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "חֲזַיְתָ פַּרְזְלָא **מְעָרַב** בַּחֲסַף טִינָא",
+        "transliteration": "chazayta parzela **mearav** baChasaf tina",
+        "englishLiteral": "you-saw iron-the **mixed** in-clay mud-the",
+        "englishNatural": "you saw the iron **mixed** in clay the mud"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מְעָרַב",
+        "transliteration": "mearav",
+        "englishLiteral": "mixed",
+        "englishNatural": "mixed",
+        "root": "arav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "חֲזַיְתָ פַרְזְלָא **מְעָרַב** בַּחֲסַף טִינָא",
+        "transliteration": "chazayta parzela **mearav** baChasaf tina",
+        "englishLiteral": "you-saw iron-the **mixed** in-clay mud-the",
+        "englishNatural": "you saw the iron **mixed** in clay the mud"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מִתְעָרְבִין",
+        "transliteration": "mitarvin",
+        "englishLiteral": "mixing-themselves",
+        "englishNatural": "themselves mixing",
+        "root": "arav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "ithpeel"
+        }
+      },
+      "context": {
+        "hebrew": "בַּחֲסַף טִינָא **מִתְעָרְבִין** לֶהֱוֺן בִּזְרַע",
+        "transliteration": "baChasaf tina **mitarvin** lehevon biZera",
+        "englishLiteral": "in-clay mud-the **mixing-themselves** to-be-them in-seed",
+        "englishNatural": "in clay the mud **themselves mixing** to be in the seed of"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "מִתְעָרַב",
+        "transliteration": "mitarav",
+        "englishLiteral": "mix-itself",
+        "englishNatural": "mixes itself",
+        "root": "arav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "ithpeel"
+        }
+      },
+      "context": {
+        "hebrew": "פַרְזְלָא לָא **מִתְעָרַב** עִם־ חַסְפָּא",
+        "transliteration": "parzela la **mitarav** im- chaspa",
+        "englishLiteral": "iron-the not **mix-itself** with- clay-the",
+        "englishNatural": "the iron not **mixes itself** with the clay"
+      }
+    }
+  ]
+}

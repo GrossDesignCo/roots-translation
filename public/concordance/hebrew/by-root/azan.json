@@ -1,0 +1,32 @@
+{
+  "root": "azan",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הַאֲזֵנָּה",
+        "transliteration": "haAzenah",
+        "englishLiteral": "attend",
+        "englishNatural": "attend",
+        "root": "azan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "נְשֵׁי לֶמֶךְ **הַאֲזֵנָּה** אִמְרָתִי כִּי",
+        "transliteration": "neshei Lemekh **haAzenah** imrati ki",
+        "englishLiteral": "women-of Powerful (Lamech) **attend** speech-my that",
+        "englishNatural": "women of Powerful (Lamech) **attend** my speech that"
+      }
+    }
+  ]
+}

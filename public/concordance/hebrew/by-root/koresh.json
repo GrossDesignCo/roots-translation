@@ -1,0 +1,30 @@
+{
+  "root": "koresh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לְכוֹרֶשׁ",
+        "transliteration": "leKoresh",
+        "englishLiteral": "to-Cyrus",
+        "englishNatural": "to Cyrus",
+        "root": "koresh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנַת אַחַת **לְכוֹרֶשׁ** הַמֶּלֶךְ",
+        "transliteration": "shnat achat **leKoresh** haMelekh",
+        "englishLiteral": "year-of one **to-Cyrus** the-king",
+        "englishNatural": "the year of one **to Cyrus** the king"
+      }
+    }
+  ]
+}

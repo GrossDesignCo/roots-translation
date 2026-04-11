@@ -1,0 +1,33 @@
+{
+  "key": "vayisu",
+  "language": "hebrew",
+  "root": "nasa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּשְׂא֡וּ",
+        "transliteration": "vaYisu",
+        "englishLiteral": "And-they-lifted",
+        "englishNatural": "And they lifted",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּשְׂא֡וּ** לָהֶ֣ם נָשִׁים֩",
+        "transliteration": "**vaYisu** lahem nashim",
+        "englishLiteral": "**And-they-lifted** to-them women",
+        "englishNatural": "**And they lifted** to them women"
+      }
+    }
+  ]
+}

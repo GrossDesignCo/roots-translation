@@ -1,0 +1,55 @@
+{
+  "key": "milmaalah",
+  "language": "hebrew",
+  "root": "maala",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מִלְמַעְלָה",
+        "transliteration": "milMaalah",
+        "englishLiteral": "from-to-upward",
+        "englishNatural": "from upward",
+        "root": "maala",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אַמָּה תְּכַלֶּנָּה **מִלְמַעְלָה** וּפֶתַח הַתֵּבָה",
+        "transliteration": "ammah tekhalennah **milMaalah** uFetach haTevah",
+        "englishLiteral": "cubit you-shall-finish-her **from-to-upward** and-opening-of the-ark",
+        "englishNatural": "a cubit you shall finish it **from upward** and the opening of the ark"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "מִלְמָעְלָה",
+        "transliteration": "milMaalah",
+        "englishLiteral": "from-to-upward",
+        "englishNatural": "from upward",
+        "root": "maala",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אָדָם עָלָיו **מִלְמָעְלָה**",
+        "transliteration": "Adam alav **milMaalah**",
+        "englishLiteral": "Earthling (Adam) over-him **from-to-upward**",
+        "englishNatural": "Earthling (Adam) over him **from upward**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "uvathrakh",
+  "language": "aramaic",
+  "root": "achar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 39
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּבָתְרָךְ",
+        "transliteration": "uVathrakh",
+        "englishLiteral": "and-after-you",
+        "englishNatural": "And after you",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**וּבָתְרָךְ** תְּקוּם מַלְכוּ",
+        "transliteration": "**uVathrakh** tequm malkhu",
+        "englishLiteral": "**and-after-you** will-stand_up kingdom",
+        "englishNatural": "**And after you** will stand-up kingdom"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "hatahor",
+  "language": "hebrew",
+  "root": "tahor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 20
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הַטָּהֹר",
+        "transliteration": "haTahor",
+        "englishLiteral": "the-clean",
+        "englishNatural": "the clean",
+        "root": "tahor",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִכֹּל הָעוֹף **הַטָּהֹר** וַיַּעַל עֹלֹת",
+        "transliteration": "uMikol haOf **haTahor** vayYaal olot",
+        "englishLiteral": "and-from-all the-flyer **the-clean** and-caused-to-go_up goings_up",
+        "englishNatural": "and from all the flyer **the clean** and caused to go-up goings-up"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "shirtzu",
+  "language": "hebrew",
+  "root": "sharats",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שִׁרְצוּ",
+        "transliteration": "shirtzu",
+        "englishLiteral": "swarm",
+        "englishNatural": "swarm",
+        "root": "sharats",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פְּרוּ וּרְבוּ **שִׁרְצוּ** בָאָרֶץ וּרְבוּ־",
+        "transliteration": "peru urevu **shirtzu** baAretz urevu-",
+        "englishLiteral": "be_fruitful and-multiply **swarm** in-land and-multiply-",
+        "englishNatural": "be-fruitful and multiply **swarm** in the land and multiply"
+      }
+    }
+  ]
+}

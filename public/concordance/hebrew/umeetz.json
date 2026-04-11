@@ -1,0 +1,31 @@
+{
+  "key": "umeetz",
+  "language": "hebrew",
+  "root": "etz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּמֵעֵץ",
+        "transliteration": "uMeEtz",
+        "englishLiteral": "and-from-tree",
+        "englishNatural": "and from the Tree",
+        "root": "etz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּמֵעֵץ** הַדַּעַת טוֹב",
+        "transliteration": "**uMeEtz** haDaat tov",
+        "englishLiteral": "**and-from-tree** the-knowledge good",
+        "englishNatural": "**and from the Tree** of Knowledge of Good"
+      }
+    }
+  ]
+}

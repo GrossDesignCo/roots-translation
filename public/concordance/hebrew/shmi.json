@@ -1,0 +1,31 @@
+{
+  "key": "shmi",
+  "language": "hebrew",
+  "root": "shem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "שְּׁמִי",
+        "transliteration": "shmi",
+        "englishLiteral": "my-name",
+        "englishNatural": "my name",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲלֵיכֶם זֶה־ **שְּׁמִי** לְעֹלָם וְזֶה",
+        "transliteration": "aleikhem zeh- **shmi** leOlam veZeh",
+        "englishLiteral": "to-you this- **my-name** to-the_age and-this",
+        "englishNatural": "to you this is **my name** to the-age and this is"
+      }
+    }
+  ]
+}

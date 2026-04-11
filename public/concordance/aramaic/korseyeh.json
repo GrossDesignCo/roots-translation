@@ -1,0 +1,31 @@
+{
+  "key": "korseyeh",
+  "language": "aramaic",
+  "root": "korsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "כָּרְסְיֵהּ֙",
+        "transliteration": "korseyeh",
+        "englishLiteral": "throne-his",
+        "englishNatural": "his throne",
+        "root": "korsa",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כַּעֲמַ֣ר נְקֵ֔א **כָּרְסְיֵהּ֙** שְׁבִיבִ֣ין דִּי־",
+        "transliteration": "kaAmar neqe **korseyeh** shevivin di-",
+        "englishLiteral": "as-wool pure **throne-his** flames of-",
+        "englishNatural": "wool as pure **his throne** flames of"
+      }
+    }
+  ]
+}

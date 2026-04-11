@@ -1,0 +1,31 @@
+{
+  "key": "theos",
+  "language": "greek",
+  "root": "theos",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "θεὸς",
+        "transliteration": "theos",
+        "englishLiteral": "God",
+        "englishNatural": "God",
+        "root": "theos",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "θεόν καὶ **θεὸς** ἦν ὁ",
+        "transliteration": "theon kai **theos** ēn ho",
+        "englishLiteral": "God and **God** was The",
+        "englishNatural": "God and **God** was The"
+      }
+    }
+  ]
+}

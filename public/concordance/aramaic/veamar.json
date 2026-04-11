@@ -1,0 +1,33 @@
+{
+  "key": "veamar",
+  "language": "aramaic",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וְאָמַ֔ר",
+        "transliteration": "veAmar",
+        "englishLiteral": "and-said",
+        "englishNatural": "and said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עָנֵ֤ה דָנִיֵּאל֙ **וְאָמַ֔ר** חָזֵ֥ה הֲוֵ֛ית",
+        "transliteration": "aneh Daniel **veAmar** chazeh haveit",
+        "englishLiteral": "Answered God_Is_My_Judge (Daniel) **and-said** Looking I-was",
+        "englishNatural": "answered Daniel **and said** looking I was"
+      }
+    }
+  ]
+}

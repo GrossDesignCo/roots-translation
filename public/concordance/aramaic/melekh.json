@@ -1,0 +1,31 @@
+{
+  "key": "melekh",
+  "language": "aramaic",
+  "root": "melekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 37
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מֶלֶךְ",
+        "transliteration": "melekh",
+        "englishLiteral": "king-of",
+        "englishNatural": "the king of",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַנְתָּה מַלְכָּא **מֶלֶךְ** מַלְכַיָּא דִּי",
+        "transliteration": "antah malka **melekh** malkhayya di",
+        "englishLiteral": "you king-the **king-of** kings-the which",
+        "englishNatural": "You the king **the king of** the kings which"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "sedom",
+  "language": "hebrew",
+  "root": "sedom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "סְדֹם",
+        "transliteration": "Sedom",
+        "englishLiteral": "Devastation (Sodom)",
+        "englishNatural": "Devastation (Sodom)",
+        "root": "sedom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּצֵא מֶלֶךְ־ **סְדֹם** לִקְרָאתוֹ אַחֲרֵי",
+        "transliteration": "vayYetse melekh- **Sedom** liqrato acharey",
+        "englishLiteral": "And-he-went-out king-of- **Devastation (Sodom)** to-meet-him after",
+        "englishNatural": "went out And the king of **Devastation (Sodom)** to meet him after"
+      }
+    }
+  ]
+}

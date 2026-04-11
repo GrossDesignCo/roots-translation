@@ -1,0 +1,33 @@
+{
+  "key": "vayyaqam",
+  "language": "hebrew",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַיָּקָם",
+        "transliteration": "vayYaqam",
+        "englishLiteral": "and-he-stood_up",
+        "englishNatural": "stood-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בִּהְיוֹתָם בַּשָּׂדֶה **וַיָּקָם** קַיִן אֶל־",
+        "transliteration": "biHyotam basadeh **vayYaqam** Qayin el-",
+        "englishLiteral": "in-their-being in-field **and-he-stood_up** Acquired (Cain) to-",
+        "englishNatural": "in their being in the field **stood-up** and Acquired (Cain) to"
+      }
+    }
+  ]
+}

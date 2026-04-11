@@ -1,0 +1,30 @@
+{
+  "root": "ravrev",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 24,
+      "word": {
+        "originalScript": "רַבְרְבָֽן",
+        "transliteration": "ravrevan",
+        "englishLiteral": "great_things",
+        "englishNatural": "great-things",
+        "root": "ravrev",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וּפֻ֖ם מְמַלִּ֥ל **רַבְרְבָֽן**",
+        "transliteration": "uPum memallil **ravrevan**",
+        "englishLiteral": "and-mouth speaking **great_things**",
+        "englishNatural": "and a mouth speaking **great-things**"
+      }
+    }
+  ]
+}

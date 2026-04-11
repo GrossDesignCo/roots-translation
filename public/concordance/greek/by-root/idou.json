@@ -1,0 +1,30 @@
+{
+  "root": "idou",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "Ἰδοὺ",
+        "transliteration": "Idou",
+        "englishLiteral": "Behold",
+        "englishNatural": "Behold",
+        "root": "idou",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "**Ἰδοὺ** ἐγὼ ἀποστέλλω",
+        "transliteration": "**Idou** ego apostello",
+        "englishLiteral": "**Behold** I send",
+        "englishNatural": "**Behold** I send"
+      }
+    }
+  ]
+}

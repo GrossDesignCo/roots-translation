@@ -1,0 +1,31 @@
+{
+  "key": "sfatekha",
+  "language": "hebrew",
+  "root": "safah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "שְׂפָתֶיךָ",
+        "transliteration": "sfatekha",
+        "englishLiteral": "your-lips",
+        "englishNatural": "your lips",
+        "root": "safah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֶה עַל־ **שְׂפָתֶיךָ** וְסָר עֲוֹנֶךָ",
+        "transliteration": "zeh al- **sfatekha** veSar avonekha",
+        "englishLiteral": "this over- **your-lips** and-turned_aside your-twisting",
+        "englishNatural": "this over **your lips** and turned-aside your twisting"
+      }
+    }
+  ]
+}

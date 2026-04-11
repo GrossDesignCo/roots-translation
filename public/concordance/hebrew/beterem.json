@@ -1,0 +1,31 @@
+{
+  "key": "beterem",
+  "language": "hebrew",
+  "root": "terem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 25
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בְּטֶרֶם",
+        "transliteration": "beTerem",
+        "englishLiteral": "In-before",
+        "englishNatural": "In before",
+        "root": "terem",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּטֶרֶם** הָרִים הָטְבָּעוּ",
+        "transliteration": "**beTerem** harim hotbau",
+        "englishLiteral": "**In-before** mountains were-sunk",
+        "englishNatural": "**In before** mountains were sunk"
+      }
+    }
+  ]
+}

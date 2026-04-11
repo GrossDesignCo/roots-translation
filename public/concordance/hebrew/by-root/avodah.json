@@ -1,0 +1,30 @@
+{
+  "root": "avodah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "מֵעֲבֹדָתָם",
+        "transliteration": "meAvodatam",
+        "englishLiteral": "from-service-their",
+        "englishNatural": "from their service",
+        "root": "avodah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִצַּלְתִּי אֶתְכֶם **מֵעֲבֹדָתָם** וְגָאַלְתִּי אֶתְכֶם",
+        "transliteration": "veHitzalti etkhem **meAvodatam** veGaalti etkhem",
+        "englishLiteral": "and-I-will-deliver ↳you **from-service-their** and-I-will-redeem ↳you",
+        "englishNatural": "and I will deliver you **from their service** and I will redeem you"
+      }
+    }
+  ]
+}

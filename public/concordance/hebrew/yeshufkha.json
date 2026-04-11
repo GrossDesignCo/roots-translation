@@ -1,0 +1,33 @@
+{
+  "key": "yeshufkha",
+  "language": "hebrew",
+  "root": "shuf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "יְשׁוּפְךָ",
+        "transliteration": "yeshufkha",
+        "englishLiteral": "he-will-bruise-your",
+        "englishNatural": "will bruise your",
+        "root": "shuf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "זַרְעָהּ הוּא **יְשׁוּפְךָ** רֹאשׁ וְאַתָּה",
+        "transliteration": "zarah hu **yeshufkha** rosh veAtah",
+        "englishLiteral": "seed-her he **he-will-bruise-your** head and-you",
+        "englishNatural": "her seed he **will bruise your** head and you"
+      }
+    }
+  ]
+}

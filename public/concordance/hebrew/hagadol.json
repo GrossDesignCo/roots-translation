@@ -1,0 +1,103 @@
+{
+  "key": "hagadol",
+  "language": "hebrew",
+  "root": "gadol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הַגָּדֹ֔ל",
+        "transliteration": "haGadol",
+        "englishLiteral": "the-great",
+        "englishNatural": "the great",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַמָּא֤וֹר **הַגָּדֹ֔ל** לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם",
+        "transliteration": "et- haMaor **haGadol** leMemShelet haYom",
+        "englishLiteral": "↳ the-light_source **the-great** for-the-ruling-of the-day",
+        "englishNatural": "↳ the light-source **the great** for the ruling of the day"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 18
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "הַגָּדֹל",
+        "transliteration": "haGadol",
+        "englishLiteral": "the-great",
+        "englishNatural": "The Great",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "עַד־ הַנָּהָר **הַגָּדֹל** נְהַר־ פְּרָת",
+        "transliteration": "ad- haNahar **haGadol** nehar- Perat",
+        "englishLiteral": "until- the-river **the-great** river-of- Fruitful (Euphrates)",
+        "englishNatural": "until The River **The Great** the River of Fruitful (Euphrates)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הַגָּדֹל",
+        "transliteration": "haGadol",
+        "englishLiteral": "the-great",
+        "englishNatural": "great",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַמַּרְאֶה **הַגָּדֹל** הַזֶּה מַדּוּעַ",
+        "transliteration": "et- haMareh **haGadol** haZeh madua",
+        "englishLiteral": "↳ the-sight **the-great** the-this why",
+        "englishNatural": "↳ sight **great** this why"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "הַגָּדוֹל",
+        "transliteration": "haGadol",
+        "englishLiteral": "the-great",
+        "englishNatural": "the great",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בְשֶׁלִּי הַסַּעַר **הַגָּדוֹל** הַזֶּה עֲלֵיכֶם",
+        "transliteration": "beshelli haSaar **haGadol** haZeh aleykhem",
+        "englishLiteral": "for-sake-my the-tempest **the-great** the-this over-you",
+        "englishNatural": "for my sake the tempest **the great** the this is over you"
+      }
+    }
+  ]
+}

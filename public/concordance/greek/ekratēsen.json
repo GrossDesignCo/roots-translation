@@ -1,0 +1,32 @@
+{
+  "key": "ekratēsen",
+  "language": "greek",
+  "root": "krateo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "ἐκράτησεν",
+        "transliteration": "ekratēsen",
+        "englishLiteral": "he-seized",
+        "englishNatural": "he seized",
+        "root": "krateo",
+        "morphology": {
+          "type": "verb",
+          "tense": "aorist"
+        }
+      },
+      "context": {
+        "hebrew": "καὶ **ἐκράτησεν** τὸν δράκοντα",
+        "transliteration": "kai **ekratēsen** ton drakonta",
+        "englishLiteral": "and **he-seized** the dragon",
+        "englishNatural": "and **he seized** the dragon"
+      }
+    }
+  ]
+}

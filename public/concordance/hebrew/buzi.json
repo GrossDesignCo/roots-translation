@@ -1,0 +1,31 @@
+{
+  "key": "buzi",
+  "language": "hebrew",
+  "root": "buzi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בּוּזִי",
+        "transliteration": "Buzi",
+        "englishLiteral": "Contempt (Buzi)",
+        "englishNatural": "Contempt (Buzi)",
+        "root": "buzi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְחֶזְקֵאל בֶּן־ **בּוּזִי** הַכֹּהֵן בְּאֶרֶץ",
+        "transliteration": "Yechezqel ben- **Buzi** haKohen beEretz",
+        "englishLiteral": "God_Strengthens (Ezekiel) son-of- **Contempt (Buzi)** the-priest in-land-of",
+        "englishNatural": "God-Strengthens (Ezekiel) son of **Contempt (Buzi)** the priest in the land of"
+      }
+    }
+  ]
+}

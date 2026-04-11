@@ -1,0 +1,33 @@
+{
+  "key": "over",
+  "language": "hebrew",
+  "root": "avar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עֹ֝בֵ֗ר",
+        "transliteration": "over",
+        "englishLiteral": "passing-through",
+        "englishNatural": "passing-through",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּדְגֵ֣י הַיָּ֑ם **עֹ֝בֵ֗ר** אָרְח֥וֹת יַמִּֽים",
+        "transliteration": "uDgei haYam **over** orchot yamim",
+        "englishLiteral": "and-fish-of the-sea **passing-through** paths-of seas",
+        "englishNatural": "and the fish of the sea **passing-through** the paths of seas"
+      }
+    }
+  ]
+}

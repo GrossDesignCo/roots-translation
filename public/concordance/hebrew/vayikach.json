@@ -1,0 +1,59 @@
+{
+  "key": "vayikach",
+  "language": "hebrew",
+  "root": "lakach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּקַּח",
+        "transliteration": "vaYikach",
+        "englishLiteral": "And-took",
+        "englishNatural": "took",
+        "root": "lakach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּקַּח** יְהוָה אֱלֹהִים",
+        "transliteration": "**vaYikach** YHWH Elohim",
+        "englishLiteral": "**And-took** He_Who_Is (YHWH) Gods",
+        "englishNatural": "**took** And He-Who-Is (YHWH) God"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַיִּקַּח",
+        "transliteration": "vaYikach",
+        "englishLiteral": "and-he-took",
+        "englishNatural": "and he took",
+        "root": "lakach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם וַיִּישָׁן **וַיִּקַּח** אַחַת מִצַּלְעֹתָיו",
+        "transliteration": "haAdam vaYishan **vaYikach** achat miTzalotav",
+        "englishLiteral": "the-Earthling (Adam) and-he-slept **and-he-took** one from-his-sides",
+        "englishNatural": "the Earthling (Adam) and he slept **and he took** one from his sides"
+      }
+    }
+  ]
+}

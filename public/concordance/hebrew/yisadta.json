@@ -1,0 +1,33 @@
+{
+  "key": "yisadta",
+  "language": "hebrew",
+  "root": "yasad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "יִסַּ֣דְתָּ",
+        "transliteration": "yisadta",
+        "englishLiteral": "you-have-founded",
+        "englishNatural": "you have founded",
+        "root": "yasad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹלְלִ֣ים וְ֭יֹנְקִים **יִסַּ֣דְתָּ** עֹ֑ז לְמַ֥עַן",
+        "transliteration": "olelim veYoneqim **yisadta** oz leMaan",
+        "englishLiteral": "infants and-sucklings **you-have-founded** strength to-sake-of",
+        "englishNatural": "infants and sucklings **you have founded** strength to the sake of"
+      }
+    }
+  ]
+}

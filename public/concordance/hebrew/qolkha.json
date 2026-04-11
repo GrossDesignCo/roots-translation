@@ -1,0 +1,31 @@
+{
+  "key": "qolkha",
+  "language": "hebrew",
+  "root": "qol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "קֹלְךָ",
+        "transliteration": "qolkha",
+        "englishLiteral": "Your-voice",
+        "englishNatural": "Your voice",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר אֶת־ **קֹלְךָ** שָׁמַעְתִּי בַּגָּן",
+        "transliteration": "vaYomer et- **qolkha** shamati baGan",
+        "englishLiteral": "And-he-said ↳ **Your-voice** I-heard in-Garden",
+        "englishNatural": "And he said ↳ **Your voice** I heard in Garden"
+      }
+    }
+  ]
+}

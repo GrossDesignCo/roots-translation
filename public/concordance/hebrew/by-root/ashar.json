@@ -1,0 +1,54 @@
+{
+  "root": "ashar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "אַשְׁרֵי",
+        "transliteration": "ashrei",
+        "englishLiteral": "Blessed-is",
+        "englishNatural": "Blessed is",
+        "root": "ashar",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "**אַשְׁרֵי** הָאִישׁ אֲשֶׁר",
+        "transliteration": "**ashrei** haIsh asher",
+        "englishLiteral": "**Blessed-is** the-man which",
+        "englishNatural": "**Blessed is** the man which"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "עָשִׁיר",
+        "transliteration": "ashir",
+        "englishLiteral": "Rich",
+        "englishNatural": "Rich",
+        "root": "ashar",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**עָשִׁיר** וָרָשׁ נִפְגָּשׁוּ",
+        "transliteration": "**ashir** vaRash niFgashu",
+        "englishLiteral": "**Rich** and-Poor meet",
+        "englishNatural": "**Rich** and Poor meet"
+      }
+    }
+  ]
+}

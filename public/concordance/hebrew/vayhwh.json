@@ -1,0 +1,76 @@
+{
+  "key": "vayhwh",
+  "language": "hebrew",
+  "root": "yhwh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 29
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַֽיהוָה֙",
+        "transliteration": "vaYHWH",
+        "englishLiteral": "and-He_Who_Is (YHWH)",
+        "englishNatural": "and He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּחֲצִ֣י הַלַּ֔יְלָה **וַֽיהוָה֙** הִכָּ֣ה כָל־",
+        "transliteration": "baChatziy haLaylah **vaYHWH** hikkah kol-",
+        "englishLiteral": "in-half-of the-night **and-He_Who_Is (YHWH)** struck all-",
+        "englishNatural": "in the half of the night **and He-Who-Is (YHWH)** struck all"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בַיהוָה",
+        "transliteration": "vaYHWH",
+        "englishLiteral": "against-He_Who_Is (YHWH)",
+        "englishNatural": "against He-Who-Is (YHWH)",
+        "root": "yhwh"
+      },
+      "context": {
+        "hebrew": "כִּי דִבַּרְנוּ **בַיהוָה** וָבָךְ הִתְפַּלֵּל",
+        "transliteration": "ki dibarnu **vaYHWH** vaVeKha hitpalel",
+        "englishLiteral": "that we-have-spoken **against-He_Who_Is (YHWH)** and-against-you pray",
+        "englishNatural": "that we have spoken **against He-Who-Is (YHWH)** and against you pray"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיהוָה",
+        "transliteration": "vaYHWH",
+        "englishLiteral": "And-He_Who_Is (YHWH)",
+        "englishNatural": "And He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיהוָה** הֵטִיל רוּחַ־",
+        "transliteration": "**vaYHWH** hetil ruach-",
+        "englishLiteral": "**And-He_Who_Is (YHWH)** hurled wind-",
+        "englishNatural": "**And He-Who-Is (YHWH)** hurled wind"
+      }
+    }
+  ]
+}

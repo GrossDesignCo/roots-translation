@@ -1,0 +1,31 @@
+{
+  "key": "veqarnayin",
+  "language": "aramaic",
+  "root": "qeren",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 29,
+      "word": {
+        "originalScript": "וְקַרְנַ֥יִן",
+        "transliteration": "veQarnayin",
+        "englishLiteral": "and-horns",
+        "englishNatural": "horns",
+        "root": "qeren",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּ֣י קָֽדָמַ֔הּ **וְקַרְנַ֥יִן** עֲשַׂ֖ר לַֽהּ׃",
+        "transliteration": "di qodamah **veQarnayin** asar lah",
+        "englishLiteral": "which before-her **and-horns** ten to-her",
+        "englishNatural": "that before it **horns** and ten to it"
+      }
+    }
+  ]
+}

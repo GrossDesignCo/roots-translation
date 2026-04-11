@@ -1,0 +1,31 @@
+{
+  "key": "kaamar",
+  "language": "aramaic",
+  "root": "amar_wool",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "כַּעֲמַ֣ר",
+        "transliteration": "kaAmar",
+        "englishLiteral": "as-wool",
+        "englishNatural": "wool",
+        "root": "amar_wool",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּשְׂעַ֤ר רֵאשֵׁהּ֙ **כַּעֲמַ֣ר** נְקֵ֔א כָּרְסְיֵהּ֙",
+        "transliteration": "uSear reisheh **kaAmar** neqe korseyeh",
+        "englishLiteral": "and-hair-of head-his **as-wool** pure throne-his",
+        "englishNatural": "and the hair of his head **wool** as pure his throne"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "etzlam",
+  "language": "hebrew",
+  "root": "etzal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 19
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֶצְלָם",
+        "transliteration": "etzlam",
+        "englishLiteral": "beside-them",
+        "englishNatural": "beside them",
+        "root": "etzal",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יֵלְכוּ הָאוֹפַנִּים **אֶצְלָם** וּבְהִנָּשֵׂא הַחַיּוֹת",
+        "transliteration": "yelekhu haOphanim **etzlam** uVehinase haChayot",
+        "englishLiteral": "they-went the-wheels **beside-them** and-in-being-lifted-of the-living-beings",
+        "englishNatural": "went the wheels **beside them** and in the being-lifted of the living-beings"
+      }
+    }
+  ]
+}

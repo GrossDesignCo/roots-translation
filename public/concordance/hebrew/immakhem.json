@@ -1,0 +1,31 @@
+{
+  "key": "immakhem",
+  "language": "hebrew",
+  "root": "im_with",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "עִמָּכֶ֜ם",
+        "transliteration": "immakhem",
+        "englishLiteral": "with-you",
+        "englishNatural": "with you",
+        "root": "im_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יַעַשׂ֩ יְהוָ֨ה **עִמָּכֶ֜ם** חֶ֗סֶד כַּאֲשֶׁ֧ר",
+        "transliteration": "yaas YHWH **immakhem** chesed kaAsher",
+        "englishLiteral": "make He_Who_Is (YHWH) **with-you** steadfast_love as-which",
+        "englishNatural": "make He-Who-Is (YHWH) **with you** steadfast-love as which"
+      }
+    }
+  ]
+}

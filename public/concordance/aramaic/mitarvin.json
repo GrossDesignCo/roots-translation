@@ -1,0 +1,33 @@
+{
+  "key": "mitarvin",
+  "language": "aramaic",
+  "root": "arav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מִתְעָרְבִין",
+        "transliteration": "mitarvin",
+        "englishLiteral": "mixing-themselves",
+        "englishNatural": "themselves mixing",
+        "root": "arav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "ithpeel"
+        }
+      },
+      "context": {
+        "hebrew": "בַּחֲסַף טִינָא **מִתְעָרְבִין** לֶהֱוֺן בִּזְרַע",
+        "transliteration": "baChasaf tina **mitarvin** lehevon biZera",
+        "englishLiteral": "in-clay mud-the **mixing-themselves** to-be-them in-seed",
+        "englishNatural": "in clay the mud **themselves mixing** to be in the seed of"
+      }
+    }
+  ]
+}

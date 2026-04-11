@@ -1,0 +1,31 @@
+{
+  "key": "reisheh",
+  "language": "aramaic",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "רֵאשֵׁהּ֙",
+        "transliteration": "reisheh",
+        "englishLiteral": "head-his",
+        "englishNatural": "his head",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חִוָּ֗ר וּשְׂעַ֤ר **רֵאשֵׁהּ֙** כַּעֲמַ֣ר נְקֵ֔א",
+        "transliteration": "khivvar uSear **reisheh** kaAmar neqe",
+        "englishLiteral": "white and-hair-of **head-his** as-wool pure",
+        "englishNatural": "as white and the hair of **his head** wool as pure"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "key": "tokhal",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "תֹּאכַל",
+        "transliteration": "tokhal",
+        "englishLiteral": "you-will_eat",
+        "englishNatural": "you will eat",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תֵלֵךְ וְעָפָר **תֹּאכַל** כָּל־ יְמֵי",
+        "transliteration": "telekh veAfar **tokhal** kol- yemey",
+        "englishLiteral": "you-will_walk and-dust **you-will_eat** all- days",
+        "englishNatural": "you will walk and dust **you will eat** all the days"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "תֹאכַל",
+        "transliteration": "tokhal",
+        "englishLiteral": "you-will-eat",
+        "englishNatural": "You will eat",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֵאמֹר לֹא **תֹאכַל** מִמֶּנּוּ אֲרוּרָה",
+        "transliteration": "lemor lo **tokhal** mimenu arurah",
+        "englishLiteral": "to-say Not **you-will-eat** from-it cursed",
+        "englishNatural": "saying not **You will eat** from it cursed is"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "תֹּאכַל",
+        "transliteration": "toKhal",
+        "englishLiteral": "you-will-eat",
+        "englishNatural": "you will eat",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect"
+        }
+      },
+      "context": {
+        "hebrew": "בְּזֵעַת אַפֶּיךָ **תֹּאכַל** לֶחֶם עַד",
+        "transliteration": "beZeat apeikha **toKhal** lechem ad",
+        "englishLiteral": "In-sweat_of your-faces **you-will-eat** bread until",
+        "englishNatural": "In sweat of your face **you will eat** bread until"
+      }
+    }
+  ]
+}

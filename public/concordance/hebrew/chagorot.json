@@ -1,0 +1,31 @@
+{
+  "key": "chagorot",
+  "language": "hebrew",
+  "root": "chagar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "חֲגֹרֹת׃",
+        "transliteration": "chagorot",
+        "englishLiteral": "girdings",
+        "englishNatural": "girdings",
+        "root": "chagar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעֲשׂוּ לָהֶם **חֲגֹרֹת׃**",
+        "transliteration": "vaYaasu lahem **chagorot**",
+        "englishLiteral": "and-made to-them **girdings**",
+        "englishNatural": "and made for themselves **girdings**"
+      }
+    }
+  ]
+}

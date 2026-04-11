@@ -1,0 +1,33 @@
+{
+  "key": "veyaser",
+  "language": "hebrew",
+  "root": "sur",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְיָסֵר",
+        "transliteration": "veYaSer",
+        "englishLiteral": "and-may-he-turn_aside",
+        "englishNatural": "and may he turn-aside",
+        "root": "sur",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל יְהוָה **וְיָסֵר** מֵעָלֵינוּ אֶת",
+        "transliteration": "el YHWH **veYaSer** meAleinu et",
+        "englishLiteral": "to He_Who_Is (YHWH) **and-may-he-turn_aside** from-over-us ↳",
+        "englishNatural": "to He-Who-Is (YHWH) **and may he turn-aside** from over us ↳"
+      }
+    }
+  ]
+}

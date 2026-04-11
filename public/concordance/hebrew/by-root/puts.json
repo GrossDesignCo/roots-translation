@@ -1,0 +1,84 @@
+{
+  "root": "puts",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "נָפוּץ",
+        "transliteration": "naFuts",
+        "englishLiteral": "we-are-scattered",
+        "englishNatural": "we are scattered",
+        "root": "puts",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם פֶּן־ **נָפוּץ** עַל־ פְּנֵי",
+        "transliteration": "shem pen- **naFuts** al- peney",
+        "englishLiteral": "name lest- **we-are-scattered** over- faces-of",
+        "englishNatural": "a name lest **we are scattered** over the face of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּפֶץ",
+        "transliteration": "vayYafetz",
+        "englishLiteral": "And-he-scattered",
+        "englishNatural": "scattered",
+        "root": "puts",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּפֶץ** יְהוָה אֹתָם",
+        "transliteration": "**vayYafetz** YHWH otam",
+        "englishLiteral": "**And-he-scattered** He_Who_Is (YHWH) ↳ them",
+        "englishNatural": "**scattered** And He-Who-Is (YHWH) them"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 9
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הֱפִיצָם",
+        "transliteration": "hephitzam",
+        "englishLiteral": "he-scattered-them",
+        "englishNatural": "scattered them",
+        "root": "puts",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ וּמִשָּׁם **הֱפִיצָם** יְהוָה עַל־",
+        "transliteration": "haAretz umisham **hephitzam** YHWH al-",
+        "englishLiteral": "the-land and-from-there **he-scattered-them** He_Who_Is (YHWH) over-",
+        "englishNatural": "the land and from there **scattered them** He-Who-Is (YHWH) over"
+      }
+    }
+  ]
+}

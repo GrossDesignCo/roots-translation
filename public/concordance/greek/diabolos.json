@@ -1,0 +1,31 @@
+{
+  "key": "diabolos",
+  "language": "greek",
+  "root": "diabolos",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "Διάβολος",
+        "transliteration": "Diabolos",
+        "englishLiteral": "Accuser",
+        "englishNatural": "Accuser",
+        "root": "diabolos",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ὅς ἐστιν **Διάβολος** καὶ ὁ",
+        "transliteration": "hos estin **Diabolos** kai ho",
+        "englishLiteral": "who is **Accuser** and The",
+        "englishNatural": "who is **Accuser** and The"
+      }
+    }
+  ]
+}

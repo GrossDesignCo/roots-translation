@@ -1,0 +1,85 @@
+{
+  "key": "baah",
+  "language": "hebrew",
+  "root": "baah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בָּאָה",
+        "transliteration": "baah",
+        "englishLiteral": "she-came",
+        "englishNatural": "come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי הַשֶּׁמֶשׁ **בָּאָה** וַעֲלָטָה הָיָה",
+        "transliteration": "vayehi haShemesh **baah** vaAlatah hayah",
+        "englishLiteral": "And-he-was the-sun **she-came** and-darkness he-was",
+        "englishNatural": "was And the sun **come** and darkness was"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בָּאָה",
+        "transliteration": "baah",
+        "englishLiteral": "coming",
+        "englishNatural": "coming",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רוּחַ סְעָרָה **בָּאָה** מִן־ הַצָּפוֹן",
+        "transliteration": "ruach saarah **baah** min- haTzafon",
+        "englishLiteral": "wind storm **coming** from- the-north",
+        "englishNatural": "a wind storm **coming** from the north"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "בָּאָה",
+        "transliteration": "baah",
+        "englishLiteral": "going",
+        "englishNatural": "going to",
+        "root": "baah",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּמְצָא אָנִיָּה **בָּאָה** תַרְשִׁישׁ וַיִּתֵּן",
+        "transliteration": "vaYimtza aniyah **baah** Tarshish vaYitten",
+        "englishLiteral": "and-found ship **going** golden_stone (Tarshish) and-gave",
+        "englishNatural": "and he found a ship **going to** golden-stone (Tarshish) and he paid"
+      }
+    }
+  ]
+}

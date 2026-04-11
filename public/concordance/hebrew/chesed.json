@@ -1,0 +1,103 @@
+{
+  "key": "chesed",
+  "language": "hebrew",
+  "root": "chesed",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "חֶסֶד",
+        "transliteration": "chesed",
+        "englishLiteral": "steadfast_love",
+        "englishNatural": "steadfast-love",
+        "root": "chesed",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַפַּיִם וְרַב־ **חֶסֶד** וֶאֱמֶת",
+        "transliteration": "apayim veRav- **chesed** veEmet",
+        "englishLiteral": "nostrils and-many- **steadfast_love** and-truth",
+        "englishNatural": "nostrils and abundant in **steadfast-love** and truth"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "חֶסֶד",
+        "transliteration": "chesed",
+        "englishLiteral": "steadfast_love",
+        "englishNatural": "steadfast-love",
+        "root": "chesed",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֹצֵר **חֶסֶד** לָאֲלָפִים נֹשֵׂא",
+        "transliteration": "notser **chesed** laAlafim nose",
+        "englishLiteral": "preserving **steadfast_love** to-thousands lifting_up",
+        "englishNatural": "preserving **steadfast-love** for thousands lifting-up"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "חֶ֗סֶד",
+        "transliteration": "chesed",
+        "englishLiteral": "steadfast_love",
+        "englishNatural": "steadfast-love",
+        "root": "chesed",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֨ה עִמָּכֶ֜ם **חֶ֗סֶד** כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם",
+        "transliteration": "YHWH immakhem **chesed** kaAsher asitem",
+        "englishLiteral": "He_Who_Is (YHWH) with-you **steadfast_love** as-which you-made",
+        "englishNatural": "He-Who-Is (YHWH) with you **steadfast-love** as which you made"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 28,
+      "word": {
+        "originalScript": "חֶסֶד",
+        "transliteration": "chesed",
+        "englishLiteral": "steadfast_love",
+        "englishNatural": "of steadfast-love",
+        "root": "chesed",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַפַּיִם וְרַב־ **חֶסֶד** וְנִחָם עַל־",
+        "transliteration": "apayim veRav- **chesed** veNicham al-",
+        "englishLiteral": "nostrils and-great- **steadfast_love** and-comforting over-",
+        "englishNatural": "of nostrils and great **of steadfast-love** and comforting over"
+      }
+    }
+  ]
+}

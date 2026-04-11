@@ -1,0 +1,31 @@
+{
+  "key": "dechil",
+  "language": "aramaic",
+  "root": "dechal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "דְּחִיל",
+        "transliteration": "dechil",
+        "englishLiteral": "fearsome",
+        "englishNatural": "fearsome",
+        "root": "dechal",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לְקָבְלָךְ וְרֵוֵהּ **דְּחִיל**",
+        "transliteration": "leQovlakh veReveh **dechil**",
+        "englishLiteral": "before-you and-appearance-its **fearsome**",
+        "englishNatural": "before you and its appearance **fearsome**"
+      }
+    }
+  ]
+}

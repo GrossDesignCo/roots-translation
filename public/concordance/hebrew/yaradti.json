@@ -1,0 +1,33 @@
+{
+  "key": "yaradti",
+  "language": "hebrew",
+  "root": "yarad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "יָרַדְתִּי",
+        "transliteration": "yaradti",
+        "englishLiteral": "I-went_down",
+        "englishNatural": "I went down",
+        "root": "yarad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**יָרַדְתִּי** לְקִצְבֵי הָרִים",
+        "transliteration": "**yaradti** leqitzevei harim",
+        "englishLiteral": "**I-went_down** to-cutoffs-of mountains",
+        "englishNatural": "**I went down** to the cutoffs of the mountains"
+      }
+    }
+  ]
+}

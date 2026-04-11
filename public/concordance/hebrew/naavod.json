@@ -1,0 +1,33 @@
+{
+  "key": "naavod",
+  "language": "hebrew",
+  "root": "avad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "נַּעֲבֹד",
+        "transliteration": "naavod",
+        "englishLiteral": "will-serve",
+        "englishNatural": "we will serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נֵדַע מַה־ **נַּעֲבֹד** אֶת־ יְהוָה",
+        "transliteration": "neda mah- **naavod** et- YHWH",
+        "englishLiteral": "will-know what- **will-serve** ↳ He_Who_Is (YHWH)",
+        "englishNatural": "we know with what **we will serve** ↳ He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

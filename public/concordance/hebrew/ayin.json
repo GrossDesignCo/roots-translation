@@ -1,0 +1,31 @@
+{
+  "key": "ayin",
+  "language": "hebrew",
+  "root": "ayin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "אַיִן",
+        "transliteration": "ayin",
+        "englishLiteral": "not_exist",
+        "englishNatural": "was not there",
+        "root": "ayin",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ וְאָדָם **אַיִן** לַעֲבֹד אֶת",
+        "transliteration": "haAretz veAdam **ayin** laAvod et",
+        "englishLiteral": "the-land and-Earthling (Adam) **not_exist** to-serve ↳",
+        "englishNatural": "the land and Earthling (Adam) **was not there** to serve ↳"
+      }
+    }
+  ]
+}

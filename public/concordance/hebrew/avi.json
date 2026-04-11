@@ -1,0 +1,81 @@
+{
+  "key": "avi",
+  "language": "hebrew",
+  "root": "av",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אֲבִי",
+        "transliteration": "avi",
+        "englishLiteral": "father-of",
+        "englishNatural": "father of",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא הָיָה **אֲבִי** יֹשֵׁב אֹהֶל",
+        "transliteration": "hu hayah **avi** yoshev ohel",
+        "englishLiteral": "he was **father-of** dwelling tent",
+        "englishNatural": "he was **father of** dwelling tent"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֲבִי",
+        "transliteration": "avi",
+        "englishLiteral": "father-of",
+        "englishNatural": "father of",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא הָיָה **אֲבִי** כָּל־ תֹּפֵשׂ",
+        "transliteration": "hu hayah **avi** kol- tofes",
+        "englishLiteral": "he was **father-of** all handling",
+        "englishNatural": "he was **father of** all handling"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אָבִ֤יא",
+        "transliteration": "avi",
+        "englishLiteral": "I-will-bring",
+        "englishNatural": "I will bring",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "נֶ֨גַע אֶחָ֜ד **אָבִ֤יא** עַל־ פַּרְעֹה֙",
+        "transliteration": "nega echad **avi** al- Paroh",
+        "englishLiteral": "touch one **I-will-bring** over- Pharaoh",
+        "englishNatural": "touch one **I will bring** over Pharaoh"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "raglayyin",
+  "language": "aramaic",
+  "root": "regel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "רַגְלַ֙יִן֙",
+        "transliteration": "raglayyin",
+        "englishLiteral": "feet",
+        "englishNatural": "feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְעָ֗א וְעַל־ **רַגְלַ֙יִן֙** כֶּאֱנָ֣שׁ הֳקִימַ֔ת",
+        "transliteration": "ara veAl- **raglayyin** keEnash hoqimat",
+        "englishLiteral": "the-land and-on- **feet** as-Mortal_Man (Enash) was-caused-to-stand",
+        "englishNatural": "the land and on **feet** as a Mortal-Man (Enash) it was caused to stand"
+      }
+    }
+  ]
+}

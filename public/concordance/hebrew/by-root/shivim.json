@@ -1,0 +1,54 @@
+{
+  "root": "shivim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שִׁבְעִים",
+        "transliteration": "shivim",
+        "englishLiteral": "seventy",
+        "englishNatural": "seventy",
+        "root": "shivim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי קֵינָן **שִׁבְעִים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "vaYechi Qeynan **shivim** shanah vaYoled",
+        "englishLiteral": "and-lived Nest (Cainan) **seventy** year and-he-birthed",
+        "englishNatural": "lived And Nest (Cainan) **seventy** years and birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 31
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְשִׁבְעִים",
+        "transliteration": "veShivim",
+        "englishLiteral": "and-seventy",
+        "englishNatural": "and seventy",
+        "root": "shivim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "לֶמֶךְ שֶׁבַע **וְשִׁבְעִים** שָׁנָה וּשְׁבַע",
+        "transliteration": "Lemekh sheva **veShivim** shanah uSheva",
+        "englishLiteral": "Powerful (Lamech) seven **and-seventy** year and-seven",
+        "englishNatural": "Powerful (Lamech) seven **and seventy** years and seven"
+      }
+    }
+  ]
+}

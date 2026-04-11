@@ -1,0 +1,33 @@
+{
+  "key": "shama",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שָׁמַע",
+        "transliteration": "shama",
+        "englishLiteral": "heard",
+        "englishNatural": "and he heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹה וְלֹא **שָׁמַע** אֲלֵהֶם כַּאֲשֶׁר",
+        "transliteration": "Paroh veLo **shama** alehem kaAsher",
+        "englishLiteral": "Pharaoh and-not **heard** to-them as-which",
+        "englishNatural": "Pharaoh not **and he heard** to them as which"
+      }
+    }
+  ]
+}

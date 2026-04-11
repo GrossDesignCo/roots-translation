@@ -1,0 +1,33 @@
+{
+  "key": "vattaqam",
+  "language": "hebrew",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתָּ֤קָם",
+        "transliteration": "vatTaqam",
+        "englishLiteral": "And-stood_up",
+        "englishNatural": "stood-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתָּ֤קָם** הִיא֙ וְכַלֹּתֶ֔יהָ",
+        "transliteration": "**vatTaqam** hi veKhalloteha",
+        "englishLiteral": "**And-stood_up** she and-daughters_in_law-her",
+        "englishNatural": "**stood-up** And she and her daughters-in-law"
+      }
+    }
+  ]
+}

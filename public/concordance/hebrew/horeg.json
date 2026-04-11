@@ -1,0 +1,33 @@
+{
+  "key": "horeg",
+  "language": "hebrew",
+  "root": "harag",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 15
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הֹרֵג",
+        "transliteration": "horeg",
+        "englishLiteral": "killing",
+        "englishNatural": "killing",
+        "root": "harag",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֵן כָּל־ **הֹרֵג** קַיִן שִׁבְעָתַיִם",
+        "transliteration": "lakhen kol- **horeg** Qayin shivatayim",
+        "englishLiteral": "Not-so all- **killing** Acquired (Cain) sevenfold",
+        "englishNatural": "Not so all **killing** Acquired (Cain) sevenfold"
+      }
+    }
+  ]
+}

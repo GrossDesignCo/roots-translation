@@ -1,0 +1,32 @@
+{
+  "root": "nadar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "נָדַרְתִּי",
+        "transliteration": "nadarti",
+        "englishLiteral": "I-vowed",
+        "englishNatural": "I have vowed",
+        "root": "nadar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָּךְ אֲשֶׁר **נָדַרְתִּי** אֲשַׁלֵּמָה יְשׁוּעָתָה",
+        "transliteration": "lakh asher **nadarti** ashalemah yeshuatah",
+        "englishLiteral": "to-you which **I-vowed** I-will-complete salvation",
+        "englishNatural": "to you what **I have vowed** I will complete salvation"
+      }
+    }
+  ]
+}

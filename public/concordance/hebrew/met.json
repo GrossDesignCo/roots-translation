@@ -1,0 +1,31 @@
+{
+  "key": "met",
+  "language": "hebrew",
+  "root": "mut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 30
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "מֵֽת׃",
+        "transliteration": "met",
+        "englishLiteral": "dead",
+        "englishNatural": "a dead one",
+        "root": "mut",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֵֽין־ שָׁ֖ם **מֵֽת׃**",
+        "transliteration": "eyn- sham **met**",
+        "englishLiteral": "there-is-not- there **dead**",
+        "englishNatural": "there was not there **a dead one**"
+      }
+    }
+  ]
+}

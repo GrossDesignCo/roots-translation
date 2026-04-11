@@ -1,0 +1,33 @@
+{
+  "key": "avru",
+  "language": "hebrew",
+  "root": "avar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עָבְרוּ",
+        "transliteration": "avru",
+        "englishLiteral": "pass-on",
+        "englishNatural": "go on",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְנִסְתָּר וּפְתָיִים **עָבְרוּ** וְנֶעֱנָשׁוּ",
+        "transliteration": "veNiStar uFetayim **avru** veNeEnashu",
+        "englishLiteral": "and-himself-hides but-simples **pass-on** and-are-punished",
+        "englishNatural": "and hides himself but the simple **go on** and are punished"
+      }
+    }
+  ]
+}

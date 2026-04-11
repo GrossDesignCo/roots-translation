@@ -1,0 +1,30 @@
+{
+  "root": "shaq",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 33
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "שָׁקוֹהִי",
+        "transliteration": "shaqohi",
+        "englishLiteral": "legs-its",
+        "englishNatural": "its legs",
+        "root": "shaq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**שָׁקוֹהִי** דִּי פַרְזֶל",
+        "transliteration": "**shaqohi** di parzel",
+        "englishLiteral": "**legs-its** which iron",
+        "englishNatural": "**its legs** of iron"
+      }
+    }
+  ]
+}

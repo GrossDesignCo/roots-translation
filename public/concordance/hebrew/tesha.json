@@ -1,0 +1,79 @@
+{
+  "key": "tesha",
+  "language": "hebrew",
+  "root": "tesha",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "תְּשַׁע",
+        "transliteration": "tesha",
+        "englishLiteral": "nine",
+        "englishNatural": "nine",
+        "root": "tesha",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר חַי **תְּשַׁע** מֵאוֹת שָׁנָה",
+        "transliteration": "asher chai **tesha** meot shanah",
+        "englishLiteral": "which he-lived **nine** hundreds year",
+        "englishNatural": "which he lived **nine** hundred years"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 27
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "תֵּשַׁע",
+        "transliteration": "tesha",
+        "englishLiteral": "nine",
+        "englishNatural": "nine",
+        "root": "tesha",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "יְמֵי מְתוּשָׁלַח **תֵּשַׁע** וְשִׁשִּׁים שָׁנָה",
+        "transliteration": "yemey Metushalach **tesha** veShishim shanah",
+        "englishLiteral": "days-of Man-of-the-Dart (Methuselah) **nine** and-sixty year",
+        "englishNatural": "the days of Man-of-the-Dart (Methuselah) **nine** and sixty years"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 29
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "תְּשַׁע",
+        "transliteration": "tesha",
+        "englishLiteral": "nine",
+        "englishNatural": "nine",
+        "root": "tesha",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "יְמֵי־ נֹחַ **תְּשַׁע** מֵאוֹת שָׁנָה",
+        "transliteration": "yemey- Noach **tesha** meot shanah",
+        "englishLiteral": "days-of- Rest (Noah) **nine** hundreds year",
+        "englishNatural": "the days of Rest (Noah) **nine** hundred years"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "halusis",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "ἅλυσιν",
+        "transliteration": "halusin",
+        "englishLiteral": "chain",
+        "englishNatural": "a chain",
+        "root": "halusis",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ἀβύσσου καὶ **ἅλυσιν** μεγάλην ἐπὶ",
+        "transliteration": "abussou kai **halusin** megalēn epi",
+        "englishLiteral": "abyss and **chain** great upon",
+        "englishNatural": "abyss and **a chain** great in"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "nishmat",
+  "language": "hebrew",
+  "root": "neshamah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "נִשְׁמַת",
+        "transliteration": "nishmat",
+        "englishLiteral": "breath-of",
+        "englishNatural": "the breath of",
+        "root": "neshamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּפַּח בְּאַפָּיו **נִשְׁמַת** חַיִּים וַיְהִי",
+        "transliteration": "vaYipach beAppav **nishmat** chayyim vaYehi",
+        "englishLiteral": "and-blew in-his-nostrils **breath-of** lives and-was",
+        "englishNatural": "and blew into his nostrils **the breath of** life was"
+      }
+    }
+  ]
+}

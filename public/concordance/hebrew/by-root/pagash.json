@@ -1,0 +1,32 @@
+{
+  "root": "pagash",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "נִפְגָּשׁוּ",
+        "transliteration": "niFgashu",
+        "englishLiteral": "meet",
+        "englishNatural": "meet",
+        "root": "pagash",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "עָשִׁיר וָרָשׁ **נִפְגָּשׁוּ** זֶה עִם",
+        "transliteration": "ashir vaRash **niFgashu** zeh im",
+        "englishLiteral": "Rich and-Poor **meet** this with",
+        "englishNatural": "Rich and Poor **meet** together with"
+      }
+    }
+  ]
+}

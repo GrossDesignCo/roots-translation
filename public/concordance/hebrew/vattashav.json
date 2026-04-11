@@ -1,0 +1,33 @@
+{
+  "key": "vattashav",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַתָּ֖שָׁב",
+        "transliteration": "vatTashav",
+        "englishLiteral": "and-returned",
+        "englishNatural": "and returned",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הִיא֙ וְכַלֹּתֶ֔יהָ **וַתָּ֖שָׁב** מִשְּׂדֵ֣י מוֹאָ֑ב",
+        "transliteration": "hi veKhalloteha **vatTashav** miSdey Moav",
+        "englishLiteral": "she and-daughters_in_law-her **and-returned** from-fields-of From_Father (Moab)",
+        "englishNatural": "And she and her daughters-in-law **and returned** from the fields of From-Father (Moab)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "peneihem",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "פְּנֵיהֶם",
+        "transliteration": "peneihem",
+        "englishLiteral": "faces-their",
+        "englishNatural": "their faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּדְמוּת **פְּנֵיהֶם** פְּנֵי אָדָם",
+        "transliteration": "uDemut **peneihem** peney Adam",
+        "englishLiteral": "And-likeness-of **faces-their** faces-of Earthling (Adam)",
+        "englishNatural": "And the likeness of **their faces** the face of Earthling (Adam)"
+      }
+    }
+  ]
+}

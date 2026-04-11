@@ -1,0 +1,82 @@
+.page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 3rem;
+}
+
+.heading {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 0.25rem;
+}
+
+.subtitle {
+  color: var(--ds-text-secondary);
+  font-size: 0.95rem;
+  margin: 0 0 2rem;
+}
+
+.section {
+  margin-bottom: 2.5rem;
+}
+
+.sectionHeading {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 0 1rem;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.sectionCount {
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: var(--ds-text-tertiary);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.5rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--ds-border);
+  border-radius: 6px;
+  text-decoration: none;
+  color: var(--ds-text-primary);
+  transition:
+    background-color 0.15s,
+    border-color 0.15s;
+}
+
+.card:hover {
+  background: var(--ds-bg-hover);
+  border-color: var(--ds-text-tertiary);
+}
+
+.cardScript {
+  font-size: 1.2rem;
+  line-height: 1.3;
+}
+
+.cardTranslit {
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--ds-text-secondary);
+}
+
+.cardEnglish {
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.cardType {
+  font-size: 0.75rem;
+  color: var(--ds-text-tertiary);
+}

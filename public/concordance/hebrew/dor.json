@@ -1,0 +1,31 @@
+{
+  "key": "dor",
+  "language": "hebrew",
+  "root": "dor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 27,
+      "word": {
+        "originalScript": "דֹּר",
+        "transliteration": "dor",
+        "englishLiteral": "generation",
+        "englishNatural": "generation",
+        "root": "dor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זִכְרִי לְדֹר **דֹּר**",
+        "transliteration": "zikri leDor **dor**",
+        "englishLiteral": "my-rememberance to-generation **generation**",
+        "englishNatural": "my rememberance to generation of **generation**"
+      }
+    }
+  ]
+}

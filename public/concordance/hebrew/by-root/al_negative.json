@@ -1,0 +1,174 @@
+{
+  "root": "al_negative",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_negative",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **אַל־** תִּקְרַב הֲלֹם",
+        "transliteration": "vaYomer **al-** tiqrav halom",
+        "englishLiteral": "And-said **not-** approach here",
+        "englishNatural": "And he said **not** Approach here"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not",
+        "englishNatural": "not",
+        "root": "al_negative",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "הִשָּׁ֣מֶר לְךָ֔ **אַל־** תֹּ֨סֶף֙ רְא֣וֹת",
+        "transliteration": "hiShamer lekha **al-** tosef reot",
+        "englishLiteral": "guard to-you **not** add to-see",
+        "englishNatural": "guard yourself **not** add to see"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_negative",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "אָנָּה יְהוָה **אַל־** נָא נֹאבְדָה",
+        "transliteration": "anna YHWH **al-** na novdah",
+        "englishLiteral": "please He_Who_Is (YHWH) **not-** please let-us-perish",
+        "englishNatural": "Please He-Who-Is (YHWH) **not** please let us perish"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וְאַל־",
+        "transliteration": "veAl-",
+        "englishLiteral": "and-not-",
+        "englishNatural": "not",
+        "root": "al_negative",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "הָאִישׁ הַזֶּה **וְאַל־** תִּתֵּן עָלֵינוּ",
+        "transliteration": "haIsh haZeh **veAl-** titten alenu",
+        "englishLiteral": "the-man the-this **and-not-** give over-us",
+        "englishNatural": "the man the this **not** and give over us"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_negative",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "הַבָּקָר וְהַצֹּאן **אַל־** יִטְעֲמוּ מְאוּמָה",
+        "transliteration": "haBaqar veHaTzon **al-** yitamu meumah",
+        "englishLiteral": "the-cattle and-the-flock **not-** they-will-taste anything",
+        "englishNatural": "the cattle and the flock **not** they will taste anything"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_negative",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "יִטְעֲמוּ מְאוּמָה **אַל־** יִרְעוּ וּמַיִם",
+        "transliteration": "yitamu meumah **al-** yiru uMayim",
+        "englishLiteral": "they-will-taste anything **not-** they-will-graze and-waters",
+        "englishNatural": "they will taste anything **not** they will graze and waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_negative",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "יִרְעוּ וּמַיִם **אַל־** יִשְׁתּוּ",
+        "transliteration": "yiru uMayim **al-** yishtu",
+        "englishLiteral": "they-will-graze and-waters **not-** they-will-drink",
+        "englishNatural": "they will graze and waters **not** they will drink"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "lememshelet",
+  "language": "hebrew",
+  "root": "mashal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לְמֶמְשֶׁ֣לֶת",
+        "transliteration": "leMemShelet",
+        "englishLiteral": "for-the-ruling-of",
+        "englishNatural": "for the ruling of",
+        "root": "mashal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמָּא֤וֹר הַגָּדֹ֔ל **לְמֶמְשֶׁ֣לֶת** הַיּ֔וֹם וְאֶת־",
+        "transliteration": "haMaor haGadol **leMemShelet** haYom veEt-",
+        "englishLiteral": "the-light_source the-great **for-the-ruling-of** the-day And-↳",
+        "englishNatural": "the light-source the great **for the ruling of** the day And"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "לְמֶמְשֶׁ֣לֶת",
+        "transliteration": "leMemShelet",
+        "englishLiteral": "for-the-ruling-of",
+        "englishNatural": "for the ruling of",
+        "root": "mashal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמָּא֤וֹר הַקָּטֹן֙ **לְמֶמְשֶׁ֣לֶת** הַלַּ֔יְלָה וְאֵ֖ת",
+        "transliteration": "haMaor haQaton **leMemShelet** haLaylah veEt",
+        "englishLiteral": "the-light_source the-small **for-the-ruling-of** the-night And-↳",
+        "englishNatural": "the light-source the small **for the ruling of** the night And"
+      }
+    }
+  ]
+}

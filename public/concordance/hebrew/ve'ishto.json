@@ -1,0 +1,31 @@
+{
+  "key": "ve'ishto",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְאִשְׁתּוֹ",
+        "transliteration": "ve'ishto",
+        "englishLiteral": "and-his-woman",
+        "englishNatural": "and his woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּתְחַבֵּא הָאָדָם **וְאִשְׁתּוֹ** מִפְּנֵי יְהוָה",
+        "transliteration": "vaYitchabe haAdam **ve'ishto** miPney YHWH",
+        "englishLiteral": "and-hid the-Earthling (Adam) **and-his-woman** from-faces-of He_Who_Is (YHWH)",
+        "englishNatural": "hid and the Earthling (Adam) **and his woman** from the face of He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

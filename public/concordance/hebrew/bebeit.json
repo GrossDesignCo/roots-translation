@@ -1,0 +1,31 @@
+{
+  "key": "bebeit",
+  "language": "hebrew",
+  "root": "bayit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בְּבֵית",
+        "transliteration": "beBeit",
+        "englishLiteral": "in-house-of",
+        "englishNatural": "in the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַיַּי וְשַׁבְתִּי **בְּבֵית** יְהוָה לְאֹרֶךְ",
+        "transliteration": "chayai veShavti **beBeit** YHWH leOrekh",
+        "englishLiteral": "my-life and-I-will-sit **in-house-of** He_Who_Is (YHWH) to-length-of",
+        "englishNatural": "my life and I will sit **in the house of** He-Who-Is (YHWH) to the length of"
+      }
+    }
+  ]
+}

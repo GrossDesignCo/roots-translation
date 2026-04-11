@@ -1,0 +1,33 @@
+{
+  "key": "karat",
+  "language": "hebrew",
+  "root": "karat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 18
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "כָּרַת",
+        "transliteration": "karat",
+        "englishLiteral": "he-cut",
+        "englishNatural": "cut",
+        "root": "karat",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בַּיּוֹם הַהוּא **כָּרַת** יְהוָה אֶת־",
+        "transliteration": "baYom haHu **karat** YHWH et-",
+        "englishLiteral": "in-day the-that **he-cut** He_Who_Is (YHWH) ↳",
+        "englishNatural": "In the day that **cut** He-Who-Is (YHWH) ↳"
+      }
+    }
+  ]
+}

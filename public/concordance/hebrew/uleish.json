@@ -1,0 +1,31 @@
+{
+  "key": "uleish",
+  "language": "hebrew",
+  "root": "ish",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 23
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וּלְאִישׁ",
+        "transliteration": "uLeIsh",
+        "englishLiteral": "and-to-man",
+        "englishNatural": "to a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מְכַסּוֹת לָהֵנָּה **וּלְאִישׁ** שְׁתַּיִם מְכַסּוֹת",
+        "transliteration": "mekhasot lahenah **uLeIsh** shtayim mekhasot",
+        "englishLiteral": "covering to-them **and-to-man** two covering",
+        "englishNatural": "a covering to them **to a man** and two a covering"
+      }
+    }
+  ]
+}

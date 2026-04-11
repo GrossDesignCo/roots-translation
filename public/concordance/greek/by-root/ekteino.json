@@ -1,0 +1,31 @@
+{
+  "root": "ekteino",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "ἐκτενεῖς",
+        "transliteration": "ekteneis",
+        "englishLiteral": "you-will-stretch_out",
+        "englishNatural": "you will stretch out",
+        "root": "ekteino",
+        "morphology": {
+          "type": "verb",
+          "tense": "future"
+        }
+      },
+      "context": {
+        "hebrew": "δὲ γηράσῃς **ἐκτενεῖς** τὰς χεῖράς",
+        "transliteration": "de gērasēs **ekteneis** tas cheiras",
+        "englishLiteral": "but you-grow_old **you-will-stretch_out** the hands",
+        "englishNatural": "but you grow old **you will stretch out** those hands"
+      }
+    }
+  ]
+}

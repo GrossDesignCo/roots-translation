@@ -1,0 +1,56 @@
+{
+  "root": "rum",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "רָמוּ",
+        "transliteration": "ramu",
+        "englishLiteral": "are-high",
+        "englishNatural": "are high",
+        "root": "rum",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִבִּי וְלֹא־ **רָמוּ** עֵינַי וְלֹא־",
+        "transliteration": "libi velo- **ramu** einai velo-",
+        "englishLiteral": "my-heart and-not- **are-high** my-eyes and-not-",
+        "englishNatural": "my heart not **are high** and my eyes not"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "רָם",
+        "transliteration": "ram",
+        "englishLiteral": "high",
+        "englishNatural": "high",
+        "root": "rum",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "עַל כִּסֵּא **רָם** וְנִשָּׂא וְשׁוּלָיו",
+        "transliteration": "al kisse **ram** veNisa veShulav",
+        "englishLiteral": "over throne **high** and-lifted_up and-his-garments",
+        "englishNatural": "over a throne **high** and lifted-up and his garments"
+      }
+    }
+  ]
+}

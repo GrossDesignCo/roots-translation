@@ -1,0 +1,54 @@
+{
+  "root": "Irad",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "עִירָד",
+        "transliteration": "Irad",
+        "englishLiteral": "Fugitive (Irad)",
+        "englishNatural": "Fugitive (Irad)",
+        "root": "Irad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַחֲנוֹךְ אֶת־ **עִירָד** וְעִירָד יָלַד",
+        "transliteration": "laChanokh et- **Irad** veIrad yalad",
+        "englishLiteral": "to-Dedicated (Enoch) ↳ **Fugitive (Irad)** and-Fugitive (Irad) bore",
+        "englishNatural": "And to Dedicated (Enoch) ↳ **Fugitive (Irad)** and Fugitive (Irad) bore"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 18
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְעִירָד",
+        "transliteration": "veIrad",
+        "englishLiteral": "and-Fugitive (Irad)",
+        "englishNatural": "and Fugitive (Irad)",
+        "root": "Irad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ עִירָד **וְעִירָד** יָלַד אֶת־",
+        "transliteration": "et- Irad **veIrad** yalad et-",
+        "englishLiteral": "↳ Fugitive (Irad) **and-Fugitive (Irad)** bore ↳",
+        "englishNatural": "↳ Fugitive (Irad) **and Fugitive (Irad)** bore ↳"
+      }
+    }
+  ]
+}

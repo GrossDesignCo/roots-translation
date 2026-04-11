@@ -1,0 +1,31 @@
+{
+  "key": "tō",
+  "language": "greek",
+  "root": "ho",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "τῷ",
+        "transliteration": "tō",
+        "englishLiteral": "to-the",
+        "englishNatural": "to the",
+        "root": "ho",
+        "morphology": {
+          "type": "article"
+        }
+      },
+      "context": {
+        "hebrew": "ἠρίστησαν λέγει **τῷ** Σίμωνι Πέτρῳ",
+        "transliteration": "ēristēsan legei **tō** Simōni Petrō",
+        "englishLiteral": "they-meal_shared he-says **to-the** Hearer (Simon) Stone (Peter)",
+        "englishNatural": "they had meal-shared says **to the** Hearer (Simon) Stone (Peter)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "hen-",
+  "language": "hebrew",
+  "root": "hen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הֵן־",
+        "transliteration": "hen-",
+        "englishLiteral": "behold-",
+        "englishNatural": "Behold",
+        "root": "hen",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר פַּרְעֹה **הֵן־** רַבִּים עַתָּה",
+        "transliteration": "vaYomer Paroh **hen-** rabbim atah",
+        "englishLiteral": "And-said Pharaoh **behold-** many now",
+        "englishNatural": "said And Pharaoh **Behold** many now"
+      }
+    }
+  ]
+}

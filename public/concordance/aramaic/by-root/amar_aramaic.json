@@ -1,0 +1,32 @@
+{
+  "root": "amar_aramaic",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 46
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "אֲמַר",
+        "transliteration": "amar",
+        "englishLiteral": "he-said",
+        "englishNatural": "he had said",
+        "root": "amar_aramaic",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִנְחָה וְנִיחוֹחִין **אֲמַר** לְנַסָּכָה לֵהּ",
+        "transliteration": "uMinchah veNichochin **amar** leNasakah leh",
+        "englishLiteral": "and-offering and-soothing_aromas **he-said** to-pour_out to-him",
+        "englishNatural": "and an offering and soothing-aromas **he had said** to pour-out to him"
+      }
+    }
+  ]
+}

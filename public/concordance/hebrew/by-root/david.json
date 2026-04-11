@@ -1,0 +1,126 @@
+{
+  "root": "david",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 0
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לְדָוִֽד",
+        "transliteration": "leDavid",
+        "englishLiteral": "to-David",
+        "englishNatural": "to David",
+        "root": "david",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַגִּתִּ֑ית מִזְמ֖וֹר **לְדָוִֽד**",
+        "transliteration": "haGittit mizmor **leDavid**",
+        "englishLiteral": "the-Gittith melody **to-David**",
+        "englishNatural": "the Gittith A melody **to David**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 0
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לְדָוִ֑ד",
+        "transliteration": "leDavid",
+        "englishLiteral": "to-David",
+        "englishNatural": "to David",
+        "root": "david",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִזְמ֥וֹר **לְדָוִ֑ד**",
+        "transliteration": "mizmor **leDavid**",
+        "englishLiteral": "melody **to-David**",
+        "englishNatural": "A melody **to David**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 0
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לְדָוִד",
+        "transliteration": "leDavid",
+        "englishLiteral": "to-David",
+        "englishNatural": "To David",
+        "root": "david",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁיר הַמַּעֲלוֹת **לְדָוִד**",
+        "transliteration": "shir haMaalot **leDavid**",
+        "englishLiteral": "song the-overs **to-David**",
+        "englishNatural": "A Song of The Overs **To David**"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "דָּוִד",
+        "transliteration": "david",
+        "englishLiteral": "Beloved (David)",
+        "englishNatural": "Beloved (David)",
+        "root": "david",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁלֹמֹה בֶן־ **דָּוִד** מֶלֶךְ יִשְׂרָאֵל",
+        "transliteration": "shlomo ben- **david** melekh yisrael",
+        "englishLiteral": "His_Peace (Solomon) son-of- **Beloved (David)** king of Struggles_with_God (Israel)",
+        "englishNatural": "His-Peace (Solomon) son of **Beloved (David)** king of Struggles-with-God (Israel)"
+      }
+    },
+    {
+      "location": {
+        "book": "Ecclesiastes",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "דָּוִ֔ד",
+        "transliteration": "David",
+        "englishLiteral": "Beloved (David)",
+        "englishNatural": "Beloved (David)",
+        "root": "david",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קֹהֶ֣לֶת בֶּן־ **דָּוִ֔ד** מֶ֖לֶךְ בִּירוּשָׁלִָֽם",
+        "transliteration": "qohelet ben- **David** melekh biYrushalayim",
+        "englishLiteral": "Assembler son-of **Beloved (David)** king in-Foundation_of_Peace (Jerusalem)",
+        "englishNatural": "Assembler the son of **Beloved (David)** king in Foundation-of-Peace (Jerusalem)"
+      }
+    }
+  ]
+}

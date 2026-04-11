@@ -1,0 +1,30 @@
+{
+  "root": "gittit",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 0
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַגִּתִּ֑ית",
+        "transliteration": "haGittit",
+        "englishLiteral": "the-Gittith",
+        "englishNatural": "the Gittith",
+        "root": "gittit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַמְנַצֵּ֥חַ עַל־ **הַגִּתִּ֑ית** מִזְמ֖וֹר לְדָוִֽד",
+        "transliteration": "laMnatseach al- **haGittit** mizmor leDavid",
+        "englishLiteral": "to-the-one-who-endures over- **the-Gittith** melody to-David",
+        "englishNatural": "To the one-who-endures over **the Gittith** A melody to David"
+      }
+    }
+  ]
+}

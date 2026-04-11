@@ -1,0 +1,31 @@
+{
+  "key": "viqara",
+  "language": "aramaic",
+  "root": "yeqar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 37
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וִיקָרָא",
+        "transliteration": "viQara",
+        "englishLiteral": "and-glory-the",
+        "englishNatural": "and the glory",
+        "root": "yeqar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חִסְנָא וְתָקְפָּא **וִיקָרָא** יְהַב לָךְ",
+        "transliteration": "chisna veTaqpa **viQara** yehav lakh",
+        "englishLiteral": "power-the and-strength-the **and-glory-the** he-has-given to-you",
+        "englishNatural": "the power and the strength **and the glory** has given to you"
+      }
+    }
+  ]
+}

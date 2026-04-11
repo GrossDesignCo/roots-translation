@@ -1,0 +1,55 @@
+{
+  "key": "ufeneihem",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וּפְנֵיהֶם",
+        "transliteration": "uFeneihem",
+        "englishLiteral": "and-faces-their",
+        "englishNatural": "and their faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְבַּעַת רִבְעֵיהֶם **וּפְנֵיהֶם** וְכַנְפֵיהֶם לְאַרְבַּעְתָּם",
+        "transliteration": "arbaat riveihem **uFeneihem** veKhanfeihem leArbatam",
+        "englishLiteral": "four-of sides-their **and-faces-their** and-wings-their to-four-them",
+        "englishNatural": "four of their sides **and their faces** and their wings to four of them"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּפְנֵיהֶם",
+        "transliteration": "uFeneihem",
+        "englishLiteral": "And-faces-their",
+        "englishNatural": "And their faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּפְנֵיהֶם** וְכַנְפֵיהֶם פְּרֻדוֹת",
+        "transliteration": "**uFeneihem** veKhanfeihem perudot",
+        "englishLiteral": "**And-faces-their** and-wings-their separated",
+        "englishNatural": "**And their faces** and their wings separated"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kachatzot",
+  "language": "hebrew",
+  "root": "chatzot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "כַּחֲצֹ֣ת",
+        "transliteration": "kaChatzot",
+        "englishLiteral": "as-halving",
+        "englishNatural": "as the halving of",
+        "root": "chatzot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָמַ֣ר יְהוָ֑ה **כַּחֲצֹ֣ת** הַלַּ֔יְלָה אֲנִ֥י",
+        "transliteration": "amar YHWH **kaChatzot** haLaylah ani",
+        "englishLiteral": "said He_Who_Is (YHWH) **as-halving** the-night I",
+        "englishNatural": "has said He-Who-Is (YHWH) **as the halving of** the night I"
+      }
+    }
+  ]
+}

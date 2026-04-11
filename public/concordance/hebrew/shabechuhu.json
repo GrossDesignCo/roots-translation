@@ -1,0 +1,33 @@
+{
+  "key": "shabechuhu",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שַׁבְּחוּהוּ",
+        "transliteration": "shabechuhu",
+        "englishLiteral": "send-to-him",
+        "englishNatural": "send to him",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל גּוֹיִם **שַׁבְּחוּהוּ** כָּל הָאֻמִּים",
+        "transliteration": "kol goyim **shabechuhu** kol haUmim",
+        "englishLiteral": "all nations **send-to-him** all the-peoples",
+        "englishNatural": "all nations **send to him** all the peoples"
+      }
+    }
+  ]
+}

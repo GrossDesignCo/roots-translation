@@ -1,0 +1,55 @@
+{
+  "key": "hineh",
+  "language": "hebrew",
+  "root": "hinneh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הִנֵּה֩",
+        "transliteration": "hineh",
+        "englishLiteral": "Behold",
+        "englishNatural": "Behold",
+        "root": "hinneh",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים **הִנֵּה֩** נָתַ֨תִּי לָכֶ֜ם",
+        "transliteration": "vaYomer Elohim **hineh** natati lakhem",
+        "englishLiteral": "And-said Gods **Behold** I-give to-you",
+        "englishNatural": "said And God **Behold** I give to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הִנֵּה",
+        "transliteration": "hineh",
+        "englishLiteral": "behold",
+        "englishNatural": "Behold",
+        "root": "hineh",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הָאֱלֹהִים **הִנֵּה** אָנֹכִי בָא",
+        "transliteration": "el- haElohim **hineh** anokhi va",
+        "englishLiteral": "to- the-Gods **behold** I coming",
+        "englishNatural": "to the God **Behold** I coming"
+      }
+    }
+  ]
+}

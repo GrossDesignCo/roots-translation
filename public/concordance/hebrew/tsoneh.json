@@ -1,0 +1,31 @@
+{
+  "key": "tsoneh",
+  "language": "hebrew",
+  "root": "tzon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "צֹנֶ֣ה",
+        "transliteration": "tsoneh",
+        "englishLiteral": "flock",
+        "englishNatural": "Flock",
+        "root": "tzon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**צֹנֶ֣ה** וַאֲלָפִ֣ים כֻּלָּ֑ם",
+        "transliteration": "**tsoneh** vaAlafim kulam",
+        "englishLiteral": "**flock** and-oxen all-of-them",
+        "englishNatural": "**Flock** and oxen all of them"
+      }
+    }
+  ]
+}

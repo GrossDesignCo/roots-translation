@@ -1,0 +1,31 @@
+{
+  "key": "leqol",
+  "language": "hebrew",
+  "root": "qol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לְקוֹל",
+        "transliteration": "leQol",
+        "englishLiteral": "to-voice",
+        "englishNatural": "to the voice",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ שָׁמַעְתָּ **לְקוֹל** אִשְׁתֶּךָ וַתֹּאכַל",
+        "transliteration": "ki- shmamta **leQol** ishtekha vaToAkhal",
+        "englishLiteral": "That you-listened **to-voice** woman-your and-you-ate",
+        "englishNatural": "That you listened **to the voice** of your woman and you ate"
+      }
+    }
+  ]
+}

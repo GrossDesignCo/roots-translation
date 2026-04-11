@@ -1,0 +1,30 @@
+{
+  "root": "gal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וְגַלֶּיךָ",
+        "transliteration": "veGalekha",
+        "englishLiteral": "and-waves-your",
+        "englishNatural": "and your waves",
+        "root": "gal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ מִשְׁבָּרֶיךָ **וְגַלֶּיךָ** עָלַי עָבָרוּ",
+        "transliteration": "kol- mishbarekha **veGalekha** alay avaru",
+        "englishLiteral": "all- breakers-your **and-waves-your** over-me passed",
+        "englishNatural": "all your breakers **and your waves** over me have passed"
+      }
+    }
+  ]
+}

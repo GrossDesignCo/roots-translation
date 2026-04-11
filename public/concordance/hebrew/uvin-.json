@@ -1,0 +1,31 @@
+{
+  "key": "uvin-",
+  "language": "hebrew",
+  "root": "ben",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וּבִן־",
+        "transliteration": "uvin-",
+        "englishLiteral": "and-son-of-",
+        "englishNatural": "and son of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַיְלָה הָיָה **וּבִן־** לַיְלָה אָבָד",
+        "transliteration": "laylah hayah **uvin-** laylah avad",
+        "englishLiteral": "night was **and-son-of-** night perished",
+        "englishNatural": "a night it was **and son of** a night it perished"
+      }
+    }
+  ]
+}

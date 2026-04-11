@@ -1,0 +1,55 @@
+{
+  "key": "melekh-",
+  "language": "hebrew",
+  "root": "melekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 17
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מֶלֶךְ־",
+        "transliteration": "melekh-",
+        "englishLiteral": "king-of-",
+        "englishNatural": "And the king of",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּצֵא **מֶלֶךְ־** סְדֹם לִקְרָאתוֹ",
+        "transliteration": "vayYetse **melekh-** Sedom liqrato",
+        "englishLiteral": "And-he-went-out **king-of-** Devastation (Sodom) to-meet-him",
+        "englishNatural": "went out **And the king of** Devastation (Sodom) to meet him"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מֶלֶךְ־",
+        "transliteration": "melekh-",
+        "englishLiteral": "king-of-",
+        "englishNatural": "king",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ יְהוֹיָקִים **מֶלֶךְ־** יְהוּדָה וּמִקְצָת",
+        "transliteration": "et- Yehoyakim **melekh-** Yehudah uMiktsat",
+        "englishLiteral": "↳ He_Will_Establish (Jehoiakim) **king-of-** Praise (Judah) and-from-part",
+        "englishNatural": "↳ He-Will-Establish (Jehoiakim) **king** of Praise (Judah) and part of"
+      }
+    }
+  ]
+}

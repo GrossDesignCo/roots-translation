@@ -1,0 +1,31 @@
+{
+  "key": "zikri",
+  "language": "hebrew",
+  "root": "zakhar_remember",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 25,
+      "word": {
+        "originalScript": "זִכְרִי",
+        "transliteration": "zikri",
+        "englishLiteral": "my-rememberance",
+        "englishNatural": "my rememberance",
+        "root": "zakhar_remember",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְעֹלָם וְזֶה **זִכְרִי** לְדֹר דֹּר",
+        "transliteration": "leOlam veZeh **zikri** leDor dor",
+        "englishLiteral": "to-the_age and-this **my-rememberance** to-generation generation",
+        "englishNatural": "to the-age and this is **my rememberance** to generation of generation"
+      }
+    }
+  ]
+}

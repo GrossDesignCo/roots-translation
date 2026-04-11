@@ -1,0 +1,30 @@
+{
+  "root": "kaasher",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "כַּאֲשֶׁר",
+        "transliteration": "kaAsher",
+        "englishLiteral": "as-which",
+        "englishNatural": "as which",
+        "root": "kaasher",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁמַע אֲלֵהֶם **כַּאֲשֶׁר** דִּבֶּר יְהוָה",
+        "transliteration": "shama alehem **kaAsher** diber YHWH",
+        "englishLiteral": "heard to-them **as-which** spoke He_Who_Is (YHWH)",
+        "englishNatural": "and he heard to them **as which** had spoken He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

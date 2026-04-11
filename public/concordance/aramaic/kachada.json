@@ -1,0 +1,31 @@
+{
+  "key": "kachada",
+  "language": "aramaic",
+  "root": "chad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "כַחֲדָה",
+        "transliteration": "kaChada",
+        "englishLiteral": "as-one",
+        "englishNatural": "as one",
+        "root": "chad",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּאדַיִן דָּקוּ **כַחֲדָה** פַּרְזְלָא חַסְפָּא",
+        "transliteration": "beEdayin daqu **kaChada** parzela chaspa",
+        "englishLiteral": "in-then they-were-crushed **as-one** iron-the clay-the",
+        "englishNatural": "Then they were crushed **as one** the iron the clay"
+      }
+    }
+  ]
+}

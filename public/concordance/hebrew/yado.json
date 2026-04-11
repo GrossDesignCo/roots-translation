@@ -1,0 +1,79 @@
+{
+  "key": "yado",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "יָדוֹ",
+        "transliteration": "yado",
+        "englishLiteral": "hand-his",
+        "englishNatural": "his hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פֶּן־ יִשְׁלַח **יָדוֹ** וְלָקַח גַּם",
+        "transliteration": "pen- yishLach **yado** veLaqach gam",
+        "englishLiteral": "or-else he-will-send **hand-his** and-take also",
+        "englishNatural": "or else he will send-out **his hand** and take also"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "יָדוֹ",
+        "transliteration": "yado",
+        "englishLiteral": "hand-his",
+        "englishNatural": "his hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בִּזְנָבוֹ וַיִּשְׁלַח **יָדוֹ** וַיַּחֲזֶק בּוֹ",
+        "transliteration": "biZnavo vaYishlach **yado** vaYachazek bo",
+        "englishLiteral": "in-tail-its And-sent **hand-his** and-handled in-it",
+        "englishNatural": "its tail And he sent-out **his hand** and handled it"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 22
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "יָדוֹ",
+        "transliteration": "yado",
+        "englishLiteral": "hand-his",
+        "englishNatural": "his hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה אֶת־ **יָדוֹ** עַל־ הַשָּׁמָיִם",
+        "transliteration": "Moshe et- **yado** al- haShamayim",
+        "englishLiteral": "Drawn_Out (Moses) ↳ **hand-his** over- the-skies",
+        "englishNatural": "And Drawn-Out (Moses) ↳ **his hand** over the skies"
+      }
+    }
+  ]
+}

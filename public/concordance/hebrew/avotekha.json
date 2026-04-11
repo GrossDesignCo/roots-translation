@@ -1,0 +1,31 @@
+{
+  "key": "avotekha",
+  "language": "hebrew",
+  "root": "av",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אֲבֹתֶיךָ",
+        "transliteration": "avotekha",
+        "englishLiteral": "fathers-of-you",
+        "englishNatural": "your fathers",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תָּבוֹא אֶל־ **אֲבֹתֶיךָ** בְּשָׁלוֹם תִּקָּבֵר",
+        "transliteration": "tavo el- **avotekha** beShalom tiqaver",
+        "englishLiteral": "you-will-come to- **fathers-of-you** in-peace you-will-be-buried",
+        "englishNatural": "will go to **your fathers** in peace you will be buried"
+      }
+    }
+  ]
+}

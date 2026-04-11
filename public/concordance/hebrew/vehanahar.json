@@ -1,0 +1,31 @@
+{
+  "key": "vehanahar",
+  "language": "hebrew",
+  "root": "nahar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וְהַנָּהָר",
+        "transliteration": "veHaNahar",
+        "englishLiteral": "And-the-river",
+        "englishNatural": "river",
+        "root": "nahar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קִדְמַת אַשּׁוּר **וְהַנָּהָר** הָרְבִיעִי הוּא",
+        "transliteration": "qidmat Ashur **veHaNahar** haRevii hu",
+        "englishLiteral": "east-of Steppe (Assyria) **And-the-river** the-fourth he",
+        "englishNatural": "east of Steppe (Assyria) **river** And the fourth it is"
+      }
+    }
+  ]
+}

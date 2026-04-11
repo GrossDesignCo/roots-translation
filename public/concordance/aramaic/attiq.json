@@ -1,0 +1,31 @@
+{
+  "key": "attiq",
+  "language": "aramaic",
+  "root": "attiq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "עַתִּ֤יק",
+        "transliteration": "Attiq",
+        "englishLiteral": "Ancient-of",
+        "englishNatural": "the Ancient of",
+        "root": "attiq",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הֲוָ֔ה וְעַד־ **עַתִּ֤יק** יֽוֹמַיָּא֙ מְטָ֔ה",
+        "transliteration": "havah veAd- **Attiq** yomaya meta",
+        "englishLiteral": "was and-unto- **Ancient-of** Days-the had-reached",
+        "englishNatural": "he was and unto **the Ancient of** the Days he had reached"
+      }
+    }
+  ]
+}

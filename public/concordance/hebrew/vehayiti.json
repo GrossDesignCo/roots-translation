@@ -1,0 +1,33 @@
+{
+  "key": "vehayiti",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וְהָיִיתִי",
+        "transliteration": "veHayiti",
+        "englishLiteral": "and-I-will-be",
+        "englishNatural": "and I will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִפָּנֶיךָ אֶסָּתֵר **וְהָיִיתִי** נָע וָנָד",
+        "transliteration": "umiPanekha esater **veHayiti** na vanad",
+        "englishLiteral": "and-from-your-faces I-will-hide **and-I-will-be** wandering and-fugitive",
+        "englishNatural": "and from your faces I will be hidden **and I will be** wandering and fugitive"
+      }
+    }
+  ]
+}

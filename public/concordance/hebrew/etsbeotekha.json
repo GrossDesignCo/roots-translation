@@ -1,0 +1,31 @@
+{
+  "key": "etsbeotekha",
+  "language": "hebrew",
+  "root": "etsba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֶצְבְּעֹתֶ֑יךָ",
+        "transliteration": "etsbeotekha",
+        "englishLiteral": "your-fingers",
+        "englishNatural": "your fingers",
+        "root": "etsba",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁמֶ֗יךָ מַעֲשֵׂ֣ה **אֶצְבְּעֹתֶ֑יךָ** יָרֵ֥חַ וְכוֹכָבִ֗ים",
+        "transliteration": "shamekha maaseh **etsbeotekha** yareakh veKhokhavim",
+        "englishLiteral": "your-skies work-of **your-fingers** moon and-stars",
+        "englishNatural": "your skies the work of **your fingers** moon and stars"
+      }
+    }
+  ]
+}

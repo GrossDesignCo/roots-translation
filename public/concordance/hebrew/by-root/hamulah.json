@@ -1,0 +1,30 @@
+{
+  "root": "hamulah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 24
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הֲמֻלָּה",
+        "transliteration": "hamulah",
+        "englishLiteral": "tumult",
+        "englishNatural": "tumult",
+        "root": "hamulah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּלֶכְתָּם קוֹל **הֲמֻלָּה** כְּקוֹל מַחֲנֶה",
+        "transliteration": "beLekhtan qol **hamulah** keQol machaneh",
+        "englishLiteral": "in-going-their voice-of **tumult** like-voice-of camp",
+        "englishNatural": "in their going the voice of **tumult** like the voice of a camp"
+      }
+    }
+  ]
+}

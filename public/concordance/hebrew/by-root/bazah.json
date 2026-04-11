@@ -1,0 +1,32 @@
+{
+  "root": "bazah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בָּזוּ",
+        "transliteration": "bazu",
+        "englishLiteral": "despise",
+        "englishNatural": "despise",
+        "root": "bazah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּמוּסָר אֱוִילִים **בָּזוּ**",
+        "transliteration": "uMusar ewilim **bazu**",
+        "englishLiteral": "and-discipline fools **despise**",
+        "englishNatural": "and discipline fools **despise**"
+      }
+    }
+  ]
+}

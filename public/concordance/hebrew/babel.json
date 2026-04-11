@@ -1,0 +1,55 @@
+{
+  "key": "babel",
+  "language": "hebrew",
+  "root": "babel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בָּבֶל",
+        "transliteration": "Babel",
+        "englishLiteral": "Confusion (Babylon)",
+        "englishNatural": "Confusion (Babylon)",
+        "root": "babel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֵאשִׁית מַמְלַכְתּוֹ **בָּבֶל** וְאֶרֶךְ וְאַכַּד",
+        "transliteration": "reshit mamlakhto **Babel** veErekh veAkkad",
+        "englishLiteral": "heading-of his-kingdom **Confusion (Babylon)** and-Length (Erech) and-Fortress (Akkadia)",
+        "englishNatural": "and the heading of his kingdom **Confusion (Babylon)** and Length (Erech) and Fortress (Akkadia)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בָּבֶל",
+        "transliteration": "Babel",
+        "englishLiteral": "Confusion (Babylon)",
+        "englishNatural": "Confusion (Babylon)",
+        "root": "babel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קָרָא שְׁמָהּ **בָּבֶל** כִּי־ שָׁם",
+        "transliteration": "qara shemah **Babel** ki- sham",
+        "englishLiteral": "he-called name-of-her **Confusion (Babylon)** that- there",
+        "englishNatural": "he called the name of it **Confusion (Babylon)** that there"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "root": "saq",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "שַׂקִּים",
+        "transliteration": "saqim",
+        "englishLiteral": "sackcloth",
+        "englishNatural": "sackcloth",
+        "root": "saq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צוֹם וַיִּלְבְּשׁוּ **שַׂקִּים** מִגְּדוֹלָם וְעַד־",
+        "transliteration": "tzom vaYilbeshu **saqim** miggedolam veAd-",
+        "englishLiteral": "fast and-clothed **sackcloth** from-great-their and-unto-",
+        "englishNatural": "a fast and clothed **sackcloth** from their great and unto"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "שַׂק",
+        "transliteration": "saq",
+        "englishLiteral": "sackcloth",
+        "englishNatural": "sackcloth",
+        "root": "saq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעָלָיו וַיְכַס **שַׂק** וַיֵּשֶׁב עַל־",
+        "transliteration": "meAlav vaYekhas **saq** vaYeshev al-",
+        "englishLiteral": "from-over-him and-covered **sackcloth** and-sat over-",
+        "englishNatural": "from over him and covered **sackcloth** and sat over"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "שַׂק",
+        "transliteration": "saq",
+        "englishLiteral": "sackcloth",
+        "englishNatural": "sackcloth",
+        "root": "saq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְיִתְכַּסּוּ **שַׂק** הָאָדָם וְהַבְּהֵמָה",
+        "transliteration": "veYitkassu **saq** haAdam veHaBehemah",
+        "englishLiteral": "And-they-will-be-covered **sackcloth** the-Earthling (Adam) and-the-beast",
+        "englishNatural": "And they will be covered **sackcloth** the Earthling (Adam) and the beast"
+      }
+    }
+  ]
+}

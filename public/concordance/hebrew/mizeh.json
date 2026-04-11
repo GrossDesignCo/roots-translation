@@ -1,0 +1,79 @@
+{
+  "key": "mizeh",
+  "language": "hebrew",
+  "root": "zeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "מִזֶּ֑ה",
+        "transliteration": "mizeh",
+        "englishLiteral": "from-this",
+        "englishNatural": "from this",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יְשַׁלַּ֥ח אֶתְכֶ֖ם **מִזֶּ֑ה** כְּשַׁלְּח֣וֹ כָּלָ֔ה",
+        "transliteration": "yeShalach etkhem **mizeh** keShalcho kalah",
+        "englishLiteral": "he-will-send_out ↳-you **from-this** as-sending_out-him finishing",
+        "englishNatural": "he will send-out you **from this** as his sending-out finishing"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "מִזֶּֽה׃",
+        "transliteration": "mizeh",
+        "englishLiteral": "from-this",
+        "englishNatural": "from this",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יְגָרֵ֥שׁ אֶתְכֶ֖ם **מִזֶּֽה׃**",
+        "transliteration": "yegaresh etkhem **mizeh**",
+        "englishLiteral": "he-will-banish ↳-you **from-this**",
+        "englishNatural": "he will banish you **from this**"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "מִזֶּה",
+        "transliteration": "mizeh",
+        "englishLiteral": "from-this",
+        "englishNatural": "from this",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְצֶךָ וְאֵי־ **מִזֶּה** עַם אָתָּה",
+        "transliteration": "artzekha veEi- **mizeh** am atah",
+        "englishLiteral": "land-your and-where- **from-this** people you",
+        "englishNatural": "is your land and where **from this** people are you"
+      }
+    }
+  ]
+}

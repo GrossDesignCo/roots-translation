@@ -1,0 +1,31 @@
+{
+  "key": "deuteron",
+  "language": "greek",
+  "root": "deuteros",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "δεύτερον",
+        "transliteration": "deuteron",
+        "englishLiteral": "second",
+        "englishNatural": "the second time",
+        "root": "deuteros",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "αὐτῷ πάλιν **δεύτερον** Σίμων Ἰωάννου",
+        "transliteration": "autō palin **deuteron** Simōn Iōannou",
+        "englishLiteral": "to-him again **second** Hearer (Simon) He—is-Gracious (John)",
+        "englishNatural": "to him again **the second time** Hearer (Simon) He—is-Gracious (John)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "chomer",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "לַחֹמֶר",
+        "transliteration": "laChomer",
+        "englishLiteral": "for-mortar",
+        "englishNatural": "for mortar",
+        "root": "chomer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיָה לָהֶם **לַחֹמֶר**",
+        "transliteration": "hayah lahem **laChomer**",
+        "englishLiteral": "was to-them **for-mortar**",
+        "englishNatural": "was to them **for mortar**"
+      }
+    }
+  ]
+}

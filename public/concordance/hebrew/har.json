@@ -1,0 +1,31 @@
+{
+  "key": "har",
+  "language": "hebrew",
+  "root": "har",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "הַר",
+        "transliteration": "har",
+        "englishLiteral": "mountain-of",
+        "englishNatural": "the mountain of",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּבֹא אֶל־ **הַר** הָאֱלֹהִים חֹרֵבָה",
+        "transliteration": "vaYavo el- **har** haElohim Chorevah",
+        "englishLiteral": "and-came to- **mountain-of** the-Gods Desolate (Horeb)",
+        "englishNatural": "and came to **the mountain of** the God Desolate (Horeb)"
+      }
+    }
+  ]
+}

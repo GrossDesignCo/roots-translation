@@ -1,0 +1,31 @@
+{
+  "key": "meadam",
+  "language": "hebrew",
+  "root": "adam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "מֵאָדָם",
+        "transliteration": "meAdam",
+        "englishLiteral": "from-Earthling (Adam)",
+        "englishNatural": "from Earthling (Adam)",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פְּנֵי הָאֲדָמָה **מֵאָדָם** עַד־ בְּהֵמָה",
+        "transliteration": "peney haAdamah **meAdam** ad- behemah",
+        "englishLiteral": "faces-of the-earth **from-Earthling (Adam)** unto- beast",
+        "englishNatural": "the face of the earth **from Earthling (Adam)** unto beast"
+      }
+    }
+  ]
+}

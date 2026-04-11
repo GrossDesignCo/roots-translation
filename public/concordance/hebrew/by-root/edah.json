@@ -1,0 +1,30 @@
+{
+  "root": "edah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בַּעֲדַת",
+        "transliteration": "baAdat",
+        "englishLiteral": "in-assembly-of",
+        "englishNatural": "in the assembly of",
+        "root": "edah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּמִּשְׁפָּט וְחַטָּאִים **בַּעֲדַת** צַדִּיקִים",
+        "transliteration": "baMishpat veChataim **baAdat** tzadiqim",
+        "englishLiteral": "in-justice and-sinners **in-assembly-of** righteous-ones",
+        "englishNatural": "in justice and sinners **in the assembly of** the righteous"
+      }
+    }
+  ]
+}

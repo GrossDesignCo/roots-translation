@@ -1,0 +1,33 @@
+{
+  "key": "shaah",
+  "language": "hebrew",
+  "root": "shaah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שָׁעָה",
+        "transliteration": "shaah",
+        "englishLiteral": "esteeming",
+        "englishNatural": "esteeming",
+        "root": "shaah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִנְחָתוֹ לֹא **שָׁעָה** וַיִּחַר לְקַיִן",
+        "transliteration": "minchato lo **shaah** vayYichar leQayin",
+        "englishLiteral": "his-offering no **esteeming** And-it-was_fuming_anger to-Acquired (Cain)",
+        "englishNatural": "his offering no **esteeming** And it was fuming-anger to Acquired (Cain)"
+      }
+    }
+  ]
+}

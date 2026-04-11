@@ -1,0 +1,188 @@
+{
+  "root": "savav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַסֹּבֵב",
+        "transliteration": "haSovev",
+        "englishLiteral": "the-going_around",
+        "englishNatural": "goes-around",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פִּישׁוֹן הוּא **הַסֹּבֵב** אֵת כָּל־",
+        "transliteration": "Pishon hu **haSovev** et kol-",
+        "englishLiteral": "Spreading (Pishon) he **the-going_around** ↳ all-",
+        "englishNatural": "Spreading (Pishon) it **goes-around** ↳ all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הַסּוֹבֵב",
+        "transliteration": "haSovev",
+        "englishLiteral": "the-going_around",
+        "englishNatural": "goes-around",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "גִּיחוֹן הוּא **הַסּוֹבֵב** אֵת כָּל־",
+        "transliteration": "Gichon hu **haSovev** et kol-",
+        "englishLiteral": "Gusher (Gichon) he **the-going_around** ↳ all-",
+        "englishNatural": "Gusher (Gichon) it **goes-around** ↳ all"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יִסַּבּוּ",
+        "transliteration": "yisabbu",
+        "englishLiteral": "they-went_around",
+        "englishNatural": "they went-around",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "כַּנְפֵיהֶם לֹא־ **יִסַּבּוּ** בְלֶכְתָּן אִישׁ",
+        "transliteration": "kanfeihem lo- **yisabbu** beLekhtan ish",
+        "englishLiteral": "wings-their not- **they-went_around** in-going-their man",
+        "englishNatural": "their wings not **they went-around** in their going man"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "יִסַּבּוּ",
+        "transliteration": "yisabbu",
+        "englishLiteral": "they-went-around",
+        "englishNatural": "they went-around",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "יֵלֵכוּ לֹא **יִסַּבּוּ** בְּלֶכְתָּן",
+        "transliteration": "yelekhu lo **yisabbu** beLekhtan",
+        "englishLiteral": "they-went not **they-went-around** in-going-their",
+        "englishNatural": "they went not **they went-around** in their going"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יִסַּבּוּ",
+        "transliteration": "yisabbu",
+        "englishLiteral": "they-went-around",
+        "englishNatural": "they went-around",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּלֶכְתָּן לֹא **יִסַּבּוּ** בְּלֶכְתָּן",
+        "transliteration": "beLekhtan lo **yisabbu** beLekhtan",
+        "englishLiteral": "in-going-their not **they-went-around** in-going-their",
+        "englishNatural": "in their going not **they went-around** in their going"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יְסֹבְבֵנִי",
+        "transliteration": "yesoveveni",
+        "englishLiteral": "goes_around-me",
+        "englishNatural": "goes-around me",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יַמִּים וְנָהָר **יְסֹבְבֵנִי** כָּל־ מִשְׁבָּרֶיךָ",
+        "transliteration": "yamim veNahar **yesoveveni** kol- mishbarekha",
+        "englishLiteral": "seas and-river **goes_around-me** all- breakers-your",
+        "englishNatural": "the seas and the river **goes-around me** all your breakers"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יְסֹבְבֵנִי",
+        "transliteration": "yesoveveni",
+        "englishLiteral": "goes_around-me",
+        "englishNatural": "goes-around me",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נֶפֶשׁ תְּהוֹם **יְסֹבְבֵנִי** סוּף חָבוּשׁ",
+        "transliteration": "nephesh tehom **yesoveveni** suf chavush",
+        "englishLiteral": "throat abyss **goes_around-me** reed binds",
+        "englishNatural": "the throat the abyss **goes-around me** reed binds"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "key": "yinasu",
+  "language": "hebrew",
+  "root": "nasa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 19
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "יִנָּשְׂאוּ",
+        "transliteration": "yinasu",
+        "englishLiteral": "they-were-lifted",
+        "englishNatural": "were lifted",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעַל הָאָרֶץ **יִנָּשְׂאוּ** הָאוֹפַנִּים",
+        "transliteration": "meAl haAretz **yinasu** haOphanim",
+        "englishLiteral": "from-over the-land **they-were-lifted** the-wheels",
+        "englishNatural": "from over the land **were lifted** the wheels"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "יִנָּשְׂאוּ",
+        "transliteration": "yinasu",
+        "englishLiteral": "they-were-lifted",
+        "englishNatural": "were lifted",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "לָלֶכֶת וְהָאוֹפַנִּים **יִנָּשְׂאוּ** לְעֻמָּתָם כִּי",
+        "transliteration": "laLekhet veHaOphanim **yinasu** leUmatam ki",
+        "englishLiteral": "to-go and-the-wheels **they-were-lifted** to-alongside-them that",
+        "englishNatural": "to go and the wheels **were lifted** alongside them that"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "יִנָּשְׂאוּ",
+        "transliteration": "yinasu",
+        "englishLiteral": "they-were-lifted",
+        "englishNatural": "were lifted",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעַל הָאָרֶץ **יִנָּשְׂאוּ** הָאוֹפַנִּים לְעֻמָּתָם",
+        "transliteration": "meAl haAretz **yinasu** haOphanim leUmatam",
+        "englishLiteral": "from-over the-land **they-were-lifted** the-wheels to-alongside-them",
+        "englishNatural": "from over the land **were lifted** the wheels to alongside them"
+      }
+    }
+  ]
+}

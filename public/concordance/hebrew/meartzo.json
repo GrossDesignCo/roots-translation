@@ -1,0 +1,79 @@
+{
+  "key": "meartzo",
+  "language": "hebrew",
+  "root": "eretz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "מֵאַרְצוֹ",
+        "transliteration": "meArtzo",
+        "englishLiteral": "from-land-his",
+        "englishNatural": "from his land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֲזָקָה יְגָרְשֵׁם **מֵאַרְצוֹ**",
+        "transliteration": "chazaqah yeGarshem **meArtzo**",
+        "englishLiteral": "intense he-will-drive_out-them **from-land-his**",
+        "englishNatural": "and in an intense he will drive-out them **from his land**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "מֵאַרְצוֹ",
+        "transliteration": "meArtzo",
+        "englishLiteral": "from-land-his",
+        "englishNatural": "from his land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי יִשְׂרָאֵל **מֵאַרְצוֹ**",
+        "transliteration": "benei Yisrael **meArtzo**",
+        "englishLiteral": "sons-of Struggles_with_God (Israel) **from-land-his**",
+        "englishNatural": "the sons of Struggles-with-God (Israel) **from his land**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "מֵאַרְצֽוֹ׃",
+        "transliteration": "meArtzo",
+        "englishLiteral": "from-land-his",
+        "englishNatural": "from his land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי־ יִשְׂרָאֵ֖ל **מֵאַרְצֽוֹ׃**",
+        "transliteration": "beney- Yisrael **meArtzo**",
+        "englishLiteral": "sons-of- Struggles_With_God (Israel) **from-land-his**",
+        "englishNatural": "the sons of Struggles-With-God (Israel) **from his land**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "tsvaot",
+  "language": "hebrew",
+  "root": "tsava",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "צְבָאוֹת",
+        "transliteration": "tsvaot",
+        "englishLiteral": "of-Hosts",
+        "englishNatural": "of Hosts",
+        "root": "tsava",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קָדוֹשׁ יְהוָה **צְבָאוֹת** מְלֹא כָּל",
+        "transliteration": "kadosh YHWH **tsvaot** melo kol",
+        "englishLiteral": "holy He_Who_Is (YHWH) **of-Hosts** fullness-of all",
+        "englishNatural": "holy He-Who-Is (YHWH) **of Hosts** fullness of all"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "צְבָאוֹת",
+        "transliteration": "tsvaot",
+        "englishLiteral": "of-Hosts",
+        "englishNatural": "of Hosts",
+        "root": "tsava",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמֶּלֶךְ יְהוָה **צְבָאוֹת** רָאוּ עֵינָי",
+        "transliteration": "haMelekh YHWH **tsvaot** rau einai",
+        "englishLiteral": "the-king He_Who_Is (YHWH) **of-Hosts** have-seen my-eyes",
+        "englishNatural": "the King He-Who-Is (YHWH) **of Hosts** have seen my eyes"
+      }
+    }
+  ]
+}

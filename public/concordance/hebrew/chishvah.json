@@ -1,0 +1,33 @@
+{
+  "key": "chishvah",
+  "language": "hebrew",
+  "root": "chashav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "חִשְּׁבָה",
+        "transliteration": "chishvah",
+        "englishLiteral": "planned",
+        "englishNatural": "planned",
+        "root": "chashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בַּיָּם וְהָאֳנִיָּה **חִשְּׁבָה** לְהִשָּׁבֵר",
+        "transliteration": "baYam veHaOniyah **chishvah** lehishabeir",
+        "englishLiteral": "in-sea and-the-ship **planned** to-be-broken",
+        "englishNatural": "in the sea and the ship **planned** to be broken"
+      }
+    }
+  ]
+}

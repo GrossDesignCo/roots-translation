@@ -1,0 +1,31 @@
+{
+  "key": "meofef",
+  "language": "hebrew",
+  "root": "uf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "מְעוֹפֵף",
+        "transliteration": "meOfef",
+        "englishLiteral": "flying",
+        "englishNatural": "flying",
+        "root": "uf",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "וּפִרְיוֹ שָׂרָף **מְעוֹפֵף**",
+        "transliteration": "uFiryo saraph **meOfef**",
+        "englishLiteral": "and-its-fruit incinerating_one **flying**",
+        "englishNatural": "and its fruit an incinerating-one **flying**"
+      }
+    }
+  ]
+}

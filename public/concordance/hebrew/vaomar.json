@@ -1,0 +1,33 @@
+{
+  "key": "vaomar",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וָאֹמַר",
+        "transliteration": "vaOmar",
+        "englishLiteral": "And-I-said",
+        "englishNatural": "And I said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וָאֹמַר** אוֹי־ לִי",
+        "transliteration": "**vaOmar** oy- li",
+        "englishLiteral": "**And-I-said** Woe- to-me",
+        "englishNatural": "**And I said** Woe to me"
+      }
+    }
+  ]
+}

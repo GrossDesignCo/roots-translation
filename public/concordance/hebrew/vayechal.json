@@ -1,0 +1,33 @@
+{
+  "key": "vayechal",
+  "language": "hebrew",
+  "root": "kalah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְכַל",
+        "transliteration": "vaYechal",
+        "englishLiteral": "And-finished",
+        "englishNatural": "finished",
+        "root": "kalah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְכַל** אֱלֹהִים בַּיּוֹם",
+        "transliteration": "**vaYechal** Elohim baYom",
+        "englishLiteral": "**And-finished** Gods in-day",
+        "englishNatural": "**finished** And God day"
+      }
+    }
+  ]
+}

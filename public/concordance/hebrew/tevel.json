@@ -1,0 +1,31 @@
+{
+  "key": "tevel",
+  "language": "hebrew",
+  "root": "tevel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 26
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "תֵּבֵל",
+        "transliteration": "tevel",
+        "englishLiteral": "world",
+        "englishNatural": "the world",
+        "root": "tevel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְרֹאשׁ עָפְרוֹת **תֵּבֵל**",
+        "transliteration": "veRosh afrot **tevel**",
+        "englishLiteral": "and-head-of dusts-of **world**",
+        "englishNatural": "and the head of dusts of **the world**"
+      }
+    }
+  ]
+}

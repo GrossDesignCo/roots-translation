@@ -1,0 +1,33 @@
+{
+  "key": "banu",
+  "language": "hebrew",
+  "root": "banah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בָּנוּ",
+        "transliteration": "banu",
+        "englishLiteral": "they-had-built",
+        "englishNatural": "had built",
+        "root": "banah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַמִּגְדָּל אֲשֶׁר **בָּנוּ** בְּנֵי הָאָדָם",
+        "transliteration": "haMigdal asher **banu** beney haAdam",
+        "englishLiteral": "the-tower which **they-had-built** sons-of the-Earthling (Adam)",
+        "englishNatural": "the tower which **had built** the sons of the Earthling (Adam)"
+      }
+    }
+  ]
+}

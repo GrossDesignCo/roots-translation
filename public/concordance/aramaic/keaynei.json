@@ -1,0 +1,31 @@
+{
+  "key": "keaynei",
+  "language": "aramaic",
+  "root": "ayin_eye",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "כְּעַיְנֵ֤י",
+        "transliteration": "keAynei",
+        "englishLiteral": "like-eyes-of",
+        "englishNatural": "like the eyes of",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲל֙וּ עַיְנִ֜ין **כְּעַיְנֵ֤י** אֲנָשָׁא֙ בְּקַרְנָא־",
+        "transliteration": "vaAlu ayinin **keAynei** anasha beQarna-",
+        "englishLiteral": "and-behold eyes **like-eyes-of** Mortal_Man (Enash)-the in-horn-",
+        "englishNatural": "and behold eyes **like the eyes of** the Mortal-Man (Enash) horn"
+      }
+    }
+  ]
+}

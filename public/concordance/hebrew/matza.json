@@ -1,0 +1,33 @@
+{
+  "key": "matza",
+  "language": "hebrew",
+  "root": "matza",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "מָצָא",
+        "transliteration": "matza",
+        "englishLiteral": "was-found",
+        "englishNatural": "was found",
+        "root": "matza",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְאָדָם לֹא **מָצָא** עֵזֶר כְּנֶגְדּוֹ",
+        "transliteration": "uLeAdam lo **matza** ezer keNegdo",
+        "englishLiteral": "and-to-Earthling (Adam) no **was-found** help as-his_opposite",
+        "englishNatural": "and to Earthling (Adam) no **was found** help as his opposite"
+      }
+    }
+  ]
+}

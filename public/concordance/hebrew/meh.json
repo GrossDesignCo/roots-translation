@@ -1,0 +1,31 @@
+{
+  "key": "meh",
+  "language": "hebrew",
+  "root": "mah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מֶה",
+        "transliteration": "meh",
+        "englishLiteral": "What",
+        "englishNatural": "What",
+        "root": "mah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **מֶה** עָשִׂיתָ קוֹל",
+        "transliteration": "vayYomer **meh** asita qol",
+        "englishLiteral": "And-he-said **What** you-did Voice-of",
+        "englishNatural": "And he said **What** have you done The voice of"
+      }
+    }
+  ]
+}

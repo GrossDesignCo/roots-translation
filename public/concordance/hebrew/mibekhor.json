@@ -1,0 +1,31 @@
+{
+  "key": "mibekhor",
+  "language": "hebrew",
+  "root": "bekhor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מִבְּכֹ֤ר",
+        "transliteration": "miBekhor",
+        "englishLiteral": "from-firstborn",
+        "englishNatural": "from the firstborn of",
+        "root": "bekhor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאֶ֣רֶץ מִצְרַ֔יִם **מִבְּכֹ֤ר** פַּרְעֹה֙ הַיֹּשֵׁ֣ב",
+        "transliteration": "beEretz Mitzrayim **miBekhor** Paroh haYoshev",
+        "englishLiteral": "in-land Double_Narrows (Egypt) **from-firstborn** Pharaoh the-sitting",
+        "englishNatural": "in the land of Double-Narrows (Egypt) **from the firstborn of** Pharaoh the one sitting"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ketselmo",
+  "language": "hebrew",
+  "root": "tselem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "כְּצַלְמוֹ",
+        "transliteration": "keTselmo",
+        "englishLiteral": "as-image-his",
+        "englishNatural": "as his image",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיּוֹלֶד בִּדְמוּתוֹ **כְּצַלְמוֹ** וַיִּקְרָא אֶת־",
+        "transliteration": "vaYoled biDemuto **keTselmo** vaYiqra et-",
+        "englishLiteral": "and-birthed in-likeness-his **as-image-his** and-called_out ↳",
+        "englishNatural": "and birthed in his likeness **as his image** and called-out ↳"
+      }
+    }
+  ]
+}

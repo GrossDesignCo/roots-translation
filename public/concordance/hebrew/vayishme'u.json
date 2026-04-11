@@ -1,0 +1,33 @@
+{
+  "key": "vayishme'u",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּשְׁמְעוּ",
+        "transliteration": "vaYishme'u",
+        "englishLiteral": "And-heard",
+        "englishNatural": "And they heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּשְׁמְעוּ** אֶת־ קוֹל",
+        "transliteration": "**vaYishme'u** et- qol",
+        "englishLiteral": "**And-heard** ↳ voice",
+        "englishNatural": "**And they heard** ↳ the voice"
+      }
+    }
+  ]
+}

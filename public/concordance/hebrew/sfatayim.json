@@ -1,0 +1,55 @@
+{
+  "key": "sfatayim",
+  "language": "hebrew",
+  "root": "safah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "שְׂפָתַיִם",
+        "transliteration": "sfatayim",
+        "englishLiteral": "lips",
+        "englishNatural": "lips",
+        "root": "safah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ טְמֵא־ **שְׂפָתַיִם** אָנֹכִי וּבְתוֹךְ",
+        "transliteration": "ish teme- **sfatayim** anokhi uVeTokh",
+        "englishLiteral": "man unclean- **lips** I and-in-midst-of",
+        "englishNatural": "a man of unclean **lips** I and in the midst of"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "שְׂפָתַיִם",
+        "transliteration": "sfatayim",
+        "englishLiteral": "lips",
+        "englishNatural": "lips",
+        "root": "safah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַם־ טְמֵא **שְׂפָתַיִם** אָנֹכִי יוֹשֵׁב",
+        "transliteration": "am- teme **sfatayim** anokhi yoshev",
+        "englishLiteral": "people- unclean **lips** I sit",
+        "englishNatural": "a people of unclean **lips** I sit"
+      }
+    }
+  ]
+}

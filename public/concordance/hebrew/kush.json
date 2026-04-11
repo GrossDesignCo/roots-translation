@@ -1,0 +1,31 @@
+{
+  "key": "kush",
+  "language": "hebrew",
+  "root": "kush",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "כּוּשׁ׃",
+        "transliteration": "Kush",
+        "englishLiteral": "Black (Kush)",
+        "englishNatural": "Black (Kush)",
+        "root": "kush",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ אֶרֶץ **כּוּשׁ׃**",
+        "transliteration": "kol- eretz **Kush**",
+        "englishLiteral": "all- land **Black (Kush)**",
+        "englishNatural": "all the land of **Black (Kush)**"
+      }
+    }
+  ]
+}

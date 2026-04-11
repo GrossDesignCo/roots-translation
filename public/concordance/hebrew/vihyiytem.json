@@ -1,0 +1,33 @@
+{
+  "key": "vihyiytem",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וִהְיִיתֶם",
+        "transliteration": "viHyiytem",
+        "englishLiteral": "and-you_all-will-be",
+        "englishNatural": "and you-all will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְנִפְקְחוּ עֵינֵיכֶם **וִהְיִיתֶם** כֵּאלֹהִים יֹדְעֵי",
+        "transliteration": "veNifqechu eyneychen **viHyiytem** keElohim yodey",
+        "englishLiteral": "and-will-be-opened your-eyes **and-you_all-will-be** as-Gods knowing",
+        "englishNatural": "will be opened and your eyes **and you-all will be** as God knowing"
+      }
+    }
+  ]
+}

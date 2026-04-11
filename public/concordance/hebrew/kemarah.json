@@ -1,0 +1,55 @@
+{
+  "key": "kemarah",
+  "language": "hebrew",
+  "root": "mareh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "כְּמַרְאֵה",
+        "transliteration": "keMarah",
+        "englishLiteral": "like-appearance-of",
+        "englishNatural": "like the appearance of",
+        "root": "mareh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵשׁ בֹּעֲרוֹת **כְּמַרְאֵה** הַלַּפִּדִם הִיא",
+        "transliteration": "esh boarot **keMarah** haLappidim hi",
+        "englishLiteral": "fire burning **like-appearance-of** the-torches she",
+        "englishNatural": "fire burning **like the appearance of** The Torches she"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "כְּמַרְאֵה",
+        "transliteration": "keMarah",
+        "englishLiteral": "like-appearance-of",
+        "englishNatural": "like the appearance of",
+        "root": "mareh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רָצוֹא וָשׁוֹב **כְּמַרְאֵה** הַבָּזָק",
+        "transliteration": "ratzo vaShuv **keMarah** haBazaq",
+        "englishLiteral": "sprinting and-returning **like-appearance-of** the-flashing",
+        "englishNatural": "sprinting and returning **like the appearance of** The Flashing"
+      }
+    }
+  ]
+}

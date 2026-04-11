@@ -1,0 +1,31 @@
+{
+  "key": "rochbah",
+  "language": "hebrew",
+  "root": "rochav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 15
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "רָחְבָּהּ",
+        "transliteration": "rochbah",
+        "englishLiteral": "breadth-her",
+        "englishNatural": "its breadth",
+        "root": "rochav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֲמִשִּׁים אַמָּה **רָחְבָּהּ** וּשְׁלֹשִׁים אַמָּה",
+        "transliteration": "chamishim ammah **rochbah** uShloshim ammah",
+        "englishLiteral": "fifty cubit **breadth-her** and-thirty cubit",
+        "englishNatural": "fifty cubits **its breadth** and thirty cubits"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "devari",
+  "language": "hebrew",
+  "root": "davar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "דְבָרִי",
+        "transliteration": "devari",
+        "englishLiteral": "word-my",
+        "englishNatural": "my word",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲלוֹא־ זֶה **דְבָרִי** עַד־ הֱיוֹתִי",
+        "transliteration": "halo- zeh **devari** ad- heyoti",
+        "englishLiteral": "is-not- this **word-my** unto- being-my",
+        "englishNatural": "was not this **my word** unto I was"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "petachim",
+  "language": "hebrew",
+  "root": "petach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "פְתָחִים",
+        "transliteration": "petachim",
+        "englishLiteral": "openings",
+        "englishNatural": "openings",
+        "root": "petach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קָרְיָה מְבוֹא **פְתָחִים** תָּרֹנָּה",
+        "transliteration": "qaryah mevo **petachim** taRonnah",
+        "englishLiteral": "city incoming-of **openings** she-cries_out",
+        "englishNatural": "a city incoming of **openings** she cries-out"
+      }
+    }
+  ]
+}

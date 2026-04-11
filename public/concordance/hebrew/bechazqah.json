@@ -1,0 +1,31 @@
+{
+  "key": "bechazqah",
+  "language": "hebrew",
+  "root": "chozeq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בְּחָזְקָה",
+        "transliteration": "beChazqah",
+        "englishLiteral": "in-intensity",
+        "englishNatural": "in intensity",
+        "root": "chozeq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ אֱלֹהִים **בְּחָזְקָה** וְיָשֻׁבוּ אִישׁ",
+        "transliteration": "el- Elohim **beChazqah** veYashuvu ish",
+        "englishLiteral": "to- Gods **in-intensity** and-return man",
+        "englishNatural": "to God **in intensity** and return man"
+      }
+    }
+  ]
+}

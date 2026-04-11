@@ -1,0 +1,31 @@
+{
+  "key": "mipiryo",
+  "language": "hebrew",
+  "root": "pri",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "מִפִּרְיוֹ",
+        "transliteration": "miPiryo",
+        "englishLiteral": "from-fruit-its",
+        "englishNatural": "from its fruit",
+        "root": "pri",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְהַשְׂכִּיל וַתִּקַּח **מִפִּרְיוֹ** וַתֹּאכַל וַתִּתֵּן",
+        "transliteration": "leHashkil vatiqach **miPiryo** vatokhal vatiten",
+        "englishLiteral": "to-make-wise and-took **from-fruit-its** and-ate and-gave",
+        "englishNatural": "to make wise and she took **from its fruit** and ate and gave"
+      }
+    }
+  ]
+}

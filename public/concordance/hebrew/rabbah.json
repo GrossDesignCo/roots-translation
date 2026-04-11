@@ -1,0 +1,57 @@
+{
+  "key": "rabbah",
+  "language": "hebrew",
+  "root": "rabah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "רַבָּה",
+        "transliteration": "rabbah",
+        "englishLiteral": "multiplying-was",
+        "englishNatural": "was multiplying",
+        "root": "rabah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה כִּי **רַבָּה** רָעַת הָאָדָם",
+        "transliteration": "YHWH ki **rabbah** raat haAdam",
+        "englishLiteral": "He_Who_Is (YHWH) that **multiplying-was** bad-of the-Earthling (Adam)",
+        "englishNatural": "And He-Who-Is (YHWH) that **was multiplying** the bad of Earthling (Adam)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "רַבָּה",
+        "transliteration": "rabbah",
+        "englishLiteral": "great",
+        "englishNatural": "the great",
+        "root": "rabah",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מַעְיְנֹת תְּהוֹם **רַבָּה** וַאֲרֻבֹּת הַשָּׁמַיִם",
+        "transliteration": "mayanot tehom **rabbah** vaArubot haShamayim",
+        "englishLiteral": "fountains-of abyss **great** and-windows-of the-skies",
+        "englishNatural": "the fountains of abyss **the great** and the windows of the skies"
+      }
+    }
+  ]
+}

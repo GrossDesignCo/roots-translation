@@ -1,0 +1,59 @@
+{
+  "key": "rau",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "רָאוּ",
+        "transliteration": "rau",
+        "englishLiteral": "saw",
+        "englishNatural": "saw",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ **רָאוּ** אִישׁ אֶת־",
+        "transliteration": "lo- **rau** ish et-",
+        "englishLiteral": "not- **saw** man ↳",
+        "englishNatural": "not **saw** Man ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "רָאוּ",
+        "transliteration": "rau",
+        "englishLiteral": "have-seen",
+        "englishNatural": "have seen",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה צְבָאוֹת **רָאוּ** עֵינָי",
+        "transliteration": "YHWH tsvaot **rau** einai",
+        "englishLiteral": "He_Who_Is (YHWH) of-Hosts **have-seen** my-eyes",
+        "englishNatural": "He-Who-Is (YHWH) of Hosts **have seen** my eyes"
+      }
+    }
+  ]
+}

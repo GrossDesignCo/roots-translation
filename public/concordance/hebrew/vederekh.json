@@ -1,0 +1,31 @@
+{
+  "key": "vederekh",
+  "language": "hebrew",
+  "root": "derekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְדֶרֶךְ",
+        "transliteration": "veDerekh",
+        "englishLiteral": "and-way-of",
+        "englishNatural": "and the way of",
+        "root": "derekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דֶּרֶךְ צַדִּיקִים **וְדֶרֶךְ** רְשָׁעִים תֹּאבֵד",
+        "transliteration": "derekh tzadiqim **veDerekh** reshaim toved",
+        "englishLiteral": "way-of righteous-ones **and-way-of** wicked-ones it-will-perish",
+        "englishNatural": "the way of the righteous **and the way of** the wicked will perish"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "key": "holekh",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הוֹלֵךְ",
+        "transliteration": "holekh",
+        "englishLiteral": "walking",
+        "englishNatural": "walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִי וְאָנֹכִי **הוֹלֵךְ** עֲרִירִי וּבֶן־",
+        "transliteration": "li veAnoki **holekh** ariri uVen-",
+        "englishLiteral": "to-me And-I **walking** childless and-son-of-",
+        "englishNatural": "to me And I **walk** childless and the son of"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הוֹלֵךְ",
+        "transliteration": "holekh",
+        "englishLiteral": "walking",
+        "englishNatural": "walking",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי הַיָּם **הוֹלֵךְ** וְסֹעֵר",
+        "transliteration": "ki haYam **holekh** vesoer",
+        "englishLiteral": "that the-sea **walking** and-storming",
+        "englishNatural": "That the sea is **walking** and storming"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הוֹלֵךְ",
+        "transliteration": "holekh",
+        "englishLiteral": "walking",
+        "englishNatural": "was walking",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי הַיָּם **הוֹלֵךְ** וְסֹעֵר עֲלֵיהֶם",
+        "transliteration": "ki haYam **holekh** vesoer alehem",
+        "englishLiteral": "that the-sea **walking** and-storming over-them",
+        "englishNatural": "that the sea **was walking** and storming over them"
+      }
+    }
+  ]
+}

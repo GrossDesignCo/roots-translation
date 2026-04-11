@@ -1,0 +1,54 @@
+{
+  "root": "tritos",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "τρίτον",
+        "transliteration": "triton",
+        "englishLiteral": "third",
+        "englishNatural": "third time",
+        "root": "tritos",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "αὐτῷ τὸ **τρίτον** Σίμων Ἰωάννου",
+        "transliteration": "autō to **triton** Simōn Iōannou",
+        "englishLiteral": "to-him the **third** Hearer (Simon) He—is-Gracious (John)",
+        "englishNatural": "to him the **third time** Hearer (Simon) He—is-Gracious (John)"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "τρίτον",
+        "transliteration": "triton",
+        "englishLiteral": "third",
+        "englishNatural": "third time",
+        "root": "tritos",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "αὐτῷ τὸ **τρίτον** φιλεῖς με",
+        "transliteration": "autō to **triton** phileis me",
+        "englishLiteral": "to-him the **third** Do-you-brother_love me",
+        "englishNatural": "to him the **third time** Do you brother-love me"
+      }
+    }
+  ]
+}

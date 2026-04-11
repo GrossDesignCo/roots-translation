@@ -1,0 +1,31 @@
+{
+  "key": "hatzippor",
+  "language": "hebrew",
+  "root": "tzippor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הַצִּפֹּר",
+        "transliteration": "haTzippor",
+        "englishLiteral": "the-bird",
+        "englishNatural": "the birds",
+        "root": "tzippor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֵעֵהוּ וְאֶת־ **הַצִּפֹּר** לֹא בָתָר",
+        "transliteration": "reehu veEt- **haTzippor** lo batar",
+        "englishLiteral": "friend-his and-↳ **the-bird** not he-divided",
+        "englishNatural": "his friend and **the birds** not he divided"
+      }
+    }
+  ]
+}

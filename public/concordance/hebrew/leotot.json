@@ -1,0 +1,31 @@
+{
+  "key": "leotot",
+  "language": "hebrew",
+  "root": "ot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לְאֹתֹ֔ת",
+        "transliteration": "leOtot",
+        "englishLiteral": "for-signs",
+        "englishNatural": "for signs",
+        "root": "ot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַלָּ֑יְלָה וְהָי֤וּ **לְאֹתֹ֔ת** וּלְמוֹעֲדִ֖ים וּלְיָמִ֣ים",
+        "transliteration": "haLaylah veHayu **leOtot** uLeMoedim uLeYamim",
+        "englishLiteral": "the-night And-they-will-be **for-signs** and-for-appointed_times and-for-days",
+        "englishNatural": "the night And they will be **for signs** and for appointed-times and for days"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "tam",
+  "language": "hebrew",
+  "root": "tam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "תָּ֧ם",
+        "transliteration": "tam",
+        "englishLiteral": "whole",
+        "englishNatural": "whole",
+        "root": "tam",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הָאִ֣ישׁ הַה֗וּא **תָּ֧ם** וְיָשָׁ֛ר וִירֵ֥א",
+        "transliteration": "haIsh haHu **tam** veYashar viYere",
+        "englishLiteral": "the-man the-that **whole** and-straight and-fearing",
+        "englishNatural": "man and that **whole** and straight and fearing"
+      }
+    }
+  ]
+}

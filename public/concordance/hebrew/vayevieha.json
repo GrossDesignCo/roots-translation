@@ -1,0 +1,33 @@
+{
+  "key": "vayevieha",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 22
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וַיְבִאֶהָ",
+        "transliteration": "vaYeviEha",
+        "englishLiteral": "and-brought-her",
+        "englishNatural": "and brought her",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם לְאִשָּׁה **וַיְבִאֶהָ** אֶל־ הָאָדָם׃",
+        "transliteration": "haAdam leIshah **vaYeviEha** el- haAdam",
+        "englishLiteral": "the-Earthling (Adam) to-woman **and-brought-her** to- the-Earthling (Adam)",
+        "englishNatural": "the Earthling (Adam) into a woman **and brought her** to the Earthling (Adam)"
+      }
+    }
+  ]
+}

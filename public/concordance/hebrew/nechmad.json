@@ -1,0 +1,31 @@
+{
+  "key": "nechmad",
+  "language": "hebrew",
+  "root": "chamad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "נֶחְמָד",
+        "transliteration": "nechmad",
+        "englishLiteral": "coveted",
+        "englishNatural": "coveted",
+        "root": "chamad",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ עֵץ **נֶחְמָד** לְמַרְאֶה וְטוֹב",
+        "transliteration": "kol- etz **nechmad** leMareh veTov",
+        "englishLiteral": "all- tree **coveted** to-sight and-good",
+        "englishNatural": "every tree **coveted** to the sight and good"
+      }
+    }
+  ]
+}

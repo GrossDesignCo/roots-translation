@@ -1,0 +1,33 @@
+{
+  "key": "vatechasrehu",
+  "language": "hebrew",
+  "root": "chaser",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתְּחַסְּרֵ֣הוּ",
+        "transliteration": "vatechasrehu",
+        "englishLiteral": "and-you-have-made-him-lack",
+        "englishNatural": "and you have made him lack",
+        "root": "chaser",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתְּחַסְּרֵ֣הוּ** מְּ֭עַט מֵאֱלֹהִ֑ים",
+        "transliteration": "**vatechasrehu** meat meElohim",
+        "englishLiteral": "**and-you-have-made-him-lack** a_little from-God",
+        "englishNatural": "**and you have made him lack** a-little from God"
+      }
+    }
+  ]
+}

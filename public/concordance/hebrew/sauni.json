@@ -1,0 +1,33 @@
+{
+  "key": "sauni",
+  "language": "hebrew",
+  "root": "nasa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שָׂאוּנִי",
+        "transliteration": "sauni",
+        "englishLiteral": "lift_up-me",
+        "englishNatural": "Lift-me-up",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר אֲלֵיהֶם **שָׂאוּנִי** וַהֲטִילֻנִי אֶל־",
+        "transliteration": "vaYomer alehem **sauni** vahatiluni el-",
+        "englishLiteral": "And-said to-them **lift_up-me** and-hurl-me to-",
+        "englishNatural": "And he said to them **Lift-me-up** and hurl me to"
+      }
+    }
+  ]
+}

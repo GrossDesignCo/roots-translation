@@ -1,0 +1,31 @@
+{
+  "key": "reshah",
+  "language": "aramaic",
+  "root": "resh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 38
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "רֵאשָׁה",
+        "transliteration": "reshah",
+        "englishLiteral": "head-the",
+        "englishNatural": "the head",
+        "root": "resh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַנְתָּה הוּא **רֵאשָׁה** דִּי דַהֲבָא",
+        "transliteration": "antah hu **reshah** di dahava",
+        "englishLiteral": "you he **head-the** which gold-the",
+        "englishNatural": "you are he **the head** of the gold"
+      }
+    }
+  ]
+}

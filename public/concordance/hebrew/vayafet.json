@@ -1,0 +1,31 @@
+{
+  "key": "vayafet",
+  "language": "hebrew",
+  "root": "yafet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וָיָפֶת",
+        "transliteration": "vaYafet",
+        "englishLiteral": "and-Spacious (Japheth)",
+        "englishNatural": "and Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם חָם **וָיָפֶת** וַיִּוָּלְדוּ לָהֶם",
+        "transliteration": "Shem Cham **vaYafet** vayivaledu lahem",
+        "englishLiteral": "Name (Shem) Hot (Ham) **and-Spacious (Japheth)** and-were-birthed to-them",
+        "englishNatural": "Name (Shem) Hot (Ham) **and Spacious (Japheth)** were birthed and to them"
+      }
+    }
+  ]
+}

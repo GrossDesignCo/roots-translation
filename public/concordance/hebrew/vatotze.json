@@ -1,0 +1,33 @@
+{
+  "key": "vatotze",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתּוֹצֵ֨א",
+        "transliteration": "vaToTze",
+        "englishLiteral": "And-brought-out",
+        "englishNatural": "brought-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתּוֹצֵ֨א** הָאָ֜רֶץ דֶּ֗שֶׁא",
+        "transliteration": "**vaToTze** haAretz deshe",
+        "englishLiteral": "**And-brought-out** the-land tender_shoot",
+        "englishNatural": "**brought-out** And the land tender-shoot"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "root": "aqar",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אתעקרו",
+        "transliteration": "iteqaru",
+        "englishLiteral": "were-uprooted",
+        "englishNatural": "were uprooted",
+        "root": "aqar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "ithpeel"
+        }
+      },
+      "context": {
+        "hebrew": "קַרְנַיָּא֙ קַדְמָ֣יָתָ֔א **אתעקרו** מִן־ קדמיה",
+        "transliteration": "qarnaiya qadmayata **iteqaru** min- qodameyh",
+        "englishLiteral": "horns-the first-the **were-uprooted** from- before-it",
+        "englishNatural": "the horns the first **were uprooted** from before it"
+      }
+    }
+  ]
+}

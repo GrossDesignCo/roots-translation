@@ -1,0 +1,33 @@
+{
+  "key": "lotesh",
+  "language": "hebrew",
+  "root": "latash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לֹטֵשׁ",
+        "transliteration": "lotesh",
+        "englishLiteral": "smithing",
+        "englishNatural": "smithing",
+        "root": "latash",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ תּוּבַל קַיִן **לֹטֵשׁ** כָּל־ חֹרֵשׁ",
+        "transliteration": "et- Tuval Qayin **lotesh** kol- choresh",
+        "englishLiteral": "↳ World Aquired (Tubal Cain) **smithing** all cutting_straight",
+        "englishNatural": "↳ World Aquired (Tubal Cain) **smithing** all cutting-straight"
+      }
+    }
+  ]
+}

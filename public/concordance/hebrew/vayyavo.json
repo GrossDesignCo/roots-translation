@@ -1,0 +1,33 @@
+{
+  "key": "vayyavo",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּבֹא",
+        "transliteration": "vayYavo",
+        "englishLiteral": "And-he-came",
+        "englishNatural": "came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּבֹא** נֹחַ וּבָנָיו",
+        "transliteration": "**vayYavo** Noach uVanav",
+        "englishLiteral": "**And-he-came** Rest (Noah) and-sons-his",
+        "englishNatural": "**came** And Rest (Noah) and his sons"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "root": "mavet",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 17
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מוֹת",
+        "transliteration": "mot",
+        "englishLiteral": "death",
+        "englishNatural": "death",
+        "root": "mavet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲכָלְךָ מִמֶּנּוּ **מוֹת** תָּמוּת׃",
+        "transliteration": "akhalekha mimennu **mot** tamuth",
+        "englishLiteral": "your-eating from-it **death** you-will-die",
+        "englishNatural": "your eating from it **death** you will die"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מָוֶת",
+        "transliteration": "mavet",
+        "englishLiteral": "of-death",
+        "englishNatural": "of death",
+        "root": "mavet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "טוֹב וְיוֹם **מָוֶת** מִיּוֹם הִוָּלְדוֹ",
+        "transliteration": "tov veYom **mavet** miYom hiValdo",
+        "englishLiteral": "good and-day **of-death** than-day of-his-birth",
+        "englishNatural": "than good and the day **of death** than the day of birth"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מוֹת",
+        "transliteration": "mot",
+        "englishLiteral": "death-of",
+        "englishNatural": "the death of",
+        "root": "mavet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בִּשְׁנַת **מוֹת** הַמֶּלֶךְ עֻזִּיָּהוּ",
+        "transliteration": "biShnat **mot** haMelekh Uzziyahu",
+        "englishLiteral": "In-year-of **death-of** the-king He_my_Strength (Uzziah)",
+        "englishNatural": "In the year of **the death of** the king He-my-Strength (Uzziah)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 9
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "מָוֶת",
+        "transliteration": "mavet",
+        "englishLiteral": "death",
+        "englishNatural": "death",
+        "root": "mavet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִי עַד־ **מָוֶת**",
+        "transliteration": "li ad- **mavet**",
+        "englishLiteral": "to-me unto- **death**",
+        "englishNatural": "to me unto **death**"
+      }
+    }
+  ]
+}

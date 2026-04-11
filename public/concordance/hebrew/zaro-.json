@@ -1,0 +1,31 @@
+{
+  "key": "zaro-",
+  "language": "hebrew",
+  "root": "zara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "זַרְעוֹ־",
+        "transliteration": "zaro-",
+        "englishLiteral": "its-seed-",
+        "englishNatural": "has its seed",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִינ֔וֹ אֲשֶׁ֥ר **זַרְעוֹ־** ב֖וֹ עַל־",
+        "transliteration": "leMino asher **zaro-** bo al-",
+        "englishLiteral": "to-its-kind which **its-seed-** in-it over-",
+        "englishNatural": "after its kind which **has its seed** in it over"
+      }
+    }
+  ]
+}

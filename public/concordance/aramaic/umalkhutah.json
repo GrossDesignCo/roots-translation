@@ -1,0 +1,31 @@
+{
+  "key": "umalkhutah",
+  "language": "aramaic",
+  "root": "malkhut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וּמַלְכוּתָה",
+        "transliteration": "uMalkhutah",
+        "englishLiteral": "and-kingdom-the",
+        "englishNatural": "and the kingdom",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָא תִתְחַבַּל **וּמַלְכוּתָה** לְעַם אָחֳרָן",
+        "transliteration": "la titchabal **uMalkhutah** leAm achoran",
+        "englishLiteral": "not will-be_damaged **and-kingdom-the** to-people another",
+        "englishNatural": "not will be-damaged **and the kingdom** people to another"
+      }
+    }
+  ]
+}

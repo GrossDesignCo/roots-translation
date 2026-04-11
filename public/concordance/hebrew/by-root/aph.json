@@ -1,0 +1,78 @@
+{
+  "root": "aph",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "אָֽף׃",
+        "transliteration": "af",
+        "englishLiteral": "nose",
+        "englishNatural": "nose",
+        "root": "aph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹ֖ה בָּחֳרִי־ **אָֽף׃**",
+        "transliteration": "Paroh boChori- **af**",
+        "englishLiteral": "Pharaoh in-burning- **nose**",
+        "englishNatural": "Pharaoh in burning **nose**"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אַפּוֹ",
+        "transliteration": "apo",
+        "englishLiteral": "nose-his",
+        "englishNatural": "his nose",
+        "root": "aph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְשָׁב מֵחֲרוֹן **אַפּוֹ** וְלֹא נֹאבֵד",
+        "transliteration": "veShav meCharon **apo** veLo noved",
+        "englishLiteral": "and-turn from-burning-of **nose-his** and-not we-will-perish",
+        "englishNatural": "and turn from the burning of **his nose** not and we will perish"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 26,
+      "word": {
+        "originalScript": "אַפַּיִם",
+        "transliteration": "apayim",
+        "englishLiteral": "nostrils",
+        "englishNatural": "of nostrils",
+        "root": "aph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְרַחוּם אֶרֶךְ **אַפַּיִם** וְרַב־ חֶסֶד",
+        "transliteration": "veRachum erekh **apayim** veRav- chesed",
+        "englishLiteral": "and-compassionate long **nostrils** and-great- steadfast_love",
+        "englishNatural": "and compassionate long **of nostrils** and great of steadfast-love"
+      }
+    }
+  ]
+}

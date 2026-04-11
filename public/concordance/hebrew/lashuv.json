@@ -1,0 +1,59 @@
+{
+  "key": "lashuv",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לָשׁוּב",
+        "transliteration": "lashuv",
+        "englishLiteral": "to-return",
+        "englishNatural": "to return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה בְּלֶכְתְּךָ **לָשׁוּב** מִצְרַיְמָה רְאֵה",
+        "transliteration": "Moshe beLekhtkha **lashuv** mitzraymah reeh",
+        "englishLiteral": "Drawn_Out (Moses) in-going-your **to-return** Double_Narrows (Egypt)-ward see",
+        "englishNatural": "Drawn-Out (Moses) In your going **to return** to Double-Narrows (Egypt) see"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לָשׁ֖וּב",
+        "transliteration": "lashuv",
+        "englishLiteral": "to-return",
+        "englishNatural": "to return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ **לָשׁ֖וּב** אֶל־ אֶ֥רֶץ",
+        "transliteration": "vatTelakhnah baDerekh **lashuv** el- eretz",
+        "englishLiteral": "and-walked in-the-way **to-return** to- land-of",
+        "englishNatural": "and they walked in the way **to return** to the land of"
+      }
+    }
+  ]
+}

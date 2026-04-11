@@ -1,0 +1,85 @@
+{
+  "key": "vayevarekh",
+  "language": "hebrew",
+  "root": "barakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 22
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְבָ֧רֶךְ",
+        "transliteration": "vaYeVarekh",
+        "englishLiteral": "And-blessed",
+        "englishNatural": "blessed",
+        "root": "barakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְבָ֧רֶךְ** אֹתָ֖ם אֱלֹהִ֑ים",
+        "transliteration": "**vaYeVarekh** otam Elohim",
+        "englishLiteral": "**And-blessed** them Gods",
+        "englishNatural": "**blessed** them And God"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְבָרֶךְ",
+        "transliteration": "vaYeVarekh",
+        "englishLiteral": "And-blessed",
+        "englishNatural": "blessed",
+        "root": "barakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְבָרֶךְ** אֱלֹהִים אֶת־",
+        "transliteration": "**vaYeVarekh** Elohim et-",
+        "englishLiteral": "**And-blessed** Gods ↳",
+        "englishNatural": "**blessed** And God ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַיְבָרֶךְ",
+        "transliteration": "vaYevarekh",
+        "englishLiteral": "and-blessed",
+        "englishNatural": "and blessed",
+        "root": "barakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וּנְקֵבָה בְּרָאָם **וַיְבָרֶךְ** אֹתָם וַיִּקְרָא",
+        "transliteration": "uNeqevah beroam **vaYevarekh** otam vaYiqra",
+        "englishLiteral": "and-female he-created **and-blessed** them and-called_out",
+        "englishNatural": "and female he created **and blessed** them and called-out"
+      }
+    }
+  ]
+}

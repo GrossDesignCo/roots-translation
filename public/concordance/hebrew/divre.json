@@ -1,0 +1,31 @@
+{
+  "key": "divre",
+  "language": "hebrew",
+  "root": "davar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "דִּבְרֵי",
+        "transliteration": "divre",
+        "englishLiteral": "words-of",
+        "englishNatural": "words of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מָשָׁל וּמְלִיצָה **דִּבְרֵי** חֲכָמִים וְחִידֹתָם",
+        "transliteration": "mashal uMelitzah **divre** chachamim veChidotam",
+        "englishLiteral": "rule and-interpretation **words-of** wise-men and-sharp_sayings-their",
+        "englishNatural": "a rule and the interpretation **words of** wise men and their sharp-sayings"
+      }
+    }
+  ]
+}

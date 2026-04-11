@@ -1,0 +1,33 @@
+{
+  "key": "tiqra",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "תִקְרָא",
+        "transliteration": "tiqra",
+        "englishLiteral": "will-call_out",
+        "englishNatural": "call-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הֲלֹא־ חָכְמָה **תִקְרָא** וּתְבוּנָה תִּתֵּן",
+        "transliteration": "haLo chokmah **tiqra** uTevunah titten",
+        "englishLiteral": "Does-not Wisdom **will-call_out** and-Understanding will-give",
+        "englishNatural": "Does not Wisdom **call-out** and Understanding give"
+      }
+    }
+  ]
+}

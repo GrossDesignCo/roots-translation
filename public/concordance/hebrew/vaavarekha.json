@@ -1,0 +1,33 @@
+{
+  "key": "vaavarekha",
+  "language": "hebrew",
+  "root": "barakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַאֲבָרֶכְךָ",
+        "transliteration": "vaAvarekha",
+        "englishLiteral": "and-I-will-bless-you",
+        "englishNatural": "and I will bless you",
+        "root": "barakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "לְגוֹי גָּדוֹל **וַאֲבָרֶכְךָ** וַאֲגַדְּלָה שְׁמֶךָ",
+        "transliteration": "leGoy gadol **vaAvarekha** vaAgadelah shemekha",
+        "englishLiteral": "to-nation great **and-I-will-bless-you** and-I-will-make-great your-name",
+        "englishNatural": "into a nation great **and I will bless you** and I will make great your name"
+      }
+    }
+  ]
+}

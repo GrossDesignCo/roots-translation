@@ -1,0 +1,55 @@
+{
+  "key": "shemayya",
+  "language": "aramaic",
+  "root": "shemay",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 37
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "שְׁמַיָּא",
+        "transliteration": "shemayya",
+        "englishLiteral": "skies-the",
+        "englishNatural": "the skies",
+        "root": "shemay",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי אֱלָהּ **שְׁמַיָּא** מַלְכוּתָא חִסְנָא",
+        "transliteration": "di elah **shemayya** malkhuta chisna",
+        "englishLiteral": "which God-of **skies-the** kingdom-the power-the",
+        "englishNatural": "which the God of **the skies** the kingdom the power"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 38
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "שְׁמַיָּא",
+        "transliteration": "shemayya",
+        "englishLiteral": "skies-the",
+        "englishNatural": "the skies",
+        "root": "shemay",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָרָא וְעוֹף **שְׁמַיָּא** יְהַב בִידָךְ",
+        "transliteration": "bara veOf **shemayya** yehav biDakh",
+        "englishLiteral": "field-the and-birds-of **skies-the** he-gave in-hand-your",
+        "englishNatural": "the field and the birds of **the skies** he has given into your hand"
+      }
+    }
+  ]
+}

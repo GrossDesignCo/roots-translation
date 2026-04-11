@@ -1,0 +1,54 @@
+{
+  "root": "ezer",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 18
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עֵזֶר",
+        "transliteration": "ezer",
+        "englishLiteral": "help",
+        "englishNatural": "a help",
+        "root": "ezer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶעֱשֶׂה־ לוֹ **עֵזֶר** כְּנֶגְדּוֹ׃",
+        "transliteration": "eese- lo **ezer** keNegdo",
+        "englishLiteral": "I-will-make- to-him **help** as-his_opposite",
+        "englishNatural": "I will make to him **a help** as his opposite"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "עֵזֶר",
+        "transliteration": "ezer",
+        "englishLiteral": "help",
+        "englishNatural": "help",
+        "root": "ezer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא מָצָא **עֵזֶר** כְּנֶגְדּוֹ",
+        "transliteration": "lo matza **ezer** keNegdo",
+        "englishLiteral": "no was-found **help** as-his_opposite",
+        "englishNatural": "no was found **help** as his opposite"
+      }
+    }
+  ]
+}

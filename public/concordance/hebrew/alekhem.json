@@ -1,0 +1,31 @@
+{
+  "key": "alekhem",
+  "language": "hebrew",
+  "root": "el",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אֲלֵכֶם",
+        "transliteration": "alekhem",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי יְדַבֵּר **אֲלֵכֶם** פַּרְעֹה לֵאמֹר",
+        "transliteration": "ki yedaber **alekhem** Paroh lemor",
+        "englishLiteral": "that will-speak **to-you** Pharaoh to-say",
+        "englishNatural": "That will speak **to you** Pharaoh saying"
+      }
+    }
+  ]
+}

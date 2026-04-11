@@ -1,0 +1,31 @@
+{
+  "key": "eyrumim",
+  "language": "hebrew",
+  "root": "arum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עֵירֻמִּם",
+        "transliteration": "eyrumim",
+        "englishLiteral": "naked",
+        "englishNatural": "naked",
+        "root": "arum",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּדְעוּ כִּי **עֵירֻמִּם** הֵם וַיִּתְפְּרוּ",
+        "transliteration": "vaYedu ki **eyrumim** hem vayItperu",
+        "englishLiteral": "and-knew that **naked** they and-sewed",
+        "englishNatural": "and they knew that **naked** they were and they sewed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "veshinnayin",
+  "language": "aramaic",
+  "root": "shen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְשִׁנַּ֨יִן",
+        "transliteration": "veShinnayin",
+        "englishLiteral": "and-teeth",
+        "englishNatural": "and teeth",
+        "root": "shen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְתַקִּיפָ֣א יַתִּ֗ירָה **וְשִׁנַּ֨יִן** דִּֽי־ פַרְזֶ֥ל",
+        "transliteration": "veTaqqipha yattirah **veShinnayin** di- parzel",
+        "englishLiteral": "and-strong exceedingly **and-teeth** of- iron",
+        "englishNatural": "strong and exceedingly **and teeth** of iron"
+      }
+    }
+  ]
+}

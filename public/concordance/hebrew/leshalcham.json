@@ -1,0 +1,33 @@
+{
+  "key": "leshalcham",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 27
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְשַׁלְּחָם",
+        "transliteration": "leshalcham",
+        "englishLiteral": "to-send_out-them",
+        "englishNatural": "to send-out them",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹא אָבָה **לְשַׁלְּחָם**",
+        "transliteration": "veLo avah **leshalcham**",
+        "englishLiteral": "and-not was_willing **to-send_out-them**",
+        "englishNatural": "not and he was willing **to send-out them**"
+      }
+    }
+  ]
+}

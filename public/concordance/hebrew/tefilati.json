@@ -1,0 +1,31 @@
+{
+  "key": "tefilati",
+  "language": "hebrew",
+  "root": "tefilah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "תְפִלָּתִי",
+        "transliteration": "tefilati",
+        "englishLiteral": "prayer-my",
+        "englishNatural": "my prayer",
+        "root": "tefilah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתָּבוֹא אֵלֶיךָ **תְפִלָּתִי** אֶל־ הֵיכַל",
+        "transliteration": "vatavo elekha **tefilati** el- hekhal",
+        "englishLiteral": "and-came to-you **prayer-my** to- temple-of",
+        "englishNatural": "and came to you **my prayer** to the temple of"
+      }
+    }
+  ]
+}

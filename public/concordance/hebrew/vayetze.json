@@ -1,0 +1,33 @@
+{
+  "key": "vayetze",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֵּצֵא",
+        "transliteration": "vaYetze",
+        "englishLiteral": "And-went_out",
+        "englishNatural": "went-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּצֵא** יוֹנָה מִן־",
+        "transliteration": "**vaYetze** Yonah min-",
+        "englishLiteral": "**And-went_out** Dove (Jonah) from-",
+        "englishNatural": "**went-out** And Dove (Jonah) from"
+      }
+    }
+  ]
+}

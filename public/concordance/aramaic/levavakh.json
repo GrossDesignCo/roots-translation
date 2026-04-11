@@ -1,0 +1,31 @@
+{
+  "key": "levavakh",
+  "language": "aramaic",
+  "root": "levav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "לִבְבָךְ",
+        "transliteration": "levavakh",
+        "englishLiteral": "heart-your",
+        "englishNatural": "your heart",
+        "root": "levav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוֹדְעוּן וְרַעְיוֹנֵי **לִבְבָךְ** תִּנְדַּע",
+        "transliteration": "yehodun veRaayonei **levavakh** tindaa",
+        "englishLiteral": "they-will-make-known and-thoughts-of **heart-your** you-will-know",
+        "englishNatural": "might be made known and the thoughts of **your heart** you might know"
+      }
+    }
+  ]
+}

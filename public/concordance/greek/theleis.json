@@ -1,0 +1,32 @@
+{
+  "key": "theleis",
+  "language": "greek",
+  "root": "thelo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 28,
+      "word": {
+        "originalScript": "θέλεις",
+        "transliteration": "theleis",
+        "englishLiteral": "you-want",
+        "englishNatural": "you want",
+        "root": "thelo",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "ὅπου οὐ **θέλεις**",
+        "transliteration": "hopou ou **theleis**",
+        "englishLiteral": "where not **you-want**",
+        "englishNatural": "where not **you want**"
+      }
+    }
+  ]
+}

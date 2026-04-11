@@ -1,0 +1,30 @@
+{
+  "root": "otzar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "אוֹצָר",
+        "transliteration": "otzar",
+        "englishLiteral": "treasure",
+        "englishNatural": "of treasure",
+        "root": "otzar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַכֵּלִים בֵּית **אוֹצָר** אֱלֹהָיו",
+        "transliteration": "haKelim beit **otzar** elohav",
+        "englishLiteral": "the-vessels house **treasure** Gods-his",
+        "englishNatural": "the vessels to the house **of treasure** of his God"
+      }
+    }
+  ]
+}

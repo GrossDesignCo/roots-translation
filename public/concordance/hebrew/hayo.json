@@ -1,0 +1,33 @@
+{
+  "key": "hayo",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "הָיֹה",
+        "transliteration": "hayo",
+        "englishLiteral": "Being",
+        "englishNatural": "being",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**הָיֹה** הָיָה דְבַר־",
+        "transliteration": "**hayo** hayah devar-",
+        "englishLiteral": "**Being** was word-of-",
+        "englishNatural": "**being** was The word of"
+      }
+    }
+  ]
+}

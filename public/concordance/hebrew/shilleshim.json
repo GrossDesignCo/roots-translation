@@ -1,0 +1,31 @@
+{
+  "key": "shilleshim",
+  "language": "hebrew",
+  "root": "shlishi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "שִׁלֵּשִׁים",
+        "transliteration": "shilleshim",
+        "englishLiteral": "third_ones",
+        "englishNatural": "third-ones",
+        "root": "shlishi",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "בָנִים עַל־ **שִׁלֵּשִׁים** וְעַל־ רִבֵּעִים",
+        "transliteration": "vanim al- **shilleshim** veAl- ribeim",
+        "englishLiteral": "sons over- **third_ones** and-over- fourth_ones",
+        "englishNatural": "sons on **third-ones** and on fourth-ones"
+      }
+    }
+  ]
+}

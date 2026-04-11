@@ -1,0 +1,111 @@
+{
+  "key": "vayaqam",
+  "language": "hebrew",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 30
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּ֨קָם",
+        "transliteration": "vaYaqam",
+        "englishLiteral": "And-stood_up",
+        "englishNatural": "stood-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּ֨קָם** פַּרְעֹ֜ה לַ֗יְלָה",
+        "transliteration": "**vaYaqam** Paroh laylah",
+        "englishLiteral": "**And-stood_up** Pharaoh night",
+        "englishNatural": "**stood-up** And Pharaoh night"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּקָם",
+        "transliteration": "vaYaqam",
+        "englishLiteral": "And-stood_up",
+        "englishNatural": "stood-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּקָם** יוֹנָה לִבְרֹחַ",
+        "transliteration": "**vaYaqam** Yonah livroach",
+        "englishLiteral": "**And-stood_up** Dove (Jonah) to-flee",
+        "englishNatural": "**stood-up** And Dove (Jonah) to flee to"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּקָם",
+        "transliteration": "vaYaqam",
+        "englishLiteral": "And-stood_up",
+        "englishNatural": "stood-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּקָם** יוֹנָה וַיֵּלֶךְ",
+        "transliteration": "**vaYaqam** Yonah vaYelekh",
+        "englishLiteral": "**And-stood_up** Dove (Jonah) and-went",
+        "englishNatural": "**stood-up** And Dove (Jonah) and went"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וַיָּקָם",
+        "transliteration": "vaYaqam",
+        "englishLiteral": "and-stood_up",
+        "englishNatural": "and he stood-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֶלֶךְ נִינְוֵה **וַיָּקָם** מִכִּסְאוֹ וַיַּעֲבֵר",
+        "transliteration": "melekh Nineveh **vaYaqam** mikisso vaYaaver",
+        "englishLiteral": "king-of Dwelling_of_Fish (Nineveh) **and-stood_up** from-throne-his and-passed_through",
+        "englishNatural": "the king of Dwelling-of-Fish (Nineveh) **and he stood-up** from his throne and he passed-through"
+      }
+    }
+  ]
+}

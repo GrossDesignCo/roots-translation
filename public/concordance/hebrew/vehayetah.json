@@ -1,0 +1,59 @@
+{
+  "key": "vehayetah",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 13
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְהָיְתָה",
+        "transliteration": "veHayetah",
+        "englishLiteral": "and-she-will-be",
+        "englishNatural": "and it will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נָתַתִּי בֶּעָנָן **וְהָיְתָה** לְאוֹת בְּרִית",
+        "transliteration": "natati beAnan **veHayetah** leOt berit",
+        "englishLiteral": "I-have-given in-cloud **and-she-will-be** for-sign-of covenant",
+        "englishNatural": "I have given in the cloud **and it will be** for the sign of covenant"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְהָֽיְתָ֛ה",
+        "transliteration": "veHayetah",
+        "englishLiteral": "and-will-be",
+        "englishNatural": "will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהָֽיְתָ֛ה** צְעָקָ֥ה גְדֹלָ֖ה",
+        "transliteration": "**veHayetah** tzaakah gedolah",
+        "englishLiteral": "**and-will-be** cry great",
+        "englishNatural": "**will be** cry And a great"
+      }
+    }
+  ]
+}

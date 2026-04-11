@@ -1,0 +1,33 @@
+{
+  "key": "akhalekha",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 17
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אֲכָלְךָ",
+        "transliteration": "akhalekha",
+        "englishLiteral": "your-eating",
+        "englishNatural": "your eating",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי בְּיוֹם **אֲכָלְךָ** מִמֶּנּוּ מוֹת",
+        "transliteration": "ki beYom **akhalekha** mimennu mot",
+        "englishLiteral": "that in-day **your-eating** from-it death",
+        "englishNatural": "that in the day of **your eating** from it death"
+      }
+    }
+  ]
+}

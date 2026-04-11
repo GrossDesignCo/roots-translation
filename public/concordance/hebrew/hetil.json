@@ -1,0 +1,33 @@
+{
+  "key": "hetil",
+  "language": "hebrew",
+  "root": "tul",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הֵטִיל",
+        "transliteration": "hetil",
+        "englishLiteral": "hurled",
+        "englishNatural": "hurled",
+        "root": "tul",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַיהוָה **הֵטִיל** רוּחַ־ גְּדוֹלָה",
+        "transliteration": "vaYHWH **hetil** ruach- gedolah",
+        "englishLiteral": "And-He_Who_Is (YHWH) **hurled** wind- great",
+        "englishNatural": "And He-Who-Is (YHWH) **hurled** wind a great"
+      }
+    }
+  ]
+}

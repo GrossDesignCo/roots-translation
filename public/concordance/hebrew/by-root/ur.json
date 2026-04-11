@@ -1,0 +1,30 @@
+{
+  "root": "ur",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מֵאוּר",
+        "transliteration": "meUr",
+        "englishLiteral": "from-Ur",
+        "englishNatural": "from Ur",
+        "root": "ur",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר הוֹצֵאתִיךָ **מֵאוּר** כַּשְׂדִּים לָתֶת",
+        "transliteration": "asher hotzeti-kha **meUr** Kasdim latet",
+        "englishLiteral": "which I-brought_out-you **from-Ur** Chaldeans to-give",
+        "englishNatural": "which brought-out you **from Ur** of the Chaldeans to give"
+      }
+    }
+  ]
+}

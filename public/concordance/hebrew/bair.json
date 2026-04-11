@@ -1,0 +1,55 @@
+{
+  "key": "bair",
+  "language": "hebrew",
+  "root": "ir",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בָעִיר",
+        "transliteration": "baIr",
+        "englishLiteral": "in-city",
+        "englishNatural": "in the city",
+        "root": "ir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹנָה לָבוֹא **בָעִיר** מַהֲלַךְ יוֹם",
+        "transliteration": "Yonah lavo **baIr** mahalakh yom",
+        "englishLiteral": "Dove (Jonah) to-enter **in-city** journey-of day",
+        "englishNatural": "And Dove (Jonah) to enter **in the city** a journey of day"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "בָּעִיר",
+        "transliteration": "baIr",
+        "englishLiteral": "in-city",
+        "englishNatural": "in the city",
+        "root": "ir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַה־ יִּהְיֶה **בָּעִיר**",
+        "transliteration": "mah- yihyeh **baIr**",
+        "englishLiteral": "what- will-be **in-city**",
+        "englishNatural": "what will be **in the city**"
+      }
+    }
+  ]
+}

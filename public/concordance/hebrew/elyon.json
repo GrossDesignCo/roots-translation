@@ -1,0 +1,31 @@
+{
+  "key": "elyon",
+  "language": "hebrew",
+  "root": "elyon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 18
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עֶלְיוֹן",
+        "transliteration": "Elyon",
+        "englishLiteral": "Most_High",
+        "englishNatural": "Most-High",
+        "root": "elyon",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כֹהֵן לְאֵל **עֶלְיוֹן**",
+        "transliteration": "kohen leEl **Elyon**",
+        "englishLiteral": "priest to-God **Most_High**",
+        "englishNatural": "was priest to G. **Most-High**"
+      }
+    }
+  ]
+}

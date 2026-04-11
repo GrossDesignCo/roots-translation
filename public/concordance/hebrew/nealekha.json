@@ -1,0 +1,31 @@
+{
+  "key": "nealekha",
+  "language": "hebrew",
+  "root": "naal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נְעָלֶיךָ",
+        "transliteration": "nealekha",
+        "englishLiteral": "sandals-your",
+        "englishNatural": "your sandals",
+        "root": "naal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲלֹם שַׁל־ **נְעָלֶיךָ** מֵעַל רַגְלֶיךָ",
+        "transliteration": "halom shal- **nealekha** meAl raglekha",
+        "englishLiteral": "here send- **sandals-your** from-over feet-your",
+        "englishNatural": "here send-out **your sandals** from over your feet"
+      }
+    }
+  ]
+}

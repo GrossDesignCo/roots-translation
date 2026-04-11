@@ -1,0 +1,54 @@
+{
+  "root": "chartom",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "חַרְטֻמֵּי",
+        "transliteration": "chartumei",
+        "englishLiteral": "magicians-of",
+        "englishNatural": "and the magicians of",
+        "root": "chartom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַם־ הֵם **חַרְטֻמֵּי** מִצְרַיִם בְּלַהֲטֵיהֶם",
+        "transliteration": "gam- hem **chartumei** Mitzrayim beLahateihem",
+        "englishLiteral": "also- they **magicians-of** Double_Narrows (Egypt) in-bright_flashes-their",
+        "englishNatural": "also they **and the magicians of** Double-Narrows (Egypt) in their bright-flashes"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הַחַרְטֻמִּים",
+        "transliteration": "haChartomim",
+        "englishLiteral": "the-mages",
+        "englishNatural": "the mages",
+        "root": "chartom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל כָּל־ **הַחַרְטֻמִּים** הָאַשָּׁפִים אֲשֶׁר",
+        "transliteration": "al kol- **haChartomim** haAshshafim asher",
+        "englishLiteral": "over all- **the-mages** the-astrologers which",
+        "englishNatural": "over all **the mages** the astrologers which"
+      }
+    }
+  ]
+}

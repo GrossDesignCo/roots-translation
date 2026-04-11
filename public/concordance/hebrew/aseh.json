@@ -1,0 +1,58 @@
+{
+  "key": "aseh",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "עֲשֵׂה",
+        "transliteration": "aseh",
+        "englishLiteral": "Make",
+        "englishNatural": "Make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**עֲשֵׂה** לְךָ תֵּבַת",
+        "transliteration": "**aseh** lekha tevat",
+        "englishLiteral": "**Make** to-you ark-of",
+        "englishNatural": "**Make** for yourself an ark of"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עֲשֵׂה",
+        "transliteration": "aseh",
+        "englishLiteral": "Make",
+        "englishNatural": "Make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל מֹשֶׁה **עֲשֵׂה** לְךָ שָׂרָף",
+        "transliteration": "el Moshe **aseh** lekha saraph",
+        "englishLiteral": "to Drawn_Out (Moses) **Make** for-yourself incinerating_one",
+        "englishNatural": "to Drawn-Out (Moses) **Make** for yourself an incinerating-one"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "sheman",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שְׁמַעַן",
+        "transliteration": "sheman",
+        "englishLiteral": "hear",
+        "englishNatural": "hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עָדָה וְצִלָּה **שְׁמַעַן** קוֹלִי נְשֵׁי",
+        "transliteration": "Adah veTzillah **sheman** qoli neshei",
+        "englishLiteral": "Ornament (Adah) and-Shadow (Zillah) **hear** voice-my women-of",
+        "englishNatural": "Ornament (Adah) and Shadow (Zillah) **hear** my voice women of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "dina",
+  "language": "aramaic",
+  "root": "din",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "דִּינָ֥א",
+        "transliteration": "dina",
+        "englishLiteral": "judge-the",
+        "englishNatural": "the judge",
+        "root": "din",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קָֽדָמ֣וֹהִי יְקוּמ֔וּן **דִּינָ֥א** יְתִ֖ב וְסִפְרִ֥ין",
+        "transliteration": "qodamohi yequmun **dina** yetiv veSiphrin",
+        "englishLiteral": "before-him stood **judge-the** had-sat and-books",
+        "englishNatural": "before him stood **the judge** had sat and the books"
+      }
+    }
+  ]
+}

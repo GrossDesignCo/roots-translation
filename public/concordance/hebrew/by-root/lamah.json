@@ -1,0 +1,78 @@
+{
+  "root": "lamah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לָמָּה",
+        "transliteration": "lamah",
+        "englishLiteral": "Why",
+        "englishNatural": "Why",
+        "root": "lamah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ קַיִן **לָמָּה** חָרָה לָךְ",
+        "transliteration": "el- Qayin **lamah** charah lakh",
+        "englishLiteral": "to- Acquired (Cain) **Why** it-fumed_angrily to-you",
+        "englishNatural": "to Acquired (Cain) **Why** is it fuming-anger to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְלָמָּה",
+        "transliteration": "velamah",
+        "englishLiteral": "and-why",
+        "englishNatural": "and why",
+        "root": "lamah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "חָרָה לָךְ **וְלָמָּה** נָפְלוּ פָנֶיךָ",
+        "transliteration": "charah lakh **velamah** nafelu panekha",
+        "englishLiteral": "it-fumed_angrily to-you **and-why** they-fell your-faces",
+        "englishNatural": "is it fuming-anger to you **and why** fallen have your faces"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לָמָּה",
+        "transliteration": "lamah",
+        "englishLiteral": "why",
+        "englishNatural": "Why",
+        "root": "lamah",
+        "morphology": {
+          "type": "interrogative"
+        }
+      },
+      "context": {
+        "hebrew": "מֶלֶךְ מִצְרַיִם **לָמָּה** מֹשֶׁה וְאַהֲרֹן",
+        "transliteration": "melekh Mitzrayim **lamah** Moshe veAharon",
+        "englishLiteral": "king-of Double_Narrows (Egypt) **why** Drawn_Out (Moses) and-Light_Bringer (Aaron)",
+        "englishNatural": "And the king of Double-Narrows (Egypt) **Why** Drawn-Out (Moses) and Light-Bringer (Aaron)"
+      }
+    }
+  ]
+}

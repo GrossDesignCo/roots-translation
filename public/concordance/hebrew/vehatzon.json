@@ -1,0 +1,31 @@
+{
+  "key": "vehatzon",
+  "language": "hebrew",
+  "root": "tzon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְהַצֹּאן",
+        "transliteration": "veHaTzon",
+        "englishLiteral": "and-the-flock",
+        "englishNatural": "and the flock",
+        "root": "tzon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַבְּהֵמָה הַבָּקָר **וְהַצֹּאן** אַל־ יִטְעֲמוּ",
+        "transliteration": "veHaBehemah haBaqar **veHaTzon** al- yitamu",
+        "englishLiteral": "and-the-beast the-cattle **and-the-flock** not- they-will-taste",
+        "englishNatural": "and the beast the cattle **and the flock** not they will taste"
+      }
+    }
+  ]
+}

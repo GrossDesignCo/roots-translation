@@ -1,0 +1,31 @@
+{
+  "key": "bamachazeh",
+  "language": "hebrew",
+  "root": "machazeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 1
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בַּמַּחֲזֶה",
+        "transliteration": "baMachazeh",
+        "englishLiteral": "in-vision",
+        "englishNatural": "in the vision",
+        "root": "machazeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ אַבְרָם **בַּמַּחֲזֶה** לֵאמֹר אַל־",
+        "transliteration": "el- Abram **baMachazeh** lemor al-",
+        "englishLiteral": "to- Exalted_Father (Abram) **in-vision** to-say not-",
+        "englishNatural": "to Exalted-Father (Abram) **in the vision** saying not"
+      }
+    }
+  ]
+}

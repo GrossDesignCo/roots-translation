@@ -1,0 +1,54 @@
+{
+  "root": "levav",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "לִבְבָךְ",
+        "transliteration": "levavakh",
+        "englishLiteral": "heart-your",
+        "englishNatural": "your heart",
+        "root": "levav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוֹדְעוּן וְרַעְיוֹנֵי **לִבְבָךְ** תִּנְדַּע",
+        "transliteration": "yehodun veRaayonei **levavakh** tindaa",
+        "englishLiteral": "they-will-make-known and-thoughts-of **heart-your** you-will-know",
+        "englishNatural": "might be made known and the thoughts of **your heart** you might know"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "וּלְבַ֥ב",
+        "transliteration": "uLevav",
+        "englishLiteral": "and-heart",
+        "englishNatural": "and a heart",
+        "root": "levav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֶּאֱנָ֣שׁ הֳקִימַ֔ת **וּלְבַ֥ב** אֱנָ֖שׁ יְהִ֥יב",
+        "transliteration": "keEnash hoqimat **uLevav** enash yehiv",
+        "englishLiteral": "as-Mortal_Man (Enash) was-caused-to-stand **and-heart** Mortal_Man (Enash) was-given",
+        "englishNatural": "as a Mortal-Man (Enash) it was caused to stand **and a heart** of a Mortal-Man (Enash) was given"
+      }
+    }
+  ]
+}

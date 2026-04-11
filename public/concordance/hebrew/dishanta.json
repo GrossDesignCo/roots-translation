@@ -1,0 +1,33 @@
+{
+  "key": "dishanta",
+  "language": "hebrew",
+  "root": "dashen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "דִּשַּׁנְתָּ",
+        "transliteration": "dishanta",
+        "englishLiteral": "you-anoint",
+        "englishNatural": "you anoint",
+        "root": "dashen",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "נֶגֶד צֹרְרָי **דִּשַּׁנְתָּ** בַשֶּׁמֶן רֹאשִׁי",
+        "transliteration": "neged tzorerai **dishanta** baShemen roshi",
+        "englishLiteral": "in-presence-of my-enemies **you-anoint** with-oil my-head",
+        "englishNatural": "in the presence of my enemies **you anoint** with oil my head"
+      }
+    }
+  ]
+}

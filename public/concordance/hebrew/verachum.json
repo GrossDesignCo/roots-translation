@@ -1,0 +1,31 @@
+{
+  "key": "verachum",
+  "language": "hebrew",
+  "root": "rachum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 24,
+      "word": {
+        "originalScript": "וְרַחוּם",
+        "transliteration": "veRachum",
+        "englishLiteral": "and-compassionate",
+        "englishNatural": "and compassionate",
+        "root": "rachum",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֵל־ חַנּוּן **וְרַחוּם** אֶרֶךְ אַפַּיִם",
+        "transliteration": "el- chanun **veRachum** erekh apayim",
+        "englishLiteral": "God- gracious **and-compassionate** long nostrils",
+        "englishNatural": "God gracious **and compassionate** long of nostrils"
+      }
+    }
+  ]
+}

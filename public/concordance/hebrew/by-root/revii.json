@@ -1,0 +1,126 @@
+{
+  "root": "revii",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 19
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "רְבִיעִֽי׃",
+        "transliteration": "reviyi",
+        "englishLiteral": "fourth",
+        "englishNatural": "A fourth",
+        "root": "revii",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בֹ֖קֶר י֥וֹם **רְבִיעִֽי׃**",
+        "transliteration": "boqer yom **reviyi**",
+        "englishLiteral": "morning Day **fourth**",
+        "englishNatural": "And morning day **A fourth**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הָרְבִיעִי",
+        "transliteration": "haRevii",
+        "englishLiteral": "the-fourth",
+        "englishNatural": "And the fourth",
+        "root": "revii",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אַשּׁוּר וְהַנָּהָר **הָרְבִיעִי** הוּא פְּרָת׃",
+        "transliteration": "Ashur veHaNahar **haRevii** hu Perat",
+        "englishLiteral": "Steppe (Assyria) And-the-river **the-fourth** he Fruitful (Perat)",
+        "englishNatural": "Steppe (Assyria) river **And the fourth** it is Fruitful (Perat)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 16
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "רְבִיעִי",
+        "transliteration": "revii",
+        "englishLiteral": "fourth",
+        "englishNatural": "And the fourth",
+        "root": "revii",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְדוֹר **רְבִיעִי** יָשׁוּבוּ הֵנָּה",
+        "transliteration": "veDor **revii** yashuvu hennah",
+        "englishLiteral": "And-generation **fourth** they-will-return here",
+        "englishNatural": "generation **And the fourth** will return here"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "רִבֵּעִים",
+        "transliteration": "ribeim",
+        "englishLiteral": "fourth_ones",
+        "englishNatural": "fourth-ones",
+        "root": "revii",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁלֵּשִׁים וְעַל־ **רִבֵּעִים**",
+        "transliteration": "shilleshim veAl- **ribeim**",
+        "englishLiteral": "third_ones and-over- **fourth_ones**",
+        "englishNatural": "third-ones and on **fourth-ones**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בָּרְבִיעִי",
+        "transliteration": "baRevii",
+        "englishLiteral": "in-fourth",
+        "englishNatural": "in the fourth",
+        "root": "revii",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "בִּשְׁלֹשִׁים שָׁנָה **בָּרְבִיעִי** בַּחֲמִשָּׁה לַחֹדֶשׁ",
+        "transliteration": "biShloshim shanah **baRevii** baChamishah laChodes",
+        "englishLiteral": "in-thirty year **in-fourth** in-five to-the-month",
+        "englishNatural": "thirty in year **in the fourth** in the five to the month"
+      }
+    }
+  ]
+}

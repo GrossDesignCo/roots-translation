@@ -1,0 +1,31 @@
+{
+  "key": "hamelakhim",
+  "language": "hebrew",
+  "root": "melekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 17
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הַמְּלָכִים",
+        "transliteration": "haMelakhim",
+        "englishLiteral": "the-kings",
+        "englishNatural": "the kings",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּדָרְלָעֹמֶר וְאֶת־ **הַמְּלָכִים** אֲשֶׁר אִתּוֹ",
+        "transliteration": "Kedarlaomer veEt- **haMelakhim** asher ito",
+        "englishLiteral": "Sheaf_Binder (Chedorlaomer) and-↳ **the-kings** which with-him",
+        "englishNatural": "Sheaf-Binder (Chedorlaomer) and **the kings** which were with him"
+      }
+    }
+  ]
+}

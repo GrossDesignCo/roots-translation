@@ -1,0 +1,30 @@
+{
+  "root": "efer",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הָאֵפֶר",
+        "transliteration": "haEfer",
+        "englishLiteral": "the-ashes",
+        "englishNatural": "the ashes",
+        "root": "efer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּשֶׁב עַל־ **הָאֵפֶר**",
+        "transliteration": "vaYeshev al- **haEfer**",
+        "englishLiteral": "and-sat over- **the-ashes**",
+        "englishNatural": "and sat over **the ashes**"
+      }
+    }
+  ]
+}

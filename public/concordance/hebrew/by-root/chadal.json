@@ -1,0 +1,32 @@
+{
+  "root": "chadal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַיַּחְדְּלוּ",
+        "transliteration": "vayachdelu",
+        "englishLiteral": "and-they-ceased",
+        "englishNatural": "and they ceased",
+        "root": "chadal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כָל־ הָאָרֶץ **וַיַּחְדְּלוּ** לִבְנֹת הָעִיר",
+        "transliteration": "khol- haAretz **vayachdelu** livnot haIr",
+        "englishLiteral": "all- the-land **and-they-ceased** to-build the-city",
+        "englishNatural": "all the land **and they ceased** to build the city"
+      }
+    }
+  ]
+}

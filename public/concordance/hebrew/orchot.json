@@ -1,0 +1,31 @@
+{
+  "key": "orchot",
+  "language": "hebrew",
+  "root": "orach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אָרְח֥וֹת",
+        "transliteration": "orchot",
+        "englishLiteral": "paths-of",
+        "englishNatural": "the paths of",
+        "root": "orach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיָּ֑ם עֹ֝בֵ֗ר **אָרְח֥וֹת** יַמִּֽים",
+        "transliteration": "haYam over **orchot** yamim",
+        "englishLiteral": "the-sea passing-through **paths-of** seas",
+        "englishNatural": "the sea passing-through **the paths of** seas"
+      }
+    }
+  ]
+}

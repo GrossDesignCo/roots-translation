@@ -1,0 +1,33 @@
+{
+  "key": "bihyotam",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בִּהְיוֹתָם",
+        "transliteration": "biHyotam",
+        "englishLiteral": "in-their-being",
+        "englishNatural": "in their being",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אָחִיו וַיְהִי **בִּהְיוֹתָם** בַּשָּׂדֶה וַיָּקָם",
+        "transliteration": "achiv vayHi **biHyotam** basadeh vayYaqam",
+        "englishLiteral": "his-brother And-it-was **in-their-being** in-field and-he-stood_up",
+        "englishNatural": "his brother and it was **in their being** in the field stood-up"
+      }
+    }
+  ]
+}

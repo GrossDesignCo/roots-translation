@@ -1,0 +1,31 @@
+{
+  "key": "tzom",
+  "language": "hebrew",
+  "root": "tzom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "צוֹם",
+        "transliteration": "tzom",
+        "englishLiteral": "fast",
+        "englishNatural": "a fast",
+        "root": "tzom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּאלֹהִים וַיִּקְרְאוּ־ **צוֹם** וַיִּלְבְּשׁוּ שַׂקִּים",
+        "transliteration": "bElohim vaYiqreu- **tzom** vaYilbeshu saqim",
+        "englishLiteral": "in-Gods and-called_out- **fast** and-clothed sackcloth",
+        "englishNatural": "in God and called-out **a fast** and clothed sackcloth"
+      }
+    }
+  ]
+}

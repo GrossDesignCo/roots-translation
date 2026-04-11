@@ -1,0 +1,30 @@
+{
+  "root": "naki",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "נָקִיא",
+        "transliteration": "naqi",
+        "englishLiteral": "innocent",
+        "englishNatural": "innocent",
+        "root": "naki",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "עָלֵינוּ דָּם **נָקִיא** כִּי־ אַתָּה",
+        "transliteration": "alenu dam **naqi** ki- atah",
+        "englishLiteral": "over-us blood **innocent** that- you",
+        "englishNatural": "over us blood **innocent** that you"
+      }
+    }
+  ]
+}

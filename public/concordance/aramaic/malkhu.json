@@ -1,0 +1,79 @@
+{
+  "key": "malkhu",
+  "language": "aramaic",
+  "root": "malkhut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 39
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מַלְכוּ",
+        "transliteration": "malkhu",
+        "englishLiteral": "kingdom",
+        "englishNatural": "kingdom",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבָתְרָךְ תְּקוּם **מַלְכוּ** אָחֳרִי אֲרַע",
+        "transliteration": "uVathrakh tequm **malkhu** ochori ara",
+        "englishLiteral": "and-after-you will-stand_up **kingdom** another lower",
+        "englishNatural": "And after you will stand-up **kingdom** another lower"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מַלְכוּ",
+        "transliteration": "malkhu",
+        "englishLiteral": "kingdom",
+        "englishNatural": "kingdom",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִנְּהוֹן פַּרְזֶל **מַלְכוּ** פְלִיגָה תֶּהֱוֵא",
+        "transliteration": "uMinnehon parzel **malkhu** peligah teheve",
+        "englishLiteral": "and-from-them iron **kingdom** divided-the will-be",
+        "englishNatural": "and from them iron **kingdom** the divided will be"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מַלְכוּ",
+        "transliteration": "malkhu",
+        "englishLiteral": "kingdom",
+        "englishNatural": "a kingdom",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלָהּ שְׁמַיָּא **מַלְכוּ** דִּי לְעָלְמִין",
+        "transliteration": "elah shemaya **malkhu** di leAlmin",
+        "englishLiteral": "God-the skies-the **kingdom** which to-the_ages",
+        "englishNatural": "the God of the skies **a kingdom** which to the-ages"
+      }
+    }
+  ]
+}

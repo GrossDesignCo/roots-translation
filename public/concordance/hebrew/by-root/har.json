@@ -1,0 +1,78 @@
+{
+  "root": "har",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "הַר",
+        "transliteration": "har",
+        "englishLiteral": "mountain-of",
+        "englishNatural": "the mountain of",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּבֹא אֶל־ **הַר** הָאֱלֹהִים חֹרֵבָה",
+        "transliteration": "vaYavo el- **har** haElohim Chorevah",
+        "englishLiteral": "and-came to- **mountain-of** the-Gods Desolate (Horeb)",
+        "englishNatural": "and came to **the mountain of** the God Desolate (Horeb)"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 25
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הָרִים",
+        "transliteration": "harim",
+        "englishLiteral": "mountains",
+        "englishNatural": "mountains",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּטֶרֶם **הָרִים** הָטְבָּעוּ לִפְנֵי",
+        "transliteration": "beTerem **harim** hotbau lifnei",
+        "englishLiteral": "In-before **mountains** were-sunk to-faces-of",
+        "englishNatural": "In before **mountains** were sunk to the faces of"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הָרִים",
+        "transliteration": "harim",
+        "englishLiteral": "mountains",
+        "englishNatural": "the mountains",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָרַדְתִּי לְקִצְבֵי **הָרִים** הָאָרֶץ בְּרִחֶיהָ",
+        "transliteration": "yaradti leqitzevei **harim** haaretz bericheiha",
+        "englishLiteral": "I-went_down to-cutoffs-of **mountains** the-earth bars-her",
+        "englishNatural": "I went down to the cutoffs of **the mountains** the earth her bars"
+      }
+    }
+  ]
+}

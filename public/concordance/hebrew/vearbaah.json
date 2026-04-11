@@ -1,0 +1,31 @@
+{
+  "key": "vearbaah",
+  "language": "hebrew",
+  "root": "arba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאַרְבָּעָה",
+        "transliteration": "veArbaah",
+        "englishLiteral": "And-four",
+        "englishNatural": "And four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאַרְבָּעָה** פָנִים לְאֶחָת",
+        "transliteration": "**veArbaah** fanim leEchat",
+        "englishLiteral": "**And-four** faces to-one",
+        "englishNatural": "**And four** faces to one"
+      }
+    }
+  ]
+}

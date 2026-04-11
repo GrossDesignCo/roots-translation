@@ -1,0 +1,31 @@
+{
+  "key": "mareihem",
+  "language": "hebrew",
+  "root": "mareh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מַרְאֵיהֶם",
+        "transliteration": "mareihem",
+        "englishLiteral": "appearance-their",
+        "englishNatural": "their appearance",
+        "root": "mareh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּדְמוּת הַחַיּוֹת **מַרְאֵיהֶם** כְּגַחֲלֵי־ אֵשׁ",
+        "transliteration": "uDemut haChayot **mareihem** keGachaley- esh",
+        "englishLiteral": "And-likeness-of the-living_beings **appearance-their** like-coals-of- fire",
+        "englishNatural": "And the likeness of the living-beings **their appearance** like coals of fire"
+      }
+    }
+  ]
+}

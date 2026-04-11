@@ -1,0 +1,54 @@
+{
+  "root": "shen",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "שניה",
+        "transliteration": "shinnah",
+        "englishLiteral": "teeth-its",
+        "englishNatural": "its teeth",
+        "root": "shen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּפֻמַּ֖הּ בֵּ֣ין **שניה** וְכֵן֙ אָמְרִ֣ין",
+        "transliteration": "bePummah beyn **shinnah** veKhen amrin",
+        "englishLiteral": "in-mouth-its between **teeth-its** and-thus saying",
+        "englishNatural": "in its mouth between **its teeth** and thus they said"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְשִׁנַּ֨יִן",
+        "transliteration": "veShinnayin",
+        "englishLiteral": "and-teeth",
+        "englishNatural": "and teeth",
+        "root": "shen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְתַקִּיפָ֣א יַתִּ֗ירָה **וְשִׁנַּ֨יִן** דִּֽי־ פַרְזֶ֥ל",
+        "transliteration": "veTaqqipha yattirah **veShinnayin** di- parzel",
+        "englishLiteral": "and-strong exceedingly **and-teeth** of- iron",
+        "englishNatural": "strong and exceedingly **and teeth** of iron"
+      }
+    }
+  ]
+}

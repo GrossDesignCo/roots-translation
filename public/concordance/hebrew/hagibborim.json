@@ -1,0 +1,31 @@
+{
+  "key": "hagibborim",
+  "language": "hebrew",
+  "root": "gibbor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "הַגִּבֹּרִים",
+        "transliteration": "haGibborim",
+        "englishLiteral": "the-mighty_ones",
+        "englishNatural": "the mighty-ones",
+        "root": "gibbor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶם הֵמָּה **הַגִּבֹּרִים** אֲשֶׁר מֵעוֹלָם",
+        "transliteration": "lahem hemah **haGibborim** asher meOlam",
+        "englishLiteral": "to-them they **the-mighty_ones** which from-the_age",
+        "englishNatural": "and to them they **the mighty-ones** which from the-age"
+      }
+    }
+  ]
+}

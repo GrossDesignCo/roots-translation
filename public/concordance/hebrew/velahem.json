@@ -1,0 +1,31 @@
+{
+  "key": "velahem",
+  "language": "hebrew",
+  "root": "la",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 21
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְלָהֶם",
+        "transliteration": "velahem",
+        "englishLiteral": "and-to-them",
+        "englishNatural": "and for them",
+        "root": "la",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיָה לְךָ **וְלָהֶם** לְאָכְלָה",
+        "transliteration": "veHayah lekha **velahem** leOkhlah",
+        "englishLiteral": "and-it-will-be to-you **and-to-them** to-food",
+        "englishNatural": "and it will be for you **and for them** for food"
+      }
+    }
+  ]
+}

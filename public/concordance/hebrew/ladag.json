@@ -1,0 +1,31 @@
+{
+  "key": "ladag",
+  "language": "hebrew",
+  "root": "dag",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לַדָּג",
+        "transliteration": "laDag",
+        "englishLiteral": "to-the-fish",
+        "englishNatural": "to the fish",
+        "root": "dag",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **לַדָּג** וַיָּקֵא אֶת־",
+        "transliteration": "vaYomer YHWH **laDag** vaYaqe et-",
+        "englishLiteral": "And-said He_Who_Is (YHWH) **to-the-fish** and-vomited ↳",
+        "englishNatural": "spoke And He-Who-Is (YHWH) **to the fish** and he vomited ↳"
+      }
+    }
+  ]
+}

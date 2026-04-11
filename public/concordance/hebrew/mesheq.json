@@ -1,0 +1,31 @@
+{
+  "key": "mesheq",
+  "language": "hebrew",
+  "root": "mesheq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מֶשֶׁק",
+        "transliteration": "mesheq",
+        "englishLiteral": "possessor-of",
+        "englishNatural": "possessor of",
+        "root": "mesheq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֲרִירִי וּבֶן־ **מֶשֶׁק** בֵּיתִי הוּא",
+        "transliteration": "ariri uVen- **mesheq** beyti hu",
+        "englishLiteral": "childless and-son-of- **possessor-of** house-of-me he",
+        "englishNatural": "childless and the son of **possessor of** my house is"
+      }
+    }
+  ]
+}

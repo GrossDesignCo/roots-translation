@@ -1,0 +1,55 @@
+{
+  "key": "hamaqom",
+  "language": "hebrew",
+  "root": "maqom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הַמָּקוֹם",
+        "transliteration": "haMaqom",
+        "englishLiteral": "the-place",
+        "englishNatural": "the place",
+        "root": "maqom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רַגְלֶיךָ כִּי **הַמָּקוֹם** אֲשֶׁר אַתָּה",
+        "transliteration": "raglekha ki **haMaqom** asher atah",
+        "englishLiteral": "feet-your that **the-place** which you",
+        "englishNatural": "your feet that **the place** which you"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַמָּק֔וֹם",
+        "transliteration": "haMaqom",
+        "englishLiteral": "the-place",
+        "englishNatural": "the place",
+        "root": "maqom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֵּצֵא֙ מִן־ **הַמָּק֔וֹם** אֲשֶׁ֥ר הָֽיְתָה־",
+        "transliteration": "vatTetze min- **haMaqom** asher hayetah-",
+        "englishLiteral": "And-she-went_out from- **the-place** which she-had-been-",
+        "englishNatural": "And she went-out from **the place** which she had been"
+      }
+    }
+  ]
+}

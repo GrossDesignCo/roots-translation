@@ -1,0 +1,33 @@
+{
+  "key": "unetilat",
+  "language": "aramaic",
+  "root": "netal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וּנְטִ֣ילַת",
+        "transliteration": "uNetilat",
+        "englishLiteral": "and-lifted-up",
+        "englishNatural": "and it was lifted-up",
+        "root": "netal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "מְּרִ֨יטוּ גַפַּ֜יהּ **וּנְטִ֣ילַת** מִן־ אַרְעָ֗א",
+        "transliteration": "meritu gappayh **uNetilat** min- ara",
+        "englishLiteral": "were-plucked wings-its **and-lifted-up** from- the-land",
+        "englishNatural": "were plucked its wings **and it was lifted-up** from the land"
+      }
+    }
+  ]
+}

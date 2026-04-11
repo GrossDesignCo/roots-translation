@@ -1,0 +1,31 @@
+{
+  "key": "set",
+  "language": "hebrew",
+  "root": "nasa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שְׂאֵת",
+        "transliteration": "set",
+        "englishLiteral": "lifting_up",
+        "englishNatural": "lifting-up",
+        "root": "nasa",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִם־ תֵּיטִיב **שְׂאֵת** וְאִם לֹא",
+        "transliteration": "im- teytiv **set** veim lo",
+        "englishLiteral": "if- you-do_well **lifting_up** And-if not",
+        "englishNatural": "if you do-well **lifting-up** And if not"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "hod",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "ה֝וֹדְךָ֗",
+        "transliteration": "hodkha",
+        "englishLiteral": "your-splendor",
+        "englishNatural": "your splendor",
+        "root": "hod",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁ֥ר תְּנָ֥ה **ה֝וֹדְךָ֗** עַל־ הַשָּׁמָֽיִם",
+        "transliteration": "asher tenah **hodkha** al- haShamayim",
+        "englishLiteral": "which give! **your-splendor** over- the-skies",
+        "englishNatural": "which give **your splendor** over the skies"
+      }
+    }
+  ]
+}

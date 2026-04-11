@@ -1,0 +1,30 @@
+{
+  "root": "miktsat",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וּמִקְצָת",
+        "transliteration": "uMiktsat",
+        "englishLiteral": "and-from-part",
+        "englishNatural": "and part of",
+        "root": "miktsat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֶלֶךְ־ יְהוּדָה **וּמִקְצָת** כְּלֵי בֵּית־",
+        "transliteration": "melekh- Yehudah **uMiktsat** kelei beit-",
+        "englishLiteral": "king-of- Praise (Judah) **and-from-part** vessels-of house-of-",
+        "englishNatural": "king of Praise (Judah) **and part of** the vessels of the house of"
+      }
+    }
+  ]
+}

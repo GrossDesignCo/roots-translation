@@ -1,0 +1,31 @@
+{
+  "key": "began-",
+  "language": "hebrew",
+  "root": "gan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בְגַן־",
+        "transliteration": "beGan-",
+        "englishLiteral": "in-Garden-",
+        "englishNatural": "in Garden",
+        "root": "gan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם וַיַּנִּחֵהוּ **בְגַן־** עֵדֶן לְעָבְדָהּ",
+        "transliteration": "haAdam vaYanNichehu **beGan-** Eden leAvdah",
+        "englishLiteral": "the-Earthling (Adam) and-rested-him **in-Garden-** Delight (Eden) to-serve-her",
+        "englishNatural": "the Earthling (Adam) and rested him **in Garden** Delight (Eden) to serve her"
+      }
+    }
+  ]
+}

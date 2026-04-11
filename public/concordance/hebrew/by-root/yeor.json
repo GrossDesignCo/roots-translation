@@ -1,0 +1,30 @@
+{
+  "root": "yeor",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "הַיְאֹר",
+        "transliteration": "haYeor",
+        "englishLiteral": "the-canal",
+        "englishNatural": "the canal",
+        "root": "yeor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ שְׂפַת **הַיְאֹר**",
+        "transliteration": "al- sefat **haYeor**",
+        "englishLiteral": "over- lip-of **the-canal**",
+        "englishNatural": "over the lip of **the canal**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "hen",
+  "language": "aramaic",
+  "root": "hen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "הֵן",
+        "transliteration": "hen",
+        "englishLiteral": "Behold",
+        "englishNatural": "Behold",
+        "root": "hen",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "עִם־ דְּנָה **הֵן** כְּדִי פַרְזְלָא",
+        "transliteration": "im- denah **hen** kedi parzela",
+        "englishLiteral": "with- this **Behold** just_as iron-the",
+        "englishNatural": "with this **Behold** just as the iron"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "root": "ayin_eye",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "עַיְנִ֜ין",
+        "transliteration": "ayinin",
+        "englishLiteral": "eyes",
+        "englishNatural": "eyes",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קדמיה וַאֲל֙וּ **עַיְנִ֜ין** כְּעַיְנֵ֤י אֲנָשָׁא֙",
+        "transliteration": "qodameyh vaAlu **ayinin** keAynei anasha",
+        "englishLiteral": "before-it and-behold **eyes** like-eyes-of Mortal_Man (Enash)-the",
+        "englishNatural": "before it and behold **eyes** like the eyes of the Mortal-Man (Enash)"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "כְּעַיְנֵ֤י",
+        "transliteration": "keAynei",
+        "englishLiteral": "like-eyes-of",
+        "englishNatural": "like the eyes of",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲל֙וּ עַיְנִ֜ין **כְּעַיְנֵ֤י** אֲנָשָׁא֙ בְּקַרְנָא־",
+        "transliteration": "vaAlu ayinin **keAynei** anasha beQarna-",
+        "englishLiteral": "and-behold eyes **like-eyes-of** Mortal_Man (Enash)-the in-horn-",
+        "englishNatural": "and behold eyes **like the eyes of** the Mortal-Man (Enash) horn"
+      }
+    }
+  ]
+}

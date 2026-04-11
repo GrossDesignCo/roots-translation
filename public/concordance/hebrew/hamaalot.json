@@ -1,0 +1,31 @@
+{
+  "key": "hamaalot",
+  "language": "hebrew",
+  "root": "alah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 0
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַמַּעֲלוֹת",
+        "transliteration": "haMaalot",
+        "englishLiteral": "the-overs",
+        "englishNatural": "of The Overs",
+        "root": "alah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁיר **הַמַּעֲלוֹת** לְדָוִד",
+        "transliteration": "shir **haMaalot** leDavid",
+        "englishLiteral": "song **the-overs** to-David",
+        "englishNatural": "A Song **of The Overs** To David"
+      }
+    }
+  ]
+}

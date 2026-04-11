@@ -1,0 +1,31 @@
+{
+  "key": "yerushalayim",
+  "language": "hebrew",
+  "root": "yerushalayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "יְרוּשָׁלַם",
+        "transliteration": "Yerushalayim",
+        "englishLiteral": "Foundation_of_Peace (Jerusalem)",
+        "englishNatural": "to Foundation-of-Peace (Jerusalem)",
+        "root": "yerushalayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֶלֶךְ בָּבֶל **יְרוּשָׁלַם** וַיָּצַר עָלֶיהָ",
+        "transliteration": "melekh Bavel **Yerushalayim** vayyatsar aleha",
+        "englishLiteral": "king Confusion (Babylon) **Foundation_of_Peace (Jerusalem)** and-he-besieged over-her",
+        "englishNatural": "king of Confusion (Babylon) **to Foundation-of-Peace (Jerusalem)** and he besieged over it"
+      }
+    }
+  ]
+}

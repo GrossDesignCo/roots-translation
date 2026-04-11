@@ -1,0 +1,32 @@
+{
+  "root": "ranah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "תָּרֹנָּה",
+        "transliteration": "taRonnah",
+        "englishLiteral": "she-cries_out",
+        "englishNatural": "she cries-out",
+        "root": "ranah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מְבוֹא פְתָחִים **תָּרֹנָּה**",
+        "transliteration": "mevo petachim **taRonnah**",
+        "englishLiteral": "incoming-of openings **she-cries_out**",
+        "englishNatural": "incoming of openings **she cries-out**"
+      }
+    }
+  ]
+}

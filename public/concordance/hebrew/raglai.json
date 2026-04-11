@@ -1,0 +1,31 @@
+{
+  "key": "raglai",
+  "language": "hebrew",
+  "root": "regel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "רַגְלָי",
+        "transliteration": "raglai",
+        "englishLiteral": "feet-my",
+        "englishNatural": "my feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתַּעֲמִדֵנִי עַל־ **רַגְלָי** וָאֶשְׁמַע אֵת",
+        "transliteration": "vataAmideni al- **raglai** vaEshma et",
+        "englishLiteral": "and-stood-me over- **feet-my** and-I-heard ↳",
+        "englishNatural": "and stood me over **my feet** and I heard ↳"
+      }
+    }
+  ]
+}

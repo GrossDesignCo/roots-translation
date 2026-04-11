@@ -1,0 +1,33 @@
+{
+  "key": "nishbar",
+  "language": "hebrew",
+  "root": "shavar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נִשְׁבַּר",
+        "transliteration": "nishbar",
+        "englishLiteral": "is-broken",
+        "englishNatural": "is broken",
+        "root": "shavar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "כֻּלֵּךְ כִּי **נִשְׁבַּר** שֵׁבֶט מַכֵּךְ",
+        "transliteration": "kulekh ki **nishbar** shevet makekh",
+        "englishLiteral": "all-of-you that **is-broken** rod of-him-who-strikes_down-you",
+        "englishNatural": "all of you that **is broken** the rod of him who strikes-down you"
+      }
+    }
+  ]
+}

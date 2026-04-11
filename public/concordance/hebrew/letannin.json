@@ -1,0 +1,55 @@
+{
+  "key": "letannin",
+  "language": "hebrew",
+  "root": "tannin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "לְתַנִּין",
+        "transliteration": "leTannin",
+        "englishLiteral": "to-monster",
+        "englishNatural": "to a monster",
+        "root": "tannin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פַרְעֹה יְהִי **לְתַנִּין**",
+        "transliteration": "Paroh yehi **leTannin**",
+        "englishLiteral": "Pharaoh let-him-be **to-monster**",
+        "englishNatural": "Pharaoh let it be **to a monster**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "לְתַנִּין",
+        "transliteration": "leTannin",
+        "englishLiteral": "to-monster",
+        "englishNatural": "to a monster",
+        "root": "tannin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֲבָדָיו וַיְהִי **לְתַנִּין**",
+        "transliteration": "avadav vaYehi **leTannin**",
+        "englishLiteral": "servants-his and-he-was **to-monster**",
+        "englishNatural": "his servants and it was **to a monster**"
+      }
+    }
+  ]
+}

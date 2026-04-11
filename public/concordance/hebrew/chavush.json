@@ -1,0 +1,33 @@
+{
+  "key": "chavush",
+  "language": "hebrew",
+  "root": "chavash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "חָבוּשׁ",
+        "transliteration": "chavush",
+        "englishLiteral": "binds",
+        "englishNatural": "binds",
+        "root": "chavash",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְסֹבְבֵנִי סוּף **חָבוּשׁ** לְרֹאשִׁי",
+        "transliteration": "yesoveveni suf **chavush** leroshi",
+        "englishLiteral": "goes_around-me reed **binds** to-head-my",
+        "englishNatural": "goes-around me reed **binds** to my head"
+      }
+    }
+  ]
+}

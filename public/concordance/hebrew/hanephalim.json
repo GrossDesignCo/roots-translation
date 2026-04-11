@@ -1,0 +1,31 @@
+{
+  "key": "hanephalim",
+  "language": "hebrew",
+  "root": "nefilim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "הַנְּפִלִים",
+        "transliteration": "haNephalim",
+        "englishLiteral": "The-Fallen (Nephilim)",
+        "englishNatural": "The Fallen (Nephilim)",
+        "root": "nefilim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**הַנְּפִלִים** הָיוּ בָאָרֶץ",
+        "transliteration": "**haNephalim** hayu baAretz",
+        "englishLiteral": "**The-Fallen (Nephilim)** were in-land",
+        "englishNatural": "**The Fallen (Nephilim)** were in the land"
+      }
+    }
+  ]
+}

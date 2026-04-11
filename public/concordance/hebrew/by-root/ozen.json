@@ -1,0 +1,30 @@
+{
+  "root": "ozen",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בְּאָזְנֵ֣י",
+        "transliteration": "beOzney",
+        "englishLiteral": "in-ears-of",
+        "englishNatural": "in the ears of",
+        "root": "ozen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דַּבֶּר־ נָ֖א **בְּאָזְנֵ֣י** הָעָ֑ם וְיִשְׁאֲל֞וּ",
+        "transliteration": "daber- na **beOzney** haAm veYishalu",
+        "englishLiteral": "speak- please **in-ears-of** the-people and-let-ask",
+        "englishNatural": "Speak please **in the ears of** the people and let ask"
+      }
+    }
+  ]
+}

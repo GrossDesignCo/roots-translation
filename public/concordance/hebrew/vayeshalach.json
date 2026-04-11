@@ -1,0 +1,33 @@
+{
+  "key": "vayeshalach",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְשַׁלַּח",
+        "transliteration": "vaYeshalach",
+        "englishLiteral": "And-sent",
+        "englishNatural": "sent",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְשַׁלַּח** יְהוָה בָּעָם",
+        "transliteration": "**vaYeshalach** YHWH baAm",
+        "englishLiteral": "**And-sent** He_Who_Is (YHWH) among-the-people",
+        "englishNatural": "**sent** And He-Who-Is (YHWH) among the people"
+      }
+    }
+  ]
+}

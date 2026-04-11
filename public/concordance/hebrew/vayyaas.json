@@ -1,0 +1,59 @@
+{
+  "key": "vayyaas",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 21
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּעַשׂ",
+        "transliteration": "vayYaas",
+        "englishLiteral": "And-he-made",
+        "englishNatural": "made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּעַשׂ** יְהוָה אֱלֹהִים",
+        "transliteration": "**vayYaas** YHWH Elohim",
+        "englishLiteral": "**And-he-made** He_Who_Is (YHWH) Gods",
+        "englishNatural": "**made** And He-Who-Is (YHWH) God"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 22
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּעַשׂ",
+        "transliteration": "vayYaas",
+        "englishLiteral": "And-he-made",
+        "englishNatural": "made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּעַשׂ** נֹחַ כְּכֹל",
+        "transliteration": "**vayYaas** Noach keKhol",
+        "englishLiteral": "**And-he-made** Rest (Noah) like-all",
+        "englishNatural": "**made** And Rest (Noah) like all"
+      }
+    }
+  ]
+}

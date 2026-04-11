@@ -1,0 +1,30 @@
+{
+  "root": "letz",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לֵצִים",
+        "transliteration": "letzim",
+        "englishLiteral": "scoffers",
+        "englishNatural": "scoffers",
+        "root": "letz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָמָד וּבְמוֹשַׁב **לֵצִים** לֹא יָשָׁב",
+        "transliteration": "amad uvMoshav **letzim** lo yashav",
+        "englishLiteral": "has-stood and-in-seat-of **scoffers** not has-sat",
+        "englishNatural": "has stood and in the seat of **scoffers** not has sat"
+      }
+    }
+  ]
+}

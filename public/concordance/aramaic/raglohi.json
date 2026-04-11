@@ -1,0 +1,55 @@
+{
+  "key": "raglohi",
+  "language": "aramaic",
+  "root": "regel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 33
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "רַגְלוֹהִי",
+        "transliteration": "raglohi",
+        "englishLiteral": "feet-its",
+        "englishNatural": "its feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי פַרְזֶל **רַגְלוֹהִי** מִנְהוֹן דִּי",
+        "transliteration": "di parzel **raglohi** minhon di",
+        "englishLiteral": "which iron **feet-its** from-them which",
+        "englishNatural": "of iron **its feet** from them of"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 34
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "רַגְלוֹהִי",
+        "transliteration": "raglohi",
+        "englishLiteral": "feet-its",
+        "englishNatural": "its feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְצַלְמָא עַל **רַגְלוֹהִי** דִּי פַרְזְלָא",
+        "transliteration": "leTsalma al **raglohi** di parzela",
+        "englishLiteral": "to-image-the over **feet-its** which iron-the",
+        "englishNatural": "to the image over **its feet** of the iron"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "imrati",
+  "language": "hebrew",
+  "root": "imrah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "אִמְרָתִי",
+        "transliteration": "imrati",
+        "englishLiteral": "speech-my",
+        "englishNatural": "my speech",
+        "root": "imrah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֶמֶךְ הַאֲזֵנָּה **אִמְרָתִי** כִּי אִישׁ",
+        "transliteration": "Lemekh haAzenah **imrati** ki ish",
+        "englishLiteral": "Powerful (Lamech) attend **speech-my** that man",
+        "englishNatural": "Powerful (Lamech) attend **my speech** that man"
+      }
+    }
+  ]
+}

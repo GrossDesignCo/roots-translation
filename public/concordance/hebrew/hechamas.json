@@ -1,0 +1,31 @@
+{
+  "key": "hechamas",
+  "language": "hebrew",
+  "root": "chamas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הֶחָמָס",
+        "transliteration": "heChamas",
+        "englishLiteral": "the-violence",
+        "englishNatural": "the violence",
+        "root": "chamas",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָרָעָה וּמִן־ **הֶחָמָס** אֲשֶׁר בְּכַפֵּיהֶם",
+        "transliteration": "haRaah umin- **heChamas** asher beKappeihem",
+        "englishLiteral": "the-bad and-from- **the-violence** which in-palms-their",
+        "englishNatural": "from the bad of and from **the violence** which is in their hands"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "miyad",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מִיַּד",
+        "transliteration": "miYad",
+        "englishLiteral": "from-hand-of",
+        "englishNatural": "from the hand of",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ **מִיַּד** כָּל־ חַיָּה",
+        "transliteration": "leNafshotekhem edrosh **miYad** kol- chayah",
+        "englishLiteral": "for-your-winds I-will-require **from-hand-of** all- living_being",
+        "englishNatural": "for your winds I will require **from the hand of** all living-being"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 5
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מִיַּד",
+        "transliteration": "miYad",
+        "englishLiteral": "from-hand-of",
+        "englishNatural": "from the hand of",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִיַּד הָאָדָם **מִיַּד** אִישׁ אָחִיו",
+        "transliteration": "uMiYad haAdam **miYad** ish achiv",
+        "englishLiteral": "and-from-hand-of the-Earthling (Adam) **from-hand-of** man his-brother",
+        "englishNatural": "and from the hand of the Earthling (Adam) **from the hand of** a man his brother"
+      }
+    }
+  ]
+}

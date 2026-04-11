@@ -1,0 +1,31 @@
+{
+  "key": "em",
+  "language": "hebrew",
+  "root": "em",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 20
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אֵם",
+        "transliteration": "em",
+        "englishLiteral": "Mother",
+        "englishNatural": "Mother",
+        "root": "em",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הִוא הָיְתָה **אֵם** כָּל־ חָי׃",
+        "transliteration": "hi hayetah **em** kol- chai",
+        "englishLiteral": "she was **Mother** all Living",
+        "englishNatural": "she was **Mother** of all Living"
+      }
+    }
+  ]
+}

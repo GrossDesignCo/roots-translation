@@ -1,0 +1,33 @@
+{
+  "key": "taasehah",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "תַּעֲשֶׂהָ",
+        "transliteration": "taAsehah",
+        "englishLiteral": "you-shall-make-her",
+        "englishNatural": "you shall make it",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנִיִּם וּשְׁלִשִׁים **תַּעֲשֶׂהָ**",
+        "transliteration": "shniyim uShlishim **taAsehah**",
+        "englishLiteral": "second and-third **you-shall-make-her**",
+        "englishNatural": "second and third **you shall make it**"
+      }
+    }
+  ]
+}

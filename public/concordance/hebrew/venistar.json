@@ -1,0 +1,33 @@
+{
+  "key": "venistar",
+  "language": "hebrew",
+  "root": "satar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְנִסְתָּר",
+        "transliteration": "veNiStar",
+        "englishLiteral": "and-himself-hides",
+        "englishNatural": "and hides himself",
+        "root": "satar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "רָאָה רָעָה **וְנִסְתָּר** וּפְתָיִים עָבְרוּ",
+        "transliteration": "ra'ah ra`ah **veNiStar** uFetayim avru",
+        "englishLiteral": "sees bad **and-himself-hides** but-simples pass-on",
+        "englishNatural": "sees bad **and hides himself** but the simple go on"
+      }
+    }
+  ]
+}

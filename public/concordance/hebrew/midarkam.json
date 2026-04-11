@@ -1,0 +1,31 @@
+{
+  "key": "midarkam",
+  "language": "hebrew",
+  "root": "derekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מִדַּרְכָּם",
+        "transliteration": "midarkam",
+        "englishLiteral": "from-way-their",
+        "englishNatural": "their way",
+        "root": "derekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ שָׁבוּ **מִדַּרְכָּם** הָרָעָה וַיִּנָּחֶם",
+        "transliteration": "ki- shavu **midarkam** haRaah vaYinachem",
+        "englishLiteral": "that- they-returned **from-way-their** the-bad and-comforted",
+        "englishNatural": "that they returned **their way** from the bad of comforted"
+      }
+    }
+  ]
+}

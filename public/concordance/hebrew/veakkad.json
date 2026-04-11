@@ -1,0 +1,31 @@
+{
+  "key": "veakkad",
+  "language": "hebrew",
+  "root": "akkad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְאַכַּד",
+        "transliteration": "veAkkad",
+        "englishLiteral": "and-Fortress (Akkadia)",
+        "englishNatural": "and Fortress (Akkadia)",
+        "root": "akkad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּבֶל וְאֶרֶךְ **וְאַכַּד** וְכַלְנֵה בְּאֶרֶץ",
+        "transliteration": "Babel veErekh **veAkkad** veKhalneh beEretz",
+        "englishLiteral": "Confusion (Babylon) and-Length (Erech) **and-Fortress (Akkadia)** and-Fortress (Calneh) in-land-of",
+        "englishNatural": "Confusion (Babylon) and Length (Erech) **and Fortress (Akkadia)** and Fortress (Calneh) in the land of"
+      }
+    }
+  ]
+}

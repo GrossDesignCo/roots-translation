@@ -1,0 +1,33 @@
+{
+  "key": "tigu",
+  "language": "hebrew",
+  "root": "naga",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "תִגְּעוּ",
+        "transliteration": "tigu",
+        "englishLiteral": "you-shall-touch",
+        "englishNatural": "and you shall touch",
+        "root": "naga",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִמֶּנּוּ וְלֹא **תִגְּעוּ** בּוֹ פֶּן־",
+        "transliteration": "mimenu velo **tigu** bo pen-",
+        "englishLiteral": "from-it and-not **you-shall-touch** in-it lest",
+        "englishNatural": "from it not **and you shall touch** it lest"
+      }
+    }
+  ]
+}

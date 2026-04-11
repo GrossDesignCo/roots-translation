@@ -1,0 +1,33 @@
+{
+  "key": "hodakh",
+  "language": "aramaic",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 29
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הוֹדְעָךְ",
+        "transliteration": "hodakh",
+        "englishLiteral": "he-caused-you-to-know",
+        "englishNatural": "caused you to know",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "haphel"
+        }
+      },
+      "context": {
+        "hebrew": "וְגָלֵא רָזַיָּא **הוֹדְעָךְ** מָה דִּי",
+        "transliteration": "vegale razayya **hodakh** mah di",
+        "englishLiteral": "and-revealer-the mysteries-the **he-caused-you-to-know** what which",
+        "englishNatural": "and the Revealer of the Mysteries **caused you to know** what which"
+      }
+    }
+  ]
+}

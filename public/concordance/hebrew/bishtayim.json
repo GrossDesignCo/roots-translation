@@ -1,0 +1,31 @@
+{
+  "key": "bishtayim",
+  "language": "hebrew",
+  "root": "shnayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בִּשְׁתַּיִם",
+        "transliteration": "biShtayim",
+        "englishLiteral": "in-two",
+        "englishNatural": "in two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "כְּנָפַיִם לְאֶחָד **בִּשְׁתַּיִם** יְכַסֶּה פָּנָיו",
+        "transliteration": "kenafayim leEchad **biShtayim** yeKhasseh panav",
+        "englishLiteral": "wings to-one **in-two** he-covers his-faces",
+        "englishNatural": "wings to each one **in two** he covers his faces"
+      }
+    }
+  ]
+}

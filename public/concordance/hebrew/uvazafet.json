@@ -1,0 +1,31 @@
+{
+  "key": "uvazafet",
+  "language": "hebrew",
+  "root": "zefet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וּבַזָּפֶת",
+        "transliteration": "uVaZafet",
+        "englishLiteral": "and-in-pitch",
+        "englishNatural": "and in pitch",
+        "root": "zefet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתַּחְמְרָה בַחֵמָר **וּבַזָּפֶת** וַתָּשֶׂם בָּהּ",
+        "transliteration": "vaTachmerah vaChemar **uVaZafet** vaTasem bah",
+        "englishLiteral": "and-coated-it in-bitumen **and-in-pitch** and-placed in-it",
+        "englishNatural": "and coated it in bitumen **and in pitch** and placed in it"
+      }
+    }
+  ]
+}

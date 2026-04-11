@@ -1,0 +1,33 @@
+{
+  "key": "yare",
+  "language": "hebrew",
+  "root": "yare",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "יָרֵא",
+        "transliteration": "yare",
+        "englishLiteral": "feared",
+        "englishNatural": "he feared",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פָּנָיו כִּי **יָרֵא** מֵהַבִּיט אֶל־",
+        "transliteration": "panav ki **yare** meHabit el-",
+        "englishLiteral": "faces-his that **feared** from-to-look to-",
+        "englishNatural": "his face that **he feared** to look to"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "givah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 25
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "גְבָעוֹת",
+        "transliteration": "gevaot",
+        "englishLiteral": "hills",
+        "englishNatural": "hills",
+        "root": "givah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָטְבָּעוּ לִפְנֵי **גְבָעוֹת** נוֹלָדְתִּי",
+        "transliteration": "hotbau lifnei **gevaot** noladti",
+        "englishLiteral": "were-sunk to-faces-of **hills** was-birthed-I",
+        "englishNatural": "were sunk to the faces of **hills** I was birthed"
+      }
+    }
+  ]
+}

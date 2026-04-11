@@ -1,0 +1,31 @@
+{
+  "key": "ushara",
+  "language": "aramaic",
+  "root": "shear",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "וּשְׁאָרָ֖א",
+        "transliteration": "uShara",
+        "englishLiteral": "and-the-remainder",
+        "englishNatural": "the remainder",
+        "root": "shear",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָֽכְלָ֣ה וּמַדֱּקָ֔ה **וּשְׁאָרָ֖א** בְּרַגְלַ֣יהּ רָפְסָ֑ה",
+        "transliteration": "akhelah uMaddeqah **uShara** beRagleyh raphsah",
+        "englishLiteral": "devouring and-crushing **and-the-remainder** with-feet-its trampling",
+        "englishNatural": "devouring and crushing **the remainder** with its feet and trampling"
+      }
+    }
+  ]
+}

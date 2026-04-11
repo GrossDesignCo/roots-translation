@@ -1,0 +1,59 @@
+{
+  "key": "nirah",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "נִרְאָה",
+        "transliteration": "nirAh",
+        "englishLiteral": "was_seen",
+        "englishNatural": "was-seen",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "יֹאמְרוּ לֹא־ **נִרְאָה** אֵלֶיךָ יְהוָה",
+        "transliteration": "yomru lo- **nirAh** elekha YHWH",
+        "englishLiteral": "will-say not- **was_seen** to-you He_Who_Is (YHWH)",
+        "englishNatural": "they will say not **was-seen** to you He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "נִרְאָה",
+        "transliteration": "nirAh",
+        "englishLiteral": "was_seen",
+        "englishNatural": "he was-seen",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "יַאֲמִינוּ כִּי־ **נִרְאָה** אֵלֶיךָ יְהוָה",
+        "transliteration": "yaAminu ki- **nirAh** elekha YHWH",
+        "englishLiteral": "will-believe that- **was_seen** to-you He_Who_Is (YHWH)",
+        "englishNatural": "they will believe that **he was-seen** to you He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

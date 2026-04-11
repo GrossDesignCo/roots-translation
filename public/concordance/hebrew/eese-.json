@@ -1,0 +1,33 @@
+{
+  "key": "eese-",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 18
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אֶעֱשֶׂה־",
+        "transliteration": "eese-",
+        "englishLiteral": "I-will-make-",
+        "englishNatural": "I will make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם לְבַדּוֹ **אֶעֱשֶׂה־** לוֹ עֵזֶר",
+        "transliteration": "haAdam leVaddo **eese-** lo ezer",
+        "englishLiteral": "the-Earthling (Adam) to-alone-him **I-will-make-** to-him help",
+        "englishNatural": "for the Earthling (Adam) to himself alone **I will make** to him a help"
+      }
+    }
+  ]
+}

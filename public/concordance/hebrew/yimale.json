@@ -1,0 +1,31 @@
+{
+  "key": "yimale",
+  "language": "hebrew",
+  "root": "male",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יִמָּלֵ֥א",
+        "transliteration": "yimale",
+        "englishLiteral": "was-filled",
+        "englishNatural": "was filled with",
+        "root": "male",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "הַקּוֹרֵ֑א וְהַבַּ֖יִת **יִמָּלֵ֥א** עָשָֽׁן",
+        "transliteration": "haQore veHaBayit **yimale** ashan",
+        "englishLiteral": "the-caller and-the-house **was-filled** smoke",
+        "englishNatural": "the caller and the house **was filled with** smoke"
+      }
+    }
+  ]
+}

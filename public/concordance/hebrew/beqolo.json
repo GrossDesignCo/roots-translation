@@ -1,0 +1,31 @@
+{
+  "key": "beqolo",
+  "language": "hebrew",
+  "root": "qol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בְּקֹלוֹ",
+        "transliteration": "beQolo",
+        "englishLiteral": "in-voice-his",
+        "englishNatural": "in his voice",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר אֶשְׁמַע **בְּקֹלוֹ** לְשַׁלַּח אֶת־",
+        "transliteration": "asher eshma **beQolo** leshalach et-",
+        "englishLiteral": "which I-will-hear **in-voice-his** to-send ↳",
+        "englishNatural": "which I will hear **in his voice** to send-out ↳"
+      }
+    }
+  ]
+}

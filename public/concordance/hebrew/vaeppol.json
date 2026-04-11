@@ -1,0 +1,33 @@
+{
+  "key": "vaeppol",
+  "language": "hebrew",
+  "root": "naphal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וָאֶפֹּל",
+        "transliteration": "vaEppol",
+        "englishLiteral": "and-I-fell",
+        "englishNatural": "and I fell",
+        "root": "naphal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה וָאֶרְאֶה **וָאֶפֹּל** עַל־ פָּנַי",
+        "transliteration": "YHWH vaEreh **vaEppol** al- panai",
+        "englishLiteral": "He_Who_Is (YHWH) And-I-saw **and-I-fell** over- faces-my",
+        "englishNatural": "He-Who-Is (YHWH) And I saw **and I fell** over my face"
+      }
+    }
+  ]
+}

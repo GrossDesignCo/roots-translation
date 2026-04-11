@@ -1,0 +1,31 @@
+{
+  "key": "beitzavon",
+  "language": "hebrew",
+  "root": "etzev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "בְּעִצָּבוֹן",
+        "transliteration": "beItzavon",
+        "englishLiteral": "in-pain",
+        "englishNatural": "in pain",
+        "root": "etzev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה בַּעֲבוּרֶךָ **בְּעִצָּבוֹן** תֹּאכְלֶנָּה כֹּל",
+        "transliteration": "haAdamah baAvurekha **beItzavon** tokhlena kol",
+        "englishLiteral": "the-earth in-passing_through-your **in-pain** you-will-eat all",
+        "englishNatural": "the earth in your passing-through **in pain** you will eat all"
+      }
+    }
+  ]
+}

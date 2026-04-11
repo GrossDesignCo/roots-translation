@@ -1,0 +1,33 @@
+{
+  "key": "tira",
+  "language": "hebrew",
+  "root": "yare",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "תִּירָא",
+        "transliteration": "tira",
+        "englishLiteral": "you-will-fear",
+        "englishNatural": "You will fear",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֵאמֹר אַל־ **תִּירָא** אַבְרָם אָנֹכִי",
+        "transliteration": "lemor al- **tira** Abram anoki",
+        "englishLiteral": "to-say not- **you-will-fear** Exalted_Father (Abram) I",
+        "englishNatural": "saying not **You will fear** Exalted-Father (Abram) I"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "root": "oti",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "ὅτι",
+        "transliteration": "hoti",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "oti",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "σὺ οἶδας **ὅτι** φιλῶ σε",
+        "transliteration": "su oidas **hoti** philō se",
+        "englishLiteral": "you know **that** I-brother_love you",
+        "englishNatural": "you know **that** I brother-love you"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "ὅτι",
+        "transliteration": "hoti",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "oti",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "σὺ οἶδας **ὅτι** φιλῶ σε",
+        "transliteration": "su oidas **hoti** philō se",
+        "englishLiteral": "you know **that** I-brother_love you",
+        "englishNatural": "you know **that** I brother-love you"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "ὅτι",
+        "transliteration": "hoti",
+        "englishLiteral": "that",
+        "englishNatural": "because",
+        "root": "oti",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "ὁ Πέτρος **ὅτι** εἶπεν αὐτῷ",
+        "transliteration": "ho Petros **hoti** eipen autō",
+        "englishLiteral": "The Stone (Peter) **that** he-said to-him",
+        "englishNatural": "The Stone (Peter) **because** he said to him"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 27,
+      "word": {
+        "originalScript": "ὅτι",
+        "transliteration": "hoti",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "oti",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "σὺ γινώσκεις **ὅτι** φιλῶ σε",
+        "transliteration": "su ginōskeis **hoti** philō se",
+        "englishLiteral": "you know **that** I-brother_love you",
+        "englishNatural": "you know **that** I brother-love you"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "lemino",
+  "language": "hebrew",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לְמִינ֔וֹ",
+        "transliteration": "leMino",
+        "englishLiteral": "to-its-kind",
+        "englishNatural": "after its kind",
+        "root": "min",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֹ֤שֶׂה פְּרִי֙ **לְמִינ֔וֹ** אֲשֶׁ֥ר זַרְעוֹ־",
+        "transliteration": "oseh pri **leMino** asher zaro-",
+        "englishLiteral": "making fruit **to-its-kind** which its-seed-",
+        "englishNatural": "making fruit **after its kind** which has its seed"
+      }
+    }
+  ]
+}

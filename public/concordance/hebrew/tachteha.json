@@ -1,0 +1,31 @@
+{
+  "key": "tachteha",
+  "language": "hebrew",
+  "root": "tachat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "תַּחְתֶּיהָ",
+        "transliteration": "tachteha",
+        "englishLiteral": "under-her",
+        "englishNatural": "under it",
+        "root": "tachat",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "סֻכָּה וַיֵּשֶׁב **תַּחְתֶּיהָ** בַּצֵּל עַד",
+        "transliteration": "sukkah vaYeshev **tachteha** baTzel ad",
+        "englishLiteral": "booth and-sat **under-her** in-shadow until",
+        "englishNatural": "a booth and sat **under it** in the shadow until"
+      }
+    }
+  ]
+}

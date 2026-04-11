@@ -1,0 +1,31 @@
+{
+  "key": "abussou",
+  "language": "greek",
+  "root": "abussos",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "ἀβύσσου",
+        "transliteration": "abussou",
+        "englishLiteral": "abyss",
+        "englishNatural": "abyss",
+        "root": "abussos",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "κλεῖν τῆς **ἀβύσσου** καὶ ἅλυσιν",
+        "transliteration": "klein tēs **abussou** kai halusin",
+        "englishLiteral": "key the **abyss** and chain",
+        "englishNatural": "key the **abyss** and a chain"
+      }
+    }
+  ]
+}

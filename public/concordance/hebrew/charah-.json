@@ -1,0 +1,33 @@
+{
+  "key": "charah-",
+  "language": "hebrew",
+  "root": "charah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 9
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "חָרָה־",
+        "transliteration": "charah-",
+        "englishLiteral": "fuming_angrily-",
+        "englishNatural": "fuming-angrily",
+        "root": "charah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר הֵיטֵב **חָרָה־** לִי עַד־",
+        "transliteration": "vaYomer heitiv **charah-** li ad-",
+        "englishLiteral": "And-said doing_well **fuming_angrily-** to-me unto-",
+        "englishNatural": "And he said Doing-well is **fuming-angrily** to me unto"
+      }
+    }
+  ]
+}

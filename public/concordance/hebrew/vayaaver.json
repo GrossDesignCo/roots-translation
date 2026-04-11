@@ -1,0 +1,33 @@
+{
+  "key": "vayaaver",
+  "language": "hebrew",
+  "root": "avar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַיַּעֲבֵר",
+        "transliteration": "vaYaaver",
+        "englishLiteral": "and-passed_through",
+        "englishNatural": "and he passed-through",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּקָם מִכִּסְאוֹ **וַיַּעֲבֵר** אַדַּרְתּוֹ מֵעָלָיו",
+        "transliteration": "vaYaqam mikisso **vaYaaver** adaretto meAlav",
+        "englishLiteral": "and-stood_up from-throne-his **and-passed_through** robe-his from-over-him",
+        "englishNatural": "and he stood-up from his throne **and he passed-through** his robe from over him"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "bala",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וַיִּבְלַע",
+        "transliteration": "vaYivla",
+        "englishLiteral": "and-swallowed",
+        "englishNatural": "swallowed",
+        "root": "bala",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּהְיוּ לְתַנִּינִם **וַיִּבְלַע** מַטֵּה־ אַהֲרֹן",
+        "transliteration": "vaYihyu leTanninim **vaYivla** mateh- Aharon",
+        "englishLiteral": "and-they-were to-monsters **and-swallowed** branch-of- Light_Bringer (Aaron)",
+        "englishNatural": "and they were to monsters **swallowed** and the branch of Light-Bringer (Aaron)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לִבְלֹעַ",
+        "transliteration": "livloa",
+        "englishLiteral": "to-swallow",
+        "englishNatural": "to swallow",
+        "root": "bala",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "דָּג גָּדוֹל **לִבְלֹעַ** אֶת־ יוֹנָה",
+        "transliteration": "dag gadol **livloa** et- Yonah",
+        "englishLiteral": "fish great **to-swallow** ↳ Dove (Jonah)",
+        "englishNatural": "fish a great **to swallow** ↳ Dove (Jonah)"
+      }
+    }
+  ]
+}

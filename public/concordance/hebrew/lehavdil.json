@@ -1,0 +1,31 @@
+{
+  "key": "lehavdil",
+  "language": "hebrew",
+  "root": "badal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לְהַבְדִּ֕יל",
+        "transliteration": "leHavdil",
+        "englishLiteral": "to-separate",
+        "englishNatural": "to separate",
+        "root": "badal",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "בִּרְקִ֣יעַ הַשָּׁמַ֔יִם **לְהַבְדִּ֕יל** בֵּ֥ין הַיּ֖וֹם",
+        "transliteration": "biRqia haShamayim **leHavdil** beyn haYom",
+        "englishLiteral": "in-hammering_out the-skies **to-separate** between the-day",
+        "englishNatural": "in the hammering-out the skies **to separate** between the day"
+      }
+    }
+  ]
+}

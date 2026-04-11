@@ -1,0 +1,59 @@
+{
+  "key": "tokhlu",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "תֹאכְלוּ",
+        "transliteration": "tokhlu",
+        "englishLiteral": "you-shall-eat",
+        "englishNatural": "You shall eat",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים לֹא **תֹאכְלוּ** מִכֹּל עֵץ",
+        "transliteration": "Elohim lo **tokhlu** miKol etz",
+        "englishLiteral": "Gods Not **you-shall-eat** from-all tree",
+        "englishNatural": "God not **You shall eat** from any tree"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "תֹאכְלוּ",
+        "transliteration": "tokhlu",
+        "englishLiteral": "you-shall-eat",
+        "englishNatural": "You shall eat",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים לֹא **תֹאכְלוּ** מִמֶּנּוּ וְלֹא",
+        "transliteration": "Elohim lo **tokhlu** mimenu velo",
+        "englishLiteral": "Gods Not **you-shall-eat** from-it and-not",
+        "englishNatural": "God not **You shall eat** from it not"
+      }
+    }
+  ]
+}

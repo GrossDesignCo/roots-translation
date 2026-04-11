@@ -1,0 +1,33 @@
+{
+  "key": "elekh",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אֵלֵךְ",
+        "transliteration": "elekh",
+        "englishLiteral": "I-walk",
+        "englishNatural": "I walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "גַּם כִּי־ **אֵלֵךְ** בְּגֵיא צַלְמָוֶת",
+        "transliteration": "gam ki- **elekh** beGei tzalmavet",
+        "englishLiteral": "Also that- **I-walk** in-valley-of shadow_death",
+        "englishNatural": "Also that **I walk** in a valley of shadow-death"
+      }
+    }
+  ]
+}

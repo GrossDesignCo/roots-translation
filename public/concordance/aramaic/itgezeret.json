@@ -1,0 +1,59 @@
+{
+  "key": "itgezeret",
+  "language": "aramaic",
+  "root": "gezer",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 34
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אִתְגְּזֶרֶת",
+        "transliteration": "itgezeret",
+        "englishLiteral": "was-cut-out",
+        "englishNatural": "was cut out",
+        "root": "gezer",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "ettaphal"
+        }
+      },
+      "context": {
+        "hebrew": "עַד דִּי **אִתְגְּזֶרֶת** אֶבֶן דִּי",
+        "transliteration": "ad di **itgezeret** even di",
+        "englishLiteral": "until which **was-cut-out** stone which",
+        "englishNatural": "until which **was cut out** a stone which"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אִתְגְּזֶרֶת",
+        "transliteration": "itgezeret",
+        "englishLiteral": "was-cut-out",
+        "englishNatural": "was cut out",
+        "root": "gezer",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "ithpeel"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ טוּרָא **אִתְגְּזֶרֶת** אֶבֶן דִּי",
+        "transliteration": "min- tura **itgezeret** even di",
+        "englishLiteral": "from- mountain-the **was-cut-out** stone which",
+        "englishNatural": "from the mountain **was cut out** a stone which"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "hatzela",
+  "language": "hebrew",
+  "root": "tzela",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 22
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַצֵּלָע",
+        "transliteration": "haTzela",
+        "englishLiteral": "the-side",
+        "englishNatural": "the side",
+        "root": "tzela",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים אֶת־ **הַצֵּלָע** אֲשֶׁר לָקַח",
+        "transliteration": "Elohim et- **haTzela** asher lakach",
+        "englishLiteral": "Gods ↳ **the-side** which he-took",
+        "englishNatural": "God ↳ **the side** which he took"
+      }
+    }
+  ]
+}

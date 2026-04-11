@@ -1,0 +1,31 @@
+{
+  "key": "bachatziy",
+  "language": "hebrew",
+  "root": "chatzot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 29
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "בַּחֲצִ֣י",
+        "transliteration": "baChatziy",
+        "englishLiteral": "in-half-of",
+        "englishNatural": "in the half of",
+        "root": "chatzot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִ֣י **בַּחֲצִ֣י** הַלַּ֔יְלָה וַֽיהוָה֙",
+        "transliteration": "vayHi **baChatziy** haLaylah vaYHWH",
+        "englishLiteral": "And-was **in-half-of** the-night and-He_Who_Is (YHWH)",
+        "englishNatural": "And it was **in the half of** the night and He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

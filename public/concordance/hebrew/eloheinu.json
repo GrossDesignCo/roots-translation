@@ -1,0 +1,79 @@
+{
+  "key": "eloheinu",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אֱלֹהֵינוּ",
+        "transliteration": "Eloheinu",
+        "englishLiteral": "Gods-our",
+        "englishNatural": "our God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְנִזְבְּחָה לַיהוָה **אֱלֹהֵינוּ** פֶּן־ יִפְגָּעֵנוּ",
+        "transliteration": "veNizbechah laYHWH **Eloheinu** pen- yifgaenu",
+        "englishLiteral": "and-we-will-sacrifice to-He_Who_Is (YHWH) **Gods-our** or-else- he-will-strike_down-us",
+        "englishNatural": "and we will sacrifice to He-Who-Is (YHWH) **our God** or else he strike-down us"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "אֱלֹהֵינוּ",
+        "transliteration": "Eloheinu",
+        "englishLiteral": "God-our",
+        "englishNatural": "our God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעָשִׂינוּ לַיהוָה **אֱלֹהֵינוּ**",
+        "transliteration": "veAsinu laYHWH **Eloheinu**",
+        "englishLiteral": "and-will-make to-He_Who_Is (YHWH) **God-our**",
+        "englishNatural": "and will make to He-Who-Is (YHWH) **our God**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אֱלֹהֵינוּ",
+        "transliteration": "Eloheinu",
+        "englishLiteral": "God-our",
+        "englishNatural": "our God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ יְהוָה **אֱלֹהֵינוּ** וַאֲנַחְנוּ לֹא־",
+        "transliteration": "et- YHWH **Eloheinu** vaAnachnu lo-",
+        "englishLiteral": "↳ He_Who_Is (YHWH) **God-our** and-we not-",
+        "englishNatural": "↳ He-Who-Is (YHWH) **our God** and we not"
+      }
+    }
+  ]
+}

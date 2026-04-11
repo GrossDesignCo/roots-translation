@@ -1,0 +1,33 @@
+{
+  "key": "shamata",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "שָׁמַעְתָּ",
+        "transliteration": "shamata",
+        "englishLiteral": "you-heard",
+        "englishNatural": "you heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁאוֹל שִׁוַּעְתִּי **שָׁמַעְתָּ** קוֹלִי",
+        "transliteration": "sheol shivati **shamata** qoli",
+        "englishLiteral": "Hades I-cried_out **you-heard** voice-my",
+        "englishNatural": "Hades I cried-out **you heard** my voice"
+      }
+    }
+  ]
+}

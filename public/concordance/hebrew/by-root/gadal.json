@@ -1,0 +1,108 @@
+{
+  "root": "gadal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "גָּדוֹל",
+        "transliteration": "gadol",
+        "englishLiteral": "great",
+        "englishNatural": "great",
+        "root": "gadal",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶעֶשְׂךָ לְגוֹי **גָּדוֹל** וַאֲבָרֶכְךָ וַאֲגַדְּלָה",
+        "transliteration": "veEeskha leGoy **gadol** vaAvarekha vaAgadelah",
+        "englishLiteral": "and-I-will-make-you to-nation **great** and-I-will-bless-you and-I-will-make-great",
+        "englishNatural": "and I will make you into a nation **great** and I will bless you and I will make great"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַאֲגַדְּלָה",
+        "transliteration": "vaAgadelah",
+        "englishLiteral": "and-I-will-make-great",
+        "englishNatural": "and I will make great",
+        "root": "gadal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "גָּדוֹל וַאֲבָרֶכְךָ **וַאֲגַדְּלָה** שְׁמֶךָ וֶהְיֵה",
+        "transliteration": "gadol vaAvarekha **vaAgadelah** shemekha veHeyeh",
+        "englishLiteral": "great and-I-will-bless-you **and-I-will-make-great** your-name and-be",
+        "englishNatural": "great and I will bless you **and I will make great** your name and be"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּגְדַּל",
+        "transliteration": "vaYigdal",
+        "englishLiteral": "And-grew",
+        "englishNatural": "grew",
+        "root": "gadal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּגְדַּל** הַיֶּלֶד וַתְּבִאֵהוּ",
+        "transliteration": "**vaYigdal** haYeled vatTevihu",
+        "englishLiteral": "**And-grew** the-child and-brought-him",
+        "englishNatural": "**grew** And the child and she brought him"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "גִדַּלְתּוֹ",
+        "transliteration": "giddalto",
+        "englishLiteral": "you-grew-it",
+        "englishNatural": "and you grew it",
+        "root": "gadal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "בּוֹ וְלֹא **גִדַּלְתּוֹ** שֶׁבִּן־ לַיְלָה",
+        "transliteration": "bo veLo **giddalto** shebin- laylah",
+        "englishLiteral": "in-it and-not **you-grew-it** yet-son-of- night",
+        "englishNatural": "in it not **and you grew it** yet son of a night"
+      }
+    }
+  ]
+}

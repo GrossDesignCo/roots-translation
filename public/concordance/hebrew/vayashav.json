@@ -1,0 +1,33 @@
+{
+  "key": "vayashav",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיָּשָׁב",
+        "transliteration": "vaYashav",
+        "englishLiteral": "and-returned",
+        "englishNatural": "and returned",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הַחֲמֹר **וַיָּשָׁב** אַרְצָה מִצְרָיִם",
+        "transliteration": "al- haChamor **vaYashav** artzah Mitzrayim",
+        "englishLiteral": "over- the-donkey **and-returned** land-ward Double_Narrows (Egypt)",
+        "englishNatural": "over the donkey **and returned** to the land of Double-Narrows (Egypt)"
+      }
+    }
+  ]
+}

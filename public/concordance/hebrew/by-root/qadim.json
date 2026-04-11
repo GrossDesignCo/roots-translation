@@ -1,0 +1,30 @@
+{
+  "root": "qadim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "קָדִים",
+        "transliteration": "qadim",
+        "englishLiteral": "east_wind",
+        "englishNatural": "east-wind",
+        "root": "qadim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים רוּחַ **קָדִים** חֲרִישִׁית וַתַּךְ",
+        "transliteration": "Elohim ruach **qadim** charishit vatakh",
+        "englishLiteral": "Gods wind **east_wind** scorching and-struck",
+        "englishNatural": "and God a wind **east-wind** a scorching struck"
+      }
+    }
+  ]
+}

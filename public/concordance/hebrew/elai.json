@@ -1,0 +1,103 @@
+{
+  "key": "elai",
+  "language": "hebrew",
+  "root": "el",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אֵלַי",
+        "transliteration": "elai",
+        "englishLiteral": "to-me",
+        "englishNatural": "to me",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּעָף **אֵלַי** אֶחָד מִן",
+        "transliteration": "vaYaof **elai** echad min",
+        "englishLiteral": "And-flew **to-me** one from",
+        "englishNatural": "And flew **to me** one from"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אֵלָי",
+        "transliteration": "elai",
+        "englishLiteral": "to-me",
+        "englishNatural": "to me",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **אֵלָי** בֶּן־ אָדָם",
+        "transliteration": "vayYomer **elai** ben- Adam",
+        "englishLiteral": "And-he-said **to-me** son-of- Earthling (Adam)",
+        "englishNatural": "And He said **to me** Son of Earthling (Adam)"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֵלָי",
+        "transliteration": "elai",
+        "englishLiteral": "to-me",
+        "englishNatural": "to me",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כַּאֲשֶׁר דִּבֶּר **אֵלָי** וַתַּעֲמִדֵנִי עַל־",
+        "transliteration": "kaAsher dibber **elai** vataAmideni al-",
+        "englishLiteral": "as-which he-spoke **to-me** and-stood-me over-",
+        "englishNatural": "as which He spoke **to me** and stood me over"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אֵלָי",
+        "transliteration": "elai",
+        "englishLiteral": "to-me",
+        "englishNatural": "to me",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֵת מִדַּבֵּר **אֵלָי**",
+        "transliteration": "et midabber **elai**",
+        "englishLiteral": "↳ speaking **to-me**",
+        "englishNatural": "↳ him speaking **to me**"
+      }
+    }
+  ]
+}

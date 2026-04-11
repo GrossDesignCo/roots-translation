@@ -1,0 +1,33 @@
+{
+  "key": "ereh",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אֶרְאֶ֥ה",
+        "transliteration": "ereh",
+        "englishLiteral": "I-will-see",
+        "englishNatural": "I see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּֽי־ **אֶרְאֶ֥ה** שָׁמֶ֗יךָ מַעֲשֵׂ֣ה",
+        "transliteration": "ki- **ereh** shamekha maaseh",
+        "englishLiteral": "that- **I-will-see** your-skies work-of",
+        "englishNatural": "That **I see** your skies the work of"
+      }
+    }
+  ]
+}

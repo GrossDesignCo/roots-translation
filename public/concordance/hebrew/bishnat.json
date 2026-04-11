@@ -1,0 +1,79 @@
+{
+  "key": "bishnat",
+  "language": "hebrew",
+  "root": "shanah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בִּשְׁנַת",
+        "transliteration": "biShnat",
+        "englishLiteral": "In-year-of",
+        "englishNatural": "In the year of",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בִּשְׁנַת** שֵׁשׁ־ מֵאוֹת",
+        "transliteration": "**biShnat** shesh- meot",
+        "englishLiteral": "**In-year-of** six- hundreds",
+        "englishNatural": "**In the year of** six hundred"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בִּשְׁנַת",
+        "transliteration": "biShnat",
+        "englishLiteral": "In-year-of",
+        "englishNatural": "In the year of",
+        "root": "shanah",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**בִּשְׁנַת** מוֹת הַמֶּלֶךְ",
+        "transliteration": "**biShnat** mot haMelekh",
+        "englishLiteral": "**In-year-of** death-of the-king",
+        "englishNatural": "**In the year of** the death of the king"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בִּשְׁנַת",
+        "transliteration": "biShnat",
+        "englishLiteral": "in-year-of",
+        "englishNatural": "In the year of",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בִּשְׁנַת** שָׁלוֹשׁ לְמַלְכוּת",
+        "transliteration": "**biShnat** shalosh leMalkhut",
+        "englishLiteral": "**in-year-of** three to-kingdom",
+        "englishNatural": "**In the year of** three to the kingdom of"
+      }
+    }
+  ]
+}

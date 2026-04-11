@@ -1,0 +1,33 @@
+{
+  "key": "yomru",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "יֹאמְרוּ",
+        "transliteration": "yomru",
+        "englishLiteral": "will-say",
+        "englishNatural": "they will say",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְקֹלִי כִּי **יֹאמְרוּ** לֹא־ נִרְאָה",
+        "transliteration": "leQoli ki **yomru** lo- nirAh",
+        "englishLiteral": "to-voice-my that **will-say** not- was_seen",
+        "englishNatural": "my voice that **they will say** not was-seen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "yeshobev",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יְשׁוֹבֵב",
+        "transliteration": "yeShobev",
+        "englishLiteral": "he-returns",
+        "englishNatural": "he returns",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "polel"
+        }
+      },
+      "context": {
+        "hebrew": "נַפְשִׁי **יְשׁוֹבֵב** בְּמַעְגְּלֵי־ צֶדֶק",
+        "transliteration": "nafshi **yeShobev** beMaglei- tzedeq",
+        "englishLiteral": "my-throat **he-returns** in-paths-of- righteousness",
+        "englishNatural": "my throat **he returns** in paths of righteousness"
+      }
+    }
+  ]
+}

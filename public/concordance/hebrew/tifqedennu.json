@@ -1,0 +1,33 @@
+{
+  "key": "tifqedennu",
+  "language": "hebrew",
+  "root": "paqad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "תִפְקְדֶֽנּוּ",
+        "transliteration": "tiFqedennu",
+        "englishLiteral": "you-will-visit-him",
+        "englishNatural": "you will visit him",
+        "root": "paqad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אָ֝דָ֗ם כִּ֣י **תִפְקְדֶֽנּוּ**",
+        "transliteration": "Adam ki **tiFqedennu**",
+        "englishLiteral": "Earthling (Adam) that **you-will-visit-him**",
+        "englishNatural": "Earthling (Adam) that **you will visit him**"
+      }
+    }
+  ]
+}

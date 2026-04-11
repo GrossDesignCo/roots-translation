@@ -1,0 +1,31 @@
+{
+  "key": "dehav",
+  "language": "aramaic",
+  "root": "dehav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "דְהַב",
+        "transliteration": "dehav",
+        "englishLiteral": "gold",
+        "englishNatural": "gold",
+        "root": "dehav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֵאשֵׁהּ דִּי **דְהַב** טָב חֲדוֹהִי",
+        "transliteration": "resheh di **dehav** tav chadohi",
+        "englishLiteral": "head-its which **gold** good breast-its",
+        "englishNatural": "its head of **gold** good its breast"
+      }
+    }
+  ]
+}

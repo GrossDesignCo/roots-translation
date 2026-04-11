@@ -1,0 +1,111 @@
+{
+  "key": "laasot",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "לַעֲשׂוֹת׃",
+        "transliteration": "laasot",
+        "englishLiteral": "to-make",
+        "englishNatural": "made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בָּרָא אֱלֹהִים **לַעֲשׂוֹת׃**",
+        "transliteration": "bara Elohim **laasot**",
+        "englishLiteral": "created Gods **to-make**",
+        "englishNatural": "created God **made**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "לַעֲשׂוֹת",
+        "transliteration": "laAsot",
+        "englishLiteral": "to-make",
+        "englishNatural": "their making",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְזֶה הַחִלָּם **לַעֲשׂוֹת** וְעַתָּה לֹא־",
+        "transliteration": "veZeh hachilam **laAsot** veAttah lo-",
+        "englishLiteral": "and-this the-beginning-of-them **to-make** and-now not-",
+        "englishNatural": "and this the beginning of **their making** and now nothing"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "לַעֲשׂוֹת",
+        "transliteration": "laAsot",
+        "englishLiteral": "to-make",
+        "englishNatural": "to make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר יָזְמוּ **לַעֲשׂוֹת**",
+        "transliteration": "asher yazmu **laAsot**",
+        "englishLiteral": "which they-will-plan **to-make**",
+        "englishNatural": "which they will plan **to make**"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 10
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "לַעֲשׂוֹת",
+        "transliteration": "laasot",
+        "englishLiteral": "to-make",
+        "englishNatural": "to make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ דִּבֶּר **לַעֲשׂוֹת** לָהֶם וְלֹא",
+        "transliteration": "asher- diber **laasot** lahem veLo",
+        "englishLiteral": "which- he-spoke **to-make** to-them and-not",
+        "englishNatural": "which he spoke **to make** to them not"
+      }
+    }
+  ]
+}

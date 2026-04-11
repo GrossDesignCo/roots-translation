@@ -1,0 +1,31 @@
+{
+  "key": "veachar",
+  "language": "hebrew",
+  "root": "achar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאַחַר",
+        "transliteration": "veAchar",
+        "englishLiteral": "And-after",
+        "englishNatural": "And after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאַחַר** בָּאוּ מֹשֶׁה",
+        "transliteration": "**veAchar** bau Moshe",
+        "englishLiteral": "**And-after** came Drawn_Out (Moses)",
+        "englishNatural": "**And after** came Drawn-Out (Moses)"
+      }
+    }
+  ]
+}

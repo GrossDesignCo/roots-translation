@@ -1,0 +1,31 @@
+{
+  "key": "egō",
+  "language": "greek",
+  "root": "ego",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "ἐγὼ",
+        "transliteration": "egō",
+        "englishLiteral": "I",
+        "englishNatural": "I",
+        "root": "ego",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "Ἀβραὰμ γενέσθαι **ἐγὼ** εἰμί",
+        "transliteration": "Abraam genesthai **egō** eimi",
+        "englishLiteral": "Exalted_Father (Abraham) to-become **I** am",
+        "englishNatural": "Exalted-Father (Abraham) was **I** Am"
+      }
+    }
+  ]
+}

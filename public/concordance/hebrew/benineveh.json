@@ -1,0 +1,31 @@
+{
+  "key": "benineveh",
+  "language": "hebrew",
+  "root": "nineveh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בְּנִינְוֵה",
+        "transliteration": "beNineveh",
+        "englishLiteral": "in-Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "in Dwelling-of-Fish (Nineveh)",
+        "root": "nineveh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּזְעֵק וַיֹּאמֶר **בְּנִינְוֵה** מִטַּעַם הַמֶּלֶךְ",
+        "transliteration": "vaYazeeq vaYomer **beNineveh** mitaam haMelekh",
+        "englishLiteral": "And-cried_out and-said **in-Dwelling_of_Fish (Nineveh)** from-decree-of the-king",
+        "englishNatural": "And he cried-out and said **in Dwelling-of-Fish (Nineveh)** from the decree of the king"
+      }
+    }
+  ]
+}

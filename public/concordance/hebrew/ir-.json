@@ -1,0 +1,31 @@
+{
+  "key": "ir-",
+  "language": "hebrew",
+  "root": "ir",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "עִיר־",
+        "transliteration": "ir-",
+        "englishLiteral": "city-",
+        "englishNatural": "a city",
+        "root": "ir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְנִינְוֵה הָיְתָה **עִיר־** גְּדוֹלָה לֵאלֹהִים",
+        "transliteration": "veNineveh haytah **ir-** gedolah lElohim",
+        "englishLiteral": "And-Dwelling_of_Fish (Nineveh) was **city-** great to-Gods",
+        "englishNatural": "And Dwelling-of-Fish (Nineveh) was **a city** great to God"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kanaf",
+  "language": "hebrew",
+  "root": "kenaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "כָּנָ֖ף",
+        "transliteration": "kaNaf",
+        "englishLiteral": "wing",
+        "englishNatural": "winged",
+        "root": "kenaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ ע֤וֹף **כָּנָ֖ף** לְמִינֵ֑הוּ וַיַּ֥רְא",
+        "transliteration": "kol- of **kaNaf** leMinehu vaYar",
+        "englishLiteral": "all flyer **wing** to-its-kind And-saw",
+        "englishNatural": "all flyer **winged** to its kind saw"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "naasah",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "נַּעֲשֶׂה",
+        "transliteration": "naasah",
+        "englishLiteral": "shall-be-done",
+        "englishNatural": "shall be done",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלָיו מַה־ **נַּעֲשֶׂה** לָּךְ וְיִשְׁתֹּק",
+        "transliteration": "elav mah- **naasah** lakh veyiShtoq",
+        "englishLiteral": "to-him what- **shall-be-done** to-you and-will-quiet",
+        "englishNatural": "to him What **shall be done** to you and will quiet"
+      }
+    }
+  ]
+}

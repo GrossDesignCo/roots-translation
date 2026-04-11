@@ -1,0 +1,33 @@
+{
+  "key": "veakhal",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "וְאָכַל",
+        "transliteration": "veAkhal",
+        "englishLiteral": "and-eat",
+        "englishNatural": "and eat",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעֵץ הַחַיִּים **וְאָכַל** וָחַי לְעֹלָם׃",
+        "transliteration": "meEtz haChayyim **veAkhal** vaChai leOlam",
+        "englishLiteral": "from-tree the-lives **and-eat** and-live to-the_age",
+        "englishNatural": "from the Tree of Life **and eat** and live to the-age"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "root": "beyn",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "בֵּ֣ין",
+        "transliteration": "beyn",
+        "englishLiteral": "between",
+        "englishNatural": "between",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עִלְעִ֛ין בְּפֻמַּ֖הּ **בֵּ֣ין** שניה וְכֵן֙",
+        "transliteration": "ilin bePummah **beyn** shinnah veKhen",
+        "englishLiteral": "ribs in-mouth-its **between** teeth-its and-thus",
+        "englishNatural": "ribs in its mouth **between** its teeth and thus"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "ביניהון",
+        "transliteration": "beynehon",
+        "englishLiteral": "between-them",
+        "englishNatural": "between them",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "זְעֵירָה֙ סִלְקָ֣ת **ביניהון** וּתְלָ֗ת מִן־",
+        "transliteration": "zeeirah silqat **beynehon** uTelat min-",
+        "englishLiteral": "small came-up **between-them** and-three from-",
+        "englishNatural": "small came up **between them** and three from"
+      }
+    }
+  ]
+}

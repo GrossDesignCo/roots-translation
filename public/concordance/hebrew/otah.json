@@ -1,0 +1,55 @@
+{
+  "key": "otah",
+  "language": "hebrew",
+  "root": "et",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 14
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "אֹתָהּ",
+        "transliteration": "otah",
+        "englishLiteral": "her",
+        "englishNatural": "it",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "הַתֵּבָה וְכָפַרְתָּ **אֹתָהּ** מִבַּיִת וּמִחוּץ",
+        "transliteration": "haTevah veKhafarta **otah** miBayit uMichutz",
+        "englishLiteral": "the-ark and-you-shall-cover **her** from-house and-from-outside",
+        "englishNatural": "the ark and you shall cover **it** from inside and from outside"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אֹתָהּ",
+        "transliteration": "otah",
+        "englishLiteral": "her",
+        "englishNatural": "it",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר תַּעֲשֶׂה **אֹתָהּ** שְׁלֹשׁ מֵאוֹת",
+        "transliteration": "asher taAseh **otah** shlosh meot",
+        "englishLiteral": "which you-shall-make **her** three hundreds",
+        "englishNatural": "which you shall make **it** three hundred"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "siakh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "שִׂיחַ",
+        "transliteration": "siakh",
+        "englishLiteral": "shrub",
+        "englishNatural": "shrub",
+        "root": "siakh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכֹל **שִׂיחַ** הַשָּׂדֶה טֶרֶם",
+        "transliteration": "veKol **siakh** haSadeh terem",
+        "englishLiteral": "And-all **shrub** the-field not-yet",
+        "englishNatural": "And all **shrub** of the field not yet"
+      }
+    }
+  ]
+}

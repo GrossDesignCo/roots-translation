@@ -1,0 +1,31 @@
+{
+  "key": "shav",
+  "language": "hebrew",
+  "root": "shav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שָׁוְא",
+        "transliteration": "shav",
+        "englishLiteral": "emptiness",
+        "englishNatural": "emptiness",
+        "root": "shav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מְשַׁמְּרִים הַבְלֵי־ **שָׁוְא** חַסְדָּם יַעֲזֹבוּ",
+        "transliteration": "meshamrim havlei- **shav** chasdam yaazovu",
+        "englishLiteral": "Keepers-of vapors-of **emptiness** steadfast_love-their they-forsake",
+        "englishNatural": "Keepers of vapors of **emptiness** their steadfast-love they forsake"
+      }
+    }
+  ]
+}

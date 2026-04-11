@@ -1,0 +1,102 @@
+{
+  "root": "tahor",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַטְּהוֹרָה",
+        "transliteration": "haTehorah",
+        "englishLiteral": "the-clean",
+        "englishNatural": "the clean",
+        "root": "tahor",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הַבְּהֵמָה **הַטְּהוֹרָה** וּמִן־ הַבְּהֵמָה",
+        "transliteration": "min- haBehemah **haTehorah** uMin- haBehemah",
+        "englishLiteral": "From- the-beast **the-clean** and-from- the-beast",
+        "englishNatural": "From the beast **the clean** and from the beast"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "טְהֹרָה",
+        "transliteration": "tehorah",
+        "englishLiteral": "clean",
+        "englishNatural": "clean",
+        "root": "tahor",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר אֵינֶנָּה **טְהֹרָה** וּמִן־ הָעוֹף",
+        "transliteration": "asher einennah **tehorah** uMin- haOph",
+        "englishLiteral": "which not-her **clean** and-from- the-bird",
+        "englishNatural": "which is not **clean** and from the bird"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 20
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הַטְּהוֹרָה",
+        "transliteration": "haTehorah",
+        "englishLiteral": "the-clean",
+        "englishNatural": "the clean",
+        "root": "tahor",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מִכֹּל הַבְּהֵמָה **הַטְּהוֹרָה** וּמִכֹּל הָעוֹף",
+        "transliteration": "miKol haBehemah **haTehorah** uMikol haOf",
+        "englishLiteral": "from-all the-beast **the-clean** and-from-all the-flyer",
+        "englishNatural": "from all the beast **the clean** and from all the flyer"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 20
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הַטָּהֹר",
+        "transliteration": "haTahor",
+        "englishLiteral": "the-clean",
+        "englishNatural": "the clean",
+        "root": "tahor",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִכֹּל הָעוֹף **הַטָּהֹר** וַיַּעַל עֹלֹת",
+        "transliteration": "uMikol haOf **haTahor** vayYaal olot",
+        "englishLiteral": "and-from-all the-flyer **the-clean** and-caused-to-go_up goings_up",
+        "englishNatural": "and from all the flyer **the clean** and caused to go-up goings-up"
+      }
+    }
+  ]
+}

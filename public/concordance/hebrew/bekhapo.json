@@ -1,0 +1,31 @@
+{
+  "key": "bekhapo",
+  "language": "hebrew",
+  "root": "kaph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "בְּכַפּוֹ",
+        "transliteration": "beKhapo",
+        "englishLiteral": "in-palm-his",
+        "englishNatural": "in his palm",
+        "root": "kaph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי לְמַטֶּה **בְּכַפּוֹ**",
+        "transliteration": "vaYehi leMateh **beKhapo**",
+        "englishLiteral": "and-was to-branch **in-palm-his**",
+        "englishNatural": "and it was a branch **in his palm**"
+      }
+    }
+  ]
+}

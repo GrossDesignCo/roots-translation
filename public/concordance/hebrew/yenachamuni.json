@@ -1,0 +1,33 @@
+{
+  "key": "yenachamuni",
+  "language": "hebrew",
+  "root": "nacham",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "יְנַחֲמֻנִי",
+        "transliteration": "yenachamuni",
+        "englishLiteral": "comfort-me",
+        "englishNatural": "comfort me",
+        "root": "nacham",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִשְׁעַנְתֶּךָ הֵמָּה **יְנַחֲמֻנִי**",
+        "transliteration": "uMishantekha hemah **yenachamuni**",
+        "englishLiteral": "and-your-staff they **comfort-me**",
+        "englishNatural": "and your staff they **comfort me**"
+      }
+    }
+  ]
+}

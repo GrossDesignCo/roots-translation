@@ -1,0 +1,31 @@
+{
+  "key": "veshaashuai",
+  "language": "hebrew",
+  "root": "shaashua",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 31
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְשַׁעֲשֻׁעַי",
+        "transliteration": "veShaashuai",
+        "englishLiteral": "and-my-darlings",
+        "englishNatural": "and my darlings",
+        "root": "shaashua",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּתֵבֵל אַרְצוֹ **וְשַׁעֲשֻׁעַי** אֶת־ בְּנֵי",
+        "transliteration": "beTevel artso **veShaashuai** et- benei",
+        "englishLiteral": "in-world-of his-land **and-my-darlings** ↳ sons-of",
+        "englishNatural": "in the world of his land **and my darlings** ↳ the sons of"
+      }
+    }
+  ]
+}

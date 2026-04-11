@@ -1,0 +1,33 @@
+{
+  "key": "vattosef",
+  "language": "hebrew",
+  "root": "yasaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתֹּסֶף",
+        "transliteration": "vatTosef",
+        "englishLiteral": "and-she-added",
+        "englishNatural": "And she added",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתֹּסֶף** לָלֶדֶת אֶת־",
+        "transliteration": "**vatTosef** laLedet et-",
+        "englishLiteral": "**and-she-added** to-her-birthing ↳",
+        "englishNatural": "**And she added** to her birthing ↳"
+      }
+    }
+  ]
+}

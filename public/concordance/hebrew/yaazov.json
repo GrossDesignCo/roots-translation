@@ -1,0 +1,33 @@
+{
+  "key": "yaazov",
+  "language": "hebrew",
+  "root": "azav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 24
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יַעֲזָב",
+        "transliteration": "yaazov",
+        "englishLiteral": "he-will-leave",
+        "englishNatural": "will leave",
+        "root": "azav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ כֵּן **יַעֲזָב** אִישׁ אֶת־",
+        "transliteration": "al- ken **yaazov** ish et-",
+        "englishLiteral": "over- so **he-will-leave** man ↳",
+        "englishNatural": "moreover So **will leave** Man ↳"
+      }
+    }
+  ]
+}

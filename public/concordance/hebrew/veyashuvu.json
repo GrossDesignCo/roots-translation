@@ -1,0 +1,33 @@
+{
+  "key": "veyashuvu",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וְיָשֻׁבוּ",
+        "transliteration": "veYashuvu",
+        "englishLiteral": "and-return",
+        "englishNatural": "and return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים בְּחָזְקָה **וְיָשֻׁבוּ** אִישׁ מִדַּרְכּוֹ",
+        "transliteration": "Elohim beChazqah **veYashuvu** ish midarko",
+        "englishLiteral": "Gods in-intensity **and-return** man from-way-his",
+        "englishNatural": "God in intensity **and return** man his way"
+      }
+    }
+  ]
+}

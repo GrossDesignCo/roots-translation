@@ -1,0 +1,31 @@
+{
+  "key": "mi-",
+  "language": "hebrew",
+  "root": "mi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "מִי־",
+        "transliteration": "mi-",
+        "englishLiteral": "who-",
+        "englishNatural": "Who",
+        "root": "mi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**מִי־** יוֹדֵעַ יָשׁוּב",
+        "transliteration": "**mi-** yodea yashuv",
+        "englishLiteral": "**who-** knows he-will-return",
+        "englishNatural": "**Who** knows will return"
+      }
+    }
+  ]
+}

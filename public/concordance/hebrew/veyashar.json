@@ -1,0 +1,31 @@
+{
+  "key": "veyashar",
+  "language": "hebrew",
+  "root": "yashar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְיָשָׁ֛ר",
+        "transliteration": "veYashar",
+        "englishLiteral": "and-straight",
+        "englishNatural": "and straight",
+        "root": "yashar",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הַה֗וּא תָּ֧ם **וְיָשָׁ֛ר** וִירֵ֥א אֱלֹהִ֖ים",
+        "transliteration": "haHu tam **veYashar** viYere Elohim",
+        "englishLiteral": "the-that whole **and-straight** and-fearing Gods",
+        "englishNatural": "and that whole **and straight** and fearing God"
+      }
+    }
+  ]
+}

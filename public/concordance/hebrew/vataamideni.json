@@ -1,0 +1,33 @@
+{
+  "key": "vataamideni",
+  "language": "hebrew",
+  "root": "amad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַתַּעֲמִדֵנִי",
+        "transliteration": "vataAmideni",
+        "englishLiteral": "and-stood-me",
+        "englishNatural": "and stood me",
+        "root": "amad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "דִּבֶּר אֵלָי **וַתַּעֲמִדֵנִי** עַל־ רַגְלָי",
+        "transliteration": "dibber elai **vataAmideni** al- raglai",
+        "englishLiteral": "he-spoke to-me **and-stood-me** over- feet-my",
+        "englishNatural": "He spoke to me **and stood me** over my feet"
+      }
+    }
+  ]
+}

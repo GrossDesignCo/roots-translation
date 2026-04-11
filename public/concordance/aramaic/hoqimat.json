@@ -1,0 +1,59 @@
+{
+  "key": "hoqimat",
+  "language": "aramaic",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "הֳקִימַ֔ת",
+        "transliteration": "hoqimat",
+        "englishLiteral": "was-caused-to-stand",
+        "englishNatural": "it was caused to stand",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hophal"
+        }
+      },
+      "context": {
+        "hebrew": "רַגְלַ֙יִן֙ כֶּאֱנָ֣שׁ **הֳקִימַ֔ת** וּלְבַ֥ב אֱנָ֖שׁ",
+        "transliteration": "raglayyin keEnash **hoqimat** uLevav enash",
+        "englishLiteral": "feet as-Mortal_Man (Enash) **was-caused-to-stand** and-heart Mortal_Man (Enash)",
+        "englishNatural": "feet as a Mortal-Man (Enash) **it was caused to stand** and a heart of a Mortal-Man (Enash)"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הֳקִמַ֔ת",
+        "transliteration": "hoqimat",
+        "englishLiteral": "it-was-raised_up",
+        "englishNatural": "it was raised-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hophal"
+        }
+      },
+      "context": {
+        "hebrew": "וְלִשְׂטַר־ חַד֙ **הֳקִמַ֔ת** וּתְלָ֥ת עִלְעִ֛ין",
+        "transliteration": "veListar- chad **hoqimat** uTelat ilin",
+        "englishLiteral": "And-to-side- one **it-was-raised_up** and-three ribs",
+        "englishNatural": "side And to one **it was raised-up** and three ribs"
+      }
+    }
+  ]
+}

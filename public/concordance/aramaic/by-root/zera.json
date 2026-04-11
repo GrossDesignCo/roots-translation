@@ -1,0 +1,30 @@
+{
+  "root": "zera",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בִּזְרַע",
+        "transliteration": "biZera",
+        "englishLiteral": "in-seed",
+        "englishNatural": "in the seed of",
+        "root": "zera",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִתְעָרְבִין לֶהֱוֺן **בִּזְרַע** אֲנָשָׁא וְלָא־",
+        "transliteration": "mitarvin lehevon **biZera** anasha veLa-",
+        "englishLiteral": "mixing-themselves to-be-them **in-seed** Mortal_Man (Enash)-the and-not-",
+        "englishNatural": "themselves mixing to be **in the seed of** the Mortal-Man (Enash) not"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "bachodeshhash",
+  "language": "hebrew",
+  "root": "chodesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בַּחֹדֶשׁ",
+        "transliteration": "baChodeshhash",
+        "englishLiteral": "in-month",
+        "englishNatural": "in the month",
+        "root": "chodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְחַיֵּי־ נֹחַ **בַּחֹדֶשׁ** הַשֵּׁנִי בְּשִׁבְעָה־",
+        "transliteration": "leChayey- Noach **baChodeshhash** haSheni beShivah-",
+        "englishLiteral": "to-lives-of- Rest (Noah) **in-month** the-second in-seven-",
+        "englishNatural": "to the life of Rest (Noah) **in the month** the second in seven"
+      }
+    }
+  ]
+}

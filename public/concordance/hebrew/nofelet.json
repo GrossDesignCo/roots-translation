@@ -1,0 +1,33 @@
+{
+  "key": "nofelet",
+  "language": "hebrew",
+  "root": "naphal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 12
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "נֹפֶלֶת",
+        "transliteration": "nofelet",
+        "englishLiteral": "falling",
+        "englishNatural": "falling",
+        "root": "naphal",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "חֲשֵׁכָה גְדֹלָה **נֹפֶלֶת** עָלָיו",
+        "transliteration": "chashekha gedolah **nofelet** alav",
+        "englishLiteral": "darkness great **falling** over-him",
+        "englishNatural": "darkness great **falling** over him"
+      }
+    }
+  ]
+}

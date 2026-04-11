@@ -1,0 +1,30 @@
+{
+  "root": "oyev",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אוֹיֵ֥ב",
+        "transliteration": "oyev",
+        "englishLiteral": "enemy",
+        "englishNatural": "enemy",
+        "root": "oyev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צוֹרְרֶ֑יךָ לְהַשְׁבִּ֥ית **אוֹיֵ֥ב** וּמִתְנַקֵּֽם",
+        "transliteration": "tsorerekha leHashbit **oyev** uMitnaqem",
+        "englishLiteral": "your-adversarys to-cause-to-sabbath **enemy** and-self-avenger",
+        "englishNatural": "your adversaries to cause-to-sabbath **enemy** and self-avenger"
+      }
+    }
+  ]
+}

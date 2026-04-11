@@ -1,0 +1,31 @@
+{
+  "key": "mealeynu",
+  "language": "hebrew",
+  "root": "al",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מֵעָלֵינוּ",
+        "transliteration": "meAleynu",
+        "englishLiteral": "from-over-us",
+        "englishNatural": "from over us",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְיִשְׁתֹּק הַיָּם **מֵעָלֵינוּ** כִּי הַיָּם",
+        "transliteration": "veyiShtoq haYam **meAleynu** ki haYam",
+        "englishLiteral": "and-will-quiet the-sea **from-over-us** that the-sea",
+        "englishNatural": "and will quiet the sea **from over us** That the sea is"
+      }
+    }
+  ]
+}

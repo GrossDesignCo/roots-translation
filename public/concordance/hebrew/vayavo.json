@@ -1,0 +1,85 @@
+{
+  "key": "vayavo",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וַיָּבֹא",
+        "transliteration": "vaYavo",
+        "englishLiteral": "and-came",
+        "englishNatural": "and came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אַחַר הַמִּדְבָּר **וַיָּבֹא** אֶל־ הַר",
+        "transliteration": "achar haMidbar **vaYavo** el- har",
+        "englishLiteral": "after the-wilderness **and-came** to- mountain-of",
+        "englishNatural": "after the wilderness **and came** to the mountain of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּבֹא",
+        "transliteration": "vaYavo",
+        "englishLiteral": "And-came",
+        "englishNatural": "came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּבֹא** מֹשֶׁה וְאַהֲרֹן",
+        "transliteration": "**vaYavo** Moshe vAharon",
+        "englishLiteral": "**And-came** Drawn_Out (Moses) and-Light_Bringer (Aaron)",
+        "englishNatural": "**came** And Drawn-Out (Moses) and Light-Bringer (Aaron)"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּבֹא",
+        "transliteration": "vaYavo",
+        "englishLiteral": "And-came",
+        "englishNatural": "came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּבֹא** הָעָם אֶל",
+        "transliteration": "**vaYavo** haAm el",
+        "englishLiteral": "**And-came** the-people to",
+        "englishNatural": "**came** And the people to"
+      }
+    }
+  ]
+}

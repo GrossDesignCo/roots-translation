@@ -1,0 +1,31 @@
+{
+  "key": "orekh",
+  "language": "hebrew",
+  "root": "orekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 15
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אֹרֶךְ",
+        "transliteration": "orekh",
+        "englishLiteral": "length-of",
+        "englishNatural": "the length of",
+        "root": "orekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאוֹת אַמָּה **אֹרֶךְ** הַתֵּבָה חֲמִשִּׁים",
+        "transliteration": "meot ammah **orekh** haTevah chamishim",
+        "englishLiteral": "hundreds cubit **length-of** the-ark fifty",
+        "englishNatural": "hundred cubits **the length of** the ark fifty"
+      }
+    }
+  ]
+}

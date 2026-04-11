@@ -1,0 +1,31 @@
+{
+  "key": "harechayim",
+  "language": "hebrew",
+  "root": "rechayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "הָרֵחָ֑יִם",
+        "transliteration": "haRechayim",
+        "englishLiteral": "the-millstones",
+        "englishNatural": "the millstones",
+        "root": "rechayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁ֖ר אַחַ֣ר **הָרֵחָ֑יִם** וְכֹ֖ל בְּכ֥וֹר",
+        "transliteration": "asher achar **haRechayim** veKhol bekhor",
+        "englishLiteral": "which after **the-millstones** and-all firstborn-of",
+        "englishNatural": "which after **the millstones** and all the firstborn of"
+      }
+    }
+  ]
+}

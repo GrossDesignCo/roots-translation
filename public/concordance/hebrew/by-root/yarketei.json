@@ -1,0 +1,30 @@
+{
+  "root": "yarketei",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "יַרְכְּתֵי",
+        "transliteration": "yarketei",
+        "englishLiteral": "far_reaches-of",
+        "englishNatural": "the far-reaches of",
+        "root": "yarketei",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָרַד אֶל־ **יַרְכְּתֵי** הַסְּפִינָה וַיִּשְׁכַּב",
+        "transliteration": "yarad el- **yarketei** haSeninah vaYishkav",
+        "englishLiteral": "went_down to- **far_reaches-of** the-ship and-lay_down",
+        "englishNatural": "had gone down into **the far-reaches of** the ship and he lay down"
+      }
+    }
+  ]
+}

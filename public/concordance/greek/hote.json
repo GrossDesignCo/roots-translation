@@ -1,0 +1,55 @@
+{
+  "key": "hote",
+  "language": "greek",
+  "root": "ote",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "Ὅτε",
+        "transliteration": "Hote",
+        "englishLiteral": "When",
+        "englishNatural": "When",
+        "root": "ote",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "**Ὅτε** οὖν ἠρίστησαν",
+        "transliteration": "**Hote** oun ēristēsan",
+        "englishLiteral": "**When** therefore they-meal_shared",
+        "englishNatural": "**When** therefore they had meal-shared"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "ὅτε",
+        "transliteration": "hote",
+        "englishLiteral": "when",
+        "englishNatural": "when",
+        "root": "ote",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "λέγω σοι **ὅτε** ἦς νεώτερος",
+        "transliteration": "legō soi **hote** ēs neoteros",
+        "englishLiteral": "I-say to-you **when** you-were younger",
+        "englishNatural": "I say to you **when** you were younger"
+      }
+    }
+  ]
+}

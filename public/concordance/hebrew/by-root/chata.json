@@ -1,0 +1,128 @@
+{
+  "root": "chata",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "חַטָּאת",
+        "transliteration": "chatat",
+        "englishLiteral": "sin",
+        "englishNatural": "sin",
+        "root": "chata",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תֵיטִיב לַפֶּתַח **חַטָּאת** רֹבֵץ וְאֵלֶיךָ",
+        "transliteration": "teytiv laPetach **chatat** rovetz veElekha",
+        "englishLiteral": "you-do_well to-opening **sin** crouching and-to-you",
+        "englishNatural": "you do-well to the opening **sin** is crouching and to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "חָטָאנוּ",
+        "transliteration": "chatanu",
+        "englishLiteral": "we-have-sinned",
+        "englishNatural": "We have sinned",
+        "root": "chata",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה וַיֹּאמְרוּ **חָטָאנוּ** כִּי דִבַּרְנוּ",
+        "transliteration": "Moshe vaYomru **chatanu** ki dibarnu",
+        "englishLiteral": "Drawn_Out (Moses) and-they-said **we-have-sinned** that we-have-spoken",
+        "englishNatural": "Drawn-Out (Moses) and said **We have sinned** that we have spoken"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "חַטָּאִים",
+        "transliteration": "chataim",
+        "englishLiteral": "sinners",
+        "englishNatural": "sinners",
+        "root": "chata",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רְשָׁעִים וּבְדֶרֶךְ **חַטָּאִים** לֹא עָמָד",
+        "transliteration": "reshaim uvDerekh **chataim** lo amad",
+        "englishLiteral": "wicked_ones and-in-way-of **sinners** not has-stood",
+        "englishNatural": "wicked-ones and in the way of **sinners** not has stood"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְחַטָּאִים",
+        "transliteration": "veChataim",
+        "englishLiteral": "and-sinners",
+        "englishNatural": "and sinners",
+        "root": "chata",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רְשָׁעִים בַּמִּשְׁפָּט **וְחַטָּאִים** בַּעֲדַת צַדִּיקִים",
+        "transliteration": "reshaim baMishpat **veChataim** baAdat tzadiqim",
+        "englishLiteral": "wicked-ones in-justice **and-sinners** in-assembly-of righteous-ones",
+        "englishNatural": "the wicked in justice **and sinners** in the assembly of the righteous"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְחַטָּאתְךָ",
+        "transliteration": "veChatatkha",
+        "englishLiteral": "and-your-sin",
+        "englishNatural": "and your sin",
+        "root": "chata",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְסָר עֲוֹנֶךָ **וְחַטָּאתְךָ** תְּכֻפָּר",
+        "transliteration": "veSar avonekha **veChatatkha** teKupar",
+        "englishLiteral": "and-turned_aside your-twisting **and-your-sin** will-be-covered",
+        "englishNatural": "and turned-aside your twisting **and your sin** will be covered"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vaydaber",
+  "language": "hebrew",
+  "root": "davar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְדַבֵּר",
+        "transliteration": "vayDaber",
+        "englishLiteral": "And-spoke",
+        "englishNatural": "spoke",
+        "root": "davar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְדַבֵּר** אֱלֹהִים אֶל־",
+        "transliteration": "**vayDaber** Elohim el-",
+        "englishLiteral": "**And-spoke** Gods to-",
+        "englishNatural": "**spoke** And God to"
+      }
+    }
+  ]
+}

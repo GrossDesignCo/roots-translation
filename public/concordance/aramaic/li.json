@@ -1,0 +1,31 @@
+{
+  "key": "li",
+  "language": "aramaic",
+  "root": "li",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לִי",
+        "transliteration": "li",
+        "englishLiteral": "to-me",
+        "englishNatural": "to me",
+        "root": "li",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "דְנָה גְּלִי **לִי** לָהֵן בְּדִבְרַת",
+        "transliteration": "denah geli **li** lahen beDivrat",
+        "englishLiteral": "this he-revealed **to-me** but on-word-of",
+        "englishNatural": "this has he revealed **to me** but on the word of"
+      }
+    }
+  ]
+}

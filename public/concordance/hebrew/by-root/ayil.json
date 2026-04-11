@@ -1,0 +1,30 @@
+{
+  "root": "ayil",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וְאַיִל",
+        "transliteration": "veAyil",
+        "englishLiteral": "and-ram",
+        "englishNatural": "and a ram",
+        "root": "ayil",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעֵז מְשֻׁלֶּשֶׁת **וְאַיִל** מְשֻׁלָּשׁ וְתֹר",
+        "transliteration": "veEz meshulleshet **veAyil** meshulash veTor",
+        "englishLiteral": "and-goat three-years-old **and-ram** three-years-old and-turtledove",
+        "englishNatural": "and a goat three years old **and a ram** three years old and a turtledove"
+      }
+    }
+  ]
+}

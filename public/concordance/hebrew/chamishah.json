@@ -1,0 +1,31 @@
+{
+  "key": "chamishah",
+  "language": "hebrew",
+  "root": "chamishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 21
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "חֲמִשָּׁה",
+        "transliteration": "chamishah",
+        "englishLiteral": "five",
+        "englishNatural": "five",
+        "root": "chamishah",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי חֲנוֹךְ **חֲמִשָּׁה** וְשִׁשִּׁים שָׁנָה",
+        "transliteration": "vaYechi Chanokh **chamishah** veShishim shanah",
+        "englishLiteral": "and-lived Dedicated (Enoch) **five** and-sixty year",
+        "englishNatural": "lived And Dedicated (Enoch) **five** and sixty years"
+      }
+    }
+  ]
+}

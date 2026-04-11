@@ -1,0 +1,59 @@
+{
+  "key": "lehevon",
+  "language": "aramaic",
+  "root": "hava",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לֶהֱוֺן",
+        "transliteration": "lehevon",
+        "englishLiteral": "to-be-them",
+        "englishNatural": "to be",
+        "root": "hava",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "טִינָא מִתְעָרְבִין **לֶהֱוֺן** בִּזְרַע אֲנָשָׁא",
+        "transliteration": "tina mitarvin **lehevon** biZera anasha",
+        "englishLiteral": "mud-the mixing-themselves **to-be-them** in-seed Mortal_Man (Enash)-the",
+        "englishNatural": "the mud themselves mixing **to be** in the seed of the Mortal-Man (Enash)"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לֶהֱוֺן",
+        "transliteration": "lehevon",
+        "englishLiteral": "to-be-them",
+        "englishNatural": "and they will be",
+        "root": "hava",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲנָשָׁא וְלָא־ **לֶהֱוֺן** דָּבְקִין דְּנָה",
+        "transliteration": "anasha veLa- **lehevon** davqin denah",
+        "englishLiteral": "Mortal_Man (Enash)-the and-not- **to-be-them** adhering this",
+        "englishNatural": "the Mortal-Man (Enash) not **and they will be** adhering this"
+      }
+    }
+  ]
+}

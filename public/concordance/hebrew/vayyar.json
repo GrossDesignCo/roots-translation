@@ -1,0 +1,59 @@
+{
+  "key": "vayyar",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּרְא",
+        "transliteration": "vayYar",
+        "englishLiteral": "And-he-saw",
+        "englishNatural": "saw",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּרְא** יְהוָה כִּי",
+        "transliteration": "**vayYar** YHWH ki",
+        "englishLiteral": "**And-he-saw** He_Who_Is (YHWH) that",
+        "englishNatural": "**saw** And He-Who-Is (YHWH) that"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּרְא",
+        "transliteration": "vayYar",
+        "englishLiteral": "And-he-saw",
+        "englishNatural": "saw",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּרְא** אֱלֹהִים אֶת־",
+        "transliteration": "**vayYar** elohim et-",
+        "englishLiteral": "**And-he-saw** Gods ↳",
+        "englishNatural": "**saw** And God ↳"
+      }
+    }
+  ]
+}

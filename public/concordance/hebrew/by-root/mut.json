@@ -1,0 +1,524 @@
+{
+  "root": "mut",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 17
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "תָּמוּת׃",
+        "transliteration": "tamuth",
+        "englishLiteral": "you-will-die",
+        "englishNatural": "you will die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִמֶּנּוּ מוֹת **תָּמוּת׃**",
+        "transliteration": "mimennu mot **tamuth**",
+        "englishLiteral": "from-it death **you-will-die**",
+        "englishNatural": "from it death **you will die**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "תְּמֻתוּן׃",
+        "transliteration": "temutun",
+        "englishLiteral": "you-shall-die",
+        "englishNatural": "you should die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בּוֹ פֶּן־ **תְּמֻתוּן׃**",
+        "transliteration": "bo pen- **temutun**",
+        "englishLiteral": "in-it lest **you-shall-die**",
+        "englishNatural": "it lest **you should die**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מוֹת",
+        "transliteration": "mot",
+        "englishLiteral": "dying",
+        "englishNatural": "Dying",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאִשָּׁה לֹא־ **מוֹת** תְּמֻתוּן׃",
+        "transliteration": "haIshah lo- **mot** temutun",
+        "englishLiteral": "the-woman Not- **dying** you-shall-die",
+        "englishNatural": "the woman not **Dying** You shall die"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "תְּמֻתוּן׃",
+        "transliteration": "temutun",
+        "englishLiteral": "you-shall-die",
+        "englishNatural": "You shall die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ מוֹת **תְּמֻתוּן׃**",
+        "transliteration": "lo- mot **temutun**",
+        "englishLiteral": "Not- dying **you-shall-die**",
+        "englishNatural": "not Dying **You shall die**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 5
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וַיָּמֹת",
+        "transliteration": "vaYamot",
+        "englishLiteral": "and-he-died",
+        "englishNatural": "and he died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּשְׁלֹשִׁים שָׁנָה **וַיָּמֹת**",
+        "transliteration": "uShloshim shanah **vaYamot**",
+        "englishLiteral": "and-thirty year **and-he-died**",
+        "englishNatural": "and thirty years **and he died**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 8
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וַיָּמֹת",
+        "transliteration": "vaYamot",
+        "englishLiteral": "and-he-died",
+        "englishNatural": "and he died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאוֹת שָׁנָה **וַיָּמֹת**",
+        "transliteration": "meot shanah **vaYamot**",
+        "englishLiteral": "hundreds year **and-he-died**",
+        "englishNatural": "hundred years **and he died**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיָּמֹת",
+        "transliteration": "vaYamot",
+        "englishLiteral": "and-he-died",
+        "englishNatural": "and he died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאוֹת שָׁנָה **וַיָּמֹת**",
+        "transliteration": "meot shanah **vaYamot**",
+        "englishLiteral": "hundreds year **and-he-died**",
+        "englishNatural": "hundred years **and he died**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיָּמֹת",
+        "transliteration": "vaYamot",
+        "englishLiteral": "and-he-died",
+        "englishNatural": "and he died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאוֹת שָׁנָה **וַיָּמֹת**",
+        "transliteration": "meot shanah **vaYamot**",
+        "englishLiteral": "hundreds year **and-he-died**",
+        "englishNatural": "hundred years **and he died**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 17
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וַיָּמֹת",
+        "transliteration": "vaYamot",
+        "englishLiteral": "and-he-died",
+        "englishNatural": "and he died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאוֹת שָׁנָה **וַיָּמֹת**",
+        "transliteration": "meot shanah **vaYamot**",
+        "englishLiteral": "hundreds year **and-he-died**",
+        "englishNatural": "hundred years **and he died**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 20
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וַיָּמֹת",
+        "transliteration": "vaYamot",
+        "englishLiteral": "and-he-died",
+        "englishNatural": "and he died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאוֹת שָׁנָה **וַיָּמֹת**",
+        "transliteration": "meot shanah **vaYamot**",
+        "englishLiteral": "hundreds year **and-he-died**",
+        "englishNatural": "hundred years **and he died**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 27
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וַיָּמֹת",
+        "transliteration": "vaYamot",
+        "englishLiteral": "and-he-died",
+        "englishNatural": "and he died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאוֹת שָׁנָה **וַיָּמֹת**",
+        "transliteration": "meot shanah **vaYamot**",
+        "englishLiteral": "hundreds year **and-he-died**",
+        "englishNatural": "hundred years **and he died**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 31
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וַיָּמֹת",
+        "transliteration": "vaYamot",
+        "englishLiteral": "and-died",
+        "englishNatural": "and he died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאוֹת שָׁנָה **וַיָּמֹת**",
+        "transliteration": "meot shanah **vaYamot**",
+        "englishLiteral": "hundreds year **and-died**",
+        "englishNatural": "hundred years **and he died**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 29
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיָּמֹת",
+        "transliteration": "vayamot",
+        "englishLiteral": "and-he-died",
+        "englishNatural": "and he died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַחֲמִשִּׁים שָׁנָה **וַיָּמֹת**",
+        "transliteration": "vachamishim shanah **vayamot**",
+        "englishLiteral": "and-fifty year **and-he-died**",
+        "englishNatural": "and fifty years **and he died**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "תָּמֽוּת׃",
+        "transliteration": "tamut",
+        "englishLiteral": "you-will-die",
+        "englishNatural": "you will die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רְאֹתְךָ֥ פָנַ֖י **תָּמֽוּת׃**",
+        "transliteration": "reotekha panay **tamut**",
+        "englishLiteral": "seeing-you faces-my **you-will-die**",
+        "englishNatural": "you seeing my face **you will die**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּמֵת֙",
+        "transliteration": "uMet",
+        "englishLiteral": "and-will-die",
+        "englishNatural": "And will die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וּמֵת֙** כָּל־ בְּכ֣וֹר",
+        "transliteration": "**uMet** kol- bekhor",
+        "englishLiteral": "**and-will-die** all- firstborn",
+        "englishNatural": "**And will die** all firstborn"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 30
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "מֵֽת׃",
+        "transliteration": "met",
+        "englishLiteral": "dead",
+        "englishNatural": "a dead one",
+        "root": "mut",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֵֽין־ שָׁ֖ם **מֵֽת׃**",
+        "transliteration": "eyn- sham **met**",
+        "englishLiteral": "there-is-not- there **dead**",
+        "englishNatural": "there was not there **a dead one**"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיָּמָת",
+        "transliteration": "vaYamat",
+        "englishLiteral": "and-died",
+        "englishNatural": "died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת הָעָם **וַיָּמָת** עַם רָב",
+        "transliteration": "et haAm **vaYamat** am rav",
+        "englishLiteral": "↳ the-people **and-died** people many",
+        "englishNatural": "↳ the people **died** people and many"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּ֥מָת",
+        "transliteration": "vaYamat",
+        "englishLiteral": "And-died",
+        "englishNatural": "died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּ֥מָת** אֱלִימֶ֖לֶךְ אִ֣ישׁ",
+        "transliteration": "**vaYamat** Elimelekh ish",
+        "englishLiteral": "**And-died** My_God_King (Elimelech) man-of",
+        "englishNatural": "**died** And My-God-King (Elimelech) the man of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּמ֥וּתוּ",
+        "transliteration": "vaYamutu",
+        "englishLiteral": "And-they-died",
+        "englishNatural": "died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּמ֥וּתוּ** גַם־ שְׁנֵיהֶ֖ם",
+        "transliteration": "**vaYamutu** gam- shneyhem",
+        "englishLiteral": "**And-they-died** also- two-of-them",
+        "englishNatural": "**died** And also the two of them"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "הַמֵּתִ֖ים",
+        "transliteration": "haMetim",
+        "englishLiteral": "the-dead",
+        "englishNatural": "the dead",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֲשִׂיתֶ֛ם עִם־ **הַמֵּתִ֖ים** וְעִמָּדִֽי",
+        "transliteration": "asitem im- **haMetim** veImmadi",
+        "englishLiteral": "you-made with- **the-dead** and-with-me",
+        "englishNatural": "you made with **the dead** and with me"
+      }
+    }
+  ]
+}

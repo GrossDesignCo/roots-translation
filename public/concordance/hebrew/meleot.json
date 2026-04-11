@@ -1,0 +1,33 @@
+{
+  "key": "meleot",
+  "language": "hebrew",
+  "root": "male",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מְלֵאֹת",
+        "transliteration": "meleot",
+        "englishLiteral": "full-of",
+        "englishNatural": "full of",
+        "root": "male",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶם וְגַבֹּתָם **מְלֵאֹת** עֵינַיִם סָבִיב",
+        "transliteration": "lahem veGabbotam **meleot** einayim saviv",
+        "englishLiteral": "to-them and-rims-their **full-of** eyes all_around",
+        "englishNatural": "to them and their rims **full of** eyes all-around"
+      }
+    }
+  ]
+}

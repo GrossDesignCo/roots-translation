@@ -1,0 +1,54 @@
+{
+  "root": "chai",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 20
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "חָי׃",
+        "transliteration": "chai",
+        "englishLiteral": "Living",
+        "englishNatural": "Living",
+        "root": "chai",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֵם כָּל־ **חָי׃**",
+        "transliteration": "em kol- **chai**",
+        "englishLiteral": "Mother all **Living**",
+        "englishNatural": "Mother of all **Living**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 19
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הָחַי",
+        "transliteration": "haChai",
+        "englishLiteral": "the-living",
+        "englishNatural": "the living",
+        "root": "chai",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִכָּל־ **הָחַי** מִכָּל־ בָּשָׂר",
+        "transliteration": "uMikol- **haChai** mikol- basar",
+        "englishLiteral": "And-from-all- **the-living** from-all- flesh",
+        "englishNatural": "And from all **the living** from all flesh"
+      }
+    }
+  ]
+}

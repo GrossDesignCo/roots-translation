@@ -1,0 +1,30 @@
+{
+  "root": "chelev",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וּמֵחֶלְבֵהֶן",
+        "transliteration": "umeChelveHen",
+        "englishLiteral": "and-from-fat-of-them",
+        "englishNatural": "and from their fat",
+        "root": "chelev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִבְּכֹרוֹת צֹאנוֹ **וּמֵחֶלְבֵהֶן** וַיִּשַׁע יְהוָה",
+        "transliteration": "miBekhorot tzono **umeChelveHen** vayYisha YHWH",
+        "englishLiteral": "from-firstborn-of his-flock **and-from-fat-of-them** And-He-esteemed He_Who_Is (YHWH)",
+        "englishNatural": "from the firstborn of his flock **and from their fat** esteemed And He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

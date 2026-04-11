@@ -1,0 +1,33 @@
+{
+  "key": "va",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בָא",
+        "transliteration": "va",
+        "englishLiteral": "coming",
+        "englishNatural": "coming",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הִנֵּה אָנֹכִי **בָא** אֶל־ בְּנֵי",
+        "transliteration": "hineh anokhi **va** el- benei",
+        "englishLiteral": "behold I **coming** to- sons-of",
+        "englishNatural": "Behold I **coming** to the sons of"
+      }
+    }
+  ]
+}

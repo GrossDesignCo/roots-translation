@@ -1,0 +1,31 @@
+{
+  "key": "bayam",
+  "language": "hebrew",
+  "root": "yam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בַּיָּם",
+        "transliteration": "baYam",
+        "englishLiteral": "in-sea",
+        "englishNatural": "in the sea",
+        "root": "yam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "סַעַר־ גָּדוֹל **בַּיָּם** וְהָאֳנִיָּה חִשְּׁבָה",
+        "transliteration": "saar- gadol **baYam** veHaOniyah chishvah",
+        "englishLiteral": "tempest- great **in-sea** and-the-ship planned",
+        "englishNatural": "tempest a great **in the sea** and the ship planned"
+      }
+    }
+  ]
+}

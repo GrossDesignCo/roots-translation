@@ -1,0 +1,33 @@
+{
+  "key": "hamithapekhet",
+  "language": "hebrew",
+  "root": "haphakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "הַמִּתְהַפֶּכֶת",
+        "transliteration": "haMithapekhet",
+        "englishLiteral": "the-overturning",
+        "englishNatural": "the Overturning",
+        "root": "haphakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "לַהַט הַחֶרֶב **הַמִּתְהַפֶּכֶת** לִשְׁמֹר אֶת־",
+        "transliteration": "lahat haCherev **haMithapekhet** lishMor et-",
+        "englishLiteral": "bright_flash the-sword **the-overturning** to-keep ↳",
+        "englishNatural": "Bright-Flash the Sword **the Overturning** to keep ↳"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayetse",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וַיֵּצֵ֥א",
+        "transliteration": "vaYetse",
+        "englishLiteral": "And-he-brought_out",
+        "englishNatural": "And he brought-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כֵ֖ן אֵצֵ֑א **וַיֵּצֵ֥א** מֵֽעִם־ פַּרְעֹ֖ה",
+        "transliteration": "ken etse **vaYetse** meIm- Paroh",
+        "englishLiteral": "so I-will-bring_out **And-he-brought_out** from-with- Pharaoh",
+        "englishNatural": "so I will bring-out **And he brought-out** from with Pharaoh"
+      }
+    }
+  ]
+}

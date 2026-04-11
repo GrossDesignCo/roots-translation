@@ -1,0 +1,31 @@
+{
+  "key": "laesh",
+  "language": "hebrew",
+  "root": "esh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לָאֵשׁ",
+        "transliteration": "laEsh",
+        "englishLiteral": "to-the-fire",
+        "englishNatural": "to the fire",
+        "root": "esh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַחַיּוֹת וְנֹגַהּ **לָאֵשׁ** וּמִן־ הָאֵשׁ",
+        "transliteration": "haChayot veNogah **laEsh** uMin- haEsh",
+        "englishLiteral": "the-living_beings and-brightness **to-the-fire** and-from- the-fire",
+        "englishNatural": "the living-beings and brightness **to the fire** and from the fire"
+      }
+    }
+  ]
+}

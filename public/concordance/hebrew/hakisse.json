@@ -1,0 +1,31 @@
+{
+  "key": "hakisse",
+  "language": "hebrew",
+  "root": "kisse",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "הַכִּסֵּא",
+        "transliteration": "haKisse",
+        "englishLiteral": "the-throne",
+        "englishNatural": "the throne",
+        "root": "kisse",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַל דְּמוּת **הַכִּסֵּא** דְּמוּת כְּמַרְאֵה",
+        "transliteration": "veAl demut **haKisse** demut keMareeh",
+        "englishLiteral": "and-over likeness-of **the-throne** likeness like-appearance-of",
+        "englishNatural": "and over the likeness of **the throne** a likeness like the appearance of"
+      }
+    }
+  ]
+}

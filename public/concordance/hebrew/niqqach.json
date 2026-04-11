@@ -1,0 +1,33 @@
+{
+  "key": "niqqach",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "נִקַּח",
+        "transliteration": "niqqach",
+        "englishLiteral": "will-take",
+        "englishNatural": "we will take",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי מִמֶּנּוּ **נִקַּח** לַעֲבֹד אֶת־",
+        "transliteration": "ki mimenu **niqqach** laAvod et-",
+        "englishLiteral": "that from-it **will-take** to-serve ↳",
+        "englishNatural": "for from it **we will take** to serve ↳"
+      }
+    }
+  ]
+}

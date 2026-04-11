@@ -1,0 +1,33 @@
+{
+  "key": "akhalchem",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֲכָלְכֶם",
+        "transliteration": "akhalchem",
+        "englishLiteral": "eating-you",
+        "englishNatural": "you eating",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי בְיוֹם **אֲכָלְכֶם** מִמֶּנּוּ וְנִפְקְחוּ",
+        "transliteration": "ki beYom **akhalchem** mimenu veNifqechu",
+        "englishLiteral": "that in-day **eating-you** from-it and-will-be-opened",
+        "englishNatural": "that in the day of **you eating** from it will be opened"
+      }
+    }
+  ]
+}

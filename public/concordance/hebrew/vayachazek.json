@@ -1,0 +1,33 @@
+{
+  "key": "vayachazek",
+  "language": "hebrew",
+  "root": "tafas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וַיַּחֲזֶק",
+        "transliteration": "vaYachazek",
+        "englishLiteral": "and-handled",
+        "englishNatural": "and handled",
+        "root": "tafas",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּשְׁלַח יָדוֹ **וַיַּחֲזֶק** בּוֹ וַיְהִי",
+        "transliteration": "vaYishlach yado **vaYachazek** bo vaYehi",
+        "englishLiteral": "And-sent hand-his **and-handled** in-it and-was",
+        "englishNatural": "And he sent-out his hand **and handled** it and it was"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayechullu",
+  "language": "hebrew",
+  "root": "kalah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְכֻלּוּ",
+        "transliteration": "vaYechullu",
+        "englishLiteral": "And-were-finished",
+        "englishNatural": "And finished were",
+        "root": "kalah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְכֻלּוּ** הַשָּׁמַיִם וְהָאָרֶץ",
+        "transliteration": "**vaYechullu** haShamayim veHaAretz",
+        "englishLiteral": "**And-were-finished** the-skies and-the-land",
+        "englishNatural": "**And finished were** the skies and the land"
+      }
+    }
+  ]
+}

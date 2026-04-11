@@ -1,0 +1,31 @@
+{
+  "key": "mishbarekha",
+  "language": "hebrew",
+  "root": "mishbar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מִשְׁבָּרֶיךָ",
+        "transliteration": "mishbarekha",
+        "englishLiteral": "breakers-your",
+        "englishNatural": "your breakers",
+        "root": "mishbar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְסֹבְבֵנִי כָּל־ **מִשְׁבָּרֶיךָ** וְגַלֶּיךָ עָלַי",
+        "transliteration": "yesoveveni kol- **mishbarekha** veGalekha alay",
+        "englishLiteral": "goes_around-me all- **breakers-your** and-waves-your over-me",
+        "englishNatural": "goes-around me all **your breakers** and your waves over me"
+      }
+    }
+  ]
+}

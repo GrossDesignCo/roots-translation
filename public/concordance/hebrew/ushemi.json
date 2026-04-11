@@ -1,0 +1,31 @@
+{
+  "key": "ushemi",
+  "language": "hebrew",
+  "root": "shem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וּשְׁמִי",
+        "transliteration": "uShemi",
+        "englishLiteral": "and-name-my",
+        "englishNatural": "and my name",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאֵל שַׁדָּי **וּשְׁמִי** יְהוָה לֹא",
+        "transliteration": "beEl Shaddai **uShemi** YHWH lo",
+        "englishLiteral": "in-God Almighty **and-name-my** He_Who_Is (YHWH) not",
+        "englishNatural": "in God Almighty **and my name** He-Who-Is (YHWH) not"
+      }
+    }
+  ]
+}

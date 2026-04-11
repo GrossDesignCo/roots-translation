@@ -1,0 +1,33 @@
+{
+  "key": "tavi",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 19
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "תָּבִיא",
+        "transliteration": "tavi",
+        "englishLiteral": "you-shall-bring",
+        "englishNatural": "you shall bring",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנַיִם מִכֹּל **תָּבִיא** אֶל־ הַתֵּבָה",
+        "transliteration": "shnayim mikol **tavi** el- haTevah",
+        "englishLiteral": "two from-all **you-shall-bring** to- the-ark",
+        "englishNatural": "two from all **you shall bring** to the ark"
+      }
+    }
+  ]
+}

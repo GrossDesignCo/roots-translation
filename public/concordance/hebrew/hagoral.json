@@ -1,0 +1,31 @@
+{
+  "key": "hagoral",
+  "language": "hebrew",
+  "root": "goral",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "הַגּוֹרָל",
+        "transliteration": "haGoral",
+        "englishLiteral": "the-lot",
+        "englishNatural": "and the lot",
+        "root": "goral",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גוֹרָלוֹת וַיִּפֹּל **הַגּוֹרָל** עַל־ יוֹנָה",
+        "transliteration": "goralot vaYipol **haGoral** al- Yonah",
+        "englishLiteral": "lots and-fell **the-lot** over- Dove (Jonah)",
+        "englishNatural": "lots fell **and the lot** over Dove (Jonah)"
+      }
+    }
+  ]
+}

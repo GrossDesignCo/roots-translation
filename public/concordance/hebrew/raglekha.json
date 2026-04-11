@@ -1,0 +1,31 @@
+{
+  "key": "raglekha",
+  "language": "hebrew",
+  "root": "regel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "רַגְלֶיךָ",
+        "transliteration": "raglekha",
+        "englishLiteral": "feet-your",
+        "englishNatural": "your feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְעָלֶיךָ מֵעַל **רַגְלֶיךָ** כִּי הַמָּקוֹם",
+        "transliteration": "nealekha meAl **raglekha** ki haMaqom",
+        "englishLiteral": "sandals-your from-over **feet-your** that the-place",
+        "englishNatural": "your sandals from over **your feet** that the place"
+      }
+    }
+  ]
+}

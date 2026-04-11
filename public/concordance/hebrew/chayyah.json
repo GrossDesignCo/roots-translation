@@ -1,0 +1,55 @@
+{
+  "key": "chayyah",
+  "language": "hebrew",
+  "root": "chayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "חַיָּה׃",
+        "transliteration": "chayyah",
+        "englishLiteral": "living",
+        "englishNatural": "a living",
+        "root": "chayah",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם לְנֶפֶשׁ **חַיָּה׃**",
+        "transliteration": "haAdam leNefesh **chayyah**",
+        "englishLiteral": "the-Earthling (Adam) to-throat **living**",
+        "englishNatural": "and the Earthling (Adam) throat **a living**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      },
+      "wordIndex": 25,
+      "word": {
+        "originalScript": "חַיָּה",
+        "transliteration": "chayyah",
+        "englishLiteral": "living",
+        "englishNatural": "each living",
+        "root": "chayah",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם נֶפֶשׁ **חַיָּה** הוּא שְׁמוֹ׃",
+        "transliteration": "haAdam nephesh **chayyah** hu shemo",
+        "englishLiteral": "the-Earthling (Adam) throat **living** it its-name",
+        "englishNatural": "the Earthling (Adam) throat **each living** that was its name"
+      }
+    }
+  ]
+}

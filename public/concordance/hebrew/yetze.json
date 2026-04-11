@@ -1,0 +1,59 @@
+{
+  "key": "yetze",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "יֵצֵא",
+        "transliteration": "yetze",
+        "englishLiteral": "he-will-come-out",
+        "englishNatural": "will come out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־אִם אֲשֶׁר **יֵצֵא** מִמֵּעֶיךָ הוּא",
+        "transliteration": "ki-im asher **yetze** mimmeykha hu",
+        "englishLiteral": "but which **he-will-come-out** from-bowels-of-you he",
+        "englishNatural": "but he which **will come out** from your bowels he"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "יֵצֵא",
+        "transliteration": "yetze",
+        "englishLiteral": "shall-come-forth",
+        "englishNatural": "shall come forth",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִשֹּׁרֶשׁ נָחָשׁ **יֵצֵא** צֶפַע וּפִרְיוֹ",
+        "transliteration": "miShoresh nachash **yetze** tsefa uFiryo",
+        "englishLiteral": "from-root snake **shall-come-forth** viper and-its-fruit",
+        "englishNatural": "from the root of a snake **shall come forth** a viper and its fruit"
+      }
+    }
+  ]
+}

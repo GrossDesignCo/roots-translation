@@ -1,0 +1,33 @@
+{
+  "key": "tofes",
+  "language": "hebrew",
+  "root": "tafas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "תֹּפֵשׂ",
+        "transliteration": "tofes",
+        "englishLiteral": "handling",
+        "englishNatural": "handling",
+        "root": "tafas",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבִי כָּל־ **תֹּפֵשׂ** כִּנּוֹר וְעוּגָב",
+        "transliteration": "avi kol- **tofes** kinnor veUgav",
+        "englishLiteral": "father-of all **handling** lyre and-flute",
+        "englishNatural": "father of all **handling** lyre and flute"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "uqodamohi",
+  "language": "aramaic",
+  "root": "qodam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "וּקְדָמ֖וֹהִי",
+        "transliteration": "uQodamohi",
+        "englishLiteral": "and-before-him",
+        "englishNatural": "and before him",
+        "root": "qodam",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יֽוֹמַיָּא֙ מְטָ֔ה **וּקְדָמ֖וֹהִי** הַקְרְב֥וּהִי",
+        "transliteration": "yomaya meta **uQodamohi** haqrevuhi",
+        "englishLiteral": "Days-the had-reached **and-before-him** had-caused-to-approach",
+        "englishNatural": "the Days he had reached **and before him** had caused to approach"
+      }
+    }
+  ]
+}

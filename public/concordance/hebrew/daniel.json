@@ -1,0 +1,31 @@
+{
+  "key": "daniel",
+  "language": "hebrew",
+  "root": "daniel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "דָּנִיֵּאל",
+        "transliteration": "Daniel",
+        "englishLiteral": "God_Is_My_Judge (Daniel)",
+        "englishNatural": "And God-Is-My-Judge (Daniel)",
+        "root": "daniel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **דָּנִיֵּאל** עַד שְׁנַת",
+        "transliteration": "vaYehi **Daniel** ad shnat",
+        "englishLiteral": "and-he-was **God_Is_My_Judge (Daniel)** until year-of",
+        "englishNatural": "was **And God-Is-My-Judge (Daniel)** until the year of"
+      }
+    }
+  ]
+}

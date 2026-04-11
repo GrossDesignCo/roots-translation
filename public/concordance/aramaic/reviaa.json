@@ -1,0 +1,31 @@
+{
+  "key": "reviaa",
+  "language": "aramaic",
+  "root": "revai",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "רְֽבִיעָאָ֡ה",
+        "transliteration": "reviaa",
+        "englishLiteral": "fourth",
+        "englishNatural": "a fourth",
+        "root": "revai",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲר֣וּ חֵיוָה֩ **רְֽבִיעָאָ֡ה** דְּחִילָה֩ וְאֵֽימְתָנִ֜י",
+        "transliteration": "vaAru kheyva **reviaa** dekhilah veEmtani",
+        "englishLiteral": "and-behold beast **fourth** dreadful and-terrible",
+        "englishNatural": "and behold beast **a fourth** dreadful and terrible"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "umeishah",
+  "language": "hebrew",
+  "root": "ish",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וּמֵאִישָֽׁהּ׃",
+        "transliteration": "uMeIshah",
+        "englishLiteral": "and-from-man-her",
+        "englishNatural": "and from her man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִשְּׁנֵ֥י יְלָדֶ֖יהָ **וּמֵאִישָֽׁהּ׃**",
+        "transliteration": "miShney yeladeha **uMeIshah**",
+        "englishLiteral": "from-two-of children-her **and-from-man-her**",
+        "englishNatural": "from the two of her children **and from her man**"
+      }
+    }
+  ]
+}

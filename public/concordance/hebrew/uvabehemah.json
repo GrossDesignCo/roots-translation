@@ -1,0 +1,31 @@
+{
+  "key": "uvabehemah",
+  "language": "hebrew",
+  "root": "behemah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וּבַבְּהֵמָה֙",
+        "transliteration": "uVaBehemah",
+        "englishLiteral": "and-in-beast",
+        "englishNatural": "and in the beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְע֣וֹף הַשָּׁמַ֗יִם **וּבַבְּהֵמָה֙** וּבְכָל־ הָאָ֔רֶץ",
+        "transliteration": "uVeOf haShamayim **uVaBehemah** uVeKol- haAretz",
+        "englishLiteral": "and-in-flyer-of the-skies **and-in-beast** and-in-all the-land",
+        "englishNatural": "and in flyer of the skies **and in the beast** and in all the land"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "tavo",
+  "language": "hebrew",
+  "root": "tavo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "תָּבוֹא",
+        "transliteration": "tavo",
+        "englishLiteral": "you-will-come",
+        "englishNatural": "will go",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַתָּה **תָּבוֹא** אֶל־ אֲבֹתֶיךָ",
+        "transliteration": "veAtah **tavo** el- avotekha",
+        "englishLiteral": "And-you **you-will-come** to- fathers-of-you",
+        "englishNatural": "And you **will go** to your fathers"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "תָּבוֹא",
+        "transliteration": "tavo",
+        "englishLiteral": "you-come",
+        "englishNatural": "come you",
+        "root": "tavo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מְּלַאכְתְּךָ וּמֵאַיִן **תָּבוֹא** מָה אַרְצֶךָ",
+        "transliteration": "melakhtekha uMeAyin **tavo** mah artzekha",
+        "englishLiteral": "work-your and-from-where **you-come** What land-your",
+        "englishNatural": "is your work and from where **come you** What is your land"
+      }
+    }
+  ]
+}

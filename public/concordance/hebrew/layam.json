@@ -1,0 +1,31 @@
+{
+  "key": "layam",
+  "language": "hebrew",
+  "root": "yam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 29
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לַיָּם",
+        "transliteration": "laYam",
+        "englishLiteral": "to-the-sea",
+        "englishNatural": "to the sea",
+        "root": "yam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּשׂוּמוֹ **לַיָּם** חֻקּוֹ וּמַיִם",
+        "transliteration": "beSumo **laYam** chuqo uMayim",
+        "englishLiteral": "In-placing-his **to-the-sea** his-decree and-waters",
+        "englishNatural": "In his placing **to the sea** his decree and the waters"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "lupēthē",
+  "language": "greek",
+  "root": "lupeo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "λυπήθη",
+        "transliteration": "lupēthē",
+        "englishLiteral": "Was-grieved",
+        "englishNatural": "was grieved",
+        "root": "lupeo",
+        "morphology": {
+          "type": "verb",
+          "tense": "aorist"
+        }
+      },
+      "context": {
+        "hebrew": "φιλεῖς με **λυπήθη** ὁ Πέτρος",
+        "transliteration": "phileis me **lupēthē** ho Petros",
+        "englishLiteral": "do-you-brother_love me **Was-grieved** The Stone (Peter)",
+        "englishNatural": "do you brother-love me **was grieved** The Stone (Peter)"
+      }
+    }
+  ]
+}

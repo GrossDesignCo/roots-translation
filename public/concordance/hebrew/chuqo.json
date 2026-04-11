@@ -1,0 +1,31 @@
+{
+  "key": "chuqo",
+  "language": "hebrew",
+  "root": "chaq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 29
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "חֻקּוֹ",
+        "transliteration": "chuqo",
+        "englishLiteral": "his-decree",
+        "englishNatural": "his decree",
+        "root": "chaq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּשׂוּמוֹ לַיָּם **חֻקּוֹ** וּמַיִם לֹא",
+        "transliteration": "beSumo laYam **chuqo** uMayim lo",
+        "englishLiteral": "In-placing-his to-the-sea **his-decree** and-waters not",
+        "englishNatural": "In his placing to the sea **his decree** and the waters not"
+      }
+    }
+  ]
+}

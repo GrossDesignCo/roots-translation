@@ -1,0 +1,31 @@
+{
+  "key": "veatem",
+  "language": "hebrew",
+  "root": "atem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאַתֶּם",
+        "transliteration": "veAtem",
+        "englishLiteral": "And-you",
+        "englishNatural": "And you",
+        "root": "atem",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאַתֶּם** פְּרוּ וּרְבוּ",
+        "transliteration": "**veAtem** peru urevu",
+        "englishLiteral": "**And-you** be_fruitful and-multiply",
+        "englishNatural": "**And you** be-fruitful and multiply"
+      }
+    }
+  ]
+}

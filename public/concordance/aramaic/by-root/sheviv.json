@@ -1,0 +1,30 @@
+{
+  "root": "sheviv",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "שְׁבִיבִ֣ין",
+        "transliteration": "shevivin",
+        "englishLiteral": "flames",
+        "englishNatural": "flames",
+        "root": "sheviv",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְקֵ֔א כָּרְסְיֵהּ֙ **שְׁבִיבִ֣ין** דִּי־ נ֔וּר",
+        "transliteration": "neqe korseyeh **shevivin** di- nur",
+        "englishLiteral": "pure throne-his **flames** of- fire",
+        "englishNatural": "as pure his throne **flames** of fire"
+      }
+    }
+  ]
+}

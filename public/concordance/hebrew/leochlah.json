@@ -1,0 +1,55 @@
+{
+  "key": "leochlah",
+  "language": "hebrew",
+  "root": "okhel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      },
+      "wordIndex": 26,
+      "word": {
+        "originalScript": "לְאָכְלָֽה׃",
+        "transliteration": "leOchlah",
+        "englishLiteral": "for-food",
+        "englishNatural": "for food",
+        "root": "okhel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֶ֥ם יִֽהְיֶ֖ה **לְאָכְלָֽה׃**",
+        "transliteration": "lakhem yihyeh **leOchlah**",
+        "englishLiteral": "to-you it-shall-be **for-food**",
+        "englishNatural": "to you it shall be **for food**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "לְאָכְלָ֑ה",
+        "transliteration": "leOchlah",
+        "englishLiteral": "for-food",
+        "englishNatural": "for food",
+        "root": "okhel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֶ֥רֶק עֵ֖שֶׂב **לְאָכְלָ֑ה** וַֽיְהִי־ כֵֽן׃",
+        "transliteration": "yerek esev **leOchlah** vaVayhi- ken",
+        "englishLiteral": "green herb **for-food** And-was so",
+        "englishNatural": "green herb **for food** And it was so"
+      }
+    }
+  ]
+}

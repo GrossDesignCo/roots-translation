@@ -1,0 +1,58 @@
+{
+  "root": "haphakh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "הַמִּתְהַפֶּכֶת",
+        "transliteration": "haMithapekhet",
+        "englishLiteral": "the-overturning",
+        "englishNatural": "the Overturning",
+        "root": "haphakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "לַהַט הַחֶרֶב **הַמִּתְהַפֶּכֶת** לִשְׁמֹר אֶת־",
+        "transliteration": "lahat haCherev **haMithapekhet** lishMor et-",
+        "englishLiteral": "bright_flash the-sword **the-overturning** to-keep ↳",
+        "englishNatural": "Bright-Flash the Sword **the Overturning** to keep ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "נֶהְפָּכֶת",
+        "transliteration": "nehpaket",
+        "englishLiteral": "overturned",
+        "englishNatural": "overturned",
+        "root": "haphakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹם וְנִינְוֵה **נֶהְפָּכֶת**",
+        "transliteration": "yom veNineveh **nehpaket**",
+        "englishLiteral": "day and-Dwelling_of_Fish (Nineveh) **overturned**",
+        "englishNatural": "days and Dwelling-of-Fish (Nineveh) **overturned**"
+      }
+    }
+  ]
+}

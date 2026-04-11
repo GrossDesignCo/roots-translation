@@ -1,0 +1,31 @@
+{
+  "key": "lefanav",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 30
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לְפָנָיו",
+        "transliteration": "lefanav",
+        "englishLiteral": "to-faces-his",
+        "englishNatural": "to his faces",
+        "root": "panim",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹם מְשַׂחֶקֶת **לְפָנָיו** בְּכָל־ עֵת",
+        "transliteration": "yom mesacheqet **lefanav** beKhol- et",
+        "englishLiteral": "day laughing **to-faces-his** in-all- time",
+        "englishNatural": "day laughing **to his faces** in all time"
+      }
+    }
+  ]
+}

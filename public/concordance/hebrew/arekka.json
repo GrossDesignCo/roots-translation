@@ -1,0 +1,33 @@
+{
+  "key": "arekka",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אַרְאֶךָּ",
+        "transliteration": "arekka",
+        "englishLiteral": "I-will-cause-you-to-see",
+        "englishNatural": "I will cause you to see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ אֲשֶׁר **אַרְאֶךָּ**",
+        "transliteration": "haAretz asher **arekka**",
+        "englishLiteral": "the-land which **I-will-cause-you-to-see**",
+        "englishNatural": "the land which **I will cause you to see**"
+      }
+    }
+  ]
+}

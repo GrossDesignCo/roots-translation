@@ -1,0 +1,79 @@
+{
+  "key": "veattah",
+  "language": "hebrew",
+  "root": "attah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְעַתָּה",
+        "transliteration": "veAttah",
+        "englishLiteral": "And-now",
+        "englishNatural": "And now",
+        "root": "atah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**וְעַתָּה** אָרוּר אַתָּה",
+        "transliteration": "**veAttah** arur attah",
+        "englishLiteral": "**And-now** cursed you",
+        "englishNatural": "**And now** cursed are you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְעַתָּה",
+        "transliteration": "veAttah",
+        "englishLiteral": "and-now",
+        "englishNatural": "and now",
+        "root": "attah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הַחִלָּם לַעֲשׂוֹת **וְעַתָּה** לֹא־ יִבָּצֵר",
+        "transliteration": "hachilam laAsot **veAttah** lo- yibatser",
+        "englishLiteral": "the-beginning-of-them to-make **and-now** not- he-will-be-restrained",
+        "englishNatural": "the beginning of their making **and now** nothing will be restrained"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְעַתָּה",
+        "transliteration": "veAttah",
+        "englishLiteral": "And-now",
+        "englishNatural": "And now",
+        "root": "attah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**וְעַתָּה** יְהוָה קַח־",
+        "transliteration": "**veAttah** YHWH qach-",
+        "englishLiteral": "**And-now** He_Who_Is (YHWH) take-",
+        "englishNatural": "**And now** He-Who-Is (YHWH) take"
+      }
+    }
+  ]
+}

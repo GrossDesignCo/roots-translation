@@ -1,0 +1,59 @@
+{
+  "key": "vatasem",
+  "language": "hebrew",
+  "root": "sim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וַתָּשֶׂם",
+        "transliteration": "vaTasem",
+        "englishLiteral": "and-placed",
+        "englishNatural": "and placed",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בַחֵמָר וּבַזָּפֶת **וַתָּשֶׂם** בָּהּ אֶת־",
+        "transliteration": "vaChemar uVaZafet **vaTasem** bah et-",
+        "englishLiteral": "in-bitumen and-in-pitch **and-placed** in-it ↳",
+        "englishNatural": "in bitumen and in pitch **and placed** in it ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וַתָּשֶׂם",
+        "transliteration": "vaTasem",
+        "englishLiteral": "and-set",
+        "englishNatural": "and set it",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַיֶּלֶד **וַתָּשֶׂם** בַּסּוּף עַל־",
+        "transliteration": "et- haYeled **vaTasem** baSuph al-",
+        "englishLiteral": "↳ the-child **and-set** in-the-reeds over-",
+        "englishNatural": "↳ the child **and set it** in the reeds over"
+      }
+    }
+  ]
+}

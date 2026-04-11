@@ -1,0 +1,31 @@
+{
+  "key": "tzeaqah",
+  "language": "hebrew",
+  "root": "tzeaqah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 30
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "צְעָקָ֥ה",
+        "transliteration": "tzeaqah",
+        "englishLiteral": "outcry",
+        "englishNatural": "outcry",
+        "root": "tzeaqah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִצְרַ֔יִם וַתְּהִ֛י **צְעָקָ֥ה** גְדֹלָ֖ה בְּמִצְרָ֑יִם",
+        "transliteration": "Mitzrayim vatTehi **tzeaqah** gedolah beMitzrayim",
+        "englishLiteral": "Double_Narrows (Egypt) and-was **outcry** great in-Double_Narrows (Egypt)",
+        "englishNatural": "Double-Narrows (Egypt) was **outcry** and a great in Double-Narrows (Egypt)"
+      }
+    }
+  ]
+}

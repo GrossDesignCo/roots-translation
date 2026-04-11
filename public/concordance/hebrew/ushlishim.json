@@ -1,0 +1,31 @@
+{
+  "key": "ushlishim",
+  "language": "hebrew",
+  "root": "shlishi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וּשְׁלִשִׁים",
+        "transliteration": "uShlishim",
+        "englishLiteral": "and-third",
+        "englishNatural": "and third",
+        "root": "shlishi",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "תַּחְתִּיִּם שְׁנִיִּם **וּשְׁלִשִׁים** תַּעֲשֶׂהָ",
+        "transliteration": "tachtiyim shniyim **uShlishim** taAsehah",
+        "englishLiteral": "lower second **and-third** you-shall-make-her",
+        "englishNatural": "lower second **and third** you shall make it"
+      }
+    }
+  ]
+}

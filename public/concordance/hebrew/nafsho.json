@@ -1,0 +1,31 @@
+{
+  "key": "nafsho",
+  "language": "hebrew",
+  "root": "nephesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "נַפְשׁוֹ",
+        "transliteration": "nafsho",
+        "englishLiteral": "throat-his",
+        "englishNatural": "his throat",
+        "root": "nephesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּשְׁאַל אֶת־ **נַפְשׁוֹ** לָמוּת וַיֹּאמֶר",
+        "transliteration": "vaYishaal et- **nafsho** lamut vaYomer",
+        "englishLiteral": "and-asked ↳ **throat-his** to-die and-said",
+        "englishNatural": "and he asked ↳ **his throat** to die and he said"
+      }
+    }
+  ]
+}

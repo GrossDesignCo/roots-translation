@@ -1,0 +1,31 @@
+{
+  "key": "lemalkhut",
+  "language": "hebrew",
+  "root": "malkhut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לְמַלְכוּת",
+        "transliteration": "leMalkhut",
+        "englishLiteral": "to-kingdom",
+        "englishNatural": "to the kingdom of",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בִּשְׁנַת שָׁלוֹשׁ **לְמַלְכוּת** יְהוֹיָקִים מֶלֶךְ",
+        "transliteration": "biShnat shalosh **leMalkhut** Yehoyakim melekh",
+        "englishLiteral": "in-year-of three **to-kingdom** He_Will_Establish (Jehoiakim) king",
+        "englishNatural": "In the year of three **to the kingdom of** He-Will-Establish (Jehoiakim) king"
+      }
+    }
+  ]
+}

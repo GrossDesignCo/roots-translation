@@ -1,0 +1,31 @@
+{
+  "key": "miyisrael",
+  "language": "hebrew",
+  "root": "yisrael",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "מִיִּשְׂרָאֵל",
+        "transliteration": "miYisrael",
+        "englishLiteral": "from-Struggles_with_God (Israel)",
+        "englishNatural": "of Struggles-with-God (Israel)",
+        "root": "yisrael",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עַם רָב **מִיִּשְׂרָאֵל**",
+        "transliteration": "am rav **miYisrael**",
+        "englishLiteral": "people many **from-Struggles_with_God (Israel)**",
+        "englishNatural": "people and many **of Struggles-with-God (Israel)**"
+      }
+    }
+  ]
+}

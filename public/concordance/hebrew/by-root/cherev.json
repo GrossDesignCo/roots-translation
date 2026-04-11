@@ -1,0 +1,54 @@
+{
+  "root": "cherev",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הַחֶרֶב",
+        "transliteration": "haCherev",
+        "englishLiteral": "the-sword",
+        "englishNatural": "the Sword",
+        "root": "cherev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵת לַהַט **הַחֶרֶב** הַמִּתְהַפֶּכֶת לִשְׁמֹר",
+        "transliteration": "veEt lahat **haCherev** haMithapekhet lishMor",
+        "englishLiteral": "and-↳ bright_flash **the-sword** the-overturning to-keep",
+        "englishNatural": "and Bright-Flash **the Sword** the Overturning to keep"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "בֶחָרֶב",
+        "transliteration": "veCherev",
+        "englishLiteral": "in-the-sword",
+        "englishNatural": "in the sword",
+        "root": "cherev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּדֶּבֶר אוֹ **בֶחָרֶב**",
+        "transliteration": "baDever o **veCherev**",
+        "englishLiteral": "in-the-plague or **in-the-sword**",
+        "englishNatural": "in the plague or **in the sword**"
+      }
+    }
+  ]
+}

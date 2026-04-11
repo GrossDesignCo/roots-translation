@@ -1,0 +1,30 @@
+{
+  "root": "dibrah",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "בְּדִבְרַת",
+        "transliteration": "beDivrat",
+        "englishLiteral": "on-word-of",
+        "englishNatural": "on the word of",
+        "root": "dibrah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִי לָהֵן **בְּדִבְרַת** דִּי פִּשְׁרָא",
+        "transliteration": "li lahen **beDivrat** di pishra",
+        "englishLiteral": "to-me but **on-word-of** which interpretation-the",
+        "englishNatural": "to me but **on the word of** which the interpretation"
+      }
+    }
+  ]
+}

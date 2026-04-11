@@ -1,0 +1,54 @@
+{
+  "root": "lo_to_him",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לוֹ",
+        "transliteration": "lo",
+        "englishLiteral": "to-him",
+        "englishNatural": "to him",
+        "root": "lo_to_him",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַצְּפִינוֹ וַתִּקַּח־ **לוֹ** תֵּבַת גֹּמֶא",
+        "transliteration": "haTzpino vaTiqqach- **lo** tevat gome",
+        "englishLiteral": "to-conceal-him and-took- **to-him** ark-of papyrus",
+        "englishNatural": "to conceal him she took **to him** an ark of papyrus"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לוֹ",
+        "transliteration": "lo",
+        "englishLiteral": "to-him",
+        "englishNatural": "to him",
+        "root": "lo_to_him",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "מַה־ יֵּעָשֶׂה **לוֹ**",
+        "transliteration": "mah- yeaseh **lo**",
+        "englishLiteral": "what- will-be-made **to-him**",
+        "englishNatural": "what would be made **to him**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "minhon",
+  "language": "aramaic",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 33
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מִנְהוֹן",
+        "transliteration": "minhon",
+        "englishLiteral": "from-them",
+        "englishNatural": "from them",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "פַרְזֶל רַגְלוֹהִי **מִנְהוֹן** דִּי פַרְזֶל",
+        "transliteration": "parzel raglohi **minhon** di parzel",
+        "englishLiteral": "iron feet-its **from-them** which iron",
+        "englishNatural": "iron its feet **from them** of iron"
+      }
+    }
+  ]
+}

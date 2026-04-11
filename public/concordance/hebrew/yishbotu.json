@@ -1,0 +1,33 @@
+{
+  "key": "yishbotu",
+  "language": "hebrew",
+  "root": "shavat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "יִשְׁבֹּתוּ",
+        "transliteration": "yishbotu",
+        "englishLiteral": "they-will-sabbath",
+        "englishNatural": "they will sabbath",
+        "root": "shavat",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וָלַיְלָה לֹא **יִשְׁבֹּתוּ**",
+        "transliteration": "vaLaylah lo **yishbotu**",
+        "englishLiteral": "and-night not **they-will-sabbath**",
+        "englishNatural": "and night not **they will sabbath**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "velifnei",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "וְלִפְנֵי",
+        "transliteration": "veLifnei",
+        "englishLiteral": "and-to-faces-of",
+        "englishNatural": "and to the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִפְנֵי פַרְעֹה **וְלִפְנֵי** עֲבָדָיו וַיְהִי",
+        "transliteration": "lifnei Paroh **veLifnei** avadav vaYehi",
+        "englishLiteral": "to-faces-of Pharaoh **and-to-faces-of** servants-his and-he-was",
+        "englishNatural": "to the face of Pharaoh **and to the face of** his servants and it was"
+      }
+    }
+  ]
+}

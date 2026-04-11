@@ -1,0 +1,33 @@
+{
+  "key": "yitamu",
+  "language": "hebrew",
+  "root": "taam_verb",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "יִטְעֲמוּ",
+        "transliteration": "yitamu",
+        "englishLiteral": "they-will-taste",
+        "englishNatural": "they will taste",
+        "root": "taam_verb",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַצֹּאן אַל־ **יִטְעֲמוּ** מְאוּמָה אַל־",
+        "transliteration": "veHaTzon al- **yitamu** meumah al-",
+        "englishLiteral": "and-the-flock not- **they-will-taste** anything not-",
+        "englishNatural": "and the flock not **they will taste** anything not"
+      }
+    }
+  ]
+}

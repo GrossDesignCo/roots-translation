@@ -1,0 +1,33 @@
+{
+  "key": "yaavru-",
+  "language": "hebrew",
+  "root": "avar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 29
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יַעַבְרוּ־",
+        "transliteration": "yaavru-",
+        "englishLiteral": "they-will-pass-",
+        "englishNatural": "will pass",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּמַיִם לֹא **יַעַבְרוּ־** פִיו בְּחוּקוֹ",
+        "transliteration": "uMayim lo **yaavru-** piw beChuqo",
+        "englishLiteral": "and-waters not **they-will-pass-** his-mouth in-inscribing-his",
+        "englishNatural": "and the waters not **will pass** his mouth in his inscribing"
+      }
+    }
+  ]
+}

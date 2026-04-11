@@ -1,0 +1,31 @@
+{
+  "key": "dekhilah",
+  "language": "aramaic",
+  "root": "dechal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "דְּחִילָה֩",
+        "transliteration": "dekhilah",
+        "englishLiteral": "dreadful",
+        "englishNatural": "dreadful",
+        "root": "dechal",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "חֵיוָה֩ רְֽבִיעָאָ֡ה **דְּחִילָה֩** וְאֵֽימְתָנִ֜י וְתַקִּיפָ֣א",
+        "transliteration": "kheyva reviaa **dekhilah** veEmtani veTaqqipha",
+        "englishLiteral": "beast fourth **dreadful** and-terrible and-strong",
+        "englishNatural": "beast a fourth **dreadful** and terrible strong"
+      }
+    }
+  ]
+}

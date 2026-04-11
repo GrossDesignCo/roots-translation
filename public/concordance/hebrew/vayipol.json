@@ -1,0 +1,33 @@
+{
+  "key": "vayipol",
+  "language": "hebrew",
+  "root": "naphal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וַיִּפֹּל",
+        "transliteration": "vaYipol",
+        "englishLiteral": "and-fell",
+        "englishNatural": "fell",
+        "root": "naphal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּפִּילוּ גוֹרָלוֹת **וַיִּפֹּל** הַגּוֹרָל עַל־",
+        "transliteration": "vaYapilu goralot **vaYipol** haGoral al-",
+        "englishLiteral": "And-they-caused-to-fall lots **and-fell** the-lot over-",
+        "englishNatural": "And they caused-to-fall lots **fell** and the lot over"
+      }
+    }
+  ]
+}

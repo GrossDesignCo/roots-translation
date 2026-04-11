@@ -1,0 +1,103 @@
+{
+  "key": "hagedolah",
+  "language": "hebrew",
+  "root": "gadol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 12
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הַגְּדֹלָה",
+        "transliteration": "haGedolah",
+        "englishLiteral": "the-great",
+        "englishNatural": "The Great",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הִוא הָעִיר **הַגְּדֹלָה**",
+        "transliteration": "hi haIr **haGedolah**",
+        "englishLiteral": "she the-city **the-great**",
+        "englishNatural": "this The City **The Great**"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הַגְּדוֹלָה",
+        "transliteration": "haGedolah",
+        "englishLiteral": "the-great",
+        "englishNatural": "the great",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "נִינְוֵה הָעִיר **הַגְּדוֹלָה** וּקְרָא עָלֶיהָ",
+        "transliteration": "Nineveh haIr **haGedolah** uQera aleha",
+        "englishLiteral": "Dwelling_of_Fish (Nineveh) the-city **the-great** and-call_out over-her",
+        "englishNatural": "Dwelling-of-Fish (Nineveh) the city **the great** and call-out over her"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הַגְּדוֹלָה",
+        "transliteration": "haGedolah",
+        "englishLiteral": "the-great",
+        "englishNatural": "The Great",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "נִינְוֵה הָעִיר **הַגְּדוֹלָה** וּקְרָא אֵלֶיהָ",
+        "transliteration": "Nineveh haIr **haGedolah** uQera eleha",
+        "englishLiteral": "Dwelling_of_Fish (Nineveh) the-city **the-great** and-call_out to-her",
+        "englishNatural": "Dwelling-of-Fish (Nineveh) The City **The Great** and call-out to her"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הַגְּדוֹלָה",
+        "transliteration": "haGedolah",
+        "englishLiteral": "the-great",
+        "englishNatural": "the great",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "נִינְוֵה הָעִיר **הַגְּדוֹלָה** אֲשֶׁר יֶשׁ־",
+        "transliteration": "Nineveh haIr **haGedolah** asher yesh-",
+        "englishLiteral": "Dwelling_of_Fish (Nineveh) the-city **the-great** which there_is-",
+        "englishNatural": "Dwelling-of-Fish (Nineveh) the city **the great** which there-is"
+      }
+    }
+  ]
+}

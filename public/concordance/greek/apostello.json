@@ -1,0 +1,32 @@
+{
+  "key": "apostello",
+  "language": "greek",
+  "root": "apostello",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "ἀποστέλλω",
+        "transliteration": "apostello",
+        "englishLiteral": "send",
+        "englishNatural": "send",
+        "root": "apostello",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "Ἰδοὺ ἐγὼ **ἀποστέλλω** ὑμᾶς ὡς",
+        "transliteration": "Idou ego **apostello** humas hos",
+        "englishLiteral": "Behold I **send** you as",
+        "englishNatural": "Behold I **send** you as"
+      }
+    }
+  ]
+}

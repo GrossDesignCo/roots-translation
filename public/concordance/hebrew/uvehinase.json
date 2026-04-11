@@ -1,0 +1,33 @@
+{
+  "key": "uvehinase",
+  "language": "hebrew",
+  "root": "nasa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 19
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּבְהִנָּשֵׂא",
+        "transliteration": "uVehinase",
+        "englishLiteral": "and-in-being-lifted-of",
+        "englishNatural": "and in the being-lifted of",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאוֹפַנִּים אֶצְלָם **וּבְהִנָּשֵׂא** הַחַיּוֹת מֵעַל",
+        "transliteration": "haOphanim etzlam **uVehinase** haChayot meAl",
+        "englishLiteral": "the-wheels beside-them **and-in-being-lifted-of** the-living-beings from-over",
+        "englishNatural": "the wheels beside them **and in the being-lifted of** the living-beings from over"
+      }
+    }
+  ]
+}

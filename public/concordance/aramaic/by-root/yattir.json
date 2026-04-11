@@ -1,0 +1,54 @@
+{
+  "root": "yattir",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "יַתִּיר",
+        "transliteration": "yattir",
+        "englishLiteral": "surpassing",
+        "englishNatural": "surpassing",
+        "root": "yattir",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "רַב וְזִיוֵהּ **יַתִּיר** קָאֵם לְקָבְלָךְ",
+        "transliteration": "rav veZiveh **yattir** qaem leQovlakh",
+        "englishLiteral": "great and-brightness-its **surpassing** standing_up before-you",
+        "englishNatural": "was great and its brightness **surpassing** standing-up before you"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "יַתִּ֗ירָה",
+        "transliteration": "yattirah",
+        "englishLiteral": "exceedingly",
+        "englishNatural": "and exceedingly",
+        "root": "yattir",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵֽימְתָנִ֜י וְתַקִּיפָ֣א **יַתִּ֗ירָה** וְשִׁנַּ֨יִן דִּֽי־",
+        "transliteration": "veEmtani veTaqqipha **yattirah** veShinnayin di-",
+        "englishLiteral": "and-terrible and-strong **exceedingly** and-teeth of-",
+        "englishNatural": "and terrible strong **and exceedingly** and teeth of"
+      }
+    }
+  ]
+}

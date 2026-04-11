@@ -1,0 +1,33 @@
+{
+  "key": "eshma",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֶשְׁמַע",
+        "transliteration": "eshma",
+        "englishLiteral": "I-will-hear",
+        "englishNatural": "I will hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֲשֶׁר **אֶשְׁמַע** בְּקֹלוֹ לְשַׁלַּח",
+        "transliteration": "YHWH asher **eshma** beQolo leshalach",
+        "englishLiteral": "He_Who_Is (YHWH) which **I-will-hear** in-voice-his to-send",
+        "englishNatural": "He-Who-Is (YHWH) which **I will hear** in his voice to send-out"
+      }
+    }
+  ]
+}

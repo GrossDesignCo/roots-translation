@@ -1,0 +1,103 @@
+{
+  "key": "su",
+  "language": "greek",
+  "root": "su",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "σὺ",
+        "transliteration": "su",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "ναί κύριε **σὺ** οἶδας ὅτι",
+        "transliteration": "nai kurie **su** oidas hoti",
+        "englishLiteral": "Yes lord **you** know that",
+        "englishNatural": "Yes Lord **you** know that"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "σὺ",
+        "transliteration": "su",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "ναί κύριε **σὺ** οἶδας ὅτι",
+        "transliteration": "nai kurie **su** oidas hoti",
+        "englishLiteral": "Yes lord **you** know that",
+        "englishNatural": "Yes Lord **you** know that"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 23,
+      "word": {
+        "originalScript": "σὺ",
+        "transliteration": "su",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "κύριε πάντα **σὺ** οἶδας σὺ",
+        "transliteration": "kurie panta **su** oidas su",
+        "englishLiteral": "lord all **you** know you",
+        "englishNatural": "Lord all **you** know you"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 25,
+      "word": {
+        "originalScript": "σὺ",
+        "transliteration": "su",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "σὺ οἶδας **σὺ** γινώσκεις ὅτι",
+        "transliteration": "su oidas **su** ginōskeis hoti",
+        "englishLiteral": "you know **you** know that",
+        "englishNatural": "you know **you** know that"
+      }
+    }
+  ]
+}

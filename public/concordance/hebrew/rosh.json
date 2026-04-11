@@ -1,0 +1,55 @@
+{
+  "key": "rosh",
+  "language": "hebrew",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "רֹאשׁ",
+        "transliteration": "rosh",
+        "englishLiteral": "head",
+        "englishNatural": "head",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא יְשׁוּפְךָ **רֹאשׁ** וְאַתָּה תְּשׁוּפֶנּוּ",
+        "transliteration": "hu yeshufkha **rosh** veAtah teshufenu",
+        "englishLiteral": "he he-will-bruise-your **head** and-you you-will-bruise-his",
+        "englishNatural": "he will bruise your **head** and you will bruise his"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "רֹאשׁ",
+        "transliteration": "rosh",
+        "englishLiteral": "head",
+        "englishNatural": "the head of",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשֶּׁמֶשׁ עַל־ **רֹאשׁ** יוֹנָה וַיִּתְעַלָּף",
+        "transliteration": "haShemesh al- **rosh** Yonah vaYitalaf",
+        "englishLiteral": "the-sun over- **head** Dove (Jonah) and-fainted",
+        "englishNatural": "and the sun over **the head of** Dove (Jonah) and he fainted"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "asit",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "עָשִׂית",
+        "transliteration": "asit",
+        "englishLiteral": "you-have-made",
+        "englishNatural": "you have made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מַה־ זֹּאת **עָשִׂית** וַתֹּאמֶר הָאִשָּׁה",
+        "transliteration": "mah- zot **asit** vatomer haIshah",
+        "englishLiteral": "What- this **you-have-made** And-she-said the-woman",
+        "englishNatural": "What is this **you have made** said And the woman"
+      }
+    }
+  ]
+}

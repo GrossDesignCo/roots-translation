@@ -1,0 +1,31 @@
+{
+  "key": "gan",
+  "language": "hebrew",
+  "root": "gan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "גַּן",
+        "transliteration": "gan",
+        "englishLiteral": "garden",
+        "englishNatural": "a garden",
+        "root": "gan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהִים **גַּן** בְּעֵדֶן מִקֶּדֶם",
+        "transliteration": "YHWH Elohim **gan** beEden miQedem",
+        "englishLiteral": "He_Who_Is (YHWH) Gods **garden** in-Delight (Eden) from-east",
+        "englishNatural": "And He-Who-Is (YHWH) God **a garden** in Delight (Eden) from the east"
+      }
+    }
+  ]
+}

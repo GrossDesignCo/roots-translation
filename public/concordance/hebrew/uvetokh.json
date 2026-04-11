@@ -1,0 +1,31 @@
+{
+  "key": "uvetokh",
+  "language": "hebrew",
+  "root": "tokh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וּבְתוֹךְ",
+        "transliteration": "uVeTokh",
+        "englishLiteral": "and-in-midst-of",
+        "englishNatural": "and in the midst of",
+        "root": "tokh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׂפָתַיִם אָנֹכִי **וּבְתוֹךְ** עַם־ טְמֵא",
+        "transliteration": "sfatayim anokhi **uVeTokh** am- teme",
+        "englishLiteral": "lips I **and-in-midst-of** people- unclean",
+        "englishNatural": "lips I **and in the midst of** a people of unclean"
+      }
+    }
+  ]
+}

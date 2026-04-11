@@ -1,0 +1,33 @@
+{
+  "key": "hayetah-",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הָֽיְתָה־",
+        "transliteration": "hayetah-",
+        "englishLiteral": "she-had-been-",
+        "englishNatural": "she had been",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַמָּק֔וֹם אֲשֶׁ֥ר **הָֽיְתָה־** שָׁ֖מָּה וּשְׁתֵּ֣י",
+        "transliteration": "haMaqom asher **hayetah-** shammah uShtey",
+        "englishLiteral": "the-place which **she-had-been-** there and-two-of",
+        "englishNatural": "the place which **she had been** there and the two of"
+      }
+    }
+  ]
+}

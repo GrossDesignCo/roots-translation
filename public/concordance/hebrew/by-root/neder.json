@@ -1,0 +1,30 @@
+{
+  "root": "neder",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "נְדָרִים",
+        "transliteration": "nedarim",
+        "englishLiteral": "vows",
+        "englishNatural": "vows",
+        "root": "neder",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַיהוָה וַיִּדְּרוּ **נְדָרִים**",
+        "transliteration": "laYHWH vaYideru **nedarim**",
+        "englishLiteral": "to-He_Who_Is (YHWH) and-vowed **vows**",
+        "englishNatural": "to He-Who-Is (YHWH) and vowed **vows**"
+      }
+    }
+  ]
+}

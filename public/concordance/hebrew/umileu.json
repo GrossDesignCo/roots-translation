@@ -1,0 +1,33 @@
+{
+  "key": "umileu",
+  "language": "hebrew",
+  "root": "male",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וּמִלְאוּ",
+        "transliteration": "uMileu",
+        "englishLiteral": "and-fill",
+        "englishNatural": "and fill",
+        "root": "male",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פְּרוּ וּרְבוּ **וּמִלְאוּ** אֶת־ הָאָרֶץ",
+        "transliteration": "peru uRevu **uMileu** et- haAretz",
+        "englishLiteral": "Be_fruitful and-multiply **and-fill** ↳ the-land",
+        "englishNatural": "Be-fruitful and multiply **and fill** ↳ the land"
+      }
+    }
+  ]
+}

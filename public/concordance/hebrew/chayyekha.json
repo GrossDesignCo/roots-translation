@@ -1,0 +1,55 @@
+{
+  "key": "chayyekha",
+  "language": "hebrew",
+  "root": "chayyim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "חַיֶּיךָ",
+        "transliteration": "chayyekha",
+        "englishLiteral": "lives-your",
+        "englishNatural": "of your life",
+        "root": "chayyim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ יְמֵי **חַיֶּיךָ**",
+        "transliteration": "kol- yemey **chayyekha**",
+        "englishLiteral": "all- days **lives-your**",
+        "englishNatural": "all the days **of your life**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "חַיֶּיךָ׃",
+        "transliteration": "chayyekha",
+        "englishLiteral": "lives-your",
+        "englishNatural": "your life",
+        "root": "chayyim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֹּל יְמֵי **חַיֶּיךָ׃**",
+        "transliteration": "kol yemey **chayyekha**",
+        "englishLiteral": "all days-of **lives-your**",
+        "englishNatural": "all the days of **your life**"
+      }
+    }
+  ]
+}

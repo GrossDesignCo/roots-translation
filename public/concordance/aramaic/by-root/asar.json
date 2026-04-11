@@ -1,0 +1,30 @@
+{
+  "root": "asar",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 30,
+      "word": {
+        "originalScript": "עֲשַׂ֖ר",
+        "transliteration": "asar",
+        "englishLiteral": "ten",
+        "englishNatural": "and ten",
+        "root": "asar",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "קָֽדָמַ֔הּ וְקַרְנַ֥יִן **עֲשַׂ֖ר** לַֽהּ׃",
+        "transliteration": "qodamah veQarnayin **asar** lah",
+        "englishLiteral": "before-her and-horns **ten** to-her",
+        "englishNatural": "before it horns **and ten** to it"
+      }
+    }
+  ]
+}

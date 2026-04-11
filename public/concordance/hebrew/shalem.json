@@ -1,0 +1,55 @@
+{
+  "key": "shalem",
+  "language": "hebrew",
+  "root": "shalem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שָׁלֵם",
+        "transliteration": "Shalem",
+        "englishLiteral": "Peace (Salem)",
+        "englishNatural": "Peace (Salem)",
+        "root": "shalem_place",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צֶדֶק מֶלֶךְ **שָׁלֵם** הוֹצִיא לֶחֶם",
+        "transliteration": "Tzedeq melekh **Shalem** hotzi lechem",
+        "englishLiteral": "Righteousness (Melchizedek) king-of **Peace (Salem)** he-brought-out bread",
+        "englishNatural": "Righteousness (Melchizedek) king of **Peace (Salem)** brought out bread"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 16
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "שָׁלֵם",
+        "transliteration": "shalem",
+        "englishLiteral": "complete",
+        "englishNatural": "is complete",
+        "root": "shalem",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי לֹא־ **שָׁלֵם** עֲוֺן הָאֱמֹרִי",
+        "transliteration": "ki lo- **shalem** avon haEmori",
+        "englishLiteral": "that not- **complete** iniquity-of the-Amorite",
+        "englishNatural": "that not **is complete** the iniquity of the Amorite"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ego",
+  "language": "greek",
+  "root": "ego",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "ἐγὼ",
+        "transliteration": "ego",
+        "englishLiteral": "I",
+        "englishNatural": "I",
+        "root": "ego",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "Ἰδοὺ **ἐγὼ** ἀποστέλλω ὑμᾶς",
+        "transliteration": "Idou **ego** apostello humas",
+        "englishLiteral": "Behold **I** send you",
+        "englishNatural": "Behold **I** send you"
+      }
+    }
+  ]
+}

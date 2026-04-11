@@ -1,0 +1,31 @@
+{
+  "key": "shney",
+  "language": "hebrew",
+  "root": "shnayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שְׁנֵ֥י",
+        "transliteration": "shney",
+        "englishLiteral": "two",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֔ים אֶת־ **שְׁנֵ֥י** הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים",
+        "transliteration": "Elohim et- **shney** haMeOrot haGdolim",
+        "englishLiteral": "Gods ↳ **two** the-light_sources the-greats",
+        "englishNatural": "And God ↳ **two** the light-sources the greats"
+      }
+    }
+  ]
+}

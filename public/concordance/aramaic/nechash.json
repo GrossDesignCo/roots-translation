@@ -1,0 +1,31 @@
+{
+  "key": "nechash",
+  "language": "aramaic",
+  "root": "nechash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "נְחָשׁ",
+        "transliteration": "nechash",
+        "englishLiteral": "bronze",
+        "englishNatural": "bronze",
+        "root": "nechash",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְיַרְכָתֵהּ דִּי **נְחָשׁ**",
+        "transliteration": "veYarkhateh di **nechash**",
+        "englishLiteral": "and-thighs-its which **bronze**",
+        "englishNatural": "and its thighs of **bronze**"
+      }
+    }
+  ]
+}

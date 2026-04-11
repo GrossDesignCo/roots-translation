@@ -1,0 +1,30 @@
+{
+  "root": "yerach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "יְרָחִים",
+        "transliteration": "yerachim",
+        "englishLiteral": "moon_cycles",
+        "englishNatural": "moon-cycles",
+        "root": "yerach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּצְפְּנֵהוּ שְׁלֹשָׁה **יְרָחִים**",
+        "transliteration": "vaTitzpenehu shloshah **yerachim**",
+        "englishLiteral": "and-concealed-him three **moon_cycles**",
+        "englishNatural": "and she concealed him three **moon-cycles**"
+      }
+    }
+  ]
+}

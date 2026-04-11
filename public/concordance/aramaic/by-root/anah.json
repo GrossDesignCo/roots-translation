@@ -1,0 +1,56 @@
+{
+  "root": "anah",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַאֲנָה",
+        "transliteration": "vaAnah",
+        "englishLiteral": "and-I",
+        "englishNatural": "And I",
+        "root": "anah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**וַאֲנָה** לָא בְחָכְמָה",
+        "transliteration": "**vaAnah** la beChokmah",
+        "englishLiteral": "**and-I** not in-wisdom",
+        "englishNatural": "**And I** not in wisdom"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "עָנֵ֤ה",
+        "transliteration": "aneh",
+        "englishLiteral": "Answered",
+        "englishNatural": "answered",
+        "root": "anah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**עָנֵ֤ה** דָנִיֵּאל֙ וְאָמַ֔ר",
+        "transliteration": "**aneh** Daniel veAmar",
+        "englishLiteral": "**Answered** God_Is_My_Judge (Daniel) and-said",
+        "englishNatural": "**answered** Daniel and said"
+      }
+    }
+  ]
+}

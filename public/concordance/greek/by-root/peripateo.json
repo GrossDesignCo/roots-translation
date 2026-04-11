@@ -1,0 +1,31 @@
+{
+  "root": "peripateo",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "περιεπάτεις",
+        "transliteration": "periepateis",
+        "englishLiteral": "you-walked",
+        "englishNatural": "you walked",
+        "root": "peripateo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect"
+        }
+      },
+      "context": {
+        "hebrew": "σεαυτόν καὶ **περιεπάτεις** ὅπου ἤθελες",
+        "transliteration": "seauton kai **periepateis** hopou ētheles",
+        "englishLiteral": "yourself and **you-walked** where you-wanted",
+        "englishNatural": "yourself and **you walked** where you wanted"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "veamar",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְאָמַר",
+        "transliteration": "veAmar",
+        "englishLiteral": "and-said",
+        "englishNatural": "and said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל זֶה **וְאָמַר** קָדוֹשׁ קָדוֹשׁ",
+        "transliteration": "el zeh **veAmar** kadosh kadosh",
+        "englishLiteral": "to this **and-said** Holy holy",
+        "englishNatural": "to this **and said** Holy holy"
+      }
+    }
+  ]
+}

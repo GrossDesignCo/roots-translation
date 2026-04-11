@@ -1,0 +1,33 @@
+{
+  "key": "emor",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אֱמֹר",
+        "transliteration": "emor",
+        "englishLiteral": "say",
+        "englishNatural": "say",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֵן **אֱמֹר** לִבְנֵי־ יִשְׂרָאֵל",
+        "transliteration": "lakhen **emor** livnei- Yisrael",
+        "englishLiteral": "therefore **say** to-sons-of- Struggles_with_God (Israel)",
+        "englishNatural": "Therefore **say** to the sons of Struggles-with-God (Israel)"
+      }
+    }
+  ]
+}

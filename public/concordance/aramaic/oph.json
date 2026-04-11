@@ -1,0 +1,31 @@
+{
+  "key": "oph",
+  "language": "aramaic",
+  "root": "oph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "ע֑וֹף",
+        "transliteration": "oph",
+        "englishLiteral": "bird",
+        "englishNatural": "a bird",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְבַּ֖ע דִּי־ **ע֑וֹף** עַל־ גַּבַּ֔הּ",
+        "transliteration": "arba di- **oph** al- gabbah",
+        "englishLiteral": "four of- **bird** on- back-its",
+        "englishNatural": "four of **a bird** on its back"
+      }
+    }
+  ]
+}

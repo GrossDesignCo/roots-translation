@@ -1,0 +1,55 @@
+{
+  "key": "arba",
+  "language": "aramaic",
+  "root": "arba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אַרְבַּע֙",
+        "transliteration": "arba",
+        "englishLiteral": "four",
+        "englishNatural": "the four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "לֵֽילְיָ֑א וַאֲר֗וּ **אַרְבַּע֙** רוּחֵ֣י שְׁמַיָּ֔א",
+        "transliteration": "leila vaAru **arba** ruchei shemaya",
+        "englishLiteral": "night and-behold **four** winds-of the-skies",
+        "englishNatural": "night and behold **the four** winds of the skies"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אַרְבַּ֖ע",
+        "transliteration": "arba",
+        "englishLiteral": "four",
+        "englishNatural": "four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְלַהּ־ גַּפִּ֥ין **אַרְבַּ֖ע** דִּי־ ע֑וֹף",
+        "transliteration": "veLah- gappin **arba** di- oph",
+        "englishLiteral": "and-to-her- wings **four** of- bird",
+        "englishNatural": "and to it wings **four** of a bird"
+      }
+    }
+  ]
+}

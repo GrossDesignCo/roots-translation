@@ -1,0 +1,33 @@
+{
+  "key": "yitten",
+  "language": "hebrew",
+  "root": "natan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "יִתֵּ֤ן",
+        "transliteration": "yitten",
+        "englishLiteral": "Give",
+        "englishNatural": "give",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**יִתֵּ֤ן** יְהוָה֙ לָכֶ֔ם",
+        "transliteration": "**yitten** YHWH lakhem",
+        "englishLiteral": "**Give** He_Who_Is (YHWH) to-you",
+        "englishNatural": "**give** He-Who-Is (YHWH) to you"
+      }
+    }
+  ]
+}

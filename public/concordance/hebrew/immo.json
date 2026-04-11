@@ -1,0 +1,31 @@
+{
+  "key": "immo",
+  "language": "hebrew",
+  "root": "em",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 24
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אִמּוֹ",
+        "transliteration": "immo",
+        "englishLiteral": "his-mother",
+        "englishNatural": "his mother",
+        "root": "em",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָבִיו וְאֶת־ **אִמּוֹ** וְדָבַק בְּאִשְׁתּוֹ",
+        "transliteration": "aviv veEt- **immo** veDavaq beIshto",
+        "englishLiteral": "his-father and-↳ **his-mother** and-cling in-his-woman",
+        "englishNatural": "his father and **his mother** and cling in his woman"
+      }
+    }
+  ]
+}

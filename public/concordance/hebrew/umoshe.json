@@ -1,0 +1,55 @@
+{
+  "key": "umoshe",
+  "language": "hebrew",
+  "root": "moshe",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּמֹשֶׁה",
+        "transliteration": "uMoshe",
+        "englishLiteral": "And-Drawn_Out (Moses)",
+        "englishNatural": "And Drawn-Out (Moses)",
+        "root": "moshe",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּמֹשֶׁה** הָיָה רֹעֶה",
+        "transliteration": "**uMoshe** hayah roeh",
+        "englishLiteral": "**And-Drawn_Out (Moses)** was shepherding",
+        "englishNatural": "**And Drawn-Out (Moses)** had been shepherding"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּמֹשֶׁ֣ה",
+        "transliteration": "uMoshe",
+        "englishLiteral": "And-Drawn_Out (Moses)",
+        "englishNatural": "And Drawn-Out (Moses)",
+        "root": "moshe",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּמֹשֶׁ֣ה** וְאַהֲרֹ֗ן עָשׂ֛וּ",
+        "transliteration": "**uMoshe** veAharon asu",
+        "englishLiteral": "**And-Drawn_Out (Moses)** and-Aaron made",
+        "englishNatural": "**And Drawn-Out (Moses)** and Aaron made"
+      }
+    }
+  ]
+}

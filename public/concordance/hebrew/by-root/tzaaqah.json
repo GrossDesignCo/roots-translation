@@ -1,0 +1,30 @@
+{
+  "root": "tzaaqah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "צַעֲקָתָם",
+        "transliteration": "tzaaqatam",
+        "englishLiteral": "outcry-their",
+        "englishNatural": "their outcry",
+        "root": "tzaaqah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּמִצְרָיִם וְאֶת־ **צַעֲקָתָם** שָׁמַעְתִּי מִפְּנֵי",
+        "transliteration": "beMitzrayim veEt- **tzaaqatam** shamati miPenei",
+        "englishLiteral": "in-Double_Narrows (Egypt) and-↳ **outcry-their** I-hear from-faces-of",
+        "englishNatural": "in Double-Narrows (Egypt) and **their outcry** I have heard from the faces of"
+      }
+    }
+  ]
+}

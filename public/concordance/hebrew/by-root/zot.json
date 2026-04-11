@@ -1,0 +1,150 @@
+{
+  "root": "zot",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "זֹּאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "is this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "לָאִשָּׁה מַה־ **זֹּאת** עָשִׂית וַתֹּאמֶר",
+        "transliteration": "laIshah mah- **zot** asit vatomer",
+        "englishLiteral": "to-the-woman What- **this** you-have-made And-she-said",
+        "englishNatural": "to the woman What **is this** you have made said"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "זֹּאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי עָשִׂיתָ **זֹּאת** אָרוּר אַתָּה",
+        "transliteration": "ki asita **zot** arur atah",
+        "englishLiteral": "that you-made **this** cursed you",
+        "englishNatural": "Because you have made **this** cursed are you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "זֹאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "This",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר אֱלֹהִים **זֹאת** אוֹת־ הַבְּרִית",
+        "transliteration": "vayYomer Elohim **zot** ot- haBerit",
+        "englishLiteral": "And-said Gods **this** sign-of the-covenant",
+        "englishNatural": "said And God **This** the sign of the covenant"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "הַזֹּאת",
+        "transliteration": "haZot",
+        "englishLiteral": "the-this",
+        "englishNatural": "this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הָאָרֶץ **הַזֹּאת** לְרִשְׁתָּהּ",
+        "transliteration": "et- haAretz **haZot** lerishtah",
+        "englishLiteral": "↳ the-land **the-this** to-inherit-her",
+        "englishNatural": "↳ land **this** to inherit it"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 18
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "הַזֹּאת",
+        "transliteration": "haZot",
+        "englishLiteral": "the-this",
+        "englishNatural": "this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הָאָרֶץ **הַזֹּאת** מִנְּהַר מִצְרַיִם",
+        "transliteration": "et- haAretz **haZot** miNehar Mitzrayim",
+        "englishLiteral": "↳ the-land **the-this** from-river-of Double_Narrows (Egypt)",
+        "englishNatural": "↳ the land **this** from The River of Double-Narrows (Egypt)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "זֹּאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "is this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלָיו מַה־ **זֹּאת** עָשִׂיתָ כִּי־",
+        "transliteration": "elav mah- **zot** asita ki-",
+        "englishLiteral": "to-him What- **this** you-did that-",
+        "englishNatural": "to him What **is this** you have done that"
+      }
+    }
+  ]
+}

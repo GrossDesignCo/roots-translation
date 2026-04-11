@@ -1,0 +1,33 @@
+{
+  "key": "yishretsu",
+  "language": "hebrew",
+  "root": "sharats",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יִשְׁרְצ֣וּ",
+        "transliteration": "yiShretsu",
+        "englishLiteral": "Let-swarm",
+        "englishNatural": "swarm with",
+        "root": "sharats",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים **יִשְׁרְצ֣וּ** הַמַּ֔יִם שֶׁ֖רֶץ",
+        "transliteration": "vaYomer Elohim **yiShretsu** haMayim sherets",
+        "englishLiteral": "And-said Gods **Let-swarm** the-waters swarm",
+        "englishNatural": "said And God **swarm with** Let the waters a swarm"
+      }
+    }
+  ]
+}

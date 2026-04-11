@@ -1,0 +1,55 @@
+{
+  "key": "baadam",
+  "language": "hebrew",
+  "root": "adam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בָאָדָם",
+        "transliteration": "baAdam",
+        "englishLiteral": "in-Earthling (Adam)",
+        "englishNatural": "in Earthling (Adam)",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָדוֹן רוּחִי **בָאָדָם** לְעֹלָם בְּשַׁגַּם",
+        "transliteration": "yadon ruchi **baAdam** leOlam beShagam",
+        "englishLiteral": "will-judge my-wind **in-Earthling (Adam)** to-the_age in-moreover",
+        "englishNatural": "will judge My Wind **in Earthling (Adam)** to the-age in moreover"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בָּאָדָם",
+        "transliteration": "baAdam",
+        "englishLiteral": "in-Earthling (Adam)",
+        "englishNatural": "in Earthling (Adam)",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דַּם הָאָדָם **בָּאָדָם** דָּמוֹ יִשָּׁפֵךְ",
+        "transliteration": "dam haAdam **baAdam** damo yishafekh",
+        "englishLiteral": "blood-of the-Earthling (Adam) **in-Earthling (Adam)** his-blood it-will-be-poured",
+        "englishNatural": "the blood of the Earthling (Adam) **in Earthling (Adam)** his blood will be poured"
+      }
+    }
+  ]
+}

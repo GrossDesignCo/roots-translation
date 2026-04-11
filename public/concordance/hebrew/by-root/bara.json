@@ -1,0 +1,292 @@
+{
+  "root": "bara",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "בָּרָ֣א",
+        "transliteration": "bara",
+        "englishLiteral": "created",
+        "englishNatural": "created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּרֵאשִׁ֖ית **בָּרָ֣א** אֱלֹהִ֑ים אֵ֥ת",
+        "transliteration": "beReshit **bara** Elohim et",
+        "englishLiteral": "In-heading **created** Gods ↳",
+        "englishNatural": "In the heading **created** God ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּבְרָ֣א",
+        "transliteration": "vaYiVra",
+        "englishLiteral": "And-created",
+        "englishNatural": "created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּבְרָ֣א** אֱלֹהִ֔ים אֶת־",
+        "transliteration": "**vaYiVra** Elohim et-",
+        "englishLiteral": "**And-created** Gods ↳",
+        "englishNatural": "**created** And God ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּבְרָ֨א",
+        "transliteration": "vaYiVra",
+        "englishLiteral": "And-created",
+        "englishNatural": "created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּבְרָ֨א** אֱלֹהִ֤ים אֶת־",
+        "transliteration": "**vaYiVra** Elohim et-",
+        "englishLiteral": "**And-created** Gods ↳",
+        "englishNatural": "**created** And God ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בָּרָ֣א",
+        "transliteration": "bara",
+        "englishLiteral": "created",
+        "englishNatural": "created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּצֶ֥לֶם אֱלֹהִ֖ים **בָּרָ֣א** אֹת֑וֹ זָכָ֥ר",
+        "transliteration": "beTselem Elohim **bara** oto zakhar",
+        "englishLiteral": "in-image-of Gods **created** him male",
+        "englishNatural": "in the image of God **created** him male"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "בָּרָ֥א",
+        "transliteration": "bara",
+        "englishLiteral": "created",
+        "englishNatural": "created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "זָכָ֥ר וּנְקֵבָ֖ה **בָּרָ֥א** אֹתָֽם׃",
+        "transliteration": "zakhar uNekevah **bara** otam",
+        "englishLiteral": "male and-female **created** them",
+        "englishNatural": "male and female **created** them"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "בָּרָא",
+        "transliteration": "bara",
+        "englishLiteral": "created",
+        "englishNatural": "created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מְלַאכְתּוֹ אֲשֶׁר **בָּרָא** אֱלֹהִים לַעֲשׂוֹת׃",
+        "transliteration": "melakhto asher **bara** Elohim laasot",
+        "englishLiteral": "his-work which **created** Gods to-make",
+        "englishNatural": "his work which **created** God made"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בְּהִבָּרְאָם",
+        "transliteration": "beHibaram",
+        "englishLiteral": "in-being-created-them",
+        "englishNatural": "in their being created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁמַיִם וְהָאָרֶץ **בְּהִבָּרְאָם** בְּיוֹם עֲשׂוֹת",
+        "transliteration": "haShamayim veHaAretz **beHibaram** beYom asot",
+        "englishLiteral": "the-skies and-the-land **in-being-created-them** in-day making",
+        "englishNatural": "of the skies and the land **in their being created** in the day made"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בְּרֹא",
+        "transliteration": "bero",
+        "englishLiteral": "create",
+        "englishNatural": "created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אָדָם בְּיוֹם **בְּרֹא** אֱלֹהִים אָדָם",
+        "transliteration": "Adam beYom **bero** Elohim Adam",
+        "englishLiteral": "Earthling (Adam) In-day **create** Gods Earthling (Adam)",
+        "englishNatural": "Earthling (Adam) In the day **created** God Earthling (Adam)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בְּרָאָם",
+        "transliteration": "beroam",
+        "englishLiteral": "he-created",
+        "englishNatural": "he created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "זָכָר וּנְקֵבָה **בְּרָאָם** וַיְבָרֶךְ אֹתָם",
+        "transliteration": "zakhar uNeqevah **beroam** vaYevarekh otam",
+        "englishLiteral": "male and-female **he-created** and-blessed them",
+        "englishNatural": "Male and female **he created** and blessed them"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הִבָּרְאָם",
+        "transliteration": "hiBaram",
+        "englishLiteral": "them-being-created",
+        "englishNatural": "them being created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "אָדָם בְּיוֹם **הִבָּרְאָם**",
+        "transliteration": "Adam beYom **hiBaram**",
+        "englishLiteral": "Earthling (Adam) in-day **them-being-created**",
+        "englishNatural": "Earthling (Adam) in the day of **them being created**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בָּרָאתִי",
+        "transliteration": "barati",
+        "englishLiteral": "I-created",
+        "englishNatural": "I created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם אֲשֶׁר־ **בָּרָאתִי** מֵעַל פְּנֵי",
+        "transliteration": "haAdam asher- **barati** meAl peney",
+        "englishLiteral": "the-Earthling (Adam) which- **I-created** from-over faces-of",
+        "englishNatural": "the Earthling (Adam) which **I created** from over the face of"
+      }
+    }
+  ]
+}

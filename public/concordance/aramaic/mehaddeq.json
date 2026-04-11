@@ -1,0 +1,32 @@
+{
+  "key": "mehaddeq",
+  "language": "aramaic",
+  "root": "daq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מְהַדֵּק",
+        "transliteration": "mehaddeq",
+        "englishLiteral": "crushing",
+        "englishNatural": "crushing",
+        "root": "daq",
+        "morphology": {
+          "type": "noun",
+          "stem": "haphel"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי פַרְזְלָא **מְהַדֵּק** וְחָשֵׁל כֹּלָּא",
+        "transliteration": "di parzela **mehaddeq** veChashel kolla",
+        "englishLiteral": "which iron-the **crushing** and-shatters all",
+        "englishNatural": "which the iron **crushing** and shatters all"
+      }
+    }
+  ]
+}

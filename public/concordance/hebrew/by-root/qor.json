@@ -1,0 +1,30 @@
+{
+  "root": "qor",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְקֹר",
+        "transliteration": "veQor",
+        "englishLiteral": "and-cold",
+        "englishNatural": "and cold",
+        "root": "qor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֶרַע וְקָצִיר **וְקֹר** וָחֹם וְקַיִץ",
+        "transliteration": "zera veQatzir **veQor** vaChom veQayitz",
+        "englishLiteral": "seed and-harvest **and-cold** and-heat and-summer",
+        "englishNatural": "seed and harvest **and cold** and heat and summer"
+      }
+    }
+  ]
+}

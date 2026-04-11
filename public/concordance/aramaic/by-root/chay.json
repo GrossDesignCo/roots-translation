@@ -1,0 +1,30 @@
+{
+  "root": "chay",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "חַיַּיָּא",
+        "transliteration": "chayyayya",
+        "englishLiteral": "living-the",
+        "englishNatural": "the living",
+        "root": "chay",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִן כָּל **חַיַּיָּא** רָזָה דְנָה",
+        "transliteration": "min kol **chayyayya** razah denah",
+        "englishLiteral": "from all **living-the** mystery-the this",
+        "englishNatural": "from all **the living** the mystery this"
+      }
+    }
+  ]
+}

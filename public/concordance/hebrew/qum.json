@@ -1,0 +1,85 @@
+{
+  "key": "qum",
+  "language": "hebrew",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "קוּם",
+        "transliteration": "qum",
+        "englishLiteral": "Stand_up",
+        "englishNatural": "Stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**קוּם** לֵךְ אֶל־",
+        "transliteration": "**qum** lekh el-",
+        "englishLiteral": "**Stand_up** go to-",
+        "englishNatural": "**Stand-up** go to"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "קוּם",
+        "transliteration": "qum",
+        "englishLiteral": "Stand_up",
+        "englishNatural": "Stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְּךָ נִרְדָּם **קוּם** קְרָא אֶל־",
+        "transliteration": "lekha nirdam **qum** qera el-",
+        "englishLiteral": "to-you sleeper **Stand_up** call_out to-",
+        "englishNatural": "is with you O sleeper **Stand-up** call-out to"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "קוּם",
+        "transliteration": "qum",
+        "englishLiteral": "Stand_up",
+        "englishNatural": "Stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**קוּם** לֵךְ אֶל־",
+        "transliteration": "**qum** lekh el-",
+        "englishLiteral": "**Stand_up** go to-",
+        "englishNatural": "**Stand-up** go to"
+      }
+    }
+  ]
+}

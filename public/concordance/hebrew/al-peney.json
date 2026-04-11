@@ -1,0 +1,55 @@
+{
+  "key": "al-peney",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עַל־פְּנֵ֣י",
+        "transliteration": "al-peney",
+        "englishLiteral": "over-faces-of",
+        "englishNatural": "over the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וָבֹ֔הוּ וְחֹ֖שֶׁךְ **עַל־פְּנֵ֣י** תְהֹ֑ום וְר֣וּחַ",
+        "transliteration": "vaVohu veChoshekh **al-peney** tehom veRuach",
+        "englishLiteral": "and-void And-darkness **over-faces-of** abyss And-Wind",
+        "englishNatural": "and void And darkness **over the face of** the abyss And the Wind of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עַל־פְּנֵ֥י",
+        "transliteration": "al-peney",
+        "englishLiteral": "over-faces-of",
+        "englishNatural": "over the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֔ים מְרַחֶ֖פֶת **עַל־פְּנֵ֥י** הַמָּֽיִם",
+        "transliteration": "Elohim meRachefet **al-peney** haMayim",
+        "englishLiteral": "Gods stirring **over-faces-of** the-waters",
+        "englishNatural": "God stirring **over the face of** the waters"
+      }
+    }
+  ]
+}

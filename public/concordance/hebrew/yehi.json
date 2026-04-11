@@ -1,0 +1,111 @@
+{
+  "key": "yehi",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יְהִ֣י",
+        "transliteration": "yehi",
+        "englishLiteral": "Let-be",
+        "englishNatural": "be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּ֥אמֶר אֱלֹהִ֖ים **יְהִ֣י** א֑וֹר וַֽיְהִי",
+        "transliteration": "vaYomer Elohim **yehi** or vaYehi",
+        "englishLiteral": "And-said Gods **Let-be** light And-was",
+        "englishNatural": "said And God **be** Let light was"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יְהִי",
+        "transliteration": "yehi",
+        "englishLiteral": "Let-be",
+        "englishNatural": "be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר אֱלֹהִים **יְהִי** רָקִיעַ בְּתוֹךְ",
+        "transliteration": "vaYomer Elohim **yehi** raqia beTokh",
+        "englishLiteral": "And-said Gods **Let-be** hammering_out in-midst-of",
+        "englishNatural": "said And God **be** Let a hammering-out in the midst of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יְהִ֤י",
+        "transliteration": "yehi",
+        "englishLiteral": "Let-be",
+        "englishNatural": "Let there be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים **יְהִ֤י** מְאֹרֹ֖ת בִּרְקִ֣יעַ",
+        "transliteration": "vaYomer Elohim **yehi** meOrot biRqia",
+        "englishLiteral": "And-said Gods **Let-be** light_sources in-hammering_out",
+        "englishNatural": "said And God **Let there be** light-sources in the hammering-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "יְהִי",
+        "transliteration": "yehi",
+        "englishLiteral": "let-him-be",
+        "englishNatural": "let it be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִפְנֵי־ פַרְעֹה **יְהִי** לְתַנִּין",
+        "transliteration": "lifnei- Paroh **yehi** leTannin",
+        "englishLiteral": "to-faces-of- Pharaoh **let-him-be** to-monster",
+        "englishNatural": "to the face of Pharaoh **let it be** to a monster"
+      }
+    }
+  ]
+}

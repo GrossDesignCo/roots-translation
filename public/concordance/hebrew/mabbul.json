@@ -1,0 +1,31 @@
+{
+  "key": "mabbul",
+  "language": "hebrew",
+  "root": "mabbul",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 11
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "מַבּוּל",
+        "transliteration": "mabbul",
+        "englishLiteral": "flood",
+        "englishNatural": "a flood",
+        "root": "mabbul",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִהְיֶה עוֹד **מַבּוּל** לְשַׁחֵת הָאָרֶץ",
+        "transliteration": "yihyeh od **mabbul** leshachet haAretz",
+        "englishLiteral": "it-will-be again **flood** to-corrupt the-land",
+        "englishNatural": "will be again **a flood** to corrupt the land"
+      }
+    }
+  ]
+}

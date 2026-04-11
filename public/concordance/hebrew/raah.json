@@ -1,0 +1,31 @@
+{
+  "key": "raah",
+  "language": "hebrew",
+  "root": "ra",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "רָעָה",
+        "transliteration": "raah",
+        "englishLiteral": "bad",
+        "englishNatural": "bad",
+        "root": "ra",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ יוֹנָה **רָעָה** גְדוֹלָה וַיִּחַר",
+        "transliteration": "el- Yonah **raah** gedolah vaYichar",
+        "englishLiteral": "to- Dove (Jonah) **bad** great and-fumed_angrily",
+        "englishNatural": "to Dove (Jonah) **bad** a great and it fumed angrily"
+      }
+    }
+  ]
+}

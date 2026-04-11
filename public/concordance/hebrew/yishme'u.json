@@ -1,0 +1,33 @@
+{
+  "key": "yishme'u",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "יִשְׁמְעוּ",
+        "transliteration": "yishme'u",
+        "englishLiteral": "they-will-hear",
+        "englishNatural": "will hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר לֹא **יִשְׁמְעוּ** אִישׁ שְׂפַת",
+        "transliteration": "asher lo **yishme'u** ish sefat",
+        "englishLiteral": "which not **they-will-hear** man lip-of",
+        "englishNatural": "which not **will hear** man the lip of"
+      }
+    }
+  ]
+}

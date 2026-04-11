@@ -1,0 +1,33 @@
+{
+  "key": "vatipakachnah",
+  "language": "hebrew",
+  "root": "paqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתִּפָּקַחְנָה",
+        "transliteration": "vaTipakachnah",
+        "englishLiteral": "And-opened-were",
+        "englishNatural": "were opened",
+        "root": "paqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתִּפָּקַחְנָה** עֵינֵי שְׁנֵיהֶם",
+        "transliteration": "**vaTipakachnah** eyney shneyhem",
+        "englishLiteral": "**And-opened-were** eyes-of two-of-them",
+        "englishNatural": "**were opened** And the eyes of both of them"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "sheloshet",
+  "language": "hebrew",
+  "root": "shalosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "שְׁלֹשֶׁת",
+        "transliteration": "sheloshet",
+        "englishLiteral": "three-of",
+        "englishNatural": "three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "נָּא דֶּרֶךְ **שְׁלֹשֶׁת** יָמִים בַּמִּדְבָּר",
+        "transliteration": "na derekh **sheloshet** yamim baMidbar",
+        "englishLiteral": "please way-of **three-of** days in-wilderness",
+        "englishNatural": "please a way of **three** days in Wilderness"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 22
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "שְׁלֹשֶׁת",
+        "transliteration": "sheloshet",
+        "englishLiteral": "three-of",
+        "englishNatural": "three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶרֶץ מִצְרַיִם **שְׁלֹשֶׁת** יָמִים",
+        "transliteration": "eretz Mitzrayim **sheloshet** yamim",
+        "englishLiteral": "land-of Double_Straits (Egypt) **three-of** days",
+        "englishNatural": "the land of Double-Straits (Egypt) **three** days"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "שְׁלֹשֶׁת",
+        "transliteration": "sheloshet",
+        "englishLiteral": "three-of",
+        "englishNatural": "three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ מִתַּחְתָּיו **שְׁלֹשֶׁת** יָמִים וּלְכָל־",
+        "transliteration": "ish miTachtav **sheloshet** yamim uLeKhol-",
+        "englishLiteral": "man from-lowness-his **three-of** days and-to-all-",
+        "englishNatural": "and man from his lowness **three** days and to all"
+      }
+    }
+  ]
+}

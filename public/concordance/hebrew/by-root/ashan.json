@@ -1,0 +1,54 @@
+{
+  "root": "ashan",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 17
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "עָשָׁן",
+        "transliteration": "ashan",
+        "englishLiteral": "smoke",
+        "englishNatural": "smoking",
+        "root": "ashan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִנֵּה תַנּוּר **עָשָׁן** וְלַפִּיד אֵשׁ",
+        "transliteration": "veHineh tanur **ashan** veLapid esh",
+        "englishLiteral": "and-behold furnace **smoke** and-torch fire",
+        "englishNatural": "and behold a furnace **smoking** and a torch of fire"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "עָשָֽׁן",
+        "transliteration": "ashan",
+        "englishLiteral": "smoke",
+        "englishNatural": "smoke",
+        "root": "ashan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַבַּ֖יִת יִמָּלֵ֥א **עָשָֽׁן**",
+        "transliteration": "veHaBayit yimale **ashan**",
+        "englishLiteral": "and-the-house was-filled **smoke**",
+        "englishNatural": "and the house was filled with **smoke**"
+      }
+    }
+  ]
+}

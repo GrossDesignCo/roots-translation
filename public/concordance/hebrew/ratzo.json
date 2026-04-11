@@ -1,0 +1,33 @@
+{
+  "key": "ratzo",
+  "language": "hebrew",
+  "root": "ratzo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "רָצוֹא",
+        "transliteration": "ratzo",
+        "englishLiteral": "sprinting",
+        "englishNatural": "sprinting",
+        "root": "ratzo",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַחַיּוֹת **רָצוֹא** וָשׁוֹב כְּמַרְאֵה",
+        "transliteration": "veHaChayot **ratzo** vaShuv keMarah",
+        "englishLiteral": "And-the-living-beings **sprinting** and-returning like-appearance-of",
+        "englishNatural": "And the living-beings **sprinting** and returning like the appearance of"
+      }
+    }
+  ]
+}

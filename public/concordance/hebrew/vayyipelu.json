@@ -1,0 +1,33 @@
+{
+  "key": "vayyipelu",
+  "language": "hebrew",
+  "root": "napal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיִּפְּלוּ",
+        "transliteration": "vayYipelu",
+        "englishLiteral": "and-they-fell",
+        "englishNatural": "fell",
+        "root": "napal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְקַיִן מְאֹד **וַיִּפְּלוּ** פָנָיו",
+        "transliteration": "leQayin meod **vayYipelu** panav",
+        "englishLiteral": "to-Acquired (Cain) very_much **and-they-fell** his-faces",
+        "englishNatural": "to Acquired (Cain) very-much **fell** and his faces"
+      }
+    }
+  ]
+}

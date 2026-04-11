@@ -1,0 +1,31 @@
+{
+  "key": "bidemut",
+  "language": "hebrew",
+  "root": "demut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 1
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בִּדְמוּת",
+        "transliteration": "biDemut",
+        "englishLiteral": "in-likeness-of",
+        "englishNatural": "in the likeness of",
+        "root": "demut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים אָדָם **בִּדְמוּת** אֱלֹהִים עָשָׂה",
+        "transliteration": "Elohim Adam **biDemut** Elohim asah",
+        "englishLiteral": "Gods Earthling (Adam) **in-likeness-of** Gods he-made",
+        "englishNatural": "God Earthling (Adam) **in the likeness of** God he made"
+      }
+    }
+  ]
+}

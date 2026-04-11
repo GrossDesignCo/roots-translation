@@ -1,0 +1,55 @@
+{
+  "key": "imadi",
+  "language": "hebrew",
+  "root": "im",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עִמָּדִי",
+        "transliteration": "imadi",
+        "englishLiteral": "with-me",
+        "englishNatural": "with me",
+        "root": "im_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר נָתַתָּה **עִמָּדִי** הִיא נָתְנָה־",
+        "transliteration": "asher natata **imadi** hi natnah-",
+        "englishLiteral": "which you-gave **with-me** she she-gave-",
+        "englishNatural": "which you gave **with me** she gave"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עִמָּדִי",
+        "transliteration": "imadi",
+        "englishLiteral": "with-me",
+        "englishNatural": "are with me",
+        "root": "im",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ אַתָּה **עִמָּדִי** שִׁבְטְךָ וּמִשְׁעַנְתֶּךָ",
+        "transliteration": "ki- atah **imadi** shivtekha uMishantekha",
+        "englishLiteral": "that- you **with-me** your-rod and-your-staff",
+        "englishNatural": "that you **are with me** your rod and your staff"
+      }
+    }
+  ]
+}

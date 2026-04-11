@@ -1,0 +1,31 @@
+{
+  "key": "vetaqpa",
+  "language": "aramaic",
+  "root": "toqef",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 37
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וְתָקְפָּא",
+        "transliteration": "veTaqpa",
+        "englishLiteral": "and-strength-the",
+        "englishNatural": "and the strength",
+        "root": "toqef",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַלְכוּתָא חִסְנָא **וְתָקְפָּא** וִיקָרָא יְהַב",
+        "transliteration": "malkhuta chisna **veTaqpa** viQara yehav",
+        "englishLiteral": "kingdom-the power-the **and-strength-the** and-glory-the he-has-given",
+        "englishNatural": "the kingdom the power **and the strength** and the glory has given"
+      }
+    }
+  ]
+}

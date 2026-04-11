@@ -1,0 +1,55 @@
+{
+  "key": "velohei",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וֵאלֹהֵי",
+        "transliteration": "vElohei",
+        "englishLiteral": "and-Gods-of",
+        "englishNatural": "and the God of",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֵי יִצְחָק **וֵאלֹהֵי** יַעֲקֹב וַיַּסְתֵּר",
+        "transliteration": "elohei Yitzchaq **vElohei** Yaaqov vaYaster",
+        "englishLiteral": "Gods-of He_Laughs (Isaac) **and-Gods-of** Heel_Grasper (Jacob) And-hid",
+        "englishNatural": "the God of He-Laughs (Isaac) **and the God of** Heel-Grasper (Jacob) hid"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וֵאלֹהֵי",
+        "transliteration": "vElohei",
+        "englishLiteral": "and-Gods-of",
+        "englishNatural": "and the God of",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֵי יִצְחָק **וֵאלֹהֵי** יַעֲקֹב",
+        "transliteration": "elohei Yitzchaq **vElohei** Yaaqov",
+        "englishLiteral": "Gods-of He_Laughs (Isaac) **and-Gods-of** Heel_Grasper (Jacob)",
+        "englishNatural": "the God of He-Laughs (Isaac) **and the God of** Heel-Grasper (Jacob)"
+      }
+    }
+  ]
+}

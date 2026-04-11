@@ -1,0 +1,31 @@
+{
+  "key": "tovah",
+  "language": "hebrew",
+  "root": "tov",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 15
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "טוֹבָה",
+        "transliteration": "tovah",
+        "englishLiteral": "good",
+        "englishNatural": "in good",
+        "root": "tov",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "תִּקָּבֵר בְּשֵׂיבָה **טוֹבָה**",
+        "transliteration": "tiqaver beSeivah **tovah**",
+        "englishLiteral": "you-will-be-buried in-old-age **good**",
+        "englishNatural": "you will be buried old age **in good**"
+      }
+    }
+  ]
+}

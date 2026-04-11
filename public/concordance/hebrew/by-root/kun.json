@@ -1,0 +1,57 @@
+{
+  "root": "kun",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "כּוֹנָ֥נְתָּה",
+        "transliteration": "konantah",
+        "englishLiteral": "you-have-established",
+        "englishNatural": "you have established",
+        "root": "kun",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "polel"
+        }
+      },
+      "context": {
+        "hebrew": "וְכוֹכָבִ֗ים אֲשֶׁ֥ר **כּוֹנָ֥נְתָּה**",
+        "transliteration": "veKhokhavim asher **konantah**",
+        "englishLiteral": "and-stars which **you-have-established**",
+        "englishNatural": "and stars which **you have established**"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 27
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בַּהֲכִינוֹ",
+        "transliteration": "baHakhino",
+        "englishLiteral": "In-establishing-his",
+        "englishNatural": "In his establishing",
+        "root": "kun",
+        "morphology": {
+          "type": "verb",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**בַּהֲכִינוֹ** שָׁמַיִם שָׁם",
+        "transliteration": "**baHakhino** shamayim sham",
+        "englishLiteral": "**In-establishing-his** skies there",
+        "englishNatural": "**In his establishing** skies there"
+      }
+    }
+  ]
+}

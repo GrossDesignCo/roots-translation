@@ -1,0 +1,33 @@
+{
+  "key": "heyoti",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הֱיוֹתִי",
+        "transliteration": "heyoti",
+        "englishLiteral": "being-my",
+        "englishNatural": "I was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "דְבָרִי עַד־ **הֱיוֹתִי** עַל־ אַדְמָתִי",
+        "transliteration": "devari ad- **heyoti** al- admati",
+        "englishLiteral": "word-my unto- **being-my** over- earth-my",
+        "englishNatural": "my word unto **I was** over my earth"
+      }
+    }
+  ]
+}

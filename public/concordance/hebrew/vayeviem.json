@@ -1,0 +1,33 @@
+{
+  "key": "vayeviem",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וַיְבִיאֵם",
+        "transliteration": "vaYeviem",
+        "englishLiteral": "and-he-brought-them",
+        "englishNatural": "and he brought them",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּית־ הָאֱלֹהִים **וַיְבִיאֵם** בָּבֶלָה אֶל־",
+        "transliteration": "beit- haElohim **vaYeviem** Bavelah el-",
+        "englishLiteral": "house-of- the-Gods **and-he-brought-them** to-Confusion (Babylon) to-",
+        "englishNatural": "the house of the God **and he brought them** to Confusion (Babylon) to"
+      }
+    }
+  ]
+}

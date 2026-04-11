@@ -1,0 +1,31 @@
+{
+  "key": "yad-",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "יַד־",
+        "transliteration": "yad-",
+        "englishLiteral": "hand-of-",
+        "englishNatural": "and the hand of",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָלָיו שָׁם **יַד־** יְהוָה",
+        "transliteration": "alav sham **yad-** YHWH",
+        "englishLiteral": "over-him there **hand-of-** He_Who_Is (YHWH)",
+        "englishNatural": "over him there **and the hand of** He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

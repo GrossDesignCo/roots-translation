@@ -1,0 +1,55 @@
+{
+  "key": "moti",
+  "language": "hebrew",
+  "root": "mot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מוֹתִי",
+        "transliteration": "moti",
+        "englishLiteral": "death-my",
+        "englishNatural": "my death",
+        "root": "mot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי טוֹב **מוֹתִי** מֵחַיָּי",
+        "transliteration": "ki tov **moti** mechayyai",
+        "englishLiteral": "that good **death-my** from-lives-my",
+        "englishNatural": "that good-is **my death** from my life"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "מוֹתִי",
+        "transliteration": "moti",
+        "englishLiteral": "death-my",
+        "englishNatural": "my death",
+        "root": "mot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר טוֹב **מוֹתִי** מֵחַיָּי",
+        "transliteration": "vaYomer tov **moti** mechayyai",
+        "englishLiteral": "and-said good **death-my** from-lives-my",
+        "englishNatural": "and he said Good-is **my death** from my life"
+      }
+    }
+  ]
+}

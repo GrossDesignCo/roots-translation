@@ -1,0 +1,55 @@
+{
+  "key": "mareeh",
+  "language": "hebrew",
+  "root": "mareh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "מַרְאֵה",
+        "transliteration": "mareeh",
+        "englishLiteral": "appearance-of",
+        "englishNatural": "the appearance of",
+        "root": "mareh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַגֶּשֶׁם כֵּן **מַרְאֵה** הַנֹּגַהּ סָבִיב",
+        "transliteration": "haGeshem ken **mareeh** haNogah saviv",
+        "englishLiteral": "the-rain so **appearance-of** the-brightness all_around",
+        "englishNatural": "rain so **the appearance of** the brightness all-around"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "מַרְאֵה",
+        "transliteration": "mareeh",
+        "englishLiteral": "appearance-of",
+        "englishNatural": "the appearance of",
+        "root": "mareh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "סָבִיב הוּא **מַרְאֵה** דְּמוּת כְּבוֹד־",
+        "transliteration": "saviv hu **mareeh** demut kevod-",
+        "englishLiteral": "all_around he **appearance-of** likeness-of glory-of-",
+        "englishNatural": "all-around that **the appearance of** the likeness of the glory of"
+      }
+    }
+  ]
+}

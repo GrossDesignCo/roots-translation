@@ -1,0 +1,31 @@
+{
+  "key": "mitaam",
+  "language": "hebrew",
+  "root": "taam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מִטַּעַם",
+        "transliteration": "mitaam",
+        "englishLiteral": "from-decree-of",
+        "englishNatural": "from the decree of",
+        "root": "taam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר בְּנִינְוֵה **מִטַּעַם** הַמֶּלֶךְ וּגְדֹלָיו",
+        "transliteration": "vaYomer beNineveh **mitaam** haMelekh uGedolav",
+        "englishLiteral": "and-said in-Dwelling_of_Fish (Nineveh) **from-decree-of** the-king and-greats-his",
+        "englishNatural": "and said in Dwelling-of-Fish (Nineveh) **from the decree of** the king and his greats"
+      }
+    }
+  ]
+}

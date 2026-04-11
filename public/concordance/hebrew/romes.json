@@ -1,0 +1,57 @@
+{
+  "key": "romes",
+  "language": "hebrew",
+  "root": "ramas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "רוֹמֵ֣שׂ",
+        "transliteration": "romes",
+        "englishLiteral": "crawler",
+        "englishNatural": "crawler",
+        "root": "ramas",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁמַ֔יִם וּלְכֹ֖ל **רוֹמֵ֣שׂ** עַל־ הָאָ֑רֶץ",
+        "transliteration": "haShamayim uLeKol **romes** al- haAretz",
+        "englishLiteral": "the-skies and-to-all **crawler** over the-land",
+        "englishNatural": "the skies and to all **crawler** over the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "רֹמֵשׂ",
+        "transliteration": "romes",
+        "englishLiteral": "creeping",
+        "englishNatural": "creeps",
+        "root": "ramas",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְכֹל אֲשֶׁר־ **רֹמֵשׂ** עַל־ הָאֲדָמָה",
+        "transliteration": "veKhol asher- **romes** al- haAdamah",
+        "englishLiteral": "and-all which- **creeping** over- the-earth",
+        "englishNatural": "and all which **creeps** over the earth"
+      }
+    }
+  ]
+}

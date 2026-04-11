@@ -1,0 +1,33 @@
+{
+  "key": "motzo",
+  "language": "hebrew",
+  "root": "matza",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 15
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "מֹצְאוֹ",
+        "transliteration": "motzo",
+        "englishLiteral": "finding-him",
+        "englishNatural": "on finding him",
+        "root": "matza",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֹתוֹ כָּל־ **מֹצְאוֹ**",
+        "transliteration": "oto kol- **motzo**",
+        "englishLiteral": "↳-him all- **finding-him**",
+        "englishNatural": "him all **on finding him**"
+      }
+    }
+  ]
+}

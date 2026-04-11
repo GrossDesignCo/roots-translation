@@ -1,0 +1,31 @@
+{
+  "key": "hanora",
+  "language": "hebrew",
+  "root": "nora",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 22
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הַנּוֹרָא",
+        "transliteration": "haNora",
+        "englishLiteral": "the-fearsome",
+        "englishNatural": "The Fearsome",
+        "root": "nora",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כְּעֵין הַקֶּרַח **הַנּוֹרָא** נָטוּי עַל־",
+        "transliteration": "keEin haKerach **haNora** natuy al-",
+        "englishLiteral": "like-eye-of the-crystal **the-fearsome** stretched-out over-",
+        "englishNatural": "like an eye of The Crystal **The Fearsome** stretched-out over"
+      }
+    }
+  ]
+}

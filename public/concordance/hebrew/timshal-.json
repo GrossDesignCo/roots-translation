@@ -1,0 +1,33 @@
+{
+  "key": "timshal-",
+  "language": "hebrew",
+  "root": "mashal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "תִּמְשָׁל־",
+        "transliteration": "timshal-",
+        "englishLiteral": "you-will-rule-",
+        "englishNatural": "will rule",
+        "root": "mashal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תְּשׁוּקָתוֹ וְאַתָּה **תִּמְשָׁל־** בּוֹ",
+        "transliteration": "teshukato veAtah **timshal-** bo",
+        "englishLiteral": "its-fixation and-you **you-will-rule-** over-it",
+        "englishNatural": "is its fixation and you **will rule** over it"
+      }
+    }
+  ]
+}

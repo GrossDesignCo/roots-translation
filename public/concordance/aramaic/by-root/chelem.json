@@ -1,0 +1,54 @@
+{
+  "root": "chelem",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 36
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "חֶלְמָא",
+        "transliteration": "chelma",
+        "englishLiteral": "dream-the",
+        "englishNatural": "the dream",
+        "root": "chelem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דְּנָה **חֶלְמָא** וּפִשְׁרֵהּ נֵאמַר",
+        "transliteration": "denah **chelma** uFishreH nemar",
+        "englishLiteral": "this **dream-the** and-interpretation-its we-will-tell",
+        "englishNatural": "This **the dream** and its interpretation we will tell"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 28,
+      "word": {
+        "originalScript": "חֶלְמָא",
+        "transliteration": "chelma",
+        "englishLiteral": "dream-the",
+        "englishNatural": "is the dream",
+        "root": "chelem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דְנָה וְיַצִּיב **חֶלְמָא** וּמְהֵימַן פִּשְׁרֵהּ",
+        "transliteration": "denah veYatziv **chelma** uMeheman pishreh",
+        "englishLiteral": "this and-certain **dream-the** and-trustworthy interpretation-its",
+        "englishNatural": "this and certain **is the dream** and trustworthy is its interpretation"
+      }
+    }
+  ]
+}

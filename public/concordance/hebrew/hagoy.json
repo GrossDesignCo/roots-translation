@@ -1,0 +1,31 @@
+{
+  "key": "hagoy",
+  "language": "hebrew",
+  "root": "goy",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַגּוֹי",
+        "transliteration": "haGoy",
+        "englishLiteral": "the-nation",
+        "englishNatural": "the nation",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגַם אֶת־ **הַגּוֹי** אֲשֶׁר יַעֲבֹדוּ",
+        "transliteration": "veGam et- **haGoy** asher yaavodu",
+        "englishLiteral": "And-also ↳ **the-nation** which they-will-serve",
+        "englishNatural": "And also ↳ **the nation** which they will serve"
+      }
+    }
+  ]
+}

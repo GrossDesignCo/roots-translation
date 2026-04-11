@@ -1,0 +1,31 @@
+{
+  "key": "chatat",
+  "language": "hebrew",
+  "root": "chata",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "חַטָּאת",
+        "transliteration": "chatat",
+        "englishLiteral": "sin",
+        "englishNatural": "sin",
+        "root": "chata",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תֵיטִיב לַפֶּתַח **חַטָּאת** רֹבֵץ וְאֵלֶיךָ",
+        "transliteration": "teytiv laPetach **chatat** rovetz veElekha",
+        "englishLiteral": "you-do_well to-opening **sin** crouching and-to-you",
+        "englishNatural": "you do-well to the opening **sin** is crouching and to you"
+      }
+    }
+  ]
+}

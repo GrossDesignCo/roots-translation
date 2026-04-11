@@ -1,0 +1,31 @@
+{
+  "key": "lisrefah",
+  "language": "hebrew",
+  "root": "saraph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לִשְׂרֵפָה",
+        "transliteration": "liSrefah",
+        "englishLiteral": "to-incinerating",
+        "englishNatural": "to an incinerating",
+        "root": "saraph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְבֵנִים וְנִשְׂרְפָה **לִשְׂרֵפָה** וַתְּהִי לָהֶם",
+        "transliteration": "levenim veNisrefah **liSrefah** vatTehi lahem",
+        "englishLiteral": "bricks and-let-us-incinerate **to-incinerating** And-she-was to-them",
+        "englishNatural": "bricks and let us incinerate **to an incinerating** was to them"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "aqsheh",
+  "language": "hebrew",
+  "root": "qashah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אַקְשֶׁה",
+        "transliteration": "aqsheh",
+        "englishLiteral": "I-will-cause-to-harden",
+        "englishNatural": "will cause to harden",
+        "root": "qashah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲנִי **אַקְשֶׁה** אֶת־ לֵב",
+        "transliteration": "vaAni **aqsheh** et- lev",
+        "englishLiteral": "And-I **I-will-cause-to-harden** ↳ heart-of",
+        "englishNatural": "And I **will cause to harden** ↳ the heart of"
+      }
+    }
+  ]
+}

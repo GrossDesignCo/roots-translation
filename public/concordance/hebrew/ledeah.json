@@ -1,0 +1,33 @@
+{
+  "key": "ledeah",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לְדֵעָה",
+        "transliteration": "leDeah",
+        "englishLiteral": "to-know",
+        "englishNatural": "to know",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲחֹתוֹ מֵרָחֹק **לְדֵעָה** מַה־ יֵּעָשֶׂה",
+        "transliteration": "achoto meRachok **leDeah** mah- yeaseh",
+        "englishLiteral": "sister-his from-distance **to-know** what- will-be-made",
+        "englishNatural": "And his sister from a distance **to know** what would be made"
+      }
+    }
+  ]
+}

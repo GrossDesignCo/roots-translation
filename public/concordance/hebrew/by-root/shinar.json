@@ -1,0 +1,78 @@
+{
+  "root": "shinar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 10
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "שִׁנְעָר",
+        "transliteration": "Shinar",
+        "englishLiteral": "Tooth_of_Two (Shinar)",
+        "englishNatural": "Tooth-of-Two (Shinar)",
+        "root": "shinar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכַלְנֵה בְּאֶרֶץ **שִׁנְעָר**",
+        "transliteration": "veKhalneh beEretz **Shinar**",
+        "englishLiteral": "and-Fortress (Calneh) in-land-of **Tooth_of_Two (Shinar)**",
+        "englishNatural": "and Fortress (Calneh) in the land of **Tooth-of-Two (Shinar)**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "שִׁנְעָר",
+        "transliteration": "ShinAr",
+        "englishLiteral": "Tooth-of-Two (Shinar)",
+        "englishNatural": "Tooth-of-Two (Shinar)",
+        "root": "shinar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בִקְעָה בְּאֶרֶץ **שִׁנְעָר** וַיֵּשְׁבוּ שָׁם",
+        "transliteration": "biqah beEretz **ShinAr** vayYeshvu sham",
+        "englishLiteral": "plain in-land-of **Tooth-of-Two (Shinar)** and-they-settled there",
+        "englishNatural": "a plain in the land of **Tooth-of-Two (Shinar)** and they settled there"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "שִׁנְעָר",
+        "transliteration": "Shinar",
+        "englishLiteral": "Tooth_of_Two (Shinar)",
+        "englishNatural": "of Tooth-of-Two (Shinar)",
+        "root": "shinar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ אֶרֶץ **שִׁנְעָר** בֵּית אֱלֹהָיו",
+        "transliteration": "el- eretz **Shinar** beit elohav",
+        "englishLiteral": "to- land **Tooth_of_Two (Shinar)** house Gods-his",
+        "englishNatural": "to the land **of Tooth-of-Two (Shinar)** to the house of his God"
+      }
+    }
+  ]
+}

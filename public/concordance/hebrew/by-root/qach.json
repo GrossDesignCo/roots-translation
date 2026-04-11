@@ -1,0 +1,58 @@
+{
+  "root": "qach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "קְחָה",
+        "transliteration": "qechah",
+        "englishLiteral": "Take",
+        "englishNatural": "Take",
+        "root": "qach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר אֵלָיו **קְחָה** לִי עֶגְלָה",
+        "transliteration": "vaYomer elav **qechah** li eglah",
+        "englishLiteral": "And-he-said to-him **Take** to-me heifer",
+        "englishNatural": "And he said to him **Take** to me a heifer"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּקַּח־",
+        "transliteration": "vayiqach-",
+        "englishLiteral": "And-he-took-",
+        "englishNatural": "And he took",
+        "root": "qach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּקַּח־** לוֹ אֶת־",
+        "transliteration": "**vayiqach-** lo et-",
+        "englishLiteral": "**And-he-took-** to-him ↳",
+        "englishNatural": "**And he took** to him ↳"
+      }
+    }
+  ]
+}

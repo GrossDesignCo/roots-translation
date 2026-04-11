@@ -1,0 +1,31 @@
+{
+  "key": "vekhokhavim",
+  "language": "hebrew",
+  "root": "kokhav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְכוֹכָבִ֗ים",
+        "transliteration": "veKhokhavim",
+        "englishLiteral": "and-stars",
+        "englishNatural": "and stars",
+        "root": "kokhav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶצְבְּעֹתֶ֑יךָ יָרֵ֥חַ **וְכוֹכָבִ֗ים** אֲשֶׁ֥ר כּוֹנָ֥נְתָּה",
+        "transliteration": "etsbeotekha yareakh **veKhokhavim** asher konantah",
+        "englishLiteral": "your-fingers moon **and-stars** which you-have-established",
+        "englishNatural": "your fingers moon **and stars** which you have established"
+      }
+    }
+  ]
+}

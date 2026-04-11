@@ -1,0 +1,30 @@
+{
+  "root": "shaveh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 17
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "שָׁוֵה",
+        "transliteration": "Shaveh",
+        "englishLiteral": "Level (Shaveh)",
+        "englishNatural": "Level (Shaveh)",
+        "root": "shaveh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ עֵמֶק **שָׁוֵה** הוּא עֵמֶק",
+        "transliteration": "el- emeq **Shaveh** hu emeq",
+        "englishLiteral": "to- valley-of **Level (Shaveh)** he valley-of",
+        "englishNatural": "to the valley of **Level (Shaveh)** it is the Valley of"
+      }
+    }
+  ]
+}

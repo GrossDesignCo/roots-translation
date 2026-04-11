@@ -1,0 +1,33 @@
+{
+  "key": "hishiani",
+  "language": "hebrew",
+  "root": "nasha",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הִשִּׁיאַנִי",
+        "transliteration": "hishiani",
+        "englishLiteral": "he-deceived-me",
+        "englishNatural": "he deceived me",
+        "root": "nasha",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הָאִשָּׁה הַנָּחָשׁ **הִשִּׁיאַנִי** וָאֹכֵל",
+        "transliteration": "haIshah hanachash **hishiani** vaOkhel",
+        "englishLiteral": "the-woman The-snake **he-deceived-me** and-I-ate",
+        "englishNatural": "And the woman The snake **he deceived me** and I ate"
+      }
+    }
+  ]
+}

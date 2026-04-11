@@ -1,0 +1,31 @@
+{
+  "key": "vehachayot",
+  "language": "hebrew",
+  "root": "chayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְהַחַיּוֹת",
+        "transliteration": "veHaChayot",
+        "englishLiteral": "And-the-living-beings",
+        "englishNatural": "And the living-beings",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהַחַיּוֹת** רָצוֹא וָשׁוֹב",
+        "transliteration": "**veHaChayot** ratzo vaShuv",
+        "englishLiteral": "**And-the-living-beings** sprinting and-returning",
+        "englishNatural": "**And the living-beings** sprinting and returning"
+      }
+    }
+  ]
+}

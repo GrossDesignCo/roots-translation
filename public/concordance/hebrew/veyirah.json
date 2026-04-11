@@ -1,0 +1,31 @@
+{
+  "key": "veyirah",
+  "language": "hebrew",
+  "root": "yirah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְיִרְאָה",
+        "transliteration": "veYirah",
+        "englishLiteral": "and-fear",
+        "englishNatural": "and fear",
+        "root": "yirah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגֹבַהּ לָהֶם **וְיִרְאָה** לָהֶם וְגַבֹּתָם",
+        "transliteration": "veGovah lahem **veYirah** lahem veGabbotam",
+        "englishLiteral": "and-height to-them **and-fear** to-them and-rims-their",
+        "englishNatural": "and height to them **and fear** to them and their rims"
+      }
+    }
+  ]
+}

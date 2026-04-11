@@ -1,0 +1,30 @@
+{
+  "root": "saphah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "שְׂפַת",
+        "transliteration": "sefat",
+        "englishLiteral": "lip-of",
+        "englishNatural": "the lip of",
+        "root": "saphah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּסּוּף עַל־ **שְׂפַת** הַיְאֹר",
+        "transliteration": "baSuph al- **sefat** haYeor",
+        "englishLiteral": "in-the-reeds over- **lip-of** the-canal",
+        "englishNatural": "in the reeds over **the lip of** the canal"
+      }
+    }
+  ]
+}

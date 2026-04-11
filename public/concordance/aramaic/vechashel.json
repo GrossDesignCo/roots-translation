@@ -1,0 +1,31 @@
+{
+  "key": "vechashel",
+  "language": "aramaic",
+  "root": "chashal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְחָשֵׁל",
+        "transliteration": "veChashel",
+        "englishLiteral": "and-shatters",
+        "englishNatural": "and shatters",
+        "root": "chashal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פַרְזְלָא מְהַדֵּק **וְחָשֵׁל** כֹּלָּא וּכְפַרְזְלָא",
+        "transliteration": "parzela mehaddeq **veChashel** kolla uKheParzela",
+        "englishLiteral": "iron-the crushing **and-shatters** all and-like-iron-the",
+        "englishNatural": "the iron crushing **and shatters** all and like the iron"
+      }
+    }
+  ]
+}

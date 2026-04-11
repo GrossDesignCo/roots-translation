@@ -1,0 +1,55 @@
+{
+  "key": "damo",
+  "language": "hebrew",
+  "root": "dam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "דָמוֹ",
+        "transliteration": "damo",
+        "englishLiteral": "its-blood",
+        "englishNatural": "its blood",
+        "root": "dam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּשָׂר בְּנַפְשׁוֹ **דָמוֹ** לֹא תֹאכֵלוּ",
+        "transliteration": "basar beNafsho **damo** lo tokhelu",
+        "englishLiteral": "flesh in-its-wind **its-blood** not you-will-eat",
+        "englishNatural": "flesh in its wind **its blood** not you will eat"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "דָּמוֹ",
+        "transliteration": "damo",
+        "englishLiteral": "his-blood",
+        "englishNatural": "his blood",
+        "root": "dam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם בָּאָדָם **דָּמוֹ** יִשָּׁפֵךְ כִּי",
+        "transliteration": "haAdam baAdam **damo** yishafekh ki",
+        "englishLiteral": "the-Earthling (Adam) in-Earthling (Adam) **his-blood** it-will-be-poured for",
+        "englishNatural": "the Earthling (Adam) in Earthling (Adam) **his blood** will be poured for"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "vayera",
+  "language": "hebrew",
+  "root": "yara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֵּרָא",
+        "transliteration": "vaYera",
+        "englishLiteral": "And-was_seen",
+        "englishNatural": "was-seen",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּרָא** מַלְאַךְ יְהוָה",
+        "transliteration": "**vaYera** malakh YHWH",
+        "englishLiteral": "**And-was_seen** messenger-of He_Who_Is (YHWH)",
+        "englishNatural": "**was-seen** And the Messenger of He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֵּרַע",
+        "transliteration": "vaYera",
+        "englishLiteral": "And-was-bad",
+        "englishNatural": "And it was bad",
+        "root": "yara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּרַע** אֶל־ יוֹנָה",
+        "transliteration": "**vaYera** el- Yonah",
+        "englishLiteral": "**And-was-bad** to- Dove (Jonah)",
+        "englishNatural": "**And it was bad** to Dove (Jonah)"
+      }
+    }
+  ]
+}

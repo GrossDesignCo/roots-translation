@@ -1,0 +1,33 @@
+{
+  "key": "samti",
+  "language": "hebrew",
+  "root": "sim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "שַׂמְתִּי",
+        "transliteration": "samti",
+        "englishLiteral": "placed",
+        "englishNatural": "I have placed",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַמֹּפְתִים אֲשֶׁר־ **שַׂמְתִּי** בְיָדֶךָ וַעֲשִׂיתָם",
+        "transliteration": "haMoftim asher- **samti** veYadekha vaAsitam",
+        "englishLiteral": "the-wonders which- **placed** in-hand-your and-make-them",
+        "englishNatural": "the wonders which **I have placed** in your hand and make them"
+      }
+    }
+  ]
+}

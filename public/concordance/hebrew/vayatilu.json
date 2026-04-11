@@ -1,0 +1,33 @@
+{
+  "key": "vayatilu",
+  "language": "hebrew",
+  "root": "tul",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיָּטִלוּ",
+        "transliteration": "vaYatilu",
+        "englishLiteral": "and-hurled",
+        "englishNatural": "and hurled",
+        "root": "tul",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ אֱלֹהָיו **וַיָּטִלוּ** אֶת־ הַכֵּלִים",
+        "transliteration": "el- elohav **vaYatilu** et- haKelim",
+        "englishLiteral": "to- gods-his **and-hurled** ↳ the-vessels",
+        "englishNatural": "to his god **and hurled** ↳ the vessels"
+      }
+    }
+  ]
+}

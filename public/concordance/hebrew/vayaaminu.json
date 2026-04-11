@@ -1,0 +1,33 @@
+{
+  "key": "vayaaminu",
+  "language": "hebrew",
+  "root": "aman",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּאֲמִינוּ",
+        "transliteration": "vaYaaminu",
+        "englishLiteral": "And-believed",
+        "englishNatural": "believed",
+        "root": "aman",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּאֲמִינוּ** אַנְשֵׁי נִינְוֵה",
+        "transliteration": "**vaYaaminu** anshei Nineveh",
+        "englishLiteral": "**And-believed** men-of Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "**believed** And the men of Dwelling-of-Fish (Nineveh)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "root": "shatah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "יִשְׁתּוּ",
+        "transliteration": "yishtu",
+        "englishLiteral": "they-will-drink",
+        "englishNatural": "they will drink",
+        "root": "shatah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּמַיִם אַל־ **יִשְׁתּוּ**",
+        "transliteration": "uMayim al- **yishtu**",
+        "englishLiteral": "and-waters not- **they-will-drink**",
+        "englishNatural": "and waters not **they will drink**"
+      }
+    }
+  ]
+}

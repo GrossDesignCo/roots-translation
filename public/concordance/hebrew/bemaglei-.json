@@ -1,0 +1,31 @@
+{
+  "key": "bemaglei-",
+  "language": "hebrew",
+  "root": "magal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בְּמַעְגְּלֵי־",
+        "transliteration": "beMaglei-",
+        "englishLiteral": "in-paths-of-",
+        "englishNatural": "in paths of",
+        "root": "magal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נַפְשִׁי יְשׁוֹבֵב **בְּמַעְגְּלֵי־** צֶדֶק יַנְחֵנִי",
+        "transliteration": "nafshi yeShobev **beMaglei-** tzedeq yancheni",
+        "englishLiteral": "my-throat he-returns **in-paths-of-** righteousness he-guides-me",
+        "englishNatural": "my throat he returns **in paths of** righteousness he guides me"
+      }
+    }
+  ]
+}

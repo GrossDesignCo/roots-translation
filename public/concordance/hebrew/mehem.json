@@ -1,0 +1,55 @@
+{
+  "key": "mehem",
+  "language": "hebrew",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "מֵהֶם",
+        "transliteration": "mehem",
+        "englishLiteral": "from-them",
+        "englishNatural": "from them",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ יִבָּצֵר **מֵהֶם** כֹּל אֲשֶׁר",
+        "transliteration": "lo- yibatser **mehem** kol asher",
+        "englishLiteral": "not- he-will-be-restrained **from-them** all which",
+        "englishNatural": "nothing will be restrained **from them** all which"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מֵהֶם",
+        "transliteration": "meHem",
+        "englishLiteral": "from-them",
+        "englishNatural": "from them",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ בִּקֵּשׁ **מֵהֶם** הַמֶּלֶךְ וַיִּמְצָאֵם",
+        "transliteration": "asher- biqQesh **meHem** haMelekh vaYimtzaem",
+        "englishLiteral": "which- he-sought **from-them** the-king and-he-found-them",
+        "englishNatural": "which sought **from them** the king and he found them"
+      }
+    }
+  ]
+}

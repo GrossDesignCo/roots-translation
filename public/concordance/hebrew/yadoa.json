@@ -1,0 +1,33 @@
+{
+  "key": "yadoa",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 13
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יָדֹעַ",
+        "transliteration": "yadoa",
+        "englishLiteral": "Knowing",
+        "englishNatural": "Knowing",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר לְאַבְרָם **יָדֹעַ** תֵּדַע כִּי־",
+        "transliteration": "vaYomer leAbram **yadoa** teda ki-",
+        "englishLiteral": "And-he-said to-Exalted_Father (Abram) **Knowing** you-will-know that-",
+        "englishNatural": "And he said to Exalted-Father (Abram) **Knowing** you will know that"
+      }
+    }
+  ]
+}

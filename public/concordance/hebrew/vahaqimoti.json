@@ -1,0 +1,59 @@
+{
+  "key": "vahaqimoti",
+  "language": "hebrew",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 18
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַהֲקִמֹתִי",
+        "transliteration": "vaHaqimoti",
+        "englishLiteral": "And-I-will-stand_up",
+        "englishNatural": "And I will stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַהֲקִמֹתִי** אֶת־ בְּרִיתִי",
+        "transliteration": "**vaHaqimoti** et- beriti",
+        "englishLiteral": "**And-I-will-stand_up** ↳ covenant-my",
+        "englishNatural": "**And I will stand-up** ↳ my covenant"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַהֲקִמֹתִי",
+        "transliteration": "vaHaqimoti",
+        "englishLiteral": "and-I-will-cause-to-stand_up",
+        "englishNatural": "and I will cause to stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַהֲקִמֹתִי** אֶת־ בְּרִיתִי",
+        "transliteration": "**vaHaqimoti** et- beriti",
+        "englishLiteral": "**and-I-will-cause-to-stand_up** ↳ my-covenant",
+        "englishNatural": "**and I will cause to stand-up** ↳ my covenant"
+      }
+    }
+  ]
+}

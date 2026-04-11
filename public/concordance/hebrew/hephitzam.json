@@ -1,0 +1,33 @@
+{
+  "key": "hephitzam",
+  "language": "hebrew",
+  "root": "puts",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 9
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הֱפִיצָם",
+        "transliteration": "hephitzam",
+        "englishLiteral": "he-scattered-them",
+        "englishNatural": "scattered them",
+        "root": "puts",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ וּמִשָּׁם **הֱפִיצָם** יְהוָה עַל־",
+        "transliteration": "haAretz umisham **hephitzam** YHWH al-",
+        "englishLiteral": "the-land and-from-there **he-scattered-them** He_Who_Is (YHWH) over-",
+        "englishNatural": "the land and from there **scattered them** He-Who-Is (YHWH) over"
+      }
+    }
+  ]
+}

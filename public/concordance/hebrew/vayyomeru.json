@@ -1,0 +1,59 @@
+{
+  "key": "vayyomeru",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֹּאמְרוּ",
+        "transliteration": "vayYomeru",
+        "englishLiteral": "And-they-said",
+        "englishNatural": "And they said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּאמְרוּ** אִישׁ אֶל־",
+        "transliteration": "**vayYomeru** ish el-",
+        "englishLiteral": "**And-they-said** man to-",
+        "englishNatural": "**And they said** man to"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֹּאמְרוּ",
+        "transliteration": "vayYomeru",
+        "englishLiteral": "And-they-said",
+        "englishNatural": "And they said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּאמְרוּ** הָבָה נִבְנֶה־",
+        "transliteration": "**vayYomeru** havah nivneh-",
+        "englishLiteral": "**And-they-said** come let-us-build-",
+        "englishNatural": "**And they said** Come let us build"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "atar",
+  "language": "aramaic",
+  "root": "atar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "אֲתַר",
+        "transliteration": "atar",
+        "englishLiteral": "place",
+        "englishNatural": "place",
+        "root": "atar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רוּחָא וְכָל **אֲתַר** לָא הִשְׁתֲּכַח",
+        "transliteration": "rucha veKhol **atar** la hishtakach",
+        "englishLiteral": "wind-the and-all **place** not was-found",
+        "englishNatural": "and the wind and any **place** was not found"
+      }
+    }
+  ]
+}

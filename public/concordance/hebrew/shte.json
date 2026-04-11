@@ -1,0 +1,31 @@
+{
+  "key": "shte",
+  "language": "hebrew",
+  "root": "shnayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 19
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שְׁתֵּי",
+        "transliteration": "shte",
+        "englishLiteral": "two",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "לוֹ לֶמֶךְ **שְׁתֵּי** נָשִׁים שֵׁם",
+        "transliteration": "lo Lemekh **shte** nashim shem",
+        "englishLiteral": "to-himself Powerful (Lamech) **two** women name",
+        "englishNatural": "to himself And Powerful (Lamech) **two** women the name"
+      }
+    }
+  ]
+}

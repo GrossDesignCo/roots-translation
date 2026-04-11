@@ -1,0 +1,31 @@
+{
+  "key": "chidekel",
+  "language": "hebrew",
+  "root": "chidekel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "חִדֶּקֶל",
+        "transliteration": "Chidekel",
+        "englishLiteral": "Rapid (Chidekel)",
+        "englishNatural": "Rapid (Chidekel)",
+        "root": "chidekel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַנָּהָר הַשְּׁלִישִׁי **חִדֶּקֶל** הוּא הַהֹלֵךְ",
+        "transliteration": "haNahar haShlishi **Chidekel** hu haHolekh",
+        "englishLiteral": "the-river the-third **Rapid (Chidekel)** he the-walking",
+        "englishNatural": "river the third **Rapid (Chidekel)** it walks"
+      }
+    }
+  ]
+}

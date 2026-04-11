@@ -1,0 +1,79 @@
+{
+  "key": "gam",
+  "language": "hebrew",
+  "root": "gam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "גַּם",
+        "transliteration": "gam",
+        "englishLiteral": "also",
+        "englishNatural": "also",
+        "root": "gam",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "יָדוֹ וְלָקַח **גַּם** מֵעֵץ הַחַיִּים",
+        "transliteration": "yado veLaqach **gam** meEtz haChayyim",
+        "englishLiteral": "hand-his and-take **also** from-tree the-lives",
+        "englishNatural": "his hand and take **also** from the Tree of Life"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "גַּ֣ם",
+        "transliteration": "gam",
+        "englishLiteral": "also",
+        "englishNatural": "also",
+        "root": "gam",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "בְּעֵינֵ֣י מִצְרָ֑יִם **גַּ֣ם** הָאִ֤ישׁ מֹשֶׁה֙",
+        "transliteration": "beEyney Mitzrayim **gam** haIsh Moshe",
+        "englishLiteral": "in-eyes-of Double_Narrows (Egypt) **also** the-man Drawn_Out (Moses)",
+        "englishNatural": "in the eyes of Double-Narrows (Egypt) **also** the man Drawn-Out (Moses)"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "גַּם",
+        "transliteration": "gam",
+        "englishLiteral": "Also",
+        "englishNatural": "Also",
+        "root": "gam",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**גַּם** כִּי־ אֵלֵךְ",
+        "transliteration": "**gam** ki- elekh",
+        "englishLiteral": "**Also** that- I-walk",
+        "englishNatural": "**Also** that I walk"
+      }
+    }
+  ]
+}

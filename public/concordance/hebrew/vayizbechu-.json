@@ -1,0 +1,33 @@
+{
+  "key": "vayizbechu-",
+  "language": "hebrew",
+  "root": "zavach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיִּזְבְּחוּ־",
+        "transliteration": "vaYizbechu-",
+        "englishLiteral": "and-sacrificed-",
+        "englishNatural": "and sacrificed",
+        "root": "zavach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ יְהוָה **וַיִּזְבְּחוּ־** זֶבַח לַיהוָה",
+        "transliteration": "et- YHWH **vaYizbechu-** zevach laYHWH",
+        "englishLiteral": "↳ He_Who_Is (YHWH) **and-sacrificed-** sacrifice to-He_Who_Is (YHWH)",
+        "englishNatural": "↳ He-Who-Is (YHWH) **and sacrificed** a sacrifice to He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

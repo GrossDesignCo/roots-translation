@@ -1,0 +1,31 @@
+{
+  "key": "hachovel",
+  "language": "hebrew",
+  "root": "chovel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הַחֹבֵל",
+        "transliteration": "haChovel",
+        "englishLiteral": "the-sailor",
+        "englishNatural": "sailor",
+        "root": "chovel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלָיו רַב **הַחֹבֵל** וַיֹּאמֶר לוֹ",
+        "transliteration": "elav rav **haChovel** vaYomer lo",
+        "englishLiteral": "to-him chief **the-sailor** and-said to-him",
+        "englishNatural": "to him And the chief **sailor** and said to him"
+      }
+    }
+  ]
+}

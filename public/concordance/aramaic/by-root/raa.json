@@ -1,0 +1,56 @@
+{
+  "root": "raa",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "מְרָעַע",
+        "transliteration": "meraa",
+        "englishLiteral": "breaking",
+        "englishNatural": "breaking",
+        "root": "raa",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּכְפַרְזְלָא דִּי **מְרָעַע** כֹּלָּא תַּדִּק",
+        "transliteration": "uKheParzela di **meraa** kolla taddiq",
+        "englishLiteral": "and-like-iron-the which **breaking** all it-will-crush",
+        "englishNatural": "and like the iron which **breaking** all it will crush"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וְתֵרֹעַ",
+        "transliteration": "veTeroa",
+        "englishLiteral": "and-will-break",
+        "englishNatural": "and will break",
+        "root": "raa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "כֹּלָּא תַּדִּק **וְתֵרֹעַ**",
+        "transliteration": "kolla taddiq **veTeroa**",
+        "englishLiteral": "all it-will-crush **and-will-break**",
+        "englishNatural": "all it will crush **and will break**"
+      }
+    }
+  ]
+}

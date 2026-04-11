@@ -1,0 +1,31 @@
+{
+  "key": "hagolah",
+  "language": "hebrew",
+  "root": "golah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הַגּוֹלָה",
+        "transliteration": "haGolah",
+        "englishLiteral": "the-exile",
+        "englishNatural": "the exile",
+        "root": "golah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲנִי בְתוֹךְ־ **הַגּוֹלָה** עַל־ נְהַר־",
+        "transliteration": "vaAni betokh- **haGolah** al- nehar-",
+        "englishLiteral": "and-I in-midst-of- **the-exile** upon- River-of-",
+        "englishNatural": "and I in the midst of **the exile** upon River of"
+      }
+    }
+  ]
+}

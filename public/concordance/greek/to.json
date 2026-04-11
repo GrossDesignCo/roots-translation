@@ -1,0 +1,55 @@
+{
+  "key": "to",
+  "language": "greek",
+  "root": "ho",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "τὸ",
+        "transliteration": "to",
+        "englishLiteral": "the",
+        "englishNatural": "the",
+        "root": "ho",
+        "morphology": {
+          "type": "article"
+        }
+      },
+      "context": {
+        "hebrew": "λέγει αὐτῷ **τὸ** τρίτον Σίμων",
+        "transliteration": "legei autō **to** triton Simōn",
+        "englishLiteral": "He-says to-him **the** third Hearer (Simon)",
+        "englishNatural": "He says to him **the** third time Hearer (Simon)"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "τὸ",
+        "transliteration": "to",
+        "englishLiteral": "the",
+        "englishNatural": "the",
+        "root": "ho",
+        "morphology": {
+          "type": "article"
+        }
+      },
+      "context": {
+        "hebrew": "εἶπεν αὐτῷ **τὸ** τρίτον φιλεῖς",
+        "transliteration": "eipen autō **to** triton phileis",
+        "englishLiteral": "he-said to-him **the** third Do-you-brother_love",
+        "englishNatural": "he said to him **the** third time Do you brother-love"
+      }
+    }
+  ]
+}

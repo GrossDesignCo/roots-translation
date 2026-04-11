@@ -1,0 +1,30 @@
+{
+  "root": "gezer",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 17
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הַגְּזָרִים",
+        "transliteration": "haGezarim",
+        "englishLiteral": "the-pieces",
+        "englishNatural": "pieces",
+        "root": "gezer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָבַר בֵּין **הַגְּזָרִים** הָאֵלֶּה",
+        "transliteration": "avar beyn **haGezarim** haEleh",
+        "englishLiteral": "he-passed between **the-pieces** the-these",
+        "englishNatural": "passed between **pieces** these"
+      }
+    }
+  ]
+}

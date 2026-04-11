@@ -1,0 +1,31 @@
+{
+  "key": "varemes",
+  "language": "hebrew",
+  "root": "ramas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 24
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וָרֶ֛מֶשׂ",
+        "transliteration": "vaRemes",
+        "englishLiteral": "and-crawler",
+        "englishNatural": "and crawler",
+        "root": "ramas",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִינָ֔הּ בְּהֵמָ֥ה **וָרֶ֛מֶשׂ** וְחַֽיְתוֹ־ אֶ֖רֶץ",
+        "transliteration": "leMinah behemah **vaRemes** veChayto- eretz",
+        "englishLiteral": "to-its-kind beast **and-crawler** and-living_being-of land",
+        "englishNatural": "to its kind beast **and crawler** and living-being of land"
+      }
+    }
+  ]
+}

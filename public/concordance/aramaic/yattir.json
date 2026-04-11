@@ -1,0 +1,31 @@
+{
+  "key": "yattir",
+  "language": "aramaic",
+  "root": "yattir",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "יַתִּיר",
+        "transliteration": "yattir",
+        "englishLiteral": "surpassing",
+        "englishNatural": "surpassing",
+        "root": "yattir",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "רַב וְזִיוֵהּ **יַתִּיר** קָאֵם לְקָבְלָךְ",
+        "transliteration": "rav veZiveh **yattir** qaem leQovlakh",
+        "englishLiteral": "great and-brightness-its **surpassing** standing_up before-you",
+        "englishNatural": "was great and its brightness **surpassing** standing-up before you"
+      }
+    }
+  ]
+}

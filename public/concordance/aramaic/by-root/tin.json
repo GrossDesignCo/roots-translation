@@ -1,0 +1,54 @@
+{
+  "root": "tin",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 25,
+      "word": {
+        "originalScript": "טִינָא",
+        "transliteration": "tina",
+        "englishLiteral": "mud-the",
+        "englishNatural": "the mud",
+        "root": "tin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מְעָרַב בַּחֲסַף **טִינָא**",
+        "transliteration": "mearav baChasaf **tina**",
+        "englishLiteral": "mixed in-clay **mud-the**",
+        "englishNatural": "mixed in clay **the mud**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "טִינָא",
+        "transliteration": "tina",
+        "englishLiteral": "mud-the",
+        "englishNatural": "the mud",
+        "root": "tin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מְעָרַב בַּחֲסַף **טִינָא** מִתְעָרְבִין לֶהֱוֺן",
+        "transliteration": "mearav baChasaf **tina** mitarvin lehevon",
+        "englishLiteral": "mixed in-clay **mud-the** mixing-themselves to-be-them",
+        "englishNatural": "mixed in clay **the mud** themselves mixing to be"
+      }
+    }
+  ]
+}

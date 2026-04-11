@@ -1,0 +1,33 @@
+{
+  "key": "vayshallachehu",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 23
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְשַׁלְּחֵהוּ",
+        "transliteration": "vayShallachehu",
+        "englishLiteral": "And-he-sent-him",
+        "englishNatural": "sent him out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְשַׁלְּחֵהוּ** יְהוָה אֱלֹהִים",
+        "transliteration": "**vayShallachehu** YHWH Elohim",
+        "englishLiteral": "**And-he-sent-him** He_Who_Is (YHWH) Gods",
+        "englishNatural": "**sent him out** And He-Who-Is (YHWH) God"
+      }
+    }
+  ]
+}

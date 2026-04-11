@@ -1,0 +1,31 @@
+{
+  "key": "hadag",
+  "language": "hebrew",
+  "root": "dag",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הַדָּג",
+        "transliteration": "haDag",
+        "englishLiteral": "the-fish",
+        "englishNatural": "the fish",
+        "root": "dag",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹנָה בִּמְעֵי **הַדָּג** שְׁלֹשָׁה יָמִים",
+        "transliteration": "Yonah bimei **haDag** shloshah yamim",
+        "englishLiteral": "Dove (Jonah) in-bowels-of **the-fish** three days",
+        "englishNatural": "And Dove (Jonah) in the bowels of **the fish** three days"
+      }
+    }
+  ]
+}

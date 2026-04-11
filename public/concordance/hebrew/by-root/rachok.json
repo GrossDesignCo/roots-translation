@@ -1,0 +1,30 @@
+{
+  "root": "rachok",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מֵרָחֹק",
+        "transliteration": "meRachok",
+        "englishLiteral": "from-distance",
+        "englishNatural": "from a distance",
+        "root": "rachok",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֵּתַצַּב אֲחֹתוֹ **מֵרָחֹק** לְדֵעָה מַה־",
+        "transliteration": "vaTetatzav achoto **meRachok** leDeah mah-",
+        "englishLiteral": "And-positioned-herself sister-his **from-distance** to-know what-",
+        "englishNatural": "positioned-herself And his sister **from a distance** to know what"
+      }
+    }
+  ]
+}

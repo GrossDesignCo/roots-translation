@@ -1,0 +1,54 @@
+{
+  "root": "tzadiq",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "צַדִּיקִים",
+        "transliteration": "tzadiqim",
+        "englishLiteral": "righteous-ones",
+        "englishNatural": "the righteous",
+        "root": "tzadiq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחַטָּאִים בַּעֲדַת **צַדִּיקִים**",
+        "transliteration": "veChataim baAdat **tzadiqim**",
+        "englishLiteral": "and-sinners in-assembly-of **righteous-ones**",
+        "englishNatural": "and sinners in the assembly of **the righteous**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "צַדִּיקִים",
+        "transliteration": "tzadiqim",
+        "englishLiteral": "righteous-ones",
+        "englishNatural": "the righteous",
+        "root": "tzadiq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה דֶּרֶךְ **צַדִּיקִים** וְדֶרֶךְ רְשָׁעִים",
+        "transliteration": "YHWH derekh **tzadiqim** veDerekh reshaim",
+        "englishLiteral": "He-Who-Is (YHWH) way-of **righteous-ones** and-way-of wicked-ones",
+        "englishNatural": "He-Who-Is (YHWH) the way of **the righteous** and the way of the wicked"
+      }
+    }
+  ]
+}

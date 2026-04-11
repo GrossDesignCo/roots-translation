@@ -1,0 +1,136 @@
+{
+  "root": "shavat",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַיִּשְׁבֹּת",
+        "transliteration": "vaYishbot",
+        "englishLiteral": "and-sabbathed",
+        "englishNatural": "and sabbathed",
+        "root": "shavat",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר עָשָׂה **וַיִּשְׁבֹּת** בַּיּוֹם הַשְּׁבִיעִי",
+        "transliteration": "asher asah **vaYishbot** baYom haShvi`i",
+        "englishLiteral": "which made **and-sabbathed** in-day the-seventh",
+        "englishNatural": "which he made **and sabbathed** day in the seventh"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "שָׁבַת",
+        "transliteration": "shavat",
+        "englishLiteral": "sabbathed",
+        "englishNatural": "he sabbathed",
+        "root": "shavat",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי בוֹ **שָׁבַת** מִכָּל־ מְלַאכְתּוֹ",
+        "transliteration": "ki bo **shavat** miKol- melakhto",
+        "englishLiteral": "that in-it **sabbathed** from-all his-work",
+        "englishNatural": "that in it **he sabbathed** from all his work"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "יִשְׁבֹּתוּ",
+        "transliteration": "yishbotu",
+        "englishLiteral": "they-will-sabbath",
+        "englishNatural": "they will sabbath",
+        "root": "shavat",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וָלַיְלָה לֹא **יִשְׁבֹּתוּ**",
+        "transliteration": "vaLaylah lo **yishbotu**",
+        "englishLiteral": "and-night not **they-will-sabbath**",
+        "englishNatural": "and night not **they will sabbath**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְהִשְׁבַּתֶּם",
+        "transliteration": "veHishbatem",
+        "englishLiteral": "and-will-cause_to_sabbath",
+        "englishNatural": "and you cause them to sabbath",
+        "root": "shavat",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "עַם הָאָרֶץ **וְהִשְׁבַּתֶּם** אֹתָם מִסִּבְלֹתָם",
+        "transliteration": "am haAretz **veHishbatem** otam miSivlotam",
+        "englishLiteral": "people-of the-land **and-will-cause_to_sabbath** ↳ from-burdens-their",
+        "englishNatural": "the people of the land **and you cause them to sabbath** ↳ from their burdens"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְהַשְׁבִּ֥ית",
+        "transliteration": "leHashbit",
+        "englishLiteral": "to-cause-to-sabbath",
+        "englishNatural": "to cause-to-sabbath",
+        "root": "shavat",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַ֥עַן צוֹרְרֶ֑יךָ **לְהַשְׁבִּ֥ית** אוֹיֵ֥ב וּמִתְנַקֵּֽם",
+        "transliteration": "leMaan tsorerekha **leHashbit** oyev uMitnaqem",
+        "englishLiteral": "to-sake-of your-adversarys **to-cause-to-sabbath** enemy and-self-avenger",
+        "englishNatural": "to the sake of your adversaries **to cause-to-sabbath** enemy and self-avenger"
+      }
+    }
+  ]
+}

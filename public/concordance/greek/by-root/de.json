@@ -1,0 +1,30 @@
+{
+  "root": "de",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "δὲ",
+        "transliteration": "de",
+        "englishLiteral": "but",
+        "englishNatural": "but",
+        "root": "de",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "ἤθελες ὅταν **δὲ** γηράσῃς ἐκτενεῖς",
+        "transliteration": "ētheles hotan **de** gērasēs ekteneis",
+        "englishLiteral": "you-wanted when **but** you-grow_old you-will-stretch_out",
+        "englishNatural": "you wanted when **but** you grow old you will stretch out"
+      }
+    }
+  ]
+}

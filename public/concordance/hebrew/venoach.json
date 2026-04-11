@@ -1,0 +1,79 @@
+{
+  "key": "venoach",
+  "language": "hebrew",
+  "root": "noach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 32
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְנֹחַ",
+        "transliteration": "veNoach",
+        "englishLiteral": "And-Rest (Noah)",
+        "englishNatural": "And Rest (Noah)",
+        "root": "nuach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְנֹחַ** בֶּן־ חֲמֵשׁ",
+        "transliteration": "**veNoach** ben- chamesh",
+        "englishLiteral": "**And-Rest (Noah)** son-of five",
+        "englishNatural": "**And Rest (Noah)** a son of five"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְנֹחַ",
+        "transliteration": "veNoach",
+        "englishLiteral": "And-Rest (Noah)",
+        "englishNatural": "And Rest (Noah)",
+        "root": "noach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְנֹחַ** מָצָא חֵן",
+        "transliteration": "**veNoach** matsa chen",
+        "englishLiteral": "**And-Rest (Noah)** found grace",
+        "englishNatural": "**And Rest (Noah)** found grace"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְנֹחַ",
+        "transliteration": "veNoach",
+        "englishLiteral": "And-Rest (Noah)",
+        "englishNatural": "And Rest (Noah)",
+        "root": "noach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְנֹחַ** בֶּן־ שֵׁשׁ",
+        "transliteration": "**veNoach** ben- shesh",
+        "englishLiteral": "**And-Rest (Noah)** son-of- six",
+        "englishNatural": "**And Rest (Noah)** a son of six"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "yetzeu",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "יֵצְאוּ",
+        "transliteration": "yetzeu",
+        "englishLiteral": "they-will-come-out",
+        "englishNatural": "they will come out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַחֲרֵי־ כֵן **יֵצְאוּ** בִּרְכֻשׁ גָּדוֹל",
+        "transliteration": "veAcharey- khen **yetzeu** birkhush gadol",
+        "englishLiteral": "and-after- so **they-will-come-out** with-substance great",
+        "englishNatural": "and after so **they will come out** substance with great"
+      }
+    }
+  ]
+}

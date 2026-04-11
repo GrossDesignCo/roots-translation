@@ -1,0 +1,33 @@
+{
+  "key": "yirashkha",
+  "language": "hebrew",
+  "root": "yarash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יִירָשְׁךָ",
+        "transliteration": "yirashkha",
+        "englishLiteral": "he-will-inherit-you",
+        "englishNatural": "will inherit you",
+        "root": "yarash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֵאמֹר לֹא **יִירָשְׁךָ** זֶה כִּי־אִם",
+        "transliteration": "lemor lo **yirashkha** zeh ki-im",
+        "englishLiteral": "to-say Not **he-will-inherit-you** this but",
+        "englishNatural": "saying Not **will inherit you** this but"
+      }
+    }
+  ]
+}

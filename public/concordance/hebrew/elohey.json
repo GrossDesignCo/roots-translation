@@ -1,0 +1,79 @@
+{
+  "key": "elohey",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "אֱלֹהֵי",
+        "transliteration": "Elohey",
+        "englishLiteral": "Gods-of",
+        "englishNatural": "God of",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׂרָאֵל יְהוָה **אֱלֹהֵי** אֲבֹתֵיכֶם אֱלֹהֵי",
+        "transliteration": "Yisrael YHWH **Elohey** avoteikem Elohey",
+        "englishLiteral": "Struggles_with_God (Israel) He_Who_Is (YHWH) **Gods-of** your-fathers Gods-of",
+        "englishNatural": "Struggles-with-God (Israel) He-Who-Is (YHWH) **God of** your fathers the God of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אֱלֹהֵי",
+        "transliteration": "Elohey",
+        "englishLiteral": "Gods-of",
+        "englishNatural": "the God of",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֵי אֲבֹתֵיכֶם **אֱלֹהֵי** אַבְרָהָם אֱלֹהֵי",
+        "transliteration": "Elohey avoteikem **Elohey** Avraham Elohey",
+        "englishLiteral": "Gods-of your-fathers **Gods-of** Father_of_Multitudes (Abraham) Gods-of",
+        "englishNatural": "God of your fathers **the God of** Father-of-Multitudes (Abraham) the God of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "אֱלֹהֵי",
+        "transliteration": "Elohey",
+        "englishLiteral": "Gods-of",
+        "englishNatural": "the God of",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֵי אַבְרָהָם **אֱלֹהֵי** יִצְחָק וֵאלֹהֵי",
+        "transliteration": "Elohey Avraham **Elohey** Yitzchaq veElohey",
+        "englishLiteral": "Gods-of Father_of_Multitudes (Abraham) **Gods-of** He_Laughs (Isaac) and-Gods-of",
+        "englishNatural": "the God of Father-of-Multitudes (Abraham) **the God of** He-Laughs (Isaac) and the God of"
+      }
+    }
+  ]
+}

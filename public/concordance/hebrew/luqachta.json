@@ -1,0 +1,33 @@
+{
+  "key": "luqachta",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "לֻקָּחְתָּ",
+        "transliteration": "luqachta",
+        "englishLiteral": "you-were-taken",
+        "englishNatural": "you were taken",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי מִמֶּנָּה **לֻקָּחְתָּ** כִּי־ עָפָר",
+        "transliteration": "ki mimenah **luqachta** ki- afar",
+        "englishLiteral": "that from-her **you-were-taken** that dust",
+        "englishNatural": "that from it **you were taken** that dust are"
+      }
+    }
+  ]
+}

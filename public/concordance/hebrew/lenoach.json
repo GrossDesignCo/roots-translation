@@ -1,0 +1,31 @@
+{
+  "key": "lenoach",
+  "language": "hebrew",
+  "root": "noach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לְנֹחַ",
+        "transliteration": "leNoach",
+        "englishLiteral": "to-Rest (Noah)",
+        "englishNatural": "to Rest (Noah)",
+        "root": "noach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר אֱלֹהִים **לְנֹחַ** קֵץ כָּל־",
+        "transliteration": "vayYomer Elohim **leNoach** qetz kol-",
+        "englishLiteral": "And-he-said Gods **to-Rest (Noah)** end-of all-",
+        "englishNatural": "said And God **to Rest (Noah)** The end of all"
+      }
+    }
+  ]
+}

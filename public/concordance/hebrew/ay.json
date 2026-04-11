@@ -1,0 +1,31 @@
+{
+  "key": "ay",
+  "language": "hebrew",
+  "root": "ay",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֵי",
+        "transliteration": "ay",
+        "englishLiteral": "Where",
+        "englishNatural": "Where",
+        "root": "ay",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ קַיִן **אֵי** הֶבֶל אָחִיךָ",
+        "transliteration": "el- Qayin **ay** Hevel achikha",
+        "englishLiteral": "to Acquired (Cain) **Where** Vapor (Abel) your-brother",
+        "englishNatural": "to Acquired (Cain) **Where** Vapor (Abel) your brother"
+      }
+    }
+  ]
+}

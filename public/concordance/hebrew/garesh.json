@@ -1,0 +1,33 @@
+{
+  "key": "garesh",
+  "language": "hebrew",
+  "root": "garash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "גָּרֵ֛שׁ",
+        "transliteration": "garesh",
+        "englishLiteral": "banishing",
+        "englishNatural": "banishing",
+        "root": "garash",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כְּשַׁלְּח֣וֹ כָּלָ֔ה **גָּרֵ֛שׁ** יְגָרֵ֥שׁ אֶתְכֶ֖ם",
+        "transliteration": "keShalcho kalah **garesh** yegaresh etkhem",
+        "englishLiteral": "as-sending_out-him finishing **banishing** he-will-banish ↳-you",
+        "englishNatural": "as his sending-out finishing **banishing** he will banish you"
+      }
+    }
+  ]
+}

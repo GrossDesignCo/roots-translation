@@ -1,0 +1,306 @@
+{
+  "root": "lego",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "εἶπεν",
+        "transliteration": "eipen",
+        "englishLiteral": "said",
+        "englishNatural": "said",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "aorist"
+        }
+      },
+      "context": {
+        "hebrew": "**εἶπεν** αὐτοῖς Ἰησοῦς",
+        "transliteration": "**eipen** autois Iēsous",
+        "englishLiteral": "**said** to-them Salvation (Jesus)",
+        "englishNatural": "**said** to them Salvation (Jesus)"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "λέγω",
+        "transliteration": "legō",
+        "englishLiteral": "I-say",
+        "englishNatural": "I say",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "ἀμὴν ἀμὴν **λέγω** ὑμῖν πρὶν",
+        "transliteration": "amēn amēn **legō** hymin prin",
+        "englishLiteral": "Amen amen **I-say** to-you before",
+        "englishNatural": "Amen amen **I say** to you Before"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "λέγει",
+        "transliteration": "legei",
+        "englishLiteral": "he-says",
+        "englishNatural": "says",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "οὖν ἠρίστησαν **λέγει** τῷ Σίμωνι",
+        "transliteration": "oun ēristēsan **legei** tō Simōni",
+        "englishLiteral": "therefore they-meal_shared **he-says** to-the Hearer (Simon)",
+        "englishNatural": "therefore they had meal-shared **says** to the Hearer (Simon)"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "λέγει",
+        "transliteration": "legei",
+        "englishLiteral": "He-says",
+        "englishNatural": "He says",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "πλέον τούτων **λέγει** αὐτῷ ναί",
+        "transliteration": "pleon toutōn **legei** autō nai",
+        "englishLiteral": "more these **He-says** to-him Yes",
+        "englishNatural": "more than these **He says** to him Yes"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 24,
+      "word": {
+        "originalScript": "λέγει",
+        "transliteration": "legei",
+        "englishLiteral": "He-says",
+        "englishNatural": "He says",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "φιλῶ σε **λέγει** αὐτῷ βόσκε",
+        "transliteration": "philō se **legei** autō boske",
+        "englishLiteral": "I-brother_love you **He-says** to-him Feed",
+        "englishNatural": "I brother-love you **He says** to him Feed"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "λέγει",
+        "transliteration": "legei",
+        "englishLiteral": "He-says",
+        "englishNatural": "He says",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "**λέγει** αὐτῷ πάλιν",
+        "transliteration": "**legei** autō palin",
+        "englishLiteral": "**He-says** to-him again",
+        "englishNatural": "**He says** to him again"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "λέγει",
+        "transliteration": "legei",
+        "englishLiteral": "He-says",
+        "englishNatural": "He says",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "ἀγαπᾷς με **λέγει** αὐτῷ ναί",
+        "transliteration": "agapas me **legei** autō nai",
+        "englishLiteral": "do-you-god_love me **He-says** to-him Yes",
+        "englishNatural": "do you god-love me **He says** to him Yes"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "λέγει",
+        "transliteration": "legei",
+        "englishLiteral": "He-says",
+        "englishNatural": "He says",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "φιλῶ σε **λέγει** αὐτῷ ποίμαινε",
+        "transliteration": "philō se **legei** autō poimaine",
+        "englishLiteral": "I-brother_love you **He-says** to-him Shepherd",
+        "englishNatural": "I brother-love you **He says** to him Shepherd"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "λέγει",
+        "transliteration": "legei",
+        "englishLiteral": "He-says",
+        "englishNatural": "He says",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "**λέγει** αὐτῷ τὸ",
+        "transliteration": "**legei** autō to",
+        "englishLiteral": "**He-says** to-him the",
+        "englishNatural": "**He says** to him the"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "λέγει",
+        "transliteration": "legei",
+        "englishLiteral": "he-says",
+        "englishNatural": "he says",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "με καὶ **λέγει** αὐτῷ κύριε",
+        "transliteration": "me kai **legei** autō kurie",
+        "englishLiteral": "me And **he-says** to-him lord",
+        "englishNatural": "me And **he says** to him Lord"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 30,
+      "word": {
+        "originalScript": "λέγει",
+        "transliteration": "legei",
+        "englishLiteral": "He-says",
+        "englishNatural": "He says",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "φιλῶ σε **λέγει** αὐτῷ βόσκε",
+        "transliteration": "philō se **legei** autō boske",
+        "englishLiteral": "I-brother_love you **He-says** to-him Feed",
+        "englishNatural": "I brother-love you **He says** to him Feed"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "λέγω",
+        "transliteration": "legō",
+        "englishLiteral": "I-say",
+        "englishNatural": "I say",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "ἀμὴν ἀμὴν **λέγω** σοι ὅτε",
+        "transliteration": "amēn amēn **legō** soi hote",
+        "englishLiteral": "Truly truly **I-say** to-you when",
+        "englishNatural": "Truly truly **I say** to you when"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "shemaya",
+  "language": "aramaic",
+  "root": "shamayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "שְׁמַיָּא",
+        "transliteration": "shemaya",
+        "englishLiteral": "skies-the",
+        "englishNatural": "of the skies",
+        "root": "shemay",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְקִים אֱלָהּ **שְׁמַיָּא** מַלְכוּ דִּי",
+        "transliteration": "yeqim elah **shemaya** malkhu di",
+        "englishLiteral": "he-will-raise_up God-the **skies-the** kingdom which",
+        "englishNatural": "will raise-up the God **of the skies** a kingdom which"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "שְׁמַיָּ֔א",
+        "transliteration": "shemaya",
+        "englishLiteral": "the-skies",
+        "englishNatural": "the skies",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְבַּע֙ רוּחֵ֣י **שְׁמַיָּ֔א** מְגִיחָ֖ן לְיַמָּ֥א",
+        "transliteration": "arba ruchei **shemaya** meGichan leYamma",
+        "englishLiteral": "four winds-of **the-skies** stirring_up to-the-sea",
+        "englishNatural": "the four winds of **the skies** were stirring-up sea"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "שְׁמַיָּ֔א",
+        "transliteration": "shemaya",
+        "englishLiteral": "skies-the",
+        "englishNatural": "the skies",
+        "root": "shemay",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עִם־ עֲנָנֵ֣י **שְׁמַיָּ֔א** כְּבַ֥ר אֱנָ֖שׁ",
+        "transliteration": "im- ananei **shemaya** keVar enash",
+        "englishLiteral": "with- clouds-of **skies-the** as-son-of Mortal_Man (Enash)",
+        "englishNatural": "with the clouds of **the skies** as a son of Mortal-Man (Enash)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "rashim",
+  "language": "hebrew",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "רָאשִׁים׃",
+        "transliteration": "rashim",
+        "englishLiteral": "heads",
+        "englishNatural": "heads",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיָה לְאַרְבָּעָה **רָאשִׁים׃**",
+        "transliteration": "veHayah leArbaah **rashim**",
+        "englishLiteral": "and-was to-four **heads**",
+        "englishNatural": "and became into four **heads**"
+      }
+    }
+  ]
+}

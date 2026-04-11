@@ -1,0 +1,30 @@
+{
+  "root": "madua",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מַדּוּעַ",
+        "transliteration": "madua",
+        "englishLiteral": "why",
+        "englishNatural": "why",
+        "root": "madua",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הַגָּדֹל הַזֶּה **מַדּוּעַ** לֹא־ יִבְעַר",
+        "transliteration": "haGadol haZeh **madua** lo- yivar",
+        "englishLiteral": "the-great the-this **why** not- burns",
+        "englishNatural": "great this **why** not burns"
+      }
+    }
+  ]
+}

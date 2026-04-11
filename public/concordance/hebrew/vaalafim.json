@@ -1,0 +1,31 @@
+{
+  "key": "vaalafim",
+  "language": "hebrew",
+  "root": "elef_ox",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "וַאֲלָפִ֣ים",
+        "transliteration": "vaAlafim",
+        "englishLiteral": "and-oxen",
+        "englishNatural": "and oxen",
+        "root": "elef_ox",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צֹנֶ֣ה **וַאֲלָפִ֣ים** כֻּלָּ֑ם וְגַ֥ם",
+        "transliteration": "tsoneh **vaAlafim** kulam veGam",
+        "englishLiteral": "flock **and-oxen** all-of-them and-also",
+        "englishNatural": "Flock **and oxen** all of them and also"
+      }
+    }
+  ]
+}

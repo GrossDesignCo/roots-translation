@@ -1,0 +1,54 @@
+{
+  "root": "shemen",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בַשֶּׁמֶן",
+        "transliteration": "baShemen",
+        "englishLiteral": "with-oil",
+        "englishNatural": "with oil",
+        "root": "shemen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צֹרְרָי דִּשַּׁנְתָּ **בַשֶּׁמֶן** רֹאשִׁי כּוֹסִי",
+        "transliteration": "tzorerai dishanta **baShemen** roshi kosi",
+        "englishLiteral": "my-enemies you-anoint **with-oil** my-head my-cup",
+        "englishNatural": "my enemies you anoint **with oil** my head my cup"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מִשֶּׁמֶן",
+        "transliteration": "miShemen",
+        "englishLiteral": "than-oil",
+        "englishNatural": "oil",
+        "root": "shemen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "טוֹב שֵׁם **מִשֶּׁמֶן** טוֹב וְיוֹם",
+        "transliteration": "tov shem **miShemen** tov veYom",
+        "englishLiteral": "Good name **than-oil** good and-day",
+        "englishNatural": "A good name **oil** than good and the day"
+      }
+    }
+  ]
+}

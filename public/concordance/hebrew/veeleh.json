@@ -1,0 +1,31 @@
+{
+  "key": "veeleh",
+  "language": "hebrew",
+  "root": "eleh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאֵלֶּה",
+        "transliteration": "veEleh",
+        "englishLiteral": "And-these",
+        "englishNatural": "And these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֵלֶּה** תּוֹלְדֹת בְּנֵי־",
+        "transliteration": "**veEleh** toledot beney-",
+        "englishLiteral": "**And-these** birthings-of sons-of-",
+        "englishNatural": "**And these** are the birthings of the sons of"
+      }
+    }
+  ]
+}

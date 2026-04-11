@@ -1,0 +1,79 @@
+{
+  "key": "reshit",
+  "language": "hebrew",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "רֵאשִׁית",
+        "transliteration": "reshit",
+        "englishLiteral": "heading-of",
+        "englishNatural": "and the heading of",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתְּהִי **רֵאשִׁית** מַמְלַכְתּוֹ בָּבֶל",
+        "transliteration": "vatehi **reshit** mamlakhto Babel",
+        "englishLiteral": "And-was **heading-of** his-kingdom Confusion (Babylon)",
+        "englishNatural": "was **and the heading of** his kingdom Confusion (Babylon)"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רֵאשִׁית",
+        "transliteration": "reshit",
+        "englishLiteral": "heading-of",
+        "englishNatural": "heading of",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִרְאַת יְהוָה **רֵאשִׁית** דָּעַת חָכְמָה",
+        "transliteration": "yirat YHWH **reshit** daat chokmah",
+        "englishLiteral": "Fear-of He_Who_Is (YHWH) **heading-of** knowledge Wisdom",
+        "englishNatural": "Fear of He-Who-Is (YHWH) **heading of** knowledge Wisdom"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רֵאשִׁית",
+        "transliteration": "reshit",
+        "englishLiteral": "heading-of",
+        "englishNatural": "the heading of",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה קָנָנִי **רֵאשִׁית** דַּרְכּוֹ קֶדֶם",
+        "transliteration": "YHWH qanani **reshit** darko qedem",
+        "englishLiteral": "He_Who_Is (YHWH) acquired-me **heading-of** way-his before",
+        "englishNatural": "He-Who-Is (YHWH) acquired me **the heading of** his way before"
+      }
+    }
+  ]
+}

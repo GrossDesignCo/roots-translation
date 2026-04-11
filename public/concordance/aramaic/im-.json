@@ -1,0 +1,103 @@
+{
+  "key": "im-",
+  "language": "aramaic",
+  "root": "im_with",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "עִם־",
+        "transliteration": "im-",
+        "englishLiteral": "with-",
+        "englishNatural": "with",
+        "root": "im",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "דָּבְקִין דְּנָה **עִם־** דְּנָה הֵן",
+        "transliteration": "davqin denah **im-** denah hen",
+        "englishLiteral": "adhering this **with-** this Behold",
+        "englishNatural": "adhering this **with** this Behold"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "עִם־",
+        "transliteration": "im-",
+        "englishLiteral": "with-",
+        "englishNatural": "with",
+        "root": "im",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לָא מִתְעָרַב **עִם־** חַסְפָּא",
+        "transliteration": "la mitarav **im-** chaspa",
+        "englishLiteral": "not mix-itself **with-** clay-the",
+        "englishNatural": "not mixes itself **with** the clay"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "עִם־",
+        "transliteration": "im-",
+        "englishLiteral": "with-",
+        "englishNatural": "with",
+        "root": "im_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הֲוֵ֛ית בְּחֶזְוִ֖י **עִם־** לֵֽילְיָ֑א וַאֲר֗וּ",
+        "transliteration": "haveit beKhezvi **im-** leila vaAru",
+        "englishLiteral": "I-was in-vision-my **with-** night and-behold",
+        "englishNatural": "I was in my vision **with** night and behold"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עִם־",
+        "transliteration": "im-",
+        "englishLiteral": "with-",
+        "englishNatural": "with",
+        "root": "im_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לֵֽילְיָ֔א וַאֲר֗וּ **עִם־** עֲנָנֵ֣י שְׁמַיָּ֔א",
+        "transliteration": "leila vaAru **im-** ananei shemaya",
+        "englishLiteral": "night-the and-behold **with-** clouds-of skies-the",
+        "englishNatural": "the night and behold **with** the clouds of the skies"
+      }
+    }
+  ]
+}

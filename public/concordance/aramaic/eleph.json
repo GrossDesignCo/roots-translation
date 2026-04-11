@@ -1,0 +1,31 @@
+{
+  "key": "eleph",
+  "language": "aramaic",
+  "root": "elef",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אֶ֤לֶף",
+        "transliteration": "eleph",
+        "englishLiteral": "thousand",
+        "englishNatural": "a thousand",
+        "root": "elef",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ קֳדָמ֔וֹהִי **אֶ֤לֶף** אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ",
+        "transliteration": "min- qodamohi **eleph** alphin yeShammeshunneh",
+        "englishLiteral": "from- before-him **thousand** thousands ministered-to-him",
+        "englishNatural": "from before him **a thousand** thousands ministered to him"
+      }
+    }
+  ]
+}

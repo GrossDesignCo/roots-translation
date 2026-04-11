@@ -1,0 +1,31 @@
+{
+  "key": "reviayah",
+  "language": "aramaic",
+  "root": "revai",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "רְבִיעָיָה",
+        "transliteration": "reviayah",
+        "englishLiteral": "fourth",
+        "englishNatural": "And a fourth",
+        "root": "revai",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וּמַלְכוּ **רְבִיעָיָה** תֶּהֱוֵא תַּקִּיפָה",
+        "transliteration": "uMalkhu **reviayah** teheve taqqipha",
+        "englishLiteral": "and-kingdom **fourth** will-be strong-the",
+        "englishNatural": "kingdom **And a fourth** will be the strong"
+      }
+    }
+  ]
+}

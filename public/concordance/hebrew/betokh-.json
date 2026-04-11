@@ -1,0 +1,31 @@
+{
+  "key": "betokh-",
+  "language": "hebrew",
+  "root": "tokh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בְתוֹךְ־",
+        "transliteration": "betokh-",
+        "englishLiteral": "in-midst-of-",
+        "englishNatural": "in the midst of",
+        "root": "tokh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַחֹדֶשׁ וַאֲנִי **בְתוֹךְ־** הַגּוֹלָה עַל־",
+        "transliteration": "laChodes vaAni **betokh-** haGolah al-",
+        "englishLiteral": "to-the-month and-I **in-midst-of-** the-exile upon-",
+        "englishNatural": "to the month and I **in the midst of** the exile upon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "beito",
+  "language": "hebrew",
+  "root": "et_time",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בְּעִתּוֹ",
+        "transliteration": "beIto",
+        "englishLiteral": "in-its-season",
+        "englishNatural": "in its season",
+        "root": "et_time",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פִּרְיוֹ יִתֵּן **בְּעִתּוֹ** וְעָלֵהוּ לֹא",
+        "transliteration": "piryo yiten **beIto** veAlehu lo",
+        "englishLiteral": "its-fruit it-gives **in-its-season** and-its-leaf not",
+        "englishNatural": "its fruit gives **in its season** and its leaf not"
+      }
+    }
+  ]
+}

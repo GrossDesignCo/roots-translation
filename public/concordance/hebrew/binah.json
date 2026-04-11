@@ -1,0 +1,55 @@
+{
+  "key": "binah",
+  "language": "hebrew",
+  "root": "binah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בִינָה",
+        "transliteration": "binah",
+        "englishLiteral": "understanding",
+        "englishNatural": "understanding",
+        "root": "binah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְהָבִין אִמְרֵי **בִינָה**",
+        "transliteration": "lehavin imre **binah**",
+        "englishLiteral": "To-understand words-of **understanding**",
+        "englishNatural": "To understand words of **understanding**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בִּינָה",
+        "transliteration": "binah",
+        "englishLiteral": "understanding",
+        "englishNatural": "understanding",
+        "root": "binah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דְּבַר חָכְמַת **בִּינָה** אֲשֶׁר־ בִּקֵּשׁ",
+        "transliteration": "devar chokhmat **binah** asher- biqQesh",
+        "englishLiteral": "matter-of wisdom-of **understanding** which- he-sought",
+        "englishNatural": "the matters of the wisdom of **understanding** which sought"
+      }
+    }
+  ]
+}

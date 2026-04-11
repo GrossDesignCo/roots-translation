@@ -1,0 +1,31 @@
+{
+  "key": "shevet",
+  "language": "hebrew",
+  "root": "shevet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "שֵׁבֶט",
+        "transliteration": "shevet",
+        "englishLiteral": "rod",
+        "englishNatural": "the rod",
+        "root": "shevet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי נִשְׁבַּר **שֵׁבֶט** מַכֵּךְ כִּי",
+        "transliteration": "ki nishbar **shevet** makekh ki",
+        "englishLiteral": "that is-broken **rod** of-him-who-strikes_down-you that",
+        "englishNatural": "that is broken **the rod** of him who strikes-down you that"
+      }
+    }
+  ]
+}

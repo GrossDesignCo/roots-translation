@@ -1,0 +1,55 @@
+{
+  "key": "haesh",
+  "language": "hebrew",
+  "root": "esh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "הָאֵשׁ",
+        "transliteration": "haEsh",
+        "englishLiteral": "the-fire",
+        "englishNatural": "the fire",
+        "root": "esh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַחַשְׁמַל מִתּוֹךְ **הָאֵשׁ**",
+        "transliteration": "haChashmal mitokh **haEsh**",
+        "englishLiteral": "the-glowing_metal from-midst-of **the-fire**",
+        "englishNatural": "the glowing-metal from the midst of **the fire**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "הָאֵשׁ",
+        "transliteration": "haEsh",
+        "englishLiteral": "the-fire",
+        "englishNatural": "the fire",
+        "root": "esh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָאֵשׁ וּמִן־ **הָאֵשׁ** יוֹצֵא בָרָק",
+        "transliteration": "laEsh uMin- **haEsh** yotze baraq",
+        "englishLiteral": "to-the-fire and-from- **the-fire** brought_out lightning",
+        "englishNatural": "to the fire and from **the fire** brought-out lightning"
+      }
+    }
+  ]
+}

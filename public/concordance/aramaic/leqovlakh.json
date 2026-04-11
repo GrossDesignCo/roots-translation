@@ -1,0 +1,31 @@
+{
+  "key": "leqovlakh",
+  "language": "aramaic",
+  "root": "qevel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "לְקָבְלָךְ",
+        "transliteration": "leQovlakh",
+        "englishLiteral": "before-you",
+        "englishNatural": "before you",
+        "root": "qevel",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יַתִּיר קָאֵם **לְקָבְלָךְ** וְרֵוֵהּ דְּחִיל",
+        "transliteration": "yattir qaem **leQovlakh** veReveh dechil",
+        "englishLiteral": "surpassing standing_up **before-you** and-appearance-its fearsome",
+        "englishNatural": "surpassing standing-up **before you** and its appearance fearsome"
+      }
+    }
+  ]
+}

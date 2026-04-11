@@ -1,0 +1,31 @@
+{
+  "key": "netivot",
+  "language": "hebrew",
+  "root": "netivah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נְתִיבוֹת",
+        "transliteration": "netivot",
+        "englishLiteral": "paths",
+        "englishNatural": "paths",
+        "root": "netivah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דָרֶךְ בֵּין **נְתִיבוֹת** נִצָּבָה",
+        "transliteration": "derekh bein **netivot** nitzavah",
+        "englishLiteral": "way between **paths** she-has-stationed_herself",
+        "englishNatural": "a way between **paths** she has stationed-herself"
+      }
+    }
+  ]
+}

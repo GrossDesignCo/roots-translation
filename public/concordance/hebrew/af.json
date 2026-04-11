@@ -1,0 +1,52 @@
+{
+  "key": "af",
+  "language": "hebrew",
+  "root": "af",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אַף",
+        "transliteration": "af",
+        "englishLiteral": "Is_it_so",
+        "englishNatural": "Is-it-so",
+        "root": "af"
+      },
+      "context": {
+        "hebrew": "אֶל הָאִשָּׁה **אַף** כִּי אָמַר",
+        "transliteration": "el haIshah **af** ki amar",
+        "englishLiteral": "to the-woman **Is_it_so** that said",
+        "englishNatural": "to the woman **Is-it-so** that said"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "אָֽף׃",
+        "transliteration": "af",
+        "englishLiteral": "nose",
+        "englishNatural": "nose",
+        "root": "aph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹ֖ה בָּחֳרִי־ **אָֽף׃**",
+        "transliteration": "Paroh boChori- **af**",
+        "englishLiteral": "Pharaoh in-burning- **nose**",
+        "englishNatural": "Pharaoh in burning **nose**"
+      }
+    }
+  ]
+}

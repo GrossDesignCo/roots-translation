@@ -1,0 +1,103 @@
+{
+  "key": "or",
+  "language": "hebrew",
+  "root": "or_skin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "א֑וֹר",
+        "transliteration": "or",
+        "englishLiteral": "light",
+        "englishNatural": "Let light",
+        "root": "or",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֖ים יְהִ֣י **א֑וֹר** וַֽיְהִי אֽוֹר",
+        "transliteration": "Elohim yehi **or** vaYehi or",
+        "englishLiteral": "Gods Let-be **light** And-was light",
+        "englishNatural": "And God be **Let light** was And light"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֽוֹר",
+        "transliteration": "or",
+        "englishLiteral": "light",
+        "englishNatural": "And light",
+        "root": "or",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "א֑וֹר וַֽיְהִי **אֽוֹר**",
+        "transliteration": "or vaYehi **or**",
+        "englishLiteral": "light And-was **light**",
+        "englishNatural": "Let light was **And light**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 21
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "עוֹר",
+        "transliteration": "or",
+        "englishLiteral": "skin",
+        "englishNatural": "of skin",
+        "root": "or_skin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְאִשְׁתּוֹ כָּתְנוֹת **עוֹר** וַיַּלְבִּשֵׁם׃",
+        "transliteration": "uleIshto kotnot **or** vayYaLbishem",
+        "englishLiteral": "and-to-woman-his tunics **skin** and-he-clothed-them",
+        "englishNatural": "and to his woman tunics **of skin** and clothed them"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "אוֹר",
+        "transliteration": "or",
+        "englishLiteral": "light",
+        "englishNatural": "light",
+        "root": "or",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׂרָאֵל הָיָה **אוֹר** בְּמוֹשְׁבֹתָם",
+        "transliteration": "Yisrael hayah **or** beMoshvotam",
+        "englishLiteral": "Struggles_with_God (Israel) it-was **light** in-seats-their",
+        "englishNatural": "Struggles-with-God (Israel) it had been **light** in their seats"
+      }
+    }
+  ]
+}

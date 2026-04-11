@@ -1,0 +1,30 @@
+{
+  "root": "minchah",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 46
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וּמִנְחָה",
+        "transliteration": "uMinchah",
+        "englishLiteral": "and-offering",
+        "englishNatural": "and an offering",
+        "root": "minchah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְדָנִיֵּאל סְגִד **וּמִנְחָה** וְנִיחוֹחִין אֲמַר",
+        "transliteration": "uleDaniel segid **uMinchah** veNichochin amar",
+        "englishLiteral": "and-to-My_Judge_God (Daniel) he-prostrated **and-offering** and-soothing_aromas he-said",
+        "englishNatural": "and to My-Judge-God (Daniel) he prostrated **and an offering** and soothing-aromas he had said"
+      }
+    }
+  ]
+}

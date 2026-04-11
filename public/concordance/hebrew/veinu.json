@@ -1,0 +1,33 @@
+{
+  "key": "veinu",
+  "language": "hebrew",
+  "root": "anah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 13
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וְעִנּוּ",
+        "transliteration": "veInu",
+        "englishLiteral": "and-they-will-afflict",
+        "englishNatural": "and they will afflict",
+        "root": "anah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶם וַעֲבָדוּם **וְעִנּוּ** אֹתָם אַרְבַּע",
+        "transliteration": "lahem vaAvadum **veInu** otam arba",
+        "englishLiteral": "to-them and-they-will-serve **and-they-will-afflict** ↳ them four",
+        "englishNatural": "to them and they will serve **and they will afflict** them four"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "root": "da",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "דָּ֥א",
+        "transliteration": "da",
+        "englishLiteral": "this",
+        "englishNatural": "this",
+        "root": "da",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יַמָּ֑א שָׁנְיָ֖ן **דָּ֥א** מִן־ דָּֽא",
+        "transliteration": "yamma shanyan **da** min- da",
+        "englishLiteral": "the-sea different **this** from- this",
+        "englishNatural": "the sea different **this** from this"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "דָּֽא",
+        "transliteration": "da",
+        "englishLiteral": "this",
+        "englishNatural": "this",
+        "root": "da",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "דָּ֥א מִן־ **דָּֽא**",
+        "transliteration": "da min- **da**",
+        "englishLiteral": "this from- **this**",
+        "englishNatural": "this from **this**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "דָ֔א",
+        "transliteration": "da",
+        "englishLiteral": "this",
+        "englishNatural": "in this",
+        "root": "da",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲנָשָׁא֙ בְּקַרְנָא־ **דָ֔א** וּפֻ֖ם מְמַלִּ֥ל",
+        "transliteration": "anasha beQarna- **da** uPum memallil",
+        "englishLiteral": "Mortal_Man (Enash)-the in-horn- **this** and-mouth speaking",
+        "englishNatural": "the Mortal-Man (Enash) horn **in this** and a mouth speaking"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "teenah",
+  "language": "hebrew",
+  "root": "teenah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "תְאֵנָה",
+        "transliteration": "teenah",
+        "englishLiteral": "fig",
+        "englishNatural": "fig",
+        "root": "teenah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּתְפְּרוּ עֲלֵה **תְאֵנָה** וַיַּעֲשׂוּ לָהֶם",
+        "transliteration": "vayItperu aleh **teenah** vaYaasu lahem",
+        "englishLiteral": "and-sewed leaf-of **fig** and-made to-them",
+        "englishNatural": "and they sewed leaf of **fig** and made for themselves"
+      }
+    }
+  ]
+}

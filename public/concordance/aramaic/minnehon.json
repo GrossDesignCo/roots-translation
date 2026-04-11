@@ -1,0 +1,55 @@
+{
+  "key": "minnehon",
+  "language": "aramaic",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מִנְּהוֹן",
+        "transliteration": "minnehon",
+        "englishLiteral": "from-them",
+        "englishNatural": "from them",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "רַגְלַיָּא וְאֶצְבְּעָתָא **מִנְּהוֹן** חֲסַף פֶּחָר",
+        "transliteration": "raglayya veEtzbeata **minnehon** chasaf pechar",
+        "englishLiteral": "feet-the and-toes-the **from-them** clay-of potter",
+        "englishNatural": "the feet and the toes **from them** the clay of the potter"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 42
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מִנְּהוֹן",
+        "transliteration": "minnehon",
+        "englishLiteral": "from-them",
+        "englishNatural": "from them",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶצְבְּעָת רַגְלַיָּא **מִנְּהוֹן** פַּרְזֶל וּמִנְּהוֹן",
+        "transliteration": "veEtzbeata raglayya **minnehon** parzel uMinnehon",
+        "englishLiteral": "and-toes feet-the **from-them** iron and-from-them",
+        "englishNatural": "And the toes of the feet **from them** iron and from them"
+      }
+    }
+  ]
+}

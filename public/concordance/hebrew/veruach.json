@@ -1,0 +1,31 @@
+{
+  "key": "veruach",
+  "language": "hebrew",
+  "root": "ruach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְר֣וּחַ",
+        "transliteration": "veRuach",
+        "englishLiteral": "And-Wind",
+        "englishNatural": "And the Wind of",
+        "root": "ruach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־פְּנֵ֣י תְהֹ֑ום **וְר֣וּחַ** אֱלֹהִ֔ים מְרַחֶ֖פֶת",
+        "transliteration": "al-peney tehom **veRuach** Elohim meRachefet",
+        "englishLiteral": "over-faces-of abyss **And-Wind** Gods stirring",
+        "englishNatural": "over the face of the abyss **And the Wind of** God stirring"
+      }
+    }
+  ]
+}

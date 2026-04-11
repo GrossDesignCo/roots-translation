@@ -1,0 +1,31 @@
+{
+  "key": "machaneh",
+  "language": "hebrew",
+  "root": "machaneh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 24
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "מַחֲנֶה",
+        "transliteration": "machaneh",
+        "englishLiteral": "camp",
+        "englishNatural": "a camp",
+        "root": "machaneh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲמֻלָּה כְּקוֹל **מַחֲנֶה** בְּעָמְדָם תְּרַפֶּינָה",
+        "transliteration": "hamulah keQol **machaneh** beAmdam terapenah",
+        "englishLiteral": "tumult like-voice-of **camp** in-standing-their they-sank",
+        "englishNatural": "tumult like the voice of **a camp** in their standing they sank"
+      }
+    }
+  ]
+}

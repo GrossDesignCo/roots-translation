@@ -1,0 +1,33 @@
+{
+  "key": "yashuv",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יָשׁוּב",
+        "transliteration": "yashuv",
+        "englishLiteral": "he-will-return",
+        "englishNatural": "will return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִי־ יוֹדֵעַ **יָשׁוּב** וְנִחַם הָאֱלֹהִים",
+        "transliteration": "mi- yodea **yashuv** veNicham haElohim",
+        "englishLiteral": "who- knows **he-will-return** and-will-comfort the-Gods",
+        "englishNatural": "Who knows **will return** and will comfort The God"
+      }
+    }
+  ]
+}

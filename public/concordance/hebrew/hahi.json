@@ -1,0 +1,55 @@
+{
+  "key": "hahi",
+  "language": "hebrew",
+  "root": "hu",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַהִוא",
+        "transliteration": "haHi",
+        "englishLiteral": "the-that",
+        "englishNatural": "of that",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וּזְהַב הָאָרֶץ **הַהִוא** טוֹב שָׁם",
+        "transliteration": "uZehav haAretz **haHi** tov sham",
+        "englishLiteral": "and-gold the-land **the-that** good there",
+        "englishNatural": "And the gold land **of that** good there is"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַהִוא",
+        "transliteration": "hahi",
+        "englishLiteral": "the-that",
+        "englishNatural": "that",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הָאָרֶץ **הַהִוא** יָצָא אַשּׁוּר",
+        "transliteration": "min- haAretz **hahi** yatsa Ashur",
+        "englishLiteral": "from- the-land **the-that** brought_out Steppe (Assyria)",
+        "englishNatural": "from land **that** brought-out Steppe (Assyria)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "chilioi",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "χίλια",
+        "transliteration": "chilia",
+        "englishLiteral": "thousand",
+        "englishNatural": "a thousand",
+        "root": "chilioi",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "ἔδησεν αὐτὸν **χίλια** ἔτη",
+        "transliteration": "edēsen auton **chilia** etē",
+        "englishLiteral": "he-bound him **thousand** years",
+        "englishNatural": "he bound him **a thousand** years"
+      }
+    }
+  ]
+}

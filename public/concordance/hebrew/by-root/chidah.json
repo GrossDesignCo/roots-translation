@@ -1,0 +1,30 @@
+{
+  "root": "chidah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְחִידֹתָם",
+        "transliteration": "veChidotam",
+        "englishLiteral": "and-sharp_sayings-their",
+        "englishNatural": "and their sharp-sayings",
+        "root": "chidah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּבְרֵי חֲכָמִים **וְחִידֹתָם**",
+        "transliteration": "divre chachamim **veChidotam**",
+        "englishLiteral": "words-of wise-men **and-sharp_sayings-their**",
+        "englishNatural": "words of wise men **and their sharp-sayings**"
+      }
+    }
+  ]
+}

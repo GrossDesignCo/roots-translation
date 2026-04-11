@@ -1,0 +1,59 @@
+{
+  "key": "noladti",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 24
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "נוֹלָדְתִּי",
+        "transliteration": "noladti",
+        "englishLiteral": "was-birthed-I",
+        "englishNatural": "I was birthed",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאֵין תְּהֹמוֹת **נוֹלָדְתִּי** בְּאֵין מַעְיָנוֹת",
+        "transliteration": "beEin tehomot **noladti** beEin mayanot",
+        "englishLiteral": "In-nothing abyss **was-birthed-I** in-nothing springs",
+        "englishNatural": "In nothing abyss **I was birthed** in nothing springs"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 25
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נוֹלָדְתִּי",
+        "transliteration": "noladti",
+        "englishLiteral": "was-birthed-I",
+        "englishNatural": "I was birthed",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "לִפְנֵי גְבָעוֹת **נוֹלָדְתִּי**",
+        "transliteration": "lifnei gevaot **noladti**",
+        "englishLiteral": "to-faces-of hills **was-birthed-I**",
+        "englishNatural": "to the faces of hills **I was birthed**"
+      }
+    }
+  ]
+}

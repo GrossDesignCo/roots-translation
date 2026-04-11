@@ -1,0 +1,30 @@
+{
+  "root": "etsel",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 30
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אֶצְלוֹ",
+        "transliteration": "etslo",
+        "englishLiteral": "beside-him",
+        "englishNatural": "beside him",
+        "root": "etsel",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וָאֶהְיֶה **אֶצְלוֹ** אָמוֹן וָאֶהְיֶה",
+        "transliteration": "vaEhyeh **etslo** amon vaEhyeh",
+        "englishLiteral": "and-I-was **beside-him** master_craftsman and-I-was",
+        "englishNatural": "and I was **beside him** a master-craftsman and I was"
+      }
+    }
+  ]
+}

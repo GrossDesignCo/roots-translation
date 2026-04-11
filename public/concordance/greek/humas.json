@@ -1,0 +1,31 @@
+{
+  "key": "humas",
+  "language": "greek",
+  "root": "su",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "ὑμᾶς",
+        "transliteration": "humas",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "ἐγὼ ἀποστέλλω **ὑμᾶς** ὡς πρόβατα",
+        "transliteration": "ego apostello **humas** hos probata",
+        "englishLiteral": "I send **you** as sheep",
+        "englishNatural": "I send **you** as sheep"
+      }
+    }
+  ]
+}

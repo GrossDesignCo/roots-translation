@@ -1,0 +1,55 @@
+{
+  "key": "raglav",
+  "language": "hebrew",
+  "root": "regel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "רַגְלָֽיו",
+        "transliteration": "raglav",
+        "englishLiteral": "his-feet",
+        "englishNatural": "his feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שַׁ֣תָּה תַחַת־ **רַגְלָֽיו**",
+        "transliteration": "shatah tachat- **raglav**",
+        "englishLiteral": "you-have-appointed under- **his-feet**",
+        "englishNatural": "you have appointed under **his feet**"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "רַגְלָיו",
+        "transliteration": "raglav",
+        "englishLiteral": "his-feet",
+        "englishNatural": "his feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבִשְׁתַּיִם יְכַסֶּה **רַגְלָיו** וּבִשְׁתַּיִם יְעוֹפֵף",
+        "transliteration": "uViShtayim yeKhasseh **raglav** uViShtayim yeOfef",
+        "englishLiteral": "and-in-two he-covers **his-feet** and-in-two he-flies",
+        "englishNatural": "and in two he covers **his feet** and in two he flies"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "yakhlah",
+  "language": "hebrew",
+  "root": "yakhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יָכְלָה",
+        "transliteration": "yakhlah",
+        "englishLiteral": "was-able",
+        "englishNatural": "And she was able",
+        "root": "yakhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹא־ **יָכְלָה** עוֹד הַצְּפִינוֹ",
+        "transliteration": "veLo- **yakhlah** od haTzpino",
+        "englishLiteral": "And-not- **was-able** further to-conceal-him",
+        "englishNatural": "not **And she was able** further to conceal him"
+      }
+    }
+  ]
+}

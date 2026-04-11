@@ -1,0 +1,31 @@
+{
+  "key": "misdey",
+  "language": "hebrew",
+  "root": "sadeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מִשְּׂדֵ֣י",
+        "transliteration": "miSdey",
+        "englishLiteral": "from-fields-of",
+        "englishNatural": "from the fields of",
+        "root": "sadeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב **מִשְּׂדֵ֣י** מוֹאָ֑ב כִּ֤י",
+        "transliteration": "veKhalloteha vatTashav **miSdey** Moav ki",
+        "englishLiteral": "and-daughters_in_law-her and-returned **from-fields-of** From_Father (Moab) that",
+        "englishNatural": "and her daughters-in-law and returned **from the fields of** From-Father (Moab) that"
+      }
+    }
+  ]
+}

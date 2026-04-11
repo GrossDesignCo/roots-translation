@@ -1,0 +1,78 @@
+{
+  "root": "aniyah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אָנִיָּה",
+        "transliteration": "aniyah",
+        "englishLiteral": "ship",
+        "englishNatural": "a ship",
+        "root": "aniyah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָפוֹ וַיִּמְצָא **אָנִיָּה** בָּאָה תַרְשִׁישׁ",
+        "transliteration": "Yafo vaYimtza **aniyah** baah Tarshish",
+        "englishLiteral": "Beautiful (Joppa) and-found **ship** going golden_stone (Tarshish)",
+        "englishNatural": "Beautiful (Joppa) and he found **a ship** going to golden-stone (Tarshish)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְהָאֳנִיָּה",
+        "transliteration": "veHaOniyah",
+        "englishLiteral": "and-the-ship",
+        "englishNatural": "and the ship",
+        "root": "aniyah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גָּדוֹל בַּיָּם **וְהָאֳנִיָּה** חִשְּׁבָה לְהִשָּׁבֵר",
+        "transliteration": "gadol baYam **veHaOniyah** chishvah lehishabeir",
+        "englishLiteral": "great in-sea **and-the-ship** planned to-be-broken",
+        "englishNatural": "a great in the sea **and the ship** planned to be broken"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "בָּאֳנִיָּה",
+        "transliteration": "baOniyah",
+        "englishLiteral": "in-ship",
+        "englishNatural": "in the ship",
+        "root": "aniyah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַכֵּלִים אֲשֶׁר **בָּאֳנִיָּה** אֶל־ הַיָּם",
+        "transliteration": "haKelim asher **baOniyah** el- haYam",
+        "englishLiteral": "the-vessels which **in-ship** to- the-sea",
+        "englishNatural": "the vessels which were **in the ship** to the sea"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "roi",
+  "language": "hebrew",
+  "root": "raah_shepherd",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "רֹעִי",
+        "transliteration": "roi",
+        "englishLiteral": "my-shepherd",
+        "englishNatural": "my shepherd",
+        "root": "raah_shepherd",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה **רֹעִי** לֹא אֶחְסָר",
+        "transliteration": "YHWH **roi** lo echsar",
+        "englishLiteral": "He_Who_Is (YHWH) **my-shepherd** not I-will-lack",
+        "englishNatural": "He-Who-Is (YHWH) **my shepherd** not I will lack"
+      }
+    }
+  ]
+}

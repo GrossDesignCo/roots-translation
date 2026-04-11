@@ -1,0 +1,59 @@
+{
+  "key": "leshachet",
+  "language": "hebrew",
+  "root": "shachat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 17
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לְשַׁחֵת",
+        "transliteration": "leShachet",
+        "englishLiteral": "to-destroy",
+        "englishNatural": "to destroy",
+        "root": "shachat",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **לְשַׁחֵת** כָּל־ בָּשָׂר",
+        "transliteration": "al- haAretz **leShachet** kol- basar",
+        "englishLiteral": "over- the-land **to-destroy** all- flesh",
+        "englishNatural": "over the land **to destroy** all flesh"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 11
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "לְשַׁחֵת",
+        "transliteration": "leshachet",
+        "englishLiteral": "to-corrupt",
+        "englishNatural": "to corrupt",
+        "root": "shachat",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹד מַבּוּל **לְשַׁחֵת** הָאָרֶץ",
+        "transliteration": "od mabbul **leshachet** haAretz",
+        "englishLiteral": "again flood **to-corrupt** the-land",
+        "englishNatural": "again a flood **to corrupt** the land"
+      }
+    }
+  ]
+}

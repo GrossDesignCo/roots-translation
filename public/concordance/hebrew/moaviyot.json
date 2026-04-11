@@ -1,0 +1,31 @@
+{
+  "key": "moaviyot",
+  "language": "hebrew",
+  "root": "moaviyot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מֹֽאֲבִיּ֨וֹת",
+        "transliteration": "Moaviyot",
+        "englishLiteral": "Moabite_Women",
+        "englishNatural": "Moabite-Women",
+        "root": "moaviyot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶ֣ם נָשִׁים֩ **מֹֽאֲבִיּ֨וֹת** שֵׁ֤ם הָֽאַחַת֙",
+        "transliteration": "lahem nashim **Moaviyot** shem haAchat",
+        "englishLiteral": "to-them women **Moabite_Women** name-of the-one",
+        "englishNatural": "to them women **Moabite-Women** the name of the one"
+      }
+    }
+  ]
+}

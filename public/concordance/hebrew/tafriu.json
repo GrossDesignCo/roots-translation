@@ -1,0 +1,33 @@
+{
+  "key": "tafriu",
+  "language": "hebrew",
+  "root": "para",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "תַּפְרִיעוּ",
+        "transliteration": "tafriu",
+        "englishLiteral": "will-you-cause-to-let_loose",
+        "englishNatural": "will you cause to let-loose",
+        "root": "para",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה וְאַהֲרֹן **תַּפְרִיעוּ** אֶת־ הָעָם",
+        "transliteration": "Moshe veAharon **tafriu** et- haAm",
+        "englishLiteral": "Drawn_Out (Moses) and-Light_Bringer (Aaron) **will-you-cause-to-let_loose** ↳ the-people",
+        "englishNatural": "Drawn-Out (Moses) and Light-Bringer (Aaron) **will you cause to let-loose** ↳ the people"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "root": "nai",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "ναί",
+        "transliteration": "nai",
+        "englishLiteral": "Yes",
+        "englishNatural": "Yes",
+        "root": "nai",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "λέγει αὐτῷ **ναί** κύριε σὺ",
+        "transliteration": "legei autō **nai** kurie su",
+        "englishLiteral": "He-says to-him **Yes** lord you",
+        "englishNatural": "He says to him **Yes** Lord you"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "ναί",
+        "transliteration": "nai",
+        "englishLiteral": "Yes",
+        "englishNatural": "Yes",
+        "root": "nai",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "λέγει αὐτῷ **ναί** κύριε σὺ",
+        "transliteration": "legei autō **nai** kurie su",
+        "englishLiteral": "He-says to-him **Yes** lord you",
+        "englishNatural": "He says to him **Yes** Lord you"
+      }
+    }
+  ]
+}

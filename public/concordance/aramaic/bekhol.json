@@ -1,0 +1,31 @@
+{
+  "key": "bekhol",
+  "language": "aramaic",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 39
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "בְּכָל",
+        "transliteration": "beKhol",
+        "englishLiteral": "in-all",
+        "englishNatural": "over all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי תִשְׁלַט **בְּכָל** אַרְעָא",
+        "transliteration": "di tishlat **beKhol** ara",
+        "englishLiteral": "which will-rule **in-all** land-the",
+        "englishNatural": "which will rule **over all** the land"
+      }
+    }
+  ]
+}

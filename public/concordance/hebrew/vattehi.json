@@ -1,0 +1,59 @@
+{
+  "key": "vattehi",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַתְּהִי",
+        "transliteration": "vatTehi",
+        "englishLiteral": "And-she-was",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְנִשְׂרְפָה לִשְׂרֵפָה **וַתְּהִי** לָהֶם הַלְּבֵנָה",
+        "transliteration": "veNisrefah liSrefah **vatTehi** lahem haLevenah",
+        "englishLiteral": "and-let-us-incinerate to-incinerating **And-she-was** to-them the-brick",
+        "englishNatural": "and let us incinerate to an incinerating **was** to them And the brick"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 30
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַתְּהִ֛י",
+        "transliteration": "vatTehi",
+        "englishLiteral": "and-was",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ מִצְרַ֔יִם **וַתְּהִ֛י** צְעָקָ֥ה גְדֹלָ֖ה",
+        "transliteration": "veKhol- Mitzrayim **vatTehi** tzeaqah gedolah",
+        "englishLiteral": "and-all- Double_Narrows (Egypt) **and-was** outcry great",
+        "englishNatural": "and all Double-Narrows (Egypt) **was** outcry and a great"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "geviyoteihem",
+  "language": "hebrew",
+  "root": "geviyah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 23
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "גְּוִיֹּתֵיהֶם",
+        "transliteration": "geviyoteihem",
+        "englishLiteral": "bodies-their",
+        "englishNatural": "their bodies",
+        "root": "geviyah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֵנָּה אֵת **גְּוִיֹּתֵיהֶם**",
+        "transliteration": "lahenah et **geviyoteihem**",
+        "englishLiteral": "to-them ↳ **bodies-their**",
+        "englishNatural": "to them ↳ **their bodies**"
+      }
+    }
+  ]
+}

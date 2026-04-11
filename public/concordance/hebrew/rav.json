@@ -1,0 +1,55 @@
+{
+  "key": "rav",
+  "language": "hebrew",
+  "root": "rav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "רָב",
+        "transliteration": "rav",
+        "englishLiteral": "many",
+        "englishNatural": "and many",
+        "root": "rav",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּמָת עַם **רָב** מִיִּשְׂרָאֵל",
+        "transliteration": "vaYamat am **rav** miYisrael",
+        "englishLiteral": "and-died people **many** from-Struggles_with_God (Israel)",
+        "englishNatural": "died people **and many** of Struggles-with-God (Israel)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רַב",
+        "transliteration": "rav",
+        "englishLiteral": "chief",
+        "englishNatural": "And the chief",
+        "root": "rav_noun",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקְרַב אֵלָיו **רַב** הַחֹבֵל וַיֹּאמֶר",
+        "transliteration": "vaYiqrav elav **rav** haChovel vaYomer",
+        "englishLiteral": "And-came to-him **chief** the-sailor and-said",
+        "englishNatural": "came to him **And the chief** sailor and said"
+      }
+    }
+  ]
+}

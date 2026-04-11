@@ -1,0 +1,33 @@
+{
+  "key": "liqro",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 26
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לִקְרֹא",
+        "transliteration": "liqro",
+        "englishLiteral": "to-call_out",
+        "englishNatural": "to call-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אָז הוּחַל **לִקְרֹא** בְּשֵׁם יְהוָה",
+        "transliteration": "az huchal **liqro** beShem YHWH",
+        "englishLiteral": "then was-begun **to-call_out** in-name-of He-Who-Is (YHWH)",
+        "englishNatural": "then it began **to call-out** in the name of He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

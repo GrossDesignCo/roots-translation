@@ -1,0 +1,31 @@
+{
+  "key": "umiqneh",
+  "language": "hebrew",
+  "root": "miqneh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וּמִקְנֶה",
+        "transliteration": "uMiqneh",
+        "englishLiteral": "and-cattle",
+        "englishNatural": "and cattle",
+        "root": "miqneh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֹשֵׁב אֹהֶל **וּמִקְנֶה**",
+        "transliteration": "yoshev ohel **uMiqneh**",
+        "englishLiteral": "dwelling tent **and-cattle**",
+        "englishNatural": "dwelling tent **and cattle**"
+      }
+    }
+  ]
+}

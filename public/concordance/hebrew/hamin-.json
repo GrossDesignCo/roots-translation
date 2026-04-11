@@ -1,0 +1,31 @@
+{
+  "key": "hamin-",
+  "language": "hebrew",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הֲמִן־",
+        "transliteration": "haMin-",
+        "englishLiteral": "Is_it_from-",
+        "englishNatural": "Is it from",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עֵירֹם אָתָּה **הֲמִן־** הָעֵץ אֲשֶׁר",
+        "transliteration": "arom atah **haMin-** haEtz asher",
+        "englishLiteral": "naked you **Is_it_from-** the-tree which",
+        "englishNatural": "naked you are **Is it from** the tree which"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "rekush",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 14
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "בִּרְכֻשׁ",
+        "transliteration": "birkhush",
+        "englishLiteral": "with-substance",
+        "englishNatural": "substance",
+        "root": "rekush",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֵן יֵצְאוּ **בִּרְכֻשׁ** גָּדוֹל",
+        "transliteration": "khen yetzeu **birkhush** gadol",
+        "englishLiteral": "so they-will-come-out **with-substance** great",
+        "englishNatural": "so they will come out **substance** with great"
+      }
+    }
+  ]
+}

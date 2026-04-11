@@ -1,0 +1,55 @@
+{
+  "key": "leishah",
+  "language": "hebrew",
+  "root": "ish",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 22
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לְאִשָּׁה",
+        "transliteration": "leIshah",
+        "englishLiteral": "to-woman",
+        "englishNatural": "into a woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הָאָדָם **לְאִשָּׁה** וַיְבִאֶהָ אֶל־",
+        "transliteration": "min- haAdam **leIshah** vaYeviEha el-",
+        "englishLiteral": "from- the-Earthling (Adam) **to-woman** and-brought-her to-",
+        "englishNatural": "from the Earthling (Adam) **into a woman** and brought her to"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "לְאִישָׁהּ",
+        "transliteration": "leIshah",
+        "englishLiteral": "to-her-man",
+        "englishNatural": "to her man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּתֵּן גַּם־ **לְאִישָׁהּ** עִמָּהּ וַיֹּאכַל׃",
+        "transliteration": "vatiten gam- **leIshah** imah vayokhal",
+        "englishLiteral": "and-gave also- **to-her-man** with-her and-ate",
+        "englishNatural": "and gave also **to her man** with her and he ate"
+      }
+    }
+  ]
+}

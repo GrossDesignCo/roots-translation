@@ -1,0 +1,55 @@
+{
+  "key": "milemaala",
+  "language": "hebrew",
+  "root": "maala",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מִלְמָעְלָה",
+        "transliteration": "miLemaala",
+        "englishLiteral": "from-to-upward",
+        "englishNatural": "upward",
+        "root": "maala",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וְכַנְפֵיהֶם פְּרֻדוֹת **מִלְמָעְלָה** לְאִישׁ שְׁתַּיִם",
+        "transliteration": "veKhanfeihem perudot **miLemaala** leIsh shtayim",
+        "englishLiteral": "and-wings-their separated **from-to-upward** to-man two",
+        "englishNatural": "and their wings separated **upward** to man two"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 22
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מִלְמָעְלָה",
+        "transliteration": "miLemaala",
+        "englishLiteral": "from-to-upward",
+        "englishNatural": "from above",
+        "root": "maala",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ רָאשֵׁיהֶם **מִלְמָעְלָה**",
+        "transliteration": "al- raasheihem **miLemaala**",
+        "englishLiteral": "over- heads-their **from-to-upward**",
+        "englishNatural": "over their heads **from above**"
+      }
+    }
+  ]
+}

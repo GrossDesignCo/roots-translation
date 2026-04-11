@@ -1,0 +1,31 @@
+{
+  "key": "vead-",
+  "language": "aramaic",
+  "root": "ad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וְעַד־",
+        "transliteration": "veAd-",
+        "englishLiteral": "and-unto-",
+        "englishNatural": "and unto",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אָתֵ֣ה הֲוָ֔ה **וְעַד־** עַתִּ֤יק יֽוֹמַיָּא֙",
+        "transliteration": "ateh havah **veAd-** Attiq yomaya",
+        "englishLiteral": "coming was **and-unto-** Ancient-of Days-the",
+        "englishNatural": "coming he was **and unto** the Ancient of the Days"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "hashoftim",
+  "language": "hebrew",
+  "root": "shofet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הַשֹּׁפְטִ֔ים",
+        "transliteration": "haShoftim",
+        "englishLiteral": "the-Just_Ones",
+        "englishNatural": "the Just-Ones",
+        "root": "shofet",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בִּימֵי֙ שְׁפֹ֣ט **הַשֹּׁפְטִ֔ים** וַיְהִ֥י רָעָ֖ב",
+        "transliteration": "biYmey shefot **haShoftim** vayHi raav",
+        "englishLiteral": "in-days-of justice-doing-of **the-Just_Ones** and-was famine",
+        "englishNatural": "in the days of the justice-doing of **the Just-Ones** was and famine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vehishqah",
+  "language": "hebrew",
+  "root": "shaqah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְהִשְׁקָה",
+        "transliteration": "veHishqah",
+        "englishLiteral": "and-gave_drink",
+        "englishNatural": "and gave drink to",
+        "root": "shaqah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הָאָרֶץ **וְהִשְׁקָה** אֶת־ כָּל־",
+        "transliteration": "min- haAretz **veHishqah** et- kol-",
+        "englishLiteral": "from- the-land **and-gave_drink** ↳ all-",
+        "englishNatural": "from the land **and gave drink to** ↳ all"
+      }
+    }
+  ]
+}

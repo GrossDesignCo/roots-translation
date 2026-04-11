@@ -1,0 +1,33 @@
+{
+  "key": "oved",
+  "language": "hebrew",
+  "root": "avad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "עֹבֵד",
+        "transliteration": "oved",
+        "englishLiteral": "servant",
+        "englishNatural": "a servant",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְקַיִן הָיָה **עֹבֵד** אֲדָמָה",
+        "transliteration": "veQayin hayah **oved** adamah",
+        "englishLiteral": "and-Acquired (Cain) was **servant** earth",
+        "englishNatural": "and Acquired (Cain) was **a servant** of earth"
+      }
+    }
+  ]
+}

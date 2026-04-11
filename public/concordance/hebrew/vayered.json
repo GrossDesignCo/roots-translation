@@ -1,0 +1,111 @@
+{
+  "key": "vayered",
+  "language": "hebrew",
+  "root": "yarad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֵּרֶד",
+        "transliteration": "vayered",
+        "englishLiteral": "And-he-descended",
+        "englishNatural": "descended",
+        "root": "yarad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּרֶד** הָעַיִט עַל־",
+        "transliteration": "**vayered** haAyit al-",
+        "englishLiteral": "**And-he-descended** the-bird_of_prey over-",
+        "englishNatural": "**descended** And the birds-of-prey over"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֵּרֶד",
+        "transliteration": "vaYered",
+        "englishLiteral": "And-went_down",
+        "englishNatural": "went-down",
+        "root": "yarad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּרֶד** יְהוָה בֶּעָנָן",
+        "transliteration": "**vaYered** YHWH beAnan",
+        "englishLiteral": "**And-went_down** He_Who_Is (YHWH) in-cloud",
+        "englishNatural": "**went-down** And He-Who-Is (YHWH) in the cloud"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיֵּרֶד",
+        "transliteration": "vaYered",
+        "englishLiteral": "and-went_down",
+        "englishNatural": "and went-down to",
+        "root": "yarad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִלִּפְנֵי יְהוָה **וַיֵּרֶד** יָפוֹ וַיִּמְצָא",
+        "transliteration": "milLiFney YHWH **vaYered** Yafo vaYimtza",
+        "englishLiteral": "from-faces-of He_Who_Is (YHWH) **and-went_down** Beautiful (Joppa) and-found",
+        "englishNatural": "from the face of He-Who-Is (YHWH) **and went-down to** Beautiful (Joppa) and he found"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וַיֵּרֶד",
+        "transliteration": "vaYered",
+        "englishLiteral": "and-went_down",
+        "englishNatural": "and went-down",
+        "root": "yarad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּתֵּן שְׂכָרָהּ **וַיֵּרֶד** בָּהּ לָבוֹא",
+        "transliteration": "vaYitten sekhorah **vaYered** bah lavo",
+        "englishLiteral": "and-gave fare-her **and-went_down** in-her to-go",
+        "englishNatural": "and he paid the fare of it **and went-down** into it to go"
+      }
+    }
+  ]
+}

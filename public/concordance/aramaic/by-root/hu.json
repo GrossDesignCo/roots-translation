@@ -1,0 +1,54 @@
+{
+  "root": "hu",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "הוּא",
+        "transliteration": "hu",
+        "englishLiteral": "he",
+        "englishNatural": "He",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**הוּא** צַלְמָא רֵאשֵׁהּ",
+        "transliteration": "**hu** tsalma resheh",
+        "englishLiteral": "**he** image-the head-its",
+        "englishNatural": "**He** the image its head"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 38
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הוּא",
+        "transliteration": "hu",
+        "englishLiteral": "he",
+        "englishNatural": "are he",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּכֹלְּהוֹן אַנְתָּה **הוּא** רֵאשָׁה דִּי",
+        "transliteration": "beKholhon antah **hu** reshah di",
+        "englishLiteral": "in-all-them you **he** head-the which",
+        "englishNatural": "in them all you **are he** the head of"
+      }
+    }
+  ]
+}

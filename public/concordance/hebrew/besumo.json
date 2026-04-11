@@ -1,0 +1,33 @@
+{
+  "key": "besumo",
+  "language": "hebrew",
+  "root": "sim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 29
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בְּשׂוּמוֹ",
+        "transliteration": "beSumo",
+        "englishLiteral": "In-placing-his",
+        "englishNatural": "In his placing",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּשׂוּמוֹ** לַיָּם חֻקּוֹ",
+        "transliteration": "**beSumo** laYam chuqo",
+        "englishLiteral": "**In-placing-his** to-the-sea his-decree",
+        "englishNatural": "**In his placing** to the sea his decree"
+      }
+    }
+  ]
+}

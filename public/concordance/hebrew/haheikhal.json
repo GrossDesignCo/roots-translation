@@ -1,0 +1,31 @@
+{
+  "key": "haheikhal",
+  "language": "hebrew",
+  "root": "hekhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "הַהֵיכָל",
+        "transliteration": "haHeikhal",
+        "englishLiteral": "the-temple",
+        "englishNatural": "the temple",
+        "root": "hekhal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מְמַלְּאִים אֶת **הַהֵיכָל**",
+        "transliteration": "meMaleim et **haHeikhal**",
+        "englishLiteral": "filling ↳ **the-temple**",
+        "englishNatural": "filling ↳ **the temple**"
+      }
+    }
+  ]
+}

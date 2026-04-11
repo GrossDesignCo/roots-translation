@@ -1,0 +1,54 @@
+{
+  "root": "orekh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 15
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אֹרֶךְ",
+        "transliteration": "orekh",
+        "englishLiteral": "length-of",
+        "englishNatural": "the length of",
+        "root": "orekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאוֹת אַמָּה **אֹרֶךְ** הַתֵּבָה חֲמִשִּׁים",
+        "transliteration": "meot ammah **orekh** haTevah chamishim",
+        "englishLiteral": "hundreds cubit **length-of** the-ark fifty",
+        "englishNatural": "hundred cubits **the length of** the ark fifty"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "לְאֹרֶךְ",
+        "transliteration": "leOrekh",
+        "englishLiteral": "to-length-of",
+        "englishNatural": "to the length of",
+        "root": "orekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּבֵית יְהוָה **לְאֹרֶךְ** יָמִים",
+        "transliteration": "beBeit YHWH **leOrekh** yamim",
+        "englishLiteral": "in-house-of He_Who_Is (YHWH) **to-length-of** days",
+        "englishNatural": "in the house of He-Who-Is (YHWH) **to the length of** days"
+      }
+    }
+  ]
+}

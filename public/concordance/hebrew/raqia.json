@@ -1,0 +1,79 @@
+{
+  "key": "raqia",
+  "language": "hebrew",
+  "root": "raqia",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "רָקִיעַ",
+        "transliteration": "raqia",
+        "englishLiteral": "hammering_out",
+        "englishNatural": "Let a hammering-out",
+        "root": "raqia",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים יְהִי **רָקִיעַ** בְּתוֹךְ הַמָּיִם֙",
+        "transliteration": "Elohim yehi **raqia** beTokh haMayim",
+        "englishLiteral": "Gods Let-be **hammering_out** in-midst-of the-waters",
+        "englishNatural": "And God be **Let a hammering-out** in the midst of the waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "רְקִ֥יעַ",
+        "transliteration": "raqia",
+        "englishLiteral": "hammering_out",
+        "englishNatural": "the hammering-out",
+        "root": "raqia",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ פְּנֵ֖י **רְקִ֥יעַ** הַשָּׁמָֽיִם׃",
+        "transliteration": "al- peney **raqia** haShamayim",
+        "englishLiteral": "over faces-of **hammering_out** the-skies",
+        "englishNatural": "over the face of **the hammering-out** the skies"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 22
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "רָקִיעַ",
+        "transliteration": "raqia",
+        "englishLiteral": "hammering_out",
+        "englishNatural": "a hammering-out",
+        "root": "raqia",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רָאשֵׁי הַחַיָּה **רָקִיעַ** כְּעֵין הַקֶּרַח",
+        "transliteration": "raashey haChayah **raqia** keEin haKerach",
+        "englishLiteral": "heads-of the-living-being **hammering_out** like-eye-of the-crystal",
+        "englishNatural": "the heads of the living-being **a hammering-out** like an eye of The Crystal"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "lehaqel",
+  "language": "hebrew",
+  "root": "haqel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לְהָקֵל",
+        "transliteration": "leHaqel",
+        "englishLiteral": "to-lighten",
+        "englishNatural": "to lighten it",
+        "root": "haqel",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַיָּם **לְהָקֵל** מֵעֲלֵיהֶם וְיוֹנָה",
+        "transliteration": "el- haYam **leHaqel** meAleihem veYonah",
+        "englishLiteral": "to- the-sea **to-lighten** from-over-them And-Dove (Jonah)",
+        "englishNatural": "to the sea **to lighten it** from over them And Dove (Jonah)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "sip",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַסִּפִּ֔ים",
+        "transliteration": "haSippim",
+        "englishLiteral": "the-thresholds",
+        "englishNatural": "the thresholds",
+        "root": "sip",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּנֻ֙עוּ֙ אַמּ֣וֹת **הַסִּפִּ֔ים** מִקּ֖וֹל הַקּוֹרֵ֑א",
+        "transliteration": "vaiYanu amot **haSippim** miQol haQore",
+        "englishLiteral": "And-shook pillars **the-thresholds** from-voice the-caller",
+        "englishNatural": "shook And pillars of **the thresholds** from the voice of the caller"
+      }
+    }
+  ]
+}

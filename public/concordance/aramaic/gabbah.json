@@ -1,0 +1,31 @@
+{
+  "key": "gabbah",
+  "language": "aramaic",
+  "root": "gav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "גַּבַּ֔הּ",
+        "transliteration": "gabbah",
+        "englishLiteral": "back-its",
+        "englishNatural": "its back",
+        "root": "gav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ע֑וֹף עַל־ **גַּבַּ֔הּ** וְאַרְבְּעָה֙ רֵאשִׁ֣ין",
+        "transliteration": "oph al- **gabbah** veArbea reshin",
+        "englishLiteral": "bird on- **back-its** and-four heads",
+        "englishNatural": "a bird on **its back** and four heads"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "key": "ton",
+  "language": "greek",
+  "root": "ho",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "τὸν",
+        "transliteration": "ton",
+        "englishLiteral": "The",
+        "englishNatural": "The",
+        "root": "ho",
+        "morphology": {
+          "type": "article"
+        }
+      },
+      "context": {
+        "hebrew": "ἦν πρὸς **τὸν** θεόν καὶ",
+        "transliteration": "ēn pros **ton** theon kai",
+        "englishLiteral": "was with **The** God and",
+        "englishNatural": "was with **The** God and"
+      }
+    },
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "τὸν",
+        "transliteration": "ton",
+        "englishLiteral": "the",
+        "englishNatural": "the",
+        "root": "ho",
+        "morphology": {
+          "type": "article"
+        }
+      },
+      "context": {
+        "hebrew": "καὶ ἐκράτησεν **τὸν** δράκοντα τὸν",
+        "transliteration": "kai ekratēsen **ton** drakonta ton",
+        "englishLiteral": "and he-seized **the** dragon The",
+        "englishNatural": "and he seized **the** dragon The"
+      }
+    },
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "τὸν",
+        "transliteration": "ton",
+        "englishLiteral": "The",
+        "englishNatural": "The",
+        "root": "ho",
+        "morphology": {
+          "type": "article"
+        }
+      },
+      "context": {
+        "hebrew": "τὸν δράκοντα **τὸν** ὄφιν τὸν",
+        "transliteration": "ton drakonta **ton** ophin ton",
+        "englishLiteral": "the dragon **The** Snake The",
+        "englishNatural": "the dragon **The** Snake The"
+      }
+    },
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "τὸν",
+        "transliteration": "ton",
+        "englishLiteral": "The",
+        "englishNatural": "The",
+        "root": "ho",
+        "morphology": {
+          "type": "article"
+        }
+      },
+      "context": {
+        "hebrew": "τὸν ὄφιν **τὸν** ἀρχαῖον ὅς",
+        "transliteration": "ton ophin **ton** archaion hos",
+        "englishLiteral": "The Snake **The** Ancient who",
+        "englishNatural": "The Snake **The** Ancient who"
+      }
+    }
+  ]
+}

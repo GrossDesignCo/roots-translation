@@ -1,0 +1,31 @@
+{
+  "key": "usear",
+  "language": "aramaic",
+  "root": "sear",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וּשְׂעַ֤ר",
+        "transliteration": "uSear",
+        "englishLiteral": "and-hair-of",
+        "englishNatural": "and the hair of",
+        "root": "sear",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּתְלַ֣ג חִוָּ֗ר **וּשְׂעַ֤ר** רֵאשֵׁהּ֙ כַּעֲמַ֣ר",
+        "transliteration": "keTlag khivvar **uSear** reisheh kaAmar",
+        "englishLiteral": "as-snow white **and-hair-of** head-his as-wool",
+        "englishNatural": "snow as white **and the hair of** his head wool"
+      }
+    }
+  ]
+}

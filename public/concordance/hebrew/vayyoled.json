@@ -1,0 +1,33 @@
+{
+  "key": "vayyoled",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיּוֹלֶד",
+        "transliteration": "vayYoled",
+        "englishLiteral": "And-he-birthed",
+        "englishNatural": "birthed",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיּוֹלֶד** נֹחַ שְׁלֹשָׁה",
+        "transliteration": "**vayYoled** noach shloshah",
+        "englishLiteral": "**And-he-birthed** Rest (Noah) three",
+        "englishNatural": "**birthed** And Rest (Noah) three"
+      }
+    }
+  ]
+}

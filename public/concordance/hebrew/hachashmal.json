@@ -1,0 +1,31 @@
+{
+  "key": "hachashmal",
+  "language": "hebrew",
+  "root": "chashmal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "הַחַשְׁמַל",
+        "transliteration": "haChashmal",
+        "englishLiteral": "the-glowing_metal",
+        "englishNatural": "the glowing-metal",
+        "root": "chashmal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִתּוֹכָהּ כְּעֵין **הַחַשְׁמַל** מִתּוֹךְ הָאֵשׁ",
+        "transliteration": "uMitokah keEin **haChashmal** mitokh haEsh",
+        "englishLiteral": "and-from-midst-its like-eye-of **the-glowing_metal** from-midst-of the-fire",
+        "englishNatural": "and from its midst like an eye of **the glowing-metal** from the midst of the fire"
+      }
+    }
+  ]
+}

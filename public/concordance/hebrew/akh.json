@@ -1,0 +1,55 @@
+{
+  "key": "akh",
+  "language": "hebrew",
+  "root": "akh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "אַךְ",
+        "transliteration": "akh",
+        "englishLiteral": "Only",
+        "englishNatural": "Only",
+        "root": "akh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**אַךְ** טוֹב וָחֶסֶד",
+        "transliteration": "**akh** tov vaChesed",
+        "englishLiteral": "**Only** good and-steadfast_love",
+        "englishNatural": "**Only** good and steadfast-love"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אַךְ",
+        "transliteration": "akh",
+        "englishLiteral": "Only",
+        "englishNatural": "Only",
+        "root": "akh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "מִנֶּגֶד עֵינֶיךָ **אַךְ** אוֹסִיף לְהַבִּיט",
+        "transliteration": "mineged einekha **akh** osif lehabit",
+        "englishLiteral": "from-before eyes-your **Only** I-will-add to-look",
+        "englishNatural": "from before your eyes **Only** I will add to look"
+      }
+    }
+  ]
+}

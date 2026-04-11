@@ -1,0 +1,31 @@
+{
+  "key": "veemet-",
+  "language": "hebrew",
+  "root": "emet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וֶאֱמֶת־",
+        "transliteration": "veEmet-",
+        "englishLiteral": "and-truth-of",
+        "englishNatural": "and truth of",
+        "root": "emet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָלֵינוּ חַסְדּוֹ **וֶאֱמֶת־** יְהוָה לְעוֹלָם",
+        "transliteration": "aleinu chasdo **veEmet-** YHWH leOlam",
+        "englishLiteral": "toward-us his-steadfast_love **and-truth-of** He_Who_Is (YHWH) to-the_age",
+        "englishNatural": "toward us his steadfast-love **and truth of** He-Who-Is (YHWH) to the-age"
+      }
+    }
+  ]
+}

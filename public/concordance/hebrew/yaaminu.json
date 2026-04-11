@@ -1,0 +1,59 @@
+{
+  "key": "yaaminu",
+  "language": "hebrew",
+  "root": "aman",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יַאֲמִינוּ",
+        "transliteration": "yaAminu",
+        "englishLiteral": "will-believe",
+        "englishNatural": "they will believe",
+        "root": "aman",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וְהֵן לֹא־ **יַאֲמִינוּ** לִי וְלֹא",
+        "transliteration": "veHen lo- **yaAminu** li veLo",
+        "englishLiteral": "and-behold not- **will-believe** to-me and-not",
+        "englishNatural": "And behold not **they will believe** me not"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יַאֲמִינוּ",
+        "transliteration": "yaAminu",
+        "englishLiteral": "will-believe",
+        "englishNatural": "they will believe",
+        "root": "aman",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַעַן **יַאֲמִינוּ** כִּי־ נִרְאָה",
+        "transliteration": "lemaan **yaAminu** ki- nirAh",
+        "englishLiteral": "for-sake-of **will-believe** that- was_seen",
+        "englishNatural": "For their sake **they will believe** that he was-seen"
+      }
+    }
+  ]
+}

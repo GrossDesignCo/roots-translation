@@ -1,0 +1,31 @@
+{
+  "key": "velapid",
+  "language": "hebrew",
+  "root": "lapid",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 17
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וְלַפִּיד",
+        "transliteration": "veLapid",
+        "englishLiteral": "and-torch",
+        "englishNatural": "and a torch of",
+        "root": "lapid",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תַנּוּר עָשָׁן **וְלַפִּיד** אֵשׁ אֲשֶׁר",
+        "transliteration": "tanur ashan **veLapid** esh asher",
+        "englishLiteral": "furnace smoke **and-torch** fire which",
+        "englishNatural": "a furnace smoking **and a torch of** fire which"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "vaokhel",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 12
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וָאֹכֵל",
+        "transliteration": "vaOkhel",
+        "englishLiteral": "and-I-ate",
+        "englishNatural": "and I ate",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הָעֵץ **וָאֹכֵל**",
+        "transliteration": "min- haEtz **vaOkhel**",
+        "englishLiteral": "from- the-tree **and-I-ate**",
+        "englishNatural": "from the tree **and I ate**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וָאֹכֵל",
+        "transliteration": "vaOkhel",
+        "englishLiteral": "and-I-ate",
+        "englishNatural": "and I ate",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַנָּחָשׁ הִשִּׁיאַנִי **וָאֹכֵל**",
+        "transliteration": "hanachash hishiani **vaOkhel**",
+        "englishLiteral": "The-snake he-deceived-me **and-I-ate**",
+        "englishNatural": "The snake he deceived me **and I ate**"
+      }
+    }
+  ]
+}

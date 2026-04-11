@@ -1,0 +1,31 @@
+{
+  "key": "acharei",
+  "language": "hebrew",
+  "root": "achar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 30
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אַחֲרֵי",
+        "transliteration": "acharei",
+        "englishLiteral": "after",
+        "englishNatural": "after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי לֶמֶךְ **אַחֲרֵי** הוֹלִידוֹ אֶת־",
+        "transliteration": "vaYechi Lemekh **acharei** holido et-",
+        "englishLiteral": "And-lived Powerful (Lamech) **after** he-birthed-him ↳",
+        "englishNatural": "lived And Powerful (Lamech) **after** he birthed ↳"
+      }
+    }
+  ]
+}

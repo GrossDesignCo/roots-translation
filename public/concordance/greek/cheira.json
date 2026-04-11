@@ -1,0 +1,31 @@
+{
+  "key": "cheira",
+  "language": "greek",
+  "root": "cheir",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "χεῖρα",
+        "transliteration": "cheira",
+        "englishLiteral": "hand",
+        "englishNatural": "hand",
+        "root": "cheir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ἐπὶ τὴν **χεῖρα** αὐτοῦ",
+        "transliteration": "epi tēn **cheira** autou",
+        "englishLiteral": "upon the **hand** his",
+        "englishNatural": "in the **hand** of his"
+      }
+    }
+  ]
+}

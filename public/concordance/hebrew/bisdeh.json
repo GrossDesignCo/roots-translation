@@ -1,0 +1,31 @@
+{
+  "key": "bisdeh",
+  "language": "hebrew",
+  "root": "sadeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בִּשְׂדֵ֣ה",
+        "transliteration": "biSdeh",
+        "englishLiteral": "in-field-of",
+        "englishNatural": "in the field of",
+        "root": "sadeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֤י שָֽׁמְעָה֙ **בִּשְׂדֵ֣ה** מוֹאָ֔ב כִּֽי־",
+        "transliteration": "ki shamah **biSdeh** Moav ki-",
+        "englishLiteral": "that she-had-heard **in-field-of** From_Father (Moab) that-",
+        "englishNatural": "that she had heard **in the field of** From-Father (Moab) that"
+      }
+    }
+  ]
+}

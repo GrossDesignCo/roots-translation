@@ -1,0 +1,31 @@
+{
+  "key": "yamma",
+  "language": "aramaic",
+  "root": "yam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יַמָּ֑א",
+        "transliteration": "yamma",
+        "englishLiteral": "the-sea",
+        "englishNatural": "the sea",
+        "root": "yam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "סָלְקָ֖ן מִן־ **יַמָּ֑א** שָׁנְיָ֖ן דָּ֥א",
+        "transliteration": "salqan min- **yamma** shanyan da",
+        "englishLiteral": "coming_up from- **the-sea** different this",
+        "englishNatural": "coming up from **the sea** different this"
+      }
+    }
+  ]
+}

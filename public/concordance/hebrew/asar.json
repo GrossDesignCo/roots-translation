@@ -1,0 +1,31 @@
+{
+  "key": "asar",
+  "language": "hebrew",
+  "root": "asar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "עָשָׂר",
+        "transliteration": "asar",
+        "englishLiteral": "ten",
+        "englishNatural": "ten",
+        "root": "asar",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הַשֵּׁנִי בְּשִׁבְעָה־ **עָשָׂר** יוֹם לַחֹדֶשׁ",
+        "transliteration": "haSheni beShivah- **asar** yom laChodesh",
+        "englishLiteral": "the-second in-seven- **ten** day to-the-month",
+        "englishNatural": "the second in seven **ten** days to the month"
+      }
+    }
+  ]
+}

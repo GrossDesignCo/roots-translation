@@ -1,0 +1,31 @@
+{
+  "key": "legan-",
+  "language": "hebrew",
+  "root": "gan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לְגַן־",
+        "transliteration": "leGan-",
+        "englishLiteral": "to-Garden",
+        "englishNatural": "of Garden",
+        "root": "gan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּשְׁכֵּן מִקֶּדֶם **לְגַן־** עֵדֶן אֶת־",
+        "transliteration": "vayYashken miQedem **leGan-** Eden et-",
+        "englishLiteral": "and-he-caused-to-dwell from-east **to-Garden** Delight (Eden) ↳",
+        "englishNatural": "and he caused to dwell east **of Garden** of Delight (Eden) ↳"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "avot",
+  "language": "hebrew",
+  "root": "avot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אָבוֹת",
+        "transliteration": "avot",
+        "englishLiteral": "fathers",
+        "englishNatural": "fathers",
+        "root": "avot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פֹּקֵד עֲוֹן **אָבוֹת** עַל־ בָּנִים",
+        "transliteration": "poqed avon **avot** al- banim",
+        "englishLiteral": "visiting twisting **fathers** over- sons",
+        "englishNatural": "visiting twisting **fathers** on sons"
+      }
+    }
+  ]
+}

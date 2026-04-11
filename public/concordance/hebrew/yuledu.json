@@ -1,0 +1,33 @@
+{
+  "key": "yuledu",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "יֻלְּדוּ",
+        "transliteration": "yuledu",
+        "englishLiteral": "were-birthed",
+        "englishNatural": "were birthed",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה וּבָנוֹת **יֻלְּדוּ** לָהֶם",
+        "transliteration": "haAdamah uVanot **yuledu** lahem",
+        "englishLiteral": "the-earth and-daughters **were-birthed** to-them",
+        "englishNatural": "the earth and daughters **were birthed** to them"
+      }
+    }
+  ]
+}

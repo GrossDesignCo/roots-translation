@@ -1,0 +1,31 @@
+{
+  "key": "oy-",
+  "language": "hebrew",
+  "root": "oy",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אוֹי־",
+        "transliteration": "oy-",
+        "englishLiteral": "Woe-",
+        "englishNatural": "Woe",
+        "root": "oy",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "וָאֹמַר **אוֹי־** לִי כִּי־",
+        "transliteration": "vaOmar **oy-** li ki-",
+        "englishLiteral": "And-I-said **Woe-** to-me that-",
+        "englishNatural": "And I said **Woe** to me that"
+      }
+    }
+  ]
+}

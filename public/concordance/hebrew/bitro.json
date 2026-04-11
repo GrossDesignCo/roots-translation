@@ -1,0 +1,31 @@
+{
+  "key": "bitro",
+  "language": "hebrew",
+  "root": "beter",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "בִּתְרוֹ",
+        "transliteration": "bitro",
+        "englishLiteral": "piece-of-him",
+        "englishNatural": "piece of him",
+        "root": "beter",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּתֵּן אִישׁ־ **בִּתְרוֹ** לִקְרַאת רֵעֵהוּ",
+        "transliteration": "vayiten ish- **bitro** liqrat reehu",
+        "englishLiteral": "and-he-gave man- **piece-of-him** to-meet friend-his",
+        "englishNatural": "and gave man **piece of him** to meet his friend"
+      }
+    }
+  ]
+}

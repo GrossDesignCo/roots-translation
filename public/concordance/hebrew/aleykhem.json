@@ -1,0 +1,55 @@
+{
+  "key": "aleykhem",
+  "language": "hebrew",
+  "root": "al",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אֲלֵיכֶ֖ם",
+        "transliteration": "aleykhem",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ יִשְׁמַ֥ע **אֲלֵיכֶ֖ם** פַּרְעֹ֑ה לְמַ֛עַן",
+        "transliteration": "lo- yishma **aleykhem** Paroh lemaan",
+        "englishLiteral": "not- he-will-hear **to-you** Pharaoh for-sake-of",
+        "englishNatural": "not will hear **to you** Pharaoh for the sake of"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "עֲלֵיכֶם",
+        "transliteration": "aleykhem",
+        "englishLiteral": "over-you",
+        "englishNatural": "is over you",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַגָּדוֹל הַזֶּה **עֲלֵיכֶם**",
+        "transliteration": "haGadol haZeh **aleykhem**",
+        "englishLiteral": "the-great the-this **over-you**",
+        "englishNatural": "the great the this **is over you**"
+      }
+    }
+  ]
+}

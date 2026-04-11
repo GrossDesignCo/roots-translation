@@ -1,0 +1,33 @@
+{
+  "key": "yodey",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "יֹדְעֵי",
+        "transliteration": "yodey",
+        "englishLiteral": "knowing",
+        "englishNatural": "knowing",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וִהְיִיתֶם כֵּאלֹהִים **יֹדְעֵי** טוֹב וָרָע׃",
+        "transliteration": "viHyiytem keElohim **yodey** tov vaRa",
+        "englishLiteral": "and-you_all-will-be as-Gods **knowing** good and-bad",
+        "englishNatural": "and you-all will be as God **knowing** good and bad"
+      }
+    }
+  ]
+}

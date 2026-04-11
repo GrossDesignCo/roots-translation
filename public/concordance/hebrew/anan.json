@@ -1,0 +1,31 @@
+{
+  "key": "anan",
+  "language": "hebrew",
+  "root": "anan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "עָנָן",
+        "transliteration": "anan",
+        "englishLiteral": "cloud",
+        "englishNatural": "cloud",
+        "root": "anan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הַצָּפוֹן **עָנָן** גָּדוֹל וְאֵשׁ",
+        "transliteration": "min- haTzafon **anan** gadol veEsh",
+        "englishLiteral": "from- the-north **cloud** great and-fire",
+        "englishNatural": "from the north **cloud** a great and fire"
+      }
+    }
+  ]
+}

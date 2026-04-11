@@ -1,0 +1,79 @@
+{
+  "key": "ushmonim",
+  "language": "hebrew",
+  "root": "shmonim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 25
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וּשְׁמֹנִים",
+        "transliteration": "uShmonim",
+        "englishLiteral": "and-eighty",
+        "englishNatural": "and eighty",
+        "root": "shmonim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "מְתוּשָׁלַח שֶׁבַע **וּשְׁמֹנִים** שָׁנָה וּמְאַת",
+        "transliteration": "Metushalach sheva **uShmonim** shanah uMeat",
+        "englishLiteral": "Man-of-the-Dart (Methuselah) seven **and-eighty** year and-hundred",
+        "englishNatural": "And Man-of-the-Dart (Methuselah) seven **and eighty** years and a hundred"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 26
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וּשְׁמֹנִים",
+        "transliteration": "uShmonim",
+        "englishLiteral": "and-eighty",
+        "englishNatural": "and eighty",
+        "root": "shmonim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "לָמֶךְ שְׁתַּיִם **וּשְׁמֹנִים** שָׁנָה וּשְׁבַע",
+        "transliteration": "Lemekh shtayim **uShmonim** shanah uSheva",
+        "englishLiteral": "Powerful (Lamech) two **and-eighty** year and-seven",
+        "englishNatural": "Powerful (Lamech) two **and eighty** years and seven"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 28
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וּשְׁמֹנִים",
+        "transliteration": "uShmonim",
+        "englishLiteral": "and-eighty",
+        "englishNatural": "and eighty",
+        "root": "shmonim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "לֶמֶךְ שְׁתַּיִם **וּשְׁמֹנִים** שָׁנָה וּמְאַת",
+        "transliteration": "Lemekh shtayim **uShmonim** shanah uMeat",
+        "englishLiteral": "Lamech two **and-eighty** year and-hundred",
+        "englishNatural": "And Lamech two **and eighty** years and a hundred"
+      }
+    }
+  ]
+}

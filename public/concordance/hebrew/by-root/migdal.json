@@ -1,0 +1,54 @@
+{
+  "root": "migdal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּמִגְדָּל",
+        "transliteration": "uMigdal",
+        "englishLiteral": "and-tower",
+        "englishNatural": "and a tower",
+        "root": "migdal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָּנוּ עִיר **וּמִגְדָּל** וְרֹאשׁוֹ בַשָּׁמַיִם",
+        "transliteration": "lanu ir **uMigdal** veRosho baShamayim",
+        "englishLiteral": "for-us city **and-tower** and-its-head in-heavens",
+        "englishNatural": "for us a city **and a tower** and its head in the heavens"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הַמִּגְדָּל",
+        "transliteration": "haMigdal",
+        "englishLiteral": "the-tower",
+        "englishNatural": "the tower",
+        "root": "migdal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָעִיר וְאֶת־ **הַמִּגְדָּל** אֲשֶׁר בָּנוּ",
+        "transliteration": "haIr veEt- **haMigdal** asher banu",
+        "englishLiteral": "the-city and-↳ **the-tower** which they-had-built",
+        "englishNatural": "the city and **the tower** which had built"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "kleis",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "κλεῖν",
+        "transliteration": "klein",
+        "englishLiteral": "key",
+        "englishNatural": "key",
+        "root": "kleis",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ἔχοντα τὴν **κλεῖν** τῆς ἀβύσσου",
+        "transliteration": "echonta tēn **klein** tēs abussou",
+        "englishLiteral": "having the **key** the abyss",
+        "englishNatural": "having the **key** the abyss"
+      }
+    }
+  ]
+}

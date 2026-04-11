@@ -1,0 +1,59 @@
+{
+  "key": "shamati",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שָׁמַעְתִּי",
+        "transliteration": "shamati",
+        "englishLiteral": "I-heard",
+        "englishNatural": "I heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ קֹלְךָ **שָׁמַעְתִּי** בַּגָּן וָאִירָא",
+        "transliteration": "et- qolkha **shamati** baGan vaIra",
+        "englishLiteral": "↳ Your-voice **I-heard** in-Garden and-I-feared",
+        "englishNatural": "↳ Your voice **I heard** in Garden and I feared"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "שָׁמַעְתִּי",
+        "transliteration": "shamati",
+        "englishLiteral": "I-hear",
+        "englishNatural": "I have heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ צַעֲקָתָם **שָׁמַעְתִּי** מִפְּנֵי נֹגְשָׂיו",
+        "transliteration": "veEt- tzaaqatam **shamati** miPenei nogsav",
+        "englishLiteral": "and-↳ outcry-their **I-hear** from-faces-of taskmasters-his",
+        "englishNatural": "and their outcry **I have heard** from the faces of his taskmasters"
+      }
+    }
+  ]
+}

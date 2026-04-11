@@ -1,0 +1,31 @@
+{
+  "key": "haberit",
+  "language": "hebrew",
+  "root": "berit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַבְּרִית",
+        "transliteration": "haBerit",
+        "englishLiteral": "the-covenant",
+        "englishNatural": "the covenant",
+        "root": "berit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֹאת אוֹת־ **הַבְּרִית** אֲשֶׁר־ אֲנִי",
+        "transliteration": "zot ot- **haBerit** asher- ani",
+        "englishLiteral": "this sign-of **the-covenant** which- I",
+        "englishNatural": "This the sign of **the covenant** which I"
+      }
+    }
+  ]
+}

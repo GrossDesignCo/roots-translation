@@ -1,0 +1,31 @@
+{
+  "key": "lezarakha",
+  "language": "hebrew",
+  "root": "zara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 18
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לְזַרְעֲךָ",
+        "transliteration": "leZarakha",
+        "englishLiteral": "to-seed-of-you",
+        "englishNatural": "To your seed",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּרִית לֵאמֹר **לְזַרְעֲךָ** נָתַתִּי אֶת־",
+        "transliteration": "berit lemor **leZarakha** natati et-",
+        "englishLiteral": "covenant to-say **to-seed-of-you** I-gave ↳",
+        "englishNatural": "a covenant saying **To your seed** I have given ↳"
+      }
+    }
+  ]
+}

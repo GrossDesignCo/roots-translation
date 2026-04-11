@@ -1,0 +1,33 @@
+{
+  "key": "vayyafetz",
+  "language": "hebrew",
+  "root": "puts",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּפֶץ",
+        "transliteration": "vayYafetz",
+        "englishLiteral": "And-he-scattered",
+        "englishNatural": "scattered",
+        "root": "puts",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּפֶץ** יְהוָה אֹתָם",
+        "transliteration": "**vayYafetz** YHWH otam",
+        "englishLiteral": "**And-he-scattered** He_Who_Is (YHWH) ↳ them",
+        "englishNatural": "**scattered** And He-Who-Is (YHWH) them"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "root": "mashah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "מְשִׁיתִהוּ",
+        "transliteration": "meshitihu",
+        "englishLiteral": "I-drew_out-him",
+        "englishNatural": "I drew-him-out",
+        "root": "mashah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הַמַּיִם **מְשִׁיתִהוּ**",
+        "transliteration": "min- haMayim **meshitihu**",
+        "englishLiteral": "from- the-waters **I-drew_out-him**",
+        "englishNatural": "from the waters **I drew-him-out**"
+      }
+    }
+  ]
+}

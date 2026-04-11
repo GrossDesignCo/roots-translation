@@ -1,0 +1,59 @@
+{
+  "key": "yishma",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יִשְׁמַ֥ע",
+        "transliteration": "yishma",
+        "englishLiteral": "he-will-hear",
+        "englishNatural": "will hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁ֔ה לֹא־ **יִשְׁמַ֥ע** אֲלֵיכֶ֖ם פַּרְעֹ֑ה",
+        "transliteration": "Moshe lo- **yishma** aleykhem Paroh",
+        "englishLiteral": "Drawn_Out (Moses) not- **he-will-hear** to-you Pharaoh",
+        "englishNatural": "Drawn-Out (Moses) not **will hear** to you Pharaoh"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "יִשְׁמַע",
+        "transliteration": "yishma",
+        "englishLiteral": "Will-hear",
+        "englishNatural": "will hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**יִשְׁמַע** חָכָם וְיוֹסֵף",
+        "transliteration": "**yishma** chakam veYosef",
+        "englishLiteral": "**Will-hear** wise-man and-will-add",
+        "englishNatural": "**will hear** A wise man and will add"
+      }
+    }
+  ]
+}

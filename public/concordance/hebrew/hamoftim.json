@@ -1,0 +1,55 @@
+{
+  "key": "hamoftim",
+  "language": "hebrew",
+  "root": "mofet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הַמֹּפְתִים",
+        "transliteration": "haMoftim",
+        "englishLiteral": "the-wonders",
+        "englishNatural": "the wonders",
+        "root": "mofet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רְאֵה כָּל־ **הַמֹּפְתִים** אֲשֶׁר־ שַׂמְתִּי",
+        "transliteration": "reeh kol- **haMoftim** asher- samti",
+        "englishLiteral": "see all- **the-wonders** which- placed",
+        "englishNatural": "see all **the wonders** which I have placed"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הַמֹּפְתִ֥ים",
+        "transliteration": "haMoftim",
+        "englishLiteral": "the-wonders",
+        "englishNatural": "the wonders",
+        "root": "mofet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ כָּל־ **הַמֹּפְתִ֥ים** הָאֵ֖לֶּה לִפְנֵ֣י",
+        "transliteration": "et- kol- **haMoftim** haEleh lifney",
+        "englishLiteral": "↳- all- **the-wonders** the-these to-faces-of",
+        "englishNatural": "↳- all **the wonders** these to the face of"
+      }
+    }
+  ]
+}

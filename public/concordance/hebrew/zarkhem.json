@@ -1,0 +1,31 @@
+{
+  "key": "zarkhem",
+  "language": "hebrew",
+  "root": "zera",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "זַרְעֲכֶם",
+        "transliteration": "zarkhem",
+        "englishLiteral": "your-seed",
+        "englishNatural": "your seed",
+        "root": "zera",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִתְּכֶם וְאֶת־ **זַרְעֲכֶם** אַחֲרֵיכֶם",
+        "transliteration": "itkhem veEt- **zarkhem** acharekhem",
+        "englishLiteral": "with-you and-↳ **your-seed** after-you",
+        "englishNatural": "with you and **your seed** after you"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "key": "arur",
+  "language": "hebrew",
+  "root": "arar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אָרוּר",
+        "transliteration": "arur",
+        "englishLiteral": "cursed",
+        "englishNatural": "cursed",
+        "root": "arar",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "עָשִׂיתָ זֹּאת **אָרוּר** אַתָּה מִכֹּל",
+        "transliteration": "asita zot **arur** atah mikol",
+        "englishLiteral": "you-made this **cursed** you from-all",
+        "englishNatural": "you have made this **cursed** are you from all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אָרוּר",
+        "transliteration": "arur",
+        "englishLiteral": "cursed",
+        "englishNatural": "cursed",
+        "root": "arar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַתָּה **אָרוּר** אַתָּה מִן־",
+        "transliteration": "veAttah **arur** attah min-",
+        "englishLiteral": "And-now **cursed** you from-",
+        "englishNatural": "And now **cursed** are you from"
+      }
+    }
+  ]
+}

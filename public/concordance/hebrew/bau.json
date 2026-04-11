@@ -1,0 +1,59 @@
+{
+  "key": "bau",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בָּאוּ",
+        "transliteration": "bau",
+        "englishLiteral": "they-came",
+        "englishNatural": "they came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנַיִם שְׁנַיִם **בָּאוּ** אֶל־ נֹחַ",
+        "transliteration": "shnayim shnayim **bau** el- Noach",
+        "englishLiteral": "two two **they-came** to- Rest (Noah)",
+        "englishNatural": "two two **they came** to Rest (Noah)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "בָּאוּ",
+        "transliteration": "bau",
+        "englishLiteral": "came",
+        "englishNatural": "came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַחַר **בָּאוּ** מֹשֶׁה וְאַהֲרֹן",
+        "transliteration": "veAchar **bau** Moshe veAharon",
+        "englishLiteral": "And-after **came** Drawn_Out (Moses) and-Light_Bringer (Aaron)",
+        "englishNatural": "And after **came** Drawn-Out (Moses) and Light-Bringer (Aaron)"
+      }
+    }
+  ]
+}

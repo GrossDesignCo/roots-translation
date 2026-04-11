@@ -1,0 +1,102 @@
+{
+  "root": "tannin",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הַתַּנִּינִ֖ם",
+        "transliteration": "haTanninim",
+        "englishLiteral": "the-monsters",
+        "englishNatural": "the monsters",
+        "root": "tannin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֔ים אֶת־ **הַתַּנִּינִ֖ם** הַגְּדֹלִ֑ים וְאֵ֣ת",
+        "transliteration": "Elohim et- **haTanninim** haGdolim veEt",
+        "englishLiteral": "Gods ↳ **the-monsters** the-greats And-↳",
+        "englishNatural": "And God ↳ **the monsters** the greats And"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "לְתַנִּין",
+        "transliteration": "leTannin",
+        "englishLiteral": "to-monster",
+        "englishNatural": "to a monster",
+        "root": "tannin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פַרְעֹה יְהִי **לְתַנִּין**",
+        "transliteration": "Paroh yehi **leTannin**",
+        "englishLiteral": "Pharaoh let-him-be **to-monster**",
+        "englishNatural": "Pharaoh let it be **to a monster**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "לְתַנִּין",
+        "transliteration": "leTannin",
+        "englishLiteral": "to-monster",
+        "englishNatural": "to a monster",
+        "root": "tannin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֲבָדָיו וַיְהִי **לְתַנִּין**",
+        "transliteration": "avadav vaYehi **leTannin**",
+        "englishLiteral": "servants-his and-he-was **to-monster**",
+        "englishNatural": "his servants and it was **to a monster**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לְתַנִּינִם",
+        "transliteration": "leTanninim",
+        "englishLiteral": "to-monsters",
+        "englishNatural": "to monsters",
+        "root": "tannin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַטֵּהוּ וַיִּהְיוּ **לְתַנִּינִם** וַיִּבְלַע מַטֵּה־",
+        "transliteration": "mattehu vaYihyu **leTanninim** vaYivla mateh-",
+        "englishLiteral": "branch-his and-they-were **to-monsters** and-swallowed branch-of-",
+        "englishNatural": "his branch and they were **to monsters** swallowed and the branch of"
+      }
+    }
+  ]
+}

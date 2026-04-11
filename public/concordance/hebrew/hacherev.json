@@ -1,0 +1,31 @@
+{
+  "key": "hacherev",
+  "language": "hebrew",
+  "root": "cherev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הַחֶרֶב",
+        "transliteration": "haCherev",
+        "englishLiteral": "the-sword",
+        "englishNatural": "the Sword",
+        "root": "cherev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵת לַהַט **הַחֶרֶב** הַמִּתְהַפֶּכֶת לִשְׁמֹר",
+        "transliteration": "veEt lahat **haCherev** haMithapekhet lishMor",
+        "englishLiteral": "and-↳ bright_flash **the-sword** the-overturning to-keep",
+        "englishNatural": "and Bright-Flash **the Sword** the Overturning to keep"
+      }
+    }
+  ]
+}

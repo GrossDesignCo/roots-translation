@@ -1,0 +1,55 @@
+{
+  "key": "dam",
+  "language": "hebrew",
+  "root": "dam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "דַּם",
+        "transliteration": "dam",
+        "englishLiteral": "blood-of",
+        "englishNatural": "the blood of",
+        "root": "dam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֹׁפֵךְ **דַּם** הָאָדָם בָּאָדָם",
+        "transliteration": "shofekh **dam** haAdam baAdam",
+        "englishLiteral": "One-pouring **blood-of** the-Earthling (Adam) in-Earthling (Adam)",
+        "englishNatural": "One-pouring **the blood of** the Earthling (Adam) in Earthling (Adam)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "דָּם",
+        "transliteration": "dam",
+        "englishLiteral": "blood",
+        "englishNatural": "blood",
+        "root": "dam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תִּתֵּן עָלֵינוּ **דָּם** נָקִיא כִּי־",
+        "transliteration": "titten alenu **dam** naqi ki-",
+        "englishLiteral": "give over-us **blood** innocent that-",
+        "englishNatural": "and give over us **blood** innocent that"
+      }
+    }
+  ]
+}

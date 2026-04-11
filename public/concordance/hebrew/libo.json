@@ -1,0 +1,31 @@
+{
+  "key": "libo",
+  "language": "hebrew",
+  "root": "lev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לִבּוֹ",
+        "transliteration": "libo",
+        "englishLiteral": "his-heart",
+        "englishNatural": "his heart",
+        "root": "lev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֶל־ **לִבּוֹ** לֹא־ אֹסִף",
+        "transliteration": "YHWH el- **libo** lo- osif",
+        "englishLiteral": "He_Who_Is (YHWH) to- **his-heart** not- I-will-add",
+        "englishNatural": "and He-Who-Is (YHWH) to **his heart** not I will add"
+      }
+    }
+  ]
+}

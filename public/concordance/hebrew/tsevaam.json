@@ -1,0 +1,31 @@
+{
+  "key": "tsevaam",
+  "language": "hebrew",
+  "root": "tsava",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "צְבָאָם׃",
+        "transliteration": "tsevaam",
+        "englishLiteral": "their-host",
+        "englishNatural": "their host",
+        "root": "tsava",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָאָרֶץ וְכָל־ **צְבָאָם׃**",
+        "transliteration": "veHaAretz veKol- **tsevaam**",
+        "englishLiteral": "and-the-land and-all- **their-host**",
+        "englishNatural": "and the land and all **their host**"
+      }
+    }
+  ]
+}

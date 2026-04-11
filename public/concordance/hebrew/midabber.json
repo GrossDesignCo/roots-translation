@@ -1,0 +1,33 @@
+{
+  "key": "midabber",
+  "language": "hebrew",
+  "root": "dabar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מִדַּבֵּר",
+        "transliteration": "midabber",
+        "englishLiteral": "speaking",
+        "englishNatural": "him speaking",
+        "root": "dabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וָאֶשְׁמַע אֵת **מִדַּבֵּר** אֵלָי",
+        "transliteration": "vaEshma et **midabber** elai",
+        "englishLiteral": "and-I-heard ↳ **speaking** to-me",
+        "englishNatural": "and I heard ↳ **him speaking** to me"
+      }
+    }
+  ]
+}

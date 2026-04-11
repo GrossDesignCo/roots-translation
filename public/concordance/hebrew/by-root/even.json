@@ -1,0 +1,78 @@
+{
+  "root": "even",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְאֶבֶן",
+        "transliteration": "veEven",
+        "englishLiteral": "and-stone",
+        "englishNatural": "and the stone",
+        "root": "even",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁם הַבְּדֹלַח **וְאֶבֶן** הַשֹּׁהַם׃",
+        "transliteration": "sham haBedolach **veEven** haShoham",
+        "englishLiteral": "there the-bedolach **and-stone** the-onyx",
+        "englishNatural": "there is the bedolach **and the stone** of onyx"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לְאָבֶן",
+        "transliteration": "leEven",
+        "englishLiteral": "for-stone",
+        "englishNatural": "for stone",
+        "root": "even",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶם הַלְּבֵנָה **לְאָבֶן** וְהַחֵמָר הָיָה",
+        "transliteration": "lahem haLevenah **leEven** veHacheymar hayah",
+        "englishLiteral": "to-them the-brick **for-stone** and-the-bitumen was",
+        "englishNatural": "to them And the brick **for stone** and the bitumen was"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אֶבֶן־",
+        "transliteration": "even-",
+        "englishLiteral": "stone-of-",
+        "englishNatural": "a stone of",
+        "root": "even",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֹאשָׁם כְּמַרְאֵה **אֶבֶן־** סַפִּיר דְּמוּת",
+        "transliteration": "rosham keMareeh **even-** sappir demut",
+        "englishLiteral": "head-his like-appearance-of **stone-of-** sapphire likeness-of",
+        "englishNatural": "his head like the appearance of **a stone of** sapphire the likeness of"
+      }
+    }
+  ]
+}

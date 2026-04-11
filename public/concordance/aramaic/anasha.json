@@ -1,0 +1,79 @@
+{
+  "key": "anasha",
+  "language": "aramaic",
+  "root": "enash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 38
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֲנָשָׁא",
+        "transliteration": "anasha",
+        "englishLiteral": "Mortal_Man (Enash)-the",
+        "englishNatural": "the Mortal-Man (Enash)",
+        "root": "enash",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דָיְרִין בְּנֵי **אֲנָשָׁא** חֵיוַת בָרָא",
+        "transliteration": "dayerin benei **anasha** cheivat bara",
+        "englishLiteral": "dwelling sons-of **Mortal_Man (Enash)-the** beasts-of field-the",
+        "englishNatural": "dwell the sons of **the Mortal-Man (Enash)** the beasts of the field"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אֲנָשָׁא",
+        "transliteration": "anasha",
+        "englishLiteral": "Mortal_Man (Enash)-the",
+        "englishNatural": "the Mortal-Man (Enash)",
+        "root": "anash",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֶהֱוֺן בִּזְרַע **אֲנָשָׁא** וְלָא־ לֶהֱוֺן",
+        "transliteration": "lehevon biZera **anasha** veLa- lehevon",
+        "englishLiteral": "to-be-them in-seed **Mortal_Man (Enash)-the** and-not- to-be-them",
+        "englishNatural": "to be in the seed of **the Mortal-Man (Enash)** not and they will be"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "אֲנָשָׁא֙",
+        "transliteration": "anasha",
+        "englishLiteral": "Mortal_Man (Enash)-the",
+        "englishNatural": "the Mortal-Man (Enash)",
+        "root": "enash",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַיְנִ֜ין כְּעַיְנֵ֤י **אֲנָשָׁא֙** בְּקַרְנָא־ דָ֔א",
+        "transliteration": "ayinin keAynei **anasha** beQarna- da",
+        "englishLiteral": "eyes like-eyes-of **Mortal_Man (Enash)-the** in-horn- this",
+        "englishNatural": "eyes like the eyes of **the Mortal-Man (Enash)** horn in this"
+      }
+    }
+  ]
+}

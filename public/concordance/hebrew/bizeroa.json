@@ -1,0 +1,31 @@
+{
+  "key": "bizeroa",
+  "language": "hebrew",
+  "root": "zeroa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "בִּזְרוֹעַ",
+        "transliteration": "biZeroa",
+        "englishLiteral": "in-arm",
+        "englishNatural": "arm",
+        "root": "zeroa",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגָאַלְתִּי אֶתְכֶם **בִּזְרוֹעַ** נְטוּיָה וּבִשְׁפָטִים",
+        "transliteration": "veGaalti etkhem **biZeroa** netuyah uVishfatim",
+        "englishLiteral": "and-I-will-redeem ↳you **in-arm** stretched_out and-in-justices",
+        "englishNatural": "and I will redeem you **arm** in a stretched-out justices"
+      }
+    }
+  ]
+}

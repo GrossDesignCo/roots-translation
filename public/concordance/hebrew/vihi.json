@@ -1,0 +1,33 @@
+{
+  "key": "vihi",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וִיהִי",
+        "transliteration": "vihi",
+        "englishLiteral": "and-let-be",
+        "englishNatural": "and let it be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּתוֹךְ הַמָּיִם֙ **וִיהִי** מַבְדִּיל בֵּין",
+        "transliteration": "beTokh haMayim **vihi** mavdil beyn",
+        "englishLiteral": "in-midst-of the-waters **and-let-be** separating between",
+        "englishNatural": "in the midst of the waters **and let it be** separating between"
+      }
+    }
+  ]
+}

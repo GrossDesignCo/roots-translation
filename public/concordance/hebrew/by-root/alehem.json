@@ -1,0 +1,30 @@
+{
+  "root": "alehem",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֲלֵהֶם",
+        "transliteration": "alehem",
+        "englishLiteral": "to-them",
+        "englishNatural": "to them",
+        "root": "alehem",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹא שָׁמַע **אֲלֵהֶם** כַּאֲשֶׁר דִּבֶּר",
+        "transliteration": "veLo shama **alehem** kaAsher diber",
+        "englishLiteral": "and-not heard **to-them** as-which spoke",
+        "englishNatural": "not and he heard **to them** as which had spoken"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "hitpalel",
+  "language": "hebrew",
+  "root": "palal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הִתְפַּלֵּל",
+        "transliteration": "hitpalel",
+        "englishLiteral": "pray",
+        "englishNatural": "pray",
+        "root": "palal",
+        "morphology": {
+          "type": "verb",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "בַיהוָה וָבָךְ **הִתְפַּלֵּל** אֶל יְהוָה",
+        "transliteration": "vaYHWH vaVeKha **hitpalel** el YHWH",
+        "englishLiteral": "against-He_Who_Is (YHWH) and-against-you **pray** to He_Who_Is (YHWH)",
+        "englishNatural": "against He-Who-Is (YHWH) and against you **pray** to He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

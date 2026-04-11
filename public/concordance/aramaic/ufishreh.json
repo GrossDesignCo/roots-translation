@@ -1,0 +1,31 @@
+{
+  "key": "ufishreh",
+  "language": "aramaic",
+  "root": "peshar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 36
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וּפִשְׁרֵהּ",
+        "transliteration": "uFishreH",
+        "englishLiteral": "and-interpretation-its",
+        "englishNatural": "and its interpretation",
+        "root": "peshar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דְּנָה חֶלְמָא **וּפִשְׁרֵהּ** נֵאמַר קֳדָם",
+        "transliteration": "denah chelma **uFishreH** nemar qodam",
+        "englishLiteral": "this dream-the **and-interpretation-its** we-will-tell before",
+        "englishNatural": "This the dream **and its interpretation** we will tell before"
+      }
+    }
+  ]
+}

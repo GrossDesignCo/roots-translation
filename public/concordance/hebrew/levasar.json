@@ -1,0 +1,31 @@
+{
+  "key": "levasar",
+  "language": "hebrew",
+  "root": "basar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 24
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לְבָשָׂר",
+        "transliteration": "leVasar",
+        "englishLiteral": "to-flesh",
+        "englishNatural": "flesh",
+        "root": "basar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאִשְׁתּוֹ וְהָיוּ **לְבָשָׂר** אֶחָד׃",
+        "transliteration": "beIshto veHayu **leVasar** echad",
+        "englishLiteral": "in-his-woman and-will-be **to-flesh** one",
+        "englishNatural": "in his woman and will become **flesh** one"
+      }
+    }
+  ]
+}

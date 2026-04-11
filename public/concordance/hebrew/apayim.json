@@ -1,0 +1,55 @@
+{
+  "key": "apayim",
+  "language": "hebrew",
+  "root": "aph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "אַפַּיִם",
+        "transliteration": "apayim",
+        "englishLiteral": "nostrils",
+        "englishNatural": "nostrils",
+        "root": "af",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחַנּוּן אֶרֶךְ **אַפַּיִם** וְרַב־ חֶסֶד",
+        "transliteration": "veChannun erekh **apayim** veRav- chesed",
+        "englishLiteral": "and-gracious long **nostrils** and-many- steadfast_love",
+        "englishNatural": "and gracious long of **nostrils** and abundant in steadfast-love"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 26,
+      "word": {
+        "originalScript": "אַפַּיִם",
+        "transliteration": "apayim",
+        "englishLiteral": "nostrils",
+        "englishNatural": "of nostrils",
+        "root": "aph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְרַחוּם אֶרֶךְ **אַפַּיִם** וְרַב־ חֶסֶד",
+        "transliteration": "veRachum erekh **apayim** veRav- chesed",
+        "englishLiteral": "and-compassionate long **nostrils** and-great- steadfast_love",
+        "englishNatural": "and compassionate long **of nostrils** and great of steadfast-love"
+      }
+    }
+  ]
+}

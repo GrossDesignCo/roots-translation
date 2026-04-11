@@ -1,0 +1,32 @@
+{
+  "key": "uveamdam",
+  "language": "hebrew",
+  "root": "amad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וּבְעָמְדָם",
+        "transliteration": "uVeAmdam",
+        "englishLiteral": "and-in-standing-their",
+        "englishNatural": "and in their standing",
+        "root": "amad",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct"
+        }
+      },
+      "context": {
+        "hebrew": "בְּלֶכְתָּם יֵלֵכוּ **וּבְעָמְדָם** יַעֲמֹדוּ וּבְהִנָּשְׂאָם",
+        "transliteration": "beLekhtan yelekhu **uVeAmdam** yaamodu uVehinasam",
+        "englishLiteral": "In-going-their they-went **and-in-standing-their** they-stood and-in-being-lifted-their",
+        "englishNatural": "In their going they went **and in their standing** they stood and in their being-lifted"
+      }
+    }
+  ]
+}

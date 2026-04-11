@@ -1,0 +1,31 @@
+{
+  "key": "ish-",
+  "language": "hebrew",
+  "root": "ish",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אִישׁ־",
+        "transliteration": "ish-",
+        "englishLiteral": "man-",
+        "englishNatural": "man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּתָּוֶךְ וַיִּתֵּן **אִישׁ־** בִּתְרוֹ לִקְרַאת",
+        "transliteration": "batavekh vayiten **ish-** bitro liqrat",
+        "englishLiteral": "in-midst and-he-gave **man-** piece-of-him to-meet",
+        "englishNatural": "in the midst and gave **man** piece of him to meet"
+      }
+    }
+  ]
+}

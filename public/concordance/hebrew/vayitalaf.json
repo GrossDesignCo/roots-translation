@@ -1,0 +1,33 @@
+{
+  "key": "vayitalaf",
+  "language": "hebrew",
+  "root": "alaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וַיִּתְעַלָּף",
+        "transliteration": "vaYitalaf",
+        "englishLiteral": "and-fainted",
+        "englishNatural": "and he fainted",
+        "root": "alaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "רֹאשׁ יוֹנָה **וַיִּתְעַלָּף** וַיִּשְׁאַל אֶת־",
+        "transliteration": "rosh Yonah **vaYitalaf** vaYishaal et-",
+        "englishLiteral": "head Dove (Jonah) **and-fainted** and-asked ↳",
+        "englishNatural": "the head of Dove (Jonah) **and he fainted** and he asked ↳"
+      }
+    }
+  ]
+}

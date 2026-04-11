@@ -1,0 +1,31 @@
+{
+  "key": "laishah",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לָאִשָּׁה",
+        "transliteration": "laIshah",
+        "englishLiteral": "to-the-woman",
+        "englishNatural": "to the woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהִים **לָאִשָּׁה** מַה־ זֹּאת",
+        "transliteration": "YHWH Elohim **laIshah** mah- zot",
+        "englishLiteral": "He_Who_Is (YHWH) Gods **to-the-woman** What- this",
+        "englishNatural": "And He-Who-Is (YHWH) God **to the woman** What is this"
+      }
+    }
+  ]
+}

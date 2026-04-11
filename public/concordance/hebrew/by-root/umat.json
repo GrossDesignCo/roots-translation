@@ -1,0 +1,54 @@
+{
+  "root": "umat",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לְעֻמָּתָם",
+        "transliteration": "leUmatam",
+        "englishLiteral": "to-alongside-them",
+        "englishNatural": "alongside them",
+        "root": "umat",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָאוֹפַנִּים יִנָּשְׂאוּ **לְעֻמָּתָם** כִּי רוּחַ",
+        "transliteration": "veHaOphanim yinasu **leUmatam** ki ruach",
+        "englishLiteral": "and-the-wheels they-were-lifted **to-alongside-them** that wind-of",
+        "englishNatural": "and the wheels were lifted **alongside them** that the wind of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לְעֻמָּתָם",
+        "transliteration": "leUmatam",
+        "englishLiteral": "to-alongside-them",
+        "englishNatural": "to alongside them",
+        "root": "umat",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יִנָּשְׂאוּ הָאוֹפַנִּים **לְעֻמָּתָם** כִּי רוּחַ",
+        "transliteration": "yinasu haOphanim **leUmatam** ki ruach",
+        "englishLiteral": "they-were-lifted the-wheels **to-alongside-them** that wind-of",
+        "englishNatural": "were lifted the wheels **to alongside them** that the wind of"
+      }
+    }
+  ]
+}

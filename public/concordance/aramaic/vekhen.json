@@ -1,0 +1,31 @@
+{
+  "key": "vekhen",
+  "language": "aramaic",
+  "root": "ken",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וְכֵן֙",
+        "transliteration": "veKhen",
+        "englishLiteral": "and-thus",
+        "englishNatural": "and thus",
+        "root": "ken",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּ֣ין שניה **וְכֵן֙** אָמְרִ֣ין לַ֔הּ",
+        "transliteration": "beyn shinnah **veKhen** amrin lah",
+        "englishLiteral": "between teeth-its **and-thus** saying to-her",
+        "englishNatural": "between its teeth **and thus** they said to it"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "sivlot",
+  "language": "hebrew",
+  "root": "sevel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "סִבְלֹת",
+        "transliteration": "sivlot",
+        "englishLiteral": "burdens-of",
+        "englishNatural": "the burdens of",
+        "root": "sevel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶתְכֶם מִתַּחַת **סִבְלֹת** מִצְרַיִם וְהִצַּלְתִּי",
+        "transliteration": "etkhem mitachat **sivlot** Mitzrayim veHitzalti",
+        "englishLiteral": "↳you from-under **burdens-of** Double_Narrows (Egypt) and-I-will-deliver",
+        "englishNatural": "you from under **the burdens of** Double-Narrows (Egypt) and I will deliver"
+      }
+    }
+  ]
+}

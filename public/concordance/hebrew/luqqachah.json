@@ -1,0 +1,33 @@
+{
+  "key": "luqqachah",
+  "language": "hebrew",
+  "root": "lakach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לֻקֳּחָה",
+        "transliteration": "luqqachah",
+        "englishLiteral": "was-taken",
+        "englishNatural": "was taken",
+        "root": "lakach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי מֵאִישׁ **לֻקֳּחָה** זֹאת׃",
+        "transliteration": "ki meIsh **luqqachah** zot",
+        "englishLiteral": "that from-Man **was-taken** this",
+        "englishNatural": "that from Man **was taken** this"
+      }
+    }
+  ]
+}

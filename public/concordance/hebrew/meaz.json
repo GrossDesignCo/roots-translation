@@ -1,0 +1,31 @@
+{
+  "key": "meaz",
+  "language": "hebrew",
+  "root": "az",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מֵאָז",
+        "transliteration": "meAz",
+        "englishLiteral": "from-that_time",
+        "englishNatural": "from that-time",
+        "root": "az",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "קֶדֶם מִפְעָלָיו **מֵאָז**",
+        "transliteration": "qedem miphalav **meAz**",
+        "englishLiteral": "before from-works-his **from-that_time**",
+        "englishNatural": "before his works **from that-time**"
+      }
+    }
+  ]
+}

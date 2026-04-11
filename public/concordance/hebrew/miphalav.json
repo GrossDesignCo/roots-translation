@@ -1,0 +1,31 @@
+{
+  "key": "miphalav",
+  "language": "hebrew",
+  "root": "paal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מִפְעָלָיו",
+        "transliteration": "miphalav",
+        "englishLiteral": "from-works-his",
+        "englishNatural": "his works",
+        "root": "paal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דַּרְכּוֹ קֶדֶם **מִפְעָלָיו** מֵאָז",
+        "transliteration": "darko qedem **miphalav** meAz",
+        "englishLiteral": "way-his before **from-works-his** from-that_time",
+        "englishNatural": "his way before **his works** from that-time"
+      }
+    }
+  ]
+}

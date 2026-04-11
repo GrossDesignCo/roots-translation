@@ -1,0 +1,31 @@
+{
+  "key": "minehar",
+  "language": "hebrew",
+  "root": "nahar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 18
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "מִנְּהַר",
+        "transliteration": "miNehar",
+        "englishLiteral": "from-river-of",
+        "englishNatural": "from The River of",
+        "root": "nahar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ הַזֹּאת **מִנְּהַר** מִצְרַיִם עַד־",
+        "transliteration": "haAretz haZot **miNehar** Mitzrayim ad-",
+        "englishLiteral": "the-land the-this **from-river-of** Double_Narrows (Egypt) until-",
+        "englishNatural": "the land this **from The River of** Double-Narrows (Egypt) until"
+      }
+    }
+  ]
+}

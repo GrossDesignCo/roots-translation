@@ -1,0 +1,33 @@
+{
+  "key": "yigva",
+  "language": "hebrew",
+  "root": "gava",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 17
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "יִגְוָע",
+        "transliteration": "yigva",
+        "englishLiteral": "will-expire",
+        "englishNatural": "will expire",
+        "root": "gava",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ בָּאָרֶץ **יִגְוָע**",
+        "transliteration": "asher- baAretz **yigva**",
+        "englishLiteral": "which- in-land **will-expire**",
+        "englishNatural": "which in the land **will expire**"
+      }
+    }
+  ]
+}

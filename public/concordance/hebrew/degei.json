@@ -1,0 +1,31 @@
+{
+  "key": "degei",
+  "language": "hebrew",
+  "root": "dag",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 2
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "דְּגֵי",
+        "transliteration": "degei",
+        "englishLiteral": "fish-of",
+        "englishNatural": "fish of",
+        "root": "dag",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה וּבְכָל־ **דְּגֵי** הַיָּם בְּיֶדְכֶם",
+        "transliteration": "haAdamah uVekhol- **degei** haYam beYedkhem",
+        "englishLiteral": "the-soil and-in-all- **fish-of** the-sea in-hand-your",
+        "englishNatural": "the soil and in all **fish of** the sea in your hand"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "uqera",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וּקְרָא",
+        "transliteration": "uQera",
+        "englishLiteral": "and-call_out",
+        "englishNatural": "and call-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָעִיר הַגְּדוֹלָה **וּקְרָא** עָלֶיהָ כִּי־",
+        "transliteration": "haIr haGedolah **uQera** aleha ki-",
+        "englishLiteral": "the-city the-great **and-call_out** over-her that-",
+        "englishNatural": "the city the great **and call-out** over her that"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וּקְרָא",
+        "transliteration": "uQera",
+        "englishLiteral": "and-call_out",
+        "englishNatural": "and call-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָעִיר הַגְּדוֹלָה **וּקְרָא** אֵלֶיהָ אֶת־",
+        "transliteration": "haIr haGedolah **uQera** eleha et-",
+        "englishLiteral": "the-city the-great **and-call_out** to-her ↳",
+        "englishNatural": "The City The Great **and call-out** to her ↳"
+      }
+    }
+  ]
+}

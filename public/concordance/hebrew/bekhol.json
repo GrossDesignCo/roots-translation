@@ -1,0 +1,31 @@
+{
+  "key": "bekhol",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "בְּכֹל",
+        "transliteration": "beKhol",
+        "englishLiteral": "in-all",
+        "englishNatural": "in all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹף הַשָּׁמָיִם **בְּכֹל** אֲשֶׁר תִּרְמֹשׂ",
+        "transliteration": "of haShamayim **beKhol** asher tirmos",
+        "englishLiteral": "flyer-of the-skies **in-all** which it-creeps",
+        "englishNatural": "the flyer of the skies **in all** which creeps"
+      }
+    }
+  ]
+}

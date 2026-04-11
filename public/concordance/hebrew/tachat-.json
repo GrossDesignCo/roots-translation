@@ -1,0 +1,31 @@
+{
+  "key": "tachat-",
+  "language": "hebrew",
+  "root": "tachat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תַחַת־",
+        "transliteration": "tachat-",
+        "englishLiteral": "under-",
+        "englishNatural": "under",
+        "root": "tachat",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כֹּ֝ל שַׁ֣תָּה **תַחַת־** רַגְלָֽיו",
+        "transliteration": "kol shatah **tachat-** raglav",
+        "englishLiteral": "all you-have-appointed **under-** his-feet",
+        "englishNatural": "all you have appointed **under** his feet"
+      }
+    }
+  ]
+}

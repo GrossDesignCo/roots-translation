@@ -1,0 +1,31 @@
+{
+  "key": "ledov",
+  "language": "aramaic",
+  "root": "dov",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לְדֹ֗ב",
+        "transliteration": "leDov",
+        "englishLiteral": "to-bear",
+        "englishNatural": "to a bear",
+        "root": "dov",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תִנְיָנָ֜ה דָּמְיָ֣ה **לְדֹ֗ב** וְלִשְׂטַר־ חַד֙",
+        "transliteration": "tinyannah damyah **leDov** veListar- chad",
+        "englishLiteral": "second similar **to-bear** And-to-side- one",
+        "englishNatural": "a second similar **to a bear** side And to one"
+      }
+    }
+  ]
+}

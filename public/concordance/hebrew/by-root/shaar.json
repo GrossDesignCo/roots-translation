@@ -1,0 +1,56 @@
+{
+  "root": "shaar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תִשָּׁאֵר",
+        "transliteration": "tishaer",
+        "englishLiteral": "will-remain",
+        "englishNatural": "will remain",
+        "root": "shaar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "עִמָּנוּ לֹא **תִשָּׁאֵר** פַּרְסָה כִּי",
+        "transliteration": "imanu lo **tishaer** parsah ki",
+        "englishLiteral": "with-us not **will-remain** hoof that",
+        "englishNatural": "with us not **will remain** a hoof for"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "שְׁעָרִים",
+        "transliteration": "shearim",
+        "englishLiteral": "gates",
+        "englishNatural": "gates",
+        "root": "shaar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְיַד **שְׁעָרִים** לְפִי קָרְיָה",
+        "transliteration": "leYad **shearim** lePhi qaryah",
+        "englishLiteral": "To-hand-of **gates** to-mouth-of city",
+        "englishNatural": "To the hand of **gates** to the mouth of a city"
+      }
+    }
+  ]
+}

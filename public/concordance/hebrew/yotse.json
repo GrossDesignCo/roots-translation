@@ -1,0 +1,33 @@
+{
+  "key": "yotse",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יוֹצֵ֖א",
+        "transliteration": "yotse",
+        "englishLiteral": "bringing_out",
+        "englishNatural": "will bring-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַלַּ֔יְלָה אֲנִ֥י **יוֹצֵ֖א** בְּת֥וֹךְ מִצְרָֽיִם׃",
+        "transliteration": "haLaylah ani **yotse** beTokh Mitzrayim",
+        "englishLiteral": "the-night I **bringing_out** in-midst Double_Narrows (Egypt)",
+        "englishNatural": "the night I **will bring-out** in the midst of Double-Narrows (Egypt)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "root": "nasakh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 23
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "נִסַּכְתִּי",
+        "transliteration": "nisakhti",
+        "englishLiteral": "was-poured_out-I",
+        "englishNatural": "I was poured-out",
+        "root": "nasakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעוֹלָם **נִסַּכְתִּי** מֵרֹאשׁ מִקַּדְמֵי־",
+        "transliteration": "meOlam **nisakhti** meRosh miQadmei",
+        "englishLiteral": "From-the_age **was-poured_out-I** from-heading from-east-of",
+        "englishNatural": "From the-age **I was poured-out** from the heading from the-east of"
+      }
+    }
+  ]
+}

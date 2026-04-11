@@ -1,0 +1,31 @@
+{
+  "key": "eliezer",
+  "language": "hebrew",
+  "root": "eliezer",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 2
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "אֱלִיעֶזֶר",
+        "transliteration": "Eliezer",
+        "englishLiteral": "God_My_Help (Eliezer)",
+        "englishNatural": "God-My-Help (Eliezer)",
+        "root": "eliezer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא דַּמֶּשֶׂק **אֱלִיעֶזֶר**",
+        "transliteration": "hu Damesek **Eliezer**",
+        "englishLiteral": "he Damascus **God_My_Help (Eliezer)**",
+        "englishNatural": "is Damascus **God-My-Help (Eliezer)**"
+      }
+    }
+  ]
+}

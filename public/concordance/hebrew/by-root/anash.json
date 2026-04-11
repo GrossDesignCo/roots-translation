@@ -1,0 +1,32 @@
+{
+  "root": "anash",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְנֶעֱנָשׁוּ",
+        "transliteration": "veNeEnashu",
+        "englishLiteral": "and-are-punished",
+        "englishNatural": "and are punished",
+        "root": "anash",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "וּפְתָיִים עָבְרוּ **וְנֶעֱנָשׁוּ**",
+        "transliteration": "uFetayim avru **veNeEnashu**",
+        "englishLiteral": "but-simples pass-on **and-are-punished**",
+        "englishNatural": "but the simple go on **and are punished**"
+      }
+    }
+  ]
+}

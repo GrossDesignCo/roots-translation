@@ -1,0 +1,102 @@
+{
+  "root": "shlishi",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שְׁלִישִֽׁי׃",
+        "transliteration": "shlishi",
+        "englishLiteral": "third",
+        "englishNatural": "A third",
+        "root": "shlishi",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בֹ֖קֶר י֥וֹם **שְׁלִישִֽׁי׃**",
+        "transliteration": "boqer yom **shlishi**",
+        "englishLiteral": "morning Day **third**",
+        "englishNatural": "And morning day **A third**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַשְּׁלִישִׁי",
+        "transliteration": "haShlishi",
+        "englishLiteral": "the-third",
+        "englishNatural": "the third",
+        "root": "shlishi",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם הַנָּהָר **הַשְּׁלִישִׁי** חִדֶּקֶל הוּא",
+        "transliteration": "shem haNahar **haShlishi** Chidekel hu",
+        "englishLiteral": "name the-river **the-third** Rapid (Chidekel) he",
+        "englishNatural": "The name of river **the third** Rapid (Chidekel) it"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וּשְׁלִשִׁים",
+        "transliteration": "uShlishim",
+        "englishLiteral": "and-third",
+        "englishNatural": "and third",
+        "root": "shlishi",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "תַּחְתִּיִּם שְׁנִיִּם **וּשְׁלִשִׁים** תַּעֲשֶׂהָ",
+        "transliteration": "tachtiyim shniyim **uShlishim** taAsehah",
+        "englishLiteral": "lower second **and-third** you-shall-make-her",
+        "englishNatural": "lower second **and third** you shall make it"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "שִׁלֵּשִׁים",
+        "transliteration": "shilleshim",
+        "englishLiteral": "third_ones",
+        "englishNatural": "third-ones",
+        "root": "shlishi",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "בָנִים עַל־ **שִׁלֵּשִׁים** וְעַל־ רִבֵּעִים",
+        "transliteration": "vanim al- **shilleshim** veAl- ribeim",
+        "englishLiteral": "sons over- **third_ones** and-over- fourth_ones",
+        "englishNatural": "sons on **third-ones** and on fourth-ones"
+      }
+    }
+  ]
+}

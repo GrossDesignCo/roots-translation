@@ -1,0 +1,31 @@
+{
+  "key": "lachanokh",
+  "language": "hebrew",
+  "root": "Chanokh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 18
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לַחֲנוֹךְ",
+        "transliteration": "laChanokh",
+        "englishLiteral": "to-Dedicated (Enoch)",
+        "englishNatural": "And to Dedicated (Enoch)",
+        "root": "Chanokh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּוָּלֵד **לַחֲנוֹךְ** אֶת־ עִירָד",
+        "transliteration": "vayYivaled **laChanokh** et- Irad",
+        "englishLiteral": "And-was-born **to-Dedicated (Enoch)** ↳ Fugitive (Irad)",
+        "englishNatural": "was born **And to Dedicated (Enoch)** ↳ Fugitive (Irad)"
+      }
+    }
+  ]
+}

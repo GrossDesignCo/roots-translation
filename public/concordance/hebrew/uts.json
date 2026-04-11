@@ -1,0 +1,31 @@
+{
+  "key": "uts",
+  "language": "hebrew",
+  "root": "uts",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "ע֖וּץ",
+        "transliteration": "Uts",
+        "englishLiteral": "Counsel (Uz)",
+        "englishNatural": "Counsel (Uz)",
+        "root": "uts",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיָ֥ה בְאֶֽרֶץ־ **ע֖וּץ** אִיּ֣וֹב שְׁמ֑וֹ",
+        "transliteration": "hayah beEretz- **Uts** Iyov shmo",
+        "englishLiteral": "was in-land- **Counsel (Uz)** Persecuted (Job) his-name",
+        "englishNatural": "there was in the land of **Counsel (Uz)** Persecuted (Job) his name"
+      }
+    }
+  ]
+}

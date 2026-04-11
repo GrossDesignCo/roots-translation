@@ -1,0 +1,33 @@
+{
+  "key": "behibaram",
+  "language": "hebrew",
+  "root": "bara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בְּהִבָּרְאָם",
+        "transliteration": "beHibaram",
+        "englishLiteral": "in-being-created-them",
+        "englishNatural": "in their being created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁמַיִם וְהָאָרֶץ **בְּהִבָּרְאָם** בְּיוֹם עֲשׂוֹת",
+        "transliteration": "haShamayim veHaAretz **beHibaram** beYom asot",
+        "englishLiteral": "the-skies and-the-land **in-being-created-them** in-day making",
+        "englishNatural": "of the skies and the land **in their being created** in the day made"
+      }
+    }
+  ]
+}

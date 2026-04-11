@@ -1,0 +1,31 @@
+{
+  "key": "hameorot",
+  "language": "hebrew",
+  "root": "or",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַמְּאֹרֹ֖ת",
+        "transliteration": "haMeOrot",
+        "englishLiteral": "the-light_sources",
+        "englishNatural": "the light-sources",
+        "root": "or",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ שְׁנֵ֥י **הַמְּאֹרֹ֖ת** הַגְּדֹלִ֑ים אֶת־",
+        "transliteration": "et- shney **haMeOrot** haGdolim et-",
+        "englishLiteral": "↳ two **the-light_sources** the-greats ↳",
+        "englishNatural": "↳ two **the light-sources** the greats ↳"
+      }
+    }
+  ]
+}

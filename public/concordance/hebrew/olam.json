@@ -1,0 +1,55 @@
+{
+  "key": "olam",
+  "language": "hebrew",
+  "root": "olam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 12
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "עוֹלָם",
+        "transliteration": "olam",
+        "englishLiteral": "the_age",
+        "englishNatural": "the-age",
+        "root": "olam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִתְּכֶם לְדֹרֹת **עוֹלָם**",
+        "transliteration": "itkhem ledorot **olam**",
+        "englishLiteral": "with-you to-generations-of **the_age**",
+        "englishNatural": "is with you to the generations of **the-age**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "עוֹלָם",
+        "transliteration": "olam",
+        "englishLiteral": "the_age",
+        "englishNatural": "the-age",
+        "root": "olam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעַתָּה וְעַד־ **עוֹלָם**",
+        "transliteration": "meAtah veAd- **olam**",
+        "englishLiteral": "from-now and-unto- **the_age**",
+        "englishNatural": "from now and unto **the-age**"
+      }
+    }
+  ]
+}

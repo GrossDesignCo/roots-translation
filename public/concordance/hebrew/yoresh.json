@@ -1,0 +1,33 @@
+{
+  "key": "yoresh",
+  "language": "hebrew",
+  "root": "yarash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 3
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "יוֹרֵשׁ",
+        "transliteration": "yoresh",
+        "englishLiteral": "inheriting",
+        "englishNatural": "inherits",
+        "root": "yarash",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בֶן־ בֵּיתִי **יוֹרֵשׁ** אֹתִי",
+        "transliteration": "ben- beyti **yoresh** oti",
+        "englishLiteral": "son-of- house-of-me **inheriting** ↳ me",
+        "englishNatural": "the son of my house **inherits** me"
+      }
+    }
+  ]
+}

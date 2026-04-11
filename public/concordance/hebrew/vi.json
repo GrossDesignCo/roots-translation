@@ -1,0 +1,31 @@
+{
+  "key": "vi",
+  "language": "hebrew",
+  "root": "be",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "בִי",
+        "transliteration": "vi",
+        "englishLiteral": "in-me",
+        "englishNatural": "in me",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַתָּבֹא **בִי** רוּחַ כַּאֲשֶׁר",
+        "transliteration": "vatTavo **vi** ruach kaAsher",
+        "englishLiteral": "And-came **in-me** wind as-which",
+        "englishNatural": "came **in me** And wind as which"
+      }
+    }
+  ]
+}

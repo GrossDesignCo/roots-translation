@@ -1,0 +1,31 @@
+{
+  "key": "berosh",
+  "language": "hebrew",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בְּרֹאשׁ",
+        "transliteration": "beRosh",
+        "englishLiteral": "In-head-of",
+        "englishNatural": "In the head of",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּרֹאשׁ** מְרוֹמִים עֲלֵי־",
+        "transliteration": "**beRosh** meromim alei-",
+        "englishLiteral": "**In-head-of** heights overlooking",
+        "englishNatural": "**In the head of** heights overlooking"
+      }
+    }
+  ]
+}

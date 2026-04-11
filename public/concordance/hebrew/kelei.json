@@ -1,0 +1,31 @@
+{
+  "key": "kelei",
+  "language": "hebrew",
+  "root": "keli",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "כְּלֵי",
+        "transliteration": "kelei",
+        "englishLiteral": "vessels-of",
+        "englishNatural": "the vessels of",
+        "root": "keli",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוּדָה וּמִקְצָת **כְּלֵי** בֵּית־ הָאֱלֹהִים",
+        "transliteration": "Yehudah uMiktsat **kelei** beit- haElohim",
+        "englishLiteral": "Praise (Judah) and-from-part **vessels-of** house-of- the-Gods",
+        "englishNatural": "of Praise (Judah) and part of **the vessels of** the house of the God"
+      }
+    }
+  ]
+}

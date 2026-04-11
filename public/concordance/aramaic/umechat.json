@@ -1,0 +1,33 @@
+{
+  "key": "umechat",
+  "language": "aramaic",
+  "root": "mecha",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 34
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וּמְחָת",
+        "transliteration": "uMechat",
+        "englishLiteral": "and-struck",
+        "englishNatural": "and struck",
+        "root": "mecha",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "לָא בִידַיִן **וּמְחָת** לְצַלְמָא עַל",
+        "transliteration": "la biDayin **uMechat** leTsalma al",
+        "englishLiteral": "not in-hands **and-struck** to-image-the over",
+        "englishNatural": "was not in hands **and struck** to the image over"
+      }
+    }
+  ]
+}

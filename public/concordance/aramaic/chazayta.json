@@ -1,0 +1,111 @@
+{
+  "key": "chazayta",
+  "language": "aramaic",
+  "root": "chazah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "חֲזַיְתָ",
+        "transliteration": "chazayta",
+        "englishLiteral": "you-saw",
+        "englishNatural": "you saw",
+        "root": "chazah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "וְדִי **חֲזַיְתָ** רַגְלַיָּא וְאֶצְבְּעָתָא",
+        "transliteration": "veDi **chazayta** raglayya veEtzbeata",
+        "englishLiteral": "and-which **you-saw** feet-the and-toes-the",
+        "englishNatural": "And which **you saw** the feet and the toes"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "חֲזַיְתָ",
+        "transliteration": "chazayta",
+        "englishLiteral": "you-saw",
+        "englishNatural": "you saw",
+        "root": "chazah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "קֳבֵל דִּי **חֲזַיְתָ** פַּרְזְלָא מְעָרַב",
+        "transliteration": "qevel di **chazayta** parzela mearav",
+        "englishLiteral": "because which **you-saw** iron-the mixed",
+        "englishNatural": "because which **you saw** the iron mixed"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "חֲזַיְתָ",
+        "transliteration": "chazayta",
+        "englishLiteral": "you-saw",
+        "englishNatural": "you saw",
+        "root": "chazah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "וְדִי **חֲזַיְתָ** פַרְזְלָא מְעָרַב",
+        "transliteration": "veDi **chazayta** parzela mearav",
+        "englishLiteral": "and-which **you-saw** iron-the mixed",
+        "englishNatural": "And which **you saw** the iron mixed"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "חֲזַיְתָ",
+        "transliteration": "chazayta",
+        "englishLiteral": "you-saw",
+        "englishNatural": "you saw",
+        "root": "chazah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "קֳבֵל דִּי **חֲזַיְתָ** דִּי מִן־",
+        "transliteration": "qevel di **chazayta** di min-",
+        "englishLiteral": "because which **you-saw** which from-",
+        "englishNatural": "because which **you saw** that from"
+      }
+    }
+  ]
+}

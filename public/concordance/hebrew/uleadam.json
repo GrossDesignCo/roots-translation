@@ -1,0 +1,55 @@
+{
+  "key": "uleadam",
+  "language": "hebrew",
+  "root": "adam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וּלְאָדָם",
+        "transliteration": "uLeAdam",
+        "englishLiteral": "and-to-Earthling (Adam)",
+        "englishNatural": "and to Earthling (Adam)",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַיַּת הַשָּׂדֶה **וּלְאָדָם** לֹא מָצָא",
+        "transliteration": "chayyat haSadeh **uLeAdam** lo matza",
+        "englishLiteral": "living_being-of the-field **and-to-Earthling (Adam)** no was-found",
+        "englishNatural": "living-being of the field **and to Earthling (Adam)** no was found"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּלְאָדָם",
+        "transliteration": "uleAdam",
+        "englishLiteral": "And-to-Earthling (Adam)",
+        "englishNatural": "And to Earthling (Adam)",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּלְאָדָם** אָמַר כִּי־",
+        "transliteration": "**uleAdam** amar ki-",
+        "englishLiteral": "**And-to-Earthling (Adam)** he-said That",
+        "englishNatural": "**And to Earthling (Adam)** he said That"
+      }
+    }
+  ]
+}

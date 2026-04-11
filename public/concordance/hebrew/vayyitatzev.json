@@ -1,0 +1,33 @@
+{
+  "key": "vayyitatzev",
+  "language": "hebrew",
+  "root": "atzav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַיִּתְעַצֵּב",
+        "transliteration": "vayYitatzev",
+        "englishLiteral": "and-it-grieved-him",
+        "englishNatural": "and it grieved him",
+        "root": "atzav",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם בָּאָרֶץ **וַיִּתְעַצֵּב** אֶל־ לִבּוֹ",
+        "transliteration": "haAdam baAretz **vayYitatzev** el- libbo",
+        "englishLiteral": "the-Earthling (Adam) in-land **and-it-grieved-him** to- heart-his",
+        "englishNatural": "Earthling (Adam) in the land **and it grieved him** to his heart"
+      }
+    }
+  ]
+}

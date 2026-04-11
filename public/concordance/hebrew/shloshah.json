@@ -1,0 +1,79 @@
+{
+  "key": "shloshah",
+  "language": "hebrew",
+  "root": "shalosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שְׁלֹשָׁה",
+        "transliteration": "shloshah",
+        "englishLiteral": "three",
+        "englishNatural": "three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיּוֹלֶד נֹחַ **שְׁלֹשָׁה** בָנִים אֶת־",
+        "transliteration": "vayYoled noach **shloshah** vanim et-",
+        "englishLiteral": "And-he-birthed Rest (Noah) **three** sons ↳",
+        "englishNatural": "birthed And Rest (Noah) **three** sons ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "שְׁלֹשָׁה",
+        "transliteration": "shloshah",
+        "englishLiteral": "three",
+        "englishNatural": "three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא וַתִּצְפְּנֵהוּ **שְׁלֹשָׁה** יְרָחִים",
+        "transliteration": "hu vaTitzpenehu **shloshah** yerachim",
+        "englishLiteral": "he and-concealed-him **three** moon_cycles",
+        "englishNatural": "he was and she concealed him **three** moon-cycles"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "שְׁלֹשָׁה",
+        "transliteration": "shloshah",
+        "englishLiteral": "three",
+        "englishNatural": "three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "בִּמְעֵי הַדָּג **שְׁלֹשָׁה** יָמִים וּשְׁלֹשָׁה",
+        "transliteration": "bimei haDag **shloshah** yamim uShloshah",
+        "englishLiteral": "in-bowels-of the-fish **three** days and-three",
+        "englishNatural": "in the bowels of the fish **three** days and three"
+      }
+    }
+  ]
+}

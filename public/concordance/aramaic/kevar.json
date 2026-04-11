@@ -1,0 +1,31 @@
+{
+  "key": "kevar",
+  "language": "aramaic",
+  "root": "bar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "כְּבַ֥ר",
+        "transliteration": "keVar",
+        "englishLiteral": "as-son-of",
+        "englishNatural": "as a son of",
+        "root": "bar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֲנָנֵ֣י שְׁמַיָּ֔א **כְּבַ֥ר** אֱנָ֖שׁ אָתֵ֣ה",
+        "transliteration": "ananei shemaya **keVar** enash ateh",
+        "englishLiteral": "clouds-of skies-the **as-son-of** Mortal_Man (Enash) coming",
+        "englishNatural": "the clouds of the skies **as a son of** Mortal-Man (Enash) coming"
+      }
+    }
+  ]
+}

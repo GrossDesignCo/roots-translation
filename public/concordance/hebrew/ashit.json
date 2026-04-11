@@ -1,0 +1,33 @@
+{
+  "key": "ashit",
+  "language": "hebrew",
+  "root": "sim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אָשִׁית",
+        "transliteration": "ashit",
+        "englishLiteral": "I-will_place",
+        "englishNatural": "I will place",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵיבָה **אָשִׁית** בֵּינְךָ וּבֵין",
+        "transliteration": "veEivah **ashit** beynkha uveyn",
+        "englishLiteral": "And-enmity **I-will_place** between-you and-between",
+        "englishNatural": "And enmity **I will place** between you and between"
+      }
+    }
+  ]
+}

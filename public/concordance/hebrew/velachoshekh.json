@@ -1,0 +1,31 @@
+{
+  "key": "velachoshekh",
+  "language": "hebrew",
+  "root": "choshekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְלַחֹ֖שֶׁךְ",
+        "transliteration": "veLaChoshekh",
+        "englishLiteral": "and-to-darkness",
+        "englishNatural": "to darkness",
+        "root": "choshekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָא֔וֹר י֑וֹם **וְלַחֹ֖שֶׁךְ** קָ֣רָא לָ֑יְלָה",
+        "transliteration": "laOr yom **veLaChoshekh** qara laylah",
+        "englishLiteral": "to-light Day **and-to-darkness** called_out Night",
+        "englishNatural": "to light Day **to darkness** and called-out Night"
+      }
+    }
+  ]
+}

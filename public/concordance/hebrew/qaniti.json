@@ -1,0 +1,33 @@
+{
+  "key": "qaniti",
+  "language": "hebrew",
+  "root": "qanah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "קָנִיתִי",
+        "transliteration": "qaniti",
+        "englishLiteral": "I-have-acquired",
+        "englishNatural": "I have acquired",
+        "root": "qanah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "קַיִן וַתֹּאמֶר **קָנִיתִי** אִישׁ אֶת־",
+        "transliteration": "Qayin vatTomer **qaniti** ish et-",
+        "englishLiteral": "Acquired (Cain) and-she-said **I-have-acquired** a-man ↳-",
+        "englishNatural": "Acquired (Cain) and said **I have acquired** a man with"
+      }
+    }
+  ]
+}

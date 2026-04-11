@@ -1,0 +1,31 @@
+{
+  "key": "kochah",
+  "language": "hebrew",
+  "root": "koach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "כֹּחָהּ",
+        "transliteration": "kochah",
+        "englishLiteral": "her-ability",
+        "englishNatural": "her ability",
+        "root": "koach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תֹסֵף תֵּת־ **כֹּחָהּ** לָךְ נָע",
+        "transliteration": "toseeph tet- **kochah** lakh na",
+        "englishLiteral": "it-will-add give- **her-ability** to-you wandering",
+        "englishNatural": "it will add to give **her ability** to you wandering"
+      }
+    }
+  ]
+}

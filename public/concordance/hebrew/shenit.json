@@ -1,0 +1,31 @@
+{
+  "key": "shenit",
+  "language": "hebrew",
+  "root": "sheni",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שֵׁנִית",
+        "transliteration": "shenit",
+        "englishLiteral": "second_time",
+        "englishNatural": "the second time",
+        "root": "sheni",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ יוֹנָה **שֵׁנִית** לֵאמֹר",
+        "transliteration": "el- Yonah **shenit** lemor",
+        "englishLiteral": "to- Dove (Jonah) **second_time** to-say",
+        "englishNatural": "to Dove (Jonah) **the second time** to say"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "panay",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "פָּנָ֔י",
+        "transliteration": "panay",
+        "englishLiteral": "faces-my",
+        "englishNatural": "my face",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תֹּ֨סֶף֙ רְא֣וֹת **פָּנָ֔י** כִּ֗י בְּי֛וֹם",
+        "transliteration": "tosef reot **panay** ki beYom",
+        "englishLiteral": "add to-see **faces-my** that in-day",
+        "englishNatural": "add to see **my face** that in the day of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "פָנַ֖י",
+        "transliteration": "panay",
+        "englishLiteral": "faces-my",
+        "englishNatural": "my face",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּי֛וֹם רְאֹתְךָ֥ **פָנַ֖י** תָּמֽוּת׃",
+        "transliteration": "beYom reotekha **panay** tamut",
+        "englishLiteral": "in-day seeing-you **faces-my** you-will-die",
+        "englishNatural": "in the day of you seeing **my face** you will die"
+      }
+    }
+  ]
+}

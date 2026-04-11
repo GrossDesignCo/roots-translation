@@ -1,0 +1,30 @@
+{
+  "root": "efratim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "אֶפְרָתִ֔ים",
+        "transliteration": "Efratim",
+        "englishLiteral": "Fruitful_Ones (Ephrathites)",
+        "englishNatural": "Fruitful-Ones (Ephrathites)",
+        "root": "efratim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַחְל֤וֹן וְכִלְיוֹן֙ **אֶפְרָתִ֔ים** מִבֵּ֥ית לֶ֖חֶם",
+        "transliteration": "Machlon veKhilyon **Efratim** miBeit lechem",
+        "englishLiteral": "Sickness (Mahlon) and-Wasting (Chilion) **Fruitful_Ones (Ephrathites)** from-House-of Bread (Bethlehem)",
+        "englishNatural": "Sickness (Mahlon) and Wasting (Chilion) **Fruitful-Ones (Ephrathites)** from the House of Bread (Bethlehem)"
+      }
+    }
+  ]
+}

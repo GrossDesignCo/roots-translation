@@ -1,0 +1,31 @@
+{
+  "key": "mimenah",
+  "language": "hebrew",
+  "root": "mi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מִמֶּנָּה",
+        "transliteration": "mimenah",
+        "englishLiteral": "from-her",
+        "englishNatural": "from it",
+        "root": "mi",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה כִּי **מִמֶּנָּה** לֻקָּחְתָּ כִּי־",
+        "transliteration": "haAdamah ki **mimenah** luqachta ki-",
+        "englishLiteral": "the-earth that **from-her** you-were-taken that",
+        "englishNatural": "the earth that **from it** you were taken that"
+      }
+    }
+  ]
+}

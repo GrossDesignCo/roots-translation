@@ -1,0 +1,33 @@
+{
+  "key": "vattivkeynah",
+  "language": "hebrew",
+  "root": "bakah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וַתִּבְכֶּֽינָה",
+        "transliteration": "vatTivkeynah",
+        "englishLiteral": "and-wept",
+        "englishNatural": "and wept",
+        "root": "bakah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּשֶּׂ֥אנָה קוֹלָ֖ן **וַתִּבְכֶּֽינָה**",
+        "transliteration": "vatTissenah qolan **vatTivkeynah**",
+        "englishLiteral": "and-lifted voice-their **and-wept**",
+        "englishNatural": "and they lifted their voice **and wept**"
+      }
+    }
+  ]
+}

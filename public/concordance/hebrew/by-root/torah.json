@@ -1,0 +1,54 @@
+{
+  "root": "torah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בְּתוֹרַת",
+        "transliteration": "beTorah",
+        "englishLiteral": "in-law-of",
+        "englishNatural": "in the law of",
+        "root": "torah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי אִם **בְּתוֹרַת** יְהוָה חֶפְצוֹ",
+        "transliteration": "ki im **beTorah** YHWH cheftzo",
+        "englishLiteral": "That if **in-law-of** He_Who_Is (YHWH) his-choice_thing",
+        "englishNatural": "That if **in the law of** He-Who-Is (YHWH) his choice-thing"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּבְתוֹרָתוֹ",
+        "transliteration": "uvTorato",
+        "englishLiteral": "and-in-his-law",
+        "englishNatural": "and in his law",
+        "root": "torah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה חֶפְצוֹ **וּבְתוֹרָתוֹ** יֶהְגֶּה יוֹמָם",
+        "transliteration": "YHWH cheftzo **uvTorato** yehgeh yomam",
+        "englishLiteral": "He_Who_Is (YHWH) his-choice_thing **and-in-his-law** he-meditates by-day",
+        "englishNatural": "He-Who-Is (YHWH) his choice-thing **and in his law** he meditates by day"
+      }
+    }
+  ]
+}

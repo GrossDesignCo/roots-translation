@@ -1,0 +1,30 @@
+{
+  "root": "sakar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 1
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "שְׂכָרְךָ",
+        "transliteration": "sekharcha",
+        "englishLiteral": "reward-of-you",
+        "englishNatural": "your reward",
+        "root": "sakar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מָגֵן לָךְ **שְׂכָרְךָ** הַרְבֵּה מְאֹד",
+        "transliteration": "magen lakh **sekharcha** harbeh meod",
+        "englishLiteral": "shield to-you **reward-of-you** to-multiply exceedingly",
+        "englishNatural": "a shield to you **your reward** to multiply exceedingly"
+      }
+    }
+  ]
+}

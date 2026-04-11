@@ -1,0 +1,31 @@
+{
+  "key": "ribbo",
+  "language": "hebrew",
+  "root": "ribbo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "רִבּוֹ",
+        "transliteration": "ribbo",
+        "englishLiteral": "ten_thousand",
+        "englishNatural": "ten-thousand",
+        "root": "ribbo",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "מִשְׁתֵּים־ עֶשְׂרֵה **רִבּוֹ** אָדָם אֲשֶׁר",
+        "transliteration": "mishteym- esreh **ribbo** Adam asher",
+        "englishLiteral": "from-two- ten **ten_thousand** Earthling (Adam) which",
+        "englishNatural": "more than two ten **ten-thousand** Earthling (Adam) which"
+      }
+    }
+  ]
+}

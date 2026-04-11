@@ -1,0 +1,33 @@
+{
+  "key": "barati",
+  "language": "hebrew",
+  "root": "bara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בָּרָאתִי",
+        "transliteration": "barati",
+        "englishLiteral": "I-created",
+        "englishNatural": "I created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם אֲשֶׁר־ **בָּרָאתִי** מֵעַל פְּנֵי",
+        "transliteration": "haAdam asher- **barati** meAl peney",
+        "englishLiteral": "the-Earthling (Adam) which- **I-created** from-over faces-of",
+        "englishNatural": "the Earthling (Adam) which **I created** from over the face of"
+      }
+    }
+  ]
+}

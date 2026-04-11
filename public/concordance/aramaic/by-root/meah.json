@@ -1,0 +1,30 @@
+{
+  "root": "meah",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "מְעוֹהִי",
+        "transliteration": "meohi",
+        "englishLiteral": "belly-its",
+        "englishNatural": "its belly",
+        "root": "meah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי כְסַף **מְעוֹהִי** וְיַרְכָתֵהּ דִּי",
+        "transliteration": "di kesaf **meohi** veYarkhateh di",
+        "englishLiteral": "which silver **belly-its** and-thighs-its which",
+        "englishNatural": "of silver **its belly** and its thighs of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "root": "yam",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לְיַמָּ֥א",
+        "transliteration": "leYamma",
+        "englishLiteral": "to-the-sea",
+        "englishNatural": "sea",
+        "root": "yam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁמַיָּ֔א מְגִיחָ֖ן **לְיַמָּ֥א** רַבָּֽא",
+        "transliteration": "shemaya meGichan **leYamma** rabba",
+        "englishLiteral": "the-skies stirring_up **to-the-sea** great",
+        "englishNatural": "the skies were stirring-up **sea** to the great"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יַמָּ֑א",
+        "transliteration": "yamma",
+        "englishLiteral": "the-sea",
+        "englishNatural": "the sea",
+        "root": "yam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "סָלְקָ֖ן מִן־ **יַמָּ֑א** שָׁנְיָ֖ן דָּ֥א",
+        "transliteration": "salqan min- **yamma** shanyan da",
+        "englishLiteral": "coming_up from- **the-sea** different this",
+        "englishNatural": "coming up from **the sea** different this"
+      }
+    }
+  ]
+}

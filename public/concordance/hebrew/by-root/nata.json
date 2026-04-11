@@ -1,0 +1,32 @@
+{
+  "root": "nata",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּטַּע",
+        "transliteration": "vaYitta",
+        "englishLiteral": "And-planted",
+        "englishNatural": "planted",
+        "root": "nata",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּטַּע** יְהוָה אֱלֹהִים",
+        "transliteration": "**vaYitta** YHWH Elohim",
+        "englishLiteral": "**And-planted** He_Who_Is (YHWH) Gods",
+        "englishNatural": "**planted** And He-Who-Is (YHWH) God"
+      }
+    }
+  ]
+}

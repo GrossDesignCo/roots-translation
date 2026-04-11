@@ -1,0 +1,33 @@
+{
+  "key": "tamshilehu",
+  "language": "hebrew",
+  "root": "mashal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "תַּ֭מְשִׁילֵהוּ",
+        "transliteration": "taMshilehu",
+        "englishLiteral": "you-will-cause-him-to-rule",
+        "englishNatural": "You will cause him to rule",
+        "root": "mashal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**תַּ֭מְשִׁילֵהוּ** בְּמַעֲשֵׂ֣י יָדֶ֑יךָ",
+        "transliteration": "**taMshilehu** beMaasei yadekha",
+        "englishLiteral": "**you-will-cause-him-to-rule** in-works-of your-hands",
+        "englishNatural": "**You will cause him to rule** in the works of your hands"
+      }
+    }
+  ]
+}

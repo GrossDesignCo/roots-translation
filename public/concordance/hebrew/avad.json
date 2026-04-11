@@ -1,0 +1,33 @@
+{
+  "key": "avad",
+  "language": "hebrew",
+  "root": "avad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "אָבָד",
+        "transliteration": "avad",
+        "englishLiteral": "perished",
+        "englishNatural": "it perished",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּבִן־ לַיְלָה **אָבָד**",
+        "transliteration": "uvin- laylah **avad**",
+        "englishLiteral": "and-son-of- night **perished**",
+        "englishNatural": "and son of a night **it perished**"
+      }
+    }
+  ]
+}

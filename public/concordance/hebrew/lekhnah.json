@@ -1,0 +1,33 @@
+{
+  "key": "lekhnah",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לֵ֣כְנָה",
+        "transliteration": "lekhnah",
+        "englishLiteral": "Go",
+        "englishNatural": "Go",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ **לֵ֣כְנָה** שֹׁ֔בְנָה אִשָּׁ֖ה",
+        "transliteration": "liShtey khalloteha **lekhnah** shovnah ishah",
+        "englishLiteral": "to-two-of daughters_in_law-her **Go** return woman",
+        "englishNatural": "to the two of her daughters-in-law **Go** return woman"
+      }
+    }
+  ]
+}

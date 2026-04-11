@@ -1,0 +1,32 @@
+{
+  "root": "dalaq",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "דָּלִֽק",
+        "transliteration": "daliq",
+        "englishLiteral": "burning",
+        "englishNatural": "burning",
+        "root": "dalaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "גַּלְגִּלּ֖וֹהִי נ֥וּר **דָּלִֽק**",
+        "transliteration": "galgellohi nur **daliq**",
+        "englishLiteral": "wheels-its fire **burning**",
+        "englishNatural": "its wheels fire **burning**"
+      }
+    }
+  ]
+}

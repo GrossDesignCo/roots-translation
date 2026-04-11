@@ -1,0 +1,55 @@
+{
+  "key": "lemalka",
+  "language": "aramaic",
+  "root": "melekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "לְמַלְכָּא",
+        "transliteration": "leMalka",
+        "englishLiteral": "to-king-the",
+        "englishNatural": "to the king",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי פִּשְׁרָא **לְמַלְכָּא** יְהוֹדְעוּן וְרַעְיוֹנֵי",
+        "transliteration": "di pishra **leMalka** yehodun veRaayonei",
+        "englishLiteral": "which interpretation-the **to-king-the** they-will-make-known and-thoughts-of",
+        "englishNatural": "which the interpretation **to the king** might be made known and the thoughts of"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "לְמַלְכָּא",
+        "transliteration": "leMalka",
+        "englishLiteral": "to-king-the",
+        "englishNatural": "to the king",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רַב הוֹדַע **לְמַלְכָּא** מָה דִּי",
+        "transliteration": "rav hoda **leMalka** mah di",
+        "englishLiteral": "great he-made_known **to-king-the** what which",
+        "englishNatural": "the great has made-known **to the king** what which"
+      }
+    }
+  ]
+}

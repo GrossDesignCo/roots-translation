@@ -1,0 +1,33 @@
+{
+  "key": "omar",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "אֹמַר",
+        "transliteration": "omar",
+        "englishLiteral": "will-I-say",
+        "englishNatural": "will I say",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שְּׁמוֹ מָה **אֹמַר** אֲלֵהֶם",
+        "transliteration": "shemo mah **omar** alehem",
+        "englishLiteral": "name-his what **will-I-say** to-them",
+        "englishNatural": "his name what **will I say** to them"
+      }
+    }
+  ]
+}

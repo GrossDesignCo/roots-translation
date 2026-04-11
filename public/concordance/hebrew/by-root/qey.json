@@ -1,0 +1,32 @@
+{
+  "root": "qey",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַיָּקֵא",
+        "transliteration": "vaYaqe",
+        "englishLiteral": "and-vomited",
+        "englishNatural": "and he vomited",
+        "root": "qey",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה לַדָּג **וַיָּקֵא** אֶת־ יוֹנָה",
+        "transliteration": "YHWH laDag **vaYaqe** et- Yonah",
+        "englishLiteral": "He_Who_Is (YHWH) to-the-fish **and-vomited** ↳ Dove (Jonah)",
+        "englishNatural": "And He-Who-Is (YHWH) to the fish **and he vomited** ↳ Dove (Jonah)"
+      }
+    }
+  ]
+}

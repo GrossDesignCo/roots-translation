@@ -1,0 +1,85 @@
+{
+  "key": "lekhu",
+  "language": "hebrew",
+  "root": "lekhu",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 4
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לְכוּ",
+        "transliteration": "lekhu",
+        "englishLiteral": "go",
+        "englishNatural": "Go",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָעָם מִמַּעֲשָׂיו **לְכוּ** לְסִבְלֹתֵיכֶם",
+        "transliteration": "haAm miMaasav **lekhu** leSivlotekhem",
+        "englishLiteral": "the-people from-works-their **go** to-burdens-your",
+        "englishNatural": "the people from their works **Go** to your burdens"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 24
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לְכוּ",
+        "transliteration": "lekhu",
+        "englishLiteral": "go",
+        "englishNatural": "Go",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה וַיֹּאמֶר **לְכוּ** עִבְדוּ אֶת־",
+        "transliteration": "Moshe vaYomer **lekhu** ivdu et-",
+        "englishLiteral": "Drawn_Out (Moses) and-said **go** serve ↳",
+        "englishNatural": "Drawn-Out (Moses) and said **Go** serve ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לְכוּ",
+        "transliteration": "lekhu",
+        "englishLiteral": "Go",
+        "englishNatural": "Go",
+        "root": "lekhu",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ רֵעֵהוּ **לְכוּ** וְנַפִּילָה גוֹרָלוֹת",
+        "transliteration": "el- reehu **lekhu** veNapilah goralot",
+        "englishLiteral": "to- friend-his **Go** and-let-us-cause-to-fall lots",
+        "englishNatural": "to his friend **Go** and let us cause-to-fall lots"
+      }
+    }
+  ]
+}

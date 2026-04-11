@@ -1,0 +1,55 @@
+{
+  "key": "lakhen",
+  "language": "hebrew",
+  "root": "ken",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לָכֵן",
+        "transliteration": "lakhen",
+        "englishLiteral": "Not-so",
+        "englishNatural": "Not so",
+        "root": "ken",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לוֹ יְהוָה **לָכֵן** כָּל־ הֹרֵג",
+        "transliteration": "lo YHWH **lakhen** kol- horeg",
+        "englishLiteral": "to-him He_Who_Is (YHWH) **Not-so** all- killing",
+        "englishNatural": "to him And He-Who-Is (YHWH) **Not so** all killing"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "לָכֵן",
+        "transliteration": "lakhen",
+        "englishLiteral": "therefore",
+        "englishNatural": "Therefore",
+        "root": "lakhen",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לָכֵן** אֱמֹר לִבְנֵי־",
+        "transliteration": "**lakhen** emor livnei-",
+        "englishLiteral": "**therefore** say to-sons-of-",
+        "englishNatural": "**Therefore** say to the sons of"
+      }
+    }
+  ]
+}

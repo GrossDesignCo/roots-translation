@@ -1,0 +1,33 @@
+{
+  "key": "velaqach",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וְלָקַח",
+        "transliteration": "veLaqach",
+        "englishLiteral": "and-take",
+        "englishNatural": "and take",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׁלַח יָדוֹ **וְלָקַח** גַּם מֵעֵץ",
+        "transliteration": "yishLach yado **veLaqach** gam meEtz",
+        "englishLiteral": "he-will-send hand-his **and-take** also from-tree",
+        "englishNatural": "he will send-out his hand **and take** also from the Tree"
+      }
+    }
+  ]
+}

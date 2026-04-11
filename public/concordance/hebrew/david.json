@@ -1,0 +1,55 @@
+{
+  "key": "david",
+  "language": "hebrew",
+  "root": "david",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "דָּוִד",
+        "transliteration": "david",
+        "englishLiteral": "Beloved (David)",
+        "englishNatural": "Beloved (David)",
+        "root": "david",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁלֹמֹה בֶן־ **דָּוִד** מֶלֶךְ יִשְׂרָאֵל",
+        "transliteration": "shlomo ben- **david** melekh yisrael",
+        "englishLiteral": "His_Peace (Solomon) son-of- **Beloved (David)** king of Struggles_with_God (Israel)",
+        "englishNatural": "His-Peace (Solomon) son of **Beloved (David)** king of Struggles-with-God (Israel)"
+      }
+    },
+    {
+      "location": {
+        "book": "Ecclesiastes",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "דָּוִ֔ד",
+        "transliteration": "David",
+        "englishLiteral": "Beloved (David)",
+        "englishNatural": "Beloved (David)",
+        "root": "david",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קֹהֶ֣לֶת בֶּן־ **דָּוִ֔ד** מֶ֖לֶךְ בִּירוּשָׁלִָֽם",
+        "transliteration": "qohelet ben- **David** melekh biYrushalayim",
+        "englishLiteral": "Assembler son-of **Beloved (David)** king in-Foundation_of_Peace (Jerusalem)",
+        "englishNatural": "Assembler the son of **Beloved (David)** king in Foundation-of-Peace (Jerusalem)"
+      }
+    }
+  ]
+}

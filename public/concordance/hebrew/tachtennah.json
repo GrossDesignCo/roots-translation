@@ -1,0 +1,31 @@
+{
+  "key": "tachtennah",
+  "language": "hebrew",
+  "root": "tachat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "תַּחְתֶּנָּה",
+        "transliteration": "tachtennah",
+        "englishLiteral": "under-it",
+        "englishNatural": "under it",
+        "root": "tachat",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּסְגֹּר בָּשָׂר **תַּחְתֶּנָּה**",
+        "transliteration": "vaYisgor basar **tachtennah**",
+        "englishLiteral": "and-closed-up flesh **under-it**",
+        "englishNatural": "and closed up flesh **under it**"
+      }
+    }
+  ]
+}

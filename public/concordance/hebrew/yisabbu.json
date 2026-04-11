@@ -1,0 +1,85 @@
+{
+  "key": "yisabbu",
+  "language": "hebrew",
+  "root": "savav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יִסַּבּוּ",
+        "transliteration": "yisabbu",
+        "englishLiteral": "they-went_around",
+        "englishNatural": "they went-around",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "כַּנְפֵיהֶם לֹא־ **יִסַּבּוּ** בְלֶכְתָּן אִישׁ",
+        "transliteration": "kanfeihem lo- **yisabbu** beLekhtan ish",
+        "englishLiteral": "wings-their not- **they-went_around** in-going-their man",
+        "englishNatural": "their wings not **they went-around** in their going man"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "יִסַּבּוּ",
+        "transliteration": "yisabbu",
+        "englishLiteral": "they-went-around",
+        "englishNatural": "they went-around",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "יֵלֵכוּ לֹא **יִסַּבּוּ** בְּלֶכְתָּן",
+        "transliteration": "yelekhu lo **yisabbu** beLekhtan",
+        "englishLiteral": "they-went not **they-went-around** in-going-their",
+        "englishNatural": "they went not **they went-around** in their going"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יִסַּבּוּ",
+        "transliteration": "yisabbu",
+        "englishLiteral": "they-went-around",
+        "englishNatural": "they went-around",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּלֶכְתָּן לֹא **יִסַּבּוּ** בְּלֶכְתָּן",
+        "transliteration": "beLekhtan lo **yisabbu** beLekhtan",
+        "englishLiteral": "in-going-their not **they-went-around** in-going-their",
+        "englishNatural": "in their going not **they went-around** in their going"
+      }
+    }
+  ]
+}

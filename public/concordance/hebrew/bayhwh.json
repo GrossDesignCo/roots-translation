@@ -1,0 +1,31 @@
+{
+  "key": "bayhwh",
+  "language": "hebrew",
+  "root": "yhwh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "בַּיהוָה",
+        "transliteration": "baYHWH",
+        "englishLiteral": "in-He_Who_Is (YHWH)",
+        "englishNatural": "in He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהֶאֱמִן **בַּיהוָה** וַיַּחְשְׁבֶהָ לּוֹ",
+        "transliteration": "veHemin **baYHWH** vaYachsheveha lo",
+        "englishLiteral": "And-he-believed **in-He_Who_Is (YHWH)** and-he-counted-her to-him",
+        "englishNatural": "And he believed **in He-Who-Is (YHWH)** and he counted it to him"
+      }
+    }
+  ]
+}

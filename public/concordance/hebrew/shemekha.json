@@ -1,0 +1,31 @@
+{
+  "key": "shemekha",
+  "language": "hebrew",
+  "root": "shem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שְׁמֶךָ",
+        "transliteration": "shemekha",
+        "englishLiteral": "your-name",
+        "englishNatural": "your name",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲבָרֶכְךָ וַאֲגַדְּלָה **שְׁמֶךָ** וֶהְיֵה בְּרָכָה",
+        "transliteration": "vaAvarekha vaAgadelah **shemekha** veHeyeh berakah",
+        "englishLiteral": "and-I-will-bless-you and-I-will-make-great **your-name** and-be blessing",
+        "englishNatural": "and I will bless you and I will make great **your name** and be a blessing"
+      }
+    }
+  ]
+}

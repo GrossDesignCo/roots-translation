@@ -1,0 +1,32 @@
+{
+  "root": "nephal",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 46
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "נְפַל",
+        "transliteration": "nephal",
+        "englishLiteral": "fell",
+        "englishNatural": "had fallen",
+        "root": "nephal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "מַלְכָּא נְבוּכַדְנֶצַּר **נְפַל** עַל־ אַנְפּוֹהִי",
+        "transliteration": "malka Nevukhadnetzar **nephal** al- anpohi",
+        "englishLiteral": "king-the Nebuchadnezzar **fell** over- face-his",
+        "englishNatural": "the king Nebuchadnezzar **had fallen** over his face"
+      }
+    }
+  ]
+}

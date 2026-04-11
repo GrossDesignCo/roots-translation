@@ -1,0 +1,31 @@
+{
+  "key": "tsippor",
+  "language": "hebrew",
+  "root": "tzippor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "צִפּ֣וֹר",
+        "transliteration": "tsippor",
+        "englishLiteral": "bird-of",
+        "englishNatural": "The bird of",
+        "root": "tzippor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**צִפּ֣וֹר** שָׁ֭מַיִם וּדְגֵ֣י",
+        "transliteration": "**tsippor** shamayim uDgei",
+        "englishLiteral": "**bird-of** skies and-fish-of",
+        "englishNatural": "**The bird of** skies and the fish of"
+      }
+    }
+  ]
+}

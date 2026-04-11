@@ -1,0 +1,59 @@
+{
+  "key": "vayamat",
+  "language": "hebrew",
+  "root": "mut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיָּמָת",
+        "transliteration": "vaYamat",
+        "englishLiteral": "and-died",
+        "englishNatural": "died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת הָעָם **וַיָּמָת** עַם רָב",
+        "transliteration": "et haAm **vaYamat** am rav",
+        "englishLiteral": "↳ the-people **and-died** people many",
+        "englishNatural": "↳ the people **died** people and many"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּ֥מָת",
+        "transliteration": "vaYamat",
+        "englishLiteral": "And-died",
+        "englishNatural": "died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּ֥מָת** אֱלִימֶ֖לֶךְ אִ֣ישׁ",
+        "transliteration": "**vaYamat** Elimelekh ish",
+        "englishLiteral": "**And-died** My_God_King (Elimelech) man-of",
+        "englishNatural": "**died** And My-God-King (Elimelech) the man of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "vedi",
+  "language": "aramaic",
+  "root": "di",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְדִי",
+        "transliteration": "veDi",
+        "englishLiteral": "and-which",
+        "englishNatural": "And which",
+        "root": "di",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "**וְדִי** חֲזַיְתָ רַגְלַיָּא",
+        "transliteration": "**veDi** chazayta raglayya",
+        "englishLiteral": "**and-which** you-saw feet-the",
+        "englishNatural": "**And which** you saw the feet"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְדִי",
+        "transliteration": "veDi",
+        "englishLiteral": "and-which",
+        "englishNatural": "And which",
+        "root": "di",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "**וְדִי** חֲזַיְתָ פַרְזְלָא",
+        "transliteration": "**veDi** chazayta parzela",
+        "englishLiteral": "**and-which** you-saw iron-the",
+        "englishNatural": "**And which** you saw the iron"
+      }
+    }
+  ]
+}

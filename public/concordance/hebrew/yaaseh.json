@@ -1,0 +1,33 @@
+{
+  "key": "yaaseh",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "יַעֲשֶׂה",
+        "transliteration": "yaAseh",
+        "englishLiteral": "he-makes",
+        "englishNatural": "he makes",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְכֹל אֲשֶׁר **יַעֲשֶׂה** יַצְלִיחַ",
+        "transliteration": "veKhol asher **yaAseh** yatzliach",
+        "englishLiteral": "and-all which **he-makes** it-prospers",
+        "englishNatural": "and all which **he makes** it prospers"
+      }
+    }
+  ]
+}

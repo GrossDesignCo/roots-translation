@@ -1,0 +1,84 @@
+{
+  "root": "paqad",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "פֹּקֵד",
+        "transliteration": "poqed",
+        "englishLiteral": "visiting",
+        "englishNatural": "visiting",
+        "root": "paqad",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא יְנַקֶּה **פֹּקֵד** עֲוֹן אָבוֹת",
+        "transliteration": "lo yenakeh **poqed** avon avot",
+        "englishLiteral": "not he-will-clear **visiting** twisting fathers",
+        "englishNatural": "not he will clear **visiting** twisting fathers"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "פָקַ֤ד",
+        "transliteration": "faqad",
+        "englishLiteral": "had-visited",
+        "englishNatural": "had visited",
+        "root": "paqad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מוֹאָ֔ב כִּֽי־ **פָקַ֤ד** יְהוָה֙ אֶת־",
+        "transliteration": "Moav ki- **faqad** YHWH et-",
+        "englishLiteral": "From_Father (Moab) that- **had-visited** He_Who_Is (YHWH) ↳",
+        "englishNatural": "From-Father (Moab) that **had visited** He-Who-Is (YHWH) ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "תִפְקְדֶֽנּוּ",
+        "transliteration": "tiFqedennu",
+        "englishLiteral": "you-will-visit-him",
+        "englishNatural": "you will visit him",
+        "root": "paqad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אָ֝דָ֗ם כִּ֣י **תִפְקְדֶֽנּוּ**",
+        "transliteration": "Adam ki **tiFqedennu**",
+        "englishLiteral": "Earthling (Adam) that **you-will-visit-him**",
+        "englishNatural": "Earthling (Adam) that **you will visit him**"
+      }
+    }
+  ]
+}

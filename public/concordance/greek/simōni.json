@@ -1,0 +1,31 @@
+{
+  "key": "simōni",
+  "language": "greek",
+  "root": "simon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "Σίμωνι",
+        "transliteration": "Simōni",
+        "englishLiteral": "Hearer (Simon)",
+        "englishNatural": "Hearer (Simon)",
+        "root": "simon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "λέγει τῷ **Σίμωνι** Πέτρῳ ὁ",
+        "transliteration": "legei tō **Simōni** Petrō ho",
+        "englishLiteral": "he-says to-the **Hearer (Simon)** Stone (Peter) The",
+        "englishNatural": "says to the **Hearer (Simon)** Stone (Peter) The"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "veyadekha",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בְיָדֶךָ",
+        "transliteration": "veYadekha",
+        "englishLiteral": "in-hand-your",
+        "englishNatural": "in your hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַה־ זֶּה **בְיָדֶךָ** וַיֹּאמֶר מַטֶּה",
+        "transliteration": "mah- zeh **veYadekha** vaYomer mateh",
+        "englishLiteral": "what- this **in-hand-your** And-said branch",
+        "englishNatural": "What is this **in your hand** And he said A branch"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "בְיָדֶךָ",
+        "transliteration": "veYadekha",
+        "englishLiteral": "in-hand-your",
+        "englishNatural": "in your hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ שַׂמְתִּי **בְיָדֶךָ** וַעֲשִׂיתָם לִפְנֵי",
+        "transliteration": "asher- samti **veYadekha** vaAsitam lifnei",
+        "englishLiteral": "which- placed **in-hand-your** and-make-them to-face-of",
+        "englishNatural": "which I have placed **in your hand** and make them to the face of"
+      }
+    }
+  ]
+}

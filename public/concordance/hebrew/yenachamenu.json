@@ -1,0 +1,33 @@
+{
+  "key": "yenachamenu",
+  "language": "hebrew",
+  "root": "nacham",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 29
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יְנַחֲמֵנוּ",
+        "transliteration": "yeNachamenu",
+        "englishLiteral": "will-comfort-us",
+        "englishNatural": "will comfort us",
+        "root": "nacham",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "לֵאמֹר זֶה **יְנַחֲמֵנוּ** מִמַּעֲשֵׂנוּ וּמֵעִצְּבוֹן",
+        "transliteration": "leEmor zeh **yeNachamenu** miMaasenu uMeItzvon",
+        "englishLiteral": "to-say This **will-comfort-us** from-our-making and-from-pain",
+        "englishNatural": "to say This **will comfort us** from our making and from the pain"
+      }
+    }
+  ]
+}

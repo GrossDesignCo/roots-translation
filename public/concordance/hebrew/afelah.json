@@ -1,0 +1,31 @@
+{
+  "key": "afelah",
+  "language": "hebrew",
+  "root": "afelah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 22
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אֲפֵלָה",
+        "transliteration": "afelah",
+        "englishLiteral": "gloom",
+        "englishNatural": "gloom",
+        "root": "afelah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי חֹשֶׁךְ־ **אֲפֵלָה** בְּכָל־ אֶרֶץ",
+        "transliteration": "vaYhi choshekh- **afelah** beKhol- eretz",
+        "englishLiteral": "and-was darkness-of **gloom** in-all-of- land-of",
+        "englishNatural": "and it was darkness of **gloom** in all the land of"
+      }
+    }
+  ]
+}

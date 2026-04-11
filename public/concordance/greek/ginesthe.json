@@ -1,0 +1,32 @@
+{
+  "key": "ginesthe",
+  "language": "greek",
+  "root": "ginomai",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "γίνεσθε",
+        "transliteration": "ginesthe",
+        "englishLiteral": "be",
+        "englishNatural": "be",
+        "root": "ginomai",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "μέσῳ λύκων **γίνεσθε** οὖν φρόνιμοι",
+        "transliteration": "meso lukon **ginesthe** oun phronimoi",
+        "englishLiteral": "midst wolves **be** therefore shrewd",
+        "englishNatural": "the midst of wolves **be** therefore shrewd"
+      }
+    }
+  ]
+}

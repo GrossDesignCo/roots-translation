@@ -1,0 +1,32 @@
+{
+  "root": "yatzag",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 24
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "יֻצָּג",
+        "transliteration": "yutzag",
+        "englishLiteral": "will-be_stationed",
+        "englishNatural": "let be stationed",
+        "root": "yatzag",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hophal"
+        }
+      },
+      "context": {
+        "hebrew": "צֹאנְכֶם וּבְקַרְכֶם **יֻצָּג** גַּם־ טַפְּכֶם",
+        "transliteration": "tzonkhem uVqarkhem **yutzag** gam- tapkhem",
+        "englishLiteral": "flock-your and-herd-your **will-be_stationed** also- little_ones-your",
+        "englishNatural": "your flock and your herd **let be stationed** also your little ones"
+      }
+    }
+  ]
+}

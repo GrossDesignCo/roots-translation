@@ -1,0 +1,33 @@
+{
+  "key": "teqom",
+  "language": "aramaic",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 23,
+      "word": {
+        "originalScript": "תְּקוּם",
+        "transliteration": "teqom",
+        "englishLiteral": "will-stand_up",
+        "englishNatural": "will stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "מַלְכְוָתָא וְהִיא **תְּקוּם** לְעָלְמַיָּא",
+        "transliteration": "malkhevata veHi **teqom** leAlmaya",
+        "englishLiteral": "kingdoms-the and-she **will-stand_up** to-the_ages",
+        "englishNatural": "the kingdoms and it **will stand-up** to the-ages"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "hakol",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ecclesiastes",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הַכֹּ֥ל",
+        "transliteration": "haKol",
+        "englishLiteral": "the-all",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲבֵ֥ל הֲבָלִ֖ים **הַכֹּ֥ל** הָֽבֶל׃",
+        "transliteration": "havel havalim **haKol** havel",
+        "englishLiteral": "vapor-of vapors **the-all** vapor",
+        "englishNatural": "Vapor of vapors **all** is vapor"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "yeqim",
+  "language": "aramaic",
+  "root": "yeqim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "יְקִים",
+        "transliteration": "yeqim",
+        "englishLiteral": "he-will-raise_up",
+        "englishNatural": "will raise-up",
+        "root": "yeqim",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "haphel"
+        }
+      },
+      "context": {
+        "hebrew": "מַלְכַיָּא אִנּוּן **יְקִים** אֱלָהּ שְׁמַיָּא",
+        "transliteration": "malkaiya innun **yeqim** elah shemaya",
+        "englishLiteral": "kings-the those **he-will-raise_up** God-the skies-the",
+        "englishNatural": "kings those **will raise-up** the God of the skies"
+      }
+    }
+  ]
+}

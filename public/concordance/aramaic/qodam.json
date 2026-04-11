@@ -1,0 +1,31 @@
+{
+  "key": "qodam",
+  "language": "aramaic",
+  "root": "qodam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 36
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "קֳדָם",
+        "transliteration": "qodam",
+        "englishLiteral": "before",
+        "englishNatural": "before",
+        "root": "qodam",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וּפִשְׁרֵהּ נֵאמַר **קֳדָם** מַלְכָּא",
+        "transliteration": "uFishreH nemar **qodam** malka",
+        "englishLiteral": "and-interpretation-its we-will-tell **before** king-the",
+        "englishNatural": "and its interpretation we will tell **before** the king"
+      }
+    }
+  ]
+}

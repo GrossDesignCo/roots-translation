@@ -1,0 +1,32 @@
+{
+  "root": "yashen",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיִּישָׁן",
+        "transliteration": "vaYishan",
+        "englishLiteral": "and-he-slept",
+        "englishNatural": "and he slept",
+        "root": "yashen",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל הָאָדָם **וַיִּישָׁן** וַיִּקַּח אַחַת",
+        "transliteration": "al haAdam **vaYishan** vaYikach achat",
+        "englishLiteral": "over the-Earthling (Adam) **and-he-slept** and-he-took one",
+        "englishNatural": "over the Earthling (Adam) **and he slept** and he took one"
+      }
+    }
+  ]
+}

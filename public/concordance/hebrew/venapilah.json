@@ -1,0 +1,33 @@
+{
+  "key": "venapilah",
+  "language": "hebrew",
+  "root": "naphal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְנַפִּילָה",
+        "transliteration": "veNapilah",
+        "englishLiteral": "and-let-us-cause-to-fall",
+        "englishNatural": "and let us cause-to-fall",
+        "root": "naphal",
+        "morphology": {
+          "type": "verb",
+          "tense": "cohortative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "רֵעֵהוּ לְכוּ **וְנַפִּילָה** גוֹרָלוֹת וְנֵדְעָה",
+        "transliteration": "reehu lekhu **veNapilah** goralot veNedah",
+        "englishLiteral": "friend-his Go **and-let-us-cause-to-fall** lots and-let-us-know",
+        "englishNatural": "his friend Go **and let us cause-to-fall** lots and let us know"
+      }
+    }
+  ]
+}

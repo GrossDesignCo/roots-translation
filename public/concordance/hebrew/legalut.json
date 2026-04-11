@@ -1,0 +1,31 @@
+{
+  "key": "legalut",
+  "language": "hebrew",
+  "root": "golah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לְגָלוּת",
+        "transliteration": "leGalut",
+        "englishLiteral": "to-exile-of",
+        "englishNatural": "to the exile of",
+        "root": "golah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁנָה הַחֲמִישִׁית **לְגָלוּת** הַמֶּלֶךְ יְהוֹיָכִין",
+        "transliteration": "haShanah haChamisit **leGalut** haMelekh Yehoyakhin",
+        "englishLiteral": "the-year the-fifth **to-exile-of** the-king He_Establishes (Jehoiachin)",
+        "englishNatural": "the year the fifth **to the exile of** the king He-Establishes (Jehoiachin)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "marot",
+  "language": "hebrew",
+  "root": "mareh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "מַרְאוֹת",
+        "transliteration": "marot",
+        "englishLiteral": "visions-of",
+        "englishNatural": "visions of",
+        "root": "mareh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁמַיִם וָאֶרְאֶה **מַרְאוֹת** אֱלֹהִים",
+        "transliteration": "haShamayim vaEreh **marot** elohim",
+        "englishLiteral": "the-skies and-I-saw **visions-of** Gods",
+        "englishNatural": "the skies and I saw **visions of** God"
+      }
+    }
+  ]
+}

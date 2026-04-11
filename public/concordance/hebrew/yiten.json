@@ -1,0 +1,33 @@
+{
+  "key": "yiten",
+  "language": "hebrew",
+  "root": "natan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יִתֵּן",
+        "transliteration": "yiten",
+        "englishLiteral": "it-gives",
+        "englishNatural": "gives",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר פִּרְיוֹ **יִתֵּן** בְּעִתּוֹ וְעָלֵהוּ",
+        "transliteration": "asher piryo **yiten** beIto veAlehu",
+        "englishLiteral": "which its-fruit **it-gives** in-its-season and-its-leaf",
+        "englishNatural": "which its fruit **gives** in its season and its leaf"
+      }
+    }
+  ]
+}

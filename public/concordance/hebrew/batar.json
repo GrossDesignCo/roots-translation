@@ -1,0 +1,33 @@
+{
+  "key": "batar",
+  "language": "hebrew",
+  "root": "batar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "בָתָר",
+        "transliteration": "batar",
+        "englishLiteral": "he-divided",
+        "englishNatural": "he divided",
+        "root": "batar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַצִּפֹּר לֹא **בָתָר**",
+        "transliteration": "haTzippor lo **batar**",
+        "englishLiteral": "the-bird not **he-divided**",
+        "englishNatural": "the birds not **he divided**"
+      }
+    }
+  ]
+}

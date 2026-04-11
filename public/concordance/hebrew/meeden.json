@@ -1,0 +1,31 @@
+{
+  "key": "meeden",
+  "language": "hebrew",
+  "root": "eden",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מֵעֵדֶן",
+        "transliteration": "meEden",
+        "englishLiteral": "from-Delight (Eden)",
+        "englishNatural": "from Delight (Eden)",
+        "root": "eden",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְנָהָר יֹצֵא **מֵעֵדֶן** לְהַשְׁקוֹת אֶת־",
+        "transliteration": "veNahar yotze **meEden** leHashqot et-",
+        "englishLiteral": "And-river goes-out **from-Delight (Eden)** to-give_drink ↳",
+        "englishNatural": "And a river went out **from Delight (Eden)** to give-drink to ↳"
+      }
+    }
+  ]
+}

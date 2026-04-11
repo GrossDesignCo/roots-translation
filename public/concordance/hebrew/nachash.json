@@ -1,0 +1,31 @@
+{
+  "key": "nachash",
+  "language": "hebrew",
+  "root": "nachash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "נָחָשׁ",
+        "transliteration": "nachash",
+        "englishLiteral": "snake",
+        "englishNatural": "of a snake",
+        "root": "nachash",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי מִשֹּׁרֶשׁ **נָחָשׁ** יֵצֵא צֶפַע",
+        "transliteration": "ki miShoresh **nachash** yetze tsefa",
+        "englishLiteral": "that from-root **snake** shall-come-forth viper",
+        "englishNatural": "that from the root **of a snake** shall come forth a viper"
+      }
+    }
+  ]
+}

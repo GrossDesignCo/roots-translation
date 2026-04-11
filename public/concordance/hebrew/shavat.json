@@ -1,0 +1,33 @@
+{
+  "key": "shavat",
+  "language": "hebrew",
+  "root": "shavat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "שָׁבַת",
+        "transliteration": "shavat",
+        "englishLiteral": "sabbathed",
+        "englishNatural": "he sabbathed",
+        "root": "shavat",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי בוֹ **שָׁבַת** מִכָּל־ מְלַאכְתּוֹ",
+        "transliteration": "ki bo **shavat** miKol- melakhto",
+        "englishLiteral": "that in-it **sabbathed** from-all his-work",
+        "englishNatural": "that in it **he sabbathed** from all his work"
+      }
+    }
+  ]
+}

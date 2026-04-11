@@ -1,0 +1,79 @@
+{
+  "key": "lemina",
+  "language": "hebrew",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 20
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לְמִינָהּ",
+        "transliteration": "leMina",
+        "englishLiteral": "to-kind-her",
+        "englishNatural": "to its kind",
+        "root": "min",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִן־ הַבְּהֵמָה **לְמִינָהּ** מִכֹּל רֶמֶשׂ",
+        "transliteration": "uMin- haBehemah **leMina** mikol remes",
+        "englishLiteral": "and-from- the-beast **to-kind-her** from-all creeping_thing-of",
+        "englishNatural": "and from the beast **to its kind** from all creeping-thing of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לְמִינָהּ",
+        "transliteration": "leMina",
+        "englishLiteral": "to-kind-her",
+        "englishNatural": "to its kind",
+        "root": "min",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ הַחַיָּה **לְמִינָהּ** וְכָל־ הַבְּהֵמָה",
+        "transliteration": "veKhol- haChayah **leMina** veKhol- haBehemah",
+        "englishLiteral": "and-all- the-living_being **to-kind-her** and-all- the-beast",
+        "englishNatural": "and all the living-being **to its kind** and all the beast"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לְמִינָהּ",
+        "transliteration": "leMina",
+        "englishLiteral": "to-kind-her",
+        "englishNatural": "to its kind",
+        "root": "min",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ הַבְּהֵמָה **לְמִינָהּ** וְכָל־ הָרֶמֶשׂ",
+        "transliteration": "veKhol- haBehemah **leMina** veKhol- haRemes",
+        "englishLiteral": "and-all- the-beast **to-kind-her** and-all- the-creeping_thing",
+        "englishNatural": "and all the beast **to its kind** and all the creeping-thing"
+      }
+    }
+  ]
+}

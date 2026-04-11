@@ -1,0 +1,33 @@
+{
+  "key": "vattishachet",
+  "language": "hebrew",
+  "root": "shachat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתִּשָּׁחֵת",
+        "transliteration": "vatTishachet",
+        "englishLiteral": "And-it-corrupted",
+        "englishNatural": "corrupted",
+        "root": "shachat",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתִּשָּׁחֵת** הָאָרֶץ לִפְנֵי",
+        "transliteration": "**vatTishachet** haAretz liFney",
+        "englishLiteral": "**And-it-corrupted** the-land to-faces-of",
+        "englishNatural": "**corrupted** And the land to the face of"
+      }
+    }
+  ]
+}

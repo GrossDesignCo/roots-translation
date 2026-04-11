@@ -1,0 +1,33 @@
+{
+  "key": "hotzeti-kha",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הוֹצֵאתִיךָ",
+        "transliteration": "hotzeti-kha",
+        "englishLiteral": "I-brought_out-you",
+        "englishNatural": "brought-out you",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֲשֶׁר **הוֹצֵאתִיךָ** מֵאוּר כַּשְׂדִּים",
+        "transliteration": "YHWH asher **hotzeti-kha** meUr Kasdim",
+        "englishLiteral": "He_Who_Is (YHWH) which **I-brought_out-you** from-Ur Chaldeans",
+        "englishNatural": "He-Who-Is (YHWH) which **brought-out you** from Ur of the Chaldeans"
+      }
+    }
+  ]
+}

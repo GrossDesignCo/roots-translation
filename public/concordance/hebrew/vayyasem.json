@@ -1,0 +1,33 @@
+{
+  "key": "vayyasem",
+  "language": "hebrew",
+  "root": "sim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 15
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיָּשֶׂם",
+        "transliteration": "vayYasem",
+        "englishLiteral": "And-he-set",
+        "englishNatural": "set",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁבְעָתַיִם יֻקָּם **וַיָּשֶׂם** יְהוָה לְקַיִן",
+        "transliteration": "shivatayim yuqam **vayYasem** YHWH leQayin",
+        "englishLiteral": "sevenfold it-will-be-avenged **And-he-set** He_Who_Is (YHWH) for-Acquired (Cain)",
+        "englishNatural": "sevenfold it will be avenged **set** And He-Who-Is (YHWH) for Acquired (Cain)"
+      }
+    }
+  ]
+}

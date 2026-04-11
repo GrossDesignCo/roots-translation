@@ -1,0 +1,58 @@
+{
+  "root": "gamal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "כְּגָמוּל",
+        "transliteration": "keGamul",
+        "englishLiteral": "as-weaned-one",
+        "englishNatural": "as a weaned-one",
+        "root": "gamal",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְדֹמַמְתִּי נַפְשִׁי **כְּגָמוּל** עֲלֵי אִמּוֹ",
+        "transliteration": "veDomamti nafshi **keGamul** alei imo",
+        "englishLiteral": "and-I-have-silenced my-throat **as-weaned-one** upon his-mother",
+        "englishNatural": "and I have silenced my throat **as a weaned-one** upon his mother"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "כַּגָּמוּל",
+        "transliteration": "kaGamul",
+        "englishLiteral": "as-weaned-one",
+        "englishNatural": "as a weaned-one",
+        "root": "gamal",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֲלֵי אִמּוֹ **כַּגָּמוּל** עָלַי נַפְשִׁי",
+        "transliteration": "alei imo **kaGamul** alai nafshi",
+        "englishLiteral": "upon his-mother **as-weaned-one** upon my-throat",
+        "englishNatural": "upon his mother **as a weaned-one** upon my throat"
+      }
+    }
+  ]
+}

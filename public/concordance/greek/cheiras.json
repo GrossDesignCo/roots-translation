@@ -1,0 +1,31 @@
+{
+  "key": "cheiras",
+  "language": "greek",
+  "root": "cheir",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "χεῖράς",
+        "transliteration": "cheiras",
+        "englishLiteral": "hands",
+        "englishNatural": "hands",
+        "root": "cheir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ἐκτενεῖς τὰς **χεῖράς** σου καὶ",
+        "transliteration": "ekteneis tas **cheiras** sou kai",
+        "englishLiteral": "you-will-stretch_out the **hands** of-you and",
+        "englishNatural": "you will stretch out those **hands** of yours and"
+      }
+    }
+  ]
+}

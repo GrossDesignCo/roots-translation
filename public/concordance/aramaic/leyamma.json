@@ -1,0 +1,31 @@
+{
+  "key": "leyamma",
+  "language": "aramaic",
+  "root": "yam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לְיַמָּ֥א",
+        "transliteration": "leYamma",
+        "englishLiteral": "to-the-sea",
+        "englishNatural": "sea",
+        "root": "yam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁמַיָּ֔א מְגִיחָ֖ן **לְיַמָּ֥א** רַבָּֽא",
+        "transliteration": "shemaya meGichan **leYamma** rabba",
+        "englishLiteral": "the-skies stirring_up **to-the-sea** great",
+        "englishNatural": "the skies were stirring-up **sea** to the great"
+      }
+    }
+  ]
+}

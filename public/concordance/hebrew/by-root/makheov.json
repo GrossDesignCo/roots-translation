@@ -1,0 +1,30 @@
+{
+  "root": "makheov",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "מַכְאֹבָיו",
+        "transliteration": "makheovav",
+        "englishLiteral": "pains-his",
+        "englishNatural": "his pains",
+        "root": "makheov",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָדַעְתִּי אֶת־ **מַכְאֹבָיו**",
+        "transliteration": "yadati et- **makheovav**",
+        "englishLiteral": "I-know ↳ **pains-his**",
+        "englishNatural": "I have known ↳ **his pains**"
+      }
+    }
+  ]
+}

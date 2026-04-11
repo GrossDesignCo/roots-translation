@@ -1,0 +1,33 @@
+{
+  "key": "vayatzmach",
+  "language": "hebrew",
+  "root": "tzamach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּצְמַח",
+        "transliteration": "vaYatzmach",
+        "englishLiteral": "And-grew",
+        "englishNatural": "grew",
+        "root": "tzamach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּצְמַח** יְהוָה אֱלֹהִים",
+        "transliteration": "**vaYatzmach** YHWH Elohim",
+        "englishLiteral": "**And-grew** He_Who_Is (YHWH) Gods",
+        "englishNatural": "**grew** And He-Who-Is (YHWH) God"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "benot",
+  "language": "hebrew",
+  "root": "bat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בְּנוֹת",
+        "transliteration": "benot",
+        "englishLiteral": "daughters-of",
+        "englishNatural": "the daughters of",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֱלֹהִים אֶת־ **בְּנוֹת** הָאָדָם כִּי",
+        "transliteration": "haElohim et- **benot** haAdam ki",
+        "englishLiteral": "the-Gods ↳ **daughters-of** the-Earthling (Adam) that",
+        "englishNatural": "of God ↳ **the daughters of** Earthling (Adam) that"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "בְּנוֹת",
+        "transliteration": "benot",
+        "englishLiteral": "daughters-of",
+        "englishNatural": "the daughters of",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֱלֹהִים אֶל־ **בְּנוֹת** הָאָדָם וְיָלְדוּ",
+        "transliteration": "haElohim el- **benot** haAdam veyaledu",
+        "englishLiteral": "the-Gods to **daughters-of** the-Earthling (Adam) and-they-birthed",
+        "englishNatural": "God to **the daughters of** Earthling (Adam) birthed"
+      }
+    }
+  ]
+}

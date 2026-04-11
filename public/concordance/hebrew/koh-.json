@@ -1,0 +1,55 @@
+{
+  "key": "koh-",
+  "language": "hebrew",
+  "root": "koh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "כֹּה־",
+        "transliteration": "koh-",
+        "englishLiteral": "Thus-",
+        "englishNatural": "Thus",
+        "root": "koh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ מֹשֶׁה **כֹּה־** תֹאמַר אֶל־",
+        "transliteration": "el- Moshe **koh-** tomar el-",
+        "englishLiteral": "to- Drawn_Out (Moses) **Thus-** you-will-say to-",
+        "englishNatural": "to Drawn-Out (Moses) **Thus** you will say to"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "כֹּה־",
+        "transliteration": "koh-",
+        "englishLiteral": "thus-",
+        "englishNatural": "Thus",
+        "root": "koh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ פַּרְעֹה **כֹּה־** אָמַר יְהוָה",
+        "transliteration": "el- Paroh **koh-** amar YHWH",
+        "englishLiteral": "to- Pharaoh **thus-** said He_Who_Is (YHWH)",
+        "englishNatural": "to Pharaoh **Thus** has said He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

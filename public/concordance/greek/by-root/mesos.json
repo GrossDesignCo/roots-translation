@@ -1,0 +1,30 @@
+{
+  "root": "mesos",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "μέσῳ",
+        "transliteration": "meso",
+        "englishLiteral": "midst",
+        "englishNatural": "the midst of",
+        "root": "mesos",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "πρόβατα ἐν **μέσῳ** λύκων γίνεσθε",
+        "transliteration": "probata en **meso** lukon ginesthe",
+        "englishLiteral": "sheep in **midst** wolves be",
+        "englishNatural": "sheep in **the midst of** wolves be"
+      }
+    }
+  ]
+}

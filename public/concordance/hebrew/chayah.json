@@ -1,0 +1,151 @@
+{
+  "key": "chayah",
+  "language": "hebrew",
+  "root": "chayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "חַיָּ֑ה",
+        "transliteration": "chayah",
+        "englishLiteral": "living",
+        "englishNatural": "living",
+        "root": "chayah",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "שֶׁ֖רֶץ נֶ֣פֶשׁ **חַיָּ֑ה** וְעוֹף֙ יְעוֹפֵ֣ף",
+        "transliteration": "sherets nephesh **chayah** veOf yeOfef",
+        "englishLiteral": "swarm throat **living** And-flyer let-fly",
+        "englishNatural": "a swarm throat **living** And let flyer fly"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 24
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "חַיָּה֙",
+        "transliteration": "chayah",
+        "englishLiteral": "living",
+        "englishNatural": "living",
+        "root": "chayah",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָ֜רֶץ נֶ֤פֶשׁ **חַיָּה֙** לְמִינָ֔הּ בְּהֵמָ֥ה",
+        "transliteration": "haAretz nephesh **chayah** leMinah behemah",
+        "englishLiteral": "the-land throat **living** to-its-kind beast",
+        "englishNatural": "Let the land throat **living** to its kind beast"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "חַיָּ֖ה",
+        "transliteration": "chayah",
+        "englishLiteral": "living-being",
+        "englishNatural": "living thing",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁמַ֔יִם וּבְכָל־ **חַיָּ֖ה** הָֽרֹמֶ֖שֶׂת עַל־",
+        "transliteration": "haShamayim uVeKol- **chayah** haRomeset al-",
+        "englishLiteral": "the-skies and-in-all **living-being** the-crawling over",
+        "englishNatural": "the skies and in all **living thing** the crawling over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "חַיָּ֖ה",
+        "transliteration": "chayah",
+        "englishLiteral": "living",
+        "englishNatural": "living",
+        "root": "chayah",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בּ֛וֹ נֶ֥פֶשׁ **חַיָּ֖ה** אֶת־ כָּל־",
+        "transliteration": "bo nephesh **chayah** et- kol-",
+        "englishLiteral": "in-it throat **living** ↳ all",
+        "englishNatural": "in it is throat **living** ↳ all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "חַיָּה",
+        "transliteration": "chayah",
+        "englishLiteral": "living_being",
+        "englishNatural": "living-being",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִיַּד כָּל־ **חַיָּה** אֶדְרְשֶׁנּוּ וּמִיַּד",
+        "transliteration": "miYad kol- **chayah** edreshennu uMiYad",
+        "englishLiteral": "from-hand-of all- **living_being** I-will-require-it and-from-hand-of",
+        "englishNatural": "from the hand of all **living-being** I will require it and from the hand of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 12
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "חַיָּה",
+        "transliteration": "chayah",
+        "englishLiteral": "living_being",
+        "englishNatural": "the living-being",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ נֶפֶשׁ **חַיָּה** אֲשֶׁר אִתְּכֶם",
+        "transliteration": "kol- nefesh **chayah** asher itkhem",
+        "englishLiteral": "all- wind-of **living_being** which with-you",
+        "englishNatural": "all the wind of **the living-being** which is with you"
+      }
+    }
+  ]
+}

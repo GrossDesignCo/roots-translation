@@ -1,0 +1,102 @@
+{
+  "root": "peh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "פִּיהָ",
+        "transliteration": "piha",
+        "englishLiteral": "her-mouth",
+        "englishNatural": "her mouth",
+        "root": "peh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פָּצְתָה אֶת־ **פִּיהָ** לָקַחַת אֶת־",
+        "transliteration": "patzah et- **piha** laqachat et-",
+        "englishLiteral": "she-opened ↳ **her-mouth** to-take ↳",
+        "englishNatural": "has opened ↳ **her mouth** to take ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "מִפִּ֤י",
+        "transliteration": "miPi",
+        "englishLiteral": "from-mouth-of",
+        "englishNatural": "from the mouth of",
+        "root": "peh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**מִפִּ֤י** עוֹלְלִ֣ים וְ֭יֹנְקִים",
+        "transliteration": "**miPi** olelim veYoneqim",
+        "englishLiteral": "**from-mouth-of** infants and-sucklings",
+        "englishNatural": "**from the mouth of** infants and sucklings"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לְפִי",
+        "transliteration": "lePhi",
+        "englishLiteral": "to-mouth-of",
+        "englishNatural": "to the mouth of",
+        "root": "peh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְיַד שְׁעָרִים **לְפִי** קָרְיָה מְבוֹא",
+        "transliteration": "leYad shearim **lePhi** qaryah mevo",
+        "englishLiteral": "To-hand-of gates **to-mouth-of** city incoming-of",
+        "englishNatural": "To the hand of gates **to the mouth of** a city incoming of"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 29
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "פִיו",
+        "transliteration": "piw",
+        "englishLiteral": "his-mouth",
+        "englishNatural": "his mouth",
+        "root": "peh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא יַעַבְרוּ־ **פִיו** בְּחוּקוֹ מוֹסְדֵי",
+        "transliteration": "lo yaavru- **piw** beChuqo mosdei",
+        "englishLiteral": "not they-will-pass- **his-mouth** in-inscribing-his foundations-of",
+        "englishNatural": "not will pass **his mouth** in his inscribing the foundations of"
+      }
+    }
+  ]
+}

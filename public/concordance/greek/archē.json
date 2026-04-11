@@ -1,0 +1,31 @@
+{
+  "key": "archē",
+  "language": "greek",
+  "root": "arche",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "ἀρχῇ",
+        "transliteration": "archē",
+        "englishLiteral": "first",
+        "englishNatural": "the first",
+        "root": "arche",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "Ἐν **ἀρχῇ** ἦν ὁ",
+        "transliteration": "En **archē** ēn ho",
+        "englishLiteral": "In **first** was The",
+        "englishNatural": "In **the first** was The"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "key": "shamah",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 23,
+      "word": {
+        "originalScript": "שָׁמָּה",
+        "transliteration": "shamah",
+        "englishLiteral": "there-ward",
+        "englishNatural": "there",
+        "root": "sham",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עַד־ בֹּאֵנוּ **שָׁמָּה**",
+        "transliteration": "ad- boenu **shamah**",
+        "englishLiteral": "until- coming-our **there-ward**",
+        "englishNatural": "until we come **there**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "שָֽׁמְעָה֙",
+        "transliteration": "shamah",
+        "englishLiteral": "she-had-heard",
+        "englishNatural": "she had heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מוֹאָ֑ב כִּ֤י **שָֽׁמְעָה֙** בִּשְׂדֵ֣ה מוֹאָ֔ב",
+        "transliteration": "Moav ki **shamah** biSdeh Moav",
+        "englishLiteral": "From_Father (Moab) that **she-had-heard** in-field-of From_Father (Moab)",
+        "englishNatural": "From-Father (Moab) that **she had heard** in the field of From-Father (Moab)"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "שָּׁמָּה",
+        "transliteration": "shamah",
+        "englishLiteral": "there",
+        "englishNatural": "there",
+        "root": "shamah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר יִהְיֶה־ **שָּׁמָּה** הָרוּחַ לָלֶכֶת",
+        "transliteration": "asher yihyeh- **shamah** haRuach laLekhet",
+        "englishLiteral": "which it-was- **there** the-wind to-go",
+        "englishNatural": "which was **there** the wind to go"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "שָׁמָּה",
+        "transliteration": "shamah",
+        "englishLiteral": "there",
+        "englishNatural": "there",
+        "root": "shamah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לָלֶכֶת יֵלֵכוּ **שָׁמָּה** הָרוּחַ לָלֶכֶת",
+        "transliteration": "laLekhet yelekhu **shamah** haRuach laLekhet",
+        "englishLiteral": "to-go they-went **there** the-wind to-go",
+        "englishNatural": "to go they went **there** the wind to go"
+      }
+    }
+  ]
+}

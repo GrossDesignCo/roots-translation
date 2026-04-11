@@ -1,0 +1,30 @@
+{
+  "root": "emer",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אִמְרֵי",
+        "transliteration": "imre",
+        "englishLiteral": "words-of",
+        "englishNatural": "words of",
+        "root": "emer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמוּסָר לְהָבִין **אִמְרֵי** בִינָה",
+        "transliteration": "umusar lehavin **imre** binah",
+        "englishLiteral": "and-Discipline To-understand **words-of** understanding",
+        "englishNatural": "and Discipline To understand **words of** understanding"
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "key": "vayeman",
+  "language": "hebrew",
+  "root": "manah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְמַן",
+        "transliteration": "vaYeman",
+        "englishLiteral": "And-appointed",
+        "englishNatural": "appointed",
+        "root": "manah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְמַן** יְהוָה דָּג",
+        "transliteration": "**vaYeman** YHWH dag",
+        "englishLiteral": "**And-appointed** He_Who_Is (YHWH) fish",
+        "englishNatural": "**appointed** And He-Who-Is (YHWH) fish"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְמַן",
+        "transliteration": "vaYeman",
+        "englishLiteral": "And-appointed",
+        "englishNatural": "appointed",
+        "root": "manah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְמַן** יְהוָה־ אֱלֹהִים",
+        "transliteration": "**vaYeman** YHWH- Elohim",
+        "englishLiteral": "**And-appointed** He_Who_Is (YHWH)- Gods",
+        "englishNatural": "**appointed** And He-Who-Is (YHWH) God"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְמַן",
+        "transliteration": "vaYeman",
+        "englishLiteral": "And-appointed",
+        "englishNatural": "appointed",
+        "root": "manah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְמַן** הָאֱלֹהִים תּוֹלַעַת",
+        "transliteration": "**vaYeman** haElohim tolaat",
+        "englishLiteral": "**And-appointed** the-Gods worm",
+        "englishNatural": "**appointed** And the God a worm"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַיְמַן",
+        "transliteration": "vaYeman",
+        "englishLiteral": "and-appointed",
+        "englishNatural": "appointed",
+        "root": "manah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כִּזְרֹחַ הַשֶּׁמֶשׁ **וַיְמַן** אֱלֹהִים רוּחַ",
+        "transliteration": "kizroch haShemesh **vaYeman** Elohim ruach",
+        "englishLiteral": "at-rising_of the-sun **and-appointed** Gods wind",
+        "englishNatural": "at the rising of the sun **appointed** and God a wind"
+      }
+    }
+  ]
+}

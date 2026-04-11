@@ -1,0 +1,32 @@
+{
+  "root": "damah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "נִדְמֵיתִי",
+        "transliteration": "nidmeiti",
+        "englishLiteral": "I-am-silenced",
+        "englishNatural": "I am silenced",
+        "root": "damah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "לִי כִּי־ **נִדְמֵיתִי** כִּי אִישׁ",
+        "transliteration": "li ki- **nidmeiti** ki ish",
+        "englishLiteral": "to-me that- **I-am-silenced** that man",
+        "englishNatural": "to me that **I am silenced** that a man"
+      }
+    }
+  ]
+}

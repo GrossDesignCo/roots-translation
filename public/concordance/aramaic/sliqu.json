@@ -1,0 +1,33 @@
+{
+  "key": "sliqu",
+  "language": "aramaic",
+  "root": "salaq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 29
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "סְלִקוּ",
+        "transliteration": "sliqu",
+        "englishLiteral": "they-came-up",
+        "englishNatural": "came up",
+        "root": "salaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל מִשְׁכְּבָךְ **סְלִקוּ** מָה דִּי",
+        "transliteration": "al mishkavakh **sliqu** mah di",
+        "englishLiteral": "over bed-your **they-came-up** what which",
+        "englishNatural": "over your bed **came up** what which"
+      }
+    }
+  ]
+}

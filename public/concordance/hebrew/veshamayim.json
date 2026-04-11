@@ -1,0 +1,31 @@
+{
+  "key": "veshamayim",
+  "language": "hebrew",
+  "root": "shamayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְשָׁמָיִם׃",
+        "transliteration": "veShamayim",
+        "englishLiteral": "and-skies",
+        "englishNatural": "and skies",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים אֶרֶץ **וְשָׁמָיִם׃**",
+        "transliteration": "Elohim eretz **veShamayim**",
+        "englishLiteral": "Gods land **and-skies**",
+        "englishNatural": "God land **and skies**"
+      }
+    }
+  ]
+}

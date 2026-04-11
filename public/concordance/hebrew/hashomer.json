@@ -1,0 +1,33 @@
+{
+  "key": "hashomer",
+  "language": "hebrew",
+  "root": "shamar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הֲשֹׁמֵר",
+        "transliteration": "haShomer",
+        "englishLiteral": "keeper-of",
+        "englishNatural": "keeper of",
+        "root": "shamar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא יָדַעְתִּי **הֲשֹׁמֵר** אָחִי אָנֹכִי",
+        "transliteration": "lo yadati **haShomer** achi anokhi",
+        "englishLiteral": "Not I-knew **keeper-of** my-brother I",
+        "englishNatural": "not I knew **keeper of** my brother Am I"
+      }
+    }
+  ]
+}

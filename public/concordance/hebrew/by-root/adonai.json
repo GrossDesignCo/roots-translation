@@ -1,0 +1,78 @@
+{
+  "root": "adonai",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אֲדֹנָי",
+        "transliteration": "adonai",
+        "englishLiteral": "Lord",
+        "englishNatural": "Lord",
+        "root": "adonai",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר אַבְרָם **אֲדֹנָי** יְהוִה מַה־",
+        "transliteration": "vaYomer Abram **adonai** YHWH mah-",
+        "englishLiteral": "And-he-said Exalted_Father (Abram) **Lord** He_Who_Is (YHWH) what-",
+        "englishNatural": "said And Exalted-Father (Abram) **Lord** He-Who-Is (YHWH) what"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אֲדֹנָי",
+        "transliteration": "adonai",
+        "englishLiteral": "Lord",
+        "englishNatural": "Lord",
+        "root": "adonai",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמַר **אֲדֹנָי** יְהוִה בַּמָּה",
+        "transliteration": "vaYomar **adonai** YHWH bamah",
+        "englishLiteral": "And-he-said **Lord** He_Who_Is (YHWH) by-what",
+        "englishNatural": "And he said **Lord** He-Who-Is (YHWH) by what"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אֲדֹנָי",
+        "transliteration": "Adonai",
+        "englishLiteral": "Lord",
+        "englishNatural": "And the Lord",
+        "root": "adonai",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּתֵּן **אֲדֹנָי** בְּיָדוֹ אֶת־",
+        "transliteration": "vaYitten **Adonai** beYado et-",
+        "englishLiteral": "and-he-gave **Lord** in-hand-his ↳",
+        "englishNatural": "gave **And the Lord** into his hand ↳"
+      }
+    }
+  ]
+}

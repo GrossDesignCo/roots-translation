@@ -1,0 +1,78 @@
+{
+  "root": "enash",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 38
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֲנָשָׁא",
+        "transliteration": "anasha",
+        "englishLiteral": "Mortal_Man (Enash)-the",
+        "englishNatural": "the Mortal-Man (Enash)",
+        "root": "enash",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דָיְרִין בְּנֵי **אֲנָשָׁא** חֵיוַת בָרָא",
+        "transliteration": "dayerin benei **anasha** cheivat bara",
+        "englishLiteral": "dwelling sons-of **Mortal_Man (Enash)-the** beasts-of field-the",
+        "englishNatural": "dwell the sons of **the Mortal-Man (Enash)** the beasts of the field"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "אֲנָשָׁא֙",
+        "transliteration": "anasha",
+        "englishLiteral": "Mortal_Man (Enash)-the",
+        "englishNatural": "the Mortal-Man (Enash)",
+        "root": "enash",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַיְנִ֜ין כְּעַיְנֵ֤י **אֲנָשָׁא֙** בְּקַרְנָא־ דָ֔א",
+        "transliteration": "ayinin keAynei **anasha** beQarna- da",
+        "englishLiteral": "eyes like-eyes-of **Mortal_Man (Enash)-the** in-horn- this",
+        "englishNatural": "eyes like the eyes of **the Mortal-Man (Enash)** horn in this"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אֱנָ֖שׁ",
+        "transliteration": "enash",
+        "englishLiteral": "Mortal_Man (Enash)",
+        "englishNatural": "Mortal-Man (Enash)",
+        "root": "enash",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁמַיָּ֔א כְּבַ֥ר **אֱנָ֖שׁ** אָתֵ֣ה הֲוָ֔ה",
+        "transliteration": "shemaya keVar **enash** ateh havah",
+        "englishLiteral": "skies-the as-son-of **Mortal_Man (Enash)** coming was",
+        "englishNatural": "the skies as a son of **Mortal-Man (Enash)** coming he was"
+      }
+    }
+  ]
+}

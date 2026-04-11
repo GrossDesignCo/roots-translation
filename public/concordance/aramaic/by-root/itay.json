@@ -1,0 +1,30 @@
+{
+  "root": "itay",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אִיתַי",
+        "transliteration": "itay",
+        "englishLiteral": "there-is-in-me",
+        "englishNatural": "is in me",
+        "root": "itay",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "בְחָכְמָה דִּי **אִיתַי** מִן כָּל",
+        "transliteration": "beChokmah di **itay** min kol",
+        "englishLiteral": "in-wisdom which **there-is-in-me** from all",
+        "englishNatural": "in wisdom which **is in me** from all"
+      }
+    }
+  ]
+}

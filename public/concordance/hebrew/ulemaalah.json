@@ -1,0 +1,31 @@
+{
+  "key": "ulemaalah",
+  "language": "hebrew",
+  "root": "maala",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וּלְמַעְלָה",
+        "transliteration": "uleMaalah",
+        "englishLiteral": "and-to-upward",
+        "englishNatural": "and upward",
+        "root": "maala",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "מִמַּרְאֵה מָתְנָיו **וּלְמַעְלָה** וּמִמַּרְאֵה מָתְנָיו",
+        "transliteration": "miMareeh matnav **uleMaalah** uMiMareeh matnav",
+        "englishLiteral": "from-appearance-of loins-his **and-to-upward** and-from-appearance-of loins-his",
+        "englishNatural": "from the appearance of his loins **and upward** and from the appearance of his loins"
+      }
+    }
+  ]
+}

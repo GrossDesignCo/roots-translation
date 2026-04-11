@@ -1,0 +1,54 @@
+{
+  "root": "resh",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רֵאשֵׁהּ",
+        "transliteration": "resheh",
+        "englishLiteral": "head-its",
+        "englishNatural": "its head",
+        "root": "resh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא צַלְמָא **רֵאשֵׁהּ** דִּי דְהַב",
+        "transliteration": "hu tsalma **resheh** di dehav",
+        "englishLiteral": "he image-the **head-its** which gold",
+        "englishNatural": "He the image **its head** of gold"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 38
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "רֵאשָׁה",
+        "transliteration": "reshah",
+        "englishLiteral": "head-the",
+        "englishNatural": "the head",
+        "root": "resh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַנְתָּה הוּא **רֵאשָׁה** דִּי דַהֲבָא",
+        "transliteration": "antah hu **reshah** di dahava",
+        "englishLiteral": "you he **head-the** which gold-the",
+        "englishNatural": "you are he **the head** of the gold"
+      }
+    }
+  ]
+}

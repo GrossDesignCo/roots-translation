@@ -1,0 +1,31 @@
+{
+  "key": "hadvarim",
+  "language": "hebrew",
+  "root": "davar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַדְּבָרִים",
+        "transliteration": "haDvarim",
+        "englishLiteral": "the-words",
+        "englishNatural": "words",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַחַר **הַדְּבָרִים** הָאֵלֶּה הָיָה",
+        "transliteration": "achar **haDvarim** haEleh hayah",
+        "englishLiteral": "After **the-words** the-these was",
+        "englishNatural": "After **words** these was"
+      }
+    }
+  ]
+}

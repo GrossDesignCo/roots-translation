@@ -1,0 +1,31 @@
+{
+  "key": "mishoresh",
+  "language": "hebrew",
+  "root": "shoresh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מִשֹּׁרֶשׁ",
+        "transliteration": "miShoresh",
+        "englishLiteral": "from-root",
+        "englishNatural": "from the root",
+        "root": "shoresh",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "מַכֵּךְ כִּי **מִשֹּׁרֶשׁ** נָחָשׁ יֵצֵא",
+        "transliteration": "makekh ki **miShoresh** nachash yetze",
+        "englishLiteral": "of-him-who-strikes_down-you that **from-root** snake shall-come-forth",
+        "englishNatural": "of him who strikes-down you that **from the root** of a snake shall come forth"
+      }
+    }
+  ]
+}

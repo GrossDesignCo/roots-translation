@@ -1,0 +1,33 @@
+{
+  "key": "maleah",
+  "language": "hebrew",
+  "root": "male",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מָלְאָה",
+        "transliteration": "maleah",
+        "englishLiteral": "is-full",
+        "englishNatural": "is full of",
+        "root": "male",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְפָנַי כִּי־ **מָלְאָה** הָאָרֶץ חָמָס",
+        "transliteration": "leFanai ki- **maleah** haAretz chamas",
+        "englishLiteral": "to-faces-my that- **is-full** the-land violence",
+        "englishNatural": "to my face that **is full of** the land violence"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "benefesh",
+  "language": "hebrew",
+  "root": "nephesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בְּנֶפֶשׁ",
+        "transliteration": "beNefesh",
+        "englishLiteral": "in-throat-of",
+        "englishNatural": "in the throat of",
+        "root": "nephesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נָא נֹאבְדָה **בְּנֶפֶשׁ** הָאִישׁ הַזֶּה",
+        "transliteration": "na novdah **beNefesh** haIsh haZeh",
+        "englishLiteral": "please let-us-perish **in-throat-of** the-man the-this",
+        "englishNatural": "please let us perish **in the throat of** the man the this"
+      }
+    }
+  ]
+}

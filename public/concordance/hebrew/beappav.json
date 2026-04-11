@@ -1,0 +1,31 @@
+{
+  "key": "beappav",
+  "language": "hebrew",
+  "root": "af",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בְּאַפָּיו",
+        "transliteration": "beAppav",
+        "englishLiteral": "in-his-nostrils",
+        "englishNatural": "into his nostrils",
+        "root": "af",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה וַיִּפַּח **בְּאַפָּיו** נִשְׁמַת חַיִּים",
+        "transliteration": "haAdamah vaYipach **beAppav** nishmat chayyim",
+        "englishLiteral": "the-earth and-blew **in-his-nostrils** breath-of lives",
+        "englishNatural": "the earth and blew **into his nostrils** the breath of life"
+      }
+    }
+  ]
+}

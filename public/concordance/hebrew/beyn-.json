@@ -1,0 +1,31 @@
+{
+  "key": "beyn-",
+  "language": "hebrew",
+  "root": "beyn",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "בֵּין־",
+        "transliteration": "beyn-",
+        "englishLiteral": "between-",
+        "englishNatural": "between",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ יָדַע **בֵּין־** יְמִינוֹ לִשְׂמֹאלוֹ",
+        "transliteration": "lo- yada **beyn-** yemino lismolo",
+        "englishLiteral": "not- knows **between-** right_hand-his to-left_hand-his",
+        "englishNatural": "not knows **between** his right-hand to his left-hand"
+      }
+    }
+  ]
+}

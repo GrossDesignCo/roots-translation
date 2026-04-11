@@ -1,0 +1,30 @@
+{
+  "root": "setar",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְלִשְׂטַר־",
+        "transliteration": "veListar-",
+        "englishLiteral": "And-to-side-",
+        "englishNatural": "side",
+        "root": "setar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דָּמְיָ֣ה לְדֹ֗ב **וְלִשְׂטַר־** חַד֙ הֳקִמַ֔ת",
+        "transliteration": "damyah leDov **veListar-** chad hoqimat",
+        "englishLiteral": "similar to-bear **And-to-side-** one it-was-raised_up",
+        "englishNatural": "similar to a bear **side** And to one it was raised-up"
+      }
+    }
+  ]
+}

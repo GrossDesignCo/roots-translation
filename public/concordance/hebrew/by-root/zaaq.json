@@ -1,0 +1,32 @@
+{
+  "root": "zaaq",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּזְעֵק",
+        "transliteration": "vaYazeeq",
+        "englishLiteral": "And-cried_out",
+        "englishNatural": "And he cried-out",
+        "root": "zaaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּזְעֵק** וַיֹּאמֶר בְּנִינְוֵה",
+        "transliteration": "**vaYazeeq** vaYomer beNineveh",
+        "englishLiteral": "**And-cried_out** and-said in-Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "**And he cried-out** and said in Dwelling-of-Fish (Nineveh)"
+      }
+    }
+  ]
+}

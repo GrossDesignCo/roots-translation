@@ -1,0 +1,31 @@
+{
+  "key": "bekhezvi",
+  "language": "aramaic",
+  "root": "khezev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בְּחֶזְוִ֖י",
+        "transliteration": "beKhezvi",
+        "englishLiteral": "in-vision-my",
+        "englishNatural": "in my vision",
+        "root": "khezev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חָזֵ֥ה הֲוֵ֛ית **בְּחֶזְוִ֖י** עִם־ לֵֽילְיָ֑א",
+        "transliteration": "chazeh haveit **beKhezvi** im- leila",
+        "englishLiteral": "Looking I-was **in-vision-my** with- night",
+        "englishNatural": "looking I was **in my vision** with night"
+      }
+    }
+  ]
+}

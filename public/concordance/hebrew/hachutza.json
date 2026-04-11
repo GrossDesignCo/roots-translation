@@ -1,0 +1,31 @@
+{
+  "key": "hachutza",
+  "language": "hebrew",
+  "root": "chutz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַחוּצָה",
+        "transliteration": "haChutza",
+        "englishLiteral": "the-outside",
+        "englishNatural": "outside",
+        "root": "chutz",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וַיּוֹצֵא אֹתוֹ **הַחוּצָה** וַיֹּאמֶר הַבֶּט־",
+        "transliteration": "vaYotze oto **haChutza** vaYomer habet-",
+        "englishLiteral": "And-he-brought-out ↳ him **the-outside** and-he-said Look-",
+        "englishNatural": "And he brought out him **outside** said Look"
+      }
+    }
+  ]
+}

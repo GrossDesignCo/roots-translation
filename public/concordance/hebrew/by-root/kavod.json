@@ -1,0 +1,78 @@
+{
+  "root": "kavod",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְכָב֖וֹד",
+        "transliteration": "veKhavod",
+        "englishLiteral": "and-glory",
+        "englishNatural": "and glory",
+        "root": "kavod",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מְּ֭עַט מֵאֱלֹהִ֑ים **וְכָב֖וֹד** וְהָדָ֣ר תְּעַטְּרֵֽהוּ",
+        "transliteration": "meat meElohim **veKhavod** veHadar teAtrehu",
+        "englishLiteral": "a_little from-God **and-glory** and-honor you-will-crown-him",
+        "englishNatural": "a-little from God **and glory** and honor you will crown him"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "כְּבוֹדוֹ",
+        "transliteration": "kavodo",
+        "englishLiteral": "his-glory",
+        "englishNatural": "is his glory",
+        "root": "kavod",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל הָאָרֶץ **כְּבוֹדוֹ**",
+        "transliteration": "kol haAretz **kavodo**",
+        "englishLiteral": "all the-land **his-glory**",
+        "englishNatural": "all the land **is his glory**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "כְּבוֹד־",
+        "transliteration": "kevod-",
+        "englishLiteral": "glory-of-",
+        "englishNatural": "the glory of",
+        "root": "kavod",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַרְאֵה דְּמוּת **כְּבוֹד־** יְהוָה וָאֶרְאֶה",
+        "transliteration": "mareeh demut **kevod-** YHWH vaEreh",
+        "englishLiteral": "appearance-of likeness-of **glory-of-** He_Who_Is (YHWH) And-I-saw",
+        "englishNatural": "the appearance of the likeness of **the glory of** He-Who-Is (YHWH) And I saw"
+      }
+    }
+  ]
+}

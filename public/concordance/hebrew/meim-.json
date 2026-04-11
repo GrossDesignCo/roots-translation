@@ -1,0 +1,31 @@
+{
+  "key": "meim-",
+  "language": "hebrew",
+  "root": "im",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "מֵֽעִם־",
+        "transliteration": "meIm-",
+        "englishLiteral": "from-with-",
+        "englishNatural": "from with",
+        "root": "im",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֵצֵ֑א וַיֵּצֵ֥א **מֵֽעִם־** פַּרְעֹ֖ה בָּחֳרִי־",
+        "transliteration": "etse vaYetse **meIm-** Paroh boChori-",
+        "englishLiteral": "I-will-bring_out And-he-brought_out **from-with-** Pharaoh in-burning-",
+        "englishNatural": "I will bring-out And he brought-out **from with** Pharaoh in burning"
+      }
+    }
+  ]
+}

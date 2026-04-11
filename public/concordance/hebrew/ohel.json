@@ -1,0 +1,31 @@
+{
+  "key": "ohel",
+  "language": "hebrew",
+  "root": "ohel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אֹהֶל",
+        "transliteration": "ohel",
+        "englishLiteral": "tent",
+        "englishNatural": "tent",
+        "root": "ohel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבִי יֹשֵׁב **אֹהֶל** וּמִקְנֶה",
+        "transliteration": "avi yoshev **ohel** uMiqneh",
+        "englishLiteral": "father-of dwelling **tent** and-cattle",
+        "englishNatural": "father of dwelling **tent** and cattle"
+      }
+    }
+  ]
+}

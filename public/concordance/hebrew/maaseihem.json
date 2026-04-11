@@ -1,0 +1,31 @@
+{
+  "key": "maaseihem",
+  "language": "hebrew",
+  "root": "maaseh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מַעֲשֵׂיהֶם",
+        "transliteration": "maaseihem",
+        "englishLiteral": "works-their",
+        "englishNatural": "their works",
+        "root": "maaseh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֱלֹהִים אֶת־ **מַעֲשֵׂיהֶם** כִּי־ שָׁבוּ",
+        "transliteration": "haElohim et- **maaseihem** ki- shavu",
+        "englishLiteral": "the-Gods ↳ **works-their** that- they-returned",
+        "englishNatural": "And the God ↳ **their works** that they returned"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "key": "vachai",
+  "language": "hebrew",
+  "root": "chayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "וָחַי",
+        "transliteration": "vaChai",
+        "englishLiteral": "and-live",
+        "englishNatural": "and live",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַחַיִּים וְאָכַל **וָחַי** לְעֹלָם׃",
+        "transliteration": "haChayyim veAkhal **vaChai** leOlam",
+        "englishLiteral": "the-lives and-eat **and-live** to-the_age",
+        "englishNatural": "of Life and eat **and live** to the-age"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 8
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "וָחָי",
+        "transliteration": "vaChai",
+        "englishLiteral": "and-lives",
+        "englishNatural": "will live",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְרָאָה אֹתוֹ **וָחָי**",
+        "transliteration": "veRaah oto **vaChai**",
+        "englishLiteral": "and-sees it **and-lives**",
+        "englishNatural": "and sees it **will live**"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 9
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וָחָי",
+        "transliteration": "vaChai",
+        "englishLiteral": "and-lived",
+        "englishNatural": "he lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נְחַשׁ הַנְּחֹשֶׁת **וָחָי**",
+        "transliteration": "nechash haNechoshet **vaChai**",
+        "englishLiteral": "snake the-bronze **and-lived**",
+        "englishNatural": "snake the bronze **he lived**"
+      }
+    }
+  ]
+}

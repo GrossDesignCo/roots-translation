@@ -1,0 +1,31 @@
+{
+  "key": "uleishto",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 21
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וּלְאִשְׁתּוֹ",
+        "transliteration": "uleIshto",
+        "englishLiteral": "and-to-woman-his",
+        "englishNatural": "and to his woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים לְאָדָם **וּלְאִשְׁתּוֹ** כָּתְנוֹת עוֹר",
+        "transliteration": "Elohim leAdam **uleIshto** kotnot or",
+        "englishLiteral": "Gods to-Earthling (Adam) **and-to-woman-his** tunics skin",
+        "englishNatural": "God to Earthling (Adam) **and to his woman** tunics of skin"
+      }
+    }
+  ]
+}

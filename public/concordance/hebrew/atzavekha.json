@@ -1,0 +1,33 @@
+{
+  "key": "atzavekha",
+  "language": "hebrew",
+  "root": "tzavah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֲצַוֶּךָּ",
+        "transliteration": "atzavekha",
+        "englishLiteral": "I-command-you",
+        "englishNatural": "I command you",
+        "root": "tzavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ אֲשֶׁר **אֲצַוֶּךָּ** וְאַהֲרֹן אָחִיךָ",
+        "transliteration": "kol- asher **atzavekha** veAharon achicha",
+        "englishLiteral": "all- which **I-command-you** and-Light_Bringer (Aaron) brother-your",
+        "englishNatural": "all which **I command you** and Light-Bringer (Aaron) your brother"
+      }
+    }
+  ]
+}

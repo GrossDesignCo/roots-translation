@@ -1,0 +1,33 @@
+{
+  "key": "remiw",
+  "language": "aramaic",
+  "root": "remah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "רְמִ֔יו",
+        "transliteration": "remiw",
+        "englishLiteral": "were-placed",
+        "englishNatural": "were placed",
+        "root": "remah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "דִּ֤י כָרְסָוָן֙ **רְמִ֔יו** וְעַתִּ֥יק יוֹמִ֖ין",
+        "transliteration": "di korsavan **remiw** veAttiq yomin",
+        "englishLiteral": "that thrones **were-placed** and-Ancient-of Days",
+        "englishNatural": "that thrones **were placed** and the Ancient of Days"
+      }
+    }
+  ]
+}

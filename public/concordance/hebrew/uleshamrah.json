@@ -1,0 +1,33 @@
+{
+  "key": "uleshamrah",
+  "language": "hebrew",
+  "root": "shamar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 15
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וּלְשָׁמְרָהּ׃",
+        "transliteration": "uLeShamrah",
+        "englishLiteral": "and-to-keep-her",
+        "englishNatural": "and to keep her",
+        "root": "shamar",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֵדֶן לְעָבְדָהּ **וּלְשָׁמְרָהּ׃**",
+        "transliteration": "Eden leAvdah **uLeShamrah**",
+        "englishLiteral": "Delight (Eden) to-serve-her **and-to-keep-her**",
+        "englishNatural": "Delight (Eden) to serve her **and to keep her**"
+      }
+    }
+  ]
+}

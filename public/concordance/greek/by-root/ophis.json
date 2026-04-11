@@ -1,0 +1,54 @@
+{
+  "root": "ophis",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "ὄφεις",
+        "transliteration": "opheis",
+        "englishLiteral": "snakes",
+        "englishNatural": "snakes",
+        "root": "ophis",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ὡς οἱ **ὄφεις** καὶ ἀκέραιοι",
+        "transliteration": "hos hoi **opheis** kai akeraioi",
+        "englishLiteral": "as the **snakes** and innocent",
+        "englishNatural": "as the **snakes** and innocent"
+      }
+    },
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "ὄφιν",
+        "transliteration": "ophin",
+        "englishLiteral": "Snake",
+        "englishNatural": "Snake",
+        "root": "ophis",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "δράκοντα τὸν **ὄφιν** τὸν ἀρχαῖον",
+        "transliteration": "drakonta ton **ophin** ton archaion",
+        "englishLiteral": "dragon The **Snake** The Ancient",
+        "englishNatural": "dragon The **Snake** The Ancient"
+      }
+    }
+  ]
+}

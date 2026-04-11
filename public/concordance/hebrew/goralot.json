@@ -1,0 +1,55 @@
+{
+  "key": "goralot",
+  "language": "hebrew",
+  "root": "goral",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "גוֹרָלוֹת",
+        "transliteration": "goralot",
+        "englishLiteral": "lots",
+        "englishNatural": "lots",
+        "root": "goral",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְכוּ וְנַפִּילָה **גוֹרָלוֹת** וְנֵדְעָה בְּשֶׁלְּמִי",
+        "transliteration": "lekhu veNapilah **goralot** veNedah beshelmi",
+        "englishLiteral": "Go and-let-us-cause-to-fall **lots** and-let-us-know for-whose-sake",
+        "englishNatural": "Go and let us cause-to-fall **lots** and let us know for whose sake"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "גוֹרָלוֹת",
+        "transliteration": "goralot",
+        "englishLiteral": "lots",
+        "englishNatural": "lots",
+        "root": "goral",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָנוּ וַיַּפִּילוּ **גוֹרָלוֹת** וַיִּפֹּל הַגּוֹרָל",
+        "transliteration": "lanu vaYapilu **goralot** vaYipol haGoral",
+        "englishLiteral": "to-us And-they-caused-to-fall **lots** and-fell the-lot",
+        "englishNatural": "to us And they caused-to-fall **lots** fell and the lot"
+      }
+    }
+  ]
+}

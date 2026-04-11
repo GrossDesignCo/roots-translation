@@ -1,0 +1,31 @@
+{
+  "key": "bashamayim",
+  "language": "hebrew",
+  "root": "shamayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בַשָּׁמַיִם",
+        "transliteration": "baShamayim",
+        "englishLiteral": "in-heavens",
+        "englishNatural": "in the heavens",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִגְדָּל וְרֹאשׁוֹ **בַשָּׁמַיִם** וְנַעֲשֶׂה־ לָּנוּ",
+        "transliteration": "uMigdal veRosho **baShamayim** veNaaseh- lanu",
+        "englishLiteral": "and-tower and-its-head **in-heavens** and-let-us-make- for-us",
+        "englishNatural": "and a tower and its head **in the heavens** and let us make for us"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "veamarti",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְאָמַרְתִּי",
+        "transliteration": "veAmarti",
+        "englishLiteral": "and-say",
+        "englishNatural": "and will have said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי יִשְׂרָאֵל **וְאָמַרְתִּי** לָהֶם אֱלֹהֵי",
+        "transliteration": "benei Yisrael **veAmarti** lahem elohei",
+        "englishLiteral": "sons-of Struggles_with_God (Israel) **and-say** to-them Gods-of",
+        "englishNatural": "the sons of Struggles-with-God (Israel) **and will have said** to them The God of"
+      }
+    }
+  ]
+}

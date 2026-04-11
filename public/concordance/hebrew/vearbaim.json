@@ -1,0 +1,31 @@
+{
+  "key": "vearbaim",
+  "language": "hebrew",
+  "root": "arbaim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 12
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְאַרְבָּעִים",
+        "transliteration": "veArbaim",
+        "englishLiteral": "and-forty",
+        "englishNatural": "and forty",
+        "root": "arbaim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְבָּעִים יוֹם **וְאַרְבָּעִים** לָיְלָה",
+        "transliteration": "arbaim yom **veArbaim** laylah",
+        "englishLiteral": "forty day **and-forty** night",
+        "englishNatural": "forty days **and forty** nights"
+      }
+    }
+  ]
+}

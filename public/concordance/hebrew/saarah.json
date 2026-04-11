@@ -1,0 +1,31 @@
+{
+  "key": "saarah",
+  "language": "hebrew",
+  "root": "saar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "סְעָרָה",
+        "transliteration": "saarah",
+        "englishLiteral": "storm",
+        "englishNatural": "storm",
+        "root": "saar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִנֵּה רוּחַ **סְעָרָה** בָּאָה מִן־",
+        "transliteration": "veHineh ruach **saarah** baah min-",
+        "englishLiteral": "and-behold wind **storm** coming from-",
+        "englishNatural": "and behold a wind **storm** coming from"
+      }
+    }
+  ]
+}

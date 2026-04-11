@@ -1,0 +1,33 @@
+{
+  "key": "uredu",
+  "language": "hebrew",
+  "root": "radah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וּרְד֞וּ",
+        "transliteration": "uRedu",
+        "englishLiteral": "and-subjugate",
+        "englishNatural": "and subjugate",
+        "root": "radah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָ֖רֶץ וְכִבְשֻׁ֑הָ **וּרְד֞וּ** בִּדְגַ֤ת הַיָּ֔ם",
+        "transliteration": "haAretz veKivshuah **uRedu** biDgat haYam",
+        "englishLiteral": "the-land And-conquer **and-subjugate** in-fish-of the-sea",
+        "englishNatural": "the land And conquer **and subjugate** in fish of the sea"
+      }
+    }
+  ]
+}

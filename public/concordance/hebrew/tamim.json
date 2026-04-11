@@ -1,0 +1,31 @@
+{
+  "key": "tamim",
+  "language": "hebrew",
+  "root": "tamim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "תָּמִים",
+        "transliteration": "tamim",
+        "englishLiteral": "wholesome",
+        "englishNatural": "wholesome",
+        "root": "tamim",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ צַדִּיק **תָּמִים** הָיָה בְּדֹרֹתָיו",
+        "transliteration": "ish tzaddiq **tamim** hayah bedorotav",
+        "englishLiteral": "man righteous **wholesome** he-was in-generation-his",
+        "englishNatural": "a man righteous **wholesome** he was in his generation"
+      }
+    }
+  ]
+}

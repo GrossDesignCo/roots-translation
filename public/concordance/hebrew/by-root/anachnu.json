@@ -1,0 +1,30 @@
+{
+  "root": "anachnu",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וַאֲנַחְנוּ",
+        "transliteration": "vaAnachnu",
+        "englishLiteral": "and-we",
+        "englishNatural": "and we",
+        "root": "anachnu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהֵינוּ **וַאֲנַחְנוּ** לֹא־ נֵדַע",
+        "transliteration": "YHWH Eloheinu **vaAnachnu** lo- neda",
+        "englishLiteral": "He_Who_Is (YHWH) God-our **and-we** not- will-know",
+        "englishNatural": "He-Who-Is (YHWH) our God **and we** not we know"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayishbot",
+  "language": "hebrew",
+  "root": "shavat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַיִּשְׁבֹּת",
+        "transliteration": "vaYishbot",
+        "englishLiteral": "and-sabbathed",
+        "englishNatural": "and sabbathed",
+        "root": "shavat",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר עָשָׂה **וַיִּשְׁבֹּת** בַּיּוֹם הַשְּׁבִיעִי",
+        "transliteration": "asher asah **vaYishbot** baYom haShvi`i",
+        "englishLiteral": "which made **and-sabbathed** in-day the-seventh",
+        "englishNatural": "which he made **and sabbathed** day in the seventh"
+      }
+    }
+  ]
+}

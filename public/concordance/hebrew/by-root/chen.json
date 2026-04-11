@@ -1,0 +1,54 @@
+{
+  "root": "chen",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "חֵן",
+        "transliteration": "chen",
+        "englishLiteral": "grace",
+        "englishNatural": "grace",
+        "root": "chen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְנֹחַ מָצָא **חֵן** בְּעֵינֵי יְהוָה",
+        "transliteration": "veNoach matsa **chen** beEiney YHWH",
+        "englishLiteral": "And-Rest (Noah) found **grace** in-eyes-of He_Who_Is (YHWH)",
+        "englishNatural": "And Rest (Noah) found **grace** in the eyes of He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "חֵ֥ן",
+        "transliteration": "chen",
+        "englishLiteral": "grace",
+        "englishNatural": "grace",
+        "root": "chen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֛ה אֶת־ **חֵ֥ן** הָעָ֖ם בְּעֵינֵ֣י",
+        "transliteration": "YHWH et- **chen** haAm beEyney",
+        "englishLiteral": "He_Who_Is (YHWH) ↳ **grace** the-people in-eyes-of",
+        "englishNatural": "And He-Who-Is (YHWH) ↳ **grace** to the people in the eyes of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "root": "pelakh",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "יִפְלְח֑וּן",
+        "transliteration": "yiphlakhun",
+        "englishLiteral": "will-serve",
+        "englishNatural": "will serve",
+        "root": "pelakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "וְלִשָּׁנַיָּ֖א לֵ֣הּ **יִפְלְח֑וּן** שָׁלְטָנֵ֞הּ שָׁלְטָ֤ן",
+        "transliteration": "veLishanaya leh **yiphlakhun** sholtaneh sholtan",
+        "englishLiteral": "and-languages-the to-him **will-serve** dominion-His dominion",
+        "englishNatural": "and the languages Him **will serve** His dominion is dominion"
+      }
+    }
+  ]
+}

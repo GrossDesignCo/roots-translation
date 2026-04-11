@@ -1,0 +1,31 @@
+{
+  "key": "umelitzah",
+  "language": "hebrew",
+  "root": "melitzah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וּמְלִיצָה",
+        "transliteration": "uMelitzah",
+        "englishLiteral": "and-interpretation",
+        "englishNatural": "and the interpretation",
+        "root": "melitzah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְהָבִין מָשָׁל **וּמְלִיצָה** דִּבְרֵי חֲכָמִים",
+        "transliteration": "lehavin mashal **uMelitzah** divre chachamim",
+        "englishLiteral": "To-understand rule **and-interpretation** words-of wise-men",
+        "englishNatural": "To understand a rule **and the interpretation** words of wise men"
+      }
+    }
+  ]
+}

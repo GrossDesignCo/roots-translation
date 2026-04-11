@@ -1,0 +1,30 @@
+{
+  "root": "berakah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בְּרָכָה",
+        "transliteration": "berakah",
+        "englishLiteral": "blessing",
+        "englishNatural": "a blessing",
+        "root": "berakah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁמֶךָ וֶהְיֵה **בְּרָכָה**",
+        "transliteration": "shemekha veHeyeh **berakah**",
+        "englishLiteral": "your-name and-be **blessing**",
+        "englishNatural": "your name and be **a blessing**"
+      }
+    }
+  ]
+}

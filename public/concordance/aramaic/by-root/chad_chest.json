@@ -1,0 +1,30 @@
+{
+  "root": "chad_chest",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "חֲדוֹהִי",
+        "transliteration": "chadohi",
+        "englishLiteral": "breast-its",
+        "englishNatural": "its breast",
+        "root": "chad_chest",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דְהַב טָב **חֲדוֹהִי** וּדְרָעוֹהִי דִּי",
+        "transliteration": "dehav tav **chadohi** uDeraohi di",
+        "englishLiteral": "gold good **breast-its** and-arms-its which",
+        "englishNatural": "gold good **its breast** and its arms of"
+      }
+    }
+  ]
+}

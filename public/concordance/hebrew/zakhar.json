@@ -1,0 +1,103 @@
+{
+  "key": "zakhar",
+  "language": "hebrew",
+  "root": "zakhar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "זָכָ֥ר",
+        "transliteration": "zakhar",
+        "englishLiteral": "male",
+        "englishNatural": "male",
+        "root": "zakhar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּרָ֣א אֹת֑וֹ **זָכָ֥ר** וּנְקֵבָ֖ה בָּרָ֥א",
+        "transliteration": "bara oto **zakhar** uNekevah bara",
+        "englishLiteral": "created him **male** and-female created",
+        "englishNatural": "created him **male** and female created"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "זָכָר",
+        "transliteration": "zakhar",
+        "englishLiteral": "male",
+        "englishNatural": "Male",
+        "root": "zakhar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**זָכָר** וּנְקֵבָה בְּרָאָם",
+        "transliteration": "**zakhar** uNeqevah beroam",
+        "englishLiteral": "**male** and-female he-created",
+        "englishNatural": "**Male** and female he created"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 19
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "זָכָר",
+        "transliteration": "zakhar",
+        "englishLiteral": "male",
+        "englishNatural": "male",
+        "root": "zakhar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְהַחֲיֹת אִתָּךְ **זָכָר** וּנְקֵבָה יִהְיוּ",
+        "transliteration": "leHachayot itakh **zakhar** uNeqevah yihyu",
+        "englishLiteral": "to-keep_alive with-you **male** and-female they-will-be",
+        "englishNatural": "to keep-alive with you **male** and female they will be"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "זָכָר",
+        "transliteration": "zakhar",
+        "englishLiteral": "male",
+        "englishNatural": "male",
+        "root": "zakhar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַתֵּבָה **זָכָר** וּנְקֵבָה כַּאֲשֶׁר",
+        "transliteration": "el- haTevah **zakhar** uNeqevah kaAsher",
+        "englishLiteral": "to- the-ark **male** and-female as-which",
+        "englishNatural": "to the ark **male** and female as which"
+      }
+    }
+  ]
+}

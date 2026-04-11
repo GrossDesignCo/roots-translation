@@ -1,0 +1,78 @@
+{
+  "root": "tzedeq",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 18
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "צֶדֶק",
+        "transliteration": "Tzedeq",
+        "englishLiteral": "Righteousness (Melchizedek)",
+        "englishNatural": "Righteousness (Melchizedek)",
+        "root": "tzedeq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמַלְכִּי־ **צֶדֶק** מֶלֶךְ שָׁלֵם",
+        "transliteration": "uMalki- **Tzedeq** melekh Shalem",
+        "englishLiteral": "And-King_of_My- **Righteousness (Melchizedek)** king-of Peace (Salem)",
+        "englishNatural": "And King-of-My **Righteousness (Melchizedek)** king of Peace (Salem)"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "צֶדֶק",
+        "transliteration": "tzedeq",
+        "englishLiteral": "righteousness",
+        "englishNatural": "righteousness",
+        "root": "tzedeq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְשׁוֹבֵב בְּמַעְגְּלֵי־ **צֶדֶק** יַנְחֵנִי לְמַעַן",
+        "transliteration": "yeShobev beMaglei- **tzedeq** yancheni leMaan",
+        "englishLiteral": "he-returns in-paths-of- **righteousness** he-guides-me for-sake-of",
+        "englishNatural": "he returns in paths of **righteousness** he guides me for the sake of"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "צֶדֶק",
+        "transliteration": "tzedeq",
+        "englishLiteral": "righteousness",
+        "englishNatural": "righteousness",
+        "root": "tzedeq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מוּסַר הַשְׂכֵּל **צֶדֶק** וּמִשְׁפָּט וּמֵישָׁרִים",
+        "transliteration": "musar haskel **tzedeq** umishpat umesharim",
+        "englishLiteral": "discipline wise_conduct **righteousness** and-justice and-uprightness",
+        "englishNatural": "discipline wise-conduct **righteousness** and justice and uprightness"
+      }
+    }
+  ]
+}

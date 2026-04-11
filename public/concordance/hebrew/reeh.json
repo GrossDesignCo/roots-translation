@@ -1,0 +1,59 @@
+{
+  "key": "reeh",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "רְאֵה",
+        "transliteration": "reeh",
+        "englishLiteral": "see",
+        "englishNatural": "see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָשׁוּב מִצְרַיְמָה **רְאֵה** כָּל־ הַמֹּפְתִים",
+        "transliteration": "lashuv mitzraymah **reeh** kol- haMoftim",
+        "englishLiteral": "to-return Double_Narrows (Egypt)-ward **see** all- the-wonders",
+        "englishNatural": "to return to Double-Narrows (Egypt) **see** all the wonders"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "רְאֵה",
+        "transliteration": "reeh",
+        "englishLiteral": "see",
+        "englishNatural": "See",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ מֹשֶׁה **רְאֵה** נְתַתִּיךָ אֱלֹהִים",
+        "transliteration": "el- Moshe **reeh** netaticha Elohim",
+        "englishLiteral": "to- Drawn_Out (Moses) **see** I-give-you Gods",
+        "englishNatural": "to Drawn-Out (Moses) **See** I have given you God"
+      }
+    }
+  ]
+}

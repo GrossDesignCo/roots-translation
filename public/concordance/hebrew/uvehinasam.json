@@ -1,0 +1,33 @@
+{
+  "key": "uvehinasam",
+  "language": "hebrew",
+  "root": "nasa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וּבְהִנָּשְׂאָם",
+        "transliteration": "uVehinasam",
+        "englishLiteral": "and-in-being-lifted-their",
+        "englishNatural": "and in their being-lifted",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְעָמְדָם יַעֲמֹדוּ **וּבְהִנָּשְׂאָם** מֵעַל הָאָרֶץ",
+        "transliteration": "uVeAmdam yaamodu **uVehinasam** meAl haAretz",
+        "englishLiteral": "and-in-standing-their they-stood **and-in-being-lifted-their** from-over the-land",
+        "englishNatural": "and in their standing they stood **and in their being-lifted** from over the land"
+      }
+    }
+  ]
+}

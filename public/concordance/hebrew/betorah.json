@@ -1,0 +1,31 @@
+{
+  "key": "betorah",
+  "language": "hebrew",
+  "root": "torah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בְּתוֹרַת",
+        "transliteration": "beTorah",
+        "englishLiteral": "in-law-of",
+        "englishNatural": "in the law of",
+        "root": "torah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי אִם **בְּתוֹרַת** יְהוָה חֶפְצוֹ",
+        "transliteration": "ki im **beTorah** YHWH cheftzo",
+        "englishLiteral": "That if **in-law-of** He_Who_Is (YHWH) his-choice_thing",
+        "englishNatural": "That if **in the law of** He-Who-Is (YHWH) his choice-thing"
+      }
+    }
+  ]
+}

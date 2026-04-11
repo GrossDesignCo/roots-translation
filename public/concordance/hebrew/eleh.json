@@ -1,0 +1,103 @@
+{
+  "key": "eleh",
+  "language": "hebrew",
+  "root": "eleh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "אֵלֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "These",
+        "englishNatural": "These",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**אֵלֶּה** תוֹלְדוֹת הַשָּׁמַיִם",
+        "transliteration": "**eleh** toledot haShamayim",
+        "englishLiteral": "**These** birthings the-skies",
+        "englishNatural": "**These** are the birthings of the skies"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "אֵלֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "These",
+        "englishNatural": "These",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**אֵלֶּה** תּוֹלְדֹת נֹחַ",
+        "transliteration": "**eleh** toledot noach",
+        "englishLiteral": "**These** birthings-of Rest (Noah)",
+        "englishNatural": "**These** are the birthings of Rest (Noah)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֵלֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "these",
+        "englishNatural": "these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ כָּל־ **אֵלֶּה** וַיְבַתֵּר אֹתָם",
+        "transliteration": "et- kol- **eleh** vayevater otam",
+        "englishLiteral": "↳ all-of- **these** and-he-divided ↳ them",
+        "englishNatural": "↳ all **these** and divided them"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אֵ֨לֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "these",
+        "englishNatural": "these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כָל־ עֲבָדֶ֩יךָ֩ **אֵ֨לֶּה** אֵלַ֜י וְהִשְׁתַּֽחֲווּ־",
+        "transliteration": "kol- avadekha **eleh** elay veHishtachavu-",
+        "englishLiteral": "all- servants-your **these** to-me and-they-will-bow_down-",
+        "englishNatural": "And all your servants **these** to me and will bow-down"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "mi",
+  "language": "hebrew",
+  "root": "mi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מִי",
+        "transliteration": "mi",
+        "englishLiteral": "Who",
+        "englishNatural": "Who",
+        "root": "mi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **מִי** הִגִּיד לְךָ",
+        "transliteration": "vaYomer **mi** higid lekha",
+        "englishLiteral": "And-he-said **Who** declared to-you",
+        "englishNatural": "And he said **Who** declared to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מִי",
+        "transliteration": "mi",
+        "englishLiteral": "who",
+        "englishNatural": "Who is",
+        "root": "mi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר פַרְעֹה **מִי** יְהוָה אֲשֶׁר",
+        "transliteration": "vaYomer Paroh **mi** YHWH asher",
+        "englishLiteral": "And-said Pharaoh **who** He_Who_Is (YHWH) which",
+        "englishNatural": "said And Pharaoh **Who is** He-Who-Is (YHWH) which"
+      }
+    }
+  ]
+}

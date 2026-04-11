@@ -1,0 +1,33 @@
+{
+  "key": "shuvo",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שׁוּבוֹ",
+        "transliteration": "shuvo",
+        "englishLiteral": "returning-of-him",
+        "englishNatural": "his return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִקְרָאתוֹ אַחֲרֵי **שׁוּבוֹ** מֵהַכּוֹת אֶת־",
+        "transliteration": "liqrato acharey **shuvo** meHakot et-",
+        "englishLiteral": "to-meet-him after **returning-of-him** from-the-striking_down ↳",
+        "englishNatural": "to meet him after **his return** from the striking-down of ↳"
+      }
+    }
+  ]
+}

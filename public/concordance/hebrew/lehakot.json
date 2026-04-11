@@ -1,0 +1,33 @@
+{
+  "key": "lehakot",
+  "language": "hebrew",
+  "root": "nakah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 26,
+      "word": {
+        "originalScript": "לְהַכּוֹת",
+        "transliteration": "leHakot",
+        "englishLiteral": "to-strike",
+        "englishNatural": "to strike",
+        "root": "nakah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֹסִף עוֹד **לְהַכּוֹת** אֶת־ כָּל־",
+        "transliteration": "osif od **leHakot** et- kol-",
+        "englishLiteral": "I-will-add again **to-strike** ↳ all-",
+        "englishNatural": "and I will add again **to strike** ↳ all"
+      }
+    }
+  ]
+}

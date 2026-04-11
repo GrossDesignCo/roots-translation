@@ -1,0 +1,55 @@
+{
+  "key": "mizmor",
+  "language": "hebrew",
+  "root": "mizmor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 0
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מִזְמ֖וֹר",
+        "transliteration": "mizmor",
+        "englishLiteral": "melody",
+        "englishNatural": "A melody",
+        "root": "mizmor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הַגִּתִּ֑ית **מִזְמ֖וֹר** לְדָוִֽד",
+        "transliteration": "al- haGittit **mizmor** leDavid",
+        "englishLiteral": "over- the-Gittith **melody** to-David",
+        "englishNatural": "over the Gittith **A melody** to David"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 0
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "מִזְמ֥וֹר",
+        "transliteration": "mizmor",
+        "englishLiteral": "melody",
+        "englishNatural": "A melody",
+        "root": "mizmor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**מִזְמ֥וֹר** לְדָוִ֑ד",
+        "transliteration": "**mizmor** leDavid",
+        "englishLiteral": "**melody** to-David",
+        "englishNatural": "**A melody** to David"
+      }
+    }
+  ]
+}

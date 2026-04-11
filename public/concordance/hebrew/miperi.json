@@ -1,0 +1,31 @@
+{
+  "key": "miperi",
+  "language": "hebrew",
+  "root": "peri",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מִפְּרִי",
+        "transliteration": "miPeri",
+        "englishLiteral": "from-fruit-of",
+        "englishNatural": "from the fruit of",
+        "root": "peri",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּבֵא קַיִן **מִפְּרִי** הָאֲדָמָה מִנְחָה",
+        "transliteration": "vayYave Qayin **miPeri** haAdamah minchah",
+        "englishLiteral": "And-he-brought Acquired (Cain) **from-fruit-of** the-earth offering",
+        "englishNatural": "brought And Acquired (Cain) **from the fruit of** the earth an offering"
+      }
+    }
+  ]
+}

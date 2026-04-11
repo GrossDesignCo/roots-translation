@@ -1,0 +1,31 @@
+{
+  "key": "legoy",
+  "language": "hebrew",
+  "root": "goy",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לְגוֹי",
+        "transliteration": "leGoy",
+        "englishLiteral": "to-nation",
+        "englishNatural": "into a nation",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶעֶשְׂךָ **לְגוֹי** גָּדוֹל וַאֲבָרֶכְךָ",
+        "transliteration": "veEeskha **leGoy** gadol vaAvarekha",
+        "englishLiteral": "and-I-will-make-you **to-nation** great and-I-will-bless-you",
+        "englishNatural": "and I will make you **into a nation** great and I will bless you"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "levusheh",
+  "language": "aramaic",
+  "root": "levush",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לְבוּשֵׁ֣הּ׀",
+        "transliteration": "levusheh",
+        "englishLiteral": "garment-his",
+        "englishNatural": "his garment",
+        "root": "levush",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹמִ֖ין יְתִ֑ב **לְבוּשֵׁ֣הּ׀** כִּתְלַ֣ג חִוָּ֗ר",
+        "transliteration": "yomin yetiv **levusheh** keTlag khivvar",
+        "englishLiteral": "Days had-sat **garment-his** as-snow white",
+        "englishNatural": "Days had sat **his garment** snow as white"
+      }
+    }
+  ]
+}

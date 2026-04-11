@@ -1,0 +1,33 @@
+{
+  "key": "hachilam",
+  "language": "hebrew",
+  "root": "chalal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הַחִלָּם",
+        "transliteration": "hachilam",
+        "englishLiteral": "the-beginning-of-them",
+        "englishNatural": "the beginning of",
+        "root": "chalal",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "לְכֻלָּם וְזֶה **הַחִלָּם** לַעֲשׂוֹת וְעַתָּה",
+        "transliteration": "leKhulam veZeh **hachilam** laAsot veAttah",
+        "englishLiteral": "to-all-of-them and-this **the-beginning-of-them** to-make and-now",
+        "englishNatural": "to all of them and this **the beginning of** their making and now"
+      }
+    }
+  ]
+}

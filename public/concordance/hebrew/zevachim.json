@@ -1,0 +1,31 @@
+{
+  "key": "zevachim",
+  "language": "hebrew",
+  "root": "zevach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "זְבָחִים",
+        "transliteration": "zevachim",
+        "englishLiteral": "sacrifices",
+        "englishNatural": "sacrifices",
+        "root": "zevach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תִּתֵּן בְּיָדֵנוּ **זְבָחִים** וְעֹלֹת וְעָשִׂינוּ",
+        "transliteration": "titten beYadenu **zevachim** veOlot veAsinu",
+        "englishLiteral": "will-give in-hand-our **sacrifices** and-ascending_offerings and-will-make",
+        "englishNatural": "will give in our hand **sacrifices** and ascending-offerings and will make"
+      }
+    }
+  ]
+}

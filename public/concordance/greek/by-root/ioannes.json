@@ -1,0 +1,78 @@
+{
+  "root": "ioannes",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "Ἰωάννου",
+        "transliteration": "Iōannou",
+        "englishLiteral": "He—is-Gracious (John)",
+        "englishNatural": "He—is-Gracious (John)",
+        "root": "ioannes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "Ἰησοῦς Σίμων **Ἰωάννου** ἀγαπᾷς με",
+        "transliteration": "Iēsous Simōn **Iōannou** agapas me",
+        "englishLiteral": "Savior (Jesus) Hearer (Simon) **He—is-Gracious (John)** do-you-god_love me",
+        "englishNatural": "Savior (Jesus) Hearer (Simon) **He—is-Gracious (John)** do you god-love me"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "Ἰωάννου",
+        "transliteration": "Iōannou",
+        "englishLiteral": "He—is-Gracious (John)",
+        "englishNatural": "He—is-Gracious (John)",
+        "root": "ioannes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "δεύτερον Σίμων **Ἰωάννου** ἀγαπᾷς με",
+        "transliteration": "deuteron Simōn **Iōannou** agapas me",
+        "englishLiteral": "second Hearer (Simon) **He—is-Gracious (John)** do-you-god_love me",
+        "englishNatural": "the second time Hearer (Simon) **He—is-Gracious (John)** do you god-love me"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "Ἰωάννου",
+        "transliteration": "Iōannou",
+        "englishLiteral": "He—is-Gracious (John)",
+        "englishNatural": "He—is-Gracious (John)",
+        "root": "ioannes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "τρίτον Σίμων **Ἰωάννου** φιλεῖς με",
+        "transliteration": "triton Simōn **Iōannou** phileis me",
+        "englishLiteral": "third Hearer (Simon) **He—is-Gracious (John)** do-you-brother_love me",
+        "englishNatural": "third time Hearer (Simon) **He—is-Gracious (John)** do you brother-love me"
+      }
+    }
+  ]
+}

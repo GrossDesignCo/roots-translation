@@ -1,0 +1,30 @@
+{
+  "root": "kashaph",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְלַמְכַשְּׁפִים",
+        "transliteration": "veLaMkhashshefim",
+        "englishLiteral": "and-to-the-sorcerers",
+        "englishNatural": "and to the sorcerers",
+        "root": "kashaph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹה לַחֲכָמִים **וְלַמְכַשְּׁפִים** וַיַּעֲשׂוּ גַם־",
+        "transliteration": "Paroh laChakhamim **veLaMkhashshefim** vaYaasu gam-",
+        "englishLiteral": "Pharaoh to-the-wise **and-to-the-sorcerers** and-made also-",
+        "englishNatural": "And Pharaoh to the wise **and to the sorcerers** made also"
+      }
+    }
+  ]
+}

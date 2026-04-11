@@ -1,0 +1,31 @@
+{
+  "key": "yesh-",
+  "language": "hebrew",
+  "root": "yesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יֶשׁ־",
+        "transliteration": "yesh-",
+        "englishLiteral": "there_is-",
+        "englishNatural": "there-is",
+        "root": "yesh",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "הַגְּדוֹלָה אֲשֶׁר **יֶשׁ־** בָּהּ הַרְבֵּה",
+        "transliteration": "haGedolah asher **yesh-** bah harbeh",
+        "englishLiteral": "the-great which **there_is-** in-her much",
+        "englishNatural": "the great which **there-is** in her much"
+      }
+    }
+  ]
+}

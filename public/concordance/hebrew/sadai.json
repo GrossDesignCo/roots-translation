@@ -1,0 +1,31 @@
+{
+  "key": "sadai",
+  "language": "hebrew",
+  "root": "sadeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שָׂדָֽי",
+        "transliteration": "sadai",
+        "englishLiteral": "field",
+        "englishNatural": "the field",
+        "root": "sadeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגַ֥ם בַּהֲמ֥וֹת **שָׂדָֽי**",
+        "transliteration": "veGam bahemot **sadai**",
+        "englishLiteral": "and-also beasts-of **field**",
+        "englishNatural": "and also the beasts of **the field**"
+      }
+    }
+  ]
+}

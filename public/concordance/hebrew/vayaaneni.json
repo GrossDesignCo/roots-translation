@@ -1,0 +1,33 @@
+{
+  "key": "vayaaneni",
+  "language": "hebrew",
+  "root": "anah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיַּעֲנֵנִי",
+        "transliteration": "vaYaaneni",
+        "englishLiteral": "and-answered-me",
+        "englishNatural": "and he answered me",
+        "root": "anah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ יְהוָה **וַיַּעֲנֵנִי** מִבֶּטֶן שְׁאוֹל",
+        "transliteration": "el- YHWH **vaYaaneni** mibeten sheol",
+        "englishLiteral": "to- He_Who_Is (YHWH) **and-answered-me** from-belly-of Hades",
+        "englishNatural": "to He-Who-Is (YHWH) **and he answered me** from the belly of Hades"
+      }
+    }
+  ]
+}

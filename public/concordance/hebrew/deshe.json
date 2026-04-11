@@ -1,0 +1,79 @@
+{
+  "key": "deshe",
+  "language": "hebrew",
+  "root": "dasha",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "דֶּ֗שֶׁא",
+        "transliteration": "deshe",
+        "englishLiteral": "tender_shoot",
+        "englishNatural": "tender-shoot",
+        "root": "dasha",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תַּֽדְשֵׁ֣א הָאָ֑רֶץ **דֶּ֗שֶׁא** עֵ֚שֶׂב מַזְרִ֣יעַ",
+        "transliteration": "tadShe haAretz **deshe** esev maZria",
+        "englishLiteral": "Let-tenderly_shoot_up the-land **tender_shoot** herb seeding",
+        "englishNatural": "tenderly-shoot-up Let the land **tender-shoot** herb seeding"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "דֶּ֗שֶׁא",
+        "transliteration": "deshe",
+        "englishLiteral": "tender_shoot",
+        "englishNatural": "tender-shoot",
+        "root": "dasha",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתּוֹצֵ֨א הָאָ֜רֶץ **דֶּ֗שֶׁא** עֵ֚שֶׂב מַזְרִ֣יעַ",
+        "transliteration": "vaToTze haAretz **deshe** esev maZria",
+        "englishLiteral": "And-brought-out the-land **tender_shoot** herb seeding",
+        "englishNatural": "brought-out And the land **tender-shoot** herb seeding"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "דֶּשֶׁא",
+        "transliteration": "deshe",
+        "englishLiteral": "tender_shoot",
+        "englishNatural": "tender-shoot",
+        "root": "dasha",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בִּנְאוֹת **דֶּשֶׁא** יַרְבִּיצֵנִי עַל־",
+        "transliteration": "biNot **deshe** yaRbitzeini al-",
+        "englishLiteral": "in-pastures-of **tender_shoot** he-causes-me-to-lie-down over-",
+        "englishNatural": "in pastures of **tender-shoot** he lies-me-down over"
+      }
+    }
+  ]
+}

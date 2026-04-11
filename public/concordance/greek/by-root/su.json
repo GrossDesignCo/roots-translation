@@ -1,0 +1,174 @@
+{
+  "root": "su",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "ὑμᾶς",
+        "transliteration": "humas",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "ἐγὼ ἀποστέλλω **ὑμᾶς** ὡς πρόβατα",
+        "transliteration": "ego apostello **humas** hos probata",
+        "englishLiteral": "I send **you** as sheep",
+        "englishNatural": "I send **you** as sheep"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "σὺ",
+        "transliteration": "su",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "ναί κύριε **σὺ** οἶδας ὅτι",
+        "transliteration": "nai kurie **su** oidas hoti",
+        "englishLiteral": "Yes lord **you** know that",
+        "englishNatural": "Yes Lord **you** know that"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "σὺ",
+        "transliteration": "su",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "ναί κύριε **σὺ** οἶδας ὅτι",
+        "transliteration": "nai kurie **su** oidas hoti",
+        "englishLiteral": "Yes lord **you** know that",
+        "englishNatural": "Yes Lord **you** know that"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 23,
+      "word": {
+        "originalScript": "σὺ",
+        "transliteration": "su",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "κύριε πάντα **σὺ** οἶδας σὺ",
+        "transliteration": "kurie panta **su** oidas su",
+        "englishLiteral": "lord all **you** know you",
+        "englishNatural": "Lord all **you** know you"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 25,
+      "word": {
+        "originalScript": "σὺ",
+        "transliteration": "su",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "σὺ οἶδας **σὺ** γινώσκεις ὅτι",
+        "transliteration": "su oidas **su** ginōskeis hoti",
+        "englishLiteral": "you know **you** know that",
+        "englishNatural": "you know **you** know that"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "σοι",
+        "transliteration": "soi",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "ἀμὴν λέγω **σοι** ὅτε ἦς",
+        "transliteration": "amēn legō **soi** hote ēs",
+        "englishLiteral": "truly I-say **to-you** when you-were",
+        "englishNatural": "truly I say **to you** when you were"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "σου",
+        "transliteration": "sou",
+        "englishLiteral": "of-you",
+        "englishNatural": "of yours",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "τὰς χεῖράς **σου** καὶ ἄλλος",
+        "transliteration": "tas cheiras **sou** kai allos",
+        "englishLiteral": "the hands **of-you** and another",
+        "englishNatural": "those hands **of yours** and another"
+      }
+    }
+  ]
+}

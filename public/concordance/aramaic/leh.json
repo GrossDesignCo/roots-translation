@@ -1,0 +1,55 @@
+{
+  "key": "leh",
+  "language": "aramaic",
+  "root": "le",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 46
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לֵהּ",
+        "transliteration": "leh",
+        "englishLiteral": "to-him",
+        "englishNatural": "to him",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֲמַר לְנַסָּכָה **לֵהּ**",
+        "transliteration": "amar leNasakah **leh**",
+        "englishLiteral": "he-said to-pour_out **to-him**",
+        "englishNatural": "he had said to pour-out **to him**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לֵ֣הּ",
+        "transliteration": "leh",
+        "englishLiteral": "to-him",
+        "englishNatural": "Him",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֻמַיָּ֛א וְלִשָּׁנַיָּ֖א **לֵ֣הּ** יִפְלְח֑וּן שָׁלְטָנֵ֞הּ",
+        "transliteration": "umaya veLishanaya **leh** yiphlakhun sholtaneh",
+        "englishLiteral": "nations-the and-languages-the **to-him** will-serve dominion-His",
+        "englishNatural": "the nations and the languages **Him** will serve His dominion"
+      }
+    }
+  ]
+}

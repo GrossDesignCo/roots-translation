@@ -1,0 +1,31 @@
+{
+  "key": "latevah",
+  "language": "hebrew",
+  "root": "tevah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לַתֵּבָה",
+        "transliteration": "laTevah",
+        "englishLiteral": "to-the-ark",
+        "englishNatural": "for the ark",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צֹהַר תַּעֲשֶׂה **לַתֵּבָה** וְאֶל־ אַמָּה",
+        "transliteration": "tzohar taAseh **laTevah** veEl- ammah",
+        "englishLiteral": "illunination you-shall-make **to-the-ark** and-to- cubit",
+        "englishNatural": "A illunination you shall make **for the ark** and to a cubit"
+      }
+    }
+  ]
+}

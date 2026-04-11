@@ -1,0 +1,33 @@
+{
+  "key": "yipared",
+  "language": "hebrew",
+  "root": "parad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "יִפָּרֵד",
+        "transliteration": "yipared",
+        "englishLiteral": "will-part",
+        "englishNatural": "parted",
+        "root": "parad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "הַגָּן וּמִשָּׁם **יִפָּרֵד** וְהָיָה לְאַרְבָּעָה",
+        "transliteration": "haGan uMisham **yipared** veHayah leArbaah",
+        "englishLiteral": "the-garden and-from-there **will-part** and-was to-four",
+        "englishNatural": "the garden and from there **parted** and became into four"
+      }
+    }
+  ]
+}

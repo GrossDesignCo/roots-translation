@@ -1,0 +1,30 @@
+{
+  "root": "abraam",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "Ἀβραὰμ",
+        "transliteration": "Abraam",
+        "englishLiteral": "Exalted_Father (Abraham)",
+        "englishNatural": "Exalted-Father (Abraham)",
+        "root": "abraam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ὑμῖν πρὶν **Ἀβραὰμ** γενέσθαι ἐγὼ",
+        "transliteration": "hymin prin **Abraam** genesthai egō",
+        "englishLiteral": "to-you before **Exalted_Father (Abraham)** to-become I",
+        "englishNatural": "to you Before **Exalted-Father (Abraham)** was I"
+      }
+    }
+  ]
+}

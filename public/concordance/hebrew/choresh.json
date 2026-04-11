@@ -1,0 +1,33 @@
+{
+  "key": "choresh",
+  "language": "hebrew",
+  "root": "charash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "חֹרֵשׁ",
+        "transliteration": "choresh",
+        "englishLiteral": "cutting_straight",
+        "englishNatural": "cutting-straight",
+        "root": "charash",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹטֵשׁ כָּל־ **חֹרֵשׁ** נְחֹשֶׁת וּבַרְזֶל",
+        "transliteration": "lotesh kol- **choresh** nechoshet uVarzel",
+        "englishLiteral": "smithing all **cutting_straight** bronze and-iron",
+        "englishNatural": "smithing all **cutting-straight** bronze and iron"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "sefinah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "הַסְּפִינָה",
+        "transliteration": "haSeninah",
+        "englishLiteral": "the-ship",
+        "englishNatural": "the ship",
+        "root": "sefinah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ יַרְכְּתֵי **הַסְּפִינָה** וַיִּשְׁכַּב וַיֵּרָדַם",
+        "transliteration": "el- yarketei **haSeninah** vaYishkav vaYeradam",
+        "englishLiteral": "to- far_reaches-of **the-ship** and-lay_down and-deeply_tranced",
+        "englishNatural": "into the far-reaches of **the ship** and he lay down and deeply-tranced"
+      }
+    }
+  ]
+}

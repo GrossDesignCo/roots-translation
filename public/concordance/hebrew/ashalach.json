@@ -1,0 +1,33 @@
+{
+  "key": "ashalach",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "אֲשַׁלֵּחַ",
+        "transliteration": "ashalach",
+        "englishLiteral": "I-will-send",
+        "englishNatural": "I will send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׂרָאֵל לֹא **אֲשַׁלֵּחַ**",
+        "transliteration": "Yisrael lo **ashalach**",
+        "englishLiteral": "Struggles_with_God (Israel) not **I-will-send**",
+        "englishNatural": "Struggles-with-God (Israel) not **I will send-out**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "goyim",
+  "language": "hebrew",
+  "root": "goy",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "גּוֹיִם",
+        "transliteration": "goyim",
+        "englishLiteral": "nations",
+        "englishNatural": "nations",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה כָּל **גּוֹיִם** שַׁבְּחוּהוּ כָּל",
+        "transliteration": "YHWH kol **goyim** shabechuhu kol",
+        "englishLiteral": "He_Who_Is (YHWH) all **nations** send-to-him all",
+        "englishNatural": "He-Who-Is (YHWH) all **nations** send to him all"
+      }
+    }
+  ]
+}

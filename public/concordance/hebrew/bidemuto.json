@@ -1,0 +1,31 @@
+{
+  "key": "bidemuto",
+  "language": "hebrew",
+  "root": "demut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בִּדְמוּתוֹ",
+        "transliteration": "biDemuto",
+        "englishLiteral": "in-likeness-his",
+        "englishNatural": "in his likeness",
+        "root": "demut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה וַיּוֹלֶד **בִּדְמוּתוֹ** כְּצַלְמוֹ וַיִּקְרָא",
+        "transliteration": "shanah vaYoled **biDemuto** keTselmo vaYiqra",
+        "englishLiteral": "year and-birthed **in-likeness-his** as-image-his and-called_out",
+        "englishNatural": "years and birthed **in his likeness** as his image and called-out"
+      }
+    }
+  ]
+}

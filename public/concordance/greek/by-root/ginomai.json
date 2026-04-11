@@ -1,0 +1,56 @@
+{
+  "root": "ginomai",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "γίνεσθε",
+        "transliteration": "ginesthe",
+        "englishLiteral": "be",
+        "englishNatural": "be",
+        "root": "ginomai",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "μέσῳ λύκων **γίνεσθε** οὖν φρόνιμοι",
+        "transliteration": "meso lukon **ginesthe** oun phronimoi",
+        "englishLiteral": "midst wolves **be** therefore shrewd",
+        "englishNatural": "the midst of wolves **be** therefore shrewd"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "γενέσθαι",
+        "transliteration": "genesthai",
+        "englishLiteral": "to-become",
+        "englishNatural": "was",
+        "root": "ginomai",
+        "morphology": {
+          "type": "verb",
+          "tense": "aorist"
+        }
+      },
+      "context": {
+        "hebrew": "πρὶν Ἀβραὰμ **γενέσθαι** ἐγὼ εἰμί",
+        "transliteration": "prin Abraam **genesthai** egō eimi",
+        "englishLiteral": "before Exalted_Father (Abraham) **to-become** I am",
+        "englishNatural": "Before Exalted-Father (Abraham) **was** I Am"
+      }
+    }
+  ]
+}

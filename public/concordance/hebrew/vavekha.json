@@ -1,0 +1,31 @@
+{
+  "key": "vavekha",
+  "language": "hebrew",
+  "root": "atah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וָבָךְ",
+        "transliteration": "vaVeKha",
+        "englishLiteral": "and-against-you",
+        "englishNatural": "and against you",
+        "root": "atah",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "דִבַּרְנוּ בַיהוָה **וָבָךְ** הִתְפַּלֵּל אֶל",
+        "transliteration": "dibarnu vaYHWH **vaVeKha** hitpalel el",
+        "englishLiteral": "we-have-spoken against-He_Who_Is (YHWH) **and-against-you** pray to",
+        "englishNatural": "we have spoken against He-Who-Is (YHWH) **and against you** pray to"
+      }
+    }
+  ]
+}

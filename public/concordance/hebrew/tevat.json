@@ -1,0 +1,55 @@
+{
+  "key": "tevat",
+  "language": "hebrew",
+  "root": "tevah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "תֵּבַת",
+        "transliteration": "tevat",
+        "englishLiteral": "ark-of",
+        "englishNatural": "an ark of",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֲשֵׂה לְךָ **תֵּבַת** עֲצֵי־ גֹפֶר",
+        "transliteration": "aseh lekha **tevat** atsey- gopher",
+        "englishLiteral": "Make to-you **ark-of** trees-of- gopher",
+        "englishNatural": "Make for yourself **an ark of** trees of gopher"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "תֵּבַת",
+        "transliteration": "tevat",
+        "englishLiteral": "ark-of",
+        "englishNatural": "an ark of",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּקַּח־ לוֹ **תֵּבַת** גֹּמֶא וַתַּחְמְרָה",
+        "transliteration": "vaTiqqach- lo **tevat** gome vaTachmerah",
+        "englishLiteral": "and-took- to-him **ark-of** papyrus and-coated-it",
+        "englishNatural": "she took to him **an ark of** papyrus and coated it"
+      }
+    }
+  ]
+}

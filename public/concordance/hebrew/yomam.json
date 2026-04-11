@@ -1,0 +1,31 @@
+{
+  "key": "yomam",
+  "language": "hebrew",
+  "root": "yom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "יוֹמָם",
+        "transliteration": "yomam",
+        "englishLiteral": "by-day",
+        "englishNatural": "by day",
+        "root": "yom",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְתוֹרָתוֹ יֶהְגֶּה **יוֹמָם** וָלָיְלָה",
+        "transliteration": "uvTorato yehgeh **yomam** vaLaylah",
+        "englishLiteral": "and-in-his-law he-meditates **by-day** and-night",
+        "englishNatural": "and in his law he meditates **by day** and night"
+      }
+    }
+  ]
+}

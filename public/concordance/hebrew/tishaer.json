@@ -1,0 +1,33 @@
+{
+  "key": "tishaer",
+  "language": "hebrew",
+  "root": "shaar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תִשָּׁאֵר",
+        "transliteration": "tishaer",
+        "englishLiteral": "will-remain",
+        "englishNatural": "will remain",
+        "root": "shaar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "עִמָּנוּ לֹא **תִשָּׁאֵר** פַּרְסָה כִּי",
+        "transliteration": "imanu lo **tishaer** parsah ki",
+        "englishLiteral": "with-us not **will-remain** hoof that",
+        "englishNatural": "with us not **will remain** a hoof for"
+      }
+    }
+  ]
+}

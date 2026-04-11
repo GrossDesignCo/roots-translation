@@ -1,0 +1,55 @@
+{
+  "key": "leqayin",
+  "language": "hebrew",
+  "root": "qanah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְקַיִן",
+        "transliteration": "leQayin",
+        "englishLiteral": "to-Acquired (Cain)",
+        "englishNatural": "to Acquired (Cain)",
+        "root": "qanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁעָה וַיִּחַר **לְקַיִן** מְאֹד וַיִּפְּלוּ",
+        "transliteration": "shaah vayYichar **leQayin** meod vayYipelu",
+        "englishLiteral": "esteeming And-it-was_fuming_anger **to-Acquired (Cain)** very_much and-they-fell",
+        "englishNatural": "esteeming And it was fuming-anger **to Acquired (Cain)** very-much fell"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 15
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לְקַיִן",
+        "transliteration": "leQayin",
+        "englishLiteral": "for-Acquired (Cain)",
+        "englishNatural": "for Acquired (Cain)",
+        "root": "qanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּשֶׂם יְהוָה **לְקַיִן** אוֹת לְבִלְתִּי",
+        "transliteration": "vayYasem YHWH **leQayin** ot leVilti",
+        "englishLiteral": "And-he-set He_Who_Is (YHWH) **for-Acquired (Cain)** sign for-not",
+        "englishNatural": "set And He-Who-Is (YHWH) **for Acquired (Cain)** a sign so that not"
+      }
+    }
+  ]
+}

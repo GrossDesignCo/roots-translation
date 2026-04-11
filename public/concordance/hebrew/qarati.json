@@ -1,0 +1,33 @@
+{
+  "key": "qarati",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "קָרָאתִי",
+        "transliteration": "qarati",
+        "englishLiteral": "I-called_out",
+        "englishNatural": "I called-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **קָרָאתִי** מִצָּרָה לִי",
+        "transliteration": "vaYomer **qarati** mitzarah li",
+        "englishLiteral": "And-said **I-called_out** from-distress to-me",
+        "englishNatural": "And he said **I called-out** from distress to me"
+      }
+    }
+  ]
+}

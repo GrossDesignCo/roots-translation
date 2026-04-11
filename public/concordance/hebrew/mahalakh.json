@@ -1,0 +1,55 @@
+{
+  "key": "mahalakh",
+  "language": "hebrew",
+  "root": "mahalakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "מַהֲלַךְ",
+        "transliteration": "mahalakh",
+        "englishLiteral": "journey-of",
+        "englishNatural": "a journey of",
+        "root": "mahalakh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גְּדוֹלָה לֵאלֹהִים **מַהֲלַךְ** שְׁלֹשֶׁת יָמִים",
+        "transliteration": "gedolah lElohim **mahalakh** shloshet yamim",
+        "englishLiteral": "great to-Gods **journey-of** three days",
+        "englishNatural": "great to God **a journey of** three days"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מַהֲלַךְ",
+        "transliteration": "mahalakh",
+        "englishLiteral": "journey-of",
+        "englishNatural": "a journey of",
+        "root": "mahalakh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָבוֹא בָעִיר **מַהֲלַךְ** יוֹם אֶחָד",
+        "transliteration": "lavo baIr **mahalakh** yom echad",
+        "englishLiteral": "to-enter in-city **journey-of** day one",
+        "englishNatural": "to enter in the city **a journey of** day one"
+      }
+    }
+  ]
+}

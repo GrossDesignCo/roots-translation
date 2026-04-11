@@ -1,0 +1,33 @@
+{
+  "key": "venaaseh-",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וְנַעֲשֶׂה־",
+        "transliteration": "veNaaseh-",
+        "englishLiteral": "and-let-us-make-",
+        "englishNatural": "and let us make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְרֹאשׁוֹ בַשָּׁמַיִם **וְנַעֲשֶׂה־** לָּנוּ שֵׁם",
+        "transliteration": "veRosho baShamayim **veNaaseh-** lanu shem",
+        "englishLiteral": "and-its-head in-heavens **and-let-us-make-** for-us name",
+        "englishNatural": "and its head in the heavens **and let us make** for us a name"
+      }
+    }
+  ]
+}

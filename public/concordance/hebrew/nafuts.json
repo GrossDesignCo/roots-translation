@@ -1,0 +1,33 @@
+{
+  "key": "nafuts",
+  "language": "hebrew",
+  "root": "puts",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "נָפוּץ",
+        "transliteration": "naFuts",
+        "englishLiteral": "we-are-scattered",
+        "englishNatural": "we are scattered",
+        "root": "puts",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם פֶּן־ **נָפוּץ** עַל־ פְּנֵי",
+        "transliteration": "shem pen- **naFuts** al- peney",
+        "englishLiteral": "name lest- **we-are-scattered** over- faces-of",
+        "englishNatural": "a name lest **we are scattered** over the face of"
+      }
+    }
+  ]
+}

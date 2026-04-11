@@ -1,0 +1,55 @@
+{
+  "key": "verav-",
+  "language": "hebrew",
+  "root": "rav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וְרַב־",
+        "transliteration": "veRav-",
+        "englishLiteral": "and-many-",
+        "englishNatural": "and abundant in",
+        "root": "rav",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֶרֶךְ אַפַּיִם **וְרַב־** חֶסֶד וֶאֱמֶת",
+        "transliteration": "erekh apayim **veRav-** chesed veEmet",
+        "englishLiteral": "long nostrils **and-many-** steadfast_love and-truth",
+        "englishNatural": "long of nostrils **and abundant in** steadfast-love and truth"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 27,
+      "word": {
+        "originalScript": "וְרַב־",
+        "transliteration": "veRav-",
+        "englishLiteral": "and-great-",
+        "englishNatural": "and great",
+        "root": "rav",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֶרֶךְ אַפַּיִם **וְרַב־** חֶסֶד וְנִחָם",
+        "transliteration": "erekh apayim **veRav-** chesed veNicham",
+        "englishLiteral": "long nostrils **and-great-** steadfast_love and-comforting",
+        "englishNatural": "long of nostrils **and great** of steadfast-love and comforting"
+      }
+    }
+  ]
+}

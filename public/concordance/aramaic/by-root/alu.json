@@ -1,0 +1,78 @@
+{
+  "root": "alu",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַאֲלוּ",
+        "transliteration": "vaAlu",
+        "englishLiteral": "and-behold",
+        "englishNatural": "and behold",
+        "root": "alu",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "חָזֵה הֲוַיְתָ **וַאֲלוּ** צְלֵם חַד",
+        "transliteration": "chazeh havayta **vaAlu** tselem chad",
+        "englishLiteral": "seeing you-were **and-behold** image one",
+        "englishNatural": "seeing were **and behold** image one"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַ֠אֲלוּ",
+        "transliteration": "vaAlu",
+        "englishLiteral": "and-behold",
+        "englishNatural": "and behold",
+        "root": "alu",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "הֲוֵ֜ית בְּקַרְנַיָּ֗א **וַ֠אֲלוּ** קֶ֣רֶן אָחֳרִ֤י",
+        "transliteration": "haveit beQarnaiya **vaAlu** qeren ochori",
+        "englishLiteral": "I-was in-the-horns **and-behold** horn another",
+        "englishNatural": "I was in the horns **and behold** horn another"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "וַאֲל֙וּ",
+        "transliteration": "vaAlu",
+        "englishLiteral": "and-behold",
+        "englishNatural": "and behold",
+        "root": "alu",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ קדמיה **וַאֲל֙וּ** עַיְנִ֜ין כְּעַיְנֵ֤י",
+        "transliteration": "min- qodameyh **vaAlu** ayinin keAynei",
+        "englishLiteral": "from- before-it **and-behold** eyes like-eyes-of",
+        "englishNatural": "from before it **and behold** eyes like the eyes of"
+      }
+    }
+  ]
+}

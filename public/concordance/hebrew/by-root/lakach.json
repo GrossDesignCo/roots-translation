@@ -1,0 +1,162 @@
+{
+  "root": "lakach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּקַּח",
+        "transliteration": "vaYikach",
+        "englishLiteral": "And-took",
+        "englishNatural": "took",
+        "root": "lakach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּקַּח** יְהוָה אֱלֹהִים",
+        "transliteration": "**vaYikach** YHWH Elohim",
+        "englishLiteral": "**And-took** He_Who_Is (YHWH) Gods",
+        "englishNatural": "**took** And He-Who-Is (YHWH) God"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַיִּקַּח",
+        "transliteration": "vaYikach",
+        "englishLiteral": "and-he-took",
+        "englishNatural": "and he took",
+        "root": "lakach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם וַיִּישָׁן **וַיִּקַּח** אַחַת מִצַּלְעֹתָיו",
+        "transliteration": "haAdam vaYishan **vaYikach** achat miTzalotav",
+        "englishLiteral": "the-Earthling (Adam) and-he-slept **and-he-took** one from-his-sides",
+        "englishNatural": "the Earthling (Adam) and he slept **and he took** one from his sides"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לָקַח",
+        "transliteration": "lakach",
+        "englishLiteral": "he-took",
+        "englishNatural": "he took",
+        "root": "lakach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַצֵּלָע אֲשֶׁר **לָקַח** מִן־ הָאָדָם",
+        "transliteration": "haTzela asher **lakach** min- haAdam",
+        "englishLiteral": "the-side which **he-took** from- the-Earthling (Adam)",
+        "englishNatural": "the side which **he took** from the Earthling (Adam)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לֻקֳּחָה",
+        "transliteration": "luqqachah",
+        "englishLiteral": "was-taken",
+        "englishNatural": "was taken",
+        "root": "lakach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי מֵאִישׁ **לֻקֳּחָה** זֹאת׃",
+        "transliteration": "ki meIsh **luqqachah** zot",
+        "englishLiteral": "that from-Man **was-taken** this",
+        "englishNatural": "that from Man **was taken** this"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 24
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לָקַח",
+        "transliteration": "lakach",
+        "englishLiteral": "took",
+        "englishNatural": "took",
+        "root": "lakach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵינֶנּוּ כִּי **לָקַח** אֹתוֹ אֱלֹהִים",
+        "transliteration": "veEinennu ki **lakach** oto Elohim",
+        "englishLiteral": "and-not-him that **took** him Gods",
+        "englishNatural": "and he was not that **took** him God"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לָקַח",
+        "transliteration": "lakach",
+        "englishLiteral": "he-took",
+        "englishNatural": "he had taken",
+        "root": "lakach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רִצְפָּה בְּמֶלְקַחַיִם **לָקַח** מֵעַל הַמִּזְבֵּחַ",
+        "transliteration": "ritzpah beMelkachayim **lakach** meAl haMizbeach",
+        "englishLiteral": "live_coal with-tongs **he-took** from-over the-altar",
+        "englishNatural": "a live-coal with tongs **he had taken** from over the altar"
+      }
+    }
+  ]
+}

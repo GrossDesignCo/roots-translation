@@ -1,0 +1,33 @@
+{
+  "key": "medabber",
+  "language": "hebrew",
+  "root": "dabar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "מְדַבֵּר",
+        "transliteration": "medabber",
+        "englishLiteral": "speaking",
+        "englishNatural": "speaking",
+        "root": "dabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וָאֶשְׁמַע קוֹל **מְדַבֵּר**",
+        "transliteration": "vaEshma qol **medabber**",
+        "englishLiteral": "and-I-heard voice **speaking**",
+        "englishNatural": "and I heard a voice **speaking**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "mishney",
+  "language": "hebrew",
+  "root": "shenayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מִשְּׁנֵ֥י",
+        "transliteration": "miShney",
+        "englishLiteral": "from-two-of",
+        "englishNatural": "from the two of",
+        "root": "shenayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה **מִשְּׁנֵ֥י** יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃",
+        "transliteration": "vatTishare haIshah **miShney** yeladeha uMeIshah",
+        "englishLiteral": "and-was-left the-woman **from-two-of** children-her and-from-man-her",
+        "englishNatural": "was left and the woman **from the two of** her children and from her man"
+      }
+    }
+  ]
+}

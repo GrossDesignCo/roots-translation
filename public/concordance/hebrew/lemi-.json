@@ -1,0 +1,31 @@
+{
+  "key": "lemi-",
+  "language": "hebrew",
+  "root": "lemi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לְמִי־",
+        "transliteration": "lemi-",
+        "englishLiteral": "for-who-",
+        "englishNatural": "for who",
+        "root": "lemi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "לָנוּ בַּאֲשֶׁר **לְמִי־** הָרָעָה הַזֹּאת",
+        "transliteration": "lanu beAsher **lemi-** haRaah hazot",
+        "englishLiteral": "to-us in-which **for-who-** the-bad this",
+        "englishNatural": "to us in which **for who** the bad this"
+      }
+    }
+  ]
+}

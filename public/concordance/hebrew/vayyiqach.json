@@ -1,0 +1,33 @@
+{
+  "key": "vayyiqach",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 20
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַיִּקַּח",
+        "transliteration": "vayYiqach",
+        "englishLiteral": "and-took",
+        "englishNatural": "and took",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִזְבֵּחַ לַיהוָה **וַיִּקַּח** מִכֹּל הַבְּהֵמָה",
+        "transliteration": "mizbeach laYHWH **vayYiqach** miKol haBehemah",
+        "englishLiteral": "altar to-He_Who_Is (YHWH) **and-took** from-all the-beast",
+        "englishNatural": "an altar to He-Who-Is (YHWH) **and took** from all the beast"
+      }
+    }
+  ]
+}

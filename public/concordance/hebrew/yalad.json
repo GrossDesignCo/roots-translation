@@ -1,0 +1,111 @@
+{
+  "key": "yalad",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 18
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יָלַד",
+        "transliteration": "yalad",
+        "englishLiteral": "bore",
+        "englishNatural": "bore",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עִירָד וְעִירָד **יָלַד** אֶת־ מְחוּיָאֵל",
+        "transliteration": "Irad veIrad **yalad** et- Mechuyael",
+        "englishLiteral": "Fugitive (Irad) and-Fugitive (Irad) **bore** ↳ Smitten-of-God (Mehujael)",
+        "englishNatural": "Fugitive (Irad) and Fugitive (Irad) **bore** ↳ Smitten-of-God (Mehujael)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 18
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "יָלַד",
+        "transliteration": "yalad",
+        "englishLiteral": "bore",
+        "englishNatural": "bore",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מְחוּיָאֵל וּמְחִיָּאֵל **יָלַד** אֶת־ מְתוּשָׁאֵל",
+        "transliteration": "Mechuyael uMechiyael **yalad** et- Methushael",
+        "englishLiteral": "Smitten-of-God (Mehujael) and-Smitten-of-God (Mehujael) **bore** ↳ Man-of-God (Methusael)",
+        "englishNatural": "Smitten-of-God (Mehujael) and Smitten-of-God (Mehujael) **bore** ↳ Man-of-God (Methusael)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 18
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "יָלַד",
+        "transliteration": "yalad",
+        "englishLiteral": "bore",
+        "englishNatural": "bore",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מְתוּשָׁאֵל וּמְתוּשָׁאֵל **יָלַד** אֶת־ לָמֶךְ",
+        "transliteration": "Methushael uMethushael **yalad** et- Lemekh",
+        "englishLiteral": "Man-of-God (Methusael) and-Man-of-God (Methusael) **bore** ↳ Powerful (Lamech)",
+        "englishNatural": "Man-of-God (Methusael) and Man-of-God (Methusael) **bore** ↳ Powerful (Lamech)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יָלַד",
+        "transliteration": "yalad",
+        "englishLiteral": "he-birthed",
+        "englishNatural": "birthed",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְכוּשׁ **יָלַד** אֶת־ נִמְרֹד",
+        "transliteration": "veKhush **yalad** et- Nimrod",
+        "englishLiteral": "And-Black (Kush) **he-birthed** ↳ Rebel (Nimrod)",
+        "englishNatural": "And Black (Kush) **birthed** ↳ Rebel (Nimrod)"
+      }
+    }
+  ]
+}

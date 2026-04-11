@@ -1,0 +1,33 @@
+{
+  "key": "mevi",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מֵבִיא",
+        "transliteration": "mevi",
+        "englishLiteral": "bringing",
+        "englishNatural": "bringing",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲנִי הִנְנִי **מֵבִיא** אֶת־ הַמַּבּוּל",
+        "transliteration": "vaAni hineni **mevi** et- haMabbul",
+        "englishLiteral": "And-I behold-me **bringing** ↳ the-flood",
+        "englishNatural": "And I behold me **bringing** ↳ the flood"
+      }
+    }
+  ]
+}

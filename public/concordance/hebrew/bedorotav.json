@@ -1,0 +1,31 @@
+{
+  "key": "bedorotav",
+  "language": "hebrew",
+  "root": "dor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בְּדֹרֹתָיו",
+        "transliteration": "bedorotav",
+        "englishLiteral": "in-generation-his",
+        "englishNatural": "in his generation",
+        "root": "dor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תָּמִים הָיָה **בְּדֹרֹתָיו** אֶת־ הָאֱלֹהִים",
+        "transliteration": "tamim hayah **bedorotav** et- haElohim",
+        "englishLiteral": "wholesome he-was **in-generation-his** ↳ the-Gods",
+        "englishNatural": "wholesome he was **in his generation** ↳ the God"
+      }
+    }
+  ]
+}

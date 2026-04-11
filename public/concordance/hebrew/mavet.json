@@ -1,0 +1,55 @@
+{
+  "key": "mavet",
+  "language": "hebrew",
+  "root": "mavet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מָוֶת",
+        "transliteration": "mavet",
+        "englishLiteral": "of-death",
+        "englishNatural": "of death",
+        "root": "mavet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "טוֹב וְיוֹם **מָוֶת** מִיּוֹם הִוָּלְדוֹ",
+        "transliteration": "tov veYom **mavet** miYom hiValdo",
+        "englishLiteral": "good and-day **of-death** than-day of-his-birth",
+        "englishNatural": "than good and the day **of death** than the day of birth"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 9
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "מָוֶת",
+        "transliteration": "mavet",
+        "englishLiteral": "death",
+        "englishNatural": "death",
+        "root": "mavet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִי עַד־ **מָוֶת**",
+        "transliteration": "li ad- **mavet**",
+        "englishLiteral": "to-me unto- **death**",
+        "englishNatural": "to me unto **death**"
+      }
+    }
+  ]
+}

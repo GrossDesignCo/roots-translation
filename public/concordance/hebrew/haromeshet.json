@@ -1,0 +1,31 @@
+{
+  "key": "haromeshet",
+  "language": "hebrew",
+  "root": "ramas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הָֽרֹמֶ֡שֶׂת",
+        "transliteration": "haRomeshet",
+        "englishLiteral": "the-crawling",
+        "englishNatural": "the crawling",
+        "root": "ramas",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "נֶ֣פֶשׁ הַֽחַיָּ֣ה **הָֽרֹמֶ֡שֶׂת** אֲשֶׁר֩ שָׁרְצ֨וּ",
+        "transliteration": "nephesh haChayah **haRomeshet** asher sharTsu",
+        "englishLiteral": "throat the-living **the-crawling** which swarmed",
+        "englishNatural": "throat the living **the crawling** which swarmed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "shemot",
+  "language": "hebrew",
+  "root": "shem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שֵׁמוֹת",
+        "transliteration": "shemot",
+        "englishLiteral": "names",
+        "englishNatural": "names",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקְרָא הָאָדָם **שֵׁמוֹת** לְכָל־ הַבְּהֵמָה",
+        "transliteration": "vaYiqra haAdam **shemot** leKol- haBehemah",
+        "englishLiteral": "And-called_out the-Earthling (Adam) **names** to-every- the-beast",
+        "englishNatural": "called-out And the Earthling (Adam) **names** to every beast"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "tsalma",
+  "language": "aramaic",
+  "root": "tselem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "צַלְמָא",
+        "transliteration": "tsalma",
+        "englishLiteral": "image-the",
+        "englishNatural": "the image",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַד שַׂגִּיא **צַלְמָא** דִכֵּן רַב",
+        "transliteration": "chad saggi **tsalma** dikken rav",
+        "englishLiteral": "one great **image-the** that great",
+        "englishNatural": "one great **the image** that was great"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "צַלְמָא",
+        "transliteration": "tsalma",
+        "englishLiteral": "image-the",
+        "englishNatural": "the image",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא **צַלְמָא** רֵאשֵׁהּ דִּי",
+        "transliteration": "hu **tsalma** resheh di",
+        "englishLiteral": "he **image-the** head-its which",
+        "englishNatural": "He **the image** its head of"
+      }
+    }
+  ]
+}

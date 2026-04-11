@@ -1,0 +1,55 @@
+{
+  "key": "hu-",
+  "language": "hebrew",
+  "root": "hu",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הוּא־",
+        "transliteration": "hu-",
+        "englishLiteral": "it-",
+        "englishNatural": "it",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "רֶמֶשׂ אֲשֶׁר **הוּא־** חַי לָכֶם",
+        "transliteration": "remes asher **hu-** chai lakhem",
+        "englishLiteral": "creeper which **it-** living to-you",
+        "englishNatural": "creeper which **it** is living to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "הוּא־",
+        "transliteration": "hu-",
+        "englishLiteral": "He-",
+        "englishNatural": "He",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**הוּא־** הָיָה גִבֹּר־",
+        "transliteration": "**hu-** hayah gibbor-",
+        "englishLiteral": "**He-** was mighty_one-of-",
+        "englishNatural": "**He** was a mighty-one of"
+      }
+    }
+  ]
+}

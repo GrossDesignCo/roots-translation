@@ -1,0 +1,33 @@
+{
+  "key": "havah",
+  "language": "aramaic",
+  "root": "hava",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הֲוָ֔ה",
+        "transliteration": "havah",
+        "englishLiteral": "was",
+        "englishNatural": "he was",
+        "root": "hava",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱנָ֖שׁ אָתֵ֣ה **הֲוָ֔ה** וְעַד־ עַתִּ֤יק",
+        "transliteration": "enash ateh **havah** veAd- Attiq",
+        "englishLiteral": "Mortal_Man (Enash) coming **was** and-unto- Ancient-of",
+        "englishNatural": "Mortal-Man (Enash) coming **he was** and unto the Ancient of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "root": "etzev",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עִצְּבוֹנֵךְ",
+        "transliteration": "itzvonek",
+        "englishLiteral": "pain-your",
+        "englishNatural": "your pain",
+        "root": "etzev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַרְבָּה אַרְבֶּה **עִצְּבוֹנֵךְ** וְהֵרֹנֵךְ בְּעֶצֶב",
+        "transliteration": "harbah arbeh **itzvonek** veHeronekh beEtzev",
+        "englishLiteral": "Multiplying I-will_multiply **pain-your** and-pregnancy-your in-pain",
+        "englishNatural": "Multiplying I will multiply **your pain** and your pregnancy in pain"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בְּעֶצֶב",
+        "transliteration": "beEtzev",
+        "englishLiteral": "in-pain",
+        "englishNatural": "in pain",
+        "root": "etzev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עִצְּבוֹנֵךְ וְהֵרֹנֵךְ **בְּעֶצֶב** תֵּלְדִי בָנִים",
+        "transliteration": "itzvonek veHeronekh **beEtzev** teldi banim",
+        "englishLiteral": "pain-your and-pregnancy-your **in-pain** you-will_birth sons",
+        "englishNatural": "your pain and your pregnancy **in pain** you will birth sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "בְּעִצָּבוֹן",
+        "transliteration": "beItzavon",
+        "englishLiteral": "in-pain",
+        "englishNatural": "in pain",
+        "root": "etzev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה בַּעֲבוּרֶךָ **בְּעִצָּבוֹן** תֹּאכְלֶנָּה כֹּל",
+        "transliteration": "haAdamah baAvurekha **beItzavon** tokhlena kol",
+        "englishLiteral": "the-earth in-passing_through-your **in-pain** you-will-eat all",
+        "englishNatural": "the earth in your passing-through **in pain** you will eat all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 29
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וּמֵעִצְּבוֹן",
+        "transliteration": "uMeItzvon",
+        "englishLiteral": "and-from-pain",
+        "englishNatural": "and from the pain",
+        "root": "etzev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ **וּמֵעִצְּבוֹן** יָדֵינוּ מִן־",
+        "transliteration": "yeNachamenu miMaasenu **uMeItzvon** yadenu min-",
+        "englishLiteral": "will-comfort-us from-our-making **and-from-pain** our-hands from",
+        "englishNatural": "will comfort us from our making **and from the pain** of our hands from"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "qodamah",
+  "language": "aramaic",
+  "root": "qodam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 28,
+      "word": {
+        "originalScript": "קָֽדָמַ֔הּ",
+        "transliteration": "qodamah",
+        "englishLiteral": "before-her",
+        "englishNatural": "before it",
+        "root": "qodam",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "חֵֽיוָתָא֙ דִּ֣י **קָֽדָמַ֔הּ** וְקַרְנַ֥יִן עֲשַׂ֖ר",
+        "transliteration": "kheyvata di **qodamah** veQarnayin asar",
+        "englishLiteral": "the-beasts which **before-her** and-horns ten",
+        "englishNatural": "the beasts that **before it** horns and ten"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "panta",
+  "language": "greek",
+  "root": "pas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "πάντα",
+        "transliteration": "panta",
+        "englishLiteral": "all",
+        "englishNatural": "all",
+        "root": "pas",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "αὐτῷ κύριε **πάντα** σὺ οἶδας",
+        "transliteration": "autō kurie **panta** su oidas",
+        "englishLiteral": "to-him lord **all** you know",
+        "englishNatural": "to him Lord **all** you know"
+      }
+    }
+  ]
+}

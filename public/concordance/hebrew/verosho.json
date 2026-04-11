@@ -1,0 +1,31 @@
+{
+  "key": "verosho",
+  "language": "hebrew",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְרֹאשׁוֹ",
+        "transliteration": "veRosho",
+        "englishLiteral": "and-its-head",
+        "englishNatural": "and its head",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עִיר וּמִגְדָּל **וְרֹאשׁוֹ** בַשָּׁמַיִם וְנַעֲשֶׂה־",
+        "transliteration": "ir uMigdal **veRosho** baShamayim veNaaseh-",
+        "englishLiteral": "city and-tower **and-its-head** in-heavens and-let-us-make-",
+        "englishNatural": "a city and a tower **and its head** in the heavens and let us make"
+      }
+    }
+  ]
+}

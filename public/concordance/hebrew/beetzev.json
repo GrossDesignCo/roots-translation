@@ -1,0 +1,31 @@
+{
+  "key": "beetzev",
+  "language": "hebrew",
+  "root": "etzev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בְּעֶצֶב",
+        "transliteration": "beEtzev",
+        "englishLiteral": "in-pain",
+        "englishNatural": "in pain",
+        "root": "etzev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עִצְּבוֹנֵךְ וְהֵרֹנֵךְ **בְּעֶצֶב** תֵּלְדִי בָנִים",
+        "transliteration": "itzvonek veHeronekh **beEtzev** teldi banim",
+        "englishLiteral": "pain-your and-pregnancy-your **in-pain** you-will_birth sons",
+        "englishNatural": "your pain and your pregnancy **in pain** you will birth sons"
+      }
+    }
+  ]
+}

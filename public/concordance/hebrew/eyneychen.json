@@ -1,0 +1,31 @@
+{
+  "key": "eyneychen",
+  "language": "hebrew",
+  "root": "ayin_eye",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "עֵינֵיכֶם",
+        "transliteration": "eyneychen",
+        "englishLiteral": "your-eyes",
+        "englishNatural": "and your eyes",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִמֶּנּוּ וְנִפְקְחוּ **עֵינֵיכֶם** וִהְיִיתֶם כֵּאלֹהִים",
+        "transliteration": "mimenu veNifqechu **eyneychen** viHyiytem keElohim",
+        "englishLiteral": "from-it and-will-be-opened **your-eyes** and-you_all-will-be as-Gods",
+        "englishNatural": "from it will be opened **and your eyes** and you-all will be as God"
+      }
+    }
+  ]
+}

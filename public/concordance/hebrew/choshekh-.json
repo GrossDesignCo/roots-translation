@@ -1,0 +1,31 @@
+{
+  "key": "choshekh-",
+  "language": "hebrew",
+  "root": "choshekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 22
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "חֹשֶׁךְ־",
+        "transliteration": "choshekh-",
+        "englishLiteral": "darkness-of",
+        "englishNatural": "darkness of",
+        "root": "choshekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁמָיִם וַיְהִי **חֹשֶׁךְ־** אֲפֵלָה בְּכָל־",
+        "transliteration": "haShamayim vaYhi **choshekh-** afelah beKhol-",
+        "englishLiteral": "the-skies and-was **darkness-of** gloom in-all-of-",
+        "englishNatural": "the skies and it was **darkness of** gloom in all"
+      }
+    }
+  ]
+}

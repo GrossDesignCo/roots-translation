@@ -1,0 +1,31 @@
+{
+  "key": "mimareeh",
+  "language": "hebrew",
+  "root": "mareh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "מִמַּרְאֵה",
+        "transliteration": "miMareeh",
+        "englishLiteral": "from-appearance-of",
+        "englishNatural": "from the appearance of",
+        "root": "mareh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָהּ סָבִיב **מִמַּרְאֵה** מָתְנָיו וּלְמַעְלָה",
+        "transliteration": "lah saviv **miMareeh** matnav uleMaalah",
+        "englishLiteral": "to all_around **from-appearance-of** loins-his and-to-upward",
+        "englishNatural": "to all-around **from the appearance of** his loins and upward"
+      }
+    }
+  ]
+}

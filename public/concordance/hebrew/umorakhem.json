@@ -1,0 +1,31 @@
+{
+  "key": "umorakhem",
+  "language": "hebrew",
+  "root": "mora",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּמוֹרַאֲכֶם",
+        "transliteration": "uMorakhem",
+        "englishLiteral": "And-awe-your",
+        "englishNatural": "And your awe",
+        "root": "mora",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּמוֹרַאֲכֶם** וְחִתְּכֶם יִהְיֶה",
+        "transliteration": "**uMorakhem** veChitkhem yihyeh",
+        "englishLiteral": "**And-awe-your** and-dread-your will-be",
+        "englishNatural": "**And your awe** and your dread will be"
+      }
+    }
+  ]
+}

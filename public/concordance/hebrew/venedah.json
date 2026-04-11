@@ -1,0 +1,33 @@
+{
+  "key": "venedah",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְנֵדְעָה",
+        "transliteration": "veNedah",
+        "englishLiteral": "and-let-us-know",
+        "englishNatural": "and let us know",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "cohortative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְנַפִּילָה גוֹרָלוֹת **וְנֵדְעָה** בְּשֶׁלְּמִי הָרָעָה",
+        "transliteration": "veNapilah goralot **veNedah** beshelmi haRaah",
+        "englishLiteral": "and-let-us-cause-to-fall lots **and-let-us-know** for-whose-sake the-bad",
+        "englishNatural": "and let us cause-to-fall lots **and let us know** for whose sake this bad"
+      }
+    }
+  ]
+}

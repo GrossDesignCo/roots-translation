@@ -1,0 +1,31 @@
+{
+  "key": "peleshet",
+  "language": "hebrew",
+  "root": "Peleshet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "פְלֶשֶׁת",
+        "transliteration": "Peleshet",
+        "englishLiteral": "Wallowers (Philistia)",
+        "englishNatural": "Wallowers (Philistia)",
+        "root": "Peleshet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַל תִּשְׂמְחִי **פְלֶשֶׁת** כֻּלֵּךְ כִּי",
+        "transliteration": "al tiSmechi **Peleshet** kulekh ki",
+        "englishLiteral": "Do-not you-shall-rejoice **Wallowers (Philistia)** all-of-you that",
+        "englishNatural": "Do not rejoice **Wallowers (Philistia)** all of you that"
+      }
+    }
+  ]
+}

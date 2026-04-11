@@ -1,0 +1,31 @@
+{
+  "key": "lapetach",
+  "language": "hebrew",
+  "root": "petach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לַפֶּתַח",
+        "transliteration": "laPetach",
+        "englishLiteral": "to-opening",
+        "englishNatural": "to the opening",
+        "root": "petach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא תֵיטִיב **לַפֶּתַח** חַטָּאת רֹבֵץ",
+        "transliteration": "lo teytiv **laPetach** chatat rovetz",
+        "englishLiteral": "not you-do_well **to-opening** sin crouching",
+        "englishNatural": "not you do-well **to the opening** sin is crouching"
+      }
+    }
+  ]
+}

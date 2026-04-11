@@ -1,0 +1,31 @@
+{
+  "key": "basadeh",
+  "language": "hebrew",
+  "root": "sadeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בַּשָּׂדֶה",
+        "transliteration": "basadeh",
+        "englishLiteral": "in-field",
+        "englishNatural": "in the field",
+        "root": "sadeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי בִּהְיוֹתָם **בַּשָּׂדֶה** וַיָּקָם קַיִן",
+        "transliteration": "vayHi biHyotam **basadeh** vayYaqam Qayin",
+        "englishLiteral": "And-it-was in-their-being **in-field** and-he-stood_up Acquired (Cain)",
+        "englishNatural": "and it was in their being **in the field** stood-up and Acquired (Cain)"
+      }
+    }
+  ]
+}

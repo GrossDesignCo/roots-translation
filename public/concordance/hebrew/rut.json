@@ -1,0 +1,31 @@
+{
+  "key": "rut",
+  "language": "hebrew",
+  "root": "rut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "ר֑וּת",
+        "transliteration": "Rut",
+        "englishLiteral": "Friend (Ruth)",
+        "englishNatural": "Friend (Ruth)",
+        "root": "rut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֵׁ֥ם הַשֵּׁנִ֖ית **ר֑וּת** וַיֵּ֥שְׁבוּ שָׁ֖ם",
+        "transliteration": "veShem haShenit **Rut** vaYeshvu sham",
+        "englishLiteral": "and-name-of the-second **Friend (Ruth)** and-they-sat there",
+        "englishNatural": "and the name of the second **Friend (Ruth)** and they sat there"
+      }
+    }
+  ]
+}

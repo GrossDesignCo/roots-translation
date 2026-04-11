@@ -1,0 +1,33 @@
+{
+  "key": "yirev",
+  "language": "hebrew",
+  "root": "rabah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 22
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "יִ֥רֶב",
+        "transliteration": "yiRev",
+        "englishLiteral": "let-multiply",
+        "englishNatural": "multiply",
+        "root": "rabah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בַּיַּמִּ֔ים וְהָע֖וֹף **יִ֥רֶב** בָּאָֽרֶץ׃",
+        "transliteration": "baYamim veHaOf **yiRev** baAretz",
+        "englishLiteral": "in-seas And-the-flyer **let-multiply** in-land",
+        "englishNatural": "in the seas And let the flyer **multiply** in the land"
+      }
+    }
+  ]
+}

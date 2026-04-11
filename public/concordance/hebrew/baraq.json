@@ -1,0 +1,31 @@
+{
+  "key": "baraq",
+  "language": "hebrew",
+  "root": "baraq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "בָרָק",
+        "transliteration": "baraq",
+        "englishLiteral": "lightning",
+        "englishNatural": "lightning",
+        "root": "baraq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֵשׁ יוֹצֵא **בָרָק**",
+        "transliteration": "haEsh yotze **baraq**",
+        "englishLiteral": "the-fire brought_out **lightning**",
+        "englishNatural": "the fire brought-out **lightning**"
+      }
+    }
+  ]
+}

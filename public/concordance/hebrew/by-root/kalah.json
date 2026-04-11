@@ -1,0 +1,108 @@
+{
+  "root": "kalah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְכֻלּוּ",
+        "transliteration": "vaYechullu",
+        "englishLiteral": "And-were-finished",
+        "englishNatural": "And finished were",
+        "root": "kalah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְכֻלּוּ** הַשָּׁמַיִם וְהָאָרֶץ",
+        "transliteration": "**vaYechullu** haShamayim veHaAretz",
+        "englishLiteral": "**And-were-finished** the-skies and-the-land",
+        "englishNatural": "**And finished were** the skies and the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְכַל",
+        "transliteration": "vaYechal",
+        "englishLiteral": "And-finished",
+        "englishNatural": "finished",
+        "root": "kalah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְכַל** אֱלֹהִים בַּיּוֹם",
+        "transliteration": "**vaYechal** Elohim baYom",
+        "englishLiteral": "**And-finished** Gods in-day",
+        "englishNatural": "**finished** And God day"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תְּכַלֶּנָּה",
+        "transliteration": "tekhalennah",
+        "englishLiteral": "you-shall-finish-her",
+        "englishNatural": "you shall finish it",
+        "root": "kalah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶל־ אַמָּה **תְּכַלֶּנָּה** מִלְמַעְלָה וּפֶתַח",
+        "transliteration": "veEl- ammah **tekhalennah** milMaalah uFetach",
+        "englishLiteral": "and-to- cubit **you-shall-finish-her** from-to-upward and-opening-of",
+        "englishNatural": "and to a cubit **you shall finish it** from upward and the opening of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "כָּלָ֔ה",
+        "transliteration": "kalah",
+        "englishLiteral": "finishing",
+        "englishNatural": "finishing",
+        "root": "kalah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "מִזֶּ֑ה כְּשַׁלְּח֣וֹ **כָּלָ֔ה** גָּרֵ֛שׁ יְגָרֵ֥שׁ",
+        "transliteration": "mizeh keShalcho **kalah** garesh yegaresh",
+        "englishLiteral": "from-this as-sending_out-him **finishing** banishing he-will-banish",
+        "englishNatural": "from this as his sending-out **finishing** banishing he will banish"
+      }
+    }
+  ]
+}

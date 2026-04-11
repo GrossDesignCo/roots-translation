@@ -1,0 +1,31 @@
+{
+  "key": "lesivlotekhem",
+  "language": "hebrew",
+  "root": "sevel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 4
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לְסִבְלֹתֵיכֶם",
+        "transliteration": "leSivlotekhem",
+        "englishLiteral": "to-burdens-your",
+        "englishNatural": "to your burdens",
+        "root": "sevel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִמַּעֲשָׂיו לְכוּ **לְסִבְלֹתֵיכֶם**",
+        "transliteration": "miMaasav lekhu **leSivlotekhem**",
+        "englishLiteral": "from-works-their go **to-burdens-your**",
+        "englishNatural": "from their works Go **to your burdens**"
+      }
+    }
+  ]
+}

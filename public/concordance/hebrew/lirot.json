@@ -1,0 +1,59 @@
+{
+  "key": "lirot",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לִרְאֹת",
+        "transliteration": "liRot",
+        "englishLiteral": "to-see",
+        "englishNatural": "to see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּרֶד יְהוָה **לִרְאֹת** אֶת־ הָעִיר",
+        "transliteration": "vayYered YHWH **liRot** et- haIr",
+        "englishLiteral": "And-he-descended He_Who_Is (YHWH) **to-see** ↳ the-city",
+        "englishNatural": "descended And He-Who-Is (YHWH) **to see** ↳ the city"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לִרְאוֹת",
+        "transliteration": "lirot",
+        "englishLiteral": "to-see",
+        "englishNatural": "to see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי סָר **לִרְאוֹת** וַיִּקְרָא אֵלָיו",
+        "transliteration": "ki sar **lirot** vaYiqra elav",
+        "englishLiteral": "that turned_aside **to-see** and-he-called to-him",
+        "englishNatural": "that he had turned-aside **to see** called to him"
+      }
+    }
+  ]
+}

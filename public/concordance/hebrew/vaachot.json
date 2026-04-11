@@ -1,0 +1,31 @@
+{
+  "key": "vaachot",
+  "language": "hebrew",
+  "root": "achot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וַאֲחוֹת",
+        "transliteration": "vaAchot",
+        "englishLiteral": "and-sister-of",
+        "englishNatural": "and the sister of",
+        "root": "achot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְחֹשֶׁת וּבַרְזֶל **וַאֲחוֹת** תּוּבַל־קַיִן נַעֲמָה",
+        "transliteration": "nechoshet uVarzel **vaAchot** Tuval-Qayin Naamah",
+        "englishLiteral": "bronze and-iron **and-sister-of** World-Aquired (Tubal-Cain) Pleasant (Naamah)",
+        "englishNatural": "bronze and iron **and the sister of** World-Aquired (Tubal-Cain) Pleasant (Naamah)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "vetaqqipha",
+  "language": "aramaic",
+  "root": "taqqif",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְתַקִּיפָ֣א",
+        "transliteration": "veTaqqipha",
+        "englishLiteral": "and-strong",
+        "englishNatural": "strong",
+        "root": "taqqif",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "דְּחִילָה֩ וְאֵֽימְתָנִ֜י **וְתַקִּיפָ֣א** יַתִּ֗ירָה וְשִׁנַּ֨יִן",
+        "transliteration": "dekhilah veEmtani **veTaqqipha** yattirah veShinnayin",
+        "englishLiteral": "dreadful and-terrible **and-strong** exceedingly and-teeth",
+        "englishNatural": "dreadful and terrible **strong** and exceedingly and teeth"
+      }
+    }
+  ]
+}

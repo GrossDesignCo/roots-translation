@@ -1,0 +1,32 @@
+{
+  "key": "gērasēs",
+  "language": "greek",
+  "root": "gerao",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "γηράσῃς",
+        "transliteration": "gērasēs",
+        "englishLiteral": "you-grow_old",
+        "englishNatural": "you grow old",
+        "root": "gerao",
+        "morphology": {
+          "type": "verb",
+          "tense": "aorist"
+        }
+      },
+      "context": {
+        "hebrew": "ὅταν δὲ **γηράσῃς** ἐκτενεῖς τὰς",
+        "transliteration": "hotan de **gērasēs** ekteneis tas",
+        "englishLiteral": "when but **you-grow_old** you-will-stretch_out the",
+        "englishNatural": "when but **you grow old** you will stretch out those"
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "key": "zot",
+  "language": "hebrew",
+  "root": "zot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "זֹאת",
+        "transliteration": "zot",
+        "englishLiteral": "This",
+        "englishNatural": "This is",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר הָאָדָם **זֹאת** הַפַּעַם עֶצֶם",
+        "transliteration": "vaYomer haAdam **zot** haPaam etsem",
+        "englishLiteral": "And-said the-Earthling (Adam) **This** the-time Bone",
+        "englishNatural": "said And the Earthling (Adam) **This is** the time Bone"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "זֹאת׃",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "this",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאִישׁ לֻקֳּחָה **זֹאת׃**",
+        "transliteration": "meIsh luqqachah **zot**",
+        "englishLiteral": "from-Man was-taken **this**",
+        "englishNatural": "from Man was taken **this**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "זֹּאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "is this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "לָאִשָּׁה מַה־ **זֹּאת** עָשִׂית וַתֹּאמֶר",
+        "transliteration": "laIshah mah- **zot** asit vatomer",
+        "englishLiteral": "to-the-woman What- **this** you-have-made And-she-said",
+        "englishNatural": "to the woman What **is this** you have made said"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "זֹּאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי עָשִׂיתָ **זֹּאת** אָרוּר אַתָּה",
+        "transliteration": "ki asita **zot** arur atah",
+        "englishLiteral": "that you-made **this** cursed you",
+        "englishNatural": "Because you have made **this** cursed are you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "זֹאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "This",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר אֱלֹהִים **זֹאת** אוֹת־ הַבְּרִית",
+        "transliteration": "vayYomer Elohim **zot** ot- haBerit",
+        "englishLiteral": "And-said Gods **this** sign-of the-covenant",
+        "englishNatural": "said And God **This** the sign of the covenant"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "זֹּאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "is this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלָיו מַה־ **זֹּאת** עָשִׂיתָ כִּי־",
+        "transliteration": "elav mah- **zot** asita ki-",
+        "englishLiteral": "to-him What- **this** you-did that-",
+        "englishNatural": "to him What **is this** you have done that"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "qeren",
+  "language": "aramaic",
+  "root": "qeren",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "קֶ֣רֶן",
+        "transliteration": "qeren",
+        "englishLiteral": "horn",
+        "englishNatural": "horn",
+        "root": "qeren",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּקַרְנַיָּ֗א וַ֠אֲלוּ **קֶ֣רֶן** אָחֳרִ֤י זְעֵירָה֙",
+        "transliteration": "beQarnaiya vaAlu **qeren** ochori zeeirah",
+        "englishLiteral": "in-the-horns and-behold **horn** another small",
+        "englishNatural": "in the horns and behold **horn** another small"
+      }
+    }
+  ]
+}

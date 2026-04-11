@@ -1,0 +1,102 @@
+{
+  "root": "dag",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 2
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "דְּגֵי",
+        "transliteration": "degei",
+        "englishLiteral": "fish-of",
+        "englishNatural": "fish of",
+        "root": "dag",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה וּבְכָל־ **דְּגֵי** הַיָּם בְּיֶדְכֶם",
+        "transliteration": "haAdamah uVekhol- **degei** haYam beYedkhem",
+        "englishLiteral": "the-soil and-in-all- **fish-of** the-sea in-hand-your",
+        "englishNatural": "the soil and in all **fish of** the sea in your hand"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "דָּג",
+        "transliteration": "dag",
+        "englishLiteral": "fish",
+        "englishNatural": "fish",
+        "root": "dag",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְמַן יְהוָה **דָּג** גָּדוֹל לִבְלֹעַ",
+        "transliteration": "vaYeman YHWH **dag** gadol livloa",
+        "englishLiteral": "And-appointed He_Who_Is (YHWH) **fish** great to-swallow",
+        "englishNatural": "appointed And He-Who-Is (YHWH) **fish** a great to swallow"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הַדָּג",
+        "transliteration": "haDag",
+        "englishLiteral": "the-fish",
+        "englishNatural": "the fish",
+        "root": "dag",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹנָה בִּמְעֵי **הַדָּג** שְׁלֹשָׁה יָמִים",
+        "transliteration": "Yonah bimei **haDag** shloshah yamim",
+        "englishLiteral": "Dove (Jonah) in-bowels-of **the-fish** three days",
+        "englishNatural": "And Dove (Jonah) in the bowels of **the fish** three days"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לַדָּג",
+        "transliteration": "laDag",
+        "englishLiteral": "to-the-fish",
+        "englishNatural": "to the fish",
+        "root": "dag",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **לַדָּג** וַיָּקֵא אֶת־",
+        "transliteration": "vaYomer YHWH **laDag** vaYaqe et-",
+        "englishLiteral": "And-said He_Who_Is (YHWH) **to-the-fish** and-vomited ↳",
+        "englishNatural": "spoke And He-Who-Is (YHWH) **to the fish** and he vomited ↳"
+      }
+    }
+  ]
+}

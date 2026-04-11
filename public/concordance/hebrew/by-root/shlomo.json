@@ -1,0 +1,30 @@
+{
+  "root": "shlomo",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "שְׁלֹמֹה",
+        "transliteration": "shlomo",
+        "englishLiteral": "His_Peace (Solomon)",
+        "englishNatural": "His-Peace (Solomon)",
+        "root": "shlomo",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִשְׁלֵי **שְׁלֹמֹה** בֶן־ דָּוִד",
+        "transliteration": "mishle **shlomo** ben- david",
+        "englishLiteral": "Rules-of **His_Peace (Solomon)** son-of- Beloved (David)",
+        "englishNatural": "Rules of **His-Peace (Solomon)** son of Beloved (David)"
+      }
+    }
+  ]
+}

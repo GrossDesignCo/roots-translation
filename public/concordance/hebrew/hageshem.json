@@ -1,0 +1,55 @@
+{
+  "key": "hageshem",
+  "language": "hebrew",
+  "root": "geshem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַגֶּשֶׁם",
+        "transliteration": "haGeshem",
+        "englishLiteral": "the-rain",
+        "englishNatural": "And the rain",
+        "root": "geshem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **הַגֶּשֶׁם** עַל־ הָאָרֶץ",
+        "transliteration": "vayehi **haGeshem** al- haAretz",
+        "englishLiteral": "And-it-was **the-rain** over- the-land",
+        "englishNatural": "was **And the rain** over the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הַגֶּשֶׁם",
+        "transliteration": "haGeshem",
+        "englishLiteral": "the-rain",
+        "englishNatural": "rain",
+        "root": "geshem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֶעָנָן בְּיוֹם **הַגֶּשֶׁם** כֵּן מַרְאֵה",
+        "transliteration": "beAnan beYom **haGeshem** ken mareeh",
+        "englishLiteral": "in-cloud in-day-of **the-rain** so appearance-of",
+        "englishNatural": "in the cloud in the day of **rain** so the appearance of"
+      }
+    }
+  ]
+}

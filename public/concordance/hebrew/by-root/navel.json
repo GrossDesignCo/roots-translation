@@ -1,0 +1,32 @@
+{
+  "root": "navel",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "יִבּוֹל",
+        "transliteration": "yibol",
+        "englishLiteral": "it-withers",
+        "englishNatural": "withers",
+        "root": "navel",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְעָלֵהוּ לֹא **יִבּוֹל** וְכֹל אֲשֶׁר",
+        "transliteration": "veAlehu lo **yibol** veKhol asher",
+        "englishLiteral": "and-its-leaf not **it-withers** and-all which",
+        "englishNatural": "and its leaf not **withers** and all which"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "vegam-",
+  "language": "hebrew",
+  "root": "gam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְגַם־",
+        "transliteration": "veGam-",
+        "englishLiteral": "and-also-",
+        "englishNatural": "And also",
+        "root": "gam",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**וְגַם־** מִקְנֵנוּ יֵלֵךְ",
+        "transliteration": "**veGam-** miqnenu yelekh",
+        "englishLiteral": "**and-also-** livestock-our will-go",
+        "englishNatural": "**And also** our livestock will go"
+      }
+    }
+  ]
+}

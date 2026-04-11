@@ -1,0 +1,59 @@
+{
+  "key": "edrosh",
+  "language": "hebrew",
+  "root": "darash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֶדְרֹשׁ",
+        "transliteration": "edrosh",
+        "englishLiteral": "I-will-require",
+        "englishNatural": "I will require",
+        "root": "darash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "דִּמְכֶם לְנַפְשֹׁתֵיכֶם **אֶדְרֹשׁ** מִיַּד כָּל־",
+        "transliteration": "dimkhem leNafshotekhem **edrosh** miYad kol-",
+        "englishLiteral": "your-blood for-your-winds **I-will-require** from-hand-of all-",
+        "englishNatural": "your blood for your winds **I will require** from the hand of all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 5
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "אֶדְרֹשׁ",
+        "transliteration": "edrosh",
+        "englishLiteral": "I-will-require",
+        "englishNatural": "I will require",
+        "root": "darash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ אָחִיו **אֶדְרֹשׁ** אֶת־ נֶפֶשׁ",
+        "transliteration": "ish achiv **edrosh** et- nefesh",
+        "englishLiteral": "man his-brother **I-will-require** ↳ soul-of",
+        "englishNatural": "a man his brother **I will require** ↳ the soul of"
+      }
+    }
+  ]
+}

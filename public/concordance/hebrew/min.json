@@ -1,0 +1,31 @@
+{
+  "key": "min",
+  "language": "hebrew",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מִן",
+        "transliteration": "min",
+        "englishLiteral": "from",
+        "englishNatural": "from",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלַי אֶחָד **מִן** הַשְּׂרָפִים וּבְיָדוֹ",
+        "transliteration": "elai echad **min** haSeraphim uVeYado",
+        "englishLiteral": "to-me one **from** the-incinerating_ones and-in-his-hand",
+        "englishNatural": "to me one **from** the incinerating-ones and in his hand"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "orpah",
+  "language": "hebrew",
+  "root": "orpah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "עָרְפָּ֔ה",
+        "transliteration": "Orpah",
+        "englishLiteral": "Neck (Orpah)",
+        "englishNatural": "Neck (Orpah)",
+        "root": "orpah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁ֤ם הָֽאַחַת֙ **עָרְפָּ֔ה** וְשֵׁ֥ם הַשֵּׁנִ֖ית",
+        "transliteration": "shem haAchat **Orpah** veShem haShenit",
+        "englishLiteral": "name-of the-one **Neck (Orpah)** and-name-of the-second",
+        "englishNatural": "the name of the one **Neck (Orpah)** and the name of the second"
+      }
+    }
+  ]
+}

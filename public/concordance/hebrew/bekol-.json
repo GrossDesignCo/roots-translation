@@ -1,0 +1,31 @@
+{
+  "key": "bekol-",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "בְּכָל־",
+        "transliteration": "beKol-",
+        "englishLiteral": "in-all-",
+        "englishNatural": "were in all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הָאַשָּׁפִים אֲשֶׁר **בְּכָל־** מַלְכוּתוֹ",
+        "transliteration": "haAshshafim asher **beKol-** malkhuto",
+        "englishLiteral": "the-astrologers which **in-all-** kingdom-his",
+        "englishNatural": "the astrologers which **were in all** his kingdom"
+      }
+    }
+  ]
+}

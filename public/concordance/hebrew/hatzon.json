@@ -1,0 +1,31 @@
+{
+  "key": "hatzon",
+  "language": "hebrew",
+  "root": "tzon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הַצֹּאן",
+        "transliteration": "haTzon",
+        "englishLiteral": "the-flock",
+        "englishNatural": "the flock",
+        "root": "tzon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּנְהַג אֶת־ **הַצֹּאן** אַחַר הַמִּדְבָּר",
+        "transliteration": "vaYinhag et- **haTzon** achar haMidbar",
+        "englishLiteral": "and-drove ↳ **the-flock** after the-wilderness",
+        "englishNatural": "and he drove ↳ **the flock** after the wilderness"
+      }
+    }
+  ]
+}

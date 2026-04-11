@@ -1,0 +1,31 @@
+{
+  "key": "beshelli",
+  "language": "hebrew",
+  "root": "be",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "בְשֶׁלִּי",
+        "transliteration": "beshelli",
+        "englishLiteral": "for-sake-my",
+        "englishNatural": "for my sake",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אָנִי כִּי **בְשֶׁלִּי** הַסַּעַר הַגָּדוֹל",
+        "transliteration": "ani ki **beshelli** haSaar haGadol",
+        "englishLiteral": "I that **for-sake-my** the-tempest the-great",
+        "englishNatural": "I that **for my sake** the tempest the great"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "umilu",
+  "language": "hebrew",
+  "root": "male",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וּמִלְא֤וּ",
+        "transliteration": "uMilU",
+        "englishLiteral": "and-fill",
+        "englishNatural": "and fill",
+        "root": "male",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פְּר֣וּ וּרְב֗וּ **וּמִלְא֤וּ** אֶת־ הַמַּ֙יִם֙",
+        "transliteration": "peru uReVu **uMilU** et- haMayim",
+        "englishLiteral": "Be_fruitful and-multiply **and-fill** ↳ the-waters",
+        "englishNatural": "Be-fruitful and multiply **and fill** ↳ the waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וּמִלְא֥וּ",
+        "transliteration": "uMilu",
+        "englishLiteral": "and-fill",
+        "englishNatural": "and fill",
+        "root": "male",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "פְּר֥וּ וּרְב֛וּ **וּמִלְא֥וּ** אֶת־ הָאָ֖רֶץ",
+        "transliteration": "peru uRevu **uMilu** et- haAretz",
+        "englishLiteral": "Be_fruitful and-multiply **and-fill** ↳ the-land",
+        "englishNatural": "Be-fruitful and multiply **and fill** ↳ the land"
+      }
+    }
+  ]
+}

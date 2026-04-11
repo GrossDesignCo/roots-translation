@@ -1,0 +1,32 @@
+{
+  "key": "vesim",
+  "language": "hebrew",
+  "root": "sim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְשִׂים",
+        "transliteration": "veSim",
+        "englishLiteral": "and-place",
+        "englishNatural": "and place",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ שָׂרָף **וְשִׂים** אֹתוֹ עַל",
+        "transliteration": "lekha saraph **veSim** oto al",
+        "englishLiteral": "for-yourself incinerating_one **and-place** it over",
+        "englishNatural": "for yourself an incinerating-one **and place** it over"
+      }
+    }
+  ]
+}

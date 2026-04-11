@@ -1,0 +1,30 @@
+{
+  "root": "rav_noun",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רַב",
+        "transliteration": "rav",
+        "englishLiteral": "chief",
+        "englishNatural": "And the chief",
+        "root": "rav_noun",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקְרַב אֵלָיו **רַב** הַחֹבֵל וַיֹּאמֶר",
+        "transliteration": "vaYiqrav elav **rav** haChovel vaYomer",
+        "englishLiteral": "And-came to-him **chief** the-sailor and-said",
+        "englishNatural": "came to him **And the chief** sailor and said"
+      }
+    }
+  ]
+}

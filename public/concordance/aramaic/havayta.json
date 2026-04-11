@@ -1,0 +1,59 @@
+{
+  "key": "havayta",
+  "language": "aramaic",
+  "root": "hava",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הֲוַיְתָ",
+        "transliteration": "havayta",
+        "englishLiteral": "you-were",
+        "englishNatural": "were",
+        "root": "hava",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "מַלְכָּא חָזֵה **הֲוַיְתָ** וַאֲלוּ צְלֵם",
+        "transliteration": "malka chazeh **havayta** vaAlu tselem",
+        "englishLiteral": "the-king seeing **you-were** and-behold image",
+        "englishNatural": "the king seeing **were** and behold image"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 34
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הֲוַיְתָ",
+        "transliteration": "havayta",
+        "englishLiteral": "you-were",
+        "englishNatural": "You were",
+        "root": "hava",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "חָזֵה **הֲוַיְתָ** עַד דִּי",
+        "transliteration": "chazeh **havayta** ad di",
+        "englishLiteral": "seeing **you-were** until which",
+        "englishNatural": "seeing **You were** until which"
+      }
+    }
+  ]
+}

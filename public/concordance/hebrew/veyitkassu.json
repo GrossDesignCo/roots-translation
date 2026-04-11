@@ -1,0 +1,33 @@
+{
+  "key": "veyitkassu",
+  "language": "hebrew",
+  "root": "kasah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְיִתְכַּסּוּ",
+        "transliteration": "veYitkassu",
+        "englishLiteral": "And-they-will-be-covered",
+        "englishNatural": "And they will be covered",
+        "root": "kasah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "**וְיִתְכַּסּוּ** שַׂק הָאָדָם",
+        "transliteration": "**veYitkassu** saq haAdam",
+        "englishLiteral": "**And-they-will-be-covered** sackcloth the-Earthling (Adam)",
+        "englishNatural": "**And they will be covered** sackcloth the Earthling (Adam)"
+      }
+    }
+  ]
+}

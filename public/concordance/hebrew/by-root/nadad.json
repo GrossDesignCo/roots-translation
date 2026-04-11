@@ -1,0 +1,78 @@
+{
+  "root": "nadad",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 12
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וָנָד",
+        "transliteration": "vanad",
+        "englishLiteral": "and-fugitive",
+        "englishNatural": "and fugitive",
+        "root": "nadad",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לָךְ נָע **וָנָד** תִּהְיֶה בָאָרֶץ",
+        "transliteration": "lakh na **vanad** tihyeh baAretz",
+        "englishLiteral": "to-you wandering **and-fugitive** you-will-be in-land",
+        "englishNatural": "to you wandering **and fugitive** you will be in the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וָנָד",
+        "transliteration": "vanad",
+        "englishLiteral": "and-fugitive",
+        "englishNatural": "and fugitive",
+        "root": "nadad",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיִיתִי נָע **וָנָד** בָּאָרֶץ וְהָיָה",
+        "transliteration": "veHayiti na **vanad** baAretz vehayah",
+        "englishLiteral": "and-I-will-be wandering **and-fugitive** in-land and-it-will-be",
+        "englishNatural": "and I will be wandering **and fugitive** in the land and it will be"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 16
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "נוֹד",
+        "transliteration": "Nod",
+        "englishLiteral": "Wandering",
+        "englishNatural": "of Wandering",
+        "root": "nadad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּשֶׁב בְּאֶרֶץ־ **נוֹד** קִדְמַת־ עֵדֶן",
+        "transliteration": "vayYeshev beEretz- **Nod** qidmat- Eden",
+        "englishLiteral": "and-he-dwelt in-land- **Wandering** east- Delight",
+        "englishNatural": "and dwelt in the land **of Wandering** east of Delight"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "demey",
+  "language": "hebrew",
+  "root": "dam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "דְּמֵי",
+        "transliteration": "demey",
+        "englishLiteral": "blood-of",
+        "englishNatural": "the blood of",
+        "root": "dam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָשִׂיתָ קוֹל **דְּמֵי** אָחִיךָ צֹעֲקִים",
+        "transliteration": "asita qol **demey** achikha tsoaqim",
+        "englishLiteral": "you-did Voice-of **blood-of** your-brother crying_out",
+        "englishNatural": "have you done The voice of **the blood of** your brother is crying-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "דְּמֵי",
+        "transliteration": "demey",
+        "englishLiteral": "blood-of",
+        "englishNatural": "the blood of",
+        "root": "dam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָקַחַת אֶת־ **דְּמֵי** אָחִיךָ מִיָּדֶךָ",
+        "transliteration": "laqachat et- **demey** achikha miYadekha",
+        "englishLiteral": "to-take ↳ **blood-of** your-brother from-your-hand",
+        "englishNatural": "to take ↳ **the blood of** your brother from your hand"
+      }
+    }
+  ]
+}

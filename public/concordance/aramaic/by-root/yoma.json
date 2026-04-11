@@ -1,0 +1,30 @@
+{
+  "root": "yoma",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּבְיוֹמֵיהוֹן",
+        "transliteration": "uBeYomehon",
+        "englishLiteral": "and-in-days-their",
+        "englishNatural": "And in their days",
+        "root": "yoma",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּבְיוֹמֵיהוֹן** דִּי מַלְכַיָּא",
+        "transliteration": "**uBeYomehon** di malkaiya",
+        "englishLiteral": "**and-in-days-their** which kings-the",
+        "englishNatural": "**And in their days** which kings"
+      }
+    }
+  ]
+}

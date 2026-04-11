@@ -1,0 +1,33 @@
+{
+  "key": "teatrehu",
+  "language": "hebrew",
+  "root": "atar_crown",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תְּעַטְּרֵֽהוּ",
+        "transliteration": "teAtrehu",
+        "englishLiteral": "you-will-crown-him",
+        "englishNatural": "you will crown him",
+        "root": "atar_crown",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָב֖וֹד וְהָדָ֣ר **תְּעַטְּרֵֽהוּ**",
+        "transliteration": "veKhavod veHadar **teAtrehu**",
+        "englishLiteral": "and-glory and-honor **you-will-crown-him**",
+        "englishNatural": "and glory and honor **you will crown him**"
+      }
+    }
+  ]
+}

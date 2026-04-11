@@ -1,0 +1,32 @@
+{
+  "root": "shebaq",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "תִשְׁתְּבִק",
+        "transliteration": "tishtebiq",
+        "englishLiteral": "will-be-left",
+        "englishNatural": "it will be-left",
+        "root": "shebaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "ithpeel"
+        }
+      },
+      "context": {
+        "hebrew": "אָחֳרָן לָא **תִשְׁתְּבִק** וְתַדִּק וְתָסֵף",
+        "transliteration": "achoran la **tishtebiq** veTaddiq veTasef",
+        "englishLiteral": "another not **will-be-left** and-she-will-crush and-she-will-consume",
+        "englishNatural": "to another not **it will be-left** and it will crush and consume"
+      }
+    }
+  ]
+}

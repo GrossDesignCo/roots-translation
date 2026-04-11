@@ -1,0 +1,54 @@
+{
+  "root": "kush",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "כּוּשׁ׃",
+        "transliteration": "Kush",
+        "englishLiteral": "Black (Kush)",
+        "englishNatural": "Black (Kush)",
+        "root": "kush",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ אֶרֶץ **כּוּשׁ׃**",
+        "transliteration": "kol- eretz **Kush**",
+        "englishLiteral": "all- land **Black (Kush)**",
+        "englishNatural": "all the land of **Black (Kush)**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְכוּשׁ",
+        "transliteration": "veKhush",
+        "englishLiteral": "And-Black (Kush)",
+        "englishNatural": "And Black (Kush)",
+        "root": "kush",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְכוּשׁ** יָלַד אֶת־",
+        "transliteration": "**veKhush** yalad et-",
+        "englishLiteral": "**And-Black (Kush)** he-birthed ↳",
+        "englishNatural": "**And Black (Kush)** birthed ↳"
+      }
+    }
+  ]
+}

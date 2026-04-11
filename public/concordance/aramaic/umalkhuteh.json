@@ -1,0 +1,31 @@
+{
+  "key": "umalkhuteh",
+  "language": "aramaic",
+  "root": "malkhut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וּמַלְכוּתֵ֖הּ",
+        "transliteration": "uMalkhuteh",
+        "englishLiteral": "and-kingdom-His",
+        "englishNatural": "and His kingdom",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָ֣א יֶעְדֵּ֔ה **וּמַלְכוּתֵ֖הּ** דִּי־ לָ֥א",
+        "transliteration": "la yeddeh **uMalkhuteh** di- la",
+        "englishLiteral": "not pass-away **and-kingdom-His** which- not",
+        "englishNatural": "not will pass away **and His kingdom** which not"
+      }
+    }
+  ]
+}

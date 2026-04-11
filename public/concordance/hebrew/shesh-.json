@@ -1,0 +1,31 @@
+{
+  "key": "shesh-",
+  "language": "hebrew",
+  "root": "shesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "שֵׁשׁ־",
+        "transliteration": "shesh-",
+        "englishLiteral": "six-",
+        "englishNatural": "six",
+        "root": "shesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "בִּשְׁנַת **שֵׁשׁ־** מֵאוֹת שָׁנָה",
+        "transliteration": "biShnat **shesh-** meot shanah",
+        "englishLiteral": "In-year-of **six-** hundreds year",
+        "englishNatural": "In the year of **six** hundred years"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "yehodun",
+  "language": "aramaic",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "יְהוֹדְעוּן",
+        "transliteration": "yehodun",
+        "englishLiteral": "they-will-make-known",
+        "englishNatural": "might be made known",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "haphel"
+        }
+      },
+      "context": {
+        "hebrew": "פִּשְׁרָא לְמַלְכָּא **יְהוֹדְעוּן** וְרַעְיוֹנֵי לִבְבָךְ",
+        "transliteration": "pishra leMalka **yehodun** veRaayonei levavakh",
+        "englishLiteral": "interpretation-the to-king-the **they-will-make-known** and-thoughts-of heart-your",
+        "englishNatural": "the interpretation to the king **might be made known** and the thoughts of your heart"
+      }
+    }
+  ]
+}

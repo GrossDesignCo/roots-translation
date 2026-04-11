@@ -1,0 +1,31 @@
+{
+  "key": "hahoshekh",
+  "language": "hebrew",
+  "root": "choshekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הַחֹ֑שֶׁךְ",
+        "transliteration": "haHoshekh",
+        "englishLiteral": "the-darkness",
+        "englishNatural": "the darkness",
+        "root": "choshekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָא֖וֹר וּבֵ֣ין **הַחֹ֑שֶׁךְ** וַיַּ֧רְא אֱלֹהִ֖ים",
+        "transliteration": "haOr uBeyn **haHoshekh** vaYar Elohim",
+        "englishLiteral": "the-light and-between **the-darkness** And-saw Gods",
+        "englishNatural": "the light and between **the darkness** saw And God"
+      }
+    }
+  ]
+}

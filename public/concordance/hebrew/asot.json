@@ -1,0 +1,33 @@
+{
+  "key": "asot",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "עֲשׂוֹת",
+        "transliteration": "asot",
+        "englishLiteral": "making",
+        "englishNatural": "made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּהִבָּרְאָם בְּיוֹם **עֲשׂוֹת** יְהוָה אֱלֹהִים",
+        "transliteration": "beHibaram beYom **asot** YHWH Elohim",
+        "englishLiteral": "in-being-created-them in-day **making** He_Who_Is (YHWH) Gods",
+        "englishNatural": "in their being created in the day **made** He-Who-Is (YHWH) God"
+      }
+    }
+  ]
+}

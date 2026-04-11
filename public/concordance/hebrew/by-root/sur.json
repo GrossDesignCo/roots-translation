@@ -1,0 +1,136 @@
+{
+  "root": "sur",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אָסֻרָה־",
+        "transliteration": "asurah-",
+        "englishLiteral": "I-will-turn_aside-",
+        "englishNatural": "I will turn-aside",
+        "root": "sur",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר מֹשֶׁה **אָסֻרָה־** נָּא וְאֶרְאֶה",
+        "transliteration": "vaYomer Moshe **asurah-** nah veEreh",
+        "englishLiteral": "And-said Drawn_Out (Moses) **I-will-turn_aside-** please and-will-see",
+        "englishNatural": "said And Drawn-Out (Moses) **I will turn-aside** please and see"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "סָר",
+        "transliteration": "sar",
+        "englishLiteral": "turned_aside",
+        "englishNatural": "he had turned-aside",
+        "root": "sur",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה כִּי **סָר** לִרְאוֹת וַיִּקְרָא",
+        "transliteration": "YHWH ki **sar** lirot vaYiqra",
+        "englishLiteral": "He_Who_Is (YHWH) that **turned_aside** to-see and-he-called",
+        "englishNatural": "And He-Who-Is (YHWH) that **he had turned-aside** to see called"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְיָסֵר",
+        "transliteration": "veYaSer",
+        "englishLiteral": "and-may-he-turn_aside",
+        "englishNatural": "and may he turn-aside",
+        "root": "sur",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל יְהוָה **וְיָסֵר** מֵעָלֵינוּ אֶת",
+        "transliteration": "el YHWH **veYaSer** meAleinu et",
+        "englishLiteral": "to He_Who_Is (YHWH) **and-may-he-turn_aside** from-over-us ↳",
+        "englishNatural": "to He-Who-Is (YHWH) **and may he turn-aside** from over us ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְסָ֥ר",
+        "transliteration": "veSar",
+        "englishLiteral": "and-turning_aside",
+        "englishNatural": "and turning-aside",
+        "root": "sur",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וִירֵ֥א אֱלֹהִ֖ים **וְסָ֥ר** מֵרָֽע",
+        "transliteration": "viYere Elohim **veSar** meRa",
+        "englishLiteral": "and-fearing Gods **and-turning_aside** from-bad",
+        "englishNatural": "and fearing God **and turning-aside** from bad"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וְסָר",
+        "transliteration": "veSar",
+        "englishLiteral": "and-turned_aside",
+        "englishNatural": "and turned-aside",
+        "root": "sur",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ שְׂפָתֶיךָ **וְסָר** עֲוֹנֶךָ וְחַטָּאתְךָ",
+        "transliteration": "al- sfatekha **veSar** avonekha veChatatkha",
+        "englishLiteral": "over- your-lips **and-turned_aside** your-twisting and-your-sin",
+        "englishNatural": "over your lips **and turned-aside** your twisting and your sin"
+      }
+    }
+  ]
+}

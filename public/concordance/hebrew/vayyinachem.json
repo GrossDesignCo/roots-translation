@@ -1,0 +1,33 @@
+{
+  "key": "vayyinachem",
+  "language": "hebrew",
+  "root": "nacham",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּנָּחֶם",
+        "transliteration": "vayYinachem",
+        "englishLiteral": "And-he-relented",
+        "englishNatural": "relented",
+        "root": "nacham",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּנָּחֶם** יְהוָה כִּי־",
+        "transliteration": "**vayYinachem** YHWH ki-",
+        "englishLiteral": "**And-he-relented** He_Who_Is (YHWH) that-",
+        "englishNatural": "**relented** And He-Who-Is (YHWH) that"
+      }
+    }
+  ]
+}

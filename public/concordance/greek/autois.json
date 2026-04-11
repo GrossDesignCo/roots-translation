@@ -1,0 +1,31 @@
+{
+  "key": "autois",
+  "language": "greek",
+  "root": "autos",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "αὐτοῖς",
+        "transliteration": "autois",
+        "englishLiteral": "to-them",
+        "englishNatural": "to them",
+        "root": "autos",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "εἶπεν **αὐτοῖς** Ἰησοῦς ἀμὴν",
+        "transliteration": "eipen **autois** Iēsous amēn",
+        "englishLiteral": "said **to-them** Salvation (Jesus) Amen",
+        "englishNatural": "said **to them** Salvation (Jesus) Amen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "choverot",
+  "language": "hebrew",
+  "root": "chavar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "חֹבְרֹת",
+        "transliteration": "choverot",
+        "englishLiteral": "joining",
+        "englishNatural": "Joining",
+        "root": "chavar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**חֹבְרֹת** אִשָּׁה אֶל־",
+        "transliteration": "**choverot** ishah el-",
+        "englishLiteral": "**joining** woman to-",
+        "englishNatural": "**Joining** woman to"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "חֹבְרוֹת",
+        "transliteration": "choverot",
+        "englishLiteral": "joining",
+        "englishNatural": "joining",
+        "root": "chavar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְאִישׁ שְׁתַּיִם **חֹבְרוֹת** אִישׁ וּשְׁתַּיִם",
+        "transliteration": "leIsh shtayim **choverot** ish uShtayim",
+        "englishLiteral": "to-man two **joining** man and-two",
+        "englishNatural": "to man two **joining** man and two"
+      }
+    }
+  ]
+}

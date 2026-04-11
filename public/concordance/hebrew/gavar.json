@@ -1,0 +1,33 @@
+{
+  "key": "gavar",
+  "language": "hebrew",
+  "root": "gadol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "גָבַר",
+        "transliteration": "gavar",
+        "englishLiteral": "is-great",
+        "englishNatural": "great",
+        "root": "gadol",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי **גָבַר** עָלֵינוּ חַסְדּוֹ",
+        "transliteration": "ki **gavar** aleinu chasdo",
+        "englishLiteral": "That **is-great** toward-us his-steadfast_love",
+        "englishNatural": "That **great** toward us his steadfast-love"
+      }
+    }
+  ]
+}

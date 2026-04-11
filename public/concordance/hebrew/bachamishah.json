@@ -1,0 +1,55 @@
+{
+  "key": "bachamishah",
+  "language": "hebrew",
+  "root": "chamesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בַּחֲמִשָּׁה",
+        "transliteration": "baChamishah",
+        "englishLiteral": "in-five",
+        "englishNatural": "in the five",
+        "root": "chamesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה בָּרְבִיעִי **בַּחֲמִשָּׁה** לַחֹדֶשׁ וַאֲנִי",
+        "transliteration": "shanah baRevii **baChamishah** laChodes vaAni",
+        "englishLiteral": "year in-fourth **in-five** to-the-month and-I",
+        "englishNatural": "in year in the fourth **in the five** to the month and I"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בַּחֲמִשָּׁה",
+        "transliteration": "baChamishah",
+        "englishLiteral": "In-the-five",
+        "englishNatural": "In the five",
+        "root": "chamesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "**בַּחֲמִשָּׁה** לַחֹדֶשׁ הִיא",
+        "transliteration": "**baChamishah** laChodes hi",
+        "englishLiteral": "**In-the-five** to-the-month it",
+        "englishNatural": "**In the five** to the month it-was"
+      }
+    }
+  ]
+}

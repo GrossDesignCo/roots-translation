@@ -1,0 +1,58 @@
+{
+  "root": "tsaaq",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "צֹעֲקִים",
+        "transliteration": "tsoaqim",
+        "englishLiteral": "crying_out",
+        "englishNatural": "is crying-out",
+        "root": "tsaaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "דְּמֵי אָחִיךָ **צֹעֲקִים** אֵלַי מִן־",
+        "transliteration": "demey achikha **tsoaqim** elay min-",
+        "englishLiteral": "blood-of your-brother **crying_out** to-me from-",
+        "englishNatural": "the blood of your brother **is crying-out** to me from"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וַיִּזְעֲקוּ",
+        "transliteration": "vaYizaqu",
+        "englishLiteral": "and-cried_out",
+        "englishNatural": "and cried-out",
+        "root": "tsaaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּירְאוּ הַמַּלָּחִים **וַיִּזְעֲקוּ** אִישׁ אֶל־",
+        "transliteration": "vaYirau haMallachim **vaYizaqu** ish el-",
+        "englishLiteral": "And-feared the-sailors **and-cried_out** man to-",
+        "englishNatural": "feared And the sailors **and cried-out** man to"
+      }
+    }
+  ]
+}

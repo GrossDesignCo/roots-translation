@@ -1,0 +1,33 @@
+{
+  "key": "yeddeh",
+  "language": "aramaic",
+  "root": "adah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "יֶעְדֵּ֔ה",
+        "transliteration": "yeddeh",
+        "englishLiteral": "pass-away",
+        "englishNatural": "will pass away",
+        "root": "adah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "דִּֽי־ לָ֣א **יֶעְדֵּ֔ה** וּמַלְכוּתֵ֖הּ דִּי־",
+        "transliteration": "di- la **yeddeh** uMalkhuteh di-",
+        "englishLiteral": "which- not **pass-away** and-kingdom-His which-",
+        "englishNatural": "which not **will pass away** and His kingdom which"
+      }
+    }
+  ]
+}

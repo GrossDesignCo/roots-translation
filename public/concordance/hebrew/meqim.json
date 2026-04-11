@@ -1,0 +1,33 @@
+{
+  "key": "meqim",
+  "language": "hebrew",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מֵקִים",
+        "transliteration": "meqim",
+        "englishLiteral": "causing-to-stand_up",
+        "englishNatural": "causing to stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲנִי הִנְנִי **מֵקִים** אֶת־ בְּרִיתִי",
+        "transliteration": "vaAni hineni **meqim** et- beriti",
+        "englishLiteral": "And-I behold-me **causing-to-stand_up** ↳ my-covenant",
+        "englishNatural": "And I behold me **causing to stand-up** ↳ my covenant"
+      }
+    }
+  ]
+}

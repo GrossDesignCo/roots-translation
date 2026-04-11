@@ -1,0 +1,31 @@
+{
+  "key": "maakhal",
+  "language": "hebrew",
+  "root": "okhel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 21
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מַאֲכָל",
+        "transliteration": "maakhal",
+        "englishLiteral": "food",
+        "englishNatural": "food",
+        "root": "okhel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ מִכָּל־ **מַאֲכָל** אֲשֶׁר יֵאָכֵל",
+        "transliteration": "lekha mikol- **maakhal** asher yeAkhel",
+        "englishLiteral": "to-you from-all- **food** which it-is-eaten",
+        "englishNatural": "to yourself from all **food** which is eaten"
+      }
+    }
+  ]
+}

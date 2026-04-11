@@ -1,0 +1,54 @@
+{
+  "root": "pum",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "בְּפֻמַּ֖הּ",
+        "transliteration": "bePummah",
+        "englishLiteral": "in-mouth-its",
+        "englishNatural": "in its mouth",
+        "root": "pum",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּתְלָ֥ת עִלְעִ֛ין **בְּפֻמַּ֖הּ** בֵּ֣ין שניה",
+        "transliteration": "uTelat ilin **bePummah** beyn shinnah",
+        "englishLiteral": "and-three ribs **in-mouth-its** between teeth-its",
+        "englishNatural": "and three ribs **in its mouth** between its teeth"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "וּפֻ֖ם",
+        "transliteration": "uPum",
+        "englishLiteral": "and-mouth",
+        "englishNatural": "and a mouth",
+        "root": "pum",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּקַרְנָא־ דָ֔א **וּפֻ֖ם** מְמַלִּ֥ל רַבְרְבָֽן",
+        "transliteration": "beQarna- da **uPum** memallil ravrevan",
+        "englishLiteral": "in-horn- this **and-mouth** speaking great_things",
+        "englishNatural": "horn in this **and a mouth** speaking great-things"
+      }
+    }
+  ]
+}

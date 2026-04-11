@@ -1,0 +1,55 @@
+{
+  "key": "umitokah",
+  "language": "hebrew",
+  "root": "tokh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וּמִתּוֹכָהּ",
+        "transliteration": "uMitokah",
+        "englishLiteral": "and-from-midst-its",
+        "englishNatural": "and from its midst",
+        "root": "tokh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לוֹ סָבִיב **וּמִתּוֹכָהּ** כְּעֵין הַחַשְׁמַל",
+        "transliteration": "lo saviv **uMitokah** keEin haChashmal",
+        "englishLiteral": "to-it all_around **and-from-midst-its** like-eye-of the-glowing_metal",
+        "englishNatural": "to it all-around **and from its midst** like an eye of the glowing-metal"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּמִתּוֹכָהּ",
+        "transliteration": "uMitokah",
+        "englishLiteral": "And-from-midst-its",
+        "englishNatural": "And from its midst",
+        "root": "tokh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּמִתּוֹכָהּ** דְּמוּת אַרְבַּע",
+        "transliteration": "**uMitokah** demut arba",
+        "englishLiteral": "**And-from-midst-its** likeness-of four",
+        "englishNatural": "**And from its midst** a likeness of four"
+      }
+    }
+  ]
+}

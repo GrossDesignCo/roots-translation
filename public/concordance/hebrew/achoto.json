@@ -1,0 +1,31 @@
+{
+  "key": "achoto",
+  "language": "hebrew",
+  "root": "achot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אֲחֹתוֹ",
+        "transliteration": "achoto",
+        "englishLiteral": "sister-his",
+        "englishNatural": "And his sister",
+        "root": "achot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֵּתַצַּב **אֲחֹתוֹ** מֵרָחֹק לְדֵעָה",
+        "transliteration": "vaTetatzav **achoto** meRachok leDeah",
+        "englishLiteral": "And-positioned-herself **sister-his** from-distance to-know",
+        "englishNatural": "positioned-herself **And his sister** from a distance to know"
+      }
+    }
+  ]
+}

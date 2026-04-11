@@ -1,0 +1,32 @@
+{
+  "root": "radaf",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "יִרְדְּפוּנִי",
+        "transliteration": "yirdefuni",
+        "englishLiteral": "they-will-pursue-me",
+        "englishNatural": "will pursue me",
+        "root": "radaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "טוֹב וָחֶסֶד **יִרְדְּפוּנִי** כָּל־ יְמֵי",
+        "transliteration": "tov vaChesed **yirdefuni** kol- yemei",
+        "englishLiteral": "good and-steadfast_love **they-will-pursue-me** all- days-of",
+        "englishNatural": "good and steadfast-love **will pursue me** all the days of"
+      }
+    }
+  ]
+}

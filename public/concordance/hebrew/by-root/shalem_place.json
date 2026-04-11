@@ -1,0 +1,30 @@
+{
+  "root": "shalem_place",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שָׁלֵם",
+        "transliteration": "Shalem",
+        "englishLiteral": "Peace (Salem)",
+        "englishNatural": "Peace (Salem)",
+        "root": "shalem_place",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צֶדֶק מֶלֶךְ **שָׁלֵם** הוֹצִיא לֶחֶם",
+        "transliteration": "Tzedeq melekh **Shalem** hotzi lechem",
+        "englishLiteral": "Righteousness (Melchizedek) king-of **Peace (Salem)** he-brought-out bread",
+        "englishNatural": "Righteousness (Melchizedek) king of **Peace (Salem)** brought out bread"
+      }
+    }
+  ]
+}

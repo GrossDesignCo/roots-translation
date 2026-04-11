@@ -1,0 +1,102 @@
+{
+  "root": "qevel",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "לְקָבְלָךְ",
+        "transliteration": "leQovlakh",
+        "englishLiteral": "before-you",
+        "englishNatural": "before you",
+        "root": "qevel",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יַתִּיר קָאֵם **לְקָבְלָךְ** וְרֵוֵהּ דְּחִיל",
+        "transliteration": "yattir qaem **leQovlakh** veReveh dechil",
+        "englishLiteral": "surpassing standing_up **before-you** and-appearance-its fearsome",
+        "englishNatural": "surpassing standing-up **before you** and its appearance fearsome"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "קֳבֵל",
+        "transliteration": "qevel",
+        "englishLiteral": "because",
+        "englishNatural": "because",
+        "root": "qevel",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כְּפַרְזְלָא כָּל **קֳבֵל** דִּי פַרְזְלָא",
+        "transliteration": "keParzela kol **qevel** di parzela",
+        "englishLiteral": "like-iron-the all **because** which iron-the",
+        "englishNatural": "like the iron all **because** which the iron"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "קֳבֵל",
+        "transliteration": "qevel",
+        "englishLiteral": "because",
+        "englishNatural": "because",
+        "root": "qevel",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בַּהּ כָּל **קֳבֵל** דִּי חֲזַיְתָ",
+        "transliteration": "vah kol **qevel** di chazayta",
+        "englishLiteral": "in-it all **because** which you-saw",
+        "englishNatural": "in it all **because** which you saw"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "קֳבֵל",
+        "transliteration": "qevel",
+        "englishLiteral": "because",
+        "englishNatural": "because",
+        "root": "qevel",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ **קֳבֵל** דִּי חֲזַיְתָ",
+        "transliteration": "kol- **qevel** di chazayta",
+        "englishLiteral": "all- **because** which you-saw",
+        "englishNatural": "All **because** which you saw"
+      }
+    }
+  ]
+}

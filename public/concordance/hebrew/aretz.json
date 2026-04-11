@@ -1,0 +1,55 @@
+{
+  "key": "aretz",
+  "language": "hebrew",
+  "root": "eretz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 23
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אָרֶץ",
+        "transliteration": "aretz",
+        "englishLiteral": "land",
+        "englishNatural": "land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵרֹאשׁ מִקַּדְמֵי־ **אָרֶץ**",
+        "transliteration": "meRosh miQadmei **aretz**",
+        "englishLiteral": "from-heading from-east-of **land**",
+        "englishNatural": "from the heading from the-east of **land**"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 29
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אָרֶץ",
+        "transliteration": "aretz",
+        "englishLiteral": "land",
+        "englishNatural": "land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּחוּקוֹ מוֹסְדֵי **אָרֶץ**",
+        "transliteration": "beChuqo mosdei **aretz**",
+        "englishLiteral": "in-inscribing-his foundations-of **land**",
+        "englishNatural": "in his inscribing the foundations of **land**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "leechad",
+  "language": "hebrew",
+  "root": "echad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לְאֶחָד",
+        "transliteration": "leEchad",
+        "englishLiteral": "to-one",
+        "englishNatural": "to each one",
+        "root": "echad",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁשׁ כְּנָפַיִם **לְאֶחָד** בִּשְׁתַּיִם יְכַסֶּה",
+        "transliteration": "shesh kenafayim **leEchad** biShtayim yeKhasseh",
+        "englishLiteral": "six wings **to-one** in-two he-covers",
+        "englishNatural": "six wings **to each one** in two he covers"
+      }
+    }
+  ]
+}

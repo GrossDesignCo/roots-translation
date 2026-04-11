@@ -1,0 +1,57 @@
+{
+  "key": "boske",
+  "language": "greek",
+  "root": "bosko",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 26,
+      "word": {
+        "originalScript": "βόσκε",
+        "transliteration": "boske",
+        "englishLiteral": "Feed",
+        "englishNatural": "Feed",
+        "root": "bosko",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "λέγει αὐτῷ **βόσκε** τὰ ἀρνία",
+        "transliteration": "legei autō **boske** ta arnia",
+        "englishLiteral": "He-says to-him **Feed** the lambs",
+        "englishNatural": "He says to him **Feed** these lambs"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 32,
+      "word": {
+        "originalScript": "βόσκε",
+        "transliteration": "boske",
+        "englishLiteral": "Feed",
+        "englishNatural": "Feed",
+        "root": "bosko",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "λέγει αὐτῷ **βόσκε** τὰ πρόβατά",
+        "transliteration": "legei autō **boske** ta probata",
+        "englishLiteral": "He-says to-him **Feed** these sheep",
+        "englishNatural": "He says to him **Feed** these sheep"
+      }
+    }
+  ]
+}

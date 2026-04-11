@@ -1,0 +1,58 @@
+{
+  "root": "natzal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְהִצַּלְתִּי",
+        "transliteration": "veHitzalti",
+        "englishLiteral": "and-I-will-deliver",
+        "englishNatural": "and I will deliver",
+        "root": "natzal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "סִבְלֹת מִצְרַיִם **וְהִצַּלְתִּי** אֶתְכֶם מֵעֲבֹדָתָם",
+        "transliteration": "sivlot Mitzrayim **veHitzalti** etkhem meAvodatam",
+        "englishLiteral": "burdens-of Double_Narrows (Egypt) **and-I-will-deliver** ↳you from-service-their",
+        "englishNatural": "the burdens of Double-Narrows (Egypt) **and I will deliver** you from their service"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לְהַצִּיל",
+        "transliteration": "lehatzil",
+        "englishLiteral": "to-deliver",
+        "englishNatural": "to deliver",
+        "root": "natzal",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ רֹאשׁוֹ **לְהַצִּיל** לוֹ מֵרָעָתוֹ",
+        "transliteration": "al- rosho **lehatzil** lo meRaato",
+        "englishLiteral": "over- head-his **to-deliver** to-him from-bad-his",
+        "englishNatural": "over his head **to deliver** to him from his bad"
+      }
+    }
+  ]
+}

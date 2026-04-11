@@ -1,0 +1,31 @@
+{
+  "key": "saar-",
+  "language": "hebrew",
+  "root": "saar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "סַעַר־",
+        "transliteration": "saar-",
+        "englishLiteral": "tempest-",
+        "englishNatural": "tempest",
+        "root": "saar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיָּם וַיְהִי **סַעַר־** גָּדוֹל בַּיָּם",
+        "transliteration": "haYam vaYehi **saar-** gadol baYam",
+        "englishLiteral": "the-sea and-was **tempest-** great in-sea",
+        "englishNatural": "the sea and there was **tempest** a great in the sea"
+      }
+    }
+  ]
+}

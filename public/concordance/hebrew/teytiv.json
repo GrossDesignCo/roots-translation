@@ -1,0 +1,59 @@
+{
+  "key": "teytiv",
+  "language": "hebrew",
+  "root": "yatav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "תֵּיטִיב",
+        "transliteration": "teytiv",
+        "englishLiteral": "you-do_well",
+        "englishNatural": "you do-well",
+        "root": "yatav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַהֲלוֹא אִם־ **תֵּיטִיב** שְׂאֵת וְאִם",
+        "transliteration": "vaHaLo im- **teytiv** set veim",
+        "englishLiteral": "And-is_there_not if- **you-do_well** lifting_up And-if",
+        "englishNatural": "And is there not if **you do-well** lifting-up And if"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "תֵיטִיב",
+        "transliteration": "teytiv",
+        "englishLiteral": "you-do_well",
+        "englishNatural": "you do-well",
+        "root": "yatav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וְאִם לֹא **תֵיטִיב** לַפֶּתַח חַטָּאת",
+        "transliteration": "veim lo **teytiv** laPetach chatat",
+        "englishLiteral": "And-if not **you-do_well** to-opening sin",
+        "englishNatural": "And if not **you do-well** to the opening sin"
+      }
+    }
+  ]
+}

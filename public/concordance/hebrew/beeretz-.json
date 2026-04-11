@@ -1,0 +1,55 @@
+{
+  "key": "beeretz-",
+  "language": "hebrew",
+  "root": "eretz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בְּאֶרֶץ־",
+        "transliteration": "beEretz-",
+        "englishLiteral": "in-land-",
+        "englishNatural": "in the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה וַיֵּשֶׁב **בְּאֶרֶץ־** נוֹד קִדְמַת־",
+        "transliteration": "YHWH vayYeshev **beEretz-** Nod qidmat-",
+        "englishLiteral": "He_Who_Is (YHWH) and-he-dwelt **in-land-** Wandering east-",
+        "englishNatural": "He-Who-Is (YHWH) and dwelt **in the land** of Wandering east"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בְאֶֽרֶץ־",
+        "transliteration": "beEretz-",
+        "englishLiteral": "in-land-",
+        "englishNatural": "in the land of",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִ֛ישׁ הָיָ֥ה **בְאֶֽרֶץ־** ע֖וּץ אִיּ֣וֹב",
+        "transliteration": "ish hayah **beEretz-** Uts Iyov",
+        "englishLiteral": "man was **in-land-** Counsel (Uz) Persecuted (Job)",
+        "englishNatural": "A man there was **in the land of** Counsel (Uz) Persecuted (Job)"
+      }
+    }
+  ]
+}

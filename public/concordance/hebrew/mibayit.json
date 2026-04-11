@@ -1,0 +1,31 @@
+{
+  "key": "mibayit",
+  "language": "hebrew",
+  "root": "bayit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 14
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מִבַּיִת",
+        "transliteration": "miBayit",
+        "englishLiteral": "from-house",
+        "englishNatural": "from inside",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָפַרְתָּ אֹתָהּ **מִבַּיִת** וּמִחוּץ בַּכֹּפֶר",
+        "transliteration": "veKhafarta otah **miBayit** uMichutz baKofer",
+        "englishLiteral": "and-you-shall-cover her **from-house** and-from-outside with-the-covering",
+        "englishNatural": "and you shall cover it **from inside** and from outside with the covering"
+      }
+    }
+  ]
+}

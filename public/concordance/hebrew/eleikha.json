@@ -1,0 +1,55 @@
+{
+  "key": "eleikha",
+  "language": "hebrew",
+  "root": "el",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 20
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אֵלֶיךָ",
+        "transliteration": "eleikha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "מִכֹּל יָבֹאוּ **אֵלֶיךָ** לְהַחֲיוֹת",
+        "transliteration": "mikol yavou **eleikha** leHachayot",
+        "englishLiteral": "from-all they-will-come **to-you** to-keep_alive",
+        "englishNatural": "from all they will come **to you** to keep-alive"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 21
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אֵלֶיךָ",
+        "transliteration": "eleikha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יֵאָכֵל וְאָסַפְתָּ **אֵלֶיךָ** וְהָיָה לְךָ",
+        "transliteration": "yeAkhel veAsafta **eleikha** veHayah lekha",
+        "englishLiteral": "it-is-eaten and-you-shall-gather **to-you** and-it-will-be to-you",
+        "englishNatural": "is eaten and you shall gather **to you** and it will be for you"
+      }
+    }
+  ]
+}

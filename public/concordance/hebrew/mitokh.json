@@ -1,0 +1,79 @@
+{
+  "key": "mitokh",
+  "language": "hebrew",
+  "root": "tokh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מִתּוֹךְ",
+        "transliteration": "miTokh",
+        "englishLiteral": "from-midst-of",
+        "englishNatural": "from the midst of",
+        "root": "tavekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּלַבַּת־ אֵשׁ **מִתּוֹךְ** הַסְּנֶה וַיַּרְא",
+        "transliteration": "beLabbat- esh **miTokh** haSeneh vaYar",
+        "englishLiteral": "in-flame-of fire **from-midst-of** the-thornbush and-saw",
+        "englishNatural": "in a flame of fire **from the midst of** the thornbush and he saw"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "מִתּוֹךְ",
+        "transliteration": "miTokh",
+        "englishLiteral": "from-midst-of",
+        "englishNatural": "from the midst of",
+        "root": "tavekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלָיו אֱלֹהִים **מִתּוֹךְ** הַסְּנֶה וַיֹּאמֶר",
+        "transliteration": "elav Elohim **miTokh** haSeneh vaYomer",
+        "englishLiteral": "to-him Gods **from-midst-of** the-thornbush and-said",
+        "englishNatural": "to him and God **from the midst of** the thornbush and said"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "מִתּוֹךְ",
+        "transliteration": "mitokh",
+        "englishLiteral": "from-midst-of",
+        "englishNatural": "from the midst of",
+        "root": "tokh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּעֵין הַחַשְׁמַל **מִתּוֹךְ** הָאֵשׁ",
+        "transliteration": "keEin haChashmal **mitokh** haEsh",
+        "englishLiteral": "like-eye-of the-glowing_metal **from-midst-of** the-fire",
+        "englishNatural": "like an eye of the glowing-metal **from the midst of** the fire"
+      }
+    }
+  ]
+}

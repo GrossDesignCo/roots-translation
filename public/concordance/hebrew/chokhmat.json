@@ -1,0 +1,31 @@
+{
+  "key": "chokhmat",
+  "language": "hebrew",
+  "root": "chokmah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "חָכְמַת",
+        "transliteration": "chokhmat",
+        "englishLiteral": "wisdom-of",
+        "englishNatural": "the wisdom of",
+        "root": "chokmah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְכָל־ דְּבַר **חָכְמַת** בִּינָה אֲשֶׁר־",
+        "transliteration": "uVeKol- devar **chokhmat** binah asher-",
+        "englishLiteral": "and-in-all- matter-of **wisdom-of** understanding which-",
+        "englishNatural": "And in all the matters of **the wisdom of** understanding which"
+      }
+    }
+  ]
+}

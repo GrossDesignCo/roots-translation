@@ -1,0 +1,31 @@
+{
+  "key": "avoni",
+  "language": "hebrew",
+  "root": "avon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עֲוֹנִי",
+        "transliteration": "avoni",
+        "englishLiteral": "my-twisting",
+        "englishNatural": "is my twisting",
+        "root": "avon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה גָּדוֹל **עֲוֹנִי** מִנְּשֹׂא",
+        "transliteration": "YHWH gadol **avoni** minso",
+        "englishLiteral": "He_Who_Is (YHWH) Great **my-twisting** from-lifting_up",
+        "englishNatural": "He-Who-Is (YHWH) Great **is my twisting** from lifting-up"
+      }
+    }
+  ]
+}

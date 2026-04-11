@@ -1,0 +1,31 @@
+{
+  "key": "tzippor",
+  "language": "hebrew",
+  "root": "tzippor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "צִפּוֹר",
+        "transliteration": "tzippor",
+        "englishLiteral": "bird",
+        "englishNatural": "bird",
+        "root": "tzippor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִינֵהוּ כֹּל **צִפּוֹר** כָּל־ כָּנָף",
+        "transliteration": "leMinehu kol **tzippor** kol- kanaph",
+        "englishLiteral": "to-kind-his all **bird** all- wing",
+        "englishNatural": "to its kind all **bird** all wing"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "mipri",
+  "language": "hebrew",
+  "root": "pri",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מִפְּרִי",
+        "transliteration": "miPri",
+        "englishLiteral": "from-fruit-of",
+        "englishNatural": "From the fruit of",
+        "root": "pri",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַנָּחָשׁ **מִפְּרִי** עֵץ־ הַגָּן",
+        "transliteration": "el- haNachash **miPri** etz- haGan",
+        "englishLiteral": "to the-snake **from-fruit-of** tree the-garden",
+        "englishNatural": "to the snake **From the fruit of** the tree of the garden"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מִפְּרִי",
+        "transliteration": "miPri",
+        "englishLiteral": "From-fruit-of",
+        "englishNatural": "From the fruit of",
+        "root": "pri",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּאמֶר הָאִשָּׁה **מִפְּרִי** הָעֵץ אֲשֶׁר",
+        "transliteration": "vaTomar haIshah **miPri** haEtz asher",
+        "englishLiteral": "And-said the-woman **From-fruit-of** the-tree which",
+        "englishNatural": "said And the woman **From the fruit of** the tree which"
+      }
+    }
+  ]
+}

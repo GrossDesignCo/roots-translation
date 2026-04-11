@@ -1,0 +1,31 @@
+{
+  "key": "kekhaf",
+  "language": "hebrew",
+  "root": "kaph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "כְּכַף",
+        "transliteration": "keKhaf",
+        "englishLiteral": "like-palm-of",
+        "englishNatural": "like the palm of",
+        "root": "kaph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכַף רַגְלֵיהֶם **כְּכַף** רֶגֶל עֵגֶל",
+        "transliteration": "veKhaf ragleihem **keKhaf** regel egel",
+        "englishLiteral": "and-palm-of legs-their **like-palm-of** leg-of calf",
+        "englishNatural": "and the palm of their legs **like the palm of** the leg of a calf"
+      }
+    }
+  ]
+}

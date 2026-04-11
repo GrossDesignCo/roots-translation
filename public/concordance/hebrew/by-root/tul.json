@@ -1,0 +1,110 @@
+{
+  "root": "tul",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הֵטִיל",
+        "transliteration": "hetil",
+        "englishLiteral": "hurled",
+        "englishNatural": "hurled",
+        "root": "tul",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַיהוָה **הֵטִיל** רוּחַ־ גְּדוֹלָה",
+        "transliteration": "vaYHWH **hetil** ruach- gedolah",
+        "englishLiteral": "And-He_Who_Is (YHWH) **hurled** wind- great",
+        "englishNatural": "And He-Who-Is (YHWH) **hurled** wind a great"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיָּטִלוּ",
+        "transliteration": "vaYatilu",
+        "englishLiteral": "and-hurled",
+        "englishNatural": "and hurled",
+        "root": "tul",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ אֱלֹהָיו **וַיָּטִלוּ** אֶת־ הַכֵּלִים",
+        "transliteration": "el- elohav **vaYatilu** et- haKelim",
+        "englishLiteral": "to- gods-his **and-hurled** ↳ the-vessels",
+        "englishNatural": "to his god **and hurled** ↳ the vessels"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַהֲטִילֻנִי",
+        "transliteration": "vahatiluni",
+        "englishLiteral": "and-hurl-me",
+        "englishNatural": "and hurl me",
+        "root": "tul",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֲלֵיהֶם שָׂאוּנִי **וַהֲטִילֻנִי** אֶל־ הַיָּם",
+        "transliteration": "alehem sauni **vahatiluni** el- haYam",
+        "englishLiteral": "to-them lift_up-me **and-hurl-me** to- the-sea",
+        "englishNatural": "to them Lift-me-up **and hurl me** to the sea"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַיְטִלֻהוּ",
+        "transliteration": "vaYetiluhu",
+        "englishLiteral": "and-hurled-him",
+        "englishNatural": "and hurled him",
+        "root": "tul",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ יוֹנָה **וַיְטִלֻהוּ** אֶל־ הַיָּם",
+        "transliteration": "et- Yonah **vaYetiluhu** el- haYam",
+        "englishLiteral": "↳ Dove (Jonah) **and-hurled-him** to- the-sea",
+        "englishNatural": "↳ Dove (Jonah) **and hurled him** to the sea"
+      }
+    }
+  ]
+}

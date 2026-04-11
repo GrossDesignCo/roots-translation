@@ -1,0 +1,31 @@
+{
+  "key": "videi",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וִידֵי",
+        "transliteration": "viDei",
+        "englishLiteral": "And-hands-of",
+        "englishNatural": "And hands of",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וִידֵי** אָדָם מִתַּחַת",
+        "transliteration": "**viDei** Adam miTachat",
+        "englishLiteral": "**And-hands-of** Earthling (Adam) from-under",
+        "englishNatural": "**And hands of** Earthling (Adam) from under"
+      }
+    }
+  ]
+}

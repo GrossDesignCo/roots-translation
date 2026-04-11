@@ -1,0 +1,33 @@
+{
+  "key": "vatoakhal",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַתֹּאכַל",
+        "transliteration": "vaToAkhal",
+        "englishLiteral": "and-you-ate",
+        "englishNatural": "and you ate",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְקוֹל אִשְׁתֶּךָ **וַתֹּאכַל** מִן־ הָעֵץ",
+        "transliteration": "leQol ishtekha **vaToAkhal** min- haEtz",
+        "englishLiteral": "to-voice woman-your **and-you-ate** from the-tree",
+        "englishNatural": "to the voice of your woman **and you ate** from the tree"
+      }
+    }
+  ]
+}

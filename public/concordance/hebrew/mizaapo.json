@@ -1,0 +1,31 @@
+{
+  "key": "mizaapo",
+  "language": "hebrew",
+  "root": "zaaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "מִזַּעְפּוֹ",
+        "transliteration": "mizaapo",
+        "englishLiteral": "from-rage-its",
+        "englishNatural": "from its rage",
+        "root": "zaaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעֲמֹד הַיָּם **מִזַּעְפּוֹ**",
+        "transliteration": "vaYaamod haYam **mizaapo**",
+        "englishLiteral": "and-stood the-sea **from-rage-its**",
+        "englishNatural": "stood and the sea **from its rage**"
+      }
+    }
+  ]
+}

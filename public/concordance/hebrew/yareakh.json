@@ -1,0 +1,31 @@
+{
+  "key": "yareakh",
+  "language": "hebrew",
+  "root": "yareakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יָרֵ֥חַ",
+        "transliteration": "yareakh",
+        "englishLiteral": "moon",
+        "englishNatural": "moon",
+        "root": "yareakh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַעֲשֵׂ֣ה אֶצְבְּעֹתֶ֑יךָ **יָרֵ֥חַ** וְכוֹכָבִ֗ים אֲשֶׁ֥ר",
+        "transliteration": "maaseh etsbeotekha **yareakh** veKhokhavim asher",
+        "englishLiteral": "work-of your-fingers **moon** and-stars which",
+        "englishNatural": "the work of your fingers **moon** and stars which"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "poimaine",
+  "language": "greek",
+  "root": "poimaino",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "ποίμαινε",
+        "transliteration": "poimaine",
+        "englishLiteral": "Shepherd",
+        "englishNatural": "Shepherd",
+        "root": "poimaino",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "λέγει αὐτῷ **ποίμαινε** τὰ πρόβατά",
+        "transliteration": "legei autō **poimaine** ta probata",
+        "englishLiteral": "He-says to-him **Shepherd** the sheep",
+        "englishNatural": "He says to him **Shepherd** these sheep"
+      }
+    }
+  ]
+}

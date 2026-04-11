@@ -1,0 +1,33 @@
+{
+  "key": "vatiqqach-",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַתִּקַּח־",
+        "transliteration": "vaTiqqach-",
+        "englishLiteral": "and-took-",
+        "englishNatural": "she took",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹד הַצְּפִינוֹ **וַתִּקַּח־** לוֹ תֵּבַת",
+        "transliteration": "od haTzpino **vaTiqqach-** lo tevat",
+        "englishLiteral": "further to-conceal-him **and-took-** to-him ark-of",
+        "englishNatural": "further to conceal him **she took** to him an ark of"
+      }
+    }
+  ]
+}

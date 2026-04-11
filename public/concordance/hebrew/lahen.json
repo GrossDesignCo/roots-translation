@@ -1,0 +1,31 @@
+{
+  "key": "lahen",
+  "language": "hebrew",
+  "root": "le",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לָהֶ֔ן",
+        "transliteration": "lahen",
+        "englishLiteral": "to-them",
+        "englishNatural": "to them",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אִישָׁ֑הּ וַתִּשַּׁ֣ק **לָהֶ֔ן** וַתִּשֶּׂ֥אנָה קוֹלָ֖ן",
+        "transliteration": "ishah vatTishaq **lahen** vatTissenah qolan",
+        "englishLiteral": "man-her and-kissed **to-them** and-lifted voice-their",
+        "englishNatural": "her man And she kissed **to them** and they lifted their voice"
+      }
+    }
+  ]
+}

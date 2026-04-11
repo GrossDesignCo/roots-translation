@@ -1,0 +1,31 @@
+{
+  "key": "qodameyh",
+  "language": "aramaic",
+  "root": "qodam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "קדמיה",
+        "transliteration": "qodameyh",
+        "englishLiteral": "before-it",
+        "englishNatural": "before it",
+        "root": "qodam",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אתעקרו מִן־ **קדמיה** וַאֲל֙וּ עַיְנִ֜ין",
+        "transliteration": "iteqaru min- **qodameyh** vaAlu ayinin",
+        "englishLiteral": "were-uprooted from- **before-it** and-behold eyes",
+        "englishNatural": "were uprooted from **before it** and behold eyes"
+      }
+    }
+  ]
+}

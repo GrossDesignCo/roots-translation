@@ -1,0 +1,162 @@
+{
+  "root": "garash",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְגָרֶשׁ",
+        "transliteration": "vayGaresh",
+        "englishLiteral": "And-he-banished",
+        "englishNatural": "And he banished",
+        "root": "garash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְגָרֶשׁ** אֶת־ הָאָדָם",
+        "transliteration": "**vayGaresh** et- haAdam",
+        "englishLiteral": "**And-he-banished** ↳ the-Earthling (Adam)",
+        "englishNatural": "**And he banished** ↳ the Earthling (Adam)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "גֵּרַשְׁתָּ",
+        "transliteration": "gerashta",
+        "englishLiteral": "you-banished",
+        "englishNatural": "you have banished",
+        "root": "garash",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "הֵן **גֵּרַשְׁתָּ** אֹתִי הַיּוֹם",
+        "transliteration": "hen **gerashta** oti haYom",
+        "englishLiteral": "Behold **you-banished** ↳-me the-day",
+        "englishNatural": "Behold **you have banished** me this day"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "יְגָרְשֵׁם",
+        "transliteration": "yeGarshem",
+        "englishLiteral": "he-will-drive_out-them",
+        "englishNatural": "he will drive-out them",
+        "root": "garash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְיָד חֲזָקָה **יְגָרְשֵׁם** מֵאַרְצוֹ",
+        "transliteration": "uVeYad chazaqah **yeGarshem** meArtzo",
+        "englishLiteral": "and-in-hand intense **he-will-drive_out-them** from-land-his",
+        "englishNatural": "hand and in an intense **he will drive-out them** from his land"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "גָּרֵ֛שׁ",
+        "transliteration": "garesh",
+        "englishLiteral": "banishing",
+        "englishNatural": "banishing",
+        "root": "garash",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כְּשַׁלְּח֣וֹ כָּלָ֔ה **גָּרֵ֛שׁ** יְגָרֵ֥שׁ אֶתְכֶ֖ם",
+        "transliteration": "keShalcho kalah **garesh** yegaresh etkhem",
+        "englishLiteral": "as-sending_out-him finishing **banishing** he-will-banish ↳-you",
+        "englishNatural": "as his sending-out finishing **banishing** he will banish you"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "יְגָרֵ֥שׁ",
+        "transliteration": "yegaresh",
+        "englishLiteral": "he-will-banish",
+        "englishNatural": "he will banish",
+        "root": "garash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כָּלָ֔ה גָּרֵ֛שׁ **יְגָרֵ֥שׁ** אֶתְכֶ֖ם מִזֶּֽה׃",
+        "transliteration": "kalah garesh **yegaresh** etkhem mizeh",
+        "englishLiteral": "finishing banishing **he-will-banish** ↳-you from-this",
+        "englishNatural": "finishing banishing **he will banish** you from this"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "נִגְרַשְׁתִּי",
+        "transliteration": "nigrashti",
+        "englishLiteral": "I-am-driven_out",
+        "englishNatural": "I am driven-out",
+        "root": "garash",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲנִי אָמַרְתִּי **נִגְרַשְׁתִּי** מִנֶּגֶד עֵינֶיךָ",
+        "transliteration": "vaAni amarti **nigrashti** mineged einekha",
+        "englishLiteral": "And-I said **I-am-driven_out** from-before eyes-your",
+        "englishNatural": "And I said **I am driven-out** from before your eyes"
+      }
+    }
+  ]
+}

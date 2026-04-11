@@ -1,0 +1,31 @@
+{
+  "key": "satanas",
+  "language": "greek",
+  "root": "satanas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "Σατανᾶς",
+        "transliteration": "Satanas",
+        "englishLiteral": "Adversary",
+        "englishNatural": "Adversary",
+        "root": "satanas",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "καὶ ὁ **Σατανᾶς** καὶ ἔδησεν",
+        "transliteration": "kai ho **Satanas** kai edēsen",
+        "englishLiteral": "and The **Adversary** and he-bound",
+        "englishNatural": "and The **Adversary** and he bound"
+      }
+    }
+  ]
+}

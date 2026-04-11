@@ -1,0 +1,31 @@
+{
+  "key": "badever",
+  "language": "hebrew",
+  "root": "dever",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "בַּדֶּבֶר",
+        "transliteration": "baDever",
+        "englishLiteral": "in-the-plague",
+        "englishNatural": "in the plague",
+        "root": "dever",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פֶּן־ יִפְגָּעֵנוּ **בַּדֶּבֶר** אוֹ בֶחָרֶב",
+        "transliteration": "pen- yifgaenu **baDever** o veCherev",
+        "englishLiteral": "or-else- he-will-strike_down-us **in-the-plague** or in-the-sword",
+        "englishNatural": "or else he strike-down us **in the plague** or in the sword"
+      }
+    }
+  ]
+}

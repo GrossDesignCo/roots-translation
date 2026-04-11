@@ -1,0 +1,31 @@
+{
+  "key": "acharekhem",
+  "language": "hebrew",
+  "root": "achar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אַחֲרֵיכֶם",
+        "transliteration": "acharekhem",
+        "englishLiteral": "after-you",
+        "englishNatural": "after you",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ זַרְעֲכֶם **אַחֲרֵיכֶם**",
+        "transliteration": "veEt- zarkhem **acharekhem**",
+        "englishLiteral": "and-↳ your-seed **after-you**",
+        "englishNatural": "and your seed **after you**"
+      }
+    }
+  ]
+}

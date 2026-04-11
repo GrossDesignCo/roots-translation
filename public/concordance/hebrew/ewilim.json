@@ -1,0 +1,31 @@
+{
+  "key": "ewilim",
+  "language": "hebrew",
+  "root": "ewil",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אֱוִילִים",
+        "transliteration": "ewilim",
+        "englishLiteral": "fools",
+        "englishNatural": "fools",
+        "root": "ewil",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חָכְמָה וּמוּסָר **אֱוִילִים** בָּזוּ",
+        "transliteration": "chokmah uMusar **ewilim** bazu",
+        "englishLiteral": "Wisdom and-discipline **fools** despise",
+        "englishNatural": "Wisdom and discipline **fools** despise"
+      }
+    }
+  ]
+}

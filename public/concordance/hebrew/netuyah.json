@@ -1,0 +1,33 @@
+{
+  "key": "netuyah",
+  "language": "hebrew",
+  "root": "natah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "נְטוּיָה",
+        "transliteration": "netuyah",
+        "englishLiteral": "stretched_out",
+        "englishNatural": "in a stretched-out",
+        "root": "natah",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶתְכֶם בִּזְרוֹעַ **נְטוּיָה** וּבִשְׁפָטִים גְּדֹלִים",
+        "transliteration": "etkhem biZeroa **netuyah** uVishfatim gedolim",
+        "englishLiteral": "↳you in-arm **stretched_out** and-in-justices great",
+        "englishNatural": "you arm **in a stretched-out** justices and in great"
+      }
+    }
+  ]
+}

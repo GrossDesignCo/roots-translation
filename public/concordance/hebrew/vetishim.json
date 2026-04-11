@@ -1,0 +1,55 @@
+{
+  "key": "vetishim",
+  "language": "hebrew",
+  "root": "tishim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְתִשְׁעִים",
+        "transliteration": "veTishim",
+        "englishLiteral": "and-ninety",
+        "englishNatural": "and ninety",
+        "root": "tishim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "מַהֲלַלְאֵל חֲמֵשׁ **וְתִשְׁעִים** שָׁנָה וּשְׁמֹנֶה",
+        "transliteration": "Mahalalel chamesh **veTishim** shanah uShmoneh",
+        "englishLiteral": "Praise_of_God (Mahalaleel) five **and-ninety** year and-eight",
+        "englishNatural": "Praise-of-God (Mahalaleel) five **and ninety** years and eight"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 30
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְתִשְׁעִים",
+        "transliteration": "veTishim",
+        "englishLiteral": "and-ninety",
+        "englishNatural": "and ninety",
+        "root": "tishim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ חָמֵשׁ **וְתִשְׁעִים** שָׁנָה וּשְׁמֹנֵה",
+        "transliteration": "Noach chamesh **veTishim** shanah uShmoneh",
+        "englishLiteral": "Rest (Noah) five **and-ninety** year and-eight",
+        "englishNatural": "Rest (Noah) five **and ninety** years and eight"
+      }
+    }
+  ]
+}

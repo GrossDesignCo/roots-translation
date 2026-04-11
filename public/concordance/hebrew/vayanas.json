@@ -1,0 +1,33 @@
+{
+  "key": "vayanas",
+  "language": "hebrew",
+  "root": "barach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַיָּנָס",
+        "transliteration": "vaYanas",
+        "englishLiteral": "and-fled",
+        "englishNatural": "fled",
+        "root": "barach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי לְנָחָשׁ **וַיָּנָס** מֹשֶׁה מִפָּנָיו",
+        "transliteration": "vaYehi leNachash **vaYanas** Moshe miPanav",
+        "englishLiteral": "and-was to-snake **and-fled** Drawn_Out (Moses) from-face-its",
+        "englishNatural": "and it was a snake **fled** and Drawn-Out (Moses) from its face"
+      }
+    }
+  ]
+}

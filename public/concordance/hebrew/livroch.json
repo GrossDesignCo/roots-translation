@@ -1,0 +1,33 @@
+{
+  "key": "livroch",
+  "language": "hebrew",
+  "root": "barach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "לִבְרֹחַ",
+        "transliteration": "livroch",
+        "englishLiteral": "to-flee",
+        "englishNatural": "to flee to",
+        "root": "barach",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כֵּן קִדַּמְתִּי **לִבְרֹחַ** תַּרְשִׁישָׁה כִּי",
+        "transliteration": "ken qidamti **livroch** tarshishah ki",
+        "englishLiteral": "so I-preceded **to-flee** golden_stone (Tarshish) that",
+        "englishNatural": "So I preceded **to flee to** golden-stone (Tarshish) that"
+      }
+    }
+  ]
+}

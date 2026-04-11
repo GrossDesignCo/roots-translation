@@ -1,0 +1,31 @@
+{
+  "key": "beqarna-",
+  "language": "aramaic",
+  "root": "qeren",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "בְּקַרְנָא־",
+        "transliteration": "beQarna-",
+        "englishLiteral": "in-horn-",
+        "englishNatural": "horn",
+        "root": "qeren",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּעַיְנֵ֤י אֲנָשָׁא֙ **בְּקַרְנָא־** דָ֔א וּפֻ֖ם",
+        "transliteration": "keAynei anasha **beQarna-** da uPum",
+        "englishLiteral": "like-eyes-of Mortal_Man (Enash)-the **in-horn-** this and-mouth",
+        "englishNatural": "like the eyes of the Mortal-Man (Enash) **horn** in this and a mouth"
+      }
+    }
+  ]
+}

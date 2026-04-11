@@ -1,0 +1,58 @@
+{
+  "key": "laqachat",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לָקַחַת",
+        "transliteration": "laqachat",
+        "englishLiteral": "to-take",
+        "englishNatural": "to take",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ פִּיהָ **לָקַחַת** אֶת־ דְּמֵי",
+        "transliteration": "et- piha **laqachat** et- demey",
+        "englishLiteral": "↳ her-mouth **to-take** ↳ blood-of",
+        "englishNatural": "↳ her mouth **to take** ↳ the blood of"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "לָקַחַת",
+        "transliteration": "laqachat",
+        "englishLiteral": "To-receive",
+        "englishNatural": "To receive",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct"
+        }
+      },
+      "context": {
+        "hebrew": "**לָקַחַת** מוּסַר הַשְׂכֵּל",
+        "transliteration": "**laqachat** musar haskel",
+        "englishLiteral": "**To-receive** discipline wise_conduct",
+        "englishNatural": "**To receive** discipline wise-conduct"
+      }
+    }
+  ]
+}

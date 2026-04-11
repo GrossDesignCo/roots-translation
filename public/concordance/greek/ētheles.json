@@ -1,0 +1,32 @@
+{
+  "key": "ētheles",
+  "language": "greek",
+  "root": "thelo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "ἤθελες",
+        "transliteration": "ētheles",
+        "englishLiteral": "you-wanted",
+        "englishNatural": "you wanted",
+        "root": "thelo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect"
+        }
+      },
+      "context": {
+        "hebrew": "περιεπάτεις ὅπου **ἤθελες** ὅταν δὲ",
+        "transliteration": "periepateis hopou **ētheles** hotan de",
+        "englishLiteral": "you-walked where **you-wanted** when but",
+        "englishNatural": "you walked where **you wanted** when but"
+      }
+    }
+  ]
+}

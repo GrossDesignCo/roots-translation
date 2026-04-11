@@ -1,0 +1,31 @@
+{
+  "key": "oz",
+  "language": "hebrew",
+  "root": "uz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עֹ֑ז",
+        "transliteration": "oz",
+        "englishLiteral": "strength",
+        "englishNatural": "strength",
+        "root": "uz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְ֭יֹנְקִים יִסַּ֣דְתָּ **עֹ֑ז** לְמַ֥עַן צוֹרְרֶ֑יךָ",
+        "transliteration": "veYoneqim yisadta **oz** leMaan tsorerekha",
+        "englishLiteral": "and-sucklings you-have-founded **strength** to-sake-of your-adversarys",
+        "englishNatural": "and sucklings you have founded **strength** to the sake of your adversaries"
+      }
+    }
+  ]
+}

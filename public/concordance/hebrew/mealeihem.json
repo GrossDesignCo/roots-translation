@@ -1,0 +1,31 @@
+{
+  "key": "mealeihem",
+  "language": "hebrew",
+  "root": "al",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "מֵעֲלֵיהֶם",
+        "transliteration": "meAleihem",
+        "englishLiteral": "from-over-them",
+        "englishNatural": "from over them",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַיָּם לְהָקֵל **מֵעֲלֵיהֶם** וְיוֹנָה יָרַד",
+        "transliteration": "haYam leHaqel **meAleihem** veYonah yarad",
+        "englishLiteral": "the-sea to-lighten **from-over-them** And-Dove (Jonah) went_down",
+        "englishNatural": "the sea to lighten it **from over them** And Dove (Jonah) had gone down"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayigdal",
+  "language": "hebrew",
+  "root": "gadal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּגְדַּל",
+        "transliteration": "vaYigdal",
+        "englishLiteral": "And-grew",
+        "englishNatural": "grew",
+        "root": "gadal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּגְדַּל** הַיֶּלֶד וַתְּבִאֵהוּ",
+        "transliteration": "**vaYigdal** haYeled vatTevihu",
+        "englishLiteral": "**And-grew** the-child and-brought-him",
+        "englishNatural": "**grew** And the child and she brought him"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "harbeh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הַרְבֵּה",
+        "transliteration": "harbeh",
+        "englishLiteral": "much",
+        "englishNatural": "much",
+        "root": "harbeh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "יֶשׁ־ בָּהּ **הַרְבֵּה** מִשְׁתֵּים־ עֶשְׂרֵה",
+        "transliteration": "yesh- bah **harbeh** mishteym- esreh",
+        "englishLiteral": "there_is- in-her **much** from-two- ten",
+        "englishNatural": "there-is in her **much** more than two ten"
+      }
+    }
+  ]
+}

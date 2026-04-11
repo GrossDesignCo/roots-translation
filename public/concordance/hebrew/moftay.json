@@ -1,0 +1,31 @@
+{
+  "key": "moftay",
+  "language": "hebrew",
+  "root": "mofet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "מוֹפְתַ֖י",
+        "transliteration": "moftay",
+        "englishLiteral": "wonders-my",
+        "englishNatural": "my wonders",
+        "root": "mofet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַ֛עַן רְבוֹת־ **מוֹפְתַ֖י** בְּאֶ֥רֶץ מִצְרָֽיִם׃",
+        "transliteration": "lemaan rebot- **moftay** beEretz Mitzrayim",
+        "englishLiteral": "for-sake-of multiplying- **wonders-my** in-land-of Double_Narrows (Egypt)",
+        "englishNatural": "for the sake of multiplying **my wonders** in the land of Double-Narrows (Egypt)"
+      }
+    }
+  ]
+}

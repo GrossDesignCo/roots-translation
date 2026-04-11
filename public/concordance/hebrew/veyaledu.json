@@ -1,0 +1,33 @@
+{
+  "key": "veyaledu",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וְיָלְדוּ",
+        "transliteration": "veyaledu",
+        "englishLiteral": "and-they-birthed",
+        "englishNatural": "birthed",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנוֹת הָאָדָם **וְיָלְדוּ** לָהֶם הֵמָּה",
+        "transliteration": "benot haAdam **veyaledu** lahem hemah",
+        "englishLiteral": "daughters-of the-Earthling (Adam) **and-they-birthed** to-them they",
+        "englishNatural": "the daughters of Earthling (Adam) **birthed** and to them they"
+      }
+    }
+  ]
+}

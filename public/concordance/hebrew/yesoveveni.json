@@ -1,0 +1,59 @@
+{
+  "key": "yesoveveni",
+  "language": "hebrew",
+  "root": "savav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יְסֹבְבֵנִי",
+        "transliteration": "yesoveveni",
+        "englishLiteral": "goes_around-me",
+        "englishNatural": "goes-around me",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יַמִּים וְנָהָר **יְסֹבְבֵנִי** כָּל־ מִשְׁבָּרֶיךָ",
+        "transliteration": "yamim veNahar **yesoveveni** kol- mishbarekha",
+        "englishLiteral": "seas and-river **goes_around-me** all- breakers-your",
+        "englishNatural": "the seas and the river **goes-around me** all your breakers"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יְסֹבְבֵנִי",
+        "transliteration": "yesoveveni",
+        "englishLiteral": "goes_around-me",
+        "englishNatural": "goes-around me",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נֶפֶשׁ תְּהוֹם **יְסֹבְבֵנִי** סוּף חָבוּשׁ",
+        "transliteration": "nephesh tehom **yesoveveni** suf chavush",
+        "englishLiteral": "throat abyss **goes_around-me** reed binds",
+        "englishNatural": "the throat the abyss **goes-around me** reed binds"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "nilvnah",
+  "language": "hebrew",
+  "root": "lavan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נִלְבְּנָה",
+        "transliteration": "nilvnah",
+        "englishLiteral": "let-us-make-bricks",
+        "englishNatural": "let us make-bricks",
+        "root": "lavan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רֵעֵהוּ הָבָה **נִלְבְּנָה** לְבֵנִים וְנִשְׂרְפָה",
+        "transliteration": "reeyhu havah **nilvnah** levenim veNisrefah",
+        "englishLiteral": "his-friend come **let-us-make-bricks** bricks and-let-us-incinerate",
+        "englishNatural": "his friend \"Come **let us make-bricks** bricks and let us incinerate"
+      }
+    }
+  ]
+}

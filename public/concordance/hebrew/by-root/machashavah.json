@@ -1,0 +1,30 @@
+{
+  "root": "machashavah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מַחְשְׁבֹת",
+        "transliteration": "machshevot",
+        "englishLiteral": "thoughts-of",
+        "englishNatural": "thoughts of",
+        "root": "machashavah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ יֵצֶר **מַחְשְׁבֹת** לִבּוֹ רַק",
+        "transliteration": "vekhol- yetzer **machshevot** libbo raq",
+        "englishLiteral": "and-all- forming-of **thoughts-of** heart-his only",
+        "englishNatural": "and all the forming of **thoughts of** his heart only"
+      }
+    }
+  ]
+}

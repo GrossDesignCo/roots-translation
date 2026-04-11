@@ -1,0 +1,31 @@
+{
+  "key": "umeheman",
+  "language": "aramaic",
+  "root": "aman",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 29,
+      "word": {
+        "originalScript": "וּמְהֵימַן",
+        "transliteration": "uMeheman",
+        "englishLiteral": "and-trustworthy",
+        "englishNatural": "and trustworthy",
+        "root": "aman",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְיַצִּיב חֶלְמָא **וּמְהֵימַן** פִּשְׁרֵהּ",
+        "transliteration": "veYatziv chelma **uMeheman** pishreh",
+        "englishLiteral": "and-certain dream-the **and-trustworthy** interpretation-its",
+        "englishNatural": "and certain is the dream **and trustworthy** is its interpretation"
+      }
+    }
+  ]
+}

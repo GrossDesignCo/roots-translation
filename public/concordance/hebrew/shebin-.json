@@ -1,0 +1,31 @@
+{
+  "key": "shebin-",
+  "language": "hebrew",
+  "root": "ben",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "שֶׁבִּן־",
+        "transliteration": "shebin-",
+        "englishLiteral": "yet-son-of-",
+        "englishNatural": "yet son of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹא גִדַּלְתּוֹ **שֶׁבִּן־** לַיְלָה הָיָה",
+        "transliteration": "veLo giddalto **shebin-** laylah hayah",
+        "englishLiteral": "and-not you-grew-it **yet-son-of-** night was",
+        "englishNatural": "not and you grew it **yet son of** a night it was"
+      }
+    }
+  ]
+}

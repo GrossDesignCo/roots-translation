@@ -1,0 +1,54 @@
+{
+  "root": "im",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "עִם־",
+        "transliteration": "im-",
+        "englishLiteral": "with-",
+        "englishNatural": "with",
+        "root": "im",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "דָּבְקִין דְּנָה **עִם־** דְּנָה הֵן",
+        "transliteration": "davqin denah **im-** denah hen",
+        "englishLiteral": "adhering this **with-** this Behold",
+        "englishNatural": "adhering this **with** this Behold"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "עִם־",
+        "transliteration": "im-",
+        "englishLiteral": "with-",
+        "englishNatural": "with",
+        "root": "im",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לָא מִתְעָרַב **עִם־** חַסְפָּא",
+        "transliteration": "la mitarav **im-** chaspa",
+        "englishLiteral": "not mix-itself **with-** clay-the",
+        "englishNatural": "not mixes itself **with** the clay"
+      }
+    }
+  ]
+}

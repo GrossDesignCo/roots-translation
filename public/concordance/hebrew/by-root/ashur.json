@@ -1,0 +1,54 @@
+{
+  "root": "ashur",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אַשּׁוּר",
+        "transliteration": "Ashur",
+        "englishLiteral": "Steppe (Assyria)",
+        "englishNatural": "Steppe (Assyria)",
+        "root": "ashur",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַהֹלֵךְ קִדְמַת **אַשּׁוּר** וְהַנָּהָר הָרְבִיעִי",
+        "transliteration": "haHolekh qidmat **Ashur** veHaNahar haRevii",
+        "englishLiteral": "the-walking east-of **Steppe (Assyria)** And-the-river the-fourth",
+        "englishNatural": "walks east of **Steppe (Assyria)** river And the fourth"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אַשּׁוּר",
+        "transliteration": "Ashur",
+        "englishLiteral": "Steppe (Assyria)",
+        "englishNatural": "Steppe (Assyria)",
+        "root": "ashur",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַהִוא יָצָא **אַשּׁוּר** וַיִּבֶן אֶת־",
+        "transliteration": "hahi yatsa **Ashur** vayYiven et-",
+        "englishLiteral": "the-that brought_out **Steppe (Assyria)** and-he-built ↳",
+        "englishNatural": "that brought-out **Steppe (Assyria)** and he built ↳"
+      }
+    }
+  ]
+}

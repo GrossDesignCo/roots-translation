@@ -1,0 +1,55 @@
+{
+  "key": "darko",
+  "language": "hebrew",
+  "root": "derekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 12
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "דַּרְכּוֹ",
+        "transliteration": "darko",
+        "englishLiteral": "way-its",
+        "englishNatural": "its way",
+        "root": "derekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּשָׂר אֶת־ **דַּרְכּוֹ** עַל־ הָאָרֶץ",
+        "transliteration": "basar et- **darko** al- haAretz",
+        "englishLiteral": "flesh ↳ **way-its** over- the-land",
+        "englishNatural": "flesh ↳ **its way** over the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "דַּרְכּוֹ",
+        "transliteration": "darko",
+        "englishLiteral": "way-his",
+        "englishNatural": "his way",
+        "root": "derekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קָנָנִי רֵאשִׁית **דַּרְכּוֹ** קֶדֶם מִפְעָלָיו",
+        "transliteration": "qanani reshit **darko** qedem miphalav",
+        "englishLiteral": "acquired-me heading-of **way-his** before from-works-his",
+        "englishNatural": "acquired me the heading of **his way** before his works"
+      }
+    }
+  ]
+}

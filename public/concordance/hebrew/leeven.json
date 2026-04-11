@@ -1,0 +1,31 @@
+{
+  "key": "leeven",
+  "language": "hebrew",
+  "root": "even",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לְאָבֶן",
+        "transliteration": "leEven",
+        "englishLiteral": "for-stone",
+        "englishNatural": "for stone",
+        "root": "even",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶם הַלְּבֵנָה **לְאָבֶן** וְהַחֵמָר הָיָה",
+        "transliteration": "lahem haLevenah **leEven** veHacheymar hayah",
+        "englishLiteral": "to-them the-brick **for-stone** and-the-bitumen was",
+        "englishNatural": "to them And the brick **for stone** and the bitumen was"
+      }
+    }
+  ]
+}

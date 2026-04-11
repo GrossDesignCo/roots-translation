@@ -1,0 +1,31 @@
+{
+  "key": "harevii",
+  "language": "hebrew",
+  "root": "revii",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הָרְבִיעִי",
+        "transliteration": "haRevii",
+        "englishLiteral": "the-fourth",
+        "englishNatural": "And the fourth",
+        "root": "revii",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אַשּׁוּר וְהַנָּהָר **הָרְבִיעִי** הוּא פְּרָת׃",
+        "transliteration": "Ashur veHaNahar **haRevii** hu Perat",
+        "englishLiteral": "Steppe (Assyria) And-the-river **the-fourth** he Fruitful (Perat)",
+        "englishNatural": "Steppe (Assyria) river **And the fourth** it is Fruitful (Perat)"
+      }
+    }
+  ]
+}

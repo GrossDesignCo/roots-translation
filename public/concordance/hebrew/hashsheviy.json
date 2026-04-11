@@ -1,0 +1,31 @@
+{
+  "key": "hashsheviy",
+  "language": "hebrew",
+  "root": "sheviy",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 29
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "הַשְּׁבִ֔י",
+        "transliteration": "hashSheviy",
+        "englishLiteral": "the-captive",
+        "englishNatural": "the captive",
+        "root": "sheviy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַ֚ד בְּכ֣וֹר **הַשְּׁבִ֔י** אֲשֶׁ֖ר בְּבֵ֣ית",
+        "transliteration": "ad bekhor **hashSheviy** asher beveit",
+        "englishLiteral": "until firstborn-of **the-captive** which in-house-of",
+        "englishNatural": "until the firstborn of **the captive** which in the house of"
+      }
+    }
+  ]
+}

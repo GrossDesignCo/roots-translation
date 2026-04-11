@@ -1,0 +1,30 @@
+{
+  "root": "revu",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וְרֵוֵהּ",
+        "transliteration": "veReveh",
+        "englishLiteral": "and-appearance-its",
+        "englishNatural": "and its appearance",
+        "root": "revu",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קָאֵם לְקָבְלָךְ **וְרֵוֵהּ** דְּחִיל",
+        "transliteration": "qaem leQovlakh **veReveh** dechil",
+        "englishLiteral": "standing_up before-you **and-appearance-its** fearsome",
+        "englishNatural": "standing-up before you **and its appearance** fearsome"
+      }
+    }
+  ]
+}

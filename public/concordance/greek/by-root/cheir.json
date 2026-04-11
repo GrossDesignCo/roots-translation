@@ -1,0 +1,54 @@
+{
+  "root": "cheir",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "χεῖράς",
+        "transliteration": "cheiras",
+        "englishLiteral": "hands",
+        "englishNatural": "hands",
+        "root": "cheir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ἐκτενεῖς τὰς **χεῖράς** σου καὶ",
+        "transliteration": "ekteneis tas **cheiras** sou kai",
+        "englishLiteral": "you-will-stretch_out the **hands** of-you and",
+        "englishNatural": "you will stretch out those **hands** of yours and"
+      }
+    },
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "χεῖρα",
+        "transliteration": "cheira",
+        "englishLiteral": "hand",
+        "englishNatural": "hand",
+        "root": "cheir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ἐπὶ τὴν **χεῖρα** αὐτοῦ",
+        "transliteration": "epi tēn **cheira** autou",
+        "englishLiteral": "upon the **hand** his",
+        "englishNatural": "in the **hand** of his"
+      }
+    }
+  ]
+}

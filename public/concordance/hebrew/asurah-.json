@@ -1,0 +1,33 @@
+{
+  "key": "asurah-",
+  "language": "hebrew",
+  "root": "sur",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אָסֻרָה־",
+        "transliteration": "asurah-",
+        "englishLiteral": "I-will-turn_aside-",
+        "englishNatural": "I will turn-aside",
+        "root": "sur",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר מֹשֶׁה **אָסֻרָה־** נָּא וְאֶרְאֶה",
+        "transliteration": "vaYomer Moshe **asurah-** nah veEreh",
+        "englishLiteral": "And-said Drawn_Out (Moses) **I-will-turn_aside-** please and-will-see",
+        "englishNatural": "said And Drawn-Out (Moses) **I will turn-aside** please and see"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "machlon",
+  "language": "hebrew",
+  "root": "machlon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מַחְל֤וֹן",
+        "transliteration": "Machlon",
+        "englishLiteral": "Sickness (Mahlon)",
+        "englishNatural": "Sickness (Mahlon)",
+        "root": "machlon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנֵֽי־ בָנָ֣יו **מַחְל֤וֹן** וְכִלְיוֹן֙ אֶפְרָתִ֔ים",
+        "transliteration": "sheney- vanav **Machlon** veKhilyon Efratim",
+        "englishLiteral": "two-of- sons-his **Sickness (Mahlon)** and-Wasting (Chilion) Fruitful_Ones (Ephrathites)",
+        "englishNatural": "the two of his sons **Sickness (Mahlon)** and Wasting (Chilion) Fruitful-Ones (Ephrathites)"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מַחְל֣וֹן",
+        "transliteration": "Machlon",
+        "englishLiteral": "Sickness (Mahlon)",
+        "englishNatural": "Sickness (Mahlon)",
+        "root": "machlon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַם־ שְׁנֵיהֶ֖ם **מַחְל֣וֹן** וְכִלְי֑וֹן וַתִּשָּׁאֵר֙",
+        "transliteration": "gam- shneyhem **Machlon** veKhilyon vatTishare",
+        "englishLiteral": "also- two-of-them **Sickness (Mahlon)** and-Wasting (Chilion) and-was-left",
+        "englishNatural": "And also the two of them **Sickness (Mahlon)** and Wasting (Chilion) was left"
+      }
+    }
+  ]
+}

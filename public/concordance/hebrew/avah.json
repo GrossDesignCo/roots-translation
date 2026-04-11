@@ -1,0 +1,33 @@
+{
+  "key": "avah",
+  "language": "hebrew",
+  "root": "avah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 27
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אָבָה",
+        "transliteration": "avah",
+        "englishLiteral": "was_willing",
+        "englishNatural": "and he was willing",
+        "root": "avah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹה וְלֹא **אָבָה** לְשַׁלְּחָם",
+        "transliteration": "Paroh veLo **avah** leshalcham",
+        "englishLiteral": "Pharaoh and-not **was_willing** to-send_out-them",
+        "englishNatural": "Pharaoh not **and he was willing** to send-out them"
+      }
+    }
+  ]
+}

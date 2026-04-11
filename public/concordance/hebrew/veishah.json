@@ -1,0 +1,31 @@
+{
+  "key": "veishah",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וְאִשָּׁה֙",
+        "transliteration": "veIshah",
+        "englishLiteral": "and-woman",
+        "englishNatural": "and a woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאֵ֣ת רֵעֵ֗הוּ **וְאִשָּׁה֙** מֵאֵ֣ת רְעוּתָ֔הּ",
+        "transliteration": "meEt reehu **veIshah** meEt reutah",
+        "englishLiteral": "from-↳ friend-his **and-woman** from-↳ friend-her",
+        "englishNatural": "from his friend **and a woman** from her friend"
+      }
+    }
+  ]
+}

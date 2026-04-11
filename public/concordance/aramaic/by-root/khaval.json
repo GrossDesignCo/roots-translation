@@ -1,0 +1,32 @@
+{
+  "root": "khaval",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "תִתְחַבַּֽל׃",
+        "transliteration": "titkhabbal",
+        "englishLiteral": "be-destroyed",
+        "englishNatural": "will be destroyed",
+        "root": "khaval",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי־ לָ֥א **תִתְחַבַּֽל׃**",
+        "transliteration": "di- la **titkhabbal**",
+        "englishLiteral": "which- not **be-destroyed**",
+        "englishNatural": "which not **will be destroyed**"
+      }
+    }
+  ]
+}

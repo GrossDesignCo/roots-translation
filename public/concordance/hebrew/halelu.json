@@ -1,0 +1,59 @@
+{
+  "key": "halelu",
+  "language": "hebrew",
+  "root": "palal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "הַלְלוּ",
+        "transliteration": "halelu",
+        "englishLiteral": "Praise",
+        "englishNatural": "Praise",
+        "root": "palal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**הַלְלוּ** אֶת יְהוָה",
+        "transliteration": "**halelu** et YHWH",
+        "englishLiteral": "**Praise** ↳ He_Who_Is (YHWH)",
+        "englishNatural": "**Praise** ↳ He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הַלְלוּ",
+        "transliteration": "halelu",
+        "englishLiteral": "Praise",
+        "englishNatural": "Praise",
+        "root": "palal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה לְעוֹלָם **הַלְלוּ** יָהּ",
+        "transliteration": "YHWH leOlam **halelu** yah",
+        "englishLiteral": "He_Who_Is (YHWH) to-the_age **Praise** He—",
+        "englishNatural": "He-Who-Is (YHWH) to the-age **Praise** He—"
+      }
+    }
+  ]
+}

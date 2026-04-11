@@ -1,0 +1,30 @@
+{
+  "root": "amittai",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אֲמִתַּי",
+        "transliteration": "Amittai",
+        "englishLiteral": "My_Truth (Amittai)",
+        "englishNatural": "My-Truth (Amittai)",
+        "root": "amittai",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹנָה בֶן־ **אֲמִתַּי** לֵאמֹר",
+        "transliteration": "Yonah ben- **Amittai** lemor",
+        "englishLiteral": "Dove (Jonah) son-of **My_Truth (Amittai)** to-say",
+        "englishNatural": "Dove (Jonah) son of **My-Truth (Amittai)** saying"
+      }
+    }
+  ]
+}

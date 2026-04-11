@@ -1,0 +1,55 @@
+{
+  "key": "ulekol-",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּלְכָל־",
+        "transliteration": "uLeKol-",
+        "englishLiteral": "And-to-all",
+        "englishNatural": "And to all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**וּלְכָל־** חַיַּ֣ת הָאָ֗רֶץ",
+        "transliteration": "**uLeKol-** chayat haAretz",
+        "englishLiteral": "**And-to-all** living_being-of the-land",
+        "englishNatural": "**And to all** living-being of the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וּלְכָל־",
+        "transliteration": "uLeKol-",
+        "englishLiteral": "and-to-all",
+        "englishNatural": "and to all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "חַיַּ֣ת הָאָ֗רֶץ **וּלְכָל־** ע֣וֹף הַשָּׁמַ֔יִם",
+        "transliteration": "chayat haAretz **uLeKol-** of haShamayim",
+        "englishLiteral": "living_being-of the-land **and-to-all** flyer-of the-skies",
+        "englishNatural": "living-being of the land **and to all** flyer of the skies"
+      }
+    }
+  ]
+}

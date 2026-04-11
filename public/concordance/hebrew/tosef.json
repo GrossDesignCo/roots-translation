@@ -1,0 +1,33 @@
+{
+  "key": "tosef",
+  "language": "hebrew",
+  "root": "yasaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "תֹּ֨סֶף֙",
+        "transliteration": "tosef",
+        "englishLiteral": "add",
+        "englishNatural": "add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ֔ אַל־ **תֹּ֨סֶף֙** רְא֣וֹת פָּנָ֔י",
+        "transliteration": "lekha al- **tosef** reot panay",
+        "englishLiteral": "to-you not **add** to-see faces-my",
+        "englishNatural": "yourself not **add** to see my face"
+      }
+    }
+  ]
+}

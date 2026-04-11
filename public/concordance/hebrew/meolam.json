@@ -1,0 +1,55 @@
+{
+  "key": "meolam",
+  "language": "hebrew",
+  "root": "olam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "מֵעוֹלָם",
+        "transliteration": "meOlam",
+        "englishLiteral": "from-the_age",
+        "englishNatural": "from the-age",
+        "root": "olam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַגִּבֹּרִים אֲשֶׁר **מֵעוֹלָם** אַנְשֵׁי הַשֵּׁם",
+        "transliteration": "haGibborim asher **meOlam** anshei haShem",
+        "englishLiteral": "the-mighty_ones which **from-the_age** men-of the-name",
+        "englishNatural": "the mighty-ones which **from the-age** men of the name"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 23
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "מֵעוֹלָם",
+        "transliteration": "meOlam",
+        "englishLiteral": "From-the_age",
+        "englishNatural": "From the-age",
+        "root": "olam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**מֵעוֹלָם** נִסַּכְתִּי מֵרֹאשׁ",
+        "transliteration": "**meOlam** nisakhti meRosh",
+        "englishLiteral": "**From-the_age** was-poured_out-I from-heading",
+        "englishNatural": "**From the-age** I was poured-out from the heading"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "halevenah",
+  "language": "hebrew",
+  "root": "levenah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הַלְּבֵנָה",
+        "transliteration": "haLevenah",
+        "englishLiteral": "the-brick",
+        "englishNatural": "And the brick",
+        "root": "levenah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתְּהִי לָהֶם **הַלְּבֵנָה** לְאָבֶן וְהַחֵמָר",
+        "transliteration": "vatTehi lahem **haLevenah** leEven veHacheymar",
+        "englishLiteral": "And-she-was to-them **the-brick** for-stone and-the-bitumen",
+        "englishNatural": "was to them **And the brick** for stone and the bitumen"
+      }
+    }
+  ]
+}

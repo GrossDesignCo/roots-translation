@@ -1,0 +1,31 @@
+{
+  "key": "batavekh",
+  "language": "hebrew",
+  "root": "tavekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בַּתָּוֶךְ",
+        "transliteration": "batavekh",
+        "englishLiteral": "in-midst",
+        "englishNatural": "in the midst",
+        "root": "tavekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְבַתֵּר אֹתָם **בַּתָּוֶךְ** וַיִּתֵּן אִישׁ־",
+        "transliteration": "vayevater otam **batavekh** vayiten ish-",
+        "englishLiteral": "and-he-divided ↳ them **in-midst** and-he-gave man-",
+        "englishNatural": "and divided them **in the midst** and gave man"
+      }
+    }
+  ]
+}

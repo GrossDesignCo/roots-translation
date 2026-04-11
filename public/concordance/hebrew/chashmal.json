@@ -1,0 +1,31 @@
+{
+  "key": "chashmal",
+  "language": "hebrew",
+  "root": "chashmal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "חַשְׁמַל",
+        "transliteration": "chashmal",
+        "englishLiteral": "glowing_metal",
+        "englishNatural": "glowing-metal",
+        "root": "chashmal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וָאֵרֶא כְּעֵין **חַשְׁמַל** כְּמַרְאֵה־ אֵשׁ",
+        "transliteration": "vaEre keEin **chashmal** keMareeh- esh",
+        "englishLiteral": "And-I-saw like-eye-of **glowing_metal** like-appearance-of- fire",
+        "englishNatural": "And I saw like an eye of **glowing-metal** like an appearance of fire"
+      }
+    }
+  ]
+}

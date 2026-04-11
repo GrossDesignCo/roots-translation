@@ -1,0 +1,33 @@
+{
+  "key": "vayasem",
+  "language": "hebrew",
+  "root": "sim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיָּשֶׂם",
+        "transliteration": "vaYasem",
+        "englishLiteral": "and-set",
+        "englishNatural": "and set",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּעֵדֶן מִקֶּדֶם **וַיָּשֶׂם** שָׁם אֶת־",
+        "transliteration": "beEden miQedem **vaYasem** sham et-",
+        "englishLiteral": "in-Delight (Eden) from-east **and-set** there ↳",
+        "englishNatural": "in Delight (Eden) from the east **and set** there ↳"
+      }
+    }
+  ]
+}

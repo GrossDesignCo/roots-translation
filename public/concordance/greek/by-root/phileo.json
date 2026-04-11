@@ -1,0 +1,131 @@
+{
+  "root": "phileo",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "φιλῶ",
+        "transliteration": "philō",
+        "englishLiteral": "I-brother_love",
+        "englishNatural": "I brother-love",
+        "root": "phileo",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "οἶδας ὅτι **φιλῶ** σε λέγει",
+        "transliteration": "oidas hoti **philō** se legei",
+        "englishLiteral": "know that **I-brother_love** you He-says",
+        "englishNatural": "know that **I brother-love** you He says"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "φιλῶ",
+        "transliteration": "philō",
+        "englishLiteral": "I-brother_love",
+        "englishNatural": "I brother-love",
+        "root": "phileo",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "οἶδας ὅτι **φιλῶ** σε λέγει",
+        "transliteration": "oidas hoti **philō** se legei",
+        "englishLiteral": "know that **I-brother_love** you He-says",
+        "englishNatural": "know that **I brother-love** you He says"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "φιλεῖς",
+        "transliteration": "phileis",
+        "englishLiteral": "do-you-brother_love",
+        "englishNatural": "do you brother-love",
+        "root": "phileo",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "Σίμων Ἰωάννου **φιλεῖς** με λυπήθη",
+        "transliteration": "Simōn Iōannou **phileis** me lupēthē",
+        "englishLiteral": "Hearer (Simon) He—is-Gracious (John) **do-you-brother_love** me Was-grieved",
+        "englishNatural": "Hearer (Simon) He—is-Gracious (John) **do you brother-love** me was grieved"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "φιλεῖς",
+        "transliteration": "phileis",
+        "englishLiteral": "Do-you-brother_love",
+        "englishNatural": "Do you brother-love",
+        "root": "phileo",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "τὸ τρίτον **φιλεῖς** με καὶ",
+        "transliteration": "to triton **phileis** me kai",
+        "englishLiteral": "the third **Do-you-brother_love** me And",
+        "englishNatural": "the third time **Do you brother-love** me And"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 28,
+      "word": {
+        "originalScript": "φιλῶ",
+        "transliteration": "philō",
+        "englishLiteral": "I-brother_love",
+        "englishNatural": "I brother-love",
+        "root": "phileo",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "γινώσκεις ὅτι **φιλῶ** σε λέγει",
+        "transliteration": "ginōskeis hoti **philō** se legei",
+        "englishLiteral": "know that **I-brother_love** you He-says",
+        "englishNatural": "know that **I brother-love** you He says"
+      }
+    }
+  ]
+}

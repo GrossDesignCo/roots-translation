@@ -1,0 +1,55 @@
+{
+  "key": "batar",
+  "language": "aramaic",
+  "root": "bathar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בָּאתַ֨ר",
+        "transliteration": "batar",
+        "englishLiteral": "After",
+        "englishNatural": "After",
+        "root": "bathar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**בָּאתַ֨ר** דְּנָ֜ה חָזֵ֣ה",
+        "transliteration": "**batar** denah chazeh",
+        "englishLiteral": "**After** this looking",
+        "englishNatural": "**After** this looking"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בָּאתַ֣ר",
+        "transliteration": "batar",
+        "englishLiteral": "After",
+        "englishNatural": "After",
+        "root": "bathar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**בָּאתַ֣ר** דְּנָה֩ חָזֵ֨ה",
+        "transliteration": "**batar** denah chazeh",
+        "englishLiteral": "**After** this looking",
+        "englishNatural": "**After** this looking"
+      }
+    }
+  ]
+}

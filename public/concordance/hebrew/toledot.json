@@ -1,0 +1,103 @@
+{
+  "key": "toledot",
+  "language": "hebrew",
+  "root": "toledot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "תוֹלְדוֹת",
+        "transliteration": "toledot",
+        "englishLiteral": "birthings",
+        "englishNatural": "are the birthings",
+        "root": "yalad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה **תוֹלְדוֹת** הַשָּׁמַיִם וְהָאָרֶץ",
+        "transliteration": "eleh **toledot** haShamayim veHaAretz",
+        "englishLiteral": "These **birthings** the-skies and-the-land",
+        "englishNatural": "These **are the birthings** of the skies and the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "תּוֹלְדֹת",
+        "transliteration": "toledot",
+        "englishLiteral": "birthings",
+        "englishNatural": "Birthings of",
+        "root": "toledot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֶה סֵפֶר **תּוֹלְדֹת** אָדָם בְּיוֹם",
+        "transliteration": "zeh sefer **toledot** Adam beYom",
+        "englishLiteral": "This book **birthings** Earthling (Adam) In-day",
+        "englishNatural": "This book **Birthings of** Earthling (Adam) In the day"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "תּוֹלְדֹת",
+        "transliteration": "toledot",
+        "englishLiteral": "birthings-of",
+        "englishNatural": "are the birthings of",
+        "root": "toledot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה **תּוֹלְדֹת** נֹחַ נֹחַ",
+        "transliteration": "eleh **toledot** noach noach",
+        "englishLiteral": "These **birthings-of** Rest (Noah) Rest (Noah)",
+        "englishNatural": "These **are the birthings of** Rest (Noah) Rest (Noah)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "תּוֹלְדֹת",
+        "transliteration": "toledot",
+        "englishLiteral": "birthings-of",
+        "englishNatural": "are the birthings of",
+        "root": "toledot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵלֶּה **תּוֹלְדֹת** בְּנֵי־ נֹחַ",
+        "transliteration": "veEleh **toledot** beney- Noach",
+        "englishLiteral": "And-these **birthings-of** sons-of- Rest (Noah)",
+        "englishNatural": "And these **are the birthings of** the sons of Rest (Noah)"
+      }
+    }
+  ]
+}

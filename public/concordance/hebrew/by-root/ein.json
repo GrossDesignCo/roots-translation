@@ -1,0 +1,54 @@
+{
+  "root": "ein",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 24
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בְּאֵין",
+        "transliteration": "beEin",
+        "englishLiteral": "In-nothing",
+        "englishNatural": "In nothing",
+        "root": "ein",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּאֵין** תְּהֹמוֹת נוֹלָדְתִּי",
+        "transliteration": "**beEin** tehomot noladti",
+        "englishLiteral": "**In-nothing** abyss was-birthed-I",
+        "englishNatural": "**In nothing** abyss I was birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 24
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בְּאֵין",
+        "transliteration": "beEin",
+        "englishLiteral": "in-nothing",
+        "englishNatural": "in nothing",
+        "root": "ein",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "תְּהֹמוֹת נוֹלָדְתִּי **בְּאֵין** מַעְיָנוֹת נִכְבַּדֵּי",
+        "transliteration": "tehomot noladti **beEin** mayanot nikhbadei",
+        "englishLiteral": "abyss was-birthed-I **in-nothing** springs heavy_with",
+        "englishNatural": "abyss I was birthed **in nothing** springs heavy-with"
+      }
+    }
+  ]
+}

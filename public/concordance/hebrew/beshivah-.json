@@ -1,0 +1,31 @@
+{
+  "key": "beshivah-",
+  "language": "hebrew",
+  "root": "sheva",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בְּשִׁבְעָה־",
+        "transliteration": "beShivah-",
+        "englishLiteral": "in-seven-",
+        "englishNatural": "in seven",
+        "root": "sheva",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "בַּחֹדֶשׁ הַשֵּׁנִי **בְּשִׁבְעָה־** עָשָׂר יוֹם",
+        "transliteration": "baChodeshhash haSheni **beShivah-** asar yom",
+        "englishLiteral": "in-month the-second **in-seven-** ten day",
+        "englishNatural": "in the month the second **in seven** ten days"
+      }
+    }
+  ]
+}

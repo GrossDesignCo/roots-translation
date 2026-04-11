@@ -1,0 +1,30 @@
+{
+  "root": "metzulah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מְצוּלָה",
+        "transliteration": "metzulah",
+        "englishLiteral": "deep",
+        "englishNatural": "into the deep",
+        "root": "metzulah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתַּשְׁלִיכֵנִי **מְצוּלָה** בִּלְבַב יַמִּים",
+        "transliteration": "vaTaShlikheni **metzulah** biLevav yamim",
+        "englishLiteral": "And-you-sent-me **deep** in-heart-of seas",
+        "englishNatural": "And you sent me **into the deep** in the heart of the seas"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "akalta",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "אָכָלְתָּ",
+        "transliteration": "akalta",
+        "englishLiteral": "you-eat",
+        "englishNatural": "you eat",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲכָל־ מִמֶּנּוּ **אָכָלְתָּ**",
+        "transliteration": "akhal- mimenu **akalta**",
+        "englishLiteral": "eat- from-it **you-eat**",
+        "englishNatural": "eat from it **you eat**"
+      }
+    }
+  ]
+}

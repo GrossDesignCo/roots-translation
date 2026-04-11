@@ -1,0 +1,55 @@
+{
+  "key": "arba",
+  "language": "hebrew",
+  "root": "arba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 13
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "אַרְבַּע",
+        "transliteration": "arba",
+        "englishLiteral": "four",
+        "englishNatural": "four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְעִנּוּ אֹתָם **אַרְבַּע** מֵאוֹת שָׁנָה",
+        "transliteration": "veInu otam **arba** meot shanah",
+        "englishLiteral": "and-they-will-afflict ↳ them **four** hundreds year",
+        "englishNatural": "and they will afflict them **four** hundred years"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אַרְבַּע",
+        "transliteration": "arba",
+        "englishLiteral": "four",
+        "englishNatural": "four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִתּוֹכָהּ דְּמוּת **אַרְבַּע** חַיּוֹת וְזֶה",
+        "transliteration": "uMitokah demut **arba** chayot veZeh",
+        "englishLiteral": "And-from-midst-its likeness-of **four** living_beings and-this",
+        "englishNatural": "And from its midst a likeness of **four** living-beings and this"
+      }
+    }
+  ]
+}

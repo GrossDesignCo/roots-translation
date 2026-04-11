@@ -1,0 +1,111 @@
+{
+  "key": "yodea",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יֹדֵעַ",
+        "transliteration": "yodea",
+        "englishLiteral": "knowing",
+        "englishNatural": "is knowing",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי **יֹדֵעַ** אֱלֹהִים כִּי",
+        "transliteration": "ki **yodea** Elohim ki",
+        "englishLiteral": "That **knowing** Gods that",
+        "englishNatural": "That **is knowing** God that"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יוֹדֵעַ",
+        "transliteration": "yodea",
+        "englishLiteral": "knowing",
+        "englishNatural": "knows",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי **יוֹדֵעַ** יְהוָה דֶּרֶךְ",
+        "transliteration": "ki **yodea** YHWH derekh",
+        "englishLiteral": "That **knowing** He-Who-Is (YHWH) way-of",
+        "englishNatural": "That **knows** He-Who-Is (YHWH) the way of"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "יוֹדֵעַ",
+        "transliteration": "yodea",
+        "englishLiteral": "knowing",
+        "englishNatural": "know",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעֲלֵיכֶם כִּי **יוֹדֵעַ** אָנִי כִּי",
+        "transliteration": "meAleykhem ki **yodea** ani ki",
+        "englishLiteral": "from-over-you that **knowing** I that",
+        "englishNatural": "from over you that **know** I that"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יוֹדֵעַ",
+        "transliteration": "yodea",
+        "englishLiteral": "knows",
+        "englishNatural": "knows",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִי־ **יוֹדֵעַ** יָשׁוּב וְנִחַם",
+        "transliteration": "mi- **yodea** yashuv veNicham",
+        "englishLiteral": "who- **knows** he-will-return and-will-comfort",
+        "englishNatural": "Who **knows** will return and will comfort"
+      }
+    }
+  ]
+}

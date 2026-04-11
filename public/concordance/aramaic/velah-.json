@@ -1,0 +1,31 @@
+{
+  "key": "velah-",
+  "language": "aramaic",
+  "root": "le",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְלַהּ־",
+        "transliteration": "veLah-",
+        "englishLiteral": "and-to-her-",
+        "englishNatural": "and to it",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אָחֳרִי֙ כִּנְמַ֔ר **וְלַהּ־** גַּפִּ֥ין אַרְבַּ֖ע",
+        "transliteration": "ochori kiNmar **veLah-** gappin arba",
+        "englishLiteral": "another as-leopard **and-to-her-** wings four",
+        "englishNatural": "another as a leopard **and to it** wings four"
+      }
+    }
+  ]
+}

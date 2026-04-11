@@ -1,0 +1,31 @@
+{
+  "key": "zahav",
+  "language": "hebrew",
+  "root": "zahav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "זָהָֽב׃",
+        "transliteration": "zahav",
+        "englishLiteral": "gold",
+        "englishNatural": "gold",
+        "root": "zahav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֶ֖סֶף וּכְלֵ֥י **זָהָֽב׃**",
+        "transliteration": "kesef uKhley **zahav**",
+        "englishLiteral": "silver and-vessels-of **gold**",
+        "englishNatural": "silver and vessels of **gold**"
+      }
+    }
+  ]
+}

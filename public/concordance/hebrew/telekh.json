@@ -1,0 +1,33 @@
+{
+  "key": "telekh",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "תֵלֵךְ",
+        "transliteration": "telekh",
+        "englishLiteral": "you-will_walk",
+        "englishNatural": "you will walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ גְּחֹנְךָ **תֵלֵךְ** וְעָפָר תֹּאכַל",
+        "transliteration": "al- gechonkha **telekh** veAfar tokhal",
+        "englishLiteral": "on- belly-your **you-will_walk** and-dust you-will_eat",
+        "englishNatural": "on your belly **you will walk** and dust you will eat"
+      }
+    }
+  ]
+}

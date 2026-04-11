@@ -1,0 +1,103 @@
+{
+  "key": "vara",
+  "language": "hebrew",
+  "root": "ra",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וָרָע׃",
+        "transliteration": "vaRa",
+        "englishLiteral": "and-bad",
+        "englishNatural": "and Bad",
+        "root": "ra",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הַדַּעַת טוֹב **וָרָע׃**",
+        "transliteration": "haDaat tov **vaRa**",
+        "englishLiteral": "the-knowledge good **and-bad**",
+        "englishNatural": "of Knowledge of Good **and Bad**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וָרָע",
+        "transliteration": "vaRa",
+        "englishLiteral": "and-bad",
+        "englishNatural": "and Bad",
+        "root": "ra",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הַדַּעַת טוֹב **וָרָע** לֹא תֹאכַל",
+        "transliteration": "haDaat tov **vaRa** lo toAkhal",
+        "englishLiteral": "the-knowledge good **and-bad** not you-will-eat",
+        "englishNatural": "of Knowledge of Good **and Bad** not you will eat"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וָרָע׃",
+        "transliteration": "vaRa",
+        "englishLiteral": "and-bad",
+        "englishNatural": "and bad",
+        "root": "ra",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "יֹדְעֵי טוֹב **וָרָע׃**",
+        "transliteration": "yodey tov **vaRa**",
+        "englishLiteral": "knowing good **and-bad**",
+        "englishNatural": "knowing good **and bad**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וָרָע",
+        "transliteration": "vaRa",
+        "englishLiteral": "and-bad",
+        "englishNatural": "and bad",
+        "root": "ra",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לָדַעַת טוֹב **וָרָע** וְעַתָּה פֶּן־",
+        "transliteration": "laDaat tov **vaRa** veAtah pen-",
+        "englishLiteral": "to-know good **and-bad** and-now or-else",
+        "englishNatural": "to know good **and bad** and now or else"
+      }
+    }
+  ]
+}

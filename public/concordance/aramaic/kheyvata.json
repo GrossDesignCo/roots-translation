@@ -1,0 +1,31 @@
+{
+  "key": "kheyvata",
+  "language": "aramaic",
+  "root": "cheiva",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 26,
+      "word": {
+        "originalScript": "חֵֽיוָתָא֙",
+        "transliteration": "kheyvata",
+        "englishLiteral": "the-beasts",
+        "englishNatural": "the beasts",
+        "root": "cheiva",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ כָּל־ **חֵֽיוָתָא֙** דִּ֣י קָֽדָמַ֔הּ",
+        "transliteration": "min- kol- **kheyvata** di qodamah",
+        "englishLiteral": "from- all- **the-beasts** which before-her",
+        "englishNatural": "from all **the beasts** that before it"
+      }
+    }
+  ]
+}

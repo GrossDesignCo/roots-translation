@@ -1,0 +1,33 @@
+{
+  "key": "beroam",
+  "language": "hebrew",
+  "root": "bara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בְּרָאָם",
+        "transliteration": "beroam",
+        "englishLiteral": "he-created",
+        "englishNatural": "he created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "זָכָר וּנְקֵבָה **בְּרָאָם** וַיְבָרֶךְ אֹתָם",
+        "transliteration": "zakhar uNeqevah **beroam** vaYevarekh otam",
+        "englishLiteral": "male and-female **he-created** and-blessed them",
+        "englishNatural": "Male and female **he created** and blessed them"
+      }
+    }
+  ]
+}

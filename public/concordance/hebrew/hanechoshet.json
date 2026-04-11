@@ -1,0 +1,31 @@
+{
+  "key": "hanechoshet",
+  "language": "hebrew",
+  "root": "nechoshet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 9
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "הַנְּחֹשֶׁת",
+        "transliteration": "haNechoshet",
+        "englishLiteral": "the-bronze",
+        "englishNatural": "the bronze",
+        "root": "nechoshet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל נְחַשׁ **הַנְּחֹשֶׁת** וָחָי",
+        "transliteration": "el nechash **haNechoshet** vaChai",
+        "englishLiteral": "to snake **the-bronze** and-lived",
+        "englishNatural": "to snake **the bronze** he lived"
+      }
+    }
+  ]
+}

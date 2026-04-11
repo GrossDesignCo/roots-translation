@@ -1,0 +1,33 @@
+{
+  "key": "shavu",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שָׁבוּ",
+        "transliteration": "shavu",
+        "englishLiteral": "they-returned",
+        "englishNatural": "they returned",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מַעֲשֵׂיהֶם כִּי־ **שָׁבוּ** מִדַּרְכָּם הָרָעָה",
+        "transliteration": "maaseihem ki- **shavu** midarkam haRaah",
+        "englishLiteral": "works-their that- **they-returned** from-way-their the-bad",
+        "englishNatural": "their works that **they returned** their way from the bad of"
+      }
+    }
+  ]
+}

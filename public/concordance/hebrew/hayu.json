@@ -1,0 +1,59 @@
+{
+  "key": "hayu",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הָיוּ",
+        "transliteration": "hayu",
+        "englishLiteral": "were",
+        "englishNatural": "were",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַנְּפִלִים **הָיוּ** בָאָרֶץ בַּיָּמִים",
+        "transliteration": "haNephalim **hayu** baAretz baYamim",
+        "englishLiteral": "The-Fallen (Nephilim) **were** in-land in-days",
+        "englishNatural": "The Fallen (Nephilim) **were** in the land days"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הָיוּ",
+        "transliteration": "hayu",
+        "englishLiteral": "they-were",
+        "englishNatural": "were",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּמֵי הַמַּבּוּל **הָיוּ** עַל־ הָאָרֶץ",
+        "transliteration": "uMey haMabbul **hayu** al- haAretz",
+        "englishLiteral": "and-waters-of the-flood **they-were** over- the-land",
+        "englishNatural": "and waters of the flood **were** over the land"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "tzono",
+  "language": "hebrew",
+  "root": "tzon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "צֹאנוֹ",
+        "transliteration": "tzono",
+        "englishLiteral": "his-flock",
+        "englishNatural": "his flock",
+        "root": "tzon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא מִבְּכֹרוֹת **צֹאנוֹ** וּמֵחֶלְבֵהֶן וַיִּשַׁע",
+        "transliteration": "hu miBekhorot **tzono** umeChelveHen vayYisha",
+        "englishLiteral": "he from-firstborn-of **his-flock** and-from-fat-of-them And-He-esteemed",
+        "englishNatural": "he from the firstborn of **his flock** and from their fat esteemed"
+      }
+    }
+  ]
+}

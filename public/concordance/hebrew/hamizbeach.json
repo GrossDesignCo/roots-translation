@@ -1,0 +1,31 @@
+{
+  "key": "hamizbeach",
+  "language": "hebrew",
+  "root": "mizbeach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הַמִּזְבֵּחַ",
+        "transliteration": "haMizbeach",
+        "englishLiteral": "the-altar",
+        "englishNatural": "the altar",
+        "root": "mizbeach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָקַח מֵעַל **הַמִּזְבֵּחַ**",
+        "transliteration": "lakach meAl **haMizbeach**",
+        "englishLiteral": "he-took from-over **the-altar**",
+        "englishNatural": "he had taken from over **the altar**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "key": "ehyeh",
+  "language": "hebrew",
+  "root": "ehyeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֶהְיֶה",
+        "transliteration": "ehyeh",
+        "englishLiteral": "I am",
+        "englishNatural": "I am",
+        "root": "ehyeh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ מֹשֶׁה **אֶהְיֶה** אֲשֶׁר אֶהְיֶה",
+        "transliteration": "el- Moshe **ehyeh** asher ehyeh",
+        "englishLiteral": "to- Drawn_Out (Moses) **I am** which I am",
+        "englishNatural": "to Drawn-Out (Moses) **I am** which I am"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אֶהְיֶה",
+        "transliteration": "ehyeh",
+        "englishLiteral": "I am",
+        "englishNatural": "I am",
+        "root": "ehyeh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶהְיֶה אֲשֶׁר **אֶהְיֶה** וַיֹּאמֶר כֹּה",
+        "transliteration": "ehyeh asher **ehyeh** vaYomer koh",
+        "englishLiteral": "I am which **I am** And-said Thus",
+        "englishNatural": "I am which **I am** And he said Thus"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אֶהְיֶה",
+        "transliteration": "ehyeh",
+        "englishLiteral": "I_Am",
+        "englishNatural": "I-Am",
+        "root": "ehyeh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִבְנֵי יִשְׂרָאֵל **אֶהְיֶה** שְׁלָחַנִי אֲלֵיכֶם",
+        "transliteration": "livney Yisrael **ehyeh** shlachani aleikhem",
+        "englishLiteral": "to-sons-of Struggles_with_God (Israel) **I_Am** sent-me to-you",
+        "englishNatural": "to the sons of Struggles-with-God (Israel) **I-Am** has sent me to you"
+      }
+    }
+  ]
+}

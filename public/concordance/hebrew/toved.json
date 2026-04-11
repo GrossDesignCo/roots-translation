@@ -1,0 +1,33 @@
+{
+  "key": "toved",
+  "language": "hebrew",
+  "root": "abad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "תֹּאבֵד",
+        "transliteration": "toved",
+        "englishLiteral": "it-will-perish",
+        "englishNatural": "will perish",
+        "root": "abad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְדֶרֶךְ רְשָׁעִים **תֹּאבֵד**",
+        "transliteration": "veDerekh reshaim **toved**",
+        "englishLiteral": "and-way-of wicked-ones **it-will-perish**",
+        "englishNatural": "and the way of the wicked **will perish**"
+      }
+    }
+  ]
+}

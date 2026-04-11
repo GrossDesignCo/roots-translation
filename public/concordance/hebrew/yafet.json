@@ -1,0 +1,55 @@
+{
+  "key": "yafet",
+  "language": "hebrew",
+  "root": "yafet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 32
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "יָפֶת",
+        "transliteration": "Yafet",
+        "englishLiteral": "Spacious (Japheth)",
+        "englishNatural": "Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חָם וְאֶת־ **יָפֶת**",
+        "transliteration": "Cham veEt- **Yafet**",
+        "englishLiteral": "Hot (Ham) and-↳ **Spacious (Japheth)**",
+        "englishNatural": "Hot (Ham) and **Spacious (Japheth)**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "יָפֶת",
+        "transliteration": "yafet",
+        "englishLiteral": "Spacious (Japheth)",
+        "englishNatural": "Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חָם וְאֶת־ **יָפֶת**",
+        "transliteration": "cham veEt- **yafet**",
+        "englishLiteral": "Hot (Ham) and-↳ **Spacious (Japheth)**",
+        "englishNatural": "Hot (Ham) and **Spacious (Japheth)**"
+      }
+    }
+  ]
+}

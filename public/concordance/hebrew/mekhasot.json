@@ -1,0 +1,85 @@
+{
+  "key": "mekhasot",
+  "language": "hebrew",
+  "root": "kasah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מְכַסּוֹת",
+        "transliteration": "mekhasot",
+        "englishLiteral": "covering",
+        "englishNatural": "covering",
+        "root": "kasah",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ וּשְׁתַּיִם **מְכַסּוֹת** אֵת גְּוִיֹּתֵיהֶנָה",
+        "transliteration": "ish uShtayim **mekhasot** et geviyoteihenah",
+        "englishLiteral": "man and-two **covering** ↳ bodies-their",
+        "englishNatural": "man and two **covering** ↳ their bodies"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 23
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מְכַסּוֹת",
+        "transliteration": "mekhasot",
+        "englishLiteral": "covering",
+        "englishNatural": "a covering",
+        "root": "kasah",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "לְאִישׁ שְׁתַּיִם **מְכַסּוֹת** לָהֵנָּה וּלְאִישׁ",
+        "transliteration": "leIsh shtayim **mekhasot** lahenah uLeIsh",
+        "englishLiteral": "to-man two **covering** to-them and-to-man",
+        "englishNatural": "to a man two **a covering** to them to a man"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 23
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "מְכַסּוֹת",
+        "transliteration": "mekhasot",
+        "englishLiteral": "covering",
+        "englishNatural": "a covering",
+        "root": "kasah",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְאִישׁ שְׁתַּיִם **מְכַסּוֹת** לָהֵנָּה אֵת",
+        "transliteration": "uLeIsh shtayim **mekhasot** lahenah et",
+        "englishLiteral": "and-to-man two **covering** to-them ↳",
+        "englishNatural": "to a man and two **a covering** to them ↳"
+      }
+    }
+  ]
+}

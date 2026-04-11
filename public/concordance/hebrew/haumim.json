@@ -1,0 +1,31 @@
+{
+  "key": "haumim",
+  "language": "hebrew",
+  "root": "am",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הָאֻמִּים",
+        "transliteration": "haUmim",
+        "englishLiteral": "the-peoples",
+        "englishNatural": "the peoples",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שַׁבְּחוּהוּ כָּל **הָאֻמִּים**",
+        "transliteration": "shabechuhu kol **haUmim**",
+        "englishLiteral": "send-to-him all **the-peoples**",
+        "englishNatural": "send to him all **the peoples**"
+      }
+    }
+  ]
+}

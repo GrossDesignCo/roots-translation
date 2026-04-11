@@ -1,0 +1,31 @@
+{
+  "key": "livnei-",
+  "language": "hebrew",
+  "root": "ben",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לִבְנֵי־",
+        "transliteration": "livnei-",
+        "englishLiteral": "to-sons-of-",
+        "englishNatural": "to the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֵן אֱמֹר **לִבְנֵי־** יִשְׂרָאֵל אֲנִי",
+        "transliteration": "lakhen emor **livnei-** Yisrael ani",
+        "englishLiteral": "therefore say **to-sons-of-** Struggles_with_God (Israel) I",
+        "englishNatural": "Therefore say **to the sons of** Struggles-with-God (Israel) I"
+      }
+    }
+  ]
+}

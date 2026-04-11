@@ -1,0 +1,55 @@
+{
+  "key": "arom",
+  "language": "hebrew",
+  "root": "arom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "עֵירֹם",
+        "transliteration": "arom",
+        "englishLiteral": "naked",
+        "englishNatural": "naked",
+        "root": "arom",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וָאִירָא כִּי־ **עֵירֹם** אָנֹכִי וָאֵחָבֵא",
+        "transliteration": "vaIra ki- **arom** anokhi vaEchave",
+        "englishLiteral": "and-I-feared that- **naked** I and-I-hid",
+        "englishNatural": "and I feared that **naked** I am and I hid"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עֵירֹם",
+        "transliteration": "arom",
+        "englishLiteral": "naked",
+        "englishNatural": "naked",
+        "root": "arom",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ כִּי **עֵירֹם** אָתָּה הֲמִן־",
+        "transliteration": "lekha ki **arom** atah haMin-",
+        "englishLiteral": "to-you that **naked** you Is_it_from-",
+        "englishNatural": "to you that **naked** you are Is it from"
+      }
+    }
+  ]
+}

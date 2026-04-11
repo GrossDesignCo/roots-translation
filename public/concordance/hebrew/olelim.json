@@ -1,0 +1,31 @@
+{
+  "key": "olelim",
+  "language": "hebrew",
+  "root": "olel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "עוֹלְלִ֣ים",
+        "transliteration": "olelim",
+        "englishLiteral": "infants",
+        "englishNatural": "infants",
+        "root": "olel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִפִּ֤י **עוֹלְלִ֣ים** וְ֭יֹנְקִים יִסַּ֣דְתָּ",
+        "transliteration": "miPi **olelim** veYoneqim yisadta",
+        "englishLiteral": "from-mouth-of **infants** and-sucklings you-have-founded",
+        "englishNatural": "from the mouth of **infants** and sucklings you have founded"
+      }
+    }
+  ]
+}

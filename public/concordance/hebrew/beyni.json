@@ -1,0 +1,55 @@
+{
+  "key": "beyni",
+  "language": "hebrew",
+  "root": "beyn",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 12
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בֵּינִי",
+        "transliteration": "beyni",
+        "englishLiteral": "between-me",
+        "englishNatural": "between me",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֲנִי נֹתֵן **בֵּינִי** וּבֵינֵיכֶם וּבֵין",
+        "transliteration": "ani noten **beyni** uvEynekhem uveyn",
+        "englishLiteral": "I giving **between-me** and-between-you and-between",
+        "englishNatural": "I am giving **between me** and between you and between"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בֵּינִי",
+        "transliteration": "beyni",
+        "englishLiteral": "between-me",
+        "englishNatural": "between me",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לְאוֹת בְּרִית **בֵּינִי** וּבֵין הָאָרֶץ",
+        "transliteration": "leOt berit **beyni** uveyn haAretz",
+        "englishLiteral": "for-sign-of covenant **between-me** and-between the-land",
+        "englishNatural": "for the sign of covenant **between me** and between the land"
+      }
+    }
+  ]
+}

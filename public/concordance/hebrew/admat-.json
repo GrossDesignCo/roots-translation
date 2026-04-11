@@ -1,0 +1,31 @@
+{
+  "key": "admat-",
+  "language": "hebrew",
+  "root": "adamah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "אַדְמַת־",
+        "transliteration": "admat-",
+        "englishLiteral": "ground-of",
+        "englishNatural": "the ground of",
+        "root": "adamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹמֵד עָלָיו **אַדְמַת־** קֹדֶשׁ הוּא",
+        "transliteration": "omed alav **admat-** qodesh hu",
+        "englishLiteral": "standing over-it **ground-of** holiness it",
+        "englishNatural": "standing over it **the ground of** holiness it is"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "gibbor-",
+  "language": "hebrew",
+  "root": "gibbor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "גִבֹּר־",
+        "transliteration": "gibbor-",
+        "englishLiteral": "mighty_one-of-",
+        "englishNatural": "a mighty-one of",
+        "root": "gibbor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא־ הָיָה **גִבֹּר־** צַיִד לִפְנֵי",
+        "transliteration": "hu- hayah **gibbor-** tsayid liFney",
+        "englishLiteral": "He- was **mighty_one-of-** hunter to-faces-of",
+        "englishNatural": "He was **a mighty-one of** the hunter to the face of"
+      }
+    }
+  ]
+}

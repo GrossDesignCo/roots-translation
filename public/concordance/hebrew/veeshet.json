@@ -1,0 +1,31 @@
+{
+  "key": "veeshet",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְאֵשֶׁת",
+        "transliteration": "veEshet",
+        "englishLiteral": "and-woman-of",
+        "englishNatural": "and the woman of",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי־ נֹחַ **וְאֵשֶׁת** נֹחַ וּשְׁלֹשֶׁת",
+        "transliteration": "beney- Noach **veEshet** Noach uShloshet",
+        "englishLiteral": "sons-of- Rest (Noah) **and-woman-of** Rest (Noah) and-three-of",
+        "englishNatural": "the sons of Rest (Noah) **and the woman of** Rest (Noah) and the three"
+      }
+    }
+  ]
+}

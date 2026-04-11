@@ -1,0 +1,31 @@
+{
+  "key": "bahemot",
+  "language": "hebrew",
+  "root": "behemah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בַּהֲמ֥וֹת",
+        "transliteration": "bahemot",
+        "englishLiteral": "beasts-of",
+        "englishNatural": "the beasts of",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֻּלָּ֑ם וְגַ֥ם **בַּהֲמ֥וֹת** שָׂדָֽי",
+        "transliteration": "kulam veGam **bahemot** sadai",
+        "englishLiteral": "all-of-them and-also **beasts-of** field",
+        "englishNatural": "all of them and also **the beasts of** the field"
+      }
+    }
+  ]
+}

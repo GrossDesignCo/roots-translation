@@ -1,0 +1,31 @@
+{
+  "key": "lekol-",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לְכָל־",
+        "transliteration": "leKol-",
+        "englishLiteral": "to-every-",
+        "englishNatural": "to every",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם שֵׁמוֹת **לְכָל־** הַבְּהֵמָה וּלְעוֹף",
+        "transliteration": "haAdam shemot **leKol-** haBehemah uLeOf",
+        "englishLiteral": "the-Earthling (Adam) names **to-every-** the-beast and-to-flyer",
+        "englishNatural": "And the Earthling (Adam) names **to every** beast and to flyer of"
+      }
+    }
+  ]
+}

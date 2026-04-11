@@ -1,0 +1,59 @@
+{
+  "key": "vayyiven",
+  "language": "hebrew",
+  "root": "banah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 20
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּבֶן",
+        "transliteration": "vayYiven",
+        "englishLiteral": "And-built",
+        "englishNatural": "built",
+        "root": "banah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּבֶן** נֹחַ מִזְבֵּחַ",
+        "transliteration": "**vayYiven** Noach mizbeach",
+        "englishLiteral": "**And-built** Rest (Noah) altar",
+        "englishNatural": "**built** And Rest (Noah) an altar"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 11
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וַיִּבֶן",
+        "transliteration": "vayYiven",
+        "englishLiteral": "and-he-built",
+        "englishNatural": "and he built",
+        "root": "banah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יָצָא אַשּׁוּר **וַיִּבֶן** אֶת־ נִינְוֵה",
+        "transliteration": "yatsa Ashur **vayYiven** et- Nineveh",
+        "englishLiteral": "brought_out Steppe (Assyria) **and-he-built** ↳ Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "brought-out Steppe (Assyria) **and he built** ↳ Dwelling-of-Fish (Nineveh)"
+      }
+    }
+  ]
+}

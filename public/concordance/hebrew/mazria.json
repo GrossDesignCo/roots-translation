@@ -1,0 +1,55 @@
+{
+  "key": "mazria",
+  "language": "hebrew",
+  "root": "zara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מַזְרִ֣יעַ",
+        "transliteration": "maZria",
+        "englishLiteral": "seeding",
+        "englishNatural": "seeding",
+        "root": "zara",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "דֶּ֗שֶׁא עֵ֚שֶׂב **מַזְרִ֣יעַ** זֶ֔רַע עֵ֣ץ",
+        "transliteration": "deshe esev **maZria** zera etz",
+        "englishLiteral": "tender_shoot herb **seeding** seed tree",
+        "englishNatural": "tender-shoot herb **seeding** seed tree"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מַזְרִ֣יעַ",
+        "transliteration": "maZria",
+        "englishLiteral": "seeding",
+        "englishNatural": "seeding",
+        "root": "zara",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "דֶּ֗שֶׁא עֵ֚שֶׂב **מַזְרִ֣יעַ** זֶ֔רַע לְמִינֵ֖הוּ",
+        "transliteration": "deshe esev **maZria** zera leMinehu",
+        "englishLiteral": "tender_shoot herb **seeding** seed to-its-kind",
+        "englishNatural": "tender-shoot herb **seeding** seed after its kind"
+      }
+    }
+  ]
+}

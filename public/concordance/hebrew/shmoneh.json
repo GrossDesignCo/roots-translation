@@ -1,0 +1,55 @@
+{
+  "key": "shmoneh",
+  "language": "hebrew",
+  "root": "shmoneh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "שְׁמֹנֶה",
+        "transliteration": "shmoneh",
+        "englishLiteral": "eight",
+        "englishNatural": "eight",
+        "root": "shmoneh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ שֵׁת **שְׁמֹנֶה** מֵאוֹת שָׁנָה",
+        "transliteration": "et- Shet **shmoneh** meot shanah",
+        "englishLiteral": "↳ Appointed (Seth) **eight** hundreds year",
+        "englishNatural": "↳ Appointed (Seth) **eight** hundred years"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 19
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "שְׁמֹנֶה",
+        "transliteration": "shmoneh",
+        "englishLiteral": "eight",
+        "englishNatural": "eight",
+        "root": "shmoneh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ חֲנוֹךְ **שְׁמֹנֶה** מֵאוֹת שָׁנָה",
+        "transliteration": "et- Chanokh **shmoneh** meot shanah",
+        "englishLiteral": "↳ Dedicated (Enoch) **eight** hundreds year",
+        "englishNatural": "↳ Dedicated (Enoch) **eight** hundred years"
+      }
+    }
+  ]
+}

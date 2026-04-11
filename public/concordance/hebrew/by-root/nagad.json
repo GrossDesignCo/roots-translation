@@ -1,0 +1,58 @@
+{
+  "root": "nagad",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הִגִּיד",
+        "transliteration": "higid",
+        "englishLiteral": "declared",
+        "englishNatural": "declared",
+        "root": "nagad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר מִי **הִגִּיד** לְךָ כִּי",
+        "transliteration": "vaYomer mi **higid** lekha ki",
+        "englishLiteral": "And-he-said Who **declared** to-you that",
+        "englishNatural": "And he said Who **declared** to you that"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "הִגִּיד",
+        "transliteration": "higid",
+        "englishLiteral": "he-declared",
+        "englishNatural": "he had declared",
+        "root": "nagad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "בֹרֵחַ כִּי **הִגִּיד** לָהֶם",
+        "transliteration": "boreach ki **higid** lahem",
+        "englishLiteral": "fleeing that **he-declared** to-them",
+        "englishNatural": "was fleeing that **he had declared** to them"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "qedem",
+  "language": "hebrew",
+  "root": "qedem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "קֶדֶם",
+        "transliteration": "qedem",
+        "englishLiteral": "before",
+        "englishNatural": "before",
+        "root": "qedem",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "רֵאשִׁית דַּרְכּוֹ **קֶדֶם** מִפְעָלָיו מֵאָז",
+        "transliteration": "reshit darko **qedem** miphalav meAz",
+        "englishLiteral": "heading-of way-his **before** from-works-his from-that_time",
+        "englishNatural": "the heading of his way **before** his works from that-time"
+      }
+    }
+  ]
+}

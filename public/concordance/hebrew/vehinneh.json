@@ -1,0 +1,31 @@
+{
+  "key": "vehinneh",
+  "language": "hebrew",
+  "root": "hinneh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 31
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְהִנֵּ֥ה",
+        "transliteration": "veHinneh",
+        "englishLiteral": "And-behold",
+        "englishNatural": "And behold",
+        "root": "hinneh",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁ֣ר עָשָׂ֑ה **וְהִנֵּ֥ה** ט֖וֹב מְאֹ֑ד",
+        "transliteration": "asher asah **veHinneh** tov meod",
+        "englishLiteral": "which made **And-behold** good very",
+        "englishNatural": "which was made **And behold** good very"
+      }
+    }
+  ]
+}

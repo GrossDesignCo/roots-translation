@@ -1,0 +1,111 @@
+{
+  "key": "bara",
+  "language": "hebrew",
+  "root": "bara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "בָּרָ֣א",
+        "transliteration": "bara",
+        "englishLiteral": "created",
+        "englishNatural": "created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּרֵאשִׁ֖ית **בָּרָ֣א** אֱלֹהִ֑ים אֵ֥ת",
+        "transliteration": "beReshit **bara** Elohim et",
+        "englishLiteral": "In-heading **created** Gods ↳",
+        "englishNatural": "In the heading **created** God ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בָּרָ֣א",
+        "transliteration": "bara",
+        "englishLiteral": "created",
+        "englishNatural": "created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּצֶ֥לֶם אֱלֹהִ֖ים **בָּרָ֣א** אֹת֑וֹ זָכָ֥ר",
+        "transliteration": "beTselem Elohim **bara** oto zakhar",
+        "englishLiteral": "in-image-of Gods **created** him male",
+        "englishNatural": "in the image of God **created** him male"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "בָּרָ֥א",
+        "transliteration": "bara",
+        "englishLiteral": "created",
+        "englishNatural": "created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "זָכָ֥ר וּנְקֵבָ֖ה **בָּרָ֥א** אֹתָֽם׃",
+        "transliteration": "zakhar uNekevah **bara** otam",
+        "englishLiteral": "male and-female **created** them",
+        "englishNatural": "male and female **created** them"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "בָּרָא",
+        "transliteration": "bara",
+        "englishLiteral": "created",
+        "englishNatural": "created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מְלַאכְתּוֹ אֲשֶׁר **בָּרָא** אֱלֹהִים לַעֲשׂוֹת׃",
+        "transliteration": "melakhto asher **bara** Elohim laasot",
+        "englishLiteral": "his-work which **created** Gods to-make",
+        "englishNatural": "his work which **created** God made"
+      }
+    }
+  ]
+}

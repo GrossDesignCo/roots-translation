@@ -1,0 +1,33 @@
+{
+  "key": "laledet",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לָלֶדֶת",
+        "transliteration": "laLedet",
+        "englishLiteral": "to-her-birthing",
+        "englishNatural": "to her birthing",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּסֶף **לָלֶדֶת** אֶת־ אָחִיו",
+        "transliteration": "vatTosef **laLedet** et- achiv",
+        "englishLiteral": "and-she-added **to-her-birthing** ↳ his-brother",
+        "englishNatural": "And she added **to her birthing** ↳ his brother"
+      }
+    }
+  ]
+}

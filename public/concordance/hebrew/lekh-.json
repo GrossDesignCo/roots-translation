@@ -1,0 +1,33 @@
+{
+  "key": "lekh-",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לֶךְ־",
+        "transliteration": "lekh-",
+        "englishLiteral": "walk-",
+        "englishNatural": "Walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ אַבְרָם **לֶךְ־** לְךָ מֵאַרְצְךָ",
+        "transliteration": "el- Abram **lekh-** lekha meArtsekha",
+        "englishLiteral": "to- Exalted-Father (Abram) **walk-** to-you from-land-your",
+        "englishNatural": "to Exalted-Father (Abram) **Walk** to yourself from your land"
+      }
+    }
+  ]
+}

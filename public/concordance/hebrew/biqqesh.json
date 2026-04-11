@@ -1,0 +1,33 @@
+{
+  "key": "biqqesh",
+  "language": "hebrew",
+  "root": "baqash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בִּקֵּשׁ",
+        "transliteration": "biqQesh",
+        "englishLiteral": "he-sought",
+        "englishNatural": "sought",
+        "root": "baqash",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "בִּינָה אֲשֶׁר־ **בִּקֵּשׁ** מֵהֶם הַמֶּלֶךְ",
+        "transliteration": "binah asher- **biqQesh** meHem haMelekh",
+        "englishLiteral": "understanding which- **he-sought** from-them the-king",
+        "englishNatural": "understanding which **sought** from them the king"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "root": "tzel",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "בַּצֵּל",
+        "transliteration": "baTzel",
+        "englishLiteral": "in-shadow",
+        "englishNatural": "in the shadow",
+        "root": "tzel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּשֶׁב תַּחְתֶּיהָ **בַּצֵּל** עַד אֲשֶׁר",
+        "transliteration": "vaYeshev tachteha **baTzel** ad asher",
+        "englishLiteral": "and-sat under-her **in-shadow** until which",
+        "englishNatural": "and sat under it **in the shadow** until which"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "צֵל",
+        "transliteration": "tzel",
+        "englishLiteral": "shadow",
+        "englishNatural": "a shadow",
+        "root": "tzel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְיוֹנָה לִהְיוֹת **צֵל** עַל־ רֹאשׁוֹ",
+        "transliteration": "leYonah lihyot **tzel** al- rosho",
+        "englishLiteral": "to-Dove (Jonah) to-be **shadow** over- head-his",
+        "englishNatural": "to Dove (Jonah) to be **a shadow** over his head"
+      }
+    }
+  ]
+}

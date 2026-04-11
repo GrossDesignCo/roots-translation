@@ -1,0 +1,33 @@
+{
+  "key": "vayotze",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיּוֹצֵא",
+        "transliteration": "vaYotze",
+        "englishLiteral": "And-he-brought-out",
+        "englishNatural": "And he brought out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיּוֹצֵא** אֹתוֹ הַחוּצָה",
+        "transliteration": "**vaYotze** oto haChutza",
+        "englishLiteral": "**And-he-brought-out** ↳ him the-outside",
+        "englishNatural": "**And he brought out** him outside"
+      }
+    }
+  ]
+}

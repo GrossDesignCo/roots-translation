@@ -1,0 +1,33 @@
+{
+  "key": "yiru",
+  "language": "hebrew",
+  "root": "raah_shepherd",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "יִרְעוּ",
+        "transliteration": "yiru",
+        "englishLiteral": "they-will-graze",
+        "englishNatural": "they will graze",
+        "root": "raah_shepherd",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מְאוּמָה אַל־ **יִרְעוּ** וּמַיִם אַל־",
+        "transliteration": "meumah al- **yiru** uMayim al-",
+        "englishLiteral": "anything not- **they-will-graze** and-waters not-",
+        "englishNatural": "anything not **they will graze** and waters not"
+      }
+    }
+  ]
+}

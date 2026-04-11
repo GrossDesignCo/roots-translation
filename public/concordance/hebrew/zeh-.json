@@ -1,0 +1,31 @@
+{
+  "key": "zeh-",
+  "language": "hebrew",
+  "root": "zeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "זֶה־",
+        "transliteration": "zeh-",
+        "englishLiteral": "this-",
+        "englishNatural": "this is",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁלָחַנִי אֲלֵיכֶם **זֶה־** שְּׁמִי לְעֹלָם",
+        "transliteration": "shlachani aleikhem **zeh-** shmi leOlam",
+        "englishLiteral": "sent-me to-you **this-** my-name to-the_age",
+        "englishNatural": "has sent me to you **this is** my name to the-age"
+      }
+    }
+  ]
+}

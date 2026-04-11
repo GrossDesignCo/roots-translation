@@ -1,0 +1,33 @@
+{
+  "key": "tizkrennu",
+  "language": "hebrew",
+  "root": "zakhar_remember",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "תִזְכְּרֶ֑נּוּ",
+        "transliteration": "tiZkrennu",
+        "englishLiteral": "you-will-remember-him",
+        "englishNatural": "you will remember him",
+        "root": "zakhar_remember",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱנ֥וֹשׁ כִּי־ **תִזְכְּרֶ֑נּוּ** וּבֶן־ אָ֝דָ֗ם",
+        "transliteration": "enosh ki- **tiZkrennu** uVen- Adam",
+        "englishLiteral": "Mortal_Man (Enosh) that- **you-will-remember-him** and-son-of- Earthling (Adam)",
+        "englishNatural": "Mortal-Man (Enosh) that **you will remember him** and the son of Earthling (Adam)"
+      }
+    }
+  ]
+}

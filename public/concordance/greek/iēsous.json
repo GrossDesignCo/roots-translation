@@ -1,0 +1,55 @@
+{
+  "key": "iēsous",
+  "language": "greek",
+  "root": "iesous",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "Ἰησοῦς",
+        "transliteration": "Iēsous",
+        "englishLiteral": "Salvation (Jesus)",
+        "englishNatural": "Salvation (Jesus)",
+        "root": "iesous",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "εἶπεν αὐτοῖς **Ἰησοῦς** ἀμὴν ἀμὴν",
+        "transliteration": "eipen autois **Iēsous** amēn amēn",
+        "englishLiteral": "said to-them **Salvation (Jesus)** Amen amen",
+        "englishNatural": "said to them **Salvation (Jesus)** Amen amen"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "Ἰησοῦς",
+        "transliteration": "Iēsous",
+        "englishLiteral": "Savior (Jesus)",
+        "englishNatural": "Savior (Jesus)",
+        "root": "iesous",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "Πέτρῳ ὁ **Ἰησοῦς** Σίμων Ἰωάννου",
+        "transliteration": "Petrō ho **Iēsous** Simōn Iōannou",
+        "englishLiteral": "Stone (Peter) The **Savior (Jesus)** Hearer (Simon) He—is-Gracious (John)",
+        "englishNatural": "Stone (Peter) The **Savior (Jesus)** Hearer (Simon) He—is-Gracious (John)"
+      }
+    }
+  ]
+}

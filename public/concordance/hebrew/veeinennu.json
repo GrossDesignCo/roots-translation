@@ -1,0 +1,31 @@
+{
+  "key": "veeinennu",
+  "language": "hebrew",
+  "root": "ayin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 24
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְאֵינֶנּוּ",
+        "transliteration": "veEinennu",
+        "englishLiteral": "and-not-him",
+        "englishNatural": "and he was not",
+        "root": "ayin",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הָאֱלֹהִים **וְאֵינֶנּוּ** כִּי לָקַח",
+        "transliteration": "et- haElohim **veEinennu** ki lakach",
+        "englishLiteral": "↳ the-Gods **and-not-him** that took",
+        "englishNatural": "with the God **and he was not** that took"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayevarech",
+  "language": "hebrew",
+  "root": "barakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְבָ֣רֶךְ",
+        "transliteration": "vaYeVarech",
+        "englishLiteral": "And-blessed",
+        "englishNatural": "blessed",
+        "root": "barakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְבָ֣רֶךְ** אֹתָם֮ אֱלֹהִ֒ים",
+        "transliteration": "**vaYeVarech** otam Elohim",
+        "englishLiteral": "**And-blessed** them Gods",
+        "englishNatural": "**blessed** them And God"
+      }
+    }
+  ]
+}

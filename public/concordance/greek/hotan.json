@@ -1,0 +1,31 @@
+{
+  "key": "hotan",
+  "language": "greek",
+  "root": "hotan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "ὅταν",
+        "transliteration": "hotan",
+        "englishLiteral": "when",
+        "englishNatural": "when",
+        "root": "hotan",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "ὅπου ἤθελες **ὅταν** δὲ γηράσῃς",
+        "transliteration": "hopou ētheles **hotan** de gērasēs",
+        "englishLiteral": "where you-wanted **when** but you-grow_old",
+        "englishNatural": "where you wanted **when** but you grow old"
+      }
+    }
+  ]
+}

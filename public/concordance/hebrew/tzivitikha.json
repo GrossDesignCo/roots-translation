@@ -1,0 +1,59 @@
+{
+  "key": "tzivitikha",
+  "language": "hebrew",
+  "root": "tzavah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "צִוִּיתִיךָ",
+        "transliteration": "tzivitikha",
+        "englishLiteral": "I-command-you",
+        "englishNatural": "I command you",
+        "root": "tzavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "הָעֵץ אֲשֶׁר **צִוִּיתִיךָ** לְבִלְתִּי אֲכָל־",
+        "transliteration": "haEtz asher **tzivitikha** levilti akhal-",
+        "englishLiteral": "the-tree which **I-command-you** to-not eat-",
+        "englishNatural": "the tree which **I command you** not to eat"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "צִוִּיתִיךָ",
+        "transliteration": "tzivitikha",
+        "englishLiteral": "I-commanded-you",
+        "englishNatural": "I commanded you",
+        "root": "tzavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "הָעֵץ אֲשֶׁר **צִוִּיתִיךָ** לֵאמֹר לֹא",
+        "transliteration": "haEtz asher **tzivitikha** lemor lo",
+        "englishLiteral": "the-tree which **I-commanded-you** to-say Not",
+        "englishNatural": "the tree which **I commanded you** saying not"
+      }
+    }
+  ]
+}

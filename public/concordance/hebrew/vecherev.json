@@ -1,0 +1,31 @@
+{
+  "key": "vecherev",
+  "language": "hebrew",
+  "root": "cherev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "בֶחָרֶב",
+        "transliteration": "veCherev",
+        "englishLiteral": "in-the-sword",
+        "englishNatural": "in the sword",
+        "root": "cherev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּדֶּבֶר אוֹ **בֶחָרֶב**",
+        "transliteration": "baDever o **veCherev**",
+        "englishLiteral": "in-the-plague or **in-the-sword**",
+        "englishNatural": "in the plague or **in the sword**"
+      }
+    }
+  ]
+}

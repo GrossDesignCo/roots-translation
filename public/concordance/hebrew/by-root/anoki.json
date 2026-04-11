@@ -1,0 +1,78 @@
+{
+  "root": "anoki",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אָנֹכִי",
+        "transliteration": "anoki",
+        "englishLiteral": "I",
+        "englishNatural": "I",
+        "root": "anoki",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "תִּירָא אַבְרָם **אָנֹכִי** מָגֵן לָךְ",
+        "transliteration": "tira Abram **anoki** magen lakh",
+        "englishLiteral": "you-will-fear Exalted_Father (Abram) **I** shield to-you",
+        "englishNatural": "You will fear Exalted-Father (Abram) **I** a shield to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְאָנֹכִי",
+        "transliteration": "veAnoki",
+        "englishLiteral": "And-I",
+        "englishNatural": "And I",
+        "root": "anoki",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "תִּתֶּן־ לִי **וְאָנֹכִי** הוֹלֵךְ עֲרִירִי",
+        "transliteration": "titen- li **veAnoki** holekh ariri",
+        "englishLiteral": "you-will-give- to-me **And-I** walking childless",
+        "englishNatural": "will you give to me **And I** walk childless"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אָנֹכִי",
+        "transliteration": "anoki",
+        "englishLiteral": "I",
+        "englishNatural": "I will",
+        "root": "anoki",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יַעֲבֹדוּ דָּן **אָנֹכִי** וְאַחֲרֵי־ כֵן",
+        "transliteration": "yaavodu dan **anoki** veAcharey- khen",
+        "englishLiteral": "they-will-serve judging **I** and-after- so",
+        "englishNatural": "they will serve judge **I will** and after so"
+      }
+    }
+  ]
+}

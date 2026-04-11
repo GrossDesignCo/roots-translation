@@ -1,0 +1,31 @@
+{
+  "key": "harshaim",
+  "language": "hebrew",
+  "root": "rasha",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הָרְשָׁעִים",
+        "transliteration": "haRshaim",
+        "englishLiteral": "the-wicked",
+        "englishNatural": "the wicked",
+        "root": "rasha",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא כֵן **הָרְשָׁעִים** כִּי אִם",
+        "transliteration": "lo khen **haRshaim** ki im",
+        "englishLiteral": "Not so **the-wicked** that if",
+        "englishNatural": "Not so **the wicked** that if"
+      }
+    }
+  ]
+}

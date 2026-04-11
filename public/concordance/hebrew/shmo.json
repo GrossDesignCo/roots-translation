@@ -1,0 +1,55 @@
+{
+  "key": "shmo",
+  "language": "hebrew",
+  "root": "shem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 29
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שְׁמוֹ",
+        "transliteration": "shmo",
+        "englishLiteral": "his-name",
+        "englishNatural": "his name",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקְרָא אֶת־ **שְׁמוֹ** נֹחַ לֵאמֹר",
+        "transliteration": "vaYiqra et- **shmo** Noach leEmor",
+        "englishLiteral": "And-called_out ↳ **his-name** Rest (Noah) to-say",
+        "englishNatural": "And he called-out ↳ **his name** Rest (Noah) to say"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שְׁמ֑וֹ",
+        "transliteration": "shmo",
+        "englishLiteral": "his-name",
+        "englishNatural": "his name",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ע֖וּץ אִיּ֣וֹב **שְׁמ֑וֹ** וְהָיָ֣ה הָאִ֣ישׁ",
+        "transliteration": "Uts Iyov **shmo** veHayah haIsh",
+        "englishLiteral": "Counsel (Uz) Persecuted (Job) **his-name** and-was the-man",
+        "englishNatural": "Counsel (Uz) Persecuted (Job) **his name** was man"
+      }
+    }
+  ]
+}

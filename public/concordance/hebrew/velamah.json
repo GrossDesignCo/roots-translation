@@ -1,0 +1,31 @@
+{
+  "key": "velamah",
+  "language": "hebrew",
+  "root": "lamah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְלָמָּה",
+        "transliteration": "velamah",
+        "englishLiteral": "and-why",
+        "englishNatural": "and why",
+        "root": "lamah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "חָרָה לָךְ **וְלָמָּה** נָפְלוּ פָנֶיךָ",
+        "transliteration": "charah lakh **velamah** nafelu panekha",
+        "englishLiteral": "it-fumed_angrily to-you **and-why** they-fell your-faces",
+        "englishNatural": "is it fuming-anger to you **and why** fallen have your faces"
+      }
+    }
+  ]
+}

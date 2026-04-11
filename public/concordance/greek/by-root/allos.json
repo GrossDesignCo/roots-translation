@@ -1,0 +1,30 @@
+{
+  "root": "allos",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "ἄλλος",
+        "transliteration": "allos",
+        "englishLiteral": "another",
+        "englishNatural": "another",
+        "root": "allos",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "σου καὶ **ἄλλος** σε ζώσει",
+        "transliteration": "sou kai **allos** se zōsei",
+        "englishLiteral": "of-you and **another** you will-gird",
+        "englishNatural": "of yours and **another** you will gird"
+      }
+    }
+  ]
+}

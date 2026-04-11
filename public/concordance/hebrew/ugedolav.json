@@ -1,0 +1,31 @@
+{
+  "key": "ugedolav",
+  "language": "hebrew",
+  "root": "gadol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּגְדֹלָיו",
+        "transliteration": "uGedolav",
+        "englishLiteral": "and-greats-his",
+        "englishNatural": "and his greats",
+        "root": "gadol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִטַּעַם הַמֶּלֶךְ **וּגְדֹלָיו** לֵאמֹר הָאָדָם",
+        "transliteration": "mitaam haMelekh **uGedolav** lemor haAdam",
+        "englishLiteral": "from-decree-of the-king **and-greats-his** to-say the-Earthling (Adam)",
+        "englishNatural": "from the decree of the king **and his greats** to say The Earthling (Adam)"
+      }
+    }
+  ]
+}

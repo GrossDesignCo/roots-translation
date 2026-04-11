@@ -1,0 +1,31 @@
+{
+  "key": "ushloshah",
+  "language": "hebrew",
+  "root": "shalosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וּשְׁלֹשָׁה",
+        "transliteration": "uShloshah",
+        "englishLiteral": "and-three",
+        "englishNatural": "and three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁלֹשָׁה יָמִים **וּשְׁלֹשָׁה** לֵילוֹת",
+        "transliteration": "shloshah yamim **uShloshah** leilot",
+        "englishLiteral": "three days **and-three** nights",
+        "englishNatural": "three days **and three** nights"
+      }
+    }
+  ]
+}

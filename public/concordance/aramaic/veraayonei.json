@@ -1,0 +1,31 @@
+{
+  "key": "veraayonei",
+  "language": "aramaic",
+  "root": "raavon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "וְרַעְיוֹנֵי",
+        "transliteration": "veRaayonei",
+        "englishLiteral": "and-thoughts-of",
+        "englishNatural": "and the thoughts of",
+        "root": "raavon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַלְכָּא יְהוֹדְעוּן **וְרַעְיוֹנֵי** לִבְבָךְ תִּנְדַּע",
+        "transliteration": "leMalka yehodun **veRaayonei** levavakh tindaa",
+        "englishLiteral": "to-king-the they-will-make-known **and-thoughts-of** heart-your you-will-know",
+        "englishNatural": "to the king might be made known **and the thoughts of** your heart you might know"
+      }
+    }
+  ]
+}

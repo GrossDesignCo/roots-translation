@@ -1,0 +1,31 @@
+{
+  "key": "beqol",
+  "language": "hebrew",
+  "root": "qol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "בְּקוֹל",
+        "transliteration": "beqol",
+        "englishLiteral": "with-voice-of",
+        "englishNatural": "with a voice of",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲנִי **בְּקוֹל** תּוֹדָה אֶזְבְּחָה־",
+        "transliteration": "vaAni **beqol** todah ezbechah-",
+        "englishLiteral": "And-I **with-voice-of** thanksgiving I-will-sacrifice-",
+        "englishNatural": "And I **with a voice of** thanksgiving I will sacrifice"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "yarkah",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְיַרְכָתֵהּ",
+        "transliteration": "veYarkhateh",
+        "englishLiteral": "and-thighs-its",
+        "englishNatural": "and its thighs",
+        "root": "yarkah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְסַף מְעוֹהִי **וְיַרְכָתֵהּ** דִּי נְחָשׁ",
+        "transliteration": "kesaf meohi **veYarkhateh** di nechash",
+        "englishLiteral": "silver belly-its **and-thighs-its** which bronze",
+        "englishNatural": "silver its belly **and its thighs** of bronze"
+      }
+    }
+  ]
+}

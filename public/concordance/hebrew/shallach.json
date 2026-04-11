@@ -1,0 +1,33 @@
+{
+  "key": "shallach",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 1
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "שַׁלַּח",
+        "transliteration": "shallach",
+        "englishLiteral": "send",
+        "englishNatural": "Send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֵי יִשְׂרָאֵל **שַׁלַּח** אֶת־ עַמִּי",
+        "transliteration": "elohei Yisrael **shallach** et- ammi",
+        "englishLiteral": "Gods-of Struggles_with_God (Israel) **send** ↳ people-my",
+        "englishNatural": "the God of Struggles-with-God (Israel) **Send-out** ↳ my people"
+      }
+    }
+  ]
+}

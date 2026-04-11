@@ -1,0 +1,31 @@
+{
+  "key": "bamishpat",
+  "language": "hebrew",
+  "root": "mishpat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בַּמִּשְׁפָּט",
+        "transliteration": "baMishpat",
+        "englishLiteral": "in-justice",
+        "englishNatural": "in justice",
+        "root": "mishpat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָקֻמוּ רְשָׁעִים **בַּמִּשְׁפָּט** וְחַטָּאִים בַּעֲדַת",
+        "transliteration": "yaqumu reshaim **baMishpat** veChataim baAdat",
+        "englishLiteral": "they-will-stand_up wicked-ones **in-justice** and-sinners in-assembly-of",
+        "englishNatural": "will stand-up the wicked **in justice** and sinners in the assembly of"
+      }
+    }
+  ]
+}

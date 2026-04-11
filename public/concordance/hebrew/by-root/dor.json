@@ -1,0 +1,126 @@
+{
+  "root": "dor",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בְּדֹרֹתָיו",
+        "transliteration": "bedorotav",
+        "englishLiteral": "in-generation-his",
+        "englishNatural": "in his generation",
+        "root": "dor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תָּמִים הָיָה **בְּדֹרֹתָיו** אֶת־ הָאֱלֹהִים",
+        "transliteration": "tamim hayah **bedorotav** et- haElohim",
+        "englishLiteral": "wholesome he-was **in-generation-his** ↳ the-Gods",
+        "englishNatural": "wholesome he was **in his generation** ↳ the God"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 12
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "לְדֹרֹת",
+        "transliteration": "ledorot",
+        "englishLiteral": "to-generations-of",
+        "englishNatural": "to the generations of",
+        "root": "dor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר אִתְּכֶם **לְדֹרֹת** עוֹלָם",
+        "transliteration": "asher itkhem **ledorot** olam",
+        "englishLiteral": "which with-you **to-generations-of** the_age",
+        "englishNatural": "which is with you **to the generations of** the-age"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְדוֹר",
+        "transliteration": "veDor",
+        "englishLiteral": "And-generation",
+        "englishNatural": "generation",
+        "root": "dor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְדוֹר** רְבִיעִי יָשׁוּבוּ",
+        "transliteration": "**veDor** revii yashuvu",
+        "englishLiteral": "**And-generation** fourth they-will-return",
+        "englishNatural": "**generation** And the fourth will return"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 26,
+      "word": {
+        "originalScript": "לְדֹר",
+        "transliteration": "leDor",
+        "englishLiteral": "to-generation",
+        "englishNatural": "to generation of",
+        "root": "dor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְזֶה זִכְרִי **לְדֹר** דֹּר",
+        "transliteration": "veZeh zikri **leDor** dor",
+        "englishLiteral": "and-this my-rememberance **to-generation** generation",
+        "englishNatural": "and this is my rememberance **to generation of** generation"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 27,
+      "word": {
+        "originalScript": "דֹּר",
+        "transliteration": "dor",
+        "englishLiteral": "generation",
+        "englishNatural": "generation",
+        "root": "dor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זִכְרִי לְדֹר **דֹּר**",
+        "transliteration": "zikri leDor **dor**",
+        "englishLiteral": "my-rememberance to-generation **generation**",
+        "englishNatural": "my rememberance to generation of **generation**"
+      }
+    }
+  ]
+}

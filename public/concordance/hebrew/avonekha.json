@@ -1,0 +1,31 @@
+{
+  "key": "avonekha",
+  "language": "hebrew",
+  "root": "avon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עֲוֹנֶךָ",
+        "transliteration": "avonekha",
+        "englishLiteral": "your-twisting",
+        "englishNatural": "your twisting",
+        "root": "avon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׂפָתֶיךָ וְסָר **עֲוֹנֶךָ** וְחַטָּאתְךָ תְּכֻפָּר",
+        "transliteration": "sfatekha veSar **avonekha** veChatatkha teKupar",
+        "englishLiteral": "your-lips and-turned_aside **your-twisting** and-your-sin will-be-covered",
+        "englishNatural": "your lips and turned-aside **your twisting** and your sin will be covered"
+      }
+    }
+  ]
+}

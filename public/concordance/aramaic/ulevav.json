@@ -1,0 +1,31 @@
+{
+  "key": "ulevav",
+  "language": "aramaic",
+  "root": "levav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "וּלְבַ֥ב",
+        "transliteration": "uLevav",
+        "englishLiteral": "and-heart",
+        "englishNatural": "and a heart",
+        "root": "levav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֶּאֱנָ֣שׁ הֳקִימַ֔ת **וּלְבַ֥ב** אֱנָ֖שׁ יְהִ֥יב",
+        "transliteration": "keEnash hoqimat **uLevav** enash yehiv",
+        "englishLiteral": "as-Mortal_Man (Enash) was-caused-to-stand **and-heart** Mortal_Man (Enash) was-given",
+        "englishNatural": "as a Mortal-Man (Enash) it was caused to stand **and a heart** of a Mortal-Man (Enash) was given"
+      }
+    }
+  ]
+}

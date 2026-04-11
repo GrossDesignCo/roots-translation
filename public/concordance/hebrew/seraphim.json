@@ -1,0 +1,31 @@
+{
+  "key": "seraphim",
+  "language": "hebrew",
+  "root": "seraph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "שְׂרָפִים",
+        "transliteration": "seraphim",
+        "englishLiteral": "Incinerating_ones",
+        "englishNatural": "Incinerating-ones",
+        "root": "seraph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**שְׂרָפִים** עֹמְדִים מִמַּעַל",
+        "transliteration": "**seraphim** omedim miMaal",
+        "englishLiteral": "**Incinerating_ones** were-standing from-above",
+        "englishNatural": "**Incinerating-ones** were standing above"
+      }
+    }
+  ]
+}

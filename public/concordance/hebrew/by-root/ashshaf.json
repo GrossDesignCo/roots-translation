@@ -1,0 +1,30 @@
+{
+  "root": "ashshaf",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הָאַשָּׁפִים",
+        "transliteration": "haAshshafim",
+        "englishLiteral": "the-astrologers",
+        "englishNatural": "the astrologers",
+        "root": "ashshaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הַחַרְטֻמִּים **הָאַשָּׁפִים** אֲשֶׁר בְּכָל־",
+        "transliteration": "kol- haChartomim **haAshshafim** asher beKol-",
+        "englishLiteral": "all- the-mages **the-astrologers** which in-all-",
+        "englishNatural": "all the mages **the astrologers** which were in all"
+      }
+    }
+  ]
+}

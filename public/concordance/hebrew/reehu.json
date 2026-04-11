@@ -1,0 +1,103 @@
+{
+  "key": "reehu",
+  "language": "hebrew",
+  "root": "rea",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "רֵעֵהוּ",
+        "transliteration": "reehu",
+        "englishLiteral": "friend-his",
+        "englishNatural": "his friend",
+        "root": "rea",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ שְׂפַת **רֵעֵהוּ**",
+        "transliteration": "ish sefat **reehu**",
+        "englishLiteral": "man lip-of **friend-his**",
+        "englishNatural": "man the lip of **his friend**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "רֵעֵהוּ",
+        "transliteration": "reehu",
+        "englishLiteral": "friend-his",
+        "englishNatural": "his friend",
+        "root": "rea",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בִּתְרוֹ לִקְרַאת **רֵעֵהוּ** וְאֶת־ הַצִּפֹּר",
+        "transliteration": "bitro liqrat **reehu** veEt- haTzippor",
+        "englishLiteral": "piece-of-him to-meet **friend-his** and-↳ the-bird",
+        "englishNatural": "piece of him to meet **his friend** and the birds"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "רֵעֵ֗הוּ",
+        "transliteration": "reehu",
+        "englishLiteral": "friend-his",
+        "englishNatural": "his friend",
+        "root": "rea",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִ֣ישׁ מֵאֵ֣ת **רֵעֵ֗הוּ** וְאִשָּׁה֙ מֵאֵ֣ת",
+        "transliteration": "ish meEt **reehu** veIshah meEt",
+        "englishLiteral": "man from-↳ **friend-his** and-woman from-↳",
+        "englishNatural": "a man from **his friend** and a woman from"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "רֵעֵהוּ",
+        "transliteration": "reehu",
+        "englishLiteral": "friend-his",
+        "englishNatural": "his friend",
+        "root": "rea",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ אֶל־ **רֵעֵהוּ** לְכוּ וְנַפִּילָה",
+        "transliteration": "ish el- **reehu** lekhu veNapilah",
+        "englishLiteral": "man to- **friend-his** Go and-let-us-cause-to-fall",
+        "englishNatural": "And man to **his friend** Go and let us cause-to-fall"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "imah",
+  "language": "hebrew",
+  "root": "im_with",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "עִמָּהּ",
+        "transliteration": "imah",
+        "englishLiteral": "with-her",
+        "englishNatural": "with her",
+        "root": "im_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "גַּם־ לְאִישָׁהּ **עִמָּהּ** וַיֹּאכַל׃",
+        "transliteration": "gam- leIshah **imah** vayokhal",
+        "englishLiteral": "also- to-her-man **with-her** and-ate",
+        "englishNatural": "also to her man **with her** and he ate"
+      }
+    }
+  ]
+}

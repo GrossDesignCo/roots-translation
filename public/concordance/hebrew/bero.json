@@ -1,0 +1,33 @@
+{
+  "key": "bero",
+  "language": "hebrew",
+  "root": "bara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בְּרֹא",
+        "transliteration": "bero",
+        "englishLiteral": "create",
+        "englishNatural": "created",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אָדָם בְּיוֹם **בְּרֹא** אֱלֹהִים אָדָם",
+        "transliteration": "Adam beYom **bero** Elohim Adam",
+        "englishLiteral": "Earthling (Adam) In-day **create** Gods Earthling (Adam)",
+        "englishNatural": "Earthling (Adam) In the day **created** God Earthling (Adam)"
+      }
+    }
+  ]
+}

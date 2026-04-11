@@ -1,0 +1,55 @@
+{
+  "key": "uneshey-",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 18
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וּנְשֵׁי־",
+        "transliteration": "uNeshey-",
+        "englishLiteral": "and-women-of-",
+        "englishNatural": "and the women of",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבָנֶיךָ וְאִשְׁתְּךָ **וּנְשֵׁי־** בָנֶיךָ אִתָּךְ",
+        "transliteration": "uVanekha veIshtekha **uNeshey-** vanekha itakh",
+        "englishLiteral": "and-sons-your and-woman-your **and-women-of-** sons-your with-you",
+        "englishNatural": "and your sons and your woman **and the women of** your sons with you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וּנְשֵׁי־",
+        "transliteration": "uNeshey-",
+        "englishLiteral": "and-women-of-",
+        "englishNatural": "and the women of",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבָנָיו וְאִשְׁתּוֹ **וּנְשֵׁי־** בָנָיו אִתּוֹ",
+        "transliteration": "uVanav veIshto **uNeshey-** vanav itto",
+        "englishLiteral": "and-sons-his and-woman-his **and-women-of-** sons-his with-him",
+        "englishNatural": "and his sons and his woman **and the women of** his sons with him"
+      }
+    }
+  ]
+}

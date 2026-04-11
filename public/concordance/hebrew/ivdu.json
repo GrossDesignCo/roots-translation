@@ -1,0 +1,33 @@
+{
+  "key": "ivdu",
+  "language": "hebrew",
+  "root": "avad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 24
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "עִבְדוּ",
+        "transliteration": "ivdu",
+        "englishLiteral": "serve",
+        "englishNatural": "serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר לְכוּ **עִבְדוּ** אֶת־ יְהוָה",
+        "transliteration": "vaYomer lekhu **ivdu** et- YHWH",
+        "englishLiteral": "and-said go **serve** ↳ He_Who_Is (YHWH)",
+        "englishNatural": "and said Go **serve** ↳ He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

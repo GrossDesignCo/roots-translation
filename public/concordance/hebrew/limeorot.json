@@ -1,0 +1,31 @@
+{
+  "key": "limeorot",
+  "language": "hebrew",
+  "root": "or",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לִמְאוֹרֹ֖ת",
+        "transliteration": "liMeOrot",
+        "englishLiteral": "for-light_sources",
+        "englishNatural": "for light-sources",
+        "root": "or",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָי֤וּ **לִמְאוֹרֹ֖ת** בִּרְקִ֣יעַ הַשָּׁמַ֔יִם",
+        "transliteration": "veHayu **liMeOrot** biRqia haShamayim",
+        "englishLiteral": "And-they-will-be **for-light_sources** in-hammering_out the-skies",
+        "englishNatural": "And they will be **for light-sources** in the hammering-out the skies"
+      }
+    }
+  ]
+}

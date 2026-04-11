@@ -1,0 +1,78 @@
+{
+  "root": "qodesh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "קֹדֶשׁ",
+        "transliteration": "qodesh",
+        "englishLiteral": "holiness",
+        "englishNatural": "holiness",
+        "root": "qodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָלָיו אַדְמַת־ **קֹדֶשׁ** הוּא",
+        "transliteration": "alav admat- **qodesh** hu",
+        "englishLiteral": "over-it ground-of **holiness** it",
+        "englishNatural": "over it the ground of **holiness** it is"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "קָדְשֶׁךָ",
+        "transliteration": "qodshekha",
+        "englishLiteral": "holiness-your",
+        "englishNatural": "your holiness",
+        "root": "qodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הֵיכַל **קָדְשֶׁךָ**",
+        "transliteration": "el- hekhal **qodshekha**",
+        "englishLiteral": "to- temple-of **holiness-your**",
+        "englishNatural": "to the temple of **your holiness**"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "קָדְשֶׁךָ",
+        "transliteration": "qodshekha",
+        "englishLiteral": "holiness-your",
+        "englishNatural": "your holiness",
+        "root": "qodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הֵיכַל **קָדְשֶׁךָ**",
+        "transliteration": "el- hekhal **qodshekha**",
+        "englishLiteral": "to- temple-of **holiness-your**",
+        "englishNatural": "to the temple of **your holiness**"
+      }
+    }
+  ]
+}

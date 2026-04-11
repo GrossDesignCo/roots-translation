@@ -1,0 +1,79 @@
+{
+  "key": "lefanai",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְפָנַי",
+        "transliteration": "leFanai",
+        "englishLiteral": "to-faces-my",
+        "englishNatural": "to my face",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּשָׂר בָּא **לְפָנַי** כִּי־ מָלְאָה",
+        "transliteration": "basar ba **leFanai** ki- maleah",
+        "englishLiteral": "flesh coming **to-faces-my** that- is-full",
+        "englishNatural": "flesh has come **to my face** that is full of"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לְפָנַי",
+        "transliteration": "leFanai",
+        "englishLiteral": "to-my-faces",
+        "englishNatural": "to my face",
+        "root": "panim",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "תַּעֲרֹךְ **לְפָנַי** שֻׁלְחָן נֶגֶד",
+        "transliteration": "taarokh **leFanai** shulchan neged",
+        "englishLiteral": "you-prepare **to-my-faces** table in-presence-of",
+        "englishNatural": "you prepare **to my face** a table in the presence of"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לְפָנָי",
+        "transliteration": "leFanai",
+        "englishLiteral": "before-my-faces",
+        "englishNatural": "before my face",
+        "root": "panim",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עָלְתָה רָעָתָם **לְפָנָי**",
+        "transliteration": "aletah raatam **leFanai**",
+        "englishLiteral": "went_up bad-their **before-my-faces**",
+        "englishNatural": "has come up their bad **before my face**"
+      }
+    }
+  ]
+}

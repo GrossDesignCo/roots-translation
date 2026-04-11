@@ -1,0 +1,103 @@
+{
+  "key": "elekha",
+  "language": "hebrew",
+  "root": "el",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "אֵלֶיךָ",
+        "transliteration": "elekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ נִרְאָה **אֵלֶיךָ** יְהוָה",
+        "transliteration": "lo- nirAh **elekha** YHWH",
+        "englishLiteral": "not- was_seen **to-you** He_Who_Is (YHWH)",
+        "englishNatural": "not was-seen **to you** He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֵלֶיךָ",
+        "transliteration": "elekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ נִרְאָה **אֵלֶיךָ** יְהוָה אֱלֹהֵי",
+        "transliteration": "ki- nirAh **elekha** YHWH elohei",
+        "englishLiteral": "that- was_seen **to-you** He_Who_Is (YHWH) Gods-of",
+        "englishNatural": "that he was-seen **to you** He-Who-Is (YHWH) the God of"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אֵלֶיךָ",
+        "transliteration": "elekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "זָכַרְתִּי וַתָּבוֹא **אֵלֶיךָ** תְפִלָּתִי אֶל־",
+        "transliteration": "zakharti vatavo **elekha** tefilati el-",
+        "englishLiteral": "I-remembered and-came **to-you** prayer-my to-",
+        "englishNatural": "I remembered and came **to you** my prayer to"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אֵלֶיךָ",
+        "transliteration": "elekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אָנֹכִי דֹּבֵר **אֵלֶיךָ**",
+        "transliteration": "anokhi dover **elekha**",
+        "englishLiteral": "I speaking **to-you**",
+        "englishNatural": "I am speaking **to you**"
+      }
+    }
+  ]
+}

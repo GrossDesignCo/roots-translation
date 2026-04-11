@@ -1,0 +1,33 @@
+{
+  "key": "yitzmach",
+  "language": "hebrew",
+  "root": "tzamach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "יִצְמָח",
+        "transliteration": "yitzmach",
+        "englishLiteral": "will-grow",
+        "englishNatural": "grown",
+        "root": "tzamach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׂדֶה טֶרֶם **יִצְמָח** כִּי לֹא",
+        "transliteration": "haSadeh terem **yitzmach** ki lo",
+        "englishLiteral": "the-field not-yet **will-grow** for not",
+        "englishNatural": "of the field had not yet **grown** for had not"
+      }
+    }
+  ]
+}

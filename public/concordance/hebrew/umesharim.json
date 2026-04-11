@@ -1,0 +1,31 @@
+{
+  "key": "umesharim",
+  "language": "hebrew",
+  "root": "mesharim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּמֵישָׁרִים",
+        "transliteration": "umesharim",
+        "englishLiteral": "and-uprightness",
+        "englishNatural": "and uprightness",
+        "root": "mesharim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צֶדֶק וּמִשְׁפָּט **וּמֵישָׁרִים**",
+        "transliteration": "tzedeq umishpat **umesharim**",
+        "englishLiteral": "righteousness and-justice **and-uprightness**",
+        "englishNatural": "righteousness and justice **and uprightness**"
+      }
+    }
+  ]
+}

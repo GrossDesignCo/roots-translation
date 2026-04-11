@@ -1,0 +1,54 @@
+{
+  "root": "yamin",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הַיָּמִין",
+        "transliteration": "haYamin",
+        "englishLiteral": "the-right",
+        "englishNatural": "the right",
+        "root": "yamin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְיֵה אֶל־ **הַיָּמִין** לְאַרְבַּעְתָּם וּפְנֵי־",
+        "transliteration": "aryeh el- **haYamin** leArbatam uFeney-",
+        "englishLiteral": "lion to- **the-right** to-four-of-them and-faces-of-",
+        "englishNatural": "a lion to **the right** to four of them and the face of"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "יְמִינוֹ",
+        "transliteration": "yemino",
+        "englishLiteral": "right_hand-his",
+        "englishNatural": "his right-hand",
+        "root": "yamin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָדַע בֵּין־ **יְמִינוֹ** לִשְׂמֹאלוֹ וּבְהֵמָה",
+        "transliteration": "yada beyn- **yemino** lismolo uvehemah",
+        "englishLiteral": "knows between- **right_hand-his** to-left_hand-his and-beast",
+        "englishNatural": "knows between **his right-hand** to his left-hand beast"
+      }
+    }
+  ]
+}

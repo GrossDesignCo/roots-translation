@@ -1,0 +1,54 @@
+{
+  "root": "khilyon",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְכִלְיוֹן֙",
+        "transliteration": "veKhilyon",
+        "englishLiteral": "and-Wasting (Chilion)",
+        "englishNatural": "and Wasting (Chilion)",
+        "root": "khilyon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָנָ֣יו מַחְל֤וֹן **וְכִלְיוֹן֙** אֶפְרָתִ֔ים מִבֵּ֥ית",
+        "transliteration": "vanav Machlon **veKhilyon** Efratim miBeit",
+        "englishLiteral": "sons-his Sickness (Mahlon) **and-Wasting (Chilion)** Fruitful_Ones (Ephrathites) from-House-of",
+        "englishNatural": "his sons Sickness (Mahlon) **and Wasting (Chilion)** Fruitful-Ones (Ephrathites) from the House of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְכִלְי֑וֹן",
+        "transliteration": "veKhilyon",
+        "englishLiteral": "and-Wasting (Chilion)",
+        "englishNatural": "and Wasting (Chilion)",
+        "root": "khilyon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנֵיהֶ֖ם מַחְל֣וֹן **וְכִלְי֑וֹן** וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה",
+        "transliteration": "shneyhem Machlon **veKhilyon** vatTishare haIshah",
+        "englishLiteral": "two-of-them Sickness (Mahlon) **and-Wasting (Chilion)** and-was-left the-woman",
+        "englishNatural": "the two of them Sickness (Mahlon) **and Wasting (Chilion)** was left and the woman"
+      }
+    }
+  ]
+}

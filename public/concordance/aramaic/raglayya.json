@@ -1,0 +1,55 @@
+{
+  "key": "raglayya",
+  "language": "aramaic",
+  "root": "regel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רַגְלַיָּא",
+        "transliteration": "raglayya",
+        "englishLiteral": "feet-the",
+        "englishNatural": "the feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְדִי חֲזַיְתָ **רַגְלַיָּא** וְאֶצְבְּעָתָא מִנְּהוֹן",
+        "transliteration": "veDi chazayta **raglayya** veEtzbeata minnehon",
+        "englishLiteral": "and-which you-saw **feet-the** and-toes-the from-them",
+        "englishNatural": "And which you saw **the feet** and the toes from them"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 42
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "רַגְלַיָּא",
+        "transliteration": "raglayya",
+        "englishLiteral": "feet-the",
+        "englishNatural": "the feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶצְבְּעָת **רַגְלַיָּא** מִנְּהוֹן פַּרְזֶל",
+        "transliteration": "veEtzbeata **raglayya** minnehon parzel",
+        "englishLiteral": "and-toes **feet-the** from-them iron",
+        "englishNatural": "And the toes of **the feet** from them iron"
+      }
+    }
+  ]
+}

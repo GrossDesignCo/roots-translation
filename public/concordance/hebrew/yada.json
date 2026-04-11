@@ -1,0 +1,59 @@
+{
+  "key": "yada",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יָדַע",
+        "transliteration": "yada",
+        "englishLiteral": "knew",
+        "englishNatural": "knew",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָאָדָם **יָדַע** אֶת־ חַוָּה",
+        "transliteration": "veHaAdam **yada** et- Chavah",
+        "englishLiteral": "And-the-Earthling (Adam) **knew** ↳ Life (Eve)",
+        "englishNatural": "And the Earthling (Adam) **knew** ↳ Life (Eve)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "יָדַע",
+        "transliteration": "yada",
+        "englishLiteral": "knows",
+        "englishNatural": "knows",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר לֹא־ **יָדַע** בֵּין־ יְמִינוֹ",
+        "transliteration": "asher lo- **yada** beyn- yemino",
+        "englishLiteral": "which not- **knows** between- right_hand-his",
+        "englishNatural": "which not **knows** between his right-hand"
+      }
+    }
+  ]
+}

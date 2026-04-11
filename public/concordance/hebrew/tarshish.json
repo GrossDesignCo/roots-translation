@@ -1,0 +1,55 @@
+{
+  "key": "tarshish",
+  "language": "hebrew",
+  "root": "tarshish",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "תַּרְשִׁישׁ",
+        "transliteration": "tarshish",
+        "englishLiteral": "golden_stone",
+        "englishNatural": "golden-stone",
+        "root": "tarshish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמַעֲשֵׂיהֶם כְּעֵין **תַּרְשִׁישׁ** וּדְמוּת אֶחָד",
+        "transliteration": "uMaaseihem keEin **tarshish** uDemut echad",
+        "englishLiteral": "and-work-their like-eye-of **golden_stone** and-likeness one",
+        "englishNatural": "and their work like an eye of **golden-stone** likeness and one"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "תַרְשִׁישׁ",
+        "transliteration": "Tarshish",
+        "englishLiteral": "golden_stone (Tarshish)",
+        "englishNatural": "golden-stone (Tarshish)",
+        "root": "tarshish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָנִיָּה בָּאָה **תַרְשִׁישׁ** וַיִּתֵּן שְׂכָרָהּ",
+        "transliteration": "aniyah baah **Tarshish** vaYitten sekhorah",
+        "englishLiteral": "ship going **golden_stone (Tarshish)** and-gave fare-her",
+        "englishNatural": "a ship going to **golden-stone (Tarshish)** and he paid the fare of it"
+      }
+    }
+  ]
+}

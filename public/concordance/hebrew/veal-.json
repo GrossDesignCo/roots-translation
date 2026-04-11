@@ -1,0 +1,103 @@
+{
+  "key": "veal-",
+  "language": "hebrew",
+  "root": "al_negative",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְעַל־",
+        "transliteration": "veAl-",
+        "englishLiteral": "and-over-",
+        "englishNatural": "and over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ פַּרְעֹה֙ **וְעַל־** מִצְרַ֔יִם אַחֲרֵי־",
+        "transliteration": "al- Paroh **veAl-** Mitzrayim acharei-",
+        "englishLiteral": "over- Pharaoh **and-over-** Double_Narrows (Egypt) after-",
+        "englishNatural": "over Pharaoh **and over** Double-Narrows (Egypt) after"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וְעַל־",
+        "transliteration": "veAl-",
+        "englishLiteral": "and-over-",
+        "englishNatural": "and on",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ בָּנִים **וְעַל־** בְּנֵי בָנִים",
+        "transliteration": "al- banim **veAl-** beney vanim",
+        "englishLiteral": "over- sons **and-over-** sons-of sons",
+        "englishNatural": "on sons **and on** sons of sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "וְעַל־",
+        "transliteration": "veAl-",
+        "englishLiteral": "and-over-",
+        "englishNatural": "and on",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ שִׁלֵּשִׁים **וְעַל־** רִבֵּעִים",
+        "transliteration": "al- shilleshim **veAl-** ribeim",
+        "englishLiteral": "over- third_ones **and-over-** fourth_ones",
+        "englishNatural": "on third-ones **and on** fourth-ones"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וְאַל־",
+        "transliteration": "veAl-",
+        "englishLiteral": "and-not-",
+        "englishNatural": "not",
+        "root": "al_negative",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "הָאִישׁ הַזֶּה **וְאַל־** תִּתֵּן עָלֵינוּ",
+        "transliteration": "haIsh haZeh **veAl-** titten alenu",
+        "englishLiteral": "the-man the-this **and-not-** give over-us",
+        "englishNatural": "the man the this **not** and give over us"
+      }
+    }
+  ]
+}

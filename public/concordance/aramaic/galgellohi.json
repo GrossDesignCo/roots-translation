@@ -1,0 +1,31 @@
+{
+  "key": "galgellohi",
+  "language": "aramaic",
+  "root": "galgal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "גַּלְגִּלּ֖וֹהִי",
+        "transliteration": "galgellohi",
+        "englishLiteral": "wheels-its",
+        "englishNatural": "its wheels",
+        "root": "galgal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי־ נ֔וּר **גַּלְגִּלּ֖וֹהִי** נ֥וּר דָּלִֽק",
+        "transliteration": "di- nur **galgellohi** nur daliq",
+        "englishLiteral": "of- fire **wheels-its** fire burning",
+        "englishNatural": "of fire **its wheels** fire burning"
+      }
+    }
+  ]
+}

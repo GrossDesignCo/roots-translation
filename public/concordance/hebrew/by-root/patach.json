@@ -1,0 +1,58 @@
+{
+  "root": "patach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "נִפְתָּחוּ",
+        "transliteration": "niftachu",
+        "englishLiteral": "they-were-opened",
+        "englishNatural": "were opened",
+        "root": "patach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲרֻבֹּת הַשָּׁמַיִם **נִפְתָּחוּ**",
+        "transliteration": "vaArubot haShamayim **niftachu**",
+        "englishLiteral": "and-windows-of the-skies **they-were-opened**",
+        "englishNatural": "and the windows of the skies **were opened**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "נִפְתְּחוּ",
+        "transliteration": "niftechu",
+        "englishLiteral": "they-were-opened",
+        "englishNatural": "were opened",
+        "root": "patach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "נְהַר־ כְּבָר **נִפְתְּחוּ** הַשָּׁמַיִם וָאֶרְאֶה",
+        "transliteration": "nehar- Kebar **niftechu** haShamayim vaEreh",
+        "englishLiteral": "River-of- Ancient (Kebar) **they-were-opened** the-skies and-I-saw",
+        "englishNatural": "River of Ancient (Kebar) **were opened** the skies and I saw"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "meat",
+  "language": "hebrew",
+  "root": "meat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מְּ֭עַט",
+        "transliteration": "meat",
+        "englishLiteral": "a_little",
+        "englishNatural": "a-little",
+        "root": "meat",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וַתְּחַסְּרֵ֣הוּ **מְּ֭עַט** מֵאֱלֹהִ֑ים וְכָב֖וֹד",
+        "transliteration": "vatechasrehu **meat** meElohim veKhavod",
+        "englishLiteral": "and-you-have-made-him-lack **a_little** from-God and-glory",
+        "englishNatural": "and you have made him lack **a-little** from God and glory"
+      }
+    }
+  ]
+}

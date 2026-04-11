@@ -1,0 +1,31 @@
+{
+  "key": "hasaar",
+  "language": "hebrew",
+  "root": "saar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הַסַּעַר",
+        "transliteration": "haSaar",
+        "englishLiteral": "the-tempest",
+        "englishNatural": "the tempest",
+        "root": "saar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי בְשֶׁלִּי **הַסַּעַר** הַגָּדוֹל הַזֶּה",
+        "transliteration": "ki beshelli **haSaar** haGadol haZeh",
+        "englishLiteral": "that for-sake-my **the-tempest** the-great the-this",
+        "englishNatural": "that for my sake **the tempest** the great the this"
+      }
+    }
+  ]
+}

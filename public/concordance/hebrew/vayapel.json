@@ -1,0 +1,33 @@
+{
+  "key": "vayapel",
+  "language": "hebrew",
+  "root": "naphal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּפֵּל",
+        "transliteration": "vaYapel",
+        "englishLiteral": "And-caused-to-fall",
+        "englishNatural": "to fall",
+        "root": "naphal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּפֵּל** יְהוָה אֱלֹהִים",
+        "transliteration": "**vaYapel** YHWH Elohim",
+        "englishLiteral": "**And-caused-to-fall** He_Who_Is (YHWH) Gods",
+        "englishNatural": "**to fall** And He-Who-Is (YHWH) God"
+      }
+    }
+  ]
+}

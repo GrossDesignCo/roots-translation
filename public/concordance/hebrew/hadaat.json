@@ -1,0 +1,55 @@
+{
+  "key": "hadaat",
+  "language": "hebrew",
+  "root": "daat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "הַדַּעַת",
+        "transliteration": "haDaat",
+        "englishLiteral": "the-knowledge",
+        "englishNatural": "of Knowledge",
+        "root": "daat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַגָּן וְעֵץ **הַדַּעַת** טוֹב וָרָע׃",
+        "transliteration": "haGan veEtz **haDaat** tov vaRa",
+        "englishLiteral": "the-garden and-tree **the-knowledge** good and-bad",
+        "englishNatural": "the garden and the Tree **of Knowledge** of Good and Bad"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 17
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַדַּעַת",
+        "transliteration": "haDaat",
+        "englishLiteral": "the-knowledge",
+        "englishNatural": "of Knowledge of",
+        "root": "daat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמֵעֵץ **הַדַּעַת** טוֹב וָרָע",
+        "transliteration": "uMeEtz **haDaat** tov vaRa",
+        "englishLiteral": "and-from-tree **the-knowledge** good and-bad",
+        "englishNatural": "and from the Tree **of Knowledge of** Good and Bad"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "miqnenu",
+  "language": "hebrew",
+  "root": "miqneh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מִקְנֵנוּ",
+        "transliteration": "miqnenu",
+        "englishLiteral": "livestock-our",
+        "englishNatural": "our livestock",
+        "root": "miqneh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגַם־ **מִקְנֵנוּ** יֵלֵךְ עִמָּנוּ",
+        "transliteration": "veGam- **miqnenu** yelekh imanu",
+        "englishLiteral": "and-also- **livestock-our** will-go with-us",
+        "englishNatural": "And also **our livestock** will go with us"
+      }
+    }
+  ]
+}

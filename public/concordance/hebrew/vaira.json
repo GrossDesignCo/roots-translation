@@ -1,0 +1,33 @@
+{
+  "key": "vaira",
+  "language": "hebrew",
+  "root": "yare",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וָאִירָא",
+        "transliteration": "vaIra",
+        "englishLiteral": "and-I-feared",
+        "englishNatural": "and I feared",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁמַעְתִּי בַּגָּן **וָאִירָא** כִּי־ עֵירֹם",
+        "transliteration": "shamati baGan **vaIra** ki- arom",
+        "englishLiteral": "I-heard in-Garden **and-I-feared** that- naked",
+        "englishNatural": "I heard in Garden **and I feared** that naked"
+      }
+    }
+  ]
+}

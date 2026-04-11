@@ -1,0 +1,78 @@
+{
+  "root": "goy",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לְגוֹי",
+        "transliteration": "leGoy",
+        "englishLiteral": "to-nation",
+        "englishNatural": "into a nation",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶעֶשְׂךָ **לְגוֹי** גָּדוֹל וַאֲבָרֶכְךָ",
+        "transliteration": "veEeskha **leGoy** gadol vaAvarekha",
+        "englishLiteral": "and-I-will-make-you **to-nation** great and-I-will-bless-you",
+        "englishNatural": "and I will make you **into a nation** great and I will bless you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַגּוֹי",
+        "transliteration": "haGoy",
+        "englishLiteral": "the-nation",
+        "englishNatural": "the nation",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגַם אֶת־ **הַגּוֹי** אֲשֶׁר יַעֲבֹדוּ",
+        "transliteration": "veGam et- **haGoy** asher yaavodu",
+        "englishLiteral": "And-also ↳ **the-nation** which they-will-serve",
+        "englishNatural": "And also ↳ **the nation** which they will serve"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "גּוֹיִם",
+        "transliteration": "goyim",
+        "englishLiteral": "nations",
+        "englishNatural": "nations",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה כָּל **גּוֹיִם** שַׁבְּחוּהוּ כָּל",
+        "transliteration": "YHWH kol **goyim** shabechuhu kol",
+        "englishLiteral": "He_Who_Is (YHWH) all **nations** send-to-him all",
+        "englishNatural": "He-Who-Is (YHWH) all **nations** send to him all"
+      }
+    }
+  ]
+}

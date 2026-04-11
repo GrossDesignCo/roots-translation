@@ -1,0 +1,33 @@
+{
+  "key": "geli",
+  "language": "aramaic",
+  "root": "gala",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "גְּלִי",
+        "transliteration": "geli",
+        "englishLiteral": "he-revealed",
+        "englishNatural": "has he revealed",
+        "root": "gala",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "רָזָה דְנָה **גְּלִי** לִי לָהֵן",
+        "transliteration": "razah denah **geli** li lahen",
+        "englishLiteral": "mystery-the this **he-revealed** to-me but",
+        "englishNatural": "the mystery this **has he revealed** to me but"
+      }
+    }
+  ]
+}

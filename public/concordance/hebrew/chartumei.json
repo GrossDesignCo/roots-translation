@@ -1,0 +1,31 @@
+{
+  "key": "chartumei",
+  "language": "hebrew",
+  "root": "chartom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "חַרְטֻמֵּי",
+        "transliteration": "chartumei",
+        "englishLiteral": "magicians-of",
+        "englishNatural": "and the magicians of",
+        "root": "chartom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַם־ הֵם **חַרְטֻמֵּי** מִצְרַיִם בְּלַהֲטֵיהֶם",
+        "transliteration": "gam- hem **chartumei** Mitzrayim beLahateihem",
+        "englishLiteral": "also- they **magicians-of** Double_Narrows (Egypt) in-bright_flashes-their",
+        "englishNatural": "also they **and the magicians of** Double-Narrows (Egypt) in their bright-flashes"
+      }
+    }
+  ]
+}

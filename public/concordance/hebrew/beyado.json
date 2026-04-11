@@ -1,0 +1,55 @@
+{
+  "key": "beyado",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "בְּיָדוֹ",
+        "transliteration": "beYado",
+        "englishLiteral": "in-hand-his",
+        "englishNatural": "in his hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַטֵּה הָאֱלֹהִים **בְּיָדוֹ**",
+        "transliteration": "mateh haElohim **beYado**",
+        "englishLiteral": "branch-of the-Gods **in-hand-his**",
+        "englishNatural": "the branch of the God **in his hand**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בְּיָדוֹ",
+        "transliteration": "beYado",
+        "englishLiteral": "in-hand-his",
+        "englishNatural": "into his hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּתֵּן אֲדֹנָי **בְּיָדוֹ** אֶת־ יְהוֹיָקִים",
+        "transliteration": "vaYitten Adonai **beYado** et- Yehoyakim",
+        "englishLiteral": "and-he-gave Lord **in-hand-his** ↳ He_Will_Establish (Jehoiakim)",
+        "englishNatural": "gave And the Lord **into his hand** ↳ He-Will-Establish (Jehoiakim)"
+      }
+    }
+  ]
+}

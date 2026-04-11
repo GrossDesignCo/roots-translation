@@ -1,0 +1,54 @@
+{
+  "root": "mayan",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "מַעְיְנֹת",
+        "transliteration": "mayanot",
+        "englishLiteral": "fountains-of",
+        "englishNatural": "the fountains of",
+        "root": "mayan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נִבְקְעוּ כָּל־ **מַעְיְנֹת** תְּהוֹם רַבָּה",
+        "transliteration": "nivqeu kol- **mayanot** tehom rabbah",
+        "englishLiteral": "they-were-broken_open all- **fountains-of** abyss great",
+        "englishNatural": "were broken-open all **the fountains of** abyss the great"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 24
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מַעְיָנוֹת",
+        "transliteration": "mayanot",
+        "englishLiteral": "springs",
+        "englishNatural": "springs",
+        "root": "mayan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נוֹלָדְתִּי בְּאֵין **מַעְיָנוֹת** נִכְבַּדֵּי מָיִם",
+        "transliteration": "noladti beEin **mayanot** nikhbadei mayim",
+        "englishLiteral": "was-birthed-I in-nothing **springs** heavy_with waters",
+        "englishNatural": "I was birthed in nothing **springs** heavy-with waters"
+      }
+    }
+  ]
+}

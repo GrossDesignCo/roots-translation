@@ -1,0 +1,32 @@
+{
+  "root": "pethach",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "פְּתִֽיחוּ",
+        "transliteration": "pethichu",
+        "englishLiteral": "had-been-opened",
+        "englishNatural": "had been opened",
+        "root": "pethach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peil"
+        }
+      },
+      "context": {
+        "hebrew": "יְתִ֖ב וְסִפְרִ֥ין **פְּתִֽיחוּ**",
+        "transliteration": "yetiv veSiphrin **pethichu**",
+        "englishLiteral": "had-sat and-books **had-been-opened**",
+        "englishNatural": "had sat and the books **had been opened**"
+      }
+    }
+  ]
+}

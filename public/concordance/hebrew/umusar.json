@@ -1,0 +1,55 @@
+{
+  "key": "umusar",
+  "language": "hebrew",
+  "root": "musar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וּמוּסָר",
+        "transliteration": "umusar",
+        "englishLiteral": "and-Discipline",
+        "englishNatural": "and Discipline",
+        "root": "musar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָדַעַת חָכְמָה **וּמוּסָר** לְהָבִין אִמְרֵי",
+        "transliteration": "ladaat chokmah **umusar** lehavin imre",
+        "englishLiteral": "To-know Wisdom **and-Discipline** To-understand words-of",
+        "englishNatural": "To know Wisdom **and Discipline** To understand words of"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּמוּסָר",
+        "transliteration": "uMusar",
+        "englishLiteral": "and-discipline",
+        "englishNatural": "and discipline",
+        "root": "musar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דָּעַת חָכְמָה **וּמוּסָר** אֱוִילִים בָּזוּ",
+        "transliteration": "daat chokmah **uMusar** ewilim bazu",
+        "englishLiteral": "knowledge Wisdom **and-discipline** fools despise",
+        "englishNatural": "knowledge Wisdom **and discipline** fools despise"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "miyom",
+  "language": "hebrew",
+  "root": "yom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מִיּוֹם",
+        "transliteration": "miYom",
+        "englishLiteral": "than-day",
+        "englishNatural": "than the day",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְיוֹם מָוֶת **מִיּוֹם** הִוָּלְדוֹ",
+        "transliteration": "veYom mavet **miYom** hiValdo",
+        "englishLiteral": "and-day of-death **than-day** of-his-birth",
+        "englishNatural": "and the day of death **than the day** of birth"
+      }
+    }
+  ]
+}

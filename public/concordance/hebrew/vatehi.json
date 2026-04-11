@@ -1,0 +1,59 @@
+{
+  "key": "vatehi",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתְּהִי",
+        "transliteration": "vatehi",
+        "englishLiteral": "And-was",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתְּהִי** רֵאשִׁית מַמְלַכְתּוֹ",
+        "transliteration": "**vatehi** reshit mamlakhto",
+        "englishLiteral": "**And-was** heading-of his-kingdom",
+        "englishNatural": "**was** and the heading of his kingdom"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וַתְּהִי",
+        "transliteration": "vatehi",
+        "englishLiteral": "and-it-was",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נְהַר־ כְּבָר **וַתְּהִי** עָלָיו שָׁם",
+        "transliteration": "nehar- Kebar **vatehi** alav sham",
+        "englishLiteral": "River-of- Ancient (Kebar) **and-it-was** over-him there",
+        "englishNatural": "River of Ancient (Kebar) **was** over him there"
+      }
+    }
+  ]
+}

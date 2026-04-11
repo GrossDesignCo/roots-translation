@@ -1,0 +1,31 @@
+{
+  "key": "vehaophanim",
+  "language": "hebrew",
+  "root": "ophan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְהָאוֹפַנִּים",
+        "transliteration": "veHaOphanim",
+        "englishLiteral": "and-the-wheels",
+        "englishNatural": "and the wheels",
+        "root": "ophan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָרוּחַ לָלֶכֶת **וְהָאוֹפַנִּים** יִנָּשְׂאוּ לְעֻמָּתָם",
+        "transliteration": "haRuach laLekhet **veHaOphanim** yinasu leUmatam",
+        "englishLiteral": "the-wind to-go **and-the-wheels** they-were-lifted to-alongside-them",
+        "englishNatural": "the wind to go **and the wheels** were lifted alongside them"
+      }
+    }
+  ]
+}

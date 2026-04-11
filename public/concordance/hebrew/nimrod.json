@@ -1,0 +1,31 @@
+{
+  "key": "nimrod",
+  "language": "hebrew",
+  "root": "nimrod",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "נִמְרֹד",
+        "transliteration": "Nimrod",
+        "englishLiteral": "Rebel (Nimrod)",
+        "englishNatural": "Rebel (Nimrod)",
+        "root": "nimrod",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָלַד אֶת־ **נִמְרֹד** הוּא הֵחֵל",
+        "transliteration": "yalad et- **Nimrod** hu hechel",
+        "englishLiteral": "he-birthed ↳ **Rebel (Nimrod)** he caused-to-begin",
+        "englishNatural": "birthed ↳ **Rebel (Nimrod)** he caused to begin"
+      }
+    }
+  ]
+}

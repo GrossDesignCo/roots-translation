@@ -1,0 +1,33 @@
+{
+  "key": "yuqam",
+  "language": "hebrew",
+  "root": "naqam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 15
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יֻקָּם",
+        "transliteration": "yuqam",
+        "englishLiteral": "it-will-be-avenged",
+        "englishNatural": "it will be avenged",
+        "root": "naqam",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hophal"
+        }
+      },
+      "context": {
+        "hebrew": "קַיִן שִׁבְעָתַיִם **יֻקָּם** וַיָּשֶׂם יְהוָה",
+        "transliteration": "Qayin shivatayim **yuqam** vayYasem YHWH",
+        "englishLiteral": "Acquired (Cain) sevenfold **it-will-be-avenged** And-he-set He_Who_Is (YHWH)",
+        "englishNatural": "Acquired (Cain) sevenfold **it will be avenged** set And He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

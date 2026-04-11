@@ -1,0 +1,33 @@
+{
+  "key": "vayedu",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַיֵּדְעוּ",
+        "transliteration": "vaYedu",
+        "englishLiteral": "and-knew",
+        "englishNatural": "and they knew",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֵינֵי שְׁנֵיהֶם **וַיֵּדְעוּ** כִּי עֵירֻמִּם",
+        "transliteration": "eyney shneyhem **vaYedu** ki eyrumim",
+        "englishLiteral": "eyes-of two-of-them **and-knew** that naked",
+        "englishNatural": "And the eyes of both of them **and they knew** that naked"
+      }
+    }
+  ]
+}

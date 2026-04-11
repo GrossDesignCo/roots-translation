@@ -1,0 +1,31 @@
+{
+  "key": "melakhtekha",
+  "language": "hebrew",
+  "root": "melakhah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מְּלַאכְתְּךָ",
+        "transliteration": "melakhtekha",
+        "englishLiteral": "work-your",
+        "englishNatural": "is your work",
+        "root": "melakhah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָנוּ מַה־ **מְּלַאכְתְּךָ** וּמֵאַיִן תָּבוֹא",
+        "transliteration": "lanu mah- **melakhtekha** uMeAyin tavo",
+        "englishLiteral": "to-us What- **work-your** and-from-where you-come",
+        "englishNatural": "is to us What **is your work** and from where come you"
+      }
+    }
+  ]
+}

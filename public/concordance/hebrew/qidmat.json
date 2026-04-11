@@ -1,0 +1,31 @@
+{
+  "key": "qidmat",
+  "language": "hebrew",
+  "root": "qedem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "קִדְמַת",
+        "transliteration": "qidmat",
+        "englishLiteral": "east-of",
+        "englishNatural": "east of",
+        "root": "qedem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא הַהֹלֵךְ **קִדְמַת** אַשּׁוּר וְהַנָּהָר",
+        "transliteration": "hu haHolekh **qidmat** Ashur veHaNahar",
+        "englishLiteral": "he the-walking **east-of** Steppe (Assyria) And-the-river",
+        "englishNatural": "it walks **east of** Steppe (Assyria) river"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "rechoboth",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "רְחֹבֹת",
+        "transliteration": "Rechoboth",
+        "englishLiteral": "Open_Places (Rehoboth)",
+        "englishNatural": "Open-Places (Rehoboth)",
+        "root": "rechoboth",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נִינְוֵה וְאֶת־ **רְחֹבֹת** עִיר וְאֶת־",
+        "transliteration": "Nineveh veEt- **Rechoboth** ir veEt-",
+        "englishLiteral": "Dwelling_of_Fish (Nineveh) and-↳ **Open_Places (Rehoboth)** city and-↳",
+        "englishNatural": "Dwelling-of-Fish (Nineveh) and **Open-Places (Rehoboth)** City and"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "yimshal",
+  "language": "hebrew",
+  "root": "mashal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "יִמְשָׁל",
+        "transliteration": "yimshal",
+        "englishLiteral": "he-will_rule",
+        "englishNatural": "will rule",
+        "root": "mashal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תְּשׁוּקָתֵךְ וְהוּא **יִמְשָׁל** בָּךְ",
+        "transliteration": "teshuqatek veHu **yimshal** bakh",
+        "englishLiteral": "fixation-your and-he **he-will_rule** in-you",
+        "englishNatural": "your fixation and he **will rule** in you"
+      }
+    }
+  ]
+}

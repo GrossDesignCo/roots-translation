@@ -1,0 +1,31 @@
+{
+  "key": "malkaiya",
+  "language": "aramaic",
+  "root": "melekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מַלְכַיָּא",
+        "transliteration": "malkaiya",
+        "englishLiteral": "kings-the",
+        "englishNatural": "kings",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְיוֹמֵיהוֹן דִּי **מַלְכַיָּא** אִנּוּן יְקִים",
+        "transliteration": "uBeYomehon di **malkaiya** innun yeqim",
+        "englishLiteral": "and-in-days-their which **kings-the** those he-will-raise_up",
+        "englishNatural": "And in their days which **kings** those will raise-up"
+      }
+    }
+  ]
+}

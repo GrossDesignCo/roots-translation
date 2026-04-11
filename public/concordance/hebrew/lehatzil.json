@@ -1,0 +1,33 @@
+{
+  "key": "lehatzil",
+  "language": "hebrew",
+  "root": "natzal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לְהַצִּיל",
+        "transliteration": "lehatzil",
+        "englishLiteral": "to-deliver",
+        "englishNatural": "to deliver",
+        "root": "natzal",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ רֹאשׁוֹ **לְהַצִּיל** לוֹ מֵרָעָתוֹ",
+        "transliteration": "al- rosho **lehatzil** lo meRaato",
+        "englishLiteral": "over- head-his **to-deliver** to-him from-bad-his",
+        "englishNatural": "over his head **to deliver** to him from his bad"
+      }
+    }
+  ]
+}

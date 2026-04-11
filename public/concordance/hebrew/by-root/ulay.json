@@ -1,0 +1,30 @@
+{
+  "root": "ulay",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אוּלַי",
+        "transliteration": "ulay",
+        "englishLiteral": "Perhaps",
+        "englishNatural": "If so be",
+        "root": "ulay",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ אֱלֹהֶיךָ **אוּלַי** יִתְעַשֵּׁת הָאֱלֹהִים",
+        "transliteration": "el- elohekha **ulay** yitashet haElohim",
+        "englishLiteral": "to- gods-your **Perhaps** will-think_upon the-Gods",
+        "englishNatural": "to your God **If so be** will think upon that God"
+      }
+    }
+  ]
+}

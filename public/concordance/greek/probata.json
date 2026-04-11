@@ -1,0 +1,79 @@
+{
+  "key": "probata",
+  "language": "greek",
+  "root": "probaton",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "πρόβατα",
+        "transliteration": "probata",
+        "englishLiteral": "sheep",
+        "englishNatural": "sheep",
+        "root": "probaton",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ὑμᾶς ὡς **πρόβατα** ἐν μέσῳ",
+        "transliteration": "humas hos **probata** en meso",
+        "englishLiteral": "you as **sheep** in midst",
+        "englishNatural": "you as **sheep** in the midst of"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "πρόβατά",
+        "transliteration": "probata",
+        "englishLiteral": "sheep",
+        "englishNatural": "sheep",
+        "root": "probaton",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ποίμαινε τὰ **πρόβατά** μου",
+        "transliteration": "poimaine ta **probata** mou",
+        "englishLiteral": "Shepherd the **sheep** my",
+        "englishNatural": "Shepherd these **sheep** of mine"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 34,
+      "word": {
+        "originalScript": "πρόβατά",
+        "transliteration": "probata",
+        "englishLiteral": "sheep",
+        "englishNatural": "sheep",
+        "root": "probaton",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "βόσκε τὰ **πρόβατά** μου",
+        "transliteration": "boske ta **probata** mou",
+        "englishLiteral": "Feed these **sheep** of-mine",
+        "englishNatural": "Feed these **sheep** of mine"
+      }
+    }
+  ]
+}

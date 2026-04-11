@@ -1,0 +1,31 @@
+{
+  "key": "autou",
+  "language": "greek",
+  "root": "autos",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "αὐτοῦ",
+        "transliteration": "autou",
+        "englishLiteral": "his",
+        "englishNatural": "of his",
+        "root": "autos",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "τὴν χεῖρα **αὐτοῦ**",
+        "transliteration": "tēn cheira **autou**",
+        "englishLiteral": "the hand **his**",
+        "englishNatural": "the hand **of his**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vaagadelah",
+  "language": "hebrew",
+  "root": "gadal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַאֲגַדְּלָה",
+        "transliteration": "vaAgadelah",
+        "englishLiteral": "and-I-will-make-great",
+        "englishNatural": "and I will make great",
+        "root": "gadal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "גָּדוֹל וַאֲבָרֶכְךָ **וַאֲגַדְּלָה** שְׁמֶךָ וֶהְיֵה",
+        "transliteration": "gadol vaAvarekha **vaAgadelah** shemekha veHeyeh",
+        "englishLiteral": "great and-I-will-bless-you **and-I-will-make-great** your-name and-be",
+        "englishNatural": "great and I will bless you **and I will make great** your name and be"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "leokhlah",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 21
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לְאָכְלָה",
+        "transliteration": "leOkhlah",
+        "englishLiteral": "to-food",
+        "englishNatural": "for food",
+        "root": "okhel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ וְלָהֶם **לְאָכְלָה**",
+        "transliteration": "lekha velahem **leOkhlah**",
+        "englishLiteral": "to-you and-to-them **to-food**",
+        "englishNatural": "for you and for them **for food**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְאָכְלָה",
+        "transliteration": "leOkhlah",
+        "englishLiteral": "for-food",
+        "englishNatural": "for food",
+        "root": "akhal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֶם יִהְיֶה **לְאָכְלָה** כְּיֶרֶק עֵשֶׂב",
+        "transliteration": "lakhem yihyeh **leOkhlah** keYereq esev",
+        "englishLiteral": "to-you will-be **for-food** like-green-of herb",
+        "englishNatural": "to you will be **for food** like the green of herb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "root": "chafatz",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "חָפַצְתָּ",
+        "transliteration": "chafatzta",
+        "englishLiteral": "you-delighted",
+        "englishNatural": "you have delighted",
+        "root": "chafatz",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה כַּאֲשֶׁר **חָפַצְתָּ** עָשִׂיתָ",
+        "transliteration": "YHWH kaAsher **chafatzta** asita",
+        "englishLiteral": "He_Who_Is (YHWH) as-which **you-delighted** you-made",
+        "englishNatural": "He-Who-Is (YHWH) as which **you have delighted** you have made"
+      }
+    }
+  ]
+}

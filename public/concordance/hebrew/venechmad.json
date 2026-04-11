@@ -1,0 +1,33 @@
+{
+  "key": "venechmad",
+  "language": "hebrew",
+  "root": "chamad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְנֶחְמָד",
+        "transliteration": "veNechmad",
+        "englishLiteral": "and-coveted",
+        "englishNatural": "and coveted",
+        "root": "chamad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא לָעֵינַיִם **וְנֶחְמָד** הָעֵץ לְהַשְׂכִּיל",
+        "transliteration": "hu laEynayim **veNechmad** haEtz leHashkil",
+        "englishLiteral": "it to-eyes **and-coveted** the-tree to-make-wise",
+        "englishNatural": "it was to the eyes **and coveted** was the tree to make wise"
+      }
+    }
+  ]
+}

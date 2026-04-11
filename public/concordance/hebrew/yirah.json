@@ -1,0 +1,55 @@
+{
+  "key": "yirah",
+  "language": "hebrew",
+  "root": "yirah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יִרְאָה",
+        "transliteration": "yirah",
+        "englishLiteral": "fear",
+        "englishNatural": "fear",
+        "root": "yirah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּירְאוּ הָאֲנָשִׁים **יִרְאָה** גְדוֹלָה וַיֹּאמְרוּ",
+        "transliteration": "vaYirau haAnashim **yirah** gedolah vaYomeru",
+        "englishLiteral": "And-feared the-men **fear** great and-said",
+        "englishNatural": "feared And the men **fear** a great and said"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יִרְאָה",
+        "transliteration": "yirah",
+        "englishLiteral": "fear",
+        "englishNatural": "fear of",
+        "root": "yirah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּירְאוּ הָאֲנָשִׁים **יִרְאָה** גְדוֹלָה אֶת־",
+        "transliteration": "vaYireu haAnashim **yirah** gedolah et-",
+        "englishLiteral": "And-feared the-men **fear** great ↳",
+        "englishNatural": "feared And the men **fear of** a great ↳"
+      }
+    }
+  ]
+}

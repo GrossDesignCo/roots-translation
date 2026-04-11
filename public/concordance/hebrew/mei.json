@@ -1,0 +1,31 @@
+{
+  "key": "mei",
+  "language": "hebrew",
+  "root": "mayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מֵי",
+        "transliteration": "mei",
+        "englishLiteral": "water-of",
+        "englishNatural": "water of",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יַרְבִּיצֵנִי עַל־ **מֵי** מְנֻחוֹת יְנַהֲלֵנִי",
+        "transliteration": "yaRbitzeini al- **mei** menuchot yeNahaleni",
+        "englishLiteral": "he-causes-me-to-lie-down over- **water-of** rest_place he-leads-me",
+        "englishNatural": "he lies-me-down over **water of** rest-place he leads me"
+      }
+    }
+  ]
+}

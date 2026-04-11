@@ -1,0 +1,33 @@
+{
+  "key": "vatokhal",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וַתֹּאכַל",
+        "transliteration": "vatokhal",
+        "englishLiteral": "and-ate",
+        "englishNatural": "and ate",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּקַּח מִפִּרְיוֹ **וַתֹּאכַל** וַתִּתֵּן גַּם־",
+        "transliteration": "vatiqach miPiryo **vatokhal** vatiten gam-",
+        "englishLiteral": "and-took from-fruit-its **and-ate** and-gave also-",
+        "englishNatural": "and she took from its fruit **and ate** and gave also"
+      }
+    }
+  ]
+}

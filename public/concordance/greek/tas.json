@@ -1,0 +1,31 @@
+{
+  "key": "tas",
+  "language": "greek",
+  "root": "ho",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "τὰς",
+        "transliteration": "tas",
+        "englishLiteral": "the",
+        "englishNatural": "those",
+        "root": "ho",
+        "morphology": {
+          "type": "article"
+        }
+      },
+      "context": {
+        "hebrew": "γηράσῃς ἐκτενεῖς **τὰς** χεῖράς σου",
+        "transliteration": "gērasēs ekteneis **tas** cheiras sou",
+        "englishLiteral": "you-grow_old you-will-stretch_out **the** hands of-you",
+        "englishNatural": "you grow old you will stretch out **those** hands of yours"
+      }
+    }
+  ]
+}

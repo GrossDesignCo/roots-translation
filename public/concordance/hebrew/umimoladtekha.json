@@ -1,0 +1,31 @@
+{
+  "key": "umimoladtekha",
+  "language": "hebrew",
+  "root": "moledet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וּמִמּוֹלַדְתְּךָ",
+        "transliteration": "umiMoladtekha",
+        "englishLiteral": "and-from-kindred-your",
+        "englishNatural": "and from your kindred",
+        "root": "moledet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ מֵאַרְצְךָ **וּמִמּוֹלַדְתְּךָ** וּמִבֵּית אָבִיךָ",
+        "transliteration": "lekha meArtsekha **umiMoladtekha** uMiBeyt avikha",
+        "englishLiteral": "to-you from-land-your **and-from-kindred-your** and-from-house-of father-your",
+        "englishNatural": "to yourself from your land **and from your kindred** and from the house of your father"
+      }
+    }
+  ]
+}

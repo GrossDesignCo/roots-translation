@@ -1,0 +1,31 @@
+{
+  "key": "achadim",
+  "language": "hebrew",
+  "root": "echad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אֲחָדִים",
+        "transliteration": "achadim",
+        "englishLiteral": "ones",
+        "englishNatural": "and of one",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶחָת וּדְבָרִים **אֲחָדִים**",
+        "transliteration": "echat uDevarim **achadim**",
+        "englishLiteral": "one and-words **ones**",
+        "englishNatural": "one words **and of one**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "chazaqah",
+  "language": "hebrew",
+  "root": "chazaq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "חֲזָקָה",
+        "transliteration": "chazaqah",
+        "englishLiteral": "intense",
+        "englishNatural": "in an intense",
+        "root": "chazaq",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי בְיָד **חֲזָקָה** יְשַׁלְּחֵם וּבְיָד",
+        "transliteration": "ki veYad **chazaqah** yeshalchem uVeYad",
+        "englishLiteral": "that in-hand **intense** he-will-send_out-them and-in-hand",
+        "englishNatural": "that hand **in an intense** he will send-out them hand"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "חֲזָקָה",
+        "transliteration": "chazaqah",
+        "englishLiteral": "intense",
+        "englishNatural": "and in an intense",
+        "root": "chazaq",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "יְשַׁלְּחֵם וּבְיָד **חֲזָקָה** יְגָרְשֵׁם מֵאַרְצוֹ",
+        "transliteration": "yeshalchem uVeYad **chazaqah** yeGarshem meArtzo",
+        "englishLiteral": "he-will-send_out-them and-in-hand **intense** he-will-drive_out-them from-land-his",
+        "englishNatural": "he will send-out them hand **and in an intense** he will drive-out them from his land"
+      }
+    }
+  ]
+}

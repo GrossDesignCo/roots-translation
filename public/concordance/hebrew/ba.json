@@ -1,0 +1,85 @@
+{
+  "key": "ba",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בָּא",
+        "transliteration": "ba",
+        "englishLiteral": "coming",
+        "englishNatural": "has come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ בָּשָׂר **בָּא** לְפָנַי כִּי־",
+        "transliteration": "kol- basar **ba** leFanai ki-",
+        "englishLiteral": "all- flesh **coming** to-faces-my that-",
+        "englishNatural": "all flesh **has come** to my face that"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בָּא",
+        "transliteration": "ba",
+        "englishLiteral": "he-came",
+        "englishNatural": "came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַיּוֹם הַזֶּה **בָּא** נֹחַ וְשֵׁם־",
+        "transliteration": "haYom haZeh **ba** Noach veShem-",
+        "englishLiteral": "the-day the-this **he-came** Rest (Noah) and-Name (Shem)-",
+        "englishNatural": "the day the this **came** Rest (Noah) and Name (Shem)"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בָּא",
+        "transliteration": "ba",
+        "englishLiteral": "came",
+        "englishNatural": "came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֶלֶךְ יְהוּדָה **בָּא** נְבוּכַדְנֶאצַּר מֶלֶךְ",
+        "transliteration": "melekh Yehudah **ba** Nevukhadnetzar melekh",
+        "englishLiteral": "king Praise (Judah) **came** Nebuchadnezzar king",
+        "englishNatural": "king of Praise (Judah) **came** Nebuchadnezzar king"
+      }
+    }
+  ]
+}

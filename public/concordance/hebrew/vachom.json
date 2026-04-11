@@ -1,0 +1,31 @@
+{
+  "key": "vachom",
+  "language": "hebrew",
+  "root": "chom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וָחֹם",
+        "transliteration": "vaChom",
+        "englishLiteral": "and-heat",
+        "englishNatural": "and heat",
+        "root": "chom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְקָצִיר וְקֹר **וָחֹם** וְקַיִץ וָחֹרֶף",
+        "transliteration": "veQatzir veQor **vaChom** veQayitz vaChoref",
+        "englishLiteral": "and-harvest and-cold **and-heat** and-summer and-winter",
+        "englishNatural": "and harvest and cold **and heat** and summer and winter"
+      }
+    }
+  ]
+}

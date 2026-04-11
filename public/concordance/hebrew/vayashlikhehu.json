@@ -1,0 +1,33 @@
+{
+  "key": "vayashlikhehu",
+  "language": "hebrew",
+  "root": "shalakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַיַּשְׁלִכֵהוּ",
+        "transliteration": "vaYashlikhehu",
+        "englishLiteral": "And-threw-it",
+        "englishNatural": "And he threw it",
+        "root": "shalakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הַשְׁלִיכֵהוּ אַרְצָה **וַיַּשְׁלִכֵהוּ** אַרְצָה וַיְהִי",
+        "transliteration": "hashlikhehu artzah **vaYashlikhehu** artzah vaYehi",
+        "englishLiteral": "throw-it land-ward **And-threw-it** land-ward and-was",
+        "englishNatural": "throw it to the land **And he threw it** to the land and it was"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vaer'eh",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וָאֶרְאֶה",
+        "transliteration": "vaEr'eh",
+        "englishLiteral": "And-I-saw",
+        "englishNatural": "And I saw",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַמֶּלֶךְ עֻזִּיָּהוּ **וָאֶרְאֶה** אֶת אֲדֹנָי",
+        "transliteration": "haMelekh Uzziyahu **vaEr'eh** et Adonai",
+        "englishLiteral": "the-king He_my_Strength (Uzziah) **And-I-saw** ↳ my-Lord",
+        "englishNatural": "the king He-my-Strength (Uzziah) **And I saw** ↳ my Lord"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "hamaor",
+  "language": "hebrew",
+  "root": "or",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הַמָּא֤וֹר",
+        "transliteration": "haMaor",
+        "englishLiteral": "the-light_source",
+        "englishNatural": "the light-source",
+        "root": "or",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַגְּדֹלִ֑ים אֶת־ **הַמָּא֤וֹר** הַגָּדֹ֔ל לְמֶמְשֶׁ֣לֶת",
+        "transliteration": "haGdolim et- **haMaor** haGadol leMemShelet",
+        "englishLiteral": "the-greats ↳ **the-light_source** the-great for-the-ruling-of",
+        "englishNatural": "the greats ↳ **the light-source** the great for the ruling of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "הַמָּא֤וֹר",
+        "transliteration": "haMaor",
+        "englishLiteral": "the-light_source",
+        "englishNatural": "the light-source",
+        "root": "or",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיּ֔וֹם וְאֶת־ **הַמָּא֤וֹר** הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת",
+        "transliteration": "haYom veEt- **haMaor** haQaton leMemShelet",
+        "englishLiteral": "the-day And-↳ **the-light_source** the-small for-the-ruling-of",
+        "englishNatural": "the day And **the light-source** the small for the ruling of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "teshufenu",
+  "language": "hebrew",
+  "root": "shuf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "תְּשׁוּפֶנּוּ",
+        "transliteration": "teshufenu",
+        "englishLiteral": "you-will-bruise-his",
+        "englishNatural": "will bruise his",
+        "root": "shuf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רֹאשׁ וְאַתָּה **תְּשׁוּפֶנּוּ** עָקֵב",
+        "transliteration": "rosh veAtah **teshufenu** aqev",
+        "englishLiteral": "head and-you **you-will-bruise-his** heel",
+        "englishNatural": "head and you **will bruise his** heel"
+      }
+    }
+  ]
+}

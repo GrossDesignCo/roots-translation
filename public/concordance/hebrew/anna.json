@@ -1,0 +1,55 @@
+{
+  "key": "anna",
+  "language": "hebrew",
+  "root": "anna",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אָנָּה",
+        "transliteration": "anna",
+        "englishLiteral": "please",
+        "englishNatural": "Please",
+        "root": "anna",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה וַיֹּאמְרוּ **אָנָּה** יְהוָה אַל־",
+        "transliteration": "YHWH vaYomeru **anna** YHWH al-",
+        "englishLiteral": "He_Who_Is (YHWH) and-said **please** He_Who_Is (YHWH) not-",
+        "englishNatural": "He-Who-Is (YHWH) and said **Please** He-Who-Is (YHWH) not"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אָנָּה",
+        "transliteration": "anna",
+        "englishLiteral": "please",
+        "englishNatural": "Please",
+        "root": "anna",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה וַיֹּאמַר **אָנָּה** יְהוָה הֲלוֹא־",
+        "transliteration": "YHWH vaYomer **anna** YHWH halo-",
+        "englishLiteral": "He_Who_Is (YHWH) and-said **please** He_Who_Is (YHWH) is-not-",
+        "englishNatural": "He-Who-Is (YHWH) and said **Please** He-Who-Is (YHWH) was not"
+      }
+    }
+  ]
+}

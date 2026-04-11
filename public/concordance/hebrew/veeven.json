@@ -1,0 +1,31 @@
+{
+  "key": "veeven",
+  "language": "hebrew",
+  "root": "even",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְאֶבֶן",
+        "transliteration": "veEven",
+        "englishLiteral": "and-stone",
+        "englishNatural": "and the stone",
+        "root": "even",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁם הַבְּדֹלַח **וְאֶבֶן** הַשֹּׁהַם׃",
+        "transliteration": "sham haBedolach **veEven** haShoham",
+        "englishLiteral": "there the-bedolach **and-stone** the-onyx",
+        "englishNatural": "there is the bedolach **and the stone** of onyx"
+      }
+    }
+  ]
+}

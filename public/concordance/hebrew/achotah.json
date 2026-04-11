@@ -1,0 +1,55 @@
+{
+  "key": "achotah",
+  "language": "hebrew",
+  "root": "achot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אֲחוֹתָהּ",
+        "transliteration": "achotah",
+        "englishLiteral": "sister-her",
+        "englishNatural": "her sister",
+        "root": "achot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִשָּׁה אֶל־ **אֲחוֹתָהּ** כַּנְפֵיהֶם לֹא־",
+        "transliteration": "ishah el- **achotah** kanfeihem lo-",
+        "englishLiteral": "woman to- **sister-her** wings-their not-",
+        "englishNatural": "woman to **her sister** their wings not"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 23
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אֲחוֹתָהּ",
+        "transliteration": "achotah",
+        "englishLiteral": "sister-her",
+        "englishNatural": "her sister",
+        "root": "achot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִשָּׁה אֶל־ **אֲחוֹתָהּ** לְאִישׁ שְׁתַּיִם",
+        "transliteration": "ishah el- **achotah** leIsh shtayim",
+        "englishLiteral": "woman to- **sister-her** to-man two",
+        "englishNatural": "woman to **her sister** to a man two"
+      }
+    }
+  ]
+}

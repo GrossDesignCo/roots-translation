@@ -1,0 +1,31 @@
+{
+  "key": "bisdey",
+  "language": "hebrew",
+  "root": "sadeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "בִּשְׂדֵ֣י",
+        "transliteration": "biSdey",
+        "englishLiteral": "in-fields-of",
+        "englishNatural": "in the fields of",
+        "root": "sadeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוּדָ֗ה לָגוּר֙ **בִּשְׂדֵ֣י** מוֹאָ֔ב ה֥וּא",
+        "transliteration": "Yehudah laGur **biSdey** Moav hu",
+        "englishLiteral": "Praise (Judah) to-sojourn **in-fields-of** From_Father (Moab) he",
+        "englishNatural": "Praise (Judah) to sojourn **in the fields of** From-Father (Moab) he"
+      }
+    }
+  ]
+}

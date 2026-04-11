@@ -1,0 +1,33 @@
+{
+  "key": "yadu",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "יָדְעוּ",
+        "transliteration": "yadu",
+        "englishLiteral": "knew",
+        "englishNatural": "knew",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עָשִׂיתָ כִּי־ **יָדְעוּ** הָאֲנָשִׁים כִּי־",
+        "transliteration": "asita ki- **yadu** haAnashim ki-",
+        "englishLiteral": "you-did that- **knew** the-men that-",
+        "englishNatural": "you have done that **knew** the men that"
+      }
+    }
+  ]
+}

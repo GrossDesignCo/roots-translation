@@ -1,0 +1,31 @@
+{
+  "key": "hashenit",
+  "language": "hebrew",
+  "root": "sheni",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הַשֵּׁנִ֖ית",
+        "transliteration": "haShenit",
+        "englishLiteral": "the-second",
+        "englishNatural": "the second",
+        "root": "sheni",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "עָרְפָּ֔ה וְשֵׁ֥ם **הַשֵּׁנִ֖ית** ר֑וּת וַיֵּ֥שְׁבוּ",
+        "transliteration": "Orpah veShem **haShenit** Rut vaYeshvu",
+        "englishLiteral": "Neck (Orpah) and-name-of **the-second** Friend (Ruth) and-they-sat",
+        "englishNatural": "Neck (Orpah) and the name of **the second** Friend (Ruth) and they sat"
+      }
+    }
+  ]
+}

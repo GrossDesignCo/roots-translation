@@ -1,0 +1,31 @@
+{
+  "key": "uveyad",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וּבְיָד",
+        "transliteration": "uVeYad",
+        "englishLiteral": "and-in-hand",
+        "englishNatural": "hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֲזָקָה יְשַׁלְּחֵם **וּבְיָד** חֲזָקָה יְגָרְשֵׁם",
+        "transliteration": "chazaqah yeshalchem **uVeYad** chazaqah yeGarshem",
+        "englishLiteral": "intense he-will-send_out-them **and-in-hand** intense he-will-drive_out-them",
+        "englishNatural": "in an intense he will send-out them **hand** and in an intense he will drive-out them"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vatitzpenehu",
+  "language": "hebrew",
+  "root": "tsaphan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַתִּצְפְּנֵהוּ",
+        "transliteration": "vaTitzpenehu",
+        "englishLiteral": "and-concealed-him",
+        "englishNatural": "and she concealed him",
+        "root": "tsaphan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "טוֹב הוּא **וַתִּצְפְּנֵהוּ** שְׁלֹשָׁה יְרָחִים",
+        "transliteration": "tov hu **vaTitzpenehu** shloshah yerachim",
+        "englishLiteral": "good he **and-concealed-him** three moon_cycles",
+        "englishNatural": "good he was **and she concealed him** three moon-cycles"
+      }
+    }
+  ]
+}

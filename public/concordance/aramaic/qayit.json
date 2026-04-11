@@ -1,0 +1,31 @@
+{
+  "key": "qayit",
+  "language": "aramaic",
+  "root": "qayit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "קַיִט",
+        "transliteration": "qayit",
+        "englishLiteral": "summer",
+        "englishNatural": "summer",
+        "root": "qayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִן אִדְּרֵי **קַיִט** וּנְשָׂאתְהוֹן רוּחָא",
+        "transliteration": "min idrei **qayit** uNesathon rucha",
+        "englishLiteral": "from threshing_floors-of **summer** and-carried-them wind-the",
+        "englishNatural": "from the threshing-floors of **summer** carried them and the wind"
+      }
+    }
+  ]
+}

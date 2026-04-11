@@ -1,0 +1,32 @@
+{
+  "root": "gaal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וְגָאַלְתִּי",
+        "transliteration": "veGaalti",
+        "englishLiteral": "and-I-will-redeem",
+        "englishNatural": "and I will redeem",
+        "root": "gaal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶתְכֶם מֵעֲבֹדָתָם **וְגָאַלְתִּי** אֶתְכֶם בִּזְרוֹעַ",
+        "transliteration": "etkhem meAvodatam **veGaalti** etkhem biZeroa",
+        "englishLiteral": "↳you from-service-their **and-I-will-redeem** ↳you in-arm",
+        "englishNatural": "you from their service **and I will redeem** you arm"
+      }
+    }
+  ]
+}

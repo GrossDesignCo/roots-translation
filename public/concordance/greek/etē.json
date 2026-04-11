@@ -1,0 +1,31 @@
+{
+  "key": "etē",
+  "language": "greek",
+  "root": "etos",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "ἔτη",
+        "transliteration": "etē",
+        "englishLiteral": "years",
+        "englishNatural": "years",
+        "root": "etos",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "αὐτὸν χίλια **ἔτη**",
+        "transliteration": "auton chilia **etē**",
+        "englishLiteral": "him thousand **years**",
+        "englishNatural": "him a thousand **years**"
+      }
+    }
+  ]
+}

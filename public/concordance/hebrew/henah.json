@@ -1,0 +1,31 @@
+{
+  "key": "henah",
+  "language": "hebrew",
+  "root": "henah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הֵנָּה",
+        "transliteration": "henah",
+        "englishLiteral": "they",
+        "englishNatural": "they were",
+        "root": "henah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי טֹבֹת **הֵנָּה** וַיִּקְחוּ לָהֶם",
+        "transliteration": "ki tovot **henah** vayYiqchu lahem",
+        "englishLiteral": "that good **they** and-they-took to-them",
+        "englishNatural": "that good **they were** and they took to themselves"
+      }
+    }
+  ]
+}

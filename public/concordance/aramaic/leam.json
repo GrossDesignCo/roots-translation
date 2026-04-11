@@ -1,0 +1,31 @@
+{
+  "key": "leam",
+  "language": "aramaic",
+  "root": "am",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לְעַם",
+        "transliteration": "leAm",
+        "englishLiteral": "to-people",
+        "englishNatural": "people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תִתְחַבַּל וּמַלְכוּתָה **לְעַם** אָחֳרָן לָא",
+        "transliteration": "titchabal uMalkhutah **leAm** achoran la",
+        "englishLiteral": "will-be_damaged and-kingdom-the **to-people** another not",
+        "englishNatural": "will be-damaged and the kingdom **people** to another not"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "root": "Adah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 19
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "עָדָה",
+        "transliteration": "Adah",
+        "englishLiteral": "Ornament (Adah)",
+        "englishNatural": "Ornament (Adah)",
+        "root": "Adah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם הָאַחַת **עָדָה** וְשֵׁם הַשֵּׁנִית",
+        "transliteration": "shem haAchat **Adah** veShem haShenith",
+        "englishLiteral": "name the-one **Ornament (Adah)** and-name the-second",
+        "englishNatural": "the name of the one **Ornament (Adah)** and the name of the second"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "עָדָה",
+        "transliteration": "Adah",
+        "englishLiteral": "Ornament (Adah)",
+        "englishNatural": "And Ornament (Adah)",
+        "root": "Adah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֵּלֶד **עָדָה** אֶת־ יָבָל",
+        "transliteration": "vaTeled **Adah** et- Yaval",
+        "englishLiteral": "And-bore **Ornament (Adah)** ↳ Stream (Jabal)",
+        "englishNatural": "bore **And Ornament (Adah)** ↳ Stream (Jabal)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "עָדָה",
+        "transliteration": "Adah",
+        "englishLiteral": "Ornament (Adah)",
+        "englishNatural": "Ornament (Adah)",
+        "root": "Adah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֶמֶךְ לְנָשָׁיו **עָדָה** וְצִלָּה שְׁמַעַן",
+        "transliteration": "Lemekh leNashayv **Adah** veTzillah sheman",
+        "englishLiteral": "Powerful (Lamech) to-women-his **Ornament (Adah)** and-Shadow (Zillah) hear",
+        "englishNatural": "And Powerful (Lamech) to his women **Ornament (Adah)** and Shadow (Zillah) hear"
+      }
+    }
+  ]
+}

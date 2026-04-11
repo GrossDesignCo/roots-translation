@@ -1,0 +1,33 @@
+{
+  "key": "yashav",
+  "language": "hebrew",
+  "root": "yashav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "יָשָׁב",
+        "transliteration": "yashav",
+        "englishLiteral": "has-sat",
+        "englishNatural": "has sat",
+        "root": "yashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֵצִים לֹא **יָשָׁב**",
+        "transliteration": "letzim lo **yashav**",
+        "englishLiteral": "scoffers not **has-sat**",
+        "englishNatural": "scoffers not **has sat**"
+      }
+    }
+  ]
+}

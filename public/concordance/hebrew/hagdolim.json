@@ -1,0 +1,55 @@
+{
+  "key": "hagdolim",
+  "language": "hebrew",
+  "root": "gadol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הַגְּדֹלִ֑ים",
+        "transliteration": "haGdolim",
+        "englishLiteral": "the-greats",
+        "englishNatural": "the greats",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנֵ֥י הַמְּאֹרֹ֖ת **הַגְּדֹלִ֑ים** אֶת־ הַמָּא֤וֹר",
+        "transliteration": "shney haMeOrot **haGdolim** et- haMaor",
+        "englishLiteral": "two the-light_sources **the-greats** ↳ the-light_source",
+        "englishNatural": "two the light-sources **the greats** ↳ the light-source"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַגְּדֹלִ֑ים",
+        "transliteration": "haGdolim",
+        "englishLiteral": "the-greats",
+        "englishNatural": "the greats",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַתַּנִּינִ֖ם **הַגְּדֹלִ֑ים** וְאֵ֣ת כָּל־",
+        "transliteration": "et- haTanninim **haGdolim** veEt kol-",
+        "englishLiteral": "↳ the-monsters **the-greats** And-↳ all",
+        "englishNatural": "↳ the monsters **the greats** And all"
+      }
+    }
+  ]
+}

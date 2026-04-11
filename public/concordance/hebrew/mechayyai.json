@@ -1,0 +1,55 @@
+{
+  "key": "mechayyai",
+  "language": "hebrew",
+  "root": "chayyim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 3
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "מֵחַיָּי",
+        "transliteration": "mechayyai",
+        "englishLiteral": "from-lives-my",
+        "englishNatural": "from my life",
+        "root": "chayyim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "טוֹב מוֹתִי **מֵחַיָּי**",
+        "transliteration": "tov moti **mechayyai**",
+        "englishLiteral": "good death-my **from-lives-my**",
+        "englishNatural": "good-is my death **from my life**"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "מֵחַיָּי",
+        "transliteration": "mechayyai",
+        "englishLiteral": "from-lives-my",
+        "englishNatural": "from my life",
+        "root": "chayyim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "טוֹב מוֹתִי **מֵחַיָּי**",
+        "transliteration": "tov moti **mechayyai**",
+        "englishLiteral": "good death-my **from-lives-my**",
+        "englishNatural": "Good-is my death **from my life**"
+      }
+    }
+  ]
+}

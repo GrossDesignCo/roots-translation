@@ -1,0 +1,31 @@
+{
+  "key": "hakeruvim",
+  "language": "hebrew",
+  "root": "keruv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הַכְּרֻבִים",
+        "transliteration": "haKeruvim",
+        "englishLiteral": "the-Approaching_Ones",
+        "englishNatural": "the Approaching-Ones",
+        "root": "keruv",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֵדֶן אֶת־ **הַכְּרֻבִים** וְאֵת לַהַט",
+        "transliteration": "Eden et- **haKeruvim** veEt lahat",
+        "englishLiteral": "Delight (Eden) ↳ **the-Approaching_Ones** and-↳ bright_flash",
+        "englishNatural": "of Delight (Eden) ↳ **the Approaching-Ones** and Bright-Flash"
+      }
+    }
+  ]
+}

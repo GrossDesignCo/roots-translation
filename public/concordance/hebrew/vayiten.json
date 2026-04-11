@@ -1,0 +1,59 @@
+{
+  "key": "vayiten",
+  "language": "hebrew",
+  "root": "natan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּתֵּ֥ן",
+        "transliteration": "vaYiten",
+        "englishLiteral": "And-put",
+        "englishNatural": "put",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּתֵּ֥ן** אֹתָ֛ם אֱלֹהִ֖ים",
+        "transliteration": "**vaYiten** otam Elohim",
+        "englishLiteral": "**And-put** them Gods",
+        "englishNatural": "**put** them And God"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַיִּתֵּן",
+        "transliteration": "vayiten",
+        "englishLiteral": "and-he-gave",
+        "englishNatural": "and gave",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֹתָם בַּתָּוֶךְ **וַיִּתֵּן** אִישׁ־ בִּתְרוֹ",
+        "transliteration": "otam batavekh **vayiten** ish- bitro",
+        "englishLiteral": "↳ them in-midst **and-he-gave** man- piece-of-him",
+        "englishNatural": "them in the midst **and gave** man piece of him"
+      }
+    }
+  ]
+}

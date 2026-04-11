@@ -1,0 +1,79 @@
+{
+  "key": "libbo",
+  "language": "hebrew",
+  "root": "lev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "לִבּוֹ",
+        "transliteration": "libbo",
+        "englishLiteral": "heart-his",
+        "englishNatural": "his heart",
+        "root": "lev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֵצֶר מַחְשְׁבֹת **לִבּוֹ** רַק רַע",
+        "transliteration": "yetzer machshevot **libbo** raq ra",
+        "englishLiteral": "forming-of thoughts-of **heart-his** only bad",
+        "englishNatural": "the forming of thoughts of **his heart** only bad"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לִבּוֹ",
+        "transliteration": "libbo",
+        "englishLiteral": "heart-his",
+        "englishNatural": "his heart",
+        "root": "lev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּתְעַצֵּב אֶל־ **לִבּוֹ**",
+        "transliteration": "vayYitatzev el- **libbo**",
+        "englishLiteral": "and-it-grieved-him to- **heart-his**",
+        "englishNatural": "and it grieved him to **his heart**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "לִבּוֹ",
+        "transliteration": "libbo",
+        "englishLiteral": "heart-his",
+        "englishNatural": "his heart",
+        "root": "lev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲחַזֵּק אֶת־ **לִבּוֹ** וְלֹא יְשַׁלַּח",
+        "transliteration": "achazek et- **libbo** veLo yeshallach",
+        "englishLiteral": "will-intensify ↳ **heart-his** and-not will-send",
+        "englishNatural": "will intensify ↳ **his heart** not and he will send-out"
+      }
+    }
+  ]
+}

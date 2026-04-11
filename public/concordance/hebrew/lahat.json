@@ -1,0 +1,31 @@
+{
+  "key": "lahat",
+  "language": "hebrew",
+  "root": "lahat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "לַהַט",
+        "transliteration": "lahat",
+        "englishLiteral": "bright_flash",
+        "englishNatural": "Bright-Flash",
+        "root": "lahat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַכְּרֻבִים וְאֵת **לַהַט** הַחֶרֶב הַמִּתְהַפֶּכֶת",
+        "transliteration": "haKeruvim veEt **lahat** haCherev haMithapekhet",
+        "englishLiteral": "the-Approaching_Ones and-↳ **bright_flash** the-sword the-overturning",
+        "englishNatural": "the Approaching-Ones and **Bright-Flash** the Sword the Overturning"
+      }
+    }
+  ]
+}

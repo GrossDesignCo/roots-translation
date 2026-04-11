@@ -1,0 +1,55 @@
+{
+  "key": "shimkha",
+  "language": "hebrew",
+  "root": "shem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שִׁ֭מְךָ",
+        "transliteration": "shimkha",
+        "englishLiteral": "your-name",
+        "englishNatural": "your name",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מָֽה־ אַדִּ֣יר **שִׁ֭מְךָ** בְּכָל־ הָאָ֑רֶץ",
+        "transliteration": "mah- addir **shimkha** beKhol- haAretz",
+        "englishLiteral": "what- majestic **your-name** in-all- the-land",
+        "englishNatural": "what majestic **your name** in all the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שִׁ֝מְךָ֗",
+        "transliteration": "shimkha",
+        "englishLiteral": "your-name",
+        "englishNatural": "your name",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מָֽה־ אַדִּ֥יר **שִׁ֝מְךָ֗** בְּכָל־ הָאָֽרֶץ",
+        "transliteration": "mah- addir **shimkha** beKhol- haAretz",
+        "englishLiteral": "what- majestic **your-name** in-all- the-land",
+        "englishNatural": "what majestic **your name** in all the land"
+      }
+    }
+  ]
+}

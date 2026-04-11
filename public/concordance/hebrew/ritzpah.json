@@ -1,0 +1,31 @@
+{
+  "key": "ritzpah",
+  "language": "hebrew",
+  "root": "ritzpah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "רִצְפָּה",
+        "transliteration": "ritzpah",
+        "englishLiteral": "live_coal",
+        "englishNatural": "a live-coal",
+        "root": "ritzpah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשְּׂרָפִים וּבְיָדוֹ **רִצְפָּה** בְּמֶלְקַחַיִם לָקַח",
+        "transliteration": "haSeraphim uVeYado **ritzpah** beMelkachayim lakach",
+        "englishLiteral": "the-incinerating_ones and-in-his-hand **live_coal** with-tongs he-took",
+        "englishNatural": "the incinerating-ones and in his hand **a live-coal** with tongs he had taken"
+      }
+    }
+  ]
+}

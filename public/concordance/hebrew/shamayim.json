@@ -1,0 +1,79 @@
+{
+  "key": "shamayim",
+  "language": "hebrew",
+  "root": "shamayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שָׁמָ֑יִם",
+        "transliteration": "shamayim",
+        "englishLiteral": "Skies",
+        "englishNatural": "Skies",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֛ים לָֽרָקִ֖יעַ **שָׁמָ֑יִם** וַֽיְהִי עֶ֥רֶב",
+        "transliteration": "Elohim laRaqia **shamayim** vaYehi erev",
+        "englishLiteral": "Gods to_the-hammering_out **Skies** And-was evening",
+        "englishNatural": "And God to the hammering-out **Skies** was And evening"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "שָׁ֭מַיִם",
+        "transliteration": "shamayim",
+        "englishLiteral": "skies",
+        "englishNatural": "skies",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צִפּ֣וֹר **שָׁ֭מַיִם** וּדְגֵ֣י הַיָּ֑ם",
+        "transliteration": "tsippor **shamayim** uDgei haYam",
+        "englishLiteral": "bird-of **skies** and-fish-of the-sea",
+        "englishNatural": "The bird of **skies** and the fish of the sea"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 27
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "שָׁמַיִם",
+        "transliteration": "shamayim",
+        "englishLiteral": "skies",
+        "englishNatural": "skies",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּהֲכִינוֹ **שָׁמַיִם** שָׁם אָנִי",
+        "transliteration": "baHakhino **shamayim** sham ani",
+        "englishLiteral": "In-establishing-his **skies** there I",
+        "englishNatural": "In his establishing **skies** there I"
+      }
+    }
+  ]
+}

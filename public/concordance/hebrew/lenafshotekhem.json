@@ -1,0 +1,31 @@
+{
+  "key": "lenafshotekhem",
+  "language": "hebrew",
+  "root": "nephesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לְנַפְשֹׁתֵיכֶם",
+        "transliteration": "leNafshotekhem",
+        "englishLiteral": "for-your-winds",
+        "englishNatural": "for your winds",
+        "root": "nephesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ דִּמְכֶם **לְנַפְשֹׁתֵיכֶם** אֶדְרֹשׁ מִיַּד",
+        "transliteration": "et- dimkhem **leNafshotekhem** edrosh miYad",
+        "englishLiteral": "↳ your-blood **for-your-winds** I-will-require from-hand-of",
+        "englishNatural": "↳ your blood **for your winds** I will require from the hand of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "belekhtkha",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בְּלֶכְתְּךָ",
+        "transliteration": "beLekhtkha",
+        "englishLiteral": "in-going-your",
+        "englishNatural": "In your going",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ מֹשֶׁה **בְּלֶכְתְּךָ** לָשׁוּב מִצְרַיְמָה",
+        "transliteration": "el- Moshe **beLekhtkha** lashuv mitzraymah",
+        "englishLiteral": "to- Drawn_Out (Moses) **in-going-your** to-return Double_Narrows (Egypt)-ward",
+        "englishNatural": "to Drawn-Out (Moses) **In your going** to return to Double-Narrows (Egypt)"
+      }
+    }
+  ]
+}

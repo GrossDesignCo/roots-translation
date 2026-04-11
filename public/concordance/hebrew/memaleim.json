@@ -1,0 +1,33 @@
+{
+  "key": "memaleim",
+  "language": "hebrew",
+  "root": "male",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "מְמַלְּאִים",
+        "transliteration": "meMaleim",
+        "englishLiteral": "filling",
+        "englishNatural": "filling",
+        "root": "male",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וְנִשָּׂא וְשׁוּלָיו **מְמַלְּאִים** אֶת הַהֵיכָל",
+        "transliteration": "veNisa veShulav **meMaleim** et haHeikhal",
+        "englishLiteral": "and-lifted_up and-his-garments **filling** ↳ the-temple",
+        "englishNatural": "and lifted-up and his garments **filling** ↳ the temple"
+      }
+    }
+  ]
+}

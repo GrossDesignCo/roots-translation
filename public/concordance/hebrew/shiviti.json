@@ -1,0 +1,33 @@
+{
+  "key": "shiviti",
+  "language": "hebrew",
+  "root": "shavah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שִׁוִּיתִי",
+        "transliteration": "shiviti",
+        "englishLiteral": "I-have-balanced",
+        "englishNatural": "I have balanced",
+        "root": "shavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אִם־ לֹא **שִׁוִּיתִי** וְדֹמַמְתִּי נַפְשִׁי",
+        "transliteration": "im- lo **shiviti** veDomamti nafshi",
+        "englishLiteral": "if- not **I-have-balanced** and-I-have-silenced my-throat",
+        "englishNatural": "If not **I have balanced** and I have silenced my throat"
+      }
+    }
+  ]
+}

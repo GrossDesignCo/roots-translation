@@ -1,0 +1,55 @@
+{
+  "key": "millifney",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מִלִּפְנֵי",
+        "transliteration": "milLiFney",
+        "englishLiteral": "from-faces-of",
+        "englishNatural": "from the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לִבְרֹחַ תַּרְשִׁישָׁה **מִלִּפְנֵי** יְהוָה וַיֵּרֶד",
+        "transliteration": "livroach Tarshishah **milLiFney** YHWH vaYered",
+        "englishLiteral": "to-flee golden_stone (Tarshish) **from-faces-of** He_Who_Is (YHWH) and-went_down",
+        "englishNatural": "to flee to golden-stone (Tarshish) **from the face of** He-Who-Is (YHWH) and went-down to"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "מִלִּפְנֵי",
+        "transliteration": "milLiFney",
+        "englishLiteral": "from-faces-of",
+        "englishNatural": "from the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עִמָּהֶם תַּרְשִׁישָׁה **מִלִּפְנֵי** יְהוָה",
+        "transliteration": "immahhem Tarshishah **milLiFney** YHWH",
+        "englishLiteral": "with-them golden_stone (Tarshish) **from-faces-of** He_Who_Is (YHWH)",
+        "englishNatural": "with them to golden-stone (Tarshish) **from the face of** He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

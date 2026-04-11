@@ -1,0 +1,31 @@
+{
+  "key": "marah",
+  "language": "hebrew",
+  "root": "mareh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "מַרְאֵה",
+        "transliteration": "marah",
+        "englishLiteral": "appearance-of",
+        "englishNatural": "The appearance of",
+        "root": "mareh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**מַרְאֵה** הָאוֹפַנִּים וּמַעֲשֵׂיהֶם",
+        "transliteration": "**marah** haOphanim uMaaseihem",
+        "englishLiteral": "**appearance-of** the-wheels and-work-their",
+        "englishNatural": "**The appearance of** the wheels and their work"
+      }
+    }
+  ]
+}

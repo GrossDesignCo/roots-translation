@@ -1,0 +1,33 @@
+{
+  "key": "tireh",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תִרְאֶה",
+        "transliteration": "tireh",
+        "englishLiteral": "you-will-see",
+        "englishNatural": "you will see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה עַתָּה **תִרְאֶה** אֲשֶׁר אֶעֱשֶׂה",
+        "transliteration": "Moshe atah **tireh** asher eEseh",
+        "englishLiteral": "Drawn_Out (Moses) now **you-will-see** which I-will-do",
+        "englishNatural": "Drawn-Out (Moses) Now **you will see** which I will do"
+      }
+    }
+  ]
+}

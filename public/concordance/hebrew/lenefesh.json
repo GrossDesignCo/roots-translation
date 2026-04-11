@@ -1,0 +1,31 @@
+{
+  "key": "lenefesh",
+  "language": "hebrew",
+  "root": "nephesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "לְנֶפֶשׁ",
+        "transliteration": "leNefesh",
+        "englishLiteral": "to-throat",
+        "englishNatural": "throat",
+        "root": "nephesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי הָאָדָם **לְנֶפֶשׁ** חַיָּה׃",
+        "transliteration": "vaYehi haAdam **leNefesh** chayyah",
+        "englishLiteral": "and-was the-Earthling (Adam) **to-throat** living",
+        "englishNatural": "was and the Earthling (Adam) **throat** a living"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "benosam",
+  "language": "hebrew",
+  "root": "nasa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "בְּנָסְעָם",
+        "transliteration": "beNosam",
+        "englishLiteral": "in-journeying-their",
+        "englishNatural": "in their journeying",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **בְּנָסְעָם** מִקֶּדֶם וַיִּמְצְאוּ",
+        "transliteration": "vayHi **beNosam** miQedem vayYimtse'u",
+        "englishLiteral": "And-was **in-journeying-their** from-east and-they-found",
+        "englishNatural": "And it was **in their journeying** from the east and they found"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "vechatatkha",
+  "language": "hebrew",
+  "root": "chata",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְחַטָּאתְךָ",
+        "transliteration": "veChatatkha",
+        "englishLiteral": "and-your-sin",
+        "englishNatural": "and your sin",
+        "root": "chata",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְסָר עֲוֹנֶךָ **וְחַטָּאתְךָ** תְּכֻפָּר",
+        "transliteration": "veSar avonekha **veChatatkha** teKupar",
+        "englishLiteral": "and-turned_aside your-twisting **and-your-sin** will-be-covered",
+        "englishNatural": "and turned-aside your twisting **and your sin** will be covered"
+      }
+    }
+  ]
+}

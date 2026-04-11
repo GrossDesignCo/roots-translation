@@ -1,0 +1,33 @@
+{
+  "key": "naflah",
+  "language": "hebrew",
+  "root": "naphal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "נָפְלָה",
+        "transliteration": "naflah",
+        "englishLiteral": "she-fell",
+        "englishNatural": "fell",
+        "root": "naphal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָבוֹא וְתַרְדֵּמָה **נָפְלָה** עַל־ אַבְרָם",
+        "transliteration": "lavo veTardemah **naflah** al- Abram",
+        "englishLiteral": "to-come and-deep_trance **she-fell** over- Exalted_Father (Abram)",
+        "englishNatural": "to come and a deep-trance **fell** over Exalted-Father (Abram)"
+      }
+    }
+  ]
+}

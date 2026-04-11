@@ -1,0 +1,82 @@
+{
+  "key": "oidas",
+  "language": "greek",
+  "root": "oida",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "οἶδας",
+        "transliteration": "oidas",
+        "englishLiteral": "know",
+        "englishNatural": "know",
+        "root": "oida",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect"
+        }
+      },
+      "context": {
+        "hebrew": "κύριε σὺ **οἶδας** ὅτι φιλῶ",
+        "transliteration": "kurie su **oidas** hoti philō",
+        "englishLiteral": "lord you **know** that I-brother_love",
+        "englishNatural": "Lord you **know** that I brother-love"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "οἶδας",
+        "transliteration": "oidas",
+        "englishLiteral": "know",
+        "englishNatural": "know",
+        "root": "oida",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect"
+        }
+      },
+      "context": {
+        "hebrew": "κύριε σὺ **οἶδας** ὅτι φιλῶ",
+        "transliteration": "kurie su **oidas** hoti philō",
+        "englishLiteral": "lord you **know** that I-brother_love",
+        "englishNatural": "Lord you **know** that I brother-love"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 24,
+      "word": {
+        "originalScript": "οἶδας",
+        "transliteration": "oidas",
+        "englishLiteral": "know",
+        "englishNatural": "know",
+        "root": "oida",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect"
+        }
+      },
+      "context": {
+        "hebrew": "πάντα σὺ **οἶδας** σὺ γινώσκεις",
+        "transliteration": "panta su **oidas** su ginōskeis",
+        "englishLiteral": "all you **know** you know",
+        "englishNatural": "all you **know** you know"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "root": "ataf",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בְּהִתְעַטֵּף",
+        "transliteration": "behitatef",
+        "englishLiteral": "In-fainting",
+        "englishNatural": "In fainting",
+        "root": "ataf",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּהִתְעַטֵּף** עָלַי נַפְשִׁי",
+        "transliteration": "**behitatef** alay nafshi",
+        "englishLiteral": "**In-fainting** over-me throat-my",
+        "englishNatural": "**In fainting** over me my throat"
+      }
+    }
+  ]
+}

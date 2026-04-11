@@ -1,0 +1,33 @@
+{
+  "key": "tedun",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "תֵּֽדְע֔וּן",
+        "transliteration": "tedun",
+        "englishLiteral": "you-will-know",
+        "englishNatural": "you will know",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּהֵמָ֑ה לְמַ֙עַן֙ **תֵּֽדְע֔וּן** אֲשֶׁר֙ יַפְלֶ֣ה",
+        "transliteration": "behemah lemaan **tedun** asher yafleh",
+        "englishLiteral": "beast for-sake-of **you-will-know** which will-distinguish",
+        "englishNatural": "beast for the sake of **you will know** which will distinguish"
+      }
+    }
+  ]
+}

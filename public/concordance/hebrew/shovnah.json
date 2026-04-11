@@ -1,0 +1,33 @@
+{
+  "key": "shovnah",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שֹׁ֔בְנָה",
+        "transliteration": "shovnah",
+        "englishLiteral": "return",
+        "englishNatural": "return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כַלֹּתֶ֔יהָ לֵ֣כְנָה **שֹׁ֔בְנָה** אִשָּׁ֖ה לְבֵ֣ית",
+        "transliteration": "khalloteha lekhnah **shovnah** ishah leVeit",
+        "englishLiteral": "daughters_in_law-her Go **return** woman to-house-of",
+        "englishNatural": "her daughters-in-law Go **return** woman to the house of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "peristera",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "περιστεραί",
+        "transliteration": "peristerai",
+        "englishLiteral": "doves",
+        "englishNatural": "doves",
+        "root": "peristera",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ὡς αἱ **περιστεραί**",
+        "transliteration": "hos hai **peristerai**",
+        "englishLiteral": "as the **doves**",
+        "englishNatural": "as the **doves**"
+      }
+    }
+  ]
+}

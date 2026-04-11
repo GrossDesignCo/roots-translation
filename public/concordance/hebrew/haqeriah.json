@@ -1,0 +1,31 @@
+{
+  "key": "haqeriah",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הַקְּרִיאָה",
+        "transliteration": "haQeriah",
+        "englishLiteral": "the-calling_out",
+        "englishNatural": "the calling-out",
+        "root": "qara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶיהָ אֶת־ **הַקְּרִיאָה** אֲשֶׁר אָנֹכִי",
+        "transliteration": "eleha et- **haQeriah** asher anokhi",
+        "englishLiteral": "to-her ↳ **the-calling_out** which I",
+        "englishNatural": "to her ↳ **the calling-out** which I"
+      }
+    }
+  ]
+}

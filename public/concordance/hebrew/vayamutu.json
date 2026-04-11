@@ -1,0 +1,33 @@
+{
+  "key": "vayamutu",
+  "language": "hebrew",
+  "root": "mut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּמ֥וּתוּ",
+        "transliteration": "vaYamutu",
+        "englishLiteral": "And-they-died",
+        "englishNatural": "died",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּמ֥וּתוּ** גַם־ שְׁנֵיהֶ֖ם",
+        "transliteration": "**vaYamutu** gam- shneyhem",
+        "englishLiteral": "**And-they-died** also- two-of-them",
+        "englishNatural": "**died** And also the two of them"
+      }
+    }
+  ]
+}

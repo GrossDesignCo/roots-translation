@@ -1,0 +1,54 @@
+{
+  "root": "levi",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לֵוִי",
+        "transliteration": "Levi",
+        "englishLiteral": "Joined (Levi)",
+        "englishNatural": "Joined (Levi)",
+        "root": "levi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ מִבֵּית **לֵוִי** וַיִּקַּח אֶת־",
+        "transliteration": "ish miBeyt **Levi** vaYiqqach et-",
+        "englishLiteral": "man from-house-of **Joined (Levi)** and-took ↳",
+        "englishNatural": "And a man from the house of **Joined (Levi)** and took ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לֵוִי",
+        "transliteration": "Levi",
+        "englishLiteral": "Joined (Levi)",
+        "englishNatural": "Joined (Levi)",
+        "root": "levi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ בַּת־ **לֵוִי**",
+        "transliteration": "et- bat- **Levi**",
+        "englishLiteral": "↳ daughter-of **Joined (Levi)**",
+        "englishNatural": "↳ a daughter of **Joined (Levi)**"
+      }
+    }
+  ]
+}

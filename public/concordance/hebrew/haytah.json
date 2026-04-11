@@ -1,0 +1,59 @@
+{
+  "key": "haytah",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הָיְתָ֥ה",
+        "transliteration": "haytah",
+        "englishLiteral": "was",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָאָ֗רֶץ **הָיְתָ֥ה** תֹ֙הוּ֙ וָבֹ֔הוּ",
+        "transliteration": "veHaAretz **haytah** tohu vaVohu",
+        "englishLiteral": "And-the-land **was** waste and-void",
+        "englishNatural": "And the land **was** waste and void"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הָיְתָה",
+        "transliteration": "haytah",
+        "englishLiteral": "was",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה וְנִינְוֵה **הָיְתָה** עִיר־ גְּדוֹלָה",
+        "transliteration": "YHWH veNineveh **haytah** ir- gedolah",
+        "englishLiteral": "He_Who_Is (YHWH) And-Dwelling_of_Fish (Nineveh) **was** city- great",
+        "englishNatural": "He-Who-Is (YHWH) And Dwelling-of-Fish (Nineveh) **was** a city great"
+      }
+    }
+  ]
+}

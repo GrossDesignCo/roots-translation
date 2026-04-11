@@ -1,0 +1,31 @@
+{
+  "key": "baam",
+  "language": "hebrew",
+  "root": "am",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בָּעָם",
+        "transliteration": "baAm",
+        "englishLiteral": "among-the-people",
+        "englishNatural": "among the people",
+        "root": "am",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְשַׁלַּח יְהוָה **בָּעָם** אֵת הַנְּחָשִׁים",
+        "transliteration": "vaYeshalach YHWH **baAm** et haNechashim",
+        "englishLiteral": "And-sent He_Who_Is (YHWH) **among-the-people** ↳ the-snakes",
+        "englishNatural": "sent And He-Who-Is (YHWH) **among the people** ↳ the snakes"
+      }
+    }
+  ]
+}

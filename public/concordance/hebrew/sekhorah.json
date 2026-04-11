@@ -1,0 +1,31 @@
+{
+  "key": "sekhorah",
+  "language": "hebrew",
+  "root": "sakhar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "שְׂכָרָהּ",
+        "transliteration": "sekhorah",
+        "englishLiteral": "fare-her",
+        "englishNatural": "the fare of it",
+        "root": "sakhar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תַרְשִׁישׁ וַיִּתֵּן **שְׂכָרָהּ** וַיֵּרֶד בָּהּ",
+        "transliteration": "Tarshish vaYitten **sekhorah** vaYered bah",
+        "englishLiteral": "golden_stone (Tarshish) and-gave **fare-her** and-went_down in-her",
+        "englishNatural": "golden-stone (Tarshish) and he paid **the fare of it** and went-down into it"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "key": "achar",
+  "language": "hebrew",
+  "root": "achar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 28
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אַחַר",
+        "transliteration": "achar",
+        "englishLiteral": "after",
+        "englishNatural": "after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי־ נֹחַ **אַחַר** הַמַּבּוּל שְׁלֹשׁ",
+        "transliteration": "vayechi- Noach **achar** haMabbul shelosh",
+        "englishLiteral": "And-lived- Rest (Noah) **after** the-flood three",
+        "englishNatural": "lived And Rest (Noah) **after** the flood three"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "אַחַר",
+        "transliteration": "achar",
+        "englishLiteral": "after",
+        "englishNatural": "after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶם בָּנִים **אַחַר** הַמַּבּוּל",
+        "transliteration": "lahem banim **achar** haMabbul",
+        "englishLiteral": "to-them sons **after** the-flood",
+        "englishNatural": "and to them sons **after** the flood"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "אַחַר",
+        "transliteration": "achar",
+        "englishLiteral": "After",
+        "englishNatural": "After",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**אַחַר** הַדְּבָרִים הָאֵלֶּה",
+        "transliteration": "**achar** haDvarim haEleh",
+        "englishLiteral": "**After** the-words the-these",
+        "englishNatural": "**After** words these"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אַחַר",
+        "transliteration": "achar",
+        "englishLiteral": "after",
+        "englishNatural": "after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַצֹּאן **אַחַר** הַמִּדְבָּר וַיָּבֹא",
+        "transliteration": "et- haTzon **achar** haMidbar vaYavo",
+        "englishLiteral": "↳ the-flock **after** the-wilderness and-came",
+        "englishNatural": "↳ the flock **after** the wilderness and came"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "אַחַ֣ר",
+        "transliteration": "achar",
+        "englishLiteral": "after",
+        "englishNatural": "after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַשִּׁפְחָ֔ה אֲשֶׁ֖ר **אַחַ֣ר** הָרֵחָ֑יִם וְכֹ֖ל",
+        "transliteration": "haShifchah asher **achar** haRechayim veKhol",
+        "englishLiteral": "the-maidservant which **after** the-millstones and-all",
+        "englishNatural": "the maidservant which **after** the millstones and all"
+      }
+    }
+  ]
+}

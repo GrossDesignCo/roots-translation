@@ -1,0 +1,31 @@
+{
+  "key": "habaqar",
+  "language": "hebrew",
+  "root": "baqar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הַבָּקָר",
+        "transliteration": "haBaqar",
+        "englishLiteral": "the-cattle",
+        "englishNatural": "the cattle",
+        "root": "baqar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם וְהַבְּהֵמָה **הַבָּקָר** וְהַצֹּאן אַל־",
+        "transliteration": "haAdam veHaBehemah **haBaqar** veHaTzon al-",
+        "englishLiteral": "the-Earthling (Adam) and-the-beast **the-cattle** and-the-flock not-",
+        "englishNatural": "The Earthling (Adam) and the beast **the cattle** and the flock not"
+      }
+    }
+  ]
+}

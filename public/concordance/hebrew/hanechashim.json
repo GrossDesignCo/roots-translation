@@ -1,0 +1,31 @@
+{
+  "key": "hanechashim",
+  "language": "hebrew",
+  "root": "nachash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַנְּחָשִׁים",
+        "transliteration": "haNechashim",
+        "englishLiteral": "the-snakes",
+        "englishNatural": "the snakes",
+        "root": "nachash",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּעָם אֵת **הַנְּחָשִׁים** הַשְּׂרָפִים וַיְנַשְּׁכוּ",
+        "transliteration": "baAm et **haNechashim** haSeraphim vaYeNashkhu",
+        "englishLiteral": "among-the-people ↳ **the-snakes** the-incinerating_ones and-they-struck",
+        "englishNatural": "among the people ↳ **the snakes** the incinerating-ones and they struck"
+      }
+    }
+  ]
+}

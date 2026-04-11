@@ -1,0 +1,31 @@
+{
+  "key": "vah",
+  "language": "hebrew",
+  "root": "be",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בָהּ",
+        "transliteration": "vah",
+        "englishLiteral": "in-it",
+        "englishNatural": "in it",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בָאָרֶץ וּרְבוּ־ **בָהּ**",
+        "transliteration": "baAretz urevu- **vah**",
+        "englishLiteral": "in-land and-multiply- **in-it**",
+        "englishNatural": "in the land and multiply **in it**"
+      }
+    }
+  ]
+}

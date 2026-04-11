@@ -1,0 +1,31 @@
+{
+  "key": "bilevav",
+  "language": "hebrew",
+  "root": "levav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בִּלְבַב",
+        "transliteration": "biLevav",
+        "englishLiteral": "in-heart-of",
+        "englishNatural": "in the heart of",
+        "root": "levav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתַּשְׁלִיכֵנִי מְצוּלָה **בִּלְבַב** יַמִּים וְנָהָר",
+        "transliteration": "vaTaShlikheni metzulah **biLevav** yamim veNahar",
+        "englishLiteral": "And-you-sent-me deep **in-heart-of** seas and-river",
+        "englishNatural": "And you sent me into the deep **in the heart of** the seas and the river"
+      }
+    }
+  ]
+}

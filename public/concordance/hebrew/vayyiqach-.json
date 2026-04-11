@@ -1,0 +1,33 @@
+{
+  "key": "vayyiqach-",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 19
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּקַּח־",
+        "transliteration": "vayYiqach-",
+        "englishLiteral": "And-took-",
+        "englishNatural": "took",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּקַּח־** לוֹ לֶמֶךְ",
+        "transliteration": "**vayYiqach-** lo Lemekh",
+        "englishLiteral": "**And-took-** to-himself Powerful (Lamech)",
+        "englishNatural": "**took** to himself And Powerful (Lamech)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "matekha",
+  "language": "hebrew",
+  "root": "mateh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "מַטְּךָ",
+        "transliteration": "matekha",
+        "englishLiteral": "branch-your",
+        "englishNatural": "your branch",
+        "root": "mateh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קַח אֶת־ **מַטְּךָ** וְהַשְׁלֵךְ לִפְנֵי־",
+        "transliteration": "qach et- **matekha** veHashlekh lifnei-",
+        "englishLiteral": "take ↳ **branch-your** and-throw-him to-faces-of-",
+        "englishNatural": "Take ↳ **your branch** and throw it to the face of"
+      }
+    }
+  ]
+}

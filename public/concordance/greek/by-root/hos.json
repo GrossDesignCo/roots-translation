@@ -1,0 +1,102 @@
+{
+  "root": "hos",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "ὡς",
+        "transliteration": "hos",
+        "englishLiteral": "as",
+        "englishNatural": "as",
+        "root": "hos",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "ἀποστέλλω ὑμᾶς **ὡς** πρόβατα ἐν",
+        "transliteration": "apostello humas **hos** probata en",
+        "englishLiteral": "send you **as** sheep in",
+        "englishNatural": "send you **as** sheep in"
+      }
+    },
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "ὡς",
+        "transliteration": "hos",
+        "englishLiteral": "as",
+        "englishNatural": "as",
+        "root": "hos",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "οὖν φρόνιμοι **ὡς** οἱ ὄφεις",
+        "transliteration": "oun phronimoi **hos** hoi opheis",
+        "englishLiteral": "therefore shrewd **as** the snakes",
+        "englishNatural": "therefore shrewd **as** the snakes"
+      }
+    },
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "ὡς",
+        "transliteration": "hos",
+        "englishLiteral": "as",
+        "englishNatural": "as",
+        "root": "hos",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "καὶ ἀκέραιοι **ὡς** αἱ περιστεραί",
+        "transliteration": "kai akeraioi **hos** hai peristerai",
+        "englishLiteral": "and innocent **as** the doves",
+        "englishNatural": "and innocent **as** the doves"
+      }
+    },
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "ὅς",
+        "transliteration": "hos",
+        "englishLiteral": "who",
+        "englishNatural": "who",
+        "root": "hos",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "τὸν ἀρχαῖον **ὅς** ἐστιν Διάβολος",
+        "transliteration": "ton archaion **hos** estin Diabolos",
+        "englishLiteral": "The Ancient **who** is Accuser",
+        "englishNatural": "The Ancient **who** is Accuser"
+      }
+    }
+  ]
+}

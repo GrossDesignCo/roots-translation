@@ -1,0 +1,102 @@
+{
+  "root": "daat",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "הַדַּעַת",
+        "transliteration": "haDaat",
+        "englishLiteral": "the-knowledge",
+        "englishNatural": "of Knowledge",
+        "root": "daat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַגָּן וְעֵץ **הַדַּעַת** טוֹב וָרָע׃",
+        "transliteration": "haGan veEtz **haDaat** tov vaRa",
+        "englishLiteral": "the-garden and-tree **the-knowledge** good and-bad",
+        "englishNatural": "the garden and the Tree **of Knowledge** of Good and Bad"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 17
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַדַּעַת",
+        "transliteration": "haDaat",
+        "englishLiteral": "the-knowledge",
+        "englishNatural": "of Knowledge of",
+        "root": "daat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמֵעֵץ **הַדַּעַת** טוֹב וָרָע",
+        "transliteration": "uMeEtz **haDaat** tov vaRa",
+        "englishLiteral": "and-from-tree **the-knowledge** good and-bad",
+        "englishNatural": "and from the Tree **of Knowledge of** Good and Bad"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "דַּעַת",
+        "transliteration": "daat",
+        "englishLiteral": "knowledge",
+        "englishNatural": "knowledge",
+        "root": "daat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָרְמָה לְנַעַר **דַּעַת** וּמְזִמָּה",
+        "transliteration": "armah lenaar **daat** umezimmah",
+        "englishLiteral": "shrewdness to-young_man **knowledge** and-purpose",
+        "englishNatural": "shrewdness to a young man **knowledge** and purpose"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "דָּעַת",
+        "transliteration": "daat",
+        "englishLiteral": "knowledge",
+        "englishNatural": "knowledge",
+        "root": "daat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה רֵאשִׁית **דָּעַת** חָכְמָה וּמוּסָר",
+        "transliteration": "YHWH reshit **daat** chokmah uMusar",
+        "englishLiteral": "He_Who_Is (YHWH) heading-of **knowledge** Wisdom and-discipline",
+        "englishNatural": "He-Who-Is (YHWH) heading of **knowledge** Wisdom and discipline"
+      }
+    }
+  ]
+}

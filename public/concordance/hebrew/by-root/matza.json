@@ -1,0 +1,162 @@
+{
+  "root": "matza",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "מָצָא",
+        "transliteration": "matza",
+        "englishLiteral": "was-found",
+        "englishNatural": "was found",
+        "root": "matza",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְאָדָם לֹא **מָצָא** עֵזֶר כְּנֶגְדּוֹ",
+        "transliteration": "uLeAdam lo **matza** ezer keNegdo",
+        "englishLiteral": "and-to-Earthling (Adam) no **was-found** help as-his_opposite",
+        "englishNatural": "and to Earthling (Adam) no **was found** help as his opposite"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "מֹצְאִי",
+        "transliteration": "motzei",
+        "englishLiteral": "finding-me",
+        "englishNatural": "finding me",
+        "root": "matza",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיָה כָל־ **מֹצְאִי** יַהַרְגֵנִי",
+        "transliteration": "vehayah kol- **motzei** yahargeini",
+        "englishLiteral": "and-it-will-be all- **finding-me** will-kill-me",
+        "englishNatural": "and it will be all **finding me** will kill me"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 15
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "מֹצְאוֹ",
+        "transliteration": "motzo",
+        "englishLiteral": "finding-him",
+        "englishNatural": "on finding him",
+        "root": "matza",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֹתוֹ כָּל־ **מֹצְאוֹ**",
+        "transliteration": "oto kol- **motzo**",
+        "englishLiteral": "↳-him all- **finding-him**",
+        "englishNatural": "him all **on finding him**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וּמְצֶ֣אןָ",
+        "transliteration": "uMetzena",
+        "englishLiteral": "and-find",
+        "englishNatural": "and find",
+        "root": "matza",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה֙ לָכֶ֔ם **וּמְצֶ֣אןָ** מְנוּחָ֔ה אִשָּׁ֖ה",
+        "transliteration": "YHWH lakhem **uMetzena** menuchah ishah",
+        "englishLiteral": "He_Who_Is (YHWH) to-you **and-find** rest woman",
+        "englishNatural": "He-Who-Is (YHWH) to you **and find** rest woman"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַיִּמְצָאֵם",
+        "transliteration": "vaYimtzaem",
+        "englishLiteral": "and-he-found-them",
+        "englishNatural": "and he found them",
+        "root": "matza",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵהֶם הַמֶּלֶךְ **וַיִּמְצָאֵם** עֶשֶׂר יָדוֹת",
+        "transliteration": "meHem haMelekh **vaYimtzaem** eser yadot",
+        "englishLiteral": "from-them the-king **and-he-found-them** ten hands",
+        "englishNatural": "from them the king **and he found them** ten hands"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַיִּמְצָא",
+        "transliteration": "vaYimtza",
+        "englishLiteral": "and-found",
+        "englishNatural": "and he found",
+        "root": "matza",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּרֶד יָפוֹ **וַיִּמְצָא** אָנִיָּה בָּאָה",
+        "transliteration": "vaYered Yafo **vaYimtza** aniyah baah",
+        "englishLiteral": "and-went_down Beautiful (Joppa) **and-found** ship going",
+        "englishNatural": "and went-down to Beautiful (Joppa) **and he found** a ship going to"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "root": "echo",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "ἔχοντα",
+        "transliteration": "echonta",
+        "englishLiteral": "having",
+        "englishNatural": "having",
+        "root": "echo",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "τοῦ οὐρανοῦ **ἔχοντα** τὴν κλεῖν",
+        "transliteration": "tou ouranou **echonta** tēn klein",
+        "englishLiteral": "the heaven **having** the key",
+        "englishNatural": "the heaven **having** the key"
+      }
+    }
+  ]
+}

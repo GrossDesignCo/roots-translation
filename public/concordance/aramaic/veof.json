@@ -1,0 +1,31 @@
+{
+  "key": "veof",
+  "language": "aramaic",
+  "root": "of",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 38
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְעוֹף",
+        "transliteration": "veOf",
+        "englishLiteral": "and-birds-of",
+        "englishNatural": "and the birds of",
+        "root": "of",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֵיוַת בָרָא **וְעוֹף** שְׁמַיָּא יְהַב",
+        "transliteration": "cheivat bara **veOf** shemayya yehav",
+        "englishLiteral": "beasts-of field-the **and-birds-of** skies-the he-gave",
+        "englishNatural": "the beasts of the field **and the birds of** the skies he has given"
+      }
+    }
+  ]
+}

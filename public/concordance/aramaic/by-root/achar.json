@@ -1,0 +1,78 @@
+{
+  "root": "achar",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 29
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אַחֲרֵי",
+        "transliteration": "acharey",
+        "englishLiteral": "after",
+        "englishNatural": "after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי לֶהֱוֵא **אַחֲרֵי** דְנָה וְגָלֵא",
+        "transliteration": "di leheve **acharey** denah vegale",
+        "englishLiteral": "which to-be **after** this and-revealer-the",
+        "englishNatural": "which will be **after** this and the Revealer of"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 39
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּבָתְרָךְ",
+        "transliteration": "uVathrakh",
+        "englishLiteral": "and-after-you",
+        "englishNatural": "And after you",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**וּבָתְרָךְ** תְּקוּם מַלְכוּ",
+        "transliteration": "**uVathrakh** tequm malkhu",
+        "englishLiteral": "**and-after-you** will-stand_up kingdom",
+        "englishNatural": "**And after you** will stand-up kingdom"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 25,
+      "word": {
+        "originalScript": "אַחֲרֵי",
+        "transliteration": "acharei",
+        "englishLiteral": "after",
+        "englishNatural": "after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי לֶהֱוֵא **אַחֲרֵי** דְנָה וְיַצִּיב",
+        "transliteration": "di leheve **acharei** denah veYatziv",
+        "englishLiteral": "which to-be **after** this and-certain",
+        "englishNatural": "which will be **after** this and certain"
+      }
+    }
+  ]
+}

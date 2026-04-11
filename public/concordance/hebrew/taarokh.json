@@ -1,0 +1,33 @@
+{
+  "key": "taarokh",
+  "language": "hebrew",
+  "root": "arakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "תַּעֲרֹךְ",
+        "transliteration": "taarokh",
+        "englishLiteral": "you-prepare",
+        "englishNatural": "you prepare",
+        "root": "arakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**תַּעֲרֹךְ** לְפָנַי שֻׁלְחָן",
+        "transliteration": "**taarokh** leFanai shulchan",
+        "englishLiteral": "**you-prepare** to-my-faces table",
+        "englishNatural": "**you prepare** to my face a table"
+      }
+    }
+  ]
+}

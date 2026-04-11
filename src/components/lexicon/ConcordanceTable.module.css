@@ -1,0 +1,85 @@
+.tableWrapper {
+  margin-bottom: 2rem;
+}
+
+.title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 0.75rem;
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+.count {
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: var(--ds-text-tertiary);
+}
+
+.scrollContainer {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+  min-width: 700px;
+}
+
+.table th {
+  text-align: left;
+  padding: 0.5rem 0.75rem;
+  border-bottom: 2px solid var(--ds-border);
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ds-text-tertiary);
+  white-space: nowrap;
+}
+
+.table td {
+  padding: 0.4rem 0.75rem;
+  border-bottom: 1px solid var(--ds-border);
+  vertical-align: top;
+  line-height: 1.5;
+}
+
+.table tbody tr:hover {
+  background: var(--ds-bg-hover);
+}
+
+.locationCol {
+  width: 110px;
+}
+
+.contextCol {
+  min-width: 140px;
+}
+
+.location {
+  white-space: nowrap;
+  font-weight: 500;
+  font-size: 0.8rem;
+  color: var(--ds-text-secondary);
+}
+
+.hebrew {
+  font-size: 1rem;
+  unicode-bidi: embed;
+}
+
+.context {
+  font-size: 0.85rem;
+}
+
+.highlight {
+  font-weight: 700;
+  color: var(--ds-text-primary);
+  background: var(--ds-bg-highlight, rgba(255, 200, 50, 0.15));
+  padding: 0.05rem 0.15rem;
+  border-radius: 2px;
+}

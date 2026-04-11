@@ -1,0 +1,79 @@
+{
+  "key": "lifnei",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "לִפְנֵי",
+        "transliteration": "lifnei",
+        "englishLiteral": "to-face-of",
+        "englishNatural": "to the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְיָדֶךָ וַעֲשִׂיתָם **לִפְנֵי** פַרְעֹה וַאֲנִי",
+        "transliteration": "veYadekha vaAsitam **lifnei** Paroh vaAni",
+        "englishLiteral": "in-hand-your and-make-them **to-face-of** Pharaoh and-I",
+        "englishNatural": "in your hand and make them **to the face of** Pharaoh but I"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "לִפְנֵי",
+        "transliteration": "lifnei",
+        "englishLiteral": "to-faces-of",
+        "englishNatural": "to the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ מַטֵּהוּ **לִפְנֵי** פַרְעֹה וְלִפְנֵי",
+        "transliteration": "et- mattehu **lifnei** Paroh veLifnei",
+        "englishLiteral": "↳ branch-his **to-faces-of** Pharaoh and-to-faces-of",
+        "englishNatural": "↳ his branch **to the face of** Pharaoh and to the face of"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 25
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לִפְנֵי",
+        "transliteration": "lifnei",
+        "englishLiteral": "to-faces-of",
+        "englishNatural": "to the faces of",
+        "root": "panim",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הָרִים הָטְבָּעוּ **לִפְנֵי** גְבָעוֹת נוֹלָדְתִּי",
+        "transliteration": "harim hotbau **lifnei** gevaot noladti",
+        "englishLiteral": "mountains were-sunk **to-faces-of** hills was-birthed-I",
+        "englishNatural": "mountains were sunk **to the faces of** hills I was birthed"
+      }
+    }
+  ]
+}

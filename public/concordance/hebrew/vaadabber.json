@@ -1,0 +1,33 @@
+{
+  "key": "vaadabber",
+  "language": "hebrew",
+  "root": "dabar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַאֲדַבֵּר",
+        "transliteration": "vaAdabber",
+        "englishLiteral": "and-I-will-speak",
+        "englishNatural": "and I will speak",
+        "root": "dabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ רַגְלֶיךָ **וַאֲדַבֵּר** אֹתָךְ",
+        "transliteration": "al- ragleikha **vaAdabber** otakh",
+        "englishLiteral": "over- feet-your **and-I-will-speak** you",
+        "englishNatural": "over your feet **and I will speak** to you"
+      }
+    }
+  ]
+}

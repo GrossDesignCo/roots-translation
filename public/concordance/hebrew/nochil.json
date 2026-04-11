@@ -1,0 +1,33 @@
+{
+  "key": "nochil",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "נֹאכֵל",
+        "transliteration": "nochil",
+        "englishLiteral": "we-eat",
+        "englishNatural": "we may eat",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֵץ־ הַגָּן **נֹאכֵל**",
+        "transliteration": "etz- haGan **nochil**",
+        "englishLiteral": "tree the-garden **we-eat**",
+        "englishNatural": "the tree of the garden **we may eat**"
+      }
+    }
+  ]
+}

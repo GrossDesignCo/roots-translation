@@ -1,0 +1,79 @@
+{
+  "key": "leminah",
+  "language": "hebrew",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 24
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לְמִינָ֔הּ",
+        "transliteration": "leMinah",
+        "englishLiteral": "to-its-kind",
+        "englishNatural": "to its kind",
+        "root": "min",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֶ֤פֶשׁ חַיָּה֙ **לְמִינָ֔הּ** בְּהֵמָ֥ה וָרֶ֛מֶשׂ",
+        "transliteration": "nephesh chayah **leMinah** behemah vaRemes",
+        "englishLiteral": "throat living **to-its-kind** beast and-crawler",
+        "englishNatural": "throat living **to its kind** beast and crawler"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 25
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לְמִינָ֖הּ",
+        "transliteration": "leMinah",
+        "englishLiteral": "to-its-kind",
+        "englishNatural": "to its kind",
+        "root": "min",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַיַּ֤ת הָאָ֔רֶץ **לְמִינָ֖הּ** וְאֶת־ הַבְּהֵמָ֖ה",
+        "transliteration": "chayat haAretz **leMinah** veEt- haBehemah",
+        "englishLiteral": "living_being-of the-land **to-its-kind** And-↳ the-beast",
+        "englishNatural": "living-being of the land **to its kind** And the beast"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 25
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לְמִינָ֑הּ",
+        "transliteration": "leMinah",
+        "englishLiteral": "to-its-kind",
+        "englishNatural": "to its kind",
+        "root": "min",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הַבְּהֵמָ֖ה **לְמִינָ֑הּ** וְאֵ֛ת כָּל־",
+        "transliteration": "veEt- haBehemah **leMinah** veEt kol-",
+        "englishLiteral": "And-↳ the-beast **to-its-kind** And-↳ all",
+        "englishNatural": "And the beast **to its kind** And all"
+      }
+    }
+  ]
+}

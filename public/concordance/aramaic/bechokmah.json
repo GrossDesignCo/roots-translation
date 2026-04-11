@@ -1,0 +1,31 @@
+{
+  "key": "bechokmah",
+  "language": "aramaic",
+  "root": "chokmah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בְחָכְמָה",
+        "transliteration": "beChokmah",
+        "englishLiteral": "in-wisdom",
+        "englishNatural": "in wisdom",
+        "root": "chokmah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲנָה לָא **בְחָכְמָה** דִּי אִיתַי",
+        "transliteration": "vaAnah la **beChokmah** di itay",
+        "englishLiteral": "and-I not **in-wisdom** which there-is-in-me",
+        "englishNatural": "And I not **in wisdom** which is in me"
+      }
+    }
+  ]
+}

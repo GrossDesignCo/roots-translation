@@ -1,0 +1,55 @@
+{
+  "key": "utelat",
+  "language": "aramaic",
+  "root": "telat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וּתְלָ֥ת",
+        "transliteration": "uTelat",
+        "englishLiteral": "and-three",
+        "englishNatural": "and three",
+        "root": "telat",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "חַד֙ הֳקִמַ֔ת **וּתְלָ֥ת** עִלְעִ֛ין בְּפֻמַּ֖הּ",
+        "transliteration": "chad hoqimat **uTelat** ilin bePummah",
+        "englishLiteral": "one it-was-raised_up **and-three** ribs in-mouth-its",
+        "englishNatural": "And to one it was raised-up **and three** ribs in its mouth"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וּתְלָ֗ת",
+        "transliteration": "uTelat",
+        "englishLiteral": "and-three",
+        "englishNatural": "and three",
+        "root": "telat",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "סִלְקָ֣ת ביניהון **וּתְלָ֗ת** מִן־ קַרְנַיָּא֙",
+        "transliteration": "silqat beynehon **uTelat** min- qarnaiya",
+        "englishLiteral": "came-up between-them **and-three** from- horns-the",
+        "englishNatural": "came up between them **and three** from the horns"
+      }
+    }
+  ]
+}

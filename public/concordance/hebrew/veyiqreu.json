@@ -1,0 +1,33 @@
+{
+  "key": "veyiqreu",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְיִקְרְאוּ",
+        "transliteration": "veYiqreu",
+        "englishLiteral": "and-they-will-call_out",
+        "englishNatural": "and they will call-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם וְהַבְּהֵמָה **וְיִקְרְאוּ** אֶל־ אֱלֹהִים",
+        "transliteration": "haAdam veHaBehemah **veYiqreu** el- Elohim",
+        "englishLiteral": "the-Earthling (Adam) and-the-beast **and-they-will-call_out** to- Gods",
+        "englishNatural": "the Earthling (Adam) and the beast **and they will call-out** to God"
+      }
+    }
+  ]
+}

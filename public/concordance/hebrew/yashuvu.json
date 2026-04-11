@@ -1,0 +1,33 @@
+{
+  "key": "yashuvu",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יָשׁוּבוּ",
+        "transliteration": "yashuvu",
+        "englishLiteral": "they-will-return",
+        "englishNatural": "will return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְדוֹר רְבִיעִי **יָשׁוּבוּ** הֵנָּה כִּי",
+        "transliteration": "veDor revii **yashuvu** hennah ki",
+        "englishLiteral": "And-generation fourth **they-will-return** here that",
+        "englishNatural": "generation And the fourth **will return** here that"
+      }
+    }
+  ]
+}

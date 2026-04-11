@@ -1,0 +1,54 @@
+{
+  "root": "en",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "ἐν",
+        "transliteration": "en",
+        "englishLiteral": "in",
+        "englishNatural": "in",
+        "root": "en",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "ὡς πρόβατα **ἐν** μέσῳ λύκων",
+        "transliteration": "hos probata **en** meso lukon",
+        "englishLiteral": "as sheep **in** midst wolves",
+        "englishNatural": "as sheep **in** the midst of wolves"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "Ἐν",
+        "transliteration": "En",
+        "englishLiteral": "In",
+        "englishNatural": "In",
+        "root": "en",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**Ἐν** ἀρχῇ ἦν",
+        "transliteration": "**En** archē ēn",
+        "englishLiteral": "**In** first was",
+        "englishNatural": "**In** the first was"
+      }
+    }
+  ]
+}

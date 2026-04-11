@@ -1,0 +1,33 @@
+{
+  "key": "shivati",
+  "language": "hebrew",
+  "root": "shavah_cry",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "שִׁוַּעְתִּי",
+        "transliteration": "shivati",
+        "englishLiteral": "I-cried_out",
+        "englishNatural": "I cried-out",
+        "root": "shavah_cry",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "מִבֶּטֶן שְׁאוֹל **שִׁוַּעְתִּי** שָׁמַעְתָּ קוֹלִי",
+        "transliteration": "mibeten sheol **shivati** shamata qoli",
+        "englishLiteral": "from-belly-of Hades **I-cried_out** you-heard voice-my",
+        "englishNatural": "from the belly of Hades **I cried-out** you heard my voice"
+      }
+    }
+  ]
+}

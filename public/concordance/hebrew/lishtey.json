@@ -1,0 +1,31 @@
+{
+  "key": "lishtey",
+  "language": "hebrew",
+  "root": "shenayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לִשְׁתֵּ֣י",
+        "transliteration": "liShtey",
+        "englishLiteral": "to-two-of",
+        "englishNatural": "to the two of",
+        "root": "shenayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּ֤אמֶר נָעֳמִי֙ **לִשְׁתֵּ֣י** כַלֹּתֶ֔יהָ לֵ֣כְנָה",
+        "transliteration": "vatTomer Naomi **liShtey** khalloteha lekhnah",
+        "englishLiteral": "And-said Pleasant_My (Naomi) **to-two-of** daughters_in_law-her Go",
+        "englishNatural": "said And My-Pleasant (Naomi) **to the two of** her daughters-in-law Go"
+      }
+    }
+  ]
+}

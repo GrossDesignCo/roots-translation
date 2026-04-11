@@ -1,0 +1,58 @@
+{
+  "root": "shaah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַיִּשַׁע",
+        "transliteration": "vayYisha",
+        "englishLiteral": "And-He-esteemed",
+        "englishNatural": "esteemed",
+        "root": "shaah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "צֹאנוֹ וּמֵחֶלְבֵהֶן **וַיִּשַׁע** יְהוָה אֶל־",
+        "transliteration": "tzono umeChelveHen **vayYisha** YHWH el-",
+        "englishLiteral": "his-flock and-from-fat-of-them **And-He-esteemed** He_Who_Is (YHWH) to",
+        "englishNatural": "his flock and from their fat **esteemed** And He-Who-Is (YHWH) to"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שָׁעָה",
+        "transliteration": "shaah",
+        "englishLiteral": "esteeming",
+        "englishNatural": "esteeming",
+        "root": "shaah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִנְחָתוֹ לֹא **שָׁעָה** וַיִּחַר לְקַיִן",
+        "transliteration": "minchato lo **shaah** vayYichar leQayin",
+        "englishLiteral": "his-offering no **esteeming** And-it-was_fuming_anger to-Acquired (Cain)",
+        "englishNatural": "his offering no **esteeming** And it was fuming-anger to Acquired (Cain)"
+      }
+    }
+  ]
+}

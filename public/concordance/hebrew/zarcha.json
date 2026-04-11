@@ -1,0 +1,55 @@
+{
+  "key": "zarcha",
+  "language": "hebrew",
+  "root": "zara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 5
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "זַרְעֶךָ",
+        "transliteration": "zarcha",
+        "englishLiteral": "seed-of-you",
+        "englishNatural": "your seed",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֹּה יִהְיֶה **זַרְעֶךָ**",
+        "transliteration": "koh yihyeh **zarcha**",
+        "englishLiteral": "Thus he-will-be **seed-of-you**",
+        "englishNatural": "Thus will be **your seed**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "זַרְעֲךָ",
+        "transliteration": "zarcha",
+        "englishLiteral": "seed-of-you",
+        "englishNatural": "your seed",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גֵר יִהְיֶה **זַרְעֲךָ** בְּאֶרֶץ לֹא",
+        "transliteration": "ger yihyeh **zarcha** beEretz lo",
+        "englishLiteral": "sojourner he-will-be **seed-of-you** in-land not",
+        "englishNatural": "a sojourner will be **your seed** in a land not"
+      }
+    }
+  ]
+}

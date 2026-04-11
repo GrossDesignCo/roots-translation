@@ -1,0 +1,31 @@
+{
+  "key": "bigdolot",
+  "language": "hebrew",
+  "root": "gadol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בִּגְדֹלוֹת",
+        "transliteration": "biGdolot",
+        "englishLiteral": "in-greats",
+        "englishNatural": "in greats",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹא־ הִלַּכְתִּי **בִּגְדֹלוֹת** וּבְנִפְלָאוֹת מִמֶּנִּי",
+        "transliteration": "velo- hilakhti **biGdolot** uvNiFlaot mimeni",
+        "englishLiteral": "and-not- I-have-walked **in-greats** and-in-wonders from-me",
+        "englishNatural": "not and I have walked **in greats** and in wonders from me"
+      }
+    }
+  ]
+}

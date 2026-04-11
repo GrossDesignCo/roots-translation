@@ -1,0 +1,31 @@
+{
+  "key": "meetz",
+  "language": "hebrew",
+  "root": "etz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "מֵעֵץ",
+        "transliteration": "meEtz",
+        "englishLiteral": "from-tree",
+        "englishNatural": "from the Tree",
+        "root": "etz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְלָקַח גַּם **מֵעֵץ** הַחַיִּים וְאָכַל",
+        "transliteration": "veLaqach gam **meEtz** haChayyim veAkhal",
+        "englishLiteral": "and-take also **from-tree** the-lives and-eat",
+        "englishNatural": "and take also **from the Tree** of Life and eat"
+      }
+    }
+  ]
+}

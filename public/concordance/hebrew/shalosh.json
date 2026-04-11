@@ -1,0 +1,55 @@
+{
+  "key": "shalosh",
+  "language": "hebrew",
+  "root": "shalosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 22
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "שְׁלֹשׁ",
+        "transliteration": "shalosh",
+        "englishLiteral": "three",
+        "englishNatural": "three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ מְתוּשָׁלַח **שְׁלֹשׁ** מֵאוֹת שָׁנָה",
+        "transliteration": "et- Metushalach **shalosh** meot shanah",
+        "englishLiteral": "↳ Man-of-the-Dart (Methuselah) **three** hundreds year",
+        "englishNatural": "↳ Man-of-the-Dart (Methuselah) **three** hundred years"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "שָׁלוֹשׁ",
+        "transliteration": "shalosh",
+        "englishLiteral": "three",
+        "englishNatural": "three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "בִּשְׁנַת **שָׁלוֹשׁ** לְמַלְכוּת יְהוֹיָקִים",
+        "transliteration": "biShnat **shalosh** leMalkhut Yehoyakim",
+        "englishLiteral": "in-year-of **three** to-kingdom He_Will_Establish (Jehoiakim)",
+        "englishNatural": "In the year of **three** to the kingdom of He-Will-Establish (Jehoiakim)"
+      }
+    }
+  ]
+}

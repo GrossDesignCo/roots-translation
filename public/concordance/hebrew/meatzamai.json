@@ -1,0 +1,31 @@
+{
+  "key": "meatzamai",
+  "language": "hebrew",
+  "root": "etsem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מֵעֲצָמַי",
+        "transliteration": "meAtzamai",
+        "englishLiteral": "from-my-bones",
+        "englishNatural": "from my bones",
+        "root": "etsem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַפַּעַם עֶצֶם **מֵעֲצָמַי** וּבָשָׂר מִבְּשָׂרִי",
+        "transliteration": "haPaam etsem **meAtzamai** uVasar miVesari",
+        "englishLiteral": "the-time Bone **from-my-bones** and-flesh from-my-flesh",
+        "englishNatural": "the time Bone **from my bones** and flesh from my flesh"
+      }
+    }
+  ]
+}

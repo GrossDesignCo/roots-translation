@@ -1,0 +1,31 @@
+{
+  "key": "vekhamohu",
+  "language": "hebrew",
+  "root": "kamo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְכָמֹ֖הוּ",
+        "transliteration": "veKhamohu",
+        "englishLiteral": "and-like-it",
+        "englishNatural": "and like it",
+        "root": "kamo",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֣א נִֽהְיָ֔תָה **וְכָמֹ֖הוּ** לֹ֥א תֹסִֽף׃",
+        "transliteration": "lo nihyetah **veKhamohu** lo tosif",
+        "englishLiteral": "not was **and-like-it** not will-add",
+        "englishNatural": "not was **and like it** not will add"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "lemateh",
+  "language": "hebrew",
+  "root": "mateh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לְמַטֶּה",
+        "transliteration": "leMateh",
+        "englishLiteral": "to-branch",
+        "englishNatural": "a branch",
+        "root": "mateh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בּוֹ וַיְהִי **לְמַטֶּה** בְּכַפּוֹ",
+        "transliteration": "bo vaYehi **leMateh** beKhapo",
+        "englishLiteral": "in-it and-was **to-branch** in-palm-his",
+        "englishNatural": "it and it was **a branch** in his palm"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kulekh",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "כֻּלֵּךְ",
+        "transliteration": "kulekh",
+        "englishLiteral": "all-of-you",
+        "englishNatural": "all of you",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "תִּשְׂמְחִי פְלֶשֶׁת **כֻּלֵּךְ** כִּי נִשְׁבַּר",
+        "transliteration": "tiSmechi Peleshet **kulekh** ki nishbar",
+        "englishLiteral": "you-shall-rejoice Wallowers (Philistia) **all-of-you** that is-broken",
+        "englishNatural": "rejoice Wallowers (Philistia) **all of you** that is broken"
+      }
+    }
+  ]
+}

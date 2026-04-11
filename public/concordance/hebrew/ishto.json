@@ -1,0 +1,151 @@
+{
+  "key": "ishto",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 20
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אִשְׁתּוֹ",
+        "transliteration": "ishto",
+        "englishLiteral": "woman-his",
+        "englishNatural": "his woman's",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם שֵׁם **אִשְׁתּוֹ** חַוָּה כִּי",
+        "transliteration": "haAdam shem **ishto** Chavah ki",
+        "englishLiteral": "the-Earthling (Adam) name **woman-his** Life (Eve) that",
+        "englishNatural": "And the Earthling (Adam) name **his woman's** Life (Eve) that"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אִשְׁתּוֹ",
+        "transliteration": "ishto",
+        "englishLiteral": "his-woman",
+        "englishNatural": "his woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ חַוָּה **אִשְׁתּוֹ** וַתַּהַר וַתֵּלֶד",
+        "transliteration": "et- Chavah **ishto** vatTahar vatTeled",
+        "englishLiteral": "↳ Life (Eve) **his-woman** and-she-conceived and-she-bore",
+        "englishNatural": "↳ Life (Eve) **his woman** and she conceived and bore"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אִשְׁתּוֹ",
+        "transliteration": "ishto",
+        "englishLiteral": "his-woman",
+        "englishNatural": "knew his woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קַיִן אֶת־ **אִשְׁתּוֹ** וַתַּהַר וַתֵּלֶד",
+        "transliteration": "Qayin et- **ishto** vatTahar vatTeled",
+        "englishLiteral": "Acquired (Cain) ↳ **his-woman** and-she-conceived and-she-bore",
+        "englishNatural": "Acquired (Cain) ↳ **knew his woman** and she conceived and bore"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אִשְׁתּוֹ",
+        "transliteration": "ishto",
+        "englishLiteral": "woman-his",
+        "englishNatural": "his woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹד אֶת־ **אִשְׁתּוֹ** וַתֵּלֶד בֵּן",
+        "transliteration": "od et- **ishto** vaTeled ben",
+        "englishLiteral": "again ↳ **woman-his** and-bore son",
+        "englishNatural": "again ↳ **his woman** and she bore a son"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אִשְׁתּוֹ",
+        "transliteration": "ishto",
+        "englishLiteral": "woman-his",
+        "englishNatural": "his woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה אֶת־ **אִשְׁתּוֹ** וְאֶת־ בָּנָיו",
+        "transliteration": "Moshe et- **ishto** veEt- banav",
+        "englishLiteral": "Drawn_Out (Moses) ↳ **woman-his** and-↳ sons-his",
+        "englishNatural": "And Drawn-Out (Moses) ↳ **his woman** and his sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אִשְׁתּ֨וֹ",
+        "transliteration": "ishto",
+        "englishLiteral": "woman-his",
+        "englishNatural": "his woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱֽלִימֶ֡לֶךְ וְשֵׁם֩ **אִשְׁתּ֨וֹ** נָעֳמִ֜י וְשֵׁ֥ם",
+        "transliteration": "Elimelekh veShem **ishto** Naomi veShem",
+        "englishLiteral": "God_My_King (Elimelech) and-name-of **woman-his** Pleasant_My (Naomi) and-name-of",
+        "englishNatural": "God-My-King (Elimelech) and the name of **his woman** My-Pleasant (Naomi) and the name of"
+      }
+    }
+  ]
+}

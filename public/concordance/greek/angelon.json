@@ -1,0 +1,31 @@
+{
+  "key": "angelon",
+  "language": "greek",
+  "root": "angelos",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "ἄγγελον",
+        "transliteration": "angelon",
+        "englishLiteral": "messenger",
+        "englishNatural": "a messenger",
+        "root": "angelos",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "Καὶ εἶδον **ἄγγελον** καταβαίνοντα ἐκ",
+        "transliteration": "Kai eidon **angelon** katabainonta ek",
+        "englishLiteral": "and I-saw **messenger** descending out-of",
+        "englishNatural": "and I saw **a messenger** descending from"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "veei-",
+  "language": "hebrew",
+  "root": "ay",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "וְאֵי־",
+        "transliteration": "veEi-",
+        "englishLiteral": "and-where-",
+        "englishNatural": "and where",
+        "root": "ay",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "מָה אַרְצֶךָ **וְאֵי־** מִזֶּה עַם",
+        "transliteration": "mah artzekha **veEi-** mizeh am",
+        "englishLiteral": "What land-your **and-where-** from-this people",
+        "englishNatural": "What is your land **and where** from this people"
+      }
+    }
+  ]
+}

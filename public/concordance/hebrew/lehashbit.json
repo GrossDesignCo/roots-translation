@@ -1,0 +1,33 @@
+{
+  "key": "lehashbit",
+  "language": "hebrew",
+  "root": "shavat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְהַשְׁבִּ֥ית",
+        "transliteration": "leHashbit",
+        "englishLiteral": "to-cause-to-sabbath",
+        "englishNatural": "to cause-to-sabbath",
+        "root": "shavat",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַ֥עַן צוֹרְרֶ֑יךָ **לְהַשְׁבִּ֥ית** אוֹיֵ֥ב וּמִתְנַקֵּֽם",
+        "transliteration": "leMaan tsorerekha **leHashbit** oyev uMitnaqem",
+        "englishLiteral": "to-sake-of your-adversarys **to-cause-to-sabbath** enemy and-self-avenger",
+        "englishNatural": "to the sake of your adversaries **to cause-to-sabbath** enemy and self-avenger"
+      }
+    }
+  ]
+}

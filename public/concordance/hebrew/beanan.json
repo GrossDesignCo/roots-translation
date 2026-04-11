@@ -1,0 +1,79 @@
+{
+  "key": "beanan",
+  "language": "hebrew",
+  "root": "anan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בֶּעָנָן",
+        "transliteration": "beAnan",
+        "englishLiteral": "in-cloud",
+        "englishNatural": "in the cloud",
+        "root": "anan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קַשְׁתִּי נָתַתִּי **בֶּעָנָן** וְהָיְתָה לְאוֹת",
+        "transliteration": "qashti natati **beAnan** veHayetah leOt",
+        "englishLiteral": "my-bow I-have-given **in-cloud** and-she-will-be for-sign-of",
+        "englishNatural": "My bow I have given **in the cloud** and it will be for the sign of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בֶּעָנָן",
+        "transliteration": "beAnan",
+        "englishLiteral": "in-cloud",
+        "englishNatural": "in the cloud",
+        "root": "anan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּרֶד יְהוָה **בֶּעָנָן** וַיִּתְיַצֵּב עִמּוֹ",
+        "transliteration": "vaYered YHWH **beAnan** vaYityatzev imo",
+        "englishLiteral": "And-went_down He_Who_Is (YHWH) **in-cloud** and-positioned-himself with-him",
+        "englishNatural": "went-down And He-Who-Is (YHWH) **in the cloud** and positioned himself with him"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בֶעָנָן",
+        "transliteration": "beAnan",
+        "englishLiteral": "in-cloud",
+        "englishNatural": "in the cloud",
+        "root": "anan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר יִהְיֶה **בֶעָנָן** בְּיוֹם הַגֶּשֶׁם",
+        "transliteration": "asher yihyeh **beAnan** beYom haGeshem",
+        "englishLiteral": "which it-is **in-cloud** in-day-of the-rain",
+        "englishNatural": "which is **in the cloud** in the day of rain"
+      }
+    }
+  ]
+}

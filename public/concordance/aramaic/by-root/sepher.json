@@ -1,0 +1,30 @@
+{
+  "root": "sepher",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "וְסִפְרִ֥ין",
+        "transliteration": "veSiphrin",
+        "englishLiteral": "and-books",
+        "englishNatural": "and the books",
+        "root": "sepher",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּינָ֥א יְתִ֖ב **וְסִפְרִ֥ין** פְּתִֽיחוּ",
+        "transliteration": "dina yetiv **veSiphrin** pethichu",
+        "englishLiteral": "judge-the had-sat **and-books** had-been-opened",
+        "englishNatural": "the judge had sat **and the books** had been opened"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "bemoshvotam",
+  "language": "hebrew",
+  "root": "moshav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "בְּמוֹשְׁבֹתָם",
+        "transliteration": "beMoshvotam",
+        "englishLiteral": "in-seats-their",
+        "englishNatural": "in their seats",
+        "root": "moshav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיָה אוֹר **בְּמוֹשְׁבֹתָם**",
+        "transliteration": "hayah or **beMoshvotam**",
+        "englishLiteral": "it-was light **in-seats-their**",
+        "englishNatural": "it had been light **in their seats**"
+      }
+    }
+  ]
+}

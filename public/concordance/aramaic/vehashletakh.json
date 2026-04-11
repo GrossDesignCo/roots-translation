@@ -1,0 +1,33 @@
+{
+  "key": "vehashletakh",
+  "language": "aramaic",
+  "root": "shelet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 38
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְהַשְׁלְטָךְ",
+        "transliteration": "veHashletakh",
+        "englishLiteral": "and-caused-you-to-rule",
+        "englishNatural": "and has caused you to rule",
+        "root": "shelet",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "haphel"
+        }
+      },
+      "context": {
+        "hebrew": "יְהַב בִידָךְ **וְהַשְׁלְטָךְ** בְּכֹלְּהוֹן אַנְתָּה",
+        "transliteration": "yehav biDakh **veHashletakh** beKholhon antah",
+        "englishLiteral": "he-gave in-hand-your **and-caused-you-to-rule** in-all-them you",
+        "englishNatural": "he has given into your hand **and has caused you to rule** in them all you"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "key": "vayitten",
+  "language": "hebrew",
+  "root": "natan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּתֵּ֧ן",
+        "transliteration": "vaYitten",
+        "englishLiteral": "And-gave",
+        "englishNatural": "gave",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּתֵּ֧ן** יְהוָ֛ה אֶת־",
+        "transliteration": "**vaYitten** YHWH et-",
+        "englishLiteral": "**And-gave** He_Who_Is (YHWH) ↳",
+        "englishNatural": "**gave** And He-Who-Is (YHWH) ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּתֵּן",
+        "transliteration": "vaYitten",
+        "englishLiteral": "and-he-gave",
+        "englishNatural": "gave",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּתֵּן** אֲדֹנָי בְּיָדוֹ",
+        "transliteration": "**vaYitten** Adonai beYado",
+        "englishLiteral": "**and-he-gave** Lord in-hand-his",
+        "englishNatural": "**gave** And the Lord into his hand"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וַיִּתֵּן",
+        "transliteration": "vaYitten",
+        "englishLiteral": "and-gave",
+        "englishNatural": "and he paid",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בָּאָה תַרְשִׁישׁ **וַיִּתֵּן** שְׂכָרָהּ וַיֵּרֶד",
+        "transliteration": "baah Tarshish **vaYitten** sekhorah vaYered",
+        "englishLiteral": "going golden_stone (Tarshish) **and-gave** fare-her and-went_down",
+        "englishNatural": "going to golden-stone (Tarshish) **and he paid** the fare of it and went-down"
+      }
+    }
+  ]
+}

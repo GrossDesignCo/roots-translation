@@ -1,0 +1,31 @@
+{
+  "key": "biyrushalayim",
+  "language": "hebrew",
+  "root": "yerushalayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ecclesiastes",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בִּירוּשָׁלִָֽם",
+        "transliteration": "biYrushalayim",
+        "englishLiteral": "in-Foundation_of_Peace (Jerusalem)",
+        "englishNatural": "in Foundation-of-Peace (Jerusalem)",
+        "root": "yerushalayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דָּוִ֔ד מֶ֖לֶךְ **בִּירוּשָׁלִָֽם**",
+        "transliteration": "David melekh **biYrushalayim**",
+        "englishLiteral": "Beloved (David) king **in-Foundation_of_Peace (Jerusalem)**",
+        "englishNatural": "Beloved (David) king **in Foundation-of-Peace (Jerusalem)**"
+      }
+    }
+  ]
+}

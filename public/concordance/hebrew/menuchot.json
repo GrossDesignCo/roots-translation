@@ -1,0 +1,31 @@
+{
+  "key": "menuchot",
+  "language": "hebrew",
+  "root": "nuach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מְנֻחוֹת",
+        "transliteration": "menuchot",
+        "englishLiteral": "rest_place",
+        "englishNatural": "rest-place",
+        "root": "nuach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ מֵי **מְנֻחוֹת** יְנַהֲלֵנִי",
+        "transliteration": "al- mei **menuchot** yeNahaleni",
+        "englishLiteral": "over- water-of **rest_place** he-leads-me",
+        "englishNatural": "over water of **rest-place** he leads me"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "oph",
+  "language": "hebrew",
+  "root": "oph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "עוֹף",
+        "transliteration": "oph",
+        "englishLiteral": "bird-of",
+        "englishNatural": "bird of",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֶמֶשׂ וְעַד־ **עוֹף** הַשָּׁמַיִם כִּי",
+        "transliteration": "remes vead- **oph** haShamayim ki",
+        "englishLiteral": "creeping_thing and-unto- **bird-of** the-skies that",
+        "englishNatural": "creeping-thing and unto **bird of** the skies for"
+      }
+    }
+  ]
+}

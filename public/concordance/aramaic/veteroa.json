@@ -1,0 +1,33 @@
+{
+  "key": "veteroa",
+  "language": "aramaic",
+  "root": "raa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וְתֵרֹעַ",
+        "transliteration": "veTeroa",
+        "englishLiteral": "and-will-break",
+        "englishNatural": "and will break",
+        "root": "raa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "כֹּלָּא תַּדִּק **וְתֵרֹעַ**",
+        "transliteration": "kolla taddiq **veTeroa**",
+        "englishLiteral": "all it-will-crush **and-will-break**",
+        "englishNatural": "all it will crush **and will break**"
+      }
+    }
+  ]
+}

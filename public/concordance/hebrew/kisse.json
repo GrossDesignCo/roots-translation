@@ -1,0 +1,55 @@
+{
+  "key": "kisse",
+  "language": "hebrew",
+  "root": "kisse",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "כִּסֵּא",
+        "transliteration": "kisse",
+        "englishLiteral": "throne",
+        "englishNatural": "a throne",
+        "root": "kisse",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֹשֵׁב עַל **כִּסֵּא** רָם וְנִשָּׂא",
+        "transliteration": "yoshev al **kisse** ram veNisa",
+        "englishLiteral": "sitting over **throne** high and-lifted_up",
+        "englishNatural": "sitting over **a throne** high and lifted-up"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "כִּסֵּא",
+        "transliteration": "kisse",
+        "englishLiteral": "throne",
+        "englishNatural": "a throne",
+        "root": "kisse",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "סַפִּיר דְּמוּת **כִּסֵּא** וְעַל דְּמוּת",
+        "transliteration": "sappir demut **kisse** veAl demut",
+        "englishLiteral": "sapphire likeness-of **throne** and-over likeness-of",
+        "englishNatural": "sapphire the likeness of **a throne** and over the likeness of"
+      }
+    }
+  ]
+}

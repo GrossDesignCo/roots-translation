@@ -1,0 +1,58 @@
+{
+  "root": "samach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "תִּשְׂמְחִי",
+        "transliteration": "tiSmechi",
+        "englishLiteral": "you-shall-rejoice",
+        "englishNatural": "rejoice",
+        "root": "samach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אַל **תִּשְׂמְחִי** פְלֶשֶׁת כֻּלֵּךְ",
+        "transliteration": "al **tiSmechi** Peleshet kulekh",
+        "englishLiteral": "Do-not **you-shall-rejoice** Wallowers (Philistia) all-of-you",
+        "englishNatural": "Do not **rejoice** Wallowers (Philistia) all of you"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וַיִּשְׂמַח",
+        "transliteration": "vaYismach",
+        "englishLiteral": "and-rejoiced",
+        "englishNatural": "rejoiced",
+        "root": "samach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לוֹ מֵרָעָתוֹ **וַיִּשְׂמַח** יוֹנָה עַל־",
+        "transliteration": "lo meRaato **vaYismach** Yonah al-",
+        "englishLiteral": "to-him from-bad-his **and-rejoiced** Dove (Jonah) over-",
+        "englishNatural": "to him from his bad **rejoiced** and Dove (Jonah) over"
+      }
+    }
+  ]
+}

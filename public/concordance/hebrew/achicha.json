@@ -1,0 +1,55 @@
+{
+  "key": "achicha",
+  "language": "hebrew",
+  "root": "ach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אָחִיךָ",
+        "transliteration": "achicha",
+        "englishLiteral": "brother-your",
+        "englishNatural": "your brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְפַרְעֹה וְאַהֲרֹן **אָחִיךָ** יִהְיֶה נְבִיאֶךָ",
+        "transliteration": "leParoh veAharon **achicha** yihyeh neviekha",
+        "englishLiteral": "to-Pharaoh and-Light_Bringer (Aaron) **brother-your** will-be prophet-your",
+        "englishNatural": "to Pharaoh and Light-Bringer (Aaron) **your brother** will be your prophet"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אָחִיךָ",
+        "transliteration": "achicha",
+        "englishLiteral": "brother-your",
+        "englishNatural": "your brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲצַוֶּךָּ וְאַהֲרֹן **אָחִיךָ** יְדַבֵּר אֶל־",
+        "transliteration": "atzavekha veAharon **achicha** yedaber el-",
+        "englishLiteral": "I-command-you and-Light_Bringer (Aaron) **brother-your** will-speak to-",
+        "englishNatural": "I command you and Light-Bringer (Aaron) **your brother** will speak to"
+      }
+    }
+  ]
+}

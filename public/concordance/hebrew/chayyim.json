@@ -1,0 +1,31 @@
+{
+  "key": "chayyim",
+  "language": "hebrew",
+  "root": "chayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "חַיִּים",
+        "transliteration": "chayyim",
+        "englishLiteral": "lives",
+        "englishNatural": "life",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאַפָּיו נִשְׁמַת **חַיִּים** וַיְהִי הָאָדָם",
+        "transliteration": "beAppav nishmat **chayyim** vaYehi haAdam",
+        "englishLiteral": "in-his-nostrils breath-of **lives** and-was the-Earthling (Adam)",
+        "englishNatural": "into his nostrils the breath of **life** was and the Earthling (Adam)"
+      }
+    }
+  ]
+}

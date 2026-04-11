@@ -1,0 +1,30 @@
+{
+  "root": "prin",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "πρὶν",
+        "transliteration": "prin",
+        "englishLiteral": "before",
+        "englishNatural": "Before",
+        "root": "prin",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "λέγω ὑμῖν **πρὶν** Ἀβραὰμ γενέσθαι",
+        "transliteration": "legō hymin **prin** Abraam genesthai",
+        "englishLiteral": "I-say to-you **before** Exalted_Father (Abraham) to-become",
+        "englishNatural": "I say to you **Before** Exalted-Father (Abraham) was"
+      }
+    }
+  ]
+}

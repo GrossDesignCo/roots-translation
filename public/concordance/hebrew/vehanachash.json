@@ -1,0 +1,31 @@
+{
+  "key": "vehanachash",
+  "language": "hebrew",
+  "root": "nachash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְהַנָּחָשׁ",
+        "transliteration": "veHaNachash",
+        "englishLiteral": "And-the-snake",
+        "englishNatural": "And the snake",
+        "root": "nachash",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהַנָּחָשׁ** הָיָה עָרוּם",
+        "transliteration": "**veHaNachash** hayah arum",
+        "englishLiteral": "**And-the-snake** was shrewd",
+        "englishNatural": "**And the snake** was shrewd"
+      }
+    }
+  ]
+}

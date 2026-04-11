@@ -1,0 +1,31 @@
+{
+  "key": "ki-im",
+  "language": "hebrew",
+  "root": "ki_im",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "כִּי־אִם",
+        "transliteration": "ki-im",
+        "englishLiteral": "but",
+        "englishNatural": "but",
+        "root": "ki_im",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "יִירָשְׁךָ זֶה **כִּי־אִם** אֲשֶׁר יֵצֵא",
+        "transliteration": "yirashkha zeh **ki-im** asher yetze",
+        "englishLiteral": "he-will-inherit-you this **but** which he-will-come-out",
+        "englishNatural": "will inherit you this **but** he which will come out"
+      }
+    }
+  ]
+}

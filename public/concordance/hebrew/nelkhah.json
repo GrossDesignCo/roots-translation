@@ -1,0 +1,33 @@
+{
+  "key": "nelkhah",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נֵלְכָה",
+        "transliteration": "nelkhah",
+        "englishLiteral": "we-will-go",
+        "englishNatural": "we will go",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "cohortative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נִקְרָא עָלֵינוּ **נֵלְכָה** נָּא דֶּרֶךְ",
+        "transliteration": "niqra aleinu **nelkhah** na derekh",
+        "englishLiteral": "was-called_out over-us **we-will-go** please way-of",
+        "englishNatural": "was called-out over us **we will go** please a way of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "nitanu",
+  "language": "hebrew",
+  "root": "natan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 2
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "נִתָּנוּ",
+        "transliteration": "nitanu",
+        "englishLiteral": "they-are-given",
+        "englishNatural": "they are given",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "הַיָּם בְּיֶדְכֶם **נִתָּנוּ**",
+        "transliteration": "haYam beYedkhem **nitanu**",
+        "englishLiteral": "the-sea in-hand-your **they-are-given**",
+        "englishNatural": "the sea in your hand **they are given**"
+      }
+    }
+  ]
+}

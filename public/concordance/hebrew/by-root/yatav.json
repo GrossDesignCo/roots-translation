@@ -1,0 +1,136 @@
+{
+  "root": "yatav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "תֵּיטִיב",
+        "transliteration": "teytiv",
+        "englishLiteral": "you-do_well",
+        "englishNatural": "you do-well",
+        "root": "yatav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַהֲלוֹא אִם־ **תֵּיטִיב** שְׂאֵת וְאִם",
+        "transliteration": "vaHaLo im- **teytiv** set veim",
+        "englishLiteral": "And-is_there_not if- **you-do_well** lifting_up And-if",
+        "englishNatural": "And is there not if **you do-well** lifting-up And if"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "תֵיטִיב",
+        "transliteration": "teytiv",
+        "englishLiteral": "you-do_well",
+        "englishNatural": "you do-well",
+        "root": "yatav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וְאִם לֹא **תֵיטִיב** לַפֶּתַח חַטָּאת",
+        "transliteration": "veim lo **teytiv** laPetach chatat",
+        "englishLiteral": "And-if not **you-do_well** to-opening sin",
+        "englishNatural": "And if not **you do-well** to the opening sin"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַהֵיטֵב",
+        "transliteration": "haHeitiv",
+        "englishLiteral": "the-doing_well",
+        "englishNatural": "the doing-well",
+        "root": "yatav",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **הַהֵיטֵב** חָרָה לָךְ",
+        "transliteration": "vaYomer YHWH **haHeitiv** charah lakh",
+        "englishLiteral": "And-said He_Who_Is (YHWH) **the-doing_well** fuming_angrily to-you",
+        "englishNatural": "said And He-Who-Is (YHWH) **the doing-well** Is fuming-angrily to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַהֵיטֵב",
+        "transliteration": "haHeitiv",
+        "englishLiteral": "the-doing_well",
+        "englishNatural": "Is the doing-well",
+        "root": "yatav",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ יוֹנָה **הַהֵיטֵב** חָרָה לְךָ",
+        "transliteration": "el- Yonah **haHeitiv** charah lekha",
+        "englishLiteral": "to- Dove (Jonah) **the-doing_well** fuming_angrily to-you",
+        "englishNatural": "to Dove (Jonah) **Is the doing-well** fuming-angrily to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הֵיטֵב",
+        "transliteration": "heitiv",
+        "englishLiteral": "doing_well",
+        "englishNatural": "Doing-well is",
+        "root": "yatav",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הַקִּיקָיוֹן וַיֹּאמֶר **הֵיטֵב** חָרָה־ לִי",
+        "transliteration": "haQiqayon vaYomer **heitiv** charah- li",
+        "englishLiteral": "the-luscious_plant And-said **doing_well** fuming_angrily- to-me",
+        "englishNatural": "the luscious-plant And he said **Doing-well is** fuming-angrily to me"
+      }
+    }
+  ]
+}

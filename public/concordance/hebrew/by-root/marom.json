@@ -1,0 +1,30 @@
+{
+  "root": "marom",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מְרוֹמִים",
+        "transliteration": "meromim",
+        "englishLiteral": "heights",
+        "englishNatural": "heights",
+        "root": "marom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּרֹאשׁ **מְרוֹמִים** עֲלֵי־ דָרֶךְ",
+        "transliteration": "beRosh **meromim** alei- derekh",
+        "englishLiteral": "In-head-of **heights** overlooking way",
+        "englishNatural": "In the head of **heights** overlooking a way"
+      }
+    }
+  ]
+}

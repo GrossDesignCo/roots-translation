@@ -1,0 +1,33 @@
+{
+  "key": "veeeskha",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאֶעֶשְׂךָ",
+        "transliteration": "veEeskha",
+        "englishLiteral": "and-I-will-make-you",
+        "englishNatural": "and I will make you",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֶעֶשְׂךָ** לְגוֹי גָּדוֹל",
+        "transliteration": "**veEeskha** leGoy gadol",
+        "englishLiteral": "**and-I-will-make-you** to-nation great",
+        "englishNatural": "**and I will make you** into a nation great"
+      }
+    }
+  ]
+}

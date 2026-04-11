@@ -1,0 +1,102 @@
+{
+  "root": "yeled",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וְיֶלֶד",
+        "transliteration": "veYeled",
+        "englishLiteral": "and-newborn",
+        "englishNatural": "and newborn",
+        "root": "yeled",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָרַגְתִּי לְפִצְעִי **וְיֶלֶד** לְחַבֻּרָתִי",
+        "transliteration": "haragti leFitzi **veYeled** leChaburati",
+        "englishLiteral": "I-have-killed to-wound-my **and-newborn** to-stripe-my",
+        "englishNatural": "I have killed to my wound **and newborn** to my stripe"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הַיֶּלֶד",
+        "transliteration": "haYeled",
+        "englishLiteral": "the-child",
+        "englishNatural": "the child",
+        "root": "yeled",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּהּ אֶת־ **הַיֶּלֶד** וַתָּשֶׂם בַּסּוּף",
+        "transliteration": "bah et- **haYeled** vaTasem baSuph",
+        "englishLiteral": "in-it ↳ **the-child** and-set in-the-reeds",
+        "englishNatural": "in it ↳ **the child** and set it in the reeds"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַיֶּלֶד",
+        "transliteration": "haYeled",
+        "englishLiteral": "the-child",
+        "englishNatural": "And the child",
+        "root": "yeled",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּגְדַּל **הַיֶּלֶד** וַתְּבִאֵהוּ לְבַת־",
+        "transliteration": "vaYigdal **haYeled** vatTevihu leBat-",
+        "englishLiteral": "And-grew **the-child** and-brought-him to-daughter-of",
+        "englishNatural": "grew **And the child** and she brought him to the daughter of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יְלָדֶ֖יהָ",
+        "transliteration": "yeladeha",
+        "englishLiteral": "children-her",
+        "englishNatural": "her children",
+        "root": "yeled",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י **יְלָדֶ֖יהָ** וּמֵאִישָֽׁהּ׃",
+        "transliteration": "haIshah miShney **yeladeha** uMeIshah",
+        "englishLiteral": "the-woman from-two-of **children-her** and-from-man-her",
+        "englishNatural": "and the woman from the two of **her children** and from her man"
+      }
+    }
+  ]
+}

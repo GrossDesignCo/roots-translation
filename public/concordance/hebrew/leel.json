@@ -1,0 +1,31 @@
+{
+  "key": "leel",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 18
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לְאֵל",
+        "transliteration": "leEl",
+        "englishLiteral": "to-God",
+        "englishNatural": "to G.",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהוּא כֹהֵן **לְאֵל** עֶלְיוֹן",
+        "transliteration": "veHu kohen **leEl** Elyon",
+        "englishLiteral": "and-he priest **to-God** Most_High",
+        "englishNatural": "and he was priest **to G.** Most-High"
+      }
+    }
+  ]
+}

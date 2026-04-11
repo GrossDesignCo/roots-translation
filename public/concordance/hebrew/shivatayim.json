@@ -1,0 +1,55 @@
+{
+  "key": "shivatayim",
+  "language": "hebrew",
+  "root": "sheva",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 15
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "שִׁבְעָתַיִם",
+        "transliteration": "shivatayim",
+        "englishLiteral": "sevenfold",
+        "englishNatural": "sevenfold",
+        "root": "sheva",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הֹרֵג קַיִן **שִׁבְעָתַיִם** יֻקָּם וַיָּשֶׂם",
+        "transliteration": "horeg Qayin **shivatayim** yuqam vayYasem",
+        "englishLiteral": "killing Acquired (Cain) **sevenfold** it-will-be-avenged And-he-set",
+        "englishNatural": "killing Acquired (Cain) **sevenfold** it will be avenged set"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 24
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "שִׁבְעָתַיִם",
+        "transliteration": "shivatayim",
+        "englishLiteral": "sevenfold",
+        "englishNatural": "sevenfold",
+        "root": "sheva",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי **שִׁבְעָתַיִם** יֻקַּם־ קָיִן",
+        "transliteration": "ki **shivatayim** yuqam- Qayin",
+        "englishLiteral": "that **sevenfold** shall-be-avenged Acquired (Cain)",
+        "englishNatural": "that **sevenfold** shall be avenged Acquired (Cain)"
+      }
+    }
+  ]
+}

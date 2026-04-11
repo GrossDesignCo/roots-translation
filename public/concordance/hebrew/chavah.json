@@ -1,0 +1,55 @@
+{
+  "key": "chavah",
+  "language": "hebrew",
+  "root": "chavah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 20
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "חַוָּה",
+        "transliteration": "Chavah",
+        "englishLiteral": "Life (Eve)",
+        "englishNatural": "Life (Eve)",
+        "root": "chavah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם אִשְׁתּוֹ **חַוָּה** כִּי הִוא",
+        "transliteration": "shem ishto **Chavah** ki hi",
+        "englishLiteral": "name woman-his **Life (Eve)** that she",
+        "englishNatural": "name his woman's **Life (Eve)** that she"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "חַוָּה",
+        "transliteration": "Chavah",
+        "englishLiteral": "Life (Eve)",
+        "englishNatural": "Life (Eve)",
+        "root": "chavah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָדַע אֶת־ **חַוָּה** אִשְׁתּוֹ וַתַּהַר",
+        "transliteration": "yada et- **Chavah** ishto vatTahar",
+        "englishLiteral": "knew ↳ **Life (Eve)** his-woman and-she-conceived",
+        "englishNatural": "knew ↳ **Life (Eve)** his woman and she conceived"
+      }
+    }
+  ]
+}

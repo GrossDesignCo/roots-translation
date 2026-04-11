@@ -1,0 +1,31 @@
+{
+  "key": "sheney-",
+  "language": "hebrew",
+  "root": "shenayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "שְׁנֵֽי־",
+        "transliteration": "sheney-",
+        "englishLiteral": "two-of-",
+        "englishNatural": "the two of",
+        "root": "shenayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "נָעֳמִ֜י וְשֵׁ֥ם **שְׁנֵֽי־** בָנָ֣יו מַחְל֤וֹן",
+        "transliteration": "Naomi veShem **sheney-** vanav Machlon",
+        "englishLiteral": "Pleasant_My (Naomi) and-name-of **two-of-** sons-his Sickness (Mahlon)",
+        "englishNatural": "My-Pleasant (Naomi) and the name of **the two of** his sons Sickness (Mahlon)"
+      }
+    }
+  ]
+}

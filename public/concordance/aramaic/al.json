@@ -1,0 +1,55 @@
+{
+  "key": "al",
+  "language": "aramaic",
+  "root": "al",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 29
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "עַל",
+        "transliteration": "al",
+        "englishLiteral": "over",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "מַלְכָּא רַעְיוֹנָךְ **עַל** מִשְׁכְּבָךְ סְלִקוּ",
+        "transliteration": "malka rayonakh **al** mishkavakh sliqu",
+        "englishLiteral": "king-the thoughts-your **over** bed-your they-came-up",
+        "englishNatural": "the king your thoughts **over** your bed came up"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 34
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "עַל",
+        "transliteration": "al",
+        "englishLiteral": "over",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וּמְחָת לְצַלְמָא **עַל** רַגְלוֹהִי דִּי",
+        "transliteration": "uMechat leTsalma **al** raglohi di",
+        "englishLiteral": "and-struck to-image-the **over** feet-its which",
+        "englishNatural": "and struck to the image **over** its feet of"
+      }
+    }
+  ]
+}

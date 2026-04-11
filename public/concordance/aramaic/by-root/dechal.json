@@ -1,0 +1,54 @@
+{
+  "root": "dechal",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "דְּחִיל",
+        "transliteration": "dechil",
+        "englishLiteral": "fearsome",
+        "englishNatural": "fearsome",
+        "root": "dechal",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לְקָבְלָךְ וְרֵוֵהּ **דְּחִיל**",
+        "transliteration": "leQovlakh veReveh **dechil**",
+        "englishLiteral": "before-you and-appearance-its **fearsome**",
+        "englishNatural": "before you and its appearance **fearsome**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "דְּחִילָה֩",
+        "transliteration": "dekhilah",
+        "englishLiteral": "dreadful",
+        "englishNatural": "dreadful",
+        "root": "dechal",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "חֵיוָה֩ רְֽבִיעָאָ֡ה **דְּחִילָה֩** וְאֵֽימְתָנִ֜י וְתַקִּיפָ֣א",
+        "transliteration": "kheyva reviaa **dekhilah** veEmtani veTaqqipha",
+        "englishLiteral": "beast fourth **dreadful** and-terrible and-strong",
+        "englishNatural": "beast a fourth **dreadful** and terrible strong"
+      }
+    }
+  ]
+}

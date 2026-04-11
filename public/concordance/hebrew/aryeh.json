@@ -1,0 +1,31 @@
+{
+  "key": "aryeh",
+  "language": "hebrew",
+  "root": "aryeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אַרְיֵה",
+        "transliteration": "aryeh",
+        "englishLiteral": "lion",
+        "englishNatural": "a lion",
+        "root": "aryeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָדָם וּפְנֵי **אַרְיֵה** אֶל־ הַיָּמִין",
+        "transliteration": "Adam uFeney **aryeh** el- haYamin",
+        "englishLiteral": "Earthling (Adam) and-faces-of **lion** to- the-right",
+        "englishNatural": "Earthling (Adam) and the face of **a lion** to the right"
+      }
+    }
+  ]
+}

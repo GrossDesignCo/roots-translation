@@ -1,0 +1,32 @@
+{
+  "root": "naphach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַיִּפַּח",
+        "transliteration": "vaYipach",
+        "englishLiteral": "and-blew",
+        "englishNatural": "and blew",
+        "root": "naphach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הָאֲדָמָה **וַיִּפַּח** בְּאַפָּיו נִשְׁמַת",
+        "transliteration": "min- haAdamah **vaYipach** beAppav nishmat",
+        "englishLiteral": "from- the-earth **and-blew** in-his-nostrils breath-of",
+        "englishNatural": "from the earth **and blew** into his nostrils the breath of"
+      }
+    }
+  ]
+}

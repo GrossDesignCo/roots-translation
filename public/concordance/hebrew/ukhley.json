@@ -1,0 +1,31 @@
+{
+  "key": "ukhley",
+  "language": "hebrew",
+  "root": "keli",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וּכְלֵ֥י",
+        "transliteration": "uKhley",
+        "englishLiteral": "and-vessels-of",
+        "englishNatural": "and vessels of",
+        "root": "keli",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּלֵי־ כֶ֖סֶף **וּכְלֵ֥י** זָהָֽב׃",
+        "transliteration": "keley- kesef **uKhley** zahav",
+        "englishLiteral": "vessels-of silver **and-vessels-of** gold",
+        "englishNatural": "vessels of silver **and vessels of** gold"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "meumah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "מְאוּמָה",
+        "transliteration": "meumah",
+        "englishLiteral": "anything",
+        "englishNatural": "anything",
+        "root": "meumah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ יִטְעֲמוּ **מְאוּמָה** אַל־ יִרְעוּ",
+        "transliteration": "al- yitamu **meumah** al- yiru",
+        "englishLiteral": "not- they-will-taste **anything** not- they-will-graze",
+        "englishNatural": "not they will taste **anything** not they will graze"
+      }
+    }
+  ]
+}

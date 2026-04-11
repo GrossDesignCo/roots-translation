@@ -1,0 +1,33 @@
+{
+  "key": "netaticha",
+  "language": "hebrew",
+  "root": "natan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נְתַתִּיךָ",
+        "transliteration": "netaticha",
+        "englishLiteral": "I-give-you",
+        "englishNatural": "I have given you",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה רְאֵה **נְתַתִּיךָ** אֱלֹהִים לְפַרְעֹה",
+        "transliteration": "Moshe reeh **netaticha** Elohim leParoh",
+        "englishLiteral": "Drawn_Out (Moses) see **I-give-you** Gods to-Pharaoh",
+        "englishNatural": "Drawn-Out (Moses) See **I have given you** God to Pharaoh"
+      }
+    }
+  ]
+}

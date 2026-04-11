@@ -1,0 +1,32 @@
+{
+  "root": "tavo",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "תָּבוֹא",
+        "transliteration": "tavo",
+        "englishLiteral": "you-come",
+        "englishNatural": "come you",
+        "root": "tavo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מְּלַאכְתְּךָ וּמֵאַיִן **תָּבוֹא** מָה אַרְצֶךָ",
+        "transliteration": "melakhtekha uMeAyin **tavo** mah artzekha",
+        "englishLiteral": "work-your and-from-where **you-come** What land-your",
+        "englishNatural": "is your work and from where **come you** What is your land"
+      }
+    }
+  ]
+}

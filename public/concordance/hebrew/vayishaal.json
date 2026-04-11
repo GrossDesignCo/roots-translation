@@ -1,0 +1,33 @@
+{
+  "key": "vayishaal",
+  "language": "hebrew",
+  "root": "shaal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וַיִּשְׁאַל",
+        "transliteration": "vaYishaal",
+        "englishLiteral": "and-asked",
+        "englishNatural": "and he asked",
+        "root": "shaal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹנָה וַיִּתְעַלָּף **וַיִּשְׁאַל** אֶת־ נַפְשׁוֹ",
+        "transliteration": "Yonah vaYitalaf **vaYishaal** et- nafsho",
+        "englishLiteral": "Dove (Jonah) and-fainted **and-asked** ↳ throat-his",
+        "englishNatural": "Dove (Jonah) and he fainted **and he asked** ↳ his throat"
+      }
+    }
+  ]
+}

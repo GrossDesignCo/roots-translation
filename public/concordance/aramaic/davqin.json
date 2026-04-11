@@ -1,0 +1,33 @@
+{
+  "key": "davqin",
+  "language": "aramaic",
+  "root": "davaq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "דָּבְקִין",
+        "transliteration": "davqin",
+        "englishLiteral": "adhering",
+        "englishNatural": "adhering",
+        "root": "davaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "וְלָא־ לֶהֱוֺן **דָּבְקִין** דְּנָה עִם־",
+        "transliteration": "veLa- lehevon **davqin** denah im-",
+        "englishLiteral": "and-not- to-be-them **adhering** this with-",
+        "englishNatural": "not and they will be **adhering** this with"
+      }
+    }
+  ]
+}

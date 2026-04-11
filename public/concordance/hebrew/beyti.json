@@ -1,0 +1,55 @@
+{
+  "key": "beyti",
+  "language": "hebrew",
+  "root": "bayit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "בֵּיתִי",
+        "transliteration": "beyti",
+        "englishLiteral": "house-of-me",
+        "englishNatural": "my house",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבֶן־ מֶשֶׁק **בֵּיתִי** הוּא דַּמֶּשֶׂק",
+        "transliteration": "uVen- mesheq **beyti** hu Damesek",
+        "englishLiteral": "and-son-of- possessor-of **house-of-me** he Damascus",
+        "englishNatural": "and the son of possessor of **my house** is Damascus"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בֵּיתִי",
+        "transliteration": "beyti",
+        "englishLiteral": "house-of-me",
+        "englishNatural": "my house",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִנֵּה בֶן־ **בֵּיתִי** יוֹרֵשׁ אֹתִי",
+        "transliteration": "veHineh ben- **beyti** yoresh oti",
+        "englishLiteral": "and-behold son-of- **house-of-me** inheriting ↳ me",
+        "englishNatural": "and behold the son of **my house** inherits me"
+      }
+    }
+  ]
+}

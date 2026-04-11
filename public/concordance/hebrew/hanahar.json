@@ -1,0 +1,79 @@
+{
+  "key": "hanahar",
+  "language": "hebrew",
+  "root": "nahar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַנָּהָר",
+        "transliteration": "haNahar",
+        "englishLiteral": "the-river",
+        "englishNatural": "river",
+        "root": "nahar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֵׁם־ **הַנָּהָר** הַשֵּׁנִי גִּיחוֹן",
+        "transliteration": "veShem- **haNahar** haSheni Gichon",
+        "englishLiteral": "and-name- **the-river** the-second Gusher (Gichon)",
+        "englishNatural": "And the name of **river** the second Gusher (Gichon)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַנָּהָר",
+        "transliteration": "haNahar",
+        "englishLiteral": "the-river",
+        "englishNatural": "river",
+        "root": "nahar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם **הַנָּהָר** הַשְּׁלִישִׁי חִדֶּקֶל",
+        "transliteration": "shem **haNahar** haShlishi Chidekel",
+        "englishLiteral": "name **the-river** the-third Rapid (Chidekel)",
+        "englishNatural": "The name of **river** the third Rapid (Chidekel)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 18
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "הַנָּהָר",
+        "transliteration": "haNahar",
+        "englishLiteral": "the-river",
+        "englishNatural": "The River",
+        "root": "nahar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִצְרַיִם עַד־ **הַנָּהָר** הַגָּדֹל נְהַר־",
+        "transliteration": "Mitzrayim ad- **haNahar** haGadol nehar-",
+        "englishLiteral": "Double_Narrows (Egypt) until- **the-river** the-great river-of-",
+        "englishNatural": "Double-Narrows (Egypt) until **The River** The Great the River of"
+      }
+    }
+  ]
+}

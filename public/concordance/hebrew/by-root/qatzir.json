@@ -1,0 +1,30 @@
+{
+  "root": "qatzir",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְקָצִיר",
+        "transliteration": "veQatzir",
+        "englishLiteral": "and-harvest",
+        "englishNatural": "and harvest",
+        "root": "qatzir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ זֶרַע **וְקָצִיר** וְקֹר וָחֹם",
+        "transliteration": "haAretz zera **veQatzir** veQor vaChom",
+        "englishLiteral": "the-land seed **and-harvest** and-cold and-heat",
+        "englishNatural": "the land seed **and harvest** and cold and heat"
+      }
+    }
+  ]
+}

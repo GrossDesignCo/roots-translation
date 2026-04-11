@@ -1,0 +1,33 @@
+{
+  "key": "taddiq",
+  "language": "aramaic",
+  "root": "daq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "תַּדִּק",
+        "transliteration": "taddiq",
+        "englishLiteral": "it-will-crush",
+        "englishNatural": "it will crush",
+        "root": "daq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "haphel"
+        }
+      },
+      "context": {
+        "hebrew": "מְרָעַע כֹּלָּא **תַּדִּק** וְתֵרֹעַ",
+        "transliteration": "meraa kolla **taddiq** veTeroa",
+        "englishLiteral": "breaking all **it-will-crush** and-will-break",
+        "englishNatural": "breaking all **it will crush** and will break"
+      }
+    }
+  ]
+}

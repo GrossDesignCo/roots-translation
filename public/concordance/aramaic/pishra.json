@@ -1,0 +1,31 @@
+{
+  "key": "pishra",
+  "language": "aramaic",
+  "root": "peshar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "פִּשְׁרָא",
+        "transliteration": "pishra",
+        "englishLiteral": "interpretation-the",
+        "englishNatural": "the interpretation",
+        "root": "peshar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּדִבְרַת דִּי **פִּשְׁרָא** לְמַלְכָּא יְהוֹדְעוּן",
+        "transliteration": "beDivrat di **pishra** leMalka yehodun",
+        "englishLiteral": "on-word-of which **interpretation-the** to-king-the they-will-make-known",
+        "englishNatural": "on the word of which **the interpretation** to the king might be made known"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "mavo",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מְבוֹא",
+        "transliteration": "mevo",
+        "englishLiteral": "incoming-of",
+        "englishNatural": "incoming of",
+        "root": "mavo",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְפִי קָרְיָה **מְבוֹא** פְתָחִים תָּרֹנָּה",
+        "transliteration": "lePhi qaryah **mevo** petachim taRonnah",
+        "englishLiteral": "to-mouth-of city **incoming-of** openings she-cries_out",
+        "englishNatural": "to the mouth of a city **incoming of** openings she cries-out"
+      }
+    }
+  ]
+}

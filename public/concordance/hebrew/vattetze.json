@@ -1,0 +1,33 @@
+{
+  "key": "vattetze",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתֵּצֵא֙",
+        "transliteration": "vatTetze",
+        "englishLiteral": "And-she-went_out",
+        "englishNatural": "And she went-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתֵּצֵא֙** מִן־ הַמָּק֔וֹם",
+        "transliteration": "**vatTetze** min- haMaqom",
+        "englishLiteral": "**And-she-went_out** from- the-place",
+        "englishNatural": "**And she went-out** from the place"
+      }
+    }
+  ]
+}

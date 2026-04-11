@@ -1,0 +1,33 @@
+{
+  "key": "mehabit",
+  "language": "hebrew",
+  "root": "nabat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "מֵהַבִּיט",
+        "transliteration": "meHabit",
+        "englishLiteral": "from-to-look",
+        "englishNatural": "to look",
+        "root": "nabat",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי יָרֵא **מֵהַבִּיט** אֶל־ הָאֱלֹהִים",
+        "transliteration": "ki yare **meHabit** el- haElohim",
+        "englishLiteral": "that feared **from-to-look** to- the-Gods",
+        "englishNatural": "that he feared **to look** to the God"
+      }
+    }
+  ]
+}

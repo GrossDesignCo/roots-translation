@@ -1,0 +1,33 @@
+{
+  "key": "aletah",
+  "language": "hebrew",
+  "root": "alah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "עָלְתָה",
+        "transliteration": "aletah",
+        "englishLiteral": "went_up",
+        "englishNatural": "has come up",
+        "root": "alah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עָלֶיהָ כִּי־ **עָלְתָה** רָעָתָם לְפָנָי",
+        "transliteration": "aleha ki- **aletah** raatam leFanai",
+        "englishLiteral": "over-her that- **went_up** bad-their before-my-faces",
+        "englishNatural": "over her that **has come up** their bad before my face"
+      }
+    }
+  ]
+}

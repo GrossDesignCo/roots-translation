@@ -1,0 +1,85 @@
+{
+  "key": "titten",
+  "language": "hebrew",
+  "root": "natan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "תִּתֵּן",
+        "transliteration": "titten",
+        "englishLiteral": "will-give",
+        "englishNatural": "will give",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "גַּם־ אַתָּה **תִּתֵּן** בְּיָדֵנוּ זְבָחִים",
+        "transliteration": "gam- atah **titten** beYadenu zevachim",
+        "englishLiteral": "also- you **will-give** in-hand-our sacrifices",
+        "englishNatural": "Also you **will give** in our hand sacrifices"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "תִּתֵּן",
+        "transliteration": "titten",
+        "englishLiteral": "will-give",
+        "englishNatural": "give",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תִקְרָא וּתְבוּנָה **תִּתֵּן** קוֹלָהּ",
+        "transliteration": "tiqra uTevunah **titten** qolah",
+        "englishLiteral": "will-call_out and-Understanding **will-give** voice-her",
+        "englishNatural": "call-out and Understanding **give** her voice"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "תִּתֵּן",
+        "transliteration": "titten",
+        "englishLiteral": "give",
+        "englishNatural": "and give",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַזֶּה וְאַל־ **תִּתֵּן** עָלֵינוּ דָּם",
+        "transliteration": "haZeh veAl- **titten** alenu dam",
+        "englishLiteral": "the-this and-not- **give** over-us blood",
+        "englishNatural": "the this not **and give** over us blood"
+      }
+    }
+  ]
+}

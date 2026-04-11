@@ -1,0 +1,75 @@
+{
+  "root": "af",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בְּאַפָּיו",
+        "transliteration": "beAppav",
+        "englishLiteral": "in-his-nostrils",
+        "englishNatural": "into his nostrils",
+        "root": "af",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה וַיִּפַּח **בְּאַפָּיו** נִשְׁמַת חַיִּים",
+        "transliteration": "haAdamah vaYipach **beAppav** nishmat chayyim",
+        "englishLiteral": "the-earth and-blew **in-his-nostrils** breath-of lives",
+        "englishNatural": "the earth and blew **into his nostrils** the breath of life"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אַף",
+        "transliteration": "af",
+        "englishLiteral": "Is_it_so",
+        "englishNatural": "Is-it-so",
+        "root": "af"
+      },
+      "context": {
+        "hebrew": "אֶל הָאִשָּׁה **אַף** כִּי אָמַר",
+        "transliteration": "el haIshah **af** ki amar",
+        "englishLiteral": "to the-woman **Is_it_so** that said",
+        "englishNatural": "to the woman **Is-it-so** that said"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "אַפַּיִם",
+        "transliteration": "apayim",
+        "englishLiteral": "nostrils",
+        "englishNatural": "nostrils",
+        "root": "af",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחַנּוּן אֶרֶךְ **אַפַּיִם** וְרַב־ חֶסֶד",
+        "transliteration": "veChannun erekh **apayim** veRav- chesed",
+        "englishLiteral": "and-gracious long **nostrils** and-many- steadfast_love",
+        "englishNatural": "and gracious long of **nostrils** and abundant in steadfast-love"
+      }
+    }
+  ]
+}

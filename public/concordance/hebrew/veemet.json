@@ -1,0 +1,31 @@
+{
+  "key": "veemet",
+  "language": "hebrew",
+  "root": "emet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וֶאֱמֶת",
+        "transliteration": "veEmet",
+        "englishLiteral": "and-truth",
+        "englishNatural": "and truth",
+        "root": "emet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְרַב־ חֶסֶד **וֶאֱמֶת**",
+        "transliteration": "veRav- chesed **veEmet**",
+        "englishLiteral": "and-many- steadfast_love **and-truth**",
+        "englishNatural": "and abundant in steadfast-love **and truth**"
+      }
+    }
+  ]
+}

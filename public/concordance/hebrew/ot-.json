@@ -1,0 +1,31 @@
+{
+  "key": "ot-",
+  "language": "hebrew",
+  "root": "ot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 12
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אוֹת־",
+        "transliteration": "ot-",
+        "englishLiteral": "sign-of",
+        "englishNatural": "the sign of",
+        "root": "ot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים זֹאת **אוֹת־** הַבְּרִית אֲשֶׁר־",
+        "transliteration": "Elohim zot **ot-** haBerit asher-",
+        "englishLiteral": "Gods this **sign-of** the-covenant which-",
+        "englishNatural": "And God This **the sign of** the covenant which"
+      }
+    }
+  ]
+}

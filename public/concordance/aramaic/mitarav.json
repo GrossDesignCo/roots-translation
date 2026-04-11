@@ -1,0 +1,33 @@
+{
+  "key": "mitarav",
+  "language": "aramaic",
+  "root": "arav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "מִתְעָרַב",
+        "transliteration": "mitarav",
+        "englishLiteral": "mix-itself",
+        "englishNatural": "mixes itself",
+        "root": "arav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "ithpeel"
+        }
+      },
+      "context": {
+        "hebrew": "פַרְזְלָא לָא **מִתְעָרַב** עִם־ חַסְפָּא",
+        "transliteration": "parzela la **mitarav** im- chaspa",
+        "englishLiteral": "iron-the not **mix-itself** with- clay-the",
+        "englishNatural": "the iron not **mixes itself** with the clay"
+      }
+    }
+  ]
+}

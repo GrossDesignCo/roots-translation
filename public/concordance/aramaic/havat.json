@@ -1,0 +1,33 @@
+{
+  "key": "havat",
+  "language": "aramaic",
+  "root": "hava",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 24,
+      "word": {
+        "originalScript": "הֲוָת",
+        "transliteration": "havat",
+        "englishLiteral": "became",
+        "englishNatural": "became",
+        "root": "hava",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "מְחָת לְצַלְמָא **הֲוָת** לְטוּר רַב",
+        "transliteration": "mechat leTsalma **havat** leTur rav",
+        "englishLiteral": "struck to-the-image **became** to-mountain great",
+        "englishNatural": "struck the image **became** mountain to a great"
+      }
+    }
+  ]
+}

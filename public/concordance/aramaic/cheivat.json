@@ -1,0 +1,31 @@
+{
+  "key": "cheivat",
+  "language": "aramaic",
+  "root": "cheiva",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 38
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "חֵיוַת",
+        "transliteration": "cheivat",
+        "englishLiteral": "beasts-of",
+        "englishNatural": "the beasts of",
+        "root": "cheiva",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי אֲנָשָׁא **חֵיוַת** בָרָא וְעוֹף",
+        "transliteration": "benei anasha **cheivat** bara veOf",
+        "englishLiteral": "sons-of Mortal_Man (Enash)-the **beasts-of** field-the and-birds-of",
+        "englishNatural": "the sons of the Mortal-Man (Enash) **the beasts of** the field and the birds of"
+      }
+    }
+  ]
+}

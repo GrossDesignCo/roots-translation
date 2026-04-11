@@ -1,0 +1,30 @@
+{
+  "root": "lappid",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הַלַּפִּדִם",
+        "transliteration": "haLappidim",
+        "englishLiteral": "the-torches",
+        "englishNatural": "The Torches",
+        "root": "lappid",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֹּעֲרוֹת כְּמַרְאֵה **הַלַּפִּדִם** הִיא מִתְהַלֶּכֶת",
+        "transliteration": "boarot keMarah **haLappidim** hi mithalekhet",
+        "englishLiteral": "burning like-appearance-of **the-torches** she going",
+        "englishNatural": "burning like the appearance of **The Torches** she was going"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayokhal",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "וַיֹּאכַל׃",
+        "transliteration": "vayokhal",
+        "englishLiteral": "and-ate",
+        "englishNatural": "and he ate",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְאִישָׁהּ עִמָּהּ **וַיֹּאכַל׃**",
+        "transliteration": "leIshah imah **vayokhal**",
+        "englishLiteral": "to-her-man with-her **and-ate**",
+        "englishNatural": "to her man with her **and he ate**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "lisfor",
+  "language": "hebrew",
+  "root": "safar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 5
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לִסְפֹּר",
+        "transliteration": "lisfor",
+        "englishLiteral": "to-count",
+        "englishNatural": "to count",
+        "root": "safar",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אִם־ תּוּכַל **לִסְפֹּר** אֹתָם וַיֹּאמֶר",
+        "transliteration": "im- tukhal **lisfor** otam vaYomer",
+        "englishLiteral": "if- you-are-able **to-count** ↳ them And-he-said",
+        "englishNatural": "if you are able **to count** them And he said"
+      }
+    }
+  ]
+}

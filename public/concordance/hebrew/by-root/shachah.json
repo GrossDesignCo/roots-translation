@@ -1,0 +1,32 @@
+{
+  "root": "shachah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְהִשְׁתַּֽחֲווּ־",
+        "transliteration": "veHishtachavu-",
+        "englishLiteral": "and-they-will-bow_down-",
+        "englishNatural": "and will bow-down",
+        "root": "shachah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "אֵ֨לֶּה אֵלַ֜י **וְהִשְׁתַּֽחֲווּ־** לִ֣י לֵאמֹ֗ר",
+        "transliteration": "eleh elay **veHishtachavu-** li lemor",
+        "englishLiteral": "these to-me **and-they-will-bow_down-** to-me to-say",
+        "englishNatural": "these to me **and will bow-down** to me saying"
+      }
+    }
+  ]
+}

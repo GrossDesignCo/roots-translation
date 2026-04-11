@@ -1,0 +1,126 @@
+{
+  "root": "tselem",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "צְלֵם",
+        "transliteration": "tselem",
+        "englishLiteral": "image",
+        "englishNatural": "image",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲוַיְתָ וַאֲלוּ **צְלֵם** חַד שַׂגִּיא",
+        "transliteration": "havayta vaAlu **tselem** chad saggi",
+        "englishLiteral": "you-were and-behold **image** one great",
+        "englishNatural": "were and behold **image** one great"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 31
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "צַלְמָא",
+        "transliteration": "tsalma",
+        "englishLiteral": "image-the",
+        "englishNatural": "the image",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַד שַׂגִּיא **צַלְמָא** דִכֵּן רַב",
+        "transliteration": "chad saggi **tsalma** dikken rav",
+        "englishLiteral": "one great **image-the** that great",
+        "englishNatural": "one great **the image** that was great"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "צַלְמָא",
+        "transliteration": "tsalma",
+        "englishLiteral": "image-the",
+        "englishNatural": "the image",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא **צַלְמָא** רֵאשֵׁהּ דִּי",
+        "transliteration": "hu **tsalma** resheh di",
+        "englishLiteral": "he **image-the** head-its which",
+        "englishNatural": "He **the image** its head of"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 34
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "לְצַלְמָא",
+        "transliteration": "leTsalma",
+        "englishLiteral": "to-image-the",
+        "englishNatural": "to the image",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בִידַיִן וּמְחָת **לְצַלְמָא** עַל רַגְלוֹהִי",
+        "transliteration": "biDayin uMechat **leTsalma** al raglohi",
+        "englishLiteral": "in-hands and-struck **to-image-the** over feet-its",
+        "englishNatural": "in hands and struck **to the image** over its feet"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 23,
+      "word": {
+        "originalScript": "לְצַלְמָא",
+        "transliteration": "leTsalma",
+        "englishLiteral": "to-the-image",
+        "englishNatural": "the image",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי מְחָת **לְצַלְמָא** הֲוָת לְטוּר",
+        "transliteration": "di mechat **leTsalma** havat leTur",
+        "englishLiteral": "that struck **to-the-image** became to-mountain",
+        "englishNatural": "that struck **the image** became mountain"
+      }
+    }
+  ]
+}

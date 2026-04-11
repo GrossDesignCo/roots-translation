@@ -1,0 +1,136 @@
+{
+  "root": "harag",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וַיַּהַרְגֵהוּ",
+        "transliteration": "vayYahargehu",
+        "englishLiteral": "and-he-killed-him",
+        "englishNatural": "and killed him",
+        "root": "harag",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הֶבֶל אָחִיו **וַיַּהַרְגֵהוּ**",
+        "transliteration": "Hevel achiv **vayYahargehu**",
+        "englishLiteral": "Vapor (Abel) his-brother **and-he-killed-him**",
+        "englishNatural": "Vapor (Abel) his brother **and killed him**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "יַהַרְגֵנִי",
+        "transliteration": "yahargeini",
+        "englishLiteral": "will-kill-me",
+        "englishNatural": "will kill me",
+        "root": "harag",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כָל־ מֹצְאִי **יַהַרְגֵנִי**",
+        "transliteration": "kol- motzei **yahargeini**",
+        "englishLiteral": "all- finding-me **will-kill-me**",
+        "englishNatural": "all finding me **will kill me**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 15
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הֹרֵג",
+        "transliteration": "horeg",
+        "englishLiteral": "killing",
+        "englishNatural": "killing",
+        "root": "harag",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֵן כָּל־ **הֹרֵג** קַיִן שִׁבְעָתַיִם",
+        "transliteration": "lakhen kol- **horeg** Qayin shivatayim",
+        "englishLiteral": "Not-so all- **killing** Acquired (Cain) sevenfold",
+        "englishNatural": "Not so all **killing** Acquired (Cain) sevenfold"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הָרַגְתִּי",
+        "transliteration": "haragti",
+        "englishLiteral": "I-have-killed",
+        "englishNatural": "I have killed",
+        "root": "harag",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי אִישׁ **הָרַגְתִּי** לְפִצְעִי וְיֶלֶד",
+        "transliteration": "ki ish **haragti** leFitzi veYeled",
+        "englishLiteral": "that man **I-have-killed** to-wound-my and-newborn",
+        "englishNatural": "that man **I have killed** to my wound and newborn"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "הֲרָגוֹ",
+        "transliteration": "harago",
+        "englishLiteral": "killed-him",
+        "englishNatural": "killed him",
+        "root": "harag",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הֶבֶל כִּי **הֲרָגוֹ** קָיִן",
+        "transliteration": "Hevel ki **harago** Qayin",
+        "englishLiteral": "Vapor (Abel) that **killed-him** Acquired (Cain)",
+        "englishNatural": "Vapor (Abel) that **killed him** Acquired (Cain)"
+      }
+    }
+  ]
+}

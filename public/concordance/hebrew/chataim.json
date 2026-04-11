@@ -1,0 +1,31 @@
+{
+  "key": "chataim",
+  "language": "hebrew",
+  "root": "chata",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "חַטָּאִים",
+        "transliteration": "chataim",
+        "englishLiteral": "sinners",
+        "englishNatural": "sinners",
+        "root": "chata",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רְשָׁעִים וּבְדֶרֶךְ **חַטָּאִים** לֹא עָמָד",
+        "transliteration": "reshaim uvDerekh **chataim** lo amad",
+        "englishLiteral": "wicked_ones and-in-way-of **sinners** not has-stood",
+        "englishNatural": "wicked-ones and in the way of **sinners** not has stood"
+      }
+    }
+  ]
+}

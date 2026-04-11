@@ -1,0 +1,55 @@
+{
+  "key": "choshekh",
+  "language": "hebrew",
+  "root": "choshekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "חֹשֶׁךְ",
+        "transliteration": "choshekh",
+        "englishLiteral": "darkness",
+        "englishNatural": "darkness",
+        "root": "choshekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁמַיִם וִיהִי **חֹשֶׁךְ** עַל־ אֶרֶץ",
+        "transliteration": "haShamayim viYhi **choshekh** al- eretz",
+        "englishLiteral": "the-skies and-let-be **darkness** over- land-of",
+        "englishNatural": "the skies and let it be **darkness** over the land of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "חֹשֶׁךְ",
+        "transliteration": "choshekh",
+        "englishLiteral": "darkness",
+        "englishNatural": "darkness",
+        "root": "choshekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִצְרָיִם וְיָמֵשׁ **חֹשֶׁךְ**",
+        "transliteration": "Mitzrayim veYamesh **choshekh**",
+        "englishLiteral": "Double_Straits (Egypt) and-let-him-feel **darkness**",
+        "englishNatural": "Double-Straits (Egypt) and let it feel **darkness**"
+      }
+    }
+  ]
+}

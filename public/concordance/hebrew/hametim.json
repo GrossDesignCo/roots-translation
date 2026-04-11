@@ -1,0 +1,33 @@
+{
+  "key": "hametim",
+  "language": "hebrew",
+  "root": "mut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "הַמֵּתִ֖ים",
+        "transliteration": "haMetim",
+        "englishLiteral": "the-dead",
+        "englishNatural": "the dead",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֲשִׂיתֶ֛ם עִם־ **הַמֵּתִ֖ים** וְעִמָּדִֽי",
+        "transliteration": "asitem im- **haMetim** veImmadi",
+        "englishLiteral": "you-made with- **the-dead** and-with-me",
+        "englishNatural": "you made with **the dead** and with me"
+      }
+    }
+  ]
+}

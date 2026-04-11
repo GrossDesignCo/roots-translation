@@ -1,0 +1,78 @@
+{
+  "root": "maqom",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מָקֹ֣ום",
+        "transliteration": "maqom",
+        "englishLiteral": "place",
+        "englishNatural": "place",
+        "root": "maqom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁמַ֙יִם֙ אֶל־ **מָקֹ֣ום** אֶחָ֔ד וְתֵרָאֶ֖ה",
+        "transliteration": "haShamayim el- **maqom** echad veTeRaah",
+        "englishLiteral": "the-skies to- **place** one And-be-seen",
+        "englishNatural": "the skies to **place** one be seen"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הַמָּקוֹם",
+        "transliteration": "haMaqom",
+        "englishLiteral": "the-place",
+        "englishNatural": "the place",
+        "root": "maqom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רַגְלֶיךָ כִּי **הַמָּקוֹם** אֲשֶׁר אַתָּה",
+        "transliteration": "raglekha ki **haMaqom** asher atah",
+        "englishLiteral": "feet-your that **the-place** which you",
+        "englishNatural": "your feet that **the place** which you"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַמָּק֔וֹם",
+        "transliteration": "haMaqom",
+        "englishLiteral": "the-place",
+        "englishNatural": "the place",
+        "root": "maqom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֵּצֵא֙ מִן־ **הַמָּק֔וֹם** אֲשֶׁ֥ר הָֽיְתָה־",
+        "transliteration": "vatTetze min- **haMaqom** asher hayetah-",
+        "englishLiteral": "And-she-went_out from- **the-place** which she-had-been-",
+        "englishNatural": "And she went-out from **the place** which she had been"
+      }
+    }
+  ]
+}

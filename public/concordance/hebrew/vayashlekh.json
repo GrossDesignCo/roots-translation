@@ -1,0 +1,33 @@
+{
+  "key": "vayashlekh",
+  "language": "hebrew",
+  "root": "shalakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וַיַּשְׁלֵךְ",
+        "transliteration": "vaYashlekh",
+        "englishLiteral": "and-threw",
+        "englishNatural": "threw",
+        "root": "shalakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "צִוָּה יְהוָה **וַיַּשְׁלֵךְ** אַהֲרֹן אֶת־",
+        "transliteration": "tzivah YHWH **vaYashlekh** Aharon et-",
+        "englishLiteral": "he-commanded He_Who_Is (YHWH) **and-threw** Light_Bringer (Aaron) ↳",
+        "englishNatural": "had commanded He-Who-Is (YHWH) **threw** and Light-Bringer (Aaron) ↳"
+      }
+    }
+  ]
+}

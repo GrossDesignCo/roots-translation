@@ -1,0 +1,31 @@
+{
+  "key": "aleihem",
+  "language": "hebrew",
+  "root": "el",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אֲלֵיהֶם",
+        "transliteration": "aleihem",
+        "englishLiteral": "to-them",
+        "englishNatural": "to them",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **אֲלֵיהֶם** עִבְרִי אָנֹכִי",
+        "transliteration": "vaYomer **aleihem** ivri anokhi",
+        "englishLiteral": "And-said **to-them** Passes_Through (Hebrew) I",
+        "englishNatural": "And he said **to them** Passes-Through (Hebrew) am I"
+      }
+    }
+  ]
+}

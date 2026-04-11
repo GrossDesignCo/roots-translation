@@ -1,0 +1,79 @@
+{
+  "key": "haeleh",
+  "language": "hebrew",
+  "root": "eleh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הָאֵלֶּה",
+        "transliteration": "haEleh",
+        "englishLiteral": "the-these",
+        "englishNatural": "these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אַחַר הַדְּבָרִים **הָאֵלֶּה** הָיָה דְבַר־",
+        "transliteration": "achar haDvarim **haEleh** hayah devar-",
+        "englishLiteral": "After the-words **the-these** was word-of-",
+        "englishNatural": "After words **these** was the word of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 17
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הָאֵלֶּה",
+        "transliteration": "haEleh",
+        "englishLiteral": "the-these",
+        "englishNatural": "these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּין הַגְּזָרִים **הָאֵלֶּה**",
+        "transliteration": "beyn haGezarim **haEleh**",
+        "englishLiteral": "between the-pieces **the-these**",
+        "englishNatural": "between pieces **these**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הָאֵ֖לֶּה",
+        "transliteration": "haEleh",
+        "englishLiteral": "the-these",
+        "englishNatural": "these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הַמֹּפְתִ֥ים **הָאֵ֖לֶּה** לִפְנֵ֣י פַרְעֹ֑ה",
+        "transliteration": "kol- haMoftim **haEleh** lifney Paroh",
+        "englishLiteral": "all- the-wonders **the-these** to-faces-of Pharaoh",
+        "englishNatural": "all the wonders **these** to the face of Pharaoh"
+      }
+    }
+  ]
+}

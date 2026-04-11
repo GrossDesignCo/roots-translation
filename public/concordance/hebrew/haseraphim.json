@@ -1,0 +1,55 @@
+{
+  "key": "haseraphim",
+  "language": "hebrew",
+  "root": "seraph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הַשְּׂרָפִים",
+        "transliteration": "haSeraphim",
+        "englishLiteral": "the-incinerating_ones",
+        "englishNatural": "the incinerating-ones",
+        "root": "seraph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵת הַנְּחָשִׁים **הַשְּׂרָפִים** וַיְנַשְּׁכוּ אֶת",
+        "transliteration": "et haNechashim **haSeraphim** vaYeNashkhu et",
+        "englishLiteral": "↳ the-snakes **the-incinerating_ones** and-they-struck ↳",
+        "englishNatural": "↳ the snakes **the incinerating-ones** and they struck ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַשְּׂרָפִים",
+        "transliteration": "haSeraphim",
+        "englishLiteral": "the-incinerating_ones",
+        "englishNatural": "the incinerating-ones",
+        "root": "saraph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶחָד מִן **הַשְּׂרָפִים** וּבְיָדוֹ רִצְפָּה",
+        "transliteration": "echad min **haSeraphim** uVeYado ritzpah",
+        "englishLiteral": "one from **the-incinerating_ones** and-in-his-hand live_coal",
+        "englishNatural": "one from **the incinerating-ones** and in his hand a live-coal"
+      }
+    }
+  ]
+}

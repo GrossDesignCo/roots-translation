@@ -1,0 +1,33 @@
+{
+  "key": "yarei",
+  "language": "hebrew",
+  "root": "yare",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "יָרֵא",
+        "transliteration": "yarei",
+        "englishLiteral": "fear",
+        "englishNatural": "fear",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁמַיִם אֲנִי **יָרֵא** אֲשֶׁר־ עָשָׂה",
+        "transliteration": "haShamayim ani **yarei** asher- asah",
+        "englishLiteral": "the-skies I **fear** which- made",
+        "englishNatural": "the skies I **fear** which made"
+      }
+    }
+  ]
+}

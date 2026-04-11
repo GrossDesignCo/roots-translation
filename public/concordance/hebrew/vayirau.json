@@ -1,0 +1,59 @@
+{
+  "key": "vayirau",
+  "language": "hebrew",
+  "root": "yare",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּירְאוּ",
+        "transliteration": "vaYirau",
+        "englishLiteral": "And-feared",
+        "englishNatural": "feared",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּירְאוּ** הַמַּלָּחִים וַיִּזְעֲקוּ",
+        "transliteration": "**vaYirau** haMallachim vaYizaqu",
+        "englishLiteral": "**And-feared** the-sailors and-cried_out",
+        "englishNatural": "**feared** And the sailors and cried-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּירְאוּ",
+        "transliteration": "vaYirau",
+        "englishLiteral": "And-feared",
+        "englishNatural": "feared",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּירְאוּ** הָאֲנָשִׁים יִרְאָה",
+        "transliteration": "**vaYirau** haAnashim yirah",
+        "englishLiteral": "**And-feared** the-men fear",
+        "englishNatural": "**feared** And the men fear"
+      }
+    }
+  ]
+}

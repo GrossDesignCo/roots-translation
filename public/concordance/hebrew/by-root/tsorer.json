@@ -1,0 +1,30 @@
+{
+  "root": "tsorer",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "צוֹרְרֶ֑יךָ",
+        "transliteration": "tsorerekha",
+        "englishLiteral": "your-adversarys",
+        "englishNatural": "your adversaries",
+        "root": "tsorer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֹ֑ז לְמַ֥עַן **צוֹרְרֶ֑יךָ** לְהַשְׁבִּ֥ית אוֹיֵ֥ב",
+        "transliteration": "oz leMaan **tsorerekha** leHashbit oyev",
+        "englishLiteral": "strength to-sake-of **your-adversarys** to-cause-to-sabbath enemy",
+        "englishNatural": "strength to the sake of **your adversaries** to cause-to-sabbath enemy"
+      }
+    }
+  ]
+}

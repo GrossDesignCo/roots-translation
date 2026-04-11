@@ -1,0 +1,59 @@
+{
+  "key": "hayoshev",
+  "language": "hebrew",
+  "root": "yashav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הַיֹּשֵׁ֣ב",
+        "transliteration": "haYoshev",
+        "englishLiteral": "the-sitting",
+        "englishNatural": "the one sitting",
+        "root": "yashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִבְּכֹ֤ר פַּרְעֹה֙ **הַיֹּשֵׁ֣ב** עַל־ כִּסְא֔וֹ",
+        "transliteration": "miBekhor Paroh **haYoshev** al- kiso",
+        "englishLiteral": "from-firstborn Pharaoh **the-sitting** over- throne-his",
+        "englishNatural": "from the firstborn of Pharaoh **the one sitting** over his throne"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 29
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הַיֹּשֵׁ֣ב",
+        "transliteration": "haYoshev",
+        "englishLiteral": "the-sitting",
+        "englishNatural": "the sitting",
+        "root": "yashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִבְּכֹ֤ר פַּרְעֹה֙ **הַיֹּשֵׁ֣ב** עַל־ כִּסְא֔וֹ",
+        "transliteration": "miBekor Paroh **haYoshev** al- kiso",
+        "englishLiteral": "from-firstborn-of Pharaoh **the-sitting** over- throne-his",
+        "englishNatural": "from the firstborn of Pharaoh **the sitting** over his throne"
+      }
+    }
+  ]
+}

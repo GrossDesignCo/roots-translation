@@ -1,0 +1,79 @@
+{
+  "key": "ir",
+  "language": "hebrew",
+  "root": "ir",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 17
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עִיר",
+        "transliteration": "ir",
+        "englishLiteral": "city",
+        "englishNatural": "a city",
+        "root": "ir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי בֹּנֶה **עִיר** וַיִּקְרָא שֵׁם",
+        "transliteration": "vayHi boneh **ir** vayYiqra shem",
+        "englishLiteral": "and-he-was building **city** and-he-called_out name",
+        "englishNatural": "and he was building **a city** and he called-out the name of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עִיר",
+        "transliteration": "ir",
+        "englishLiteral": "city",
+        "englishNatural": "City",
+        "root": "ir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ רְחֹבֹת **עִיר** וְאֶת־ כָּלַח",
+        "transliteration": "veEt- Rechoboth **ir** veEt- Kalach",
+        "englishLiteral": "and-↳ Open_Places (Rehoboth) **city** and-↳ Vigor (Calah)",
+        "englishNatural": "and Open-Places (Rehoboth) **City** and Vigor (Calah)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עִיר",
+        "transliteration": "ir",
+        "englishLiteral": "city",
+        "englishNatural": "a city",
+        "root": "ir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נִבְנֶה־ לָּנוּ **עִיר** וּמִגְדָּל וְרֹאשׁוֹ",
+        "transliteration": "nivneh- lanu **ir** uMigdal veRosho",
+        "englishLiteral": "let-us-build- for-us **city** and-tower and-its-head",
+        "englishNatural": "let us build for us **a city** and a tower and its head"
+      }
+    }
+  ]
+}

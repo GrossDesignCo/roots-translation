@@ -1,0 +1,31 @@
+{
+  "key": "vekhalneh",
+  "language": "hebrew",
+  "root": "kalneh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְכַלְנֵה",
+        "transliteration": "veKhalneh",
+        "englishLiteral": "and-Fortress (Calneh)",
+        "englishNatural": "and Fortress (Calneh)",
+        "root": "kalneh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶרֶךְ וְאַכַּד **וְכַלְנֵה** בְּאֶרֶץ שִׁנְעָר",
+        "transliteration": "veErekh veAkkad **veKhalneh** beEretz Shinar",
+        "englishLiteral": "and-Length (Erech) and-Fortress (Akkadia) **and-Fortress (Calneh)** in-land-of Tooth_of_Two (Shinar)",
+        "englishNatural": "and Length (Erech) and Fortress (Akkadia) **and Fortress (Calneh)** in the land of Tooth-of-Two (Shinar)"
+      }
+    }
+  ]
+}

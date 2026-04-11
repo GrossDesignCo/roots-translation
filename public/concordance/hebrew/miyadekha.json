@@ -1,0 +1,31 @@
+{
+  "key": "miyadekha",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "מִיָּדֶךָ",
+        "transliteration": "miYadekha",
+        "englishLiteral": "from-your-hand",
+        "englishNatural": "from your hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דְּמֵי אָחִיךָ **מִיָּדֶךָ**",
+        "transliteration": "demey achikha **miYadekha**",
+        "englishLiteral": "blood-of your-brother **from-your-hand**",
+        "englishNatural": "the blood of your brother **from your hand**"
+      }
+    }
+  ]
+}

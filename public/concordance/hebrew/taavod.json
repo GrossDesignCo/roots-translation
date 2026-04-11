@@ -1,0 +1,33 @@
+{
+  "key": "taavod",
+  "language": "hebrew",
+  "root": "avad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "תַעֲבֹד",
+        "transliteration": "taavod",
+        "englishLiteral": "you-serve",
+        "englishNatural": "you serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי **תַעֲבֹד** אֶת־ הָאֲדָמָה",
+        "transliteration": "ki **taavod** et- haAdamah",
+        "englishLiteral": "When **you-serve** ↳ the-earth",
+        "englishNatural": "When **you serve** ↳ the earth"
+      }
+    }
+  ]
+}

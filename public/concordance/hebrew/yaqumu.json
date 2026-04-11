@@ -1,0 +1,33 @@
+{
+  "key": "yaqumu",
+  "language": "hebrew",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "יָקֻמוּ",
+        "transliteration": "yaqumu",
+        "englishLiteral": "they-will-stand_up",
+        "englishNatural": "will stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כֵּן לֹא **יָקֻמוּ** רְשָׁעִים בַּמִּשְׁפָּט",
+        "transliteration": "ken lo **yaqumu** reshaim baMishpat",
+        "englishLiteral": "so not **they-will-stand_up** wicked-ones in-justice",
+        "englishNatural": "So not **will stand-up** the wicked in justice"
+      }
+    }
+  ]
+}

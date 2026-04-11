@@ -1,0 +1,31 @@
+{
+  "key": "bericheiha",
+  "language": "hebrew",
+  "root": "bariach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בְּרִחֶיהָ",
+        "transliteration": "bericheiha",
+        "englishLiteral": "bars-her",
+        "englishNatural": "her bars",
+        "root": "bariach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָרִים הָאָרֶץ **בְּרִחֶיהָ** בַעֲדִי לְעוֹלָם",
+        "transliteration": "harim haaretz **bericheiha** baadi leolam",
+        "englishLiteral": "mountains the-earth **bars-her** behind-me to-the_age",
+        "englishNatural": "the mountains the earth **her bars** around me to the-age"
+      }
+    }
+  ]
+}

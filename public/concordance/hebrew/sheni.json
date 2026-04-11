@@ -1,0 +1,31 @@
+{
+  "key": "sheni",
+  "language": "hebrew",
+  "root": "sheni",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "שֵׁנִֽי׃",
+        "transliteration": "sheni",
+        "englishLiteral": "second",
+        "englishNatural": "A second",
+        "root": "sheni",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בֹ֖קֶר י֥וֹם **שֵׁנִֽי׃**",
+        "transliteration": "voqer yom **sheni**",
+        "englishLiteral": "morning Day **second**",
+        "englishNatural": "And morning day **A second**"
+      }
+    }
+  ]
+}

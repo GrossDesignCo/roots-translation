@@ -1,0 +1,31 @@
+{
+  "key": "pechar",
+  "language": "aramaic",
+  "root": "pechar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "פֶּחָר",
+        "transliteration": "pechar",
+        "englishLiteral": "potter",
+        "englishNatural": "the potter",
+        "root": "pechar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִנְּהוֹן חֲסַף **פֶּחָר** וּמִנְּהוֹן פַּרְזֶל",
+        "transliteration": "minnehon chasaf **pechar** uMinnehon parzel",
+        "englishLiteral": "from-them clay-of **potter** and-from-them iron",
+        "englishNatural": "from them the clay of **the potter** and from them iron"
+      }
+    }
+  ]
+}

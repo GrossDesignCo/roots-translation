@@ -1,0 +1,33 @@
+{
+  "key": "dover",
+  "language": "hebrew",
+  "root": "dabar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "דֹּבֵר",
+        "transliteration": "dover",
+        "englishLiteral": "speaking",
+        "englishNatural": "am speaking",
+        "root": "dabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר אָנֹכִי **דֹּבֵר** אֵלֶיךָ",
+        "transliteration": "asher anokhi **dover** elekha",
+        "englishLiteral": "which I **speaking** to-you",
+        "englishNatural": "which I **am speaking** to you"
+      }
+    }
+  ]
+}

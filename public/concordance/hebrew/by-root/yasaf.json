@@ -1,0 +1,214 @@
+{
+  "root": "yasaf",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתֹּסֶף",
+        "transliteration": "vatTosef",
+        "englishLiteral": "and-she-added",
+        "englishNatural": "And she added",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתֹּסֶף** לָלֶדֶת אֶת־",
+        "transliteration": "**vatTosef** laLedet et-",
+        "englishLiteral": "**and-she-added** to-her-birthing ↳",
+        "englishNatural": "**And she added** to her birthing ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "אֹסִף",
+        "transliteration": "osif",
+        "englishLiteral": "I-will-add",
+        "englishNatural": "I will add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "לִבּוֹ לֹא־ **אֹסִף** לְקַלֵּל עוֹד",
+        "transliteration": "libo lo- **osif** leQalel od",
+        "englishLiteral": "his-heart not- **I-will-add** to-treat-lightly again",
+        "englishNatural": "his heart not **I will add** to treat-lightly again"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 24,
+      "word": {
+        "originalScript": "אֹסִף",
+        "transliteration": "osif",
+        "englishLiteral": "I-will-add",
+        "englishNatural": "and I will add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "מִנְּעֻרָיו וְלֹא־ **אֹסִף** עוֹד לְהַכּוֹת",
+        "transliteration": "miNeurav veLo- **osif** od leHakot",
+        "englishLiteral": "from-his-youth and-not- **I-will-add** again to-strike",
+        "englishNatural": "from his youth not **and I will add** again to strike"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "תֹּ֨סֶף֙",
+        "transliteration": "tosef",
+        "englishLiteral": "add",
+        "englishNatural": "add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ֔ אַל־ **תֹּ֨סֶף֙** רְא֣וֹת פָּנָ֔י",
+        "transliteration": "lekha al- **tosef** reot panay",
+        "englishLiteral": "to-you not **add** to-see faces-my",
+        "englishNatural": "yourself not **add** to see my face"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֹסִ֥ף",
+        "transliteration": "osif",
+        "englishLiteral": "I-will-add",
+        "englishNatural": "I will add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "דִּבַּ֑רְתָּ לֹא־ **אֹסִ֥ף** עוֹד֙ רְא֖וֹת",
+        "transliteration": "dibarta lo- **osif** od reot",
+        "englishLiteral": "you-spoke not **I-will-add** again to-see",
+        "englishNatural": "you have spoken not **I will add** again to see"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "תֹסִֽף׃",
+        "transliteration": "tosif",
+        "englishLiteral": "will-add",
+        "englishNatural": "will add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָמֹ֖הוּ לֹ֥א **תֹסִֽף׃**",
+        "transliteration": "veKhamohu lo **tosif**",
+        "englishLiteral": "and-like-it not **will-add**",
+        "englishNatural": "and like it not **will add**"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וְיוֹסֵף",
+        "transliteration": "veYosef",
+        "englishLiteral": "and-will-add",
+        "englishNatural": "and will add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׁמַע חָכָם **וְיוֹסֵף** לֶקַח וְנָבוֹן",
+        "transliteration": "yishma chakam **veYosef** leqach veNavon",
+        "englishLiteral": "Will-hear wise-man **and-will-add** teaching and-understanding-man",
+        "englishNatural": "will hear A wise man **and will add** teaching and an understanding man"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אוֹסִיף",
+        "transliteration": "osif",
+        "englishLiteral": "I-will-add",
+        "englishNatural": "I will add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "עֵינֶיךָ אַךְ **אוֹסִיף** לְהַבִּיט אֶל־",
+        "transliteration": "einekha akh **osif** lehabit el-",
+        "englishLiteral": "eyes-your Only **I-will-add** to-look to-",
+        "englishNatural": "your eyes Only **I will add** to look to"
+      }
+    }
+  ]
+}

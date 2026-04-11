@@ -1,0 +1,33 @@
+{
+  "key": "asitem",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "עֲשִׂיתֶ֛ם",
+        "transliteration": "asitem",
+        "englishLiteral": "you-made",
+        "englishNatural": "you made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "חֶ֗סֶד כַּאֲשֶׁ֧ר **עֲשִׂיתֶ֛ם** עִם־ הַמֵּתִ֖ים",
+        "transliteration": "chesed kaAsher **asitem** im- haMetim",
+        "englishLiteral": "steadfast_love as-which **you-made** with- the-dead",
+        "englishNatural": "steadfast-love as which **you made** with the dead"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "key": "vayelekh",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֵּלֶךְ",
+        "transliteration": "vaYelekh",
+        "englishLiteral": "And-went",
+        "englishNatural": "went",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּלֶךְ** אִישׁ מִבֵּית",
+        "transliteration": "**vaYelekh** ish miBeyt",
+        "englishLiteral": "**And-went** man from-house-of",
+        "englishNatural": "**went** And a man from the house of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַיֵּ֨לֶךְ",
+        "transliteration": "vaYelekh",
+        "englishLiteral": "and-walked",
+        "englishNatural": "walked",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רָעָ֖ב בָּאָ֑רֶץ **וַיֵּ֨לֶךְ** אִ֜ישׁ מִבֵּ֧ית",
+        "transliteration": "raav baAretz **vaYelekh** ish miBeit",
+        "englishLiteral": "famine in-the-land **and-walked** man from-House-of",
+        "englishNatural": "and famine in the land **walked** and a man from the House of"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וַיֵּלֶךְ",
+        "transliteration": "vaYelekh",
+        "englishLiteral": "and-went",
+        "englishNatural": "and went",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּקָם יוֹנָה **וַיֵּלֶךְ** אֶל־ נִינְוֵה",
+        "transliteration": "vaYaqam Yonah **vaYelekh** el- Nineveh",
+        "englishLiteral": "And-stood_up Dove (Jonah) **and-went** to- Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "stood-up And Dove (Jonah) **and went** to Dwelling-of-Fish (Nineveh)"
+      }
+    }
+  ]
+}

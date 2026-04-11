@@ -1,0 +1,59 @@
+{
+  "key": "shlachani",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "שְׁלָחַנִי",
+        "transliteration": "shlachani",
+        "englishLiteral": "sent-me",
+        "englishNatural": "has sent me",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׂרָאֵל אֶהְיֶה **שְׁלָחַנִי** אֲלֵיכֶם",
+        "transliteration": "Yisrael ehyeh **shlachani** aleikhem",
+        "englishLiteral": "Struggles_with_God (Israel) I_Am **sent-me** to-you",
+        "englishNatural": "Struggles-with-God (Israel) I-Am **has sent me** to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "שְׁלָחַנִי",
+        "transliteration": "shlachani",
+        "englishLiteral": "sent-me",
+        "englishNatural": "has sent me",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וֵאלֹהֵי יַעֲקֹב **שְׁלָחַנִי** אֲלֵיכֶם זֶה־",
+        "transliteration": "veElohey Yaaqov **shlachani** aleikhem zeh-",
+        "englishLiteral": "and-Gods-of Heel_Grasper (Jacob) **sent-me** to-you this-",
+        "englishNatural": "and the God of Heel-Grasper (Jacob) **has sent me** to you this is"
+      }
+    }
+  ]
+}

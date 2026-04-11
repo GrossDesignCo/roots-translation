@@ -1,0 +1,33 @@
+{
+  "key": "tismechi",
+  "language": "hebrew",
+  "root": "samach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "תִּשְׂמְחִי",
+        "transliteration": "tiSmechi",
+        "englishLiteral": "you-shall-rejoice",
+        "englishNatural": "rejoice",
+        "root": "samach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אַל **תִּשְׂמְחִי** פְלֶשֶׁת כֻּלֵּךְ",
+        "transliteration": "al **tiSmechi** Peleshet kulekh",
+        "englishLiteral": "Do-not **you-shall-rejoice** Wallowers (Philistia) all-of-you",
+        "englishNatural": "Do not **rejoice** Wallowers (Philistia) all of you"
+      }
+    }
+  ]
+}

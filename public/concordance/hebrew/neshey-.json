@@ -1,0 +1,31 @@
+{
+  "key": "neshey-",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "נְשֵׁי־",
+        "transliteration": "neshey-",
+        "englishLiteral": "women-of-",
+        "englishNatural": "women of",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ וּשְׁלֹשֶׁת **נְשֵׁי־** בָנָיו אִתָּם",
+        "transliteration": "Noach uShloshet **neshey-** vanav ittam",
+        "englishLiteral": "Rest (Noah) and-three-of **women-of-** sons-his with-them",
+        "englishNatural": "Rest (Noah) and the three **women of** his sons with them"
+      }
+    }
+  ]
+}

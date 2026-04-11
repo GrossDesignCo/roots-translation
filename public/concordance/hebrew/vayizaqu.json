@@ -1,0 +1,33 @@
+{
+  "key": "vayizaqu",
+  "language": "hebrew",
+  "root": "tsaaq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וַיִּזְעֲקוּ",
+        "transliteration": "vaYizaqu",
+        "englishLiteral": "and-cried_out",
+        "englishNatural": "and cried-out",
+        "root": "tsaaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּירְאוּ הַמַּלָּחִים **וַיִּזְעֲקוּ** אִישׁ אֶל־",
+        "transliteration": "vaYirau haMallachim **vaYizaqu** ish el-",
+        "englishLiteral": "And-feared the-sailors **and-cried_out** man to-",
+        "englishNatural": "feared And the sailors **and cried-out** man to"
+      }
+    }
+  ]
+}

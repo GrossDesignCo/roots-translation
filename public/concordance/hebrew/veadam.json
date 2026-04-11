@@ -1,0 +1,31 @@
+{
+  "key": "veadam",
+  "language": "hebrew",
+  "root": "adam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "וְאָדָם",
+        "transliteration": "veAdam",
+        "englishLiteral": "and-Earthling (Adam)",
+        "englishNatural": "and Earthling (Adam)",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל הָאָרֶץ **וְאָדָם** אַיִן לַעֲבֹד",
+        "transliteration": "al haAretz **veAdam** ayin laAvod",
+        "englishLiteral": "over the-land **and-Earthling (Adam)** not_exist to-serve",
+        "englishNatural": "over the land **and Earthling (Adam)** was not there to serve"
+      }
+    }
+  ]
+}

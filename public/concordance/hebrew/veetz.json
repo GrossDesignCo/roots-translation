@@ -1,0 +1,79 @@
+{
+  "key": "veetz",
+  "language": "hebrew",
+  "root": "etz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְעֵ֧ץ",
+        "transliteration": "veEtz",
+        "englishLiteral": "and-tree",
+        "englishNatural": "and tree",
+        "root": "etz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֶ֔רַע לְמִינֵ֖הוּ **וְעֵ֧ץ** עֹֽשֶׂה פְּרִ֞י",
+        "transliteration": "zera leMinehu **veEtz** oseh pri",
+        "englishLiteral": "seed to-its-kind **and-tree** making fruit",
+        "englishNatural": "seed after its kind **and tree** making fruit"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְעֵץ",
+        "transliteration": "veEtz",
+        "englishLiteral": "and-tree",
+        "englishNatural": "and the Tree",
+        "root": "etz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְטוֹב לְמַאֲכָל **וְעֵץ** הַחַיִּים בְּתוֹךְ",
+        "transliteration": "veTov leMaakhal **veEtz** haChayyim beTokh",
+        "englishLiteral": "and-good to-food **and-tree** the-lives in-midst",
+        "englishNatural": "and good for food **and the Tree** of Life in the midst of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וְעֵץ",
+        "transliteration": "veEtz",
+        "englishLiteral": "and-tree",
+        "englishNatural": "and the Tree",
+        "root": "etz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּתוֹךְ הַגָּן **וְעֵץ** הַדַּעַת טוֹב",
+        "transliteration": "beTokh haGan **veEtz** haDaat tov",
+        "englishLiteral": "in-midst the-garden **and-tree** the-knowledge good",
+        "englishNatural": "in the midst of the garden **and the Tree** of Knowledge of Good"
+      }
+    }
+  ]
+}

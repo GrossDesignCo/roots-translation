@@ -1,0 +1,31 @@
+{
+  "key": "akeraioi",
+  "language": "greek",
+  "root": "akeraios",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "ἀκέραιοι",
+        "transliteration": "akeraioi",
+        "englishLiteral": "innocent",
+        "englishNatural": "innocent",
+        "root": "akeraios",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "ὄφεις καὶ **ἀκέραιοι** ὡς αἱ",
+        "transliteration": "opheis kai **akeraioi** hos hai",
+        "englishLiteral": "snakes and **innocent** as the",
+        "englishNatural": "snakes and **innocent** as the"
+      }
+    }
+  ]
+}

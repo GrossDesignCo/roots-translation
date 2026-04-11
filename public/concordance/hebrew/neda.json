@@ -1,0 +1,33 @@
+{
+  "key": "neda",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "נֵדַע",
+        "transliteration": "neda",
+        "englishLiteral": "will-know",
+        "englishNatural": "we know",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲנַחְנוּ לֹא־ **נֵדַע** מַה־ נַּעֲבֹד",
+        "transliteration": "vaAnachnu lo- **neda** mah- naavod",
+        "englishLiteral": "and-we not- **will-know** what- will-serve",
+        "englishNatural": "and we not **we know** with what we will serve"
+      }
+    }
+  ]
+}

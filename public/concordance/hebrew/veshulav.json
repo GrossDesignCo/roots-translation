@@ -1,0 +1,31 @@
+{
+  "key": "veshulav",
+  "language": "hebrew",
+  "root": "shul",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וְשׁוּלָיו",
+        "transliteration": "veShulav",
+        "englishLiteral": "and-his-garments",
+        "englishNatural": "and his garments",
+        "root": "shul",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רָם וְנִשָּׂא **וְשׁוּלָיו** מְמַלְּאִים אֶת",
+        "transliteration": "ram veNisa **veShulav** meMaleim et",
+        "englishLiteral": "high and-lifted_up **and-his-garments** filling ↳",
+        "englishNatural": "high and lifted-up **and his garments** filling ↳"
+      }
+    }
+  ]
+}

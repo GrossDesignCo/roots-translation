@@ -1,0 +1,33 @@
+{
+  "key": "nose",
+  "language": "hebrew",
+  "root": "nasa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "נֹשֵׂא",
+        "transliteration": "nose",
+        "englishLiteral": "lifting_up",
+        "englishNatural": "lifting-up",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "חֶסֶד לָאֲלָפִים **נֹשֵׂא** עָוֹן וָפֶשַׁע",
+        "transliteration": "chesed laAlafim **nose** avon vaFesha",
+        "englishLiteral": "steadfast_love to-thousands **lifting_up** twisting and-transgression",
+        "englishNatural": "steadfast-love for thousands **lifting-up** twisting and transgression"
+      }
+    }
+  ]
+}

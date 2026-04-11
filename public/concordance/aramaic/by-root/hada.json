@@ -1,0 +1,32 @@
+{
+  "root": "hada",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "הוֹדַע",
+        "transliteration": "hoda",
+        "englishLiteral": "he-made_known",
+        "englishNatural": "has made-known",
+        "root": "hada",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "haphel"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלָהּ רַב **הוֹדַע** לְמַלְכָּא מָה",
+        "transliteration": "elah rav **hoda** leMalka mah",
+        "englishLiteral": "God-the great **he-made_known** to-king-the what",
+        "englishNatural": "God the great **has made-known** to the king what"
+      }
+    }
+  ]
+}

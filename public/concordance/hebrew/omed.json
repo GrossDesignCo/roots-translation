@@ -1,0 +1,33 @@
+{
+  "key": "omed",
+  "language": "hebrew",
+  "root": "amad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "עוֹמֵד",
+        "transliteration": "omed",
+        "englishLiteral": "standing",
+        "englishNatural": "standing",
+        "root": "amad",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר אַתָּה **עוֹמֵד** עָלָיו אַדְמַת־",
+        "transliteration": "asher atah **omed** alav admat-",
+        "englishLiteral": "which you **standing** over-it ground-of",
+        "englishNatural": "which you **standing** over it the ground of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "vateled",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתֵּלֶד",
+        "transliteration": "vaTeled",
+        "englishLiteral": "And-bore",
+        "englishNatural": "bore",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתֵּלֶד** עָדָה אֶת־",
+        "transliteration": "**vaTeled** Adah et-",
+        "englishLiteral": "**And-bore** Ornament (Adah) ↳",
+        "englishNatural": "**bore** And Ornament (Adah) ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וַתֵּלֶד",
+        "transliteration": "vaTeled",
+        "englishLiteral": "and-bore",
+        "englishNatural": "and she bore",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ אִשְׁתּוֹ **וַתֵּלֶד** בֵּן וַתִּקְרָא",
+        "transliteration": "et- ishto **vaTeled** ben vaTiqra",
+        "englishLiteral": "↳ woman-his **and-bore** son and-called_out",
+        "englishNatural": "↳ his woman **and she bore** a son and called-out"
+      }
+    }
+  ]
+}

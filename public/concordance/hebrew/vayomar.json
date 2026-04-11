@@ -1,0 +1,59 @@
+{
+  "key": "vayomar",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֹּאמַר",
+        "transliteration": "vaYomar",
+        "englishLiteral": "And-he-said",
+        "englishNatural": "And he said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּאמַר** אֲדֹנָי יְהוִה",
+        "transliteration": "**vaYomar** adonai YHWH",
+        "englishLiteral": "**And-he-said** Lord He_Who_Is (YHWH)",
+        "englishNatural": "**And he said** Lord He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַיֹּאמַר",
+        "transliteration": "vaYomar",
+        "englishLiteral": "and-said",
+        "englishNatural": "and said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶחָד וַיִּקְרָא **וַיֹּאמַר** עוֹד אַרְבָּעִים",
+        "transliteration": "echad vaYiqra **vaYomar** od arbaim",
+        "englishLiteral": "one and-called_out **and-said** yet forty",
+        "englishNatural": "one and he called-out **and said** Yet forty"
+      }
+    }
+  ]
+}

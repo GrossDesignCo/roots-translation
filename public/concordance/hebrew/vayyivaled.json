@@ -1,0 +1,33 @@
+{
+  "key": "vayyivaled",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 18
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּוָּלֵד",
+        "transliteration": "vayYivaled",
+        "englishLiteral": "And-was-born",
+        "englishNatural": "was born",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּוָּלֵד** לַחֲנוֹךְ אֶת־",
+        "transliteration": "**vayYivaled** laChanokh et-",
+        "englishLiteral": "**And-was-born** to-Dedicated (Enoch) ↳",
+        "englishNatural": "**was born** And to Dedicated (Enoch) ↳"
+      }
+    }
+  ]
+}

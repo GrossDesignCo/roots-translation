@@ -1,0 +1,55 @@
+{
+  "key": "ito",
+  "language": "hebrew",
+  "root": "et",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אִתּוֹ",
+        "transliteration": "ito",
+        "englishLiteral": "with-him",
+        "englishNatural": "with him",
+        "root": "et",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶל־ בָּנָיו **אִתּוֹ** לֵאמֹר",
+        "transliteration": "veEl- banav **ito** lemor",
+        "englishLiteral": "and-to- his-sons **with-him** to-say",
+        "englishNatural": "and to his sons **with him** saying"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 17
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אִתּוֹ",
+        "transliteration": "ito",
+        "englishLiteral": "with-him",
+        "englishNatural": "with him",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַמְּלָכִים אֲשֶׁר **אִתּוֹ** אֶל־ עֵמֶק",
+        "transliteration": "haMelakhim asher **ito** el- emeq",
+        "englishLiteral": "the-kings which **with-him** to- valley-of",
+        "englishNatural": "the kings which were **with him** to the valley of"
+      }
+    }
+  ]
+}

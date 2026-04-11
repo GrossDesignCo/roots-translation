@@ -1,0 +1,31 @@
+{
+  "key": "bavel",
+  "language": "hebrew",
+  "root": "babel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בָּבֶל",
+        "transliteration": "Bavel",
+        "englishLiteral": "Confusion (Babylon)",
+        "englishNatural": "of Confusion (Babylon)",
+        "root": "babel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְבוּכַדְנֶאצַּר מֶלֶךְ **בָּבֶל** יְרוּשָׁלַם וַיָּצַר",
+        "transliteration": "Nevukhadnetzar melekh **Bavel** Yerushalayim vayyatsar",
+        "englishLiteral": "Nebuchadnezzar king **Confusion (Babylon)** Foundation_of_Peace (Jerusalem) and-he-besieged",
+        "englishNatural": "Nebuchadnezzar king **of Confusion (Babylon)** to Foundation-of-Peace (Jerusalem) and he besieged"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kinnor",
+  "language": "hebrew",
+  "root": "kinnor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "כִּנּוֹר",
+        "transliteration": "kinnor",
+        "englishLiteral": "lyre",
+        "englishNatural": "lyre",
+        "root": "kinnor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ תֹּפֵשׂ **כִּנּוֹר** וְעוּגָב",
+        "transliteration": "kol- tofes **kinnor** veUgav",
+        "englishLiteral": "all handling **lyre** and-flute",
+        "englishNatural": "all handling **lyre** and flute"
+      }
+    }
+  ]
+}

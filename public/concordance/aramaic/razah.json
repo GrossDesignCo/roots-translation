@@ -1,0 +1,31 @@
+{
+  "key": "razah",
+  "language": "aramaic",
+  "root": "raz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "רָזָה",
+        "transliteration": "razah",
+        "englishLiteral": "mystery-the",
+        "englishNatural": "the mystery",
+        "root": "raz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל חַיַּיָּא **רָזָה** דְנָה גְּלִי",
+        "transliteration": "kol chayyayya **razah** denah geli",
+        "englishLiteral": "all living-the **mystery-the** this he-revealed",
+        "englishNatural": "all the living **the mystery** this has he revealed"
+      }
+    }
+  ]
+}

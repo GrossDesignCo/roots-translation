@@ -1,0 +1,33 @@
+{
+  "key": "matsa",
+  "language": "hebrew",
+  "root": "matsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מָצָא",
+        "transliteration": "matsa",
+        "englishLiteral": "found",
+        "englishNatural": "found",
+        "root": "matsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְנֹחַ **מָצָא** חֵן בְּעֵינֵי",
+        "transliteration": "veNoach **matsa** chen beEiney",
+        "englishLiteral": "And-Rest (Noah) **found** grace in-eyes-of",
+        "englishNatural": "And Rest (Noah) **found** grace in the eyes of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "root": "teme",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "טְמֵא־",
+        "transliteration": "teme-",
+        "englishLiteral": "unclean-",
+        "englishNatural": "of unclean",
+        "root": "teme",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי אִישׁ **טְמֵא־** שְׂפָתַיִם אָנֹכִי",
+        "transliteration": "ki ish **teme-** sfatayim anokhi",
+        "englishLiteral": "that man **unclean-** lips I",
+        "englishNatural": "that a man **of unclean** lips I"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "טְמֵא",
+        "transliteration": "teme",
+        "englishLiteral": "unclean",
+        "englishNatural": "of unclean",
+        "root": "teme",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְתוֹךְ עַם־ **טְמֵא** שְׂפָתַיִם אָנֹכִי",
+        "transliteration": "uVeTokh am- **teme** sfatayim anokhi",
+        "englishLiteral": "and-in-midst-of people- **unclean** lips I",
+        "englishNatural": "and in the midst of a people **of unclean** lips I"
+      }
+    }
+  ]
+}

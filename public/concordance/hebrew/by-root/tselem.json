@@ -1,0 +1,126 @@
+{
+  "root": "tselem",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בְּצַלְמֵ֖נוּ",
+        "transliteration": "beTzalmenu",
+        "englishLiteral": "in-our-image",
+        "englishNatural": "in our image",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נַֽעֲשֶׂ֥ה אָדָ֛ם **בְּצַלְמֵ֖נוּ** כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩",
+        "transliteration": "naAseh Adam **beTzalmenu** kiDmuteinu veYirdu",
+        "englishLiteral": "Let_us-make Earthling (Adam) **in-our-image** as-our-likeness And-let-them-subjugate",
+        "englishNatural": "Let us make Earthling (Adam) **in our image** as our likeness And let them subjugate"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בְּצַלְמ֔וֹ",
+        "transliteration": "beTsalmo",
+        "englishLiteral": "in-his-image",
+        "englishNatural": "in his image",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הָֽאָדָם֙ **בְּצַלְמ֔וֹ** בְּצֶ֥לֶם אֱלֹהִ֖ים",
+        "transliteration": "et- haAdam **beTsalmo** beTselem Elohim",
+        "englishLiteral": "↳ the-Earthling (Adam) **in-his-image** in-image-of Gods",
+        "englishNatural": "↳ the Earthling (Adam) **in his image** in the image of God"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בְּצֶ֥לֶם",
+        "transliteration": "beTselem",
+        "englishLiteral": "in-image-of",
+        "englishNatural": "in the image of",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָֽאָדָם֙ בְּצַלְמ֔וֹ **בְּצֶ֥לֶם** אֱלֹהִ֖ים בָּרָ֣א",
+        "transliteration": "haAdam beTsalmo **beTselem** Elohim bara",
+        "englishLiteral": "the-Earthling (Adam) in-his-image **in-image-of** Gods created",
+        "englishNatural": "the Earthling (Adam) in his image **in the image of** God created"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "כְּצַלְמוֹ",
+        "transliteration": "keTselmo",
+        "englishLiteral": "as-image-his",
+        "englishNatural": "as his image",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיּוֹלֶד בִּדְמוּתוֹ **כְּצַלְמוֹ** וַיִּקְרָא אֶת־",
+        "transliteration": "vaYoled biDemuto **keTselmo** vaYiqra et-",
+        "englishLiteral": "and-birthed in-likeness-his **as-image-his** and-called_out ↳",
+        "englishNatural": "and birthed in his likeness **as his image** and called-out ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בְּצֶלֶם",
+        "transliteration": "beTselem",
+        "englishLiteral": "in-image-of",
+        "englishNatural": "in the image of",
+        "root": "tselem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִשָּׁפֵךְ כִּי **בְּצֶלֶם** אֱלֹהִים עָשָׂה",
+        "transliteration": "yishafekh ki **beTselem** Elohim asah",
+        "englishLiteral": "it-will-be-poured for **in-image-of** Gods he-made",
+        "englishNatural": "will be poured for **in the image of** God he made"
+      }
+    }
+  ]
+}

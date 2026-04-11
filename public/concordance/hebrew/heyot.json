@@ -1,0 +1,33 @@
+{
+  "key": "heyot",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 18
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הֱיוֹת",
+        "transliteration": "heyot",
+        "englishLiteral": "to-be",
+        "englishNatural": "to be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ טוֹב **הֱיוֹת** הָאָדָם לְבַדּוֹ",
+        "transliteration": "lo- tov **heyot** haAdam leVaddo",
+        "englishLiteral": "No- good **to-be** the-Earthling (Adam) to-alone-him",
+        "englishNatural": "No good **to be** for the Earthling (Adam) to himself alone"
+      }
+    }
+  ]
+}

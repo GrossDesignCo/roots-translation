@@ -1,0 +1,31 @@
+{
+  "key": "chayim",
+  "language": "hebrew",
+  "root": "chayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 17
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "חַיִּים",
+        "transliteration": "chayim",
+        "englishLiteral": "lives",
+        "englishNatural": "life",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בּוֹ רוּחַ **חַיִּים** מִתַּחַת הַשָּׁמָיִם",
+        "transliteration": "bo ruach **chayim** miTachat haShamayim",
+        "englishLiteral": "in-him wind-of **lives** from-under the-skies",
+        "englishNatural": "in it the wind of **life** from under the skies"
+      }
+    }
+  ]
+}

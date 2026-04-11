@@ -1,0 +1,54 @@
+{
+  "root": "shamah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "שָּׁמָּה",
+        "transliteration": "shamah",
+        "englishLiteral": "there",
+        "englishNatural": "there",
+        "root": "shamah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר יִהְיֶה־ **שָּׁמָּה** הָרוּחַ לָלֶכֶת",
+        "transliteration": "asher yihyeh- **shamah** haRuach laLekhet",
+        "englishLiteral": "which it-was- **there** the-wind to-go",
+        "englishNatural": "which was **there** the wind to go"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "שָׁמָּה",
+        "transliteration": "shamah",
+        "englishLiteral": "there",
+        "englishNatural": "there",
+        "root": "shamah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לָלֶכֶת יֵלֵכוּ **שָׁמָּה** הָרוּחַ לָלֶכֶת",
+        "transliteration": "laLekhet yelekhu **shamah** haRuach laLekhet",
+        "englishLiteral": "to-go they-went **there** the-wind to-go",
+        "englishNatural": "to go they went **there** the wind to go"
+      }
+    }
+  ]
+}

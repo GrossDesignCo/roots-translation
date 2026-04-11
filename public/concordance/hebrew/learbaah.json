@@ -1,0 +1,31 @@
+{
+  "key": "learbaah",
+  "language": "hebrew",
+  "root": "arba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לְאַרְבָּעָה",
+        "transliteration": "leArbaah",
+        "englishLiteral": "to-four",
+        "englishNatural": "into four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "יִפָּרֵד וְהָיָה **לְאַרְבָּעָה** רָאשִׁים׃",
+        "transliteration": "yipared veHayah **leArbaah** rashim",
+        "englishLiteral": "will-part and-was **to-four** heads",
+        "englishNatural": "parted and became **into four** heads"
+      }
+    }
+  ]
+}

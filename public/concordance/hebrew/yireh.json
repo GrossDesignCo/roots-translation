@@ -1,0 +1,33 @@
+{
+  "key": "yireh",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "יִרְאֶה",
+        "transliteration": "yireh",
+        "englishLiteral": "he-will-see",
+        "englishNatural": "he will see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַד אֲשֶׁר **יִרְאֶה** מַה־ יִּהְיֶה",
+        "transliteration": "ad asher **yireh** mah- yihyeh",
+        "englishLiteral": "until which **he-will-see** what- will-be",
+        "englishNatural": "until which **he will see** what will be"
+      }
+    }
+  ]
+}

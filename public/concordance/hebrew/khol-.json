@@ -1,0 +1,55 @@
+{
+  "key": "khol-",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "כָל־",
+        "transliteration": "khol-",
+        "englishLiteral": "all-",
+        "englishNatural": "And all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **כָל־** הָאָרֶץ שָׂפָה",
+        "transliteration": "vayHi **khol-** haAretz safah",
+        "englishLiteral": "And-was **all-** the-land lip",
+        "englishNatural": "was **And all** the land lip"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "כָל־",
+        "transliteration": "khol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ פְּנֵי **כָל־** הָאָרֶץ וַיַּחְדְּלוּ",
+        "transliteration": "al- peney **khol-** haAretz vayachdelu",
+        "englishLiteral": "over- faces-of **all-** the-land and-they-ceased",
+        "englishNatural": "over the face of **all** the land and they ceased"
+      }
+    }
+  ]
+}

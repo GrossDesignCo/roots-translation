@@ -1,0 +1,59 @@
+{
+  "key": "vattahar",
+  "language": "hebrew",
+  "root": "harah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וַתַּהַר",
+        "transliteration": "vatTahar",
+        "englishLiteral": "and-she-conceived",
+        "englishNatural": "and she conceived",
+        "root": "harah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "חַוָּה אִשְׁתּוֹ **וַתַּהַר** וַתֵּלֶד אֶת־",
+        "transliteration": "Chavah ishto **vatTahar** vatTeled et-",
+        "englishLiteral": "Life (Eve) his-woman **and-she-conceived** and-she-bore ↳",
+        "englishNatural": "Life (Eve) his woman **and she conceived** and bore ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 17
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַתַּהַר",
+        "transliteration": "vatTahar",
+        "englishLiteral": "and-she-conceived",
+        "englishNatural": "and she conceived",
+        "root": "harah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ אִשְׁתּוֹ **וַתַּהַר** וַתֵּלֶד אֶת־",
+        "transliteration": "et- ishto **vatTahar** vatTeled et-",
+        "englishLiteral": "↳ his-woman **and-she-conceived** and-she-bore ↳",
+        "englishNatural": "↳ knew his woman **and she conceived** and bore ↳"
+      }
+    }
+  ]
+}

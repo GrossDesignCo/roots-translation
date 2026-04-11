@@ -1,0 +1,55 @@
+{
+  "key": "umisham",
+  "language": "hebrew",
+  "root": "sham",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וּמִשָּׁם",
+        "transliteration": "uMisham",
+        "englishLiteral": "and-from-there",
+        "englishNatural": "and from there",
+        "root": "sham",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַגָּן **וּמִשָּׁם** יִפָּרֵד וְהָיָה",
+        "transliteration": "et- haGan **uMisham** yipared veHayah",
+        "englishLiteral": "↳ the-garden **and-from-there** will-part and-was",
+        "englishNatural": "↳ the garden **and from there** parted and became"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 9
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וּמִשָּׁם",
+        "transliteration": "umisham",
+        "englishLiteral": "and-from-there",
+        "englishNatural": "and from there",
+        "root": "sham",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הָאָרֶץ **וּמִשָּׁם** הֱפִיצָם יְהוָה",
+        "transliteration": "kol- haAretz **umisham** hephitzam YHWH",
+        "englishLiteral": "all- the-land **and-from-there** he-scattered-them He_Who_Is (YHWH)",
+        "englishNatural": "all the land **and from there** scattered them He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

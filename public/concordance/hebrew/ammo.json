@@ -1,0 +1,31 @@
+{
+  "key": "ammo",
+  "language": "hebrew",
+  "root": "am",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "עַמּ֔וֹ",
+        "transliteration": "ammo",
+        "englishLiteral": "people-his",
+        "englishNatural": "his people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה֙ אֶת־ **עַמּ֔וֹ** לָתֵ֥ת לָהֶ֖ם",
+        "transliteration": "YHWH et- **ammo** laTet lahem",
+        "englishLiteral": "He_Who_Is (YHWH) ↳ **people-his** to-give to-them",
+        "englishNatural": "He-Who-Is (YHWH) ↳ **his people** to give to them"
+      }
+    }
+  ]
+}

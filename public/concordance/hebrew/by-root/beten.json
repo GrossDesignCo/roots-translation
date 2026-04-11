@@ -1,0 +1,30 @@
+{
+  "root": "beten",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מִבֶּטֶן",
+        "transliteration": "mibeten",
+        "englishLiteral": "from-belly-of",
+        "englishNatural": "from the belly of",
+        "root": "beten",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה וַיַּעֲנֵנִי **מִבֶּטֶן** שְׁאוֹל שִׁוַּעְתִּי",
+        "transliteration": "YHWH vaYaaneni **mibeten** sheol shivati",
+        "englishLiteral": "He_Who_Is (YHWH) and-answered-me **from-belly-of** Hades I-cried_out",
+        "englishNatural": "He-Who-Is (YHWH) and he answered me **from the belly of** Hades I cried-out"
+      }
+    }
+  ]
+}

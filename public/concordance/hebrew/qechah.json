@@ -1,0 +1,33 @@
+{
+  "key": "qechah",
+  "language": "hebrew",
+  "root": "qach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "קְחָה",
+        "transliteration": "qechah",
+        "englishLiteral": "Take",
+        "englishNatural": "Take",
+        "root": "qach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר אֵלָיו **קְחָה** לִי עֶגְלָה",
+        "transliteration": "vaYomer elav **qechah** li eglah",
+        "englishLiteral": "And-he-said to-him **Take** to-me heifer",
+        "englishNatural": "And he said to him **Take** to me a heifer"
+      }
+    }
+  ]
+}

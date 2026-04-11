@@ -1,0 +1,31 @@
+{
+  "key": "shniyim",
+  "language": "hebrew",
+  "root": "sheni",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "שְׁנִיִּם",
+        "transliteration": "shniyim",
+        "englishLiteral": "second",
+        "englishNatural": "second",
+        "root": "sheni",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "תָּשִׂים תַּחְתִּיִּם **שְׁנִיִּם** וּשְׁלִשִׁים תַּעֲשֶׂהָ",
+        "transliteration": "tasim tachtiyim **shniyim** uShlishim taAsehah",
+        "englishLiteral": "you-shall-set lower **second** and-third you-shall-make-her",
+        "englishNatural": "you shall set lower **second** and third you shall make it"
+      }
+    }
+  ]
+}

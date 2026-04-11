@@ -1,0 +1,582 @@
+{
+  "root": "mayim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הַמָּֽיִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מְרַחֶ֖פֶת עַל־פְּנֵ֥י **הַמָּֽיִם**",
+        "transliteration": "meRachefet al-peney **haMayim**",
+        "englishLiteral": "stirring over-faces-of **the-waters**",
+        "englishNatural": "stirring over the face of **the waters**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הַמָּיִם֙",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רָקִיעַ בְּתוֹךְ **הַמָּיִם֙** וִיהִי מַבְדִּיל",
+        "transliteration": "raqia beTokh **haMayim** vihi mavdil",
+        "englishLiteral": "hammering_out in-midst-of **the-waters** and-let-be separating",
+        "englishNatural": "Let a hammering-out in the midst of **the waters** and let it be separating"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מַיִם",
+        "transliteration": "mayim",
+        "englishLiteral": "waters",
+        "englishNatural": "waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַבְדִּיל בֵּין **מַיִם** לָמָיִם",
+        "transliteration": "mavdil beyn **mayim** laMayim",
+        "englishLiteral": "separating between **waters** to-waters",
+        "englishNatural": "separating between **waters** and waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "לָמָיִם",
+        "transliteration": "laMayim",
+        "englishLiteral": "to-waters",
+        "englishNatural": "and waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּין מַיִם **לָמָיִם**",
+        "transliteration": "beyn mayim **laMayim**",
+        "englishLiteral": "between waters **to-waters**",
+        "englishNatural": "between waters **and waters**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הַמַּ֙יִם֙",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּבְדֵּ֗ל בֵּ֤ין **הַמַּ֙יִם֙** אֲשֶׁר֙ מִתַּ֣חַת",
+        "transliteration": "vaYavdel beyn **haMayim** asher miTachat",
+        "englishLiteral": "and-separated between **the-waters** which from-under",
+        "englishNatural": "and separated between **the waters** which were under"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הַמַּ֖יִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָרָקִ֔יעַ וּבֵ֣ין **הַמַּ֖יִם** אֲשֶׁ֥ר מֵעַ֣ל",
+        "transliteration": "laRaqia uBeyn **haMayim** asher meAl",
+        "englishLiteral": "to_the-hammering_out and-between **the-waters** which from-over",
+        "englishNatural": "the hammering-out and between **the waters** which were over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הַמַּ֜יִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "Let the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֗ים יִקָּו֨וּ **הַמַּ֜יִם** מִתַּ֤חַת הַשָּׁמַ֙יִם֙",
+        "transliteration": "Elohim yiqqavu **haMayim** miTachat haShamayim",
+        "englishLiteral": "Gods Let-gather **the-waters** from-under the-skies",
+        "englishNatural": "And God gather **Let the waters** from under the skies"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הַמַּ֖יִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶ֔רֶץ וּלְמִקְוֵ֥ה **הַמַּ֖יִם** קָרָ֣א יַמִּ֑ים",
+        "transliteration": "eretz uLeMiQveh **haMayim** qara yamim",
+        "englishLiteral": "Land and-to-gathering **the-waters** called_out Seas",
+        "englishNatural": "Land and to the gathering of **the waters** he called-out Seas"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הַמַּ֔יִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "Let the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֔ים יִשְׁרְצ֣וּ **הַמַּ֔יִם** שֶׁ֖רֶץ נֶ֣פֶשׁ",
+        "transliteration": "Elohim yiShretsu **haMayim** sherets nephesh",
+        "englishLiteral": "Gods Let-swarm **the-waters** swarm throat",
+        "englishNatural": "And God swarm with **Let the waters** a swarm throat"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "הַמַּ֜יִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר֩ שָׁרְצ֨וּ **הַמַּ֜יִם** לְמִינֵהֶ֗ם וְאֵ֣ת",
+        "transliteration": "asher sharTsu **haMayim** leMinehem veEt",
+        "englishLiteral": "which swarmed **the-waters** to-their-kind And-↳",
+        "englishNatural": "which swarmed **the waters** to their kind And"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 22
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הַמַּ֙יִם֙",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִלְא֤וּ אֶת־ **הַמַּ֙יִם֙** בַּיַּמִּ֔ים וְהָע֖וֹף",
+        "transliteration": "uMilU et- **haMayim** baYamim veHaOf",
+        "englishLiteral": "and-fill ↳ **the-waters** in-seas And-the-flyer",
+        "englishNatural": "and fill ↳ **the waters** in the seas And let the flyer"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מַיִם",
+        "transliteration": "mayim",
+        "englishLiteral": "waters",
+        "englishNatural": "waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַמַּבּוּל **מַיִם** עַל־ הָאָרֶץ",
+        "transliteration": "et- haMabbul **mayim** al- haAretz",
+        "englishLiteral": "↳ the-flood **waters** over- the-land",
+        "englishNatural": "↳ the flood **waters** over the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מַיִם",
+        "transliteration": "mayim",
+        "englishLiteral": "waters",
+        "englishNatural": "waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַמַּבּוּל הָיָה **מַיִם** עַל־ הָאָרֶץ",
+        "transliteration": "veHaMabbul hayah **mayim** al- haAretz",
+        "englishLiteral": "and-the-flood it-was **waters** over- the-land",
+        "englishNatural": "and the flood was **waters** over the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "מֵי",
+        "transliteration": "mey",
+        "englishLiteral": "waters-of",
+        "englishNatural": "the waters of",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַתֵּבָה מִפְּנֵי **מֵי** הַמַּבּוּל",
+        "transliteration": "haTevah mipPeney **mey** haMabbul",
+        "englishLiteral": "the-ark from-faces-of **waters-of** the-flood",
+        "englishNatural": "the ark from the face of **the waters of** the flood"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וּמֵי",
+        "transliteration": "uMey",
+        "englishLiteral": "and-waters-of",
+        "englishNatural": "and waters of",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְשִׁבְעַת הַיָּמִים **וּמֵי** הַמַּבּוּל הָיוּ",
+        "transliteration": "leShivat haYamim **uMey** haMabbul hayu",
+        "englishLiteral": "to-seven-of the-days **and-waters-of** the-flood they-were",
+        "englishNatural": "to seven of the days **and waters of** the flood were"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מִמֵּי",
+        "transliteration": "mimei",
+        "englishLiteral": "from-waters-of",
+        "englishNatural": "from the waters of",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּשָׂר עוֹד **מִמֵּי** הַמַּבּוּל וְלֹא־",
+        "transliteration": "basar od **mimei** haMabbul veLo-",
+        "englishLiteral": "flesh again **from-waters-of** the-flood and-not-",
+        "englishNatural": "flesh again **from the waters of** the flood and not"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הַמַּיִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי מִן־ **הַמַּיִם** מְשִׁיתִהוּ",
+        "transliteration": "ki min- **haMayim** meshitihu",
+        "englishLiteral": "that from- **the-waters** I-drew_out-him",
+        "englishNatural": "That from **the waters** I drew-him-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מָיִם",
+        "transliteration": "mayim",
+        "englishLiteral": "waters",
+        "englishNatural": "waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל פַּלְגֵי **מָיִם** אֲשֶׁר פִּרְיוֹ",
+        "transliteration": "al palgei **mayim** asher piryo",
+        "englishLiteral": "over channels-of **waters** which its-fruit",
+        "englishNatural": "over channels of **waters** which its fruit"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מֵי",
+        "transliteration": "mei",
+        "englishLiteral": "water-of",
+        "englishNatural": "water of",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יַרְבִּיצֵנִי עַל־ **מֵי** מְנֻחוֹת יְנַהֲלֵנִי",
+        "transliteration": "yaRbitzeini al- **mei** menuchot yeNahaleni",
+        "englishLiteral": "he-causes-me-to-lie-down over- **water-of** rest_place he-leads-me",
+        "englishNatural": "he lies-me-down over **water of** rest-place he leads me"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 24
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מָיִם",
+        "transliteration": "mayim",
+        "englishLiteral": "waters",
+        "englishNatural": "waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַעְיָנוֹת נִכְבַּדֵּי **מָיִם**",
+        "transliteration": "mayanot nikhbadei **mayim**",
+        "englishLiteral": "springs heavy_with **waters**",
+        "englishNatural": "springs heavy-with **waters**"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 29
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וּמַיִם",
+        "transliteration": "uMayim",
+        "englishLiteral": "and-waters",
+        "englishNatural": "and the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַיָּם חֻקּוֹ **וּמַיִם** לֹא יַעַבְרוּ־",
+        "transliteration": "laYam chuqo **uMayim** lo yaavru-",
+        "englishLiteral": "to-the-sea his-decree **and-waters** not they-will-pass-",
+        "englishNatural": "to the sea his decree **and the waters** not will pass"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 24
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מַיִם",
+        "transliteration": "mayim",
+        "englishLiteral": "waters",
+        "englishNatural": "waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כַּנְפֵיהֶם כְּקוֹל **מַיִם** רַבִּים כְּקוֹל־",
+        "transliteration": "kanfeihem keQol **mayim** rabbim keQol-",
+        "englishLiteral": "wings-their like-voice-of **waters** many like-voice-of-",
+        "englishNatural": "their wings like the voice of **waters** many like the voice of"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מַיִם",
+        "transliteration": "mayim",
+        "englishLiteral": "waters",
+        "englishNatural": "Waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲפָפוּנִי **מַיִם** עַד־ נֶפֶשׁ",
+        "transliteration": "afafuni **mayim** ad- nephesh",
+        "englishLiteral": "Surrounded-me **waters** unto- throat",
+        "englishNatural": "have surrounded me **Waters** unto the throat"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "וּמַיִם",
+        "transliteration": "uMayim",
+        "englishLiteral": "and-waters",
+        "englishNatural": "and waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ יִרְעוּ **וּמַיִם** אַל־ יִשְׁתּוּ",
+        "transliteration": "al- yiru **uMayim** al- yishtu",
+        "englishLiteral": "not- they-will-graze **and-waters** not- they-will-drink",
+        "englishNatural": "not they will graze **and waters** not they will drink"
+      }
+    }
+  ]
+}

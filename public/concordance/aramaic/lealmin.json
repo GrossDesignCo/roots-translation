@@ -1,0 +1,31 @@
+{
+  "key": "lealmin",
+  "language": "aramaic",
+  "root": "alma",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לְעָלְמִין",
+        "transliteration": "leAlmin",
+        "englishLiteral": "to-the_ages",
+        "englishNatural": "to the-ages",
+        "root": "alma",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַלְכוּ דִּי **לְעָלְמִין** לָא תִתְחַבַּל",
+        "transliteration": "malkhu di **leAlmin** la titchabal",
+        "englishLiteral": "kingdom which **to-the_ages** not will-be_damaged",
+        "englishNatural": "a kingdom which **to the-ages** not will be-damaged"
+      }
+    }
+  ]
+}

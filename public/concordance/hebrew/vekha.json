@@ -1,0 +1,31 @@
+{
+  "key": "vekha",
+  "language": "hebrew",
+  "root": "be",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בְךָ",
+        "transliteration": "vekha",
+        "englishLiteral": "in-you",
+        "englishNatural": "in you",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אָאֹר וְנִבְרְכוּ **בְךָ** כֹּל מִשְׁפְּחֹת",
+        "transliteration": "aor veNivrekhu **vekha** kol mishpechot",
+        "englishLiteral": "I-will-curse and-they-will-be-blessed **in-you** all families-of",
+        "englishNatural": "I will curse and they will be blessed **in you** all the families of"
+      }
+    }
+  ]
+}

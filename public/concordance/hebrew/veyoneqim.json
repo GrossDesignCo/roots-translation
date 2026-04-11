@@ -1,0 +1,31 @@
+{
+  "key": "veyoneqim",
+  "language": "hebrew",
+  "root": "yoneq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וְ֭יֹנְקִים",
+        "transliteration": "veYoneqim",
+        "englishLiteral": "and-sucklings",
+        "englishNatural": "and sucklings",
+        "root": "yoneq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִפִּ֤י עוֹלְלִ֣ים **וְ֭יֹנְקִים** יִסַּ֣דְתָּ עֹ֑ז",
+        "transliteration": "miPi olelim **veYoneqim** yisadta oz",
+        "englishLiteral": "from-mouth-of infants **and-sucklings** you-have-founded strength",
+        "englishNatural": "from the mouth of infants **and sucklings** you have founded strength"
+      }
+    }
+  ]
+}

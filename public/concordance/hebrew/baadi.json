@@ -1,0 +1,31 @@
+{
+  "key": "baadi",
+  "language": "hebrew",
+  "root": "baad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בַעֲדִי",
+        "transliteration": "baadi",
+        "englishLiteral": "behind-me",
+        "englishNatural": "around me",
+        "root": "baad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ בְּרִחֶיהָ **בַעֲדִי** לְעוֹלָם וַתַּעַל",
+        "transliteration": "haaretz bericheiha **baadi** leolam vataaal",
+        "englishLiteral": "the-earth bars-her **behind-me** to-the_age and-you-brought_up",
+        "englishNatural": "the earth her bars **around me** to the-age and you brought-up"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "root": "yerushalayim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ecclesiastes",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בִּירוּשָׁלִָֽם",
+        "transliteration": "biYrushalayim",
+        "englishLiteral": "in-Foundation_of_Peace (Jerusalem)",
+        "englishNatural": "in Foundation-of-Peace (Jerusalem)",
+        "root": "yerushalayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דָּוִ֔ד מֶ֖לֶךְ **בִּירוּשָׁלִָֽם**",
+        "transliteration": "David melekh **biYrushalayim**",
+        "englishLiteral": "Beloved (David) king **in-Foundation_of_Peace (Jerusalem)**",
+        "englishNatural": "Beloved (David) king **in Foundation-of-Peace (Jerusalem)**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "יְרוּשָׁלַם",
+        "transliteration": "Yerushalayim",
+        "englishLiteral": "Foundation_of_Peace (Jerusalem)",
+        "englishNatural": "to Foundation-of-Peace (Jerusalem)",
+        "root": "yerushalayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֶלֶךְ בָּבֶל **יְרוּשָׁלַם** וַיָּצַר עָלֶיהָ",
+        "transliteration": "melekh Bavel **Yerushalayim** vayyatsar aleha",
+        "englishLiteral": "king Confusion (Babylon) **Foundation_of_Peace (Jerusalem)** and-he-besieged over-her",
+        "englishNatural": "king of Confusion (Babylon) **to Foundation-of-Peace (Jerusalem)** and he besieged over it"
+      }
+    }
+  ]
+}

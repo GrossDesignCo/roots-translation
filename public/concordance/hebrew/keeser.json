@@ -1,0 +1,31 @@
+{
+  "key": "keeser",
+  "language": "hebrew",
+  "root": "eser",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "כְּעֶ֥שֶׂר",
+        "transliteration": "keEser",
+        "englishLiteral": "like-ten",
+        "englishNatural": "like ten",
+        "root": "eser",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּ֥שְׁבוּ שָׁ֖ם **כְּעֶ֥שֶׂר** שָׁנִֽים׃",
+        "transliteration": "vaYeshvu sham **keEser** shanim",
+        "englishLiteral": "and-they-sat there **like-ten** years",
+        "englishNatural": "and they sat there **like ten** years"
+      }
+    }
+  ]
+}

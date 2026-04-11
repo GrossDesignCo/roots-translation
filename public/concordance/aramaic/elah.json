@@ -1,0 +1,79 @@
+{
+  "key": "elah",
+  "language": "aramaic",
+  "root": "elah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 37
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֱלָהּ",
+        "transliteration": "elah",
+        "englishLiteral": "God-of",
+        "englishNatural": "the God of",
+        "root": "elah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַלְכַיָּא דִּי **אֱלָהּ** שְׁמַיָּא מַלְכוּתָא",
+        "transliteration": "malkhayya di **elah** shemayya malkhuta",
+        "englishLiteral": "kings-the which **God-of** skies-the kingdom-the",
+        "englishNatural": "the kings which **the God of** the skies the kingdom"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֱלָהּ",
+        "transliteration": "elah",
+        "englishLiteral": "God-the",
+        "englishNatural": "the God",
+        "root": "elah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִנּוּן יְקִים **אֱלָהּ** שְׁמַיָּא מַלְכוּ",
+        "transliteration": "innun yeqim **elah** shemaya malkhu",
+        "englishLiteral": "those he-will-raise_up **God-the** skies-the kingdom",
+        "englishNatural": "those will raise-up **the God** of the skies a kingdom"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "אֱלָהּ",
+        "transliteration": "elah",
+        "englishLiteral": "God-the",
+        "englishNatural": "God",
+        "root": "elah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כַּסְפָּא וְדַהֲבָא **אֱלָהּ** רַב הוֹדַע",
+        "transliteration": "kaspa veDahava **elah** rav hoda",
+        "englishLiteral": "silver-the and-gold-the **God-the** great he-made_known",
+        "englishNatural": "the silver and the gold **God** the great has made-known"
+      }
+    }
+  ]
+}

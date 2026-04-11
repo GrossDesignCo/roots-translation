@@ -1,0 +1,31 @@
+{
+  "key": "haivrim",
+  "language": "hebrew",
+  "root": "ivri",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הָעִבְרִים",
+        "transliteration": "haIvrim",
+        "englishLiteral": "the-Passes_Through (Hebrews)",
+        "englishNatural": "the Passes-Through (Hebrews)",
+        "root": "ivri",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמְרוּ אֱלֹהֵי **הָעִבְרִים** נִקְרָא עָלֵינוּ",
+        "transliteration": "vaYomru elohei **haIvrim** niqra aleinu",
+        "englishLiteral": "And-they-said Gods-of **the-Passes_Through (Hebrews)** was-called_out over-us",
+        "englishNatural": "And they said The God of **the Passes-Through (Hebrews)** was called-out over us"
+      }
+    }
+  ]
+}

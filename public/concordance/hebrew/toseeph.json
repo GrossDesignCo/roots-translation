@@ -1,0 +1,33 @@
+{
+  "key": "toseeph",
+  "language": "hebrew",
+  "root": "yasaph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תֹסֵף",
+        "transliteration": "toseeph",
+        "englishLiteral": "it-will-add",
+        "englishNatural": "it will add",
+        "root": "yasaph",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה לֹא־ **תֹסֵף** תֵּת־ כֹּחָהּ",
+        "transliteration": "haAdamah lo- **toseeph** tet- kochah",
+        "englishLiteral": "the-earth not- **it-will-add** give- her-ability",
+        "englishNatural": "the earth not **it will add** to give her ability"
+      }
+    }
+  ]
+}

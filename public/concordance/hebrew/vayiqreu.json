@@ -1,0 +1,33 @@
+{
+  "key": "vayiqreu",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּקְרְאוּ",
+        "transliteration": "vaYiqreu",
+        "englishLiteral": "And-called_out",
+        "englishNatural": "And they called-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּקְרְאוּ** אֶל־ יְהוָה",
+        "transliteration": "**vaYiqreu** el- YHWH",
+        "englishLiteral": "**And-called_out** to- He_Who_Is (YHWH)",
+        "englishNatural": "**And they called-out** to He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

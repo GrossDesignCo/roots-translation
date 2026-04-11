@@ -1,0 +1,55 @@
+{
+  "key": "vanad",
+  "language": "hebrew",
+  "root": "nadad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 12
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וָנָד",
+        "transliteration": "vanad",
+        "englishLiteral": "and-fugitive",
+        "englishNatural": "and fugitive",
+        "root": "nadad",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לָךְ נָע **וָנָד** תִּהְיֶה בָאָרֶץ",
+        "transliteration": "lakh na **vanad** tihyeh baAretz",
+        "englishLiteral": "to-you wandering **and-fugitive** you-will-be in-land",
+        "englishNatural": "to you wandering **and fugitive** you will be in the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וָנָד",
+        "transliteration": "vanad",
+        "englishLiteral": "and-fugitive",
+        "englishNatural": "and fugitive",
+        "root": "nadad",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיִיתִי נָע **וָנָד** בָּאָרֶץ וְהָיָה",
+        "transliteration": "veHayiti na **vanad** baAretz vehayah",
+        "englishLiteral": "and-I-will-be wandering **and-fugitive** in-land and-it-will-be",
+        "englishNatural": "and I will be wandering **and fugitive** in the land and it will be"
+      }
+    }
+  ]
+}

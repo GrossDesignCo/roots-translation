@@ -1,0 +1,55 @@
+{
+  "key": "tēn",
+  "language": "greek",
+  "root": "ho",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "τὴν",
+        "transliteration": "tēn",
+        "englishLiteral": "the",
+        "englishNatural": "the",
+        "root": "ho",
+        "morphology": {
+          "type": "article"
+        }
+      },
+      "context": {
+        "hebrew": "οὐρανοῦ ἔχοντα **τὴν** κλεῖν τῆς",
+        "transliteration": "ouranou echonta **tēn** klein tēs",
+        "englishLiteral": "heaven having **the** key the",
+        "englishNatural": "heaven having **the** key the"
+      }
+    },
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "τὴν",
+        "transliteration": "tēn",
+        "englishLiteral": "the",
+        "englishNatural": "the",
+        "root": "ho",
+        "morphology": {
+          "type": "article"
+        }
+      },
+      "context": {
+        "hebrew": "μεγάλην ἐπὶ **τὴν** χεῖρα αὐτοῦ",
+        "transliteration": "megalēn epi **tēn** cheira autou",
+        "englishLiteral": "great upon **the** hand his",
+        "englishNatural": "great in **the** hand of his"
+      }
+    }
+  ]
+}

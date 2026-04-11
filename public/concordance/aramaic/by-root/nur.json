@@ -1,0 +1,78 @@
+{
+  "root": "nur",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "נ֔וּר",
+        "transliteration": "nur",
+        "englishLiteral": "fire",
+        "englishNatural": "fire",
+        "root": "nur",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁבִיבִ֣ין דִּי־ **נ֔וּר** גַּלְגִּלּ֖וֹהִי נ֥וּר",
+        "transliteration": "shevivin di- **nur** galgellohi nur",
+        "englishLiteral": "flames of- **fire** wheels-its fire",
+        "englishNatural": "flames of **fire** its wheels fire"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "נ֥וּר",
+        "transliteration": "nur",
+        "englishLiteral": "fire",
+        "englishNatural": "fire",
+        "root": "nur",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נ֔וּר גַּלְגִּלּ֖וֹהִי **נ֥וּר** דָּלִֽק",
+        "transliteration": "nur galgellohi **nur** daliq",
+        "englishLiteral": "fire wheels-its **fire** burning",
+        "englishNatural": "fire its wheels **fire** burning"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "נ֗וּר",
+        "transliteration": "nur",
+        "englishLiteral": "fire",
+        "englishNatural": "fire",
+        "root": "nur",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְהַ֣ר דִּי־ **נ֗וּר** נָגֵ֤ד וְנָפֵק֙",
+        "transliteration": "nehar di- **nur** naged veNafeq",
+        "englishLiteral": "river of- **fire** flowing and-coming-out",
+        "englishNatural": "A river of **fire** flowing and coming out"
+      }
+    }
+  ]
+}

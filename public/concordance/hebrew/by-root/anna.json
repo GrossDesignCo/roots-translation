@@ -1,0 +1,102 @@
+{
+  "root": "anna",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "נָּא",
+        "transliteration": "nah",
+        "englishLiteral": "please",
+        "englishNatural": "please",
+        "root": "anna",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה אָסֻרָה־ **נָּא** וְאֶרְאֶה אֶת־",
+        "transliteration": "Moshe asurah- **nah** veEreh et-",
+        "englishLiteral": "Drawn_Out (Moses) I-will-turn_aside- **please** and-will-see ↳",
+        "englishNatural": "And Drawn-Out (Moses) I will turn-aside **please** and see ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "נָּא",
+        "transliteration": "na",
+        "englishLiteral": "please",
+        "englishNatural": "please",
+        "root": "anna",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "עָלֵינוּ נֵלְכָה **נָּא** דֶּרֶךְ שְׁלֹשֶׁת",
+        "transliteration": "aleinu nelkhah **na** derekh sheloshet",
+        "englishLiteral": "over-us we-will-go **please** way-of three-of",
+        "englishNatural": "over us we will go **please** a way of three"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אָנָּה",
+        "transliteration": "anna",
+        "englishLiteral": "please",
+        "englishNatural": "Please",
+        "root": "anna",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה וַיֹּאמְרוּ **אָנָּה** יְהוָה אַל־",
+        "transliteration": "YHWH vaYomeru **anna** YHWH al-",
+        "englishLiteral": "He_Who_Is (YHWH) and-said **please** He_Who_Is (YHWH) not-",
+        "englishNatural": "He-Who-Is (YHWH) and said **Please** He-Who-Is (YHWH) not"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אָנָּה",
+        "transliteration": "anna",
+        "englishLiteral": "please",
+        "englishNatural": "Please",
+        "root": "anna",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה וַיֹּאמַר **אָנָּה** יְהוָה הֲלוֹא־",
+        "transliteration": "YHWH vaYomer **anna** YHWH halo-",
+        "englishLiteral": "He_Who_Is (YHWH) and-said **please** He_Who_Is (YHWH) is-not-",
+        "englishNatural": "He-Who-Is (YHWH) and said **Please** He-Who-Is (YHWH) was not"
+      }
+    }
+  ]
+}

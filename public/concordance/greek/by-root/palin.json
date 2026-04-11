@@ -1,0 +1,30 @@
+{
+  "root": "palin",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "πάλιν",
+        "transliteration": "palin",
+        "englishLiteral": "again",
+        "englishNatural": "again",
+        "root": "palin",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "λέγει αὐτῷ **πάλιν** δεύτερον Σίμων",
+        "transliteration": "legei autō **palin** deuteron Simōn",
+        "englishLiteral": "He-says to-him **again** second Hearer (Simon)",
+        "englishNatural": "He says to him **again** the second time Hearer (Simon)"
+      }
+    }
+  ]
+}

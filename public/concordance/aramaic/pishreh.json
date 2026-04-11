@@ -1,0 +1,31 @@
+{
+  "key": "pishreh",
+  "language": "aramaic",
+  "root": "peshar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 30,
+      "word": {
+        "originalScript": "פִּשְׁרֵהּ",
+        "transliteration": "pishreh",
+        "englishLiteral": "interpretation-its",
+        "englishNatural": "is its interpretation",
+        "root": "peshar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֶלְמָא וּמְהֵימַן **פִּשְׁרֵהּ**",
+        "transliteration": "chelma uMeheman **pishreh**",
+        "englishLiteral": "dream-the and-trustworthy **interpretation-its**",
+        "englishNatural": "is the dream and trustworthy **is its interpretation**"
+      }
+    }
+  ]
+}

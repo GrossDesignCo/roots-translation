@@ -1,0 +1,33 @@
+{
+  "key": "vatashlikheni",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתַּשְׁלִיכֵנִי",
+        "transliteration": "vaTaShlikheni",
+        "englishLiteral": "And-you-sent-me",
+        "englishNatural": "And you sent me",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתַּשְׁלִיכֵנִי** מְצוּלָה בִּלְבַב",
+        "transliteration": "**vaTaShlikheni** metzulah biLevav",
+        "englishLiteral": "**And-you-sent-me** deep in-heart-of",
+        "englishNatural": "**And you sent me** into the deep in the heart of"
+      }
+    }
+  ]
+}

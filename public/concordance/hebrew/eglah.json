@@ -1,0 +1,31 @@
+{
+  "key": "eglah",
+  "language": "hebrew",
+  "root": "eglah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עֶגְלָה",
+        "transliteration": "eglah",
+        "englishLiteral": "heifer",
+        "englishNatural": "a heifer",
+        "root": "eglah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קְחָה לִי **עֶגְלָה** מְשֻׁלֶּשֶׁת וְעֵז",
+        "transliteration": "qechah li **eglah** meshulleshet veEz",
+        "englishLiteral": "Take to-me **heifer** three-years-old and-goat",
+        "englishNatural": "Take to me **a heifer** three years old and a goat"
+      }
+    }
+  ]
+}

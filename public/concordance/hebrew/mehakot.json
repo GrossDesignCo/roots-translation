@@ -1,0 +1,33 @@
+{
+  "key": "mehakot",
+  "language": "hebrew",
+  "root": "nakah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מֵהַכּוֹת",
+        "transliteration": "meHakot",
+        "englishLiteral": "from-the-striking_down",
+        "englishNatural": "from the striking-down of",
+        "root": "nakah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אַחֲרֵי שׁוּבוֹ **מֵהַכּוֹת** אֶת־ כְּדָרְלָעֹמֶר",
+        "transliteration": "acharey shuvo **meHakot** et- Kedarlaomer",
+        "englishLiteral": "after returning-of-him **from-the-striking_down** ↳ Sheaf_Binder (Chedorlaomer)",
+        "englishNatural": "after his return **from the striking-down of** ↳ Sheaf-Binder (Chedorlaomer)"
+      }
+    }
+  ]
+}

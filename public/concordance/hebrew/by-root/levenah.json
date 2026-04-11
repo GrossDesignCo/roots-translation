@@ -1,0 +1,54 @@
+{
+  "root": "levenah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לְבֵנִים",
+        "transliteration": "levenim",
+        "englishLiteral": "bricks",
+        "englishNatural": "bricks",
+        "root": "levenah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָבָה נִלְבְּנָה **לְבֵנִים** וְנִשְׂרְפָה לִשְׂרֵפָה",
+        "transliteration": "havah nilvnah **levenim** veNisrefah liSrefah",
+        "englishLiteral": "come let-us-make-bricks **bricks** and-let-us-incinerate to-incinerating",
+        "englishNatural": "\"Come let us make-bricks **bricks** and let us incinerate to an incinerating"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הַלְּבֵנָה",
+        "transliteration": "haLevenah",
+        "englishLiteral": "the-brick",
+        "englishNatural": "And the brick",
+        "root": "levenah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתְּהִי לָהֶם **הַלְּבֵנָה** לְאָבֶן וְהַחֵמָר",
+        "transliteration": "vatTehi lahem **haLevenah** leEven veHacheymar",
+        "englishLiteral": "And-she-was to-them **the-brick** for-stone and-the-bitumen",
+        "englishNatural": "was to them **And the brick** for stone and the bitumen"
+      }
+    }
+  ]
+}

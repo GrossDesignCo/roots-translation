@@ -1,0 +1,31 @@
+{
+  "key": "alenu",
+  "language": "hebrew",
+  "root": "al",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "עָלֵינוּ",
+        "transliteration": "alenu",
+        "englishLiteral": "over-us",
+        "englishNatural": "over us",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַל־ תִּתֵּן **עָלֵינוּ** דָּם נָקִיא",
+        "transliteration": "veAl- titten **alenu** dam naqi",
+        "englishLiteral": "and-not- give **over-us** blood innocent",
+        "englishNatural": "not and give **over us** blood innocent"
+      }
+    }
+  ]
+}

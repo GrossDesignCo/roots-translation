@@ -1,0 +1,31 @@
+{
+  "key": "even-",
+  "language": "hebrew",
+  "root": "even",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אֶבֶן־",
+        "transliteration": "even-",
+        "englishLiteral": "stone-of-",
+        "englishNatural": "a stone of",
+        "root": "even",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֹאשָׁם כְּמַרְאֵה **אֶבֶן־** סַפִּיר דְּמוּת",
+        "transliteration": "rosham keMareeh **even-** sappir demut",
+        "englishLiteral": "head-his like-appearance-of **stone-of-** sapphire likeness-of",
+        "englishNatural": "his head like the appearance of **a stone of** sapphire the likeness of"
+      }
+    }
+  ]
+}

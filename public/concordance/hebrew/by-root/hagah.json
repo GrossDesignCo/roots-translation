@@ -1,0 +1,32 @@
+{
+  "root": "hagah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יֶהְגֶּה",
+        "transliteration": "yehgeh",
+        "englishLiteral": "he-meditates",
+        "englishNatural": "he meditates",
+        "root": "hagah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "חֶפְצוֹ וּבְתוֹרָתוֹ **יֶהְגֶּה** יוֹמָם וָלָיְלָה",
+        "transliteration": "cheftzo uvTorato **yehgeh** yomam vaLaylah",
+        "englishLiteral": "his-choice_thing and-in-his-law **he-meditates** by-day and-night",
+        "englishNatural": "his choice-thing and in his law **he meditates** by day and night"
+      }
+    }
+  ]
+}

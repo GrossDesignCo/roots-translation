@@ -1,0 +1,33 @@
+{
+  "key": "yatzliach",
+  "language": "hebrew",
+  "root": "tzalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "יַצְלִיחַ",
+        "transliteration": "yatzliach",
+        "englishLiteral": "it-prospers",
+        "englishNatural": "it prospers",
+        "root": "tzalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר יַעֲשֶׂה **יַצְלִיחַ**",
+        "transliteration": "asher yaAseh **yatzliach**",
+        "englishLiteral": "which he-makes **it-prospers**",
+        "englishNatural": "which he makes **it prospers**"
+      }
+    }
+  ]
+}

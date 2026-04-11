@@ -1,0 +1,32 @@
+{
+  "root": "mash",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְיָמֵשׁ",
+        "transliteration": "veYamesh",
+        "englishLiteral": "and-let-him-feel",
+        "englishNatural": "and let it feel",
+        "root": "mash",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶרֶץ מִצְרָיִם **וְיָמֵשׁ** חֹשֶׁךְ",
+        "transliteration": "eretz Mitzrayim **veYamesh** choshekh",
+        "englishLiteral": "land-of Double_Straits (Egypt) **and-let-him-feel** darkness",
+        "englishNatural": "the land of Double-Straits (Egypt) **and let it feel** darkness"
+      }
+    }
+  ]
+}

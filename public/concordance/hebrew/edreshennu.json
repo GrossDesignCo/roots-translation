@@ -1,0 +1,33 @@
+{
+  "key": "edreshennu",
+  "language": "hebrew",
+  "root": "darash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אֶדְרְשֶׁנּוּ",
+        "transliteration": "edreshennu",
+        "englishLiteral": "I-will-require-it",
+        "englishNatural": "I will require it",
+        "root": "darash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ חַיָּה **אֶדְרְשֶׁנּוּ** וּמִיַּד הָאָדָם",
+        "transliteration": "kol- chayah **edreshennu** uMiYad haAdam",
+        "englishLiteral": "all- living_being **I-will-require-it** and-from-hand-of the-Earthling (Adam)",
+        "englishNatural": "all living-being **I will require it** and from the hand of the Earthling (Adam)"
+      }
+    }
+  ]
+}

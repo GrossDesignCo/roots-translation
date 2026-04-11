@@ -1,0 +1,31 @@
+{
+  "key": "mera",
+  "language": "hebrew",
+  "root": "ra",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "מֵרָֽע",
+        "transliteration": "meRa",
+        "englishLiteral": "from-bad",
+        "englishNatural": "from bad",
+        "root": "ra",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֖ים וְסָ֥ר **מֵרָֽע**",
+        "transliteration": "Elohim veSar **meRa**",
+        "englishLiteral": "Gods and-turning_aside **from-bad**",
+        "englishNatural": "God and turning-aside **from bad**"
+      }
+    }
+  ]
+}

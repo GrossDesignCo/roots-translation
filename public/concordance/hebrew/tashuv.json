@@ -1,0 +1,32 @@
+{
+  "key": "tashuv",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "תָּשׁוּב׃",
+        "transliteration": "taShuv",
+        "englishLiteral": "you-will-return",
+        "englishNatural": "you will return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶל־ עָפָר **תָּשׁוּב׃**",
+        "transliteration": "veEl- afar **taShuv**",
+        "englishLiteral": "and-to dust **you-will-return**",
+        "englishNatural": "and to dust **you will return**"
+      }
+    }
+  ]
+}

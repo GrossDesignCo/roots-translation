@@ -1,0 +1,33 @@
+{
+  "key": "vayaof",
+  "language": "hebrew",
+  "root": "uf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּעָף",
+        "transliteration": "vaYaof",
+        "englishLiteral": "And-flew",
+        "englishNatural": "And flew",
+        "root": "uf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּעָף** אֵלַי אֶחָד",
+        "transliteration": "**vaYaof** elai echad",
+        "englishLiteral": "**And-flew** to-me one",
+        "englishNatural": "**And flew** to me one"
+      }
+    }
+  ]
+}

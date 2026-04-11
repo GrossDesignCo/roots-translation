@@ -1,0 +1,55 @@
+{
+  "key": "hopou",
+  "language": "greek",
+  "root": "hopou",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "ὅπου",
+        "transliteration": "hopou",
+        "englishLiteral": "where",
+        "englishNatural": "where",
+        "root": "hopou",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "καὶ περιεπάτεις **ὅπου** ἤθελες ὅταν",
+        "transliteration": "kai periepateis **hopou** ētheles hotan",
+        "englishLiteral": "and you-walked **where** you-wanted when",
+        "englishNatural": "and you walked **where** you wanted when"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 26,
+      "word": {
+        "originalScript": "ὅπου",
+        "transliteration": "hopou",
+        "englishLiteral": "where",
+        "englishNatural": "where",
+        "root": "hopou",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "καὶ οἴσει **ὅπου** οὐ θέλεις",
+        "transliteration": "kai oisei **hopou** ou theleis",
+        "englishLiteral": "and will-carry **where** not you-want",
+        "englishNatural": "and will carry **where** not you want"
+      }
+    }
+  ]
+}

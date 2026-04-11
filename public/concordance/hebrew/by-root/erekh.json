@@ -1,0 +1,54 @@
+{
+  "root": "erekh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "אֶרֶךְ",
+        "transliteration": "erekh",
+        "englishLiteral": "long",
+        "englishNatural": "long of",
+        "root": "erekh",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "רַחוּם וְחַנּוּן **אֶרֶךְ** אַפַּיִם וְרַב־",
+        "transliteration": "rachum veChannun **erekh** apayim veRav-",
+        "englishLiteral": "compassionate and-gracious **long** nostrils and-many-",
+        "englishNatural": "compassionate and gracious **long of** nostrils and abundant in"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 25,
+      "word": {
+        "originalScript": "אֶרֶךְ",
+        "transliteration": "erekh",
+        "englishLiteral": "long",
+        "englishNatural": "long",
+        "root": "erekh",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "חַנּוּן וְרַחוּם **אֶרֶךְ** אַפַּיִם וְרַב־",
+        "transliteration": "chanun veRachum **erekh** apayim veRav-",
+        "englishLiteral": "gracious and-compassionate **long** nostrils and-great-",
+        "englishNatural": "gracious and compassionate **long** of nostrils and great"
+      }
+    }
+  ]
+}

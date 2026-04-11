@@ -1,0 +1,31 @@
+{
+  "key": "umigdal",
+  "language": "hebrew",
+  "root": "migdal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּמִגְדָּל",
+        "transliteration": "uMigdal",
+        "englishLiteral": "and-tower",
+        "englishNatural": "and a tower",
+        "root": "migdal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָּנוּ עִיר **וּמִגְדָּל** וְרֹאשׁוֹ בַשָּׁמַיִם",
+        "transliteration": "lanu ir **uMigdal** veRosho baShamayim",
+        "englishLiteral": "for-us city **and-tower** and-its-head in-heavens",
+        "englishNatural": "for us a city **and a tower** and its head in the heavens"
+      }
+    }
+  ]
+}

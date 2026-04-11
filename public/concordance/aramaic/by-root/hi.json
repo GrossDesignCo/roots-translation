@@ -1,0 +1,54 @@
+{
+  "root": "hi",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "וְהִיא",
+        "transliteration": "veHi",
+        "englishLiteral": "and-she",
+        "englishNatural": "and it",
+        "root": "hi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אִלֵּין מַלְכְוָתָא **וְהִיא** תְּקוּם לְעָלְמַיָּא",
+        "transliteration": "illen malkhevata **veHi** teqom leAlmaya",
+        "englishLiteral": "these kingdoms-the **and-she** will-stand_up to-the_ages",
+        "englishNatural": "these the kingdoms **and it** will stand-up to the-ages"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "וְהִ֣יא",
+        "transliteration": "veHi",
+        "englishLiteral": "and-she",
+        "englishNatural": "and it",
+        "root": "hi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּרַגְלַ֣יהּ רָפְסָ֑ה **וְהִ֣יא** מְשַׁנְּיָ֗ה מִן־",
+        "transliteration": "beRagleyh raphsah **veHi** meshanyah min-",
+        "englishLiteral": "with-feet-its trampling **and-she** different from-",
+        "englishNatural": "with its feet and trampling **and it** different from"
+      }
+    }
+  ]
+}

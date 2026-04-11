@@ -1,0 +1,79 @@
+{
+  "key": "veishto",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 25
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְאִשְׁתּוֹ",
+        "transliteration": "veIshto",
+        "englishLiteral": "and-his-woman",
+        "englishNatural": "and his woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֲרוּמִּים הָאָדָם **וְאִשְׁתּוֹ** וְלֹא יִתְבּוֹשָׁשׁוּ׃",
+        "transliteration": "arummim haAdam **veIshto** veLo yitboshashu",
+        "englishLiteral": "naked the-Earthling (Adam) **and-his-woman** and-not were-ashamed",
+        "englishNatural": "naked the Earthling (Adam) **and his woman** not and were ashamed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְאִשְׁתּוֹ",
+        "transliteration": "veIshto",
+        "englishLiteral": "and-woman-his",
+        "englishNatural": "and his woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ וּבָנָיו **וְאִשְׁתּוֹ** וּנְשֵׁי־ בָנָיו",
+        "transliteration": "Noach uVanav **veIshto** uNeshey- vanav",
+        "englishLiteral": "Rest (Noah) and-sons-his **and-woman-his** and-women-of- sons-his",
+        "englishNatural": "And Rest (Noah) and his sons **and his woman** and the women of his sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "וְאִשְׁתּ֖וֹ",
+        "transliteration": "veIshto",
+        "englishLiteral": "and-woman-his",
+        "englishNatural": "and his woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מוֹאָ֔ב ה֥וּא **וְאִשְׁתּ֖וֹ** וּשְׁנֵ֥י בָנָֽיו׃",
+        "transliteration": "Moav hu **veIshto** usheney vanav",
+        "englishLiteral": "From_Father (Moab) he **and-woman-his** and-two-of sons-his",
+        "englishNatural": "From-Father (Moab) he **and his woman** and the two of his sons"
+      }
+    }
+  ]
+}

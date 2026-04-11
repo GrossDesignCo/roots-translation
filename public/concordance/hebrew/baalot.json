@@ -1,0 +1,33 @@
+{
+  "key": "baalot",
+  "language": "hebrew",
+  "root": "alah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בַּעֲלוֹת",
+        "transliteration": "baAlot",
+        "englishLiteral": "at-rising_of",
+        "englishNatural": "at the rising of",
+        "root": "alah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֱלֹהִים תּוֹלַעַת **בַּעֲלוֹת** הַשַּׁחַר לַמָּחֳרָת",
+        "transliteration": "haElohim tolaat **baAlot** haShachar laMacharath",
+        "englishLiteral": "the-Gods worm **at-rising_of** the-dawn to-the-next_day",
+        "englishNatural": "And the God a worm **at the rising of** the dawn to the next-day"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "shal-",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שַׁל־",
+        "transliteration": "shal-",
+        "englishLiteral": "send-",
+        "englishNatural": "send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תִּקְרַב הֲלֹם **שַׁל־** נְעָלֶיךָ מֵעַל",
+        "transliteration": "tiqrav halom **shal-** nealekha meAl",
+        "englishLiteral": "approach here **send-** sandals-your from-over",
+        "englishNatural": "Approach here **send-out** your sandals from over"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "himmon",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 34
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "הִמּוֹן",
+        "transliteration": "himmon",
+        "englishLiteral": "them",
+        "englishNatural": "them",
+        "root": "himmon",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחַסְפָּא וְהַדֵּקֶת **הִמּוֹן**",
+        "transliteration": "veChaspa veHaddeqet **himmon**",
+        "englishLiteral": "and-clay-the and-crushed **them**",
+        "englishNatural": "and the clay and crushed **them**"
+      }
+    }
+  ]
+}

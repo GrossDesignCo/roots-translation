@@ -1,0 +1,78 @@
+{
+  "root": "tishim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "תִּשְׁעִים",
+        "transliteration": "tishim",
+        "englishLiteral": "ninety",
+        "englishNatural": "ninety",
+        "root": "tishim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי אֱנוֹשׁ **תִּשְׁעִים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "vaYechi Enosh **tishim** shanah vaYoled",
+        "englishLiteral": "and-lived Mortal_Man (Enosh) **ninety** year and-he-birthed",
+        "englishNatural": "lived And Mortal-Man (Enosh) **ninety** years and birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְתִשְׁעִים",
+        "transliteration": "veTishim",
+        "englishLiteral": "and-ninety",
+        "englishNatural": "and ninety",
+        "root": "tishim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "מַהֲלַלְאֵל חֲמֵשׁ **וְתִשְׁעִים** שָׁנָה וּשְׁמֹנֶה",
+        "transliteration": "Mahalalel chamesh **veTishim** shanah uShmoneh",
+        "englishLiteral": "Praise_of_God (Mahalaleel) five **and-ninety** year and-eight",
+        "englishNatural": "Praise-of-God (Mahalaleel) five **and ninety** years and eight"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 30
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְתִשְׁעִים",
+        "transliteration": "veTishim",
+        "englishLiteral": "and-ninety",
+        "englishNatural": "and ninety",
+        "root": "tishim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ חָמֵשׁ **וְתִשְׁעִים** שָׁנָה וּשְׁמֹנֵה",
+        "transliteration": "Noach chamesh **veTishim** shanah uShmoneh",
+        "englishLiteral": "Rest (Noah) five **and-ninety** year and-eight",
+        "englishNatural": "Rest (Noah) five **and ninety** years and eight"
+      }
+    }
+  ]
+}

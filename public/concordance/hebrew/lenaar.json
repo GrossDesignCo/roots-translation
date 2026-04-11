@@ -1,0 +1,31 @@
+{
+  "key": "lenaar",
+  "language": "hebrew",
+  "root": "naar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לְנַעַר",
+        "transliteration": "lenaar",
+        "englishLiteral": "to-young_man",
+        "englishNatural": "to a young man",
+        "root": "naar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַפְּתָאיִם עָרְמָה **לְנַעַר** דַּעַת וּמְזִמָּה",
+        "transliteration": "lapetaim armah **lenaar** daat umezimmah",
+        "englishLiteral": "to-simple_men shrewdness **to-young_man** knowledge and-purpose",
+        "englishNatural": "to simple men shrewdness **to a young man** knowledge and purpose"
+      }
+    }
+  ]
+}

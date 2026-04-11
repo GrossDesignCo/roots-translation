@@ -1,0 +1,31 @@
+{
+  "key": "kamohu",
+  "language": "hebrew",
+  "root": "kamo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "כָּמֹ֙הוּ֙",
+        "transliteration": "kamohu",
+        "englishLiteral": "like-it",
+        "englishNatural": "like it",
+        "root": "kamo",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "מִצְרָ֑יִם אֲשֶׁ֤ר **כָּמֹ֙הוּ֙** לֹ֣א נִֽהְיָ֔תָה",
+        "transliteration": "Mitzrayim asher **kamohu** lo nihyetah",
+        "englishLiteral": "Double_Narrows (Egypt) which **like-it** not was",
+        "englishNatural": "Double-Narrows (Egypt) which **like it** not was"
+      }
+    }
+  ]
+}

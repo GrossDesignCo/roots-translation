@@ -1,0 +1,31 @@
+{
+  "key": "ledorot",
+  "language": "hebrew",
+  "root": "dor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 12
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "לְדֹרֹת",
+        "transliteration": "ledorot",
+        "englishLiteral": "to-generations-of",
+        "englishNatural": "to the generations of",
+        "root": "dor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר אִתְּכֶם **לְדֹרֹת** עוֹלָם",
+        "transliteration": "asher itkhem **ledorot** olam",
+        "englishLiteral": "which with-you **to-generations-of** the_age",
+        "englishNatural": "which is with you **to the generations of** the-age"
+      }
+    }
+  ]
+}

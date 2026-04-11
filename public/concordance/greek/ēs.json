@@ -1,0 +1,32 @@
+{
+  "key": "ēs",
+  "language": "greek",
+  "root": "eimi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "ἦς",
+        "transliteration": "ēs",
+        "englishLiteral": "you-were",
+        "englishNatural": "you were",
+        "root": "eimi",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect"
+        }
+      },
+      "context": {
+        "hebrew": "σοι ὅτε **ἦς** νεώτερος ἐζώννυες",
+        "transliteration": "soi hote **ēs** neoteros ezōnnues",
+        "englishLiteral": "to-you when **you-were** younger you-girded",
+        "englishNatural": "to you when **you were** younger you girded"
+      }
+    }
+  ]
+}

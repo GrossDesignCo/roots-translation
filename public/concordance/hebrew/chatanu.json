@@ -1,0 +1,33 @@
+{
+  "key": "chatanu",
+  "language": "hebrew",
+  "root": "chata",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "חָטָאנוּ",
+        "transliteration": "chatanu",
+        "englishLiteral": "we-have-sinned",
+        "englishNatural": "We have sinned",
+        "root": "chata",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה וַיֹּאמְרוּ **חָטָאנוּ** כִּי דִבַּרְנוּ",
+        "transliteration": "Moshe vaYomru **chatanu** ki dibarnu",
+        "englishLiteral": "Drawn_Out (Moses) and-they-said **we-have-sinned** that we-have-spoken",
+        "englishNatural": "Drawn-Out (Moses) and said **We have sinned** that we have spoken"
+      }
+    }
+  ]
+}

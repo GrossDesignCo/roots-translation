@@ -1,0 +1,31 @@
+{
+  "key": "bereshit",
+  "language": "hebrew",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בְּרֵאשִׁ֖ית",
+        "transliteration": "beReshit",
+        "englishLiteral": "In-heading",
+        "englishNatural": "In the heading",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּרֵאשִׁ֖ית** בָּרָ֣א אֱלֹהִ֑ים",
+        "transliteration": "**beReshit** bara Elohim",
+        "englishLiteral": "**In-heading** created Gods",
+        "englishNatural": "**In the heading** created God"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "key": "elohav",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "אֱלֹהָיו",
+        "transliteration": "elohav",
+        "englishLiteral": "Gods-his",
+        "englishNatural": "of his God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁנְעָר בֵּית **אֱלֹהָיו** וַיָּבֵא אֶת־",
+        "transliteration": "Shinar beit **elohav** vaYave et-",
+        "englishLiteral": "Tooth_of_Two (Shinar) house **Gods-his** and-he-brought ↳",
+        "englishNatural": "of Tooth-of-Two (Shinar) to the house **of his God** and he brought ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 23,
+      "word": {
+        "originalScript": "אֱלֹהָיו",
+        "transliteration": "elohav",
+        "englishLiteral": "Gods-his",
+        "englishNatural": "of his God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּית אוֹצָר **אֱלֹהָיו**",
+        "transliteration": "beit otzar **elohav**",
+        "englishLiteral": "house treasure **Gods-his**",
+        "englishNatural": "to the house of treasure **of his God**"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֱלֹהָיו",
+        "transliteration": "elohav",
+        "englishLiteral": "gods-his",
+        "englishNatural": "his god",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ אֶל־ **אֱלֹהָיו** וַיָּטִלוּ אֶת־",
+        "transliteration": "ish el- **elohav** vaYatilu et-",
+        "englishLiteral": "man to- **gods-his** and-hurled ↳",
+        "englishNatural": "man to **his god** and hurled ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֱלֹהָיו",
+        "transliteration": "elohav",
+        "englishLiteral": "Gods-his",
+        "englishNatural": "his God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ יְהוָה **אֱלֹהָיו** מִמְּעֵי הַדָּגָה",
+        "transliteration": "el- YHWH **elohav** mimei haDagah",
+        "englishLiteral": "to- He_Who_Is (YHWH) **Gods-his** from-bowels-of the-fish",
+        "englishNatural": "to He-Who-Is (YHWH) **his God** from the bowels of the fish"
+      }
+    }
+  ]
+}

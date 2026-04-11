@@ -1,0 +1,55 @@
+{
+  "key": "avadav",
+  "language": "hebrew",
+  "root": "eved",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "עֲבָדָיו",
+        "transliteration": "avadav",
+        "englishLiteral": "servants-his",
+        "englishNatural": "his servants",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פַרְעֹה וְלִפְנֵי **עֲבָדָיו** וַיְהִי לְתַנִּין",
+        "transliteration": "Paroh veLifnei **avadav** vaYehi leTannin",
+        "englishLiteral": "Pharaoh and-to-faces-of **servants-his** and-he-was to-monster",
+        "englishNatural": "Pharaoh and to the face of **his servants** and it was to a monster"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 30
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עֲבָדָיו֙",
+        "transliteration": "avadav",
+        "englishLiteral": "servants-his",
+        "englishNatural": "his servants",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ה֤וּא וְכָל־ **עֲבָדָיו֙** וְכָל־ מִצְרַ֔יִם",
+        "transliteration": "hu veKhol- **avadav** veKhol- Mitzrayim",
+        "englishLiteral": "he and-all- **servants-his** and-all- Double_Narrows (Egypt)",
+        "englishNatural": "he and all **his servants** and all Double-Narrows (Egypt)"
+      }
+    }
+  ]
+}

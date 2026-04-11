@@ -1,0 +1,31 @@
+{
+  "key": "kelev",
+  "language": "hebrew",
+  "root": "kelev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "כֶּ֙לֶב֙",
+        "transliteration": "kelev",
+        "englishLiteral": "dog",
+        "englishNatural": "a dog",
+        "root": "kelev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֤א יֶֽחֱרַץ־ **כֶּ֙לֶב֙** לְשֹׁנ֔וֹ לְמֵאִ֖ישׁ",
+        "transliteration": "lo yecharatz- **kelev** leshono meIsh",
+        "englishLiteral": "not will-sharpen- **dog** tongue-his from-man",
+        "englishNatural": "not will sharpen **a dog** his tongue from man"
+      }
+    }
+  ]
+}

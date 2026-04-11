@@ -1,0 +1,55 @@
+{
+  "key": "terem",
+  "language": "hebrew",
+  "root": "terem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "טֶרֶם",
+        "transliteration": "terem",
+        "englishLiteral": "not-yet",
+        "englishNatural": "not yet",
+        "root": "terem",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "שִׂיחַ הַשָּׂדֶה **טֶרֶם** יִהְיֶה בָאָרֶץ",
+        "transliteration": "siakh haSadeh **terem** yihyeh baAretz",
+        "englishLiteral": "shrub the-field **not-yet** will-be in-land",
+        "englishNatural": "shrub of the field **not yet** was in the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "טֶרֶם",
+        "transliteration": "terem",
+        "englishLiteral": "not-yet",
+        "englishNatural": "had not yet",
+        "root": "terem",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עֵשֶׂב הַשָּׂדֶה **טֶרֶם** יִצְמָח כִּי",
+        "transliteration": "esev haSadeh **terem** yitzmach ki",
+        "englishLiteral": "herb the-field **not-yet** will-grow for",
+        "englishNatural": "herb of the field **had not yet** grown for"
+      }
+    }
+  ]
+}

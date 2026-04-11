@@ -1,0 +1,30 @@
+{
+  "root": "mishpachah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מִשְׁפְּחֹת",
+        "transliteration": "mishpechot",
+        "englishLiteral": "families-of",
+        "englishNatural": "the families of",
+        "root": "mishpachah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְךָ כֹּל **מִשְׁפְּחֹת** הָאֲדָמָה",
+        "transliteration": "vekha kol **mishpechot** haAdamah",
+        "englishLiteral": "in-you all **families-of** the-earth",
+        "englishNatural": "in you all **the families of** the earth"
+      }
+    }
+  ]
+}

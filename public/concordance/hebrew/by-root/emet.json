@@ -1,0 +1,54 @@
+{
+  "root": "emet",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וֶאֱמֶת",
+        "transliteration": "veEmet",
+        "englishLiteral": "and-truth",
+        "englishNatural": "and truth",
+        "root": "emet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְרַב־ חֶסֶד **וֶאֱמֶת**",
+        "transliteration": "veRav- chesed **veEmet**",
+        "englishLiteral": "and-many- steadfast_love **and-truth**",
+        "englishNatural": "and abundant in steadfast-love **and truth**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וֶאֱמֶת־",
+        "transliteration": "veEmet-",
+        "englishLiteral": "and-truth-of",
+        "englishNatural": "and truth of",
+        "root": "emet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָלֵינוּ חַסְדּוֹ **וֶאֱמֶת־** יְהוָה לְעוֹלָם",
+        "transliteration": "aleinu chasdo **veEmet-** YHWH leOlam",
+        "englishLiteral": "toward-us his-steadfast_love **and-truth-of** He_Who_Is (YHWH) to-the_age",
+        "englishNatural": "toward us his steadfast-love **and truth of** He-Who-Is (YHWH) to the-age"
+      }
+    }
+  ]
+}

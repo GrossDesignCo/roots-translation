@@ -1,0 +1,31 @@
+{
+  "key": "leot",
+  "language": "hebrew",
+  "root": "ot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לְאוֹת",
+        "transliteration": "leOt",
+        "englishLiteral": "for-sign-of",
+        "englishNatural": "for the sign of",
+        "root": "ot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֶּעָנָן וְהָיְתָה **לְאוֹת** בְּרִית בֵּינִי",
+        "transliteration": "beAnan veHayetah **leOt** berit beyni",
+        "englishLiteral": "in-cloud and-she-will-be **for-sign-of** covenant between-me",
+        "englishNatural": "in the cloud and it will be **for the sign of** covenant between me"
+      }
+    }
+  ]
+}

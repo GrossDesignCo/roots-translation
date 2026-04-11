@@ -1,0 +1,55 @@
+{
+  "key": "mibeit",
+  "language": "hebrew",
+  "root": "bayit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מִבֵּ֧ית",
+        "transliteration": "miBeit",
+        "englishLiteral": "from-House-of",
+        "englishNatural": "from the House of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּ֨לֶךְ אִ֜ישׁ **מִבֵּ֧ית** לֶ֣חֶם יְהוּדָ֗ה",
+        "transliteration": "vaYelekh ish **miBeit** lechem Yehudah",
+        "englishLiteral": "and-walked man **from-House-of** Bread (Bethlehem) Praise (Judah)",
+        "englishNatural": "walked and a man **from the House of** Bread (Bethlehem) Praise (Judah)"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "מִבֵּ֥ית",
+        "transliteration": "miBeit",
+        "englishLiteral": "from-House-of",
+        "englishNatural": "from the House of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכִלְיוֹן֙ אֶפְרָתִ֔ים **מִבֵּ֥ית** לֶ֖חֶם יְהוּדָ֑ה",
+        "transliteration": "veKhilyon Efratim **miBeit** lechem Yehudah",
+        "englishLiteral": "and-Wasting (Chilion) Fruitful_Ones (Ephrathites) **from-House-of** Bread (Bethlehem) Praise (Judah)",
+        "englishNatural": "and Wasting (Chilion) Fruitful-Ones (Ephrathites) **from the House of** Bread (Bethlehem) Praise (Judah)"
+      }
+    }
+  ]
+}

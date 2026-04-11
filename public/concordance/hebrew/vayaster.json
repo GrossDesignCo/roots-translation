@@ -1,0 +1,33 @@
+{
+  "key": "vayaster",
+  "language": "hebrew",
+  "root": "satar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וַיַּסְתֵּר",
+        "transliteration": "vaYaster",
+        "englishLiteral": "And-hid",
+        "englishNatural": "hid",
+        "root": "satar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וֵאלֹהֵי יַעֲקֹב **וַיַּסְתֵּר** מֹשֶׁה פָּנָיו",
+        "transliteration": "vElohei Yaaqov **vaYaster** Moshe panav",
+        "englishLiteral": "and-Gods-of Heel_Grasper (Jacob) **And-hid** Drawn_Out (Moses) faces-his",
+        "englishNatural": "and the God of Heel-Grasper (Jacob) **hid** And Drawn-Out (Moses) his face"
+      }
+    }
+  ]
+}

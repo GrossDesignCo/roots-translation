@@ -1,0 +1,31 @@
+{
+  "key": "mibekhorot",
+  "language": "hebrew",
+  "root": "bekhor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מִבְּכֹרוֹת",
+        "transliteration": "miBekhorot",
+        "englishLiteral": "from-firstborn-of",
+        "englishNatural": "from the firstborn of",
+        "root": "bekhor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַם־ הוּא **מִבְּכֹרוֹת** צֹאנוֹ וּמֵחֶלְבֵהֶן",
+        "transliteration": "gam- hu **miBekhorot** tzono umeChelveHen",
+        "englishLiteral": "also he **from-firstborn-of** his-flock and-from-fat-of-them",
+        "englishNatural": "also he **from the firstborn of** his flock and from their fat"
+      }
+    }
+  ]
+}

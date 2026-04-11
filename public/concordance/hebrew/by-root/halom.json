@@ -1,0 +1,30 @@
+{
+  "root": "halom",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הֲלֹם",
+        "transliteration": "halom",
+        "englishLiteral": "here",
+        "englishNatural": "here",
+        "root": "halom",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תִּקְרַב **הֲלֹם** שַׁל־ נְעָלֶיךָ",
+        "transliteration": "al- tiqrav **halom** shal- nealekha",
+        "englishLiteral": "not- approach **here** send- sandals-your",
+        "englishNatural": "not Approach **here** send-out your sandals"
+      }
+    }
+  ]
+}

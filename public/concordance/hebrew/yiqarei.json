@@ -1,0 +1,33 @@
+{
+  "key": "yiqarei",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "יִקָּרֵא",
+        "transliteration": "yiqarei",
+        "englishLiteral": "will-be-called_out",
+        "englishNatural": "will be called-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "מִבְּשָׂרִי לְזֹאת **יִקָּרֵא** אִשָּׁה כִּי",
+        "transliteration": "miVesari leZot **yiqarei** ishah ki",
+        "englishLiteral": "from-my-flesh to-this **will-be-called_out** Woman that",
+        "englishNatural": "from my flesh to this **will be called-out** Woman that"
+      }
+    }
+  ]
+}

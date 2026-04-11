@@ -1,0 +1,33 @@
+{
+  "key": "liqrat",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לִקְרַאת",
+        "transliteration": "liqrat",
+        "englishLiteral": "to-meet",
+        "englishNatural": "to meet",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ־ בִּתְרוֹ **לִקְרַאת** רֵעֵהוּ וְאֶת־",
+        "transliteration": "ish- bitro **liqrat** reehu veEt-",
+        "englishLiteral": "man- piece-of-him **to-meet** friend-his and-↳",
+        "englishNatural": "man piece of him **to meet** his friend and"
+      }
+    }
+  ]
+}

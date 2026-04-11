@@ -1,0 +1,33 @@
+{
+  "key": "halakh",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הָלַךְ",
+        "transliteration": "halakh",
+        "englishLiteral": "has-walked",
+        "englishNatural": "has walked",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר לֹא **הָלַךְ** בַּעֲצַת רְשָׁעִים",
+        "transliteration": "asher lo **halakh** baAtzat reshaim",
+        "englishLiteral": "which not **has-walked** in-counsel-of wicked_ones",
+        "englishNatural": "which not **has walked** in the counsel of wicked-ones"
+      }
+    }
+  ]
+}

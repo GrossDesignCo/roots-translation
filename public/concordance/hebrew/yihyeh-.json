@@ -1,0 +1,59 @@
+{
+  "key": "yihyeh-",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "יִהְיֶה־",
+        "transliteration": "yihyeh-",
+        "englishLiteral": "it-was-",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל אֲשֶׁר **יִהְיֶה־** שָּׁמָּה הָרוּחַ",
+        "transliteration": "el asher **yihyeh-** shamah haRuach",
+        "englishLiteral": "to which **it-was-** there the-wind",
+        "englishNatural": "to which **was** there the wind"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יִהְיֶה־",
+        "transliteration": "yihyeh-",
+        "englishLiteral": "it-was-",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל אֲשֶׁר **יִהְיֶה־** שָׁם הָרוּחַ",
+        "transliteration": "al asher **yihyeh-** sham haRuach",
+        "englishLiteral": "over which **it-was-** there the-wind",
+        "englishNatural": "Over which **was** there the wind"
+      }
+    }
+  ]
+}

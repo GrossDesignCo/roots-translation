@@ -1,0 +1,31 @@
+{
+  "key": "tinyannah",
+  "language": "aramaic",
+  "root": "tinyan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "תִנְיָנָ֜ה",
+        "transliteration": "tinyannah",
+        "englishLiteral": "second",
+        "englishNatural": "a second",
+        "root": "tinyan",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "חֵיוָה֩ אָחֳרִ֨י **תִנְיָנָ֜ה** דָּמְיָ֣ה לְדֹ֗ב",
+        "transliteration": "kheyva ochori **tinyannah** damyah leDov",
+        "englishLiteral": "beast another **second** similar to-bear",
+        "englishNatural": "beast another **a second** similar to a bear"
+      }
+    }
+  ]
+}

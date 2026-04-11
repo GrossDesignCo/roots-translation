@@ -1,0 +1,31 @@
+{
+  "key": "eyn-",
+  "language": "hebrew",
+  "root": "eyn",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 30
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "אֵֽין־",
+        "transliteration": "eyn-",
+        "englishLiteral": "there-is-not-",
+        "englishNatural": "there was not",
+        "root": "eyn",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "בַּ֔יִת אֲשֶׁ֥ר **אֵֽין־** שָׁ֖ם מֵֽת׃",
+        "transliteration": "bayit asher **eyn-** sham met",
+        "englishLiteral": "house which **there-is-not-** there dead",
+        "englishNatural": "a house which **there was not** there a dead one"
+      }
+    }
+  ]
+}

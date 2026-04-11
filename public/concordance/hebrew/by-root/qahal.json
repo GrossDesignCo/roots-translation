@@ -1,0 +1,54 @@
+{
+  "root": "qahal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ecclesiastes",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "קֹהֶ֣לֶת",
+        "transliteration": "qohelet",
+        "englishLiteral": "Assembler",
+        "englishNatural": "Assembler",
+        "root": "qahal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּבְרֵי֙ **קֹהֶ֣לֶת** בֶּן־ דָּוִ֔ד",
+        "transliteration": "divRey **qohelet** ben- David",
+        "englishLiteral": "Words-of **Assembler** son-of Beloved (David)",
+        "englishNatural": "The words of **Assembler** the son of Beloved (David)"
+      }
+    },
+    {
+      "location": {
+        "book": "Ecclesiastes",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "קֹהֶ֔לֶת",
+        "transliteration": "qohelet",
+        "englishLiteral": "Assembler",
+        "englishNatural": "Assembler",
+        "root": "qahal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲבָלִים֙ אָמַ֣ר **קֹהֶ֔לֶת** הֲבֵ֥ל הֲבָלִ֖ים",
+        "transliteration": "havalim amar **qohelet** havel havalim",
+        "englishLiteral": "vapors said **Assembler** vapor-of vapors",
+        "englishNatural": "vapors said **Assembler** Vapor of vapors"
+      }
+    }
+  ]
+}

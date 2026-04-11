@@ -1,0 +1,31 @@
+{
+  "key": "pi",
+  "language": "hebrew",
+  "root": "pi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "פִּי",
+        "transliteration": "pi",
+        "englishLiteral": "my-mouth",
+        "englishNatural": "my mouth",
+        "root": "pi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּגַּע אֶל־ **פִּי** וַיֹּאמֶר הִנֵּה",
+        "transliteration": "vaYaGga el- **pi** vaYomer hinneh",
+        "englishLiteral": "And-he-touched to- **my-mouth** and-he-said Behold",
+        "englishNatural": "And he touched it to **my mouth** and he said Behold"
+      }
+    }
+  ]
+}

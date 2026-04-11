@@ -1,0 +1,31 @@
+{
+  "key": "qalal",
+  "language": "hebrew",
+  "root": "qalal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "קָלָל",
+        "transliteration": "qalal",
+        "englishLiteral": "polished",
+        "englishNatural": "polished",
+        "root": "qalal",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כְּעֵין נְחֹשֶׁת **קָלָל**",
+        "transliteration": "keEin nechoshet **qalal**",
+        "englishLiteral": "like-eye-of bronze **polished**",
+        "englishNatural": "like an eye of bronze **polished**"
+      }
+    }
+  ]
+}

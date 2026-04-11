@@ -1,0 +1,33 @@
+{
+  "key": "yaavodu",
+  "language": "hebrew",
+  "root": "abad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 14
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "יַעֲבֹדוּ",
+        "transliteration": "yaavodu",
+        "englishLiteral": "they-will-serve",
+        "englishNatural": "they will serve",
+        "root": "abad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַגּוֹי אֲשֶׁר **יַעֲבֹדוּ** דָּן אָנֹכִי",
+        "transliteration": "haGoy asher **yaavodu** dan anoki",
+        "englishLiteral": "the-nation which **they-will-serve** judging I",
+        "englishNatural": "the nation which **they will serve** judge I will"
+      }
+    }
+  ]
+}

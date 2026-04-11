@@ -1,0 +1,33 @@
+{
+  "key": "avaru",
+  "language": "hebrew",
+  "root": "avar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עָבָרוּ",
+        "transliteration": "avaru",
+        "englishLiteral": "passed",
+        "englishNatural": "have passed",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְגַלֶּיךָ עָלַי **עָבָרוּ**",
+        "transliteration": "veGalekha alay **avaru**",
+        "englishLiteral": "and-waves-your over-me **passed**",
+        "englishNatural": "and your waves over me **have passed**"
+      }
+    }
+  ]
+}

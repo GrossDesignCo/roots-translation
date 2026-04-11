@@ -1,0 +1,31 @@
+{
+  "key": "venavon",
+  "language": "hebrew",
+  "root": "navon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְנָבוֹן",
+        "transliteration": "veNavon",
+        "englishLiteral": "and-understanding-man",
+        "englishNatural": "and an understanding man",
+        "root": "navon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְיוֹסֵף לֶקַח **וְנָבוֹן** תַּחְבֻּלוֹת יִקְנֶה",
+        "transliteration": "veYosef leqach **veNavon** tachbulot yiqneh",
+        "englishLiteral": "and-will-add teaching **and-understanding-man** wise_counsels will-acquire",
+        "englishNatural": "and will add teaching **and an understanding man** wise-counsels will acquire"
+      }
+    }
+  ]
+}

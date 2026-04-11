@@ -1,0 +1,55 @@
+{
+  "key": "kheyva",
+  "language": "aramaic",
+  "root": "cheiva",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "חֵיוָה֩",
+        "transliteration": "kheyva",
+        "englishLiteral": "beast",
+        "englishNatural": "beast",
+        "root": "cheiva",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲר֣וּ **חֵיוָה֩** אָחֳרִ֨י תִנְיָנָ֜ה",
+        "transliteration": "vaAru **kheyva** ochori tinyannah",
+        "englishLiteral": "And-behold **beast** another second",
+        "englishNatural": "And behold **beast** another a second"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "חֵיוָה֩",
+        "transliteration": "kheyva",
+        "englishLiteral": "beast",
+        "englishNatural": "beast",
+        "root": "cheiva",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֵֽילְיָ֗א וַאֲר֣וּ **חֵיוָה֩** רְֽבִיעָאָ֡ה דְּחִילָה֩",
+        "transliteration": "leila vaAru **kheyva** reviaa dekhilah",
+        "englishLiteral": "night-the and-behold **beast** fourth dreadful",
+        "englishNatural": "of the night and behold **beast** a fourth dreadful"
+      }
+    }
+  ]
+}

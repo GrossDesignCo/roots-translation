@@ -1,0 +1,31 @@
+{
+  "key": "uvishfatim",
+  "language": "hebrew",
+  "root": "mishpat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "וּבִשְׁפָטִים",
+        "transliteration": "uVishfatim",
+        "englishLiteral": "and-in-justices",
+        "englishNatural": "justices",
+        "root": "mishpat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בִּזְרוֹעַ נְטוּיָה **וּבִשְׁפָטִים** גְּדֹלִים",
+        "transliteration": "biZeroa netuyah **uVishfatim** gedolim",
+        "englishLiteral": "in-arm stretched_out **and-in-justices** great",
+        "englishNatural": "arm in a stretched-out **justices** and in great"
+      }
+    }
+  ]
+}

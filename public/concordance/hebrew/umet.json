@@ -1,0 +1,33 @@
+{
+  "key": "umet",
+  "language": "hebrew",
+  "root": "mut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּמֵת֙",
+        "transliteration": "uMet",
+        "englishLiteral": "and-will-die",
+        "englishNatural": "And will die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וּמֵת֙** כָּל־ בְּכ֣וֹר",
+        "transliteration": "**uMet** kol- bekhor",
+        "englishLiteral": "**and-will-die** all- firstborn",
+        "englishNatural": "**And will die** all firstborn"
+      }
+    }
+  ]
+}

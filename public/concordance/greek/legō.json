@@ -1,0 +1,57 @@
+{
+  "key": "legō",
+  "language": "greek",
+  "root": "lego",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "λέγω",
+        "transliteration": "legō",
+        "englishLiteral": "I-say",
+        "englishNatural": "I say",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "ἀμὴν ἀμὴν **λέγω** ὑμῖν πρὶν",
+        "transliteration": "amēn amēn **legō** hymin prin",
+        "englishLiteral": "Amen amen **I-say** to-you before",
+        "englishNatural": "Amen amen **I say** to you Before"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "λέγω",
+        "transliteration": "legō",
+        "englishLiteral": "I-say",
+        "englishNatural": "I say",
+        "root": "lego",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "ἀμὴν ἀμὴν **λέγω** σοι ὅτε",
+        "transliteration": "amēn amēn **legō** soi hote",
+        "englishLiteral": "Truly truly **I-say** to-you when",
+        "englishNatural": "Truly truly **I say** to you when"
+      }
+    }
+  ]
+}

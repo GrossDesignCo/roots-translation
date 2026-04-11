@@ -1,0 +1,33 @@
+{
+  "key": "vayyatsar",
+  "language": "hebrew",
+  "root": "tsur",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וַיָּצַר",
+        "transliteration": "vayyatsar",
+        "englishLiteral": "and-he-besieged",
+        "englishNatural": "and he besieged",
+        "root": "tsur",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בָּבֶל יְרוּשָׁלַם **וַיָּצַר** עָלֶיהָ",
+        "transliteration": "Bavel Yerushalayim **vayyatsar** aleha",
+        "englishLiteral": "Confusion (Babylon) Foundation_of_Peace (Jerusalem) **and-he-besieged** over-her",
+        "englishNatural": "of Confusion (Babylon) to Foundation-of-Peace (Jerusalem) **and he besieged** over it"
+      }
+    }
+  ]
+}

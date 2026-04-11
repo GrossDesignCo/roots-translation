@@ -1,0 +1,54 @@
+{
+  "root": "teshuqah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "תְּשׁוּקָתֵךְ",
+        "transliteration": "teshuqatek",
+        "englishLiteral": "fixation-your",
+        "englishNatural": "your fixation",
+        "root": "teshuqah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶל אִישֵׁךְ **תְּשׁוּקָתֵךְ** וְהוּא יִמְשָׁל",
+        "transliteration": "veEl ishekh **teshuqatek** veHu yimshal",
+        "englishLiteral": "and-to man-your **fixation-your** and-he he-will_rule",
+        "englishNatural": "and to your man **your fixation** and he will rule"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "תְּשׁוּקָתוֹ",
+        "transliteration": "teshukato",
+        "englishLiteral": "its-fixation",
+        "englishNatural": "is its fixation",
+        "root": "teshuqah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֹבֵץ וְאֵלֶיךָ **תְּשׁוּקָתוֹ** וְאַתָּה תִּמְשָׁל־",
+        "transliteration": "rovetz veElekha **teshukato** veAtah timshal-",
+        "englishLiteral": "crouching and-to-you **its-fixation** and-you you-will-rule-",
+        "englishNatural": "is crouching and to you **is its fixation** and you will rule"
+      }
+    }
+  ]
+}

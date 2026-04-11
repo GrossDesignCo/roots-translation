@@ -1,0 +1,33 @@
+{
+  "key": "vayaamod",
+  "language": "hebrew",
+  "root": "amad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיַּעֲמֹד",
+        "transliteration": "vaYaamod",
+        "englishLiteral": "and-stood",
+        "englishNatural": "stood",
+        "root": "amad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַיָּם **וַיַּעֲמֹד** הַיָּם מִזַּעְפּוֹ",
+        "transliteration": "el- haYam **vaYaamod** haYam mizaapo",
+        "englishLiteral": "to- the-sea **and-stood** the-sea from-rage-its",
+        "englishNatural": "to the sea **stood** and the sea from its rage"
+      }
+    }
+  ]
+}

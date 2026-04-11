@@ -1,0 +1,32 @@
+{
+  "root": "netzav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "נִצָּבָה",
+        "transliteration": "nitzavah",
+        "englishLiteral": "she-has-stationed_herself",
+        "englishNatural": "she has stationed-herself",
+        "root": "netzav",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּין נְתִיבוֹת **נִצָּבָה**",
+        "transliteration": "bein netivot **nitzavah**",
+        "englishLiteral": "between paths **she-has-stationed_herself**",
+        "englishNatural": "between paths **she has stationed-herself**"
+      }
+    }
+  ]
+}

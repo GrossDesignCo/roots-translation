@@ -1,0 +1,33 @@
+{
+  "key": "qamu",
+  "language": "hebrew",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "קָמוּ",
+        "transliteration": "qamu",
+        "englishLiteral": "stood_up",
+        "englishNatural": "stood-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אָחִיו וְלֹא־ **קָמוּ** אִישׁ מִתַּחְתָּיו",
+        "transliteration": "achiv veLo- **qamu** ish miTachtav",
+        "englishLiteral": "brother-his and-not- **stood_up** man from-lowness-his",
+        "englishNatural": "his brother not **stood-up** and man from his lowness"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "tou",
+  "language": "greek",
+  "root": "ho",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "τοῦ",
+        "transliteration": "tou",
+        "englishLiteral": "the",
+        "englishNatural": "the",
+        "root": "ho",
+        "morphology": {
+          "type": "article"
+        }
+      },
+      "context": {
+        "hebrew": "καταβαίνοντα ἐκ **τοῦ** οὐρανοῦ ἔχοντα",
+        "transliteration": "katabainonta ek **tou** ouranou echonta",
+        "englishLiteral": "descending out-of **the** heaven having",
+        "englishNatural": "descending from **the** heaven having"
+      }
+    }
+  ]
+}

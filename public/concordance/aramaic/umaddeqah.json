@@ -1,0 +1,33 @@
+{
+  "key": "umaddeqah",
+  "language": "aramaic",
+  "root": "daq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "וּמַדֱּקָ֔ה",
+        "transliteration": "uMaddeqah",
+        "englishLiteral": "and-crushing",
+        "englishNatural": "and crushing",
+        "root": "daq",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "haphel"
+        }
+      },
+      "context": {
+        "hebrew": "לַ֛הּ אָֽכְלָ֣ה **וּמַדֱּקָ֔ה** וּשְׁאָרָ֖א בְּרַגְלַ֣יהּ",
+        "transliteration": "lah akhelah **uMaddeqah** uShara beRagleyh",
+        "englishLiteral": "to-her devouring **and-crushing** and-the-remainder with-feet-its",
+        "englishNatural": "to it devouring **and crushing** the remainder with its feet"
+      }
+    }
+  ]
+}

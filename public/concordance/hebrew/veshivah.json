@@ -1,0 +1,31 @@
+{
+  "key": "veshivah",
+  "language": "hebrew",
+  "root": "sheva",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 24
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְשִׁבְעָה",
+        "transliteration": "veShivah",
+        "englishLiteral": "and-seven",
+        "englishNatural": "and seven",
+        "root": "sheva",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֶמֶךְ שִׁבְעִים **וְשִׁבְעָה**",
+        "transliteration": "veLemekh shivim **veShivah**",
+        "englishLiteral": "and-Powerful (Lamech) seventy **and-seven**",
+        "englishNatural": "and Powerful (Lamech) seventy **and seven**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "tzillah",
+  "language": "hebrew",
+  "root": "Tzillah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 19
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "צִלָּה",
+        "transliteration": "Tzillah",
+        "englishLiteral": "Shadow (Zillah)",
+        "englishNatural": "Shadow (Zillah)",
+        "root": "Tzillah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֵׁם הַשֵּׁנִית **צִלָּה**",
+        "transliteration": "veShem haShenith **Tzillah**",
+        "englishLiteral": "and-name the-second **Shadow (Zillah)**",
+        "englishNatural": "and the name of the second **Shadow (Zillah)**"
+      }
+    }
+  ]
+}

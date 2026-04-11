@@ -1,0 +1,33 @@
+{
+  "key": "yirashekha",
+  "language": "hebrew",
+  "root": "yarash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 4
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "יִירָשֶׁךָ",
+        "transliteration": "yirashekha",
+        "englishLiteral": "he-will-inherit-you",
+        "englishNatural": "will inherit you",
+        "root": "yarash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִמֵּעֶיךָ הוּא **יִירָשֶׁךָ**",
+        "transliteration": "mimmeykha hu **yirashekha**",
+        "englishLiteral": "from-bowels-of-you he **he-will-inherit-you**",
+        "englishNatural": "from your bowels he **will inherit you**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "bekappeihem",
+  "language": "hebrew",
+  "root": "kaph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "בְּכַפֵּיהֶם",
+        "transliteration": "beKappeihem",
+        "englishLiteral": "in-palms-their",
+        "englishNatural": "in their hands",
+        "root": "kaph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֶחָמָס אֲשֶׁר **בְּכַפֵּיהֶם**",
+        "transliteration": "heChamas asher **beKappeihem**",
+        "englishLiteral": "the-violence which **in-palms-their**",
+        "englishNatural": "the violence which is **in their hands**"
+      }
+    }
+  ]
+}

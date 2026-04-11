@@ -1,0 +1,105 @@
+{
+  "key": "chai",
+  "language": "hebrew",
+  "root": "chayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 20
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "חָי׃",
+        "transliteration": "chai",
+        "englishLiteral": "Living",
+        "englishNatural": "Living",
+        "root": "chai",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֵם כָּל־ **חָי׃**",
+        "transliteration": "em kol- **chai**",
+        "englishLiteral": "Mother all **Living**",
+        "englishNatural": "Mother of all **Living**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "חַי",
+        "transliteration": "chai",
+        "englishLiteral": "he-lived",
+        "englishNatural": "he lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אָדָם אֲשֶׁר **חַי** תְּשַׁע מֵאוֹת",
+        "transliteration": "Adam asher **chai** tesha meot",
+        "englishLiteral": "Earthling (Adam) which **he-lived** nine hundreds",
+        "englishNatural": "Earthling (Adam) which **he lived** nine hundred"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 29,
+      "word": {
+        "originalScript": "חַי",
+        "transliteration": "chai",
+        "englishLiteral": "living",
+        "englishNatural": "living",
+        "root": "chayah",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ כָּל־ **חַי** כַּאֲשֶׁר עָשִׂיתִי",
+        "transliteration": "et- kol- **chai** kaAsher asiti",
+        "englishLiteral": "↳ all- **living** as-which I-have-done",
+        "englishNatural": "↳ all **living** as which I have done"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "חַי",
+        "transliteration": "chai",
+        "englishLiteral": "living",
+        "englishNatural": "is living",
+        "root": "chayah",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר הוּא־ **חַי** לָכֶם יִהְיֶה",
+        "transliteration": "asher hu- **chai** lakhem yihyeh",
+        "englishLiteral": "which it- **living** to-you will-be",
+        "englishNatural": "which it **is living** to you will be"
+      }
+    }
+  ]
+}

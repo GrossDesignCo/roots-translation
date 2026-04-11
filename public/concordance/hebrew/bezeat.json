@@ -1,0 +1,31 @@
+{
+  "key": "bezeat",
+  "language": "hebrew",
+  "root": "zea",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בְּזֵעַת",
+        "transliteration": "beZeat",
+        "englishLiteral": "In-sweat_of",
+        "englishNatural": "In sweat of",
+        "root": "zea",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּזֵעַת** אַפֶּיךָ תֹּאכַל",
+        "transliteration": "**beZeat** apeikha toKhal",
+        "englishLiteral": "**In-sweat_of** your-faces you-will-eat",
+        "englishNatural": "**In sweat of** your face you will eat"
+      }
+    }
+  ]
+}

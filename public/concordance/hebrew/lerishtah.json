@@ -1,0 +1,33 @@
+{
+  "key": "lerishtah",
+  "language": "hebrew",
+  "root": "yarash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 7
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לְרִשְׁתָּהּ",
+        "transliteration": "lerishtah",
+        "englishLiteral": "to-inherit-her",
+        "englishNatural": "to inherit it",
+        "root": "yarash",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ הַזֹּאת **לְרִשְׁתָּהּ**",
+        "transliteration": "haAretz haZot **lerishtah**",
+        "englishLiteral": "the-land the-this **to-inherit-her**",
+        "englishNatural": "land this **to inherit it**"
+      }
+    }
+  ]
+}

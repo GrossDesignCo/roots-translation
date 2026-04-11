@@ -1,0 +1,59 @@
+{
+  "key": "reot",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "רְא֣וֹת",
+        "transliteration": "reot",
+        "englishLiteral": "to-see",
+        "englishNatural": "to see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תֹּ֨סֶף֙ **רְא֣וֹת** פָּנָ֔י כִּ֗י",
+        "transliteration": "al- tosef **reot** panay ki",
+        "englishLiteral": "not add **to-see** faces-my that",
+        "englishNatural": "not add **to see** my face that"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "רְא֖וֹת",
+        "transliteration": "reot",
+        "englishLiteral": "to-see",
+        "englishNatural": "to see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֹסִ֥ף עוֹד֙ **רְא֖וֹת** פָּנֶֽיךָ׃",
+        "transliteration": "osif od **reot** panekha",
+        "englishLiteral": "I-will-add again **to-see** faces-your",
+        "englishNatural": "I will add again **to see** your face"
+      }
+    }
+  ]
+}

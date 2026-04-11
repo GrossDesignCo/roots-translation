@@ -1,0 +1,56 @@
+{
+  "root": "qavah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יִקָּו֨וּ",
+        "transliteration": "yiqqavu",
+        "englishLiteral": "Let-gather",
+        "englishNatural": "gather",
+        "root": "qavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים **יִקָּו֨וּ** הַמַּ֜יִם מִתַּ֤חַת",
+        "transliteration": "vaYomer Elohim **yiqqavu** haMayim miTachat",
+        "englishLiteral": "And-said Gods **Let-gather** the-waters from-under",
+        "englishNatural": "said And God **gather** Let the waters from under"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וּלְמִקְוֵ֥ה",
+        "transliteration": "uLeMiQveh",
+        "englishLiteral": "and-to-gathering",
+        "englishNatural": "and to the gathering of",
+        "root": "qavah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַיַּבָּשָׁה֙ אֶ֔רֶץ **וּלְמִקְוֵ֥ה** הַמַּ֖יִם קָרָ֣א",
+        "transliteration": "laYabashah eretz **uLeMiQveh** haMayim qara",
+        "englishLiteral": "to-dry-ground Land **and-to-gathering** the-waters called_out",
+        "englishNatural": "to the dry-ground Land **and to the gathering of** the waters he called-out"
+      }
+    }
+  ]
+}

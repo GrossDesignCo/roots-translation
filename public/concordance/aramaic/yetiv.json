@@ -1,0 +1,59 @@
+{
+  "key": "yetiv",
+  "language": "aramaic",
+  "root": "yetiv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יְתִ֑ב",
+        "transliteration": "yetiv",
+        "englishLiteral": "had-sat",
+        "englishNatural": "had sat",
+        "root": "yetiv",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַתִּ֥יק יוֹמִ֖ין **יְתִ֑ב** לְבוּשֵׁ֣הּ׀ כִּתְלַ֣ג",
+        "transliteration": "veAttiq yomin **yetiv** levusheh keTlag",
+        "englishLiteral": "and-Ancient-of Days **had-sat** garment-his as-snow",
+        "englishNatural": "and the Ancient of Days **had sat** his garment snow"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "יְתִ֖ב",
+        "transliteration": "yetiv",
+        "englishLiteral": "had-sat",
+        "englishNatural": "had sat",
+        "root": "yetiv",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "יְקוּמ֔וּן דִּינָ֥א **יְתִ֖ב** וְסִפְרִ֥ין פְּתִֽיחוּ",
+        "transliteration": "yequmun dina **yetiv** veSiphrin pethichu",
+        "englishLiteral": "stood judge-the **had-sat** and-books had-been-opened",
+        "englishNatural": "stood the judge **had sat** and the books had been opened"
+      }
+    }
+  ]
+}

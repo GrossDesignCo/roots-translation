@@ -1,0 +1,55 @@
+{
+  "key": "oti",
+  "language": "hebrew",
+  "root": "et",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אֹתִי",
+        "transliteration": "oti",
+        "englishLiteral": "↳-me",
+        "englishNatural": "me",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "הֵן גֵּרַשְׁתָּ **אֹתִי** הַיּוֹם מֵעַל",
+        "transliteration": "hen gerashta **oti** haYom meAl",
+        "englishLiteral": "Behold you-banished **↳-me** the-day from-over",
+        "englishNatural": "Behold you have banished **me** this day from over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "אֹתִי",
+        "transliteration": "oti",
+        "englishLiteral": "↳ me",
+        "englishNatural": "me",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּיתִי יוֹרֵשׁ **אֹתִי**",
+        "transliteration": "beyti yoresh **oti**",
+        "englishLiteral": "house-of-me inheriting **↳ me**",
+        "englishNatural": "my house inherits **me**"
+      }
+    }
+  ]
+}

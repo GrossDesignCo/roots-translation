@@ -1,0 +1,84 @@
+{
+  "root": "baar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "בֹּעֵר",
+        "transliteration": "boer",
+        "englishLiteral": "burning",
+        "englishNatural": "burning",
+        "root": "baar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִנֵּה הַסְּנֶה **בֹּעֵר** בָּאֵשׁ וְהַסְּנֶה",
+        "transliteration": "veHineh haSeneh **boer** baEsh vehaSeneh",
+        "englishLiteral": "and-behold the-thornbush **burning** in-fire and-the-thornbush",
+        "englishNatural": "and behold the thornbush **burning** in fire and the thornbush"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "יִבְעַר",
+        "transliteration": "yivar",
+        "englishLiteral": "burns",
+        "englishNatural": "burns",
+        "root": "baar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מַדּוּעַ לֹא־ **יִבְעַר** הַסְּנֶה",
+        "transliteration": "madua lo- **yivar** haSeneh",
+        "englishLiteral": "why not- **burns** the-thornbush",
+        "englishNatural": "why not **burns** the thornbush"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בֹּעֲרוֹת",
+        "transliteration": "boarot",
+        "englishLiteral": "burning",
+        "englishNatural": "burning",
+        "root": "baar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כְּגַחֲלֵי־ אֵשׁ **בֹּעֲרוֹת** כְּמַרְאֵה הַלַּפִּדִם",
+        "transliteration": "keGachaley- esh **boarot** keMarah haLappidim",
+        "englishLiteral": "like-coals-of- fire **burning** like-appearance-of the-torches",
+        "englishNatural": "like coals of fire **burning** like the appearance of The Torches"
+      }
+    }
+  ]
+}

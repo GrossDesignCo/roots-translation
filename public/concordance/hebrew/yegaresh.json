@@ -1,0 +1,33 @@
+{
+  "key": "yegaresh",
+  "language": "hebrew",
+  "root": "garash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "יְגָרֵ֥שׁ",
+        "transliteration": "yegaresh",
+        "englishLiteral": "he-will-banish",
+        "englishNatural": "he will banish",
+        "root": "garash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כָּלָ֔ה גָּרֵ֛שׁ **יְגָרֵ֥שׁ** אֶתְכֶ֖ם מִזֶּֽה׃",
+        "transliteration": "kalah garesh **yegaresh** etkhem mizeh",
+        "englishLiteral": "finishing banishing **he-will-banish** ↳-you from-this",
+        "englishNatural": "finishing banishing **he will banish** you from this"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "totze",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 24
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "תּוֹצֵ֨א",
+        "transliteration": "totze",
+        "englishLiteral": "Let-bring_out",
+        "englishNatural": "bring-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים **תּוֹצֵ֨א** הָאָ֜רֶץ נֶ֤פֶשׁ",
+        "transliteration": "vaYomer Elohim **totze** haAretz nephesh",
+        "englishLiteral": "And-said Gods **Let-bring_out** the-land throat",
+        "englishNatural": "said And God **bring-out** Let the land throat"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "etz-",
+  "language": "hebrew",
+  "root": "etz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "עֵץ־",
+        "transliteration": "etz-",
+        "englishLiteral": "tree-",
+        "englishNatural": "tree",
+        "root": "etz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֵאמֹר מִכֹּל **עֵץ־** הַגָּן אָכֹל",
+        "transliteration": "leEmor miKol **etz-** haGan akhol",
+        "englishLiteral": "to-say From-all **tree-** the-garden eating",
+        "englishNatural": "saying From all **tree** of the garden eating"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עֵץ־",
+        "transliteration": "etz-",
+        "englishLiteral": "tree",
+        "englishNatural": "the tree of",
+        "root": "etz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַנָּחָשׁ מִפְּרִי **עֵץ־** הַגָּן נֹאכֵל",
+        "transliteration": "haNachash miPri **etz-** haGan nochil",
+        "englishLiteral": "the-snake from-fruit-of **tree** the-garden we-eat",
+        "englishNatural": "the snake From the fruit of **the tree of** the garden we may eat"
+      }
+    }
+  ]
+}

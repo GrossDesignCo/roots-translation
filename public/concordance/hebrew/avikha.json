@@ -1,0 +1,55 @@
+{
+  "key": "avikha",
+  "language": "hebrew",
+  "root": "av",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אָבִיךָ",
+        "transliteration": "avikha",
+        "englishLiteral": "father-your",
+        "englishNatural": "your father",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִמּוֹלַדְתְּךָ וּמִבֵּית **אָבִיךָ** אֶל־ הָאָרֶץ",
+        "transliteration": "umiMoladtekha uMiBeyt **avikha** el- haAretz",
+        "englishLiteral": "and-from-kindred-your and-from-house-of **father-your** to- the-land",
+        "englishNatural": "and from your kindred and from the house of **your father** to the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אָבִיךָ",
+        "transliteration": "avikha",
+        "englishLiteral": "father-your",
+        "englishNatural": "your father",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָנֹכִי אֱלֹהֵי **אָבִיךָ** אֱלֹהֵי אַבְרָהָם",
+        "transliteration": "anokhi elohei **avikha** elohei Avraham",
+        "englishLiteral": "I Gods-of **father-your** Gods-of Exalted_Father (Abraham)",
+        "englishNatural": "I the God of **your father** the God of Exalted-Father (Abraham)"
+      }
+    }
+  ]
+}

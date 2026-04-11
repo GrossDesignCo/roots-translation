@@ -1,0 +1,31 @@
+{
+  "key": "ubekhol",
+  "language": "aramaic",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 38
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּבְכָל",
+        "transliteration": "uBekhol",
+        "englishLiteral": "and-in-all",
+        "englishNatural": "And in all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**וּבְכָל** דִּי דָיְרִין",
+        "transliteration": "**uBekhol** di dayerin",
+        "englishLiteral": "**and-in-all** which dwelling",
+        "englishNatural": "**And in all** which dwell"
+      }
+    }
+  ]
+}

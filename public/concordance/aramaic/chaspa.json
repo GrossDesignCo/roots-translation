@@ -1,0 +1,79 @@
+{
+  "key": "chaspa",
+  "language": "aramaic",
+  "root": "chasaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "חַסְפָּא",
+        "transliteration": "chaspa",
+        "englishLiteral": "clay-the",
+        "englishNatural": "the clay",
+        "root": "chasaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כַחֲדָה פַּרְזְלָא **חַסְפָּא** נְחָשָׁא כַּסְפָּא",
+        "transliteration": "kaChada parzela **chaspa** nechasha kaspa",
+        "englishLiteral": "as-one iron-the **clay-the** bronze-the silver-the",
+        "englishNatural": "as one the iron **the clay** the bronze the silver"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 43
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "חַסְפָּא",
+        "transliteration": "chaspa",
+        "englishLiteral": "clay-the",
+        "englishNatural": "the clay",
+        "root": "chasaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִתְעָרַב עִם־ **חַסְפָּא**",
+        "transliteration": "mitarav im- **chaspa**",
+        "englishLiteral": "mix-itself with- **clay-the**",
+        "englishNatural": "mixes itself with **the clay**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "חַסְפָּא",
+        "transliteration": "chaspa",
+        "englishLiteral": "clay-the",
+        "englishNatural": "the clay",
+        "root": "chasaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְזְלָא נְחָשָׁא **חַסְפָּא** כַּסְפָּא וְדַהֲבָא",
+        "transliteration": "parzela nechasha **chaspa** kaspa veDahava",
+        "englishLiteral": "iron-the bronze-the **clay-the** silver-the and-gold-the",
+        "englishNatural": "the iron the bronze **the clay** the silver and the gold"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "naga",
+  "language": "hebrew",
+  "root": "naga",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נָגַע",
+        "transliteration": "naga",
+        "englishLiteral": "has-touched",
+        "englishNatural": "has touched",
+        "root": "naga",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר הִנֵּה **נָגַע** זֶה עַל־",
+        "transliteration": "vaYomer hinneh **naga** zeh al-",
+        "englishLiteral": "and-he-said Behold **has-touched** this over-",
+        "englishNatural": "and he said Behold **has touched** this over"
+      }
+    }
+  ]
+}

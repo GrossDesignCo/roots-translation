@@ -1,0 +1,31 @@
+{
+  "key": "afrot",
+  "language": "hebrew",
+  "root": "afar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 26
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "עָפְרוֹת",
+        "transliteration": "afrot",
+        "englishLiteral": "dusts-of",
+        "englishNatural": "dusts of",
+        "root": "afar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחוּצוֹת וְרֹאשׁ **עָפְרוֹת** תֵּבֵל",
+        "transliteration": "veChutzot veRosh **afrot** tevel",
+        "englishLiteral": "and-outsides and-head-of **dusts-of** world",
+        "englishNatural": "and outsides and the head of **dusts of** the world"
+      }
+    }
+  ]
+}

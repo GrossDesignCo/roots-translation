@@ -1,0 +1,31 @@
+{
+  "key": "vechitkhem",
+  "language": "hebrew",
+  "root": "chittah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "וְחִתְּכֶם",
+        "transliteration": "veChitkhem",
+        "englishLiteral": "and-dread-your",
+        "englishNatural": "and your dread",
+        "root": "chittah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמוֹרַאֲכֶם **וְחִתְּכֶם** יִהְיֶה עַל",
+        "transliteration": "uMorakhem **veChitkhem** yihyeh al",
+        "englishLiteral": "And-awe-your **and-dread-your** will-be over",
+        "englishNatural": "And your awe **and your dread** will be over"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "vesafah",
+  "language": "hebrew",
+  "root": "safah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְשָׂפָה",
+        "transliteration": "veSafah",
+        "englishLiteral": "and-lip",
+        "englishNatural": "lip",
+        "root": "safah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַם אֶחָד **וְשָׂפָה** אַחַת לְכֻלָּם",
+        "transliteration": "am echad **veSafah** achat leKhulam",
+        "englishLiteral": "people one **and-lip** one to-all-of-them",
+        "englishNatural": "the people is one **lip** and one to all of them"
+      }
+    }
+  ]
+}

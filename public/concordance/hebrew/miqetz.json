@@ -1,0 +1,31 @@
+{
+  "key": "miqetz",
+  "language": "hebrew",
+  "root": "qetz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מִקֵּץ",
+        "transliteration": "miQetz",
+        "englishLiteral": "from-end-of",
+        "englishNatural": "from the end of",
+        "root": "qetz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **מִקֵּץ** יָמִים וַיָּבֵא",
+        "transliteration": "vayHi **miQetz** yamim vayYave",
+        "englishLiteral": "And-it-was **from-end-of** days And-he-brought",
+        "englishNatural": "And it was **from the end of** days brought"
+      }
+    }
+  ]
+}

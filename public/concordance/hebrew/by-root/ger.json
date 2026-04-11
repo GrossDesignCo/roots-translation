@@ -1,0 +1,30 @@
+{
+  "root": "ger",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "גֵר",
+        "transliteration": "ger",
+        "englishLiteral": "sojourner",
+        "englishNatural": "a sojourner",
+        "root": "ger",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תֵּדַע כִּי־ **גֵר** יִהְיֶה זַרְעֲךָ",
+        "transliteration": "teda ki- **ger** yihyeh zarcha",
+        "englishLiteral": "you-will-know that- **sojourner** he-will-be seed-of-you",
+        "englishNatural": "you will know that **a sojourner** will be your seed"
+      }
+    }
+  ]
+}

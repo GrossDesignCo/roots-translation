@@ -1,0 +1,103 @@
+{
+  "key": "lifney",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לִפְנֵי",
+        "transliteration": "liFney",
+        "englishLiteral": "to-faces-of",
+        "englishNatural": "to the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּשָּׁחֵת הָאָרֶץ **לִפְנֵי** הָאֱלֹהִים וַתִּמָּלֵא",
+        "transliteration": "vatTishachet haAretz **liFney** haElohim vatTimale",
+        "englishLiteral": "And-it-corrupted the-land **to-faces-of** the-Gods and-it-filled",
+        "englishNatural": "corrupted And the land **to the face of** God filled-with"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לִפְנֵי",
+        "transliteration": "liFney",
+        "englishLiteral": "to-faces-of",
+        "englishNatural": "to the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גִבֹּר־ צַיִד **לִפְנֵי** יְהוָה עַל־",
+        "transliteration": "gibbor- tsayid **liFney** YHWH al-",
+        "englishLiteral": "mighty_one-of- hunter **to-faces-of** He_Who_Is (YHWH) over-",
+        "englishNatural": "a mighty-one of the hunter **to the face of** He-Who-Is (YHWH) moreover"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 9
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לִפְנֵי",
+        "transliteration": "liFney",
+        "englishLiteral": "to-faces-of",
+        "englishNatural": "to the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גִּבּוֹר צַיִד **לִפְנֵי** יְהוָה",
+        "transliteration": "gibbor tsayid **liFney** YHWH",
+        "englishLiteral": "mighty_one hunter **to-faces-of** He_Who_Is (YHWH)",
+        "englishNatural": "a mighty-one a hunter **to the face of** He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לִפְנֵ֣י",
+        "transliteration": "lifney",
+        "englishLiteral": "to-faces-of",
+        "englishNatural": "to the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמֹּפְתִ֥ים הָאֵ֖לֶּה **לִפְנֵ֣י** פַרְעֹ֑ה וַיְחַזֵּ֤ק",
+        "transliteration": "haMoftim haEleh **lifney** Paroh vayChazzeq",
+        "englishLiteral": "the-wonders the-these **to-faces-of** Pharaoh and-strengthened",
+        "englishNatural": "the wonders these **to the face of** Pharaoh strengthened"
+      }
+    }
+  ]
+}

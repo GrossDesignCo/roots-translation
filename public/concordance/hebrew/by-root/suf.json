@@ -1,0 +1,30 @@
+{
+  "root": "suf",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "סוּף",
+        "transliteration": "suf",
+        "englishLiteral": "reed",
+        "englishNatural": "reed",
+        "root": "suf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תְּהוֹם יְסֹבְבֵנִי **סוּף** חָבוּשׁ לְרֹאשִׁי",
+        "transliteration": "tehom yesoveveni **suf** chavush leroshi",
+        "englishLiteral": "abyss goes_around-me **reed** binds to-head-my",
+        "englishNatural": "the abyss goes-around me **reed** binds to my head"
+      }
+    }
+  ]
+}

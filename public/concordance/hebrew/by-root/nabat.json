@@ -1,0 +1,110 @@
+{
+  "root": "nabat",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַבֶּט־",
+        "transliteration": "habet-",
+        "englishLiteral": "Look-",
+        "englishNatural": "Look",
+        "root": "nabat",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הַחוּצָה וַיֹּאמֶר **הַבֶּט־** נָא הַשָּׁמַיְמָה",
+        "transliteration": "haChutza vaYomer **habet-** na haShamayma",
+        "englishLiteral": "the-outside and-he-said **Look-** please the-heavens-toward",
+        "englishNatural": "outside said **Look** now toward the heavens"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "מֵהַבִּיט",
+        "transliteration": "meHabit",
+        "englishLiteral": "from-to-look",
+        "englishNatural": "to look",
+        "root": "nabat",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי יָרֵא **מֵהַבִּיט** אֶל־ הָאֱלֹהִים",
+        "transliteration": "ki yare **meHabit** el- haElohim",
+        "englishLiteral": "that feared **from-to-look** to- the-Gods",
+        "englishNatural": "that he feared **to look** to the God"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 9
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְהִבִּיט",
+        "transliteration": "veHibit",
+        "englishLiteral": "and-he-looked",
+        "englishNatural": "and he looked",
+        "root": "nabat",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת אִישׁ **וְהִבִּיט** אֶל נְחַשׁ",
+        "transliteration": "et ish **veHibit** el nechash",
+        "englishLiteral": "↳ man **and-he-looked** to snake",
+        "englishNatural": "↳ a man **and he looked** to snake"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְהַבִּיט",
+        "transliteration": "lehabit",
+        "englishLiteral": "to-look",
+        "englishNatural": "to look",
+        "root": "nabat",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אַךְ אוֹסִיף **לְהַבִּיט** אֶל־ הֵיכַל",
+        "transliteration": "akh osif **lehabit** el- hekhal",
+        "englishLiteral": "Only I-will-add **to-look** to- temple-of",
+        "englishNatural": "Only I will add **to look** to the temple of"
+      }
+    }
+  ]
+}

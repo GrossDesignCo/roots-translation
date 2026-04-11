@@ -1,0 +1,33 @@
+{
+  "key": "tekhalennah",
+  "language": "hebrew",
+  "root": "kalah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תְּכַלֶּנָּה",
+        "transliteration": "tekhalennah",
+        "englishLiteral": "you-shall-finish-her",
+        "englishNatural": "you shall finish it",
+        "root": "kalah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶל־ אַמָּה **תְּכַלֶּנָּה** מִלְמַעְלָה וּפֶתַח",
+        "transliteration": "veEl- ammah **tekhalennah** milMaalah uFetach",
+        "englishLiteral": "and-to- cubit **you-shall-finish-her** from-to-upward and-opening-of",
+        "englishNatural": "and to a cubit **you shall finish it** from upward and the opening of"
+      }
+    }
+  ]
+}

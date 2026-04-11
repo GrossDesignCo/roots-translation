@@ -1,0 +1,54 @@
+{
+  "root": "naar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "מִנְּעֻרָיו",
+        "transliteration": "miNeurav",
+        "englishLiteral": "from-his-youth",
+        "englishNatural": "from his youth",
+        "root": "naar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם רַע **מִנְּעֻרָיו** וְלֹא־ אֹסִף",
+        "transliteration": "haAdam ra **miNeurav** veLo- osif",
+        "englishLiteral": "the-Earthling (Adam) bad **from-his-youth** and-not- I-will-add",
+        "englishNatural": "the Earthling (Adam) bad **from his youth** not and I will add"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לְנַעַר",
+        "transliteration": "lenaar",
+        "englishLiteral": "to-young_man",
+        "englishNatural": "to a young man",
+        "root": "naar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַפְּתָאיִם עָרְמָה **לְנַעַר** דַּעַת וּמְזִמָּה",
+        "transliteration": "lapetaim armah **lenaar** daat umezimmah",
+        "englishLiteral": "to-simple_men shrewdness **to-young_man** knowledge and-purpose",
+        "englishNatural": "to simple men shrewdness **to a young man** knowledge and purpose"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "kesef",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "כֶ֖סֶף",
+        "transliteration": "kesef",
+        "englishLiteral": "silver",
+        "englishNatural": "silver",
+        "root": "kesef",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רְעוּתָ֔הּ כְּלֵי־ **כֶ֖סֶף** וּכְלֵ֥י זָהָֽב׃",
+        "transliteration": "reutah keley- **kesef** uKhley zahav",
+        "englishLiteral": "friend-her vessels-of **silver** and-vessels-of gold",
+        "englishNatural": "her friend vessels of **silver** and vessels of gold"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "shenehem",
+  "language": "hebrew",
+  "root": "sheni",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 25
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "שְׁנֵיהֶם",
+        "transliteration": "shenehem",
+        "englishLiteral": "two-of-them",
+        "englishNatural": "And the two of them",
+        "root": "sheni",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּהְיוּ **שְׁנֵיהֶם** עֲרוּמִּים הָאָדָם",
+        "transliteration": "vaYihyu **shenehem** arummim haAdam",
+        "englishLiteral": "And-they-were **two-of-them** naked the-Earthling (Adam)",
+        "englishNatural": "were **And the two of them** naked the Earthling (Adam)"
+      }
+    }
+  ]
+}

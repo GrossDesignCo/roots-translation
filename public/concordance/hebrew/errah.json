@@ -1,0 +1,33 @@
+{
+  "key": "errah",
+  "language": "hebrew",
+  "root": "arar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 29
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אֵרְרָהּ",
+        "transliteration": "errah",
+        "englishLiteral": "he-cursed",
+        "englishNatural": "cursed",
+        "root": "arar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה אֲשֶׁר **אֵרְרָהּ** יְהוָה",
+        "transliteration": "haAdamah asher **errah** YHWH",
+        "englishLiteral": "the-earth which **he-cursed** He-Who-Is (YHWH)",
+        "englishNatural": "the earth which **cursed** He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

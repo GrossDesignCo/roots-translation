@@ -1,0 +1,33 @@
+{
+  "key": "gerashta",
+  "language": "hebrew",
+  "root": "garash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "גֵּרַשְׁתָּ",
+        "transliteration": "gerashta",
+        "englishLiteral": "you-banished",
+        "englishNatural": "you have banished",
+        "root": "garash",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "הֵן **גֵּרַשְׁתָּ** אֹתִי הַיּוֹם",
+        "transliteration": "hen **gerashta** oti haYom",
+        "englishLiteral": "Behold **you-banished** ↳-me the-day",
+        "englishNatural": "Behold **you have banished** me this day"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "key": "vayomru",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַיֹּאמְרוּ",
+        "transliteration": "vaYomru",
+        "englishLiteral": "and-said",
+        "englishNatural": "and said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה וְאַהֲרֹן **וַיֹּאמְרוּ** אֶל־ פַּרְעֹה",
+        "transliteration": "Moshe veAharon **vaYomru** el- Paroh",
+        "englishLiteral": "Drawn_Out (Moses) and-Light_Bringer (Aaron) **and-said** to- Pharaoh",
+        "englishNatural": "Drawn-Out (Moses) and Light-Bringer (Aaron) **and said** to Pharaoh"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֹּאמְרוּ",
+        "transliteration": "vaYomru",
+        "englishLiteral": "And-they-said",
+        "englishNatural": "And they said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּאמְרוּ** אֱלֹהֵי הָעִבְרִים",
+        "transliteration": "**vaYomru** elohei haIvrim",
+        "englishLiteral": "**And-they-said** Gods-of the-Passes_Through (Hebrews)",
+        "englishNatural": "**And they said** The God of the Passes-Through (Hebrews)"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַיֹּאמְרוּ",
+        "transliteration": "vaYomru",
+        "englishLiteral": "and-they-said",
+        "englishNatural": "and said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל מֹשֶׁה **וַיֹּאמְרוּ** חָטָאנוּ כִּי",
+        "transliteration": "el Moshe **vaYomru** chatanu ki",
+        "englishLiteral": "to Drawn_Out (Moses) **and-they-said** we-have-sinned that",
+        "englishNatural": "to Drawn-Out (Moses) **and said** We have sinned that"
+      }
+    }
+  ]
+}

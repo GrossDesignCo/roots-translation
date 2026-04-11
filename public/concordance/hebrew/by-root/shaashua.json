@@ -1,0 +1,54 @@
+{
+  "root": "shaashua",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 30
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שַׁעֲשֻׁעִים",
+        "transliteration": "shaashuim",
+        "englishLiteral": "darlings",
+        "englishNatural": "darlings",
+        "root": "shaashua",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָמוֹן וָאֶהְיֶה **שַׁעֲשֻׁעִים** יוֹם יוֹם",
+        "transliteration": "amon vaEhyeh **shaashuim** yom yom",
+        "englishLiteral": "master_craftsman and-I-was **darlings** day day",
+        "englishNatural": "a master-craftsman and I was **darlings** day day"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 31
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְשַׁעֲשֻׁעַי",
+        "transliteration": "veShaashuai",
+        "englishLiteral": "and-my-darlings",
+        "englishNatural": "and my darlings",
+        "root": "shaashua",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּתֵבֵל אַרְצוֹ **וְשַׁעֲשֻׁעַי** אֶת־ בְּנֵי",
+        "transliteration": "beTevel artso **veShaashuai** et- benei",
+        "englishLiteral": "in-world-of his-land **and-my-darlings** ↳ sons-of",
+        "englishNatural": "in the world of his land **and my darlings** ↳ the sons of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "veakh",
+  "language": "hebrew",
+  "root": "akh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאַךְ",
+        "transliteration": "veAkh",
+        "englishLiteral": "And-only",
+        "englishNatural": "And only",
+        "root": "akh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאַךְ** אֶת־ דִּמְכֶם",
+        "transliteration": "**veAkh** et- dimkhem",
+        "englishLiteral": "**And-only** ↳ your-blood",
+        "englishNatural": "**And only** ↳ your blood"
+      }
+    }
+  ]
+}

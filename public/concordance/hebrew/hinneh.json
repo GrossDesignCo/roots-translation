@@ -1,0 +1,31 @@
+{
+  "key": "hinneh",
+  "language": "hebrew",
+  "root": "hinneh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הִנֵּה",
+        "transliteration": "hinneh",
+        "englishLiteral": "Behold",
+        "englishNatural": "Behold",
+        "root": "hinneh",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "פִּי וַיֹּאמֶר **הִנֵּה** נָגַע זֶה",
+        "transliteration": "pi vaYomer **hinneh** naga zeh",
+        "englishLiteral": "my-mouth and-he-said **Behold** has-touched this",
+        "englishNatural": "my mouth and he said **Behold** has touched this"
+      }
+    }
+  ]
+}

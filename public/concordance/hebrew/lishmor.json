@@ -1,0 +1,31 @@
+{
+  "key": "lishmor",
+  "language": "hebrew",
+  "root": "shamar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לִשְׁמֹר",
+        "transliteration": "lishMor",
+        "englishLiteral": "to-keep",
+        "englishNatural": "to keep",
+        "root": "shamar",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "הַחֶרֶב הַמִּתְהַפֶּכֶת **לִשְׁמֹר** אֶת־ דֶּרֶךְ",
+        "transliteration": "haCherev haMithapekhet **lishMor** et- derekh",
+        "englishLiteral": "the-sword the-overturning **to-keep** ↳ way",
+        "englishNatural": "the Sword the Overturning **to keep** ↳ the way"
+      }
+    }
+  ]
+}

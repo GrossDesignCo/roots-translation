@@ -1,0 +1,31 @@
+{
+  "key": "vehamabbul",
+  "language": "hebrew",
+  "root": "mabbul",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְהַמַּבּוּל",
+        "transliteration": "veHaMabbul",
+        "englishLiteral": "and-the-flood",
+        "englishNatural": "and the flood",
+        "root": "mabbul",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאוֹת שָׁנָה **וְהַמַּבּוּל** הָיָה מַיִם",
+        "transliteration": "meot shanah **veHaMabbul** hayah mayim",
+        "englishLiteral": "hundreds year **and-the-flood** it-was waters",
+        "englishNatural": "hundred years **and the flood** was waters"
+      }
+    }
+  ]
+}

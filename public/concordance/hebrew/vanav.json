@@ -1,0 +1,103 @@
+{
+  "key": "vanav",
+  "language": "hebrew",
+  "root": "ben",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בָנָיו",
+        "transliteration": "vanav",
+        "englishLiteral": "sons-his",
+        "englishNatural": "his sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאִשְׁתּוֹ וּנְשֵׁי־ **בָנָיו** אִתּוֹ אֶל־",
+        "transliteration": "veIshto uNeshey- **vanav** itto el-",
+        "englishLiteral": "and-woman-his and-women-of- **sons-his** with-him to-",
+        "englishNatural": "and his woman and the women of **his sons** with him to"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "בָנָיו",
+        "transliteration": "vanav",
+        "englishLiteral": "sons-his",
+        "englishNatural": "his sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּשְׁלֹשֶׁת נְשֵׁי־ **בָנָיו** אִתָּם אֶל־",
+        "transliteration": "uShloshet neshey- **vanav** ittam el-",
+        "englishLiteral": "and-three-of women-of- **sons-his** with-them to-",
+        "englishNatural": "and the three women of **his sons** with them to"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "בָנָֽיו׃",
+        "transliteration": "vanav",
+        "englishLiteral": "sons-his",
+        "englishNatural": "his sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י **בָנָֽיו׃**",
+        "transliteration": "veIshto usheney **vanav**",
+        "englishLiteral": "and-woman-his and-two-of **sons-his**",
+        "englishNatural": "and his woman and the two of **his sons**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בָנָ֣יו",
+        "transliteration": "vanav",
+        "englishLiteral": "sons-his",
+        "englishNatural": "his sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֵׁ֥ם שְׁנֵֽי־ **בָנָ֣יו** מַחְל֤וֹן וְכִלְיוֹן֙",
+        "transliteration": "veShem sheney- **vanav** Machlon veKhilyon",
+        "englishLiteral": "and-name-of two-of- **sons-his** Sickness (Mahlon) and-Wasting (Chilion)",
+        "englishNatural": "and the name of the two of **his sons** Sickness (Mahlon) and Wasting (Chilion)"
+      }
+    }
+  ]
+}

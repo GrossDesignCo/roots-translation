@@ -1,0 +1,422 @@
+{
+  "root": "davar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּדְבָרִים",
+        "transliteration": "uDevarim",
+        "englishLiteral": "and-words",
+        "englishNatural": "words",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׂפָה אֶחָת **וּדְבָרִים** אֲחָדִים",
+        "transliteration": "safah echat **uDevarim** achadim",
+        "englishLiteral": "lip one **and-words** ones",
+        "englishNatural": "lip one **words** and of one"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַדְּבָרִים",
+        "transliteration": "haDvarim",
+        "englishLiteral": "the-words",
+        "englishNatural": "words",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַחַר **הַדְּבָרִים** הָאֵלֶּה הָיָה",
+        "transliteration": "achar **haDvarim** haEleh hayah",
+        "englishLiteral": "After **the-words** the-these was",
+        "englishNatural": "After **words** these was"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "דְבַר־",
+        "transliteration": "devar-",
+        "englishLiteral": "word-of-",
+        "englishNatural": "the word of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֵלֶּה הָיָה **דְבַר־** יְהוָה אֶל־",
+        "transliteration": "haEleh hayah **devar-** YHWH el-",
+        "englishLiteral": "the-these was **word-of-** He_Who_Is (YHWH) to-",
+        "englishNatural": "these was **the word of** He-Who-Is (YHWH) to"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "דְבַר־",
+        "transliteration": "devar-",
+        "englishLiteral": "word-of-",
+        "englishNatural": "the word of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִנֵּה **דְבַר־** יְהוָה אֵלָיו",
+        "transliteration": "veHineh **devar-** YHWH elav",
+        "englishLiteral": "And-behold **word-of-** He_Who_Is (YHWH) to-him",
+        "englishNatural": "And behold **the word of** He-Who-Is (YHWH) came to him"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְדַבֵּר",
+        "transliteration": "vayDaber",
+        "englishLiteral": "And-spoke",
+        "englishNatural": "spoke",
+        "root": "davar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְדַבֵּר** אֱלֹהִים אֶל־",
+        "transliteration": "**vayDaber** Elohim el-",
+        "englishLiteral": "**And-spoke** Gods to-",
+        "englishNatural": "**spoke** And God to"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "תְדַבֵּר",
+        "transliteration": "tedaber",
+        "englishLiteral": "will-speak",
+        "englishNatural": "will speak",
+        "root": "davar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אַתָּה **תְדַבֵּר** אֵת כָּל־",
+        "transliteration": "atah **tedaber** et kol-",
+        "englishLiteral": "you **will-speak** ↳ all-",
+        "englishNatural": "You **will speak** ↳ all"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יְדַבֵּר",
+        "transliteration": "yedaber",
+        "englishLiteral": "will-speak",
+        "englishNatural": "will speak",
+        "root": "davar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַהֲרֹן אָחִיךָ **יְדַבֵּר** אֶל־ פַּרְעֹה",
+        "transliteration": "veAharon achicha **yedaber** el- Paroh",
+        "englishLiteral": "and-Light_Bringer (Aaron) brother-your **will-speak** to- Pharaoh",
+        "englishNatural": "and Light-Bringer (Aaron) your brother **will speak** to Pharaoh"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יְדַבֵּר",
+        "transliteration": "yedaber",
+        "englishLiteral": "will-speak",
+        "englishNatural": "will speak",
+        "root": "davar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי **יְדַבֵּר** אֲלֵכֶם פַּרְעֹה",
+        "transliteration": "ki **yedaber** alekhem Paroh",
+        "englishLiteral": "that **will-speak** to-you Pharaoh",
+        "englishNatural": "That **will speak** to you Pharaoh"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "דִּבְרֵי",
+        "transliteration": "divre",
+        "englishLiteral": "words-of",
+        "englishNatural": "words of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מָשָׁל וּמְלִיצָה **דִּבְרֵי** חֲכָמִים וְחִידֹתָם",
+        "transliteration": "mashal uMelitzah **divre** chachamim veChidotam",
+        "englishLiteral": "rule and-interpretation **words-of** wise-men and-sharp_sayings-their",
+        "englishNatural": "a rule and the interpretation **words of** wise men and their sharp-sayings"
+      }
+    },
+    {
+      "location": {
+        "book": "Ecclesiastes",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "דִּבְרֵי֙",
+        "transliteration": "divRey",
+        "englishLiteral": "Words-of",
+        "englishNatural": "The words of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**דִּבְרֵי֙** קֹהֶ֣לֶת בֶּן־",
+        "transliteration": "**divRey** qohelet ben-",
+        "englishLiteral": "**Words-of** Assembler son-of",
+        "englishNatural": "**The words of** Assembler the son of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "דְבַר־",
+        "transliteration": "devar-",
+        "englishLiteral": "word-of-",
+        "englishNatural": "The word of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיֹה הָיָה **דְבַר־** יְהוָה אֶל־",
+        "transliteration": "hayo hayah **devar-** YHWH el-",
+        "englishLiteral": "Being was **word-of-** He_Who_Is (YHWH) to-",
+        "englishNatural": "being was **The word of** He-Who-Is (YHWH) to"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "דְּבַר",
+        "transliteration": "devar",
+        "englishLiteral": "matter-of",
+        "englishNatural": "the matters of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְכָל־ **דְּבַר** חָכְמַת בִּינָה",
+        "transliteration": "uVeKol- **devar** chokhmat binah",
+        "englishLiteral": "and-in-all- **matter-of** wisdom-of understanding",
+        "englishNatural": "And in all **the matters of** the wisdom of understanding"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "דְבַר־",
+        "transliteration": "devar-",
+        "englishLiteral": "word-of",
+        "englishNatural": "And the word of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **דְבַר־** יְהוָה אֶל־",
+        "transliteration": "vaYehi **devar-** YHWH el-",
+        "englishLiteral": "And-was **word-of** He_Who_Is (YHWH) to-",
+        "englishNatural": "was **And the word of** He-Who-Is (YHWH) to"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "דְבַר־",
+        "transliteration": "devar-",
+        "englishLiteral": "word-of",
+        "englishNatural": "And the word of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **דְבַר־** יְהוָה אֶל־",
+        "transliteration": "vaYehi **devar-** YHWH el-",
+        "englishLiteral": "And-was **word-of** He_Who_Is (YHWH) to-",
+        "englishNatural": "was **And the word of** He-Who-Is (YHWH) to"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "כִּדְבַר",
+        "transliteration": "kidvar",
+        "englishLiteral": "according-to-word-of",
+        "englishNatural": "according to the word of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ נִינְוֵה **כִּדְבַר** יְהוָה וְנִינְוֵה",
+        "transliteration": "el- Nineveh **kidvar** YHWH veNineveh",
+        "englishLiteral": "to- Dwelling_of_Fish (Nineveh) **according-to-word-of** He_Who_Is (YHWH) And-Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "to Dwelling-of-Fish (Nineveh) **according to the word of** He-Who-Is (YHWH) And Dwelling-of-Fish (Nineveh)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַדָּבָר",
+        "transliteration": "haDavar",
+        "englishLiteral": "the-word",
+        "englishNatural": "And the word",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּגַּע **הַדָּבָר** אֶל־ מֶלֶךְ",
+        "transliteration": "vaYiga **haDavar** el- melekh",
+        "englishLiteral": "And-touched **the-word** to- king-of",
+        "englishNatural": "touched **And the word** to the king of"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "דְבָרִי",
+        "transliteration": "devari",
+        "englishLiteral": "word-my",
+        "englishNatural": "my word",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲלוֹא־ זֶה **דְבָרִי** עַד־ הֱיוֹתִי",
+        "transliteration": "halo- zeh **devari** ad- heyoti",
+        "englishLiteral": "is-not- this **word-my** unto- being-my",
+        "englishNatural": "was not this **my word** unto I was"
+      }
+    }
+  ]
+}

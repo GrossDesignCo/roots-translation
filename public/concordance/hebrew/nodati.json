@@ -1,0 +1,33 @@
+{
+  "key": "nodati",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "נוֹדַעְתִּי",
+        "transliteration": "nodati",
+        "englishLiteral": "was-known",
+        "englishNatural": "was known",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה לֹא **נוֹדַעְתִּי** לָהֶם",
+        "transliteration": "YHWH lo **nodati** lahem",
+        "englishLiteral": "He_Who_Is (YHWH) not **was-known** to-them",
+        "englishNatural": "He-Who-Is (YHWH) not **was known** to them"
+      }
+    }
+  ]
+}

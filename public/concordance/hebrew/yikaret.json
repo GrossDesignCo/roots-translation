@@ -1,0 +1,33 @@
+{
+  "key": "yikaret",
+  "language": "hebrew",
+  "root": "karat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 11
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יִכָּרֵת",
+        "transliteration": "yikaret",
+        "englishLiteral": "it-will-be-cut",
+        "englishNatural": "will be cut",
+        "root": "karat",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "אִתְּכֶם וְלֹא־ **יִכָּרֵת** כָּל־ בָּשָׂר",
+        "transliteration": "itkhem veLo- **yikaret** kol- basar",
+        "englishLiteral": "with-you and-not- **it-will-be-cut** all- flesh",
+        "englishNatural": "with you and not **will be cut** all flesh"
+      }
+    }
+  ]
+}

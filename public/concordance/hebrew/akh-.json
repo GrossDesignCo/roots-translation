@@ -1,0 +1,31 @@
+{
+  "key": "akh-",
+  "language": "hebrew",
+  "root": "akh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "אַךְ־",
+        "transliteration": "akh-",
+        "englishLiteral": "Only-",
+        "englishNatural": "Only",
+        "root": "akh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**אַךְ־** בָּשָׂר בְּנַפְשׁוֹ",
+        "transliteration": "**akh-** basar beNafsho",
+        "englishLiteral": "**Only-** flesh in-its-wind",
+        "englishNatural": "**Only** flesh in its wind"
+      }
+    }
+  ]
+}

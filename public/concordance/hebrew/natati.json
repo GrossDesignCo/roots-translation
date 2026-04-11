@@ -1,0 +1,111 @@
+{
+  "key": "natati",
+  "language": "hebrew",
+  "root": "natan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "נָתַ֨תִּי",
+        "transliteration": "natati",
+        "englishLiteral": "I-give",
+        "englishNatural": "I give",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֗ים הִנֵּה֩ **נָתַ֨תִּי** לָכֶ֜ם אֶת־",
+        "transliteration": "Elohim hineh **natati** lakhem et-",
+        "englishLiteral": "Gods Behold **I-give** to-you ↳",
+        "englishNatural": "And God Behold **I give** to you ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 3
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "נָתַתִּי",
+        "transliteration": "natati",
+        "englishLiteral": "I-have-given",
+        "englishNatural": "I have given",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כְּיֶרֶק עֵשֶׂב **נָתַתִּי** לָכֶם אֶת־",
+        "transliteration": "keYereq esev **natati** lakhem et-",
+        "englishLiteral": "like-green-of herb **I-have-given** to-you ↳",
+        "englishNatural": "like the green of herb **I have given** to you ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 13
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "נָתַתִּי",
+        "transliteration": "natati",
+        "englishLiteral": "I-have-given",
+        "englishNatural": "I have given",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ קַשְׁתִּי **נָתַתִּי** בֶּעָנָן וְהָיְתָה",
+        "transliteration": "et- qashti **natati** beAnan veHayetah",
+        "englishLiteral": "↳ my-bow **I-have-given** in-cloud and-she-will-be",
+        "englishNatural": "↳ My bow **I have given** in the cloud and it will be"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 18
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "נָתַתִּי",
+        "transliteration": "natati",
+        "englishLiteral": "I-gave",
+        "englishNatural": "I have given",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֵאמֹר לְזַרְעֲךָ **נָתַתִּי** אֶת־ הָאָרֶץ",
+        "transliteration": "lemor leZarakha **natati** et- haAretz",
+        "englishLiteral": "to-say to-seed-of-you **I-gave** ↳ the-land",
+        "englishNatural": "saying To your seed **I have given** ↳ the land"
+      }
+    }
+  ]
+}

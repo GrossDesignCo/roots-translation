@@ -1,0 +1,31 @@
+{
+  "key": "adamah",
+  "language": "hebrew",
+  "root": "adamah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אֲדָמָה",
+        "transliteration": "adamah",
+        "englishLiteral": "earth",
+        "englishNatural": "of earth",
+        "root": "adamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיָה עֹבֵד **אֲדָמָה**",
+        "transliteration": "hayah oved **adamah**",
+        "englishLiteral": "was servant **earth**",
+        "englishNatural": "was a servant **of earth**"
+      }
+    }
+  ]
+}

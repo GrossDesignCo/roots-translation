@@ -1,0 +1,54 @@
+{
+  "root": "miqneh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וּמִקְנֶה",
+        "transliteration": "uMiqneh",
+        "englishLiteral": "and-cattle",
+        "englishNatural": "and cattle",
+        "root": "miqneh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֹשֵׁב אֹהֶל **וּמִקְנֶה**",
+        "transliteration": "yoshev ohel **uMiqneh**",
+        "englishLiteral": "dwelling tent **and-cattle**",
+        "englishNatural": "dwelling tent **and cattle**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מִקְנֵנוּ",
+        "transliteration": "miqnenu",
+        "englishLiteral": "livestock-our",
+        "englishNatural": "our livestock",
+        "root": "miqneh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגַם־ **מִקְנֵנוּ** יֵלֵךְ עִמָּנוּ",
+        "transliteration": "veGam- **miqnenu** yelekh imanu",
+        "englishLiteral": "and-also- **livestock-our** will-go with-us",
+        "englishNatural": "And also **our livestock** will go with us"
+      }
+    }
+  ]
+}

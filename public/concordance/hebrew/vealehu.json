@@ -1,0 +1,31 @@
+{
+  "key": "vealehu",
+  "language": "hebrew",
+  "root": "aleh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְעָלֵהוּ",
+        "transliteration": "veAlehu",
+        "englishLiteral": "and-its-leaf",
+        "englishNatural": "and its leaf",
+        "root": "aleh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִתֵּן בְּעִתּוֹ **וְעָלֵהוּ** לֹא יִבּוֹל",
+        "transliteration": "yiten beIto **veAlehu** lo yibol",
+        "englishLiteral": "it-gives in-its-season **and-its-leaf** not it-withers",
+        "englishNatural": "gives in its season **and its leaf** not withers"
+      }
+    }
+  ]
+}

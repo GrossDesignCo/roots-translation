@@ -1,0 +1,31 @@
+{
+  "key": "ruchi",
+  "language": "hebrew",
+  "root": "ruach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "רוּחִי",
+        "transliteration": "ruchi",
+        "englishLiteral": "my-wind",
+        "englishNatural": "My Wind",
+        "root": "ruach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ יָדוֹן **רוּחִי** בָאָדָם לְעֹלָם",
+        "transliteration": "lo- yadon **ruchi** baAdam leOlam",
+        "englishLiteral": "not- will-judge **my-wind** in-Earthling (Adam) to-the_age",
+        "englishNatural": "not will judge **My Wind** in Earthling (Adam) to the-age"
+      }
+    }
+  ]
+}

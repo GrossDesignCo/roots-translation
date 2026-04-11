@@ -1,0 +1,33 @@
+{
+  "key": "yeshalach",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "יְשַׁלַּ֥ח",
+        "transliteration": "yeShalach",
+        "englishLiteral": "he-will-send_out",
+        "englishNatural": "he will send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אַחֲרֵי־ כֵ֕ן **יְשַׁלַּ֥ח** אֶתְכֶ֖ם מִזֶּ֑ה",
+        "transliteration": "acharei- ken **yeShalach** etkhem mizeh",
+        "englishLiteral": "after- so **he-will-send_out** ↳-you from-this",
+        "englishNatural": "after so **he will send-out** you from this"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "bin",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לְהָבִין",
+        "transliteration": "lehavin",
+        "englishLiteral": "To-understand",
+        "englishNatural": "To understand",
+        "root": "bin",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "חָכְמָה וּמוּסָר **לְהָבִין** אִמְרֵי בִינָה",
+        "transliteration": "chokmah umusar **lehavin** imre binah",
+        "englishLiteral": "Wisdom and-Discipline **To-understand** words-of understanding",
+        "englishNatural": "Wisdom and Discipline **To understand** words of understanding"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "לְהָבִין",
+        "transliteration": "lehavin",
+        "englishLiteral": "To-understand",
+        "englishNatural": "To understand",
+        "root": "bin",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**לְהָבִין** מָשָׁל וּמְלִיצָה",
+        "transliteration": "**lehavin** mashal uMelitzah",
+        "englishLiteral": "**To-understand** rule and-interpretation",
+        "englishNatural": "**To understand** a rule and the interpretation"
+      }
+    }
+  ]
+}

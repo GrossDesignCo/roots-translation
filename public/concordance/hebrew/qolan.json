@@ -1,0 +1,31 @@
+{
+  "key": "qolan",
+  "language": "hebrew",
+  "root": "qol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "קוֹלָ֖ן",
+        "transliteration": "qolan",
+        "englishLiteral": "voice-their",
+        "englishNatural": "their voice",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶ֔ן וַתִּשֶּׂ֥אנָה **קוֹלָ֖ן** וַתִּבְכֶּֽינָה",
+        "transliteration": "lahen vatTissenah **qolan** vatTivkeynah",
+        "englishLiteral": "to-them and-lifted **voice-their** and-wept",
+        "englishNatural": "to them and they lifted **their voice** and wept"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "key": "remes",
+  "language": "hebrew",
+  "root": "ramas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 25
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "רֶ֥מֶשׂ",
+        "transliteration": "remes",
+        "englishLiteral": "crawler",
+        "englishNatural": "crawler",
+        "root": "ramas",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵ֛ת כָּל־ **רֶ֥מֶשׂ** הָֽאֲדָמָ֖ה לְמִינֵ֖הוּ",
+        "transliteration": "veEt kol- **remes** haAdamah leMinehu",
+        "englishLiteral": "And-↳ all **crawler** the-earth to-its-kind",
+        "englishNatural": "And all **crawler** the earth to its kind"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "רֶמֶשׂ",
+        "transliteration": "remes",
+        "englishLiteral": "creeping_thing",
+        "englishNatural": "creeping-thing",
+        "root": "remes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּהֵמָה עַד־ **רֶמֶשׂ** וְעַד־ עוֹף",
+        "transliteration": "behemah ad- **remes** vead- oph",
+        "englishLiteral": "beast unto- **creeping_thing** and-unto- bird-of",
+        "englishNatural": "beast unto **creeping-thing** and unto bird of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 20
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "רֶמֶשׂ",
+        "transliteration": "remes",
+        "englishLiteral": "creeping_thing-of",
+        "englishNatural": "creeping-thing of",
+        "root": "remes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִינָהּ מִכֹּל **רֶמֶשׂ** הָאֲדָמָה לְמִינֵהוּ",
+        "transliteration": "leMina mikol **remes** haAdamah leMinehu",
+        "englishLiteral": "to-kind-her from-all **creeping_thing-of** the-earth to-kind-his",
+        "englishNatural": "to its kind from all **creeping-thing of** the earth to its kind"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "רֶמֶשׂ",
+        "transliteration": "remes",
+        "englishLiteral": "creeper",
+        "englishNatural": "creeper",
+        "root": "ramas",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ **רֶמֶשׂ** אֲשֶׁר הוּא־",
+        "transliteration": "kol- **remes** asher hu-",
+        "englishLiteral": "All- **creeper** which it-",
+        "englishNatural": "All **creeper** which it"
+      }
+    }
+  ]
+}

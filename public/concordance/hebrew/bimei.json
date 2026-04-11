@@ -1,0 +1,31 @@
+{
+  "key": "bimei",
+  "language": "hebrew",
+  "root": "meah_bowels",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בִּמְעֵי",
+        "transliteration": "bimei",
+        "englishLiteral": "in-bowels-of",
+        "englishNatural": "in the bowels of",
+        "root": "meah_bowels",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי יוֹנָה **בִּמְעֵי** הַדָּג שְׁלֹשָׁה",
+        "transliteration": "vaYehi Yonah **bimei** haDag shloshah",
+        "englishLiteral": "And-was Dove (Jonah) **in-bowels-of** the-fish three",
+        "englishNatural": "was And Dove (Jonah) **in the bowels of** the fish three"
+      }
+    }
+  ]
+}

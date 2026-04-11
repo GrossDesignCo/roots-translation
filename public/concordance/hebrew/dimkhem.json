@@ -1,0 +1,31 @@
+{
+  "key": "dimkhem",
+  "language": "hebrew",
+  "root": "dam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "דִּמְכֶם",
+        "transliteration": "dimkhem",
+        "englishLiteral": "your-blood",
+        "englishNatural": "your blood",
+        "root": "dam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַךְ אֶת־ **דִּמְכֶם** לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ",
+        "transliteration": "veAkh et- **dimkhem** leNafshotekhem edrosh",
+        "englishLiteral": "And-only ↳ **your-blood** for-your-winds I-will-require",
+        "englishNatural": "And only ↳ **your blood** for your winds I will require"
+      }
+    }
+  ]
+}

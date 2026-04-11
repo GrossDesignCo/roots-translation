@@ -1,0 +1,31 @@
+{
+  "key": "mattotam",
+  "language": "hebrew",
+  "root": "mateh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 12
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מַטֹּתָם",
+        "transliteration": "mattotam",
+        "englishLiteral": "branches-their",
+        "englishNatural": "their branches",
+        "root": "mateh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַהֲרֹן אֶת־ **מַטֹּתָם**",
+        "transliteration": "Aharon et- **mattotam**",
+        "englishLiteral": "Light_Bringer (Aaron) ↳ **branches-their**",
+        "englishNatural": "Light-Bringer (Aaron) ↳ **their branches**"
+      }
+    }
+  ]
+}

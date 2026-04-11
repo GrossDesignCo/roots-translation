@@ -1,0 +1,30 @@
+{
+  "root": "qen",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 14
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "קִנִּים",
+        "transliteration": "qinnim",
+        "englishLiteral": "nests",
+        "englishNatural": "nests",
+        "root": "qen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֲצֵי־ גֹפֶר **קִנִּים** תַּעֲשֶׂה אֶת־",
+        "transliteration": "atsey- gopher **qinnim** taAseh et-",
+        "englishLiteral": "trees-of- gopher **nests** you-shall-make ↳",
+        "englishNatural": "trees of gopher **nests** you shall make ↳"
+      }
+    }
+  ]
+}

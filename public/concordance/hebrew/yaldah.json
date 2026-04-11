@@ -1,0 +1,33 @@
+{
+  "key": "yaldah",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "יָלְדָה",
+        "transliteration": "yaldah",
+        "englishLiteral": "bore",
+        "englishNatural": "bore",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "גַם־ הִוא **יָלְדָה** אֶת־ תּוּבַל קַיִן",
+        "transliteration": "gam- hi **yaldah** et- Tuval Qayin",
+        "englishLiteral": "also- she **bore** ↳ World Aquired (Tubal Cain)",
+        "englishNatural": "also she **bore** ↳ World Aquired (Tubal Cain)"
+      }
+    }
+  ]
+}

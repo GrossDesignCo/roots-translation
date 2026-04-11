@@ -1,0 +1,33 @@
+{
+  "key": "lenasakah",
+  "language": "aramaic",
+  "root": "nesakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 46
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לְנַסָּכָה",
+        "transliteration": "leNasakah",
+        "englishLiteral": "to-pour_out",
+        "englishNatural": "to pour-out",
+        "root": "nesakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive",
+          "stem": "pael"
+        }
+      },
+      "context": {
+        "hebrew": "וְנִיחוֹחִין אֲמַר **לְנַסָּכָה** לֵהּ",
+        "transliteration": "veNichochin amar **leNasakah** leh",
+        "englishLiteral": "and-soothing_aromas he-said **to-pour_out** to-him",
+        "englishNatural": "and soothing-aromas he had said **to pour-out** to him"
+      }
+    }
+  ]
+}

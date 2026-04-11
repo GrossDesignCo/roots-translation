@@ -1,0 +1,31 @@
+{
+  "key": "haqeshet",
+  "language": "hebrew",
+  "root": "qeshet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַקֶּשֶׁת",
+        "transliteration": "haQeshet",
+        "englishLiteral": "the-bow",
+        "englishNatural": "the bow",
+        "root": "qeshet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּמַרְאֵה **הַקֶּשֶׁת** אֲשֶׁר יִהְיֶה",
+        "transliteration": "keMareeh **haQeshet** asher yihyeh",
+        "englishLiteral": "like-appearance-of **the-bow** which it-is",
+        "englishNatural": "Like the appearance of **the bow** which is"
+      }
+    }
+  ]
+}

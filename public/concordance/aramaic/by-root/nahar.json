@@ -1,0 +1,30 @@
+{
+  "root": "nahar",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "נְהַ֣ר",
+        "transliteration": "nehar",
+        "englishLiteral": "river",
+        "englishNatural": "A river",
+        "root": "nahar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**נְהַ֣ר** דִּי־ נ֗וּר",
+        "transliteration": "**nehar** di- nur",
+        "englishLiteral": "**river** of- fire",
+        "englishNatural": "**A river** of fire"
+      }
+    }
+  ]
+}

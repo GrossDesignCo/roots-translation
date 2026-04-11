@@ -1,0 +1,31 @@
+{
+  "key": "moftai",
+  "language": "hebrew",
+  "root": "mofet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מוֹפְתַי",
+        "transliteration": "moftai",
+        "englishLiteral": "wonders-my",
+        "englishNatural": "my wonders",
+        "root": "mofet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֹתֹתַי וְאֶת־ **מוֹפְתַי** בְּאֶרֶץ מִצְרָיִם",
+        "transliteration": "ototai veEt- **moftai** beEretz Mitzrayim",
+        "englishLiteral": "signs-my and-↳ **wonders-my** in-land-of Double_Narrows (Egypt)",
+        "englishNatural": "my signs and **my wonders** in the land of Double-Narrows (Egypt)"
+      }
+    }
+  ]
+}

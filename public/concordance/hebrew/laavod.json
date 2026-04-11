@@ -1,0 +1,83 @@
+{
+  "key": "laavod",
+  "language": "hebrew",
+  "root": "avad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "לַעֲבֹד",
+        "transliteration": "laAvod",
+        "englishLiteral": "to-serve",
+        "englishNatural": "to serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאָדָם אַיִן **לַעֲבֹד** אֶת הָאֲדָמָה׃",
+        "transliteration": "veAdam ayin **laAvod** et haAdamah",
+        "englishLiteral": "and-Earthling (Adam) not_exist **to-serve** ↳ the-earth",
+        "englishNatural": "and Earthling (Adam) was not there **to serve** ↳ the earth"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 23
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לַעֲבֹד",
+        "transliteration": "laAvod",
+        "englishLiteral": "to-serve",
+        "englishNatural": "to serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "מִגַּן־ עֵדֶן **לַעֲבֹד** אֶת־ הָאֲדָמָה",
+        "transliteration": "miGan- Eden **laAvod** et- haAdamah",
+        "englishLiteral": "from-Garden Delight (Eden) **to-serve** ↳ the-earth",
+        "englishNatural": "from Garden of Delight (Eden) **to serve** ↳ the earth"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "לַעֲבֹד",
+        "transliteration": "laAvod",
+        "englishLiteral": "to-serve",
+        "englishNatural": "to serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִמֶּנּוּ נִקַּח **לַעֲבֹד** אֶת־ יְהוָה",
+        "transliteration": "mimenu niqqach **laAvod** et- YHWH",
+        "englishLiteral": "from-it will-take **to-serve** ↳ He_Who_Is (YHWH)",
+        "englishNatural": "from it we will take **to serve** ↳ He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

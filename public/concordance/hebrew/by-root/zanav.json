@@ -1,0 +1,30 @@
+{
+  "root": "zanav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בִּזְנָבוֹ",
+        "transliteration": "biZnavo",
+        "englishLiteral": "in-tail-its",
+        "englishNatural": "its tail",
+        "root": "zanav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָדְךָ וֶאֱחֹז **בִּזְנָבוֹ** וַיִּשְׁלַח יָדוֹ",
+        "transliteration": "yadkha veEchoz **biZnavo** vaYishlach yado",
+        "englishLiteral": "hand-your and-seize **in-tail-its** And-sent hand-his",
+        "englishNatural": "your hand and seize **its tail** And he sent-out his hand"
+      }
+    }
+  ]
+}

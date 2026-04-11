@@ -1,0 +1,33 @@
+{
+  "key": "haqore",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַקּוֹרֵ֑א",
+        "transliteration": "haQore",
+        "englishLiteral": "the-caller",
+        "englishNatural": "the caller",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַסִּפִּ֔ים מִקּ֖וֹל **הַקּוֹרֵ֑א** וְהַבַּ֖יִת יִמָּלֵ֥א",
+        "transliteration": "haSippim miQol **haQore** veHaBayit yimale",
+        "englishLiteral": "the-thresholds from-voice **the-caller** and-the-house was-filled",
+        "englishNatural": "the thresholds from the voice of **the caller** and the house was filled with"
+      }
+    }
+  ]
+}

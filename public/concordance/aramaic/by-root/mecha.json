@@ -1,0 +1,58 @@
+{
+  "root": "mecha",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 34
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וּמְחָת",
+        "transliteration": "uMechat",
+        "englishLiteral": "and-struck",
+        "englishNatural": "and struck",
+        "root": "mecha",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "לָא בִידַיִן **וּמְחָת** לְצַלְמָא עַל",
+        "transliteration": "la biDayin **uMechat** leTsalma al",
+        "englishLiteral": "not in-hands **and-struck** to-image-the over",
+        "englishNatural": "was not in hands **and struck** to the image over"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "מְחָת",
+        "transliteration": "mechat",
+        "englishLiteral": "struck",
+        "englishNatural": "struck",
+        "root": "mecha",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַבְנָא דִּי **מְחָת** לְצַלְמָא הֲוָת",
+        "transliteration": "veAvna di **mechat** leTsalma havat",
+        "englishLiteral": "and-the-stone that **struck** to-the-image became",
+        "englishNatural": "And the stone that **struck** the image became"
+      }
+    }
+  ]
+}

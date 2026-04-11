@@ -1,0 +1,33 @@
+{
+  "key": "vayevater",
+  "language": "hebrew",
+  "root": "batar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וַיְבַתֵּר",
+        "transliteration": "vayevater",
+        "englishLiteral": "and-he-divided",
+        "englishNatural": "and divided",
+        "root": "batar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ אֵלֶּה **וַיְבַתֵּר** אֹתָם בַּתָּוֶךְ",
+        "transliteration": "kol- eleh **vayevater** otam batavekh",
+        "englishLiteral": "all-of- these **and-he-divided** ↳ them in-midst",
+        "englishNatural": "all these **and divided** them in the midst"
+      }
+    }
+  ]
+}

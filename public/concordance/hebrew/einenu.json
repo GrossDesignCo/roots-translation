@@ -1,0 +1,31 @@
+{
+  "key": "einenu",
+  "language": "hebrew",
+  "root": "ayin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "אֵינֶנּוּ",
+        "transliteration": "einenu",
+        "englishLiteral": "not_exist-it",
+        "englishNatural": "was not",
+        "root": "ayin",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "בָּאֵשׁ וְהַסְּנֶה **אֵינֶנּוּ** אֻכָּל",
+        "transliteration": "baEsh vehaSeneh **einenu** ukkal",
+        "englishLiteral": "in-fire and-the-thornbush **not_exist-it** consumed",
+        "englishNatural": "in fire and the thornbush **was not** consumed"
+      }
+    }
+  ]
+}

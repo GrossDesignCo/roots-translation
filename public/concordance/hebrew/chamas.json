@@ -1,0 +1,55 @@
+{
+  "key": "chamas",
+  "language": "hebrew",
+  "root": "chamas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "חָמָס",
+        "transliteration": "chamas",
+        "englishLiteral": "violence",
+        "englishNatural": "violence",
+        "root": "chamas",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּמָּלֵא הָאָרֶץ **חָמָס**",
+        "transliteration": "vatTimale haAretz **chamas**",
+        "englishLiteral": "and-it-filled the-land **violence**",
+        "englishNatural": "filled-with and the land **violence**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "חָמָס",
+        "transliteration": "chamas",
+        "englishLiteral": "violence",
+        "englishNatural": "violence",
+        "root": "chamas",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מָלְאָה הָאָרֶץ **חָמָס** מִפְּנֵיהֶם וְהִנְנִי",
+        "transliteration": "maleah haAretz **chamas** mipPneihem veHineni",
+        "englishLiteral": "is-full the-land **violence** from-faces-their and-behold-me",
+        "englishNatural": "is full of the land **violence** from their faces and behold me"
+      }
+    }
+  ]
+}

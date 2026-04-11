@@ -1,0 +1,31 @@
+{
+  "root": "deo",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "ἔδησεν",
+        "transliteration": "edēsen",
+        "englishLiteral": "he-bound",
+        "englishNatural": "he bound",
+        "root": "deo",
+        "morphology": {
+          "type": "verb",
+          "tense": "aorist"
+        }
+      },
+      "context": {
+        "hebrew": "Σατανᾶς καὶ **ἔδησεν** αὐτὸν χίλια",
+        "transliteration": "Satanas kai **edēsen** auton chilia",
+        "englishLiteral": "Adversary and **he-bound** him thousand",
+        "englishNatural": "Adversary and **he bound** him a thousand"
+      }
+    }
+  ]
+}

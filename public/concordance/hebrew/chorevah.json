@@ -1,0 +1,31 @@
+{
+  "key": "chorevah",
+  "language": "hebrew",
+  "root": "chorev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "חֹרֵבָה",
+        "transliteration": "Chorevah",
+        "englishLiteral": "Desolate (Horeb)",
+        "englishNatural": "Desolate (Horeb)",
+        "root": "chorev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַר הָאֱלֹהִים **חֹרֵבָה**",
+        "transliteration": "har haElohim **Chorevah**",
+        "englishLiteral": "mountain-of the-Gods **Desolate (Horeb)**",
+        "englishNatural": "the mountain of the God **Desolate (Horeb)**"
+      }
+    }
+  ]
+}

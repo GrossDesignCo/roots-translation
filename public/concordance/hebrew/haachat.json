@@ -1,0 +1,55 @@
+{
+  "key": "haachat",
+  "language": "hebrew",
+  "root": "echad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 19
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הָאַחַת",
+        "transliteration": "haAchat",
+        "englishLiteral": "the-one",
+        "englishNatural": "of the one",
+        "root": "echad",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "נָשִׁים שֵׁם **הָאַחַת** עָדָה וְשֵׁם",
+        "transliteration": "nashim shem **haAchat** Adah veShem",
+        "englishLiteral": "women name **the-one** Ornament (Adah) and-name",
+        "englishNatural": "women the name **of the one** Ornament (Adah) and the name"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הָֽאַחַת֙",
+        "transliteration": "haAchat",
+        "englishLiteral": "the-one",
+        "englishNatural": "the one",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "מֹֽאֲבִיּ֨וֹת שֵׁ֤ם **הָֽאַחַת֙** עָרְפָּ֔ה וְשֵׁ֥ם",
+        "transliteration": "Moaviyot shem **haAchat** Orpah veShem",
+        "englishLiteral": "Moabite_Women name-of **the-one** Neck (Orpah) and-name-of",
+        "englishNatural": "Moabite-Women the name of **the one** Neck (Orpah) and the name of"
+      }
+    }
+  ]
+}

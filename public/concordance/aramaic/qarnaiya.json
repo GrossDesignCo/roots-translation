@@ -1,0 +1,31 @@
+{
+  "key": "qarnaiya",
+  "language": "aramaic",
+  "root": "qeren",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "קַרְנַיָּא֙",
+        "transliteration": "qarnaiya",
+        "englishLiteral": "horns-the",
+        "englishNatural": "the horns",
+        "root": "qeren",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּתְלָ֗ת מִן־ **קַרְנַיָּא֙** קַדְמָ֣יָתָ֔א אתעקרו",
+        "transliteration": "uTelat min- **qarnaiya** qadmayata iteqaru",
+        "englishLiteral": "and-three from- **horns-the** first-the were-uprooted",
+        "englishNatural": "and three from **the horns** the first were uprooted"
+      }
+    }
+  ]
+}

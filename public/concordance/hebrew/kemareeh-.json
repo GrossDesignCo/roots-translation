@@ -1,0 +1,55 @@
+{
+  "key": "kemareeh-",
+  "language": "hebrew",
+  "root": "mareh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "כְּמַרְאֵה־",
+        "transliteration": "keMareeh-",
+        "englishLiteral": "like-appearance-of-",
+        "englishNatural": "like an appearance of",
+        "root": "mareh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּעֵין חַשְׁמַל **כְּמַרְאֵה־** אֵשׁ בֵּית־",
+        "transliteration": "keEin chashmal **keMareeh-** esh beit-",
+        "englishLiteral": "like-eye-of glowing_metal **like-appearance-of-** fire house-",
+        "englishNatural": "like an eye of glowing-metal **like an appearance of** fire a house"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "כְּמַרְאֵה־",
+        "transliteration": "keMareeh-",
+        "englishLiteral": "like-appearance-of-",
+        "englishNatural": "like an appearance of",
+        "root": "mareh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְמַטָּה רָאִיתִי **כְּמַרְאֵה־** אֵשׁ וְנֹגַהּ",
+        "transliteration": "uleMattah raiti **keMareeh-** esh veNogah",
+        "englishLiteral": "and-to-downward I-saw **like-appearance-of-** fire and-brightness",
+        "englishNatural": "and downward I saw **like an appearance of** fire and brightness"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kidvar",
+  "language": "hebrew",
+  "root": "davar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "כִּדְבַר",
+        "transliteration": "kidvar",
+        "englishLiteral": "according-to-word-of",
+        "englishNatural": "according to the word of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ נִינְוֵה **כִּדְבַר** יְהוָה וְנִינְוֵה",
+        "transliteration": "el- Nineveh **kidvar** YHWH veNineveh",
+        "englishLiteral": "to- Dwelling_of_Fish (Nineveh) **according-to-word-of** He_Who_Is (YHWH) And-Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "to Dwelling-of-Fish (Nineveh) **according to the word of** He-Who-Is (YHWH) And Dwelling-of-Fish (Nineveh)"
+      }
+    }
+  ]
+}

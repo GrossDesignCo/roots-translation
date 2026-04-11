@@ -1,0 +1,31 @@
+{
+  "key": "ragleihem",
+  "language": "hebrew",
+  "root": "regel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "רַגְלֵיהֶם",
+        "transliteration": "ragleihem",
+        "englishLiteral": "legs-their",
+        "englishNatural": "their legs",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְשָׁרָה וְכַף **רַגְלֵיהֶם** כְּכַף רֶגֶל",
+        "transliteration": "yesharah veKhaf **ragleihem** keKhaf regel",
+        "englishLiteral": "straight and-palm-of **legs-their** like-palm-of leg-of",
+        "englishNatural": "straight and the palm of **their legs** like the palm of the leg of"
+      }
+    }
+  ]
+}

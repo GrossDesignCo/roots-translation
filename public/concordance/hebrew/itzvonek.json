@@ -1,0 +1,31 @@
+{
+  "key": "itzvonek",
+  "language": "hebrew",
+  "root": "etzev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "עִצְּבוֹנֵךְ",
+        "transliteration": "itzvonek",
+        "englishLiteral": "pain-your",
+        "englishNatural": "your pain",
+        "root": "etzev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַרְבָּה אַרְבֶּה **עִצְּבוֹנֵךְ** וְהֵרֹנֵךְ בְּעֶצֶב",
+        "transliteration": "harbah arbeh **itzvonek** veHeronekh beEtzev",
+        "englishLiteral": "Multiplying I-will_multiply **pain-your** and-pregnancy-your in-pain",
+        "englishNatural": "Multiplying I will multiply **your pain** and your pregnancy in pain"
+      }
+    }
+  ]
+}

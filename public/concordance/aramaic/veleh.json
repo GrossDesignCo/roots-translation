@@ -1,0 +1,31 @@
+{
+  "key": "veleh",
+  "language": "aramaic",
+  "root": "le",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְלֵ֨הּ",
+        "transliteration": "veleh",
+        "englishLiteral": "and-to-him",
+        "englishNatural": "And to Him",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**וְלֵ֨הּ** יְהִ֤יב שָׁלְטָן֙",
+        "transliteration": "**veleh** yehiv sholtan",
+        "englishLiteral": "**and-to-him** had-been-given dominion",
+        "englishNatural": "**And to Him** had been given dominion"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "uvasar",
+  "language": "hebrew",
+  "root": "basar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וּבָשָׂר",
+        "transliteration": "uVasar",
+        "englishLiteral": "and-flesh",
+        "englishNatural": "and flesh",
+        "root": "basar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֶצֶם מֵעֲצָמַי **וּבָשָׂר** מִבְּשָׂרִי לְזֹאת",
+        "transliteration": "etsem meAtzamai **uVasar** miVesari leZot",
+        "englishLiteral": "Bone from-my-bones **and-flesh** from-my-flesh to-this",
+        "englishNatural": "Bone from my bones **and flesh** from my flesh to this"
+      }
+    }
+  ]
+}

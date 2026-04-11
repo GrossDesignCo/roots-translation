@@ -1,0 +1,33 @@
+{
+  "key": "tukhal",
+  "language": "hebrew",
+  "root": "yakol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "תּוּכַל",
+        "transliteration": "tukhal",
+        "englishLiteral": "you-are-able",
+        "englishNatural": "you are able",
+        "root": "yakol",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַכּוֹכָבִים אִם־ **תּוּכַל** לִסְפֹּר אֹתָם",
+        "transliteration": "haKokhavim im- **tukhal** lisfor otam",
+        "englishLiteral": "the-stars if- **you-are-able** to-count ↳ them",
+        "englishNatural": "the stars if **you are able** to count them"
+      }
+    }
+  ]
+}

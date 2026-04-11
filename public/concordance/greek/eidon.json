@@ -1,0 +1,32 @@
+{
+  "key": "eidon",
+  "language": "greek",
+  "root": "eido",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "εἶδον",
+        "transliteration": "eidon",
+        "englishLiteral": "I-saw",
+        "englishNatural": "I saw",
+        "root": "eido",
+        "morphology": {
+          "type": "verb",
+          "tense": "aorist"
+        }
+      },
+      "context": {
+        "hebrew": "Καὶ **εἶδον** ἄγγελον καταβαίνοντα",
+        "transliteration": "Kai **eidon** angelon katabainonta",
+        "englishLiteral": "and **I-saw** messenger descending",
+        "englishNatural": "and **I saw** a messenger descending"
+      }
+    }
+  ]
+}

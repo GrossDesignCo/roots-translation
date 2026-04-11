@@ -1,0 +1,422 @@
+{
+  "root": "shama",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּשְׁמְעוּ",
+        "transliteration": "vaYishme'u",
+        "englishLiteral": "And-heard",
+        "englishNatural": "And they heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּשְׁמְעוּ** אֶת־ קוֹל",
+        "transliteration": "**vaYishme'u** et- qol",
+        "englishLiteral": "**And-heard** ↳ voice",
+        "englishNatural": "**And they heard** ↳ the voice"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שָׁמַעְתִּי",
+        "transliteration": "shamati",
+        "englishLiteral": "I-heard",
+        "englishNatural": "I heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ קֹלְךָ **שָׁמַעְתִּי** בַּגָּן וָאִירָא",
+        "transliteration": "et- qolkha **shamati** baGan vaIra",
+        "englishLiteral": "↳ Your-voice **I-heard** in-Garden and-I-feared",
+        "englishNatural": "↳ Your voice **I heard** in Garden and I feared"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שָׁמַעְתָּ",
+        "transliteration": "shmamta",
+        "englishLiteral": "you-listened",
+        "englishNatural": "you listened",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אָמַר כִּי־ **שָׁמַעְתָּ** לְקוֹל אִשְׁתֶּךָ",
+        "transliteration": "amar ki- **shmamta** leQol ishtekha",
+        "englishLiteral": "he-said That **you-listened** to-voice woman-your",
+        "englishNatural": "he said That **you listened** to the voice of your woman"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שְׁמַעַן",
+        "transliteration": "sheman",
+        "englishLiteral": "hear",
+        "englishNatural": "hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עָדָה וְצִלָּה **שְׁמַעַן** קוֹלִי נְשֵׁי",
+        "transliteration": "Adah veTzillah **sheman** qoli neshei",
+        "englishLiteral": "Ornament (Adah) and-Shadow (Zillah) **hear** voice-my women-of",
+        "englishNatural": "Ornament (Adah) and Shadow (Zillah) **hear** my voice women of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "יִשְׁמְעוּ",
+        "transliteration": "yishme'u",
+        "englishLiteral": "they-will-hear",
+        "englishNatural": "will hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר לֹא **יִשְׁמְעוּ** אִישׁ שְׂפַת",
+        "transliteration": "asher lo **yishme'u** ish sefat",
+        "englishLiteral": "which not **they-will-hear** man lip-of",
+        "englishNatural": "which not **will hear** man the lip of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "שָׁמַעְתִּי",
+        "transliteration": "shamati",
+        "englishLiteral": "I-hear",
+        "englishNatural": "I have heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ צַעֲקָתָם **שָׁמַעְתִּי** מִפְּנֵי נֹגְשָׂיו",
+        "transliteration": "veEt- tzaaqatam **shamati** miPenei nogsav",
+        "englishLiteral": "and-↳ outcry-their **I-hear** from-faces-of taskmasters-his",
+        "englishNatural": "and their outcry **I have heard** from the faces of his taskmasters"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יִשְׁמְעוּ",
+        "transliteration": "yishmeU",
+        "englishLiteral": "will-hear",
+        "englishNatural": "and they will hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִי וְלֹא **יִשְׁמְעוּ** לְקֹלִי כִּי",
+        "transliteration": "li veLo **yishmeU** leQoli ki",
+        "englishLiteral": "to-me and-not **will-hear** to-voice-my that",
+        "englishNatural": "me not **and they will hear** my voice that"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֶשְׁמַע",
+        "transliteration": "eshma",
+        "englishLiteral": "I-will-hear",
+        "englishNatural": "I will hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֲשֶׁר **אֶשְׁמַע** בְּקֹלוֹ לְשַׁלַּח",
+        "transliteration": "YHWH asher **eshma** beQolo leshalach",
+        "englishLiteral": "He_Who_Is (YHWH) which **I-will-hear** in-voice-his to-send",
+        "englishNatural": "He-Who-Is (YHWH) which **I will hear** in his voice to send-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שָׁמַע",
+        "transliteration": "shama",
+        "englishLiteral": "heard",
+        "englishNatural": "and he heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹה וְלֹא **שָׁמַע** אֲלֵהֶם כַּאֲשֶׁר",
+        "transliteration": "Paroh veLo **shama** alehem kaAsher",
+        "englishLiteral": "Pharaoh and-not **heard** to-them as-which",
+        "englishNatural": "Pharaoh not **and he heard** to them as which"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יִשְׁמַ֥ע",
+        "transliteration": "yishma",
+        "englishLiteral": "he-will-hear",
+        "englishNatural": "will hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁ֔ה לֹא־ **יִשְׁמַ֥ע** אֲלֵיכֶ֖ם פַּרְעֹ֑ה",
+        "transliteration": "Moshe lo- **yishma** aleykhem Paroh",
+        "englishLiteral": "Drawn_Out (Moses) not- **he-will-hear** to-you Pharaoh",
+        "englishNatural": "Drawn-Out (Moses) not **will hear** to you Pharaoh"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "שָֽׁמְעָה֙",
+        "transliteration": "shamah",
+        "englishLiteral": "she-had-heard",
+        "englishNatural": "she had heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מוֹאָ֑ב כִּ֤י **שָֽׁמְעָה֙** בִּשְׂדֵ֣ה מוֹאָ֔ב",
+        "transliteration": "Moav ki **shamah** biSdeh Moav",
+        "englishLiteral": "From_Father (Moab) that **she-had-heard** in-field-of From_Father (Moab)",
+        "englishNatural": "From-Father (Moab) that **she had heard** in the field of From-Father (Moab)"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "יִשְׁמַע",
+        "transliteration": "yishma",
+        "englishLiteral": "Will-hear",
+        "englishNatural": "will hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**יִשְׁמַע** חָכָם וְיוֹסֵף",
+        "transliteration": "**yishma** chakam veYosef",
+        "englishLiteral": "**Will-hear** wise-man and-will-add",
+        "englishNatural": "**will hear** A wise man and will add"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 24
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וָאֶשְׁמַע",
+        "transliteration": "vaEshma",
+        "englishLiteral": "And-I-heard",
+        "englishNatural": "And I heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וָאֶשְׁמַע** אֶת־ קוֹל",
+        "transliteration": "**vaEshma** et- qol",
+        "englishLiteral": "**And-I-heard** ↳ voice-of",
+        "englishNatural": "**And I heard** ↳ the voice of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "וָאֶשְׁמַע",
+        "transliteration": "vaEshma",
+        "englishLiteral": "and-I-heard",
+        "englishNatural": "and I heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ פָּנַי **וָאֶשְׁמַע** קוֹל מְדַבֵּר",
+        "transliteration": "al- panai **vaEshma** qol medabber",
+        "englishLiteral": "over- faces-my **and-I-heard** voice speaking",
+        "englishNatural": "over my face **and I heard** a voice speaking"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וָאֶשְׁמַע",
+        "transliteration": "vaEshma",
+        "englishLiteral": "and-I-heard",
+        "englishNatural": "and I heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ רַגְלָי **וָאֶשְׁמַע** אֵת מִדַּבֵּר",
+        "transliteration": "al- raglai **vaEshma** et midabber",
+        "englishLiteral": "over- feet-my **and-I-heard** ↳ speaking",
+        "englishNatural": "over my feet **and I heard** ↳ him speaking"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "שָׁמַעְתָּ",
+        "transliteration": "shamata",
+        "englishLiteral": "you-heard",
+        "englishNatural": "you heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁאוֹל שִׁוַּעְתִּי **שָׁמַעְתָּ** קוֹלִי",
+        "transliteration": "sheol shivati **shamata** qoli",
+        "englishLiteral": "Hades I-cried_out **you-heard** voice-my",
+        "englishNatural": "Hades I cried-out **you heard** my voice"
+      }
+    }
+  ]
+}

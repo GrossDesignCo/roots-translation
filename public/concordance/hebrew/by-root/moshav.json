@@ -1,0 +1,54 @@
+{
+  "root": "moshav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "בְּמוֹשְׁבֹתָם",
+        "transliteration": "beMoshvotam",
+        "englishLiteral": "in-seats-their",
+        "englishNatural": "in their seats",
+        "root": "moshav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיָה אוֹר **בְּמוֹשְׁבֹתָם**",
+        "transliteration": "hayah or **beMoshvotam**",
+        "englishLiteral": "it-was light **in-seats-their**",
+        "englishNatural": "it had been light **in their seats**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וּבְמוֹשַׁב",
+        "transliteration": "uvMoshav",
+        "englishLiteral": "and-in-seat-of",
+        "englishNatural": "and in the seat of",
+        "root": "moshav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא עָמָד **וּבְמוֹשַׁב** לֵצִים לֹא",
+        "transliteration": "lo amad **uvMoshav** letzim lo",
+        "englishLiteral": "not has-stood **and-in-seat-of** scoffers not",
+        "englishNatural": "not has stood **and in the seat of** scoffers not"
+      }
+    }
+  ]
+}

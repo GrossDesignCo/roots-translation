@@ -1,0 +1,31 @@
+{
+  "key": "meraato",
+  "language": "hebrew",
+  "root": "ra",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "מֵרָעָתוֹ",
+        "transliteration": "meRaato",
+        "englishLiteral": "from-bad-his",
+        "englishNatural": "from his bad",
+        "root": "ra",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְהַצִּיל לוֹ **מֵרָעָתוֹ** וַיִּשְׂמַח יוֹנָה",
+        "transliteration": "lehatzil lo **meRaato** vaYismach Yonah",
+        "englishLiteral": "to-deliver to-him **from-bad-his** and-rejoiced Dove (Jonah)",
+        "englishNatural": "to deliver to him **from his bad** rejoiced and Dove (Jonah)"
+      }
+    }
+  ]
+}

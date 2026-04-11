@@ -1,0 +1,31 @@
+{
+  "key": "apeikha",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אַפֶּיךָ",
+        "transliteration": "apeikha",
+        "englishLiteral": "your-faces",
+        "englishNatural": "your face",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּזֵעַת **אַפֶּיךָ** תֹּאכַל לֶחֶם",
+        "transliteration": "beZeat **apeikha** toKhal lechem",
+        "englishLiteral": "In-sweat_of **your-faces** you-will-eat bread",
+        "englishNatural": "In sweat of **your face** you will eat bread"
+      }
+    }
+  ]
+}

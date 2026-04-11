@@ -1,0 +1,30 @@
+{
+  "root": "raah_bad",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "רָעַת",
+        "transliteration": "raat",
+        "englishLiteral": "bad-of",
+        "englishNatural": "the bad of",
+        "root": "raah_bad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי רַבָּה **רָעַת** הָאָדָם בָּאָרֶץ",
+        "transliteration": "ki rabbah **raat** haAdam baAretz",
+        "englishLiteral": "that multiplying-was **bad-of** the-Earthling (Adam) in-land",
+        "englishNatural": "that was multiplying **the bad of** Earthling (Adam) in the land"
+      }
+    }
+  ]
+}

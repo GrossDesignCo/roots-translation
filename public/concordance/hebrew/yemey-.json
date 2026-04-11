@@ -1,0 +1,55 @@
+{
+  "key": "yemey-",
+  "language": "hebrew",
+  "root": "yom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יְמֵי־",
+        "transliteration": "yemey-",
+        "englishLiteral": "days-of",
+        "englishNatural": "And the days of",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּהְיוּ **יְמֵי־** אָדָם אַחֲרֵי",
+        "transliteration": "vaYihyu **yemey-** Adam acharey",
+        "englishLiteral": "and-were **days-of** Earthling (Adam) after",
+        "englishNatural": "were **And the days of** Earthling (Adam) after"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 29
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יְמֵי־",
+        "transliteration": "yemey-",
+        "englishLiteral": "days-of-",
+        "englishNatural": "the days of",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּהְיוּ כָּל־ **יְמֵי־** נֹחַ תְּשַׁע",
+        "transliteration": "vayihyu kol- **yemey-** Noach tesha",
+        "englishLiteral": "And-were all- **days-of-** Rest (Noah) nine",
+        "englishNatural": "were And all **the days of** Rest (Noah) nine"
+      }
+    }
+  ]
+}

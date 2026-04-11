@@ -1,0 +1,33 @@
+{
+  "key": "asitim",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "עֲשִׂיתִם",
+        "transliteration": "asitim",
+        "englishLiteral": "I-have-made-them",
+        "englishNatural": "I have made them",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נִחַמְתִּי כִּי **עֲשִׂיתִם**",
+        "transliteration": "nichamti ki **asitim**",
+        "englishLiteral": "I-have-relented that **I-have-made-them**",
+        "englishNatural": "I have relented that **I have made them**"
+      }
+    }
+  ]
+}

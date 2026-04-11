@@ -1,0 +1,31 @@
+{
+  "key": "veim",
+  "language": "hebrew",
+  "root": "im",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְאִם",
+        "transliteration": "veim",
+        "englishLiteral": "And-if",
+        "englishNatural": "And if",
+        "root": "im",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "תֵּיטִיב שְׂאֵת **וְאִם** לֹא תֵיטִיב",
+        "transliteration": "teytiv set **veim** lo teytiv",
+        "englishLiteral": "you-do_well lifting_up **And-if** not you-do_well",
+        "englishNatural": "you do-well lifting-up **And if** not you do-well"
+      }
+    }
+  ]
+}

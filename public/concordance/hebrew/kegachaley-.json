@@ -1,0 +1,31 @@
+{
+  "key": "kegachaley-",
+  "language": "hebrew",
+  "root": "gachal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "כְּגַחֲלֵי־",
+        "transliteration": "keGachaley-",
+        "englishLiteral": "like-coals-of-",
+        "englishNatural": "like coals of",
+        "root": "gachal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַחַיּוֹת מַרְאֵיהֶם **כְּגַחֲלֵי־** אֵשׁ בֹּעֲרוֹת",
+        "transliteration": "haChayot mareihem **keGachaley-** esh boarot",
+        "englishLiteral": "the-living_beings appearance-their **like-coals-of-** fire burning",
+        "englishNatural": "the living-beings their appearance **like coals of** fire burning"
+      }
+    }
+  ]
+}

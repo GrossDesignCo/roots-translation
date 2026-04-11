@@ -1,0 +1,57 @@
+{
+  "key": "yeofef",
+  "language": "hebrew",
+  "root": "uf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יְעוֹפֵ֣ף",
+        "transliteration": "yeOfef",
+        "englishLiteral": "let-fly",
+        "englishNatural": "fly",
+        "root": "uf",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "חַיָּ֑ה וְעוֹף֙ **יְעוֹפֵ֣ף** עַל־ הָאָ֔רֶץ",
+        "transliteration": "chayah veOf **yeOfef** al- haAretz",
+        "englishLiteral": "living And-flyer **let-fly** over the-land",
+        "englishNatural": "living And let flyer **fly** over the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "יְעוֹפֵף",
+        "transliteration": "yeOfef",
+        "englishLiteral": "he-flies",
+        "englishNatural": "he flies",
+        "root": "uf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "רַגְלָיו וּבִשְׁתַּיִם **יְעוֹפֵף**",
+        "transliteration": "raglav uViShtayim **yeOfef**",
+        "englishLiteral": "his-feet and-in-two **he-flies**",
+        "englishNatural": "his feet and in two **he flies**"
+      }
+    }
+  ]
+}

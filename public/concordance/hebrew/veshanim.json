@@ -1,0 +1,31 @@
+{
+  "key": "veshanim",
+  "language": "hebrew",
+  "root": "shanah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וְשָׁנִֽים",
+        "transliteration": "veShanim",
+        "englishLiteral": "and-years",
+        "englishNatural": "and years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְמוֹעֲדִ֖ים וּלְיָמִ֣ים **וְשָׁנִֽים**",
+        "transliteration": "uLeMoedim uLeYamim **veShanim**",
+        "englishLiteral": "and-for-appointed_times and-for-days **and-years**",
+        "englishNatural": "and for appointed-times and for days **and years**"
+      }
+    }
+  ]
+}

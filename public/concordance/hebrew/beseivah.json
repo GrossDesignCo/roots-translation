@@ -1,0 +1,31 @@
+{
+  "key": "beseivah",
+  "language": "hebrew",
+  "root": "seivah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בְּשֵׂיבָה",
+        "transliteration": "beSeivah",
+        "englishLiteral": "in-old-age",
+        "englishNatural": "old age",
+        "root": "seivah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּשָׁלוֹם תִּקָּבֵר **בְּשֵׂיבָה** טוֹבָה",
+        "transliteration": "beShalom tiqaver **beSeivah** tovah",
+        "englishLiteral": "in-peace you-will-be-buried **in-old-age** good",
+        "englishNatural": "in peace you will be buried **old age** in good"
+      }
+    }
+  ]
+}

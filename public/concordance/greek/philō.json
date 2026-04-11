@@ -1,0 +1,82 @@
+{
+  "key": "philō",
+  "language": "greek",
+  "root": "phileo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "φιλῶ",
+        "transliteration": "philō",
+        "englishLiteral": "I-brother_love",
+        "englishNatural": "I brother-love",
+        "root": "phileo",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "οἶδας ὅτι **φιλῶ** σε λέγει",
+        "transliteration": "oidas hoti **philō** se legei",
+        "englishLiteral": "know that **I-brother_love** you He-says",
+        "englishNatural": "know that **I brother-love** you He says"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "φιλῶ",
+        "transliteration": "philō",
+        "englishLiteral": "I-brother_love",
+        "englishNatural": "I brother-love",
+        "root": "phileo",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "οἶδας ὅτι **φιλῶ** σε λέγει",
+        "transliteration": "oidas hoti **philō** se legei",
+        "englishLiteral": "know that **I-brother_love** you He-says",
+        "englishNatural": "know that **I brother-love** you He says"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 28,
+      "word": {
+        "originalScript": "φιλῶ",
+        "transliteration": "philō",
+        "englishLiteral": "I-brother_love",
+        "englishNatural": "I brother-love",
+        "root": "phileo",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "γινώσκεις ὅτι **φιλῶ** σε λέγει",
+        "transliteration": "ginōskeis hoti **philō** se legei",
+        "englishLiteral": "know that **I-brother_love** you He-says",
+        "englishNatural": "know that **I brother-love** you He says"
+      }
+    }
+  ]
+}

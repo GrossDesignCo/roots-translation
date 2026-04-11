@@ -1,0 +1,33 @@
+{
+  "key": "yuqam-",
+  "language": "hebrew",
+  "root": "naqam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 24
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יֻקַּם־",
+        "transliteration": "yuqam-",
+        "englishLiteral": "shall-be-avenged",
+        "englishNatural": "shall be avenged",
+        "root": "naqam",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hophal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי שִׁבְעָתַיִם **יֻקַּם־** קָיִן וְלֶמֶךְ",
+        "transliteration": "ki shivatayim **yuqam-** Qayin veLemekh",
+        "englishLiteral": "that sevenfold **shall-be-avenged** Acquired (Cain) and-Powerful (Lamech)",
+        "englishNatural": "that sevenfold **shall be avenged** Acquired (Cain) and Powerful (Lamech)"
+      }
+    }
+  ]
+}

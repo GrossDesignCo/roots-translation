@@ -1,0 +1,33 @@
+{
+  "key": "chasta",
+  "language": "hebrew",
+  "root": "chas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "חַסְתָּ",
+        "transliteration": "chasta",
+        "englishLiteral": "pitied",
+        "englishNatural": "pitied",
+        "root": "chas",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אַתָּה **חַסְתָּ** עַל־ הַקִּיקָיוֹן",
+        "transliteration": "YHWH atah **chasta** al- haQiqayon",
+        "englishLiteral": "He_Who_Is (YHWH) you **pitied** over- the-luscious_plant",
+        "englishNatural": "And He-Who-Is (YHWH) You **pitied** over the luscious-plant"
+      }
+    }
+  ]
+}

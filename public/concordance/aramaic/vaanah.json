@@ -1,0 +1,31 @@
+{
+  "key": "vaanah",
+  "language": "aramaic",
+  "root": "anah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַאֲנָה",
+        "transliteration": "vaAnah",
+        "englishLiteral": "and-I",
+        "englishNatural": "And I",
+        "root": "anah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**וַאֲנָה** לָא בְחָכְמָה",
+        "transliteration": "**vaAnah** la beChokmah",
+        "englishLiteral": "**and-I** not in-wisdom",
+        "englishNatural": "**And I** not in wisdom"
+      }
+    }
+  ]
+}

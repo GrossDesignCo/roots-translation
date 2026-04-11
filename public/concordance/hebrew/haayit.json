@@ -1,0 +1,31 @@
+{
+  "key": "haayit",
+  "language": "hebrew",
+  "root": "ayit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הָעַיִט",
+        "transliteration": "haAyit",
+        "englishLiteral": "the-bird_of_prey",
+        "englishNatural": "And the birds-of-prey",
+        "root": "ayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּרֶד **הָעַיִט** עַל־ הַפְּגָרִים",
+        "transliteration": "vayered **haAyit** al- haPegarim",
+        "englishLiteral": "And-he-descended **the-bird_of_prey** over- the-carcasses",
+        "englishNatural": "descended **And the birds-of-prey** over the carcasses"
+      }
+    }
+  ]
+}

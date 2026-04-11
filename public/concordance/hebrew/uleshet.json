@@ -1,0 +1,31 @@
+{
+  "key": "uleshet",
+  "language": "hebrew",
+  "root": "Shet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 26
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּלְשֵׁת",
+        "transliteration": "uleShet",
+        "englishLiteral": "and-to-Appointed (Seth)",
+        "englishNatural": "And to Appointed (Seth)",
+        "root": "Shet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּלְשֵׁת** גַּם־ הוּא",
+        "transliteration": "**uleShet** gam- hu",
+        "englishLiteral": "**and-to-Appointed (Seth)** also he",
+        "englishNatural": "**And to Appointed (Seth)** also he"
+      }
+    }
+  ]
+}

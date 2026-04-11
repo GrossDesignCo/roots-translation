@@ -1,0 +1,59 @@
+{
+  "key": "yotze",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יֹצֵא",
+        "transliteration": "yotze",
+        "englishLiteral": "goes-out",
+        "englishNatural": "went out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְנָהָר **יֹצֵא** מֵעֵדֶן לְהַשְׁקוֹת",
+        "transliteration": "veNahar **yotze** meEden leHashqot",
+        "englishLiteral": "And-river **goes-out** from-Delight (Eden) to-give_drink",
+        "englishNatural": "And a river **went out** from Delight (Eden) to give-drink to"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "יוֹצֵא",
+        "transliteration": "yotze",
+        "englishLiteral": "brought_out",
+        "englishNatural": "brought-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִן־ הָאֵשׁ **יוֹצֵא** בָרָק",
+        "transliteration": "uMin- haEsh **yotze** baraq",
+        "englishLiteral": "and-from- the-fire **brought_out** lightning",
+        "englishNatural": "and from the fire **brought-out** lightning"
+      }
+    }
+  ]
+}

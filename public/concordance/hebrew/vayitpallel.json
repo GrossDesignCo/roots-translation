@@ -1,0 +1,33 @@
+{
+  "key": "vayitpallel",
+  "language": "hebrew",
+  "root": "palal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּתְפַּלֵּל",
+        "transliteration": "vaYitpallel",
+        "englishLiteral": "And-prayed",
+        "englishNatural": "And he prayed",
+        "root": "palal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּתְפַּלֵּל** אֶל־ יְהוָה",
+        "transliteration": "**vaYitpallel** el- YHWH",
+        "englishLiteral": "**And-prayed** to- He_Who_Is (YHWH)",
+        "englishNatural": "**And he prayed** to He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

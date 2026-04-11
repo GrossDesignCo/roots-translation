@@ -1,0 +1,55 @@
+{
+  "key": "oseh",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עֹ֤שֶׂה",
+        "transliteration": "oseh",
+        "englishLiteral": "making",
+        "englishNatural": "making",
+        "root": "asah",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "עֵ֣ץ פְּרִ֞י **עֹ֤שֶׂה** פְּרִי֙ לְמִינ֔וֹ",
+        "transliteration": "etz pri **oseh** pri leMino",
+        "englishLiteral": "tree fruit **making** fruit to-its-kind",
+        "englishNatural": "tree fruit **making** fruit after its kind"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "עֹֽשֶׂה",
+        "transliteration": "oseh",
+        "englishLiteral": "making",
+        "englishNatural": "making",
+        "root": "asah",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִינֵ֖הוּ וְעֵ֧ץ **עֹֽשֶׂה** פְּרִ֞י אֲשֶׁ֤ר",
+        "transliteration": "leMinehu veEtz **oseh** pri asher",
+        "englishLiteral": "to-its-kind and-tree **making** fruit which",
+        "englishNatural": "after its kind and tree **making** fruit which"
+      }
+    }
+  ]
+}

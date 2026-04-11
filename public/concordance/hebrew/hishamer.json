@@ -1,0 +1,33 @@
+{
+  "key": "hishamer",
+  "language": "hebrew",
+  "root": "shamar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הִשָּׁ֣מֶר",
+        "transliteration": "hiShamer",
+        "englishLiteral": "guard",
+        "englishNatural": "guard",
+        "root": "shamar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "לֵ֣ךְ מֵֽעָלָ֑י **הִשָּׁ֣מֶר** לְךָ֔ אַל־",
+        "transliteration": "lekh meAlay **hiShamer** lekha al-",
+        "englishLiteral": "Go from-over-me **guard** to-you not",
+        "englishNatural": "Go from over me **guard** yourself not"
+      }
+    }
+  ]
+}

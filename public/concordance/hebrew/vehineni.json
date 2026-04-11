@@ -1,0 +1,31 @@
+{
+  "key": "vehineni",
+  "language": "hebrew",
+  "root": "hinneh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְהִנְנִי",
+        "transliteration": "veHineni",
+        "englishLiteral": "and-behold-me",
+        "englishNatural": "and behold me",
+        "root": "hinneh",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "חָמָס מִפְּנֵיהֶם **וְהִנְנִי** מַשְׁחִיתָם אֶת־",
+        "transliteration": "chamas mipPneihem **veHineni** mashchitam et-",
+        "englishLiteral": "violence from-faces-their **and-behold-me** destroying ↳",
+        "englishNatural": "violence from their faces **and behold me** destroying ↳"
+      }
+    }
+  ]
+}

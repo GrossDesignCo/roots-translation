@@ -1,0 +1,31 @@
+{
+  "key": "umimaal",
+  "language": "hebrew",
+  "root": "al",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּמִמַּעַל",
+        "transliteration": "uMiMaal",
+        "englishLiteral": "And-from-over",
+        "englishNatural": "And from over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**וּמִמַּעַל** לָרָקִיעַ אֲשֶׁר",
+        "transliteration": "**uMiMaal** laRaqia asher",
+        "englishLiteral": "**And-from-over** to-the-hammering_out which",
+        "englishNatural": "**And from over** the hammering-out which"
+      }
+    }
+  ]
+}

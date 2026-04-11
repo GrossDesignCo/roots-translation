@@ -1,0 +1,55 @@
+{
+  "key": "leparoh",
+  "language": "hebrew",
+  "root": "paroh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לְפַרְעֹה",
+        "transliteration": "leParoh",
+        "englishLiteral": "to-Pharaoh",
+        "englishNatural": "to Pharaoh",
+        "root": "paroh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר אֶעֱשֶׂה **לְפַרְעֹה** כִּי בְיָד",
+        "transliteration": "asher eEseh **leParoh** ki veYad",
+        "englishLiteral": "which I-will-do **to-Pharaoh** that in-hand",
+        "englishNatural": "which I will do **to Pharaoh** that hand"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְפַרְעֹה",
+        "transliteration": "leParoh",
+        "englishLiteral": "to-Pharaoh",
+        "englishNatural": "to Pharaoh",
+        "root": "paroh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְתַתִּיךָ אֱלֹהִים **לְפַרְעֹה** וְאַהֲרֹן אָחִיךָ",
+        "transliteration": "netaticha Elohim **leParoh** veAharon achicha",
+        "englishLiteral": "I-give-you Gods **to-Pharaoh** and-Light_Bringer (Aaron) brother-your",
+        "englishNatural": "I have given you God **to Pharaoh** and Light-Bringer (Aaron) your brother"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "uveyado",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּבְיָדוֹ",
+        "transliteration": "uVeYado",
+        "englishLiteral": "and-in-his-hand",
+        "englishNatural": "and in his hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִן הַשְּׂרָפִים **וּבְיָדוֹ** רִצְפָּה בְּמֶלְקַחַיִם",
+        "transliteration": "min haSeraphim **uVeYado** ritzpah beMelkachayim",
+        "englishLiteral": "from the-incinerating_ones **and-in-his-hand** live_coal with-tongs",
+        "englishNatural": "from the incinerating-ones **and in his hand** a live-coal with tongs"
+      }
+    }
+  ]
+}

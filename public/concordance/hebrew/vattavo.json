@@ -1,0 +1,33 @@
+{
+  "key": "vattavo",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתָּבֹא",
+        "transliteration": "vatTavo",
+        "englishLiteral": "And-came",
+        "englishNatural": "came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתָּבֹא** בִי רוּחַ",
+        "transliteration": "**vatTavo** vi ruach",
+        "englishLiteral": "**And-came** in-me wind",
+        "englishNatural": "**came** in me And wind"
+      }
+    }
+  ]
+}

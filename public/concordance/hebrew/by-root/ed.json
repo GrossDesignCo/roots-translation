@@ -1,0 +1,30 @@
+{
+  "root": "ed",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאֵד",
+        "transliteration": "veEd",
+        "englishLiteral": "And-mist",
+        "englishNatural": "And a mist",
+        "root": "ed",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֵד** יַעֲלֶה מִן־",
+        "transliteration": "**veEd** yaaleh min-",
+        "englishLiteral": "**And-mist** will-go_up from-",
+        "englishNatural": "**And a mist** went up from"
+      }
+    }
+  ]
+}

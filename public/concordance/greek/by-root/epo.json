@@ -1,0 +1,31 @@
+{
+  "root": "epo",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "εἶπεν",
+        "transliteration": "eipen",
+        "englishLiteral": "he-said",
+        "englishNatural": "he said",
+        "root": "epo",
+        "morphology": {
+          "type": "verb",
+          "tense": "aorist"
+        }
+      },
+      "context": {
+        "hebrew": "Πέτρος ὅτι **εἶπεν** αὐτῷ τὸ",
+        "transliteration": "Petros hoti **eipen** autō to",
+        "englishLiteral": "Stone (Peter) that **he-said** to-him the",
+        "englishNatural": "Stone (Peter) because **he said** to him the"
+      }
+    }
+  ]
+}

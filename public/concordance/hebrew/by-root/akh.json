@@ -1,0 +1,102 @@
+{
+  "root": "akh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "אַךְ־",
+        "transliteration": "akh-",
+        "englishLiteral": "Only-",
+        "englishNatural": "Only",
+        "root": "akh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**אַךְ־** בָּשָׂר בְּנַפְשׁוֹ",
+        "transliteration": "**akh-** basar beNafsho",
+        "englishLiteral": "**Only-** flesh in-its-wind",
+        "englishNatural": "**Only** flesh in its wind"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאַךְ",
+        "transliteration": "veAkh",
+        "englishLiteral": "And-only",
+        "englishNatural": "And only",
+        "root": "akh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאַךְ** אֶת־ דִּמְכֶם",
+        "transliteration": "**veAkh** et- dimkhem",
+        "englishLiteral": "**And-only** ↳ your-blood",
+        "englishNatural": "**And only** ↳ your blood"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "אַךְ",
+        "transliteration": "akh",
+        "englishLiteral": "Only",
+        "englishNatural": "Only",
+        "root": "akh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**אַךְ** טוֹב וָחֶסֶד",
+        "transliteration": "**akh** tov vaChesed",
+        "englishLiteral": "**Only** good and-steadfast_love",
+        "englishNatural": "**Only** good and steadfast-love"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אַךְ",
+        "transliteration": "akh",
+        "englishLiteral": "Only",
+        "englishNatural": "Only",
+        "root": "akh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "מִנֶּגֶד עֵינֶיךָ **אַךְ** אוֹסִיף לְהַבִּיט",
+        "transliteration": "mineged einekha **akh** osif lehabit",
+        "englishLiteral": "from-before eyes-your **Only** I-will-add to-look",
+        "englishNatural": "from before your eyes **Only** I will add to look"
+      }
+    }
+  ]
+}

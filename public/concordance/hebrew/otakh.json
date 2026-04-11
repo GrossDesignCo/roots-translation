@@ -1,0 +1,31 @@
+{
+  "key": "otakh",
+  "language": "hebrew",
+  "root": "et",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אֹתָךְ",
+        "transliteration": "otakh",
+        "englishLiteral": "you",
+        "englishNatural": "to you",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "רַגְלֶיךָ וַאֲדַבֵּר **אֹתָךְ**",
+        "transliteration": "ragleikha vaAdabber **otakh**",
+        "englishLiteral": "feet-your and-I-will-speak **you**",
+        "englishNatural": "your feet and I will speak **to you**"
+      }
+    }
+  ]
+}

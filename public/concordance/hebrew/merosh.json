@@ -1,0 +1,31 @@
+{
+  "key": "merosh",
+  "language": "hebrew",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 23
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מֵרֹאשׁ",
+        "transliteration": "meRosh",
+        "englishLiteral": "from-heading",
+        "englishNatural": "from the heading",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעוֹלָם נִסַּכְתִּי **מֵרֹאשׁ** מִקַּדְמֵי־ אָרֶץ",
+        "transliteration": "meOlam nisakhti **meRosh** miQadmei aretz",
+        "englishLiteral": "From-the_age was-poured_out-I **from-heading** from-east-of land",
+        "englishNatural": "From the-age I was poured-out **from the heading** from the-east of land"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "lakh",
+  "language": "aramaic",
+  "root": "le",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 37
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לָךְ",
+        "transliteration": "lakh",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וִיקָרָא יְהַב **לָךְ**",
+        "transliteration": "viQara yehav **lakh**",
+        "englishLiteral": "and-glory-the he-has-given **to-you**",
+        "englishNatural": "and the glory has given **to you**"
+      }
+    }
+  ]
+}

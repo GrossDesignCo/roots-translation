@@ -1,0 +1,30 @@
+{
+  "root": "tzohar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "צֹהַר",
+        "transliteration": "tzohar",
+        "englishLiteral": "illunination",
+        "englishNatural": "A illunination",
+        "root": "tzohar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**צֹהַר** תַּעֲשֶׂה לַתֵּבָה",
+        "transliteration": "**tzohar** taAseh laTevah",
+        "englishLiteral": "**illunination** you-shall-make to-the-ark",
+        "englishNatural": "**A illunination** you shall make for the ark"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "yiqneh",
+  "language": "hebrew",
+  "root": "qanah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יִקְנֶה",
+        "transliteration": "yiqneh",
+        "englishLiteral": "will-acquire",
+        "englishNatural": "will acquire",
+        "root": "qanah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְנָבוֹן תַּחְבֻּלוֹת **יִקְנֶה**",
+        "transliteration": "veNavon tachbulot **yiqneh**",
+        "englishLiteral": "and-understanding-man wise_counsels **will-acquire**",
+        "englishNatural": "and an understanding man wise-counsels **will acquire**"
+      }
+    }
+  ]
+}

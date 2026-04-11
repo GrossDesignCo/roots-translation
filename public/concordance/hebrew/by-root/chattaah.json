@@ -1,0 +1,30 @@
+{
+  "root": "chattaah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְחַטָּאָה",
+        "transliteration": "veChattaah",
+        "englishLiteral": "and-sin",
+        "englishNatural": "and sin",
+        "root": "chattaah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָוֹן וָפֶשַׁע **וְחַטָּאָה** וְנַקֵּה לֹא",
+        "transliteration": "avon vaFesha **veChattaah** veNakeh lo",
+        "englishLiteral": "twisting and-transgression **and-sin** and-clearing not",
+        "englishNatural": "twisting and transgression **and sin** and clearing not"
+      }
+    }
+  ]
+}

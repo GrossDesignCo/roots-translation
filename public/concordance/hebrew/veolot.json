@@ -1,0 +1,31 @@
+{
+  "key": "veolot",
+  "language": "hebrew",
+  "root": "olah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְעֹלֹת",
+        "transliteration": "veOlot",
+        "englishLiteral": "and-ascending_offerings",
+        "englishNatural": "and ascending-offerings",
+        "root": "olah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּיָדֵנוּ זְבָחִים **וְעֹלֹת** וְעָשִׂינוּ לַיהוָה",
+        "transliteration": "beYadenu zevachim **veOlot** veAsinu laYHWH",
+        "englishLiteral": "in-hand-our sacrifices **and-ascending_offerings** and-will-make to-He_Who_Is (YHWH)",
+        "englishNatural": "in our hand sacrifices **and ascending-offerings** and will make to He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

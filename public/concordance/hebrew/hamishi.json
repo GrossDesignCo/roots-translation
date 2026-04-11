@@ -1,0 +1,31 @@
+{
+  "key": "hamishi",
+  "language": "hebrew",
+  "root": "hamish",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 23
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "חֲמִישִֽׁי׃",
+        "transliteration": "hamishi",
+        "englishLiteral": "fifth",
+        "englishNatural": "A fifth",
+        "root": "hamish",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בֹ֖קֶר י֥וֹם **חֲמִישִֽׁי׃**",
+        "transliteration": "boqer yom **hamishi**",
+        "englishLiteral": "morning Day **fifth**",
+        "englishNatural": "And morning day **A fifth**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "chanun",
+  "language": "hebrew",
+  "root": "chanun",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 23,
+      "word": {
+        "originalScript": "חַנּוּן",
+        "transliteration": "chanun",
+        "englishLiteral": "gracious",
+        "englishNatural": "gracious",
+        "root": "chanun",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אַתָּה אֵל־ **חַנּוּן** וְרַחוּם אֶרֶךְ",
+        "transliteration": "atah el- **chanun** veRachum erekh",
+        "englishLiteral": "you God- **gracious** and-compassionate long",
+        "englishNatural": "you are God **gracious** and compassionate long"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "fanim",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "פָנִים",
+        "transliteration": "fanim",
+        "englishLiteral": "faces",
+        "englishNatural": "faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַרְבָּעָה **פָנִים** לְאֶחָת וְאַרְבַּע",
+        "transliteration": "veArbaah **fanim** leEchat veArba",
+        "englishLiteral": "And-four **faces** to-one and-four",
+        "englishNatural": "And four **faces** to one and four"
+      }
+    }
+  ]
+}

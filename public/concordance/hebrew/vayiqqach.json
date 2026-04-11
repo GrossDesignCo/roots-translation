@@ -1,0 +1,85 @@
+{
+  "key": "vayiqqach",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַיִּקַּח",
+        "transliteration": "vaYiqqach",
+        "englishLiteral": "and-took",
+        "englishNatural": "and took",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִבֵּית לֵוִי **וַיִּקַּח** אֶת־ בַּת־",
+        "transliteration": "miBeyt Levi **vaYiqqach** et- bat-",
+        "englishLiteral": "from-house-of Joined (Levi) **and-took** ↳ daughter-of",
+        "englishNatural": "from the house of Joined (Levi) **and took** ↳ a daughter of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּקַּח",
+        "transliteration": "vaYiqqach",
+        "englishLiteral": "And-took",
+        "englishNatural": "took",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּקַּח** מֹשֶׁה אֶת־",
+        "transliteration": "**vaYiqqach** Moshe et-",
+        "englishLiteral": "**And-took** Drawn_Out (Moses) ↳",
+        "englishNatural": "**took** And Drawn-Out (Moses) ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וַיִּקַּח",
+        "transliteration": "vaYiqqach",
+        "englishLiteral": "and-took",
+        "englishNatural": "took",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְצָה מִצְרָיִם **וַיִּקַּח** מֹשֶׁה אֶת־",
+        "transliteration": "artzah Mitzrayim **vaYiqqach** Moshe et-",
+        "englishLiteral": "land-ward Double_Narrows (Egypt) **and-took** Drawn_Out (Moses) ↳",
+        "englishNatural": "to the land of Double-Narrows (Egypt) **took** and Drawn-Out (Moses) ↳"
+      }
+    }
+  ]
+}

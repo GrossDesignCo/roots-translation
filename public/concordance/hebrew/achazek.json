@@ -1,0 +1,33 @@
+{
+  "key": "achazek",
+  "language": "hebrew",
+  "root": "chazaq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "אֲחַזֵּק",
+        "transliteration": "achazek",
+        "englishLiteral": "will-intensify",
+        "englishNatural": "will intensify",
+        "root": "chazaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "פַרְעֹה וַאֲנִי **אֲחַזֵּק** אֶת־ לִבּוֹ",
+        "transliteration": "Paroh vaAni **achazek** et- libbo",
+        "englishLiteral": "Pharaoh and-I **will-intensify** ↳ heart-his",
+        "englishNatural": "Pharaoh but I **will intensify** ↳ his heart"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vashuv",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וָשׁוֹב",
+        "transliteration": "vaShuv",
+        "englishLiteral": "and-returning",
+        "englishNatural": "and returning",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַחַיּוֹת רָצוֹא **וָשׁוֹב** כְּמַרְאֵה הַבָּזָק",
+        "transliteration": "veHaChayot ratzo **vaShuv** keMarah haBazaq",
+        "englishLiteral": "And-the-living-beings sprinting **and-returning** like-appearance-of the-flashing",
+        "englishNatural": "And the living-beings sprinting **and returning** like the appearance of The Flashing"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "tihyeh",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 12
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "תִּהְיֶה",
+        "transliteration": "tihyeh",
+        "englishLiteral": "you-will-be",
+        "englishNatural": "you will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נָע וָנָד **תִּהְיֶה** בָאָרֶץ",
+        "transliteration": "na vanad **tihyeh** baAretz",
+        "englishLiteral": "wandering and-fugitive **you-will-be** in-land",
+        "englishNatural": "wandering and fugitive **you will be** in the land"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayiseu",
+  "language": "hebrew",
+  "root": "nasa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּשְׂאוּ",
+        "transliteration": "vaYiseu",
+        "englishLiteral": "And-lifted_up",
+        "englishNatural": "And they lifted-up",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּשְׂאוּ** אֶת־ יוֹנָה",
+        "transliteration": "**vaYiseu** et- Yonah",
+        "englishLiteral": "**And-lifted_up** ↳ Dove (Jonah)",
+        "englishNatural": "**And they lifted-up** ↳ Dove (Jonah)"
+      }
+    }
+  ]
+}

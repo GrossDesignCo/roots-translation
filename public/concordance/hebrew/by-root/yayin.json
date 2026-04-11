@@ -1,0 +1,30 @@
+{
+  "root": "yayin",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 18
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וָיָיִן",
+        "transliteration": "vaYayin",
+        "englishLiteral": "and-wine",
+        "englishNatural": "and wine",
+        "root": "yayin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוֹצִיא לֶחֶם **וָיָיִן** וְהוּא כֹהֵן",
+        "transliteration": "hotzi lechem **vaYayin** veHu kohen",
+        "englishLiteral": "he-brought-out bread **and-wine** and-he priest",
+        "englishNatural": "brought out bread **and wine** and he was priest"
+      }
+    }
+  ]
+}

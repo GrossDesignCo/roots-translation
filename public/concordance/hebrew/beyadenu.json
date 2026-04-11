@@ -1,0 +1,31 @@
+{
+  "key": "beyadenu",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בְּיָדֵנוּ",
+        "transliteration": "beYadenu",
+        "englishLiteral": "in-hand-our",
+        "englishNatural": "in our hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַתָּה תִּתֵּן **בְּיָדֵנוּ** זְבָחִים וְעֹלֹת",
+        "transliteration": "atah titten **beYadenu** zevachim veOlot",
+        "englishLiteral": "you will-give **in-hand-our** sacrifices and-ascending_offerings",
+        "englishNatural": "you will give **in our hand** sacrifices and ascending-offerings"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "dibarta",
+  "language": "hebrew",
+  "root": "dabar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "דִּבַּ֑רְתָּ",
+        "transliteration": "dibarta",
+        "englishLiteral": "you-spoke",
+        "englishNatural": "you have spoken",
+        "root": "dabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁ֖ה כֵּ֣ן **דִּבַּ֑רְתָּ** לֹא־ אֹסִ֥ף",
+        "transliteration": "Moshe ken **dibarta** lo- osif",
+        "englishLiteral": "Drawn_Out (Moses) so **you-spoke** not I-will-add",
+        "englishNatural": "And Drawn-Out (Moses) So **you have spoken** not I will add"
+      }
+    }
+  ]
+}

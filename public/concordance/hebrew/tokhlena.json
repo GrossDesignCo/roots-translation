@@ -1,0 +1,33 @@
+{
+  "key": "tokhlena",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "תֹּאכְלֶנָּה",
+        "transliteration": "tokhlena",
+        "englishLiteral": "you-will-eat",
+        "englishNatural": "you will eat",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בַּעֲבוּרֶךָ בְּעִצָּבוֹן **תֹּאכְלֶנָּה** כֹּל יְמֵי",
+        "transliteration": "baAvurekha beItzavon **tokhlena** kol yemey",
+        "englishLiteral": "in-passing_through-your in-pain **you-will-eat** all days-of",
+        "englishNatural": "in your passing-through in pain **you will eat** all the days of"
+      }
+    }
+  ]
+}

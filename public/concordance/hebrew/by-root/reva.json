@@ -1,0 +1,54 @@
+{
+  "root": "reva",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "רִבְעֵיהֶם",
+        "transliteration": "riveihem",
+        "englishLiteral": "sides-their",
+        "englishNatural": "their sides",
+        "root": "reva",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל אַרְבַּעַת **רִבְעֵיהֶם** וּפְנֵיהֶם וְכַנְפֵיהֶם",
+        "transliteration": "al arbaat **riveihem** uFeneihem veKhanfeihem",
+        "englishLiteral": "over four-of **sides-their** and-faces-their and-wings-their",
+        "englishNatural": "over four of **their sides** and their faces and their wings"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רִבְעֵיהֶן",
+        "transliteration": "riveihen",
+        "englishLiteral": "sides-their",
+        "englishNatural": "their sides",
+        "root": "reva",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ אַרְבַּעַת **רִבְעֵיהֶן** יֵלֵכוּ בְּלֶכְתָּן",
+        "transliteration": "al- arbaat **riveihen** yelekhu beLekhtan",
+        "englishLiteral": "over- four-of **sides-their** they-went in-going-their",
+        "englishNatural": "Over four of **their sides** they went in their going"
+      }
+    }
+  ]
+}

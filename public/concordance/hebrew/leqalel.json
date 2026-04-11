@@ -1,0 +1,33 @@
+{
+  "key": "leqalel",
+  "language": "hebrew",
+  "root": "qalal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לְקַלֵּל",
+        "transliteration": "leQalel",
+        "englishLiteral": "to-treat-lightly",
+        "englishNatural": "to treat-lightly",
+        "root": "qalal",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ אֹסִף **לְקַלֵּל** עוֹד אֶת־",
+        "transliteration": "lo- osif **leQalel** od et-",
+        "englishLiteral": "not- I-will-add **to-treat-lightly** again ↳",
+        "englishNatural": "not I will add **to treat-lightly** again ↳"
+      }
+    }
+  ]
+}

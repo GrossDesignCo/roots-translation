@@ -1,0 +1,55 @@
+{
+  "key": "khalloteha",
+  "language": "hebrew",
+  "root": "kallah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "כַלֹּתֶ֣יהָ",
+        "transliteration": "khalloteha",
+        "englishLiteral": "daughters_in_law-her",
+        "englishNatural": "her daughters-in-law",
+        "root": "kallah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁ֖מָּה וּשְׁתֵּ֣י **כַלֹּתֶ֣יהָ** עִמָּ֑הּ וַתֵּלַ֣כְנָה",
+        "transliteration": "shammah uShtey **khalloteha** immah vatTelakhnah",
+        "englishLiteral": "there and-two-of **daughters_in_law-her** with-her and-walked",
+        "englishNatural": "there and the two of **her daughters-in-law** with her and they walked"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "כַלֹּתֶ֔יהָ",
+        "transliteration": "khalloteha",
+        "englishLiteral": "daughters_in_law-her",
+        "englishNatural": "her daughters-in-law",
+        "root": "kallah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נָעֳמִי֙ לִשְׁתֵּ֣י **כַלֹּתֶ֔יהָ** לֵ֣כְנָה שֹׁ֔בְנָה",
+        "transliteration": "Naomi liShtey **khalloteha** lekhnah shovnah",
+        "englishLiteral": "Pleasant_My (Naomi) to-two-of **daughters_in_law-her** Go return",
+        "englishNatural": "And My-Pleasant (Naomi) to the two of **her daughters-in-law** Go return"
+      }
+    }
+  ]
+}

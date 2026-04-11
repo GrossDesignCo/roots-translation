@@ -1,0 +1,33 @@
+{
+  "key": "yihyu",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 19
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "יִהְיוּ",
+        "transliteration": "yihyu",
+        "englishLiteral": "they-will-be",
+        "englishNatural": "they will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "זָכָר וּנְקֵבָה **יִהְיוּ**",
+        "transliteration": "zakhar uNeqevah **yihyu**",
+        "englishLiteral": "male and-female **they-will-be**",
+        "englishNatural": "male and female **they will be**"
+      }
+    }
+  ]
+}

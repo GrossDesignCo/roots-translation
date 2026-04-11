@@ -1,0 +1,31 @@
+{
+  "key": "leminehem",
+  "language": "hebrew",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לְמִינֵהֶ֗ם",
+        "transliteration": "leMinehem",
+        "englishLiteral": "to-their-kind",
+        "englishNatural": "to their kind",
+        "root": "min",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁרְצ֨וּ הַמַּ֜יִם **לְמִינֵהֶ֗ם** וְאֵ֣ת כָּל־",
+        "transliteration": "sharTsu haMayim **leMinehem** veEt kol-",
+        "englishLiteral": "swarmed the-waters **to-their-kind** And-↳ all",
+        "englishNatural": "swarmed the waters **to their kind** And all"
+      }
+    }
+  ]
+}

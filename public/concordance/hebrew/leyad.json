@@ -1,0 +1,31 @@
+{
+  "key": "leyad",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "לְיַד",
+        "transliteration": "leYad",
+        "englishLiteral": "To-hand-of",
+        "englishNatural": "To the hand of",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**לְיַד** שְׁעָרִים לְפִי",
+        "transliteration": "**leYad** shearim lePhi",
+        "englishLiteral": "**To-hand-of** gates to-mouth-of",
+        "englishNatural": "**To the hand of** gates to the mouth of"
+      }
+    }
+  ]
+}

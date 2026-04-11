@@ -1,0 +1,33 @@
+{
+  "key": "vayetzav",
+  "language": "hebrew",
+  "root": "tzavah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְצַו",
+        "transliteration": "vaYetzav",
+        "englishLiteral": "And-commanded",
+        "englishNatural": "commanded",
+        "root": "tzavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְצַו** יְהוָה אֱלֹהִים",
+        "transliteration": "**vaYetzav** YHWH Elohim",
+        "englishLiteral": "**And-commanded** He_Who_Is (YHWH) Gods",
+        "englishNatural": "**commanded** And He-Who-Is (YHWH) God"
+      }
+    }
+  ]
+}

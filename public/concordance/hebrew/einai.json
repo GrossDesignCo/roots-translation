@@ -1,0 +1,55 @@
+{
+  "key": "einai",
+  "language": "hebrew",
+  "root": "ayin_eye",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "עֵינַי",
+        "transliteration": "einai",
+        "englishLiteral": "my-eyes",
+        "englishNatural": "and my eyes",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹא־ רָמוּ **עֵינַי** וְלֹא־ הִלַּכְתִּי",
+        "transliteration": "velo- ramu **einai** velo- hilakhti",
+        "englishLiteral": "and-not- are-high **my-eyes** and-not- I-have-walked",
+        "englishNatural": "not are high **and my eyes** not and I have walked"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "עֵינָי",
+        "transliteration": "einai",
+        "englishLiteral": "my-eyes",
+        "englishNatural": "my eyes",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צְבָאוֹת רָאוּ **עֵינָי**",
+        "transliteration": "tsvaot rau **einai**",
+        "englishLiteral": "of-Hosts have-seen **my-eyes**",
+        "englishNatural": "of Hosts have seen **my eyes**"
+      }
+    }
+  ]
+}

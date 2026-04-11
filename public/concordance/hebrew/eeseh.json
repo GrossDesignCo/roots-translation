@@ -1,0 +1,33 @@
+{
+  "key": "eeseh",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אֶעֱשֶׂה",
+        "transliteration": "eEseh",
+        "englishLiteral": "I-will-do",
+        "englishNatural": "I will do",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תִרְאֶה אֲשֶׁר **אֶעֱשֶׂה** לְפַרְעֹה כִּי",
+        "transliteration": "tireh asher **eEseh** leParoh ki",
+        "englishLiteral": "you-will-see which **I-will-do** to-Pharaoh that",
+        "englishNatural": "you will see which **I will do** to Pharaoh that"
+      }
+    }
+  ]
+}

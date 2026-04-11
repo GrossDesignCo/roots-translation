@@ -1,0 +1,31 @@
+{
+  "key": "sholtaneh",
+  "language": "aramaic",
+  "root": "sholtan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "שָׁלְטָנֵ֞הּ",
+        "transliteration": "sholtaneh",
+        "englishLiteral": "dominion-His",
+        "englishNatural": "His dominion",
+        "root": "sholtan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֵ֣הּ יִפְלְח֑וּן **שָׁלְטָנֵ֞הּ** שָׁלְטָ֤ן עָלַם֙",
+        "transliteration": "leh yiphlakhun **sholtaneh** sholtan alam",
+        "englishLiteral": "to-him will-serve **dominion-His** dominion everlasting",
+        "englishNatural": "Him will serve **His dominion** is dominion everlasting"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "ramu",
+  "language": "hebrew",
+  "root": "rum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "רָמוּ",
+        "transliteration": "ramu",
+        "englishLiteral": "are-high",
+        "englishNatural": "are high",
+        "root": "rum",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִבִּי וְלֹא־ **רָמוּ** עֵינַי וְלֹא־",
+        "transliteration": "libi velo- **ramu** einai velo-",
+        "englishLiteral": "my-heart and-not- **are-high** my-eyes and-not-",
+        "englishNatural": "my heart not **are high** and my eyes not"
+      }
+    }
+  ]
+}

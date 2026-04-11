@@ -1,0 +1,33 @@
+{
+  "key": "veyardu",
+  "language": "hebrew",
+  "root": "yarad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְיָרְד֣וּ",
+        "transliteration": "veYardu",
+        "englishLiteral": "And-they-will-go_down",
+        "englishNatural": "will go-down",
+        "root": "yarad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְיָרְד֣וּ** כָל־ עֲבָדֶ֩יךָ֩",
+        "transliteration": "**veYardu** kol- avadekha",
+        "englishLiteral": "**And-they-will-go_down** all- servants-your",
+        "englishNatural": "**will go-down** And all your servants"
+      }
+    }
+  ]
+}

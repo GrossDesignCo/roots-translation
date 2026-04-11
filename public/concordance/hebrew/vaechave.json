@@ -1,0 +1,33 @@
+{
+  "key": "vaechave",
+  "language": "hebrew",
+  "root": "chaba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וָאֵחָבֵא",
+        "transliteration": "vaEchave",
+        "englishLiteral": "and-I-hid",
+        "englishNatural": "and I hid",
+        "root": "chaba",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "עֵירֹם אָנֹכִי **וָאֵחָבֵא**",
+        "transliteration": "arom anokhi **vaEchave**",
+        "englishLiteral": "naked I **and-I-hid**",
+        "englishNatural": "naked I am **and I hid**"
+      }
+    }
+  ]
+}

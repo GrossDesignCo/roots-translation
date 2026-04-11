@@ -1,0 +1,31 @@
+{
+  "key": "uvekhol-",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 2
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וּבְכָל־",
+        "transliteration": "uVekhol-",
+        "englishLiteral": "and-in-all-",
+        "englishNatural": "and in all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תִּרְמֹשׂ הָאֲדָמָה **וּבְכָל־** דְּגֵי הַיָּם",
+        "transliteration": "tirmos haAdamah **uVekhol-** degei haYam",
+        "englishLiteral": "it-creeps the-soil **and-in-all-** fish-of the-sea",
+        "englishNatural": "creeps the soil **and in all** fish of the sea"
+      }
+    }
+  ]
+}

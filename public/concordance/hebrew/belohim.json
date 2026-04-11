@@ -1,0 +1,31 @@
+{
+  "key": "belohim",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בֵּאלֹהִים",
+        "transliteration": "bElohim",
+        "englishLiteral": "in-Gods",
+        "englishNatural": "in God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַנְשֵׁי נִינְוֵה **בֵּאלֹהִים** וַיִּקְרְאוּ־ צוֹם",
+        "transliteration": "anshei Nineveh **bElohim** vaYiqreu- tzom",
+        "englishLiteral": "men-of Dwelling_of_Fish (Nineveh) **in-Gods** and-called_out- fast",
+        "englishNatural": "And the men of Dwelling-of-Fish (Nineveh) **in God** and called-out a fast"
+      }
+    }
+  ]
+}

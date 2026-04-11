@@ -1,0 +1,78 @@
+{
+  "root": "tzippor",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "צִפּוֹר",
+        "transliteration": "tzippor",
+        "englishLiteral": "bird",
+        "englishNatural": "bird",
+        "root": "tzippor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִינֵהוּ כֹּל **צִפּוֹר** כָּל־ כָּנָף",
+        "transliteration": "leMinehu kol **tzippor** kol- kanaph",
+        "englishLiteral": "to-kind-his all **bird** all- wing",
+        "englishNatural": "to its kind all **bird** all wing"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הַצִּפֹּר",
+        "transliteration": "haTzippor",
+        "englishLiteral": "the-bird",
+        "englishNatural": "the birds",
+        "root": "tzippor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֵעֵהוּ וְאֶת־ **הַצִּפֹּר** לֹא בָתָר",
+        "transliteration": "reehu veEt- **haTzippor** lo batar",
+        "englishLiteral": "friend-his and-↳ **the-bird** not he-divided",
+        "englishNatural": "his friend and **the birds** not he divided"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "צִפּ֣וֹר",
+        "transliteration": "tsippor",
+        "englishLiteral": "bird-of",
+        "englishNatural": "The bird of",
+        "root": "tzippor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**צִפּ֣וֹר** שָׁ֭מַיִם וּדְגֵ֣י",
+        "transliteration": "**tsippor** shamayim uDgei",
+        "englishLiteral": "**bird-of** skies and-fish-of",
+        "englishNatural": "**The bird of** skies and the fish of"
+      }
+    }
+  ]
+}

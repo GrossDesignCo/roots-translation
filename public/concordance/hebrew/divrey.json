@@ -1,0 +1,31 @@
+{
+  "key": "divrey",
+  "language": "hebrew",
+  "root": "davar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ecclesiastes",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "דִּבְרֵי֙",
+        "transliteration": "divRey",
+        "englishLiteral": "Words-of",
+        "englishNatural": "The words of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**דִּבְרֵי֙** קֹהֶ֣לֶת בֶּן־",
+        "transliteration": "**divRey** qohelet ben-",
+        "englishLiteral": "**Words-of** Assembler son-of",
+        "englishNatural": "**The words of** Assembler the son of"
+      }
+    }
+  ]
+}

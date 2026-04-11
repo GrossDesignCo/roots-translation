@@ -1,0 +1,111 @@
+{
+  "key": "osif",
+  "language": "hebrew",
+  "root": "yasaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "אֹסִף",
+        "transliteration": "osif",
+        "englishLiteral": "I-will-add",
+        "englishNatural": "I will add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "לִבּוֹ לֹא־ **אֹסִף** לְקַלֵּל עוֹד",
+        "transliteration": "libo lo- **osif** leQalel od",
+        "englishLiteral": "his-heart not- **I-will-add** to-treat-lightly again",
+        "englishNatural": "his heart not **I will add** to treat-lightly again"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 24,
+      "word": {
+        "originalScript": "אֹסִף",
+        "transliteration": "osif",
+        "englishLiteral": "I-will-add",
+        "englishNatural": "and I will add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "מִנְּעֻרָיו וְלֹא־ **אֹסִף** עוֹד לְהַכּוֹת",
+        "transliteration": "miNeurav veLo- **osif** od leHakot",
+        "englishLiteral": "from-his-youth and-not- **I-will-add** again to-strike",
+        "englishNatural": "from his youth not **and I will add** again to strike"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֹסִ֥ף",
+        "transliteration": "osif",
+        "englishLiteral": "I-will-add",
+        "englishNatural": "I will add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "דִּבַּ֑רְתָּ לֹא־ **אֹסִ֥ף** עוֹד֙ רְא֖וֹת",
+        "transliteration": "dibarta lo- **osif** od reot",
+        "englishLiteral": "you-spoke not **I-will-add** again to-see",
+        "englishNatural": "you have spoken not **I will add** again to see"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אוֹסִיף",
+        "transliteration": "osif",
+        "englishLiteral": "I-will-add",
+        "englishNatural": "I will add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "עֵינֶיךָ אַךְ **אוֹסִיף** לְהַבִּיט אֶל־",
+        "transliteration": "einekha akh **osif** lehabit el-",
+        "englishLiteral": "eyes-your Only **I-will-add** to-look to-",
+        "englishNatural": "your eyes Only **I will add** to look to"
+      }
+    }
+  ]
+}

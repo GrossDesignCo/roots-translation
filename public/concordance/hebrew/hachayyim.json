@@ -1,0 +1,79 @@
+{
+  "key": "hachayyim",
+  "language": "hebrew",
+  "root": "chayyim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הַחַיִּים",
+        "transliteration": "haChayyim",
+        "englishLiteral": "the-lives",
+        "englishNatural": "of Life",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַאֲכָל וְעֵץ **הַחַיִּים** בְּתוֹךְ הַגָּן",
+        "transliteration": "leMaakhal veEtz **haChayyim** beTokh haGan",
+        "englishLiteral": "to-food and-tree **the-lives** in-midst the-garden",
+        "englishNatural": "for food and the Tree **of Life** in the midst of the garden"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "הַחַיִּים",
+        "transliteration": "haChayyim",
+        "englishLiteral": "the-lives",
+        "englishNatural": "of Life",
+        "root": "chayyim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַּם מֵעֵץ **הַחַיִּים** וְאָכַל וָחַי",
+        "transliteration": "gam meEtz **haChayyim** veAkhal vaChai",
+        "englishLiteral": "also from-tree **the-lives** and-eat and-live",
+        "englishNatural": "also from the Tree **of Life** and eat and live"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "הַחַיִּים׃",
+        "transliteration": "haChayyim",
+        "englishLiteral": "the-lives",
+        "englishNatural": "of Life",
+        "root": "chayyim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דֶּרֶךְ עֵץ **הַחַיִּים׃**",
+        "transliteration": "derekh etz **haChayyim**",
+        "englishLiteral": "way tree **the-lives**",
+        "englishNatural": "the way to the Tree **of Life**"
+      }
+    }
+  ]
+}

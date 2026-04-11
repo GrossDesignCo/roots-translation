@@ -1,0 +1,30 @@
+{
+  "root": "tsedaqah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "צְדָקָה",
+        "transliteration": "tsedaqah",
+        "englishLiteral": "righteousness",
+        "englishNatural": "as righteousness",
+        "root": "tsedaqah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּחְשְׁבֶהָ לּוֹ **צְדָקָה**",
+        "transliteration": "vaYachsheveha lo **tsedaqah**",
+        "englishLiteral": "and-he-counted-her to-him **righteousness**",
+        "englishNatural": "and he counted it to him **as righteousness**"
+      }
+    }
+  ]
+}

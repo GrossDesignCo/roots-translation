@@ -1,0 +1,55 @@
+{
+  "key": "kiso",
+  "language": "hebrew",
+  "root": "kisse",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "כִּסְא֔וֹ",
+        "transliteration": "kiso",
+        "englishLiteral": "throne-his",
+        "englishNatural": "his throne",
+        "root": "kisse",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיֹּשֵׁ֣ב עַל־ **כִּסְא֔וֹ** עַ֚ד בְּכ֣וֹר",
+        "transliteration": "haYoshev al- **kiso** ad bekhor",
+        "englishLiteral": "the-sitting over- **throne-his** until firstborn",
+        "englishNatural": "the one sitting over **his throne** until the firstborn of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 29
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "כִּסְא֔וֹ",
+        "transliteration": "kiso",
+        "englishLiteral": "throne-his",
+        "englishNatural": "his throne",
+        "root": "kisse",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיֹּשֵׁ֣ב עַל־ **כִּסְא֔וֹ** עַ֚ד בְּכ֣וֹר",
+        "transliteration": "haYoshev al- **kiso** ad bekhor",
+        "englishLiteral": "the-sitting over- **throne-his** until firstborn-of",
+        "englishNatural": "the sitting over **his throne** until the firstborn of"
+      }
+    }
+  ]
+}

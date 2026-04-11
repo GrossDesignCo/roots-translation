@@ -1,0 +1,78 @@
+{
+  "root": "peri",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "פְרִֽי־",
+        "transliteration": "peri-",
+        "englishLiteral": "fruit-of",
+        "englishNatural": "fruit of",
+        "root": "peri",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ בּ֤וֹ **פְרִֽי־** עֵ֣ץ זֹרֵ֣עַ",
+        "transliteration": "asher- bo **peri-** etz zorea",
+        "englishLiteral": "which in-it **fruit-of** tree seeding",
+        "englishNatural": "which in it is **fruit of** tree seeding"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מִפְּרִי",
+        "transliteration": "miPeri",
+        "englishLiteral": "from-fruit-of",
+        "englishNatural": "from the fruit of",
+        "root": "peri",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּבֵא קַיִן **מִפְּרִי** הָאֲדָמָה מִנְחָה",
+        "transliteration": "vayYave Qayin **miPeri** haAdamah minchah",
+        "englishLiteral": "And-he-brought Acquired (Cain) **from-fruit-of** the-earth offering",
+        "englishNatural": "brought And Acquired (Cain) **from the fruit of** the earth an offering"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וּפִרְיוֹ",
+        "transliteration": "uFiryo",
+        "englishLiteral": "and-its-fruit",
+        "englishNatural": "and its fruit",
+        "root": "peri",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֵצֵא צֶפַע **וּפִרְיוֹ** שָׂרָף מְעוֹפֵף",
+        "transliteration": "yetze tsefa **uFiryo** saraph meOfef",
+        "englishLiteral": "shall-come-forth viper **and-its-fruit** incinerating_one flying",
+        "englishNatural": "shall come forth a viper **and its fruit** an incinerating-one flying"
+      }
+    }
+  ]
+}

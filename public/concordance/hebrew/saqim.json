@@ -1,0 +1,31 @@
+{
+  "key": "saqim",
+  "language": "hebrew",
+  "root": "saq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "שַׂקִּים",
+        "transliteration": "saqim",
+        "englishLiteral": "sackcloth",
+        "englishNatural": "sackcloth",
+        "root": "saq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צוֹם וַיִּלְבְּשׁוּ **שַׂקִּים** מִגְּדוֹלָם וְעַד־",
+        "transliteration": "tzom vaYilbeshu **saqim** miggedolam veAd-",
+        "englishLiteral": "fast and-clothed **sackcloth** from-great-their and-unto-",
+        "englishNatural": "a fast and clothed **sackcloth** from their great and unto"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "zōsei",
+  "language": "greek",
+  "root": "zonnuo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 23,
+      "word": {
+        "originalScript": "ζώσει",
+        "transliteration": "zōsei",
+        "englishLiteral": "will-gird",
+        "englishNatural": "will gird",
+        "root": "zonnuo",
+        "morphology": {
+          "type": "verb",
+          "tense": "future"
+        }
+      },
+      "context": {
+        "hebrew": "ἄλλος σε **ζώσει** καὶ οἴσει",
+        "transliteration": "allos se **zōsei** kai oisei",
+        "englishLiteral": "another you **will-gird** and will-carry",
+        "englishNatural": "another you **will gird** and will carry"
+      }
+    }
+  ]
+}

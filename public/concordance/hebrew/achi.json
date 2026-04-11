@@ -1,0 +1,31 @@
+{
+  "key": "achi",
+  "language": "hebrew",
+  "root": "ach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 9
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "אָחִי",
+        "transliteration": "achi",
+        "englishLiteral": "my-brother",
+        "englishNatural": "my brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָדַעְתִּי הֲשֹׁמֵר **אָחִי** אָנֹכִי",
+        "transliteration": "yadati haShomer **achi** anokhi",
+        "englishLiteral": "I-knew keeper-of **my-brother** I",
+        "englishNatural": "I knew keeper of **my brother** Am I"
+      }
+    }
+  ]
+}

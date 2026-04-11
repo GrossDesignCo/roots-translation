@@ -1,0 +1,31 @@
+{
+  "key": "baatzat",
+  "language": "hebrew",
+  "root": "etzah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בַּעֲצַת",
+        "transliteration": "baAtzat",
+        "englishLiteral": "in-counsel-of",
+        "englishNatural": "in the counsel of",
+        "root": "etzah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא הָלַךְ **בַּעֲצַת** רְשָׁעִים וּבְדֶרֶךְ",
+        "transliteration": "lo halakh **baAtzat** reshaim uvDerekh",
+        "englishLiteral": "not has-walked **in-counsel-of** wicked_ones and-in-way-of",
+        "englishNatural": "not has walked **in the counsel of** wicked-ones and in the way of"
+      }
+    }
+  ]
+}

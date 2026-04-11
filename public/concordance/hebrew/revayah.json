@@ -1,0 +1,33 @@
+{
+  "key": "revayah",
+  "language": "hebrew",
+  "root": "rabah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "רְוָיָה",
+        "transliteration": "revayah",
+        "englishLiteral": "overflowing",
+        "englishNatural": "overflowing",
+        "root": "rabah",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רֹאשִׁי כּוֹסִי **רְוָיָה**",
+        "transliteration": "roshi kosi **revayah**",
+        "englishLiteral": "my-head my-cup **overflowing**",
+        "englishNatural": "my head my cup **overflowing**"
+      }
+    }
+  ]
+}

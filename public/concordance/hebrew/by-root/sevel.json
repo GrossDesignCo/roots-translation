@@ -1,0 +1,78 @@
+{
+  "root": "sevel",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 4
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לְסִבְלֹתֵיכֶם",
+        "transliteration": "leSivlotekhem",
+        "englishLiteral": "to-burdens-your",
+        "englishNatural": "to your burdens",
+        "root": "sevel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִמַּעֲשָׂיו לְכוּ **לְסִבְלֹתֵיכֶם**",
+        "transliteration": "miMaasav lekhu **leSivlotekhem**",
+        "englishLiteral": "from-works-their go **to-burdens-your**",
+        "englishNatural": "from their works Go **to your burdens**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מִסִּבְלֹתָם",
+        "transliteration": "miSivlotam",
+        "englishLiteral": "from-burdens-their",
+        "englishNatural": "from their burdens",
+        "root": "sevel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִשְׁבַּתֶּם אֹתָם **מִסִּבְלֹתָם**",
+        "transliteration": "veHishbatem otam **miSivlotam**",
+        "englishLiteral": "and-will-cause_to_sabbath ↳ **from-burdens-their**",
+        "englishNatural": "and you cause them to sabbath ↳ **from their burdens**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "סִבְלֹת",
+        "transliteration": "sivlot",
+        "englishLiteral": "burdens-of",
+        "englishNatural": "the burdens of",
+        "root": "sevel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶתְכֶם מִתַּחַת **סִבְלֹת** מִצְרַיִם וְהִצַּלְתִּי",
+        "transliteration": "etkhem mitachat **sivlot** Mitzrayim veHitzalti",
+        "englishLiteral": "↳you from-under **burdens-of** Double_Narrows (Egypt) and-I-will-deliver",
+        "englishNatural": "you from under **the burdens of** Double-Narrows (Egypt) and I will deliver"
+      }
+    }
+  ]
+}

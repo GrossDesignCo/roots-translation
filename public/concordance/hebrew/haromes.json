@@ -1,0 +1,57 @@
+{
+  "key": "haromes",
+  "language": "hebrew",
+  "root": "ramas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "הָֽרֹמֵ֥שׂ",
+        "transliteration": "haRomes",
+        "englishLiteral": "the-crawling",
+        "englishNatural": "the crawling",
+        "root": "ramas",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְכָל־ הָרֶ֖מֶשׂ **הָֽרֹמֵ֥שׂ** עַל־ הָאָֽרֶץ׃",
+        "transliteration": "uVeKol- haRemes **haRomes** al- haAretz",
+        "englishLiteral": "and-in-all the-crawler **the-crawling** over the-land",
+        "englishNatural": "and in all the crawler **the crawling** over the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הָרֹמֵשׂ",
+        "transliteration": "haRomes",
+        "englishLiteral": "the-creeping",
+        "englishNatural": "the creeping",
+        "root": "ramas",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ הָרֶמֶשׂ **הָרֹמֵשׂ** עַל־ הָאָרֶץ",
+        "transliteration": "veKhol- haRemes **haRomes** al- haAretz",
+        "englishLiteral": "and-all- the-creeping_thing **the-creeping** over- the-land",
+        "englishNatural": "and all the creeping-thing **the creeping** over the land"
+      }
+    }
+  ]
+}

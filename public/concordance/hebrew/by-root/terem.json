@@ -1,0 +1,78 @@
+{
+  "root": "terem",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "טֶרֶם",
+        "transliteration": "terem",
+        "englishLiteral": "not-yet",
+        "englishNatural": "not yet",
+        "root": "terem",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "שִׂיחַ הַשָּׂדֶה **טֶרֶם** יִהְיֶה בָאָרֶץ",
+        "transliteration": "siakh haSadeh **terem** yihyeh baAretz",
+        "englishLiteral": "shrub the-field **not-yet** will-be in-land",
+        "englishNatural": "shrub of the field **not yet** was in the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "טֶרֶם",
+        "transliteration": "terem",
+        "englishLiteral": "not-yet",
+        "englishNatural": "had not yet",
+        "root": "terem",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עֵשֶׂב הַשָּׂדֶה **טֶרֶם** יִצְמָח כִּי",
+        "transliteration": "esev haSadeh **terem** yitzmach ki",
+        "englishLiteral": "herb the-field **not-yet** will-grow for",
+        "englishNatural": "herb of the field **had not yet** grown for"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 25
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בְּטֶרֶם",
+        "transliteration": "beTerem",
+        "englishLiteral": "In-before",
+        "englishNatural": "In before",
+        "root": "terem",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּטֶרֶם** הָרִים הָטְבָּעוּ",
+        "transliteration": "**beTerem** harim hotbau",
+        "englishLiteral": "**In-before** mountains were-sunk",
+        "englishNatural": "**In before** mountains were sunk"
+      }
+    }
+  ]
+}

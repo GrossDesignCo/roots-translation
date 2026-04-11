@@ -1,0 +1,33 @@
+{
+  "key": "mithallekh",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מִתְהַלֵּךְ",
+        "transliteration": "mithallekh",
+        "englishLiteral": "walking",
+        "englishNatural": "walking",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהִים **מִתְהַלֵּךְ** בַּגָּן לְרוּחַ",
+        "transliteration": "YHWH Elohim **mithallekh** baGan leRuach",
+        "englishLiteral": "He_Who_Is (YHWH) Gods **walking** in-Garden to-wind",
+        "englishNatural": "of He-Who-Is (YHWH) God **walking** in Garden to the wind"
+      }
+    }
+  ]
+}

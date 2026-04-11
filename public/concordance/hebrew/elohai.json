@@ -1,0 +1,31 @@
+{
+  "key": "elohai",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "אֱלֹהָי",
+        "transliteration": "elohai",
+        "englishLiteral": "God-my",
+        "englishNatural": "my God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַיַּי יְהוָה **אֱלֹהָי**",
+        "transliteration": "chayai YHWH **elohai**",
+        "englishLiteral": "life-my He_Who_Is (YHWH) **God-my**",
+        "englishNatural": "my life He-Who-Is (YHWH) **my God**"
+      }
+    }
+  ]
+}

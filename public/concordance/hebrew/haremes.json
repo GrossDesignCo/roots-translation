@@ -1,0 +1,55 @@
+{
+  "key": "haremes",
+  "language": "hebrew",
+  "root": "remes",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "הָרֶ֖מֶשׂ",
+        "transliteration": "haRemes",
+        "englishLiteral": "the-crawler",
+        "englishNatural": "the crawler",
+        "root": "ramas",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָ֔רֶץ וּבְכָל־ **הָרֶ֖מֶשׂ** הָֽרֹמֵ֥שׂ עַל־",
+        "transliteration": "haAretz uVeKol- **haRemes** haRomes al-",
+        "englishLiteral": "the-land and-in-all **the-crawler** the-crawling over",
+        "englishNatural": "the land and in all **the crawler** the crawling over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הָרֶמֶשׂ",
+        "transliteration": "haRemes",
+        "englishLiteral": "the-creeping_thing",
+        "englishNatural": "the creeping-thing",
+        "root": "remes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִינָהּ וְכָל־ **הָרֶמֶשׂ** הָרֹמֵשׂ עַל־",
+        "transliteration": "leMina veKhol- **haRemes** haRomes al-",
+        "englishLiteral": "to-kind-her and-all- **the-creeping_thing** the-creeping over-",
+        "englishNatural": "to its kind and all **the creeping-thing** the creeping over"
+      }
+    }
+  ]
+}

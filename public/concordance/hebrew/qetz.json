@@ -1,0 +1,31 @@
+{
+  "key": "qetz",
+  "language": "hebrew",
+  "root": "qetz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "קֵץ",
+        "transliteration": "qetz",
+        "englishLiteral": "end-of",
+        "englishNatural": "The end of",
+        "root": "qetz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים לְנֹחַ **קֵץ** כָּל־ בָּשָׂר",
+        "transliteration": "Elohim leNoach **qetz** kol- basar",
+        "englishLiteral": "Gods to-Rest (Noah) **end-of** all- flesh",
+        "englishNatural": "And God to Rest (Noah) **The end of** all flesh"
+      }
+    }
+  ]
+}

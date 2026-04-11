@@ -1,0 +1,102 @@
+{
+  "root": "shesh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 31
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הַשִּׁשִּֽׁי",
+        "transliteration": "haShishi",
+        "englishLiteral": "the-sixth",
+        "englishNatural": "The sixth",
+        "root": "shesh",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בֹ֖קֶר י֥וֹם **הַשִּׁשִּֽׁי**",
+        "transliteration": "boqer yom **haShishi**",
+        "englishLiteral": "morning Day **the-sixth**",
+        "englishNatural": "And morning day **The sixth**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שֵׁשׁ",
+        "transliteration": "shesh",
+        "englishLiteral": "six",
+        "englishNatural": "six",
+        "root": "shesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְנֹחַ בֶּן־ **שֵׁשׁ** מֵאוֹת שָׁנָה",
+        "transliteration": "veNoach ben- **shesh** meot shanah",
+        "englishLiteral": "And-Rest (Noah) son-of- **six** hundreds year",
+        "englishNatural": "And Rest (Noah) a son of **six** hundred years"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "שֵׁשׁ־",
+        "transliteration": "shesh-",
+        "englishLiteral": "six-",
+        "englishNatural": "six",
+        "root": "shesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "בִּשְׁנַת **שֵׁשׁ־** מֵאוֹת שָׁנָה",
+        "transliteration": "biShnat **shesh-** meot shanah",
+        "englishLiteral": "In-year-of **six-** hundreds year",
+        "englishNatural": "In the year of **six** hundred years"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שֵׁשׁ",
+        "transliteration": "shesh",
+        "englishLiteral": "six",
+        "englishNatural": "six",
+        "root": "shesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "מִמַּעַל לוֹ **שֵׁשׁ** כְּנָפַיִם לְאֶחָד",
+        "transliteration": "miMaal lo **shesh** kenafayim leEchad",
+        "englishLiteral": "from-above to-him **six** wings to-one",
+        "englishNatural": "above him **six** wings to each one"
+      }
+    }
+  ]
+}

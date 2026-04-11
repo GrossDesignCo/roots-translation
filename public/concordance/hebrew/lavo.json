@@ -1,0 +1,85 @@
+{
+  "key": "lavo",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לָבוֹא",
+        "transliteration": "lavo",
+        "englishLiteral": "to-come",
+        "englishNatural": "to come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי הַשֶּׁמֶשׁ **לָבוֹא** וְתַרְדֵּמָה נָפְלָה",
+        "transliteration": "vayehi haShemesh **lavo** veTardemah naflah",
+        "englishLiteral": "And-he-was the-sun **to-come** and-deep_trance she-fell",
+        "englishNatural": "was And the sun **to come** and a deep-trance fell"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "לָבוֹא",
+        "transliteration": "lavo",
+        "englishLiteral": "to-go",
+        "englishNatural": "to go",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּרֶד בָּהּ **לָבוֹא** עִמָּהֶם תַּרְשִׁישָׁה",
+        "transliteration": "vaYered bah **lavo** immahhem Tarshishah",
+        "englishLiteral": "and-went_down in-her **to-go** with-them golden_stone (Tarshish)",
+        "englishNatural": "and went-down into it **to go** with them to golden-stone (Tarshish)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לָבוֹא",
+        "transliteration": "lavo",
+        "englishLiteral": "to-enter",
+        "englishNatural": "to enter",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּחֶל יוֹנָה **לָבוֹא** בָעִיר מַהֲלַךְ",
+        "transliteration": "vaYachel Yonah **lavo** baIr mahalakh",
+        "englishLiteral": "And-began Dove (Jonah) **to-enter** in-city journey-of",
+        "englishNatural": "began And Dove (Jonah) **to enter** in the city a journey of"
+      }
+    }
+  ]
+}

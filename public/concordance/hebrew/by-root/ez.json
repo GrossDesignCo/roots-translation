@@ -1,0 +1,30 @@
+{
+  "root": "ez",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְעֵז",
+        "transliteration": "veEz",
+        "englishLiteral": "and-goat",
+        "englishNatural": "and a goat",
+        "root": "ez",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֶגְלָה מְשֻׁלֶּשֶׁת **וְעֵז** מְשֻׁלֶּשֶׁת וְאַיִל",
+        "transliteration": "eglah meshulleshet **veEz** meshulleshet veAyil",
+        "englishLiteral": "heifer three-years-old **and-goat** three-years-old and-ram",
+        "englishNatural": "a heifer three years old **and a goat** three years old and a ram"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "veelohey",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וֵאלֹהֵי",
+        "transliteration": "veElohey",
+        "englishLiteral": "and-Gods-of",
+        "englishNatural": "and the God of",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֵי יִצְחָק **וֵאלֹהֵי** יַעֲקֹב שְׁלָחַנִי",
+        "transliteration": "Elohey Yitzchaq **veElohey** Yaaqov shlachani",
+        "englishLiteral": "Gods-of He_Laughs (Isaac) **and-Gods-of** Heel_Grasper (Jacob) sent-me",
+        "englishNatural": "the God of He-Laughs (Isaac) **and the God of** Heel-Grasper (Jacob) has sent me"
+      }
+    }
+  ]
+}

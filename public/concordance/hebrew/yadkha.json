@@ -1,0 +1,55 @@
+{
+  "key": "yadkha",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יָדְךָ",
+        "transliteration": "yadkha",
+        "englishLiteral": "hand-your",
+        "englishNatural": "your hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה שְׁלַח **יָדְךָ** וֶאֱחֹז בִּזְנָבוֹ",
+        "transliteration": "Moshe shelach **yadkha** veEchoz biZnavo",
+        "englishLiteral": "Drawn_Out (Moses) send **hand-your** and-seize in-tail-its",
+        "englishNatural": "Drawn-Out (Moses) Send-out **your hand** and seize its tail"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "יָדְךָ",
+        "transliteration": "yadkha",
+        "englishLiteral": "hand-your",
+        "englishNatural": "your hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה נְטֵה **יָדְךָ** עַל־ הַשָּׁמַיִם",
+        "transliteration": "Moshe neteh **yadkha** al- haShamayim",
+        "englishLiteral": "Drawn_Out (Moses) stretch_out **hand-your** over- the-skies",
+        "englishNatural": "Drawn-Out (Moses) Stretch-out **your hand** over the skies"
+      }
+    }
+  ]
+}

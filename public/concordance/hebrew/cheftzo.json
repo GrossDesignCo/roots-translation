@@ -1,0 +1,31 @@
+{
+  "key": "cheftzo",
+  "language": "hebrew",
+  "root": "chafetz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "חֶפְצוֹ",
+        "transliteration": "cheftzo",
+        "englishLiteral": "his-choice_thing",
+        "englishNatural": "his choice-thing",
+        "root": "chafetz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּתוֹרַת יְהוָה **חֶפְצוֹ** וּבְתוֹרָתוֹ יֶהְגֶּה",
+        "transliteration": "beTorah YHWH **cheftzo** uvTorato yehgeh",
+        "englishLiteral": "in-law-of He_Who_Is (YHWH) **his-choice_thing** and-in-his-law he-meditates",
+        "englishNatural": "in the law of He-Who-Is (YHWH) **his choice-thing** and in his law he meditates"
+      }
+    }
+  ]
+}

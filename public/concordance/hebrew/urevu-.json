@@ -1,0 +1,33 @@
+{
+  "key": "urevu-",
+  "language": "hebrew",
+  "root": "rabah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּרְבוּ־",
+        "transliteration": "urevu-",
+        "englishLiteral": "and-multiply-",
+        "englishNatural": "and multiply",
+        "root": "rabah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁרְצוּ בָאָרֶץ **וּרְבוּ־** בָהּ",
+        "transliteration": "shirtzu baAretz **urevu-** vah",
+        "englishLiteral": "swarm in-land **and-multiply-** in-it",
+        "englishNatural": "swarm in the land **and multiply** in it"
+      }
+    }
+  ]
+}

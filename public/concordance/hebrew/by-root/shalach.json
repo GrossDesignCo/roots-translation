@@ -1,0 +1,578 @@
+{
+  "root": "shalach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "יִשְׁלַח",
+        "transliteration": "yishLach",
+        "englishLiteral": "he-will-send",
+        "englishNatural": "he will send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַתָּה פֶּן־ **יִשְׁלַח** יָדוֹ וְלָקַח",
+        "transliteration": "veAtah pen- **yishLach** yado veLaqach",
+        "englishLiteral": "and-now or-else **he-will-send** hand-his and-take",
+        "englishNatural": "and now or else **he will send-out** his hand and take"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 23
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְשַׁלְּחֵהוּ",
+        "transliteration": "vayShallachehu",
+        "englishLiteral": "And-he-sent-him",
+        "englishNatural": "sent him out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְשַׁלְּחֵהוּ** יְהוָה אֱלֹהִים",
+        "transliteration": "**vayShallachehu** YHWH Elohim",
+        "englishLiteral": "**And-he-sent-him** He_Who_Is (YHWH) Gods",
+        "englishNatural": "**sent him out** And He-Who-Is (YHWH) God"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שַׁל־",
+        "transliteration": "shal-",
+        "englishLiteral": "send-",
+        "englishNatural": "send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תִּקְרַב הֲלֹם **שַׁל־** נְעָלֶיךָ מֵעַל",
+        "transliteration": "tiqrav halom **shal-** nealekha meAl",
+        "englishLiteral": "approach here **send-** sandals-your from-over",
+        "englishNatural": "Approach here **send-out** your sandals from over"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "שְׁלָחַנִי",
+        "transliteration": "shelachani",
+        "englishLiteral": "sent-me",
+        "englishNatural": "has sent me",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֵי אֲבוֹתֵיכֶם **שְׁלָחַנִי** אֲלֵיכֶם וְאָמְרוּ־",
+        "transliteration": "elohei avoteikhem **shelachani** aleikhem veAmru-",
+        "englishLiteral": "Gods-of fathers-your **sent-me** to-you and-say-",
+        "englishNatural": "The God of your fathers **has sent me** to you and they have said"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "שְׁלָחַנִי",
+        "transliteration": "shlachani",
+        "englishLiteral": "sent-me",
+        "englishNatural": "has sent me",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׂרָאֵל אֶהְיֶה **שְׁלָחַנִי** אֲלֵיכֶם",
+        "transliteration": "Yisrael ehyeh **shlachani** aleikhem",
+        "englishLiteral": "Struggles_with_God (Israel) I_Am **sent-me** to-you",
+        "englishNatural": "Struggles-with-God (Israel) I-Am **has sent me** to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "שְׁלָחַנִי",
+        "transliteration": "shlachani",
+        "englishLiteral": "sent-me",
+        "englishNatural": "has sent me",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וֵאלֹהֵי יַעֲקֹב **שְׁלָחַנִי** אֲלֵיכֶם זֶה־",
+        "transliteration": "veElohey Yaaqov **shlachani** aleikhem zeh-",
+        "englishLiteral": "and-Gods-of Heel_Grasper (Jacob) **sent-me** to-you this-",
+        "englishNatural": "and the God of Heel-Grasper (Jacob) **has sent me** to you this is"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שְׁלַח",
+        "transliteration": "shelach",
+        "englishLiteral": "send",
+        "englishNatural": "Send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ מֹשֶׁה **שְׁלַח** יָדְךָ וֶאֱחֹז",
+        "transliteration": "el- Moshe **shelach** yadkha veEchoz",
+        "englishLiteral": "to- Drawn_Out (Moses) **send** hand-your and-seize",
+        "englishNatural": "to Drawn-Out (Moses) **Send-out** your hand and seize"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַיִּשְׁלַח",
+        "transliteration": "vaYishlach",
+        "englishLiteral": "And-sent",
+        "englishNatural": "And he sent-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וֶאֱחֹז בִּזְנָבוֹ **וַיִּשְׁלַח** יָדוֹ וַיַּחֲזֶק",
+        "transliteration": "veEchoz biZnavo **vaYishlach** yado vaYachazek",
+        "englishLiteral": "and-seize in-tail-its **And-sent** hand-his and-handled",
+        "englishNatural": "and seize its tail **And he sent-out** his hand and handled"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "יְשַׁלַּח",
+        "transliteration": "yeshallach",
+        "englishLiteral": "will-send",
+        "englishNatural": "and he will send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "לִבּוֹ וְלֹא **יְשַׁלַּח** אֶת־ הָעָם",
+        "transliteration": "libbo veLo **yeshallach** et- haAm",
+        "englishLiteral": "heart-his and-not **will-send** ↳ the-people.\"",
+        "englishNatural": "his heart not **and he will send-out** ↳ the people.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 1
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "שַׁלַּח",
+        "transliteration": "shallach",
+        "englishLiteral": "send",
+        "englishNatural": "Send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֵי יִשְׂרָאֵל **שַׁלַּח** אֶת־ עַמִּי",
+        "transliteration": "elohei Yisrael **shallach** et- ammi",
+        "englishLiteral": "Gods-of Struggles_with_God (Israel) **send** ↳ people-my",
+        "englishNatural": "the God of Struggles-with-God (Israel) **Send-out** ↳ my people"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְשַׁלַּח",
+        "transliteration": "leshalach",
+        "englishLiteral": "to-send",
+        "englishNatural": "to send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֶשְׁמַע בְּקֹלוֹ **לְשַׁלַּח** אֶת־ יִשְׂרָאֵל",
+        "transliteration": "eshma beQolo **leshalach** et- Yisrael",
+        "englishLiteral": "I-will-hear in-voice-his **to-send** ↳ Struggles_with_God (Israel)",
+        "englishNatural": "I will hear in his voice **to send-out** ↳ Struggles-with-God (Israel)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "אֲשַׁלֵּחַ",
+        "transliteration": "ashalach",
+        "englishLiteral": "I-will-send",
+        "englishNatural": "I will send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׂרָאֵל לֹא **אֲשַׁלֵּחַ**",
+        "transliteration": "Yisrael lo **ashalach**",
+        "englishLiteral": "Struggles_with_God (Israel) not **I-will-send**",
+        "englishNatural": "Struggles-with-God (Israel) not **I will send-out**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "יְשַׁלְּחֵם",
+        "transliteration": "yeshalchem",
+        "englishLiteral": "he-will-send_out-them",
+        "englishNatural": "he will send-out them",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "בְיָד חֲזָקָה **יְשַׁלְּחֵם** וּבְיָד חֲזָקָה",
+        "transliteration": "veYad chazaqah **yeshalchem** uVeYad chazaqah",
+        "englishLiteral": "in-hand intense **he-will-send_out-them** and-in-hand intense",
+        "englishNatural": "hand in an intense **he will send-out them** hand and in an intense"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְשִׁלַּח",
+        "transliteration": "veShilach",
+        "englishLiteral": "and-he-will-send_out",
+        "englishNatural": "and he will send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ פַּרְעֹה **וְשִׁלַּח** אֶת־ בְּנֵי",
+        "transliteration": "el- Paroh **veShilach** et- benei",
+        "englishLiteral": "to- Pharaoh **and-he-will-send_out** ↳ sons-of",
+        "englishNatural": "to Pharaoh **and he will send-out** ↳ the sons of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 20
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "שִׁלַּח",
+        "transliteration": "shillach",
+        "englishLiteral": "sent_out",
+        "englishNatural": "and he sent-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹה וְלֹא **שִׁלַּח** אֶת־ בְּנֵי",
+        "transliteration": "Paroh veLo **shillach** et- benei",
+        "englishLiteral": "Pharaoh and-not **sent_out** ↳ sons-of",
+        "englishNatural": "Pharaoh not **and he sent-out** ↳ the sons of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 27
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְשַׁלְּחָם",
+        "transliteration": "leshalcham",
+        "englishLiteral": "to-send_out-them",
+        "englishNatural": "to send-out them",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹא אָבָה **לְשַׁלְּחָם**",
+        "transliteration": "veLo avah **leshalcham**",
+        "englishLiteral": "and-not was_willing **to-send_out-them**",
+        "englishNatural": "not and he was willing **to send-out them**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "יְשַׁלַּ֥ח",
+        "transliteration": "yeShalach",
+        "englishLiteral": "he-will-send_out",
+        "englishNatural": "he will send-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אַחֲרֵי־ כֵ֕ן **יְשַׁלַּ֥ח** אֶתְכֶ֖ם מִזֶּ֑ה",
+        "transliteration": "acharei- ken **yeShalach** etkhem mizeh",
+        "englishLiteral": "after- so **he-will-send_out** ↳-you from-this",
+        "englishNatural": "after so **he will send-out** you from this"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "כְּשַׁלְּח֣וֹ",
+        "transliteration": "keShalcho",
+        "englishLiteral": "as-sending_out-him",
+        "englishNatural": "as his sending-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֶתְכֶ֖ם מִזֶּ֑ה **כְּשַׁלְּח֣וֹ** כָּלָ֔ה גָּרֵ֛שׁ",
+        "transliteration": "etkhem mizeh **keShalcho** kalah garesh",
+        "englishLiteral": "↳-you from-this **as-sending_out-him** finishing banishing",
+        "englishNatural": "you from this **as his sending-out** finishing banishing"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "שִׁלַּ֥ח",
+        "transliteration": "shillach",
+        "englishLiteral": "he-sent_out",
+        "englishNatural": "and he sent-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹ֔ה וְלֹֽא־ **שִׁלַּ֥ח** אֶת־ בְּנֵי־",
+        "transliteration": "Paroh veLo- **shillach** et- beney-",
+        "englishLiteral": "Pharaoh and-not- **he-sent_out** ↳- sons-of-",
+        "englishNatural": "Pharaoh not **and he sent-out** ↳- the sons of"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְשַׁלַּח",
+        "transliteration": "vaYeshalach",
+        "englishLiteral": "And-sent",
+        "englishNatural": "sent",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְשַׁלַּח** יְהוָה בָּעָם",
+        "transliteration": "**vaYeshalach** YHWH baAm",
+        "englishLiteral": "**And-sent** He_Who_Is (YHWH) among-the-people",
+        "englishNatural": "**sent** And He-Who-Is (YHWH) among the people"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שַׁבְּחוּהוּ",
+        "transliteration": "shabechuhu",
+        "englishLiteral": "send-to-him",
+        "englishNatural": "send to him",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל גּוֹיִם **שַׁבְּחוּהוּ** כָּל הָאֻמִּים",
+        "transliteration": "kol goyim **shabechuhu** kol haUmim",
+        "englishLiteral": "all nations **send-to-him** all the-peoples",
+        "englishNatural": "all nations **send to him** all the peoples"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתַּשְׁלִיכֵנִי",
+        "transliteration": "vaTaShlikheni",
+        "englishLiteral": "And-you-sent-me",
+        "englishNatural": "And you sent me",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתַּשְׁלִיכֵנִי** מְצוּלָה בִּלְבַב",
+        "transliteration": "**vaTaShlikheni** metzulah biLevav",
+        "englishLiteral": "**And-you-sent-me** deep in-heart-of",
+        "englishNatural": "**And you sent me** into the deep in the heart of"
+      }
+    }
+  ]
+}

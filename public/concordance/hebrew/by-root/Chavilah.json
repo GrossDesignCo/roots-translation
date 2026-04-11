@@ -1,0 +1,30 @@
+{
+  "root": "Chavilah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הַחֲוִילָה",
+        "transliteration": "haChavilah",
+        "englishLiteral": "the-Strength (Havilah)",
+        "englishNatural": "of Strength (Havilah)",
+        "root": "Chavilah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ אֶרֶץ **הַחֲוִילָה** אֲשֶׁר שָׁם",
+        "transliteration": "kol- eretz **haChavilah** asher sham",
+        "englishLiteral": "all- land **the-Strength (Havilah)** which there",
+        "englishNatural": "all the land **of Strength (Havilah)** which there is"
+      }
+    }
+  ]
+}

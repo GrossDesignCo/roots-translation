@@ -1,0 +1,31 @@
+{
+  "key": "bashemen",
+  "language": "hebrew",
+  "root": "shemen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בַשֶּׁמֶן",
+        "transliteration": "baShemen",
+        "englishLiteral": "with-oil",
+        "englishNatural": "with oil",
+        "root": "shemen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צֹרְרָי דִּשַּׁנְתָּ **בַשֶּׁמֶן** רֹאשִׁי כּוֹסִי",
+        "transliteration": "tzorerai dishanta **baShemen** roshi kosi",
+        "englishLiteral": "my-enemies you-anoint **with-oil** my-head my-cup",
+        "englishNatural": "my enemies you anoint **with oil** my head my cup"
+      }
+    }
+  ]
+}

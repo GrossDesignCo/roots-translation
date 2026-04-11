@@ -1,0 +1,31 @@
+{
+  "key": "vechataim",
+  "language": "hebrew",
+  "root": "chata",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְחַטָּאִים",
+        "transliteration": "veChataim",
+        "englishLiteral": "and-sinners",
+        "englishNatural": "and sinners",
+        "root": "chata",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רְשָׁעִים בַּמִּשְׁפָּט **וְחַטָּאִים** בַּעֲדַת צַדִּיקִים",
+        "transliteration": "reshaim baMishpat **veChataim** baAdat tzadiqim",
+        "englishLiteral": "wicked-ones in-justice **and-sinners** in-assembly-of righteous-ones",
+        "englishNatural": "the wicked in justice **and sinners** in the assembly of the righteous"
+      }
+    }
+  ]
+}

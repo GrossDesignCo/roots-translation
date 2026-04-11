@@ -1,0 +1,103 @@
+{
+  "key": "vezeh",
+  "language": "hebrew",
+  "root": "zeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְזֶה",
+        "transliteration": "veZeh",
+        "englishLiteral": "And-this",
+        "englishNatural": "And this",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְזֶה** אֲשֶׁר תַּעֲשֶׂה",
+        "transliteration": "**veZeh** asher taAseh",
+        "englishLiteral": "**And-this** which you-shall-make",
+        "englishNatural": "**And this** which you shall make"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וְזֶה",
+        "transliteration": "veZeh",
+        "englishLiteral": "and-this",
+        "englishNatural": "and this",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אַחַת לְכֻלָּם **וְזֶה** הַחִלָּם לַעֲשׂוֹת",
+        "transliteration": "achat leKhulam **veZeh** hachilam laAsot",
+        "englishLiteral": "one to-all-of-them **and-this** the-beginning-of-them to-make",
+        "englishNatural": "and one to all of them **and this** the beginning of their making"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 24,
+      "word": {
+        "originalScript": "וְזֶה",
+        "transliteration": "veZeh",
+        "englishLiteral": "and-this",
+        "englishNatural": "and this is",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "שְּׁמִי לְעֹלָם **וְזֶה** זִכְרִי לְדֹר",
+        "transliteration": "shmi leOlam **veZeh** zikri leDor",
+        "englishLiteral": "my-name to-the_age **and-this** my-rememberance to-generation",
+        "englishNatural": "my name to the-age **and this is** my rememberance to generation of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְזֶה",
+        "transliteration": "veZeh",
+        "englishLiteral": "and-this",
+        "englishNatural": "and this",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְבַּע חַיּוֹת **וְזֶה** מַרְאֵיהֶן דְּמוּת",
+        "transliteration": "arba chayot **veZeh** mareihen demut",
+        "englishLiteral": "four living_beings **and-this** appearance-their likeness-of",
+        "englishNatural": "four living-beings **and this** their appearance a likeness of"
+      }
+    }
+  ]
+}

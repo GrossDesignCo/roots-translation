@@ -1,0 +1,31 @@
+{
+  "key": "bein",
+  "language": "hebrew",
+  "root": "bein",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בֵּין",
+        "transliteration": "bein",
+        "englishLiteral": "between",
+        "englishNatural": "between",
+        "root": "bein",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עֲלֵי־ דָרֶךְ **בֵּין** נְתִיבוֹת נִצָּבָה",
+        "transliteration": "alei- derekh **bein** netivot nitzavah",
+        "englishLiteral": "overlooking way **between** paths she-has-stationed_herself",
+        "englishNatural": "overlooking a way **between** paths she has stationed-herself"
+      }
+    }
+  ]
+}

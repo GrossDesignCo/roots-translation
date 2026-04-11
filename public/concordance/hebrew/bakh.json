@@ -1,0 +1,31 @@
+{
+  "key": "bakh",
+  "language": "hebrew",
+  "root": "be",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "בָּךְ",
+        "transliteration": "bakh",
+        "englishLiteral": "in-you",
+        "englishNatural": "in you",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְהוּא יִמְשָׁל **בָּךְ**",
+        "transliteration": "veHu yimshal **bakh**",
+        "englishLiteral": "and-he he-will_rule **in-you**",
+        "englishNatural": "and he will rule **in you**"
+      }
+    }
+  ]
+}

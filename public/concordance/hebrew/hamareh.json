@@ -1,0 +1,31 @@
+{
+  "key": "hamareh",
+  "language": "hebrew",
+  "root": "mareh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הַמַּרְאֶה",
+        "transliteration": "haMareh",
+        "englishLiteral": "the-sight",
+        "englishNatural": "sight",
+        "root": "mareh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶרְאֶה אֶת־ **הַמַּרְאֶה** הַגָּדֹל הַזֶּה",
+        "transliteration": "veEreh et- **haMareh** haGadol haZeh",
+        "englishLiteral": "and-will-see ↳ **the-sight** the-great the-this",
+        "englishNatural": "and see ↳ **sight** great this"
+      }
+    }
+  ]
+}

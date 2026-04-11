@@ -1,0 +1,85 @@
+{
+  "key": "taaseh",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "תַּעֲשֶׂה",
+        "transliteration": "taAseh",
+        "englishLiteral": "you-shall-make",
+        "englishNatural": "you shall make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "גֹפֶר קִנִּים **תַּעֲשֶׂה** אֶת־ הַתֵּבָה",
+        "transliteration": "gopher qinnim **taAseh** et- haTevah",
+        "englishLiteral": "gopher nests **you-shall-make** ↳ the-ark",
+        "englishNatural": "gopher nests **you shall make** ↳ the ark"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 15
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "תַּעֲשֶׂה",
+        "transliteration": "taAseh",
+        "englishLiteral": "you-shall-make",
+        "englishNatural": "you shall make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְזֶה אֲשֶׁר **תַּעֲשֶׂה** אֹתָהּ שְׁלֹשׁ",
+        "transliteration": "veZeh asher **taAseh** otah shlosh",
+        "englishLiteral": "And-this which **you-shall-make** her three",
+        "englishNatural": "And this which **you shall make** it three"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 16
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "תַּעֲשֶׂה",
+        "transliteration": "taAseh",
+        "englishLiteral": "you-shall-make",
+        "englishNatural": "you shall make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "צֹהַר **תַּעֲשֶׂה** לַתֵּבָה וְאֶל־",
+        "transliteration": "tzohar **taAseh** laTevah veEl-",
+        "englishLiteral": "illunination **you-shall-make** to-the-ark and-to-",
+        "englishNatural": "A illunination **you shall make** for the ark and to"
+      }
+    }
+  ]
+}

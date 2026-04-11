@@ -1,0 +1,33 @@
+{
+  "key": "lehabit",
+  "language": "hebrew",
+  "root": "nabat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְהַבִּיט",
+        "transliteration": "lehabit",
+        "englishLiteral": "to-look",
+        "englishNatural": "to look",
+        "root": "nabat",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אַךְ אוֹסִיף **לְהַבִּיט** אֶל־ הֵיכַל",
+        "transliteration": "akh osif **lehabit** el- hekhal",
+        "englishLiteral": "Only I-will-add **to-look** to- temple-of",
+        "englishNatural": "Only I will add **to look** to the temple of"
+      }
+    }
+  ]
+}

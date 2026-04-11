@@ -1,0 +1,30 @@
+{
+  "root": "illen",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "אִלֵּין",
+        "transliteration": "illen",
+        "englishLiteral": "these",
+        "englishNatural": "these",
+        "root": "illen",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וְתָסֵף כָּל־ **אִלֵּין** מַלְכְוָתָא וְהִיא",
+        "transliteration": "veTasef kol- **illen** malkhevata veHi",
+        "englishLiteral": "and-she-will-consume all- **these** kingdoms-the and-she",
+        "englishNatural": "and consume all **these** the kingdoms and it"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "shulchan",
+  "language": "hebrew",
+  "root": "shulchan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שֻׁלְחָן",
+        "transliteration": "shulchan",
+        "englishLiteral": "table",
+        "englishNatural": "a table",
+        "root": "shulchan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תַּעֲרֹךְ לְפָנַי **שֻׁלְחָן** נֶגֶד צֹרְרָי",
+        "transliteration": "taarokh leFanai **shulchan** neged tzorerai",
+        "englishLiteral": "you-prepare to-my-faces **table** in-presence-of my-enemies",
+        "englishNatural": "you prepare to my face **a table** in the presence of my enemies"
+      }
+    }
+  ]
+}

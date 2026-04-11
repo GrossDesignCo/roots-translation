@@ -1,0 +1,59 @@
+{
+  "key": "natata",
+  "language": "hebrew",
+  "root": "natan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "נָתַתָּה",
+        "transliteration": "natata",
+        "englishLiteral": "you-gave",
+        "englishNatural": "you gave",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאִשָּׁה אֲשֶׁר **נָתַתָּה** עִמָּדִי הִיא",
+        "transliteration": "haIshah asher **natata** imadi hi",
+        "englishLiteral": "The-woman which **you-gave** with-me she",
+        "englishNatural": "The woman which **you gave** with me she"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נָתַתָּה",
+        "transliteration": "natata",
+        "englishLiteral": "you-have-given",
+        "englishNatural": "you have given",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִי לֹא **נָתַתָּה** זָרַע וְהִנֵּה",
+        "transliteration": "li lo **natata** zara veHineh",
+        "englishLiteral": "to-me not **you-have-given** seed and-behold",
+        "englishNatural": "to me not **you have given** seed and behold"
+      }
+    }
+  ]
+}

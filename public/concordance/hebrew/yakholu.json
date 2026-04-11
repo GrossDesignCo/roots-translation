@@ -1,0 +1,33 @@
+{
+  "key": "yakholu",
+  "language": "hebrew",
+  "root": "yakol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "יָכֹלוּ",
+        "transliteration": "yakholu",
+        "englishLiteral": "they-were-able",
+        "englishNatural": "and they were-able",
+        "root": "yakol",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַיַּבָּשָׁה וְלֹא **יָכֹלוּ** כִּי הַיָּם",
+        "transliteration": "haYabashah veLo **yakholu** ki haYam",
+        "englishLiteral": "the-dry_ground and-not **they-were-able** that the-sea",
+        "englishNatural": "the dry-ground not **and they were-able** that the sea"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "tuval qayin",
+  "language": "hebrew",
+  "root": "TuvalQayin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תּוּבַל קַיִן",
+        "transliteration": "Tuval Qayin",
+        "englishLiteral": "World Aquired (Tubal Cain)",
+        "englishNatural": "World Aquired (Tubal Cain)",
+        "root": "TuvalQayin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָלְדָה אֶת־ **תּוּבַל קַיִן** לֹטֵשׁ כָּל־",
+        "transliteration": "yaldah et- **Tuval Qayin** lotesh kol-",
+        "englishLiteral": "bore ↳ **World Aquired (Tubal Cain)** smithing all",
+        "englishNatural": "bore ↳ **World Aquired (Tubal Cain)** smithing all"
+      }
+    }
+  ]
+}

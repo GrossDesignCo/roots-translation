@@ -1,0 +1,55 @@
+{
+  "key": "addir",
+  "language": "hebrew",
+  "root": "addir",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אַדִּ֣יר",
+        "transliteration": "addir",
+        "englishLiteral": "majestic",
+        "englishNatural": "majestic",
+        "root": "addir",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֲדֹנֵ֗ינוּ מָֽה־ **אַדִּ֣יר** שִׁ֭מְךָ בְּכָל־",
+        "transliteration": "adoneinu mah- **addir** shimkha beKhol-",
+        "englishLiteral": "our-lord what- **majestic** your-name in-all-",
+        "englishNatural": "our lord what **majestic** your name in all"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אַדִּ֥יר",
+        "transliteration": "addir",
+        "englishLiteral": "majestic",
+        "englishNatural": "majestic",
+        "root": "addir",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֲדֹנֵ֑ינוּ מָֽה־ **אַדִּ֥יר** שִׁ֝מְךָ֗ בְּכָל־",
+        "transliteration": "adoneinu mah- **addir** shimkha beKhol-",
+        "englishLiteral": "our-lord what- **majestic** your-name in-all-",
+        "englishNatural": "our lord what **majestic** your name in all"
+      }
+    }
+  ]
+}

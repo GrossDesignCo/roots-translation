@@ -1,0 +1,31 @@
+{
+  "key": "vehevel",
+  "language": "hebrew",
+  "root": "hevel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְהֶבֶל",
+        "transliteration": "veHevel",
+        "englishLiteral": "And-Vapor (Abel)",
+        "englishNatural": "And Vapor (Abel)",
+        "root": "hevel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהֶבֶל** הֵבִיא גַם־",
+        "transliteration": "**veHevel** hevi gam-",
+        "englishLiteral": "**And-Vapor (Abel)** brought also",
+        "englishNatural": "**And Vapor (Abel)** brought also"
+      }
+    }
+  ]
+}

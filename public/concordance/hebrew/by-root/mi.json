@@ -1,0 +1,150 @@
+{
+  "root": "mi",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מִי",
+        "transliteration": "mi",
+        "englishLiteral": "Who",
+        "englishNatural": "Who",
+        "root": "mi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **מִי** הִגִּיד לְךָ",
+        "transliteration": "vaYomer **mi** higid lekha",
+        "englishLiteral": "And-he-said **Who** declared to-you",
+        "englishNatural": "And he said **Who** declared to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מִמֶּנָּה",
+        "transliteration": "mimenah",
+        "englishLiteral": "from-her",
+        "englishNatural": "from it",
+        "root": "mi",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה כִּי **מִמֶּנָּה** לֻקָּחְתָּ כִּי־",
+        "transliteration": "haAdamah ki **mimenah** luqachta ki-",
+        "englishLiteral": "the-earth that **from-her** you-were-taken that",
+        "englishNatural": "the earth that **from it** you were taken that"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מִמֶּנּוּ",
+        "transliteration": "miMennu",
+        "englishLiteral": "from-us",
+        "englishNatural": "from us",
+        "root": "mi",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הָיָה כְּאַחַד **מִמֶּנּוּ** לָדַעַת טוֹב",
+        "transliteration": "hayah keAchad **miMennu** laDaat tov",
+        "englishLiteral": "has-become as-one **from-us** to-know good",
+        "englishNatural": "has become as one **from us** to know good"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מִי",
+        "transliteration": "mi",
+        "englishLiteral": "who",
+        "englishNatural": "Who is",
+        "root": "mi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר פַרְעֹה **מִי** יְהוָה אֲשֶׁר",
+        "transliteration": "vaYomer Paroh **mi** YHWH asher",
+        "englishLiteral": "And-said Pharaoh **who** He_Who_Is (YHWH) which",
+        "englishNatural": "said And Pharaoh **Who is** He-Who-Is (YHWH) which"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מִן־",
+        "transliteration": "min-",
+        "englishLiteral": "from-",
+        "englishNatural": "from",
+        "root": "mi",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "סְעָרָה בָּאָה **מִן־** הַצָּפוֹן עָנָן",
+        "transliteration": "saarah baah **min-** haTzafon anan",
+        "englishLiteral": "storm coming **from-** the-north cloud",
+        "englishNatural": "storm coming **from** the north cloud"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "מִי־",
+        "transliteration": "mi-",
+        "englishLiteral": "who-",
+        "englishNatural": "Who",
+        "root": "mi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**מִי־** יוֹדֵעַ יָשׁוּב",
+        "transliteration": "**mi-** yodea yashuv",
+        "englishLiteral": "**who-** knows he-will-return",
+        "englishNatural": "**Who** knows will return"
+      }
+    }
+  ]
+}

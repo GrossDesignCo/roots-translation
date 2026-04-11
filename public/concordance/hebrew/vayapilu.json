@@ -1,0 +1,33 @@
+{
+  "key": "vayapilu",
+  "language": "hebrew",
+  "root": "naphal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וַיַּפִּילוּ",
+        "transliteration": "vaYapilu",
+        "englishLiteral": "And-they-caused-to-fall",
+        "englishNatural": "And they caused-to-fall",
+        "root": "naphal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הַזֹּאת לָנוּ **וַיַּפִּילוּ** גוֹרָלוֹת וַיִּפֹּל",
+        "transliteration": "hazot lanu **vaYapilu** goralot vaYipol",
+        "englishLiteral": "this to-us **And-they-caused-to-fall** lots and-fell",
+        "englishNatural": "is to us **And they caused-to-fall** lots fell"
+      }
+    }
+  ]
+}

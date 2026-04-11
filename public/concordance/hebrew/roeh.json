@@ -1,0 +1,59 @@
+{
+  "key": "roeh",
+  "language": "hebrew",
+  "root": "raah_shepherd",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "רֹעֵה",
+        "transliteration": "roeh",
+        "englishLiteral": "shepherd",
+        "englishNatural": "a shepherd",
+        "root": "raah_shepherd",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי־ הֶבֶל **רֹעֵה** צֹאן וְקַיִן",
+        "transliteration": "vayHi- Hevel **roeh** tzon veQayin",
+        "englishLiteral": "And-he-was Vapor (Abel) **shepherd** flock and-Acquired (Cain)",
+        "englishNatural": "was And Vapor (Abel) **a shepherd** of flock and Acquired (Cain)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רֹעֶה",
+        "transliteration": "roeh",
+        "englishLiteral": "shepherding",
+        "englishNatural": "shepherding",
+        "root": "raah_shepherd",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּמֹשֶׁה הָיָה **רֹעֶה** אֶת־ צֹאן",
+        "transliteration": "uMoshe hayah **roeh** et- tzon",
+        "englishLiteral": "And-Drawn_Out (Moses) was **shepherding** ↳ flock-of",
+        "englishNatural": "And Drawn-Out (Moses) had been **shepherding** ↳ the flock of"
+      }
+    }
+  ]
+}

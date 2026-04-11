@@ -1,0 +1,31 @@
+{
+  "key": "uleof",
+  "language": "hebrew",
+  "root": "oph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וּלְעוֹף",
+        "transliteration": "uLeOf",
+        "englishLiteral": "and-to-flyer",
+        "englishNatural": "and to flyer of",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְכָל־ הַבְּהֵמָה **וּלְעוֹף** הַשָּׁמַיִם וּלְכֹל",
+        "transliteration": "leKol- haBehemah **uLeOf** haShamayim uLeKol",
+        "englishLiteral": "to-every- the-beast **and-to-flyer** the-skies and-to-every",
+        "englishNatural": "to every beast **and to flyer of** the skies and to every"
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "root": "shamar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 15
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וּלְשָׁמְרָהּ׃",
+        "transliteration": "uLeShamrah",
+        "englishLiteral": "and-to-keep-her",
+        "englishNatural": "and to keep her",
+        "root": "shamar",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֵדֶן לְעָבְדָהּ **וּלְשָׁמְרָהּ׃**",
+        "transliteration": "Eden leAvdah **uLeShamrah**",
+        "englishLiteral": "Delight (Eden) to-serve-her **and-to-keep-her**",
+        "englishNatural": "Delight (Eden) to serve her **and to keep her**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לִשְׁמֹר",
+        "transliteration": "lishMor",
+        "englishLiteral": "to-keep",
+        "englishNatural": "to keep",
+        "root": "shamar",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "הַחֶרֶב הַמִּתְהַפֶּכֶת **לִשְׁמֹר** אֶת־ דֶּרֶךְ",
+        "transliteration": "haCherev haMithapekhet **lishMor** et- derekh",
+        "englishLiteral": "the-sword the-overturning **to-keep** ↳ way",
+        "englishNatural": "the Sword the Overturning **to keep** ↳ the way"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הֲשֹׁמֵר",
+        "transliteration": "haShomer",
+        "englishLiteral": "keeper-of",
+        "englishNatural": "keeper of",
+        "root": "shamar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא יָדַעְתִּי **הֲשֹׁמֵר** אָחִי אָנֹכִי",
+        "transliteration": "lo yadati **haShomer** achi anokhi",
+        "englishLiteral": "Not I-knew **keeper-of** my-brother I",
+        "englishNatural": "not I knew **keeper of** my brother Am I"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הִשָּׁ֣מֶר",
+        "transliteration": "hiShamer",
+        "englishLiteral": "guard",
+        "englishNatural": "guard",
+        "root": "shamar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "לֵ֣ךְ מֵֽעָלָ֑י **הִשָּׁ֣מֶר** לְךָ֔ אַל־",
+        "transliteration": "lekh meAlay **hiShamer** lekha al-",
+        "englishLiteral": "Go from-over-me **guard** to-you not",
+        "englishNatural": "Go from over me **guard** yourself not"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "מְשַׁמְּרִים",
+        "transliteration": "meshamrim",
+        "englishLiteral": "Keepers-of",
+        "englishNatural": "Keepers of",
+        "root": "shamar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**מְשַׁמְּרִים** הַבְלֵי־ שָׁוְא",
+        "transliteration": "**meshamrim** havlei- shav",
+        "englishLiteral": "**Keepers-of** vapors-of emptiness",
+        "englishNatural": "**Keepers of** vapors of emptiness"
+      }
+    }
+  ]
+}

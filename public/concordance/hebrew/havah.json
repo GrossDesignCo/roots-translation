@@ -1,0 +1,79 @@
+{
+  "key": "havah",
+  "language": "hebrew",
+  "root": "habah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הָבָה",
+        "transliteration": "havah",
+        "englishLiteral": "come",
+        "englishNatural": "\"Come",
+        "root": "havah",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ רֵעֵהוּ **הָבָה** נִלְבְּנָה לְבֵנִים",
+        "transliteration": "el- reeyhu **havah** nilvnah levenim",
+        "englishLiteral": "to- his-friend **come** let-us-make-bricks bricks",
+        "englishNatural": "to his friend **\"Come** let us make-bricks bricks"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הָבָה",
+        "transliteration": "havah",
+        "englishLiteral": "come",
+        "englishNatural": "Come",
+        "root": "havah",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמְרוּ **הָבָה** נִבְנֶה־ לָּנוּ",
+        "transliteration": "vayYomeru **havah** nivneh- lanu",
+        "englishLiteral": "And-they-said **come** let-us-build- for-us",
+        "englishNatural": "And they said **Come** let us build for us"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "הָבָה",
+        "transliteration": "havah",
+        "englishLiteral": "Come",
+        "englishNatural": "Come",
+        "root": "habah",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "**הָבָה** נֵרְדָה וְנָבְלָה",
+        "transliteration": "**havah** nerdah veNavlah",
+        "englishLiteral": "**Come** let-us-descend and-let-us-confuse",
+        "englishNatural": "**Come** let us descend and let us confuse"
+      }
+    }
+  ]
+}

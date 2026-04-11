@@ -1,0 +1,33 @@
+{
+  "key": "shefot",
+  "language": "hebrew",
+  "root": "shafat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שְׁפֹ֣ט",
+        "transliteration": "shefot",
+        "englishLiteral": "justice-doing-of",
+        "englishNatural": "the justice-doing of",
+        "root": "shafat",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִ֗י בִּימֵי֙ **שְׁפֹ֣ט** הַשֹּׁפְטִ֔ים וַיְהִ֥י",
+        "transliteration": "vayHi biYmey **shefot** haShoftim vayHi",
+        "englishLiteral": "And-was in-days-of **justice-doing-of** the-Just_Ones and-was",
+        "englishNatural": "And it was in the days of **the justice-doing of** the Just-Ones was"
+      }
+    }
+  ]
+}

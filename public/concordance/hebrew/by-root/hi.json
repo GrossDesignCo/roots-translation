@@ -1,0 +1,150 @@
+{
+  "root": "hi",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 12
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הִיא",
+        "transliteration": "hi",
+        "englishLiteral": "she",
+        "englishNatural": "she",
+        "root": "hi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "נָתַתָּה עִמָּדִי **הִיא** נָתְנָה־ לִּי",
+        "transliteration": "natata imadi **hi** natnah- li",
+        "englishLiteral": "you-gave with-me **she** she-gave- to-me",
+        "englishNatural": "you gave with me **she** gave to me"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 20
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הִוא",
+        "transliteration": "hi",
+        "englishLiteral": "she",
+        "englishNatural": "she",
+        "root": "hi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "חַוָּה כִּי **הִוא** הָיְתָה אֵם",
+        "transliteration": "Chavah ki **hi** hayetah em",
+        "englishLiteral": "Life (Eve) that **she** was Mother",
+        "englishNatural": "Life (Eve) that **she** was Mother"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הִוא",
+        "transliteration": "hi",
+        "englishLiteral": "she",
+        "englishNatural": "she",
+        "root": "hi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וְצִלָּה גַם־ **הִוא** יָלְדָה אֶת־",
+        "transliteration": "veTzillah gam- **hi** yaldah et-",
+        "englishLiteral": "and-Shadow (Zillah) also- **she** bore ↳",
+        "englishNatural": "And Shadow (Zillah) also **she** bore ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הִ֖יא",
+        "transliteration": "hi",
+        "englishLiteral": "she",
+        "englishNatural": "and she",
+        "root": "hi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "נָעֳמִ֑י וַתִּשָּׁאֵ֥ר **הִ֖יא** וּשְׁנֵ֥י בָנֶֽיהָ׃",
+        "transliteration": "Naomi vatTishare **hi** usheney vaneha",
+        "englishLiteral": "Pleasant_My (Naomi) and-was-left **she** and-two-of sons-her",
+        "englishNatural": "My-Pleasant (Naomi) was left **and she** and the two of her sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הִיא֙",
+        "transliteration": "hi",
+        "englishLiteral": "she",
+        "englishNatural": "And she",
+        "root": "hi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתָּ֤קָם **הִיא֙** וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב",
+        "transliteration": "vatTaqam **hi** veKhalloteha vatTashav",
+        "englishLiteral": "And-stood_up **she** and-daughters_in_law-her and-returned",
+        "englishNatural": "stood-up **And she** and her daughters-in-law and returned"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הִיא",
+        "transliteration": "hi",
+        "englishLiteral": "she",
+        "englishNatural": "she",
+        "root": "hi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּמַרְאֵה הַלַּפִּדִם **הִיא** מִתְהַלֶּכֶת בֵּין",
+        "transliteration": "keMarah haLappidim **hi** mithalekhet beyn",
+        "englishLiteral": "like-appearance-of the-torches **she** going between",
+        "englishNatural": "like the appearance of The Torches **she** was going between"
+      }
+    }
+  ]
+}

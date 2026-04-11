@@ -1,0 +1,33 @@
+{
+  "key": "haholekh",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הַהֹלֵךְ",
+        "transliteration": "haHolekh",
+        "englishLiteral": "the-walking",
+        "englishNatural": "walks",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "חִדֶּקֶל הוּא **הַהֹלֵךְ** קִדְמַת אַשּׁוּר",
+        "transliteration": "Chidekel hu **haHolekh** qidmat Ashur",
+        "englishLiteral": "Rapid (Chidekel) he **the-walking** east-of Steppe (Assyria)",
+        "englishNatural": "Rapid (Chidekel) it **walks** east of Steppe (Assyria)"
+      }
+    }
+  ]
+}

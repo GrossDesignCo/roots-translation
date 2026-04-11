@@ -1,0 +1,33 @@
+{
+  "key": "vayetiluhu",
+  "language": "hebrew",
+  "root": "tul",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַיְטִלֻהוּ",
+        "transliteration": "vaYetiluhu",
+        "englishLiteral": "and-hurled-him",
+        "englishNatural": "and hurled him",
+        "root": "tul",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ יוֹנָה **וַיְטִלֻהוּ** אֶל־ הַיָּם",
+        "transliteration": "et- Yonah **vaYetiluhu** el- haYam",
+        "englishLiteral": "↳ Dove (Jonah) **and-hurled-him** to- the-sea",
+        "englishNatural": "↳ Dove (Jonah) **and hurled him** to the sea"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "mosdei",
+  "language": "hebrew",
+  "root": "mosed",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 29
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "מוֹסְדֵי",
+        "transliteration": "mosdei",
+        "englishLiteral": "foundations-of",
+        "englishNatural": "the foundations of",
+        "root": "mosed",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פִיו בְּחוּקוֹ **מוֹסְדֵי** אָרֶץ",
+        "transliteration": "piw beChuqo **mosdei** aretz",
+        "englishLiteral": "his-mouth in-inscribing-his **foundations-of** land",
+        "englishNatural": "his mouth in his inscribing **the foundations of** land"
+      }
+    }
+  ]
+}

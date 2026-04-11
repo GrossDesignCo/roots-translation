@@ -1,0 +1,55 @@
+{
+  "key": "oun",
+  "language": "greek",
+  "root": "oun",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "οὖν",
+        "transliteration": "oun",
+        "englishLiteral": "therefore",
+        "englishNatural": "therefore",
+        "root": "oun",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "λύκων γίνεσθε **οὖν** φρόνιμοι ὡς",
+        "transliteration": "lukon ginesthe **oun** phronimoi hos",
+        "englishLiteral": "wolves be **therefore** shrewd as",
+        "englishNatural": "wolves be **therefore** shrewd as"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "οὖν",
+        "transliteration": "oun",
+        "englishLiteral": "therefore",
+        "englishNatural": "therefore",
+        "root": "oun",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "Ὅτε **οὖν** ἠρίστησαν λέγει",
+        "transliteration": "Hote **oun** ēristēsan legei",
+        "englishLiteral": "When **therefore** they-meal_shared he-says",
+        "englishNatural": "When **therefore** they had meal-shared says"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "katabainonta",
+  "language": "greek",
+  "root": "katabaino",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "καταβαίνοντα",
+        "transliteration": "katabainonta",
+        "englishLiteral": "descending",
+        "englishNatural": "descending",
+        "root": "katabaino",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "εἶδον ἄγγελον **καταβαίνοντα** ἐκ τοῦ",
+        "transliteration": "eidon angelon **katabainonta** ek tou",
+        "englishLiteral": "I-saw messenger **descending** out-of the",
+        "englishNatural": "I saw a messenger **descending** from the"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayachel",
+  "language": "hebrew",
+  "root": "chalal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיָּחֶל",
+        "transliteration": "vaYachel",
+        "englishLiteral": "And-began",
+        "englishNatural": "began",
+        "root": "chalal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּחֶל** יוֹנָה לָבוֹא",
+        "transliteration": "**vaYachel** Yonah lavo",
+        "englishLiteral": "**And-began** Dove (Jonah) to-enter",
+        "englishNatural": "**began** And Dove (Jonah) to enter"
+      }
+    }
+  ]
+}

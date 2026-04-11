@@ -1,0 +1,33 @@
+{
+  "key": "eda",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֵדַע",
+        "transliteration": "eda",
+        "englishLiteral": "I-will-know",
+        "englishNatural": "will I know",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוִה בַּמָּה **אֵדַע** כִּי אִירָשֶׁנָּה",
+        "transliteration": "YHWH bamah **eda** ki irashenah",
+        "englishLiteral": "He_Who_Is (YHWH) by-what **I-will-know** that I-will-inherit-her",
+        "englishNatural": "He-Who-Is (YHWH) by what **will I know** that I will inherit it"
+      }
+    }
+  ]
+}

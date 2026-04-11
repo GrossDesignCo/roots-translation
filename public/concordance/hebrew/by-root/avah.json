@@ -1,0 +1,56 @@
+{
+  "root": "avah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "תַאֲוָה־",
+        "transliteration": "taavah-",
+        "englishLiteral": "desirable-",
+        "englishNatural": "desirable",
+        "root": "avah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַאֲכָל וְכִי **תַאֲוָה־** הוּא לָעֵינַיִם",
+        "transliteration": "leMaakhal veKi **taavah-** hu laEynayim",
+        "englishLiteral": "for-food and-that **desirable-** it to-eyes",
+        "englishNatural": "for food and that **desirable** it was to the eyes"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 27
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אָבָה",
+        "transliteration": "avah",
+        "englishLiteral": "was_willing",
+        "englishNatural": "and he was willing",
+        "root": "avah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹה וְלֹא **אָבָה** לְשַׁלְּחָם",
+        "transliteration": "Paroh veLo **avah** leshalcham",
+        "englishLiteral": "Pharaoh and-not **was_willing** to-send_out-them",
+        "englishNatural": "Pharaoh not **and he was willing** to send-out them"
+      }
+    }
+  ]
+}

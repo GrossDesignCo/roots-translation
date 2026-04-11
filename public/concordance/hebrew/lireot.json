@@ -1,0 +1,33 @@
+{
+  "key": "lireot",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "לִרְאוֹת",
+        "transliteration": "liReot",
+        "englishLiteral": "to-see",
+        "englishNatural": "to see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הָאָדָם **לִרְאוֹת** מַה־ יִּקְרָא־",
+        "transliteration": "el- haAdam **liReot** mah- yiqra-",
+        "englishLiteral": "to- the-Earthling (Adam) **to-see** what- he-calls_out-",
+        "englishNatural": "to the Earthling (Adam) **to see** what he would call-out"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "haskel",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַשְׂכֵּל",
+        "transliteration": "haskel",
+        "englishLiteral": "wise_conduct",
+        "englishNatural": "wise-conduct",
+        "root": "haskel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָקַחַת מוּסַר **הַשְׂכֵּל** צֶדֶק וּמִשְׁפָּט",
+        "transliteration": "laqachat musar **haskel** tzedeq umishpat",
+        "englishLiteral": "To-receive discipline **wise_conduct** righteousness and-justice",
+        "englishNatural": "To receive discipline **wise-conduct** righteousness and justice"
+      }
+    }
+  ]
+}

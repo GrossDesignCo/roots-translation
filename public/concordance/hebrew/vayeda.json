@@ -1,0 +1,33 @@
+{
+  "key": "vayeda",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֵּדַע",
+        "transliteration": "vaYeda",
+        "englishLiteral": "and-knew",
+        "englishNatural": "knew",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּדַע** אָדָם עוֹד",
+        "transliteration": "**vaYeda** Adam od",
+        "englishLiteral": "**and-knew** Earthling (Adam) again",
+        "englishNatural": "**knew** And Earthling (Adam) again"
+      }
+    }
+  ]
+}

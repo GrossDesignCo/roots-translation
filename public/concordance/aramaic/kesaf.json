@@ -1,0 +1,31 @@
+{
+  "key": "kesaf",
+  "language": "aramaic",
+  "root": "kesaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "כְסַף",
+        "transliteration": "kesaf",
+        "englishLiteral": "silver",
+        "englishNatural": "silver",
+        "root": "kesaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּדְרָעוֹהִי דִּי **כְסַף** מְעוֹהִי וְיַרְכָתֵהּ",
+        "transliteration": "uDeraohi di **kesaf** meohi veYarkhateh",
+        "englishLiteral": "and-arms-its which **silver** belly-its and-thighs-its",
+        "englishNatural": "and its arms of **silver** its belly and its thighs"
+      }
+    }
+  ]
+}

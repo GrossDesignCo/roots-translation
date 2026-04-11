@@ -1,0 +1,55 @@
+{
+  "key": "uvishtayim",
+  "language": "hebrew",
+  "root": "shnayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וּבִשְׁתַּיִם",
+        "transliteration": "uViShtayim",
+        "englishLiteral": "and-in-two",
+        "englishNatural": "and in two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "יְכַסֶּה פָּנָיו **וּבִשְׁתַּיִם** יְכַסֶּה רַגְלָיו",
+        "transliteration": "yeKhasseh panav **uViShtayim** yeKhasseh raglav",
+        "englishLiteral": "he-covers his-faces **and-in-two** he-covers his-feet",
+        "englishNatural": "he covers his faces **and in two** he covers his feet"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וּבִשְׁתַּיִם",
+        "transliteration": "uViShtayim",
+        "englishLiteral": "and-in-two",
+        "englishNatural": "and in two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "יְכַסֶּה רַגְלָיו **וּבִשְׁתַּיִם** יְעוֹפֵף",
+        "transliteration": "yeKhasseh raglav **uViShtayim** yeOfef",
+        "englishLiteral": "he-covers his-feet **and-in-two** he-flies",
+        "englishNatural": "he covers his feet **and in two** he flies"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "mimaasav",
+  "language": "hebrew",
+  "root": "maaseh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "מִמַּעֲשָׂיו",
+        "transliteration": "miMaasav",
+        "englishLiteral": "from-works-their",
+        "englishNatural": "from their works",
+        "root": "maaseh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הָעָם **מִמַּעֲשָׂיו** לְכוּ לְסִבְלֹתֵיכֶם",
+        "transliteration": "et- haAm **miMaasav** lekhu leSivlotekhem",
+        "englishLiteral": "↳ the-people **from-works-their** go to-burdens-your",
+        "englishNatural": "↳ the people **from their works** Go to your burdens"
+      }
+    }
+  ]
+}

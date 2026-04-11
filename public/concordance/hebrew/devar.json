@@ -1,0 +1,31 @@
+{
+  "key": "devar",
+  "language": "hebrew",
+  "root": "davar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "דְּבַר",
+        "transliteration": "devar",
+        "englishLiteral": "matter-of",
+        "englishNatural": "the matters of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְכָל־ **דְּבַר** חָכְמַת בִּינָה",
+        "transliteration": "uVeKol- **devar** chokhmat binah",
+        "englishLiteral": "and-in-all- **matter-of** wisdom-of understanding",
+        "englishNatural": "And in all **the matters of** the wisdom of understanding"
+      }
+    }
+  ]
+}

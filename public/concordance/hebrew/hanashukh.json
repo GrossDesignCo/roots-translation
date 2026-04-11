@@ -1,0 +1,32 @@
+{
+  "key": "hanashukh",
+  "language": "hebrew",
+  "root": "nashakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 8
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הַנָּשׁוּךְ",
+        "transliteration": "haNashukh",
+        "englishLiteral": "the-struck",
+        "englishNatural": "who is struck",
+        "root": "nashakh",
+        "morphology": {
+          "type": "verb",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיָה כָּל **הַנָּשׁוּךְ** וְרָאָה אֹתוֹ",
+        "transliteration": "veHayah kol **haNashukh** veRaah oto",
+        "englishLiteral": "and-it-will-be all **the-struck** and-sees it",
+        "englishNatural": "and it shall come about everyone **who is struck** and sees it"
+      }
+    }
+  ]
+}

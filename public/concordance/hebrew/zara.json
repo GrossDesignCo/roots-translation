@@ -1,0 +1,55 @@
+{
+  "key": "zara",
+  "language": "hebrew",
+  "root": "zara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      },
+      "wordIndex": 23,
+      "word": {
+        "originalScript": "זָ֑רַע",
+        "transliteration": "zara",
+        "englishLiteral": "seed",
+        "englishNatural": "seed",
+        "root": "zera",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֵ֣ץ זֹרֵ֣עַ **זָ֑רַע** לָכֶ֥ם יִֽהְיֶ֖ה",
+        "transliteration": "etz zorea **zara** lakhem yihyeh",
+        "englishLiteral": "tree seeding **seed** to-you it-shall-be",
+        "englishNatural": "tree seeding **seed** to you it shall be"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "זָרַע",
+        "transliteration": "zara",
+        "englishLiteral": "seed",
+        "englishNatural": "seed",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא נָתַתָּה **זָרַע** וְהִנֵּה בֶן־",
+        "transliteration": "lo natata **zara** veHineh ben-",
+        "englishLiteral": "not you-have-given **seed** and-behold son-of-",
+        "englishNatural": "not you have given **seed** and behold the son of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "rebot-",
+  "language": "hebrew",
+  "root": "rabah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 9
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "רְבוֹת־",
+        "transliteration": "rebot-",
+        "englishLiteral": "multiplying-",
+        "englishNatural": "multiplying",
+        "root": "rabah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹ֑ה לְמַ֛עַן **רְבוֹת־** מוֹפְתַ֖י בְּאֶ֥רֶץ",
+        "transliteration": "Paroh lemaan **rebot-** moftay beEretz",
+        "englishLiteral": "Pharaoh for-sake-of **multiplying-** wonders-my in-land-of",
+        "englishNatural": "Pharaoh for the sake of **multiplying** my wonders in the land of"
+      }
+    }
+  ]
+}

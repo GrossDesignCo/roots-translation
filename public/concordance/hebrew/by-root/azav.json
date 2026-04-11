@@ -1,0 +1,58 @@
+{
+  "root": "azav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 24
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יַעֲזָב",
+        "transliteration": "yaazov",
+        "englishLiteral": "he-will-leave",
+        "englishNatural": "will leave",
+        "root": "azav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ כֵּן **יַעֲזָב** אִישׁ אֶת־",
+        "transliteration": "al- ken **yaazov** ish et-",
+        "englishLiteral": "over- so **he-will-leave** man ↳",
+        "englishNatural": "moreover So **will leave** Man ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "יַעֲזֹבוּ",
+        "transliteration": "yaazovu",
+        "englishLiteral": "they-forsake",
+        "englishNatural": "they forsake",
+        "root": "azav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁוְא חַסְדָּם **יַעֲזֹבוּ**",
+        "transliteration": "shav chasdam **yaazovu**",
+        "englishLiteral": "emptiness steadfast_love-their **they-forsake**",
+        "englishNatural": "emptiness their steadfast-love **they forsake**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "petaim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לַפְּתָאיִם",
+        "transliteration": "lapetaim",
+        "englishLiteral": "to-simple_men",
+        "englishNatural": "to simple men",
+        "root": "petaim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָתֵת **לַפְּתָאיִם** עָרְמָה לְנַעַר",
+        "transliteration": "latet **lapetaim** armah lenaar",
+        "englishLiteral": "To-give **to-simple_men** shrewdness to-young_man",
+        "englishNatural": "To give **to simple men** shrewdness to a young man"
+      }
+    }
+  ]
+}

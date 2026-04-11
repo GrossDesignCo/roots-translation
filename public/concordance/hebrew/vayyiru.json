@@ -1,0 +1,33 @@
+{
+  "key": "vayyiru",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּרְאוּ",
+        "transliteration": "vayYiru",
+        "englishLiteral": "And-they-saw",
+        "englishNatural": "saw",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּרְאוּ** בְנֵי־ הָאֱלֹהִים",
+        "transliteration": "**vayYiru** beney- haElohim",
+        "englishLiteral": "**And-they-saw** sons- the-Gods",
+        "englishNatural": "**saw** And the sons of God"
+      }
+    }
+  ]
+}

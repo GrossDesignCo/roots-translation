@@ -1,0 +1,33 @@
+{
+  "key": "amad",
+  "language": "hebrew",
+  "root": "amad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עָמָד",
+        "transliteration": "amad",
+        "englishLiteral": "has-stood",
+        "englishNatural": "has stood",
+        "root": "amad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "חַטָּאִים לֹא **עָמָד** וּבְמוֹשַׁב לֵצִים",
+        "transliteration": "chataim lo **amad** uvMoshav letzim",
+        "englishLiteral": "sinners not **has-stood** and-in-seat-of scoffers",
+        "englishNatural": "sinners not **has stood** and in the seat of scoffers"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "havalim",
+  "language": "hebrew",
+  "root": "hevel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ecclesiastes",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הֲבָלִים֙",
+        "transliteration": "havalim",
+        "englishLiteral": "vapors",
+        "englishNatural": "vapors",
+        "root": "hevel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲבֵ֤ל **הֲבָלִים֙** אָמַ֣ר קֹהֶ֔לֶת",
+        "transliteration": "havel **havalim** amar qohelet",
+        "englishLiteral": "Vapor-of **vapors** said Assembler",
+        "englishNatural": "Vapor of **vapors** said Assembler"
+      }
+    },
+    {
+      "location": {
+        "book": "Ecclesiastes",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הֲבָלִ֖ים",
+        "transliteration": "havalim",
+        "englishLiteral": "vapors",
+        "englishNatural": "vapors",
+        "root": "hevel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קֹהֶ֔לֶת הֲבֵ֥ל **הֲבָלִ֖ים** הַכֹּ֥ל הָֽבֶל׃",
+        "transliteration": "qohelet havel **havalim** haKol havel",
+        "englishLiteral": "Assembler vapor-of **vapors** the-all vapor",
+        "englishNatural": "Assembler Vapor of **vapors** all is vapor"
+      }
+    }
+  ]
+}

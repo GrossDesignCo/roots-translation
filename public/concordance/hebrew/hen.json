@@ -1,0 +1,103 @@
+{
+  "key": "hen",
+  "language": "hebrew",
+  "root": "hinneh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הֵן",
+        "transliteration": "hen",
+        "englishLiteral": "Behold",
+        "englishNatural": "Behold",
+        "root": "hinneh",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהִים **הֵן** הָאָדָם הָיָה",
+        "transliteration": "YHWH Elohim **hen** haAdam hayah",
+        "englishLiteral": "He_Who_Is (YHWH) Gods **Behold** the-Earthling (Adam) has-become",
+        "englishNatural": "And He-Who-Is (YHWH) God **Behold** the Earthling (Adam) has become"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "הֵן",
+        "transliteration": "hen",
+        "englishLiteral": "Behold",
+        "englishNatural": "Behold",
+        "root": "hinneh",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "**הֵן** גֵּרַשְׁתָּ אֹתִי",
+        "transliteration": "**hen** gerashta oti",
+        "englishLiteral": "**Behold** you-banished ↳-me",
+        "englishNatural": "**Behold** you have banished me"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הֵן",
+        "transliteration": "hen",
+        "englishLiteral": "Behold",
+        "englishNatural": "Behold",
+        "root": "hen",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **הֵן** עַם אֶחָד",
+        "transliteration": "vaYomer YHWH **hen** am echad",
+        "englishLiteral": "And-he-said He_Who_Is (YHWH) **Behold** people one",
+        "englishNatural": "said And He-Who-Is (YHWH) **Behold** the people is one"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הֵן",
+        "transliteration": "hen",
+        "englishLiteral": "Behold",
+        "englishNatural": "Behold",
+        "root": "hen",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר אַבְרָם **הֵן** לִי לֹא",
+        "transliteration": "vaYomer Abram **hen** li lo",
+        "englishLiteral": "And-he-said Exalted_Father (Abram) **Behold** to-me not",
+        "englishNatural": "said And Exalted-Father (Abram) **Behold** to me not"
+      }
+    }
+  ]
+}

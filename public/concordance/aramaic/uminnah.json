@@ -1,0 +1,31 @@
+{
+  "key": "uminnah",
+  "language": "aramaic",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 42
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וּמִנַּהּ",
+        "transliteration": "uminnah",
+        "englishLiteral": "and-from-it",
+        "englishNatural": "and from it",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "תֶּהֱוֵא תַקִּיפָה **וּמִנַּהּ** תֶּהֱוֵא תְבִירָה",
+        "transliteration": "teheve taqqipha **uminnah** teheve tevirah",
+        "englishLiteral": "will-be strong-the **and-from-it** will-be fragile-the",
+        "englishNatural": "will be the strong **and from it** will be the fragile"
+      }
+    }
+  ]
+}

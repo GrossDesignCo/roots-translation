@@ -1,0 +1,31 @@
+{
+  "key": "vehen",
+  "language": "hebrew",
+  "root": "hen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְהֵן",
+        "transliteration": "veHen",
+        "englishLiteral": "and-behold",
+        "englishNatural": "And behold",
+        "root": "hen",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה וַיֹּאמֶר **וְהֵן** לֹא־ יַאֲמִינוּ",
+        "transliteration": "Moshe vaYomer **veHen** lo- yaAminu",
+        "englishLiteral": "Drawn_Out (Moses) and-said **and-behold** not- will-believe",
+        "englishNatural": "And Drawn-Out (Moses) and said **And behold** not they will believe"
+      }
+    }
+  ]
+}

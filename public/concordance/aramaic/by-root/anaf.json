@@ -1,0 +1,30 @@
+{
+  "root": "anaf",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 46
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אַנְפּוֹהִי",
+        "transliteration": "anpohi",
+        "englishLiteral": "face-his",
+        "englishNatural": "his face",
+        "root": "anaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְפַל עַל־ **אַנְפּוֹהִי** וּלְדָנִיֵּאל סְגִד",
+        "transliteration": "nephal al- **anpohi** uleDaniel segid",
+        "englishLiteral": "fell over- **face-his** and-to-My_Judge_God (Daniel) he-prostrated",
+        "englishNatural": "had fallen over **his face** and to My-Judge-God (Daniel) he prostrated"
+      }
+    }
+  ]
+}

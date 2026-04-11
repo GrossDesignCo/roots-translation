@@ -1,0 +1,85 @@
+{
+  "key": "vayeshev",
+  "language": "hebrew",
+  "root": "yashav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וַיֵּשֶׁב",
+        "transliteration": "vaYeshev",
+        "englishLiteral": "and-sat",
+        "englishNatural": "and sat",
+        "root": "yashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְכַס שַׂק **וַיֵּשֶׁב** עַל־ הָאֵפֶר",
+        "transliteration": "vaYekhas saq **vaYeshev** al- haEfer",
+        "englishLiteral": "and-covered sackcloth **and-sat** over- the-ashes",
+        "englishNatural": "and covered sackcloth **and sat** over the ashes"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַיֵּשֶׁב",
+        "transliteration": "vaYeshev",
+        "englishLiteral": "and-sat",
+        "englishNatural": "and sat",
+        "root": "yashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הָעִיר **וַיֵּשֶׁב** מִקֶּדֶם לָעִיר",
+        "transliteration": "min- haIr **vaYeshev** miQedem laIr",
+        "englishLiteral": "from- the-city **and-sat** from-east to-the-city",
+        "englishNatural": "from the city **and sat** from east to the city"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וַיֵּשֶׁב",
+        "transliteration": "vaYeshev",
+        "englishLiteral": "and-sat",
+        "englishNatural": "and sat",
+        "root": "yashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁם סֻכָּה **וַיֵּשֶׁב** תַּחְתֶּיהָ בַּצֵּל",
+        "transliteration": "sham sukkah **vaYeshev** tachteha baTzel",
+        "englishLiteral": "there booth **and-sat** under-her in-shadow",
+        "englishNatural": "there a booth **and sat** under it in the shadow"
+      }
+    }
+  ]
+}

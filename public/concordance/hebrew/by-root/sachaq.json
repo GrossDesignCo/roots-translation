@@ -1,0 +1,58 @@
+{
+  "root": "sachaq",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 30
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מְשַׂחֶקֶת",
+        "transliteration": "mesacheqet",
+        "englishLiteral": "laughing",
+        "englishNatural": "laughing",
+        "root": "sachaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹם יוֹם **מְשַׂחֶקֶת** לְפָנָיו בְּכָל־",
+        "transliteration": "yom yom **mesacheqet** lefanav beKhol-",
+        "englishLiteral": "day day **laughing** to-faces-his in-all-",
+        "englishNatural": "day day **laughing** to his faces in all"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 31
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "מְשַׂחֶקֶת",
+        "transliteration": "mesacheqet",
+        "englishLiteral": "laughing",
+        "englishNatural": "laughing",
+        "root": "sachaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**מְשַׂחֶקֶת** בְּתֵבֵל אַרְצוֹ",
+        "transliteration": "**mesacheqet** beTevel artso",
+        "englishLiteral": "**laughing** in-world-of his-land",
+        "englishNatural": "**laughing** in the world of his land"
+      }
+    }
+  ]
+}

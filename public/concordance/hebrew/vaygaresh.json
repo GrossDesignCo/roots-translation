@@ -1,0 +1,33 @@
+{
+  "key": "vaygaresh",
+  "language": "hebrew",
+  "root": "garash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְגָרֶשׁ",
+        "transliteration": "vayGaresh",
+        "englishLiteral": "And-he-banished",
+        "englishNatural": "And he banished",
+        "root": "garash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְגָרֶשׁ** אֶת־ הָאָדָם",
+        "transliteration": "**vayGaresh** et- haAdam",
+        "englishLiteral": "**And-he-banished** ↳ the-Earthling (Adam)",
+        "englishNatural": "**And he banished** ↳ the Earthling (Adam)"
+      }
+    }
+  ]
+}

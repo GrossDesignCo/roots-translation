@@ -1,0 +1,31 @@
+{
+  "key": "alai",
+  "language": "hebrew",
+  "root": "al",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "עָלַי",
+        "transliteration": "alai",
+        "englishLiteral": "upon",
+        "englishNatural": "upon",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אִמּוֹ כַּגָּמוּל **עָלַי** נַפְשִׁי",
+        "transliteration": "imo kaGamul **alai** nafshi",
+        "englishLiteral": "his-mother as-weaned-one **upon** my-throat",
+        "englishNatural": "his mother as a weaned-one **upon** my throat"
+      }
+    }
+  ]
+}

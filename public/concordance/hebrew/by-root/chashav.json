@@ -1,0 +1,58 @@
+{
+  "root": "chashav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וַיַּחְשְׁבֶהָ",
+        "transliteration": "vaYachsheveha",
+        "englishLiteral": "and-he-counted-her",
+        "englishNatural": "and he counted it",
+        "root": "chashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהֶאֱמִן בַּיהוָה **וַיַּחְשְׁבֶהָ** לּוֹ צְדָקָה",
+        "transliteration": "veHemin baYHWH **vaYachsheveha** lo tsedaqah",
+        "englishLiteral": "And-he-believed in-He_Who_Is (YHWH) **and-he-counted-her** to-him righteousness",
+        "englishNatural": "And he believed in He-Who-Is (YHWH) **and he counted it** to him as righteousness"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "חִשְּׁבָה",
+        "transliteration": "chishvah",
+        "englishLiteral": "planned",
+        "englishNatural": "planned",
+        "root": "chashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בַּיָּם וְהָאֳנִיָּה **חִשְּׁבָה** לְהִשָּׁבֵר",
+        "transliteration": "baYam veHaOniyah **chishvah** lehishabeir",
+        "englishLiteral": "in-sea and-the-ship **planned** to-be-broken",
+        "englishNatural": "in the sea and the ship **planned** to be broken"
+      }
+    }
+  ]
+}

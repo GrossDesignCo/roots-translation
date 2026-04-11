@@ -1,0 +1,31 @@
+{
+  "key": "veavna",
+  "language": "aramaic",
+  "root": "even",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "וְאַבְנָא",
+        "transliteration": "veAvna",
+        "englishLiteral": "and-the-stone",
+        "englishNatural": "And the stone",
+        "root": "even",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הִשְׁתֲּכַח לְהוֹן **וְאַבְנָא** דִּי מְחָת",
+        "transliteration": "hishtakach lehon **veAvna** di mechat",
+        "englishLiteral": "was-found to-them **and-the-stone** that struck",
+        "englishNatural": "found to them **And the stone** that struck"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "mitachtav",
+  "language": "hebrew",
+  "root": "tachti",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "מִתַּחְתָּיו",
+        "transliteration": "miTachtav",
+        "englishLiteral": "from-lowness-his",
+        "englishNatural": "from his lowness",
+        "root": "tachti",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "קָמוּ אִישׁ **מִתַּחְתָּיו** שְׁלֹשֶׁת יָמִים",
+        "transliteration": "qamu ish **miTachtav** sheloshet yamim",
+        "englishLiteral": "stood_up man **from-lowness-his** three-of days",
+        "englishNatural": "stood-up and man **from his lowness** three days"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "hashlishi",
+  "language": "hebrew",
+  "root": "shlishi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַשְּׁלִישִׁי",
+        "transliteration": "haShlishi",
+        "englishLiteral": "the-third",
+        "englishNatural": "the third",
+        "root": "shlishi",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם הַנָּהָר **הַשְּׁלִישִׁי** חִדֶּקֶל הוּא",
+        "transliteration": "shem haNahar **haShlishi** Chidekel hu",
+        "englishLiteral": "name the-river **the-third** Rapid (Chidekel) he",
+        "englishNatural": "The name of river **the third** Rapid (Chidekel) it"
+      }
+    }
+  ]
+}

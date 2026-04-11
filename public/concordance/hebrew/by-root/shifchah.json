@@ -1,0 +1,30 @@
+{
+  "root": "shifchah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "הַשִּׁפְחָ֔ה",
+        "transliteration": "haShifchah",
+        "englishLiteral": "the-maidservant",
+        "englishNatural": "the maidservant",
+        "root": "shifchah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַ֚ד בְּכ֣וֹר **הַשִּׁפְחָ֔ה** אֲשֶׁ֖ר אַחַ֣ר",
+        "transliteration": "ad bekhor **haShifchah** asher achar",
+        "englishLiteral": "until firstborn **the-maidservant** which after",
+        "englishNatural": "until the firstborn of **the maidservant** which after"
+      }
+    }
+  ]
+}

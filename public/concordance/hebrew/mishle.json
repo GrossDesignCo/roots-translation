@@ -1,0 +1,31 @@
+{
+  "key": "mishle",
+  "language": "hebrew",
+  "root": "mashal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "מִשְׁלֵי",
+        "transliteration": "mishle",
+        "englishLiteral": "Rules-of",
+        "englishNatural": "Rules of",
+        "root": "mashal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**מִשְׁלֵי** שְׁלֹמֹה בֶן־",
+        "transliteration": "**mishle** shlomo ben-",
+        "englishLiteral": "**Rules-of** His_Peace (Solomon) son-of-",
+        "englishNatural": "**Rules of** His-Peace (Solomon) son of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "root": "av",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 24
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אָבִיו",
+        "transliteration": "aviv",
+        "englishLiteral": "his-father",
+        "englishNatural": "his father",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ אֶת־ **אָבִיו** וְאֶת־ אִמּוֹ",
+        "transliteration": "ish et- **aviv** veEt- immo",
+        "englishLiteral": "man ↳ **his-father** and-↳ his-mother",
+        "englishNatural": "Man ↳ **his father** and his mother"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אֲבִי",
+        "transliteration": "avi",
+        "englishLiteral": "father-of",
+        "englishNatural": "father of",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא הָיָה **אֲבִי** יֹשֵׁב אֹהֶל",
+        "transliteration": "hu hayah **avi** yoshev ohel",
+        "englishLiteral": "he was **father-of** dwelling tent",
+        "englishNatural": "he was **father of** dwelling tent"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אֲבִי",
+        "transliteration": "avi",
+        "englishLiteral": "father-of",
+        "englishNatural": "father of",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא הָיָה **אֲבִי** כָּל־ תֹּפֵשׂ",
+        "transliteration": "hu hayah **avi** kol- tofes",
+        "englishLiteral": "he was **father-of** all handling",
+        "englishNatural": "he was **father of** all handling"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אָבִיךָ",
+        "transliteration": "avikha",
+        "englishLiteral": "father-your",
+        "englishNatural": "your father",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִמּוֹלַדְתְּךָ וּמִבֵּית **אָבִיךָ** אֶל־ הָאָרֶץ",
+        "transliteration": "umiMoladtekha uMiBeyt **avikha** el- haAretz",
+        "englishLiteral": "and-from-kindred-your and-from-house-of **father-your** to- the-land",
+        "englishNatural": "and from your kindred and from the house of **your father** to the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אֲבֹתֶיךָ",
+        "transliteration": "avotekha",
+        "englishLiteral": "fathers-of-you",
+        "englishNatural": "your fathers",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תָּבוֹא אֶל־ **אֲבֹתֶיךָ** בְּשָׁלוֹם תִּקָּבֵר",
+        "transliteration": "tavo el- **avotekha** beShalom tiqaver",
+        "englishLiteral": "you-will-come to- **fathers-of-you** in-peace you-will-be-buried",
+        "englishNatural": "will go to **your fathers** in peace you will be buried"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אָבִיךָ",
+        "transliteration": "avikha",
+        "englishLiteral": "father-your",
+        "englishNatural": "your father",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָנֹכִי אֱלֹהֵי **אָבִיךָ** אֱלֹהֵי אַבְרָהָם",
+        "transliteration": "anokhi elohei **avikha** elohei Avraham",
+        "englishLiteral": "I Gods-of **father-your** Gods-of Exalted_Father (Abraham)",
+        "englishNatural": "I the God of **your father** the God of Exalted-Father (Abraham)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 13
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אֲבוֹתֵיכֶם",
+        "transliteration": "avoteikhem",
+        "englishLiteral": "fathers-your",
+        "englishNatural": "your fathers",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶם אֱלֹהֵי **אֲבוֹתֵיכֶם** שְׁלָחַנִי אֲלֵיכֶם",
+        "transliteration": "lahem elohei **avoteikhem** shelachani aleikhem",
+        "englishLiteral": "to-them Gods-of **fathers-your** sent-me to-you",
+        "englishNatural": "to them The God of **your fathers** has sent me to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אֲבֹתָם",
+        "transliteration": "avotam",
+        "englishLiteral": "fathers-their",
+        "englishNatural": "their fathers",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהֵי **אֲבֹתָם** אֱלֹהֵי אַבְרָהָם",
+        "transliteration": "YHWH elohei **avotam** elohei Avraham",
+        "englishLiteral": "He_Who_Is (YHWH) Gods-of **fathers-their** Gods-of Exalted_Father (Abraham)",
+        "englishNatural": "He-Who-Is (YHWH) the God of **their fathers** the God of Exalted-Father (Abraham)"
+      }
+    }
+  ]
+}

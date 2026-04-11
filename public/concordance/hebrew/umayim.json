@@ -1,0 +1,55 @@
+{
+  "key": "umayim",
+  "language": "hebrew",
+  "root": "mayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 29
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וּמַיִם",
+        "transliteration": "uMayim",
+        "englishLiteral": "and-waters",
+        "englishNatural": "and the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַיָּם חֻקּוֹ **וּמַיִם** לֹא יַעַבְרוּ־",
+        "transliteration": "laYam chuqo **uMayim** lo yaavru-",
+        "englishLiteral": "to-the-sea his-decree **and-waters** not they-will-pass-",
+        "englishNatural": "to the sea his decree **and the waters** not will pass"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "וּמַיִם",
+        "transliteration": "uMayim",
+        "englishLiteral": "and-waters",
+        "englishNatural": "and waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ יִרְעוּ **וּמַיִם** אַל־ יִשְׁתּוּ",
+        "transliteration": "al- yiru **uMayim** al- yishtu",
+        "englishLiteral": "not- they-will-graze **and-waters** not- they-will-drink",
+        "englishNatural": "not they will graze **and waters** not they will drink"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "malkhuto",
+  "language": "hebrew",
+  "root": "malkhut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "מַלְכוּתוֹ",
+        "transliteration": "malkhuto",
+        "englishLiteral": "kingdom-his",
+        "englishNatural": "his kingdom",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר בְּכָל־ **מַלְכוּתוֹ**",
+        "transliteration": "asher beKol- **malkhuto**",
+        "englishLiteral": "which in-all- **kingdom-his**",
+        "englishNatural": "which were in all **his kingdom**"
+      }
+    }
+  ]
+}

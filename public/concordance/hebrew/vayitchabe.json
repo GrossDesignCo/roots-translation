@@ -1,0 +1,33 @@
+{
+  "key": "vayitchabe",
+  "language": "hebrew",
+  "root": "chaba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיִּתְחַבֵּא",
+        "transliteration": "vaYitchabe",
+        "englishLiteral": "and-hid",
+        "englishNatural": "hid",
+        "root": "chaba",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "לְרוּחַ הַיּוֹם **וַיִּתְחַבֵּא** הָאָדָם וְאִשְׁתּוֹ",
+        "transliteration": "leRuach haYom **vaYitchabe** haAdam ve'ishto",
+        "englishLiteral": "to-wind the-day **and-hid** the-Earthling (Adam) and-his-woman",
+        "englishNatural": "to the wind of the day **hid** and the Earthling (Adam) and his woman"
+      }
+    }
+  ]
+}

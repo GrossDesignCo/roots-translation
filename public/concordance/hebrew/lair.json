@@ -1,0 +1,31 @@
+{
+  "key": "lair",
+  "language": "hebrew",
+  "root": "ir",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לָעִיר",
+        "transliteration": "laIr",
+        "englishLiteral": "to-the-city",
+        "englishNatural": "to the city",
+        "root": "ir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּשֶׁב מִקֶּדֶם **לָעִיר** וַיַּעַשׂ לוֹ",
+        "transliteration": "vaYeshev miQedem **laIr** vaYaas lo",
+        "englishLiteral": "and-sat from-east **to-the-city** and-made to-him",
+        "englishNatural": "and sat from east **to the city** and made for him"
+      }
+    }
+  ]
+}

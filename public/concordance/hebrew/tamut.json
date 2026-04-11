@@ -1,0 +1,33 @@
+{
+  "key": "tamut",
+  "language": "hebrew",
+  "root": "mut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "תָּמֽוּת׃",
+        "transliteration": "tamut",
+        "englishLiteral": "you-will-die",
+        "englishNatural": "you will die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רְאֹתְךָ֥ פָנַ֖י **תָּמֽוּת׃**",
+        "transliteration": "reotekha panay **tamut**",
+        "englishLiteral": "seeing-you faces-my **you-will-die**",
+        "englishNatural": "you seeing my face **you will die**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "shatah",
+  "language": "hebrew",
+  "root": "shit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שַׁ֣תָּה",
+        "transliteration": "shatah",
+        "englishLiteral": "you-have-appointed",
+        "englishNatural": "you have appointed",
+        "root": "shit",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יָדֶ֑יךָ כֹּ֝ל **שַׁ֣תָּה** תַחַת־ רַגְלָֽיו",
+        "transliteration": "yadekha kol **shatah** tachat- raglav",
+        "englishLiteral": "your-hands all **you-have-appointed** under- his-feet",
+        "englishNatural": "your hands all **you have appointed** under his feet"
+      }
+    }
+  ]
+}

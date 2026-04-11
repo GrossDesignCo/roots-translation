@@ -1,0 +1,31 @@
+{
+  "key": "ukheparzela",
+  "language": "aramaic",
+  "root": "parzel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וּכְפַרְזְלָא",
+        "transliteration": "uKheParzela",
+        "englishLiteral": "and-like-iron-the",
+        "englishNatural": "and like the iron",
+        "root": "parzel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחָשֵׁל כֹּלָּא **וּכְפַרְזְלָא** דִּי מְרָעַע",
+        "transliteration": "veChashel kolla **uKheParzela** di meraa",
+        "englishLiteral": "and-shatters all **and-like-iron-the** which breaking",
+        "englishNatural": "and shatters all **and like the iron** which breaking"
+      }
+    }
+  ]
+}

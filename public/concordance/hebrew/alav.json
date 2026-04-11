@@ -1,0 +1,103 @@
+{
+  "key": "alav",
+  "language": "hebrew",
+  "root": "al",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 12
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "עָלָיו",
+        "transliteration": "alav",
+        "englishLiteral": "over-him",
+        "englishNatural": "over him",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "גְדֹלָה נֹפֶלֶת **עָלָיו**",
+        "transliteration": "gedolah nofelet **alav**",
+        "englishLiteral": "great falling **over-him**",
+        "englishNatural": "great falling **over him**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "עָלָיו",
+        "transliteration": "alav",
+        "englishLiteral": "over-it",
+        "englishNatural": "over it",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אַתָּה עוֹמֵד **עָלָיו** אַדְמַת־ קֹדֶשׁ",
+        "transliteration": "atah omed **alav** admat- qodesh",
+        "englishLiteral": "you standing **over-it** ground-of holiness",
+        "englishNatural": "you standing **over it** the ground of holiness"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "עָלָיו",
+        "transliteration": "alav",
+        "englishLiteral": "over-him",
+        "englishNatural": "over him",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כְּבָר וַתְּהִי **עָלָיו** שָׁם יַד־",
+        "transliteration": "Kebar vatehi **alav** sham yad-",
+        "englishLiteral": "Ancient (Kebar) and-it-was **over-him** there hand-of-",
+        "englishNatural": "Ancient (Kebar) was **over him** there and the hand of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "עָלָיו",
+        "transliteration": "alav",
+        "englishLiteral": "over-him",
+        "englishNatural": "over him",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כְּמַרְאֵה אָדָם **עָלָיו** מִלְמָעְלָה",
+        "transliteration": "keMareeh Adam **alav** milMaalah",
+        "englishLiteral": "like-appearance-of Earthling (Adam) **over-him** from-to-upward",
+        "englishNatural": "like the appearance of Earthling (Adam) **over him** from upward"
+      }
+    }
+  ]
+}

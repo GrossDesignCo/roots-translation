@@ -1,0 +1,85 @@
+{
+  "key": "lekh",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לֵ֣ךְ",
+        "transliteration": "lekh",
+        "englishLiteral": "Go",
+        "englishNatural": "Go",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "ל֥וֹ פַרְעֹ֖ה **לֵ֣ךְ** מֵֽעָלָ֑י הִשָּׁ֣מֶר",
+        "transliteration": "lo Paroh **lekh** meAlay hiShamer",
+        "englishLiteral": "to-him Pharaoh **Go** from-over-me guard",
+        "englishNatural": "to him And Pharaoh **Go** from over me guard"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לֵךְ",
+        "transliteration": "lekh",
+        "englishLiteral": "go",
+        "englishNatural": "go",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "קוּם **לֵךְ** אֶל־ נִינְוֵה",
+        "transliteration": "qum **lekh** el- Nineveh",
+        "englishLiteral": "Stand_up **go** to- Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "Stand-up **go** to Dwelling-of-Fish (Nineveh)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לֵךְ",
+        "transliteration": "lekh",
+        "englishLiteral": "go",
+        "englishNatural": "go",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "קוּם **לֵךְ** אֶל־ נִינְוֵה",
+        "transliteration": "qum **lekh** el- Nineveh",
+        "englishLiteral": "Stand_up **go** to- Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "Stand-up **go** to Dwelling-of-Fish (Nineveh)"
+      }
+    }
+  ]
+}

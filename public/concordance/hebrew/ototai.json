@@ -1,0 +1,31 @@
+{
+  "key": "ototai",
+  "language": "hebrew",
+  "root": "ot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אֹתֹתַי",
+        "transliteration": "ototai",
+        "englishLiteral": "signs-my",
+        "englishNatural": "my signs",
+        "root": "ot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִרְבֵּיתִי אֶת־ **אֹתֹתַי** וְאֶת־ מוֹפְתַי",
+        "transliteration": "veHirbeti et- **ototai** veEt- moftai",
+        "englishLiteral": "and-I-will-cause-to-multiply ↳ **signs-my** and-↳ wonders-my",
+        "englishNatural": "and I will cause to multiply ↳ **my signs** and my wonders"
+      }
+    }
+  ]
+}

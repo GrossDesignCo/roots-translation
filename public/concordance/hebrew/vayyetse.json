@@ -1,0 +1,33 @@
+{
+  "key": "vayyetse",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיֵּצֵא",
+        "transliteration": "vayYetse",
+        "englishLiteral": "And-he-went-out",
+        "englishNatural": "went out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּצֵא** מֶלֶךְ־ סְדֹם",
+        "transliteration": "**vayYetse** melekh- Sedom",
+        "englishLiteral": "**And-he-went-out** king-of- Devastation (Sodom)",
+        "englishNatural": "**went out** And the king of Devastation (Sodom)"
+      }
+    }
+  ]
+}

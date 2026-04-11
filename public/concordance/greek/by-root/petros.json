@@ -1,0 +1,54 @@
+{
+  "root": "petros",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "Πέτρῳ",
+        "transliteration": "Petrō",
+        "englishLiteral": "Stone (Peter)",
+        "englishNatural": "Stone (Peter)",
+        "root": "petros",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "τῷ Σίμωνι **Πέτρῳ** ὁ Ἰησοῦς",
+        "transliteration": "tō Simōni **Petrō** ho Iēsous",
+        "englishLiteral": "to-the Hearer (Simon) **Stone (Peter)** The Savior (Jesus)",
+        "englishNatural": "to the Hearer (Simon) **Stone (Peter)** The Savior (Jesus)"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "Πέτρος",
+        "transliteration": "Petros",
+        "englishLiteral": "Stone (Peter)",
+        "englishNatural": "Stone (Peter)",
+        "root": "petros",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "λυπήθη ὁ **Πέτρος** ὅτι εἶπεν",
+        "transliteration": "lupēthē ho **Petros** hoti eipen",
+        "englishLiteral": "Was-grieved The **Stone (Peter)** that he-said",
+        "englishNatural": "was grieved The **Stone (Peter)** because he said"
+      }
+    }
+  ]
+}

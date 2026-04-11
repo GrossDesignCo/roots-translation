@@ -1,0 +1,31 @@
+{
+  "key": "echat",
+  "language": "hebrew",
+  "root": "echad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֶחָת",
+        "transliteration": "echat",
+        "englishLiteral": "one",
+        "englishNatural": "one",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ שָׂפָה **אֶחָת** וּדְבָרִים אֲחָדִים",
+        "transliteration": "haAretz safah **echat** uDevarim achadim",
+        "englishLiteral": "the-land lip **one** and-words ones",
+        "englishNatural": "the land lip **one** words and of one"
+      }
+    }
+  ]
+}

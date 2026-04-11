@@ -1,0 +1,79 @@
+{
+  "key": "melakhto",
+  "language": "hebrew",
+  "root": "melakhah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מְלַאכְתּוֹ",
+        "transliteration": "melakhto",
+        "englishLiteral": "his-work",
+        "englishNatural": "his work",
+        "root": "melakhah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּיּוֹם הַשְּׁבִיעִי **מְלַאכְתּוֹ** אֲשֶׁר עָשָׂה",
+        "transliteration": "baYom haShvi`i **melakhto** asher asah",
+        "englishLiteral": "in-day the-seventh **his-work** which made",
+        "englishNatural": "day in the seventh **his work** which he made"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מְלַאכְתּוֹ",
+        "transliteration": "melakhto",
+        "englishLiteral": "his-work",
+        "englishNatural": "his work",
+        "root": "melakhah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשְּׁבִיעִי מִכָּל־ **מְלַאכְתּוֹ** אֲשֶׁר עָשָׂה׃",
+        "transliteration": "haShvi`i miKol- **melakhto** asher asah",
+        "englishLiteral": "the-seventh from-all **his-work** which made",
+        "englishNatural": "in the seventh from all **his work** which he made"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מְלַאכְתּוֹ",
+        "transliteration": "melakhto",
+        "englishLiteral": "his-work",
+        "englishNatural": "his work",
+        "root": "melakhah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁבַת מִכָּל־ **מְלַאכְתּוֹ** אֲשֶׁר בָּרָא",
+        "transliteration": "shavat miKol- **melakhto** asher bara",
+        "englishLiteral": "sabbathed from-all **his-work** which created",
+        "englishNatural": "he sabbathed from all **his work** which created"
+      }
+    }
+  ]
+}

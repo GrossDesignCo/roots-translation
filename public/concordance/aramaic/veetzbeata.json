@@ -1,0 +1,55 @@
+{
+  "key": "veetzbeata",
+  "language": "aramaic",
+  "root": "etzba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְאֶצְבְּעָתָא",
+        "transliteration": "veEtzbeata",
+        "englishLiteral": "and-toes-the",
+        "englishNatural": "and the toes",
+        "root": "etzba",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֲזַיְתָ רַגְלַיָּא **וְאֶצְבְּעָתָא** מִנְּהוֹן חֲסַף",
+        "transliteration": "chazayta raglayya **veEtzbeata** minnehon chasaf",
+        "englishLiteral": "you-saw feet-the **and-toes-the** from-them clay-of",
+        "englishNatural": "you saw the feet **and the toes** from them the clay of"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 42
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאֶצְבְּעָת",
+        "transliteration": "veEtzbeata",
+        "englishLiteral": "and-toes",
+        "englishNatural": "And the toes of",
+        "root": "etzba",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֶצְבְּעָת** רַגְלַיָּא מִנְּהוֹן",
+        "transliteration": "**veEtzbeata** raglayya minnehon",
+        "englishLiteral": "**and-toes** feet-the from-them",
+        "englishNatural": "**And the toes of** the feet from them"
+      }
+    }
+  ]
+}

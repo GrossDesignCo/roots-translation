@@ -1,0 +1,33 @@
+{
+  "key": "veshav",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְשָׁב",
+        "transliteration": "veShav",
+        "englishLiteral": "and-turn",
+        "englishNatural": "and turn",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְנִחַם הָאֱלֹהִים **וְשָׁב** מֵחֲרוֹן אַפּוֹ",
+        "transliteration": "veNicham haElohim **veShav** meCharon apo",
+        "englishLiteral": "and-will-comfort the-Gods **and-turn** from-burning-of nose-his",
+        "englishNatural": "and will comfort The God **and turn** from the burning of his nose"
+      }
+    }
+  ]
+}

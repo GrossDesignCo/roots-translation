@@ -1,0 +1,30 @@
+{
+  "root": "nevukhadnetzar",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 46
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "נְבוּכַדְנֶצַּר",
+        "transliteration": "Nevukhadnetzar",
+        "englishLiteral": "Nebuchadnezzar",
+        "englishNatural": "Nebuchadnezzar",
+        "root": "nevukhadnetzar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּאדַיִן מַלְכָּא **נְבוּכַדְנֶצַּר** נְפַל עַל־",
+        "transliteration": "beEdayin malka **Nevukhadnetzar** nephal al-",
+        "englishLiteral": "then king-the **Nebuchadnezzar** fell over-",
+        "englishNatural": "Then the king **Nebuchadnezzar** had fallen over"
+      }
+    }
+  ]
+}

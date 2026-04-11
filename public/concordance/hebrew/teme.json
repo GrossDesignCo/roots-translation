@@ -1,0 +1,31 @@
+{
+  "key": "teme",
+  "language": "hebrew",
+  "root": "teme",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "טְמֵא",
+        "transliteration": "teme",
+        "englishLiteral": "unclean",
+        "englishNatural": "of unclean",
+        "root": "teme",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְתוֹךְ עַם־ **טְמֵא** שְׂפָתַיִם אָנֹכִי",
+        "transliteration": "uVeTokh am- **teme** sfatayim anokhi",
+        "englishLiteral": "and-in-midst-of people- **unclean** lips I",
+        "englishNatural": "and in the midst of a people **of unclean** lips I"
+      }
+    }
+  ]
+}

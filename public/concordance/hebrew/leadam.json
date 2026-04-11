@@ -1,0 +1,31 @@
+{
+  "key": "leadam",
+  "language": "hebrew",
+  "root": "adam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 21
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לְאָדָם",
+        "transliteration": "leAdam",
+        "englishLiteral": "to-Earthling (Adam)",
+        "englishNatural": "to Earthling (Adam)",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהִים **לְאָדָם** וּלְאִשְׁתּוֹ כָּתְנוֹת",
+        "transliteration": "YHWH Elohim **leAdam** uleIshto kotnot",
+        "englishLiteral": "He_Who_Is (YHWH) Gods **to-Earthling (Adam)** and-to-woman-his tunics",
+        "englishNatural": "And He-Who-Is (YHWH) God **to Earthling (Adam)** and to his woman tunics"
+      }
+    }
+  ]
+}

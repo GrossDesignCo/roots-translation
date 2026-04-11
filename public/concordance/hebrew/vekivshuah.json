@@ -1,0 +1,33 @@
+{
+  "key": "vekivshuah",
+  "language": "hebrew",
+  "root": "kavash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְכִבְשֻׁ֑הָ",
+        "transliteration": "veKivshuah",
+        "englishLiteral": "And-conquer",
+        "englishNatural": "And conquer",
+        "root": "kavash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הָאָ֖רֶץ **וְכִבְשֻׁ֑הָ** וּרְד֞וּ בִּדְגַ֤ת",
+        "transliteration": "et- haAretz **veKivshuah** uRedu biDgat",
+        "englishLiteral": "↳ the-land **And-conquer** and-subjugate in-fish-of",
+        "englishNatural": "↳ the land **And conquer** and subjugate in fish of"
+      }
+    }
+  ]
+}

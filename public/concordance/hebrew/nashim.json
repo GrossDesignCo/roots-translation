@@ -1,0 +1,79 @@
+{
+  "key": "nashim",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 19
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "נָשִׁים",
+        "transliteration": "nashim",
+        "englishLiteral": "women",
+        "englishNatural": "women",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֶמֶךְ שְׁתֵּי **נָשִׁים** שֵׁם הָאַחַת",
+        "transliteration": "Lemekh shte **nashim** shem haAchat",
+        "englishLiteral": "Powerful (Lamech) two **women** name the-one",
+        "englishNatural": "And Powerful (Lamech) two **women** the name of the one"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "נָשִׁים",
+        "transliteration": "nashim",
+        "englishLiteral": "women",
+        "englishNatural": "women",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקְחוּ לָהֶם **נָשִׁים** מִכֹּל אֲשֶׁר",
+        "transliteration": "vayYiqchu lahem **nashim** mikol asher",
+        "englishLiteral": "and-they-took to-them **women** from-all which",
+        "englishNatural": "and they took to themselves **women** from all which"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "נָשִׁים֩",
+        "transliteration": "nashim",
+        "englishLiteral": "women",
+        "englishNatural": "women",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּשְׂא֡וּ לָהֶ֣ם **נָשִׁים֩** מֹֽאֲבִיּ֨וֹת שֵׁ֤ם",
+        "transliteration": "vaYisu lahem **nashim** Moaviyot shem",
+        "englishLiteral": "And-they-lifted to-them **women** Moabite_Women name-of",
+        "englishNatural": "And they lifted to them **women** Moabite-Women the name of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayiqach-",
+  "language": "hebrew",
+  "root": "qach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּקַּח־",
+        "transliteration": "vayiqach-",
+        "englishLiteral": "And-he-took-",
+        "englishNatural": "And he took",
+        "root": "qach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּקַּח־** לוֹ אֶת־",
+        "transliteration": "**vayiqach-** lo et-",
+        "englishLiteral": "**And-he-took-** to-him ↳",
+        "englishNatural": "**And he took** to him ↳"
+      }
+    }
+  ]
+}

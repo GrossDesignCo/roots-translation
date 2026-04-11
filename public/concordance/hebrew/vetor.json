@@ -1,0 +1,31 @@
+{
+  "key": "vetor",
+  "language": "hebrew",
+  "root": "tor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְתֹר",
+        "transliteration": "veTor",
+        "englishLiteral": "and-turtledove",
+        "englishNatural": "and a turtledove",
+        "root": "tor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַיִל מְשֻׁלָּשׁ **וְתֹר** וְגוֹזָל",
+        "transliteration": "veAyil meshulash **veTor** veGozal",
+        "englishLiteral": "and-ram three-years-old **and-turtledove** and-young-pigeon",
+        "englishNatural": "and a ram three years old **and a turtledove** and a young pigeon"
+      }
+    }
+  ]
+}

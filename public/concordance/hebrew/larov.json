@@ -1,0 +1,33 @@
+{
+  "key": "larov",
+  "language": "hebrew",
+  "root": "rabah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לָרֹב",
+        "transliteration": "laRov",
+        "englishLiteral": "to-multiply",
+        "englishNatural": "to multiply",
+        "root": "rabah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הֵחֵל הָאָדָם **לָרֹב** עַל־ פְּנֵי",
+        "transliteration": "hechel haAdam **laRov** al- peney",
+        "englishLiteral": "began the-Earthling (Adam) **to-multiply** over- faces-of",
+        "englishNatural": "began the Earthling (Adam) **to multiply** over the face of"
+      }
+    }
+  ]
+}

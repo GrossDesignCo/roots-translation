@@ -1,0 +1,55 @@
+{
+  "key": "misham",
+  "language": "hebrew",
+  "root": "sham",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 23
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "מִשָּׁם׃",
+        "transliteration": "miSham",
+        "englishLiteral": "from-there",
+        "englishNatural": "from there",
+        "root": "sham",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר לֻקַּח **מִשָּׁם׃**",
+        "transliteration": "asher luQach **miSham**",
+        "englishLiteral": "which was-taken **from-there**",
+        "englishNatural": "which he was taken **from there**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מִשָּׁם",
+        "transliteration": "misham",
+        "englishLiteral": "from-there",
+        "englishNatural": "from there",
+        "root": "sham",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֹתָם **מִשָּׁם** עַל־ פְּנֵי",
+        "transliteration": "YHWH otam **misham** al- peney",
+        "englishLiteral": "He_Who_Is (YHWH) ↳ them **from-there** over- faces-of",
+        "englishNatural": "And He-Who-Is (YHWH) them **from there** over the face of"
+      }
+    }
+  ]
+}

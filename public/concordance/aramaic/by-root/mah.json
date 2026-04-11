@@ -1,0 +1,78 @@
+{
+  "root": "mah",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 29
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מָה",
+        "transliteration": "mah",
+        "englishLiteral": "what",
+        "englishNatural": "what",
+        "root": "mah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "מִשְׁכְּבָךְ סְלִקוּ **מָה** דִּי לֶהֱוֵא",
+        "transliteration": "mishkavakh sliqu **mah** di leheve",
+        "englishLiteral": "bed-your they-came-up **what** which to-be",
+        "englishNatural": "your bed came up **what** which will be"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 29
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "מָה",
+        "transliteration": "mah",
+        "englishLiteral": "what",
+        "englishNatural": "what",
+        "root": "mah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "רָזַיָּא הוֹדְעָךְ **מָה** דִּי לֶהֱוֵא",
+        "transliteration": "razayya hodakh **mah** di leheve",
+        "englishLiteral": "mysteries-the he-caused-you-to-know **what** which to-be",
+        "englishNatural": "the Mysteries caused you to know **what** which will be"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "מָה",
+        "transliteration": "mah",
+        "englishLiteral": "what",
+        "englishNatural": "what",
+        "root": "mah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "הוֹדַע לְמַלְכָּא **מָה** דִּי לֶהֱוֵא",
+        "transliteration": "hoda leMalka **mah** di leheve",
+        "englishLiteral": "he-made_known to-king-the **what** which to-be",
+        "englishNatural": "has made-known to the king **what** which will be"
+      }
+    }
+  ]
+}

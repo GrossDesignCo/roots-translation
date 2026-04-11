@@ -1,0 +1,31 @@
+{
+  "key": "vehaadam",
+  "language": "hebrew",
+  "root": "adam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְהָאָדָם",
+        "transliteration": "veHaAdam",
+        "englishLiteral": "And-the-Earthling (Adam)",
+        "englishNatural": "And the Earthling (Adam)",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהָאָדָם** יָדַע אֶת־",
+        "transliteration": "**veHaAdam** yada et-",
+        "englishLiteral": "**And-the-Earthling (Adam)** knew ↳",
+        "englishNatural": "**And the Earthling (Adam)** knew ↳"
+      }
+    }
+  ]
+}

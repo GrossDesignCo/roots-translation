@@ -1,0 +1,33 @@
+{
+  "key": "veamarta",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וְאָמַרְתָּ",
+        "transliteration": "veAmarta",
+        "englishLiteral": "and-will-say",
+        "englishNatural": "and you will say",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֶם מוֹפֵת **וְאָמַרְתָּ** אֶל־ אַהֲרֹן",
+        "transliteration": "lakhem mofet **veAmarta** el- Aharon",
+        "englishLiteral": "to-you wonder **and-will-say** to- Light_Bringer (Aaron)",
+        "englishNatural": "to you a wonder **and you will say** to Light-Bringer (Aaron)"
+      }
+    }
+  ]
+}

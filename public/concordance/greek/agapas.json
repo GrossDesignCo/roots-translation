@@ -1,0 +1,57 @@
+{
+  "key": "agapas",
+  "language": "greek",
+  "root": "agapao",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "ἀγαπᾷς",
+        "transliteration": "agapas",
+        "englishLiteral": "do-you-god_love",
+        "englishNatural": "do you god-love",
+        "root": "agapao",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "Σίμων Ἰωάννου **ἀγαπᾷς** με πλέον",
+        "transliteration": "Simōn Iōannou **agapas** me pleon",
+        "englishLiteral": "Hearer (Simon) He—is-Gracious (John) **do-you-god_love** me more",
+        "englishNatural": "Hearer (Simon) He—is-Gracious (John) **do you god-love** me more"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "ἀγαπᾷς",
+        "transliteration": "agapas",
+        "englishLiteral": "do-you-god_love",
+        "englishNatural": "do you god-love",
+        "root": "agapao",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "Σίμων Ἰωάννου **ἀγαπᾷς** με λέγει",
+        "transliteration": "Simōn Iōannou **agapas** me legei",
+        "englishLiteral": "Hearer (Simon) He—is-Gracious (John) **do-you-god_love** me He-says",
+        "englishNatural": "Hearer (Simon) He—is-Gracious (John) **do you god-love** me He says"
+      }
+    }
+  ]
+}

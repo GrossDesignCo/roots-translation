@@ -1,0 +1,31 @@
+{
+  "key": "mipenei",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "מִפְּנֵי",
+        "transliteration": "miPenei",
+        "englishLiteral": "from-faces-of",
+        "englishNatural": "from the faces of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צַעֲקָתָם שָׁמַעְתִּי **מִפְּנֵי** נֹגְשָׂיו כִּי",
+        "transliteration": "tzaaqatam shamati **miPenei** nogsav ki",
+        "englishLiteral": "outcry-their I-hear **from-faces-of** taskmasters-his that",
+        "englishNatural": "their outcry I have heard **from the faces of** his taskmasters that"
+      }
+    }
+  ]
+}

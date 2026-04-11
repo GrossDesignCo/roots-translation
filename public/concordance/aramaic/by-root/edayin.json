@@ -1,0 +1,54 @@
+{
+  "root": "edayin",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בֵּאדַיִן",
+        "transliteration": "beEdayin",
+        "englishLiteral": "in-then",
+        "englishNatural": "Then",
+        "root": "edayin",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**בֵּאדַיִן** דָּקוּ כַחֲדָה",
+        "transliteration": "**beEdayin** daqu kaChada",
+        "englishLiteral": "**in-then** they-were-crushed as-one",
+        "englishNatural": "**Then** they were crushed as one"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 46
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "בֵּאדַיִן",
+        "transliteration": "beEdayin",
+        "englishLiteral": "then",
+        "englishNatural": "Then",
+        "root": "edayin",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**בֵּאדַיִן** מַלְכָּא נְבוּכַדְנֶצַּר",
+        "transliteration": "**beEdayin** malka Nevukhadnetzar",
+        "englishLiteral": "**then** king-the Nebuchadnezzar",
+        "englishNatural": "**Then** the king Nebuchadnezzar"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "laor",
+  "language": "hebrew",
+  "root": "or",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לָא֔וֹר",
+        "transliteration": "laOr",
+        "englishLiteral": "to-light",
+        "englishNatural": "to light",
+        "root": "or",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקְרָ֨א אֱלֹהִ֤ים **לָא֔וֹר** י֑וֹם וְלַחֹ֖שֶׁךְ",
+        "transliteration": "vaYiqra Elohim **laOr** yom veLaChoshekh",
+        "englishLiteral": "And-called_out Gods **to-light** Day and-to-darkness",
+        "englishNatural": "called-out And God **to light** Day to darkness"
+      }
+    }
+  ]
+}

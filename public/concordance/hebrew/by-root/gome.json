@@ -1,0 +1,30 @@
+{
+  "root": "gome",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "גֹּמֶא",
+        "transliteration": "gome",
+        "englishLiteral": "papyrus",
+        "englishNatural": "papyrus",
+        "root": "gome",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לוֹ תֵּבַת **גֹּמֶא** וַתַּחְמְרָה בַחֵמָר",
+        "transliteration": "lo tevat **gome** vaTachmerah vaChemar",
+        "englishLiteral": "to-him ark-of **papyrus** and-coated-it in-bitumen",
+        "englishNatural": "to him an ark of **papyrus** and coated it in bitumen"
+      }
+    }
+  ]
+}

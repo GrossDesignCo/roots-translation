@@ -1,0 +1,82 @@
+{
+  "key": "ēn",
+  "language": "greek",
+  "root": "eimi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "ἦν",
+        "transliteration": "ēn",
+        "englishLiteral": "was",
+        "englishNatural": "was",
+        "root": "eimi",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect"
+        }
+      },
+      "context": {
+        "hebrew": "Ἐν ἀρχῇ **ἦν** ὁ λόγος",
+        "transliteration": "En archē **ēn** ho logos",
+        "englishLiteral": "In first **was** The Word",
+        "englishNatural": "In the first **was** The Word"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "ἦν",
+        "transliteration": "ēn",
+        "englishLiteral": "was",
+        "englishNatural": "was",
+        "root": "eimi",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect"
+        }
+      },
+      "context": {
+        "hebrew": "ὁ λόγος **ἦν** πρὸς τὸν",
+        "transliteration": "ho logos **ēn** pros ton",
+        "englishLiteral": "The Word **was** with The",
+        "englishNatural": "The Word **was** with The"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "ἦν",
+        "transliteration": "ēn",
+        "englishLiteral": "was",
+        "englishNatural": "was",
+        "root": "eimi",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect"
+        }
+      },
+      "context": {
+        "hebrew": "καὶ θεὸς **ἦν** ὁ λόγος",
+        "transliteration": "kai theos **ēn** ho logos",
+        "englishLiteral": "and God **was** The Word",
+        "englishNatural": "and God **was** The Word"
+      }
+    }
+  ]
+}

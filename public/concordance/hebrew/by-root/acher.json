@@ -1,0 +1,30 @@
+{
+  "root": "acher",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "אַחֵר",
+        "transliteration": "acher",
+        "englishLiteral": "another",
+        "englishNatural": "another",
+        "root": "acher",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים זֶרַע **אַחֵר** תַּחַת הֶבֶל",
+        "transliteration": "Elohim zera **acher** tachat Hevel",
+        "englishLiteral": "Gods seed **another** instead-of Vapor (Abel)",
+        "englishNatural": "God seed **another** instead of Vapor (Abel)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayachteru",
+  "language": "hebrew",
+  "root": "chatar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּחְתְּרוּ",
+        "transliteration": "vaYachteru",
+        "englishLiteral": "And-rowed",
+        "englishNatural": "rowed",
+        "root": "chatar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּחְתְּרוּ** הָאֲנָשִׁים לְהָשִׁיב",
+        "transliteration": "**vaYachteru** haAnashim lehashiv",
+        "englishLiteral": "**And-rowed** the-men to-return",
+        "englishNatural": "**rowed** And the men to return"
+      }
+    }
+  ]
+}

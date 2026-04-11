@@ -1,0 +1,32 @@
+{
+  "root": "mela",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 27,
+      "word": {
+        "originalScript": "וּמְלָת",
+        "transliteration": "uMelat",
+        "englishLiteral": "and-filled",
+        "englishNatural": "and filled",
+        "root": "mela",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "לְטוּר רַב **וּמְלָת** כָּל אַרְעָא",
+        "transliteration": "leTur rav **uMelat** kol ara",
+        "englishLiteral": "to-mountain great **and-filled** all land-the",
+        "englishNatural": "mountain to a great **and filled** all the land"
+      }
+    }
+  ]
+}

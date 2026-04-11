@@ -1,0 +1,31 @@
+{
+  "key": "hamigdal",
+  "language": "hebrew",
+  "root": "migdal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הַמִּגְדָּל",
+        "transliteration": "haMigdal",
+        "englishLiteral": "the-tower",
+        "englishNatural": "the tower",
+        "root": "migdal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָעִיר וְאֶת־ **הַמִּגְדָּל** אֲשֶׁר בָּנוּ",
+        "transliteration": "haIr veEt- **haMigdal** asher banu",
+        "englishLiteral": "the-city and-↳ **the-tower** which they-had-built",
+        "englishNatural": "the city and **the tower** which had built"
+      }
+    }
+  ]
+}

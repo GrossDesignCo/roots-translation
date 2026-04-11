@@ -1,0 +1,59 @@
+{
+  "key": "vayyiqra",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 20
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּקְרָא",
+        "transliteration": "vayYiqra",
+        "englishLiteral": "And-he-called_out",
+        "englishNatural": "called-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּקְרָא** הָאָדָם שֵׁם",
+        "transliteration": "**vayYiqra** haAdam shem",
+        "englishLiteral": "**And-he-called_out** the-Earthling (Adam) name",
+        "englishNatural": "**called-out** And the Earthling (Adam) name"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 17
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וַיִּקְרָא",
+        "transliteration": "vayYiqra",
+        "englishLiteral": "and-he-called_out",
+        "englishNatural": "and he called-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בֹּנֶה עִיר **וַיִּקְרָא** שֵׁם הָעִיר",
+        "transliteration": "boneh ir **vayYiqra** shem haIr",
+        "englishLiteral": "building city **and-he-called_out** name the-city",
+        "englishNatural": "building a city **and he called-out** the name of the city"
+      }
+    }
+  ]
+}

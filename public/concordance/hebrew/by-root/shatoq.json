@@ -1,0 +1,58 @@
+{
+  "root": "shatoq",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְיִשְׁתֹּק",
+        "transliteration": "veyiShtoq",
+        "englishLiteral": "and-will-quiet",
+        "englishNatural": "and will quiet",
+        "root": "shatoq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נַּעֲשֶׂה לָּךְ **וְיִשְׁתֹּק** הַיָּם מֵעָלֵינוּ",
+        "transliteration": "naasah lakh **veyiShtoq** haYam meAleynu",
+        "englishLiteral": "shall-be-done to-you **and-will-quiet** the-sea from-over-us",
+        "englishNatural": "shall be done to you **and will quiet** the sea from over us"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְיִשְׁתֹּק",
+        "transliteration": "veyishtoq",
+        "englishLiteral": "and-will-quiet",
+        "englishNatural": "and it will quiet",
+        "root": "shatoq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַיָּם **וְיִשְׁתֹּק** הַיָּם מֵעֲלֵיכֶם",
+        "transliteration": "el- haYam **veyishtoq** haYam meAleykhem",
+        "englishLiteral": "to- the-sea **and-will-quiet** the-sea from-over-you",
+        "englishNatural": "to the sea **and it will quiet** the sea from over you"
+      }
+    }
+  ]
+}

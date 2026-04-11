@@ -1,0 +1,30 @@
+{
+  "root": "peleg",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "פַּלְגֵי",
+        "transliteration": "palgei",
+        "englishLiteral": "channels-of",
+        "englishNatural": "channels of",
+        "root": "peleg",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁתוּל עַל **פַּלְגֵי** מָיִם אֲשֶׁר",
+        "transliteration": "shatul al **palgei** mayim asher",
+        "englishLiteral": "planted over **channels-of** waters which",
+        "englishNatural": "planted over **channels of** waters which"
+      }
+    }
+  ]
+}

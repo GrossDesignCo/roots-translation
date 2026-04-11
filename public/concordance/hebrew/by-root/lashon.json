@@ -1,0 +1,30 @@
+{
+  "root": "lashon",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לְשֹׁנ֔וֹ",
+        "transliteration": "leshono",
+        "englishLiteral": "tongue-his",
+        "englishNatural": "his tongue",
+        "root": "lashon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֶֽחֱרַץ־ כֶּ֙לֶב֙ **לְשֹׁנ֔וֹ** לְמֵאִ֖ישׁ וְעַד־",
+        "transliteration": "yecharatz- kelev **leshono** meIsh veAd-",
+        "englishLiteral": "will-sharpen- dog **tongue-his** from-man and-until-",
+        "englishNatural": "will sharpen a dog **his tongue** from man and until"
+      }
+    }
+  ]
+}

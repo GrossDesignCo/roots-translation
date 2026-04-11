@@ -1,0 +1,31 @@
+{
+  "key": "keyereq",
+  "language": "hebrew",
+  "root": "yerek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "כְּיֶרֶק",
+        "transliteration": "keYereq",
+        "englishLiteral": "like-green-of",
+        "englishNatural": "like the green of",
+        "root": "yerek",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִהְיֶה לְאָכְלָה **כְּיֶרֶק** עֵשֶׂב נָתַתִּי",
+        "transliteration": "yihyeh leOkhlah **keYereq** esev natati",
+        "englishLiteral": "will-be for-food **like-green-of** herb I-have-given",
+        "englishNatural": "will be for food **like the green of** herb I have given"
+      }
+    }
+  ]
+}

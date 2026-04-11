@@ -1,0 +1,55 @@
+{
+  "key": "shneyhem",
+  "language": "hebrew",
+  "root": "shenayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שְׁנֵיהֶם",
+        "transliteration": "shneyhem",
+        "englishLiteral": "two-of-them",
+        "englishNatural": "both of them",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּפָּקַחְנָה עֵינֵי **שְׁנֵיהֶם** וַיֵּדְעוּ כִּי",
+        "transliteration": "vaTipakachnah eyney **shneyhem** vaYedu ki",
+        "englishLiteral": "And-opened-were eyes-of **two-of-them** and-knew that",
+        "englishNatural": "were opened And the eyes of **both of them** and they knew that"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שְׁנֵיהֶ֖ם",
+        "transliteration": "shneyhem",
+        "englishLiteral": "two-of-them",
+        "englishNatural": "the two of them",
+        "root": "shenayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּמ֥וּתוּ גַם־ **שְׁנֵיהֶ֖ם** מַחְל֣וֹן וְכִלְי֑וֹן",
+        "transliteration": "vaYamutu gam- **shneyhem** Machlon veKhilyon",
+        "englishLiteral": "And-they-died also- **two-of-them** Sickness (Mahlon) and-Wasting (Chilion)",
+        "englishNatural": "died And also **the two of them** Sickness (Mahlon) and Wasting (Chilion)"
+      }
+    }
+  ]
+}

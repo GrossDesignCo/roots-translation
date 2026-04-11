@@ -1,0 +1,31 @@
+{
+  "key": "hakerach",
+  "language": "hebrew",
+  "root": "kerach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הַקֶּרַח",
+        "transliteration": "haKerach",
+        "englishLiteral": "the-crystal",
+        "englishNatural": "The Crystal",
+        "root": "kerach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רָקִיעַ כְּעֵין **הַקֶּרַח** הַנּוֹרָא נָטוּי",
+        "transliteration": "raqia keEin **haKerach** haNora natuy",
+        "englishLiteral": "hammering_out like-eye-of **the-crystal** the-fearsome stretched-out",
+        "englishNatural": "a hammering-out like an eye of **The Crystal** The Fearsome stretched-out"
+      }
+    }
+  ]
+}

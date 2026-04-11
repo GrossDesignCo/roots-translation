@@ -1,0 +1,30 @@
+{
+  "root": "pesha",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וָפֶשַׁע",
+        "transliteration": "vaFesha",
+        "englishLiteral": "and-transgression",
+        "englishNatural": "and transgression",
+        "root": "pesha",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֹשֵׂא עָוֹן **וָפֶשַׁע** וְחַטָּאָה וְנַקֵּה",
+        "transliteration": "nose avon **vaFesha** veChattaah veNakeh",
+        "englishLiteral": "lifting_up twisting **and-transgression** and-sin and-clearing",
+        "englishNatural": "lifting-up twisting **and transgression** and sin and clearing"
+      }
+    }
+  ]
+}

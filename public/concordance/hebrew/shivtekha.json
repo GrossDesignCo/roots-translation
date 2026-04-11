@@ -1,0 +1,31 @@
+{
+  "key": "shivtekha",
+  "language": "hebrew",
+  "root": "shevet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "שִׁבְטְךָ",
+        "transliteration": "shivtekha",
+        "englishLiteral": "your-rod",
+        "englishNatural": "your rod",
+        "root": "shevet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַתָּה עִמָּדִי **שִׁבְטְךָ** וּמִשְׁעַנְתֶּךָ הֵמָּה",
+        "transliteration": "atah imadi **shivtekha** uMishantekha hemah",
+        "englishLiteral": "you with-me **your-rod** and-your-staff they",
+        "englishNatural": "you are with me **your rod** and your staff they"
+      }
+    }
+  ]
+}

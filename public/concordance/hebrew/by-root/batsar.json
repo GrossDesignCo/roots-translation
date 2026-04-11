@@ -1,0 +1,32 @@
+{
+  "root": "batsar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "יִבָּצֵר",
+        "transliteration": "yibatser",
+        "englishLiteral": "he-will-be-restrained",
+        "englishNatural": "will be restrained",
+        "root": "batsar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַתָּה לֹא־ **יִבָּצֵר** מֵהֶם כֹּל",
+        "transliteration": "veAttah lo- **yibatser** mehem kol",
+        "englishLiteral": "and-now not- **he-will-be-restrained** from-them all",
+        "englishNatural": "and now nothing **will be restrained** from them all"
+      }
+    }
+  ]
+}

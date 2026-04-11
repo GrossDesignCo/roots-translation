@@ -1,0 +1,33 @@
+{
+  "key": "yatsa",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "יָצָא",
+        "transliteration": "yatsa",
+        "englishLiteral": "brought_out",
+        "englishNatural": "brought-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ הַהִוא **יָצָא** אַשּׁוּר וַיִּבֶן",
+        "transliteration": "haAretz hahi **yatsa** Ashur vayYiven",
+        "englishLiteral": "the-land the-that **brought_out** Steppe (Assyria) and-he-built",
+        "englishNatural": "land that **brought-out** Steppe (Assyria) and he built"
+      }
+    }
+  ]
+}

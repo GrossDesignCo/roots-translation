@@ -1,0 +1,31 @@
+{
+  "key": "ittam",
+  "language": "hebrew",
+  "root": "et_with",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "אִתָּם",
+        "transliteration": "ittam",
+        "englishLiteral": "with-them",
+        "englishNatural": "with them",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "נְשֵׁי־ בָנָיו **אִתָּם** אֶל־ הַתֵּבָה",
+        "transliteration": "neshey- vanav **ittam** el- haTevah",
+        "englishLiteral": "women-of- sons-his **with-them** to- the-ark",
+        "englishNatural": "women of his sons **with them** to the ark"
+      }
+    }
+  ]
+}

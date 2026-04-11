@@ -1,0 +1,33 @@
+{
+  "key": "irashenah",
+  "language": "hebrew",
+  "root": "yarash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אִירָשֶׁנָּה",
+        "transliteration": "irashenah",
+        "englishLiteral": "I-will-inherit-her",
+        "englishNatural": "I will inherit it",
+        "root": "yarash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֵדַע כִּי **אִירָשֶׁנָּה**",
+        "transliteration": "eda ki **irashenah**",
+        "englishLiteral": "I-will-know that **I-will-inherit-her**",
+        "englishNatural": "will I know that **I will inherit it**"
+      }
+    }
+  ]
+}

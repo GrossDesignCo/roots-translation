@@ -1,0 +1,31 @@
+{
+  "key": "uvehemah",
+  "language": "hebrew",
+  "root": "behemah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "וּבְהֵמָה",
+        "transliteration": "uvehemah",
+        "englishLiteral": "and-beast",
+        "englishNatural": "beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְמִינוֹ לִשְׂמֹאלוֹ **וּבְהֵמָה** רַבָּה",
+        "transliteration": "yemino lismolo **uvehemah** rabah",
+        "englishLiteral": "right_hand-his to-left_hand-his **and-beast** many",
+        "englishNatural": "his right-hand to his left-hand **beast** and many"
+      }
+    }
+  ]
+}

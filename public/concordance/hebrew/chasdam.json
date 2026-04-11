@@ -1,0 +1,31 @@
+{
+  "key": "chasdam",
+  "language": "hebrew",
+  "root": "chesed",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "חַסְדָּם",
+        "transliteration": "chasdam",
+        "englishLiteral": "steadfast_love-their",
+        "englishNatural": "their steadfast-love",
+        "root": "chesed",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַבְלֵי־ שָׁוְא **חַסְדָּם** יַעֲזֹבוּ",
+        "transliteration": "havlei- shav **chasdam** yaazovu",
+        "englishLiteral": "vapors-of emptiness **steadfast_love-their** they-forsake",
+        "englishNatural": "vapors of emptiness **their steadfast-love** they forsake"
+      }
+    }
+  ]
+}

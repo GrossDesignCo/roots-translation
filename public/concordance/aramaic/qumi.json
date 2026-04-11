@@ -1,0 +1,33 @@
+{
+  "key": "qumi",
+  "language": "aramaic",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "ק֥וּמִֽי",
+        "transliteration": "qumi",
+        "englishLiteral": "Arise",
+        "englishNatural": "Arise",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "אָמְרִ֣ין לַ֔הּ **ק֥וּמִֽי** אֲכֻ֥ל בְּשַׂ֥ר",
+        "transliteration": "amrin lah **qumi** akhul besar",
+        "englishLiteral": "saying to-her **Arise** devour flesh",
+        "englishNatural": "they said to it **Arise** devour flesh"
+      }
+    }
+  ]
+}

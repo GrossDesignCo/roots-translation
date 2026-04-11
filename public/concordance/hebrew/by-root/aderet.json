@@ -1,0 +1,30 @@
+{
+  "root": "aderet",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אַדַּרְתּוֹ",
+        "transliteration": "adaretto",
+        "englishLiteral": "robe-his",
+        "englishNatural": "his robe",
+        "root": "aderet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִכִּסְאוֹ וַיַּעֲבֵר **אַדַּרְתּוֹ** מֵעָלָיו וַיְכַס",
+        "transliteration": "mikisso vaYaaver **adaretto** meAlav vaYekhas",
+        "englishLiteral": "from-throne-his and-passed_through **robe-his** from-over-him and-covered",
+        "englishNatural": "from his throne and he passed-through **his robe** from over him and covered"
+      }
+    }
+  ]
+}

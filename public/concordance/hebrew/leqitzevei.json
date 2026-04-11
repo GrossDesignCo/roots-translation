@@ -1,0 +1,31 @@
+{
+  "key": "leqitzevei",
+  "language": "hebrew",
+  "root": "qatzav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לְקִצְבֵי",
+        "transliteration": "leqitzevei",
+        "englishLiteral": "to-cutoffs-of",
+        "englishNatural": "to the cutoffs of",
+        "root": "qatzav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָרַדְתִּי **לְקִצְבֵי** הָרִים הָאָרֶץ",
+        "transliteration": "yaradti **leqitzevei** harim haaretz",
+        "englishLiteral": "I-went_down **to-cutoffs-of** mountains the-earth",
+        "englishNatural": "I went down **to the cutoffs of** the mountains the earth"
+      }
+    }
+  ]
+}

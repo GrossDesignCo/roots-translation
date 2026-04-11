@@ -1,0 +1,31 @@
+{
+  "key": "mishachat",
+  "language": "hebrew",
+  "root": "shachat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "מִשַּׁחַת",
+        "transliteration": "mishachat",
+        "englishLiteral": "from-corruption",
+        "englishNatural": "from corruption",
+        "root": "shachat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְעוֹלָם וַתַּעַל **מִשַּׁחַת** חַיַּי יְהוָה",
+        "transliteration": "leolam vataaal **mishachat** chayai YHWH",
+        "englishLiteral": "to-the_age and-you-brought_up **from-corruption** life-my He_Who_Is (YHWH)",
+        "englishNatural": "to the-age and you brought-up **from corruption** my life He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

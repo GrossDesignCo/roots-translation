@@ -1,0 +1,79 @@
+{
+  "key": "arbaim",
+  "language": "hebrew",
+  "root": "arbaim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אַרְבָּעִים",
+        "transliteration": "arbaim",
+        "englishLiteral": "forty",
+        "englishNatural": "forty",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ מַהֲלַלְאֵל **אַרְבָּעִים** שָׁנָה וּשְׁמֹנֶה",
+        "transliteration": "et- Mahalalel **arbaim** shanah uShmoneh",
+        "englishLiteral": "↳ Praise_of_God (Mahalaleel) **forty** year and-eight",
+        "englishNatural": "↳ Praise-of-God (Mahalaleel) **forty** years and eight"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אַרְבָּעִים",
+        "transliteration": "arbaim",
+        "englishLiteral": "forty",
+        "englishNatural": "forty",
+        "root": "arbaim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **אַרְבָּעִים** יוֹם וְאַרְבָּעִים",
+        "transliteration": "al- haAretz **arbaim** yom veArbaim",
+        "englishLiteral": "over- the-land **forty** day and-forty",
+        "englishNatural": "over the land **forty** days and forty"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "אַרְבָּעִים",
+        "transliteration": "arbaim",
+        "englishLiteral": "forty",
+        "englishNatural": "forty",
+        "root": "arbaim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמַר עוֹד **אַרְבָּעִים** יוֹם וְנִינְוֵה",
+        "transliteration": "vaYomar od **arbaim** yom veNineveh",
+        "englishLiteral": "and-said yet **forty** day and-Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "and said Yet **forty** days and Dwelling-of-Fish (Nineveh)"
+      }
+    }
+  ]
+}

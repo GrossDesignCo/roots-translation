@@ -1,0 +1,31 @@
+{
+  "key": "veishtekha",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 18
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וְאִשְׁתְּךָ",
+        "transliteration": "veIshtekha",
+        "englishLiteral": "and-woman-your",
+        "englishNatural": "and your woman",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַתָּה וּבָנֶיךָ **וְאִשְׁתְּךָ** וּנְשֵׁי־ בָנֶיךָ",
+        "transliteration": "atah uVanekha **veIshtekha** uNeshey- vanekha",
+        "englishLiteral": "you and-sons-your **and-woman-your** and-women-of- sons-your",
+        "englishNatural": "you and your sons **and your woman** and the women of your sons"
+      }
+    }
+  ]
+}

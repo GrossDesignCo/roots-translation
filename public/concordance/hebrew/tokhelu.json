@@ -1,0 +1,33 @@
+{
+  "key": "tokhelu",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תֹאכֵלוּ",
+        "transliteration": "tokhelu",
+        "englishLiteral": "you-will-eat",
+        "englishNatural": "you will eat",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "דָמוֹ לֹא **תֹאכֵלוּ**",
+        "transliteration": "damo lo **tokhelu**",
+        "englishLiteral": "its-blood not **you-will-eat**",
+        "englishNatural": "its blood not **you will eat**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "root": "yafet",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 32
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "יָפֶת",
+        "transliteration": "Yafet",
+        "englishLiteral": "Spacious (Japheth)",
+        "englishNatural": "Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חָם וְאֶת־ **יָפֶת**",
+        "transliteration": "Cham veEt- **Yafet**",
+        "englishLiteral": "Hot (Ham) and-↳ **Spacious (Japheth)**",
+        "englishNatural": "Hot (Ham) and **Spacious (Japheth)**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "יָפֶת",
+        "transliteration": "yafet",
+        "englishLiteral": "Spacious (Japheth)",
+        "englishNatural": "Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חָם וְאֶת־ **יָפֶת**",
+        "transliteration": "cham veEt- **yafet**",
+        "englishLiteral": "Hot (Ham) and-↳ **Spacious (Japheth)**",
+        "englishNatural": "Hot (Ham) and **Spacious (Japheth)**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וָיֶפֶת",
+        "transliteration": "vaYefet",
+        "englishLiteral": "and-Spacious (Japheth)",
+        "englishNatural": "and Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֵׁם־ וְחָם **וָיֶפֶת** בְּנֵי־ נֹחַ",
+        "transliteration": "veShem- veCham **vaYefet** beney- Noach",
+        "englishLiteral": "and-Name (Shem)- and-Hot (Ham) **and-Spacious (Japheth)** sons-of- Rest (Noah)",
+        "englishNatural": "and Name (Shem) and Hot (Ham) **and Spacious (Japheth)** the sons of Rest (Noah)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וָיָפֶת",
+        "transliteration": "vaYafet",
+        "englishLiteral": "and-Spacious (Japheth)",
+        "englishNatural": "and Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם חָם **וָיָפֶת** וַיִּוָּלְדוּ לָהֶם",
+        "transliteration": "Shem Cham **vaYafet** vayivaledu lahem",
+        "englishLiteral": "Name (Shem) Hot (Ham) **and-Spacious (Japheth)** and-were-birthed to-them",
+        "englishNatural": "Name (Shem) Hot (Ham) **and Spacious (Japheth)** were birthed and to them"
+      }
+    }
+  ]
+}

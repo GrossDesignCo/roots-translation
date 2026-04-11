@@ -1,0 +1,30 @@
+{
+  "root": "toutos",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "τούτων",
+        "transliteration": "toutōn",
+        "englishLiteral": "these",
+        "englishNatural": "than these",
+        "root": "toutos",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "με πλέον **τούτων** λέγει αὐτῷ",
+        "transliteration": "me pleon **toutōn** legei autō",
+        "englishLiteral": "me more **these** He-says to-him",
+        "englishNatural": "me more **than these** He says to him"
+      }
+    }
+  ]
+}

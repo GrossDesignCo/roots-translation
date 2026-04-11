@@ -1,0 +1,103 @@
+{
+  "key": "beney-",
+  "language": "hebrew",
+  "root": "ben",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "בְנֵי־",
+        "transliteration": "beney-",
+        "englishLiteral": "sons-",
+        "englishNatural": "And the sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּרְאוּ **בְנֵי־** הָאֱלֹהִים אֶת־",
+        "transliteration": "vayYiru **beney-** haElohim et-",
+        "englishLiteral": "And-they-saw **sons-** the-Gods ↳",
+        "englishNatural": "saw **And the sons** of God ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "בְּנֵי־",
+        "transliteration": "beney-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחָם וָיֶפֶת **בְּנֵי־** נֹחַ וְאֵשֶׁת",
+        "transliteration": "veCham vaYefet **beney-** Noach veEshet",
+        "englishLiteral": "and-Hot (Ham) and-Spacious (Japheth) **sons-of-** Rest (Noah) and-woman-of",
+        "englishNatural": "and Hot (Ham) and Spacious (Japheth) **the sons of** Rest (Noah) and the woman of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "בְּנֵי־",
+        "transliteration": "beney-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵלֶּה תּוֹלְדֹת **בְּנֵי־** נֹחַ שֵׁם",
+        "transliteration": "veEleh toledot **beney-** Noach Shem",
+        "englishLiteral": "And-these birthings-of **sons-of-** Rest (Noah) Name (Shem)",
+        "englishNatural": "And these are the birthings of **the sons of** Rest (Noah) Name (Shem)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "בְּנֵי־",
+        "transliteration": "beney-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁלַּ֥ח אֶת־ **בְּנֵי־** יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ׃",
+        "transliteration": "shillach et- **beney-** Yisrael meArtzo",
+        "englishLiteral": "he-sent_out ↳- **sons-of-** Struggles_With_God (Israel) from-land-his",
+        "englishNatural": "and he sent-out ↳- **the sons of** Struggles-With-God (Israel) from his land"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "venakeh",
+  "language": "hebrew",
+  "root": "nakeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְנַקֵּה",
+        "transliteration": "veNakeh",
+        "englishLiteral": "and-clearing",
+        "englishNatural": "and clearing",
+        "root": "nakeh",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וָפֶשַׁע וְחַטָּאָה **וְנַקֵּה** לֹא יְנַקֶּה",
+        "transliteration": "vaFesha veChattaah **veNakeh** lo yenakeh",
+        "englishLiteral": "and-transgression and-sin **and-clearing** not he-will-clear",
+        "englishNatural": "and transgression and sin **and clearing** not he will clear"
+      }
+    }
+  ]
+}

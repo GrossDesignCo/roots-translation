@@ -1,0 +1,33 @@
+{
+  "key": "yahargeini",
+  "language": "hebrew",
+  "root": "harag",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "יַהַרְגֵנִי",
+        "transliteration": "yahargeini",
+        "englishLiteral": "will-kill-me",
+        "englishNatural": "will kill me",
+        "root": "harag",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כָל־ מֹצְאִי **יַהַרְגֵנִי**",
+        "transliteration": "kol- motzei **yahargeini**",
+        "englishLiteral": "all- finding-me **will-kill-me**",
+        "englishNatural": "all finding me **will kill me**"
+      }
+    }
+  ]
+}

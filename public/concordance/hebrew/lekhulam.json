@@ -1,0 +1,31 @@
+{
+  "key": "lekhulam",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְכֻלָּם",
+        "transliteration": "leKhulam",
+        "englishLiteral": "to-all-of-them",
+        "englishNatural": "to all of them",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְשָׂפָה אַחַת **לְכֻלָּם** וְזֶה הַחִלָּם",
+        "transliteration": "veSafah achat **leKhulam** veZeh hachilam",
+        "englishLiteral": "and-lip one **to-all-of-them** and-this the-beginning-of-them",
+        "englishNatural": "lip and one **to all of them** and this the beginning of"
+      }
+    }
+  ]
+}

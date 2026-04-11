@@ -1,0 +1,32 @@
+{
+  "key": "ezōnnues",
+  "language": "greek",
+  "root": "zonnuo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "ἐζώννυες",
+        "transliteration": "ezōnnues",
+        "englishLiteral": "you-girded",
+        "englishNatural": "you girded",
+        "root": "zonnuo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect"
+        }
+      },
+      "context": {
+        "hebrew": "ἦς νεώτερος **ἐζώννυες** σεαυτόν καὶ",
+        "transliteration": "ēs neoteros **ezōnnues** seauton kai",
+        "englishLiteral": "you-were younger **you-girded** yourself and",
+        "englishNatural": "you were younger **you girded** yourself and"
+      }
+    }
+  ]
+}

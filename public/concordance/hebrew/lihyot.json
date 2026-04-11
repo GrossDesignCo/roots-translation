@@ -1,0 +1,59 @@
+{
+  "key": "lihyot",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לִהְיוֹת",
+        "transliteration": "lihyot",
+        "englishLiteral": "to-be",
+        "englishNatural": "to be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא הֵחֵל **לִהְיוֹת** גִּבֹּר בָּאָרֶץ",
+        "transliteration": "hu hechel **lihyot** gibbor baAretz",
+        "englishLiteral": "he caused-to-begin **to-be** mighty_one in-land",
+        "englishNatural": "he caused to begin **to be** a mighty-one in the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לִהְיוֹת",
+        "transliteration": "lihyot",
+        "englishLiteral": "to-be",
+        "englishNatural": "to be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעַל לְיוֹנָה **לִהְיוֹת** צֵל עַל־",
+        "transliteration": "meAl leYonah **lihyot** tzel al-",
+        "englishLiteral": "from-over to-Dove (Jonah) **to-be** shadow over-",
+        "englishNatural": "from over to Dove (Jonah) **to be** a shadow over"
+      }
+    }
+  ]
+}

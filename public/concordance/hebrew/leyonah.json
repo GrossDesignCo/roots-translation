@@ -1,0 +1,31 @@
+{
+  "key": "leyonah",
+  "language": "hebrew",
+  "root": "yonah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לְיוֹנָה",
+        "transliteration": "leYonah",
+        "englishLiteral": "to-Dove (Jonah)",
+        "englishNatural": "to Dove (Jonah)",
+        "root": "yonah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעַל מֵעַל **לְיוֹנָה** לִהְיוֹת צֵל",
+        "transliteration": "vaYaal meAl **leYonah** lihyot tzel",
+        "englishLiteral": "and-went_up from-over **to-Dove (Jonah)** to-be shadow",
+        "englishNatural": "and made it go-up from over **to Dove (Jonah)** to be a shadow"
+      }
+    }
+  ]
+}

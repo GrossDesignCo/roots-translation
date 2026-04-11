@@ -1,0 +1,54 @@
+{
+  "root": "Methushael",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 18
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מְתוּשָׁאֵל",
+        "transliteration": "Methushael",
+        "englishLiteral": "Man-of-God (Methusael)",
+        "englishNatural": "Man-of-God (Methusael)",
+        "root": "Methushael",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָלַד אֶת־ **מְתוּשָׁאֵל** וּמְתוּשָׁאֵל יָלַד",
+        "transliteration": "yalad et- **Methushael** uMethushael yalad",
+        "englishLiteral": "bore ↳ **Man-of-God (Methusael)** and-Man-of-God (Methusael) bore",
+        "englishNatural": "bore ↳ **Man-of-God (Methusael)** and Man-of-God (Methusael) bore"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 18
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וּמְתוּשָׁאֵל",
+        "transliteration": "uMethushael",
+        "englishLiteral": "and-Man-of-God (Methusael)",
+        "englishNatural": "and Man-of-God (Methusael)",
+        "root": "Methushael",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ מְתוּשָׁאֵל **וּמְתוּשָׁאֵל** יָלַד אֶת־",
+        "transliteration": "et- Methushael **uMethushael** yalad et-",
+        "englishLiteral": "↳ Man-of-God (Methusael) **and-Man-of-God (Methusael)** bore ↳",
+        "englishNatural": "↳ Man-of-God (Methusael) **and Man-of-God (Methusael)** bore ↳"
+      }
+    }
+  ]
+}

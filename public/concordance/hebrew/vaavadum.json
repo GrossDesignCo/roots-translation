@@ -1,0 +1,33 @@
+{
+  "key": "vaavadum",
+  "language": "hebrew",
+  "root": "abad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וַעֲבָדוּם",
+        "transliteration": "vaAvadum",
+        "englishLiteral": "and-they-will-serve",
+        "englishNatural": "and they will serve",
+        "root": "abad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא לָהֶם **וַעֲבָדוּם** וְעִנּוּ אֹתָם",
+        "transliteration": "lo lahem **vaAvadum** veInu otam",
+        "englishLiteral": "not to-them **and-they-will-serve** and-they-will-afflict ↳ them",
+        "englishNatural": "not to them **and they will serve** and they will afflict them"
+      }
+    }
+  ]
+}

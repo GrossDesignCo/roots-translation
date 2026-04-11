@@ -1,0 +1,54 @@
+{
+  "root": "meah_bowels",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בִּמְעֵי",
+        "transliteration": "bimei",
+        "englishLiteral": "in-bowels-of",
+        "englishNatural": "in the bowels of",
+        "root": "meah_bowels",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי יוֹנָה **בִּמְעֵי** הַדָּג שְׁלֹשָׁה",
+        "transliteration": "vaYehi Yonah **bimei** haDag shloshah",
+        "englishLiteral": "And-was Dove (Jonah) **in-bowels-of** the-fish three",
+        "englishNatural": "was And Dove (Jonah) **in the bowels of** the fish three"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מִמְּעֵי",
+        "transliteration": "mimei",
+        "englishLiteral": "from-bowels-of",
+        "englishNatural": "from the bowels of",
+        "root": "meah_bowels",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהָיו **מִמְּעֵי** הַדָּגָה",
+        "transliteration": "YHWH elohav **mimei** haDagah",
+        "englishLiteral": "He_Who_Is (YHWH) Gods-his **from-bowels-of** the-fish",
+        "englishNatural": "He-Who-Is (YHWH) his God **from the bowels of** the fish"
+      }
+    }
+  ]
+}

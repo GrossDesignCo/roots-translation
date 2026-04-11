@@ -1,0 +1,31 @@
+{
+  "key": "halo",
+  "language": "hebrew",
+  "root": "lo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "הֲלֹא־",
+        "transliteration": "haLo",
+        "englishLiteral": "Does-not",
+        "englishNatural": "Does not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**הֲלֹא־** חָכְמָה תִקְרָא",
+        "transliteration": "**haLo** chokmah tiqra",
+        "englishLiteral": "**Does-not** Wisdom will-call_out",
+        "englishNatural": "**Does not** Wisdom call-out"
+      }
+    }
+  ]
+}

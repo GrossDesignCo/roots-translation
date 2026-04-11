@@ -1,0 +1,33 @@
+{
+  "key": "yulad-",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 26
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "יֻלַּד־",
+        "transliteration": "yulad-",
+        "englishLiteral": "was-born",
+        "englishNatural": "was born",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "גַּם־ הוּא **יֻלַּד־** בֵּן וַיִּקְרָא",
+        "transliteration": "gam- hu **yulad-** ben vaYiqra",
+        "englishLiteral": "also he **was-born** son and-called_out",
+        "englishNatural": "also he **was born** a son and he called-out"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "raasheihem",
+  "language": "hebrew",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 22
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "רָאשֵׁיהֶם",
+        "transliteration": "raasheihem",
+        "englishLiteral": "heads-their",
+        "englishNatural": "their heads",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נָטוּי עַל־ **רָאשֵׁיהֶם** מִלְמָעְלָה",
+        "transliteration": "natuy al- **raasheihem** miLemaala",
+        "englishLiteral": "stretched-out over- **heads-their** from-to-upward",
+        "englishNatural": "stretched-out over **their heads** from above"
+      }
+    }
+  ]
+}

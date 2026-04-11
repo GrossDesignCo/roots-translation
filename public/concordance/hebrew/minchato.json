@@ -1,0 +1,55 @@
+{
+  "key": "minchato",
+  "language": "hebrew",
+  "root": "minchah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "מִנְחָתוֹ",
+        "transliteration": "minchato",
+        "englishLiteral": "his-offering",
+        "englishNatural": "his offering",
+        "root": "minchah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֶבֶל וְאֶל־ **מִנְחָתוֹ**",
+        "transliteration": "Hevel veEl- **minchato**",
+        "englishLiteral": "Vapor (Abel) and-to **his-offering**",
+        "englishNatural": "Vapor (Abel) and to **his offering**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מִנְחָתוֹ",
+        "transliteration": "minchato",
+        "englishLiteral": "his-offering",
+        "englishNatural": "his offering",
+        "root": "minchah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קַיִן וְאֶל־ **מִנְחָתוֹ** לֹא שָׁעָה",
+        "transliteration": "Qayin veEl- **minchato** lo shaah",
+        "englishLiteral": "Acquired (Cain) and-to **his-offering** no esteeming",
+        "englishNatural": "Acquired (Cain) and to **his offering** no esteeming"
+      }
+    }
+  ]
+}

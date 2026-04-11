@@ -1,0 +1,32 @@
+{
+  "root": "lehishabeir",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לְהִשָּׁבֵר",
+        "transliteration": "lehishabeir",
+        "englishLiteral": "to-be-broken",
+        "englishNatural": "to be broken",
+        "root": "lehishabeir",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָאֳנִיָּה חִשְּׁבָה **לְהִשָּׁבֵר**",
+        "transliteration": "veHaOniyah chishvah **lehishabeir**",
+        "englishLiteral": "and-the-ship planned **to-be-broken**",
+        "englishNatural": "and the ship planned **to be broken**"
+      }
+    }
+  ]
+}

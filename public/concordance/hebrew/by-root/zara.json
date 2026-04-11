@@ -1,0 +1,294 @@
+{
+  "root": "zara",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מַזְרִ֣יעַ",
+        "transliteration": "maZria",
+        "englishLiteral": "seeding",
+        "englishNatural": "seeding",
+        "root": "zara",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "דֶּ֗שֶׁא עֵ֚שֶׂב **מַזְרִ֣יעַ** זֶ֔רַע עֵ֣ץ",
+        "transliteration": "deshe esev **maZria** zera etz",
+        "englishLiteral": "tender_shoot herb **seeding** seed tree",
+        "englishNatural": "tender-shoot herb **seeding** seed tree"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "זֶ֔רַע",
+        "transliteration": "zera",
+        "englishLiteral": "seed",
+        "englishNatural": "seed",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֵ֚שֶׂב מַזְרִ֣יעַ **זֶ֔רַע** עֵ֣ץ פְּרִ֞י",
+        "transliteration": "esev maZria **zera** etz pri",
+        "englishLiteral": "herb seeding **seed** tree fruit",
+        "englishNatural": "herb seeding **seed** tree fruit"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "זַרְעוֹ־",
+        "transliteration": "zaro-",
+        "englishLiteral": "its-seed-",
+        "englishNatural": "has its seed",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִינ֔וֹ אֲשֶׁ֥ר **זַרְעוֹ־** ב֖וֹ עַל־",
+        "transliteration": "leMino asher **zaro-** bo al-",
+        "englishLiteral": "to-its-kind which **its-seed-** in-it over-",
+        "englishNatural": "after its kind which **has its seed** in it over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מַזְרִ֣יעַ",
+        "transliteration": "maZria",
+        "englishLiteral": "seeding",
+        "englishNatural": "seeding",
+        "root": "zara",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "דֶּ֗שֶׁא עֵ֚שֶׂב **מַזְרִ֣יעַ** זֶ֔רַע לְמִינֵ֖הוּ",
+        "transliteration": "deshe esev **maZria** zera leMinehu",
+        "englishLiteral": "tender_shoot herb **seeding** seed to-its-kind",
+        "englishNatural": "tender-shoot herb **seeding** seed after its kind"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "זֶ֔רַע",
+        "transliteration": "zera",
+        "englishLiteral": "seed",
+        "englishNatural": "seed",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֵ֚שֶׂב מַזְרִ֣יעַ **זֶ֔רַע** לְמִינֵ֖הוּ וְעֵ֧ץ",
+        "transliteration": "esev maZria **zera** leMinehu veEtz",
+        "englishLiteral": "herb seeding **seed** to-its-kind and-tree",
+        "englishNatural": "herb seeding **seed** after its kind and tree"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "זַרְעוֹ־ב֖וֹ",
+        "transliteration": "zaro-bo",
+        "englishLiteral": "its-seed-in-it",
+        "englishNatural": "has its seed in it",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פְּרִ֞י אֲשֶׁ֤ר **זַרְעוֹ־ב֖וֹ** לְמִינֵ֑הוּ וַיַּ֥רְא",
+        "transliteration": "pri asher **zaro-bo** leMinehu vaYar",
+        "englishLiteral": "fruit which **its-seed-in-it** to-its-kind And-saw",
+        "englishNatural": "fruit which **has its seed in it** after its kind saw"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "זֹרֵ֣עַ",
+        "transliteration": "zorea",
+        "englishLiteral": "seeding",
+        "englishNatural": "seeding",
+        "root": "zara",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ עֵ֣שֶׂב **זֹרֵ֣עַ** זֶ֗רַע אֲשֶׁר֙",
+        "transliteration": "kol- esev **zorea** zera asher",
+        "englishLiteral": "all herb **seeding** seed which",
+        "englishNatural": "all herb **seeding** seed which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      },
+      "wordIndex": 22,
+      "word": {
+        "originalScript": "זֹרֵ֣עַ",
+        "transliteration": "zorea",
+        "englishLiteral": "seeding",
+        "englishNatural": "seeding",
+        "root": "zara",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "פְרִֽי־ עֵ֣ץ **זֹרֵ֣עַ** זָ֑רַע לָכֶ֥ם",
+        "transliteration": "peri- etz **zorea** zara lakhem",
+        "englishLiteral": "fruit-of tree **seeding** seed to-you",
+        "englishNatural": "fruit of tree **seeding** seed to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "זָרַע",
+        "transliteration": "zara",
+        "englishLiteral": "seed",
+        "englishNatural": "seed",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא נָתַתָּה **זָרַע** וְהִנֵּה בֶן־",
+        "transliteration": "lo natata **zara** veHineh ben-",
+        "englishLiteral": "not you-have-given **seed** and-behold son-of-",
+        "englishNatural": "not you have given **seed** and behold the son of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 5
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "זַרְעֶךָ",
+        "transliteration": "zarcha",
+        "englishLiteral": "seed-of-you",
+        "englishNatural": "your seed",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֹּה יִהְיֶה **זַרְעֶךָ**",
+        "transliteration": "koh yihyeh **zarcha**",
+        "englishLiteral": "Thus he-will-be **seed-of-you**",
+        "englishNatural": "Thus will be **your seed**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "זַרְעֲךָ",
+        "transliteration": "zarcha",
+        "englishLiteral": "seed-of-you",
+        "englishNatural": "your seed",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גֵר יִהְיֶה **זַרְעֲךָ** בְּאֶרֶץ לֹא",
+        "transliteration": "ger yihyeh **zarcha** beEretz lo",
+        "englishLiteral": "sojourner he-will-be **seed-of-you** in-land not",
+        "englishNatural": "a sojourner will be **your seed** in a land not"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 18
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לְזַרְעֲךָ",
+        "transliteration": "leZarakha",
+        "englishLiteral": "to-seed-of-you",
+        "englishNatural": "To your seed",
+        "root": "zara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּרִית לֵאמֹר **לְזַרְעֲךָ** נָתַתִּי אֶת־",
+        "transliteration": "berit lemor **leZarakha** natati et-",
+        "englishLiteral": "covenant to-say **to-seed-of-you** I-gave ↳",
+        "englishNatural": "a covenant saying **To your seed** I have given ↳"
+      }
+    }
+  ]
+}

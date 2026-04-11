@@ -1,0 +1,55 @@
+{
+  "key": "shaddai",
+  "language": "hebrew",
+  "root": "shaddai",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "שַׁדָּי",
+        "transliteration": "Shaddai",
+        "englishLiteral": "Almighty",
+        "englishNatural": "Almighty",
+        "root": "shaddai",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יַעֲקֹב בְּאֵל **שַׁדָּי** וּשְׁמִי יְהוָה",
+        "transliteration": "Yaaqov beEl **Shaddai** uShemi YHWH",
+        "englishLiteral": "Heel_Grasper (Jacob) in-God **Almighty** and-name-my He_Who_Is (YHWH)",
+        "englishNatural": "Heel-Grasper (Jacob) in God **Almighty** and my name He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 24
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "שַׁדַּי",
+        "transliteration": "shaddai",
+        "englishLiteral": "All_Powerful (Shaddai)",
+        "englishNatural": "All-Powerful (Shaddai)",
+        "root": "shaddai",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רַבִּים כְּקוֹל־ **שַׁדַּי** בְּלֶכְתָּם קוֹל",
+        "transliteration": "rabbim keQol- **shaddai** beLekhtan qol",
+        "englishLiteral": "many like-voice-of- **All_Powerful (Shaddai)** in-going-their voice-of",
+        "englishNatural": "many like the voice of **All-Powerful (Shaddai)** in their going the voice of"
+      }
+    }
+  ]
+}

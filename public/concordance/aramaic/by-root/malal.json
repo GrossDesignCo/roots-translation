@@ -1,0 +1,32 @@
+{
+  "root": "malal",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 23,
+      "word": {
+        "originalScript": "מְמַלִּ֥ל",
+        "transliteration": "memallil",
+        "englishLiteral": "speaking",
+        "englishNatural": "speaking",
+        "root": "malal",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "pael"
+        }
+      },
+      "context": {
+        "hebrew": "דָ֔א וּפֻ֖ם **מְמַלִּ֥ל** רַבְרְבָֽן",
+        "transliteration": "da uPum **memallil** ravrevan",
+        "englishLiteral": "this and-mouth **speaking** great_things",
+        "englishNatural": "in this and a mouth **speaking** great-things"
+      }
+    }
+  ]
+}

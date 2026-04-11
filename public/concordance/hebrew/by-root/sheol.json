@@ -1,0 +1,30 @@
+{
+  "root": "sheol",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "שְׁאוֹל",
+        "transliteration": "sheol",
+        "englishLiteral": "Hades",
+        "englishNatural": "Hades",
+        "root": "sheol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעֲנֵנִי מִבֶּטֶן **שְׁאוֹל** שִׁוַּעְתִּי שָׁמַעְתָּ",
+        "transliteration": "vaYaaneni mibeten **sheol** shivati shamata",
+        "englishLiteral": "and-answered-me from-belly-of **Hades** I-cried_out you-heard",
+        "englishNatural": "and he answered me from the belly of **Hades** I cried-out you heard"
+      }
+    }
+  ]
+}

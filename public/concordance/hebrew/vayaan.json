@@ -1,0 +1,33 @@
+{
+  "key": "vayaan",
+  "language": "hebrew",
+  "root": "anah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּעַן",
+        "transliteration": "vaYaan",
+        "englishLiteral": "And-answered",
+        "englishNatural": "answered",
+        "root": "anah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּעַן** מֹשֶׁה וַיֹּאמֶר",
+        "transliteration": "**vaYaan** Moshe vaYomer",
+        "englishLiteral": "**And-answered** Drawn_Out (Moses) and-said",
+        "englishNatural": "**answered** And Drawn-Out (Moses) and said"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "akhal-",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אֲכָל־",
+        "transliteration": "akhal-",
+        "englishLiteral": "eat-",
+        "englishNatural": "eat",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "צִוִּיתִיךָ לְבִלְתִּי **אֲכָל־** מִמֶּנּוּ אָכָלְתָּ",
+        "transliteration": "tzivitikha levilti **akhal-** mimenu akalta",
+        "englishLiteral": "I-command-you to-not **eat-** from-it you-eat",
+        "englishNatural": "I command you not to **eat** from it you eat"
+      }
+    }
+  ]
+}

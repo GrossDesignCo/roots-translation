@@ -1,0 +1,31 @@
+{
+  "key": "vechaspa",
+  "language": "aramaic",
+  "root": "chasaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 34
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וְחַסְפָּא",
+        "transliteration": "veChaspa",
+        "englishLiteral": "and-clay-the",
+        "englishNatural": "and the clay",
+        "root": "chasaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי פַרְזְלָא **וְחַסְפָּא** וְהַדֵּקֶת הִמּוֹן",
+        "transliteration": "di parzela **veChaspa** veHaddeqet himmon",
+        "englishLiteral": "which iron-the **and-clay-the** and-crushed them",
+        "englishNatural": "of the iron **and the clay** and crushed them"
+      }
+    }
+  ]
+}

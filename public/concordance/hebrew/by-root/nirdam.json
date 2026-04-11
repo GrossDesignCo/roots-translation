@@ -1,0 +1,30 @@
+{
+  "root": "nirdam",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "נִרְדָּם",
+        "transliteration": "nirdam",
+        "englishLiteral": "sleeper",
+        "englishNatural": "O sleeper",
+        "root": "nirdam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַה־ לְּךָ **נִרְדָּם** קוּם קְרָא",
+        "transliteration": "mah- lekha **nirdam** qum qera",
+        "englishLiteral": "What- to-you **sleeper** Stand_up call_out",
+        "englishNatural": "What is with you **O sleeper** Stand-up call-out"
+      }
+    }
+  ]
+}

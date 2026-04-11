@@ -1,0 +1,30 @@
+{
+  "root": "lakhen",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "לָכֵן",
+        "transliteration": "lakhen",
+        "englishLiteral": "therefore",
+        "englishNatural": "Therefore",
+        "root": "lakhen",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לָכֵן** אֱמֹר לִבְנֵי־",
+        "transliteration": "**lakhen** emor livnei-",
+        "englishLiteral": "**therefore** say to-sons-of-",
+        "englishNatural": "**Therefore** say to the sons of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "neoteros",
+  "language": "greek",
+  "root": "neoteros",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "νεώτερος",
+        "transliteration": "neoteros",
+        "englishLiteral": "younger",
+        "englishNatural": "younger",
+        "root": "neoteros",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "ὅτε ἦς **νεώτερος** ἐζώννυες σεαυτόν",
+        "transliteration": "hote ēs **neoteros** ezōnnues seauton",
+        "englishLiteral": "when you-were **younger** you-girded yourself",
+        "englishNatural": "when you were **younger** you girded yourself"
+      }
+    }
+  ]
+}

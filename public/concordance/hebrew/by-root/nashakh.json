@@ -1,0 +1,83 @@
+{
+  "root": "nashakh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיְנַשְּׁכוּ",
+        "transliteration": "vaYeNashkhu",
+        "englishLiteral": "and-they-struck",
+        "englishNatural": "and they struck",
+        "root": "nashakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "הַנְּחָשִׁים הַשְּׂרָפִים **וַיְנַשְּׁכוּ** אֶת הָעָם",
+        "transliteration": "haNechashim haSeraphim **vaYeNashkhu** et haAm",
+        "englishLiteral": "the-snakes the-incinerating_ones **and-they-struck** ↳ the-people",
+        "englishNatural": "the snakes the incinerating-ones **and they struck** ↳ the people"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 8
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הַנָּשׁוּךְ",
+        "transliteration": "haNashukh",
+        "englishLiteral": "the-struck",
+        "englishNatural": "who is struck",
+        "root": "nashakh",
+        "morphology": {
+          "type": "verb",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיָה כָּל **הַנָּשׁוּךְ** וְרָאָה אֹתוֹ",
+        "transliteration": "veHayah kol **haNashukh** veRaah oto",
+        "englishLiteral": "and-it-will-be all **the-struck** and-sees it",
+        "englishNatural": "and it shall come about everyone **who is struck** and sees it"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 9
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "נָשַׁךְ",
+        "transliteration": "nashakh",
+        "englishLiteral": "struck",
+        "englishNatural": "struck",
+        "root": "nashakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיָה אִם **נָשַׁךְ** הַנָּחָשׁ אֶת",
+        "transliteration": "veHayah im **nashakh** haNachash et",
+        "englishLiteral": "and-it-was if **struck** the-snake ↳",
+        "englishNatural": "and it came about if **struck** the snake ↳"
+      }
+    }
+  ]
+}

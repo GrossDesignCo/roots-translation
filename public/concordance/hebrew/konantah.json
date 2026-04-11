@@ -1,0 +1,33 @@
+{
+  "key": "konantah",
+  "language": "hebrew",
+  "root": "kun",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "כּוֹנָ֥נְתָּה",
+        "transliteration": "konantah",
+        "englishLiteral": "you-have-established",
+        "englishNatural": "you have established",
+        "root": "kun",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "polel"
+        }
+      },
+      "context": {
+        "hebrew": "וְכוֹכָבִ֗ים אֲשֶׁ֥ר **כּוֹנָ֥נְתָּה**",
+        "transliteration": "veKhokhavim asher **konantah**",
+        "englishLiteral": "and-stars which **you-have-established**",
+        "englishNatural": "and stars which **you have established**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "veqayin",
+  "language": "hebrew",
+  "root": "qanah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְקַיִן",
+        "transliteration": "veQayin",
+        "englishLiteral": "and-Acquired (Cain)",
+        "englishNatural": "and Acquired (Cain)",
+        "root": "qanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֹעֵה צֹאן **וְקַיִן** הָיָה עֹבֵד",
+        "transliteration": "roeh tzon **veQayin** hayah oved",
+        "englishLiteral": "shepherd flock **and-Acquired (Cain)** was servant",
+        "englishNatural": "a shepherd of flock **and Acquired (Cain)** was a servant"
+      }
+    }
+  ]
+}

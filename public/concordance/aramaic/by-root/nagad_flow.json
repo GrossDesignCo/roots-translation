@@ -1,0 +1,32 @@
+{
+  "root": "nagad_flow",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "נָגֵ֤ד",
+        "transliteration": "naged",
+        "englishLiteral": "flowing",
+        "englishNatural": "flowing",
+        "root": "nagad_flow",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי־ נ֗וּר **נָגֵ֤ד** וְנָפֵק֙ מִן־",
+        "transliteration": "di- nur **naged** veNafeq min-",
+        "englishLiteral": "of- fire **flowing** and-coming-out from-",
+        "englishNatural": "of fire **flowing** and coming out from"
+      }
+    }
+  ]
+}

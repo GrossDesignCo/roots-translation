@@ -1,0 +1,32 @@
+{
+  "key": "estin",
+  "language": "greek",
+  "root": "eimi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "ἐστιν",
+        "transliteration": "estin",
+        "englishLiteral": "is",
+        "englishNatural": "is",
+        "root": "eimi",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "ἀρχαῖον ὅς **ἐστιν** Διάβολος καὶ",
+        "transliteration": "archaion hos **estin** Diabolos kai",
+        "englishLiteral": "Ancient who **is** Accuser and",
+        "englishNatural": "Ancient who **is** Accuser and"
+      }
+    }
+  ]
+}

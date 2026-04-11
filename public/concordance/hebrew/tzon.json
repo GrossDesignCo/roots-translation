@@ -1,0 +1,55 @@
+{
+  "key": "tzon",
+  "language": "hebrew",
+  "root": "tzon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "צֹאן",
+        "transliteration": "tzon",
+        "englishLiteral": "flock",
+        "englishNatural": "of flock",
+        "root": "tzon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֶבֶל רֹעֵה **צֹאן** וְקַיִן הָיָה",
+        "transliteration": "Hevel roeh **tzon** veQayin hayah",
+        "englishLiteral": "Vapor (Abel) shepherd **flock** and-Acquired (Cain) was",
+        "englishNatural": "And Vapor (Abel) a shepherd **of flock** and Acquired (Cain) was"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "צֹאן",
+        "transliteration": "tzon",
+        "englishLiteral": "flock-of",
+        "englishNatural": "the flock of",
+        "root": "tzon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֹעֶה אֶת־ **צֹאן** יִתְרוֹ חֹתְנוֹ",
+        "transliteration": "roeh et- **tzon** Yitro chotno",
+        "englishLiteral": "shepherding ↳ **flock-of** Abundance (Jethro) father_in_law-his",
+        "englishNatural": "shepherding ↳ **the flock of** Abundance (Jethro) his father-in-law"
+      }
+    }
+  ]
+}

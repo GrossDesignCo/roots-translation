@@ -1,0 +1,31 @@
+{
+  "key": "hamidbar",
+  "language": "hebrew",
+  "root": "midbar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הַמִּדְבָּר",
+        "transliteration": "haMidbar",
+        "englishLiteral": "the-wilderness",
+        "englishNatural": "the wilderness",
+        "root": "midbar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַצֹּאן אַחַר **הַמִּדְבָּר** וַיָּבֹא אֶל־",
+        "transliteration": "haTzon achar **haMidbar** vaYavo el-",
+        "englishLiteral": "the-flock after **the-wilderness** and-came to-",
+        "englishNatural": "the flock after **the wilderness** and came to"
+      }
+    }
+  ]
+}

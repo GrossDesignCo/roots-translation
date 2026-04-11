@@ -1,0 +1,31 @@
+{
+  "root": "ginosko",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 26,
+      "word": {
+        "originalScript": "γινώσκεις",
+        "transliteration": "ginōskeis",
+        "englishLiteral": "know",
+        "englishNatural": "know",
+        "root": "ginosko",
+        "morphology": {
+          "type": "verb",
+          "tense": "present"
+        }
+      },
+      "context": {
+        "hebrew": "οἶδας σὺ **γινώσκεις** ὅτι φιλῶ",
+        "transliteration": "oidas su **ginōskeis** hoti philō",
+        "englishLiteral": "know you **know** that I-brother_love",
+        "englishNatural": "know you **know** that I brother-love"
+      }
+    }
+  ]
+}

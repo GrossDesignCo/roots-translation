@@ -1,0 +1,55 @@
+{
+  "key": "kolla",
+  "language": "aramaic",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "כֹּלָּא",
+        "transliteration": "kolla",
+        "englishLiteral": "all",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מְהַדֵּק וְחָשֵׁל **כֹּלָּא** וּכְפַרְזְלָא דִּי",
+        "transliteration": "mehaddeq veChashel **kolla** uKheParzela di",
+        "englishLiteral": "crushing and-shatters **all** and-like-iron-the which",
+        "englishNatural": "crushing and shatters **all** and like the iron which"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "כֹּלָּא",
+        "transliteration": "kolla",
+        "englishLiteral": "all",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי מְרָעַע **כֹּלָּא** תַּדִּק וְתֵרֹעַ",
+        "transliteration": "di meraa **kolla** taddiq veTeroa",
+        "englishLiteral": "which breaking **all** it-will-crush and-will-break",
+        "englishNatural": "which breaking **all** it will crush and will break"
+      }
+    }
+  ]
+}

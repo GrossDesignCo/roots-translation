@@ -1,0 +1,31 @@
+{
+  "key": "am-",
+  "language": "hebrew",
+  "root": "am",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "עַם־",
+        "transliteration": "am-",
+        "englishLiteral": "people-",
+        "englishNatural": "a people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָנֹכִי וּבְתוֹךְ **עַם־** טְמֵא שְׂפָתַיִם",
+        "transliteration": "anokhi uVeTokh **am-** teme sfatayim",
+        "englishLiteral": "I and-in-midst-of **people-** unclean lips",
+        "englishNatural": "I and in the midst of **a people** of unclean lips"
+      }
+    }
+  ]
+}

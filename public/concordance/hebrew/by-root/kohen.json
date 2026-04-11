@@ -1,0 +1,78 @@
+{
+  "root": "kohen",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 18
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "כֹהֵן",
+        "transliteration": "kohen",
+        "englishLiteral": "priest",
+        "englishNatural": "was priest",
+        "root": "kohen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וָיָיִן וְהוּא **כֹהֵן** לְאֵל עֶלְיוֹן",
+        "transliteration": "vaYayin veHu **kohen** leEl Elyon",
+        "englishLiteral": "and-wine and-he **priest** to-God Most_High",
+        "englishNatural": "and wine and he **was priest** to G. Most-High"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "כֹּהֵן",
+        "transliteration": "kohen",
+        "englishLiteral": "priest-of",
+        "englishNatural": "the priest of",
+        "root": "kohen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִתְרוֹ חֹתְנוֹ **כֹּהֵן** מִדְיָן וַיִּנְהַג",
+        "transliteration": "Yitro chotno **kohen** Midyan vaYinhag",
+        "englishLiteral": "Abundance (Jethro) father_in_law-his **priest-of** Strife (Midian) and-drove",
+        "englishNatural": "Abundance (Jethro) his father-in-law **the priest of** Strife (Midian) and he drove"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הַכֹּהֵן",
+        "transliteration": "haKohen",
+        "englishLiteral": "the-priest",
+        "englishNatural": "the priest",
+        "root": "kohen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֶּן־ בּוּזִי **הַכֹּהֵן** בְּאֶרֶץ כַּשְׂדִּים",
+        "transliteration": "ben- Buzi **haKohen** beEretz Kasdim",
+        "englishLiteral": "son-of- Contempt (Buzi) **the-priest** in-land-of Chaldeans",
+        "englishNatural": "son of Contempt (Buzi) **the priest** in the land of Chaldeans"
+      }
+    }
+  ]
+}

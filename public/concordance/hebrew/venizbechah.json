@@ -1,0 +1,33 @@
+{
+  "key": "venizbechah",
+  "language": "hebrew",
+  "root": "zavach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְנִזְבְּחָה",
+        "transliteration": "veNizbechah",
+        "englishLiteral": "and-we-will-sacrifice",
+        "englishNatural": "and we will sacrifice",
+        "root": "zavach",
+        "morphology": {
+          "type": "verb",
+          "tense": "cohortative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יָמִים בַּמִּדְבָּר **וְנִזְבְּחָה** לַיהוָה אֱלֹהֵינוּ",
+        "transliteration": "yamim baMidbar **veNizbechah** laYHWH Eloheinu",
+        "englishLiteral": "days in-wilderness **and-we-will-sacrifice** to-He_Who_Is (YHWH) Gods-our",
+        "englishNatural": "days in Wilderness **and we will sacrifice** to He-Who-Is (YHWH) our God"
+      }
+    }
+  ]
+}

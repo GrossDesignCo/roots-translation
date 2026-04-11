@@ -1,0 +1,31 @@
+{
+  "key": "leabram",
+  "language": "hebrew",
+  "root": "abram",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 13
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "לְאַבְרָם",
+        "transliteration": "leAbram",
+        "englishLiteral": "to-Exalted_Father (Abram)",
+        "englishNatural": "to Exalted-Father (Abram)",
+        "root": "abram",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **לְאַבְרָם** יָדֹעַ תֵּדַע",
+        "transliteration": "vaYomer **leAbram** yadoa teda",
+        "englishLiteral": "And-he-said **to-Exalted_Father (Abram)** Knowing you-will-know",
+        "englishNatural": "And he said **to Exalted-Father (Abram)** Knowing you will know"
+      }
+    }
+  ]
+}

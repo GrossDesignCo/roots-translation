@@ -1,0 +1,103 @@
+{
+  "key": "shnayim",
+  "language": "hebrew",
+  "root": "shnayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 19
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שְׁנַיִם",
+        "transliteration": "shnayim",
+        "englishLiteral": "two",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "מִכָּל־ בָּשָׂר **שְׁנַיִם** מִכֹּל תָּבִיא",
+        "transliteration": "mikol- basar **shnayim** mikol tavi",
+        "englishLiteral": "from-all- flesh **two** from-all you-shall-bring",
+        "englishNatural": "from all flesh **two** from all you shall bring"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 20
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "שְׁנַיִם",
+        "transliteration": "shnayim",
+        "englishLiteral": "two",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה לְמִינֵהוּ **שְׁנַיִם** מִכֹּל יָבֹאוּ",
+        "transliteration": "haAdamah leMinehu **shnayim** mikol yavou",
+        "englishLiteral": "the-earth to-kind-his **two** from-all they-will-come",
+        "englishNatural": "the earth to its kind **two** from all they will come"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "שְׁנַיִם",
+        "transliteration": "shnayim",
+        "englishLiteral": "two",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "**שְׁנַיִם** שְׁנַיִם בָּאוּ",
+        "transliteration": "**shnayim** shnayim bau",
+        "englishLiteral": "**two** two they-came",
+        "englishNatural": "**two** two they came"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "שְׁנַיִם",
+        "transliteration": "shnayim",
+        "englishLiteral": "two",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנַיִם **שְׁנַיִם** בָּאוּ אֶל־",
+        "transliteration": "shnayim **shnayim** bau el-",
+        "englishLiteral": "two **two** they-came to-",
+        "englishNatural": "two **two** they came to"
+      }
+    }
+  ]
+}

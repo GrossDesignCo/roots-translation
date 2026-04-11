@@ -1,0 +1,33 @@
+{
+  "key": "vayyimtse'u",
+  "language": "hebrew",
+  "root": "matsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַיִּמְצְאוּ",
+        "transliteration": "vayYimtse'u",
+        "englishLiteral": "and-they-found",
+        "englishNatural": "and they found",
+        "root": "matsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנָסְעָם מִקֶּדֶם **וַיִּמְצְאוּ** בִקְעָה בְּאֶרֶץ",
+        "transliteration": "beNosam miQedem **vayYimtse'u** biqah beEretz",
+        "englishLiteral": "in-journeying-their from-east **and-they-found** plain in-land-of",
+        "englishNatural": "in their journeying from the east **and they found** a plain in the land of"
+      }
+    }
+  ]
+}

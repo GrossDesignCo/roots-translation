@@ -1,0 +1,31 @@
+{
+  "key": "velemekh",
+  "language": "hebrew",
+  "root": "Lemekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 24
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְלֶמֶךְ",
+        "transliteration": "veLemekh",
+        "englishLiteral": "and-Powerful (Lamech)",
+        "englishNatural": "and Powerful (Lamech)",
+        "root": "Lemekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֻקַּם־ קָיִן **וְלֶמֶךְ** שִׁבְעִים וְשִׁבְעָה",
+        "transliteration": "yuqam- Qayin **veLemekh** shivim veShivah",
+        "englishLiteral": "shall-be-avenged Acquired (Cain) **and-Powerful (Lamech)** seventy and-seven",
+        "englishNatural": "shall be avenged Acquired (Cain) **and Powerful (Lamech)** seventy and seven"
+      }
+    }
+  ]
+}

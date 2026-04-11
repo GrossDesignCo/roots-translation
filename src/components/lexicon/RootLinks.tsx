@@ -1,4 +1,6 @@
+import Link from 'next/link';
 import { useSelection } from '@/context/SelectionContext';
+import { useLexicon } from '@/context/LexiconContext';
 import {
   roots as hebrewRoots,
   HebrewRootElement,
@@ -70,14 +72,26 @@ export const DictionaryEntry = ({
 }: {
   rootWord: HebrewRootElement | GreekRootElement | AramaicRootElement;
 }) => {
+  const { hasEntry } = useLexicon();
   // @ts-expect-error - hebrew, greek, and aramaic have different keys
   const { hebrew, greek, aramaic, transliteration, englishLiteral, type } =
     rootWord;
   const originalText = hebrew || greek || aramaic;
+  const entryExists = hasEntry(transliteration);
 
-  return (
-    <div key={transliteration}>
+  const content = (
+    <>
       {originalText} → {transliteration} → {englishLiteral} ({type})
-    </div>
+    </>
   );
+
+  if (entryExists) {
+    return (
+      <Link href={`/lexicon/${transliteration}`} className={styles.rootLink}>
+        {content}
+      </Link>
+    );
+  }
+
+  return <div>{content}</div>;
 };

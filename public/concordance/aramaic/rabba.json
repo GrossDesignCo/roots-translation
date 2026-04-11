@@ -1,0 +1,31 @@
+{
+  "key": "rabba",
+  "language": "aramaic",
+  "root": "rav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "רַבָּֽא",
+        "transliteration": "rabba",
+        "englishLiteral": "great",
+        "englishNatural": "to the great",
+        "root": "rav",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מְגִיחָ֖ן לְיַמָּ֥א **רַבָּֽא**",
+        "transliteration": "meGichan leYamma **rabba**",
+        "englishLiteral": "stirring_up to-the-sea **great**",
+        "englishNatural": "were stirring-up sea **to the great**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "habet-",
+  "language": "hebrew",
+  "root": "nabat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַבֶּט־",
+        "transliteration": "habet-",
+        "englishLiteral": "Look-",
+        "englishNatural": "Look",
+        "root": "nabat",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הַחוּצָה וַיֹּאמֶר **הַבֶּט־** נָא הַשָּׁמַיְמָה",
+        "transliteration": "haChutza vaYomer **habet-** na haShamayma",
+        "englishLiteral": "the-outside and-he-said **Look-** please the-heavens-toward",
+        "englishNatural": "outside said **Look** now toward the heavens"
+      }
+    }
+  ]
+}

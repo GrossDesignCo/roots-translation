@@ -1,0 +1,32 @@
+{
+  "root": "darar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיִּדְּרוּ",
+        "transliteration": "vaYideru",
+        "englishLiteral": "and-vowed",
+        "englishNatural": "and vowed",
+        "root": "darar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "זֶבַח לַיהוָה **וַיִּדְּרוּ** נְדָרִים",
+        "transliteration": "zevach laYHWH **vaYideru** nedarim",
+        "englishLiteral": "sacrifice to-He_Who_Is (YHWH) **and-vowed** vows",
+        "englishNatural": "a sacrifice to He-Who-Is (YHWH) **and vowed** vows"
+      }
+    }
+  ]
+}

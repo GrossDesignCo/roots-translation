@@ -1,0 +1,31 @@
+{
+  "key": "einayim",
+  "language": "hebrew",
+  "root": "ayin_eye",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "עֵינַיִם",
+        "transliteration": "einayim",
+        "englishLiteral": "eyes",
+        "englishNatural": "eyes",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגַבֹּתָם מְלֵאֹת **עֵינַיִם** סָבִיב לְאַרְבַּעְתָּן",
+        "transliteration": "veGabbotam meleot **einayim** saviv leArbatan",
+        "englishLiteral": "and-rims-their full-of **eyes** all_around to-four-of-them",
+        "englishNatural": "and their rims full of **eyes** all-around to four of them"
+      }
+    }
+  ]
+}

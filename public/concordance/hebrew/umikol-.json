@@ -1,0 +1,31 @@
+{
+  "key": "umikol-",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 19
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּמִכָּל־",
+        "transliteration": "uMikol-",
+        "englishLiteral": "And-from-all-",
+        "englishNatural": "And from all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּמִכָּל־** הָחַי מִכָּל־",
+        "transliteration": "**uMikol-** haChai mikol-",
+        "englishLiteral": "**And-from-all-** the-living from-all-",
+        "englishNatural": "**And from all** the living from all"
+      }
+    }
+  ]
+}

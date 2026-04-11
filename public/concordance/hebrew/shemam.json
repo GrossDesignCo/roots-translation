@@ -1,0 +1,31 @@
+{
+  "key": "shemam",
+  "language": "hebrew",
+  "root": "shem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "שְׁמָם",
+        "transliteration": "shemam",
+        "englishLiteral": "name-their",
+        "englishNatural": "their name",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקְרָא אֶת־ **שְׁמָם** אָדָם בְּיוֹם",
+        "transliteration": "vaYiqra et- **shemam** Adam beYom",
+        "englishLiteral": "and-called_out ↳ **name-their** Earthling (Adam) in-day",
+        "englishNatural": "and called-out ↳ **their name** Earthling (Adam) in the day of"
+      }
+    }
+  ]
+}

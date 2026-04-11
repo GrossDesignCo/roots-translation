@@ -1,0 +1,33 @@
+{
+  "key": "qanani",
+  "language": "hebrew",
+  "root": "qanah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "קָנָנִי",
+        "transliteration": "qanani",
+        "englishLiteral": "acquired-me",
+        "englishNatural": "acquired me",
+        "root": "qanah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה **קָנָנִי** רֵאשִׁית דַּרְכּוֹ",
+        "transliteration": "YHWH **qanani** reshit darko",
+        "englishLiteral": "He_Who_Is (YHWH) **acquired-me** heading-of way-his",
+        "englishNatural": "He-Who-Is (YHWH) **acquired me** the heading of his way"
+      }
+    }
+  ]
+}

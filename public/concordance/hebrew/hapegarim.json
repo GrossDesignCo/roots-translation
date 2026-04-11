@@ -1,0 +1,31 @@
+{
+  "key": "hapegarim",
+  "language": "hebrew",
+  "root": "peger",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הַפְּגָרִים",
+        "transliteration": "haPegarim",
+        "englishLiteral": "the-carcasses",
+        "englishNatural": "the carcasses",
+        "root": "peger",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָעַיִט עַל־ **הַפְּגָרִים** וַיַּשֵּׁב אֹתָם",
+        "transliteration": "haAyit al- **haPegarim** vayashev otam",
+        "englishLiteral": "the-bird_of_prey over- **the-carcasses** and-he-caused-to-return ↳ them",
+        "englishNatural": "And the birds-of-prey over **the carcasses** caused-to-return them"
+      }
+    }
+  ]
+}

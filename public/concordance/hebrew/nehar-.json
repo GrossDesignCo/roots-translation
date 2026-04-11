@@ -1,0 +1,79 @@
+{
+  "key": "nehar-",
+  "language": "hebrew",
+  "root": "nahar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 18
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "נְהַר־",
+        "transliteration": "nehar-",
+        "englishLiteral": "river-of-",
+        "englishNatural": "the River of",
+        "root": "nahar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַנָּהָר הַגָּדֹל **נְהַר־** פְּרָת",
+        "transliteration": "haNahar haGadol **nehar-** Perat",
+        "englishLiteral": "the-river the-great **river-of-** Fruitful (Euphrates)",
+        "englishNatural": "The River The Great **the River of** Fruitful (Euphrates)"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "נְהַר־",
+        "transliteration": "nehar-",
+        "englishLiteral": "River-of-",
+        "englishNatural": "River of",
+        "root": "nahar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַגּוֹלָה עַל־ **נְהַר־** כְּבָר נִפְתְּחוּ",
+        "transliteration": "haGolah al- **nehar-** Kebar niftechu",
+        "englishLiteral": "the-exile upon- **River-of-** Ancient (Kebar) they-were-opened",
+        "englishNatural": "the exile upon **River of** Ancient (Kebar) were opened"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "נְהַר־",
+        "transliteration": "nehar-",
+        "englishLiteral": "River-of-",
+        "englishNatural": "River of",
+        "root": "nahar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כַּשְׂדִּים עַל־ **נְהַר־** כְּבָר וַתְּהִי",
+        "transliteration": "Kasdim al- **nehar-** Kebar vatehi",
+        "englishLiteral": "Chaldeans over- **River-of-** Ancient (Kebar) and-it-was",
+        "englishNatural": "Chaldeans over **River of** Ancient (Kebar) was"
+      }
+    }
+  ]
+}

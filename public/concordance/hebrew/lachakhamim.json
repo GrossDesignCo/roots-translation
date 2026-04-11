@@ -1,0 +1,31 @@
+{
+  "key": "lachakhamim",
+  "language": "hebrew",
+  "root": "chakam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לַחֲכָמִים",
+        "transliteration": "laChakhamim",
+        "englishLiteral": "to-the-wise",
+        "englishNatural": "to the wise",
+        "root": "chakam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַם־ פַּרְעֹה **לַחֲכָמִים** וְלַמְכַשְּׁפִים וַיַּעֲשׂוּ",
+        "transliteration": "gam- Paroh **laChakhamim** veLaMkhashshefim vaYaasu",
+        "englishLiteral": "also- Pharaoh **to-the-wise** and-to-the-sorcerers and-made",
+        "englishNatural": "also And Pharaoh **to the wise** and to the sorcerers made"
+      }
+    }
+  ]
+}

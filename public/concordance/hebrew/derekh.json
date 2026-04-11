@@ -1,0 +1,103 @@
+{
+  "key": "derekh",
+  "language": "hebrew",
+  "root": "derekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "דֶּרֶךְ",
+        "transliteration": "derekh",
+        "englishLiteral": "way",
+        "englishNatural": "the way",
+        "root": "derekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִשְׁמֹר אֶת־ **דֶּרֶךְ** עֵץ הַחַיִּים׃",
+        "transliteration": "lishMor et- **derekh** etz haChayyim",
+        "englishLiteral": "to-keep ↳ **way** tree the-lives",
+        "englishNatural": "to keep ↳ **the way** to the Tree of Life"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "דֶּרֶךְ",
+        "transliteration": "derekh",
+        "englishLiteral": "way-of",
+        "englishNatural": "a way of",
+        "root": "derekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֵלְכָה נָּא **דֶּרֶךְ** שְׁלֹשֶׁת יָמִים",
+        "transliteration": "nelkhah na **derekh** sheloshet yamim",
+        "englishLiteral": "we-will-go please **way-of** three-of days",
+        "englishNatural": "we will go please **a way of** three days"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "דֶּרֶךְ",
+        "transliteration": "derekh",
+        "englishLiteral": "way-of",
+        "englishNatural": "the way of",
+        "root": "derekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹדֵעַ יְהוָה **דֶּרֶךְ** צַדִּיקִים וְדֶרֶךְ",
+        "transliteration": "yodea YHWH **derekh** tzadiqim veDerekh",
+        "englishLiteral": "knowing He-Who-Is (YHWH) **way-of** righteous-ones and-way-of",
+        "englishNatural": "knows He-Who-Is (YHWH) **the way of** the righteous and the way of"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "דָרֶךְ",
+        "transliteration": "derekh",
+        "englishLiteral": "way",
+        "englishNatural": "a way",
+        "root": "derekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מְרוֹמִים עֲלֵי־ **דָרֶךְ** בֵּין נְתִיבוֹת",
+        "transliteration": "meromim alei- **derekh** bein netivot",
+        "englishLiteral": "heights overlooking **way** between paths",
+        "englishNatural": "heights overlooking **a way** between paths"
+      }
+    }
+  ]
+}

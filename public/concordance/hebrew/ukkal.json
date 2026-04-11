@@ -1,0 +1,33 @@
+{
+  "key": "ukkal",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "אֻכָּל",
+        "transliteration": "ukkal",
+        "englishLiteral": "consumed",
+        "englishNatural": "consumed",
+        "root": "akhal",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַסְּנֶה אֵינֶנּוּ **אֻכָּל**",
+        "transliteration": "vehaSeneh einenu **ukkal**",
+        "englishLiteral": "and-the-thornbush not_exist-it **consumed**",
+        "englishNatural": "and the thornbush was not **consumed**"
+      }
+    }
+  ]
+}

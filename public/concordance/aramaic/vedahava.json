@@ -1,0 +1,55 @@
+{
+  "key": "vedahava",
+  "language": "aramaic",
+  "root": "dehav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְדַהֲבָא",
+        "transliteration": "veDahava",
+        "englishLiteral": "and-gold-the",
+        "englishNatural": "and the gold",
+        "root": "dehav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְחָשָׁא כַּסְפָּא **וְדַהֲבָא** וַהֲווֹ כְּעוּר",
+        "transliteration": "nechasha kaspa **veDahava** vaHavo keUr",
+        "englishLiteral": "bronze-the silver-the **and-gold-the** and-they-became like-chaff",
+        "englishNatural": "the bronze the silver **and the gold** and became like chaff"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וְדַהֲבָא",
+        "transliteration": "veDahava",
+        "englishLiteral": "and-gold-the",
+        "englishNatural": "and the gold",
+        "root": "dehav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַסְפָּא כַּסְפָּא **וְדַהֲבָא** אֱלָהּ רַב",
+        "transliteration": "chaspa kaspa **veDahava** elah rav",
+        "englishLiteral": "clay-the silver-the **and-gold-the** God-the great",
+        "englishNatural": "the clay the silver **and the gold** God the great"
+      }
+    }
+  ]
+}

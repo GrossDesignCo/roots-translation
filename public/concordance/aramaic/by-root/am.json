@@ -1,0 +1,54 @@
+{
+  "root": "am",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לְעַם",
+        "transliteration": "leAm",
+        "englishLiteral": "to-people",
+        "englishNatural": "people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תִתְחַבַּל וּמַלְכוּתָה **לְעַם** אָחֳרָן לָא",
+        "transliteration": "titchabal uMalkhutah **leAm** achoran la",
+        "englishLiteral": "will-be_damaged and-kingdom-the **to-people** another not",
+        "englishNatural": "will be-damaged and the kingdom **people** to another not"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "עַֽמְמַיָּ֗א",
+        "transliteration": "ammaya",
+        "englishLiteral": "peoples-the",
+        "englishNatural": "the peoples",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמַלְכ֔וּ וְכֹ֣ל **עַֽמְמַיָּ֗א** אֻמַיָּ֛א וְלִשָּׁנַיָּ֖א",
+        "transliteration": "uMalkhu veKhol **ammaya** umaya veLishanaya",
+        "englishLiteral": "and-kingdom and-all **peoples-the** nations-the and-languages-the",
+        "englishNatural": "and kingdom and all **the peoples** the nations and the languages"
+      }
+    }
+  ]
+}

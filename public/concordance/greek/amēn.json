@@ -1,0 +1,103 @@
+{
+  "key": "amēn",
+  "language": "greek",
+  "root": "amen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "ἀμὴν",
+        "transliteration": "amēn",
+        "englishLiteral": "Amen",
+        "englishNatural": "Amen",
+        "root": "amen",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "αὐτοῖς Ἰησοῦς **ἀμὴν** ἀμὴν λέγω",
+        "transliteration": "autois Iēsous **amēn** amēn legō",
+        "englishLiteral": "to-them Salvation (Jesus) **Amen** amen I-say",
+        "englishNatural": "to them Salvation (Jesus) **Amen** amen I say"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 8,
+        "verse": 58
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "ἀμὴν",
+        "transliteration": "amēn",
+        "englishLiteral": "amen",
+        "englishNatural": "amen",
+        "root": "amen",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "Ἰησοῦς ἀμὴν **ἀμὴν** λέγω ὑμῖν",
+        "transliteration": "Iēsous amēn **amēn** legō hymin",
+        "englishLiteral": "Salvation (Jesus) Amen **amen** I-say to-you",
+        "englishNatural": "Salvation (Jesus) Amen **amen** I say to you"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "ἀμὴν",
+        "transliteration": "amēn",
+        "englishLiteral": "Truly",
+        "englishNatural": "Truly",
+        "root": "amen",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "**ἀμὴν** ἀμὴν λέγω",
+        "transliteration": "**amēn** amēn legō",
+        "englishLiteral": "**Truly** truly I-say",
+        "englishNatural": "**Truly** truly I say"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "ἀμὴν",
+        "transliteration": "amēn",
+        "englishLiteral": "truly",
+        "englishNatural": "truly",
+        "root": "amen",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "ἀμὴν **ἀμὴν** λέγω σοι",
+        "transliteration": "amēn **amēn** legō soi",
+        "englishLiteral": "Truly **truly** I-say to-you",
+        "englishNatural": "Truly **truly** I say to you"
+      }
+    }
+  ]
+}

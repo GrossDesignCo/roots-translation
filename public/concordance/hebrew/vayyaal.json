@@ -1,0 +1,33 @@
+{
+  "key": "vayyaal",
+  "language": "hebrew",
+  "root": "alah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 20
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וַיַּעַל",
+        "transliteration": "vayYaal",
+        "englishLiteral": "and-caused-to-go_up",
+        "englishNatural": "and caused to go-up",
+        "root": "alah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הָעוֹף הַטָּהֹר **וַיַּעַל** עֹלֹת בַּמִּזְבֵּחַ",
+        "transliteration": "haOf haTahor **vayYaal** olot baMizbeach",
+        "englishLiteral": "the-flyer the-clean **and-caused-to-go_up** goings_up on-the-altar",
+        "englishNatural": "the flyer the clean **and caused to go-up** goings-up on the altar"
+      }
+    }
+  ]
+}

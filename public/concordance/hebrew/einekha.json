@@ -1,0 +1,31 @@
+{
+  "key": "einekha",
+  "language": "hebrew",
+  "root": "ayin_eye",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עֵינֶיךָ",
+        "transliteration": "einekha",
+        "englishLiteral": "eyes-your",
+        "englishNatural": "your eyes",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נִגְרַשְׁתִּי מִנֶּגֶד **עֵינֶיךָ** אַךְ אוֹסִיף",
+        "transliteration": "nigrashti mineged **einekha** akh osif",
+        "englishLiteral": "I-am-driven_out from-before **eyes-your** Only I-will-add",
+        "englishNatural": "I am driven-out from before **your eyes** Only I will add"
+      }
+    }
+  ]
+}

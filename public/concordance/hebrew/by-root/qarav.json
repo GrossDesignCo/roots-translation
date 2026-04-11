@@ -1,0 +1,58 @@
+{
+  "root": "qarav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "תִּקְרַב",
+        "transliteration": "tiqrav",
+        "englishLiteral": "approach",
+        "englishNatural": "Approach",
+        "root": "qarav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר אַל־ **תִּקְרַב** הֲלֹם שַׁל־",
+        "transliteration": "vaYomer al- **tiqrav** halom shal-",
+        "englishLiteral": "And-said not- **approach** here send-",
+        "englishNatural": "And he said not **Approach** here send-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּקְרַב",
+        "transliteration": "vaYiqrav",
+        "englishLiteral": "And-came",
+        "englishNatural": "came",
+        "root": "qarav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּקְרַב** אֵלָיו רַב",
+        "transliteration": "**vaYiqrav** elav rav",
+        "englishLiteral": "**And-came** to-him chief",
+        "englishNatural": "**came** to him And the chief"
+      }
+    }
+  ]
+}

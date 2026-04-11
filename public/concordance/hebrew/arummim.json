@@ -1,0 +1,31 @@
+{
+  "key": "arummim",
+  "language": "hebrew",
+  "root": "arom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 25
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "עֲרוּמִּים",
+        "transliteration": "arummim",
+        "englishLiteral": "naked",
+        "englishNatural": "naked",
+        "root": "arom",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּהְיוּ שְׁנֵיהֶם **עֲרוּמִּים** הָאָדָם וְאִשְׁתּוֹ",
+        "transliteration": "vaYihyu shenehem **arummim** haAdam veIshto",
+        "englishLiteral": "And-they-were two-of-them **naked** the-Earthling (Adam) and-his-woman",
+        "englishNatural": "were And the two of them **naked** the Earthling (Adam) and his woman"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "vekhol",
+  "language": "aramaic",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וְכָל",
+        "transliteration": "veKhol",
+        "englishLiteral": "and-all",
+        "englishNatural": "and any",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וּנְשָׂאתְהוֹן רוּחָא **וְכָל** אֲתַר לָא",
+        "transliteration": "uNesathon rucha **veKhol** atar la",
+        "englishLiteral": "and-carried-them wind-the **and-all** place not",
+        "englishNatural": "carried them and the wind **and any** place was not"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וְכֹ֣ל",
+        "transliteration": "veKhol",
+        "englishLiteral": "and-all",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וִיקָ֣ר וּמַלְכ֔וּ **וְכֹ֣ל** עַֽמְמַיָּ֗א אֻמַיָּ֛א",
+        "transliteration": "viqar uMalkhu **veKhol** ammaya umaya",
+        "englishLiteral": "and-glory and-kingdom **and-all** peoples-the nations-the",
+        "englishNatural": "and glory and kingdom **and all** the peoples the nations"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "tsayid",
+  "language": "hebrew",
+  "root": "tsayid",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "צַיִד",
+        "transliteration": "tsayid",
+        "englishLiteral": "hunter",
+        "englishNatural": "the hunter",
+        "root": "tsayid",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיָה גִבֹּר־ **צַיִד** לִפְנֵי יְהוָה",
+        "transliteration": "hayah gibbor- **tsayid** liFney YHWH",
+        "englishLiteral": "was mighty_one-of- **hunter** to-faces-of He_Who_Is (YHWH)",
+        "englishNatural": "was a mighty-one of **the hunter** to the face of He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 9
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "צַיִד",
+        "transliteration": "tsayid",
+        "englishLiteral": "hunter",
+        "englishNatural": "a hunter",
+        "root": "tsayid",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּנִמְרֹד גִּבּוֹר **צַיִד** לִפְנֵי יְהוָה",
+        "transliteration": "keNimrod gibbor **tsayid** liFney YHWH",
+        "englishLiteral": "like-Rebel (Nimrod) mighty_one **hunter** to-faces-of He_Who_Is (YHWH)",
+        "englishNatural": "Like Rebel (Nimrod) a mighty-one **a hunter** to the face of He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

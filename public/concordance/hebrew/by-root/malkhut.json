@@ -1,0 +1,54 @@
+{
+  "root": "malkhut",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לְמַלְכוּת",
+        "transliteration": "leMalkhut",
+        "englishLiteral": "to-kingdom",
+        "englishNatural": "to the kingdom of",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בִּשְׁנַת שָׁלוֹשׁ **לְמַלְכוּת** יְהוֹיָקִים מֶלֶךְ",
+        "transliteration": "biShnat shalosh **leMalkhut** Yehoyakim melekh",
+        "englishLiteral": "in-year-of three **to-kingdom** He_Will_Establish (Jehoiakim) king",
+        "englishNatural": "In the year of three **to the kingdom of** He-Will-Establish (Jehoiakim) king"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "מַלְכוּתוֹ",
+        "transliteration": "malkhuto",
+        "englishLiteral": "kingdom-his",
+        "englishNatural": "his kingdom",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר בְּכָל־ **מַלְכוּתוֹ**",
+        "transliteration": "asher beKol- **malkhuto**",
+        "englishLiteral": "which in-all- **kingdom-his**",
+        "englishNatural": "which were in all **his kingdom**"
+      }
+    }
+  ]
+}

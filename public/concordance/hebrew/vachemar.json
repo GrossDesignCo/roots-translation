@@ -1,0 +1,31 @@
+{
+  "key": "vachemar",
+  "language": "hebrew",
+  "root": "chemar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בַחֵמָר",
+        "transliteration": "vaChemar",
+        "englishLiteral": "in-bitumen",
+        "englishNatural": "in bitumen",
+        "root": "chemar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גֹּמֶא וַתַּחְמְרָה **בַחֵמָר** וּבַזָּפֶת וַתָּשֶׂם",
+        "transliteration": "gome vaTachmerah **vaChemar** uVaZafet vaTasem",
+        "englishLiteral": "papyrus and-coated-it **in-bitumen** and-in-pitch and-placed",
+        "englishNatural": "papyrus and coated it **in bitumen** and in pitch and placed"
+      }
+    }
+  ]
+}

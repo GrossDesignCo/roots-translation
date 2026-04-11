@@ -1,0 +1,31 @@
+{
+  "key": "kevod-",
+  "language": "hebrew",
+  "root": "kavod",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 28
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "כְּבוֹד־",
+        "transliteration": "kevod-",
+        "englishLiteral": "glory-of-",
+        "englishNatural": "the glory of",
+        "root": "kavod",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַרְאֵה דְּמוּת **כְּבוֹד־** יְהוָה וָאֶרְאֶה",
+        "transliteration": "mareeh demut **kevod-** YHWH vaEreh",
+        "englishLiteral": "appearance-of likeness-of **glory-of-** He_Who_Is (YHWH) And-I-saw",
+        "englishNatural": "the appearance of the likeness of **the glory of** He-Who-Is (YHWH) And I saw"
+      }
+    }
+  ]
+}

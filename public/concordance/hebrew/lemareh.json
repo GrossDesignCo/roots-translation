@@ -1,0 +1,31 @@
+{
+  "key": "lemareh",
+  "language": "hebrew",
+  "root": "mareh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְמַרְאֶה",
+        "transliteration": "leMareh",
+        "englishLiteral": "to-sight",
+        "englishNatural": "to the sight",
+        "root": "mareh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֵץ נֶחְמָד **לְמַרְאֶה** וְטוֹב לְמַאֲכָל",
+        "transliteration": "etz nechmad **leMareh** veTov leMaakhal",
+        "englishLiteral": "tree coveted **to-sight** and-good to-food",
+        "englishNatural": "tree coveted **to the sight** and good for food"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "nivqeu",
+  "language": "hebrew",
+  "root": "baqa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "נִבְקְעוּ",
+        "transliteration": "nivqeu",
+        "englishLiteral": "they-were-broken_open",
+        "englishNatural": "were broken-open",
+        "root": "baqa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "בַּיּוֹם הַזֶּה **נִבְקְעוּ** כָּל־ מַעְיְנֹת",
+        "transliteration": "baYom haZeh **nivqeu** kol- mayanot",
+        "englishLiteral": "in-day the-this **they-were-broken_open** all- fountains-of",
+        "englishNatural": "day in this **were broken-open** all the fountains of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "leroshi",
+  "language": "hebrew",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לְרֹאשִׁי",
+        "transliteration": "leroshi",
+        "englishLiteral": "to-head-my",
+        "englishNatural": "to my head",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "סוּף חָבוּשׁ **לְרֹאשִׁי**",
+        "transliteration": "suf chavush **leroshi**",
+        "englishLiteral": "reed binds **to-head-my**",
+        "englishNatural": "reed binds **to my head**"
+      }
+    }
+  ]
+}

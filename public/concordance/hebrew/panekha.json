@@ -1,0 +1,55 @@
+{
+  "key": "panekha",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "פָנֶיךָ",
+        "transliteration": "panekha",
+        "englishLiteral": "your-faces",
+        "englishNatural": "have your faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְלָמָּה נָפְלוּ **פָנֶיךָ**",
+        "transliteration": "velamah nafelu **panekha**",
+        "englishLiteral": "and-why they-fell **your-faces**",
+        "englishNatural": "and why fallen **have your faces**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "פָּנֶֽיךָ׃",
+        "transliteration": "panekha",
+        "englishLiteral": "faces-your",
+        "englishNatural": "your face",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹד֙ רְא֖וֹת **פָּנֶֽיךָ׃**",
+        "transliteration": "od reot **panekha**",
+        "englishLiteral": "again to-see **faces-your**",
+        "englishNatural": "again to see **your face**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "boneh",
+  "language": "hebrew",
+  "root": "banah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 17
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בֹּנֶה",
+        "transliteration": "boneh",
+        "englishLiteral": "building",
+        "englishNatural": "building",
+        "root": "banah",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "חֲנוֹךְ וַיְהִי **בֹּנֶה** עִיר וַיִּקְרָא",
+        "transliteration": "Chanokh vayHi **boneh** ir vayYiqra",
+        "englishLiteral": "Dedicated (Enoch) and-he-was **building** city and-he-called_out",
+        "englishNatural": "Dedicated (Enoch) and he was **building** a city and he called-out"
+      }
+    }
+  ]
+}

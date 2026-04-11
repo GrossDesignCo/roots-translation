@@ -1,0 +1,33 @@
+{
+  "key": "balal",
+  "language": "hebrew",
+  "root": "balal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בָּלַל",
+        "transliteration": "balal",
+        "englishLiteral": "he-confused",
+        "englishNatural": "confused",
+        "root": "balal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ שָׁם **בָּלַל** יְהוָה שְׂפַת",
+        "transliteration": "ki- sham **balal** YHWH sefat",
+        "englishLiteral": "that- there **he-confused** He_Who_Is (YHWH) lip-of",
+        "englishNatural": "that there **confused** He-Who-Is (YHWH) the lip of"
+      }
+    }
+  ]
+}

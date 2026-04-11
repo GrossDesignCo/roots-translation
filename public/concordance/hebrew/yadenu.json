@@ -1,0 +1,31 @@
+{
+  "key": "yadenu",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 29
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "יָדֵינוּ",
+        "transliteration": "yadenu",
+        "englishLiteral": "our-hands",
+        "englishNatural": "of our hands",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִמַּעֲשֵׂנוּ וּמֵעִצְּבוֹן **יָדֵינוּ** מִן־ הָאֲדָמָה",
+        "transliteration": "miMaasenu uMeItzvon **yadenu** min- haAdamah",
+        "englishLiteral": "from-our-making and-from-pain **our-hands** from the-earth",
+        "englishNatural": "from our making and from the pain **of our hands** from the earth"
+      }
+    }
+  ]
+}

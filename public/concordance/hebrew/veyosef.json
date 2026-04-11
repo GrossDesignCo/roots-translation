@@ -1,0 +1,33 @@
+{
+  "key": "veyosef",
+  "language": "hebrew",
+  "root": "yasaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וְיוֹסֵף",
+        "transliteration": "veYosef",
+        "englishLiteral": "and-will-add",
+        "englishNatural": "and will add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׁמַע חָכָם **וְיוֹסֵף** לֶקַח וְנָבוֹן",
+        "transliteration": "yishma chakam **veYosef** leqach veNavon",
+        "englishLiteral": "Will-hear wise-man **and-will-add** teaching and-understanding-man",
+        "englishNatural": "will hear A wise man **and will add** teaching and an understanding man"
+      }
+    }
+  ]
+}

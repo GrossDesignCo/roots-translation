@@ -1,0 +1,30 @@
+{
+  "root": "seautou",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "σεαυτόν",
+        "transliteration": "seauton",
+        "englishLiteral": "yourself",
+        "englishNatural": "yourself",
+        "root": "seautou",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "νεώτερος ἐζώννυες **σεαυτόν** καὶ περιεπάτεις",
+        "transliteration": "neoteros ezōnnues **seauton** kai periepateis",
+        "englishLiteral": "younger you-girded **yourself** and you-walked",
+        "englishNatural": "younger you girded **yourself** and you walked"
+      }
+    }
+  ]
+}

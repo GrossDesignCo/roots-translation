@@ -1,0 +1,79 @@
+{
+  "key": "beit",
+  "language": "hebrew",
+  "root": "bayit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "בֵּ֣ית",
+        "transliteration": "beit",
+        "englishLiteral": "house-of",
+        "englishNatural": "the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מְנוּחָ֔ה אִשָּׁ֖ה **בֵּ֣ית** אִישָׁ֑הּ וַתִּשַּׁ֣ק",
+        "transliteration": "menuchah ishah **beit** ishah vatTishaq",
+        "englishLiteral": "rest woman **house-of** man-her and-kissed",
+        "englishNatural": "rest woman **the house of** her man And she kissed"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "בֵּית",
+        "transliteration": "beit",
+        "englishLiteral": "house",
+        "englishNatural": "to the house",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶרֶץ שִׁנְעָר **בֵּית** אֱלֹהָיו וַיָּבֵא",
+        "transliteration": "eretz Shinar **beit** elohav vaYave",
+        "englishLiteral": "land Tooth_of_Two (Shinar) **house** Gods-his and-he-brought",
+        "englishNatural": "the land of Tooth-of-Two (Shinar) **to the house** of his God and he brought"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "בֵּית",
+        "transliteration": "beit",
+        "englishLiteral": "house",
+        "englishNatural": "to the house",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַכֵּלִים **בֵּית** אוֹצָר אֱלֹהָיו",
+        "transliteration": "et- haKelim **beit** otzar elohav",
+        "englishLiteral": "↳ the-vessels **house** treasure Gods-his",
+        "englishNatural": "↳ the vessels **to the house** of treasure of his God"
+      }
+    }
+  ]
+}

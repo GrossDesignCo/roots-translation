@@ -1,0 +1,102 @@
+{
+  "root": "yirah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "יִרְאַת",
+        "transliteration": "yirat",
+        "englishLiteral": "Fear-of",
+        "englishNatural": "Fear of",
+        "root": "yirah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**יִרְאַת** יְהוָה רֵאשִׁית",
+        "transliteration": "**yirat** YHWH reshit",
+        "englishLiteral": "**Fear-of** He_Who_Is (YHWH) heading-of",
+        "englishNatural": "**Fear of** He-Who-Is (YHWH) heading of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְיִרְאָה",
+        "transliteration": "veYirah",
+        "englishLiteral": "and-fear",
+        "englishNatural": "and fear",
+        "root": "yirah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגֹבַהּ לָהֶם **וְיִרְאָה** לָהֶם וְגַבֹּתָם",
+        "transliteration": "veGovah lahem **veYirah** lahem veGabbotam",
+        "englishLiteral": "and-height to-them **and-fear** to-them and-rims-their",
+        "englishNatural": "and height to them **and fear** to them and their rims"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יִרְאָה",
+        "transliteration": "yirah",
+        "englishLiteral": "fear",
+        "englishNatural": "fear",
+        "root": "yirah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּירְאוּ הָאֲנָשִׁים **יִרְאָה** גְדוֹלָה וַיֹּאמְרוּ",
+        "transliteration": "vaYirau haAnashim **yirah** gedolah vaYomeru",
+        "englishLiteral": "And-feared the-men **fear** great and-said",
+        "englishNatural": "feared And the men **fear** a great and said"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יִרְאָה",
+        "transliteration": "yirah",
+        "englishLiteral": "fear",
+        "englishNatural": "fear of",
+        "root": "yirah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּירְאוּ הָאֲנָשִׁים **יִרְאָה** גְדוֹלָה אֶת־",
+        "transliteration": "vaYireu haAnashim **yirah** gedolah et-",
+        "englishLiteral": "And-feared the-men **fear** great ↳",
+        "englishNatural": "feared And the men **fear of** a great ↳"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "hasheni",
+  "language": "hebrew",
+  "root": "sheni",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַשֵּׁנִי",
+        "transliteration": "haSheni",
+        "englishLiteral": "the-second",
+        "englishNatural": "the second",
+        "root": "sheni",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֵׁם־ הַנָּהָר **הַשֵּׁנִי** גִּיחוֹן הוּא",
+        "transliteration": "veShem- haNahar **haSheni** Gichon hu",
+        "englishLiteral": "and-name- the-river **the-second** Gusher (Gichon) he",
+        "englishNatural": "And the name of river **the second** Gusher (Gichon) it"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הַשֵּׁנִי",
+        "transliteration": "haSheni",
+        "englishLiteral": "the-second",
+        "englishNatural": "the second",
+        "root": "sheni",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ בַּחֹדֶשׁ **הַשֵּׁנִי** בְּשִׁבְעָה־ עָשָׂר",
+        "transliteration": "Noach baChodeshhash **haSheni** beShivah- asar",
+        "englishLiteral": "Rest (Noah) in-month **the-second** in-seven- ten",
+        "englishNatural": "Rest (Noah) in the month **the second** in seven ten"
+      }
+    }
+  ]
+}

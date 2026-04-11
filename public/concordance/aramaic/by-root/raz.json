@@ -1,0 +1,54 @@
+{
+  "root": "raz",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 29
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "רָזַיָּא",
+        "transliteration": "razayya",
+        "englishLiteral": "mysteries-the",
+        "englishNatural": "the Mysteries",
+        "root": "raz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דְנָה וְגָלֵא **רָזַיָּא** הוֹדְעָךְ מָה",
+        "transliteration": "denah vegale **razayya** hodakh mah",
+        "englishLiteral": "this and-revealer-the **mysteries-the** he-caused-you-to-know what",
+        "englishNatural": "this and the Revealer of **the Mysteries** caused you to know what"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "רָזָה",
+        "transliteration": "razah",
+        "englishLiteral": "mystery-the",
+        "englishNatural": "the mystery",
+        "root": "raz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל חַיַּיָּא **רָזָה** דְנָה גְּלִי",
+        "transliteration": "kol chayyayya **razah** denah geli",
+        "englishLiteral": "all living-the **mystery-the** this he-revealed",
+        "englishNatural": "all the living **the mystery** this has he revealed"
+      }
+    }
+  ]
+}

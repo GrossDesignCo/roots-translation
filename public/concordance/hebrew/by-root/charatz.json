@@ -1,0 +1,32 @@
+{
+  "root": "charatz",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "יֶֽחֱרַץ־",
+        "transliteration": "yecharatz-",
+        "englishLiteral": "will-sharpen-",
+        "englishNatural": "will sharpen",
+        "root": "charatz",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׂרָאֵ֗ל לֹ֤א **יֶֽחֱרַץ־** כֶּ֙לֶב֙ לְשֹׁנ֔וֹ",
+        "transliteration": "Yisrael lo **yecharatz-** kelev leshono",
+        "englishLiteral": "Struggles_With_God (Israel) not **will-sharpen-** dog tongue-his",
+        "englishNatural": "Struggles-With-God (Israel) not **will sharpen** a dog his tongue"
+      }
+    }
+  ]
+}

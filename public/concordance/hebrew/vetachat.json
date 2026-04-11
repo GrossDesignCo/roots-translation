@@ -1,0 +1,31 @@
+{
+  "key": "vetachat",
+  "language": "hebrew",
+  "root": "tachat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 23
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְתַחַת",
+        "transliteration": "veTachat",
+        "englishLiteral": "And-under",
+        "englishNatural": "And under",
+        "root": "tachat",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**וְתַחַת** הָרָקִיעַ כַּנְפֵיהֶם",
+        "transliteration": "**veTachat** haRaqia kanfeihem",
+        "englishLiteral": "**And-under** the-hammering_out wings-their",
+        "englishNatural": "**And under** the hammering-out their wings"
+      }
+    }
+  ]
+}

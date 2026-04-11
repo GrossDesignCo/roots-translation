@@ -1,0 +1,31 @@
+{
+  "key": "kanaph",
+  "language": "hebrew",
+  "root": "kanaph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "כָּנָף",
+        "transliteration": "kanaph",
+        "englishLiteral": "wing",
+        "englishNatural": "wing",
+        "root": "kanaph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צִפּוֹר כָּל־ **כָּנָף**",
+        "transliteration": "tzippor kol- **kanaph**",
+        "englishLiteral": "bird all- **wing**",
+        "englishNatural": "bird all **wing**"
+      }
+    }
+  ]
+}

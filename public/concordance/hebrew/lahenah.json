@@ -1,0 +1,79 @@
+{
+  "key": "lahenah",
+  "language": "hebrew",
+  "root": "lamed",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לָהֵנָּה",
+        "transliteration": "lahenah",
+        "englishLiteral": "to-them",
+        "englishNatural": "to them",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "דְּמוּת אָדָם **לָהֵנָּה**",
+        "transliteration": "demut Adam **lahenah**",
+        "englishLiteral": "likeness-of Earthling (Adam) **to-them**",
+        "englishNatural": "a likeness of Earthling (Adam) **to them**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 23
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "לָהֵנָּה",
+        "transliteration": "lahenah",
+        "englishLiteral": "to-them",
+        "englishNatural": "to them",
+        "root": "la",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁתַּיִם מְכַסּוֹת **לָהֵנָּה** וּלְאִישׁ שְׁתַּיִם",
+        "transliteration": "shtayim mekhasot **lahenah** uLeIsh shtayim",
+        "englishLiteral": "two covering **to-them** and-to-man two",
+        "englishNatural": "two a covering **to them** to a man and two"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 23
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "לָהֵנָּה",
+        "transliteration": "lahenah",
+        "englishLiteral": "to-them",
+        "englishNatural": "to them",
+        "root": "la",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁתַּיִם מְכַסּוֹת **לָהֵנָּה** אֵת גְּוִיֹּתֵיהֶם",
+        "transliteration": "shtayim mekhasot **lahenah** et geviyoteihem",
+        "englishLiteral": "two covering **to-them** ↳ bodies-their",
+        "englishNatural": "and two a covering **to them** ↳ their bodies"
+      }
+    }
+  ]
+}

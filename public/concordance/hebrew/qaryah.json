@@ -1,0 +1,31 @@
+{
+  "key": "qaryah",
+  "language": "hebrew",
+  "root": "qiryah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "קָרְיָה",
+        "transliteration": "qaryah",
+        "englishLiteral": "city",
+        "englishNatural": "a city",
+        "root": "qiryah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁעָרִים לְפִי **קָרְיָה** מְבוֹא פְתָחִים",
+        "transliteration": "shearim lePhi **qaryah** mevo petachim",
+        "englishLiteral": "gates to-mouth-of **city** incoming-of openings",
+        "englishNatural": "gates to the mouth of **a city** incoming of openings"
+      }
+    }
+  ]
+}

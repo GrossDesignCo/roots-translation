@@ -1,0 +1,31 @@
+{
+  "key": "shlosh",
+  "language": "hebrew",
+  "root": "shalosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 15
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שְׁלֹשׁ",
+        "transliteration": "shlosh",
+        "englishLiteral": "three",
+        "englishNatural": "three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "תַּעֲשֶׂה אֹתָהּ **שְׁלֹשׁ** מֵאוֹת אַמָּה",
+        "transliteration": "taAseh otah **shlosh** meot ammah",
+        "englishLiteral": "you-shall-make her **three** hundreds cubit",
+        "englishNatural": "you shall make it **three** hundred cubits"
+      }
+    }
+  ]
+}

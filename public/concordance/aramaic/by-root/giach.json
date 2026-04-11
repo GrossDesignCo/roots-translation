@@ -1,0 +1,32 @@
+{
+  "root": "giach",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "מְגִיחָ֖ן",
+        "transliteration": "meGichan",
+        "englishLiteral": "stirring_up",
+        "englishNatural": "were stirring-up",
+        "root": "giach",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "רוּחֵ֣י שְׁמַיָּ֔א **מְגִיחָ֖ן** לְיַמָּ֥א רַבָּֽא",
+        "transliteration": "ruchei shemaya **meGichan** leYamma rabba",
+        "englishLiteral": "winds-of the-skies **stirring_up** to-the-sea great",
+        "englishNatural": "winds of the skies **were stirring-up** sea to the great"
+      }
+    }
+  ]
+}

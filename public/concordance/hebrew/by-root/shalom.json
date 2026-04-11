@@ -1,0 +1,30 @@
+{
+  "root": "shalom",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 15
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בְּשָׁלוֹם",
+        "transliteration": "beShalom",
+        "englishLiteral": "in-peace",
+        "englishNatural": "in peace",
+        "root": "shalom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ אֲבֹתֶיךָ **בְּשָׁלוֹם** תִּקָּבֵר בְּשֵׂיבָה",
+        "transliteration": "el- avotekha **beShalom** tiqaver beSeivah",
+        "englishLiteral": "to- fathers-of-you **in-peace** you-will-be-buried in-old-age",
+        "englishNatural": "to your fathers **in peace** you will be buried old age"
+      }
+    }
+  ]
+}

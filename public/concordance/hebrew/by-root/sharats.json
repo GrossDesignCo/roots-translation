@@ -1,0 +1,106 @@
+{
+  "root": "sharats",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "יִשְׁרְצ֣וּ",
+        "transliteration": "yiShretsu",
+        "englishLiteral": "Let-swarm",
+        "englishNatural": "swarm with",
+        "root": "sharats",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים **יִשְׁרְצ֣וּ** הַמַּ֔יִם שֶׁ֖רֶץ",
+        "transliteration": "vaYomer Elohim **yiShretsu** haMayim sherets",
+        "englishLiteral": "And-said Gods **Let-swarm** the-waters swarm",
+        "englishNatural": "said And God **swarm with** Let the waters a swarm"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "שֶׁ֖רֶץ",
+        "transliteration": "sherets",
+        "englishLiteral": "swarm",
+        "englishNatural": "a swarm",
+        "root": "sharats",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׁרְצ֣וּ הַמַּ֔יִם **שֶׁ֖רֶץ** נֶ֣פֶשׁ חַיָּ֑ה",
+        "transliteration": "yiShretsu haMayim **sherets** nephesh chayah",
+        "englishLiteral": "Let-swarm the-waters **swarm** throat living",
+        "englishNatural": "swarm with Let the waters **a swarm** throat living"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "שָׁרְצ֨וּ",
+        "transliteration": "sharTsu",
+        "englishLiteral": "swarmed",
+        "englishNatural": "swarmed",
+        "root": "sharats",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "הָֽרֹמֶ֡שֶׂת אֲשֶׁר֩ **שָׁרְצ֨וּ** הַמַּ֜יִם לְמִינֵהֶ֗ם",
+        "transliteration": "haRomeshet asher **sharTsu** haMayim leMinehem",
+        "englishLiteral": "the-crawling which **swarmed** the-waters to-their-kind",
+        "englishNatural": "the crawling which **swarmed** the waters to their kind"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שִׁרְצוּ",
+        "transliteration": "shirtzu",
+        "englishLiteral": "swarm",
+        "englishNatural": "swarm",
+        "root": "sharats",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פְּרוּ וּרְבוּ **שִׁרְצוּ** בָאָרֶץ וּרְבוּ־",
+        "transliteration": "peru urevu **shirtzu** baAretz urevu-",
+        "englishLiteral": "be_fruitful and-multiply **swarm** in-land and-multiply-",
+        "englishNatural": "be-fruitful and multiply **swarm** in the land and multiply"
+      }
+    }
+  ]
+}

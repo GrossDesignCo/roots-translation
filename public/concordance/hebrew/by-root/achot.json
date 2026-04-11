@@ -1,0 +1,102 @@
+{
+  "root": "achot",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וַאֲחוֹת",
+        "transliteration": "vaAchot",
+        "englishLiteral": "and-sister-of",
+        "englishNatural": "and the sister of",
+        "root": "achot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְחֹשֶׁת וּבַרְזֶל **וַאֲחוֹת** תּוּבַל־קַיִן נַעֲמָה",
+        "transliteration": "nechoshet uVarzel **vaAchot** Tuval-Qayin Naamah",
+        "englishLiteral": "bronze and-iron **and-sister-of** World-Aquired (Tubal-Cain) Pleasant (Naamah)",
+        "englishNatural": "bronze and iron **and the sister of** World-Aquired (Tubal-Cain) Pleasant (Naamah)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אֲחֹתוֹ",
+        "transliteration": "achoto",
+        "englishLiteral": "sister-his",
+        "englishNatural": "And his sister",
+        "root": "achot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֵּתַצַּב **אֲחֹתוֹ** מֵרָחֹק לְדֵעָה",
+        "transliteration": "vaTetatzav **achoto** meRachok leDeah",
+        "englishLiteral": "And-positioned-herself **sister-his** from-distance to-know",
+        "englishNatural": "positioned-herself **And his sister** from a distance to know"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אֲחוֹתָהּ",
+        "transliteration": "achotah",
+        "englishLiteral": "sister-her",
+        "englishNatural": "her sister",
+        "root": "achot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִשָּׁה אֶל־ **אֲחוֹתָהּ** כַּנְפֵיהֶם לֹא־",
+        "transliteration": "ishah el- **achotah** kanfeihem lo-",
+        "englishLiteral": "woman to- **sister-her** wings-their not-",
+        "englishNatural": "woman to **her sister** their wings not"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 23
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אֲחוֹתָהּ",
+        "transliteration": "achotah",
+        "englishLiteral": "sister-her",
+        "englishNatural": "her sister",
+        "root": "achot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִשָּׁה אֶל־ **אֲחוֹתָהּ** לְאִישׁ שְׁתַּיִם",
+        "transliteration": "ishah el- **achotah** leIsh shtayim",
+        "englishLiteral": "woman to- **sister-her** to-man two",
+        "englishNatural": "woman to **her sister** to a man two"
+      }
+    }
+  ]
+}

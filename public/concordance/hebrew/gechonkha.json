@@ -1,0 +1,31 @@
+{
+  "key": "gechonkha",
+  "language": "hebrew",
+  "root": "gachon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "גְּחֹנְךָ",
+        "transliteration": "gechonkha",
+        "englishLiteral": "belly-your",
+        "englishNatural": "your belly",
+        "root": "gachon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׂדֶה עַל־ **גְּחֹנְךָ** תֵלֵךְ וְעָפָר",
+        "transliteration": "haSadeh al- **gechonkha** telekh veAfar",
+        "englishLiteral": "the-field on- **belly-your** you-will_walk and-dust",
+        "englishNatural": "of the field on **your belly** you will walk and dust"
+      }
+    }
+  ]
+}

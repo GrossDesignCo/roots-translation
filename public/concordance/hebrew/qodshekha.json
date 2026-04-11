@@ -1,0 +1,55 @@
+{
+  "key": "qodshekha",
+  "language": "hebrew",
+  "root": "qodesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "קָדְשֶׁךָ",
+        "transliteration": "qodshekha",
+        "englishLiteral": "holiness-your",
+        "englishNatural": "your holiness",
+        "root": "qodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הֵיכַל **קָדְשֶׁךָ**",
+        "transliteration": "el- hekhal **qodshekha**",
+        "englishLiteral": "to- temple-of **holiness-your**",
+        "englishNatural": "to the temple of **your holiness**"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "קָדְשֶׁךָ",
+        "transliteration": "qodshekha",
+        "englishLiteral": "holiness-your",
+        "englishNatural": "your holiness",
+        "root": "qodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הֵיכַל **קָדְשֶׁךָ**",
+        "transliteration": "el- hekhal **qodshekha**",
+        "englishLiteral": "to- temple-of **holiness-your**",
+        "englishNatural": "to the temple of **your holiness**"
+      }
+    }
+  ]
+}

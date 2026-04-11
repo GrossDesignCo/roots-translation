@@ -1,0 +1,31 @@
+{
+  "key": "artso",
+  "language": "hebrew",
+  "root": "eretz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 31
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אַרְצוֹ",
+        "transliteration": "artso",
+        "englishLiteral": "his-land",
+        "englishNatural": "his land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מְשַׂחֶקֶת בְּתֵבֵל **אַרְצוֹ** וְשַׁעֲשֻׁעַי אֶת־",
+        "transliteration": "mesacheqet beTevel **artso** veShaashuai et-",
+        "englishLiteral": "laughing in-world-of **his-land** and-my-darlings ↳",
+        "englishNatural": "laughing in the world of **his land** and my darlings ↳"
+      }
+    }
+  ]
+}

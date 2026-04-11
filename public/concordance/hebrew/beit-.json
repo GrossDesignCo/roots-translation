@@ -1,0 +1,55 @@
+{
+  "key": "beit-",
+  "language": "hebrew",
+  "root": "bayit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "בֵּית־",
+        "transliteration": "beit-",
+        "englishLiteral": "house-",
+        "englishNatural": "a house",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּמַרְאֵה־ אֵשׁ **בֵּית־** לָהּ סָבִיב",
+        "transliteration": "keMareeh- esh **beit-** lah saviv",
+        "englishLiteral": "like-appearance-of- fire **house-** to all_around",
+        "englishNatural": "like an appearance of fire **a house** to all-around"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בֵּית־",
+        "transliteration": "beit-",
+        "englishLiteral": "house-of-",
+        "englishNatural": "the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִקְצָת כְּלֵי **בֵּית־** הָאֱלֹהִים וַיְבִיאֵם",
+        "transliteration": "uMiktsat kelei **beit-** haElohim vaYeviem",
+        "englishLiteral": "and-from-part vessels-of **house-of-** the-Gods and-he-brought-them",
+        "englishNatural": "and part of the vessels of **the house of** the God and he brought them"
+      }
+    }
+  ]
+}

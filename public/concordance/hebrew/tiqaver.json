@@ -1,0 +1,33 @@
+{
+  "key": "tiqaver",
+  "language": "hebrew",
+  "root": "qavar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 15
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "תִּקָּבֵר",
+        "transliteration": "tiqaver",
+        "englishLiteral": "you-will-be-buried",
+        "englishNatural": "you will be buried",
+        "root": "qavar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבֹתֶיךָ בְּשָׁלוֹם **תִּקָּבֵר** בְּשֵׂיבָה טוֹבָה",
+        "transliteration": "avotekha beShalom **tiqaver** beSeivah tovah",
+        "englishLiteral": "fathers-of-you in-peace **you-will-be-buried** in-old-age good",
+        "englishNatural": "your fathers in peace **you will be buried** old age in good"
+      }
+    }
+  ]
+}

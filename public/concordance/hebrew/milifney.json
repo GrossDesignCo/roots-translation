@@ -1,0 +1,31 @@
+{
+  "key": "milifney",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "מִלִּפְנֵי",
+        "transliteration": "miLiFney",
+        "englishLiteral": "from-faces-of",
+        "englishNatural": "from the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲנָשִׁים כִּי־ **מִלִּפְנֵי** יְהוָה הוּא",
+        "transliteration": "haAnashim ki- **miLiFney** YHWH hu",
+        "englishLiteral": "the-men that- **from-faces-of** He_Who_Is (YHWH) he",
+        "englishNatural": "the men that **from the face of** He-Who-Is (YHWH) he"
+      }
+    }
+  ]
+}

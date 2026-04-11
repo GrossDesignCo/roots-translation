@@ -1,0 +1,31 @@
+{
+  "key": "hatzafon",
+  "language": "hebrew",
+  "root": "tzafon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הַצָּפוֹן",
+        "transliteration": "haTzafon",
+        "englishLiteral": "the-north",
+        "englishNatural": "the north",
+        "root": "tzafon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּאָה מִן־ **הַצָּפוֹן** עָנָן גָּדוֹל",
+        "transliteration": "baah min- **haTzafon** anan gadol",
+        "englishLiteral": "coming from- **the-north** cloud great",
+        "englishNatural": "coming from **the north** cloud a great"
+      }
+    }
+  ]
+}

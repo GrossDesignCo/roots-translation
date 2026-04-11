@@ -1,0 +1,31 @@
+{
+  "key": "neshar",
+  "language": "aramaic",
+  "root": "nesher",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "נְשַׁ֖ר",
+        "transliteration": "neshar",
+        "englishLiteral": "eagle",
+        "englishNatural": "an eagle",
+        "root": "nesher",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגַפִּ֥ין דִּֽי־ **נְשַׁ֖ר** לַ֑הּ חָזֵ֣ה",
+        "transliteration": "veGappin di- **neshar** lah chazeh",
+        "englishLiteral": "and-wings of- **eagle** to-her Looking",
+        "englishNatural": "and wings of **an eagle** to it looking"
+      }
+    }
+  ]
+}

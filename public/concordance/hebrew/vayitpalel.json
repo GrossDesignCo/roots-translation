@@ -1,0 +1,59 @@
+{
+  "key": "vayitpalel",
+  "language": "hebrew",
+  "root": "palal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וַיִּתְפַּלֵּל",
+        "transliteration": "vaYitpalel",
+        "englishLiteral": "And-prayed",
+        "englishNatural": "prayed",
+        "root": "palal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת הַנָּחָשׁ **וַיִּתְפַּלֵּל** מֹשֶׁה בְּעַד",
+        "transliteration": "et haNachash **vaYitpalel** Moshe beAd",
+        "englishLiteral": "↳ the-snake **And-prayed** Drawn_Out (Moses) in-unto",
+        "englishNatural": "↳ the snake **prayed** And Drawn-Out (Moses) in unto"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּתְפַּלֵּל",
+        "transliteration": "vaYitpalel",
+        "englishLiteral": "And-prayed",
+        "englishNatural": "prayed",
+        "root": "palal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּתְפַּלֵּל** יוֹנָה אֶל־",
+        "transliteration": "**vaYitpalel** Yonah el-",
+        "englishLiteral": "**And-prayed** Dove (Jonah) to-",
+        "englishNatural": "**prayed** And Dove (Jonah) to"
+      }
+    }
+  ]
+}

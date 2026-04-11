@@ -1,0 +1,59 @@
+{
+  "key": "vayave",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וַיָּבֵא",
+        "transliteration": "vaYave",
+        "englishLiteral": "And-brought",
+        "englishNatural": "And brought",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹף הַשָּׁמַיִם **וַיָּבֵא** אֶל־ הָאָדָם",
+        "transliteration": "of haShamayim **vaYave** el- haAdam",
+        "englishLiteral": "flyer the-skies **And-brought** to- the-Earthling (Adam)",
+        "englishNatural": "flyer of the skies **And brought** to the Earthling (Adam)"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "וַיָּבֵא",
+        "transliteration": "vaYave",
+        "englishLiteral": "and-he-brought",
+        "englishNatural": "and he brought",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּית אֱלֹהָיו **וַיָּבֵא** אֶת־ הַכֵּלִים",
+        "transliteration": "beit elohav **vaYave** et- haKelim",
+        "englishLiteral": "house Gods-his **and-he-brought** ↳ the-vessels",
+        "englishNatural": "to the house of his God **and he brought** ↳ the vessels"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "hashlikhehu",
+  "language": "hebrew",
+  "root": "shalakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַשְׁלִיכֵהוּ",
+        "transliteration": "hashlikhehu",
+        "englishLiteral": "throw-it",
+        "englishNatural": "throw it",
+        "root": "shalakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **הַשְׁלִיכֵהוּ** אַרְצָה וַיַּשְׁלִכֵהוּ",
+        "transliteration": "vaYomer **hashlikhehu** artzah vaYashlikhehu",
+        "englishLiteral": "And-said **throw-it** land-ward And-threw-it",
+        "englishNatural": "And he said **throw it** to the land And he threw it"
+      }
+    }
+  ]
+}

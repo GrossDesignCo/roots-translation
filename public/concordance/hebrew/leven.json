@@ -1,0 +1,31 @@
+{
+  "key": "leven",
+  "language": "hebrew",
+  "root": "ben",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לְבֵן",
+        "transliteration": "leVen",
+        "englishLiteral": "for-son",
+        "englishNatural": "for a son",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי־ לָהּ **לְבֵן** וַתִּקְרָא שְׁמוֹ",
+        "transliteration": "vaYehi- lah **leVen** vaTiqra shemo",
+        "englishLiteral": "and-was- to-her **for-son** and-called name-his",
+        "englishNatural": "and he was to her **for a son** and she called his name"
+      }
+    }
+  ]
+}

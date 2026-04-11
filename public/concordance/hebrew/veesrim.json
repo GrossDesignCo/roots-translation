@@ -1,0 +1,31 @@
+{
+  "key": "veesrim",
+  "language": "hebrew",
+  "root": "esrim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְעֶשְׂרִים",
+        "transliteration": "veEsrim",
+        "englishLiteral": "and-twenty",
+        "englishNatural": "and twenty",
+        "root": "esrim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "יָמָיו מֵאָה **וְעֶשְׂרִים** שָׁנָה",
+        "transliteration": "yamav meah **veEsrim** shanah",
+        "englishLiteral": "his-days hundred **and-twenty** year",
+        "englishNatural": "and his days a hundred **and twenty** years"
+      }
+    }
+  ]
+}

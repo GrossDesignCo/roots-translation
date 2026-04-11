@@ -1,0 +1,31 @@
+{
+  "key": "peri-",
+  "language": "hebrew",
+  "root": "peri",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "פְרִֽי־",
+        "transliteration": "peri-",
+        "englishLiteral": "fruit-of",
+        "englishNatural": "fruit of",
+        "root": "peri",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ בּ֤וֹ **פְרִֽי־** עֵ֣ץ זֹרֵ֣עַ",
+        "transliteration": "asher- bo **peri-** etz zorea",
+        "englishLiteral": "which in-it **fruit-of** tree seeding",
+        "englishNatural": "which in it is **fruit of** tree seeding"
+      }
+    }
+  ]
+}

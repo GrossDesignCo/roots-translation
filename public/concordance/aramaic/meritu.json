@@ -1,0 +1,33 @@
+{
+  "key": "meritu",
+  "language": "aramaic",
+  "root": "merat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "מְּרִ֨יטוּ",
+        "transliteration": "meritu",
+        "englishLiteral": "were-plucked",
+        "englishNatural": "were plucked",
+        "root": "merat",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "עַד֩ דִּי־ **מְּרִ֨יטוּ** גַפַּ֜יהּ וּנְטִ֣ילַת",
+        "transliteration": "ad di- **meritu** gappayh uNetilat",
+        "englishLiteral": "until that- **were-plucked** wings-its and-lifted-up",
+        "englishNatural": "until that **were plucked** its wings and it was lifted-up"
+      }
+    }
+  ]
+}

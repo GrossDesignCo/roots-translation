@@ -1,0 +1,31 @@
+{
+  "key": "ruach-",
+  "language": "hebrew",
+  "root": "ruach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רוּחַ־",
+        "transliteration": "ruach-",
+        "englishLiteral": "wind-",
+        "englishNatural": "wind",
+        "root": "ruach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיהוָה הֵטִיל **רוּחַ־** גְּדוֹלָה אֶל־",
+        "transliteration": "vaYHWH hetil **ruach-** gedolah el-",
+        "englishLiteral": "And-He_Who_Is (YHWH) hurled **wind-** great to-",
+        "englishNatural": "And He-Who-Is (YHWH) hurled **wind** a great to"
+      }
+    }
+  ]
+}

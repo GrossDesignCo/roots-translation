@@ -1,0 +1,59 @@
+{
+  "key": "yiqra-",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "יִּקְרָא־",
+        "transliteration": "yiqra-",
+        "englishLiteral": "he-calls_out-",
+        "englishNatural": "he would call-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִרְאוֹת מַה־ **יִּקְרָא־** לוֹ וְכֹל",
+        "transliteration": "liReot mah- **yiqra-** lo veKol",
+        "englishLiteral": "to-see what- **he-calls_out-** to-it And-all",
+        "englishNatural": "to see what **he would call-out** to it And everything"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "יִקְרָא־",
+        "transliteration": "yiqra-",
+        "englishLiteral": "he-calls_out-",
+        "englishNatural": "would call-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְכֹל אֲשֶׁר **יִקְרָא־** לוֹ הָאָדָם",
+        "transliteration": "veKol asher **yiqra-** lo haAdam",
+        "englishLiteral": "And-all which **he-calls_out-** to-it the-Earthling (Adam)",
+        "englishNatural": "And everything which **would call-out** to it the Earthling (Adam)"
+      }
+    }
+  ]
+}

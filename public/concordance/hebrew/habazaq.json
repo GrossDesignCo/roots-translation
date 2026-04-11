@@ -1,0 +1,31 @@
+{
+  "key": "habazaq",
+  "language": "hebrew",
+  "root": "bazaq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַבָּזָק",
+        "transliteration": "haBazaq",
+        "englishLiteral": "the-flashing",
+        "englishNatural": "The Flashing",
+        "root": "bazaq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וָשׁוֹב כְּמַרְאֵה **הַבָּזָק**",
+        "transliteration": "vaShuv keMarah **haBazaq**",
+        "englishLiteral": "and-returning like-appearance-of **the-flashing**",
+        "englishNatural": "and returning like the appearance of **The Flashing**"
+      }
+    }
+  ]
+}

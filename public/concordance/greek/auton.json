@@ -1,0 +1,31 @@
+{
+  "key": "auton",
+  "language": "greek",
+  "root": "autos",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "αὐτὸν",
+        "transliteration": "auton",
+        "englishLiteral": "him",
+        "englishNatural": "him",
+        "root": "autos",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "καὶ ἔδησεν **αὐτὸν** χίλια ἔτη",
+        "transliteration": "kai edēsen **auton** chilia etē",
+        "englishLiteral": "and he-bound **him** thousand years",
+        "englishNatural": "and he bound **him** a thousand years"
+      }
+    }
+  ]
+}

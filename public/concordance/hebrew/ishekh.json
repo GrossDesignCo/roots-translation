@@ -1,0 +1,31 @@
+{
+  "key": "ishekh",
+  "language": "hebrew",
+  "root": "ish",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "אִישֵׁךְ",
+        "transliteration": "ishekh",
+        "englishLiteral": "man-your",
+        "englishNatural": "your man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָנִים וְאֶל **אִישֵׁךְ** תְּשׁוּקָתֵךְ וְהוּא",
+        "transliteration": "banim veEl **ishekh** teshuqatek veHu",
+        "englishLiteral": "sons and-to **man-your** fixation-your and-he",
+        "englishNatural": "sons and to **your man** your fixation and he"
+      }
+    }
+  ]
+}

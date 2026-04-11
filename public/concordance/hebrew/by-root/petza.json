@@ -1,0 +1,30 @@
+{
+  "root": "petza",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "לְפִצְעִי",
+        "transliteration": "leFitzi",
+        "englishLiteral": "to-wound-my",
+        "englishNatural": "to my wound",
+        "root": "petza",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ הָרַגְתִּי **לְפִצְעִי** וְיֶלֶד לְחַבֻּרָתִי",
+        "transliteration": "ish haragti **leFitzi** veYeled leChaburati",
+        "englishLiteral": "man I-have-killed **to-wound-my** and-newborn to-stripe-my",
+        "englishNatural": "man I have killed **to my wound** and newborn to my stripe"
+      }
+    }
+  ]
+}

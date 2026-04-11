@@ -1,0 +1,31 @@
+{
+  "key": "lezot",
+  "language": "hebrew",
+  "root": "zeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לְזֹאת",
+        "transliteration": "leZot",
+        "englishLiteral": "to-this",
+        "englishNatural": "to this",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבָשָׂר מִבְּשָׂרִי **לְזֹאת** יִקָּרֵא אִשָּׁה",
+        "transliteration": "uVasar miVesari **leZot** yiqarei ishah",
+        "englishLiteral": "and-flesh from-my-flesh **to-this** will-be-called_out Woman",
+        "englishNatural": "and flesh from my flesh **to this** will be called-out Woman"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "yah",
+  "language": "hebrew",
+  "root": "yhwh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יָהּ",
+        "transliteration": "yah",
+        "englishLiteral": "He—",
+        "englishNatural": "He—",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְעוֹלָם הַלְלוּ **יָהּ**",
+        "transliteration": "leOlam halelu **yah**",
+        "englishLiteral": "to-the_age Praise **He—**",
+        "englishNatural": "to the-age Praise **He—**"
+      }
+    }
+  ]
+}

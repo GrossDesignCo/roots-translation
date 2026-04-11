@@ -1,0 +1,31 @@
+{
+  "key": "hashishi",
+  "language": "hebrew",
+  "root": "shesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 31
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הַשִּׁשִּֽׁי",
+        "transliteration": "haShishi",
+        "englishLiteral": "the-sixth",
+        "englishNatural": "The sixth",
+        "root": "shesh",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בֹ֖קֶר י֥וֹם **הַשִּׁשִּֽׁי**",
+        "transliteration": "boqer yom **haShishi**",
+        "englishLiteral": "morning Day **the-sixth**",
+        "englishNatural": "And morning day **The sixth**"
+      }
+    }
+  ]
+}

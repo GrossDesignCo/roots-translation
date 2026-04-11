@@ -1,0 +1,238 @@
+{
+  "root": "avad",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "לַעֲבֹד",
+        "transliteration": "laAvod",
+        "englishLiteral": "to-serve",
+        "englishNatural": "to serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאָדָם אַיִן **לַעֲבֹד** אֶת הָאֲדָמָה׃",
+        "transliteration": "veAdam ayin **laAvod** et haAdamah",
+        "englishLiteral": "and-Earthling (Adam) not_exist **to-serve** ↳ the-earth",
+        "englishNatural": "and Earthling (Adam) was not there **to serve** ↳ the earth"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 15
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לְעָבְדָהּ",
+        "transliteration": "leAvdah",
+        "englishLiteral": "to-serve-her",
+        "englishNatural": "to serve her",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְגַן־ עֵדֶן **לְעָבְדָהּ** וּלְשָׁמְרָהּ׃",
+        "transliteration": "beGan- Eden **leAvdah** uLeShamrah",
+        "englishLiteral": "in-Garden- Delight (Eden) **to-serve-her** and-to-keep-her",
+        "englishNatural": "in Garden Delight (Eden) **to serve her** and to keep her"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 23
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לַעֲבֹד",
+        "transliteration": "laAvod",
+        "englishLiteral": "to-serve",
+        "englishNatural": "to serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "מִגַּן־ עֵדֶן **לַעֲבֹד** אֶת־ הָאֲדָמָה",
+        "transliteration": "miGan- Eden **laAvod** et- haAdamah",
+        "englishLiteral": "from-Garden Delight (Eden) **to-serve** ↳ the-earth",
+        "englishNatural": "from Garden of Delight (Eden) **to serve** ↳ the earth"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "עֹבֵד",
+        "transliteration": "oved",
+        "englishLiteral": "servant",
+        "englishNatural": "a servant",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְקַיִן הָיָה **עֹבֵד** אֲדָמָה",
+        "transliteration": "veQayin hayah **oved** adamah",
+        "englishLiteral": "and-Acquired (Cain) was **servant** earth",
+        "englishNatural": "and Acquired (Cain) was **a servant** of earth"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "תַעֲבֹד",
+        "transliteration": "taavod",
+        "englishLiteral": "you-serve",
+        "englishNatural": "you serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי **תַעֲבֹד** אֶת־ הָאֲדָמָה",
+        "transliteration": "ki **taavod** et- haAdamah",
+        "englishLiteral": "When **you-serve** ↳ the-earth",
+        "englishNatural": "When **you serve** ↳ the earth"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 24
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "עִבְדוּ",
+        "transliteration": "ivdu",
+        "englishLiteral": "serve",
+        "englishNatural": "serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר לְכוּ **עִבְדוּ** אֶת־ יְהוָה",
+        "transliteration": "vaYomer lekhu **ivdu** et- YHWH",
+        "englishLiteral": "and-said go **serve** ↳ He_Who_Is (YHWH)",
+        "englishNatural": "and said Go **serve** ↳ He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "לַעֲבֹד",
+        "transliteration": "laAvod",
+        "englishLiteral": "to-serve",
+        "englishNatural": "to serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִמֶּנּוּ נִקַּח **לַעֲבֹד** אֶת־ יְהוָה",
+        "transliteration": "mimenu niqqach **laAvod** et- YHWH",
+        "englishLiteral": "from-it will-take **to-serve** ↳ He_Who_Is (YHWH)",
+        "englishNatural": "from it we will take **to serve** ↳ He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "נַּעֲבֹד",
+        "transliteration": "naavod",
+        "englishLiteral": "will-serve",
+        "englishNatural": "we will serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נֵדַע מַה־ **נַּעֲבֹד** אֶת־ יְהוָה",
+        "transliteration": "neda mah- **naavod** et- YHWH",
+        "englishLiteral": "will-know what- **will-serve** ↳ He_Who_Is (YHWH)",
+        "englishNatural": "we know with what **we will serve** ↳ He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "אָבָד",
+        "transliteration": "avad",
+        "englishLiteral": "perished",
+        "englishNatural": "it perished",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּבִן־ לַיְלָה **אָבָד**",
+        "transliteration": "uvin- laylah **avad**",
+        "englishLiteral": "and-son-of- night **perished**",
+        "englishNatural": "and son of a night **it perished**"
+      }
+    }
+  ]
+}

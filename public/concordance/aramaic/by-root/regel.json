@@ -1,0 +1,150 @@
+{
+  "root": "regel",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 33
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "רַגְלוֹהִי",
+        "transliteration": "raglohi",
+        "englishLiteral": "feet-its",
+        "englishNatural": "its feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי פַרְזֶל **רַגְלוֹהִי** מִנְהוֹן דִּי",
+        "transliteration": "di parzel **raglohi** minhon di",
+        "englishLiteral": "which iron **feet-its** from-them which",
+        "englishNatural": "of iron **its feet** from them of"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 34
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "רַגְלוֹהִי",
+        "transliteration": "raglohi",
+        "englishLiteral": "feet-its",
+        "englishNatural": "its feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְצַלְמָא עַל **רַגְלוֹהִי** דִּי פַרְזְלָא",
+        "transliteration": "leTsalma al **raglohi** di parzela",
+        "englishLiteral": "to-image-the over **feet-its** which iron-the",
+        "englishNatural": "to the image over **its feet** of the iron"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רַגְלַיָּא",
+        "transliteration": "raglayya",
+        "englishLiteral": "feet-the",
+        "englishNatural": "the feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְדִי חֲזַיְתָ **רַגְלַיָּא** וְאֶצְבְּעָתָא מִנְּהוֹן",
+        "transliteration": "veDi chazayta **raglayya** veEtzbeata minnehon",
+        "englishLiteral": "and-which you-saw **feet-the** and-toes-the from-them",
+        "englishNatural": "And which you saw **the feet** and the toes from them"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 42
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "רַגְלַיָּא",
+        "transliteration": "raglayya",
+        "englishLiteral": "feet-the",
+        "englishNatural": "the feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶצְבְּעָת **רַגְלַיָּא** מִנְּהוֹן פַּרְזֶל",
+        "transliteration": "veEtzbeata **raglayya** minnehon parzel",
+        "englishLiteral": "and-toes **feet-the** from-them iron",
+        "englishNatural": "And the toes of **the feet** from them iron"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "רַגְלַ֙יִן֙",
+        "transliteration": "raglayyin",
+        "englishLiteral": "feet",
+        "englishNatural": "feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְעָ֗א וְעַל־ **רַגְלַ֙יִן֙** כֶּאֱנָ֣שׁ הֳקִימַ֔ת",
+        "transliteration": "ara veAl- **raglayyin** keEnash hoqimat",
+        "englishLiteral": "the-land and-on- **feet** as-Mortal_Man (Enash) was-caused-to-stand",
+        "englishNatural": "the land and on **feet** as a Mortal-Man (Enash) it was caused to stand"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 20,
+      "word": {
+        "originalScript": "בְּרַגְלַ֣יהּ",
+        "transliteration": "beRagleyh",
+        "englishLiteral": "with-feet-its",
+        "englishNatural": "with its feet",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמַדֱּקָ֔ה וּשְׁאָרָ֖א **בְּרַגְלַ֣יהּ** רָפְסָ֑ה וְהִ֣יא",
+        "transliteration": "uMaddeqah uShara **beRagleyh** raphsah veHi",
+        "englishLiteral": "and-crushing and-the-remainder **with-feet-its** trampling and-she",
+        "englishNatural": "and crushing the remainder **with its feet** and trampling and it"
+      }
+    }
+  ]
+}

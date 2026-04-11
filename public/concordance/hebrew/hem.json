@@ -1,0 +1,55 @@
+{
+  "key": "hem",
+  "language": "hebrew",
+  "root": "hem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הֵם",
+        "transliteration": "hem",
+        "englishLiteral": "they",
+        "englishNatural": "they were",
+        "root": "hem",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי עֵירֻמִּם **הֵם** וַיִּתְפְּרוּ עֲלֵה",
+        "transliteration": "ki eyrumim **hem** vayItperu aleh",
+        "englishLiteral": "that naked **they** and-sewed leaf-of",
+        "englishNatural": "that naked **they were** and they sewed leaf of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הֵם",
+        "transliteration": "hem",
+        "englishLiteral": "they",
+        "englishNatural": "they",
+        "root": "hem",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעֲשׂוּ גַם־ **הֵם** חַרְטֻמֵּי מִצְרַיִם",
+        "transliteration": "vaYaasu gam- **hem** chartumei Mitzrayim",
+        "englishLiteral": "and-made also- **they** magicians-of Double_Narrows (Egypt)",
+        "englishNatural": "made also **they** and the magicians of Double-Narrows (Egypt)"
+      }
+    }
+  ]
+}

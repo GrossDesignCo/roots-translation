@@ -1,0 +1,33 @@
+{
+  "key": "vayeradam",
+  "language": "hebrew",
+  "root": "radam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "וַיֵּרָדַם",
+        "transliteration": "vaYeradam",
+        "englishLiteral": "and-deeply_tranced",
+        "englishNatural": "and deeply-tranced",
+        "root": "radam",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַסְּפִינָה וַיִּשְׁכַּב **וַיֵּרָדַם**",
+        "transliteration": "haSeninah vaYishkav **vaYeradam**",
+        "englishLiteral": "the-ship and-lay_down **and-deeply_tranced**",
+        "englishNatural": "the ship and he lay down **and deeply-tranced**"
+      }
+    }
+  ]
+}

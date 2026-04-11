@@ -1,0 +1,33 @@
+{
+  "key": "vayagga",
+  "language": "hebrew",
+  "root": "naga",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּגַּע",
+        "transliteration": "vaYaGga",
+        "englishLiteral": "And-he-touched",
+        "englishNatural": "And he touched",
+        "root": "naga",
+        "morphology": {
+          "type": "verb",
+          "tense": "sequential_imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּגַּע** אֶל־ פִּי",
+        "transliteration": "**vaYaGga** el- pi",
+        "englishLiteral": "**And-he-touched** to- my-mouth",
+        "englishNatural": "**And he touched** it to my mouth"
+      }
+    }
+  ]
+}

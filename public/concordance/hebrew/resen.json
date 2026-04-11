@@ -1,0 +1,31 @@
+{
+  "key": "resen",
+  "language": "hebrew",
+  "root": "resen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "רֶסֶן",
+        "transliteration": "Resen",
+        "englishLiteral": "Bridle (Resen)",
+        "englishNatural": "Bridle (Resen)",
+        "root": "resen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ **רֶסֶן** בֵּין נִינְוֵה",
+        "transliteration": "veEt- **Resen** beyn Nineveh",
+        "englishLiteral": "and-↳ **Bridle (Resen)** between Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "and **Bridle (Resen)** between Dwelling-of-Fish (Nineveh)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "biqah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "בִקְעָה",
+        "transliteration": "biqah",
+        "englishLiteral": "plain",
+        "englishNatural": "a plain",
+        "root": "biqah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִקֶּדֶם וַיִּמְצְאוּ **בִקְעָה** בְּאֶרֶץ שִׁנְעָר",
+        "transliteration": "miQedem vayYimtse'u **biqah** beEretz ShinAr",
+        "englishLiteral": "from-east and-they-found **plain** in-land-of Tooth-of-Two (Shinar)",
+        "englishNatural": "from the east and they found **a plain** in the land of Tooth-of-Two (Shinar)"
+      }
+    }
+  ]
+}

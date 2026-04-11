@@ -1,0 +1,68 @@
+.page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 3rem;
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 1.25rem;
+  font-size: 0.85rem;
+  color: var(--ds-text-tertiary);
+}
+
+.breadcrumbLink {
+  color: var(--ds-text-link);
+  text-decoration: none;
+}
+
+.breadcrumbLink:hover {
+  text-decoration: underline;
+}
+
+.breadcrumbSep {
+  color: var(--ds-text-tertiary);
+}
+
+.tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 2px solid var(--ds-border);
+  margin-bottom: 1.5rem;
+}
+
+.tab {
+  padding: 0.5rem 1.25rem;
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--ds-text-secondary);
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  transition:
+    color 0.15s,
+    border-color 0.15s;
+}
+
+.tab:hover {
+  color: var(--ds-text-primary);
+}
+
+.tabActive {
+  color: var(--ds-text-primary);
+  border-bottom-color: var(--ds-text-link);
+}
+
+.entryContent {
+  line-height: 1.7;
+}
+
+.concordanceContent {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}

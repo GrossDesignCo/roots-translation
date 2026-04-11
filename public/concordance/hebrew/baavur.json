@@ -1,0 +1,31 @@
+{
+  "key": "baavur",
+  "language": "hebrew",
+  "root": "avar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "בַּעֲבוּר",
+        "transliteration": "baAvur",
+        "englishLiteral": "in-passing_through-of",
+        "englishNatural": "in the passing-through of",
+        "root": "avar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הָאֲדָמָה **בַּעֲבוּר** הָאָדָם כִּי",
+        "transliteration": "et- haAdamah **baAvur** haAdam ki",
+        "englishLiteral": "↳ the-earth **in-passing_through-of** the-Earthling (Adam) for",
+        "englishNatural": "↳ the earth **in the passing-through of** the Earthling (Adam) for"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "root": "shakach",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "הִשְׁתֲּכַח",
+        "transliteration": "hishtakach",
+        "englishLiteral": "was-found",
+        "englishNatural": "found",
+        "root": "shakach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "ettaphal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲתַר לָא **הִשְׁתֲּכַח** לְהוֹן וְאַבְנָא",
+        "transliteration": "atar la **hishtakach** lehon veAvna",
+        "englishLiteral": "place not **was-found** to-them and-the-stone",
+        "englishNatural": "place was not **found** to them And the stone"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "mecharon",
+  "language": "hebrew",
+  "root": "charon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מֵחֲרוֹן",
+        "transliteration": "meCharon",
+        "englishLiteral": "from-burning-of",
+        "englishNatural": "from the burning of",
+        "root": "charon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֱלֹהִים וְשָׁב **מֵחֲרוֹן** אַפּוֹ וְלֹא",
+        "transliteration": "haElohim veShav **meCharon** apo veLo",
+        "englishLiteral": "the-Gods and-turn **from-burning-of** nose-his and-not",
+        "englishNatural": "The God and turn **from the burning of** his nose not"
+      }
+    }
+  ]
+}

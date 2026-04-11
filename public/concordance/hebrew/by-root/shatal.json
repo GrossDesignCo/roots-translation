@@ -1,0 +1,32 @@
+{
+  "root": "shatal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שָׁתוּל",
+        "transliteration": "shatul",
+        "englishLiteral": "planted",
+        "englishNatural": "planted",
+        "root": "shatal",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיָה כְּעֵץ **שָׁתוּל** עַל פַּלְגֵי",
+        "transliteration": "veHayah keEtz **shatul** al palgei",
+        "englishLiteral": "And-he-will-be as-tree **planted** over channels-of",
+        "englishNatural": "And he will be as a tree **planted** over channels of"
+      }
+    }
+  ]
+}

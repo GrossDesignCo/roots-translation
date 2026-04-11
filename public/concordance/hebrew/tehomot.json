@@ -1,0 +1,31 @@
+{
+  "key": "tehomot",
+  "language": "hebrew",
+  "root": "tehom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 24
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "תְּהֹמוֹת",
+        "transliteration": "tehomot",
+        "englishLiteral": "abyss",
+        "englishNatural": "abyss",
+        "root": "tehom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאֵין **תְּהֹמוֹת** נוֹלָדְתִּי בְּאֵין",
+        "transliteration": "beEin **tehomot** noladti beEin",
+        "englishLiteral": "In-nothing **abyss** was-birthed-I in-nothing",
+        "englishNatural": "In nothing **abyss** I was birthed in nothing"
+      }
+    }
+  ]
+}

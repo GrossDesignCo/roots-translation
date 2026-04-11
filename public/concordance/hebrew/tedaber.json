@@ -1,0 +1,33 @@
+{
+  "key": "tedaber",
+  "language": "hebrew",
+  "root": "davar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "תְדַבֵּר",
+        "transliteration": "tedaber",
+        "englishLiteral": "will-speak",
+        "englishNatural": "will speak",
+        "root": "davar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אַתָּה **תְדַבֵּר** אֵת כָּל־",
+        "transliteration": "atah **tedaber** et kol-",
+        "englishLiteral": "you **will-speak** ↳ all-",
+        "englishNatural": "You **will speak** ↳ all"
+      }
+    }
+  ]
+}

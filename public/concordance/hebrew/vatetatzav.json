@@ -1,0 +1,33 @@
+{
+  "key": "vatetatzav",
+  "language": "hebrew",
+  "root": "yatzav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתֵּתַצַּב",
+        "transliteration": "vaTetatzav",
+        "englishLiteral": "And-positioned-herself",
+        "englishNatural": "positioned-herself",
+        "root": "yatzav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתֵּתַצַּב** אֲחֹתוֹ מֵרָחֹק",
+        "transliteration": "**vaTetatzav** achoto meRachok",
+        "englishLiteral": "**And-positioned-herself** sister-his from-distance",
+        "englishNatural": "**positioned-herself** And his sister from a distance"
+      }
+    }
+  ]
+}

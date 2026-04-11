@@ -1,0 +1,33 @@
+{
+  "key": "reotekha",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "רְאֹתְךָ֥",
+        "transliteration": "reotekha",
+        "englishLiteral": "seeing-you",
+        "englishNatural": "you seeing",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֗י בְּי֛וֹם **רְאֹתְךָ֥** פָנַ֖י תָּמֽוּת׃",
+        "transliteration": "ki beYom **reotekha** panay tamut",
+        "englishLiteral": "that in-day **seeing-you** faces-my you-will-die",
+        "englishNatural": "that in the day of **you seeing** my face you will die"
+      }
+    }
+  ]
+}

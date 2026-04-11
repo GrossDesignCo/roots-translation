@@ -1,0 +1,55 @@
+{
+  "key": "haophan",
+  "language": "hebrew",
+  "root": "ophan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "הָאוֹפַן",
+        "transliteration": "haOphan",
+        "englishLiteral": "the-wheel",
+        "englishNatural": "the wheel",
+        "root": "ophan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כַּאֲשֶׁר יִהְיֶה **הָאוֹפַן** בְּתוֹךְ הָאוֹפָן",
+        "transliteration": "kaAsher yihyeh **haOphan** betokh haOphan",
+        "englishLiteral": "like-which it-was **the-wheel** in-midst-of the-wheel",
+        "englishNatural": "like which was **the wheel** in the midst of the wheel"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הָאוֹפָן",
+        "transliteration": "haOphan",
+        "englishLiteral": "the-wheel",
+        "englishNatural": "the wheel",
+        "root": "ophan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאוֹפַן בְּתוֹךְ **הָאוֹפָן**",
+        "transliteration": "haOphan betokh **haOphan**",
+        "englishLiteral": "the-wheel in-midst-of **the-wheel**",
+        "englishNatural": "the wheel in the midst of **the wheel**"
+      }
+    }
+  ]
+}

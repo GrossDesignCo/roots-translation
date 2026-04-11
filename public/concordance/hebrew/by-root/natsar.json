@@ -1,0 +1,32 @@
+{
+  "root": "natsar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "נֹצֵר",
+        "transliteration": "notser",
+        "englishLiteral": "preserving",
+        "englishNatural": "preserving",
+        "root": "natsar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**נֹצֵר** חֶסֶד לָאֲלָפִים",
+        "transliteration": "**notser** chesed laAlafim",
+        "englishLiteral": "**preserving** steadfast_love to-thousands",
+        "englishNatural": "**preserving** steadfast-love for thousands"
+      }
+    }
+  ]
+}

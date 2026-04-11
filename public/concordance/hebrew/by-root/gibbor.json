@@ -1,0 +1,102 @@
+{
+  "root": "gibbor",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "הַגִּבֹּרִים",
+        "transliteration": "haGibborim",
+        "englishLiteral": "the-mighty_ones",
+        "englishNatural": "the mighty-ones",
+        "root": "gibbor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶם הֵמָּה **הַגִּבֹּרִים** אֲשֶׁר מֵעוֹלָם",
+        "transliteration": "lahem hemah **haGibborim** asher meOlam",
+        "englishLiteral": "to-them they **the-mighty_ones** which from-the_age",
+        "englishNatural": "and to them they **the mighty-ones** which from the-age"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "גִּבֹּר",
+        "transliteration": "gibbor",
+        "englishLiteral": "mighty_one",
+        "englishNatural": "a mighty-one",
+        "root": "gibbor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֵחֵל לִהְיוֹת **גִּבֹּר** בָּאָרֶץ",
+        "transliteration": "hechel lihyot **gibbor** baAretz",
+        "englishLiteral": "caused-to-begin to-be **mighty_one** in-land",
+        "englishNatural": "caused to begin to be **a mighty-one** in the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "גִבֹּר־",
+        "transliteration": "gibbor-",
+        "englishLiteral": "mighty_one-of-",
+        "englishNatural": "a mighty-one of",
+        "root": "gibbor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא־ הָיָה **גִבֹּר־** צַיִד לִפְנֵי",
+        "transliteration": "hu- hayah **gibbor-** tsayid liFney",
+        "englishLiteral": "He- was **mighty_one-of-** hunter to-faces-of",
+        "englishNatural": "He was **a mighty-one of** the hunter to the face of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "גִּבּוֹר",
+        "transliteration": "gibbor",
+        "englishLiteral": "mighty_one",
+        "englishNatural": "a mighty-one",
+        "root": "gibbor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֵאָמַר כְּנִמְרֹד **גִּבּוֹר** צַיִד לִפְנֵי",
+        "transliteration": "yeamar keNimrod **gibbor** tsayid liFney",
+        "englishLiteral": "it-will-be-said like-Rebel (Nimrod) **mighty_one** hunter to-faces-of",
+        "englishNatural": "it will be said Like Rebel (Nimrod) **a mighty-one** a hunter to the face of"
+      }
+    }
+  ]
+}

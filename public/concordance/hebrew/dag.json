@@ -1,0 +1,31 @@
+{
+  "key": "dag",
+  "language": "hebrew",
+  "root": "dag",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "דָּג",
+        "transliteration": "dag",
+        "englishLiteral": "fish",
+        "englishNatural": "fish",
+        "root": "dag",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְמַן יְהוָה **דָּג** גָּדוֹל לִבְלֹעַ",
+        "transliteration": "vaYeman YHWH **dag** gadol livloa",
+        "englishLiteral": "And-appointed He_Who_Is (YHWH) **fish** great to-swallow",
+        "englishNatural": "appointed And He-Who-Is (YHWH) **fish** a great to swallow"
+      }
+    }
+  ]
+}

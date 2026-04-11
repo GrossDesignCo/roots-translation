@@ -1,0 +1,31 @@
+{
+  "key": "veal-",
+  "language": "aramaic",
+  "root": "al",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וְעַל־",
+        "transliteration": "veAl-",
+        "englishLiteral": "and-on-",
+        "englishNatural": "and on",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ אַרְעָ֗א **וְעַל־** רַגְלַ֙יִן֙ כֶּאֱנָ֣שׁ",
+        "transliteration": "min- ara **veAl-** raglayyin keEnash",
+        "englishLiteral": "from- the-land **and-on-** feet as-Mortal_Man (Enash)",
+        "englishNatural": "from the land **and on** feet as a Mortal-Man (Enash)"
+      }
+    }
+  ]
+}

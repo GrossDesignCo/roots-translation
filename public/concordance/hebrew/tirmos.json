@@ -1,0 +1,33 @@
+{
+  "key": "tirmos",
+  "language": "hebrew",
+  "root": "ramas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 2
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "תִּרְמֹשׂ",
+        "transliteration": "tirmos",
+        "englishLiteral": "it-creeps",
+        "englishNatural": "creeps",
+        "root": "ramas",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּכֹל אֲשֶׁר **תִּרְמֹשׂ** הָאֲדָמָה וּבְכָל־",
+        "transliteration": "beKhol asher **tirmos** haAdamah uVekhol-",
+        "englishLiteral": "in-all which **it-creeps** the-soil and-in-all-",
+        "englishNatural": "in all which **creeps** the soil and in all"
+      }
+    }
+  ]
+}

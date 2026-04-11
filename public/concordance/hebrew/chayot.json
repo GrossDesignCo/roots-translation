@@ -1,0 +1,31 @@
+{
+  "key": "chayot",
+  "language": "hebrew",
+  "root": "chayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "חַיּוֹת",
+        "transliteration": "chayot",
+        "englishLiteral": "living_beings",
+        "englishNatural": "living-beings",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דְּמוּת אַרְבַּע **חַיּוֹת** וְזֶה מַרְאֵיהֶן",
+        "transliteration": "demut arba **chayot** veZeh mareihen",
+        "englishLiteral": "likeness-of four **living_beings** and-this appearance-their",
+        "englishNatural": "a likeness of four **living-beings** and this their appearance"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayireu",
+  "language": "hebrew",
+  "root": "yare",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּירְאוּ",
+        "transliteration": "vaYireu",
+        "englishLiteral": "And-feared",
+        "englishNatural": "feared",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּירְאוּ** הָאֲנָשִׁים יִרְאָה",
+        "transliteration": "**vaYireu** haAnashim yirah",
+        "englishLiteral": "**And-feared** the-men fear",
+        "englishNatural": "**feared** And the men fear of"
+      }
+    }
+  ]
+}

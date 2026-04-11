@@ -1,0 +1,33 @@
+{
+  "key": "mavdil",
+  "language": "hebrew",
+  "root": "badal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מַבְדִּיל",
+        "transliteration": "mavdil",
+        "englishLiteral": "separating",
+        "englishNatural": "separating",
+        "root": "badal",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הַמָּיִם֙ וִיהִי **מַבְדִּיל** בֵּין מַיִם",
+        "transliteration": "haMayim vihi **mavdil** beyn mayim",
+        "englishLiteral": "the-waters and-let-be **separating** between waters",
+        "englishNatural": "the waters and let it be **separating** between waters"
+      }
+    }
+  ]
+}

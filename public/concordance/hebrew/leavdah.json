@@ -1,0 +1,33 @@
+{
+  "key": "leavdah",
+  "language": "hebrew",
+  "root": "avad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 15
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לְעָבְדָהּ",
+        "transliteration": "leAvdah",
+        "englishLiteral": "to-serve-her",
+        "englishNatural": "to serve her",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְגַן־ עֵדֶן **לְעָבְדָהּ** וּלְשָׁמְרָהּ׃",
+        "transliteration": "beGan- Eden **leAvdah** uLeShamrah",
+        "englishLiteral": "in-Garden- Delight (Eden) **to-serve-her** and-to-keep-her",
+        "englishNatural": "in Garden Delight (Eden) **to serve her** and to keep her"
+      }
+    }
+  ]
+}

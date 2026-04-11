@@ -1,0 +1,33 @@
+{
+  "key": "tosif",
+  "language": "hebrew",
+  "root": "yasaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "תֹסִֽף׃",
+        "transliteration": "tosif",
+        "englishLiteral": "will-add",
+        "englishNatural": "will add",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָמֹ֖הוּ לֹ֥א **תֹסִֽף׃**",
+        "transliteration": "veKhamohu lo **tosif**",
+        "englishLiteral": "and-like-it not **will-add**",
+        "englishNatural": "and like it not **will add**"
+      }
+    }
+  ]
+}

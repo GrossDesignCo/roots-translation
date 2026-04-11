@@ -1,0 +1,31 @@
+{
+  "key": "halo-",
+  "language": "hebrew",
+  "root": "lo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "הֲלוֹא־",
+        "transliteration": "halo-",
+        "englishLiteral": "is-not-",
+        "englishNatural": "was not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אָנָּה יְהוָה **הֲלוֹא־** זֶה דְבָרִי",
+        "transliteration": "anna YHWH **halo-** zeh devari",
+        "englishLiteral": "please He_Who_Is (YHWH) **is-not-** this word-my",
+        "englishNatural": "Please He-Who-Is (YHWH) **was not** this my word"
+      }
+    }
+  ]
+}

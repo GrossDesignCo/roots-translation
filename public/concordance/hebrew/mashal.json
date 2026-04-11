@@ -1,0 +1,31 @@
+{
+  "key": "mashal",
+  "language": "hebrew",
+  "root": "mashal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מָשָׁל",
+        "transliteration": "mashal",
+        "englishLiteral": "rule",
+        "englishNatural": "a rule",
+        "root": "mashal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְהָבִין **מָשָׁל** וּמְלִיצָה דִּבְרֵי",
+        "transliteration": "lehavin **mashal** uMelitzah divre",
+        "englishLiteral": "To-understand **rule** and-interpretation words-of",
+        "englishNatural": "To understand **a rule** and the interpretation words of"
+      }
+    }
+  ]
+}

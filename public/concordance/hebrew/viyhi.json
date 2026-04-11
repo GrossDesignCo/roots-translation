@@ -1,0 +1,33 @@
+{
+  "key": "viyhi",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וִיהִי",
+        "transliteration": "viYhi",
+        "englishLiteral": "and-let-be",
+        "englishNatural": "and let it be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הַשָּׁמַיִם **וִיהִי** חֹשֶׁךְ עַל־",
+        "transliteration": "al- haShamayim **viYhi** choshekh al-",
+        "englishLiteral": "over- the-skies **and-let-be** darkness over-",
+        "englishNatural": "over the skies **and let it be** darkness over"
+      }
+    }
+  ]
+}

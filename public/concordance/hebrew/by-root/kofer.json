@@ -1,0 +1,30 @@
+{
+  "root": "kofer",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 14
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "בַּכֹּפֶר",
+        "transliteration": "baKofer",
+        "englishLiteral": "with-the-covering",
+        "englishNatural": "with the covering",
+        "root": "kofer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִבַּיִת וּמִחוּץ **בַּכֹּפֶר**",
+        "transliteration": "miBayit uMichutz **baKofer**",
+        "englishLiteral": "from-house and-from-outside **with-the-covering**",
+        "englishNatural": "from inside and from outside **with the covering**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "hachai",
+  "language": "hebrew",
+  "root": "chai",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 19
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הָחַי",
+        "transliteration": "haChai",
+        "englishLiteral": "the-living",
+        "englishNatural": "the living",
+        "root": "chai",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִכָּל־ **הָחַי** מִכָּל־ בָּשָׂר",
+        "transliteration": "uMikol- **haChai** mikol- basar",
+        "englishLiteral": "And-from-all- **the-living** from-all- flesh",
+        "englishNatural": "And from all **the living** from all flesh"
+      }
+    }
+  ]
+}

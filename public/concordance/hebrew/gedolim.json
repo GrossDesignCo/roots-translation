@@ -1,0 +1,31 @@
+{
+  "key": "gedolim",
+  "language": "hebrew",
+  "root": "gadol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 6
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "גְּדֹלִים",
+        "transliteration": "gedolim",
+        "englishLiteral": "great",
+        "englishNatural": "and in great",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "נְטוּיָה וּבִשְׁפָטִים **גְּדֹלִים**",
+        "transliteration": "netuyah uVishfatim **gedolim**",
+        "englishLiteral": "stretched_out and-in-justices **great**",
+        "englishNatural": "in a stretched-out justices **and in great**"
+      }
+    }
+  ]
+}

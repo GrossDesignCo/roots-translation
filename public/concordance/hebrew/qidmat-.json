@@ -1,0 +1,31 @@
+{
+  "key": "qidmat-",
+  "language": "hebrew",
+  "root": "qedem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "קִדְמַת־",
+        "transliteration": "qidmat-",
+        "englishLiteral": "east-",
+        "englishNatural": "east",
+        "root": "qedem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאֶרֶץ־ נוֹד **קִדְמַת־** עֵדֶן",
+        "transliteration": "beEretz- Nod **qidmat-** Eden",
+        "englishLiteral": "in-land- Wandering **east-** Delight",
+        "englishNatural": "in the land of Wandering **east** of Delight"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "lah",
+  "language": "hebrew",
+  "root": "la",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לָהּ",
+        "transliteration": "lah",
+        "englishLiteral": "to-her",
+        "englishNatural": "to her",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹה וַיְהִי־ **לָהּ** לְבֵן וַתִּקְרָא",
+        "transliteration": "Paroh vaYehi- **lah** leVen vaTiqra",
+        "englishLiteral": "Pharaoh and-was- **to-her** for-son and-called",
+        "englishNatural": "Pharaoh and he was **to her** for a son and she called"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לָהּ",
+        "transliteration": "lah",
+        "englishLiteral": "to",
+        "englishNatural": "to",
+        "root": "la",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֵשׁ בֵּית־ **לָהּ** סָבִיב מִמַּרְאֵה",
+        "transliteration": "esh beit- **lah** saviv miMareeh",
+        "englishLiteral": "fire house- **to** all_around from-appearance-of",
+        "englishNatural": "fire a house **to** all-around from the appearance of"
+      }
+    }
+  ]
+}

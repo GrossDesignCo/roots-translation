@@ -1,0 +1,58 @@
+{
+  "root": "chaser",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתְּחַסְּרֵ֣הוּ",
+        "transliteration": "vatechasrehu",
+        "englishLiteral": "and-you-have-made-him-lack",
+        "englishNatural": "and you have made him lack",
+        "root": "chaser",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתְּחַסְּרֵ֣הוּ** מְּ֭עַט מֵאֱלֹהִ֑ים",
+        "transliteration": "**vatechasrehu** meat meElohim",
+        "englishLiteral": "**and-you-have-made-him-lack** a_little from-God",
+        "englishNatural": "**and you have made him lack** a-little from God"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אֶחְסָר",
+        "transliteration": "echsar",
+        "englishLiteral": "I-will-lack",
+        "englishNatural": "I will lack",
+        "root": "chaser",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רֹעִי לֹא **אֶחְסָר**",
+        "transliteration": "roi lo **echsar**",
+        "englishLiteral": "my-shepherd not **I-will-lack**",
+        "englishNatural": "my shepherd not **I will lack**"
+      }
+    }
+  ]
+}

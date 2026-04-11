@@ -1,0 +1,33 @@
+{
+  "key": "natnah-",
+  "language": "hebrew",
+  "root": "natan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "נָתְנָה־",
+        "transliteration": "natnah-",
+        "englishLiteral": "she-gave-",
+        "englishNatural": "gave",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עִמָּדִי הִיא **נָתְנָה־** לִּי מִן־",
+        "transliteration": "imadi hi **natnah-** li min-",
+        "englishLiteral": "with-me she **she-gave-** to-me from-",
+        "englishNatural": "with me she **gave** to me from"
+      }
+    }
+  ]
+}

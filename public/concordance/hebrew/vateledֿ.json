@@ -1,0 +1,33 @@
+{
+  "key": "vateledֿ",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וַתֵּלֶד",
+        "transliteration": "vaTeledֿ",
+        "englishLiteral": "and-birthed",
+        "englishNatural": "and birthed",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַתַּהַר הָאִשָּׁה **וַתֵּלֶד** בֵּן וַתֵּרֶא",
+        "transliteration": "vaTahar haIshah **vaTeledֿ** ben vaTere",
+        "englishLiteral": "And-conceived the-woman **and-birthed** son and-saw",
+        "englishNatural": "conceived And the woman **and birthed** a son and she saw"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayinhag",
+  "language": "hebrew",
+  "root": "nahag",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיִּנְהַג",
+        "transliteration": "vaYinhag",
+        "englishLiteral": "and-drove",
+        "englishNatural": "and he drove",
+        "root": "nahag",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כֹּהֵן מִדְיָן **וַיִּנְהַג** אֶת־ הַצֹּאן",
+        "transliteration": "kohen Midyan **vaYinhag** et- haTzon",
+        "englishLiteral": "priest-of Strife (Midian) **and-drove** ↳ the-flock",
+        "englishNatural": "the priest of Strife (Midian) **and he drove** ↳ the flock"
+      }
+    }
+  ]
+}

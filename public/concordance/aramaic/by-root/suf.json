@@ -1,0 +1,32 @@
+{
+  "root": "suf",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "וְתָסֵף",
+        "transliteration": "veTasef",
+        "englishLiteral": "and-she-will-consume",
+        "englishNatural": "and consume",
+        "root": "suf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "haphel"
+        }
+      },
+      "context": {
+        "hebrew": "תִשְׁתְּבִק וְתַדִּק **וְתָסֵף** כָּל־ אִלֵּין",
+        "transliteration": "tishtebiq veTaddiq **veTasef** kol- illen",
+        "englishLiteral": "will-be-left and-she-will-crush **and-she-will-consume** all- these",
+        "englishNatural": "it will be-left and it will crush **and consume** all these"
+      }
+    }
+  ]
+}

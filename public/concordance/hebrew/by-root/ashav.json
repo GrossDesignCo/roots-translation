@@ -1,0 +1,32 @@
+{
+  "root": "ashav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "יִתְעַשֵּׁת",
+        "transliteration": "yitashet",
+        "englishLiteral": "will-think_upon",
+        "englishNatural": "will think upon",
+        "root": "ashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֶיךָ אוּלַי **יִתְעַשֵּׁת** הָאֱלֹהִים לָנוּ",
+        "transliteration": "elohekha ulay **yitashet** haElohim lanu",
+        "englishLiteral": "gods-your Perhaps **will-think_upon** the-Gods to-us",
+        "englishNatural": "your God If so be **will think upon** that God us"
+      }
+    }
+  ]
+}

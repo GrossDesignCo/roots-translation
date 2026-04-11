@@ -1,0 +1,31 @@
+{
+  "key": "hazahav",
+  "language": "hebrew",
+  "root": "zahav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "הַזָּהָב׃",
+        "transliteration": "haZahav",
+        "englishLiteral": "the-gold",
+        "englishNatural": "the gold",
+        "root": "zahav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר שָׁם **הַזָּהָב׃**",
+        "transliteration": "asher sham **haZahav**",
+        "englishLiteral": "which there **the-gold**",
+        "englishNatural": "which there is **the gold**"
+      }
+    }
+  ]
+}

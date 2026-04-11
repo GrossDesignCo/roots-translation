@@ -1,0 +1,31 @@
+{
+  "key": "vehaoniyah",
+  "language": "hebrew",
+  "root": "aniyah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְהָאֳנִיָּה",
+        "transliteration": "veHaOniyah",
+        "englishLiteral": "and-the-ship",
+        "englishNatural": "and the ship",
+        "root": "aniyah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גָּדוֹל בַּיָּם **וְהָאֳנִיָּה** חִשְּׁבָה לְהִשָּׁבֵר",
+        "transliteration": "gadol baYam **veHaOniyah** chishvah lehishabeir",
+        "englishLiteral": "great in-sea **and-the-ship** planned to-be-broken",
+        "englishNatural": "a great in the sea **and the ship** planned to be broken"
+      }
+    }
+  ]
+}

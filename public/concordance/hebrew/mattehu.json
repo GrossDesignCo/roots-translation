@@ -1,0 +1,55 @@
+{
+  "key": "mattehu",
+  "language": "hebrew",
+  "root": "mateh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "מַטֵּהוּ",
+        "transliteration": "mattehu",
+        "englishLiteral": "branch-his",
+        "englishNatural": "his branch",
+        "root": "mateh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַהֲרֹן אֶת־ **מַטֵּהוּ** לִפְנֵי פַרְעֹה",
+        "transliteration": "Aharon et- **mattehu** lifnei Paroh",
+        "englishLiteral": "Light_Bringer (Aaron) ↳ **branch-his** to-faces-of Pharaoh",
+        "englishNatural": "and Light-Bringer (Aaron) ↳ **his branch** to the face of Pharaoh"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מַטֵּהוּ",
+        "transliteration": "mattehu",
+        "englishLiteral": "branch-his",
+        "englishNatural": "his branch",
+        "root": "mateh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּשְׁלִיכוּ אִישׁ **מַטֵּהוּ** וַיִּהְיוּ לְתַנִּינִם",
+        "transliteration": "vaYashlikhu ish **mattehu** vaYihyu leTanninim",
+        "englishLiteral": "And-threw man **branch-his** and-they-were to-monsters",
+        "englishNatural": "threw And man **his branch** and they were to monsters"
+      }
+    }
+  ]
+}

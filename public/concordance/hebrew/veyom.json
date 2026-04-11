@@ -1,0 +1,55 @@
+{
+  "key": "veyom",
+  "language": "hebrew",
+  "root": "yom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְיוֹם",
+        "transliteration": "veYom",
+        "englishLiteral": "and-day",
+        "englishNatural": "and day",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְקַיִץ וָחֹרֶף **וְיוֹם** וָלַיְלָה לֹא",
+        "transliteration": "veQayitz vaChoref **veYom** vaLaylah lo",
+        "englishLiteral": "and-summer and-winter **and-day** and-night not",
+        "englishNatural": "and summer and winter **and day** and night not"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וְיוֹם",
+        "transliteration": "veYom",
+        "englishLiteral": "and-day",
+        "englishNatural": "and the day",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִשֶּׁמֶן טוֹב **וְיוֹם** מָוֶת מִיּוֹם",
+        "transliteration": "miShemen tov **veYom** mavet miYom",
+        "englishLiteral": "than-oil good **and-day** of-death than-day",
+        "englishNatural": "oil than good **and the day** of death than the day"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "qach",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "קַח",
+        "transliteration": "qach",
+        "englishLiteral": "take",
+        "englishNatural": "Take",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ אַהֲרֹן **קַח** אֶת־ מַטְּךָ",
+        "transliteration": "el- Aharon **qach** et- matekha",
+        "englishLiteral": "to- Light_Bringer (Aaron) **take** ↳ branch-your",
+        "englishNatural": "to Light-Bringer (Aaron) **Take** ↳ your branch"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "root": "hagidah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַגִּידָה־",
+        "transliteration": "hagidah-",
+        "englishLiteral": "Tell-",
+        "englishNatural": "Tell",
+        "root": "hagidah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמְרוּ אֵלָיו **הַגִּידָה־** נָּא לָנוּ",
+        "transliteration": "vaYomeru elav **hagidah-** na lanu",
+        "englishLiteral": "And-said to-him **Tell-** us to-us",
+        "englishNatural": "And they said to him **Tell** us to us"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "theon",
+  "language": "greek",
+  "root": "theos",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "θεόν",
+        "transliteration": "theon",
+        "englishLiteral": "God",
+        "englishNatural": "God",
+        "root": "theos",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "πρὸς τὸν **θεόν** καὶ θεὸς",
+        "transliteration": "pros ton **theon** kai theos",
+        "englishLiteral": "with The **God** and God",
+        "englishNatural": "with The **God** and God"
+      }
+    }
+  ]
+}

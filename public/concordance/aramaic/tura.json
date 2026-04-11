@@ -1,0 +1,31 @@
+{
+  "key": "tura",
+  "language": "aramaic",
+  "root": "tur",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "טוּרָא",
+        "transliteration": "tura",
+        "englishLiteral": "mountain-the",
+        "englishNatural": "the mountain",
+        "root": "tur",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי מִן־ **טוּרָא** אִתְגְּזֶרֶת אֶבֶן",
+        "transliteration": "di min- **tura** itgezeret even",
+        "englishLiteral": "which from- **mountain-the** was-cut-out stone",
+        "englishNatural": "that from **the mountain** was cut out a stone"
+      }
+    }
+  ]
+}

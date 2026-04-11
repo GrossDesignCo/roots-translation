@@ -1,0 +1,33 @@
+{
+  "key": "vayavou",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וַיָּבֹ֥אוּ",
+        "transliteration": "vaYavou",
+        "englishLiteral": "and-they-came",
+        "englishNatural": "and they came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֶ֖חֶם יְהוּדָ֑ה **וַיָּבֹ֥אוּ** שְׂדֵי־ מוֹאָ֖ב",
+        "transliteration": "lechem Yehudah **vaYavou** sedey- Moav",
+        "englishLiteral": "Bread (Bethlehem) Praise (Judah) **and-they-came** fields-of- From_Father (Moab)",
+        "englishNatural": "Bread (Bethlehem) Praise (Judah) **and they came** the fields of From-Father (Moab)"
+      }
+    }
+  ]
+}

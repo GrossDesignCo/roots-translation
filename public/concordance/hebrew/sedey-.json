@@ -1,0 +1,31 @@
+{
+  "key": "sedey-",
+  "language": "hebrew",
+  "root": "sadeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "שְׂדֵי־",
+        "transliteration": "sedey-",
+        "englishLiteral": "fields-of-",
+        "englishNatural": "the fields of",
+        "root": "sadeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוּדָ֑ה וַיָּבֹ֥אוּ **שְׂדֵי־** מוֹאָ֖ב וַיִּֽהְיוּ־",
+        "transliteration": "Yehudah vaYavou **sedey-** Moav vayihyu-",
+        "englishLiteral": "Praise (Judah) and-they-came **fields-of-** From_Father (Moab) and-they-were-",
+        "englishNatural": "Praise (Judah) and they came **the fields of** From-Father (Moab) and were"
+      }
+    }
+  ]
+}

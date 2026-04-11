@@ -1,0 +1,33 @@
+{
+  "key": "liqrato",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "לִקְרָאתוֹ",
+        "transliteration": "liqrato",
+        "englishLiteral": "to-meet-him",
+        "englishNatural": "to meet him",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֶלֶךְ־ סְדֹם **לִקְרָאתוֹ** אַחֲרֵי שׁוּבוֹ",
+        "transliteration": "melekh- Sedom **liqrato** acharey shuvo",
+        "englishLiteral": "king-of- Devastation (Sodom) **to-meet-him** after returning-of-him",
+        "englishNatural": "And the king of Devastation (Sodom) **to meet him** after his return"
+      }
+    }
+  ]
+}

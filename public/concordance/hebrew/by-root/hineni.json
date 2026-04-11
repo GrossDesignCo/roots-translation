@@ -1,0 +1,30 @@
+{
+  "root": "hineni",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הִנֵּנִי",
+        "transliteration": "hineni",
+        "englishLiteral": "behold_me",
+        "englishNatural": "Behold-me",
+        "root": "hineni",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה וַיֹּאמֶר **הִנֵּנִי**",
+        "transliteration": "Moshe vaYomer **hineni**",
+        "englishLiteral": "Drawn_Out (Moses) and-said **behold_me**",
+        "englishNatural": "Drawn-Out (Moses) and he said **Behold-me**"
+      }
+    }
+  ]
+}

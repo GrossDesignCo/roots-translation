@@ -1,0 +1,31 @@
+{
+  "key": "mehaoph",
+  "language": "hebrew",
+  "root": "oph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 20
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "מֵהָעוֹף",
+        "transliteration": "meHaOph",
+        "englishLiteral": "From-the-bird",
+        "englishNatural": "From the bird",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**מֵהָעוֹף** לְמִינֵהוּ וּמִן־",
+        "transliteration": "**meHaOph** leMinehu uMin-",
+        "englishLiteral": "**From-the-bird** to-kind-his and-from-",
+        "englishNatural": "**From the bird** to its kind and from"
+      }
+    }
+  ]
+}

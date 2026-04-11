@@ -1,0 +1,31 @@
+{
+  "key": "keachad",
+  "language": "hebrew",
+  "root": "echad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "כְּאַחַד",
+        "transliteration": "keAchad",
+        "englishLiteral": "as-one",
+        "englishNatural": "as one",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם הָיָה **כְּאַחַד** מִמֶּנּוּ לָדַעַת",
+        "transliteration": "haAdam hayah **keAchad** miMennu laDaat",
+        "englishLiteral": "the-Earthling (Adam) has-become **as-one** from-us to-know",
+        "englishNatural": "the Earthling (Adam) has become **as one** from us to know"
+      }
+    }
+  ]
+}

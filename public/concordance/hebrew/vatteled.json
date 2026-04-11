@@ -1,0 +1,59 @@
+{
+  "key": "vatteled",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַתֵּלֶד",
+        "transliteration": "vatTeled",
+        "englishLiteral": "and-she-bore",
+        "englishNatural": "and bore",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אִשְׁתּוֹ וַתַּהַר **וַתֵּלֶד** אֶת־ קַיִן",
+        "transliteration": "ishto vatTahar **vatTeled** et- Qayin",
+        "englishLiteral": "his-woman and-she-conceived **and-she-bore** ↳ Acquired (Cain)",
+        "englishNatural": "his woman and she conceived **and bore** ↳ Acquired (Cain)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "וַתֵּלֶד",
+        "transliteration": "vatTeled",
+        "englishLiteral": "and-she-bore",
+        "englishNatural": "and bore",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אִשְׁתּוֹ וַתַּהַר **וַתֵּלֶד** אֶת־ חֲנוֹךְ",
+        "transliteration": "ishto vatTahar **vatTeled** et- Chanokh",
+        "englishLiteral": "his-woman and-she-conceived **and-she-bore** ↳ Dedicated (Enoch)",
+        "englishNatural": "knew his woman and she conceived **and bore** ↳ Dedicated (Enoch)"
+      }
+    }
+  ]
+}

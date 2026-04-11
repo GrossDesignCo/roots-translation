@@ -1,0 +1,161 @@
+{
+  "root": "palal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "הִתְפַּלֵּל",
+        "transliteration": "hitpalel",
+        "englishLiteral": "pray",
+        "englishNatural": "pray",
+        "root": "palal",
+        "morphology": {
+          "type": "verb",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "בַיהוָה וָבָךְ **הִתְפַּלֵּל** אֶל יְהוָה",
+        "transliteration": "vaYHWH vaVeKha **hitpalel** el YHWH",
+        "englishLiteral": "against-He_Who_Is (YHWH) and-against-you **pray** to He_Who_Is (YHWH)",
+        "englishNatural": "against He-Who-Is (YHWH) and against you **pray** to He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וַיִּתְפַּלֵּל",
+        "transliteration": "vaYitpalel",
+        "englishLiteral": "And-prayed",
+        "englishNatural": "prayed",
+        "root": "palal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת הַנָּחָשׁ **וַיִּתְפַּלֵּל** מֹשֶׁה בְּעַד",
+        "transliteration": "et haNachash **vaYitpalel** Moshe beAd",
+        "englishLiteral": "↳ the-snake **And-prayed** Drawn_Out (Moses) in-unto",
+        "englishNatural": "↳ the snake **prayed** And Drawn-Out (Moses) in unto"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "הַלְלוּ",
+        "transliteration": "halelu",
+        "englishLiteral": "Praise",
+        "englishNatural": "Praise",
+        "root": "palal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**הַלְלוּ** אֶת יְהוָה",
+        "transliteration": "**halelu** et YHWH",
+        "englishLiteral": "**Praise** ↳ He_Who_Is (YHWH)",
+        "englishNatural": "**Praise** ↳ He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הַלְלוּ",
+        "transliteration": "halelu",
+        "englishLiteral": "Praise",
+        "englishNatural": "Praise",
+        "root": "palal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה לְעוֹלָם **הַלְלוּ** יָהּ",
+        "transliteration": "YHWH leOlam **halelu** yah",
+        "englishLiteral": "He_Who_Is (YHWH) to-the_age **Praise** He—",
+        "englishNatural": "He-Who-Is (YHWH) to the-age **Praise** He—"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּתְפַּלֵּל",
+        "transliteration": "vaYitpalel",
+        "englishLiteral": "And-prayed",
+        "englishNatural": "prayed",
+        "root": "palal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּתְפַּלֵּל** יוֹנָה אֶל־",
+        "transliteration": "**vaYitpalel** Yonah el-",
+        "englishLiteral": "**And-prayed** Dove (Jonah) to-",
+        "englishNatural": "**prayed** And Dove (Jonah) to"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּתְפַּלֵּל",
+        "transliteration": "vaYitpallel",
+        "englishLiteral": "And-prayed",
+        "englishNatural": "And he prayed",
+        "root": "palal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּתְפַּלֵּל** אֶל־ יְהוָה",
+        "transliteration": "**vaYitpallel** el- YHWH",
+        "englishLiteral": "**And-prayed** to- He_Who_Is (YHWH)",
+        "englishNatural": "**And he prayed** to He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

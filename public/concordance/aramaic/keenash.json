@@ -1,0 +1,31 @@
+{
+  "key": "keenash",
+  "language": "aramaic",
+  "root": "enosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "כֶּאֱנָ֣שׁ",
+        "transliteration": "keEnash",
+        "englishLiteral": "as-Mortal_Man (Enash)",
+        "englishNatural": "as a Mortal-Man (Enash)",
+        "root": "enosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַל־ רַגְלַ֙יִן֙ **כֶּאֱנָ֣שׁ** הֳקִימַ֔ת וּלְבַ֥ב",
+        "transliteration": "veAl- raglayyin **keEnash** hoqimat uLevav",
+        "englishLiteral": "and-on- feet **as-Mortal_Man (Enash)** was-caused-to-stand and-heart",
+        "englishNatural": "and on feet **as a Mortal-Man (Enash)** it was caused to stand and a heart"
+      }
+    }
+  ]
+}

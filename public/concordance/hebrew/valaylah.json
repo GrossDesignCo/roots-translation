@@ -1,0 +1,55 @@
+{
+  "key": "valaylah",
+  "language": "hebrew",
+  "root": "layil",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 22
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וָלַיְלָה",
+        "transliteration": "vaLaylah",
+        "englishLiteral": "and-night",
+        "englishNatural": "and night",
+        "root": "laylah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וָחֹרֶף וְיוֹם **וָלַיְלָה** לֹא יִשְׁבֹּתוּ",
+        "transliteration": "vaChoref veYom **vaLaylah** lo yishbotu",
+        "englishLiteral": "and-winter and-day **and-night** not they-will-sabbath",
+        "englishNatural": "and winter and day **and night** not they will sabbath"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וָלָיְלָה",
+        "transliteration": "vaLaylah",
+        "englishLiteral": "and-night",
+        "englishNatural": "and night",
+        "root": "layil",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "יֶהְגֶּה יוֹמָם **וָלָיְלָה**",
+        "transliteration": "yehgeh yomam **vaLaylah**",
+        "englishLiteral": "he-meditates by-day **and-night**",
+        "englishNatural": "he meditates by day **and night**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "livnot",
+  "language": "hebrew",
+  "root": "banah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לִבְנֹת",
+        "transliteration": "livnot",
+        "englishLiteral": "to-build",
+        "englishNatural": "to build",
+        "root": "banah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ וַיַּחְדְּלוּ **לִבְנֹת** הָעִיר",
+        "transliteration": "haAretz vayachdelu **livnot** haIr",
+        "englishLiteral": "the-land and-they-ceased **to-build** the-city",
+        "englishNatural": "the land and they ceased **to build** the city"
+      }
+    }
+  ]
+}

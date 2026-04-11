@@ -1,0 +1,78 @@
+{
+  "root": "kesaf",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "כְסַף",
+        "transliteration": "kesaf",
+        "englishLiteral": "silver",
+        "englishNatural": "silver",
+        "root": "kesaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּדְרָעוֹהִי דִּי **כְסַף** מְעוֹהִי וְיַרְכָתֵהּ",
+        "transliteration": "uDeraohi di **kesaf** meohi veYarkhateh",
+        "englishLiteral": "and-arms-its which **silver** belly-its and-thighs-its",
+        "englishNatural": "and its arms of **silver** its belly and its thighs"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "כַּסְפָּא",
+        "transliteration": "kaspa",
+        "englishLiteral": "silver-the",
+        "englishNatural": "the silver",
+        "root": "kesaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַסְפָּא נְחָשָׁא **כַּסְפָּא** וְדַהֲבָא וַהֲווֹ",
+        "transliteration": "chaspa nechasha **kaspa** veDahava vaHavo",
+        "englishLiteral": "clay-the bronze-the **silver-the** and-gold-the and-they-became",
+        "englishNatural": "the clay the bronze **the silver** and the gold and became"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "כַּסְפָּא",
+        "transliteration": "kaspa",
+        "englishLiteral": "silver-the",
+        "englishNatural": "the silver",
+        "root": "kesaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְחָשָׁא חַסְפָּא **כַּסְפָּא** וְדַהֲבָא אֱלָהּ",
+        "transliteration": "nechasha chaspa **kaspa** veDahava elah",
+        "englishLiteral": "bronze-the clay-the **silver-the** and-gold-the God-the",
+        "englishNatural": "the bronze the clay **the silver** and the gold God"
+      }
+    }
+  ]
+}

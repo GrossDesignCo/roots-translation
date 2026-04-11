@@ -1,0 +1,31 @@
+{
+  "key": "nes",
+  "language": "hebrew",
+  "root": "nes",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 8
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "נֵס",
+        "transliteration": "nes",
+        "englishLiteral": "standard",
+        "englishNatural": "a standard",
+        "root": "nes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֹתוֹ עַל **נֵס** וְהָיָה כָּל",
+        "transliteration": "oto al **nes** veHayah kol",
+        "englishLiteral": "it over **standard** and-it-will-be all",
+        "englishNatural": "it over **a standard** and it shall come about everyone"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "amot",
+  "language": "hebrew",
+  "root": "amah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "אַמּ֣וֹת",
+        "transliteration": "amot",
+        "englishLiteral": "pillars",
+        "englishNatural": "And pillars of",
+        "root": "amah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּנֻ֙עוּ֙ **אַמּ֣וֹת** הַסִּפִּ֔ים מִקּ֖וֹל",
+        "transliteration": "vaiYanu **amot** haSippim miQol",
+        "englishLiteral": "And-shook **pillars** the-thresholds from-voice",
+        "englishNatural": "shook **And pillars of** the thresholds from the voice of"
+      }
+    }
+  ]
+}

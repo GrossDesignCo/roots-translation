@@ -1,0 +1,59 @@
+{
+  "key": "haheitiv",
+  "language": "hebrew",
+  "root": "yatav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַהֵיטֵב",
+        "transliteration": "haHeitiv",
+        "englishLiteral": "the-doing_well",
+        "englishNatural": "the doing-well",
+        "root": "yatav",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **הַהֵיטֵב** חָרָה לָךְ",
+        "transliteration": "vaYomer YHWH **haHeitiv** charah lakh",
+        "englishLiteral": "And-said He_Who_Is (YHWH) **the-doing_well** fuming_angrily to-you",
+        "englishNatural": "said And He-Who-Is (YHWH) **the doing-well** Is fuming-angrily to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַהֵיטֵב",
+        "transliteration": "haHeitiv",
+        "englishLiteral": "the-doing_well",
+        "englishNatural": "Is the doing-well",
+        "root": "yatav",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ יוֹנָה **הַהֵיטֵב** חָרָה לְךָ",
+        "transliteration": "el- Yonah **haHeitiv** charah lekha",
+        "englishLiteral": "to- Dove (Jonah) **the-doing_well** fuming_angrily to-you",
+        "englishNatural": "to Dove (Jonah) **Is the doing-well** fuming-angrily to you"
+      }
+    }
+  ]
+}

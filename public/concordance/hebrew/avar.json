@@ -1,0 +1,33 @@
+{
+  "key": "avar",
+  "language": "hebrew",
+  "root": "avar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 17
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "עָבַר",
+        "transliteration": "avar",
+        "englishLiteral": "he-passed",
+        "englishNatural": "passed",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֵשׁ אֲשֶׁר **עָבַר** בֵּין הַגְּזָרִים",
+        "transliteration": "esh asher **avar** beyn haGezarim",
+        "englishLiteral": "fire which **he-passed** between the-pieces",
+        "englishNatural": "fire which **passed** between pieces"
+      }
+    }
+  ]
+}

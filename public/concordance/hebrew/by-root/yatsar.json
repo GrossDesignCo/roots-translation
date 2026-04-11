@@ -1,0 +1,108 @@
+{
+  "root": "yatsar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּיצֶר",
+        "transliteration": "vaYiytzer",
+        "englishLiteral": "And-formed",
+        "englishNatural": "formed",
+        "root": "yatsar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּיצֶר** יְהוָה אֱלֹהִים",
+        "transliteration": "**vaYiytzer** YHWH Elohim",
+        "englishLiteral": "**And-formed** He_Who_Is (YHWH) Gods",
+        "englishNatural": "**formed** And He-Who-Is (YHWH) God"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "יָצָר׃",
+        "transliteration": "yatsar",
+        "englishLiteral": "formed",
+        "englishNatural": "he formed",
+        "root": "yatsar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם אֲשֶׁר **יָצָר׃**",
+        "transliteration": "haAdam asher **yatsar**",
+        "englishLiteral": "the-Earthling (Adam) which **formed**",
+        "englishNatural": "the Earthling (Adam) which **he formed**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּצֶר",
+        "transliteration": "vaYitzer",
+        "englishLiteral": "And-formed",
+        "englishNatural": "formed",
+        "root": "yatsar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּצֶר** יְהוָה אֱלֹהִים",
+        "transliteration": "**vaYitzer** YHWH Elohim",
+        "englishLiteral": "**And-formed** He_Who_Is (YHWH) Gods",
+        "englishNatural": "**formed** And He-Who-Is (YHWH) God"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "יֵצֶר",
+        "transliteration": "yetzer",
+        "englishLiteral": "forming",
+        "englishNatural": "the forming",
+        "root": "yatsar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם כִּי **יֵצֶר** לֵב הָאָדָם",
+        "transliteration": "haAdam ki **yetzer** lev haAdam",
+        "englishLiteral": "the-Earthling (Adam) for **forming** heart-of the-Earthling (Adam)",
+        "englishNatural": "the Earthling (Adam) for **the forming** of the heart of the Earthling (Adam)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "key": "yoshev",
+  "language": "hebrew",
+  "root": "yashav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "יֹשֵׁב",
+        "transliteration": "yoshev",
+        "englishLiteral": "dwelling",
+        "englishNatural": "dwelling",
+        "root": "yashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָיָה אֲבִי **יֹשֵׁב** אֹהֶל וּמִקְנֶה",
+        "transliteration": "hayah avi **yoshev** ohel uMiqneh",
+        "englishLiteral": "was father-of **dwelling** tent and-cattle",
+        "englishNatural": "was father of **dwelling** tent and cattle"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "יֹשֵׁב",
+        "transliteration": "yoshev",
+        "englishLiteral": "sitting",
+        "englishNatural": "sitting",
+        "root": "yashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת אֲדֹנָי **יֹשֵׁב** עַל כִּסֵּא",
+        "transliteration": "et Adonai **yoshev** al kisse",
+        "englishLiteral": "↳ my-Lord **sitting** over throne",
+        "englishNatural": "↳ my Lord **sitting** over a throne"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "יוֹשֵׁב",
+        "transliteration": "yoshev",
+        "englishLiteral": "sit",
+        "englishNatural": "sit",
+        "root": "yashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שְׂפָתַיִם אָנֹכִי **יוֹשֵׁב** כִּי אֶת־",
+        "transliteration": "sfatayim anokhi **yoshev** ki et-",
+        "englishLiteral": "lips I **sit** that ↳",
+        "englishNatural": "lips I **sit** that ↳"
+      }
+    }
+  ]
+}

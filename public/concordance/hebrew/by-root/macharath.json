@@ -1,0 +1,30 @@
+{
+  "root": "macharath",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לַמָּחֳרָת",
+        "transliteration": "laMacharath",
+        "englishLiteral": "to-the-next_day",
+        "englishNatural": "to the next-day",
+        "root": "macharath",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּעֲלוֹת הַשַּׁחַר **לַמָּחֳרָת** וַתַּךְ אֶת־",
+        "transliteration": "baAlot haShachar **laMacharath** vaTakh et-",
+        "englishLiteral": "at-rising_of the-dawn **to-the-next_day** and-struck_down ↳",
+        "englishNatural": "at the rising of the dawn **to the next-day** and it struck-down ↳"
+      }
+    }
+  ]
+}

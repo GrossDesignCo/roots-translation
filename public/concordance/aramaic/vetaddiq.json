@@ -1,0 +1,33 @@
+{
+  "key": "vetaddiq",
+  "language": "aramaic",
+  "root": "daq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וְתַדִּק",
+        "transliteration": "veTaddiq",
+        "englishLiteral": "and-she-will-crush",
+        "englishNatural": "and it will crush",
+        "root": "daq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "haphel"
+        }
+      },
+      "context": {
+        "hebrew": "לָא תִשְׁתְּבִק **וְתַדִּק** וְתָסֵף כָּל־",
+        "transliteration": "la tishtebiq **veTaddiq** veTasef kol-",
+        "englishLiteral": "not will-be-left **and-she-will-crush** and-she-will-consume all-",
+        "englishNatural": "not it will be-left **and it will crush** and consume all"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "choten",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "חֹתְנוֹ",
+        "transliteration": "chotno",
+        "englishLiteral": "father_in_law-his",
+        "englishNatural": "his father-in-law",
+        "root": "choten",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צֹאן יִתְרוֹ **חֹתְנוֹ** כֹּהֵן מִדְיָן",
+        "transliteration": "tzon Yitro **chotno** kohen Midyan",
+        "englishLiteral": "flock-of Abundance (Jethro) **father_in_law-his** priest-of Strife (Midian)",
+        "englishNatural": "the flock of Abundance (Jethro) **his father-in-law** the priest of Strife (Midian)"
+      }
+    }
+  ]
+}

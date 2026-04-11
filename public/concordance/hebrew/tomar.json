@@ -1,0 +1,59 @@
+{
+  "key": "tomar",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "תֹאמַר",
+        "transliteration": "tomar",
+        "englishLiteral": "you-will-say",
+        "englishNatural": "you will say",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר כֹּה **תֹאמַר** לִבְנֵי יִשְׂרָאֵל",
+        "transliteration": "vaYomer koh **tomar** livney Yisrael",
+        "englishLiteral": "And-said Thus **you-will-say** to-sons-of Struggles_with_God (Israel)",
+        "englishNatural": "And he said Thus **you will say** to the sons of Struggles-with-God (Israel)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "תֹאמַר",
+        "transliteration": "tomar",
+        "englishLiteral": "you-will-say",
+        "englishNatural": "you will say",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה כֹּה־ **תֹאמַר** אֶל־ בְּנֵי",
+        "transliteration": "Moshe koh- **tomar** el- beney",
+        "englishLiteral": "Drawn_Out (Moses) Thus- **you-will-say** to- sons-of",
+        "englishNatural": "Drawn-Out (Moses) Thus **you will say** to the sons of"
+      }
+    }
+  ]
+}

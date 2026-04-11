@@ -1,0 +1,54 @@
+{
+  "root": "ribbo",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְרִבּ֥וֹ",
+        "transliteration": "veRibbo",
+        "englishLiteral": "and-ten_thousand",
+        "englishNatural": "and ten-thousand",
+        "root": "ribbo",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ **וְרִבּ֥וֹ** רִבְבָן֙ קָֽדָמ֣וֹהִי",
+        "transliteration": "alphin yeShammeshunneh **veRibbo** ribvan qodamohi",
+        "englishLiteral": "thousands ministered-to-him **and-ten_thousand** ten_thousands before-him",
+        "englishNatural": "thousands ministered to him **and ten-thousand** ten-thousands before him"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "רִבְבָן֙",
+        "transliteration": "ribvan",
+        "englishLiteral": "ten_thousands",
+        "englishNatural": "ten-thousands",
+        "root": "ribbo",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "יְשַׁמְּשׁוּנֵּ֔הּ וְרִבּ֥וֹ **רִבְבָן֙** קָֽדָמ֣וֹהִי יְקוּמ֔וּן",
+        "transliteration": "yeShammeshunneh veRibbo **ribvan** qodamohi yequmun",
+        "englishLiteral": "ministered-to-him and-ten_thousand **ten_thousands** before-him stood",
+        "englishNatural": "ministered to him and ten-thousand **ten-thousands** before him stood"
+      }
+    }
+  ]
+}

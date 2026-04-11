@@ -1,0 +1,31 @@
+{
+  "key": "apo",
+  "language": "hebrew",
+  "root": "aph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אַפּוֹ",
+        "transliteration": "apo",
+        "englishLiteral": "nose-his",
+        "englishNatural": "his nose",
+        "root": "aph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְשָׁב מֵחֲרוֹן **אַפּוֹ** וְלֹא נֹאבֵד",
+        "transliteration": "veShav meCharon **apo** veLo noved",
+        "englishLiteral": "and-turn from-burning-of **nose-his** and-not we-will-perish",
+        "englishNatural": "and turn from the burning of **his nose** not and we will perish"
+      }
+    }
+  ]
+}

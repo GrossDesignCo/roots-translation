@@ -1,0 +1,31 @@
+{
+  "key": "ayinin",
+  "language": "aramaic",
+  "root": "ayin_eye",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "עַיְנִ֜ין",
+        "transliteration": "ayinin",
+        "englishLiteral": "eyes",
+        "englishNatural": "eyes",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קדמיה וַאֲל֙וּ **עַיְנִ֜ין** כְּעַיְנֵ֤י אֲנָשָׁא֙",
+        "transliteration": "qodameyh vaAlu **ayinin** keAynei anasha",
+        "englishLiteral": "before-it and-behold **eyes** like-eyes-of Mortal_Man (Enash)-the",
+        "englishNatural": "before it and behold **eyes** like the eyes of the Mortal-Man (Enash)"
+      }
+    }
+  ]
+}

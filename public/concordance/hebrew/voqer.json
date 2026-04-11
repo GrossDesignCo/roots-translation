@@ -1,0 +1,55 @@
+{
+  "key": "voqer",
+  "language": "hebrew",
+  "root": "boqer",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "בֹ֖קֶר",
+        "transliteration": "voqer",
+        "englishLiteral": "morning",
+        "englishNatural": "And morning",
+        "root": "boqer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֶ֥רֶב וַֽיְהִי **בֹ֖קֶר** י֥וֹם אֶחָֽד",
+        "transliteration": "erev vaYehi **voqer** yom echad",
+        "englishLiteral": "evening And-was **morning** Day one",
+        "englishNatural": "And evening was **And morning** day One"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "בֹ֖קֶר",
+        "transliteration": "voqer",
+        "englishLiteral": "morning",
+        "englishNatural": "And morning",
+        "root": "boqer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֶ֥רֶב וַֽיְהִי **בֹ֖קֶר** י֥וֹם שֵׁנִֽי׃",
+        "transliteration": "erev vaYehi **voqer** yom sheni",
+        "englishLiteral": "evening And-was **morning** Day second",
+        "englishNatural": "And evening was **And morning** day A second"
+      }
+    }
+  ]
+}

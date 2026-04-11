@@ -1,0 +1,33 @@
+{
+  "key": "yeshammeshunneh",
+  "language": "aramaic",
+  "root": "shemash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "יְשַׁמְּשׁוּנֵּ֔הּ",
+        "transliteration": "yeShammeshunneh",
+        "englishLiteral": "ministered-to-him",
+        "englishNatural": "ministered to him",
+        "root": "shemash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "pael"
+        }
+      },
+      "context": {
+        "hebrew": "אֶ֤לֶף אַלְפִין֙ **יְשַׁמְּשׁוּנֵּ֔הּ** וְרִבּ֥וֹ רִבְבָן֙",
+        "transliteration": "eleph alphin **yeShammeshunneh** veRibbo ribvan",
+        "englishLiteral": "thousand thousands **ministered-to-him** and-ten_thousand ten_thousands",
+        "englishNatural": "a thousand thousands **ministered to him** and ten-thousand ten-thousands"
+      }
+    }
+  ]
+}

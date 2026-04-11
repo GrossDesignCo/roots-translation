@@ -1,0 +1,33 @@
+{
+  "key": "nishchatah",
+  "language": "hebrew",
+  "root": "shachat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נִשְׁחָתָה",
+        "transliteration": "nishchatah",
+        "englishLiteral": "it-had-corrupted",
+        "englishNatural": "it had corrupted",
+        "root": "shachat",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ וְהִנֵּה **נִשְׁחָתָה** כִּי־ הִשְׁחִית",
+        "transliteration": "haAretz veHineh **nishchatah** ki- hishchit",
+        "englishLiteral": "the-land and-behold **it-had-corrupted** that- had-corrupted",
+        "englishNatural": "the land and behold **it had corrupted** that had corrupted"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "hayetah",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 20
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הָיְתָה",
+        "transliteration": "hayetah",
+        "englishLiteral": "was",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי הִוא **הָיְתָה** אֵם כָּל־",
+        "transliteration": "ki hi **hayetah** em kol-",
+        "englishLiteral": "that she **was** Mother all",
+        "englishNatural": "that she **was** Mother of all"
+      }
+    }
+  ]
+}

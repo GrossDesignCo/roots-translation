@@ -1,0 +1,31 @@
+{
+  "key": "kalah",
+  "language": "hebrew",
+  "root": "kalah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "כָּלָ֔ה",
+        "transliteration": "kalah",
+        "englishLiteral": "finishing",
+        "englishNatural": "finishing",
+        "root": "kalah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "מִזֶּ֑ה כְּשַׁלְּח֣וֹ **כָּלָ֔ה** גָּרֵ֛שׁ יְגָרֵ֥שׁ",
+        "transliteration": "mizeh keShalcho **kalah** garesh yegaresh",
+        "englishLiteral": "from-this as-sending_out-him **finishing** banishing he-will-banish",
+        "englishNatural": "from this as his sending-out **finishing** banishing he will banish"
+      }
+    }
+  ]
+}

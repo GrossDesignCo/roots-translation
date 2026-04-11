@@ -1,0 +1,31 @@
+{
+  "key": "sou",
+  "language": "greek",
+  "root": "su",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "σου",
+        "transliteration": "sou",
+        "englishLiteral": "of-you",
+        "englishNatural": "of yours",
+        "root": "su",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "τὰς χεῖράς **σου** καὶ ἄλλος",
+        "transliteration": "tas cheiras **sou** kai allos",
+        "englishLiteral": "the hands **of-you** and another",
+        "englishNatural": "those hands **of yours** and another"
+      }
+    }
+  ]
+}

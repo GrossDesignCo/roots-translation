@@ -1,0 +1,33 @@
+{
+  "key": "shmamta",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שָׁמַעְתָּ",
+        "transliteration": "shmamta",
+        "englishLiteral": "you-listened",
+        "englishNatural": "you listened",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אָמַר כִּי־ **שָׁמַעְתָּ** לְקוֹל אִשְׁתֶּךָ",
+        "transliteration": "amar ki- **shmamta** leQol ishtekha",
+        "englishLiteral": "he-said That **you-listened** to-voice woman-your",
+        "englishNatural": "he said That **you listened** to the voice of your woman"
+      }
+    }
+  ]
+}

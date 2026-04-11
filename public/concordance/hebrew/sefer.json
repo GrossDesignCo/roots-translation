@@ -1,0 +1,31 @@
+{
+  "key": "sefer",
+  "language": "hebrew",
+  "root": "sefer",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "סֵפֶר",
+        "transliteration": "sefer",
+        "englishLiteral": "book",
+        "englishNatural": "book",
+        "root": "sefer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֶה **סֵפֶר** תּוֹלְדֹת אָדָם",
+        "transliteration": "zeh **sefer** toledot Adam",
+        "englishLiteral": "This **book** birthings Earthling (Adam)",
+        "englishNatural": "This **book** Birthings of Earthling (Adam)"
+      }
+    }
+  ]
+}

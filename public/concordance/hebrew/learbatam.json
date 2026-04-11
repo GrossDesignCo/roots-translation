@@ -1,0 +1,55 @@
+{
+  "key": "learbatam",
+  "language": "hebrew",
+  "root": "arba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לְאַרְבַּעְתָּם",
+        "transliteration": "leArbatam",
+        "englishLiteral": "to-four-them",
+        "englishNatural": "to four of them",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וּפְנֵיהֶם וְכַנְפֵיהֶם **לְאַרְבַּעְתָּם**",
+        "transliteration": "uFeneihem veKhanfeihem **leArbatam**",
+        "englishLiteral": "and-faces-their and-wings-their **to-four-them**",
+        "englishNatural": "and their faces and their wings **to four of them**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לְאַרְבַּעְתָּם",
+        "transliteration": "leArbatam",
+        "englishLiteral": "to-four-of-them",
+        "englishNatural": "to four of them",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַיָּמִין **לְאַרְבַּעְתָּם** וּפְנֵי־ שׁוֹר",
+        "transliteration": "el- haYamin **leArbatam** uFeney- shor",
+        "englishLiteral": "to- the-right **to-four-of-them** and-faces-of- ox",
+        "englishNatural": "to the right **to four of them** and the face of an ox"
+      }
+    }
+  ]
+}

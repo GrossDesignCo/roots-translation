@@ -1,0 +1,127 @@
+{
+  "key": "laylah",
+  "language": "hebrew",
+  "root": "laylah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "לָ֑יְלָה",
+        "transliteration": "laylah",
+        "englishLiteral": "Night",
+        "englishNatural": "Night",
+        "root": "layil",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְלַחֹ֖שֶׁךְ קָ֣רָא **לָ֑יְלָה** וַֽיְהִי עֶ֥רֶב",
+        "transliteration": "veLaChoshekh qara **laylah** vaYehi erev",
+        "englishLiteral": "and-to-darkness called_out **Night** And-was evening",
+        "englishNatural": "to darkness and called-out **Night** was And evening"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "לָיְלָה",
+        "transliteration": "laylah",
+        "englishLiteral": "night",
+        "englishNatural": "nights",
+        "root": "laylah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹם וְאַרְבָּעִים **לָיְלָה**",
+        "transliteration": "yom veArbaim **laylah**",
+        "englishLiteral": "day and-forty **night**",
+        "englishNatural": "days and forty **nights**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 12,
+        "verse": 30
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לַ֗יְלָה",
+        "transliteration": "laylah",
+        "englishLiteral": "night",
+        "englishNatural": "night",
+        "root": "laylah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּ֨קָם פַּרְעֹ֜ה **לַ֗יְלָה** ה֤וּא וְכָל־",
+        "transliteration": "vaYaqam Paroh **laylah** hu veKhol-",
+        "englishLiteral": "And-stood_up Pharaoh **night** he and-all-",
+        "englishNatural": "stood-up And Pharaoh **night** he and all"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "לַיְלָה",
+        "transliteration": "laylah",
+        "englishLiteral": "night",
+        "englishNatural": "a night",
+        "root": "laylah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גִדַּלְתּוֹ שֶׁבִּן־ **לַיְלָה** הָיָה וּבִן־",
+        "transliteration": "giddalto shebin- **laylah** hayah uvin-",
+        "englishLiteral": "you-grew-it yet-son-of- **night** was and-son-of-",
+        "englishNatural": "and you grew it yet son of **a night** it was and son of"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "לַיְלָה",
+        "transliteration": "laylah",
+        "englishLiteral": "night",
+        "englishNatural": "a night",
+        "root": "laylah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיָה וּבִן־ **לַיְלָה** אָבָד",
+        "transliteration": "hayah uvin- **laylah** avad",
+        "englishLiteral": "was and-son-of- **night** perished",
+        "englishNatural": "it was and son of **a night** it perished"
+      }
+    }
+  ]
+}

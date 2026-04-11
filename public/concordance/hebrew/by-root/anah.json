@@ -1,0 +1,84 @@
+{
+  "root": "anah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 13
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וְעִנּוּ",
+        "transliteration": "veInu",
+        "englishLiteral": "and-they-will-afflict",
+        "englishNatural": "and they will afflict",
+        "root": "anah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶם וַעֲבָדוּם **וְעִנּוּ** אֹתָם אַרְבַּע",
+        "transliteration": "lahem vaAvadum **veInu** otam arba",
+        "englishLiteral": "to-them and-they-will-serve **and-they-will-afflict** ↳ them four",
+        "englishNatural": "to them and they will serve **and they will afflict** them four"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּעַן",
+        "transliteration": "vaYaan",
+        "englishLiteral": "And-answered",
+        "englishNatural": "answered",
+        "root": "anah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּעַן** מֹשֶׁה וַיֹּאמֶר",
+        "transliteration": "**vaYaan** Moshe vaYomer",
+        "englishLiteral": "**And-answered** Drawn_Out (Moses) and-said",
+        "englishNatural": "**answered** And Drawn-Out (Moses) and said"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיַּעֲנֵנִי",
+        "transliteration": "vaYaaneni",
+        "englishLiteral": "and-answered-me",
+        "englishNatural": "and he answered me",
+        "root": "anah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ יְהוָה **וַיַּעֲנֵנִי** מִבֶּטֶן שְׁאוֹל",
+        "transliteration": "el- YHWH **vaYaaneni** mibeten sheol",
+        "englishLiteral": "to- He_Who_Is (YHWH) **and-answered-me** from-belly-of Hades",
+        "englishNatural": "to He-Who-Is (YHWH) **and he answered me** from the belly of Hades"
+      }
+    }
+  ]
+}

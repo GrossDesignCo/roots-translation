@@ -1,0 +1,82 @@
+{
+  "root": "qalal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "לְקַלֵּל",
+        "transliteration": "leQalel",
+        "englishLiteral": "to-treat-lightly",
+        "englishNatural": "to treat-lightly",
+        "root": "qalal",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ אֹסִף **לְקַלֵּל** עוֹד אֶת־",
+        "transliteration": "lo- osif **leQalel** od et-",
+        "englishLiteral": "not- I-will-add **to-treat-lightly** again ↳",
+        "englishNatural": "not I will add **to treat-lightly** again ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 12,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וּמְקַלֶּלְךָ",
+        "transliteration": "uMeqalelkha",
+        "englishLiteral": "and-one-treating-you-lightly",
+        "englishNatural": "and the one treating you lightly",
+        "root": "qalal",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲבָרֲכָה מְבָרְכֶיךָ **וּמְקַלֶּלְךָ** אָאֹר וְנִבְרְכוּ",
+        "transliteration": "vaAvarakah meVarkhekha **uMeqalelkha** aor veNivrekhu",
+        "englishLiteral": "and-I-will-bless ones-blessing-you **and-one-treating-you-lightly** I-will-curse and-they-will-be-blessed",
+        "englishNatural": "And I will bless the ones blessing you **and the one treating you lightly** I will curse and they will be blessed"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "קָלָל",
+        "transliteration": "qalal",
+        "englishLiteral": "polished",
+        "englishNatural": "polished",
+        "root": "qalal",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כְּעֵין נְחֹשֶׁת **קָלָל**",
+        "transliteration": "keEin nechoshet **qalal**",
+        "englishLiteral": "like-eye-of bronze **polished**",
+        "englishNatural": "like an eye of bronze **polished**"
+      }
+    }
+  ]
+}

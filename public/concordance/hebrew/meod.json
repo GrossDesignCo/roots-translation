@@ -1,0 +1,103 @@
+{
+  "key": "meod",
+  "language": "hebrew",
+  "root": "meod",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 31
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "מְאֹ֑ד",
+        "transliteration": "meod",
+        "englishLiteral": "very",
+        "englishNatural": "very",
+        "root": "meod",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִנֵּ֥ה ט֖וֹב **מְאֹ֑ד** וַֽיְהִי עֶ֥רֶב",
+        "transliteration": "veHinneh tov **meod** vaYehi erev",
+        "englishLiteral": "And-behold good **very** And-was evening",
+        "englishNatural": "And behold good **very** was And evening"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "מְאֹד",
+        "transliteration": "meod",
+        "englishLiteral": "very_much",
+        "englishNatural": "very-much",
+        "root": "meod",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּחַר לְקַיִן **מְאֹד** וַיִּפְּלוּ פָנָיו",
+        "transliteration": "vayYichar leQayin **meod** vayYipelu panav",
+        "englishLiteral": "And-it-was_fuming_anger to-Acquired (Cain) **very_much** and-they-fell his-faces",
+        "englishNatural": "And it was fuming-anger to Acquired (Cain) **very-much** fell and his faces"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 1
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "מְאֹד",
+        "transliteration": "meod",
+        "englishLiteral": "exceedingly",
+        "englishNatural": "exceedingly",
+        "root": "meod",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "שְׂכָרְךָ הַרְבֵּה **מְאֹד**",
+        "transliteration": "sekharcha harbeh **meod**",
+        "englishLiteral": "reward-of-you to-multiply **exceedingly**",
+        "englishNatural": "your reward to multiply **exceedingly**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "מְאֹ֔ד",
+        "transliteration": "meod",
+        "englishLiteral": "very",
+        "englishNatural": "very",
+        "root": "meod",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה֙ גָּד֣וֹל **מְאֹ֔ד** בְּאֶ֖רֶץ מִצְרָ֑יִם",
+        "transliteration": "Moshe gadol **meod** beEretz Mitzrayim",
+        "englishLiteral": "Drawn_Out (Moses) great **very** in-land Double_Narrows (Egypt)",
+        "englishNatural": "Drawn-Out (Moses) great **very** in the land of Double-Narrows (Egypt)"
+      }
+    }
+  ]
+}

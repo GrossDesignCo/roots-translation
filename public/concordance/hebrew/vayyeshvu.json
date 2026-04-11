@@ -1,0 +1,33 @@
+{
+  "key": "vayyeshvu",
+  "language": "hebrew",
+  "root": "yashav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַיֵּשְׁבוּ",
+        "transliteration": "vayYeshvu",
+        "englishLiteral": "and-they-settled",
+        "englishNatural": "and they settled",
+        "root": "yashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאֶרֶץ שִׁנְעָר **וַיֵּשְׁבוּ** שָׁם",
+        "transliteration": "beEretz ShinAr **vayYeshvu** sham",
+        "englishLiteral": "in-land-of Tooth-of-Two (Shinar) **and-they-settled** there",
+        "englishNatural": "in the land of Tooth-of-Two (Shinar) **and they settled** there"
+      }
+    }
+  ]
+}

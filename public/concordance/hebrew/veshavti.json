@@ -1,0 +1,33 @@
+{
+  "key": "veshavti",
+  "language": "hebrew",
+  "root": "yashav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְשַׁבְתִּי",
+        "transliteration": "veShavti",
+        "englishLiteral": "and-I-will-sit",
+        "englishNatural": "and I will sit",
+        "root": "yashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְמֵי חַיַּי **וְשַׁבְתִּי** בְּבֵית יְהוָה",
+        "transliteration": "yemei chayai **veShavti** beBeit YHWH",
+        "englishLiteral": "days-of my-life **and-I-will-sit** in-house-of He_Who_Is (YHWH)",
+        "englishNatural": "the days of my life **and I will sit** in the house of He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

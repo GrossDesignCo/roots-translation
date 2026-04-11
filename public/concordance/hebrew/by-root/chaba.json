@@ -1,0 +1,58 @@
+{
+  "root": "chaba",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיִּתְחַבֵּא",
+        "transliteration": "vaYitchabe",
+        "englishLiteral": "and-hid",
+        "englishNatural": "hid",
+        "root": "chaba",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "לְרוּחַ הַיּוֹם **וַיִּתְחַבֵּא** הָאָדָם וְאִשְׁתּוֹ",
+        "transliteration": "leRuach haYom **vaYitchabe** haAdam ve'ishto",
+        "englishLiteral": "to-wind the-day **and-hid** the-Earthling (Adam) and-his-woman",
+        "englishNatural": "to the wind of the day **hid** and the Earthling (Adam) and his woman"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וָאֵחָבֵא",
+        "transliteration": "vaEchave",
+        "englishLiteral": "and-I-hid",
+        "englishNatural": "and I hid",
+        "root": "chaba",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "עֵירֹם אָנֹכִי **וָאֵחָבֵא**",
+        "transliteration": "arom anokhi **vaEchave**",
+        "englishLiteral": "naked I **and-I-hid**",
+        "englishNatural": "naked I am **and I hid**"
+      }
+    }
+  ]
+}

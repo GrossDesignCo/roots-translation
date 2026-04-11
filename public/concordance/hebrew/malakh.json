@@ -1,0 +1,31 @@
+{
+  "key": "malakh",
+  "language": "hebrew",
+  "root": "malakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "מַלְאַךְ",
+        "transliteration": "malakh",
+        "englishLiteral": "messenger-of",
+        "englishNatural": "And the Messenger of",
+        "root": "malakh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּרָא **מַלְאַךְ** יְהוָה אֵלָיו",
+        "transliteration": "vaYera **malakh** YHWH elav",
+        "englishLiteral": "And-was_seen **messenger-of** He_Who_Is (YHWH) to-him",
+        "englishNatural": "was-seen **And the Messenger of** He-Who-Is (YHWH) to him"
+      }
+    }
+  ]
+}

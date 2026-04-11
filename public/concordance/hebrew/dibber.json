@@ -1,0 +1,33 @@
+{
+  "key": "dibber",
+  "language": "hebrew",
+  "root": "dabar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "דִּבֶּר",
+        "transliteration": "dibber",
+        "englishLiteral": "he-spoke",
+        "englishNatural": "He spoke",
+        "root": "dabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "רוּחַ כַּאֲשֶׁר **דִּבֶּר** אֵלָי וַתַּעֲמִדֵנִי",
+        "transliteration": "ruach kaAsher **dibber** elai vataAmideni",
+        "englishLiteral": "wind as-which **he-spoke** to-me and-stood-me",
+        "englishNatural": "And wind as which **He spoke** to me and stood me"
+      }
+    }
+  ]
+}

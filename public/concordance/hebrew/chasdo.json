@@ -1,0 +1,31 @@
+{
+  "key": "chasdo",
+  "language": "hebrew",
+  "root": "chesed",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "חַסְדּוֹ",
+        "transliteration": "chasdo",
+        "englishLiteral": "his-steadfast_love",
+        "englishNatural": "his steadfast-love",
+        "root": "chesed",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גָבַר עָלֵינוּ **חַסְדּוֹ** וֶאֱמֶת־ יְהוָה",
+        "transliteration": "gavar aleinu **chasdo** veEmet- YHWH",
+        "englishLiteral": "is-great toward-us **his-steadfast_love** and-truth-of He_Who_Is (YHWH)",
+        "englishNatural": "great toward us **his steadfast-love** and truth of He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

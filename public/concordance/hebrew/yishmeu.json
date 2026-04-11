@@ -1,0 +1,33 @@
+{
+  "key": "yishmeu",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 1
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יִשְׁמְעוּ",
+        "transliteration": "yishmeU",
+        "englishLiteral": "will-hear",
+        "englishNatural": "and they will hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִי וְלֹא **יִשְׁמְעוּ** לְקֹלִי כִּי",
+        "transliteration": "li veLo **yishmeU** leQoli ki",
+        "englishLiteral": "to-me and-not **will-hear** to-voice-my that",
+        "englishNatural": "me not **and they will hear** my voice that"
+      }
+    }
+  ]
+}

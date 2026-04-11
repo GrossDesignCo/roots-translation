@@ -1,0 +1,31 @@
+{
+  "key": "korsavan",
+  "language": "aramaic",
+  "root": "korsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "כָרְסָוָן֙",
+        "transliteration": "korsavan",
+        "englishLiteral": "thrones",
+        "englishNatural": "thrones",
+        "root": "korsa",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַ֣ד דִּ֤י **כָרְסָוָן֙** רְמִ֔יו וְעַתִּ֥יק",
+        "transliteration": "ad di **korsavan** remiw veAttiq",
+        "englishLiteral": "until that **thrones** were-placed and-Ancient-of",
+        "englishNatural": "until that **thrones** were placed and the Ancient of"
+      }
+    }
+  ]
+}

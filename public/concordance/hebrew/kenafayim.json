@@ -1,0 +1,55 @@
+{
+  "key": "kenafayim",
+  "language": "hebrew",
+  "root": "kenaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "כְּנָפַיִם",
+        "transliteration": "kenafayim",
+        "englishLiteral": "wings",
+        "englishNatural": "wings",
+        "root": "kenaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לוֹ שֵׁשׁ **כְּנָפַיִם** לְאֶחָד בִּשְׁתַּיִם",
+        "transliteration": "lo shesh **kenafayim** leEchad biShtayim",
+        "englishLiteral": "to-him six **wings** to-one in-two",
+        "englishNatural": "him six **wings** to each one in two"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "כְּנָפַיִם",
+        "transliteration": "kenafayim",
+        "englishLiteral": "wings",
+        "englishNatural": "wings",
+        "root": "kenaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְאֶחָת וְאַרְבַּע **כְּנָפַיִם** לְאַחַת לָהֶם",
+        "transliteration": "leEchat veArba **kenafayim** leAchat lahem",
+        "englishLiteral": "to-one and-four **wings** to-one to-them",
+        "englishNatural": "to one and four **wings** to one to them"
+      }
+    }
+  ]
+}

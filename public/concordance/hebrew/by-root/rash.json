@@ -1,0 +1,30 @@
+{
+  "root": "rash",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "וָרָשׁ",
+        "transliteration": "vaRash",
+        "englishLiteral": "and-Poor",
+        "englishNatural": "and Poor",
+        "root": "rash",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "עָשִׁיר **וָרָשׁ** נִפְגָּשׁוּ זֶה",
+        "transliteration": "ashir **vaRash** niFgashu zeh",
+        "englishLiteral": "Rich **and-Poor** meet this",
+        "englishNatural": "Rich **and Poor** meet together"
+      }
+    }
+  ]
+}

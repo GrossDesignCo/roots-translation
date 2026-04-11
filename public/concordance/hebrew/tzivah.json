@@ -1,0 +1,33 @@
+{
+  "key": "tzivah",
+  "language": "hebrew",
+  "root": "tzavah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "צִוָּה",
+        "transliteration": "tzivah",
+        "englishLiteral": "he-commanded",
+        "englishNatural": "had commanded",
+        "root": "tzavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כֵן כַּאֲשֶׁר **צִוָּה** יְהוָה וַיַּשְׁלֵךְ",
+        "transliteration": "khen kaAsher **tzivah** YHWH vaYashlekh",
+        "englishLiteral": "so as-which **he-commanded** He_Who_Is (YHWH) and-threw",
+        "englishNatural": "so as which **had commanded** He-Who-Is (YHWH) threw"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "yachel",
+  "language": "hebrew",
+  "root": "yachal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "יַחֵל",
+        "transliteration": "yachel",
+        "englishLiteral": "Hope",
+        "englishNatural": "Hope",
+        "root": "yachal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**יַחֵל** יִשְׂרָאֵל אֶל־",
+        "transliteration": "**yachel** Yisrael el-",
+        "englishLiteral": "**Hope** Struggles_with_God (Israel) to-",
+        "englishNatural": "**Hope** Struggles-with-God (Israel) to"
+      }
+    }
+  ]
+}

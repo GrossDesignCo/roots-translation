@@ -1,0 +1,55 @@
+{
+  "key": "bayamim",
+  "language": "hebrew",
+  "root": "yom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 22
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בַּיַּמִּ֔ים",
+        "transliteration": "baYamim",
+        "englishLiteral": "in-seas",
+        "englishNatural": "in the seas",
+        "root": "yam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַמַּ֙יִם֙ **בַּיַּמִּ֔ים** וְהָע֖וֹף יִ֥רֶב",
+        "transliteration": "et- haMayim **baYamim** veHaOf yiRev",
+        "englishLiteral": "↳ the-waters **in-seas** And-the-flyer let-multiply",
+        "englishNatural": "↳ the waters **in the seas** And let the flyer multiply"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בַּיָּמִים",
+        "transliteration": "baYamim",
+        "englishLiteral": "in-days",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיוּ בָאָרֶץ **בַּיָּמִים** הָהֵם וְגַם",
+        "transliteration": "hayu baAretz **baYamim** hahem vegam",
+        "englishLiteral": "were in-land **in-days** the-those and-also",
+        "englishNatural": "were in the land **days** in those and also"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "achikha",
+  "language": "hebrew",
+  "root": "ach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אָחִיךָ",
+        "transliteration": "achikha",
+        "englishLiteral": "your-brother",
+        "englishNatural": "your brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵי הֶבֶל **אָחִיךָ** וַיֹּאמֶר לֹא",
+        "transliteration": "ay Hevel **achikha** vayYomer lo",
+        "englishLiteral": "Where Vapor (Abel) **your-brother** And-he-said Not",
+        "englishNatural": "Where Vapor (Abel) **your brother** And he said not"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "אָחִיךָ",
+        "transliteration": "achikha",
+        "englishLiteral": "your-brother",
+        "englishNatural": "your brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קוֹל דְּמֵי **אָחִיךָ** צֹעֲקִים אֵלַי",
+        "transliteration": "qol demey **achikha** tsoaqim elay",
+        "englishLiteral": "Voice-of blood-of **your-brother** crying_out to-me",
+        "englishNatural": "The voice of the blood of **your brother** is crying-out to me"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "אָחִיךָ",
+        "transliteration": "achikha",
+        "englishLiteral": "your-brother",
+        "englishNatural": "your brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ דְּמֵי **אָחִיךָ** מִיָּדֶךָ",
+        "transliteration": "et- demey **achikha** miYadekha",
+        "englishLiteral": "↳ blood-of **your-brother** from-your-hand",
+        "englishNatural": "↳ the blood of **your brother** from your hand"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "laalafim",
+  "language": "hebrew",
+  "root": "elef",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לָאֲלָפִים",
+        "transliteration": "laAlafim",
+        "englishLiteral": "to-thousands",
+        "englishNatural": "for thousands",
+        "root": "elef",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "נֹצֵר חֶסֶד **לָאֲלָפִים** נֹשֵׂא עָוֹן",
+        "transliteration": "notser chesed **laAlafim** nose avon",
+        "englishLiteral": "preserving steadfast_love **to-thousands** lifting_up twisting",
+        "englishNatural": "preserving steadfast-love **for thousands** lifting-up twisting"
+      }
+    }
+  ]
+}

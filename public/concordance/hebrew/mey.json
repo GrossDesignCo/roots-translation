@@ -1,0 +1,31 @@
+{
+  "key": "mey",
+  "language": "hebrew",
+  "root": "mayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "מֵי",
+        "transliteration": "mey",
+        "englishLiteral": "waters-of",
+        "englishNatural": "the waters of",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַתֵּבָה מִפְּנֵי **מֵי** הַמַּבּוּל",
+        "transliteration": "haTevah mipPeney **mey** haMabbul",
+        "englishLiteral": "the-ark from-faces-of **waters-of** the-flood",
+        "englishNatural": "the ark from the face of **the waters of** the flood"
+      }
+    }
+  ]
+}

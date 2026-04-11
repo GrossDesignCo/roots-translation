@@ -1,0 +1,31 @@
+{
+  "key": "veyonah",
+  "language": "hebrew",
+  "root": "yonah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "וְיוֹנָה",
+        "transliteration": "veYonah",
+        "englishLiteral": "And-Dove (Jonah)",
+        "englishNatural": "And Dove (Jonah)",
+        "root": "yonah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְהָקֵל מֵעֲלֵיהֶם **וְיוֹנָה** יָרַד אֶל־",
+        "transliteration": "leHaqel meAleihem **veYonah** yarad el-",
+        "englishLiteral": "to-lighten from-over-them **And-Dove (Jonah)** went_down to-",
+        "englishNatural": "to lighten it from over them **And Dove (Jonah)** had gone down into"
+      }
+    }
+  ]
+}

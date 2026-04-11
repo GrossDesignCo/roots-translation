@@ -1,0 +1,31 @@
+{
+  "key": "letanninim",
+  "language": "hebrew",
+  "root": "tannin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "לְתַנִּינִם",
+        "transliteration": "leTanninim",
+        "englishLiteral": "to-monsters",
+        "englishNatural": "to monsters",
+        "root": "tannin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַטֵּהוּ וַיִּהְיוּ **לְתַנִּינִם** וַיִּבְלַע מַטֵּה־",
+        "transliteration": "mattehu vaYihyu **leTanninim** vaYivla mateh-",
+        "englishLiteral": "branch-his and-they-were **to-monsters** and-swallowed branch-of-",
+        "englishNatural": "his branch and they were **to monsters** swallowed and the branch of"
+      }
+    }
+  ]
+}

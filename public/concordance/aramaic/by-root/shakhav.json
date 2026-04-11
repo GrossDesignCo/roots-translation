@@ -1,0 +1,30 @@
+{
+  "root": "shakhav",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 29
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מִשְׁכְּבָךְ",
+        "transliteration": "mishkavakh",
+        "englishLiteral": "bed-your",
+        "englishNatural": "your bed",
+        "root": "shakhav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רַעְיוֹנָךְ עַל **מִשְׁכְּבָךְ** סְלִקוּ מָה",
+        "transliteration": "rayonakh al **mishkavakh** sliqu mah",
+        "englishLiteral": "thoughts-your over **bed-your** they-came-up what",
+        "englishNatural": "your thoughts over **your bed** came up what"
+      }
+    }
+  ]
+}

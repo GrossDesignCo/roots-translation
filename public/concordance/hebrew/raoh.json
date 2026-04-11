@@ -1,0 +1,33 @@
+{
+  "key": "raoh",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "רָאֹה",
+        "transliteration": "raoh",
+        "englishLiteral": "seeing",
+        "englishNatural": "Seeing",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **רָאֹה** רָאִיתִי אֶת־",
+        "transliteration": "vaYomer YHWH **raoh** raiti et-",
+        "englishLiteral": "And-said He_Who_Is (YHWH) **seeing** I-see ↳",
+        "englishNatural": "said And He-Who-Is (YHWH) **Seeing** I have seen ↳"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "key": "vaychazzeq",
+  "language": "hebrew",
+  "root": "chazaq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 20
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְחַזֵּק",
+        "transliteration": "vaYchazzeq",
+        "englishLiteral": "And-intensified",
+        "englishNatural": "intensified",
+        "root": "chazaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחַזֵּק** יְהוָה אֶת־",
+        "transliteration": "**vaYchazzeq** YHWH et-",
+        "englishLiteral": "**And-intensified** He_Who_Is (YHWH) ↳",
+        "englishNatural": "**intensified** And He-Who-Is (YHWH) ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 27
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיְחַזֵּק",
+        "transliteration": "vaYchazzeq",
+        "englishLiteral": "And-intensified",
+        "englishNatural": "intensified",
+        "root": "chazaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחַזֵּק** יְהוָה אֶת־",
+        "transliteration": "**vaYchazzeq** YHWH et-",
+        "englishLiteral": "**And-intensified** He_Who_Is (YHWH) ↳",
+        "englishNatural": "**intensified** And He-Who-Is (YHWH) ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיְחַזֵּ֤ק",
+        "transliteration": "vayChazzeq",
+        "englishLiteral": "and-strengthened",
+        "englishNatural": "strengthened",
+        "root": "chazaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "לִפְנֵ֣י פַרְעֹ֑ה **וַיְחַזֵּ֤ק** יְהוָה֙ אֶת־",
+        "transliteration": "lifney Paroh **vayChazzeq** YHWH et-",
+        "englishLiteral": "to-faces-of Pharaoh **and-strengthened** He_Who_Is (YHWH) ↳-",
+        "englishNatural": "to the face of Pharaoh **strengthened** and He-Who-Is (YHWH) ↳-"
+      }
+    }
+  ]
+}

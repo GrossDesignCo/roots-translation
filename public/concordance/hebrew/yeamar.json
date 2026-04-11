@@ -1,0 +1,33 @@
+{
+  "key": "yeamar",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יֵאָמַר",
+        "transliteration": "yeamar",
+        "englishLiteral": "it-will-be-said",
+        "englishNatural": "it will be said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ כֵּן **יֵאָמַר** כְּנִמְרֹד גִּבּוֹר",
+        "transliteration": "al- ken **yeamar** keNimrod gibbor",
+        "englishLiteral": "over- so **it-will-be-said** like-Rebel (Nimrod) mighty_one",
+        "englishNatural": "moreover so **it will be said** Like Rebel (Nimrod) a mighty-one"
+      }
+    }
+  ]
+}

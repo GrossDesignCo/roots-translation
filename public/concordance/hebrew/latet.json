@@ -1,0 +1,84 @@
+{
+  "key": "latet",
+  "language": "hebrew",
+  "root": "natan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לָתֶת",
+        "transliteration": "latet",
+        "englishLiteral": "to-give",
+        "englishNatural": "to give",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאוּר כַּשְׂדִּים **לָתֶת** לְךָ אֶת־",
+        "transliteration": "meUr Kasdim **latet** lekha et-",
+        "englishLiteral": "from-Ur Chaldeans **to-give** to-you ↳",
+        "englishNatural": "from Ur of the Chaldeans **to give** to you ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "לָתֵ֥ת",
+        "transliteration": "laTet",
+        "englishLiteral": "to-give",
+        "englishNatural": "to give",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ עַמּ֔וֹ **לָתֵ֥ת** לָהֶ֖ם לָֽחֶם׃",
+        "transliteration": "et- ammo **laTet** lahem lechem",
+        "englishLiteral": "↳ people-his **to-give** to-them bread",
+        "englishNatural": "↳ his people **to give** to them bread"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "לָתֵת",
+        "transliteration": "latet",
+        "englishLiteral": "To-give",
+        "englishNatural": "To give",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct"
+        }
+      },
+      "context": {
+        "hebrew": "**לָתֵת** לַפְּתָאיִם עָרְמָה",
+        "transliteration": "**latet** lapetaim armah",
+        "englishLiteral": "**To-give** to-simple_men shrewdness",
+        "englishNatural": "**To give** to simple men shrewdness"
+      }
+    }
+  ]
+}

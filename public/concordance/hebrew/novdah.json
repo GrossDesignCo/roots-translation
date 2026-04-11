@@ -1,0 +1,33 @@
+{
+  "key": "novdah",
+  "language": "hebrew",
+  "root": "abad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "נֹאבְדָה",
+        "transliteration": "novdah",
+        "englishLiteral": "let-us-perish",
+        "englishNatural": "let us perish",
+        "root": "abad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ נָא **נֹאבְדָה** בְּנֶפֶשׁ הָאִישׁ",
+        "transliteration": "al- na **novdah** beNefesh haIsh",
+        "englishLiteral": "not- please **let-us-perish** in-throat-of the-man",
+        "englishNatural": "not please **let us perish** in the throat of the man"
+      }
+    }
+  ]
+}

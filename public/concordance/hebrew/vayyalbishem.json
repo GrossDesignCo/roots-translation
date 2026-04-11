@@ -1,0 +1,33 @@
+{
+  "key": "vayyalbishem",
+  "language": "hebrew",
+  "root": "labash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 21
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַיַּלְבִּשֵׁם׃",
+        "transliteration": "vayYaLbishem",
+        "englishLiteral": "and-he-clothed-them",
+        "englishNatural": "and clothed them",
+        "root": "labash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "כָּתְנוֹת עוֹר **וַיַּלְבִּשֵׁם׃**",
+        "transliteration": "kotnot or **vayYaLbishem**",
+        "englishLiteral": "tunics skin **and-he-clothed-them**",
+        "englishNatural": "tunics of skin **and clothed them**"
+      }
+    }
+  ]
+}

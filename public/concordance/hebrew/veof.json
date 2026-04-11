@@ -1,0 +1,31 @@
+{
+  "key": "veof",
+  "language": "hebrew",
+  "root": "uf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְעוֹף֙",
+        "transliteration": "veOf",
+        "englishLiteral": "And-flyer",
+        "englishNatural": "And let flyer",
+        "root": "uf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֶ֣פֶשׁ חַיָּ֑ה **וְעוֹף֙** יְעוֹפֵ֣ף עַל־",
+        "transliteration": "nephesh chayah **veOf** yeOfef al-",
+        "englishLiteral": "throat living **And-flyer** let-fly over",
+        "englishNatural": "throat living **And let flyer** fly over"
+      }
+    }
+  ]
+}

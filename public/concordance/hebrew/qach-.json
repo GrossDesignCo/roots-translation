@@ -1,0 +1,59 @@
+{
+  "key": "qach-",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 21
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "קַח־",
+        "transliteration": "qach-",
+        "englishLiteral": "take-",
+        "englishNatural": "take",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַתָּה **קַח־** לְךָ מִכָּל־",
+        "transliteration": "veAtah **qach-** lekha mikol-",
+        "englishLiteral": "And-you **take-** to-you from-all-",
+        "englishNatural": "And you **take** to yourself from all"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "קַח־",
+        "transliteration": "qach-",
+        "englishLiteral": "take-",
+        "englishNatural": "take",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַתָּה יְהוָה **קַח־** נָא אֶת־",
+        "transliteration": "veAttah YHWH **qach-** na et-",
+        "englishLiteral": "And-now He_Who_Is (YHWH) **take-** please ↳",
+        "englishNatural": "And now He-Who-Is (YHWH) **take** please ↳"
+      }
+    }
+  ]
+}

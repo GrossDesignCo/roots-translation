@@ -1,0 +1,33 @@
+{
+  "key": "vekhafarta",
+  "language": "hebrew",
+  "root": "kafar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וְכָפַרְתָּ",
+        "transliteration": "veKhafarta",
+        "englishLiteral": "and-you-shall-cover",
+        "englishNatural": "and you shall cover",
+        "root": "kafar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַתֵּבָה **וְכָפַרְתָּ** אֹתָהּ מִבַּיִת",
+        "transliteration": "et- haTevah **veKhafarta** otah miBayit",
+        "englishLiteral": "↳ the-ark **and-you-shall-cover** her from-house",
+        "englishNatural": "↳ the ark **and you shall cover** it from inside"
+      }
+    }
+  ]
+}

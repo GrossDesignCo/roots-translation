@@ -1,0 +1,31 @@
+{
+  "key": "uminhon",
+  "language": "aramaic",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 33
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וּמִנְהוֹן",
+        "transliteration": "uMinhon",
+        "englishLiteral": "and-from-them",
+        "englishNatural": "and from them",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "דִּי פַרְזֶל **וּמִנְהוֹן** דִּי חֲסַף",
+        "transliteration": "di parzel **uMinhon** di chasaf",
+        "englishLiteral": "which iron **and-from-them** which clay",
+        "englishNatural": "of iron **and from them** of clay"
+      }
+    }
+  ]
+}

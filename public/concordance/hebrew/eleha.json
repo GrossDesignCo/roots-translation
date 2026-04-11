@@ -1,0 +1,31 @@
+{
+  "key": "eleha",
+  "language": "hebrew",
+  "root": "el",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אֵלֶיהָ",
+        "transliteration": "eleha",
+        "englishLiteral": "to-her",
+        "englishNatural": "to her",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַגְּדוֹלָה וּקְרָא **אֵלֶיהָ** אֶת־ הַקְּרִיאָה",
+        "transliteration": "haGedolah uQera **eleha** et- haQeriah",
+        "englishLiteral": "the-great and-call_out **to-her** ↳ the-calling_out",
+        "englishNatural": "The Great and call-out **to her** ↳ the calling-out"
+      }
+    }
+  ]
+}

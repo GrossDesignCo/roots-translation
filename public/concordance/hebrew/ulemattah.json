@@ -1,0 +1,31 @@
+{
+  "key": "ulemattah",
+  "language": "hebrew",
+  "root": "mattah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 27
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וּלְמַטָּה",
+        "transliteration": "uleMattah",
+        "englishLiteral": "and-to-downward",
+        "englishNatural": "and downward",
+        "root": "mattah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִמַּרְאֵה מָתְנָיו **וּלְמַטָּה** רָאִיתִי כְּמַרְאֵה־",
+        "transliteration": "uMiMareeh matnav **uleMattah** raiti keMareeh-",
+        "englishLiteral": "and-from-appearance-of loins-his **and-to-downward** I-saw like-appearance-of-",
+        "englishNatural": "and from the appearance of his loins **and downward** I saw like an appearance of"
+      }
+    }
+  ]
+}

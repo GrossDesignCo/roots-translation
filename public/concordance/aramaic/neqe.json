@@ -1,0 +1,31 @@
+{
+  "key": "neqe",
+  "language": "aramaic",
+  "root": "neqe",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 15,
+      "word": {
+        "originalScript": "נְקֵ֔א",
+        "transliteration": "neqe",
+        "englishLiteral": "pure",
+        "englishNatural": "as pure",
+        "root": "neqe",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "רֵאשֵׁהּ֙ כַּעֲמַ֣ר **נְקֵ֔א** כָּרְסְיֵהּ֙ שְׁבִיבִ֣ין",
+        "transliteration": "reisheh kaAmar **neqe** korseyeh shevivin",
+        "englishLiteral": "head-his as-wool **pure** throne-his flames",
+        "englishNatural": "his head wool **as pure** his throne flames"
+      }
+    }
+  ]
+}

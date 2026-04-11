@@ -1,0 +1,31 @@
+{
+  "key": "kosi",
+  "language": "hebrew",
+  "root": "kos",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "כּוֹסִי",
+        "transliteration": "kosi",
+        "englishLiteral": "my-cup",
+        "englishNatural": "my cup",
+        "root": "kos",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַשֶּׁמֶן רֹאשִׁי **כּוֹסִי** רְוָיָה",
+        "transliteration": "baShemen roshi **kosi** revayah",
+        "englishLiteral": "with-oil my-head **my-cup** overflowing",
+        "englishNatural": "with oil my head **my cup** overflowing"
+      }
+    }
+  ]
+}

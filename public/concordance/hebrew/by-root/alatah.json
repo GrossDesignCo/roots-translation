@@ -1,0 +1,30 @@
+{
+  "root": "alatah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וַעֲלָטָה",
+        "transliteration": "vaAlatah",
+        "englishLiteral": "and-darkness",
+        "englishNatural": "and darkness",
+        "root": "alatah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשֶּׁמֶשׁ בָּאָה **וַעֲלָטָה** הָיָה וְהִנֵּה",
+        "transliteration": "haShemesh baah **vaAlatah** hayah veHineh",
+        "englishLiteral": "the-sun she-came **and-darkness** he-was and-behold",
+        "englishNatural": "And the sun come **and darkness** was and behold"
+      }
+    }
+  ]
+}

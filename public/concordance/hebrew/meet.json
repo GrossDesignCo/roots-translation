@@ -1,0 +1,55 @@
+{
+  "key": "meet",
+  "language": "hebrew",
+  "root": "et",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "מֵאֵ֣ת",
+        "transliteration": "meEt",
+        "englishLiteral": "from-↳",
+        "englishNatural": "from",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְיִשְׁאֲל֞וּ אִ֣ישׁ **מֵאֵ֣ת** רֵעֵ֗הוּ וְאִשָּׁה֙",
+        "transliteration": "veYishalu ish **meEt** reehu veIshah",
+        "englishLiteral": "and-let-ask man **from-↳** friend-his and-woman",
+        "englishNatural": "and let ask a man **from** his friend and a woman"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "מֵאֵ֣ת",
+        "transliteration": "meEt",
+        "englishLiteral": "from-↳",
+        "englishNatural": "from",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "רֵעֵ֗הוּ וְאִשָּׁה֙ **מֵאֵ֣ת** רְעוּתָ֔הּ כְּלֵי־",
+        "transliteration": "reehu veIshah **meEt** reutah keley-",
+        "englishLiteral": "friend-his and-woman **from-↳** friend-her vessels-of",
+        "englishNatural": "his friend and a woman **from** her friend vessels of"
+      }
+    }
+  ]
+}

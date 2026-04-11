@@ -1,0 +1,33 @@
+{
+  "key": "lamnatseach",
+  "language": "hebrew",
+  "root": "natsach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 0
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "לַמְנַצֵּ֥חַ",
+        "transliteration": "laMnatseach",
+        "englishLiteral": "to-the-one-who-endures",
+        "englishNatural": "To the one-who-endures",
+        "root": "natsach",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**לַמְנַצֵּ֥חַ** עַל־ הַגִּתִּ֑ית",
+        "transliteration": "**laMnatseach** al- haGittit",
+        "englishLiteral": "**to-the-one-who-endures** over- the-Gittith",
+        "englishNatural": "**To the one-who-endures** over the Gittith"
+      }
+    }
+  ]
+}

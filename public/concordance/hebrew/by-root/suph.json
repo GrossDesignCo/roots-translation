@@ -1,0 +1,30 @@
+{
+  "root": "suph",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "בַּסּוּף",
+        "transliteration": "baSuph",
+        "englishLiteral": "in-the-reeds",
+        "englishNatural": "in the reeds",
+        "root": "suph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיֶּלֶד וַתָּשֶׂם **בַּסּוּף** עַל־ שְׂפַת",
+        "transliteration": "haYeled vaTasem **baSuph** al- sefat",
+        "englishLiteral": "the-child and-set **in-the-reeds** over- lip-of",
+        "englishNatural": "the child and set it **in the reeds** over the lip of"
+      }
+    }
+  ]
+}

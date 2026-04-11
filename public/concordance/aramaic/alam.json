@@ -1,0 +1,31 @@
+{
+  "key": "alam",
+  "language": "aramaic",
+  "root": "alam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "עָלַם֙",
+        "transliteration": "alam",
+        "englishLiteral": "everlasting",
+        "englishNatural": "everlasting",
+        "root": "alam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁלְטָנֵ֞הּ שָׁלְטָ֤ן **עָלַם֙** דִּֽי־ לָ֣א",
+        "transliteration": "sholtaneh sholtan **alam** di- la",
+        "englishLiteral": "dominion-His dominion **everlasting** which- not",
+        "englishNatural": "His dominion is dominion **everlasting** which not"
+      }
+    }
+  ]
+}

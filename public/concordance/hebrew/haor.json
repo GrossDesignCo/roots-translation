@@ -1,0 +1,79 @@
+{
+  "key": "haor",
+  "language": "hebrew",
+  "root": "or",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הָא֖וֹר",
+        "transliteration": "haOr",
+        "englishLiteral": "the-light",
+        "englishNatural": "the light",
+        "root": "or",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֛ים אֶת־ **הָא֖וֹר** כִּי־ ט֑וֹב",
+        "transliteration": "Elohim et- **haOr** ki- tov",
+        "englishLiteral": "Gods ↳ **the-light** that- good",
+        "englishNatural": "And God ↳ **the light** that it was good"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הָא֖וֹר",
+        "transliteration": "haOr",
+        "englishLiteral": "the-light",
+        "englishNatural": "the light",
+        "root": "or",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֔ים בֵּ֥ין **הָא֖וֹר** וּבֵ֥ין הַחֹֽשֶׁךְ",
+        "transliteration": "Elohim beyn **haOr** uBeyn haChoshekh",
+        "englishLiteral": "Gods between **the-light** and-between the-darkness",
+        "englishNatural": "And God between **the light** and between the darkness"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הָא֖וֹר",
+        "transliteration": "haOr",
+        "englishLiteral": "the-light",
+        "englishNatural": "the light",
+        "root": "or",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וֽלֲהַבְדִּ֔יל בֵּ֥ין **הָא֖וֹר** וּבֵ֣ין הַחֹ֑שֶׁךְ",
+        "transliteration": "uLeHavdil beyn **haOr** uBeyn haHoshekh",
+        "englishLiteral": "and-to-separate between **the-light** and-between the-darkness",
+        "englishNatural": "and to separate between **the light** and between the darkness"
+      }
+    }
+  ]
+}

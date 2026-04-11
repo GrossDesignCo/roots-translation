@@ -1,0 +1,79 @@
+{
+  "key": "umalkhu",
+  "language": "aramaic",
+  "root": "malkhut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 39
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וּמַלְכוּ",
+        "transliteration": "uMalkhu",
+        "englishLiteral": "and-kingdom",
+        "englishNatural": "kingdom",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲרַע מִנָּךְ **וּמַלְכוּ** תְלִיתָאָה אָחֳרִי",
+        "transliteration": "ara minnakh **uMalkhu** telitaah ochori",
+        "englishLiteral": "lower from-you **and-kingdom** third another",
+        "englishNatural": "lower than you **kingdom** third and another"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וּמַלְכוּ",
+        "transliteration": "uMalkhu",
+        "englishLiteral": "and-kingdom",
+        "englishNatural": "kingdom",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּמַלְכוּ** רְבִיעָיָה תֶּהֱוֵא",
+        "transliteration": "**uMalkhu** reviayah teheve",
+        "englishLiteral": "**and-kingdom** fourth will-be",
+        "englishNatural": "**kingdom** And a fourth will be"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וּמַלְכ֔וּ",
+        "transliteration": "uMalkhu",
+        "englishLiteral": "and-kingdom",
+        "englishNatural": "and kingdom",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁלְטָן֙ וִיקָ֣ר **וּמַלְכ֔וּ** וְכֹ֣ל עַֽמְמַיָּ֗א",
+        "transliteration": "sholtan viqar **uMalkhu** veKhol ammaya",
+        "englishLiteral": "dominion and-glory **and-kingdom** and-all peoples-the",
+        "englishNatural": "dominion and glory **and kingdom** and all the peoples"
+      }
+    }
+  ]
+}

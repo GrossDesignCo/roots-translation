@@ -1,0 +1,31 @@
+{
+  "key": "aqev",
+  "language": "hebrew",
+  "root": "aqev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "עָקֵב",
+        "transliteration": "aqev",
+        "englishLiteral": "heel",
+        "englishNatural": "heel",
+        "root": "aqev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַתָּה תְּשׁוּפֶנּוּ **עָקֵב**",
+        "transliteration": "veAtah teshufenu **aqev**",
+        "englishLiteral": "and-you you-will-bruise-his **heel**",
+        "englishNatural": "and you will bruise his **heel**"
+      }
+    }
+  ]
+}

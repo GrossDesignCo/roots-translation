@@ -1,0 +1,31 @@
+{
+  "key": "min-haadamah",
+  "language": "hebrew",
+  "root": "adamah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "מִן־הָאֲדָמָה",
+        "transliteration": "min-haAdamah",
+        "englishLiteral": "from-the-earth",
+        "englishNatural": "from the earth",
+        "root": "adamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהִים **מִן־הָאֲדָמָה** כָּל־ עֵץ",
+        "transliteration": "YHWH Elohim **min-haAdamah** kol- etz",
+        "englishLiteral": "He_Who_Is (YHWH) Gods **from-the-earth** all- tree",
+        "englishNatural": "And He-Who-Is (YHWH) God **from the earth** every tree"
+      }
+    }
+  ]
+}

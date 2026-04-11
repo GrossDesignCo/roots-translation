@@ -1,0 +1,103 @@
+{
+  "key": "ara",
+  "language": "aramaic",
+  "root": "ara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 29,
+      "word": {
+        "originalScript": "אַרְעָא",
+        "transliteration": "ara",
+        "englishLiteral": "land-the",
+        "englishNatural": "the land",
+        "root": "ara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמְלָת כָּל **אַרְעָא**",
+        "transliteration": "uMelat kol **ara**",
+        "englishLiteral": "and-filled all **land-the**",
+        "englishNatural": "and filled all **the land**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 39
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אֲרַע",
+        "transliteration": "ara",
+        "englishLiteral": "lower",
+        "englishNatural": "lower",
+        "root": "ara_lower",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מַלְכוּ אָחֳרִי **אֲרַע** מִנָּךְ וּמַלְכוּ",
+        "transliteration": "malkhu ochori **ara** minnakh uMalkhu",
+        "englishLiteral": "kingdom another **lower** from-you and-kingdom",
+        "englishNatural": "kingdom another **lower** than you kingdom"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 39
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "אַרְעָא",
+        "transliteration": "ara",
+        "englishLiteral": "land-the",
+        "englishNatural": "the land",
+        "root": "ara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תִשְׁלַט בְּכָל **אַרְעָא**",
+        "transliteration": "tishlat beKhol **ara**",
+        "englishLiteral": "will-rule in-all **land-the**",
+        "englishNatural": "will rule over all **the land**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "אַרְעָ֗א",
+        "transliteration": "ara",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "ara",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּנְטִ֣ילַת מִן־ **אַרְעָ֗א** וְעַל־ רַגְלַ֙יִן֙",
+        "transliteration": "uNetilat min- **ara** veAl- raglayyin",
+        "englishLiteral": "and-lifted-up from- **the-land** and-on- feet",
+        "englishNatural": "and it was lifted-up from **the land** and on feet"
+      }
+    }
+  ]
+}

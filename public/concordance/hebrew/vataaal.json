@@ -1,0 +1,33 @@
+{
+  "key": "vataaal",
+  "language": "hebrew",
+  "root": "alah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וַתַּעַל",
+        "transliteration": "vataaal",
+        "englishLiteral": "and-you-brought_up",
+        "englishNatural": "and you brought-up",
+        "root": "alah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "בַעֲדִי לְעוֹלָם **וַתַּעַל** מִשַּׁחַת חַיַּי",
+        "transliteration": "baadi leolam **vataaal** mishachat chayai",
+        "englishLiteral": "behind-me to-the_age **and-you-brought_up** from-corruption life-my",
+        "englishNatural": "around me to the-age **and you brought-up** from corruption my life"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "root": "qatan",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "הַקָּטֹן֙",
+        "transliteration": "haQaton",
+        "englishLiteral": "the-small",
+        "englishNatural": "the small",
+        "root": "qatan",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הַמָּא֤וֹר **הַקָּטֹן֙** לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה",
+        "transliteration": "veEt- haMaor **haQaton** leMemShelet haLaylah",
+        "englishLiteral": "And-↳ the-light_source **the-small** for-the-ruling-of the-night",
+        "englishNatural": "And the light-source **the small** for the ruling of the night"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "קְטַנָּם",
+        "transliteration": "qetanam",
+        "englishLiteral": "small-their",
+        "englishNatural": "their small",
+        "root": "qatan",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מִגְּדוֹלָם וְעַד־ **קְטַנָּם**",
+        "transliteration": "miggedolam veAd- **qetanam**",
+        "englishLiteral": "from-great-their and-unto- **small-their**",
+        "englishNatural": "from their great and unto **their small**"
+      }
+    }
+  ]
+}

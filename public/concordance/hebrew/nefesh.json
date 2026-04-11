@@ -1,0 +1,79 @@
+{
+  "key": "nefesh",
+  "language": "hebrew",
+  "root": "nephesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 5
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "נֶפֶשׁ",
+        "transliteration": "nefesh",
+        "englishLiteral": "soul-of",
+        "englishNatural": "the soul of",
+        "root": "nephesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶדְרֹשׁ אֶת־ **נֶפֶשׁ** הָאָדָם",
+        "transliteration": "edrosh et- **nefesh** haAdam",
+        "englishLiteral": "I-will-require ↳ **soul-of** the-Earthling (Adam)",
+        "englishNatural": "I will require ↳ **the soul of** the Earthling (Adam)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "נֶפֶשׁ",
+        "transliteration": "nefesh",
+        "englishLiteral": "wind-of",
+        "englishNatural": "the wind of",
+        "root": "nephesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵת כָּל־ **נֶפֶשׁ** הַחַיָּה אֲשֶׁר",
+        "transliteration": "veEt kol- **nefesh** haChayah asher",
+        "englishLiteral": "and-↳ all- **wind-of** the-living_being which",
+        "englishNatural": "and all **the wind of** the living-being which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 12
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "נֶפֶשׁ",
+        "transliteration": "nefesh",
+        "englishLiteral": "wind-of",
+        "englishNatural": "the wind of",
+        "root": "nephesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבֵין כָּל־ **נֶפֶשׁ** חַיָּה אֲשֶׁר",
+        "transliteration": "uveyn kol- **nefesh** chayah asher",
+        "englishLiteral": "and-between all- **wind-of** living_being which",
+        "englishNatural": "and between all **the wind of** the living-being which"
+      }
+    }
+  ]
+}

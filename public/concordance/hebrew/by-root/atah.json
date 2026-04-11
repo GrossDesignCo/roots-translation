@@ -1,0 +1,606 @@
+{
+  "root": "atah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אָתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "you are",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי עֵירֹם **אָתָּה** הֲמִן־ הָעֵץ",
+        "transliteration": "ki arom **atah** haMin- haEtz",
+        "englishLiteral": "that naked **you** Is_it_from- the-tree",
+        "englishNatural": "that naked **you are** Is it from the tree"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "are you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "זֹּאת אָרוּר **אַתָּה** מִכֹּל בְּהֵמָה",
+        "transliteration": "zot arur **atah** mikol behemah",
+        "englishLiteral": "this cursed **you** from-all beast",
+        "englishNatural": "this cursed **are you** from all beast"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וְאַתָּה",
+        "transliteration": "veAtah",
+        "englishLiteral": "and-you",
+        "englishNatural": "and you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יְשׁוּפְךָ רֹאשׁ **וְאַתָּה** תְּשׁוּפֶנּוּ עָקֵב",
+        "transliteration": "yeshufkha rosh **veAtah** teshufenu aqev",
+        "englishLiteral": "he-will-bruise-your head **and-you** you-will-bruise-his heel",
+        "englishNatural": "will bruise your head **and you** will bruise his heel"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ עָפָר **אַתָּה** וְאֶל־ עָפָר",
+        "transliteration": "ki- afar **atah** veEl- afar",
+        "englishLiteral": "that dust **you** and-to dust",
+        "englishNatural": "that dust are **you** and to dust"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וְעַתָּה",
+        "transliteration": "veAtah",
+        "englishLiteral": "and-now",
+        "englishNatural": "and now",
+        "root": "atah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "טוֹב וָרָע **וְעַתָּה** פֶּן־ יִשְׁלַח",
+        "transliteration": "tov vaRa **veAtah** pen- yishLach",
+        "englishLiteral": "good and-bad **and-now** or-else he-will-send",
+        "englishNatural": "good and bad **and now** or else he will send-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וְאַתָּה",
+        "transliteration": "veAtah",
+        "englishLiteral": "and-you",
+        "englishNatural": "and you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵלֶיךָ תְּשׁוּקָתוֹ **וְאַתָּה** תִּמְשָׁל־ בּוֹ",
+        "transliteration": "veElekha teshukato **veAtah** timshal- bo",
+        "englishLiteral": "and-to-you its-fixation **and-you** you-will-rule- over-it",
+        "englishNatural": "and to you is its fixation **and you** will rule over it"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְעַתָּה",
+        "transliteration": "veAttah",
+        "englishLiteral": "And-now",
+        "englishNatural": "And now",
+        "root": "atah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**וְעַתָּה** אָרוּר אַתָּה",
+        "transliteration": "**veAttah** arur attah",
+        "englishLiteral": "**And-now** cursed you",
+        "englishNatural": "**And now** cursed are you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "attah",
+        "englishLiteral": "you",
+        "englishNatural": "are you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַתָּה אָרוּר **אַתָּה** מִן־ הָאֲדָמָה",
+        "transliteration": "veAttah arur **attah** min- haAdamah",
+        "englishLiteral": "And-now cursed **you** from- the-earth",
+        "englishNatural": "And now cursed **are you** from the earth"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 18
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַתֵּבָה **אַתָּה** וּבָנֶיךָ וְאִשְׁתְּךָ",
+        "transliteration": "el- haTevah **atah** uVanekha veIshtekha",
+        "englishLiteral": "to- the-ark **you** and-sons-your and-woman-your",
+        "englishNatural": "to the ark **you** and your sons and your woman"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 21
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאַתָּה",
+        "transliteration": "veAtah",
+        "englishLiteral": "And-you",
+        "englishNatural": "And you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאַתָּה** קַח־ לְךָ",
+        "transliteration": "**veAtah** qach- lekha",
+        "englishLiteral": "**And-you** take- to-you",
+        "englishNatural": "**And you** take to yourself"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאַתָּה",
+        "transliteration": "veAtah",
+        "englishLiteral": "And-you",
+        "englishNatural": "And you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאַתָּה** תָּבוֹא אֶל־",
+        "transliteration": "**veAtah** tavo el-",
+        "englishLiteral": "**And-you** you-will-come to-",
+        "englishNatural": "**And you** will go to"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמָּקוֹם אֲשֶׁר **אַתָּה** עוֹמֵד עָלָיו",
+        "transliteration": "haMaqom asher **atah** omed alav",
+        "englishLiteral": "the-place which **you** standing over-it",
+        "englishNatural": "the place which **you** standing over it"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "now",
+        "englishNatural": "now",
+        "root": "atah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הֵן־ רַבִּים **עַתָּה** עַם הָאָרֶץ",
+        "transliteration": "hen- rabbim **atah** am haAretz",
+        "englishLiteral": "behold- many **now** people-of the-land",
+        "englishNatural": "Behold many **now** the people of the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "now",
+        "englishNatural": "Now",
+        "root": "atah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ מֹשֶׁה **עַתָּה** תִרְאֶה אֲשֶׁר",
+        "transliteration": "el- Moshe **atah** tireh asher",
+        "englishLiteral": "to- Drawn_Out (Moses) **now** you-will-see which",
+        "englishNatural": "to Drawn-Out (Moses) **Now** you will see which"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "You",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**אַתָּה** תְדַבֵּר אֵת",
+        "transliteration": "**atah** tedaber et",
+        "englishLiteral": "**you** will-speak ↳",
+        "englishNatural": "**You** will speak ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה גַּם־ **אַתָּה** תִּתֵּן בְּיָדֵנוּ",
+        "transliteration": "Moshe gam- **atah** titten beYadenu",
+        "englishLiteral": "Drawn_Out (Moses) also- **you** will-give in-hand-our",
+        "englishNatural": "And Drawn-Out (Moses) Also **you** will give in our hand"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אַתָּה֙",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "לֵאמֹ֗ר צֵ֤א **אַתָּה֙** וְכָל־ הָעָ֣ם",
+        "transliteration": "lemor tse **atah** veKhol- haAm",
+        "englishLiteral": "to-say Go_out **you** and-all- the-people",
+        "englishNatural": "saying Go-out **you** and all the people"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וָבָךְ",
+        "transliteration": "vaVeKha",
+        "englishLiteral": "and-against-you",
+        "englishNatural": "and against you",
+        "root": "atah",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "דִבַּרְנוּ בַיהוָה **וָבָךְ** הִתְפַּלֵּל אֶל",
+        "transliteration": "dibarnu vaYHWH **vaVeKha** hitpalel el",
+        "englishLiteral": "we-have-spoken against-He_Who_Is (YHWH) **and-against-you** pray to",
+        "englishNatural": "we have spoken against He-Who-Is (YHWH) **and against you** pray to"
+      }
+    },
+    {
+      "location": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לְךָ",
+        "transliteration": "lekha",
+        "englishLiteral": "for-yourself",
+        "englishNatural": "for yourself",
+        "root": "atah",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁה עֲשֵׂה **לְךָ** שָׂרָף וְשִׂים",
+        "transliteration": "Moshe aseh **lekha** saraph veSim",
+        "englishLiteral": "Drawn_Out (Moses) Make **for-yourself** incinerating_one and-place",
+        "englishNatural": "Drawn-Out (Moses) Make **for yourself** an incinerating-one and place"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "רָע כִּי־ **אַתָּה** עִמָּדִי שִׁבְטְךָ",
+        "transliteration": "ra ki- **atah** imadi shivtekha",
+        "englishLiteral": "bad that- **you** with-me your-rod",
+        "englishNatural": "bad that **you** are with me your rod"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מֵעַתָּה",
+        "transliteration": "meAtah",
+        "englishLiteral": "from-now",
+        "englishNatural": "from now",
+        "root": "atah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ יְהוָה **מֵעַתָּה** וְעַד־ עוֹלָם",
+        "transliteration": "el- YHWH **meAtah** veAd- olam",
+        "englishLiteral": "to- He_Who_Is (YHWH) **from-now** and-unto- the_age",
+        "englishNatural": "to He-Who-Is (YHWH) **from now** and unto the-age"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "אָתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "are you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "מִזֶּה עַם **אָתָּה**",
+        "transliteration": "mizeh am **atah**",
+        "englishLiteral": "from-this people **you**",
+        "englishNatural": "from this people **are you**"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "נָקִיא כִּי־ **אַתָּה** יְהוָה כַּאֲשֶׁר",
+        "transliteration": "naqi ki- **atah** YHWH kaAsher",
+        "englishLiteral": "innocent that- **you** He_Who_Is (YHWH) as-which",
+        "englishNatural": "innocent that **you** He-Who-Is (YHWH) as which"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "you are",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יָדַעְתִּי כִּי־ **אַתָּה** אֵל־ חַנּוּן",
+        "transliteration": "yadati ki- **atah** el- chanun",
+        "englishLiteral": "I-knew that- **you** God- gracious",
+        "englishNatural": "I knew that **you are** God gracious"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "You",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **אַתָּה** חַסְתָּ עַל־",
+        "transliteration": "vaYomer YHWH **atah** chasta al-",
+        "englishLiteral": "And-said He_Who_Is (YHWH) **you** pitied over-",
+        "englishNatural": "said And He-Who-Is (YHWH) **You** pitied over"
+      }
+    }
+  ]
+}

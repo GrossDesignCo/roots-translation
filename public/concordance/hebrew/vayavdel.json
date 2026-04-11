@@ -1,0 +1,59 @@
+{
+  "key": "vayavdel",
+  "language": "hebrew",
+  "root": "badal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיַּבְדֵּ֣ל",
+        "transliteration": "vaYavdel",
+        "englishLiteral": "And-separated",
+        "englishNatural": "separated",
+        "root": "badal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ ט֑וֹב **וַיַּבְדֵּ֣ל** אֱלֹהִ֔ים בֵּ֥ין",
+        "transliteration": "ki- tov **vaYavdel** Elohim beyn",
+        "englishLiteral": "that- good **And-separated** Gods between",
+        "englishNatural": "that it was good **separated** And God between"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַיַּבְדֵּ֗ל",
+        "transliteration": "vaYavdel",
+        "englishLiteral": "and-separated",
+        "englishNatural": "and separated",
+        "root": "badal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הָרָקִ֖יעַ **וַיַּבְדֵּ֗ל** בֵּ֤ין הַמַּ֙יִם֙",
+        "transliteration": "et- haRaqia **vaYavdel** beyn haMayim",
+        "englishLiteral": "↳ the-hammering_out **and-separated** between the-waters",
+        "englishNatural": "↳ the hammering-out **and separated** between the waters"
+      }
+    }
+  ]
+}

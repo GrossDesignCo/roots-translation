@@ -1,0 +1,31 @@
+{
+  "key": "keelohim",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "כֵּאלֹהִים",
+        "transliteration": "keElohim",
+        "englishLiteral": "as-Gods",
+        "englishNatural": "as God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֵינֵיכֶם וִהְיִיתֶם **כֵּאלֹהִים** יֹדְעֵי טוֹב",
+        "transliteration": "eyneychen viHyiytem **keElohim** yodey tov",
+        "englishLiteral": "your-eyes and-you_all-will-be **as-Gods** knowing good",
+        "englishNatural": "and your eyes and you-all will be **as God** knowing good"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "veish",
+  "language": "hebrew",
+  "root": "ish",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וְאִישׁ",
+        "transliteration": "veIsh",
+        "englishLiteral": "And-man",
+        "englishNatural": "And man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאִישׁ** אֶל־ עֵבֶר",
+        "transliteration": "**veIsh** el- ever",
+        "englishLiteral": "**And-man** to- side-of",
+        "englishNatural": "**And man** to the side of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "root": "damam",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְדֹמַמְתִּי",
+        "transliteration": "veDomamti",
+        "englishLiteral": "and-I-have-silenced",
+        "englishNatural": "and I have silenced",
+        "root": "damam",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא שִׁוִּיתִי **וְדֹמַמְתִּי** נַפְשִׁי כְּגָמוּל",
+        "transliteration": "lo shiviti **veDomamti** nafshi keGamul",
+        "englishLiteral": "not I-have-balanced **and-I-have-silenced** my-throat as-weaned-one",
+        "englishNatural": "not I have balanced **and I have silenced** my throat as a weaned-one"
+      }
+    }
+  ]
+}

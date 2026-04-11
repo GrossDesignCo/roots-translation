@@ -1,0 +1,33 @@
+{
+  "key": "zakharti",
+  "language": "hebrew",
+  "root": "zakhar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "זָכַרְתִּי",
+        "transliteration": "zakharti",
+        "englishLiteral": "I-remembered",
+        "englishNatural": "I remembered",
+        "root": "zakhar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ יְהוָה **זָכַרְתִּי** וַתָּבוֹא אֵלֶיךָ",
+        "transliteration": "et- YHWH **zakharti** vatavo elekha",
+        "englishLiteral": "↳ He_Who_Is (YHWH) **I-remembered** and-came to-you",
+        "englishNatural": "↳ He-Who-Is (YHWH) **I remembered** and came to you"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "livroach",
+  "language": "hebrew",
+  "root": "barach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לִבְרֹחַ",
+        "transliteration": "livroach",
+        "englishLiteral": "to-flee",
+        "englishNatural": "to flee to",
+        "root": "barach",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּקָם יוֹנָה **לִבְרֹחַ** תַּרְשִׁישָׁה מִלִּפְנֵי",
+        "transliteration": "vaYaqam Yonah **livroach** Tarshishah milLiFney",
+        "englishLiteral": "And-stood_up Dove (Jonah) **to-flee** golden_stone (Tarshish) from-faces-of",
+        "englishNatural": "stood-up And Dove (Jonah) **to flee to** golden-stone (Tarshish) from the face of"
+      }
+    }
+  ]
+}

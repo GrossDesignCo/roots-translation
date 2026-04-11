@@ -1,0 +1,54 @@
+{
+  "root": "et_time",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "בְּעִתּוֹ",
+        "transliteration": "beIto",
+        "englishLiteral": "in-its-season",
+        "englishNatural": "in its season",
+        "root": "et_time",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פִּרְיוֹ יִתֵּן **בְּעִתּוֹ** וְעָלֵהוּ לֹא",
+        "transliteration": "piryo yiten **beIto** veAlehu lo",
+        "englishLiteral": "its-fruit it-gives **in-its-season** and-its-leaf not",
+        "englishNatural": "its fruit gives **in its season** and its leaf not"
+      }
+    },
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 30
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "עֵת",
+        "transliteration": "et",
+        "englishLiteral": "time",
+        "englishNatural": "time",
+        "root": "et_time",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְפָנָיו בְּכָל־ **עֵת**",
+        "transliteration": "lefanav beKhol- **et**",
+        "englishLiteral": "to-faces-his in-all- **time**",
+        "englishNatural": "to his faces in all **time**"
+      }
+    }
+  ]
+}

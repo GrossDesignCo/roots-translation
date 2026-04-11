@@ -1,0 +1,31 @@
+{
+  "key": "umichutz",
+  "language": "hebrew",
+  "root": "chutz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 14
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "וּמִחוּץ",
+        "transliteration": "uMichutz",
+        "englishLiteral": "and-from-outside",
+        "englishNatural": "and from outside",
+        "root": "chutz",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֹתָהּ מִבַּיִת **וּמִחוּץ** בַּכֹּפֶר",
+        "transliteration": "otah miBayit **uMichutz** baKofer",
+        "englishLiteral": "her from-house **and-from-outside** with-the-covering",
+        "englishNatural": "it from inside **and from outside** with the covering"
+      }
+    }
+  ]
+}

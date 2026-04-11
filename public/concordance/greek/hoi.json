@@ -1,0 +1,31 @@
+{
+  "key": "hoi",
+  "language": "greek",
+  "root": "ho",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "οἱ",
+        "transliteration": "hoi",
+        "englishLiteral": "the",
+        "englishNatural": "the",
+        "root": "ho",
+        "morphology": {
+          "type": "article"
+        }
+      },
+      "context": {
+        "hebrew": "φρόνιμοι ὡς **οἱ** ὄφεις καὶ",
+        "transliteration": "phronimoi hos **hoi** opheis kai",
+        "englishLiteral": "shrewd as **the** snakes and",
+        "englishNatural": "shrewd as **the** snakes and"
+      }
+    }
+  ]
+}

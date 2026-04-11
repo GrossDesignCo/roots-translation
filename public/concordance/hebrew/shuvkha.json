@@ -1,0 +1,31 @@
+{
+  "key": "shuvkha",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שׁוּבְךָ",
+        "transliteration": "shuvkha",
+        "englishLiteral": "your-return",
+        "englishNatural": "your return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "לֶחֶם עַד **שׁוּבְךָ** אֶל־ הָאֲדָמָה",
+        "transliteration": "lechem ad **shuvkha** el- haAdamah",
+        "englishLiteral": "bread until **your-return** to the-earth",
+        "englishNatural": "bread until **your return** to the earth"
+      }
+    }
+  ]
+}

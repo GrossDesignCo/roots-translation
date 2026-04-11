@@ -1,0 +1,78 @@
+{
+  "root": "kurios",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 18,
+      "word": {
+        "originalScript": "κύριε",
+        "transliteration": "kurie",
+        "englishLiteral": "lord",
+        "englishNatural": "Lord",
+        "root": "kurios",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "αὐτῷ ναί **κύριε** σὺ οἶδας",
+        "transliteration": "autō nai **kurie** su oidas",
+        "englishLiteral": "to-him Yes **lord** you know",
+        "englishNatural": "to him Yes **Lord** you know"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "κύριε",
+        "transliteration": "kurie",
+        "englishLiteral": "lord",
+        "englishNatural": "Lord",
+        "root": "kurios",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "αὐτῷ ναί **κύριε** σὺ οἶδας",
+        "transliteration": "autō nai **kurie** su oidas",
+        "englishLiteral": "to-him Yes **lord** you know",
+        "englishNatural": "to him Yes **Lord** you know"
+      }
+    },
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "κύριε",
+        "transliteration": "kurie",
+        "englishLiteral": "lord",
+        "englishNatural": "Lord",
+        "root": "kurios",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "λέγει αὐτῷ **κύριε** πάντα σὺ",
+        "transliteration": "legei autō **kurie** panta su",
+        "englishLiteral": "he-says to-him **lord** all you",
+        "englishNatural": "he says to him **Lord** all you"
+      }
+    }
+  ]
+}

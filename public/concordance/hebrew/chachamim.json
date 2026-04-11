@@ -1,0 +1,31 @@
+{
+  "key": "chachamim",
+  "language": "hebrew",
+  "root": "chakam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "חֲכָמִים",
+        "transliteration": "chachamim",
+        "englishLiteral": "wise-men",
+        "englishNatural": "wise men",
+        "root": "chakam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמְלִיצָה דִּבְרֵי **חֲכָמִים** וְחִידֹתָם",
+        "transliteration": "uMelitzah divre **chachamim** veChidotam",
+        "englishLiteral": "and-interpretation words-of **wise-men** and-sharp_sayings-their",
+        "englishNatural": "and the interpretation words of **wise men** and their sharp-sayings"
+      }
+    }
+  ]
+}

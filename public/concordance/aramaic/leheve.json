@@ -1,0 +1,85 @@
+{
+  "key": "leheve",
+  "language": "aramaic",
+  "root": "hava",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 29
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "לֶהֱוֵא",
+        "transliteration": "leheve",
+        "englishLiteral": "to-be",
+        "englishNatural": "will be",
+        "root": "hava",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "מָה דִּי **לֶהֱוֵא** אַחֲרֵי דְנָה",
+        "transliteration": "mah di **leheve** acharey denah",
+        "englishLiteral": "what which **to-be** after this",
+        "englishNatural": "what which **will be** after this"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 29
+      },
+      "wordIndex": 16,
+      "word": {
+        "originalScript": "לֶהֱוֵא",
+        "transliteration": "leheve",
+        "englishLiteral": "to-be",
+        "englishNatural": "will be",
+        "root": "hava",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "מָה דִּי **לֶהֱוֵא**",
+        "transliteration": "mah di **leheve**",
+        "englishLiteral": "what which **to-be**",
+        "englishNatural": "what which **will be**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 24,
+      "word": {
+        "originalScript": "לֶהֱוֵא",
+        "transliteration": "leheve",
+        "englishLiteral": "to-be",
+        "englishNatural": "will be",
+        "root": "hava",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "מָה דִּי **לֶהֱוֵא** אַחֲרֵי דְנָה",
+        "transliteration": "mah di **leheve** acharei denah",
+        "englishLiteral": "what which **to-be** after this",
+        "englishNatural": "what which **will be** after this"
+      }
+    }
+  ]
+}

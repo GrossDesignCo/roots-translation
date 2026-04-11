@@ -1,0 +1,55 @@
+{
+  "key": "hayeled",
+  "language": "hebrew",
+  "root": "yeled",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הַיֶּלֶד",
+        "transliteration": "haYeled",
+        "englishLiteral": "the-child",
+        "englishNatural": "the child",
+        "root": "yeled",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּהּ אֶת־ **הַיֶּלֶד** וַתָּשֶׂם בַּסּוּף",
+        "transliteration": "bah et- **haYeled** vaTasem baSuph",
+        "englishLiteral": "in-it ↳ **the-child** and-set in-the-reeds",
+        "englishNatural": "in it ↳ **the child** and set it in the reeds"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הַיֶּלֶד",
+        "transliteration": "haYeled",
+        "englishLiteral": "the-child",
+        "englishNatural": "And the child",
+        "root": "yeled",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּגְדַּל **הַיֶּלֶד** וַתְּבִאֵהוּ לְבַת־",
+        "transliteration": "vaYigdal **haYeled** vatTevihu leBat-",
+        "englishLiteral": "And-grew **the-child** and-brought-him to-daughter-of",
+        "englishNatural": "grew **And the child** and she brought him to the daughter of"
+      }
+    }
+  ]
+}

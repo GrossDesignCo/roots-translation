@@ -1,0 +1,31 @@
+{
+  "key": "pishon",
+  "language": "hebrew",
+  "root": "Pishon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "פִּישׁוֹן",
+        "transliteration": "Pishon",
+        "englishLiteral": "Spreading (Pishon)",
+        "englishNatural": "Spreading (Pishon)",
+        "root": "Pishon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם הָאֶחָד **פִּישׁוֹן** הוּא הַסֹּבֵב",
+        "transliteration": "shem haEchad **Pishon** hu haSovev",
+        "englishLiteral": "Name the-one **Spreading (Pishon)** he the-going_around",
+        "englishNatural": "The name of one **Spreading (Pishon)** it goes-around"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "veki",
+  "language": "hebrew",
+  "root": "ki",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְכִי",
+        "transliteration": "veKi",
+        "englishLiteral": "and-that",
+        "englishNatural": "and that",
+        "root": "ki",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "הָעֵץ לְמַאֲכָל **וְכִי** תַאֲוָה־ הוּא",
+        "transliteration": "haEtz leMaakhal **veKi** taavah- hu",
+        "englishLiteral": "the-tree for-food **and-that** desirable- it",
+        "englishNatural": "the tree for food **and that** desirable it was"
+      }
+    }
+  ]
+}

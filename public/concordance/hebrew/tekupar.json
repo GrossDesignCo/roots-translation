@@ -1,0 +1,33 @@
+{
+  "key": "tekupar",
+  "language": "hebrew",
+  "root": "kafar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "תְּכֻפָּר",
+        "transliteration": "teKupar",
+        "englishLiteral": "will-be-covered",
+        "englishNatural": "will be covered",
+        "root": "kafar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "עֲוֹנֶךָ וְחַטָּאתְךָ **תְּכֻפָּר**",
+        "transliteration": "avonekha veChatatkha **teKupar**",
+        "englishLiteral": "your-twisting and-your-sin **will-be-covered**",
+        "englishNatural": "your twisting and your sin **will be covered**"
+      }
+    }
+  ]
+}

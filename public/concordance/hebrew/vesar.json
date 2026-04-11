@@ -1,0 +1,59 @@
+{
+  "key": "vesar",
+  "language": "hebrew",
+  "root": "sur",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְסָ֥ר",
+        "transliteration": "veSar",
+        "englishLiteral": "and-turning_aside",
+        "englishNatural": "and turning-aside",
+        "root": "sur",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וִירֵ֥א אֱלֹהִ֖ים **וְסָ֥ר** מֵרָֽע",
+        "transliteration": "viYere Elohim **veSar** meRa",
+        "englishLiteral": "and-fearing Gods **and-turning_aside** from-bad",
+        "englishNatural": "and fearing God **and turning-aside** from bad"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וְסָר",
+        "transliteration": "veSar",
+        "englishLiteral": "and-turned_aside",
+        "englishNatural": "and turned-aside",
+        "root": "sur",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ שְׂפָתֶיךָ **וְסָר** עֲוֹנֶךָ וְחַטָּאתְךָ",
+        "transliteration": "al- sfatekha **veSar** avonekha veChatatkha",
+        "englishLiteral": "over- your-lips **and-turned_aside** your-twisting and-your-sin",
+        "englishNatural": "over your lips **and turned-aside** your twisting and your sin"
+      }
+    }
+  ]
+}

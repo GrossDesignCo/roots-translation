@@ -1,0 +1,31 @@
+{
+  "key": "vaharon",
+  "language": "hebrew",
+  "root": "aharon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "וְאַהֲרֹן",
+        "transliteration": "vAharon",
+        "englishLiteral": "and-Light_Bringer (Aaron)",
+        "englishNatural": "and Light-Bringer (Aaron)",
+        "root": "aharon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּבֹא מֹשֶׁה **וְאַהֲרֹן** אֶל־ פַּרְעֹה",
+        "transliteration": "vaYavo Moshe **vAharon** el- Paroh",
+        "englishLiteral": "And-came Drawn_Out (Moses) **and-Light_Bringer (Aaron)** to- Pharaoh",
+        "englishNatural": "came And Drawn-Out (Moses) **and Light-Bringer (Aaron)** to Pharaoh"
+      }
+    }
+  ]
+}

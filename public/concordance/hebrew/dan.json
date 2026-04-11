@@ -1,0 +1,33 @@
+{
+  "key": "dan",
+  "language": "hebrew",
+  "root": "din",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 14
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "דָּן",
+        "transliteration": "dan",
+        "englishLiteral": "judging",
+        "englishNatural": "judge",
+        "root": "din",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר יַעֲבֹדוּ **דָּן** אָנֹכִי וְאַחֲרֵי־",
+        "transliteration": "asher yaavodu **dan** anoki veAcharey-",
+        "englishLiteral": "which they-will-serve **judging** I and-after-",
+        "englishNatural": "which they will serve **judge** I will and after"
+      }
+    }
+  ]
+}

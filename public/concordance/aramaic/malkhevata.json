@@ -1,0 +1,31 @@
+{
+  "key": "malkhevata",
+  "language": "aramaic",
+  "root": "malkhut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 21,
+      "word": {
+        "originalScript": "מַלְכְוָתָא",
+        "transliteration": "malkhevata",
+        "englishLiteral": "kingdoms-the",
+        "englishNatural": "the kingdoms",
+        "root": "malkhut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ אִלֵּין **מַלְכְוָתָא** וְהִיא תְּקוּם",
+        "transliteration": "kol- illen **malkhevata** veHi teqom",
+        "englishLiteral": "all- these **kingdoms-the** and-she will-stand_up",
+        "englishNatural": "all these **the kingdoms** and it will stand-up"
+      }
+    }
+  ]
+}

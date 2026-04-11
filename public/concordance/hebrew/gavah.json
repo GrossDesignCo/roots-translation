@@ -1,0 +1,33 @@
+{
+  "key": "gavah",
+  "language": "hebrew",
+  "root": "gavah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "גָבַהּ",
+        "transliteration": "gavah",
+        "englishLiteral": "is-tall",
+        "englishNatural": "is tall",
+        "root": "gavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה לֹא־ **גָבַהּ** לִבִּי וְלֹא־",
+        "transliteration": "YHWH lo- **gavah** libi velo-",
+        "englishLiteral": "He_Who_Is (YHWH) not- **is-tall** my-heart and-not-",
+        "englishNatural": "He-Who-Is (YHWH) not **is tall** my heart not"
+      }
+    }
+  ]
+}

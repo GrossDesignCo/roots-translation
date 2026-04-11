@@ -1,0 +1,55 @@
+{
+  "key": "kenegdo",
+  "language": "hebrew",
+  "root": "neged",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 18
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "כְּנֶגְדּוֹ׃",
+        "transliteration": "keNegdo",
+        "englishLiteral": "as-his_opposite",
+        "englishNatural": "as his opposite",
+        "root": "neged",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לוֹ עֵזֶר **כְּנֶגְדּוֹ׃**",
+        "transliteration": "lo ezer **keNegdo**",
+        "englishLiteral": "to-him help **as-his_opposite**",
+        "englishNatural": "to him a help **as his opposite**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "כְּנֶגְדּוֹ",
+        "transliteration": "keNegdo",
+        "englishLiteral": "as-his_opposite",
+        "englishNatural": "as his opposite",
+        "root": "neged",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "מָצָא עֵזֶר **כְּנֶגְדּוֹ**",
+        "transliteration": "matza ezer **keNegdo**",
+        "englishLiteral": "was-found help **as-his_opposite**",
+        "englishNatural": "was found help **as his opposite**"
+      }
+    }
+  ]
+}

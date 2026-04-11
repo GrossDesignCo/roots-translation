@@ -1,0 +1,31 @@
+{
+  "key": "menuchah",
+  "language": "hebrew",
+  "root": "nuach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "מְנוּחָ֔ה",
+        "transliteration": "menuchah",
+        "englishLiteral": "rest",
+        "englishNatural": "rest",
+        "root": "nuach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֶ֔ם וּמְצֶ֣אןָ **מְנוּחָ֔ה** אִשָּׁ֖ה בֵּ֣ית",
+        "transliteration": "lakhem uMetzena **menuchah** ishah beit",
+        "englishLiteral": "to-you and-find **rest** woman house-of",
+        "englishNatural": "to you and find **rest** woman the house of"
+      }
+    }
+  ]
+}

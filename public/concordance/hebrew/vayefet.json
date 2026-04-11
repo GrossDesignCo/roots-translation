@@ -1,0 +1,31 @@
+{
+  "key": "vayefet",
+  "language": "hebrew",
+  "root": "yafet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וָיֶפֶת",
+        "transliteration": "vaYefet",
+        "englishLiteral": "and-Spacious (Japheth)",
+        "englishNatural": "and Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֵׁם־ וְחָם **וָיֶפֶת** בְּנֵי־ נֹחַ",
+        "transliteration": "veShem- veCham **vaYefet** beney- Noach",
+        "englishLiteral": "and-Name (Shem)- and-Hot (Ham) **and-Spacious (Japheth)** sons-of- Rest (Noah)",
+        "englishNatural": "and Name (Shem) and Hot (Ham) **and Spacious (Japheth)** the sons of Rest (Noah)"
+      }
+    }
+  ]
+}

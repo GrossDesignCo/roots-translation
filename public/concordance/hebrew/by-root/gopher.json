@@ -1,0 +1,30 @@
+{
+  "root": "gopher",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 14
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "גֹפֶר",
+        "transliteration": "gopher",
+        "englishLiteral": "gopher",
+        "englishNatural": "gopher",
+        "root": "gopher",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תֵּבַת עֲצֵי־ **גֹפֶר** קִנִּים תַּעֲשֶׂה",
+        "transliteration": "tevat atsey- **gopher** qinnim taAseh",
+        "englishLiteral": "ark-of trees-of- **gopher** nests you-shall-make",
+        "englishNatural": "an ark of trees of **gopher** nests you shall make"
+      }
+    }
+  ]
+}

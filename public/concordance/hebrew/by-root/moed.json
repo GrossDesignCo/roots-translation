@@ -1,0 +1,30 @@
+{
+  "root": "moed",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וּלְמוֹעֲדִ֖ים",
+        "transliteration": "uLeMoedim",
+        "englishLiteral": "and-for-appointed_times",
+        "englishNatural": "and for appointed-times",
+        "root": "moed",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָי֤וּ לְאֹתֹ֔ת **וּלְמוֹעֲדִ֖ים** וּלְיָמִ֣ים וְשָׁנִֽים",
+        "transliteration": "veHayu leOtot **uLeMoedim** uLeYamim veShanim",
+        "englishLiteral": "And-they-will-be for-signs **and-for-appointed_times** and-for-days and-years",
+        "englishNatural": "And they will be for signs **and for appointed-times** and for days and years"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "yekhasseh",
+  "language": "hebrew",
+  "root": "kasah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יְכַסֶּה",
+        "transliteration": "yeKhasseh",
+        "englishLiteral": "he-covers",
+        "englishNatural": "he covers",
+        "root": "kasah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "לְאֶחָד בִּשְׁתַּיִם **יְכַסֶּה** פָּנָיו וּבִשְׁתַּיִם",
+        "transliteration": "leEchad biShtayim **yeKhasseh** panav uViShtayim",
+        "englishLiteral": "to-one in-two **he-covers** his-faces and-in-two",
+        "englishNatural": "to each one in two **he covers** his faces and in two"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "יְכַסֶּה",
+        "transliteration": "yeKhasseh",
+        "englishLiteral": "he-covers",
+        "englishNatural": "he covers",
+        "root": "kasah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "פָּנָיו וּבִשְׁתַּיִם **יְכַסֶּה** רַגְלָיו וּבִשְׁתַּיִם",
+        "transliteration": "panav uViShtayim **yeKhasseh** raglav uViShtayim",
+        "englishLiteral": "his-faces and-in-two **he-covers** his-feet and-in-two",
+        "englishNatural": "his faces and in two **he covers** his feet and in two"
+      }
+    }
+  ]
+}

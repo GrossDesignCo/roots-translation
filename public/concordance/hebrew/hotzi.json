@@ -1,0 +1,33 @@
+{
+  "key": "hotzi",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 18
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הוֹצִיא",
+        "transliteration": "hotzi",
+        "englishLiteral": "he-brought-out",
+        "englishNatural": "brought out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "מֶלֶךְ שָׁלֵם **הוֹצִיא** לֶחֶם וָיָיִן",
+        "transliteration": "melekh Shalem **hotzi** lechem vaYayin",
+        "englishLiteral": "king-of Peace (Salem) **he-brought-out** bread and-wine",
+        "englishNatural": "king of Peace (Salem) **brought out** bread and wine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "ugav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 21
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וְעוּגָב",
+        "transliteration": "veUgav",
+        "englishLiteral": "and-flute",
+        "englishNatural": "and flute",
+        "root": "ugav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תֹּפֵשׂ כִּנּוֹר **וְעוּגָב**",
+        "transliteration": "tofes kinnor **veUgav**",
+        "englishLiteral": "handling lyre **and-flute**",
+        "englishNatural": "handling lyre **and flute**"
+      }
+    }
+  ]
+}

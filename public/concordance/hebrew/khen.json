@@ -1,0 +1,103 @@
+{
+  "key": "khen",
+  "language": "hebrew",
+  "root": "ken",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 14
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "כֵן",
+        "transliteration": "khen",
+        "englishLiteral": "so",
+        "englishNatural": "so",
+        "root": "ken",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אָנֹכִי וְאַחֲרֵי־ **כֵן** יֵצְאוּ בִּרְכֻשׁ",
+        "transliteration": "anoki veAcharey- **khen** yetzeu birkhush",
+        "englishLiteral": "I and-after- **so** they-will-come-out with-substance",
+        "englishNatural": "I will and after **so** they will come out substance"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "כֵן",
+        "transliteration": "khen",
+        "englishLiteral": "so",
+        "englishNatural": "so",
+        "root": "ken",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְעֹה וַיַּעֲשׂוּ **כֵן** כַּאֲשֶׁר צִוָּה",
+        "transliteration": "Paroh vaYaasu **khen** kaAsher tzivah",
+        "englishLiteral": "Pharaoh and-they-did **so** as-which he-commanded",
+        "englishNatural": "Pharaoh and they did **so** as which had commanded"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 7,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "כֵּן",
+        "transliteration": "khen",
+        "englishLiteral": "so",
+        "englishNatural": "so",
+        "root": "ken",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "מִצְרַיִם בְּלַהֲטֵיהֶם **כֵּן**",
+        "transliteration": "Mitzrayim beLahateihem **khen**",
+        "englishLiteral": "Double_Narrows (Egypt) in-bright_flashes-their **so**",
+        "englishNatural": "Double-Narrows (Egypt) in their bright-flashes **so**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "כֵן",
+        "transliteration": "khen",
+        "englishLiteral": "so",
+        "englishNatural": "so",
+        "root": "ken",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא **כֵן** הָרְשָׁעִים כִּי",
+        "transliteration": "lo **khen** haRshaim ki",
+        "englishLiteral": "Not **so** the-wicked that",
+        "englishNatural": "Not **so** the wicked that"
+      }
+    }
+  ]
+}

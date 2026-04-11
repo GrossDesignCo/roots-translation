@@ -1,0 +1,30 @@
+{
+  "root": "tohu",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "תֹ֙הוּ֙",
+        "transliteration": "tohu",
+        "englishLiteral": "waste",
+        "englishNatural": "waste",
+        "root": "tohu",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָאָ֗רֶץ הָיְתָ֥ה **תֹ֙הוּ֙** וָבֹ֔הוּ וְחֹ֖שֶׁךְ",
+        "transliteration": "veHaAretz haytah **tohu** vaVohu veChoshekh",
+        "englishLiteral": "And-the-land was **waste** and-void And-darkness",
+        "englishNatural": "And the land was **waste** and void And darkness"
+      }
+    }
+  ]
+}

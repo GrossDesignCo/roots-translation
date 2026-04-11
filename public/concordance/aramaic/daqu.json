@@ -1,0 +1,33 @@
+{
+  "key": "daqu",
+  "language": "aramaic",
+  "root": "daq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "דָּקוּ",
+        "transliteration": "daqu",
+        "englishLiteral": "they-were-crushed",
+        "englishNatural": "they were crushed",
+        "root": "daq",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּאדַיִן **דָּקוּ** כַחֲדָה פַּרְזְלָא",
+        "transliteration": "beEdayin **daqu** kaChada parzela",
+        "englishLiteral": "in-then **they-were-crushed** as-one iron-the",
+        "englishNatural": "Then **they were crushed** as one the iron"
+      }
+    }
+  ]
+}

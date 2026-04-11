@@ -1,0 +1,31 @@
+{
+  "root": "oiso",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      },
+      "wordIndex": 25,
+      "word": {
+        "originalScript": "οἴσει",
+        "transliteration": "oisei",
+        "englishLiteral": "will-carry",
+        "englishNatural": "will carry",
+        "root": "oiso",
+        "morphology": {
+          "type": "verb",
+          "tense": "future"
+        }
+      },
+      "context": {
+        "hebrew": "ζώσει καὶ **οἴσει** ὅπου οὐ",
+        "transliteration": "zōsei kai **oisei** hopou ou",
+        "englishLiteral": "will-gird and **will-carry** where not",
+        "englishNatural": "will gird and **will carry** where not"
+      }
+    }
+  ]
+}

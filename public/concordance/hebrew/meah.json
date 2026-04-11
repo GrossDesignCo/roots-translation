@@ -1,0 +1,31 @@
+{
+  "key": "meah",
+  "language": "hebrew",
+  "root": "meah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "מֵאָה",
+        "transliteration": "meah",
+        "englishLiteral": "hundred",
+        "englishNatural": "a hundred",
+        "root": "meah",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיוּ יָמָיו **מֵאָה** וְעֶשְׂרִים שָׁנָה",
+        "transliteration": "veHayu yamav **meah** veEsrim shanah",
+        "englishLiteral": "and-they-will-be his-days **hundred** and-twenty year",
+        "englishNatural": "will be and his days **a hundred** and twenty years"
+      }
+    }
+  ]
+}

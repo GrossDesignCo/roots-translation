@@ -1,0 +1,33 @@
+{
+  "key": "vaera",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 6,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וָאֵרָא",
+        "transliteration": "vaEra",
+        "englishLiteral": "And-I-was_seen",
+        "englishNatural": "And I was-seen",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "**וָאֵרָא** אֶל־ אַבְרָהָם",
+        "transliteration": "**vaEra** el- Avraham",
+        "englishLiteral": "**And-I-was_seen** to- Exalted_Father (Abraham)",
+        "englishNatural": "**And I was-seen** to Exalted-Father (Abraham)"
+      }
+    }
+  ]
+}

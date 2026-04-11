@@ -1,0 +1,31 @@
+{
+  "key": "tzaddiq",
+  "language": "hebrew",
+  "root": "tzaddiq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "צַדִּיק",
+        "transliteration": "tzaddiq",
+        "englishLiteral": "righteous",
+        "englishNatural": "righteous",
+        "root": "tzaddiq",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ אִישׁ **צַדִּיק** תָּמִים הָיָה",
+        "transliteration": "noach ish **tzaddiq** tamim hayah",
+        "englishLiteral": "Rest (Noah) man **righteous** wholesome he-was",
+        "englishNatural": "Rest (Noah) a man **righteous** wholesome he was"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "pri",
+  "language": "hebrew",
+  "root": "pri",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "פְּרִ֞י",
+        "transliteration": "pri",
+        "englishLiteral": "fruit",
+        "englishNatural": "fruit",
+        "root": "pri",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֶ֔רַע עֵ֣ץ **פְּרִ֞י** עֹ֤שֶׂה פְּרִי֙",
+        "transliteration": "zera etz **pri** oseh pri",
+        "englishLiteral": "seed tree **fruit** making fruit",
+        "englishNatural": "seed tree **fruit** making fruit"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "פְּרִי֙",
+        "transliteration": "pri",
+        "englishLiteral": "fruit",
+        "englishNatural": "fruit",
+        "root": "pri",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פְּרִ֞י עֹ֤שֶׂה **פְּרִי֙** לְמִינ֔וֹ אֲשֶׁ֥ר",
+        "transliteration": "pri oseh **pri** leMino asher",
+        "englishLiteral": "fruit making **fruit** to-its-kind which",
+        "englishNatural": "fruit making **fruit** after its kind which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "פְּרִ֞י",
+        "transliteration": "pri",
+        "englishLiteral": "fruit",
+        "englishNatural": "fruit",
+        "root": "pri",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעֵ֧ץ עֹֽשֶׂה **פְּרִ֞י** אֲשֶׁ֤ר זַרְעוֹ־ב֖וֹ",
+        "transliteration": "veEtz oseh **pri** asher zaro-bo",
+        "englishLiteral": "and-tree making **fruit** which its-seed-in-it",
+        "englishNatural": "and tree making **fruit** which has its seed in it"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "habedolach",
+  "language": "hebrew",
+  "root": "bedolach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הַבְּדֹלַח",
+        "transliteration": "haBedolach",
+        "englishLiteral": "the-bedolach",
+        "englishNatural": "the bedolach",
+        "root": "bedolach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "טוֹב שָׁם **הַבְּדֹלַח** וְאֶבֶן הַשֹּׁהַם׃",
+        "transliteration": "tov sham **haBedolach** veEven haShoham",
+        "englishLiteral": "good there **the-bedolach** and-stone the-onyx",
+        "englishNatural": "good there is **the bedolach** and the stone of onyx"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "qodamohi",
+  "language": "aramaic",
+  "root": "qodam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "קֳדָמ֔וֹהִי",
+        "transliteration": "qodamohi",
+        "englishLiteral": "before-him",
+        "englishNatural": "before him",
+        "root": "qodam",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְנָפֵק֙ מִן־ **קֳדָמ֔וֹהִי** אֶ֤לֶף אַלְפִין֙",
+        "transliteration": "veNafeq min- **qodamohi** eleph alphin",
+        "englishLiteral": "and-coming-out from- **before-him** thousand thousands",
+        "englishNatural": "and coming out from **before him** a thousand thousands"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 10
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "קָֽדָמ֣וֹהִי",
+        "transliteration": "qodamohi",
+        "englishLiteral": "before-him",
+        "englishNatural": "before him",
+        "root": "qodam",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְרִבּ֥וֹ רִבְבָן֙ **קָֽדָמ֣וֹהִי** יְקוּמ֔וּן דִּינָ֥א",
+        "transliteration": "veRibbo ribvan **qodamohi** yequmun dina",
+        "englishLiteral": "and-ten_thousand ten_thousands **before-him** stood judge-the",
+        "englishNatural": "and ten-thousand ten-thousands **before him** stood the judge"
+      }
+    }
+  ]
+}

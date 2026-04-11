@@ -1,0 +1,55 @@
+{
+  "key": "vehu",
+  "language": "hebrew",
+  "root": "hu",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְהוּא",
+        "transliteration": "veHu",
+        "englishLiteral": "and-he",
+        "englishNatural": "and he",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אִישֵׁךְ תְּשׁוּקָתֵךְ **וְהוּא** יִמְשָׁל בָּךְ",
+        "transliteration": "ishekh teshuqatek **veHu** yimshal bakh",
+        "englishLiteral": "man-your fixation-your **and-he** he-will_rule in-you",
+        "englishNatural": "your man your fixation **and he** will rule in you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 14,
+        "verse": 18
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְהוּא",
+        "transliteration": "veHu",
+        "englishLiteral": "and-he",
+        "englishNatural": "and he",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "לֶחֶם וָיָיִן **וְהוּא** כֹהֵן לְאֵל",
+        "transliteration": "lechem vaYayin **veHu** kohen leEl",
+        "englishLiteral": "bread and-wine **and-he** priest to-God",
+        "englishNatural": "bread and wine **and he** was priest to G."
+      }
+    }
+  ]
+}

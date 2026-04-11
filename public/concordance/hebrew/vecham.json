@@ -1,0 +1,31 @@
+{
+  "key": "vecham",
+  "language": "hebrew",
+  "root": "cham",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְחָם",
+        "transliteration": "veCham",
+        "englishLiteral": "and-Hot (Ham)",
+        "englishNatural": "and Hot (Ham)",
+        "root": "cham",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ וְשֵׁם־ **וְחָם** וָיֶפֶת בְּנֵי־",
+        "transliteration": "Noach veShem- **veCham** vaYefet beney-",
+        "englishLiteral": "Rest (Noah) and-Name (Shem)- **and-Hot (Ham)** and-Spacious (Japheth) sons-of-",
+        "englishNatural": "Rest (Noah) and Name (Shem) **and Hot (Ham)** and Spacious (Japheth) the sons of"
+      }
+    }
+  ]
+}

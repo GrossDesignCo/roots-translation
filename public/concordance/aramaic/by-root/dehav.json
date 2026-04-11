@@ -1,0 +1,102 @@
+{
+  "root": "dehav",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 32
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "דְהַב",
+        "transliteration": "dehav",
+        "englishLiteral": "gold",
+        "englishNatural": "gold",
+        "root": "dehav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֵאשֵׁהּ דִּי **דְהַב** טָב חֲדוֹהִי",
+        "transliteration": "resheh di **dehav** tav chadohi",
+        "englishLiteral": "head-its which **gold** good breast-its",
+        "englishNatural": "its head of **gold** good its breast"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וְדַהֲבָא",
+        "transliteration": "veDahava",
+        "englishLiteral": "and-gold-the",
+        "englishNatural": "and the gold",
+        "root": "dehav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְחָשָׁא כַּסְפָּא **וְדַהֲבָא** וַהֲווֹ כְּעוּר",
+        "transliteration": "nechasha kaspa **veDahava** vaHavo keUr",
+        "englishLiteral": "bronze-the silver-the **and-gold-the** and-they-became like-chaff",
+        "englishNatural": "the bronze the silver **and the gold** and became like chaff"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 38
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "דַהֲבָא",
+        "transliteration": "dahava",
+        "englishLiteral": "gold-the",
+        "englishNatural": "the gold",
+        "root": "dehav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֵאשָׁה דִּי **דַהֲבָא**",
+        "transliteration": "reshah di **dahava**",
+        "englishLiteral": "head-the which **gold-the**",
+        "englishNatural": "the head of **the gold**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 45
+      },
+      "wordIndex": 17,
+      "word": {
+        "originalScript": "וְדַהֲבָא",
+        "transliteration": "veDahava",
+        "englishLiteral": "and-gold-the",
+        "englishNatural": "and the gold",
+        "root": "dehav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַסְפָּא כַּסְפָּא **וְדַהֲבָא** אֱלָהּ רַב",
+        "transliteration": "chaspa kaspa **veDahava** elah rav",
+        "englishLiteral": "clay-the silver-the **and-gold-the** God-the great",
+        "englishNatural": "the clay the silver **and the gold** God the great"
+      }
+    }
+  ]
+}

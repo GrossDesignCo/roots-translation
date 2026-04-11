@@ -1,0 +1,31 @@
+{
+  "key": "makekh",
+  "language": "hebrew",
+  "root": "nakah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "מַכֵּךְ",
+        "transliteration": "makekh",
+        "englishLiteral": "of-him-who-strikes_down-you",
+        "englishNatural": "of him who strikes-down you",
+        "root": "nakah",
+        "morphology": {
+          "type": "verb"
+        }
+      },
+      "context": {
+        "hebrew": "נִשְׁבַּר שֵׁבֶט **מַכֵּךְ** כִּי מִשֹּׁרֶשׁ",
+        "transliteration": "nishbar shevet **makekh** ki miShoresh",
+        "englishLiteral": "is-broken rod **of-him-who-strikes_down-you** that from-root",
+        "englishNatural": "is broken the rod **of him who strikes-down you** that from the root"
+      }
+    }
+  ]
+}

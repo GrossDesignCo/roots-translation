@@ -1,0 +1,33 @@
+{
+  "key": "shanyan",
+  "language": "aramaic",
+  "root": "shena",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "שָׁנְיָ֖ן",
+        "transliteration": "shanyan",
+        "englishLiteral": "different",
+        "englishNatural": "different",
+        "root": "shena",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ יַמָּ֑א **שָׁנְיָ֖ן** דָּ֥א מִן־",
+        "transliteration": "min- yamma **shanyan** da min-",
+        "englishLiteral": "from- the-sea **different** this from-",
+        "englishNatural": "from the sea **different** this from"
+      }
+    }
+  ]
+}

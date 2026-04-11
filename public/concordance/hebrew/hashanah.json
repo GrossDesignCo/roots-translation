@@ -1,0 +1,31 @@
+{
+  "key": "hashanah",
+  "language": "hebrew",
+  "root": "shanah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "הַשָּׁנָה",
+        "transliteration": "haShanah",
+        "englishLiteral": "the-year",
+        "englishNatural": "the year",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַחֹדֶשׁ הִיא **הַשָּׁנָה** הַחֲמִישִׁית לְגָלוּת",
+        "transliteration": "laChodes hi **haShanah** haChamisit leGalut",
+        "englishLiteral": "to-the-month it **the-year** the-fifth to-exile-of",
+        "englishNatural": "to the month it-was **the year** the fifth to the exile of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "tsefa",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "צֶפַע",
+        "transliteration": "tsefa",
+        "englishLiteral": "viper",
+        "englishNatural": "a viper",
+        "root": "tsefa",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נָחָשׁ יֵצֵא **צֶפַע** וּפִרְיוֹ שָׂרָף",
+        "transliteration": "nachash yetze **tsefa** uFiryo saraph",
+        "englishLiteral": "snake shall-come-forth **viper** and-its-fruit incinerating_one",
+        "englishNatural": "of a snake shall come forth **a viper** and its fruit an incinerating-one"
+      }
+    }
+  ]
+}

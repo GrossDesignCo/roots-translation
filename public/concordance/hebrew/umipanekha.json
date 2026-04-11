@@ -1,0 +1,31 @@
+{
+  "key": "umipanekha",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "וּמִפָּנֶיךָ",
+        "transliteration": "umiPanekha",
+        "englishLiteral": "and-from-your-faces",
+        "englishNatural": "and from your faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פְּנֵי הָאֲדָמָה **וּמִפָּנֶיךָ** אֶסָּתֵר וְהָיִיתִי",
+        "transliteration": "peney haAdamah **umiPanekha** esater veHayiti",
+        "englishLiteral": "faces-of the-earth **and-from-your-faces** I-will-hide and-I-will-be",
+        "englishNatural": "the face of the earth **and from your faces** I will be hidden and I will be"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "root": "megas",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "μεγάλην",
+        "transliteration": "megalēn",
+        "englishLiteral": "great",
+        "englishNatural": "great",
+        "root": "megas",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "καὶ ἅλυσιν **μεγάλην** ἐπὶ τὴν",
+        "transliteration": "kai halusin **megalēn** epi tēn",
+        "englishLiteral": "and chain **great** upon the",
+        "englishNatural": "and a chain **great** in the"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vayyahargehu",
+  "language": "hebrew",
+  "root": "harag",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 8
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וַיַּהַרְגֵהוּ",
+        "transliteration": "vayYahargehu",
+        "englishLiteral": "and-he-killed-him",
+        "englishNatural": "and killed him",
+        "root": "harag",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הֶבֶל אָחִיו **וַיַּהַרְגֵהוּ**",
+        "transliteration": "Hevel achiv **vayYahargehu**",
+        "englishLiteral": "Vapor (Abel) his-brother **and-he-killed-him**",
+        "englishNatural": "Vapor (Abel) his brother **and killed him**"
+      }
+    }
+  ]
+}

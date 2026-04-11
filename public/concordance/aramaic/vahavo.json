@@ -1,0 +1,33 @@
+{
+  "key": "vahavo",
+  "language": "aramaic",
+  "root": "hava",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 35
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וַהֲווֹ",
+        "transliteration": "vaHavo",
+        "englishLiteral": "and-they-became",
+        "englishNatural": "and became",
+        "root": "hava",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "peal"
+        }
+      },
+      "context": {
+        "hebrew": "כַּסְפָּא וְדַהֲבָא **וַהֲווֹ** כְּעוּר מִן",
+        "transliteration": "kaspa veDahava **vaHavo** keUr min",
+        "englishLiteral": "silver-the and-gold-the **and-they-became** like-chaff from",
+        "englishNatural": "the silver and the gold **and became** like chaff from"
+      }
+    }
+  ]
+}

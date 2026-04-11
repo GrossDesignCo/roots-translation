@@ -1,0 +1,31 @@
+{
+  "key": "ulekhol-",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "וּלְכָל־",
+        "transliteration": "uLeKhol-",
+        "englishLiteral": "and-to-all-",
+        "englishNatural": "and to all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁלֹשֶׁת יָמִים **וּלְכָל־** בְּנֵי יִשְׂרָאֵל",
+        "transliteration": "sheloshet yamim **uLeKhol-** benei Yisrael",
+        "englishLiteral": "three-of days **and-to-all-** sons-of Struggles_with_God (Israel)",
+        "englishNatural": "three days **and to all** the sons of Struggles-with-God (Israel)"
+      }
+    }
+  ]
+}

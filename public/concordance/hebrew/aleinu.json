@@ -1,0 +1,55 @@
+{
+  "key": "aleinu",
+  "language": "hebrew",
+  "root": "al",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 5,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עָלֵינוּ",
+        "transliteration": "aleinu",
+        "englishLiteral": "over-us",
+        "englishNatural": "over us",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הָעִבְרִים נִקְרָא **עָלֵינוּ** נֵלְכָה נָּא",
+        "transliteration": "haIvrim niqra **aleinu** nelkhah na",
+        "englishLiteral": "the-Passes_Through (Hebrews) was-called_out **over-us** we-will-go please",
+        "englishNatural": "the Passes-Through (Hebrews) was called-out **over us** we will go please"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "עָלֵינוּ",
+        "transliteration": "aleinu",
+        "englishLiteral": "toward-us",
+        "englishNatural": "toward us",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי גָבַר **עָלֵינוּ** חַסְדּוֹ וֶאֱמֶת־",
+        "transliteration": "ki gavar **aleinu** chasdo veEmet-",
+        "englishLiteral": "That is-great **toward-us** his-steadfast_love and-truth-of",
+        "englishNatural": "That great **toward us** his steadfast-love and truth of"
+      }
+    }
+  ]
+}

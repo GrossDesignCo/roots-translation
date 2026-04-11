@@ -1,0 +1,58 @@
+{
+  "root": "napal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "וַיִּפְּלוּ",
+        "transliteration": "vayYipelu",
+        "englishLiteral": "and-they-fell",
+        "englishNatural": "fell",
+        "root": "napal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְקַיִן מְאֹד **וַיִּפְּלוּ** פָנָיו",
+        "transliteration": "leQayin meod **vayYipelu** panav",
+        "englishLiteral": "to-Acquired (Cain) very_much **and-they-fell** his-faces",
+        "englishNatural": "to Acquired (Cain) very-much **fell** and his faces"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "נָפְלוּ",
+        "transliteration": "nafelu",
+        "englishLiteral": "they-fell",
+        "englishNatural": "fallen",
+        "root": "napal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָךְ וְלָמָּה **נָפְלוּ** פָנֶיךָ",
+        "transliteration": "lakh velamah **nafelu** panekha",
+        "englishLiteral": "to-you and-why **they-fell** your-faces",
+        "englishNatural": "to you and why **fallen** have your faces"
+      }
+    }
+  ]
+}

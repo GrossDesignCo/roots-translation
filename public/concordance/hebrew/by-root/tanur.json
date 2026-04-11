@@ -1,0 +1,30 @@
+{
+  "root": "tanur",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "תַנּוּר",
+        "transliteration": "tanur",
+        "englishLiteral": "furnace",
+        "englishNatural": "a furnace",
+        "root": "tanur",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיָה וְהִנֵּה **תַנּוּר** עָשָׁן וְלַפִּיד",
+        "transliteration": "hayah veHineh **tanur** ashan veLapid",
+        "englishLiteral": "he-was and-behold **furnace** smoke and-torch",
+        "englishNatural": "was and behold **a furnace** smoking and a torch of"
+      }
+    }
+  ]
+}

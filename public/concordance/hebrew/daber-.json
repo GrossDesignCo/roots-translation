@@ -1,0 +1,33 @@
+{
+  "key": "daber-",
+  "language": "hebrew",
+  "root": "dabar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "דַּבֶּר־",
+        "transliteration": "daber-",
+        "englishLiteral": "speak-",
+        "englishNatural": "Speak",
+        "root": "dabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**דַּבֶּר־** נָ֖א בְּאָזְנֵ֣י",
+        "transliteration": "**daber-** na beOzney",
+        "englishLiteral": "**speak-** please in-ears-of",
+        "englishNatural": "**Speak** please in the ears of"
+      }
+    }
+  ]
+}

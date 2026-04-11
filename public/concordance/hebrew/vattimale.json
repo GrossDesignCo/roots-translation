@@ -1,0 +1,33 @@
+{
+  "key": "vattimale",
+  "language": "hebrew",
+  "root": "male",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וַתִּמָּלֵא",
+        "transliteration": "vatTimale",
+        "englishLiteral": "and-it-filled",
+        "englishNatural": "filled-with",
+        "root": "male",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "לִפְנֵי הָאֱלֹהִים **וַתִּמָּלֵא** הָאָרֶץ חָמָס",
+        "transliteration": "liFney haElohim **vatTimale** haAretz chamas",
+        "englishLiteral": "to-faces-of the-Gods **and-it-filled** the-land violence",
+        "englishNatural": "to the face of God **filled-with** and the land violence"
+      }
+    }
+  ]
+}

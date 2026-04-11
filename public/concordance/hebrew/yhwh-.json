@@ -1,0 +1,31 @@
+{
+  "key": "yhwh-",
+  "language": "hebrew",
+  "root": "yhwh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "יְהוָה־",
+        "transliteration": "YHWH-",
+        "englishLiteral": "He_Who_Is (YHWH)-",
+        "englishNatural": "And He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְמַן **יְהוָה־** אֱלֹהִים קִיקָיוֹן",
+        "transliteration": "vaYeman **YHWH-** Elohim qiqayon",
+        "englishLiteral": "And-appointed **He_Who_Is (YHWH)-** Gods luscious_plant",
+        "englishNatural": "appointed **And He-Who-Is (YHWH)** God a luscious-plant"
+      }
+    }
+  ]
+}

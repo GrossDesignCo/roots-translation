@@ -1,0 +1,78 @@
+{
+  "root": "remes",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "רֶמֶשׂ",
+        "transliteration": "remes",
+        "englishLiteral": "creeping_thing",
+        "englishNatural": "creeping-thing",
+        "root": "remes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּהֵמָה עַד־ **רֶמֶשׂ** וְעַד־ עוֹף",
+        "transliteration": "behemah ad- **remes** vead- oph",
+        "englishLiteral": "beast unto- **creeping_thing** and-unto- bird-of",
+        "englishNatural": "beast unto **creeping-thing** and unto bird of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 20
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "רֶמֶשׂ",
+        "transliteration": "remes",
+        "englishLiteral": "creeping_thing-of",
+        "englishNatural": "creeping-thing of",
+        "root": "remes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִינָהּ מִכֹּל **רֶמֶשׂ** הָאֲדָמָה לְמִינֵהוּ",
+        "transliteration": "leMina mikol **remes** haAdamah leMinehu",
+        "englishLiteral": "to-kind-her from-all **creeping_thing-of** the-earth to-kind-his",
+        "englishNatural": "to its kind from all **creeping-thing of** the earth to its kind"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "הָרֶמֶשׂ",
+        "transliteration": "haRemes",
+        "englishLiteral": "the-creeping_thing",
+        "englishNatural": "the creeping-thing",
+        "root": "remes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִינָהּ וְכָל־ **הָרֶמֶשׂ** הָרֹמֵשׂ עַל־",
+        "transliteration": "leMina veKhol- **haRemes** haRomes al-",
+        "englishLiteral": "to-kind-her and-all- **the-creeping_thing** the-creeping over-",
+        "englishNatural": "to its kind and all **the creeping-thing** the creeping over"
+      }
+    }
+  ]
+}

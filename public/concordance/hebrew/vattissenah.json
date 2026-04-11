@@ -1,0 +1,33 @@
+{
+  "key": "vattissenah",
+  "language": "hebrew",
+  "root": "nasa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וַתִּשֶּׂ֥אנָה",
+        "transliteration": "vatTissenah",
+        "englishLiteral": "and-lifted",
+        "englishNatural": "and they lifted",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּשַּׁ֣ק לָהֶ֔ן **וַתִּשֶּׂ֥אנָה** קוֹלָ֖ן וַתִּבְכֶּֽינָה",
+        "transliteration": "vatTishaq lahen **vatTissenah** qolan vatTivkeynah",
+        "englishLiteral": "and-kissed to-them **and-lifted** voice-their and-wept",
+        "englishNatural": "And she kissed to them **and they lifted** their voice and wept"
+      }
+    }
+  ]
+}

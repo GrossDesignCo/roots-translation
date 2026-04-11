@@ -1,0 +1,31 @@
+{
+  "key": "lealmaya",
+  "language": "aramaic",
+  "root": "alma",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 44
+      },
+      "wordIndex": 24,
+      "word": {
+        "originalScript": "לְעָלְמַיָּא",
+        "transliteration": "leAlmaya",
+        "englishLiteral": "to-the_ages",
+        "englishNatural": "to the-ages",
+        "root": "alma",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִיא תְּקוּם **לְעָלְמַיָּא**",
+        "transliteration": "veHi teqom **leAlmaya**",
+        "englishLiteral": "and-she will-stand_up **to-the_ages**",
+        "englishNatural": "and it will stand-up **to the-ages**"
+      }
+    }
+  ]
+}

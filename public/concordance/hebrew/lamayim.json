@@ -1,0 +1,31 @@
+{
+  "key": "lamayim",
+  "language": "hebrew",
+  "root": "mayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "לָמָיִם",
+        "transliteration": "laMayim",
+        "englishLiteral": "to-waters",
+        "englishNatural": "and waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּין מַיִם **לָמָיִם**",
+        "transliteration": "beyn mayim **laMayim**",
+        "englishLiteral": "between waters **to-waters**",
+        "englishNatural": "between waters **and waters**"
+      }
+    }
+  ]
+}

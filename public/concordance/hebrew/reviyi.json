@@ -1,0 +1,31 @@
+{
+  "key": "reviyi",
+  "language": "hebrew",
+  "root": "revii",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 19
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "רְבִיעִֽי׃",
+        "transliteration": "reviyi",
+        "englishLiteral": "fourth",
+        "englishNatural": "A fourth",
+        "root": "revii",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בֹ֖קֶר י֥וֹם **רְבִיעִֽי׃**",
+        "transliteration": "boqer yom **reviyi**",
+        "englishLiteral": "morning Day **fourth**",
+        "englishNatural": "And morning day **A fourth**"
+      }
+    }
+  ]
+}

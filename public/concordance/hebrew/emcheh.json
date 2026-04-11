@@ -1,0 +1,33 @@
+{
+  "key": "emcheh",
+  "language": "hebrew",
+  "root": "machah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "אֶמְחֶה",
+        "transliteration": "emcheh",
+        "englishLiteral": "I-will-wipe_out",
+        "englishNatural": "I will wipe-out",
+        "root": "machah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **אֶמְחֶה** אֶת־ הָאָדָם",
+        "transliteration": "vayYomer YHWH **emcheh** et- haAdam",
+        "englishLiteral": "And-he-said He_Who_Is (YHWH) **I-will-wipe_out** ↳ the-Earthling (Adam)",
+        "englishNatural": "said And He-Who-Is (YHWH) **I will wipe-out** ↳ the Earthling (Adam)"
+      }
+    }
+  ]
+}

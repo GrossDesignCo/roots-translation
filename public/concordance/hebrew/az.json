@@ -1,0 +1,31 @@
+{
+  "key": "az",
+  "language": "hebrew",
+  "root": "az",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 26
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "אָז",
+        "transliteration": "az",
+        "englishLiteral": "then",
+        "englishNatural": "then",
+        "root": "az",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁמוֹ אֱנוֹשׁ **אָז** הוּחַל לִקְרֹא",
+        "transliteration": "shemo Enosh **az** huchal liqro",
+        "englishLiteral": "name-his Mortal_Man (Enosh) **then** was-begun to-call_out",
+        "englishNatural": "his name Mortal-Man (Enosh) **then** it began to call-out"
+      }
+    }
+  ]
+}

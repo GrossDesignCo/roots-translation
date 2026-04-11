@@ -1,0 +1,31 @@
+{
+  "key": "minnakh",
+  "language": "aramaic",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 39
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "מִנָּךְ",
+        "transliteration": "minnakh",
+        "englishLiteral": "from-you",
+        "englishNatural": "than you",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אָחֳרִי אֲרַע **מִנָּךְ** וּמַלְכוּ תְלִיתָאָה",
+        "transliteration": "ochori ara **minnakh** uMalkhu telitaah",
+        "englishLiteral": "another lower **from-you** and-kingdom third",
+        "englishNatural": "another lower **than you** kingdom third"
+      }
+    }
+  ]
+}

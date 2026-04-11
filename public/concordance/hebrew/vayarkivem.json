@@ -1,0 +1,33 @@
+{
+  "key": "vayarkivem",
+  "language": "hebrew",
+  "root": "rakav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 4,
+        "verse": 20
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וַיַּרְכִּבֵם",
+        "transliteration": "vaYarkivem",
+        "englishLiteral": "and-caused-to-ride-them",
+        "englishNatural": "and caused them to ride",
+        "root": "rakav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ בָּנָיו **וַיַּרְכִּבֵם** עַל־ הַחֲמֹר",
+        "transliteration": "veEt- banav **vaYarkivem** al- haChamor",
+        "englishLiteral": "and-↳ sons-his **and-caused-to-ride-them** over- the-donkey",
+        "englishNatural": "and his sons **and caused them to ride** over the donkey"
+      }
+    }
+  ]
+}

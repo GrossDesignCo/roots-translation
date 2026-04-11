@@ -1,0 +1,31 @@
+{
+  "key": "leechat",
+  "language": "hebrew",
+  "root": "echad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "לְאֶחָת",
+        "transliteration": "leEchat",
+        "englishLiteral": "to-one",
+        "englishNatural": "to one",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַרְבָּעָה פָנִים **לְאֶחָת** וְאַרְבַּע כְּנָפַיִם",
+        "transliteration": "veArbaah fanim **leEchat** veArba kenafayim",
+        "englishLiteral": "And-four faces **to-one** and-four wings",
+        "englishNatural": "And four faces **to one** and four wings"
+      }
+    }
+  ]
+}

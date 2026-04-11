@@ -1,0 +1,33 @@
+{
+  "key": "vatahar",
+  "language": "hebrew",
+  "root": "harah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַתַּהַר",
+        "transliteration": "vaTahar",
+        "englishLiteral": "And-conceived",
+        "englishNatural": "conceived",
+        "root": "harah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתַּהַר** הָאִשָּׁה וַתֵּלֶד",
+        "transliteration": "**vaTahar** haIshah vaTeledֿ",
+        "englishLiteral": "**And-conceived** the-woman and-birthed",
+        "englishNatural": "**conceived** And the woman and birthed"
+      }
+    }
+  ]
+}

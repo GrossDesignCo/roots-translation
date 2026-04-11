@@ -1,0 +1,54 @@
+{
+  "root": "tardemah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "תַּרְדֵּמָה",
+        "transliteration": "tardemah",
+        "englishLiteral": "deep_trance",
+        "englishNatural": "caused a deep-trance",
+        "root": "tardemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהִים **תַּרְדֵּמָה** עַל הָאָדָם",
+        "transliteration": "YHWH Elohim **tardemah** al haAdam",
+        "englishLiteral": "He_Who_Is (YHWH) Gods **deep_trance** over the-Earthling (Adam)",
+        "englishNatural": "And He-Who-Is (YHWH) God **caused a deep-trance** over the Earthling (Adam)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 12
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וְתַרְדֵּמָה",
+        "transliteration": "veTardemah",
+        "englishLiteral": "and-deep_trance",
+        "englishNatural": "and a deep-trance",
+        "root": "tardemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשֶּׁמֶשׁ לָבוֹא **וְתַרְדֵּמָה** נָפְלָה עַל־",
+        "transliteration": "haShemesh lavo **veTardemah** naflah al-",
+        "englishLiteral": "the-sun to-come **and-deep_trance** she-fell over-",
+        "englishNatural": "And the sun to come **and a deep-trance** fell over"
+      }
+    }
+  ]
+}

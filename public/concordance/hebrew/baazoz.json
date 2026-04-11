@@ -1,0 +1,33 @@
+{
+  "key": "baazoz",
+  "language": "hebrew",
+  "root": "azaz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 28
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "בַּעֲזוֹז",
+        "transliteration": "baAzoz",
+        "englishLiteral": "in-being_strong",
+        "englishNatural": "in being-strong",
+        "root": "azaz",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁחָקִים מִמָּעַל **בַּעֲזוֹז** עֵינוֹת תְּהוֹם",
+        "transliteration": "shechaqim miMaal **baAzoz** eynot tehom",
+        "englishLiteral": "clouds from-above **in-being_strong** fountains-of abyss",
+        "englishNatural": "clouds from above **in being-strong** the fountains of the abyss"
+      }
+    }
+  ]
+}

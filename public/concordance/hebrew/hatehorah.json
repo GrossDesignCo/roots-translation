@@ -1,0 +1,55 @@
+{
+  "key": "hatehorah",
+  "language": "hebrew",
+  "root": "tahor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "הַטְּהוֹרָה",
+        "transliteration": "haTehorah",
+        "englishLiteral": "the-clean",
+        "englishNatural": "the clean",
+        "root": "tahor",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הַבְּהֵמָה **הַטְּהוֹרָה** וּמִן־ הַבְּהֵמָה",
+        "transliteration": "min- haBehemah **haTehorah** uMin- haBehemah",
+        "englishLiteral": "From- the-beast **the-clean** and-from- the-beast",
+        "englishNatural": "From the beast **the clean** and from the beast"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 20
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "הַטְּהוֹרָה",
+        "transliteration": "haTehorah",
+        "englishLiteral": "the-clean",
+        "englishNatural": "the clean",
+        "root": "tahor",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מִכֹּל הַבְּהֵמָה **הַטְּהוֹרָה** וּמִכֹּל הָעוֹף",
+        "transliteration": "miKol haBehemah **haTehorah** uMikol haOf",
+        "englishLiteral": "from-all the-beast **the-clean** and-from-all the-flyer",
+        "englishNatural": "from all the beast **the clean** and from all the flyer"
+      }
+    }
+  ]
+}

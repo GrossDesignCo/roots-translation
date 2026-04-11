@@ -1,0 +1,31 @@
+{
+  "key": "lahen",
+  "language": "aramaic",
+  "root": "lahen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 30
+      },
+      "wordIndex": 12,
+      "word": {
+        "originalScript": "לָהֵן",
+        "transliteration": "lahen",
+        "englishLiteral": "but",
+        "englishNatural": "but",
+        "root": "lahen",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "גְּלִי לִי **לָהֵן** בְּדִבְרַת דִּי",
+        "transliteration": "geli li **lahen** beDivrat di",
+        "englishLiteral": "he-revealed to-me **but** on-word-of which",
+        "englishNatural": "has he revealed to me **but** on the word of which"
+      }
+    }
+  ]
+}

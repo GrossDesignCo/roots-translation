@@ -1,0 +1,31 @@
+{
+  "key": "phronimoi",
+  "language": "greek",
+  "root": "phronimos",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 11,
+      "word": {
+        "originalScript": "φρόνιμοι",
+        "transliteration": "phronimoi",
+        "englishLiteral": "shrewd",
+        "englishNatural": "shrewd",
+        "root": "phronimos",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "γίνεσθε οὖν **φρόνιμοι** ὡς οἱ",
+        "transliteration": "ginesthe oun **phronimoi** hos hoi",
+        "englishLiteral": "be therefore **shrewd** as the",
+        "englishNatural": "be therefore **shrewd** as the"
+      }
+    }
+  ]
+}

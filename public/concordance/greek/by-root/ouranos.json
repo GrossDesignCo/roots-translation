@@ -1,0 +1,30 @@
+{
+  "root": "ouranos",
+  "language": "greek",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "οὐρανοῦ",
+        "transliteration": "ouranou",
+        "englishLiteral": "heaven",
+        "englishNatural": "heaven",
+        "root": "ouranos",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ἐκ τοῦ **οὐρανοῦ** ἔχοντα τὴν",
+        "transliteration": "ek tou **ouranou** echonta tēn",
+        "englishLiteral": "out-of the **heaven** having the",
+        "englishNatural": "from the **heaven** having the"
+      }
+    }
+  ]
+}

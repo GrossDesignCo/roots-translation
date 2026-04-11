@@ -1,0 +1,55 @@
+{
+  "key": "shivim",
+  "language": "hebrew",
+  "root": "shivim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 24
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "שִׁבְעִים",
+        "transliteration": "shivim",
+        "englishLiteral": "seventy",
+        "englishNatural": "seventy",
+        "root": "sheva",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "קָיִן וְלֶמֶךְ **שִׁבְעִים** וְשִׁבְעָה",
+        "transliteration": "Qayin veLemekh **shivim** veShivah",
+        "englishLiteral": "Acquired (Cain) and-Powerful (Lamech) **seventy** and-seven",
+        "englishNatural": "Acquired (Cain) and Powerful (Lamech) **seventy** and seven"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "שִׁבְעִים",
+        "transliteration": "shivim",
+        "englishLiteral": "seventy",
+        "englishNatural": "seventy",
+        "root": "shivim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי קֵינָן **שִׁבְעִים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "vaYechi Qeynan **shivim** shanah vaYoled",
+        "englishLiteral": "and-lived Nest (Cainan) **seventy** year and-he-birthed",
+        "englishNatural": "lived And Nest (Cainan) **seventy** years and birthed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "haoph",
+  "language": "hebrew",
+  "root": "oph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "הָעוֹף",
+        "transliteration": "haOph",
+        "englishLiteral": "the-bird",
+        "englishNatural": "the bird",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "טְהֹרָה וּמִן־ **הָעוֹף** וְכֹל אֲשֶׁר־",
+        "transliteration": "tehorah uMin- **haOph** veKhol asher-",
+        "englishLiteral": "clean and-from- **the-bird** and-all which-",
+        "englishNatural": "clean and from **the bird** and all which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הָעוֹף",
+        "transliteration": "haOph",
+        "englishLiteral": "the-flier",
+        "englishNatural": "the flier",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִינֵהוּ וְכָל־ **הָעוֹף** לְמִינֵהוּ כֹּל",
+        "transliteration": "leMinehu veKhol- **haOph** leMinehu kol",
+        "englishLiteral": "to-kind-his and-all- **the-flier** to-kind-his all",
+        "englishNatural": "to its kind and all **the flier** to its kind all"
+      }
+    }
+  ]
+}

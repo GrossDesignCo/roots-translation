@@ -1,0 +1,31 @@
+{
+  "key": "bamizbeach",
+  "language": "hebrew",
+  "root": "zavach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 20
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "בַּמִּזְבֵּחַ",
+        "transliteration": "baMizbeach",
+        "englishLiteral": "on-the-altar",
+        "englishNatural": "on the altar",
+        "root": "zavach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעַל עֹלֹת **בַּמִּזְבֵּחַ**",
+        "transliteration": "vayYaal olot **baMizbeach**",
+        "englishLiteral": "and-caused-to-go_up goings_up **on-the-altar**",
+        "englishNatural": "and caused to go-up goings-up **on the altar**"
+      }
+    }
+  ]
+}

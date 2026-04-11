@@ -1,0 +1,31 @@
+{
+  "key": "viqar",
+  "language": "aramaic",
+  "root": "yeqar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 14
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "וִיקָ֣ר",
+        "transliteration": "viqar",
+        "englishLiteral": "and-glory",
+        "englishNatural": "and glory",
+        "root": "yeqar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהִ֤יב שָׁלְטָן֙ **וִיקָ֣ר** וּמַלְכ֔וּ וְכֹ֣ל",
+        "transliteration": "yehiv sholtan **viqar** uMalkhu veKhol",
+        "englishLiteral": "had-been-given dominion **and-glory** and-kingdom and-all",
+        "englishNatural": "had been given dominion **and glory** and kingdom and all"
+      }
+    }
+  ]
+}

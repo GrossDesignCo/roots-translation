@@ -1,0 +1,30 @@
+{
+  "root": "basar",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 19,
+      "word": {
+        "originalScript": "בְּשַׂ֥ר",
+        "transliteration": "besar",
+        "englishLiteral": "flesh",
+        "englishNatural": "flesh",
+        "root": "basar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ק֥וּמִֽי אֲכֻ֥ל **בְּשַׂ֥ר** שַׂגִּֽיא",
+        "transliteration": "qumi akhul **besar** saggi",
+        "englishLiteral": "Arise devour **flesh** much",
+        "englishNatural": "Arise devour **flesh** much"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "key": "zeeirah",
+  "language": "aramaic",
+  "root": "zeer",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "זְעֵירָה֙",
+        "transliteration": "zeeirah",
+        "englishLiteral": "small",
+        "englishNatural": "small",
+        "root": "zeer",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "קֶ֣רֶן אָחֳרִ֤י **זְעֵירָה֙** סִלְקָ֣ת ביניהון",
+        "transliteration": "qeren ochori **zeeirah** silqat beynehon",
+        "englishLiteral": "horn another **small** came-up between-them",
+        "englishNatural": "horn another **small** came up between them"
+      }
+    }
+  ]
+}

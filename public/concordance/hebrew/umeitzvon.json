@@ -1,0 +1,31 @@
+{
+  "key": "umeitzvon",
+  "language": "hebrew",
+  "root": "etzev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 29
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "וּמֵעִצְּבוֹן",
+        "transliteration": "uMeItzvon",
+        "englishLiteral": "and-from-pain",
+        "englishNatural": "and from the pain",
+        "root": "etzev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ **וּמֵעִצְּבוֹן** יָדֵינוּ מִן־",
+        "transliteration": "yeNachamenu miMaasenu **uMeItzvon** yadenu min-",
+        "englishLiteral": "will-comfort-us from-our-making **and-from-pain** our-hands from",
+        "englishNatural": "will comfort us from our making **and from the pain** of our hands from"
+      }
+    }
+  ]
+}

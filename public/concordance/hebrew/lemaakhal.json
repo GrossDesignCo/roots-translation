@@ -1,0 +1,55 @@
+{
+  "key": "lemaakhal",
+  "language": "hebrew",
+  "root": "akhal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לְמַאֲכָל",
+        "transliteration": "leMaakhal",
+        "englishLiteral": "to-food",
+        "englishNatural": "for food",
+        "root": "okhel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַרְאֶה וְטוֹב **לְמַאֲכָל** וְעֵץ הַחַיִּים",
+        "transliteration": "leMareh veTov **leMaakhal** veEtz haChayyim",
+        "englishLiteral": "to-sight and-good **to-food** and-tree the-lives",
+        "englishNatural": "to the sight and good **for food** and the Tree of Life"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "לְמַאֲכָל",
+        "transliteration": "leMaakhal",
+        "englishLiteral": "for-food",
+        "englishNatural": "for food",
+        "root": "akhal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "טוֹב הָעֵץ **לְמַאֲכָל** וְכִי תַאֲוָה־",
+        "transliteration": "tov haEtz **leMaakhal** veKi taavah-",
+        "englishLiteral": "good the-tree **for-food** and-that desirable-",
+        "englishNatural": "was good the tree **for food** and that desirable"
+      }
+    }
+  ]
+}

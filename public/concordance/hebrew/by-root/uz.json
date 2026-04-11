@@ -1,0 +1,54 @@
+{
+  "root": "uz",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עֹ֑ז",
+        "transliteration": "oz",
+        "englishLiteral": "strength",
+        "englishNatural": "strength",
+        "root": "uz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְ֭יֹנְקִים יִסַּ֣דְתָּ **עֹ֑ז** לְמַ֥עַן צוֹרְרֶ֑יךָ",
+        "transliteration": "veYoneqim yisadta **oz** leMaan tsorerekha",
+        "englishLiteral": "and-sucklings you-have-founded **strength** to-sake-of your-adversarys",
+        "englishNatural": "and sucklings you have founded **strength** to the sake of your adversaries"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "עֻזִּיָּהוּ",
+        "transliteration": "Uzziyahu",
+        "englishLiteral": "He_my_Strength (Uzziah)",
+        "englishNatural": "He-my-Strength (Uzziah)",
+        "root": "uz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מוֹת הַמֶּלֶךְ **עֻזִּיָּהוּ** וָאֶרְאֶה אֶת",
+        "transliteration": "mot haMelekh **Uzziyahu** vaEr'eh et",
+        "englishLiteral": "death-of the-king **He_my_Strength (Uzziah)** And-I-saw ↳",
+        "englishNatural": "the death of the king **He-my-Strength (Uzziah)** And I saw ↳"
+      }
+    }
+  ]
+}

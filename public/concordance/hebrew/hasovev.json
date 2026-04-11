@@ -1,0 +1,59 @@
+{
+  "key": "hasovev",
+  "language": "hebrew",
+  "root": "savav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "הַסֹּבֵב",
+        "transliteration": "haSovev",
+        "englishLiteral": "the-going_around",
+        "englishNatural": "goes-around",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פִּישׁוֹן הוּא **הַסֹּבֵב** אֵת כָּל־",
+        "transliteration": "Pishon hu **haSovev** et kol-",
+        "englishLiteral": "Spreading (Pishon) he **the-going_around** ↳ all-",
+        "englishNatural": "Spreading (Pishon) it **goes-around** ↳ all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "הַסּוֹבֵב",
+        "transliteration": "haSovev",
+        "englishLiteral": "the-going_around",
+        "englishNatural": "goes-around",
+        "root": "savav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "גִּיחוֹן הוּא **הַסּוֹבֵב** אֵת כָּל־",
+        "transliteration": "Gichon hu **haSovev** et kol-",
+        "englishLiteral": "Gusher (Gichon) he **the-going_around** ↳ all-",
+        "englishNatural": "Gusher (Gichon) it **goes-around** ↳ all"
+      }
+    }
+  ]
+}

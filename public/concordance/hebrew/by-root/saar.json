@@ -1,0 +1,78 @@
+{
+  "root": "saar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "סְעָרָה",
+        "transliteration": "saarah",
+        "englishLiteral": "storm",
+        "englishNatural": "storm",
+        "root": "saar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִנֵּה רוּחַ **סְעָרָה** בָּאָה מִן־",
+        "transliteration": "veHineh ruach **saarah** baah min-",
+        "englishLiteral": "and-behold wind **storm** coming from-",
+        "englishNatural": "and behold a wind **storm** coming from"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "סַעַר־",
+        "transliteration": "saar-",
+        "englishLiteral": "tempest-",
+        "englishNatural": "tempest",
+        "root": "saar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיָּם וַיְהִי **סַעַר־** גָּדוֹל בַּיָּם",
+        "transliteration": "haYam vaYehi **saar-** gadol baYam",
+        "englishLiteral": "the-sea and-was **tempest-** great in-sea",
+        "englishNatural": "the sea and there was **tempest** a great in the sea"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "הַסַּעַר",
+        "transliteration": "haSaar",
+        "englishLiteral": "the-tempest",
+        "englishNatural": "the tempest",
+        "root": "saar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי בְשֶׁלִּי **הַסַּעַר** הַגָּדוֹל הַזֶּה",
+        "transliteration": "ki beshelli **haSaar** haGadol haZeh",
+        "englishLiteral": "that for-sake-my **the-tempest** the-great the-this",
+        "englishNatural": "that for my sake **the tempest** the great the this"
+      }
+    }
+  ]
+}

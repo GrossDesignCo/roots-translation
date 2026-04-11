@@ -1,0 +1,32 @@
+{
+  "root": "palah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 7
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "יַפְלֶ֣ה",
+        "transliteration": "yafleh",
+        "englishLiteral": "will-distinguish",
+        "englishNatural": "will distinguish",
+        "root": "palah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "תֵּֽדְע֔וּן אֲשֶׁר֙ **יַפְלֶ֣ה** יְהוָ֔ה בֵּ֥ין",
+        "transliteration": "tedun asher **yafleh** YHWH beyn",
+        "englishLiteral": "you-will-know which **will-distinguish** He_Who_Is (YHWH) between",
+        "englishNatural": "you will know which **will distinguish** He-Who-Is (YHWH) between"
+      }
+    }
+  ]
+}

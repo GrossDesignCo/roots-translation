@@ -1,0 +1,33 @@
+{
+  "key": "asiti",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 21
+      },
+      "wordIndex": 31,
+      "word": {
+        "originalScript": "עָשִׂיתִי",
+        "transliteration": "asiti",
+        "englishLiteral": "I-have-done",
+        "englishNatural": "I have done",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "חַי כַּאֲשֶׁר **עָשִׂיתִי**",
+        "transliteration": "chai kaAsher **asiti**",
+        "englishLiteral": "living as-which **I-have-done**",
+        "englishNatural": "living as which **I have done**"
+      }
+    }
+  ]
+}

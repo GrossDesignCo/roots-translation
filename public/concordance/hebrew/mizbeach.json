@@ -1,0 +1,31 @@
+{
+  "key": "mizbeach",
+  "language": "hebrew",
+  "root": "zavach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "מִזְבֵּחַ",
+        "transliteration": "mizbeach",
+        "englishLiteral": "altar",
+        "englishNatural": "an altar",
+        "root": "zavach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּבֶן נֹחַ **מִזְבֵּחַ** לַיהוָה וַיִּקַּח",
+        "transliteration": "vayYiven Noach **mizbeach** laYHWH vayYiqach",
+        "englishLiteral": "And-built Rest (Noah) **altar** to-He_Who_Is (YHWH) and-took",
+        "englishNatural": "built And Rest (Noah) **an altar** to He-Who-Is (YHWH) and took"
+      }
+    }
+  ]
+}

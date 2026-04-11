@@ -1,0 +1,33 @@
+{
+  "key": "hevi",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "word": {
+        "originalScript": "הֵבִיא",
+        "transliteration": "hevi",
+        "englishLiteral": "brought",
+        "englishNatural": "brought",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וְהֶבֶל **הֵבִיא** גַם־ הוּא",
+        "transliteration": "veHevel **hevi** gam- hu",
+        "englishLiteral": "And-Vapor (Abel) **brought** also he",
+        "englishNatural": "And Vapor (Abel) **brought** also he"
+      }
+    }
+  ]
+}

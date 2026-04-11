@@ -1,0 +1,134 @@
+{
+  "root": "naga",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "תִגְּעוּ",
+        "transliteration": "tigu",
+        "englishLiteral": "you-shall-touch",
+        "englishNatural": "and you shall touch",
+        "root": "naga",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִמֶּנּוּ וְלֹא **תִגְּעוּ** בּוֹ פֶּן־",
+        "transliteration": "mimenu velo **tigu** bo pen-",
+        "englishLiteral": "from-it and-not **you-shall-touch** in-it lest",
+        "englishNatural": "from it not **and you shall touch** it lest"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 11,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נֶ֨גַע",
+        "transliteration": "nega",
+        "englishLiteral": "touch",
+        "englishNatural": "touch",
+        "root": "naga",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁ֗ה עוֹד֩ **נֶ֨גַע** אֶחָ֜ד אָבִ֤יא",
+        "transliteration": "Moshe od **nega** echad avi",
+        "englishLiteral": "Drawn_Out (Moses) again **touch** one I-will-bring",
+        "englishNatural": "Drawn-Out (Moses) Again **touch** one I will bring"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיַּגַּע",
+        "transliteration": "vaYaGga",
+        "englishLiteral": "And-he-touched",
+        "englishNatural": "And he touched",
+        "root": "naga",
+        "morphology": {
+          "type": "verb",
+          "tense": "sequential_imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּגַּע** אֶל־ פִּי",
+        "transliteration": "**vaYaGga** el- pi",
+        "englishLiteral": "**And-he-touched** to- my-mouth",
+        "englishNatural": "**And he touched** it to my mouth"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "נָגַע",
+        "transliteration": "naga",
+        "englishLiteral": "has-touched",
+        "englishNatural": "has touched",
+        "root": "naga",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר הִנֵּה **נָגַע** זֶה עַל־",
+        "transliteration": "vaYomer hinneh **naga** zeh al-",
+        "englishLiteral": "and-he-said Behold **has-touched** this over-",
+        "englishNatural": "and he said Behold **has touched** this over"
+      }
+    },
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּגַּע",
+        "transliteration": "vaYiga",
+        "englishLiteral": "And-touched",
+        "englishNatural": "touched",
+        "root": "naga",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּגַּע** הַדָּבָר אֶל־",
+        "transliteration": "**vaYiga** haDavar el-",
+        "englishLiteral": "**And-touched** the-word to-",
+        "englishNatural": "**touched** And the word to"
+      }
+    }
+  ]
+}

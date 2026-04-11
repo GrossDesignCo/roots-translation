@@ -1,0 +1,31 @@
+{
+  "key": "vehaseneh",
+  "language": "hebrew",
+  "root": "seneh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "וְהַסְּנֶה",
+        "transliteration": "vehaSeneh",
+        "englishLiteral": "and-the-thornbush",
+        "englishNatural": "and the thornbush",
+        "root": "seneh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֹּעֵר בָּאֵשׁ **וְהַסְּנֶה** אֵינֶנּוּ אֻכָּל",
+        "transliteration": "boer baEsh **vehaSeneh** einenu ukkal",
+        "englishLiteral": "burning in-fire **and-the-thornbush** not_exist-it consumed",
+        "englishNatural": "burning in fire **and the thornbush** was not consumed"
+      }
+    }
+  ]
+}

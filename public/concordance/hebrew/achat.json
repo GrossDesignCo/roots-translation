@@ -1,0 +1,79 @@
+{
+  "key": "achat",
+  "language": "hebrew",
+  "root": "echad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "אַחַת",
+        "transliteration": "achat",
+        "englishLiteral": "one",
+        "englishNatural": "one",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּישָׁן וַיִּקַּח **אַחַת** מִצַּלְעֹתָיו וַיִּסְגֹּר",
+        "transliteration": "vaYishan vaYikach **achat** miTzalotav vaYisgor",
+        "englishLiteral": "and-he-slept and-he-took **one** from-his-sides and-closed-up",
+        "englishNatural": "and he slept and he took **one** from his sides and closed up"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "אַחַת",
+        "transliteration": "achat",
+        "englishLiteral": "one",
+        "englishNatural": "and one",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶחָד וְשָׂפָה **אַחַת** לְכֻלָּם וְזֶה",
+        "transliteration": "echad veSafah **achat** leKhulam veZeh",
+        "englishLiteral": "one and-lip **one** to-all-of-them and-this",
+        "englishNatural": "is one lip **and one** to all of them and this"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "אַחַת",
+        "transliteration": "achat",
+        "englishLiteral": "one",
+        "englishNatural": "one",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "עַד שְׁנַת **אַחַת** לְכוֹרֶשׁ הַמֶּלֶךְ",
+        "transliteration": "ad shnat **achat** leKoresh haMelekh",
+        "englishLiteral": "until year-of **one** to-Cyrus the-king",
+        "englishNatural": "until the year of **one** to Cyrus the king"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "natuy",
+  "language": "hebrew",
+  "root": "natah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 22
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "נָטוּי",
+        "transliteration": "natuy",
+        "englishLiteral": "stretched-out",
+        "englishNatural": "stretched-out",
+        "root": "natah",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַקֶּרַח הַנּוֹרָא **נָטוּי** עַל־ רָאשֵׁיהֶם",
+        "transliteration": "haKerach haNora **natuy** al- raasheihem",
+        "englishLiteral": "the-crystal the-fearsome **stretched-out** over- heads-their",
+        "englishNatural": "The Crystal The Fearsome **stretched-out** over their heads"
+      }
+    }
+  ]
+}

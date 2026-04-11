@@ -1,0 +1,31 @@
+{
+  "key": "vearbea",
+  "language": "aramaic",
+  "root": "arba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 6
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "וְאַרְבְּעָה֙",
+        "transliteration": "veArbea",
+        "englishLiteral": "and-four",
+        "englishNatural": "and four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ גַּבַּ֔הּ **וְאַרְבְּעָה֙** רֵאשִׁ֣ין לְחֵֽיוְתָ֔א",
+        "transliteration": "al- gabbah **veArbea** reshin lekheyveta",
+        "englishLiteral": "on- back-its **and-four** heads to-the-beast",
+        "englishNatural": "on its back **and four** heads to the beast"
+      }
+    }
+  ]
+}

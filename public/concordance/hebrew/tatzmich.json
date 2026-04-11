@@ -1,0 +1,33 @@
+{
+  "key": "tatzmich",
+  "language": "hebrew",
+  "root": "tzamach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 18
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "תַּצְמִיחַ",
+        "transliteration": "tatzmich",
+        "englishLiteral": "it-will-grow",
+        "englishNatural": "it will grow",
+        "root": "tzamach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וְקוֹץ וְדַרְדַּר **תַּצְמִיחַ** לָךְ וְאָכַלְתָּ",
+        "transliteration": "veQots veDardar **tatzmich** lakh veAkhlta",
+        "englishLiteral": "And-thorn and-thistle **it-will-grow** to-you and-you-will-eat",
+        "englishNatural": "And thorn and thistle **it will grow** to you and you will eat"
+      }
+    }
+  ]
+}

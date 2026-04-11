@@ -1,0 +1,31 @@
+{
+  "key": "pleon",
+  "language": "greek",
+  "root": "pleon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "πλέον",
+        "transliteration": "pleon",
+        "englishLiteral": "more",
+        "englishNatural": "more",
+        "root": "pleon",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "ἀγαπᾷς με **πλέον** τούτων λέγει",
+        "transliteration": "agapas me **pleon** toutōn legei",
+        "englishLiteral": "do-you-god_love me **more** these He-says",
+        "englishNatural": "do you god-love me **more** than these He says"
+      }
+    }
+  ]
+}

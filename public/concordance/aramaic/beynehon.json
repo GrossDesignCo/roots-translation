@@ -1,0 +1,31 @@
+{
+  "key": "beynehon",
+  "language": "aramaic",
+  "root": "beyn",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 8
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "ביניהון",
+        "transliteration": "beynehon",
+        "englishLiteral": "between-them",
+        "englishNatural": "between them",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "זְעֵירָה֙ סִלְקָ֣ת **ביניהון** וּתְלָ֗ת מִן־",
+        "transliteration": "zeeirah silqat **beynehon** uTelat min-",
+        "englishLiteral": "small came-up **between-them** and-three from-",
+        "englishNatural": "small came up **between them** and three from"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "kasdim",
+  "language": "hebrew",
+  "root": "kasdim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 15,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "כַּשְׂדִּים",
+        "transliteration": "Kasdim",
+        "englishLiteral": "Chaldeans",
+        "englishNatural": "of the Chaldeans",
+        "root": "kasdim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוֹצֵאתִיךָ מֵאוּר **כַּשְׂדִּים** לָתֶת לְךָ",
+        "transliteration": "hotzeti-kha meUr **Kasdim** latet lekha",
+        "englishLiteral": "I-brought_out-you from-Ur **Chaldeans** to-give to-you",
+        "englishNatural": "brought-out you from Ur **of the Chaldeans** to give to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "כַּשְׂדִּים",
+        "transliteration": "Kasdim",
+        "englishLiteral": "Chaldeans",
+        "englishNatural": "Chaldeans",
+        "root": "kasdim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַכֹּהֵן בְּאֶרֶץ **כַּשְׂדִּים** עַל־ נְהַר־",
+        "transliteration": "haKohen beEretz **Kasdim** al- nehar-",
+        "englishLiteral": "the-priest in-land-of **Chaldeans** over- River-of-",
+        "englishNatural": "the priest in the land of **Chaldeans** over River of"
+      }
+    }
+  ]
+}

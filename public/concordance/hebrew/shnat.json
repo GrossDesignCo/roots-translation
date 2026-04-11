@@ -1,0 +1,31 @@
+{
+  "key": "shnat",
+  "language": "hebrew",
+  "root": "shanah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 1,
+        "verse": 21
+      },
+      "wordIndex": 3,
+      "word": {
+        "originalScript": "שְׁנַת",
+        "transliteration": "shnat",
+        "englishLiteral": "year-of",
+        "englishNatural": "the year of",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "דָּנִיֵּאל עַד **שְׁנַת** אַחַת לְכוֹרֶשׁ",
+        "transliteration": "Daniel ad **shnat** achat leKoresh",
+        "englishLiteral": "God_Is_My_Judge (Daniel) until **year-of** one to-Cyrus",
+        "englishNatural": "And God-Is-My-Judge (Daniel) until **the year of** one to Cyrus"
+      }
+    }
+  ]
+}

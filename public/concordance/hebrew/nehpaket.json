@@ -1,0 +1,33 @@
+{
+  "key": "nehpaket",
+  "language": "hebrew",
+  "root": "haphakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "נֶהְפָּכֶת",
+        "transliteration": "nehpaket",
+        "englishLiteral": "overturned",
+        "englishNatural": "overturned",
+        "root": "haphakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹם וְנִינְוֵה **נֶהְפָּכֶת**",
+        "transliteration": "yom veNineveh **nehpaket**",
+        "englishLiteral": "day and-Dwelling_of_Fish (Nineveh) **overturned**",
+        "englishNatural": "days and Dwelling-of-Fish (Nineveh) **overturned**"
+      }
+    }
+  ]
+}

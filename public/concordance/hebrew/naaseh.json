@@ -1,0 +1,33 @@
+{
+  "key": "naaseh",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      },
+      "wordIndex": 2,
+      "word": {
+        "originalScript": "נַֽעֲשֶׂ֥ה",
+        "transliteration": "naAseh",
+        "englishLiteral": "Let_us-make",
+        "englishNatural": "Let us make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים **נַֽעֲשֶׂ֥ה** אָדָ֛ם בְּצַלְמֵ֖נוּ",
+        "transliteration": "vaYomer Elohim **naAseh** Adam beTzalmenu",
+        "englishLiteral": "And-said Gods **Let_us-make** Earthling (Adam) in-our-image",
+        "englishNatural": "said And God **Let us make** Earthling (Adam) in our image"
+      }
+    }
+  ]
+}

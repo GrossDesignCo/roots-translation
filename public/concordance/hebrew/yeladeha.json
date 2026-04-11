@@ -1,0 +1,31 @@
+{
+  "key": "yeladeha",
+  "language": "hebrew",
+  "root": "yeled",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "יְלָדֶ֖יהָ",
+        "transliteration": "yeladeha",
+        "englishLiteral": "children-her",
+        "englishNatural": "her children",
+        "root": "yeled",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י **יְלָדֶ֖יהָ** וּמֵאִישָֽׁהּ׃",
+        "transliteration": "haIshah miShney **yeladeha** uMeIshah",
+        "englishLiteral": "the-woman from-two-of **children-her** and-from-man-her",
+        "englishNatural": "and the woman from the two of **her children** and from her man"
+      }
+    }
+  ]
+}

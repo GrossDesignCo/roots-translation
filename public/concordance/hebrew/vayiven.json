@@ -1,0 +1,33 @@
+{
+  "key": "vayiven",
+  "language": "hebrew",
+  "root": "banah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 22
+      },
+      "wordIndex": 0,
+      "word": {
+        "originalScript": "וַיִּבֶן",
+        "transliteration": "vaYiven",
+        "englishLiteral": "And-built",
+        "englishNatural": "built",
+        "root": "banah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּבֶן** יְהוָה אֱלֹהִים",
+        "transliteration": "**vaYiven** YHWH Elohim",
+        "englishLiteral": "**And-built** He_Who_Is (YHWH) Gods",
+        "englishNatural": "**built** And He-Who-Is (YHWH) God"
+      }
+    }
+  ]
+}

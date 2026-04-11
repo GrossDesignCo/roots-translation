@@ -1,0 +1,33 @@
+{
+  "key": "yancheni",
+  "language": "hebrew",
+  "root": "nachah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "יַנְחֵנִי",
+        "transliteration": "yancheni",
+        "englishLiteral": "he-guides-me",
+        "englishNatural": "he guides me",
+        "root": "nachah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "בְּמַעְגְּלֵי־ צֶדֶק **יַנְחֵנִי** לְמַעַן שְׁמוֹ",
+        "transliteration": "beMaglei- tzedeq **yancheni** leMaan shemo",
+        "englishLiteral": "in-paths-of- righteousness **he-guides-me** for-sake-of his-name",
+        "englishNatural": "in paths of righteousness **he guides me** for the sake of his name"
+      }
+    }
+  ]
+}

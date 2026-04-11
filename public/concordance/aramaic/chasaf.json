@@ -1,0 +1,79 @@
+{
+  "key": "chasaf",
+  "language": "aramaic",
+  "root": "chasaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 33
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "חֲסַף",
+        "transliteration": "chasaf",
+        "englishLiteral": "clay",
+        "englishNatural": "clay",
+        "root": "chasaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִנְהוֹן דִּי **חֲסַף**",
+        "transliteration": "uMinhon di **chasaf**",
+        "englishLiteral": "and-from-them which **clay**",
+        "englishNatural": "and from them of **clay**"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 41
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "חֲסַף",
+        "transliteration": "chasaf",
+        "englishLiteral": "clay-of",
+        "englishNatural": "the clay of",
+        "root": "chasaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶצְבְּעָתָא מִנְּהוֹן **חֲסַף** פֶּחָר וּמִנְּהוֹן",
+        "transliteration": "veEtzbeata minnehon **chasaf** pechar uMinnehon",
+        "englishLiteral": "and-toes-the from-them **clay-of** potter and-from-them",
+        "englishNatural": "and the toes from them **the clay of** the potter and from them"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 42
+      },
+      "wordIndex": 5,
+      "word": {
+        "originalScript": "חֲסַף",
+        "transliteration": "chasaf",
+        "englishLiteral": "clay",
+        "englishNatural": "clay",
+        "root": "chasaf",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פַּרְזֶל וּמִנְּהוֹן **חֲסַף** מִן־ קְצָת",
+        "transliteration": "parzel uMinnehon **chasaf** min- qetsat",
+        "englishLiteral": "iron and-from-them **clay** from- end-of",
+        "englishNatural": "iron and from them **clay** from the end of"
+      }
+    }
+  ]
+}

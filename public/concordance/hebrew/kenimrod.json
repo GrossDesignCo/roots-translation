@@ -1,0 +1,31 @@
+{
+  "key": "kenimrod",
+  "language": "hebrew",
+  "root": "nimrod",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 9
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "כְּנִמְרֹד",
+        "transliteration": "keNimrod",
+        "englishLiteral": "like-Rebel (Nimrod)",
+        "englishNatural": "Like Rebel (Nimrod)",
+        "root": "nimrod",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֵּן יֵאָמַר **כְּנִמְרֹד** גִּבּוֹר צַיִד",
+        "transliteration": "ken yeamar **keNimrod** gibbor tsayid",
+        "englishLiteral": "so it-will-be-said **like-Rebel (Nimrod)** mighty_one hunter",
+        "englishNatural": "so it will be said **Like Rebel (Nimrod)** a mighty-one a hunter"
+      }
+    }
+  ]
+}

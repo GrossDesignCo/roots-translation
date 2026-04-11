@@ -1,0 +1,31 @@
+{
+  "key": "sukkah",
+  "language": "hebrew",
+  "root": "sukkah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "סֻכָּה",
+        "transliteration": "sukkah",
+        "englishLiteral": "booth",
+        "englishNatural": "a booth",
+        "root": "sukkah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לוֹ שָׁם **סֻכָּה** וַיֵּשֶׁב תַּחְתֶּיהָ",
+        "transliteration": "lo sham **sukkah** vaYeshev tachteha",
+        "englishLiteral": "to-him there **booth** and-sat under-her",
+        "englishNatural": "for him there **a booth** and sat under it"
+      }
+    }
+  ]
+}

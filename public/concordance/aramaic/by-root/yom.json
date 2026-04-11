@@ -1,0 +1,54 @@
+{
+  "root": "yom",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "יוֹמִ֖ין",
+        "transliteration": "yomin",
+        "englishLiteral": "Days",
+        "englishNatural": "Days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רְמִ֔יו וְעַתִּ֥יק **יוֹמִ֖ין** יְתִ֑ב לְבוּשֵׁ֣הּ׀",
+        "transliteration": "remiw veAttiq **yomin** yetiv levusheh",
+        "englishLiteral": "were-placed and-Ancient-of **Days** had-sat garment-his",
+        "englishNatural": "were placed and the Ancient of **Days** had sat his garment"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 14,
+      "word": {
+        "originalScript": "יֽוֹמַיָּא֙",
+        "transliteration": "yomaya",
+        "englishLiteral": "Days-the",
+        "englishNatural": "the Days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַד־ עַתִּ֤יק **יֽוֹמַיָּא֙** מְטָ֔ה וּקְדָמ֖וֹהִי",
+        "transliteration": "veAd- Attiq **yomaya** meta uQodamohi",
+        "englishLiteral": "and-unto- Ancient-of **Days-the** had-reached and-before-him",
+        "englishNatural": "and unto the Ancient of **the Days** he had reached and before him"
+      }
+    }
+  ]
+}

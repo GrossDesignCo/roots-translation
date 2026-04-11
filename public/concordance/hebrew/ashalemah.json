@@ -1,0 +1,33 @@
+{
+  "key": "ashalemah",
+  "language": "hebrew",
+  "root": "shalem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "word": {
+        "originalScript": "אֲשַׁלֵּמָה",
+        "transliteration": "ashalemah",
+        "englishLiteral": "I-will-complete",
+        "englishNatural": "I will complete",
+        "root": "shalem",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר נָדַרְתִּי **אֲשַׁלֵּמָה** יְשׁוּעָתָה לַיהוָה",
+        "transliteration": "asher nadarti **ashalemah** yeshuatah laYHWH",
+        "englishLiteral": "which I-vowed **I-will-complete** salvation to-He_Who_Is (YHWH)",
+        "englishNatural": "what I have vowed **I will complete** salvation belongs to He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "patzah",
+  "language": "hebrew",
+  "root": "patsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "פָּצְתָה",
+        "transliteration": "patzah",
+        "englishLiteral": "she-opened",
+        "englishNatural": "has opened",
+        "root": "patsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה אֲשֶׁר **פָּצְתָה** אֶת־ פִּיהָ",
+        "transliteration": "haAdamah asher **patzah** et- piha",
+        "englishLiteral": "the-earth which **she-opened** ↳ her-mouth",
+        "englishNatural": "the earth which **has opened** ↳ her mouth"
+      }
+    }
+  ]
+}

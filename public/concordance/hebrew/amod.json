@@ -1,0 +1,33 @@
+{
+  "key": "amod",
+  "language": "hebrew",
+  "root": "amad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "עֲמֹד",
+        "transliteration": "amod",
+        "englishLiteral": "stand",
+        "englishNatural": "stand",
+        "root": "amad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בֶּן־ אָדָם **עֲמֹד** עַל־ רַגְלֶיךָ",
+        "transliteration": "ben- Adam **amod** al- ragleikha",
+        "englishLiteral": "son-of- Earthling (Adam) **stand** over- feet-your",
+        "englishNatural": "Son of Earthling (Adam) **stand** over your feet"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "root": "aleh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "word": {
+        "originalScript": "עֲלֵה",
+        "transliteration": "aleh",
+        "englishLiteral": "leaf-of",
+        "englishNatural": "leaf of",
+        "root": "aleh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֵם וַיִּתְפְּרוּ **עֲלֵה** תְאֵנָה וַיַּעֲשׂוּ",
+        "transliteration": "hem vayItperu **aleh** teenah vaYaasu",
+        "englishLiteral": "they and-sewed **leaf-of** fig and-made",
+        "englishNatural": "they were and they sewed **leaf of** fig and made"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 10,
+      "word": {
+        "originalScript": "וְעָלֵהוּ",
+        "transliteration": "veAlehu",
+        "englishLiteral": "and-its-leaf",
+        "englishNatural": "and its leaf",
+        "root": "aleh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִתֵּן בְּעִתּוֹ **וְעָלֵהוּ** לֹא יִבּוֹל",
+        "transliteration": "yiten beIto **veAlehu** lo yibol",
+        "englishLiteral": "it-gives in-its-season **and-its-leaf** not it-withers",
+        "englishNatural": "gives in its season **and its leaf** not withers"
+      }
+    }
+  ]
+}

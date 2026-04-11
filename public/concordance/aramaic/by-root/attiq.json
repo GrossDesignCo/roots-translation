@@ -1,0 +1,54 @@
+{
+  "root": "attiq",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "word": {
+        "originalScript": "וְעַתִּ֥יק",
+        "transliteration": "veAttiq",
+        "englishLiteral": "and-Ancient-of",
+        "englishNatural": "and the Ancient of",
+        "root": "attiq",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כָרְסָוָן֙ רְמִ֔יו **וְעַתִּ֥יק** יוֹמִ֖ין יְתִ֑ב",
+        "transliteration": "korsavan remiw **veAttiq** yomin yetiv",
+        "englishLiteral": "thrones were-placed **and-Ancient-of** Days had-sat",
+        "englishNatural": "thrones were placed **and the Ancient of** Days had sat"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 13,
+      "word": {
+        "originalScript": "עַתִּ֤יק",
+        "transliteration": "Attiq",
+        "englishLiteral": "Ancient-of",
+        "englishNatural": "the Ancient of",
+        "root": "attiq",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הֲוָ֔ה וְעַד־ **עַתִּ֤יק** יֽוֹמַיָּא֙ מְטָ֔ה",
+        "transliteration": "havah veAd- **Attiq** yomaya meta",
+        "englishLiteral": "was and-unto- **Ancient-of** Days-the had-reached",
+        "englishNatural": "he was and unto **the Ancient of** the Days he had reached"
+      }
+    }
+  ]
+}

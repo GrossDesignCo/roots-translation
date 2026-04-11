@@ -1,0 +1,33 @@
+{
+  "key": "luqach",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 23
+      },
+      "wordIndex": 9,
+      "word": {
+        "originalScript": "לֻקַּח",
+        "transliteration": "luQach",
+        "englishLiteral": "was-taken",
+        "englishNatural": "he was taken",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה אֲשֶׁר **לֻקַּח** מִשָּׁם׃",
+        "transliteration": "haAdamah asher **luQach** miSham",
+        "englishLiteral": "the-earth which **was-taken** from-there",
+        "englishNatural": "the earth which **he was taken** from there"
+      }
+    }
+  ]
+}

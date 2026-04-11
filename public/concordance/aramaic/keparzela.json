@@ -1,0 +1,31 @@
+{
+  "key": "keparzela",
+  "language": "aramaic",
+  "root": "parzel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 40
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "כְּפַרְזְלָא",
+        "transliteration": "keParzela",
+        "englishLiteral": "like-iron-the",
+        "englishNatural": "like the iron",
+        "root": "parzel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תֶּהֱוֵא תַּקִּיפָה **כְּפַרְזְלָא** כָּל קֳבֵל",
+        "transliteration": "teheve taqqipha **keParzela** kol qevel",
+        "englishLiteral": "will-be strong-the **like-iron-the** all because",
+        "englishNatural": "will be the strong **like the iron** all because"
+      }
+    }
+  ]
+}

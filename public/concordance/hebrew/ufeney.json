@@ -1,0 +1,31 @@
+{
+  "key": "ufeney",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ezekiel",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "word": {
+        "originalScript": "וּפְנֵי",
+        "transliteration": "uFeney",
+        "englishLiteral": "and-faces-of",
+        "englishNatural": "and the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פְּנֵי אָדָם **וּפְנֵי** אַרְיֵה אֶל־",
+        "transliteration": "peney Adam **uFeney** aryeh el-",
+        "englishLiteral": "faces-of Earthling (Adam) **and-faces-of** lion to-",
+        "englishNatural": "the face of Earthling (Adam) **and the face of** a lion to"
+      }
+    }
+  ]
+}
