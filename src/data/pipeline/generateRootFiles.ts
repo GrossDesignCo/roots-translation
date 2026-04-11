@@ -109,7 +109,6 @@ async function generateRootFilesForLanguage(
     string,
     Record<string, Record<number, Record<number, number[]>>>
   >,
-  logger: BuildLogger
 ): Promise<number> {
   const roots =
     language === 'hebrew'
@@ -151,7 +150,7 @@ export async function generateAllRootFiles(logger: BuildLogger): Promise<void> {
 
   const counts: string[] = [];
   for (const language of ['hebrew', 'greek', 'aramaic'] as const) {
-    const count = await generateRootFilesForLanguage(language, wordIndexesByRoot, logger);
+    const count = await generateRootFilesForLanguage(language, wordIndexesByRoot);
     counts.push(`${language}: ${count} files`);
   }
 

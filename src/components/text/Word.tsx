@@ -8,7 +8,7 @@ import { resolveWordOrderKey } from '@/utils/resolveWordOrderKey';
 import { resolveLineBreaks } from '@/utils/resolveLineBreaks';
 import { formatWord } from '@/utils/formatWord';
 import { useLexicon } from '@/context/LexiconContext';
-import { useEffect, useState } from 'react';
+import { useMemo } from 'react';
 
 export interface WordProps {
   word: TranslationWord;
@@ -24,13 +24,11 @@ export default function Word({
   showGrammar,
   onClick,
 }: WordProps) {
-  // Whenever the lexicon is updated, refresh the check for whether the lexicon includes this word
-  const { lexiconState, hasEntry } = useLexicon();
-  const [showEntryLink, setShowEntryLink] = useState(false);
-
-  useEffect(() => {
-    setShowEntryLink(hasEntry(word.transliteration));
-  }, [lexiconState, hasEntry, word.transliteration, word, language]);
+  const { hasEntry } = useLexicon();
+  const showEntryLink = useMemo(
+    () => hasEntry(word.transliteration),
+    [hasEntry, word.transliteration],
+  );
 
   // Visual states
   const { selectedWords } = useSelection();
@@ -45,7 +43,7 @@ export default function Word({
   const { wordText, formattedWordText } = formatWord(
     word,
     language,
-    showGrammar
+    showGrammar,
   );
 
   // Determine what kind of line breaks to show

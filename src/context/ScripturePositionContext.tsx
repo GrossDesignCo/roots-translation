@@ -217,6 +217,7 @@ export const ScripturePositionProvider: React.FC<{
     const targetChapterId =
       visibleChapterIds[Math.floor(visibleChapterIds.length / 2)];
 
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- one-time scroll restore requires inflating before scrolling
     setInflatedChapterIds((prev) => {
       const next = new Set(prev);
       next.add(targetChapterId);

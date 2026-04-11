@@ -1,4 +1,4 @@
-import { readFile, readdir } from 'fs/promises';
+import { readFile } from 'fs/promises';
 import path from 'path';
 import { notFound } from 'next/navigation';
 import LexiconEntryPage from './LexiconEntryPage';

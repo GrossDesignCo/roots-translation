@@ -12,10 +12,10 @@ export function useLocalStorage<T>(key: string, initialValue: T) {
   const [hydrated, setHydrated] = useState(false);
 
   useEffect(() => {
-    // Only run on client
     const stored = localStorage.getItem(key);
     if (stored) {
       try {
+        // eslint-disable-next-line react-hooks/set-state-in-effect -- hydrating from localStorage on mount
         setValue(JSON.parse(stored));
       } catch {
         // ignore parse error, keep default

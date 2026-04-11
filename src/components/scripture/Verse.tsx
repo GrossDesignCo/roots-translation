@@ -4,7 +4,7 @@ import { useSettings } from '@/context/SettingsContext';
 import { String } from '../text/String';
 import styles from './Verse.module.css';
 import { useLexicon } from '@/context/LexiconContext';
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo } from 'react';
 import { resolveLanguage, toBcp47Lang } from '@/utils/resolveLanguage';
 import { useSelection } from '@/context/SelectionContext';
 import { getVerseId, getBookNameKey } from '@/data/utils/idUtils';
@@ -34,18 +34,11 @@ export default function Verse({ verse }: VerseProps) {
   ]);
 
   const { selectedWords, filterVerses } = useSelection();
-  const [isFilteredOut, setIsFilteredOut] = useState<boolean>(false);
 
-  useEffect(() => {
-    if (filterVerses) {
-      const roots = verse.words.map((word) => word.root);
-      const shouldRender = selectedWords.find((word) =>
-        roots.includes(word.root),
-      );
-      setIsFilteredOut(!Boolean(shouldRender));
-    } else {
-      setIsFilteredOut(false);
-    }
+  const isFilteredOut = useMemo(() => {
+    if (!filterVerses) return false;
+    const roots = verse.words.map((word) => word.root);
+    return !selectedWords.some((word) => roots.includes(word.root));
   }, [filterVerses, selectedWords, verse.words]);
 
   const verseId = getVerseId({

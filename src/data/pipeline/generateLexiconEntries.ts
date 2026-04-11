@@ -64,20 +64,6 @@ function getOriginalScript(rootData: AnyRootElement): string {
   return '';
 }
 
-function findRoot(key: string): { rootData: AnyRootElement; language: Language } | null {
-  const lowerKey = key.toLowerCase();
-  for (const [k, v] of Object.entries(hebrewRoots)) {
-    if (k.toLowerCase() === lowerKey) return { rootData: v, language: 'hebrew' };
-  }
-  for (const [k, v] of Object.entries(greekRoots)) {
-    if (k.toLowerCase() === lowerKey) return { rootData: v, language: 'greek' };
-  }
-  for (const [k, v] of Object.entries(aramaicRoots)) {
-    if (k.toLowerCase() === lowerKey) return { rootData: v, language: 'aramaic' };
-  }
-  return null;
-}
-
 function findRootExact(key: string, lang: Language): AnyRootElement | null {
   const roots = lang === 'hebrew' ? hebrewRoots : lang === 'greek' ? greekRoots : aramaicRoots;
   return (roots as Record<string, AnyRootElement>)[key] ?? null;

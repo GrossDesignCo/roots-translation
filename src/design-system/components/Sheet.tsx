@@ -30,9 +30,9 @@ export function Sheet({
   const [expanded, setExpanded] = useState(initialExpanded);
   const contentRef = useRef<HTMLDivElement>(null);
 
-  // Reset expanded state when sheet is closed
   useEffect(() => {
     if (!open) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- resetting local UI state when sheet closes
       setExpanded(initialExpanded);
     }
   }, [open, initialExpanded]);
@@ -59,7 +59,7 @@ export function Sheet({
               [styles.open]: open,
               [styles.expanded]: expanded,
             },
-            className
+            className,
           )}
           ref={contentRef}
         >
