@@ -3,6 +3,7 @@
   gap: var(--ds-space-2);
   flex-wrap: wrap;
   border: none;
+  user-select: none;
 }
 
 .toggleGroupLabel {
@@ -18,6 +19,7 @@
   border-radius: var(--ds-radius-md);
   flex-grow: 1;
   cursor: pointer;
+  border: 1px solid transparent;
   transition: all 0.2s ease;
   background: var(--ds-bg-container);
 }

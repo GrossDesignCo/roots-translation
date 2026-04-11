@@ -54,13 +54,17 @@ export const Main = () => {
     <>
       {secondaryPanel === 'lexicon' && <LexiconEntryReader />}
       {secondaryPanel === 'settings' && <Settings />}
-      {secondaryPanel === 'scriptureNav' && <ScriptureNav onChapterChange={isDesktop ? () => {} : () => setSecondaryPanel(null)} />}
+      {secondaryPanel === 'scriptureNav' && (
+        <ScriptureNav
+          onChapterChange={isDesktop ? () => {} : () => setSecondaryPanel(null)}
+        />
+      )}
     </>
   );
 
   useEffect(() => {
     const minWidths = {
-      settings: '32ch',
+      settings: '40ch',
       lexicon: 'min(50vw, 80ch)',
       scriptureNav: '40ch',
     };
