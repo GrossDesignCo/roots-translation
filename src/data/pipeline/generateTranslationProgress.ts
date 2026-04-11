@@ -10,28 +10,36 @@
  * 
  * ```bash
  * npm run build:meta-translation-progress
+ * ```
  */
 import fs from 'fs';
 import path from 'path';
 import { getTranslationProgress, ScriptureStructure, TranslationProgressData, ScriptureMetadata } from './getTranslationProgress';
+import { BuildLogger, createBuildLogger } from './buildLogger';
 
-// Ensure the public/meta directory exists
-const metaDir = path.join(process.cwd(), 'public', 'meta');
-if (!fs.existsSync(metaDir)) {
-  fs.mkdirSync(metaDir, { recursive: true });
+export function generateTranslationProgressFiles(logger: BuildLogger): void {
+  const metaDir = path.join(process.cwd(), 'public', 'meta');
+  if (!fs.existsSync(metaDir)) {
+    fs.mkdirSync(metaDir, { recursive: true });
+  }
+
+  const { finalStructure, currentStructure, progress, metadata } = getTranslationProgress();
+
+  const writeJsonFile = (filename: string, data: ScriptureStructure | TranslationProgressData | ScriptureMetadata) => {
+    const outputPath = path.join(metaDir, filename);
+    fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
+    logger.item(`Wrote public/meta/${filename}`);
+  };
+
+  writeJsonFile('final-structure.json', finalStructure);
+  writeJsonFile('current-structure.json', currentStructure);
+  writeJsonFile('translation-progress.json', progress);
+  writeJsonFile('scripture-metadata.json', metadata);
+
+  logger.summary('Wrote 4 metadata files');
 }
 
-// Generate the translation progress data
-const { finalStructure, currentStructure, progress, metadata } = getTranslationProgress();
-
-// Write the data to JSON files
-const writeJsonFile = (filename: string, data: ScriptureStructure | TranslationProgressData | ScriptureMetadata) => {
-  const outputPath = path.join(metaDir, filename);
-  fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
-  console.log(`Data written to ${outputPath}`);
-};
-
-writeJsonFile('final-structure.json', finalStructure);
-writeJsonFile('current-structure.json', currentStructure);
-writeJsonFile('translation-progress.json', progress);
-writeJsonFile('scripture-metadata.json', metadata); 
+if (process.argv[1] && import.meta.url.endsWith(process.argv[1])) {
+  const logger = createBuildLogger();
+  generateTranslationProgressFiles(logger);
+}

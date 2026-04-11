@@ -1,6 +1,7 @@
 import { generateLexiconEntry } from '@/data/pipeline/generateLexiconEntryInOneShot';
 import { saveEntryToFile } from '@/data/pipeline/saveEntryToFile';
 import { generateLexiconIndex } from '@/data/pipeline/generateLexiconIndex';
+import { createSilentLogger } from '@/data/pipeline/buildLogger';
 import { NextResponse } from 'next/server';
 import { NextRequest } from 'next/server';
 import fs from 'fs/promises';
@@ -75,7 +76,7 @@ export async function POST(request: NextRequest) {
         await saveEntryToFile(key, language, entry);
         
         // Update the lexicon index
-        await generateLexiconIndex(language);
+        await generateLexiconIndex(language, createSilentLogger());
       })
       .catch((err) => {
         console.error('Error in background generation:', err);

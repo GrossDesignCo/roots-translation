@@ -1,14 +1,15 @@
 #!/usr/bin/env node
 
 import { generateAllLexiconIndices } from '../src/data/pipeline/generateLexiconIndex';
+import { createBuildLogger } from '../src/data/pipeline/buildLogger';
 
-// Run the index generation
-generateAllLexiconIndices()
+const logger = createBuildLogger();
+
+generateAllLexiconIndices(logger)
   .then(() => {
-    console.log('Successfully completed lexicon index generation');
     process.exit(0);
   })
   .catch((error) => {
-    console.error('Failed to generate lexicon indices:', error);
+    logger.error('Failed to generate lexicon indices', error);
     process.exit(1);
-  }); 
+  });

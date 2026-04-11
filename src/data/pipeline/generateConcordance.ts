@@ -3,8 +3,8 @@
  * and for each root.
  *
  * Outputs:
- *   public/concordance/{language}/{transliteration}.json  — per-word occurrences
- *   public/concordance/{language}/by-root/{root}.json     — per-root occurrences
+ *   public/concordance/{language}/{transliteration}.json  -- per-word occurrences
+ *   public/concordance/{language}/by-root/{root}.json     -- per-root occurrences
  *
  * Run with:
  *
@@ -20,6 +20,7 @@ import {
   SCRIPTURE_BOOK_NAMES,
   SCRIPTURE_BOOK_ORDER,
 } from '@/data/constants';
+import { BuildLogger, createBuildLogger } from './buildLogger';
 
 type Language = 'hebrew' | 'greek' | 'aramaic';
 
@@ -170,9 +171,7 @@ function sortRows(rows: ConcordanceRow[]): ConcordanceRow[] {
   });
 }
 
-async function generateConcordance(): Promise<void> {
-  console.log('Starting concordance generation...');
-
+export async function generateConcordance(logger: BuildLogger): Promise<void> {
   const scriptureDir = path.join(process.cwd(), 'src/data/scripture');
   const books = fs
     .readdirSync(scriptureDir)
@@ -182,19 +181,16 @@ async function generateConcordance(): Promise<void> {
         file !== 'index.ts'
     );
 
-  // Accumulators: language -> transliteration -> rows
   const byWord: Record<Language, Record<string, ConcordanceRow[]>> = {
     hebrew: {},
     greek: {},
     aramaic: {},
   };
-  // Accumulators: language -> root -> rows
   const byRoot: Record<Language, Record<string, ConcordanceRow[]>> = {
     hebrew: {},
     greek: {},
     aramaic: {},
   };
-  // Track root associations: transliteration -> root
   const wordRoots: Record<Language, Record<string, string>> = {
     hebrew: {},
     greek: {},
@@ -243,7 +239,6 @@ async function generateConcordance(): Promise<void> {
     }
   }
 
-  // Write per-word concordance files
   for (const lang of ['hebrew', 'greek', 'aramaic'] as Language[]) {
     const outputDir = path.join(process.cwd(), `public/concordance/${lang}`);
     await ensureDirectoryExists(outputDir);
@@ -259,9 +254,7 @@ async function generateConcordance(): Promise<void> {
       const outputPath = path.join(outputDir, `${key}.json`);
       await writeFile(outputPath, JSON.stringify(concordance, null, 2));
     }
-    console.log(`  ${lang}: wrote ${keys.length} word concordance files`);
 
-    // Write per-root concordance files
     const rootDir = path.join(outputDir, 'by-root');
     await ensureDirectoryExists(rootDir);
 
@@ -275,10 +268,15 @@ async function generateConcordance(): Promise<void> {
       const outputPath = path.join(rootDir, `${root}.json`);
       await writeFile(outputPath, JSON.stringify(concordance, null, 2));
     }
-    console.log(`  ${lang}: wrote ${roots.length} root concordance files`);
-  }
 
-  console.log('Concordance generation complete.');
+    logger.summary(`${lang}: ${keys.length} word + ${roots.length} root files`);
+  }
 }
 
-generateConcordance().catch(console.error);
+if (process.argv[1] && import.meta.url.endsWith(process.argv[1])) {
+  const logger = createBuildLogger();
+  generateConcordance(logger).catch((err) => {
+    logger.error('Failed to generate concordance', err);
+    process.exit(1);
+  });
+}

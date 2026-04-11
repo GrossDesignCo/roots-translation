@@ -15,7 +15,7 @@
     "build:data": "npm run build:data-chapters-as-markdown && npm run build:data-lexicon-index-by-word && npm run build:data-root-indexes && npm run build:data-root-files && npm run build:data-concordance && npm run build:data-lexicon-entries",
     "build:meta-translation-progress": "tsx src/data/pipeline/generateTranslationProgress.ts",
     "build:meta": "npm run build:meta-translation-progress",
-    "build:all": "npm run build:data && npm run build:meta && npm run build",
+    "build:all": "tsx scripts/build-all.ts",
     "start": "next start",
     "lint": "eslint .",
     "test": "jest",

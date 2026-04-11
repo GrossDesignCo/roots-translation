@@ -2,8 +2,8 @@
  * Generates static lexicon entry JSON files and a full index.
  *
  * For each .mdx in src/data/lexicon/{language}/, produces:
- *   public/lexicon/{language}/{key}.json   — entry content + root/related metadata
- *   public/lexicon/{language}/index.json   — browsable index of all entries
+ *   public/lexicon/{language}/{key}.json   -- entry content + root/related metadata
+ *   public/lexicon/{language}/index.json   -- browsable index of all entries
  *
  * Run with:
  *
@@ -16,6 +16,7 @@ import path from 'path';
 import { roots as hebrewRoots, HebrewRootElement } from '@/data/dictionary/hebrew/roots';
 import { roots as greekRoots, GreekRootElement } from '@/data/dictionary/greek/roots';
 import { roots as aramaicRoots, AramaicRootElement } from '@/data/dictionary/aramaic/roots';
+import { BuildLogger, createBuildLogger } from './buildLogger';
 
 type Language = 'hebrew' | 'greek' | 'aramaic';
 
@@ -93,10 +94,7 @@ function rootToInfo(key: string, rootData: AnyRootElement): RootInfo {
   };
 }
 
-async function generateLexiconEntries(): Promise<void> {
-  console.log('Starting lexicon entry generation...');
-
-  // Collect all existing MDX filenames across languages for cross-ref
+export async function generateLexiconEntries(logger: BuildLogger): Promise<void> {
   const allEntryKeys: Record<Language, Set<string>> = {
     hebrew: new Set(),
     greek: new Set(),
@@ -117,6 +115,8 @@ async function generateLexiconEntries(): Promise<void> {
     }
   }
 
+  const summaryParts: string[] = [];
+
   for (const lang of ['hebrew', 'greek', 'aramaic'] as Language[]) {
     const lexiconDir = path.join(process.cwd(), `src/data/lexicon/${lang}`);
     const outputDir = path.join(process.cwd(), `public/lexicon/${lang}`);
@@ -127,11 +127,10 @@ async function generateLexiconEntries(): Promise<void> {
       const files = await readdir(lexiconDir);
       mdxFiles = files.filter((f) => f.endsWith('.mdx') && !f.startsWith('.'));
     } catch {
-      console.log(`  ${lang}: no lexicon directory found, skipping`);
+      summaryParts.push(`${lang}: skipped`);
       continue;
     }
 
-    // Skip model-reference-entries subdirectory files
     const indexEntries: LexiconIndexEntry[] = [];
 
     for (const file of mdxFiles) {
@@ -139,7 +138,6 @@ async function generateLexiconEntries(): Promise<void> {
       const keyLower = key.toLowerCase();
       const content = await readFile(path.join(lexiconDir, file), 'utf-8');
 
-      // Try to find a matching dictionary root
       const rootMatch = findRootExact(key, lang) || findRootExact(keyLower, lang);
       let rootInfo: RootInfo | undefined;
       let relatedEntries: RelatedEntry[] = [];
@@ -148,7 +146,6 @@ async function generateLexiconEntries(): Promise<void> {
       if (rootMatch) {
         rootInfo = rootToInfo(key, rootMatch);
 
-        // Build related entries
         const relatedKeys = (rootMatch as { related?: readonly string[] }).related;
         if (relatedKeys) {
           relatedEntries = relatedKeys
@@ -163,7 +160,6 @@ async function generateLexiconEntries(): Promise<void> {
             .filter(Boolean) as RelatedEntry[];
         }
 
-        // Build translatedTo entries (Hebrew -> Greek)
         const translatedToKeys = (rootMatch as { translatedTo?: readonly string[] }).translatedTo;
         if (translatedToKeys) {
           translatedTo = translatedToKeys
@@ -203,16 +199,22 @@ async function generateLexiconEntries(): Promise<void> {
       });
     }
 
-    // Write the index
     await writeFile(
       path.join(outputDir, 'index.json'),
       JSON.stringify(indexEntries, null, 2)
     );
 
-    console.log(`  ${lang}: wrote ${mdxFiles.length} entry files + index.json`);
+    const label = mdxFiles.length === 1 ? 'entry' : 'entries';
+    summaryParts.push(`${lang}: ${mdxFiles.length} ${label}`);
   }
 
-  console.log('Lexicon entry generation complete.');
+  logger.summary(summaryParts.join(', '));
 }
 
-generateLexiconEntries().catch(console.error);
+if (process.argv[1] && import.meta.url.endsWith(process.argv[1])) {
+  const logger = createBuildLogger();
+  generateLexiconEntries(logger).catch((err) => {
+    logger.error('Failed to generate lexicon entries', err);
+    process.exit(1);
+  });
+}

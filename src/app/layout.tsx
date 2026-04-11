@@ -28,6 +28,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://roots-translation.vercel.app'),
   title: 'Roots Translation',
   description:
     'A Translation of the Bible that focused on consistent 1:1 mapping of original root words to English counterparts.',

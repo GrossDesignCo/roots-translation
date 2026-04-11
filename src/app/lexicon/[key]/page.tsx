@@ -68,15 +68,51 @@ async function tryReadJson<T>(filePath: string): Promise<T | null> {
   }
 }
 
+/**
+ * Be very specific about lexicon and concordance paths to minimize built bload as much as possible
+ * See "overly broad patterns" in turbopack
+ * */
+function getLexiconPath(lang: Language, key: string): string {
+  const base = path.join(process.cwd(), 'public/lexicon');
+  switch (lang) {
+    case 'hebrew':
+      return path.join(base, 'hebrew', `${key}.json`);
+    case 'greek':
+      return path.join(base, 'greek', `${key}.json`);
+    case 'aramaic':
+      return path.join(base, 'aramaic', `${key}.json`);
+  }
+}
+
+function getConcordanceWordPath(lang: Language, key: string): string {
+  const base = path.join(process.cwd(), 'public/concordance');
+  switch (lang) {
+    case 'hebrew':
+      return path.join(base, 'hebrew', `${key}.json`);
+    case 'greek':
+      return path.join(base, 'greek', `${key}.json`);
+    case 'aramaic':
+      return path.join(base, 'aramaic', `${key}.json`);
+  }
+}
+
+function getConcordanceRootPath(lang: Language, rootKey: string): string {
+  const base = path.join(process.cwd(), 'public/concordance');
+  switch (lang) {
+    case 'hebrew':
+      return path.join(base, 'hebrew', 'by-root', `${rootKey}.json`);
+    case 'greek':
+      return path.join(base, 'greek', 'by-root', `${rootKey}.json`);
+    case 'aramaic':
+      return path.join(base, 'aramaic', 'by-root', `${rootKey}.json`);
+  }
+}
+
 async function findEntry(
   key: string,
 ): Promise<{ entry: LexiconEntry; language: Language } | null> {
   for (const lang of LANGUAGES) {
-    const filePath = path.join(
-      process.cwd(),
-      `public/lexicon/${lang}/${key}.json`,
-    );
-    const entry = await tryReadJson<LexiconEntry>(filePath);
+    const entry = await tryReadJson<LexiconEntry>(getLexiconPath(lang, key));
     if (entry) return { entry, language: lang };
   }
   return null;
@@ -132,23 +168,15 @@ export default async function LexiconKeyPage({
 
   const { entry, language } = result;
 
-  // Load concordance data for this word
   const wordConcordance = await tryReadJson<ConcordanceData>(
-    path.join(
-      process.cwd(),
-      `public/concordance/${language}/${key.toLowerCase()}.json`,
-    ),
+    getConcordanceWordPath(language, key.toLowerCase()),
   );
 
-  // Load root concordance data if this word has a root
   let rootConcordance: ConcordanceData | null = null;
   const rootKey = entry.root?.key;
   if (rootKey) {
     rootConcordance = await tryReadJson<ConcordanceData>(
-      path.join(
-        process.cwd(),
-        `public/concordance/${language}/by-root/${rootKey}.json`,
-      ),
+      getConcordanceRootPath(language, rootKey),
     );
   }
 
