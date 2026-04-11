@@ -11,7 +11,7 @@ type BookData = (typeof currentStructure)[BookNameKey];
 
 export const ScriptureNav = ({ onChapterChange }: { onChapterChange: () => void }) => {
   const [openBook, setOpenBook] = useState<BookNameKey | null>(null);
-  const { visibleChapterIds } = useScripturePosition();
+  const { visibleChapterIds, scrollToChapter } = useScripturePosition();
 
   const visibleBookIds = useMemo(() => {
     return Object.keys(currentStructure).filter((bookNameKey) =>
@@ -33,6 +33,7 @@ export const ScriptureNav = ({ onChapterChange }: { onChapterChange: () => void 
                 openBook === bookNameKey || visibleBookIds.includes(bookNameKey)
               }
               visibleChapterIds={visibleChapterIds}
+              scrollToChapter={scrollToChapter}
               onToggleOpen={() => {
                 setOpenBook(
                   openBook === bookNameKey ? null : (bookNameKey as BookNameKey)
@@ -53,6 +54,7 @@ interface BookNavProps {
   isOpen: boolean;
   onToggleOpen: () => void;
   visibleChapterIds: string[];
+  scrollToChapter: (chapterId: string) => void;
   onChapterChange: () => void;
 }
 
@@ -62,6 +64,7 @@ export const BookNav = ({
   isOpen,
   onToggleOpen,
   visibleChapterIds,
+  scrollToChapter,
   onChapterChange,
 }: BookNavProps) => {
   const highlightedChapterIds = useMemo(() => {
@@ -106,9 +109,7 @@ export const BookNav = ({
                 introType="down"
                 data-chapter-id={chapterId}
                 onClick={() => {
-                  document
-                    .getElementById(chapterId)
-                    ?.scrollIntoView({ behavior: 'smooth' });
+                  scrollToChapter(chapterId);
                   onChapterChange();
                 }}
               >

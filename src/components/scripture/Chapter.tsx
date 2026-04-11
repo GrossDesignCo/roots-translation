@@ -3,47 +3,35 @@ import Verse from '@/components/scripture/Verse';
 import type { Chapter as ChapterData } from '@/types';
 import styles from './Chapter.module.css';
 import { getChapterId, getBookNameKey } from '@/data/utils/idUtils';
-import { Fragment, useEffect, useRef, useState } from 'react';
+import { Fragment, useEffect, useRef } from 'react';
 import { WorkInProgressMarker } from './WorkInProgressMarker';
 import { useScripturePosition } from '@/context/ScripturePositionContext';
 
-const NEARBY_MARGIN = '500%';
-
 interface ChapterProps {
   chapterData: ChapterData;
-  renderVerseContent: boolean;
+  bookInflated: boolean;
 }
 
-export const Chapter = ({ chapterData, renderVerseContent }: ChapterProps) => {
-  const { observe, unobserve } = useScripturePosition();
+export const Chapter = ({ chapterData, bookInflated }: ChapterProps) => {
+  const { observe, unobserve, observeForInflation, unobserveForInflation, inflatedChapterIds } =
+    useScripturePosition();
   const chapterRef = useRef<HTMLDivElement>(null);
-  const [isNearby, setIsNearby] = useState(false);
   const chapterId = getChapterId({
     book: getBookNameKey(chapterData.meta.book),
     chapter: chapterData.meta.chapter,
   });
 
-  // Chapter-level proximity check: only inflate verses when this chapter
-  // is within range, even if the parent book is already nearby.
+  const isInflated = inflatedChapterIds.has(chapterId);
+
+  // Register with the inflation observer so the context can track proximity
   useEffect(() => {
     const el = chapterRef.current;
     if (!el) return;
+    observeForInflation(el);
+    return () => unobserveForInflation(el);
+  }, [observeForInflation, unobserveForInflation]);
 
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting) {
-          setIsNearby(true);
-          observer.disconnect();
-        }
-      },
-      { rootMargin: NEARBY_MARGIN }
-    );
-    observer.observe(el);
-
-    return () => observer.disconnect();
-  }, []);
-
-  const shouldRenderVerses = renderVerseContent && isNearby;
+  const shouldRenderVerses = bookInflated && isInflated;
 
   // Position tracking for nav highlighting — only when verses are rendered
   useEffect(() => {
