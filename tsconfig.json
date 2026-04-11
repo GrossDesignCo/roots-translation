@@ -1,11 +1,12 @@
 {
   "compilerOptions": {
-    "target": "ES2017",
+    "target": "es2025",
     "lib": [
       "dom",
-      "dom.iterable",
       "esnext"
     ],
+    "types": ["node", "jest", "mdx"],
+    "rootDir": ".",
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
