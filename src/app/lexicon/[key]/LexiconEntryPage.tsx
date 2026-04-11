@@ -95,6 +95,7 @@ export default function LexiconEntryPage({
         root={entry.root}
         relatedEntries={entry.relatedEntries}
         translatedTo={entry.translatedTo}
+        language={entry.language}
       />
 
       {hasConcordance && (

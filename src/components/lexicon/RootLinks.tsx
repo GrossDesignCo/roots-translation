@@ -15,6 +15,7 @@ import {
 } from '@/data/dictionary/aramaic/roots';
 import { HebrewRoot, GreekRoot, AramaicRoot } from '@/types';
 import styles from './LexiconEntryReader.module.css';
+import { toBcp47Lang } from '@/utils/resolveLanguage';
 
 const findRoot = (word: string) => {
   return (
@@ -77,11 +78,15 @@ export const DictionaryEntry = ({
   const { hebrew, greek, aramaic, transliteration, englishLiteral, type } =
     rootWord;
   const originalText = hebrew || greek || aramaic;
+  const scriptLang = toBcp47Lang(
+    hebrew ? 'hebrew' : greek ? 'greek' : 'aramaic',
+  );
   const entryExists = hasEntry(transliteration);
 
   const content = (
     <>
-      {originalText} → {transliteration} → {englishLiteral} ({type})
+      <span lang={scriptLang}>{originalText}</span> → {transliteration} →{' '}
+      {englishLiteral} ({type})
     </>
   );
 

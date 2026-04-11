@@ -21,8 +21,8 @@ const Settings = () => {
             preview: (
               <>
                 <div className={styles.originalLanguage}>
-                  <span>יְהוָה</span>
-                  <span>ἐγὼ</span>
+                  <span lang="he">יְהוָה</span>
+                  <span lang="el">ἐγὼ</span>
                 </div>
               </>
             ),

@@ -40,8 +40,9 @@
   --ds-radius-full: 9999px;
 
   /* Semantic Tokens - Typography */
-  --ds-font-family-sans-serif: 'Noto Sans Hebrew', sans-serif;
-  --ds-font-family-serif: 'Noto Serif Hebrew', serif;
+  --ds-font-family-sans-serif:
+    'Google Sans Hebrew', var(--font-noto-sans), 'Noto Sans', sans-serif;
+  --ds-font-family-serif: var(--font-noto-serif), 'Noto Serif Hebrew', serif;
 
   --ds-text-heading-1: var(--ds-font-size-5xl);
   --ds-text-heading-2: var(--ds-font-size-4xl);

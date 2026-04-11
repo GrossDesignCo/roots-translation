@@ -2,6 +2,7 @@ import { readFile } from 'fs/promises';
 import path from 'path';
 import Link from 'next/link';
 import styles from './page.module.css';
+import { toBcp47Lang } from '@/utils/resolveLanguage';
 
 interface LexiconIndexEntry {
   key: string;
@@ -73,7 +74,7 @@ export default async function LexiconIndexPage() {
                   className={styles.card}
                 >
                   {entry.originalScript && (
-                    <span className={styles.cardScript}>
+                    <span className={styles.cardScript} lang={toBcp47Lang(key)}>
                       {entry.originalScript}
                     </span>
                   )}

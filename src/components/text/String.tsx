@@ -5,7 +5,7 @@ import { useSelection } from '@/context/SelectionContext';
 import Word from './Word';
 import cx from 'classnames';
 import styles from './String.module.css';
-import { resolveLanguage } from '@/utils/resolveLanguage';
+import { resolveLanguage, toBcp47Lang } from '@/utils/resolveLanguage';
 
 interface StringProps {
   words: TranslationWord[];
@@ -49,7 +49,7 @@ export const String = ({
     <span
       className={cx(styles.String, styles[resolvedLanguage])}
       dir={dir}
-      lang={resolvedLanguage}
+      lang={toBcp47Lang(resolvedLanguage)}
     >
       {sortedWords.map((word, i) => {
         return (

@@ -81,7 +81,7 @@ export default function ConcordanceTable({
                 <td className={styles.location}>
                   {formatLocation(row.location)}
                 </td>
-                <td className={styles.hebrew} dir="rtl">
+                <td className={styles.hebrew} dir="rtl" lang="he">
                   {renderSnippet(row.context.hebrew)}
                 </td>
                 <td className={styles.context}>

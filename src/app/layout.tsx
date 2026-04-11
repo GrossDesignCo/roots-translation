@@ -1,19 +1,21 @@
 import type { Metadata, Viewport } from 'next';
 import { ThemeProvider } from 'next-themes';
-import { Noto_Sans_Hebrew, Noto_Serif_Hebrew } from 'next/font/google';
+import { Noto_Sans, Noto_Serif_Hebrew } from 'next/font/google';
 import '@/design-system/index.css';
 import './globals.css';
 
-const notoSans = Noto_Sans_Hebrew({
-  subsets: ['greek-ext', 'hebrew', 'latin-ext'],
+const notoSans = Noto_Sans({
+  subsets: ['latin', 'latin-ext', 'greek', 'greek-ext'],
   weight: ['400', '500', '700'],
   fallback: ['Arial'],
+  variable: '--font-noto-sans',
 });
 
 const notoSerif = Noto_Serif_Hebrew({
   subsets: ['hebrew', 'latin-ext'],
   weight: ['400', '500', '700'],
   fallback: ['Arial'],
+  variable: '--font-noto-serif',
 });
 
 export const viewport: Viewport = {
@@ -67,7 +69,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${notoSans.className} ${notoSerif.className}`}
+      className={`${notoSans.variable} ${notoSerif.variable}`}
       suppressHydrationWarning
     >
       <head>

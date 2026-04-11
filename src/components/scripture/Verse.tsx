@@ -5,7 +5,7 @@ import { String } from '../text/String';
 import styles from './Verse.module.css';
 import { useLexicon } from '@/context/LexiconContext';
 import { useEffect, useState } from 'react';
-import { resolveLanguage } from '@/utils/resolveLanguage';
+import { resolveLanguage, toBcp47Lang } from '@/utils/resolveLanguage';
 import { useSelection } from '@/context/SelectionContext';
 import { getVerseId, getBookNameKey } from '@/data/utils/idUtils';
 
@@ -24,7 +24,7 @@ export default function Verse({ verse }: VerseProps) {
     const resolvedOGLanguage = resolveLanguage(verse.words?.[0], 'original');
     checkWordsForEntryPresence(
       verse.words.map((word) => word.transliteration),
-      resolvedOGLanguage
+      resolvedOGLanguage,
     );
   }, [
     verse.words,
@@ -40,7 +40,7 @@ export default function Verse({ verse }: VerseProps) {
     if (filterVerses) {
       const roots = verse.words.map((word) => word.root);
       const shouldRender = selectedWords.find((word) =>
-        roots.includes(word.root)
+        roots.includes(word.root),
       );
       setIsFilteredOut(!Boolean(shouldRender));
     } else {
@@ -67,7 +67,7 @@ export default function Verse({ verse }: VerseProps) {
       {languages.map((language) => {
         const resolvedLanguage = resolveLanguage(
           verse.words?.[0],
-          language as LanguageKey
+          language as LanguageKey,
         );
         const dir = resolvedLanguage === 'hebrew' ? 'rtl' : undefined;
         const renderedString = (
@@ -80,7 +80,12 @@ export default function Verse({ verse }: VerseProps) {
         );
 
         return isShowingMultiple ? (
-          <span className={styles.VerseAsBlock} dir={dir} key={language}>
+          <span
+            className={styles.VerseAsBlock}
+            dir={dir}
+            lang={toBcp47Lang(resolvedLanguage)}
+            key={language}
+          >
             {renderedString}
           </span>
         ) : (

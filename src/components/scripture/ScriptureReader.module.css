@@ -8,7 +8,7 @@
 }
 
 .scripture.sans {
-  font-family: 'Noto Sans Hebrew', sans-serif;
+  font-family: var(--ds-font-family-sans-serif);
 }
 
 .scripture.serif {

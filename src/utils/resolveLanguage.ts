@@ -18,3 +18,12 @@ export const resolveLanguage = (
 
   return key;
 };
+
+const bcp47Map: Record<string, string> = {
+  hebrew: 'he',
+  greek: 'el',
+  aramaic: 'arc',
+};
+
+export const toBcp47Lang = (language: string): string | undefined =>
+  bcp47Map[language];

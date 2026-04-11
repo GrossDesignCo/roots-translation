@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import styles from './LexiconRootHeader.module.css';
+import { toBcp47Lang } from '@/utils/resolveLanguage';
 
 interface RootInfo {
   key: string;
@@ -18,19 +19,25 @@ interface LexiconRootHeaderProps {
   root?: RootInfo;
   relatedEntries: RelatedEntry[];
   translatedTo?: RelatedEntry[];
+  language?: string;
 }
 
 export default function LexiconRootHeader({
   root,
   relatedEntries,
   translatedTo,
+  language,
 }: LexiconRootHeaderProps) {
   if (!root) return null;
+
+  const scriptLang = toBcp47Lang(language || 'hebrew');
 
   return (
     <div className={styles.rootHeader}>
       <div className={styles.primaryRoot}>
-        <span className={styles.originalScript}>{root.originalScript}</span>
+        <span className={styles.originalScript} lang={scriptLang}>
+          {root.originalScript}
+        </span>
         <span className={styles.arrow}>→</span>
         <span className={styles.transliteration}>{root.transliteration}</span>
         <span className={styles.arrow}>→</span>
@@ -47,7 +54,11 @@ export default function LexiconRootHeader({
           <span className={styles.label}>Related:</span>
           <div className={styles.entries}>
             {relatedEntries.map((entry) => (
-              <RootEntryLink key={entry.key} entry={entry} />
+              <RootEntryLink
+                key={entry.key}
+                entry={entry}
+                scriptLang={scriptLang}
+              />
             ))}
           </div>
         </div>
@@ -58,7 +69,7 @@ export default function LexiconRootHeader({
           <span className={styles.label}>Greek:</span>
           <div className={styles.entries}>
             {translatedTo.map((entry) => (
-              <RootEntryLink key={entry.key} entry={entry} />
+              <RootEntryLink key={entry.key} entry={entry} scriptLang="el" />
             ))}
           </div>
         </div>
@@ -67,10 +78,18 @@ export default function LexiconRootHeader({
   );
 }
 
-function RootEntryLink({ entry }: { entry: RelatedEntry }) {
+function RootEntryLink({
+  entry,
+  scriptLang,
+}: {
+  entry: RelatedEntry;
+  scriptLang?: string;
+}) {
   const content = (
     <>
-      <span className={styles.entryScript}>{entry.originalScript}</span>{' '}
+      <span className={styles.entryScript} lang={scriptLang}>
+        {entry.originalScript}
+      </span>{' '}
       {entry.transliteration} — {entry.englishLiteral}
       {entry.type && <span className={styles.entryType}> ({entry.type})</span>}
     </>
