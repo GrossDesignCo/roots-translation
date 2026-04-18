@@ -3,6 +3,7 @@ import path from 'path';
 import Link from 'next/link';
 import styles from './page.module.css';
 import { toBcp47Lang } from '@/utils/resolveLanguage';
+import { lexiconEntryPath } from '@/utils/lexiconRoutes';
 
 interface LexiconIndexEntry {
   key: string;
@@ -70,7 +71,7 @@ export default async function LexiconIndexPage() {
               {entries.map((entry) => (
                 <Link
                   key={entry.key}
-                  href={`/lexicon/${entry.key}`}
+                  href={lexiconEntryPath(key, entry.key)}
                   className={styles.card}
                 >
                   {entry.originalScript && (

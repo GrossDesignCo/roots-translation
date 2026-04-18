@@ -1,6 +1,7 @@
 import Link from 'next/link';
-import styles from './LexiconRootHeader.module.css';
+import styles from './RootSummary.module.css';
 import { toBcp47Lang } from '@/utils/resolveLanguage';
+import { lexiconEntryPath, type LexiconLanguage } from '@/utils/lexiconRoutes';
 
 interface RootInfo {
   key: string;
@@ -15,25 +16,25 @@ interface RelatedEntry extends RootInfo {
   hasLexiconEntry: boolean;
 }
 
-interface LexiconRootHeaderProps {
+export interface RootSummaryProps {
   root?: RootInfo;
   relatedEntries: RelatedEntry[];
   translatedTo?: RelatedEntry[];
-  language?: string;
+  lexiconLanguage: LexiconLanguage;
 }
 
-export default function LexiconRootHeader({
+export default function RootSummary({
   root,
   relatedEntries,
   translatedTo,
-  language,
-}: LexiconRootHeaderProps) {
+  lexiconLanguage,
+}: RootSummaryProps) {
   if (!root) return null;
 
-  const scriptLang = toBcp47Lang(language || 'hebrew');
+  const scriptLang = toBcp47Lang(lexiconLanguage);
 
   return (
-    <div className={styles.rootHeader}>
+    <div className={styles.rootSummary}>
       <div className={styles.primaryRoot}>
         <span className={styles.originalScript} lang={scriptLang}>
           {root.originalScript}
@@ -58,6 +59,7 @@ export default function LexiconRootHeader({
                 key={entry.key}
                 entry={entry}
                 scriptLang={scriptLang}
+                linkLanguage={lexiconLanguage}
               />
             ))}
           </div>
@@ -69,7 +71,12 @@ export default function LexiconRootHeader({
           <span className={styles.label}>Greek:</span>
           <div className={styles.entries}>
             {translatedTo.map((entry) => (
-              <RootEntryLink key={entry.key} entry={entry} scriptLang="el" />
+              <RootEntryLink
+                key={entry.key}
+                entry={entry}
+                scriptLang="el"
+                linkLanguage="greek"
+              />
             ))}
           </div>
         </div>
@@ -81,9 +88,11 @@ export default function LexiconRootHeader({
 function RootEntryLink({
   entry,
   scriptLang,
+  linkLanguage,
 }: {
   entry: RelatedEntry;
   scriptLang?: string;
+  linkLanguage: LexiconLanguage;
 }) {
   const content = (
     <>
@@ -97,7 +106,10 @@ function RootEntryLink({
 
   if (entry.hasLexiconEntry) {
     return (
-      <Link href={`/lexicon/${entry.key}`} className={styles.entryLink}>
+      <Link
+        href={lexiconEntryPath(linkLanguage, entry.key)}
+        className={styles.entryLink}
+      >
         {content}
       </Link>
     );

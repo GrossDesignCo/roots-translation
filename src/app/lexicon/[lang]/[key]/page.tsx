@@ -1,7 +1,13 @@
 import { readFile } from 'fs/promises';
 import path from 'path';
 import { notFound } from 'next/navigation';
-import LexiconEntryPage from './LexiconEntryPage';
+import LexiconEntryPage from '@/app/lexicon/[lang]/[key]/LexiconEntryPage';
+import {
+  isLexiconLanguage,
+  LEXICON_LANGUAGES,
+  type LexiconLanguage,
+} from '@/utils/lexiconRoutes';
+import { parseLeadingAtxHeading } from '@/utils/lexiconMarkdown';
 
 interface LexiconEntry {
   key: string;
@@ -56,9 +62,6 @@ interface ConcordanceData {
   }>;
 }
 
-type Language = 'hebrew' | 'greek' | 'aramaic';
-const LANGUAGES: Language[] = ['hebrew', 'greek', 'aramaic'];
-
 async function tryReadJson<T>(filePath: string): Promise<T | null> {
   try {
     const content = await readFile(filePath, 'utf-8');
@@ -72,7 +75,7 @@ async function tryReadJson<T>(filePath: string): Promise<T | null> {
  * Be very specific about lexicon and concordance paths to minimize built bload as much as possible
  * See "overly broad patterns" in turbopack
  * */
-function getLexiconPath(lang: Language, key: string): string {
+function getLexiconPath(lang: LexiconLanguage, key: string): string {
   const base = path.join(process.cwd(), 'public/lexicon');
   switch (lang) {
     case 'hebrew':
@@ -84,7 +87,7 @@ function getLexiconPath(lang: Language, key: string): string {
   }
 }
 
-function getConcordanceWordPath(lang: Language, key: string): string {
+function getConcordanceWordPath(lang: LexiconLanguage, key: string): string {
   const base = path.join(process.cwd(), 'public/concordance');
   switch (lang) {
     case 'hebrew':
@@ -96,7 +99,10 @@ function getConcordanceWordPath(lang: Language, key: string): string {
   }
 }
 
-function getConcordanceRootPath(lang: Language, rootKey: string): string {
+function getConcordanceRootPath(
+  lang: LexiconLanguage,
+  rootKey: string,
+): string {
   const base = path.join(process.cwd(), 'public/concordance');
   switch (lang) {
     case 'hebrew':
@@ -108,20 +114,10 @@ function getConcordanceRootPath(lang: Language, rootKey: string): string {
   }
 }
 
-async function findEntry(
-  key: string,
-): Promise<{ entry: LexiconEntry; language: Language } | null> {
-  for (const lang of LANGUAGES) {
-    const entry = await tryReadJson<LexiconEntry>(getLexiconPath(lang, key));
-    if (entry) return { entry, language: lang };
-  }
-  return null;
-}
-
 export async function generateStaticParams() {
-  const params: { key: string }[] = [];
+  const params: { lang: LexiconLanguage; key: string }[] = [];
 
-  for (const lang of LANGUAGES) {
+  for (const lang of LEXICON_LANGUAGES) {
     const indexPath = path.join(
       process.cwd(),
       `public/lexicon/${lang}/index.json`,
@@ -129,7 +125,7 @@ export async function generateStaticParams() {
     const index = await tryReadJson<Array<{ key: string }>>(indexPath);
     if (index) {
       for (const entry of index) {
-        params.push({ key: entry.key });
+        params.push({ lang, key: entry.key });
       }
     }
   }
@@ -140,16 +136,20 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ key: string }>;
+  params: Promise<{ lang: string; key: string }>;
 }) {
-  const { key } = await params;
-  const result = await findEntry(key);
-  if (!result) return { title: 'Not Found' };
+  const { lang: langParam, key } = await params;
+  if (!isLexiconLanguage(langParam)) return { title: 'Not Found' };
 
-  const { entry } = result;
-  const title = entry.root
-    ? `${entry.root.originalScript} (${entry.key}) — ${entry.root.englishLiteral}`
-    : entry.key;
+  const entry = await tryReadJson<LexiconEntry>(getLexiconPath(langParam, key));
+  if (!entry) return { title: 'Not Found' };
+
+  const { heading } = parseLeadingAtxHeading(entry.content);
+  const title =
+    heading ??
+    (entry.root
+      ? `${entry.root.originalScript} (${entry.key}) — ${entry.root.englishLiteral}`
+      : entry.key);
 
   return {
     title: `${title} | Lexicon | Roots Translation`,
@@ -157,32 +157,35 @@ export async function generateMetadata({
   };
 }
 
-export default async function LexiconKeyPage({
+export default async function LexiconLangKeyPage({
   params,
 }: {
-  params: Promise<{ key: string }>;
+  params: Promise<{ lang: string; key: string }>;
 }) {
-  const { key } = await params;
-  const result = await findEntry(key);
-  if (!result) notFound();
+  const { lang: langParam, key } = await params;
+  if (!isLexiconLanguage(langParam)) notFound();
 
-  const { entry, language } = result;
+  const lang = langParam;
+
+  const entry = await tryReadJson<LexiconEntry>(getLexiconPath(lang, key));
+  if (!entry) notFound();
 
   const wordConcordance = await tryReadJson<ConcordanceData>(
-    getConcordanceWordPath(language, key.toLowerCase()),
+    getConcordanceWordPath(lang, key.toLowerCase()),
   );
 
   let rootConcordance: ConcordanceData | null = null;
   const rootKey = entry.root?.key;
   if (rootKey) {
     rootConcordance = await tryReadJson<ConcordanceData>(
-      getConcordanceRootPath(language, rootKey),
+      getConcordanceRootPath(lang, rootKey),
     );
   }
 
   return (
     <LexiconEntryPage
       entry={entry}
+      lexiconLanguage={lang}
       wordConcordance={wordConcordance}
       rootConcordance={rootConcordance}
     />

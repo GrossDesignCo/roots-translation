@@ -1,9 +1,10 @@
-import Link from 'next/link';
+import { Link } from '@/design-system/components/Link';
 
 export const SelectWordPrompt = ({}) => {
   return (
-    <div>
-      <p>Select a word to view its breakdown in the Lexicon</p>
+    <div className="markdown-text">
+      <p>Select a word to view its breakdown in the Lexicon.</p>
+
       <p>
         or <Link href="/lexicon">browse all lexicon entries</Link>
       </p>

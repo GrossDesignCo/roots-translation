@@ -1,5 +1,5 @@
 import './layout.css';
-import { NavLinks } from '@/components/NavLinks';
+import { LexiconNav } from '@/components/lexicon/LexiconNav';
 
 export default function StaticPageLayout({
   children,
@@ -8,18 +8,7 @@ export default function StaticPageLayout({
 }) {
   return (
     <div className="page-shell">
-      <NavLinks
-        links={[
-          {
-            href: '/',
-            label: 'Back',
-          },
-          {
-            href: '/lexicon',
-            label: 'Lexicon',
-          },
-        ]}
-      />
+      <LexiconNav />
 
       <main className="main-text markdown-text">{children}</main>
     </div>

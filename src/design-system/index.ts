@@ -8,3 +8,4 @@ export * from './components/RadioGroup';
 export * from './components/Sheet';
 export * from './components/Tooltip';
 export * from './components/ToggleGroup';
+export * from './components/Tabs';

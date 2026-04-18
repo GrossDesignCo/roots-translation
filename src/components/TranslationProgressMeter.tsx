@@ -1,3 +1,4 @@
+import cx from 'classnames';
 import styles from './TranslationProgressMeter.module.css';
 import type {
   TranslationProgressData,
@@ -18,23 +19,23 @@ export async function TranslationProgressMeter({
 
   return (
     <div className={styles.translationProgress}>
-      <h3 className={styles.overallProgress}>
+      <h3 className={cx(styles.overallProgress, 'highlight-soft')}>
         Overall{' '}
-        <span className={styles.progressText}>
+        <span className="highlight-strong">
           {progress.totalProgress.toFixed(2)}%
         </span>
       </h3>
 
       <div className={styles.metrics}>
-        <span className={styles.metric}>
+        <span className={cx(styles.metric, 'highlight-soft')}>
           <strong>{metadata.translated.books}</strong> / {metadata.total.books}{' '}
           Books
         </span>
-        <span className={styles.metric}>
+        <span className={cx(styles.metric, 'highlight-soft')}>
           <strong>{metadata.translated.chapters.toLocaleString()}</strong> /{' '}
           {metadata.total.chapters.toLocaleString()} Chapters
         </span>
-        <span className={styles.metric}>
+        <span className={cx(styles.metric, 'highlight-soft')}>
           <strong>{metadata.translated.verses.toLocaleString()}</strong> /{' '}
           {metadata.total.verses.toLocaleString()} Verses
         </span>

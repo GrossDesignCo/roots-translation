@@ -41,7 +41,7 @@ function renderSnippet(text: string) {
   return parts.map((part, i) => {
     if (part.startsWith('**') && part.endsWith('**')) {
       return (
-        <strong key={i} className={styles.highlight}>
+        <strong key={i} className="highlight-soft">
           {part.slice(2, -2)}
         </strong>
       );
@@ -66,7 +66,7 @@ export default function ConcordanceTable({
         <table className={styles.table}>
           <thead>
             <tr>
-              <th className={styles.locationCol}>Location</th>
+              <th className={styles.locationCol}>Ref.</th>
               <th className={styles.contextCol}>Hebrew</th>
               <th className={styles.contextCol}>Transliteration</th>
               <th className={styles.contextCol}>Literal</th>

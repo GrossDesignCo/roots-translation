@@ -72,14 +72,13 @@ export default function Word({
           aria-pressed={isSelected ? 'true' : 'false'}
           tabIndex={0}
           className={cx(styles.TranslationWord, [`word=${wordText}`], {
-            [styles.selected]: isSelected,
-            [styles.selectedRoot]: hasSelectedRoot && !isSelected,
             [styles.hasEntry]: showEntryLink,
           })}
         >
           <span
             className={cx(styles.Word, {
-              // [`theme-${reverseTheme}`]: isSelected,
+              'highlight-strong': isSelected,
+              'highlight-soft': hasSelectedRoot && !isSelected,
             })}
           >
             {formattedWordText}

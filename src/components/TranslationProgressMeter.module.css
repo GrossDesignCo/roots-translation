@@ -1,10 +1,11 @@
 .overallProgress {
-  background-color: var(--ds-bg-container-low-contrast);
   margin-bottom: var(--ds-space-2);
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-radius: var(--ds-radius-md);
+  /* Row uses highlight-soft for tint; keep label weight normal — percentage uses highlight-strong */
+  font-weight: 600;
+  padding: 0;
   padding-inline-start: var(--ds-space-2);
 }
 
@@ -15,18 +16,11 @@
 }
 
 .metric {
-  background-color: var(--ds-bg-container-low-contrast);
   padding: var(--ds-space-1) var(--ds-space-2);
   border-radius: var(--ds-radius-md);
   flex-grow: 1;
   text-align: center;
-}
-
-.progressText {
-  background-color: var(--ds-fg-default);
-  color: var(--ds-bg-default);
-  padding: var(--ds-space-1) var(--ds-space-2);
-  border-radius: var(--ds-radius-md);
+  font-weight: 400;
 }
 
 .booksProgress {

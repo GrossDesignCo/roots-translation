@@ -1,6 +1,5 @@
 'use client';
 
-import cx from 'classnames';
 import styles from './LexiconEntryReader.module.css';
 import { useState, useEffect } from 'react';
 import { useSelection } from '@/context/SelectionContext';
@@ -10,6 +9,20 @@ import { SelectWordPrompt } from './SelectWordPrompt';
 import { getLexiconEntryKey } from '@/utils/getLexiconEntryKey';
 import ReactMarkdown from 'react-markdown';
 import RootLinks from './RootLinks';
+import { LexiconEntryHeading } from '@/components/lexicon/LexiconEntryHeading';
+import { parseLeadingAtxHeading } from '@/utils/lexiconMarkdown';
+
+function LexiconMarkdownBody({ source }: { source: string }) {
+  const { heading, bodyMarkdown } = parseLeadingAtxHeading(source);
+  return (
+    <>
+      {heading != null && <LexiconEntryHeading title={heading} />}
+      <div className="markdown-text">
+        <ReactMarkdown>{bodyMarkdown}</ReactMarkdown>
+      </div>
+    </>
+  );
+}
 
 export default function LexiconEntryReader({}) {
   const { selectedWords } = useSelection();
@@ -70,13 +83,13 @@ export default function LexiconEntryReader({}) {
   if (loading) return <p>Loading Entry...</p>;
 
   return (
-    <div className={cx(styles.LexiconEntry, 'markdown-text')}>
+    <div className={styles.LexiconEntry}>
       {error && <p className={styles.error}>{error}</p>}
 
       <RootLinks />
 
       {entryContent ? (
-        <ReactMarkdown>{entryContent}</ReactMarkdown>
+        <LexiconMarkdownBody source={entryContent} />
       ) : (
         <NoEntryPrompt
           onGenerate={(entry: string) => {

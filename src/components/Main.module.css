@@ -26,6 +26,8 @@
 
   .secondaryPanel > * {
     padding: var(--ds-space-4);
+    /* ConcordanceTable horizontal bleed inside side panel */
+    --concordance-inline-bleed: var(--ds-space-4);
   }
 
   .secondaryPanelTitle {

@@ -16,6 +16,7 @@ import {
 import { HebrewRoot, GreekRoot, AramaicRoot } from '@/types';
 import styles from './LexiconEntryReader.module.css';
 import { toBcp47Lang } from '@/utils/resolveLanguage';
+import { lexiconEntryPath, type LexiconLanguage } from '@/utils/lexiconRoutes';
 
 const findRoot = (word: string) => {
   return (
@@ -78,9 +79,12 @@ export const DictionaryEntry = ({
   const { hebrew, greek, aramaic, transliteration, englishLiteral, type } =
     rootWord;
   const originalText = hebrew || greek || aramaic;
-  const scriptLang = toBcp47Lang(
-    hebrew ? 'hebrew' : greek ? 'greek' : 'aramaic',
-  );
+  const lexiconLang: LexiconLanguage = hebrew
+    ? 'hebrew'
+    : greek
+      ? 'greek'
+      : 'aramaic';
+  const scriptLang = toBcp47Lang(lexiconLang);
   const entryExists = hasEntry(transliteration);
 
   const content = (
@@ -92,7 +96,10 @@ export const DictionaryEntry = ({
 
   if (entryExists) {
     return (
-      <Link href={`/lexicon/${transliteration}`} className={styles.rootLink}>
+      <Link
+        href={lexiconEntryPath(lexiconLang, transliteration)}
+        className={styles.rootLink}
+      >
         {content}
       </Link>
     );

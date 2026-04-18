@@ -1,0 +1,31 @@
+.tabList {
+  display: flex;
+  gap: 0;
+  flex-wrap: wrap;
+  border-bottom: 2px solid var(--ds-border);
+  margin-block-end: var(--ds-space-6);
+}
+
+.tab {
+  padding: 0.5rem 1.25rem;
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--ds-text-secondary);
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  transition:
+    color 0.15s,
+    border-color 0.15s;
+}
+
+.tab:hover {
+  color: var(--ds-text-primary);
+}
+
+.tabSelected {
+  color: var(--ds-text-primary);
+  border-bottom-color: var(--ds-text-link);
+}

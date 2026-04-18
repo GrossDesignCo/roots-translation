@@ -1,8 +1,8 @@
-.rootHeader {
+.rootSummary {
   padding: 0.75rem 1rem;
   background: var(--ds-bg-container);
   border-radius: 6px;
-  margin-bottom: 1.5rem;
+  border: 1px solid var(--ds-border);
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
@@ -68,7 +68,7 @@
 .entryLink {
   display: inline-block;
   padding: 0.15rem 0.5rem;
-  background: var(--ds-bg-container);
+  background: var(--ds-bg-page);
   border: 1px solid var(--ds-border);
   border-radius: 4px;
   color: var(--ds-text-link);

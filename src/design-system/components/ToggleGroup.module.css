@@ -18,6 +18,7 @@
   align-items: center;
   border-radius: var(--ds-radius-md);
   flex-grow: 1;
+  flex-basis: 0;
   cursor: pointer;
   border: 1px solid transparent;
   transition: all 0.2s ease;

@@ -1,0 +1,23 @@
+.lexiconTrail {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  min-width: 0;
+}
+
+.trailSep {
+  color: var(--ds-text-tertiary);
+  flex-shrink: 0;
+}
+
+.trailLang {
+  color: var(--ds-text-tertiary);
+  flex-shrink: 0;
+}
+
+.trailCurrent {
+  color: var(--ds-text-tertiary);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

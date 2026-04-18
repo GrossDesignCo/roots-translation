@@ -2,6 +2,13 @@
 :root {
   --header-max-height: 3rem;
   --text-content-max-width: 80ch;
+  /**
+   * Horizontal inset to cancel so ConcordanceTable fills its column. Set on the
+   * padded column root (e.g. lexicon `.page` uses `--lexicon-page-padding-inline`;
+   * secondary panel sets its own). Not shell padding — a max-width `.page` is centered
+   * inside the shell, so bleed matches that box’s padding-inline only.
+   */
+  --concordance-inline-bleed: 0px;
 }
 
 html,
@@ -50,6 +57,28 @@ a {
 
 .serif {
   font-family: var(--ds-font-family-serif);
+}
+
+/**
+ * Presentational text highlights (use on inline elements, e.g. <span> or <strong>).
+ * - highlight-strong: high-contrast emphasis (e.g. selected word in scripture).
+ * - highlight-soft: container-tinted emphasis (e.g. same-root word, concordance hit).
+ */
+.highlight-strong {
+  padding: var(--ds-space-1);
+  border-radius: var(--ds-radius-md);
+  background-color: var(--ds-fg-default);
+  color: var(--ds-bg-default);
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+.highlight-soft {
+  padding: var(--ds-space-1);
+  border-radius: var(--ds-radius-md);
+  background-color: var(--ds-bg-container);
+  font-weight: 600;
+  transition: 0.3s ease;
 }
 
 ul,

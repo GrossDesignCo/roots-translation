@@ -4,6 +4,5 @@
 
 .main-text {
   padding: var(--ds-space-10) 0 var(--ds-space-12);
-  max-width: 80ch;
   margin: 0 auto;
 }

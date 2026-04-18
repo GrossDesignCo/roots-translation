@@ -10,8 +10,11 @@
   display: inline-flex;
 } */
 
-.TranslationWord.hasEntry:not(.selected, .selectedRoot, .relatedRoot) {
-  box-shadow: inset 0 -1em 0 -0.8em var(--ds-bg-page-lit),
+.TranslationWord.hasEntry:not(.relatedRoot):not(:has(.highlight-strong)):not(
+    :has(.highlight-soft)
+  ) {
+  box-shadow:
+    inset 0 -1em 0 -0.8em var(--ds-bg-page-lit),
     inset 0 -1em 0 -0.7em var(--ds-bg-container-low-contrast);
 }
 
@@ -26,20 +29,6 @@
   border-radius: var(--ds-radius-md);
   /* user-select: none; */
   transition: 0.3s ease;
-}
-
-.selected .Word {
-  padding: var(--ds-space-1);
-  /* Selected words are also rendered in reversed theme */
-  background-color: var(--ds-fg-default);
-  color: var(--ds-bg-default);
-  font-weight: 600;
-}
-
-.selectedRoot .Word {
-  background-color: var(--ds-bg-container);
-  padding: var(--ds-space-1);
-  font-weight: 600;
 }
 
 .relatedRoot .Word {

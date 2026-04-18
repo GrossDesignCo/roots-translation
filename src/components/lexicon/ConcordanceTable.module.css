@@ -1,5 +1,14 @@
 .concordanceTableWrapper {
   margin-bottom: 2rem;
+  /**
+   * Full-width within the current column: ancestors set `--concordance-inline-bleed`
+   * (horizontal padding to cancel — e.g. lexicon `.page` ties it to `--lexicon-page-padding-inline`).
+   * See `globals.css` + `Main.module.css` (secondary panel).
+   */
+  margin-inline: calc(-1 * var(--concordance-inline-bleed, 0px));
+  width: calc(100% + 2 * var(--concordance-inline-bleed, 0px));
+  max-width: none;
+  box-sizing: border-box;
 }
 
 .title {
@@ -20,11 +29,13 @@
 .scrollContainer {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
+  position: relative;
 }
 
 .table {
   width: 100%;
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   font-size: 0.85rem;
   min-width: 700px;
 }
@@ -49,16 +60,22 @@
   line-height: 1.5;
 }
 
-.table tbody tr {
+.table tbody tr td {
   transition: background 0.1s ease;
 }
 
-.table tbody tr:hover {
-  background: var(--ds-bg-container-low-contrast);
+.table tbody tr:hover td {
+  background-color: var(--ds-bg-container-low-contrast);
 }
 
 .locationCol {
   width: 110px;
+  position: sticky;
+  left: 0;
+  z-index: 2;
+  background-color: var(--ds-bg-page);
+  border-right: 1px solid var(--ds-border);
+  box-shadow: 4px 0 12px -8px rgba(0, 0, 0, 0.07);
 }
 
 .contextCol {
@@ -70,6 +87,12 @@
   font-weight: 500;
   font-size: 0.8rem;
   color: var(--ds-text-secondary);
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  background-color: var(--ds-bg-page);
+  border-right: 1px solid var(--ds-border);
+  box-shadow: 4px 0 12px -8px rgba(0, 0, 0, 0.07);
 }
 
 .hebrew {
@@ -79,12 +102,4 @@
 
 .context {
   font-size: 0.85rem;
-}
-
-.highlight {
-  font-weight: 700;
-  color: var(--ds-text-primary);
-  background: var(--ds-bg-highlight, rgba(255, 200, 50, 0.15));
-  padding: 0.05rem 0.15rem;
-  border-radius: 2px;
 }
