@@ -8,35 +8,16 @@ import {
   type LexiconLanguage,
 } from '@/utils/lexiconRoutes';
 import { parseLeadingAtxHeading } from '@/utils/lexiconMarkdown';
-
-interface LexiconEntry {
-  key: string;
-  language: string;
-  content: string;
-  root?: {
-    key: string;
-    originalScript: string;
-    transliteration: string;
-    englishLiteral: string;
-    type?: string;
-    description?: string;
-  };
-  relatedEntries: Array<{
-    key: string;
-    originalScript: string;
-    transliteration: string;
-    englishLiteral: string;
-    type?: string;
-    hasLexiconEntry: boolean;
-  }>;
-  translatedTo?: Array<{
-    key: string;
-    originalScript: string;
-    transliteration: string;
-    englishLiteral: string;
-    hasLexiconEntry: boolean;
-  }>;
-}
+import { parseLexiconTabSearchParam } from '@/utils/lexiconTab';
+import {
+  buildStubLexiconEntry,
+  findDictionaryRoot,
+  getDictionaryRoots,
+  mergeLexiconBrowseKeys,
+  normalizeLexiconLookupKey,
+  type LexiconArticleChecker,
+  type LexiconEntryResolved,
+} from '@/utils/lexiconFromDictionary';
 
 interface ConcordanceData {
   key: string;
@@ -115,6 +96,68 @@ function getConcordanceRootPath(
   }
 }
 
+async function loadLexiconArticleChecker(): Promise<LexiconArticleChecker> {
+  const sets = await Promise.all(
+    LEXICON_LANGUAGES.map(async (lang) => {
+      const indexPath = path.join(
+        process.cwd(),
+        `public/lexicon/${lang}/index.json`,
+      );
+      const index = await tryReadJson<Array<{ key: string }>>(indexPath);
+      return new Set((index ?? []).map((e) => e.key.toLowerCase()));
+    }),
+  );
+
+  const byLang = Object.fromEntries(
+    LEXICON_LANGUAGES.map((lang, i) => [lang, sets[i]]),
+  ) as Record<LexiconLanguage, Set<string>>;
+
+  return (lang: LexiconLanguage, key: string) =>
+    byLang[lang].has(key.toLowerCase());
+}
+
+async function resolveLexiconEntry(
+  lang: LexiconLanguage,
+  urlKey: string,
+  hasLexiconArticle: LexiconArticleChecker,
+): Promise<LexiconEntryResolved | null> {
+  const indexPath = path.join(
+    process.cwd(),
+    `public/lexicon/${lang}/index.json`,
+  );
+  const index = (await tryReadJson<Array<{ key: string }>>(indexPath)) ?? [];
+
+  let entry = await tryReadJson<LexiconEntryResolved>(
+    getLexiconPath(lang, urlKey),
+  );
+
+  if (!entry) {
+    const indexMatch = index.find(
+      (e) =>
+        normalizeLexiconLookupKey(e.key) === normalizeLexiconLookupKey(urlKey),
+    );
+    if (indexMatch) {
+      entry = await tryReadJson<LexiconEntryResolved>(
+        getLexiconPath(lang, indexMatch.key),
+      );
+    }
+  }
+
+  if (!entry) {
+    const dictMatch = findDictionaryRoot(lang, urlKey);
+    if (!dictMatch) return null;
+    return buildStubLexiconEntry(
+      lang,
+      urlKey,
+      dictMatch.dictKey,
+      dictMatch.root,
+      hasLexiconArticle,
+    );
+  }
+
+  return entry;
+}
+
 export async function generateStaticParams() {
   const params: { lang: LexiconLanguage; key: string }[] = [];
 
@@ -123,11 +166,15 @@ export async function generateStaticParams() {
       process.cwd(),
       `public/lexicon/${lang}/index.json`,
     );
-    const index = await tryReadJson<Array<{ key: string }>>(indexPath);
-    if (index) {
-      for (const entry of index) {
-        params.push({ lang, key: entry.key });
-      }
+    const index = (await tryReadJson<Array<{ key: string }>>(indexPath)) ?? [];
+    const dict = getDictionaryRoots(lang);
+    const keys = mergeLexiconBrowseKeys(
+      index.map((e) => e.key),
+      Object.keys(dict),
+    );
+
+    for (const key of keys) {
+      params.push({ lang, key });
     }
   }
 
@@ -142,7 +189,10 @@ export async function generateMetadata({
   const { lang: langParam, key } = await params;
   if (!isLexiconLanguage(langParam)) return { title: 'Not Found' };
 
-  const entry = await tryReadJson<LexiconEntry>(getLexiconPath(langParam, key));
+  const lang = langParam;
+  const hasLexiconArticle = await loadLexiconArticleChecker();
+  const entry = await resolveLexiconEntry(lang, key, hasLexiconArticle);
+
   if (!entry) return { title: 'Not Found' };
 
   const { heading } = parseLeadingAtxHeading(entry.content);
@@ -158,17 +208,27 @@ export async function generateMetadata({
   };
 }
 
+function firstSearchParam(
+  value: string | string[] | undefined,
+): string | undefined {
+  if (value === undefined) return undefined;
+  return typeof value === 'string' ? value : value[0];
+}
+
 export default async function LexiconLangKeyPage({
   params,
+  searchParams,
 }: {
   params: Promise<{ lang: string; key: string }>;
+  searchParams: Promise<{ tab?: string | string[] }>;
 }) {
   const { lang: langParam, key } = await params;
   if (!isLexiconLanguage(langParam)) notFound();
 
   const lang = langParam;
 
-  const entry = await tryReadJson<LexiconEntry>(getLexiconPath(lang, key));
+  const hasLexiconArticle = await loadLexiconArticleChecker();
+  const entry = await resolveLexiconEntry(lang, key, hasLexiconArticle);
   if (!entry) notFound();
 
   const wordConcordance = await tryReadJson<ConcordanceData>(
@@ -183,12 +243,20 @@ export default async function LexiconLangKeyPage({
     );
   }
 
+  const hasConcordance =
+    (wordConcordance?.occurrences.length ?? 0) > 0 ||
+    (rootConcordance?.occurrences.length ?? 0) > 0;
+
+  const tabParam = firstSearchParam((await searchParams).tab);
+  const initialTab = parseLexiconTabSearchParam(tabParam, hasConcordance);
+
   return (
     <LexiconEntryPage
       entry={entry}
       lexiconLanguage={lang}
       wordConcordance={wordConcordance}
       rootConcordance={rootConcordance}
+      initialTab={initialTab}
     />
   );
 }

@@ -20,6 +20,10 @@ export interface RootSummaryProps {
   root?: RootInfo;
   relatedEntries: RelatedEntry[];
   translatedTo?: RelatedEntry[];
+  /** Greek roots: Hebrew words behind this Greek form */
+  translatedFrom?: RelatedEntry[];
+  /** Aramaic roots: Hebrew cognates */
+  cognateHebrew?: RelatedEntry[];
   lexiconLanguage: LexiconLanguage;
 }
 
@@ -27,6 +31,8 @@ export default function RootSummary({
   root,
   relatedEntries,
   translatedTo,
+  translatedFrom,
+  cognateHebrew,
   lexiconLanguage,
 }: RootSummaryProps) {
   if (!root) return null;
@@ -60,6 +66,38 @@ export default function RootSummary({
                 entry={entry}
                 scriptLang={scriptLang}
                 linkLanguage={lexiconLanguage}
+              />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {translatedFrom && translatedFrom.length > 0 && (
+        <div className={styles.section}>
+          <span className={styles.label}>Hebrew:</span>
+          <div className={styles.entries}>
+            {translatedFrom.map((entry) => (
+              <RootEntryLink
+                key={entry.key}
+                entry={entry}
+                scriptLang={toBcp47Lang('hebrew')}
+                linkLanguage="hebrew"
+              />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {cognateHebrew && cognateHebrew.length > 0 && (
+        <div className={styles.section}>
+          <span className={styles.label}>Hebrew:</span>
+          <div className={styles.entries}>
+            {cognateHebrew.map((entry) => (
+              <RootEntryLink
+                key={entry.key}
+                entry={entry}
+                scriptLang={toBcp47Lang('hebrew')}
+                linkLanguage="hebrew"
               />
             ))}
           </div>

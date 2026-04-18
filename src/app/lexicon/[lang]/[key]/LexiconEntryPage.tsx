@@ -1,6 +1,7 @@
 'use client';
 
-import { useState } from 'react';
+import { Suspense, useCallback, useEffect, useMemo } from 'react';
+import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import RootSummary from '@/components/lexicon/RootSummary';
 import ConcordanceTable from '@/components/lexicon/ConcordanceTable';
@@ -9,35 +10,11 @@ import { LexiconEntryHeading } from '@/components/lexicon/LexiconEntryHeading';
 import styles from './page.module.css';
 import type { LexiconLanguage } from '@/utils/lexiconRoutes';
 import { parseLeadingAtxHeading } from '@/utils/lexiconMarkdown';
-
-interface LexiconEntry {
-  key: string;
-  language: string;
-  content: string;
-  root?: {
-    key: string;
-    originalScript: string;
-    transliteration: string;
-    englishLiteral: string;
-    type?: string;
-    description?: string;
-  };
-  relatedEntries: Array<{
-    key: string;
-    originalScript: string;
-    transliteration: string;
-    englishLiteral: string;
-    type?: string;
-    hasLexiconEntry: boolean;
-  }>;
-  translatedTo?: Array<{
-    key: string;
-    originalScript: string;
-    transliteration: string;
-    englishLiteral: string;
-    hasLexiconEntry: boolean;
-  }>;
-}
+import {
+  parseLexiconTabSearchParam,
+  type LexiconEntryTab,
+} from '@/utils/lexiconTab';
+import type { LexiconEntryResolved } from '@/utils/lexiconFromDictionary';
 
 interface ConcordanceRow {
   location: { book: string; chapter: number; verse: number };
@@ -66,27 +43,28 @@ interface ConcordanceData {
   occurrences: ConcordanceRow[];
 }
 
-type Tab = 'entry' | 'concordance';
-
 interface LexiconEntryPageProps {
-  entry: LexiconEntry;
+  entry: LexiconEntryResolved;
   lexiconLanguage: LexiconLanguage;
   wordConcordance: ConcordanceData | null;
   rootConcordance: ConcordanceData | null;
 }
 
-export default function LexiconEntryPage({
+interface LexiconEntryPageInnerProps extends LexiconEntryPageProps {
+  hasConcordance: boolean;
+  activeTab: LexiconEntryTab;
+  onTabChange: (tab: LexiconEntryTab) => void;
+}
+
+function LexiconEntryPageInner({
   entry,
   lexiconLanguage,
   wordConcordance,
   rootConcordance,
-}: LexiconEntryPageProps) {
-  const [activeTab, setActiveTab] = useState<Tab>('entry');
-
-  const hasConcordance =
-    (wordConcordance && wordConcordance.occurrences.length > 0) ||
-    (rootConcordance && rootConcordance.occurrences.length > 0);
-
+  hasConcordance,
+  activeTab,
+  onTabChange,
+}: LexiconEntryPageInnerProps) {
   const { heading: entryHeading, bodyMarkdown } = parseLeadingAtxHeading(
     entry.content,
   );
@@ -98,6 +76,8 @@ export default function LexiconEntryPage({
           root={entry.root}
           relatedEntries={entry.relatedEntries}
           translatedTo={entry.translatedTo}
+          translatedFrom={entry.translatedFrom}
+          cognateHebrew={entry.cognateHebrew}
           lexiconLanguage={lexiconLanguage}
         />
       </div>
@@ -119,7 +99,7 @@ export default function LexiconEntryPage({
           ) : (
             <Tabs
               value={activeTab}
-              onValueChange={(id) => setActiveTab(id as Tab)}
+              onValueChange={(id) => onTabChange(id as LexiconEntryTab)}
             >
               <TabList
                 ariaLabel="Lexicon entry sections"
@@ -165,5 +145,85 @@ export default function LexiconEntryPage({
         </div>
       </div>
     </div>
+  );
+}
+
+function LexiconEntryUrlSynced({
+  entry,
+  lexiconLanguage,
+  wordConcordance,
+  rootConcordance,
+  hasConcordance,
+}: LexiconEntryPageProps & { hasConcordance: boolean }) {
+  const router = useRouter();
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
+
+  const activeTab = useMemo(
+    () => parseLexiconTabSearchParam(searchParams.get('tab'), hasConcordance),
+    [searchParams, hasConcordance],
+  );
+
+  useEffect(() => {
+    const raw = searchParams.get('tab');
+    if (
+      !hasConcordance &&
+      raw != null &&
+      raw.trim().toLowerCase() === 'concordance'
+    ) {
+      router.replace(pathname, { scroll: false });
+    }
+  }, [hasConcordance, searchParams, pathname, router]);
+
+  const onTabChange = useCallback(
+    (tab: LexiconEntryTab) => {
+      const next = new URLSearchParams(searchParams.toString());
+      if (tab === 'entry') {
+        next.delete('tab');
+      } else {
+        next.set('tab', 'concordance');
+      }
+      const qs = next.toString();
+      router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
+    },
+    [router, pathname, searchParams],
+  );
+
+  return (
+    <LexiconEntryPageInner
+      entry={entry}
+      lexiconLanguage={lexiconLanguage}
+      wordConcordance={wordConcordance}
+      rootConcordance={rootConcordance}
+      hasConcordance={hasConcordance}
+      activeTab={activeTab}
+      onTabChange={onTabChange}
+    />
+  );
+}
+
+export default function LexiconEntryPage({
+  initialTab,
+  ...props
+}: LexiconEntryPageProps & { initialTab: LexiconEntryTab }) {
+  const { wordConcordance, rootConcordance } = props;
+
+  const hasConcordance =
+    (wordConcordance?.occurrences.length ?? 0) > 0 ||
+    (rootConcordance?.occurrences.length ?? 0) > 0;
+
+  return (
+    <Suspense
+      fallback={
+        <LexiconEntryPageInner
+          {...props}
+          hasConcordance={hasConcordance}
+          activeTab={initialTab}
+          onTabChange={() => {}}
+        />
+      }
+    >
+      <LexiconEntryUrlSynced {...props} hasConcordance={hasConcordance} />
+    </Suspense>
   );
 }
