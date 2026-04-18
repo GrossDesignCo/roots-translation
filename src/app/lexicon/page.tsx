@@ -1,9 +1,11 @@
+import { Suspense } from 'react';
 import { readFile } from 'fs/promises';
 import path from 'path';
-import Link from 'next/link';
+import LexiconIndexClient, {
+  type LexiconBrowseRow,
+} from '@/app/lexicon/LexiconIndexClient';
 import styles from './page.module.css';
-import { toBcp47Lang } from '@/utils/resolveLanguage';
-import { lexiconEntryPath, type LexiconLanguage } from '@/utils/lexiconRoutes';
+import { isLexiconLanguage, type LexiconLanguage } from '@/utils/lexiconRoutes';
 import {
   getDictionaryRoots,
   mergeLexiconBrowseKeys,
@@ -19,23 +21,7 @@ interface LexiconIndexEntry {
   type?: string;
 }
 
-interface BrowseCard {
-  key: string;
-  language: LexiconLanguage;
-  originalScript?: string;
-  transliteration?: string;
-  englishLiteral?: string;
-  type?: string;
-  /** True when a authored .mdx lexicon article exists */
-  hasArticle: boolean;
-}
-
 type Language = LexiconLanguage;
-const LANGUAGES: { key: Language; label: string }[] = [
-  { key: 'hebrew', label: 'Hebrew' },
-  { key: 'greek', label: 'Greek' },
-  { key: 'aramaic', label: 'Aramaic' },
-];
 
 async function tryReadLexiconIndex(
   lang: Language,
@@ -52,7 +38,7 @@ async function tryReadLexiconIndex(
   }
 }
 
-async function loadBrowseCards(lang: Language): Promise<BrowseCard[]> {
+async function loadBrowseRows(lang: Language): Promise<LexiconBrowseRow[]> {
   const indexEntries = await tryReadLexiconIndex(lang);
   const dict = getDictionaryRoots(lang);
 
@@ -67,7 +53,7 @@ async function loadBrowseCards(lang: Language): Promise<BrowseCard[]> {
     indexEntries.map((e) => [e.key.toLowerCase(), e] as const),
   );
 
-  const cards: BrowseCard[] = keys.map((canonicalKey) => {
+  const rows: LexiconBrowseRow[] = keys.map((canonicalKey) => {
     const indexMatch = indexByNorm.get(canonicalKey.toLowerCase());
 
     if (indexMatch) {
@@ -96,7 +82,7 @@ async function loadBrowseCards(lang: Language): Promise<BrowseCard[]> {
     };
   });
 
-  cards.sort((a, b) =>
+  rows.sort((a, b) =>
     (a.transliteration || a.key).localeCompare(
       b.transliteration || b.key,
       undefined,
@@ -104,7 +90,14 @@ async function loadBrowseCards(lang: Language): Promise<BrowseCard[]> {
     ),
   );
 
-  return cards;
+  return rows;
+}
+
+function firstSearchParam(
+  value: string | string[] | undefined,
+): string | undefined {
+  if (value === undefined) return undefined;
+  return typeof value === 'string' ? value : value[0];
 }
 
 export const metadata = {
@@ -113,69 +106,34 @@ export const metadata = {
     'Browse dictionary words and lexicon articles for Hebrew, Greek, and Aramaic.',
 };
 
-export default async function LexiconIndexPage() {
-  const entriesByLanguage: Record<Language, BrowseCard[]> = {
-    hebrew: await loadBrowseCards('hebrew'),
-    greek: await loadBrowseCards('greek'),
-    aramaic: await loadBrowseCards('aramaic'),
+export default async function LexiconIndexPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ tab?: string | string[] }>;
+}) {
+  const tabRaw = firstSearchParam((await searchParams).tab);
+  const urlTab: LexiconLanguage | undefined =
+    tabRaw !== undefined && isLexiconLanguage(tabRaw) ? tabRaw : undefined;
+
+  const entriesByLanguage: Record<Language, LexiconBrowseRow[]> = {
+    hebrew: await loadBrowseRows('hebrew'),
+    greek: await loadBrowseRows('greek'),
+    aramaic: await loadBrowseRows('aramaic'),
   };
 
   return (
     <div className={styles.page}>
-      <h1>Lexicon</h1>
-      <p className={styles.subtitle}>
-        Browse dictionary words and lexicon articles across Hebrew, Greek, and
-        Aramaic.
-      </p>
+      <header className={styles.header}>
+        <h1 className={styles.heading}>Lexicon</h1>
+        <p className={styles.subtitle}>Browse lexicon entries by language.</p>
+      </header>
 
-      {LANGUAGES.map(({ key, label }) => {
-        const entries = entriesByLanguage[key];
-        if (!entries.length) return null;
-
-        return (
-          <section key={key} className={styles.section}>
-            <h2 className={styles.sectionHeading}>
-              {label}
-              <span className={styles.sectionCount}>
-                {entries.length} words
-              </span>
-            </h2>
-            <div className={styles.grid}>
-              {entries.map((entry) => (
-                <Link
-                  key={`${key}-${entry.key}`}
-                  href={lexiconEntryPath(key, entry.key)}
-                  className={styles.card}
-                >
-                  {entry.originalScript && (
-                    <span className={styles.cardScript} lang={toBcp47Lang(key)}>
-                      {entry.originalScript}
-                    </span>
-                  )}
-                  <span className={styles.cardTranslit}>
-                    {entry.transliteration || entry.key}
-                  </span>
-                  {entry.englishLiteral && (
-                    <span className={styles.cardEnglish}>
-                      {entry.englishLiteral}
-                    </span>
-                  )}
-                  <span className={styles.cardMeta}>
-                    {entry.type && (
-                      <span className={styles.cardType}>{entry.type}</span>
-                    )}
-                    {entry.hasArticle ? (
-                      <span className={styles.cardBadge}>Article</span>
-                    ) : (
-                      <span className={styles.cardBadgeMuted}>Concordance</span>
-                    )}
-                  </span>
-                </Link>
-              ))}
-            </div>
-          </section>
-        );
-      })}
+      <Suspense fallback={<div className={styles.loading}>Loading…</div>}>
+        <LexiconIndexClient
+          entriesByLanguage={entriesByLanguage}
+          urlTab={urlTab}
+        />
+      </Suspense>
     </div>
   );
 }

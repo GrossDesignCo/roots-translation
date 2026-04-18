@@ -1,6 +1,14 @@
 'use client';
 
-import { createContext, useContext, useMemo, type ReactNode } from 'react';
+import {
+  createContext,
+  useCallback,
+  useContext,
+  useEffect,
+  useMemo,
+  type ReactNode,
+} from 'react';
+import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import cx from 'classnames';
 import styles from './Tabs.module.css';
 
@@ -126,4 +134,83 @@ export function TabPanel({
       {children}
     </div>
   );
+}
+
+export interface UseTabsSearchParamsSyncOptions {
+  /**
+   * Query string key to read/write (default `"tab"`).
+   * Omit other params not managed by this hook when updating.
+   */
+  param?: string;
+  /** Tab ids that are accepted from the URL; unknown values fall back to `defaultValue`. */
+  allowedValues: readonly string[];
+  /** Selection when the param is absent or invalid; also dropped from the URL when selected. */
+  defaultValue: string;
+  /**
+   * Server-parsed selection (e.g. from `page` `searchParams`) so the first paint matches
+   * the URL before the client `useSearchParams` snapshot is available.
+   */
+  initialSelection?: string;
+}
+
+/**
+ * Keeps {@link Tabs} selection in sync with a URL search param for shareable state
+ * (refresh/back/forward). Pair with controlled {@link Tabs} `value` / `onValueChange`.
+ *
+ * Uses Next.js App Router navigation (`router.replace`, `scroll: false`).
+ */
+export function useTabsSearchParamsSync({
+  param = 'tab',
+  allowedValues,
+  defaultValue,
+  initialSelection,
+}: UseTabsSearchParamsSyncOptions): {
+  value: string;
+  onValueChange: (id: string) => void;
+} {
+  const router = useRouter();
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
+
+  const allowedSet = useMemo(() => new Set(allowedValues), [allowedValues]);
+
+  const value = useMemo(() => {
+    const raw = searchParams.get(param);
+    if (raw != null && allowedSet.has(raw)) return raw;
+    if (
+      initialSelection != null &&
+      initialSelection !== '' &&
+      allowedSet.has(initialSelection)
+    ) {
+      return initialSelection;
+    }
+    return defaultValue;
+  }, [searchParams, param, allowedSet, defaultValue, initialSelection]);
+
+  useEffect(() => {
+    const raw = searchParams.get(param);
+    if (raw != null && !allowedSet.has(raw)) {
+      const next = new URLSearchParams(searchParams.toString());
+      next.delete(param);
+      const qs = next.toString();
+      router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
+    }
+  }, [searchParams, param, allowedSet, pathname, router]);
+
+  const onValueChange = useCallback(
+    (id: string) => {
+      if (!allowedSet.has(id)) return;
+      const next = new URLSearchParams(searchParams.toString());
+      if (id === defaultValue) {
+        next.delete(param);
+      } else {
+        next.set(param, id);
+      }
+      const qs = next.toString();
+      router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
+    },
+    [router, pathname, searchParams, param, defaultValue, allowedSet],
+  );
+
+  return { value, onValueChange };
 }

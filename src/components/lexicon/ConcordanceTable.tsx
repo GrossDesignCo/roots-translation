@@ -1,4 +1,11 @@
-import styles from './ConcordanceTable.module.css';
+import {
+  DataTableRoot,
+  DataTableTitle,
+  DataTableScroll,
+  DataTableTable,
+  DataTableTh,
+  DataTableTd,
+} from '@/design-system';
 import cx from 'classnames';
 
 interface ConcordanceRow {
@@ -62,17 +69,27 @@ export default function ConcordanceTable({
   if (!rows.length) return null;
 
   return (
-    <div className={cx(styles.concordanceTableWrapper, className)}>
-      <h3 className={styles.title}>{title}</h3>
-      <div className={styles.scrollContainer}>
-        <table className={styles.table}>
+    <DataTableRoot className={cx(className)}>
+      <DataTableTitle>{title}</DataTableTitle>
+      <DataTableScroll>
+        <DataTableTable>
           <thead>
             <tr>
-              <th className={styles.locationCol}>Ref.</th>
-              <th className={styles.contextCol}>Hebrew</th>
-              <th className={styles.contextCol}>Transliteration</th>
-              <th className={styles.contextCol}>Literal</th>
-              <th className={styles.contextCol}>Natural</th>
+              <DataTableTh scope="col" variant="sticky">
+                Ref.
+              </DataTableTh>
+              <DataTableTh scope="col" variant="wide">
+                Hebrew
+              </DataTableTh>
+              <DataTableTh scope="col" variant="wide">
+                Transliteration
+              </DataTableTh>
+              <DataTableTh scope="col" variant="wide">
+                Literal
+              </DataTableTh>
+              <DataTableTh scope="col" variant="wide">
+                Natural
+              </DataTableTh>
             </tr>
           </thead>
           <tbody>
@@ -80,26 +97,26 @@ export default function ConcordanceTable({
               <tr
                 key={`${row.location.book}-${row.location.chapter}-${row.location.verse}-${row.sourceOrder ?? row.wordIndex}-${i}`}
               >
-                <td className={styles.location}>
+                <DataTableTd variant="sticky">
                   {formatLocation(row.location)}
-                </td>
-                <td className={styles.hebrew} dir="rtl" lang="he">
+                </DataTableTd>
+                <DataTableTd variant="script" dir="rtl" lang="he">
                   {renderSnippet(row.context.hebrew)}
-                </td>
-                <td className={styles.context}>
+                </DataTableTd>
+                <DataTableTd>
                   {renderSnippet(row.context.transliteration)}
-                </td>
-                <td className={styles.context}>
+                </DataTableTd>
+                <DataTableTd>
                   {renderSnippet(row.context.englishLiteral)}
-                </td>
-                <td className={styles.context}>
+                </DataTableTd>
+                <DataTableTd>
                   {renderSnippet(row.context.englishNatural)}
-                </td>
+                </DataTableTd>
               </tr>
             ))}
           </tbody>
-        </table>
-      </div>
-    </div>
+        </DataTableTable>
+      </DataTableScroll>
+    </DataTableRoot>
   );
 }

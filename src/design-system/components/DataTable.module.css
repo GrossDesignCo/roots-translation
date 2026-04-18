@@ -1,9 +1,14 @@
-.concordanceTableWrapper {
+/**
+ * Data table shell + cell variants — aligned with the original ConcordanceTable look:
+ * horizontal scroll, dense typography, sticky first column option, row hover.
+ */
+
+.root {
   max-width: none;
   box-sizing: border-box;
 }
 
-:global(.full-page-bleed).concordanceTableWrapper {
+.root:global(.full-page-bleed) {
   margin-bottom: 2rem;
   margin-left: 50%;
   transform: translateX(-50vw);
@@ -17,12 +22,6 @@
   display: flex;
   align-items: baseline;
   gap: 0.75rem;
-}
-
-.count {
-  font-size: 0.8rem;
-  font-weight: 400;
-  color: var(--ds-text-tertiary);
 }
 
 .scrollContainer {
@@ -67,7 +66,7 @@
   background-color: var(--ds-bg-container-low-contrast);
 }
 
-.locationCol {
+.thSticky {
   width: 110px;
   position: sticky;
   left: 0;
@@ -77,11 +76,15 @@
   box-shadow: 4px 0 12px -8px rgba(0, 0, 0, 0.07);
 }
 
-.contextCol {
+.thWide {
   min-width: 140px;
 }
 
-.location {
+.thAlignEnd {
+  text-align: right;
+}
+
+.tdSticky {
   white-space: nowrap;
   font-weight: 500;
   font-size: 0.8rem;
@@ -94,11 +97,35 @@
   box-shadow: 4px 0 12px -8px rgba(0, 0, 0, 0.07);
 }
 
-.hebrew {
+.tdScript {
   font-size: 1rem;
   unicode-bidi: embed;
 }
 
-.context {
+/**
+ * First column when it should stay visible on scroll *and* use script-sized type
+ * (e.g. lexicon “Script” column), unlike {@link .tdSticky} which is sized for refs.
+ */
+.tdStickyScript {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  background-color: var(--ds-bg-page);
+  border-right: 1px solid var(--ds-border);
+  box-shadow: 4px 0 12px -8px rgba(0, 0, 0, 0.07);
+  font-size: 1rem;
+  unicode-bidi: embed;
+  white-space: nowrap;
+}
+
+.tdCell {
   font-size: 0.85rem;
+}
+
+.tdAlignEnd {
+  text-align: right;
+}
+
+.table td.cellWrap {
+  white-space: normal;
 }

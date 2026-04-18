@@ -9,3 +9,4 @@ export * from './components/Sheet';
 export * from './components/Tooltip';
 export * from './components/ToggleGroup';
 export * from './components/Tabs';
+export * from './components/DataTable';
