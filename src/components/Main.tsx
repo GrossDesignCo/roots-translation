@@ -79,6 +79,8 @@ export const Main = () => {
   return (
     <>
       <main className={styles.main}>
+        {/* Fades scrolling text under the status bar / notch (does not inset or clip content) */}
+        <div className={styles.safeAreaTopFade} aria-hidden />
         <div className={styles.primaryPanel}>
           <ScriptureReader />
 

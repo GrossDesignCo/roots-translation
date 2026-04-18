@@ -2,6 +2,29 @@
   flex-grow: 1;
 }
 
+/**
+ * Mobile: subtle veil over the top safe area so verse text does not sit flush
+ * against the status bar. Fixed + pointer-events none — scroll extent unchanged.
+ */
+.safeAreaTopFade {
+  display: block;
+  pointer-events: none;
+  position: fixed;
+  z-index: 45;
+  inset-inline: 0;
+  inset-block-start: 0;
+  height: calc(env(safe-area-inset-top, 0px) + var(--ds-space-6));
+  background-color: var(--ds-bg-page);
+  mask-image: linear-gradient(to bottom, black 25%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, black 25%, transparent 100%);
+}
+
+@media (min-width: 80ch) {
+  .safeAreaTopFade {
+    display: none;
+  }
+}
+
 @media (min-width: 80ch) {
   .main {
     display: flex;
