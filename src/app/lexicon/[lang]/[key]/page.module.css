@@ -1,10 +1,7 @@
 .page {
   max-width: 72rem;
   margin: 0 auto;
-  /* ConcordanceTable bleed cancels this inset only — `.page` is already inside `page-shell`, centered. */
-  --lexicon-page-padding-inline: 1rem;
-  padding: 0 var(--lexicon-page-padding-inline) 3rem;
-  --concordance-inline-bleed: var(--lexicon-page-padding-inline);
+  padding: 0 1rem 3rem;
 }
 
 .layout {

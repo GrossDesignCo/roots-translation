@@ -1,4 +1,5 @@
 import styles from './ConcordanceTable.module.css';
+import cx from 'classnames';
 
 interface ConcordanceRow {
   location: {
@@ -30,6 +31,7 @@ interface ConcordanceRow {
 }
 
 interface ConcordanceTableProps {
+  className?: string;
   title: string;
   rows: ConcordanceRow[];
 }
@@ -53,17 +55,15 @@ function renderSnippet(text: string) {
 }
 
 export default function ConcordanceTable({
+  className,
   title,
   rows,
 }: ConcordanceTableProps) {
   if (!rows.length) return null;
 
   return (
-    <div className={styles.concordanceTableWrapper}>
-      <h3 className={styles.title}>
-        {title}
-        <span className={styles.count}>{rows.length} occurrences</span>
-      </h3>
+    <div className={cx(styles.concordanceTableWrapper, className)}>
+      <h3 className={styles.title}>{title}</h3>
       <div className={styles.scrollContainer}>
         <table className={styles.table}>
           <thead>

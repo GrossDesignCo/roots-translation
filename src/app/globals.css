@@ -2,13 +2,6 @@
 :root {
   --header-max-height: 3rem;
   --text-content-max-width: 80ch;
-  /**
-   * Horizontal inset to cancel so ConcordanceTable fills its column. Set on the
-   * padded column root (e.g. lexicon `.page` uses `--lexicon-page-padding-inline`;
-   * secondary panel sets its own). Not shell padding — a max-width `.page` is centered
-   * inside the shell, so bleed matches that box’s padding-inline only.
-   */
-  --concordance-inline-bleed: 0px;
 }
 
 html,

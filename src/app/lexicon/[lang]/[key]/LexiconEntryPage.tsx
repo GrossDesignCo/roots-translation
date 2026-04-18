@@ -146,13 +146,15 @@ export default function LexiconEntryPage({
               >
                 {wordConcordance && wordConcordance.occurrences.length > 0 && (
                   <ConcordanceTable
-                    title={`Occurrences of "${entry.key}"`}
+                    className="full-page-bleed"
+                    title={`${wordConcordance.occurrences.length} Occurrences of "${entry.key}"`}
                     rows={wordConcordance.occurrences}
                   />
                 )}
 
                 {rootConcordance && rootConcordance.occurrences.length > 0 && (
                   <ConcordanceTable
+                    className="full-page-bleed"
                     title={`All words from root "${entry.root?.key || entry.key}"`}
                     rows={rootConcordance.occurrences}
                   />
