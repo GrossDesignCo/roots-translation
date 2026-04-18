@@ -9,6 +9,7 @@
         "verse": 11
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הִגִּיד",
         "transliteration": "higid",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר מִי **הִגִּיד** לְךָ כִּי",
         "transliteration": "vaYomer mi **higid** lekha ki",
-        "englishLiteral": "And-he-said Who **declared** to-you that",
-        "englishNatural": "And he said Who **declared** to you that"
+        "englishLiteral": "And-he-said, \"Who **declared** to-you that",
+        "englishNatural": "And he said, \"Who **declared** to you that"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 10
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "הִגִּיד",
         "transliteration": "higid",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "בֹרֵחַ כִּי **הִגִּיד** לָהֶם",
         "transliteration": "boreach ki **higid** lahem",
-        "englishLiteral": "fleeing that **he-declared** to-them",
-        "englishNatural": "was fleeing that **he had declared** to them"
+        "englishLiteral": "fleeing, that **he-declared** to-them.",
+        "englishNatural": "was fleeing, that **he had declared** to them."
       }
     }
   ]

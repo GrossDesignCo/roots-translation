@@ -9,6 +9,7 @@
         "verse": 5
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "עוֹמֵד",
         "transliteration": "omed",
@@ -25,7 +26,7 @@
         "hebrew": "אֲשֶׁר אַתָּה **עוֹמֵד** עָלָיו אַדְמַת־",
         "transliteration": "asher atah **omed** alav admat-",
         "englishLiteral": "which you **standing** over-it ground-of",
-        "englishNatural": "which you **standing** over it the ground of"
+        "englishNatural": "which you, **standing** over it, the ground of"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 1
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "עָמָד",
         "transliteration": "amad",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "חַטָּאִים לֹא **עָמָד** וּבְמוֹשַׁב לֵצִים",
         "transliteration": "chataim lo **amad** uvMoshav letzim",
-        "englishLiteral": "sinners not **has-stood** and-in-seat-of scoffers",
-        "englishNatural": "sinners not **has stood** and in the seat of scoffers"
+        "englishLiteral": "sinners not **has-stood,** and-in-seat-of scoffers",
+        "englishNatural": "and in the way of sinners **has stood** not, and in the seat of"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 2
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "עֹמְדִים",
         "transliteration": "omedim",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "שְׂרָפִים **עֹמְדִים** מִמַּעַל לוֹ",
         "transliteration": "seraphim **omedim** miMaal lo",
-        "englishLiteral": "Incinerating_ones **were-standing** from-above to-him",
-        "englishNatural": "Incinerating-ones **were standing** above him"
+        "englishLiteral": "Incinerating_ones **were-standing** from-above to-him;",
+        "englishNatural": "Incinerating-ones **were standing** above him;"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 21
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וּבְעָמְדָם",
         "transliteration": "uVeAmdam",
@@ -101,8 +105,8 @@
       "context": {
         "hebrew": "בְּלֶכְתָּם יֵלֵכוּ **וּבְעָמְדָם** יַעֲמֹדוּ וּבְהִנָּשְׂאָם",
         "transliteration": "beLekhtan yelekhu **uVeAmdam** yaamodu uVehinasam",
-        "englishLiteral": "In-going-their they-went **and-in-standing-their** they-stood and-in-being-lifted-their",
-        "englishNatural": "In their going they went **and in their standing** they stood and in their being-lifted"
+        "englishLiteral": "In-going-their they-went, **and-in-standing-their** they-stood, and-in-being-lifted-their",
+        "englishNatural": "In their going they went, **and in their standing** they stood, and in their being-lifted"
       }
     },
     {
@@ -112,6 +116,7 @@
         "verse": 21
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "יַעֲמֹדוּ",
         "transliteration": "yaamodu",
@@ -127,8 +132,8 @@
       "context": {
         "hebrew": "יֵלֵכוּ וּבְעָמְדָם **יַעֲמֹדוּ** וּבְהִנָּשְׂאָם מֵעַל",
         "transliteration": "yelekhu uVeAmdam **yaamodu** uVehinasam meAl",
-        "englishLiteral": "they-went and-in-standing-their **they-stood** and-in-being-lifted-their from-over",
-        "englishNatural": "they went and in their standing **they stood** and in their being-lifted from over"
+        "englishLiteral": "they-went, and-in-standing-their **they-stood,** and-in-being-lifted-their from-over",
+        "englishNatural": "they went, and in their standing **they stood,** and in their being-lifted from over"
       }
     },
     {
@@ -138,6 +143,7 @@
         "verse": 24
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "בְּעָמְדָם",
         "transliteration": "beAmdam",
@@ -152,8 +158,8 @@
       "context": {
         "hebrew": "כְּקוֹל מַחֲנֶה **בְּעָמְדָם** תְּרַפֶּינָה כַנְפֵיהֶן",
         "transliteration": "keQol machaneh **beAmdam** terapenah kanfeihen",
-        "englishLiteral": "like-voice-of camp **in-standing-their** they-sank wings-their",
-        "englishNatural": "like the voice of a camp **in their standing** they sank their wings"
+        "englishLiteral": "like-voice-of camp; **in-standing-their** they-sank wings-their.",
+        "englishNatural": "like the voice of a camp; **in their standing** they sank their wings."
       }
     },
     {
@@ -163,6 +169,7 @@
         "verse": 25
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "בְּעָמְדָם",
         "transliteration": "beAmdam",
@@ -177,8 +184,8 @@
       "context": {
         "hebrew": "עַל־ רֹאשָׁם **בְּעָמְדָם** תְּרַפֶּינָה כַנְפֵיהֶן",
         "transliteration": "al- rosham **beAmdam** terapenah kanfeihen",
-        "englishLiteral": "over- head-his **in-standing-their** they-sank wings-their",
-        "englishNatural": "over his head **in their standing** they sank their wings"
+        "englishLiteral": "over- head-his; **in-standing-their** they-sank wings-their.",
+        "englishNatural": "over his head; **in their standing** they sank their wings."
       }
     },
     {
@@ -188,6 +195,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "עֲמֹד",
         "transliteration": "amod",
@@ -203,8 +211,8 @@
       "context": {
         "hebrew": "בֶּן־ אָדָם **עֲמֹד** עַל־ רַגְלֶיךָ",
         "transliteration": "ben- Adam **amod** al- ragleikha",
-        "englishLiteral": "son-of- Earthling (Adam) **stand** over- feet-your",
-        "englishNatural": "Son of Earthling (Adam) **stand** over your feet"
+        "englishLiteral": "\"son-of- Earthling (Adam), **stand** over- feet-your,",
+        "englishNatural": "\"Son of Earthling (Adam), **stand** over your feet,"
       }
     },
     {
@@ -214,6 +222,7 @@
         "verse": 2
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וַתַּעֲמִדֵנִי",
         "transliteration": "vataAmideni",
@@ -229,8 +238,8 @@
       "context": {
         "hebrew": "דִּבֶּר אֵלָי **וַתַּעֲמִדֵנִי** עַל־ רַגְלָי",
         "transliteration": "dibber elai **vataAmideni** al- raglai",
-        "englishLiteral": "he-spoke to-me **and-stood-me** over- feet-my",
-        "englishNatural": "He spoke to me **and stood me** over my feet"
+        "englishLiteral": "he-spoke to-me, **and-stood-me** over- feet-my,",
+        "englishNatural": "He spoke to me, **and stood me** over my feet,"
       }
     },
     {
@@ -240,6 +249,7 @@
         "verse": 15
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וַיַּעֲמֹד",
         "transliteration": "vaYaamod",
@@ -255,8 +265,8 @@
       "context": {
         "hebrew": "אֶל־ הַיָּם **וַיַּעֲמֹד** הַיָּם מִזַּעְפּוֹ",
         "transliteration": "el- haYam **vaYaamod** haYam mizaapo",
-        "englishLiteral": "to- the-sea **and-stood** the-sea from-rage-its",
-        "englishNatural": "to the sea **stood** and the sea from its rage"
+        "englishLiteral": "to- the-sea; **and-stood** the-sea from-rage-its.",
+        "englishNatural": "the sea; and the sea **stood** from its rage."
       }
     }
   ]

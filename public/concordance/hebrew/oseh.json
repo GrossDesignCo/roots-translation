@@ -10,6 +10,7 @@
         "verse": 11
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "עֹ֤שֶׂה",
         "transliteration": "oseh",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "עֵ֣ץ פְּרִ֞י **עֹ֤שֶׂה** פְּרִי֙ לְמִינ֔וֹ",
         "transliteration": "etz pri **oseh** pri leMino",
-        "englishLiteral": "tree fruit **making** fruit to-its-kind",
-        "englishNatural": "tree fruit **making** fruit after its kind"
+        "englishLiteral": "tree fruit **making** fruit to-its-kind,",
+        "englishNatural": "fruit tree **making** fruit after its kind,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 12
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "עֹֽשֶׂה",
         "transliteration": "oseh",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "לְמִינֵ֖הוּ וְעֵ֧ץ **עֹֽשֶׂה** פְּרִ֞י אֲשֶׁ֤ר",
         "transliteration": "leMinehu veEtz **oseh** pri asher",
-        "englishLiteral": "to-its-kind and-tree **making** fruit which",
-        "englishNatural": "after its kind and tree **making** fruit which"
+        "englishLiteral": "to-its-kind, and-tree **making** fruit which",
+        "englishNatural": "after its kind, and tree **making** fruit which"
       }
     }
   ]

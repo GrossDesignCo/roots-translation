@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וַיִּקַּח",
         "transliteration": "vaYiqqach",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "מִבֵּית לֵוִי **וַיִּקַּח** אֶת־ בַּת־",
         "transliteration": "miBeyt Levi **vaYiqqach** et- bat-",
-        "englishLiteral": "from-house-of Joined (Levi) **and-took** ↳ daughter-of",
-        "englishNatural": "from the house of Joined (Levi) **and took** ↳ a daughter of"
+        "englishLiteral": "from-house-of Joined (Levi), **and-took** ↳ daughter-of",
+        "englishNatural": "from the house of Joined (Levi), **and took** ↳ a daughter of"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 20
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּקַּח",
         "transliteration": "vaYiqqach",
@@ -52,7 +54,7 @@
         "hebrew": "**וַיִּקַּח** מֹשֶׁה אֶת־",
         "transliteration": "**vaYiqqach** Moshe et-",
         "englishLiteral": "**And-took** Drawn_Out (Moses) ↳",
-        "englishNatural": "**took** And Drawn-Out (Moses) ↳"
+        "englishNatural": "And Drawn-Out (Moses) **took** ↳ his woman"
       }
     },
     {
@@ -62,6 +64,7 @@
         "verse": 20
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "וַיִּקַּח",
         "transliteration": "vaYiqqach",
@@ -77,8 +80,8 @@
       "context": {
         "hebrew": "אַרְצָה מִצְרָיִם **וַיִּקַּח** מֹשֶׁה אֶת־",
         "transliteration": "artzah Mitzrayim **vaYiqqach** Moshe et-",
-        "englishLiteral": "land-ward Double_Narrows (Egypt) **and-took** Drawn_Out (Moses) ↳",
-        "englishNatural": "to the land of Double-Narrows (Egypt) **took** and Drawn-Out (Moses) ↳"
+        "englishLiteral": "land-ward Double_Narrows (Egypt), **and-took** Drawn_Out (Moses) ↳",
+        "englishNatural": "Double-Narrows (Egypt), and Drawn-Out (Moses) **took** ↳ the branch of"
       }
     }
   ]

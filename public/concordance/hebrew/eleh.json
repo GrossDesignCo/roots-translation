@@ -10,6 +10,7 @@
         "verse": 4
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "אֵלֶּה",
         "transliteration": "eleh",
@@ -34,6 +35,7 @@
         "verse": 9
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "אֵלֶּה",
         "transliteration": "eleh",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "**אֵלֶּה** תּוֹלְדֹת נֹחַ",
         "transliteration": "**eleh** toledot noach",
-        "englishLiteral": "**These** birthings-of Rest (Noah)",
-        "englishNatural": "**These** are the birthings of Rest (Noah)"
+        "englishLiteral": "**These** birthings-of Rest (Noah);",
+        "englishNatural": "**These** are the birthings of Rest (Noah);"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 10
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אֵלֶּה",
         "transliteration": "eleh",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "אֶת־ כָּל־ **אֵלֶּה** וַיְבַתֵּר אֹתָם",
         "transliteration": "et- kol- **eleh** vayevater otam",
-        "englishLiteral": "↳ all-of- **these** and-he-divided ↳ them",
-        "englishNatural": "↳ all **these** and divided them"
+        "englishLiteral": "↳ all-of- **these,** and-he-divided ↳ them",
+        "englishNatural": "↳ all **these,** and divided them"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 8
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אֵ֨לֶּה",
         "transliteration": "eleh",
@@ -96,7 +100,7 @@
         "hebrew": "כָל־ עֲבָדֶ֩יךָ֩ **אֵ֨לֶּה** אֵלַ֜י וְהִשְׁתַּֽחֲווּ־",
         "transliteration": "kol- avadekha **eleh** elay veHishtachavu-",
         "englishLiteral": "all- servants-your **these** to-me and-they-will-bow_down-",
-        "englishNatural": "And all your servants **these** to me and will bow-down"
+        "englishNatural": "And all **these** your servants will go-down"
       }
     }
   ]

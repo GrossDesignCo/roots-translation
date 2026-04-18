@@ -10,6 +10,7 @@
         "verse": 3
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הוּא־",
         "transliteration": "hu-",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "רֶמֶשׂ אֲשֶׁר **הוּא־** חַי לָכֶם",
         "transliteration": "remes asher **hu-** chai lakhem",
-        "englishLiteral": "creeper which **it-** living to-you",
-        "englishNatural": "creeper which **it** is living to you"
+        "englishLiteral": "creeper which **it-** living, to-you",
+        "englishNatural": "creeper which **it** is living, to you"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 9
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "הוּא־",
         "transliteration": "hu-",

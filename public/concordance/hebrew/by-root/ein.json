@@ -9,6 +9,7 @@
         "verse": 24
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "בְּאֵין",
         "transliteration": "beEin",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "**בְּאֵין** תְּהֹמוֹת נוֹלָדְתִּי",
         "transliteration": "**beEin** tehomot noladti",
-        "englishLiteral": "**In-nothing** abyss was-birthed-I",
-        "englishNatural": "**In nothing** abyss I was birthed"
+        "englishLiteral": "**In-nothing,** abyss, was-birthed-I;",
+        "englishNatural": "**In nothing,** abyss, I was birthed;"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 24
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "בְּאֵין",
         "transliteration": "beEin",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "תְּהֹמוֹת נוֹלָדְתִּי **בְּאֵין** מַעְיָנוֹת נִכְבַּדֵּי",
         "transliteration": "tehomot noladti **beEin** mayanot nikhbadei",
-        "englishLiteral": "abyss was-birthed-I **in-nothing** springs heavy_with",
-        "englishNatural": "abyss I was birthed **in nothing** springs heavy-with"
+        "englishLiteral": "abyss, was-birthed-I; **in-nothing,** springs, heavy_with",
+        "englishNatural": "abyss, I was birthed; **in nothing,** springs, heavy-with"
       }
     }
   ]

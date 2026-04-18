@@ -9,6 +9,7 @@
         "verse": 21
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "הַמֹּפְתִים",
         "transliteration": "haMoftim",
@@ -33,6 +34,7 @@
         "verse": 3
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "מוֹפְתַי",
         "transliteration": "moftai",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "אֹתֹתַי וְאֶת־ **מוֹפְתַי** בְּאֶרֶץ מִצְרָיִם",
         "transliteration": "ototai veEt- **moftai** beEretz Mitzrayim",
-        "englishLiteral": "signs-my and-↳ **wonders-my** in-land-of Double_Narrows (Egypt)",
-        "englishNatural": "my signs and **my wonders** in the land of Double-Narrows (Egypt)"
+        "englishLiteral": "signs-my and-↳ **wonders-my** in-land-of Double_Narrows (Egypt).\"",
+        "englishNatural": "my signs and **my wonders** in the land of Double-Narrows (Egypt).\""
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 9
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "מוֹפֵת",
         "transliteration": "mofet",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "תְּנוּ לָכֶם **מוֹפֵת** וְאָמַרְתָּ אֶל־",
         "transliteration": "tenu lakhem **mofet** veAmarta el-",
-        "englishLiteral": "give to-you **wonder** and-will-say to-",
-        "englishNatural": "Give to you **a wonder** and you will say to"
+        "englishLiteral": "give to-you **wonder;** and-will-say to-",
+        "englishNatural": "'Give to you **a wonder,'** and you will say to"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 9
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "מוֹפְתַ֖י",
         "transliteration": "moftay",
@@ -92,10 +96,10 @@
         }
       },
       "context": {
-        "hebrew": "לְמַ֛עַן רְבוֹת־ **מוֹפְתַ֖י** בְּאֶ֥רֶץ מִצְרָֽיִם׃",
+        "hebrew": "לְמַ֛עַן רְבוֹת־ **מוֹפְתַ֖י** בְּאֶ֥רֶץ מִצְרָֽיִם׃׃",
         "transliteration": "lemaan rebot- **moftay** beEretz Mitzrayim",
-        "englishLiteral": "for-sake-of multiplying- **wonders-my** in-land-of Double_Narrows (Egypt)",
-        "englishNatural": "for the sake of multiplying **my wonders** in the land of Double-Narrows (Egypt)"
+        "englishLiteral": "for-sake-of multiplying- **wonders-my** in-land-of Double_Narrows (Egypt).\"",
+        "englishNatural": "for the sake of multiplying **my wonders** in the land of Double-Narrows (Egypt).\""
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 10
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הַמֹּפְתִ֥ים",
         "transliteration": "haMoftim",
@@ -119,7 +124,7 @@
         "hebrew": "אֶת־ כָּל־ **הַמֹּפְתִ֥ים** הָאֵ֖לֶּה לִפְנֵ֣י",
         "transliteration": "et- kol- **haMoftim** haEleh lifney",
         "englishLiteral": "↳- all- **the-wonders** the-these to-faces-of",
-        "englishNatural": "↳- all **the wonders** these to the face of"
+        "englishNatural": "all these, **the wonders,** to the face of Pharaoh;"
       }
     }
   ]

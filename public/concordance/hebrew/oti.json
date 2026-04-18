@@ -10,6 +10,7 @@
         "verse": 14
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֹתִי",
         "transliteration": "oti",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "הֵן גֵּרַשְׁתָּ **אֹתִי** הַיּוֹם מֵעַל",
         "transliteration": "hen gerashta **oti** haYom meAl",
-        "englishLiteral": "Behold you-banished **↳-me** the-day from-over",
-        "englishNatural": "Behold you have banished **me** this day from over"
+        "englishLiteral": "Behold, you-banished **↳-me** the-day, from-over",
+        "englishNatural": "Behold, you have banished **me** this day, from over"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 3
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "אֹתִי",
         "transliteration": "oti",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "בֵּיתִי יוֹרֵשׁ **אֹתִי**",
         "transliteration": "beyti yoresh **oti**",
-        "englishLiteral": "house-of-me inheriting **↳ me**",
-        "englishNatural": "my house inherits **me**"
+        "englishLiteral": "house-of-me inheriting **↳ me.\"**",
+        "englishNatural": "my house inherits **me.\"**"
       }
     }
   ]

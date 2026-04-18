@@ -10,6 +10,7 @@
         "verse": 9
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "חֹבְרֹת",
         "transliteration": "choverot",
@@ -36,6 +37,7 @@
         "verse": 11
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "חֹבְרוֹת",
         "transliteration": "choverot",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "לְאִישׁ שְׁתַּיִם **חֹבְרוֹת** אִישׁ וּשְׁתַּיִם",
         "transliteration": "leIsh shtayim **choverot** ish uShtayim",
-        "englishLiteral": "to-man two **joining** man and-two",
-        "englishNatural": "to man two **joining** man and two"
+        "englishLiteral": "to-man two **joining** man, and-two",
+        "englishNatural": "upward; two **joining** man to man,"
       }
     }
   ]

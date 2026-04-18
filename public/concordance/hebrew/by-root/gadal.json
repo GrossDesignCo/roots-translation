@@ -9,6 +9,7 @@
         "verse": 2
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "גָּדוֹל",
         "transliteration": "gadol",
@@ -33,6 +34,7 @@
         "verse": 2
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וַאֲגַדְּלָה",
         "transliteration": "vaAgadelah",
@@ -48,8 +50,8 @@
       "context": {
         "hebrew": "גָּדוֹל וַאֲבָרֶכְךָ **וַאֲגַדְּלָה** שְׁמֶךָ וֶהְיֵה",
         "transliteration": "gadol vaAvarekha **vaAgadelah** shemekha veHeyeh",
-        "englishLiteral": "great and-I-will-bless-you **and-I-will-make-great** your-name and-be",
-        "englishNatural": "great and I will bless you **and I will make great** your name and be"
+        "englishLiteral": "great and-I-will-bless-you **and-I-will-make-great** your-name, and-be",
+        "englishNatural": "great and I will bless you **and I will make great** your name, and be"
       }
     },
     {
@@ -59,6 +61,7 @@
         "verse": 10
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּגְדַּל",
         "transliteration": "vaYigdal",
@@ -75,7 +78,7 @@
         "hebrew": "**וַיִּגְדַּל** הַיֶּלֶד וַתְּבִאֵהוּ",
         "transliteration": "**vaYigdal** haYeled vatTevihu",
         "englishLiteral": "**And-grew** the-child and-brought-him",
-        "englishNatural": "**grew** And the child and she brought him"
+        "englishNatural": "And the child **grew,** and she brought him to the daughter of"
       }
     },
     {
@@ -85,6 +88,7 @@
         "verse": 10
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "גִדַּלְתּוֹ",
         "transliteration": "giddalto",
@@ -100,8 +104,8 @@
       "context": {
         "hebrew": "בּוֹ וְלֹא **גִדַּלְתּוֹ** שֶׁבִּן־ לַיְלָה",
         "transliteration": "bo veLo **giddalto** shebin- laylah",
-        "englishLiteral": "in-it and-not **you-grew-it** yet-son-of- night",
-        "englishNatural": "in it not **and you grew it** yet son of a night"
+        "englishLiteral": "in-it and-not **you-grew-it,** yet-son-of- night",
+        "englishNatural": "in it not, **and you grew it** not, yet son of"
       }
     }
   ]

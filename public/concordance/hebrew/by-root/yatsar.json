@@ -9,6 +9,7 @@
         "verse": 7
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּיצֶר",
         "transliteration": "vaYiytzer",
@@ -25,7 +26,7 @@
         "hebrew": "**וַיִּיצֶר** יְהוָה אֱלֹהִים",
         "transliteration": "**vaYiytzer** YHWH Elohim",
         "englishLiteral": "**And-formed** He_Who_Is (YHWH) Gods",
-        "englishNatural": "**formed** And He-Who-Is (YHWH) God"
+        "englishNatural": "And He-Who-Is (YHWH) God **formed** ↳ the Earthling (Adam),"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 8
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "יָצָר׃",
         "transliteration": "yatsar",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "הָאָדָם אֲשֶׁר **יָצָר׃**",
         "transliteration": "haAdam asher **yatsar**",
-        "englishLiteral": "the-Earthling (Adam) which **formed**",
-        "englishNatural": "the Earthling (Adam) which **he formed**"
+        "englishLiteral": "the-Earthling (Adam) which **formed.**",
+        "englishNatural": "the Earthling (Adam) which **he formed.**"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 19
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּצֶר",
         "transliteration": "vaYitzer",
@@ -77,7 +80,7 @@
         "hebrew": "**וַיִּצֶר** יְהוָה אֱלֹהִים",
         "transliteration": "**vaYitzer** YHWH Elohim",
         "englishLiteral": "**And-formed** He_Who_Is (YHWH) Gods",
-        "englishNatural": "**formed** And He-Who-Is (YHWH) God"
+        "englishNatural": "And He-Who-Is (YHWH) God **formed** from the earth"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 21
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "יֵצֶר",
         "transliteration": "yetzer",
@@ -100,8 +104,8 @@
       "context": {
         "hebrew": "הָאָדָם כִּי **יֵצֶר** לֵב הָאָדָם",
         "transliteration": "haAdam ki **yetzer** lev haAdam",
-        "englishLiteral": "the-Earthling (Adam) for **forming** heart-of the-Earthling (Adam)",
-        "englishNatural": "the Earthling (Adam) for **the forming** of the heart of the Earthling (Adam)"
+        "englishLiteral": "the-Earthling (Adam), for **forming** heart-of the-Earthling (Adam),",
+        "englishNatural": "the Earthling (Adam), for **the forming** of the heart of the Earthling (Adam),"
       }
     }
   ]

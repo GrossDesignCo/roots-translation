@@ -9,6 +9,7 @@
         "verse": 23
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "עֶצֶם",
         "transliteration": "etsem",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "זֹאת הַפַּעַם **עֶצֶם** מֵעֲצָמַי וּבָשָׂר",
         "transliteration": "zot haPaam **etsem** meAtzamai uVasar",
-        "englishLiteral": "This the-time **Bone** from-my-bones and-flesh",
-        "englishNatural": "This is the time **Bone** from my bones and flesh"
+        "englishLiteral": "\"This the-time! **Bone** from-my-bones, and-flesh",
+        "englishNatural": "\"This is the time! **Bone** from my bones, and flesh"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 23
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "מֵעֲצָמַי",
         "transliteration": "meAtzamai",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "הַפַּעַם עֶצֶם **מֵעֲצָמַי** וּבָשָׂר מִבְּשָׂרִי",
         "transliteration": "haPaam etsem **meAtzamai** uVasar miVesari",
-        "englishLiteral": "the-time Bone **from-my-bones** and-flesh from-my-flesh",
-        "englishNatural": "the time Bone **from my bones** and flesh from my flesh"
+        "englishLiteral": "the-time! Bone **from-my-bones,** and-flesh from-my-flesh;",
+        "englishNatural": "the time! Bone **from my bones,** and flesh from my flesh;"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 4
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "סְעָרָה",
         "transliteration": "saarah",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "וְהִנֵּה רוּחַ **סְעָרָה** בָּאָה מִן־",
         "transliteration": "veHineh ruach **saarah** baah min-",
-        "englishLiteral": "and-behold wind **storm** coming from-",
-        "englishNatural": "and behold a wind **storm** coming from"
+        "englishLiteral": "and-behold, wind **storm** coming from-",
+        "englishNatural": "and behold, a wind **storm** coming from"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 4
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "סַעַר־",
         "transliteration": "saar-",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "הַיָּם וַיְהִי **סַעַר־** גָּדוֹל בַּיָּם",
         "transliteration": "haYam vaYehi **saar-** gadol baYam",
-        "englishLiteral": "the-sea and-was **tempest-** great in-sea",
-        "englishNatural": "the sea and there was **tempest** a great in the sea"
+        "englishLiteral": "the-sea, and-was **tempest-** great in-sea,",
+        "englishNatural": "and there was a great **tempest** in the sea, and the ship"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 12
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הַסַּעַר",
         "transliteration": "haSaar",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "כִּי בְשֶׁלִּי **הַסַּעַר** הַגָּדוֹל הַזֶּה",
         "transliteration": "ki beshelli **haSaar** haGadol haZeh",
-        "englishLiteral": "that for-sake-my **the-tempest** the-great the-this",
-        "englishNatural": "that for my sake **the tempest** the great the this"
+        "englishLiteral": "that for-sake-my **the-tempest,** the-great, the-this",
+        "englishNatural": "that for my sake **the tempest,** the great, the this"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 16
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "ὡς",
         "transliteration": "hos",
@@ -33,6 +34,7 @@
         "verse": 16
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "ὡς",
         "transliteration": "hos",
@@ -57,6 +59,7 @@
         "verse": 16
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "ὡς",
         "transliteration": "hos",
@@ -69,9 +72,9 @@
       },
       "context": {
         "hebrew": "καὶ ἀκέραιοι **ὡς** αἱ περιστεραί",
-        "transliteration": "kai akeraioi **hos** hai peristerai",
-        "englishLiteral": "and innocent **as** the doves",
-        "englishNatural": "and innocent **as** the doves"
+        "transliteration": "kai akeraioi **hos** hai peristerai.",
+        "englishLiteral": "and innocent **as** the doves.",
+        "englishNatural": "and innocent **as** the doves."
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 2
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "ὅς",
         "transliteration": "hos",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "τὸν ἀρχαῖον **ὅς** ἐστιν Διάβολος",
         "transliteration": "ton archaion **hos** estin Diabolos",
-        "englishLiteral": "The Ancient **who** is Accuser",
-        "englishNatural": "The Ancient **who** is Accuser"
+        "englishLiteral": "The Ancient, **who** is Accuser",
+        "englishNatural": "The Ancient, **who** is Accuser"
       }
     }
   ]

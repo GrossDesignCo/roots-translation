@@ -10,6 +10,7 @@
         "verse": 6
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֵלַי",
         "transliteration": "elai",
@@ -34,6 +35,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֵלָי",
         "transliteration": "elai",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר **אֵלָי** בֶּן־ אָדָם",
         "transliteration": "vayYomer **elai** ben- Adam",
-        "englishLiteral": "And-he-said **to-me** son-of- Earthling (Adam)",
-        "englishNatural": "And He said **to me** Son of Earthling (Adam)"
+        "englishLiteral": "And-he-said **to-me,** \"son-of- Earthling (Adam),",
+        "englishNatural": "And He said **to me,** \"Son of Earthling (Adam),"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 2
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "אֵלָי",
         "transliteration": "elai",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "כַּאֲשֶׁר דִּבֶּר **אֵלָי** וַתַּעֲמִדֵנִי עַל־",
         "transliteration": "kaAsher dibber **elai** vataAmideni al-",
-        "englishLiteral": "as-which he-spoke **to-me** and-stood-me over-",
-        "englishNatural": "as which He spoke **to me** and stood me over"
+        "englishLiteral": "as-which he-spoke **to-me,** and-stood-me over-",
+        "englishNatural": "as which He spoke **to me,** and stood me over"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 2
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "אֵלָי",
         "transliteration": "elai",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "אֵת מִדַּבֵּר **אֵלָי**",
         "transliteration": "et midabber **elai**",
-        "englishLiteral": "↳ speaking **to-me**",
-        "englishNatural": "↳ him speaking **to me**"
+        "englishLiteral": "↳ speaking **to-me.**",
+        "englishNatural": "↳ him speaking **to me.**"
       }
     }
   ]

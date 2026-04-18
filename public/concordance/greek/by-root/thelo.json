@@ -9,6 +9,7 @@
         "verse": 18
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "ἤθελες",
         "transliteration": "ētheles",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "περιεπάτεις ὅπου **ἤθελες** ὅταν δὲ",
         "transliteration": "periepateis hopou **ētheles** hotan de",
-        "englishLiteral": "you-walked where **you-wanted** when but",
-        "englishNatural": "you walked where **you wanted** when but"
+        "englishLiteral": "you-walked where **you-wanted;** when but",
+        "englishNatural": "you walked where **you wanted;** but when"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 18
       },
       "wordIndex": 28,
+      "sourceOrder": 28,
       "word": {
         "originalScript": "θέλεις",
         "transliteration": "theleis",
@@ -48,8 +50,8 @@
       "context": {
         "hebrew": "ὅπου οὐ **θέλεις**",
         "transliteration": "hopou ou **theleis**",
-        "englishLiteral": "where not **you-want**",
-        "englishNatural": "where not **you want**"
+        "englishLiteral": "where not **you-want.\"**",
+        "englishNatural": "will carry where **you want** not.\""
       }
     }
   ]

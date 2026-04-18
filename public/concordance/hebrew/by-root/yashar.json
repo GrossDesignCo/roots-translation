@@ -9,6 +9,7 @@
         "verse": 1
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "וְיָשָׁ֛ר",
         "transliteration": "veYashar",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "הַה֗וּא תָּ֧ם **וְיָשָׁ֛ר** וִירֵ֥א אֱלֹהִ֖ים",
         "transliteration": "haHu tam **veYashar** viYere Elohim",
-        "englishLiteral": "the-that whole **and-straight** and-fearing Gods",
-        "englishNatural": "and that whole **and straight** and fearing God"
+        "englishLiteral": "the-that whole **and-straight,** and-fearing Gods,",
+        "englishNatural": "was whole **and straight,** and fearing God,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 7
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "יְשָׁרָה",
         "transliteration": "yesharah",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וְרַגְלֵיהֶם רֶגֶל **יְשָׁרָה** וְכַף רַגְלֵיהֶם",
         "transliteration": "veRagleihem regel **yesharah** veKhaf ragleihem",
-        "englishLiteral": "And-legs-their leg **straight** and-palm-of legs-their",
-        "englishNatural": "And their legs were a leg **straight** and the palm of their legs"
+        "englishLiteral": "And-legs-their leg **straight,** and-palm-of legs-their",
+        "englishNatural": "And their legs were a leg **straight,** and the palm of their legs"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 23
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "יְשָׁרוֹת",
         "transliteration": "yesharot",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "הָרָקִיעַ כַּנְפֵיהֶם **יְשָׁרוֹת** אִשָּׁה אֶל־",
         "transliteration": "haRaqia kanfeihem **yesharot** ishah el-",
-        "englishLiteral": "the-hammering_out wings-their **straight** woman to-",
-        "englishNatural": "the hammering-out their wings **straight** woman to"
+        "englishLiteral": "the-hammering_out wings-their **straight,** woman to-",
+        "englishNatural": "the hammering-out their wings **straight,** woman to"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "אֵלֶיךָ",
         "transliteration": "elekha",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "לֹא־ נִרְאָה **אֵלֶיךָ** יְהוָה",
         "transliteration": "lo- nirAh **elekha** YHWH",
-        "englishLiteral": "not- was_seen **to-you** He_Who_Is (YHWH)",
-        "englishNatural": "not was-seen **to you** He-Who-Is (YHWH)"
+        "englishLiteral": "'not- was_seen **to-you** He_Who_Is (YHWH).'\"",
+        "englishNatural": "was-seen not **to you.'\"**"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 5
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אֵלֶיךָ",
         "transliteration": "elekha",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "כִּי־ נִרְאָה **אֵלֶיךָ** יְהוָה אֱלֹהֵי",
         "transliteration": "ki- nirAh **elekha** YHWH elohei",
-        "englishLiteral": "that- was_seen **to-you** He_Who_Is (YHWH) Gods-of",
-        "englishNatural": "that he was-seen **to you** He-Who-Is (YHWH) the God of"
+        "englishLiteral": "that- was_seen **to-you** He_Who_Is (YHWH), Gods-of",
+        "englishNatural": "that he was-seen **to you,** He-Who-Is (YHWH), the God of"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 7
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "אֵלֶיךָ",
         "transliteration": "elekha",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "זָכַרְתִּי וַתָּבוֹא **אֵלֶיךָ** תְפִלָּתִי אֶל־",
         "transliteration": "zakharti vatavo **elekha** tefilati el-",
-        "englishLiteral": "I-remembered and-came **to-you** prayer-my to-",
-        "englishNatural": "I remembered and came **to you** my prayer to"
+        "englishLiteral": "I-remembered; and-came **to-you** prayer-my, to-",
+        "englishNatural": "I remembered; and came **to you** my prayer, to"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 2
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "אֵלֶיךָ",
         "transliteration": "elekha",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "אָנֹכִי דֹּבֵר **אֵלֶיךָ**",
         "transliteration": "anokhi dover **elekha**",
-        "englishLiteral": "I speaking **to-you**",
-        "englishNatural": "I am speaking **to you**"
+        "englishLiteral": "I speaking **to-you.**",
+        "englishNatural": "I am speaking **to you.**"
       }
     }
   ]

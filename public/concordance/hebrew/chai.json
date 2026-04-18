@@ -10,6 +10,7 @@
         "verse": 20
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "חָי׃",
         "transliteration": "chai",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אֵם כָּל־ **חָי׃**",
         "transliteration": "em kol- **chai**",
-        "englishLiteral": "Mother all **Living**",
-        "englishNatural": "Mother of all **Living**"
+        "englishLiteral": "Mother all **Living.**",
+        "englishNatural": "Mother of all **Living.**"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 5
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "חַי",
         "transliteration": "chai",
@@ -49,8 +51,8 @@
       "context": {
         "hebrew": "אָדָם אֲשֶׁר **חַי** תְּשַׁע מֵאוֹת",
         "transliteration": "Adam asher **chai** tesha meot",
-        "englishLiteral": "Earthling (Adam) which **he-lived** nine hundreds",
-        "englishNatural": "Earthling (Adam) which **he lived** nine hundred"
+        "englishLiteral": "Earthling (Adam), which **he-lived,** nine hundreds",
+        "englishNatural": "Earthling (Adam), which **he lived,** were nine"
       }
     },
     {
@@ -60,6 +62,7 @@
         "verse": 21
       },
       "wordIndex": 29,
+      "sourceOrder": 29,
       "word": {
         "originalScript": "חַי",
         "transliteration": "chai",
@@ -73,8 +76,8 @@
       "context": {
         "hebrew": "אֶת־ כָּל־ **חַי** כַּאֲשֶׁר עָשִׂיתִי",
         "transliteration": "et- kol- **chai** kaAsher asiti",
-        "englishLiteral": "↳ all- **living** as-which I-have-done",
-        "englishNatural": "↳ all **living** as which I have done"
+        "englishLiteral": "↳ all- **living,** as-which I-have-done.",
+        "englishNatural": "↳ all **living,** as which I have done."
       }
     },
     {
@@ -84,6 +87,7 @@
         "verse": 3
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "חַי",
         "transliteration": "chai",
@@ -97,8 +101,8 @@
       "context": {
         "hebrew": "אֲשֶׁר הוּא־ **חַי** לָכֶם יִהְיֶה",
         "transliteration": "asher hu- **chai** lakhem yihyeh",
-        "englishLiteral": "which it- **living** to-you will-be",
-        "englishNatural": "which it **is living** to you will be"
+        "englishLiteral": "which it- **living,** to-you will-be",
+        "englishNatural": "which it **is living,** to you will be"
       }
     }
   ]

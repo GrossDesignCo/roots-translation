@@ -10,6 +10,7 @@
         "verse": 19
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "חַיַּת",
         "transliteration": "chayyat",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "הָאֲדָמָה כָּל־ **חַיַּת** הַשָּׂדֶה וְאֵת",
         "transliteration": "haAdamah kol- **chayyat** haSadeh veEt",
-        "englishLiteral": "the-earth all- **living_being-of** the-field and-↳",
-        "englishNatural": "the earth every **living-being of** the field and"
+        "englishLiteral": "the-earth all- **living_being-of** the-field, and-↳",
+        "englishNatural": "the earth every **living-being of** the field, and"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 20
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "חַיַּת",
         "transliteration": "chayyat",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "הַשָּׁמַיִם וּלְכֹל **חַיַּת** הַשָּׂדֶה וּלְאָדָם",
         "transliteration": "haShamayim uLeKol **chayyat** haSadeh uLeAdam",
-        "englishLiteral": "the-skies and-to-every **living_being-of** the-field and-to-Earthling (Adam)",
-        "englishNatural": "the skies and to every **living-being of** the field and to Earthling (Adam)"
+        "englishLiteral": "the-skies, and-to-every **living_being-of** the-field, and-to-Earthling (Adam)",
+        "englishNatural": "the skies, and to every **living-being of** the field, and to Earthling (Adam),"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 20
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וּמִקְנֶה",
         "transliteration": "uMiqneh",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "יֹשֵׁב אֹהֶל **וּמִקְנֶה**",
         "transliteration": "yoshev ohel **uMiqneh**",
-        "englishLiteral": "dwelling tent **and-cattle**",
-        "englishNatural": "dwelling tent **and cattle**"
+        "englishLiteral": "dwelling tent, **and-cattle.**",
+        "englishNatural": "tent dwelling, **and cattle.**"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 26
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "מִקְנֵנוּ",
         "transliteration": "miqnenu",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וְגַם־ **מִקְנֵנוּ** יֵלֵךְ עִמָּנוּ",
         "transliteration": "veGam- **miqnenu** yelekh imanu",
-        "englishLiteral": "and-also- **livestock-our** will-go with-us",
-        "englishNatural": "And also **our livestock** will go with us"
+        "englishLiteral": "and-also- **livestock-our** will-go with-us;",
+        "englishNatural": "And also **our livestock** will go with us;"
       }
     }
   ]

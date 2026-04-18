@@ -9,6 +9,7 @@
         "verse": 1
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "ἦν",
         "transliteration": "ēn",
@@ -21,10 +22,10 @@
         }
       },
       "context": {
-        "hebrew": "Ἐν ἀρχῇ **ἦν** ὁ λόγος",
-        "transliteration": "En archē **ēn** ho logos",
-        "englishLiteral": "In first **was** The Word",
-        "englishNatural": "In the first **was** The Word"
+        "hebrew": "Ἐν ἀρχῇ **ἦν** ὁ λόγος,",
+        "transliteration": "En archē **ēn** ho logos,",
+        "englishLiteral": "In first **was** The Word,",
+        "englishNatural": "In the first **was** The Word,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 1
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "ἦν",
         "transliteration": "ēn",
@@ -59,6 +61,7 @@
         "verse": 1
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "ἦν",
         "transliteration": "ēn",
@@ -71,10 +74,10 @@
         }
       },
       "context": {
-        "hebrew": "καὶ θεὸς **ἦν** ὁ λόγος",
-        "transliteration": "kai theos **ēn** ho logos",
-        "englishLiteral": "and God **was** The Word",
-        "englishNatural": "and God **was** The Word"
+        "hebrew": "καὶ θεὸς, **ἦν** ὁ λόγος.",
+        "transliteration": "kai theos **ēn** ho logos.",
+        "englishLiteral": "and God **was** The Word.",
+        "englishNatural": "The Word **was** God."
       }
     },
     {
@@ -84,6 +87,7 @@
         "verse": 58
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "εἰμί",
         "transliteration": "eimi",
@@ -96,10 +100,10 @@
         }
       },
       "context": {
-        "hebrew": "γενέσθαι ἐγὼ **εἰμί**",
-        "transliteration": "genesthai egō **eimi**",
-        "englishLiteral": "to-become I **am**",
-        "englishNatural": "was I **Am**"
+        "hebrew": "γενέσθαι, ἐγὼ **εἰμί.**",
+        "transliteration": "genesthai, egō **eimi.**",
+        "englishLiteral": "to-become, I **am.\"**",
+        "englishNatural": "was, I **Am.\"**"
       }
     },
     {
@@ -109,6 +113,7 @@
         "verse": 18
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "ἦς",
         "transliteration": "ēs",
@@ -123,8 +128,8 @@
       "context": {
         "hebrew": "σοι ὅτε **ἦς** νεώτερος ἐζώννυες",
         "transliteration": "soi hote **ēs** neoteros ezōnnues",
-        "englishLiteral": "to-you when **you-were** younger you-girded",
-        "englishNatural": "to you when **you were** younger you girded"
+        "englishLiteral": "to-you, when **you-were** younger, you-girded",
+        "englishNatural": "to you, when **you were** younger, you girded"
       }
     },
     {
@@ -134,6 +139,7 @@
         "verse": 2
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "ἐστιν",
         "transliteration": "estin",
@@ -148,8 +154,8 @@
       "context": {
         "hebrew": "ἀρχαῖον ὅς **ἐστιν** Διάβολος καὶ",
         "transliteration": "archaion hos **estin** Diabolos kai",
-        "englishLiteral": "Ancient who **is** Accuser and",
-        "englishNatural": "Ancient who **is** Accuser and"
+        "englishLiteral": "Ancient, who **is** Accuser and",
+        "englishNatural": "Ancient, who **is** Accuser and"
       }
     }
   ]

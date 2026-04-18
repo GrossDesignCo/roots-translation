@@ -10,6 +10,7 @@
         "verse": 6
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וֵאלֹהֵי",
         "transliteration": "vElohei",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי יִצְחָק **וֵאלֹהֵי** יַעֲקֹב וַיַּסְתֵּר",
         "transliteration": "elohei Yitzchaq **vElohei** Yaaqov vaYaster",
-        "englishLiteral": "Gods-of He_Laughs (Isaac) **and-Gods-of** Heel_Grasper (Jacob) And-hid",
-        "englishNatural": "the God of He-Laughs (Isaac) **and the God of** Heel-Grasper (Jacob) hid"
+        "englishLiteral": "Gods-of He_Laughs (Isaac), **and-Gods-of** Heel_Grasper (Jacob).\" And-hid",
+        "englishNatural": "the God of He-Laughs (Isaac), **and the God of** Heel-Grasper (Jacob).\" And Drawn-Out (Moses)"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 5
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "וֵאלֹהֵי",
         "transliteration": "vElohei",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי יִצְחָק **וֵאלֹהֵי** יַעֲקֹב",
         "transliteration": "elohei Yitzchaq **vElohei** Yaaqov",
-        "englishLiteral": "Gods-of He_Laughs (Isaac) **and-Gods-of** Heel_Grasper (Jacob)",
-        "englishNatural": "the God of He-Laughs (Isaac) **and the God of** Heel-Grasper (Jacob)"
+        "englishLiteral": "Gods-of He_Laughs (Isaac), **and-Gods-of** Heel_Grasper (Jacob).\"",
+        "englishNatural": "the God of He-Laughs (Isaac), **and the God of** Heel-Grasper (Jacob).\""
       }
     }
   ]

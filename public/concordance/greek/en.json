@@ -10,6 +10,7 @@
         "verse": 16
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "ἐν",
         "transliteration": "en",
@@ -22,9 +23,9 @@
       },
       "context": {
         "hebrew": "ὡς πρόβατα **ἐν** μέσῳ λύκων",
-        "transliteration": "hos probata **en** meso lukon",
-        "englishLiteral": "as sheep **in** midst wolves",
-        "englishNatural": "as sheep **in** the midst of wolves"
+        "transliteration": "hos probata **en** meso lukon;",
+        "englishLiteral": "as sheep **in** midst wolves;",
+        "englishNatural": "as sheep **in** the midst of wolves;"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "Ἐν",
         "transliteration": "En",

@@ -10,6 +10,7 @@
         "verse": 3
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "א֑וֹר",
         "transliteration": "or",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אֱלֹהִ֖ים יְהִ֣י **א֑וֹר** וַֽיְהִי אֽוֹר",
         "transliteration": "Elohim yehi **or** vaYehi or",
-        "englishLiteral": "Gods Let-be **light** And-was light",
-        "englishNatural": "And God be **Let light** was And light"
+        "englishLiteral": "Gods, \"Let-be **light.\"** And-was light.",
+        "englishNatural": "And God said, **\"Let light** be.\" And light"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 3
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "אֽוֹר",
         "transliteration": "or",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "א֑וֹר וַֽיְהִי **אֽוֹר**",
         "transliteration": "or vaYehi **or**",
-        "englishLiteral": "light And-was **light**",
-        "englishNatural": "Let light was **And light**"
+        "englishLiteral": "light.\" And-was **light.**",
+        "englishNatural": "\"Let light be.\" **And light** was."
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 21
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "עוֹר",
         "transliteration": "or",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "וּלְאִשְׁתּוֹ כָּתְנוֹת **עוֹר** וַיַּלְבִּשֵׁם׃",
         "transliteration": "uleIshto kotnot **or** vayYaLbishem",
-        "englishLiteral": "and-to-woman-his tunics **skin** and-he-clothed-them",
-        "englishNatural": "and to his woman tunics **of skin** and clothed them"
+        "englishLiteral": "and-to-woman-his; tunics **skin** and-he-clothed-them.",
+        "englishNatural": "and to his woman; tunics **of skin** and clothed them."
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 23
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "אוֹר",
         "transliteration": "or",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "יִשְׂרָאֵל הָיָה **אוֹר** בְּמוֹשְׁבֹתָם",
         "transliteration": "Yisrael hayah **or** beMoshvotam",
-        "englishLiteral": "Struggles_with_God (Israel) it-was **light** in-seats-their",
-        "englishNatural": "Struggles-with-God (Israel) it had been **light** in their seats"
+        "englishLiteral": "Struggles_with_God (Israel) it-was **light** in-seats-their.",
+        "englishNatural": "Struggles-with-God (Israel) it had been **light** in their seats."
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 16
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "οἱ",
         "transliteration": "hoi",
@@ -33,6 +34,7 @@
         "verse": 16
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "αἱ",
         "transliteration": "hai",
@@ -45,9 +47,9 @@
       },
       "context": {
         "hebrew": "ἀκέραιοι ὡς **αἱ** περιστεραί",
-        "transliteration": "akeraioi hos **hai** peristerai",
-        "englishLiteral": "innocent as **the** doves",
-        "englishNatural": "innocent as **the** doves"
+        "transliteration": "akeraioi hos **hai** peristerai.",
+        "englishLiteral": "innocent as **the** doves.",
+        "englishNatural": "innocent as **the** doves."
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 1
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "ὁ",
         "transliteration": "ho",
@@ -68,10 +71,10 @@
         }
       },
       "context": {
-        "hebrew": "ἀρχῇ ἦν **ὁ** λόγος καὶ",
-        "transliteration": "archē ēn **ho** logos kai",
-        "englishLiteral": "first was **The** Word and",
-        "englishNatural": "the first was **The** Word and"
+        "hebrew": "ἀρχῇ ἦν **ὁ** λόγος, καὶ",
+        "transliteration": "archē ēn **ho** logos, kai",
+        "englishLiteral": "first was **The** Word, and",
+        "englishNatural": "the first was **The** Word, and"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 1
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "ὁ",
         "transliteration": "ho",
@@ -92,10 +96,10 @@
         }
       },
       "context": {
-        "hebrew": "λόγος καὶ **ὁ** λόγος ἦν",
-        "transliteration": "logos kai **ho** logos ēn",
-        "englishLiteral": "Word and **The** Word was",
-        "englishNatural": "Word and **The** Word was"
+        "hebrew": "λόγος, καὶ **ὁ** λόγος ἦν",
+        "transliteration": "logos, kai **ho** logos ēn",
+        "englishLiteral": "Word, and **The** Word was",
+        "englishNatural": "Word, and **The** Word was"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 1
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "τὸν",
         "transliteration": "ton",
@@ -116,10 +121,10 @@
         }
       },
       "context": {
-        "hebrew": "ἦν πρὸς **τὸν** θεόν καὶ",
-        "transliteration": "ēn pros **ton** theon kai",
-        "englishLiteral": "was with **The** God and",
-        "englishNatural": "was with **The** God and"
+        "hebrew": "ἦν πρὸς **τὸν** θεόν, καὶ",
+        "transliteration": "ēn pros **ton** theon, kai",
+        "englishLiteral": "was with **The** God, and",
+        "englishNatural": "was with **The** God, and"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 1
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "ὁ",
         "transliteration": "ho",
@@ -140,10 +146,10 @@
         }
       },
       "context": {
-        "hebrew": "θεὸς ἦν **ὁ** λόγος",
-        "transliteration": "theos ēn **ho** logos",
-        "englishLiteral": "God was **The** Word",
-        "englishNatural": "God was **The** Word"
+        "hebrew": "θεὸς, ἦν **ὁ** λόγος.",
+        "transliteration": "theos ēn **ho** logos.",
+        "englishLiteral": "God was **The** Word.",
+        "englishNatural": "God, and **The** Word was"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 15
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "τῷ",
         "transliteration": "tō",
@@ -166,8 +173,8 @@
       "context": {
         "hebrew": "ἠρίστησαν λέγει **τῷ** Σίμωνι Πέτρῳ",
         "transliteration": "ēristēsan legei **tō** Simōni Petrō",
-        "englishLiteral": "they-meal_shared he-says **to-the** Hearer (Simon) Stone (Peter)",
-        "englishNatural": "they had meal-shared says **to the** Hearer (Simon) Stone (Peter)"
+        "englishLiteral": "they-meal_shared, he-says **to-the** Hearer (Simon) Stone (Peter)",
+        "englishNatural": "Savior (Jesus) says **to the** Hearer (Simon) Stone (Peter),"
       }
     },
     {
@@ -177,6 +184,7 @@
         "verse": 15
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "ὁ",
         "transliteration": "ho",
@@ -190,8 +198,8 @@
       "context": {
         "hebrew": "Σίμωνι Πέτρῳ **ὁ** Ἰησοῦς Σίμων",
         "transliteration": "Simōni Petrō **ho** Iēsous Simōn",
-        "englishLiteral": "Hearer (Simon) Stone (Peter) **The** Savior (Jesus) Hearer (Simon)",
-        "englishNatural": "Hearer (Simon) Stone (Peter) **The** Savior (Jesus) Hearer (Simon)"
+        "englishLiteral": "Hearer (Simon) Stone (Peter) **The** Savior (Jesus), \"Hearer (Simon)",
+        "englishNatural": "therefore they had meal-shared, **The** Savior (Jesus) says"
       }
     },
     {
@@ -201,6 +209,7 @@
         "verse": 15
       },
       "wordIndex": 27,
+      "sourceOrder": 27,
       "word": {
         "originalScript": "τὰ",
         "transliteration": "ta",
@@ -214,8 +223,8 @@
       "context": {
         "hebrew": "αὐτῷ βόσκε **τὰ** ἀρνία μου",
         "transliteration": "autō boske **ta** arnia mou",
-        "englishLiteral": "to-him Feed **the** lambs my",
-        "englishNatural": "to him Feed **these** lambs of mine"
+        "englishLiteral": "to-him, \"Feed **the** lambs my.\"",
+        "englishNatural": "to him, \"Feed **these** lambs of mine.\""
       }
     },
     {
@@ -225,6 +234,7 @@
         "verse": 16
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "τὰ",
         "transliteration": "ta",
@@ -238,8 +248,8 @@
       "context": {
         "hebrew": "αὐτῷ ποίμαινε **τὰ** πρόβατά μου",
         "transliteration": "autō poimaine **ta** probata mou",
-        "englishLiteral": "to-him Shepherd **the** sheep my",
-        "englishNatural": "to him Shepherd **these** sheep of mine"
+        "englishLiteral": "to-him, \"Shepherd **the** sheep my.\"",
+        "englishNatural": "to him, \"Shepherd **these** sheep of mine.\""
       }
     },
     {
@@ -249,6 +259,7 @@
         "verse": 17
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "τὸ",
         "transliteration": "to",
@@ -262,8 +273,8 @@
       "context": {
         "hebrew": "λέγει αὐτῷ **τὸ** τρίτον Σίμων",
         "transliteration": "legei autō **to** triton Simōn",
-        "englishLiteral": "He-says to-him **the** third Hearer (Simon)",
-        "englishNatural": "He says to him **the** third time Hearer (Simon)"
+        "englishLiteral": "He-says to-him **the** third, \"Hearer (Simon)",
+        "englishNatural": "He says to him **the** third time, \"Hearer (Simon)"
       }
     },
     {
@@ -273,6 +284,7 @@
         "verse": 17
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "ὁ",
         "transliteration": "ho",
@@ -286,8 +298,8 @@
       "context": {
         "hebrew": "με λυπήθη **ὁ** Πέτρος ὅτι",
         "transliteration": "me lupēthē **ho** Petros hoti",
-        "englishLiteral": "me Was-grieved **The** Stone (Peter) that",
-        "englishNatural": "me was grieved **The** Stone (Peter) because"
+        "englishLiteral": "me?\" Was-grieved **The** Stone (Peter) that",
+        "englishNatural": "do you brother-love me?\" **The** Stone (Peter) was grieved"
       }
     },
     {
@@ -297,6 +309,7 @@
         "verse": 17
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "τὸ",
         "transliteration": "to",
@@ -310,8 +323,8 @@
       "context": {
         "hebrew": "εἶπεν αὐτῷ **τὸ** τρίτον φιλεῖς",
         "transliteration": "eipen autō **to** triton phileis",
-        "englishLiteral": "he-said to-him **the** third Do-you-brother_love",
-        "englishNatural": "he said to him **the** third time Do you brother-love"
+        "englishLiteral": "he-said to-him **the** third, \"Do-you-brother_love",
+        "englishNatural": "he said to him **the** third time, \"Do you brother-love"
       }
     },
     {
@@ -321,6 +334,7 @@
         "verse": 17
       },
       "wordIndex": 33,
+      "sourceOrder": 33,
       "word": {
         "originalScript": "τὰ",
         "transliteration": "ta",
@@ -334,8 +348,8 @@
       "context": {
         "hebrew": "αὐτῷ βόσκε **τὰ** πρόβατά μου",
         "transliteration": "autō boske **ta** probata mou",
-        "englishLiteral": "to-him Feed **these** sheep of-mine",
-        "englishNatural": "to him Feed **these** sheep of mine"
+        "englishLiteral": "to-him, \"Feed **these** sheep of-mine.\"",
+        "englishNatural": "to him, \"Feed **these** sheep of mine.\""
       }
     },
     {
@@ -345,6 +359,7 @@
         "verse": 18
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "τὰς",
         "transliteration": "tas",
@@ -358,8 +373,8 @@
       "context": {
         "hebrew": "γηράσῃς ἐκτενεῖς **τὰς** χεῖράς σου",
         "transliteration": "gērasēs ekteneis **tas** cheiras sou",
-        "englishLiteral": "you-grow_old you-will-stretch_out **the** hands of-you",
-        "englishNatural": "you grow old you will stretch out **those** hands of yours"
+        "englishLiteral": "you-grow_old, you-will-stretch_out **the** hands of-you,",
+        "englishNatural": "you grow old, you will stretch out **those** hands of yours,"
       }
     },
     {
@@ -369,6 +384,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "τοῦ",
         "transliteration": "tou",
@@ -380,10 +396,10 @@
         }
       },
       "context": {
-        "hebrew": "καταβαίνοντα ἐκ **τοῦ** οὐρανοῦ ἔχοντα",
-        "transliteration": "katabainonta ek **tou** ouranou echonta",
-        "englishLiteral": "descending out-of **the** heaven having",
-        "englishNatural": "descending from **the** heaven having"
+        "hebrew": "καταβαίνοντα ἐκ **τοῦ** οὐρανοῦ, ἔχοντα",
+        "transliteration": "katabainonta ek **tou** ouranou, echonta",
+        "englishLiteral": "descending out-of **the** heaven, having",
+        "englishNatural": "descending from **the** heaven, having"
       }
     },
     {
@@ -393,6 +409,7 @@
         "verse": 1
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "τὴν",
         "transliteration": "tēn",
@@ -404,10 +421,10 @@
         }
       },
       "context": {
-        "hebrew": "οὐρανοῦ ἔχοντα **τὴν** κλεῖν τῆς",
-        "transliteration": "ouranou echonta **tēn** klein tēs",
-        "englishLiteral": "heaven having **the** key the",
-        "englishNatural": "heaven having **the** key the"
+        "hebrew": "οὐρανοῦ, ἔχοντα **τὴν** κλεῖν τῆς",
+        "transliteration": "ouranou, echonta **tēn** klein tēs",
+        "englishLiteral": "heaven, having **the** key the",
+        "englishNatural": "heaven, having **the** key the"
       }
     },
     {
@@ -417,6 +434,7 @@
         "verse": 1
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "τῆς",
         "transliteration": "tēs",
@@ -428,10 +446,10 @@
         }
       },
       "context": {
-        "hebrew": "τὴν κλεῖν **τῆς** ἀβύσσου καὶ",
-        "transliteration": "tēn klein **tēs** abussou kai",
-        "englishLiteral": "the key **the** abyss and",
-        "englishNatural": "the key **the** abyss and"
+        "hebrew": "τὴν κλεῖν **τῆς** ἀβύσσου, καὶ",
+        "transliteration": "tēn klein **tēs** abussou, kai",
+        "englishLiteral": "the key **the** abyss, and",
+        "englishNatural": "the key **the** abyss, and"
       }
     },
     {
@@ -441,6 +459,7 @@
         "verse": 1
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "τὴν",
         "transliteration": "tēn",
@@ -452,10 +471,10 @@
         }
       },
       "context": {
-        "hebrew": "μεγάλην ἐπὶ **τὴν** χεῖρα αὐτοῦ",
-        "transliteration": "megalēn epi **tēn** cheira autou",
-        "englishLiteral": "great upon **the** hand his",
-        "englishNatural": "great in **the** hand of his"
+        "hebrew": "μεγάλην ἐπὶ **τὴν** χεῖρα αὐτοῦ.",
+        "transliteration": "megalēn epi **tēn** cheira autou.",
+        "englishLiteral": "great upon **the** hand his.",
+        "englishNatural": "great in **the** hand of his."
       }
     },
     {
@@ -465,6 +484,7 @@
         "verse": 2
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "τὸν",
         "transliteration": "ton",
@@ -478,8 +498,8 @@
       "context": {
         "hebrew": "καὶ ἐκράτησεν **τὸν** δράκοντα τὸν",
         "transliteration": "kai ekratēsen **ton** drakonta ton",
-        "englishLiteral": "and he-seized **the** dragon The",
-        "englishNatural": "and he seized **the** dragon The"
+        "englishLiteral": "and he-seized **the** dragon, The",
+        "englishNatural": "and he seized **the** dragon, The"
       }
     },
     {
@@ -489,6 +509,7 @@
         "verse": 2
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "τὸν",
         "transliteration": "ton",
@@ -502,8 +523,8 @@
       "context": {
         "hebrew": "τὸν δράκοντα **τὸν** ὄφιν τὸν",
         "transliteration": "ton drakonta **ton** ophin ton",
-        "englishLiteral": "the dragon **The** Snake The",
-        "englishNatural": "the dragon **The** Snake The"
+        "englishLiteral": "the dragon, **The** Snake, The",
+        "englishNatural": "the dragon, **The** Snake, The"
       }
     },
     {
@@ -513,6 +534,7 @@
         "verse": 2
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "τὸν",
         "transliteration": "ton",
@@ -526,8 +548,8 @@
       "context": {
         "hebrew": "τὸν ὄφιν **τὸν** ἀρχαῖον ὅς",
         "transliteration": "ton ophin **ton** archaion hos",
-        "englishLiteral": "The Snake **The** Ancient who",
-        "englishNatural": "The Snake **The** Ancient who"
+        "englishLiteral": "The Snake, **The** Ancient, who",
+        "englishNatural": "The Snake, **The** Ancient, who"
       }
     },
     {
@@ -537,6 +559,7 @@
         "verse": 2
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "ὁ",
         "transliteration": "ho",
@@ -550,8 +573,8 @@
       "context": {
         "hebrew": "Διάβολος καὶ **ὁ** Σατανᾶς καὶ",
         "transliteration": "Diabolos kai **ho** Satanas kai",
-        "englishLiteral": "Accuser and **The** Adversary and",
-        "englishNatural": "Accuser and **The** Adversary and"
+        "englishLiteral": "Accuser and **The** Adversary, and",
+        "englishNatural": "Accuser and **The** Adversary, and"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 22
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הֵן",
         "transliteration": "hen",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "יְהוָה אֱלֹהִים **הֵן** הָאָדָם הָיָה",
         "transliteration": "YHWH Elohim **hen** haAdam hayah",
-        "englishLiteral": "He_Who_Is (YHWH) Gods **Behold** the-Earthling (Adam) has-become",
-        "englishNatural": "And He-Who-Is (YHWH) God **Behold** the Earthling (Adam) has become"
+        "englishLiteral": "He_Who_Is (YHWH) Gods, **\"Behold,** the-Earthling (Adam) has-become",
+        "englishNatural": "God said, **\"Behold,** the Earthling (Adam) has become"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 14
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "הֵן",
         "transliteration": "hen",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "**הֵן** גֵּרַשְׁתָּ אֹתִי",
         "transliteration": "**hen** gerashta oti",
-        "englishLiteral": "**Behold** you-banished ↳-me",
-        "englishNatural": "**Behold** you have banished me"
+        "englishLiteral": "**Behold,** you-banished ↳-me",
+        "englishNatural": "**Behold,** you have banished me"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 6
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הֵן",
         "transliteration": "hen",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר יְהוָה **הֵן** עַם אֶחָד",
         "transliteration": "vaYomer YHWH **hen** am echad",
-        "englishLiteral": "And-he-said He_Who_Is (YHWH) **Behold** people one",
-        "englishNatural": "said And He-Who-Is (YHWH) **Behold** the people is one"
+        "englishLiteral": "And-he-said He_Who_Is (YHWH), **\"Behold,** people one",
+        "englishNatural": "And He-Who-Is (YHWH) said, **\"Behold,** the people is one"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 3
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הֵן",
         "transliteration": "hen",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר אַבְרָם **הֵן** לִי לֹא",
         "transliteration": "vaYomer Abram **hen** li lo",
-        "englishLiteral": "And-he-said Exalted_Father (Abram) **Behold** to-me not",
-        "englishNatural": "said And Exalted-Father (Abram) **Behold** to me not"
+        "englishLiteral": "And-he-said Exalted_Father (Abram), **\"Behold** to-me not",
+        "englishNatural": "And Exalted-Father (Abram) said, **\"Behold** to me you have given"
       }
     }
   ]

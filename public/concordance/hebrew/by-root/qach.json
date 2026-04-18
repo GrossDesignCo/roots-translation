@@ -9,6 +9,7 @@
         "verse": 9
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "קְחָה",
         "transliteration": "qechah",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר אֵלָיו **קְחָה** לִי עֶגְלָה",
         "transliteration": "vaYomer elav **qechah** li eglah",
-        "englishLiteral": "And-he-said to-him **Take** to-me heifer",
-        "englishNatural": "And he said to him **Take** to me a heifer"
+        "englishLiteral": "And-he-said to-him, **\"Take** to-me heifer",
+        "englishNatural": "And he said to him, **\"Take** to me a heifer"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 10
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּקַּח־",
         "transliteration": "vayiqach-",

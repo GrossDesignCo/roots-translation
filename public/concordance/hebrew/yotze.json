@@ -10,6 +10,7 @@
         "verse": 10
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "יֹצֵא",
         "transliteration": "yotze",
@@ -36,6 +37,7 @@
         "verse": 13
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "יוֹצֵא",
         "transliteration": "yotze",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "וּמִן־ הָאֵשׁ **יוֹצֵא** בָרָק",
         "transliteration": "uMin- haEsh **yotze** baraq",
-        "englishLiteral": "and-from- the-fire **brought_out** lightning",
-        "englishNatural": "and from the fire **brought-out** lightning"
+        "englishLiteral": "and-from- the-fire **brought_out** lightning.",
+        "englishNatural": "and from the fire **brought-out** lightning."
       }
     }
   ]

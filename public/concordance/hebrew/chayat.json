@@ -10,6 +10,7 @@
         "verse": 25
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "חַיַּ֤ת",
         "transliteration": "chayat",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אֱלֹהִים֙ אֶת־ **חַיַּ֤ת** הָאָ֔רֶץ לְמִינָ֖הּ",
         "transliteration": "Elohim et- **chayat** haAretz leMinah",
-        "englishLiteral": "Gods ↳ **living_being-of** the-land to-its-kind",
-        "englishNatural": "And God ↳ **living-being of** the land to its kind"
+        "englishLiteral": "Gods, ↳ **living_being-of** the-land, to-its-kind,",
+        "englishNatural": "made, ↳ **living-being of** the land, to its kind,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 30
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "חַיַּ֣ת",
         "transliteration": "chayat",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "וּלְכָל־ **חַיַּ֣ת** הָאָ֗רֶץ וּלְכָל־",
         "transliteration": "uLeKol- **chayat** haAretz uLeKol-",
-        "englishLiteral": "And-to-all **living_being-of** the-land and-to-all",
-        "englishNatural": "And to all **living-being of** the land and to all"
+        "englishLiteral": "And-to-all **living_being-of** the-land, and-to-all",
+        "englishNatural": "And to all **living-being of** the land, and to all"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "חַיַּת",
         "transliteration": "chayat",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "עָרוּם מִכֹּל **חַיַּת** הַשָּׂדֶה אֲשֶׁר",
         "transliteration": "arum miKol **chayat** haSadeh asher",
-        "englishLiteral": "shrewd from-all **living_being-of** the-field which",
-        "englishNatural": "shrewd out of every **living-being of** the field which"
+        "englishLiteral": "shrewd, from-all **living_being-of** the-field, which",
+        "englishNatural": "shrewd, out of every **living-being of** the field, which"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 14
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "חַיַּת",
         "transliteration": "chayat",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "בְּהֵמָה וּמִכֹּל **חַיַּת** הַשָּׂדֶה עַל־",
         "transliteration": "behemah umikol **chayat** haSadeh al-",
-        "englishLiteral": "beast and-from-all **living_being** the-field on-",
-        "englishNatural": "beast and from all **living-being** of the field on"
+        "englishLiteral": "beast and-from-all **living_being** the-field; on-",
+        "englishNatural": "beast and from all **living-being** of the field; on"
       }
     },
     {
@@ -106,6 +110,7 @@
         "verse": 2
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "חַיַּת",
         "transliteration": "chayat",
@@ -130,6 +135,7 @@
         "verse": 10
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "חַיַּת",
         "transliteration": "chayat",
@@ -143,8 +149,8 @@
       "context": {
         "hebrew": "בַּבְּהֵמָה וּבְכָל־ **חַיַּת** הָאָרֶץ אִתְּכֶם",
         "transliteration": "baBehemah uvKhol- **chayat** haAretz itkhem",
-        "englishLiteral": "in-beast and-in-all- **living_being-of** the-land with-you",
-        "englishNatural": "in the beast and in all **the living-being of** the land with you"
+        "englishLiteral": "in-beast, and-in-all- **living_being-of** the-land with-you,",
+        "englishNatural": "in the beast, and in all **the living-being of** the land with you,"
       }
     },
     {
@@ -154,6 +160,7 @@
         "verse": 10
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "חַיַּת",
         "transliteration": "chayat",
@@ -167,8 +174,8 @@
       "context": {
         "hebrew": "הַתֵּבָה לְכֹל **חַיַּת** הָאָרֶץ",
         "transliteration": "haTevah leKhol **chayat** haAretz",
-        "englishLiteral": "the-ark to-all **living_being-of** the-land",
-        "englishNatural": "the ark to all **the living-being of** the land"
+        "englishLiteral": "the-ark, to-all **living_being-of** the-land;",
+        "englishNatural": "the ark, to all **the living-being of** the land;"
       }
     }
   ]

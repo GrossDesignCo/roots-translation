@@ -10,6 +10,7 @@
         "verse": 58
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "λέγω",
         "transliteration": "legō",
@@ -22,10 +23,10 @@
         }
       },
       "context": {
-        "hebrew": "ἀμὴν ἀμὴν **λέγω** ὑμῖν πρὶν",
-        "transliteration": "amēn amēn **legō** hymin prin",
-        "englishLiteral": "Amen amen **I-say** to-you before",
-        "englishNatural": "Amen amen **I say** to you Before"
+        "hebrew": "ἀμὴν ἀμὴν **λέγω** ὑμῖν, πρὶν",
+        "transliteration": "amēn amēn **legō** hymin, prin",
+        "englishLiteral": "\"Amen amen **I-say** to-you, before",
+        "englishNatural": "\"Amen amen **I say** to you, Before"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 18
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "λέγω",
         "transliteration": "legō",
@@ -49,8 +51,8 @@
       "context": {
         "hebrew": "ἀμὴν ἀμὴν **λέγω** σοι ὅτε",
         "transliteration": "amēn amēn **legō** soi hote",
-        "englishLiteral": "Truly truly **I-say** to-you when",
-        "englishNatural": "Truly truly **I say** to you when"
+        "englishLiteral": "\"Truly, truly, **I-say** to-you, when",
+        "englishNatural": "\"Truly, truly, **I say** to you, when"
       }
     }
   ]

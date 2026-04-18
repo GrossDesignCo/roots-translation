@@ -9,6 +9,7 @@
         "verse": 12
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הַגֶּשֶׁם",
         "transliteration": "haGeshem",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "וַיְהִי **הַגֶּשֶׁם** עַל־ הָאָרֶץ",
         "transliteration": "vayehi **haGeshem** al- haAretz",
-        "englishLiteral": "And-it-was **the-rain** over- the-land",
-        "englishNatural": "was **And the rain** over the land"
+        "englishLiteral": "And-it-was **the-rain** over- the-land,",
+        "englishNatural": "**And the rain** was over"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 28
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הַגֶּשֶׁם",
         "transliteration": "haGeshem",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "בֶעָנָן בְּיוֹם **הַגֶּשֶׁם** כֵּן מַרְאֵה",
         "transliteration": "beAnan beYom **haGeshem** ken mareeh",
-        "englishLiteral": "in-cloud in-day-of **the-rain** so appearance-of",
-        "englishNatural": "in the cloud in the day of **rain** so the appearance of"
+        "englishLiteral": "in-cloud in-day-of **the-rain,** so appearance-of",
+        "englishNatural": "in the cloud in the day of **rain,** so the appearance of"
       }
     }
   ]

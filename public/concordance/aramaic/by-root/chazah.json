@@ -9,6 +9,7 @@
         "verse": 31
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "חָזֵה",
         "transliteration": "chazeh",
@@ -23,7 +24,7 @@
         "hebrew": "אַנְתָּה מַלְכָּא **חָזֵה** הֲוַיְתָ וַאֲלוּ",
         "transliteration": "antah malka **chazeh** havayta vaAlu",
         "englishLiteral": "you the-king **seeing** you-were and-behold",
-        "englishNatural": "You the king **seeing** were and behold"
+        "englishNatural": "the king, were **seeing,** and behold, one"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 34
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "חָזֵה",
         "transliteration": "chazeh",
@@ -47,7 +49,7 @@
         "hebrew": "**חָזֵה** הֲוַיְתָ עַד",
         "transliteration": "**chazeh** havayta ad",
         "englishLiteral": "**seeing** you-were until",
-        "englishNatural": "**seeing** You were until"
+        "englishNatural": "You were **seeing** until which"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 41
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "חֲזַיְתָ",
         "transliteration": "chazayta",
@@ -83,6 +86,7 @@
         "verse": 41
       },
       "wordIndex": 21,
+      "sourceOrder": 21,
       "word": {
         "originalScript": "חֲזַיְתָ",
         "transliteration": "chazayta",
@@ -109,6 +113,7 @@
         "verse": 43
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "חֲזַיְתָ",
         "transliteration": "chazayta",
@@ -135,6 +140,7 @@
         "verse": 45
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "חֲזַיְתָ",
         "transliteration": "chazayta",
@@ -151,7 +157,7 @@
         "hebrew": "קֳבֵל דִּי **חֲזַיְתָ** דִּי מִן־",
         "transliteration": "qevel di **chazayta** di min-",
         "englishLiteral": "because which **you-saw** which from-",
-        "englishNatural": "because which **you saw** that from"
+        "englishNatural": "because which **you saw,** that from"
       }
     },
     {
@@ -161,6 +167,7 @@
         "verse": 2
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "חָזֵ֥ה",
         "transliteration": "chazeh",
@@ -176,8 +183,8 @@
       "context": {
         "hebrew": "דָנִיֵּאל֙ וְאָמַ֔ר **חָזֵ֥ה** הֲוֵ֛ית בְּחֶזְוִ֖י",
         "transliteration": "Daniel veAmar **chazeh** haveit beKhezvi",
-        "englishLiteral": "God_Is_My_Judge (Daniel) and-said **Looking** I-was in-vision-my",
-        "englishNatural": "Daniel and said **looking** I was in my vision"
+        "englishLiteral": "God_Is_My_Judge (Daniel) and-said, **Looking** I-was in-vision-my",
+        "englishNatural": "and said, \"I was **looking** in my vision with"
       }
     },
     {
@@ -187,6 +194,7 @@
         "verse": 4
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "חָזֵ֣ה",
         "transliteration": "chazeh",
@@ -202,8 +210,8 @@
       "context": {
         "hebrew": "נְשַׁ֖ר לַ֑הּ **חָזֵ֣ה** הֲוֵ֡ית עַד֩",
         "transliteration": "neshar lah **chazeh** haveit ad",
-        "englishLiteral": "eagle to-her **Looking** I-was until",
-        "englishNatural": "an eagle to it **looking** I was until"
+        "englishLiteral": "eagle to-her. **Looking** I-was until",
+        "englishNatural": "to it. I was **looking** until that"
       }
     },
     {
@@ -213,6 +221,7 @@
         "verse": 6
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "חָזֵ֣ה",
         "transliteration": "chazeh",
@@ -228,8 +237,8 @@
       "context": {
         "hebrew": "בָּאתַ֨ר דְּנָ֜ה **חָזֵ֣ה** הֲוֵ֗ית וַאֲר֤וּ",
         "transliteration": "batar denah **chazeh** haveit vaAru",
-        "englishLiteral": "After this **looking** I-was and-behold",
-        "englishNatural": "After this **looking** I was and behold"
+        "englishLiteral": "After this **looking** I-was, and-behold,",
+        "englishNatural": "this I was **looking,** and behold, another,"
       }
     },
     {
@@ -239,6 +248,7 @@
         "verse": 7
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "חָזֵ֨ה",
         "transliteration": "chazeh",
@@ -255,7 +265,7 @@
         "hebrew": "בָּאתַ֣ר דְּנָה֩ **חָזֵ֨ה** הֲוֵ֜ית בְּחֶזְוֵ֣י",
         "transliteration": "batar denah **chazeh** haveit beKhezevei",
         "englishLiteral": "After this **looking** I-was in-visions",
-        "englishNatural": "After this **looking** I was in the visions"
+        "englishNatural": "this I was **looking** in the visions of the night,"
       }
     },
     {
@@ -265,6 +275,7 @@
         "verse": 9
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "חָזֵ֣ה",
         "transliteration": "chazeh",
@@ -281,7 +292,7 @@
         "hebrew": "**חָזֵ֣ה** הֲוֵ֗ית עַ֣ד",
         "transliteration": "**chazeh** haveit ad",
         "englishLiteral": "**Looking** I-was until",
-        "englishNatural": "**looking** I was until"
+        "englishNatural": "I was **looking** until that"
       }
     },
     {
@@ -291,6 +302,7 @@
         "verse": 13
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "חָזֵ֤ה",
         "transliteration": "chazeh",
@@ -307,7 +319,7 @@
         "hebrew": "**חָזֵ֤ה** הֲוֵית֙ בְּחֶזְוֵ֣י",
         "transliteration": "**chazeh** haveit beKhezevei",
         "englishLiteral": "**Looking** I-was in-visions",
-        "englishNatural": "**looking** I was in the visions of"
+        "englishNatural": "I was **looking** in the visions of the night,"
       }
     }
   ]

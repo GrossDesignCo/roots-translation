@@ -9,6 +9,7 @@
         "verse": 3
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "יוֹרֵשׁ",
         "transliteration": "yoresh",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "בֶן־ בֵּיתִי **יוֹרֵשׁ** אֹתִי",
         "transliteration": "ben- beyti **yoresh** oti",
-        "englishLiteral": "son-of- house-of-me **inheriting** ↳ me",
-        "englishNatural": "the son of my house **inherits** me"
+        "englishLiteral": "son-of- house-of-me **inheriting** ↳ me.\"",
+        "englishNatural": "the son of my house **inherits** me.\""
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 4
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "יִירָשְׁךָ",
         "transliteration": "yirashkha",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "לֵאמֹר לֹא **יִירָשְׁךָ** זֶה כִּי־אִם",
         "transliteration": "lemor lo **yirashkha** zeh ki-im",
-        "englishLiteral": "to-say Not **he-will-inherit-you** this but",
-        "englishNatural": "saying Not **will inherit you** this but"
+        "englishLiteral": "to-say, \"Not **he-will-inherit-you** this, but",
+        "englishNatural": "saying, \"Not **will inherit you** this; but"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 4
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "יִירָשֶׁךָ",
         "transliteration": "yirashekha",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "מִמֵּעֶיךָ הוּא **יִירָשֶׁךָ**",
         "transliteration": "mimmeykha hu **yirashekha**",
-        "englishLiteral": "from-bowels-of-you he **he-will-inherit-you**",
-        "englishNatural": "from your bowels he **will inherit you**"
+        "englishLiteral": "from-bowels-of-you, he **he-will-inherit-you.\"**",
+        "englishNatural": "from your bowels, he **will inherit you.\"**"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 7
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "לְרִשְׁתָּהּ",
         "transliteration": "lerishtah",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "הָאָרֶץ הַזֹּאת **לְרִשְׁתָּהּ**",
         "transliteration": "haAretz haZot **lerishtah**",
-        "englishLiteral": "the-land the-this **to-inherit-her**",
-        "englishNatural": "land this **to inherit it**"
+        "englishLiteral": "the-land the-this, **to-inherit-her.\"**",
+        "englishNatural": "this land **to inherit it.\"**"
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 8
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אִירָשֶׁנָּה",
         "transliteration": "irashenah",
@@ -128,8 +133,8 @@
       "context": {
         "hebrew": "אֵדַע כִּי **אִירָשֶׁנָּה**",
         "transliteration": "eda ki **irashenah**",
-        "englishLiteral": "I-will-know that **I-will-inherit-her**",
-        "englishNatural": "will I know that **I will inherit it**"
+        "englishLiteral": "I-will-know that **I-will-inherit-her?\"**",
+        "englishNatural": "will I know that **I will inherit it?\"**"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 4
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּ֧רְא",
         "transliteration": "vaYar",
@@ -26,7 +27,7 @@
         "hebrew": "**וַיַּ֧רְא** אֱלֹהִ֛ים אֶת־",
         "transliteration": "**vaYar** Elohim et-",
         "englishLiteral": "**And-saw** Gods ↳",
-        "englishNatural": "**saw** And God ↳"
+        "englishNatural": "And God **saw** ↳ the light,"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 10
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וַיַּ֥רְא",
         "transliteration": "vaYar",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "קָרָ֣א יַמִּ֑ים **וַיַּ֥רְא** אֱלֹהִ֖ים כִּי־",
         "transliteration": "qara yamim **vaYar** Elohim ki-",
-        "englishLiteral": "called_out Seas **And-saw** Gods that-",
-        "englishNatural": "he called-out Seas **saw** And God that it was"
+        "englishLiteral": "called_out \"Seas.\" **And-saw** Gods, that-",
+        "englishNatural": "\"Seas.\" And God **saw,** that it was good."
       }
     },
     {
@@ -62,6 +64,7 @@
         "verse": 12
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "וַיַּ֥רְא",
         "transliteration": "vaYar",
@@ -77,8 +80,8 @@
       "context": {
         "hebrew": "זַרְעוֹ־ב֖וֹ לְמִינֵ֑הוּ **וַיַּ֥רְא** אֱלֹהִ֖ים כִּי־",
         "transliteration": "zaro-bo leMinehu **vaYar** Elohim ki-",
-        "englishLiteral": "its-seed-in-it to-its-kind **And-saw** Gods that-",
-        "englishNatural": "has its seed in it after its kind **saw** And God that it was"
+        "englishLiteral": "its-seed-in-it to-its-kind. **And-saw** Gods, that-",
+        "englishNatural": "after its kind. And God **saw,** that it was good."
       }
     },
     {
@@ -88,6 +91,7 @@
         "verse": 18
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וַיַּ֧רְא",
         "transliteration": "vaYar",
@@ -103,8 +107,8 @@
       "context": {
         "hebrew": "וּבֵ֣ין הַחֹ֑שֶׁךְ **וַיַּ֧רְא** אֱלֹהִ֖ים כִּי־",
         "transliteration": "uBeyn haHoshekh **vaYar** Elohim ki-",
-        "englishLiteral": "and-between the-darkness **And-saw** Gods that-",
-        "englishNatural": "and between the darkness **saw** And God that it was"
+        "englishLiteral": "and-between the-darkness, **And-saw** Gods, that-",
+        "englishNatural": "the darkness, And God **saw,** that it was good."
       }
     },
     {
@@ -114,6 +118,7 @@
         "verse": 21
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "וַיַּ֥רְא",
         "transliteration": "vaYar",
@@ -129,8 +134,8 @@
       "context": {
         "hebrew": "כָּנָ֖ף לְמִינֵ֑הוּ **וַיַּ֥רְא** אֱלֹהִ֖ים כִּי־",
         "transliteration": "kaNaf leMinehu **vaYar** Elohim ki-",
-        "englishLiteral": "wing to-its-kind **And-saw** Gods that-",
-        "englishNatural": "winged to its kind **saw** And God that it was"
+        "englishLiteral": "wing to-its-kind, **And-saw** Gods, that-",
+        "englishNatural": "to its kind, And God **saw,** that it was good."
       }
     },
     {
@@ -140,6 +145,7 @@
         "verse": 25
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "וַיַּ֥רְא",
         "transliteration": "vaYar",
@@ -155,8 +161,8 @@
       "context": {
         "hebrew": "הָֽאֲדָמָ֖ה לְמִינֵ֖הוּ **וַיַּ֥רְא** אֱלֹהִ֖ים כִּי־",
         "transliteration": "haAdamah leMinehu **vaYar** Elohim ki-",
-        "englishLiteral": "the-earth to-its-kind **And-saw** Gods that-",
-        "englishNatural": "the earth to its kind **saw** And God that it was"
+        "englishLiteral": "the-earth, to-its-kind, **And-saw** Gods, that-",
+        "englishNatural": "to its kind, And God **saw,** that it was good."
       }
     },
     {
@@ -166,6 +172,7 @@
         "verse": 31
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּ֤רְא",
         "transliteration": "vaYar",
@@ -181,8 +188,8 @@
       "context": {
         "hebrew": "**וַיַּ֤רְא** אֱלֹהִ֖ים אֶת",
         "transliteration": "**vaYar** Elohim et",
-        "englishLiteral": "**And-saw** Gods ↳",
-        "englishNatural": "**saw** And God ↳"
+        "englishLiteral": "**And-saw** Gods, ↳",
+        "englishNatural": "And God **saw,** ↳ all"
       }
     },
     {
@@ -192,6 +199,7 @@
         "verse": 2
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וַיַּרְא",
         "transliteration": "vaYar",
@@ -207,8 +215,8 @@
       "context": {
         "hebrew": "מִתּוֹךְ הַסְּנֶה **וַיַּרְא** וְהִנֵּה הַסְּנֶה",
         "transliteration": "miTokh haSeneh **vaYar** veHineh haSeneh",
-        "englishLiteral": "from-midst-of the-thornbush **and-saw** and-behold the-thornbush",
-        "englishNatural": "from the midst of the thornbush **and he saw** and behold the thornbush"
+        "englishLiteral": "from-midst-of the-thornbush, **and-saw** and-behold the-thornbush",
+        "englishNatural": "from the midst of the thornbush, **and he saw,** and behold the thornbush,"
       }
     },
     {
@@ -218,6 +226,7 @@
         "verse": 4
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּרְא",
         "transliteration": "vaYar",
@@ -234,7 +243,7 @@
         "hebrew": "**וַיַּרְא** יְהוָה כִּי",
         "transliteration": "**vaYar** YHWH ki",
         "englishLiteral": "**And-saw** He_Who_Is (YHWH) that",
-        "englishNatural": "**saw** And He-Who-Is (YHWH) that"
+        "englishNatural": "And He-Who-Is (YHWH) **saw** that he had turned-aside"
       }
     },
     {
@@ -244,6 +253,7 @@
         "verse": 10
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּרְא",
         "transliteration": "vaYar",
@@ -260,7 +270,7 @@
         "hebrew": "**וַיַּרְא** הָאֱלֹהִים אֶת־",
         "transliteration": "**vaYar** haElohim et-",
         "englishLiteral": "**And-saw** the-Gods ↳",
-        "englishNatural": "**saw** And the God ↳"
+        "englishNatural": "And the God **saw** ↳ their works,"
       }
     }
   ]

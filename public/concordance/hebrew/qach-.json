@@ -10,6 +10,7 @@
         "verse": 21
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "קַח־",
         "transliteration": "qach-",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "וְאַתָּה **קַח־** לְךָ מִכָּל־",
         "transliteration": "veAtah **qach-** lekha mikol-",
-        "englishLiteral": "And-you **take-** to-you from-all-",
-        "englishNatural": "And you **take** to yourself from all"
+        "englishLiteral": "And-you **take-** to-you, from-all-",
+        "englishNatural": "And you **take** to yourself, from all"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 3
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "קַח־",
         "transliteration": "qach-",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "וְעַתָּה יְהוָה **קַח־** נָא אֶת־",
         "transliteration": "veAttah YHWH **qach-** na et-",
-        "englishLiteral": "And-now He_Who_Is (YHWH) **take-** please ↳",
-        "englishNatural": "And now He-Who-Is (YHWH) **take** please ↳"
+        "englishLiteral": "And-now He_Who_Is (YHWH), **take-** please ↳",
+        "englishNatural": "And now He-Who-Is (YHWH), **take** please ↳"
       }
     }
   ]

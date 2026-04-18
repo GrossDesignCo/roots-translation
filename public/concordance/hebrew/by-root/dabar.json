@@ -9,6 +9,7 @@
         "verse": 13
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "דִּבֶּר",
         "transliteration": "diber",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "אֲלֵהֶם כַּאֲשֶׁר **דִּבֶּר** יְהוָה",
         "transliteration": "alehem kaAsher **diber** YHWH",
-        "englishLiteral": "to-them as-which **spoke** He_Who_Is (YHWH)",
-        "englishNatural": "to them as which **had spoken** He-Who-Is (YHWH)"
+        "englishLiteral": "to-them, as-which **spoke** He_Who_Is (YHWH).",
+        "englishNatural": "as which He-Who-Is (YHWH) **had spoken.**"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 29
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "דִּבַּ֑רְתָּ",
         "transliteration": "dibarta",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "מֹשֶׁ֖ה כֵּ֣ן **דִּבַּ֑רְתָּ** לֹא־ אֹסִ֥ף",
         "transliteration": "Moshe ken **dibarta** lo- osif",
-        "englishLiteral": "Drawn_Out (Moses) so **you-spoke** not I-will-add",
-        "englishNatural": "And Drawn-Out (Moses) So **you have spoken** not I will add"
+        "englishLiteral": "Drawn_Out (Moses), so **you-spoke;** not I-will-add",
+        "englishNatural": "said, \"So **you have spoken,** I will add not"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "דַּבֶּר־",
         "transliteration": "daber-",
@@ -87,6 +90,7 @@
         "verse": 7
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "דִבַּרְנוּ",
         "transliteration": "dibarnu",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "חָטָאנוּ כִּי **דִבַּרְנוּ** בַיהוָה וָבָךְ",
         "transliteration": "chatanu ki **dibarnu** vaYHWH vaVeKha",
-        "englishLiteral": "we-have-sinned that **we-have-spoken** against-He_Who_Is (YHWH) and-against-you",
-        "englishNatural": "We have sinned that **we have spoken** against He-Who-Is (YHWH) and against you"
+        "englishLiteral": "\"we-have-sinned, that **we-have-spoken** against-He_Who_Is (YHWH) and-against-you,",
+        "englishNatural": "\"We have sinned, that **we have spoken** against He-Who-Is (YHWH) and against you;"
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 28
       },
       "wordIndex": 22,
+      "sourceOrder": 22,
       "word": {
         "originalScript": "מְדַבֵּר",
         "transliteration": "medabber",
@@ -128,8 +133,8 @@
       "context": {
         "hebrew": "וָאֶשְׁמַע קוֹל **מְדַבֵּר**",
         "transliteration": "vaEshma qol **medabber**",
-        "englishLiteral": "and-I-heard voice **speaking**",
-        "englishNatural": "and I heard a voice **speaking**"
+        "englishLiteral": "and-I-heard voice **speaking.**",
+        "englishNatural": "and I heard a voice **speaking.**"
       }
     },
     {
@@ -139,6 +144,7 @@
         "verse": 1
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "וַאֲדַבֵּר",
         "transliteration": "vaAdabber",
@@ -154,8 +160,8 @@
       "context": {
         "hebrew": "עַל־ רַגְלֶיךָ **וַאֲדַבֵּר** אֹתָךְ",
         "transliteration": "al- ragleikha **vaAdabber** otakh",
-        "englishLiteral": "over- feet-your **and-I-will-speak** you",
-        "englishNatural": "over your feet **and I will speak** to you"
+        "englishLiteral": "over- feet-your, **and-I-will-speak** you.\"",
+        "englishNatural": "over your feet, **and I will speak** to you.\""
       }
     },
     {
@@ -165,6 +171,7 @@
         "verse": 2
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "דִּבֶּר",
         "transliteration": "dibber",
@@ -180,8 +187,8 @@
       "context": {
         "hebrew": "רוּחַ כַּאֲשֶׁר **דִּבֶּר** אֵלָי וַתַּעֲמִדֵנִי",
         "transliteration": "ruach kaAsher **dibber** elai vataAmideni",
-        "englishLiteral": "wind as-which **he-spoke** to-me and-stood-me",
-        "englishNatural": "And wind as which **He spoke** to me and stood me"
+        "englishLiteral": "wind as-which **he-spoke** to-me, and-stood-me",
+        "englishNatural": "in me as which **He spoke** to me, and stood me"
       }
     },
     {
@@ -191,6 +198,7 @@
         "verse": 2
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "מִדַּבֵּר",
         "transliteration": "midabber",
@@ -206,8 +214,8 @@
       "context": {
         "hebrew": "וָאֶשְׁמַע אֵת **מִדַּבֵּר** אֵלָי",
         "transliteration": "vaEshma et **midabber** elai",
-        "englishLiteral": "and-I-heard ↳ **speaking** to-me",
-        "englishNatural": "and I heard ↳ **him speaking** to me"
+        "englishLiteral": "and-I-heard ↳ **speaking** to-me.",
+        "englishNatural": "and I heard ↳ **him speaking** to me."
       }
     },
     {
@@ -217,6 +225,7 @@
         "verse": 2
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "דֹּבֵר",
         "transliteration": "dover",
@@ -232,8 +241,8 @@
       "context": {
         "hebrew": "אֲשֶׁר אָנֹכִי **דֹּבֵר** אֵלֶיךָ",
         "transliteration": "asher anokhi **dover** elekha",
-        "englishLiteral": "which I **speaking** to-you",
-        "englishNatural": "which I **am speaking** to you"
+        "englishLiteral": "which I **speaking** to-you.",
+        "englishNatural": "which I **am speaking** to you."
       }
     },
     {
@@ -243,6 +252,7 @@
         "verse": 10
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "דִּבֶּר",
         "transliteration": "diber",
@@ -258,8 +268,8 @@
       "context": {
         "hebrew": "הָרָעָה אֲשֶׁר־ **דִּבֶּר** לַעֲשׂוֹת לָהֶם",
         "transliteration": "haRaah asher- **diber** laasot lahem",
-        "englishLiteral": "the-bad which- **he-spoke** to-make to-them",
-        "englishNatural": "the bad which **he spoke** to make to them"
+        "englishLiteral": "the-bad which- **he-spoke** to-make to-them;",
+        "englishNatural": "the bad which **he spoke** to make to them;"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 13
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְשֵׁם־",
         "transliteration": "veShem-",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "**וְשֵׁם־** הַנָּהָר הַשֵּׁנִי",
         "transliteration": "**veShem-** haNahar haSheni",
-        "englishLiteral": "**and-name-** the-river the-second",
-        "englishNatural": "**And the name of** river the second"
+        "englishLiteral": "**and-name-** the-river the-second,",
+        "englishNatural": "**And the name of** the second river,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 13
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וְשֵׁם־",
         "transliteration": "veShem-",
@@ -48,7 +50,7 @@
         "hebrew": "בָּא נֹחַ **וְשֵׁם־** וְחָם וָיֶפֶת",
         "transliteration": "ba Noach **veShem-** veCham vaYefet",
         "englishLiteral": "he-came Rest (Noah) **and-Name (Shem)-** and-Hot (Ham) and-Spacious (Japheth)",
-        "englishNatural": "came Rest (Noah) **and Name (Shem)** and Hot (Ham) and Spacious (Japheth)"
+        "englishNatural": "Rest (Noah) came, **and Name (Shem)** and Hot (Ham) and Spacious (Japheth)"
       }
     }
   ]

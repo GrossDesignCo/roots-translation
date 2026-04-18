@@ -9,6 +9,7 @@
         "verse": 40
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "מְרָעַע",
         "transliteration": "meraa",
@@ -23,7 +24,7 @@
         "hebrew": "וּכְפַרְזְלָא דִּי **מְרָעַע** כֹּלָּא תַּדִּק",
         "transliteration": "uKheParzela di **meraa** kolla taddiq",
         "englishLiteral": "and-like-iron-the which **breaking** all it-will-crush",
-        "englishNatural": "and like the iron which **breaking** all it will crush"
+        "englishNatural": "and like the iron which **breaking** all, it will crush"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 40
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "וְתֵרֹעַ",
         "transliteration": "veTeroa",
@@ -48,8 +50,8 @@
       "context": {
         "hebrew": "כֹּלָּא תַּדִּק **וְתֵרֹעַ**",
         "transliteration": "kolla taddiq **veTeroa**",
-        "englishLiteral": "all it-will-crush **and-will-break**",
-        "englishNatural": "all it will crush **and will break**"
+        "englishLiteral": "all it-will-crush **and-will-break.**",
+        "englishNatural": "all, it will crush **and will break.**"
       }
     }
   ]

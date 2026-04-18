@@ -10,6 +10,7 @@
         "verse": 17
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "עָשָׁן",
         "transliteration": "ashan",
@@ -24,7 +25,7 @@
         "hebrew": "וְהִנֵּה תַנּוּר **עָשָׁן** וְלַפִּיד אֵשׁ",
         "transliteration": "veHineh tanur **ashan** veLapid esh",
         "englishLiteral": "and-behold furnace **smoke** and-torch fire",
-        "englishNatural": "and behold a furnace **smoking** and a torch of fire"
+        "englishNatural": "and behold, a furnace **smoking** and a torch of fire"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 4
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "עָשָֽׁן",
         "transliteration": "ashan",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "וְהַבַּ֖יִת יִמָּלֵ֥א **עָשָֽׁן**",
         "transliteration": "veHaBayit yimale **ashan**",
-        "englishLiteral": "and-the-house was-filled **smoke**",
-        "englishNatural": "and the house was filled with **smoke**"
+        "englishLiteral": "and-the-house was-filled **smoke.**",
+        "englishNatural": "and the house was filled with **smoke.**"
       }
     }
   ]

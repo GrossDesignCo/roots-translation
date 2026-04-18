@@ -9,6 +9,7 @@
         "verse": 41
       },
       "wordIndex": 23,
+      "sourceOrder": 23,
       "word": {
         "originalScript": "מְעָרַב",
         "transliteration": "mearav",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "חֲזַיְתָ פַּרְזְלָא **מְעָרַב** בַּחֲסַף טִינָא",
         "transliteration": "chazayta parzela **mearav** baChasaf tina",
-        "englishLiteral": "you-saw iron-the **mixed** in-clay mud-the",
-        "englishNatural": "you saw the iron **mixed** in clay the mud"
+        "englishLiteral": "you-saw iron-the **mixed** in-clay mud-the.",
+        "englishNatural": "you saw the iron **mixed** in clay, the mud."
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 43
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "מְעָרַב",
         "transliteration": "mearav",
@@ -48,8 +50,8 @@
       "context": {
         "hebrew": "חֲזַיְתָ פַרְזְלָא **מְעָרַב** בַּחֲסַף טִינָא",
         "transliteration": "chazayta parzela **mearav** baChasaf tina",
-        "englishLiteral": "you-saw iron-the **mixed** in-clay mud-the",
-        "englishNatural": "you saw the iron **mixed** in clay the mud"
+        "englishLiteral": "you-saw iron-the **mixed** in-clay mud-the,",
+        "englishNatural": "you saw the iron **mixed** in clay, the mud,"
       }
     },
     {
@@ -59,6 +61,7 @@
         "verse": 43
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "מִתְעָרְבִין",
         "transliteration": "mitarvin",
@@ -74,8 +77,8 @@
       "context": {
         "hebrew": "בַּחֲסַף טִינָא **מִתְעָרְבִין** לֶהֱוֺן בִּזְרַע",
         "transliteration": "baChasaf tina **mitarvin** lehevon biZera",
-        "englishLiteral": "in-clay mud-the **mixing-themselves** to-be-them in-seed",
-        "englishNatural": "in clay the mud **themselves mixing** to be in the seed of"
+        "englishLiteral": "in-clay mud-the, **mixing-themselves** to-be-them in-seed",
+        "englishNatural": "in clay, the mud, **themselves mixing** to be in the seed of"
       }
     },
     {
@@ -85,6 +88,7 @@
         "verse": 43
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "מִתְעָרַב",
         "transliteration": "mitarav",
@@ -100,8 +104,8 @@
       "context": {
         "hebrew": "פַרְזְלָא לָא **מִתְעָרַב** עִם־ חַסְפָּא",
         "transliteration": "parzela la **mitarav** im- chaspa",
-        "englishLiteral": "iron-the not **mix-itself** with- clay-the",
-        "englishNatural": "the iron not **mixes itself** with the clay"
+        "englishLiteral": "iron-the not **mix-itself** with- clay-the.",
+        "englishNatural": "just as the iron **mixes itself** not with"
       }
     }
   ]

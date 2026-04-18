@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "τῆς",
         "transliteration": "tēs",
@@ -21,10 +22,10 @@
         }
       },
       "context": {
-        "hebrew": "τὴν κλεῖν **τῆς** ἀβύσσου καὶ",
-        "transliteration": "tēn klein **tēs** abussou kai",
-        "englishLiteral": "the key **the** abyss and",
-        "englishNatural": "the key **the** abyss and"
+        "hebrew": "τὴν κλεῖν **τῆς** ἀβύσσου, καὶ",
+        "transliteration": "tēn klein **tēs** abussou, kai",
+        "englishLiteral": "the key **the** abyss, and",
+        "englishNatural": "the key **the** abyss, and"
       }
     }
   ]

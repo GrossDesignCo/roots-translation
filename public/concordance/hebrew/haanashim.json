@@ -10,6 +10,7 @@
         "verse": 10
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאֲנָשִׁים",
         "transliteration": "haAnashim",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וַיִּירְאוּ **הָאֲנָשִׁים** יִרְאָה גְדוֹלָה",
         "transliteration": "vaYirau **haAnashim** yirah gedolah",
-        "englishLiteral": "And-feared **the-men** fear great",
-        "englishNatural": "feared **And the men** fear a great"
+        "englishLiteral": "And-feared **the-men** fear great,",
+        "englishNatural": "**And the men** feared a great"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 10
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "הָאֲנָשִׁים",
         "transliteration": "haAnashim",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "כִּי־ יָדְעוּ **הָאֲנָשִׁים** כִּי־ מִלִּפְנֵי",
         "transliteration": "ki- yadu **haAnashim** ki- miLiFney",
-        "englishLiteral": "that- knew **the-men** that- from-faces-of",
-        "englishNatural": "that knew **the men** that from the face of"
+        "englishLiteral": "that- knew **the-men,** that- from-faces-of",
+        "englishNatural": "you have done?\" that **the men** knew, that"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 13
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאֲנָשִׁים",
         "transliteration": "haAnashim",
@@ -72,7 +75,7 @@
         "hebrew": "וַיַּחְתְּרוּ **הָאֲנָשִׁים** לְהָשִׁיב אֶל־",
         "transliteration": "vaYachteru **haAnashim** lehashiv el-",
         "englishLiteral": "And-rowed **the-men** to-return to-",
-        "englishNatural": "rowed **And the men** to return to"
+        "englishNatural": "**And the men** rowed to return"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 16
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאֲנָשִׁים",
         "transliteration": "haAnashim",
@@ -96,7 +100,7 @@
         "hebrew": "וַיִּירְאוּ **הָאֲנָשִׁים** יִרְאָה גְדוֹלָה",
         "transliteration": "vaYireu **haAnashim** yirah gedolah",
         "englishLiteral": "And-feared **the-men** fear great",
-        "englishNatural": "feared **And the men** fear of a great"
+        "englishNatural": "**And the men** feared a great"
       }
     }
   ]

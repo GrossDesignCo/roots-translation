@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וְאֵ֥ת",
         "transliteration": "veEt",
@@ -21,7 +22,7 @@
         "hebrew": "אֵ֥ת הַשָּׁמַ֖יִם **וְאֵ֥ת** הָאָֽרֶץ",
         "transliteration": "et haShamayim **veEt** haAretz",
         "englishLiteral": "↳ the-skies **and-↳** the-land",
-        "englishNatural": "↳ the skies **and** the land"
+        "englishNatural": "↳ the skies **and** the land."
       }
     },
     {
@@ -31,6 +32,7 @@
         "verse": 16
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "וְאֵ֖ת",
         "transliteration": "veEt",
@@ -41,8 +43,8 @@
       "context": {
         "hebrew": "לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה **וְאֵ֖ת** הַכּוֹכָבִֽים׃",
         "transliteration": "leMemShelet haLaylah **veEt** haKokhavim",
-        "englishLiteral": "for-the-ruling-of the-night **And-↳** the-stars",
-        "englishNatural": "for the ruling of the night **And** the stars"
+        "englishLiteral": "for-the-ruling-of the-night, **And-↳** the-stars.",
+        "englishNatural": "for the ruling of the night, **And** the stars."
       }
     },
     {
@@ -52,6 +54,7 @@
         "verse": 21
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וְאֵ֣ת",
         "transliteration": "veEt",
@@ -62,8 +65,8 @@
       "context": {
         "hebrew": "הַתַּנִּינִ֖ם הַגְּדֹלִ֑ים **וְאֵ֣ת** כָּל־ נֶ֣פֶשׁ",
         "transliteration": "haTanninim haGdolim **veEt** kol- nephesh",
-        "englishLiteral": "the-monsters the-greats **And-↳** all throat",
-        "englishNatural": "the monsters the greats **And** all throat"
+        "englishLiteral": "the-monsters, the-greats, **And-↳** all throat",
+        "englishNatural": "the monsters, the greats, **And** all throat"
       }
     },
     {
@@ -73,6 +76,7 @@
         "verse": 21
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "וְאֵ֣ת",
         "transliteration": "veEt",
@@ -83,8 +87,8 @@
       "context": {
         "hebrew": "הַמַּ֜יִם לְמִינֵהֶ֗ם **וְאֵ֣ת** כָּל־ ע֤וֹף",
         "transliteration": "haMayim leMinehem **veEt** kol- of",
-        "englishLiteral": "the-waters to-their-kind **And-↳** all flyer",
-        "englishNatural": "the waters to their kind **And** all flyer"
+        "englishLiteral": "the-waters, to-their-kind, **And-↳** all flyer",
+        "englishNatural": "the waters, to their kind, **And** all winged"
       }
     },
     {
@@ -94,6 +98,7 @@
         "verse": 25
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וְאֵ֛ת",
         "transliteration": "veEt",
@@ -104,8 +109,8 @@
       "context": {
         "hebrew": "הַבְּהֵמָ֖ה לְמִינָ֑הּ **וְאֵ֛ת** כָּל־ רֶ֥מֶשׂ",
         "transliteration": "haBehemah leMinah **veEt** kol- remes",
-        "englishLiteral": "the-beast to-its-kind **And-↳** all crawler",
-        "englishNatural": "the beast to its kind **And** all crawler"
+        "englishLiteral": "the-beast, to-its-kind, **And-↳** all crawler",
+        "englishNatural": "the beast, to its kind, **And** all crawler"
       }
     },
     {
@@ -115,6 +120,7 @@
         "verse": 19
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וְאֵת",
         "transliteration": "veEt",
@@ -125,8 +131,8 @@
       "context": {
         "hebrew": "חַיַּת הַשָּׂדֶה **וְאֵת** כָּל־ עוֹף",
         "transliteration": "chayyat haSadeh **veEt** kol- of",
-        "englishLiteral": "living_being-of the-field **and-↳** all- flyer",
-        "englishNatural": "living-being of the field **and** every flyer of"
+        "englishLiteral": "living_being-of the-field, **and-↳** all- flyer",
+        "englishNatural": "living-being of the field, **and** every flyer of"
       }
     },
     {
@@ -136,6 +142,7 @@
         "verse": 24
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וְאֵת",
         "transliteration": "veEt",
@@ -149,8 +156,8 @@
       "context": {
         "hebrew": "אֶת־ הַכְּרֻבִים **וְאֵת** לַהַט הַחֶרֶב",
         "transliteration": "et- haKeruvim **veEt** lahat haCherev",
-        "englishLiteral": "↳ the-Approaching_Ones **and-↳** bright_flash the-sword",
-        "englishNatural": "↳ the Approaching-Ones **and** Bright-Flash the Sword"
+        "englishLiteral": "↳ the-Approaching_Ones; **and-↳** bright_flash the-sword,",
+        "englishNatural": "↳ the Approaching-Ones; **and** Bright-Flash the Sword,"
       }
     },
     {
@@ -160,6 +167,7 @@
         "verse": 10
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְאֵת",
         "transliteration": "veEt",

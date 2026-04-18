@@ -10,6 +10,7 @@
         "verse": 12
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "הָרוּחַ",
         "transliteration": "haRuach",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "יִהְיֶה־ שָּׁמָּה **הָרוּחַ** לָלֶכֶת יֵלֵכוּ",
         "transliteration": "yihyeh- shamah **haRuach** laLekhet yelekhu",
-        "englishLiteral": "it-was- there **the-wind** to-go they-went",
-        "englishNatural": "was there **the wind** to go they went"
+        "englishLiteral": "it-was- there **the-wind** to-go they-went;",
+        "englishNatural": "to which **the wind** to go was"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 20
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָרוּחַ",
         "transliteration": "haRuach",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "יִהְיֶה־ שָׁם **הָרוּחַ** לָלֶכֶת יֵלֵכוּ",
         "transliteration": "yihyeh- sham **haRuach** laLekhet yelekhu",
-        "englishLiteral": "it-was- there **the-wind** to-go they-went",
-        "englishNatural": "was there **the wind** to go they went"
+        "englishLiteral": "it-was- there, **the-wind** to-go they-went",
+        "englishNatural": "Over which **the wind** to go was"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 20
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "הָרוּחַ",
         "transliteration": "haRuach",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "יֵלֵכוּ שָׁמָּה **הָרוּחַ** לָלֶכֶת וְהָאוֹפַנִּים",
         "transliteration": "yelekhu shamah **haRuach** laLekhet veHaOphanim",
-        "englishLiteral": "they-went there **the-wind** to-go and-the-wheels",
-        "englishNatural": "they went there **the wind** to go and the wheels"
+        "englishLiteral": "they-went there, **the-wind** to-go, and-the-wheels",
+        "englishNatural": "they went there, **the wind** to go, and the wheels"
       }
     }
   ]

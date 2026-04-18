@@ -10,6 +10,7 @@
         "verse": 5
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "י֑וֹם",
         "transliteration": "yom",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אֱלֹהִ֤ים לָא֔וֹר **י֑וֹם** וְלַחֹ֖שֶׁךְ קָ֣רָא",
         "transliteration": "Elohim laOr **yom** veLaChoshekh qara",
-        "englishLiteral": "Gods to-light **Day** and-to-darkness called_out",
-        "englishNatural": "And God to light **Day** to darkness and called-out"
+        "englishLiteral": "Gods to-light **\"Day,\"** and-to-darkness called_out",
+        "englishNatural": "called-out to light, **\"Day,\"** and called-out to darkness,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 5
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "י֥וֹם",
         "transliteration": "yom",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "וַֽיְהִי בֹ֖קֶר **י֥וֹם** אֶחָֽד",
         "transliteration": "vaYehi voqer **yom** echad",
-        "englishLiteral": "And-was morning **Day** one",
-        "englishNatural": "was And morning **day** One"
+        "englishLiteral": "And-was, morning, **Day** one.",
+        "englishNatural": "was, One **day.**"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 8
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "י֥וֹם",
         "transliteration": "yom",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "וַֽיְהִי בֹ֖קֶר **י֥וֹם** שֵׁנִֽי׃",
         "transliteration": "vaYehi voqer **yom** sheni",
-        "englishLiteral": "And-was morning **Day** second",
-        "englishNatural": "was And morning **day** A second"
+        "englishLiteral": "And-was morning, **Day** second.",
+        "englishNatural": "was, A second **day.**"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 13
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "י֥וֹם",
         "transliteration": "yom",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "וַֽיְהִי־ בֹ֖קֶר **י֥וֹם** שְׁלִישִֽׁי׃",
         "transliteration": "vaVayhi- boqer **yom** shlishi",
-        "englishLiteral": "And-was morning **Day** third",
-        "englishNatural": "was And morning **day** A third"
+        "englishLiteral": "And-was morning, **Day** third.",
+        "englishNatural": "was, A third **day.**"
       }
     },
     {
@@ -106,6 +110,7 @@
         "verse": 19
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "י֥וֹם",
         "transliteration": "yom",
@@ -119,8 +124,8 @@
       "context": {
         "hebrew": "וַֽיְהִי־ בֹ֖קֶר **י֥וֹם** רְבִיעִֽי׃",
         "transliteration": "vaVayhi- boqer **yom** reviyi",
-        "englishLiteral": "And-was- morning **Day** fourth",
-        "englishNatural": "was And morning **day** A fourth"
+        "englishLiteral": "And-was- morning, **Day** fourth.",
+        "englishNatural": "was, A fourth **day.**"
       }
     },
     {
@@ -130,6 +135,7 @@
         "verse": 23
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "י֥וֹם",
         "transliteration": "yom",
@@ -143,8 +149,8 @@
       "context": {
         "hebrew": "וַֽיְהִי־ בֹ֖קֶר **י֥וֹם** חֲמִישִֽׁי׃",
         "transliteration": "vaVayhi- boqer **yom** hamishi",
-        "englishLiteral": "And-was morning **Day** fifth",
-        "englishNatural": "was And morning **day** A fifth"
+        "englishLiteral": "And-was morning, **Day** fifth.",
+        "englishNatural": "was, A fifth **day.**"
       }
     },
     {
@@ -154,6 +160,7 @@
         "verse": 31
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "י֥וֹם",
         "transliteration": "yom",
@@ -167,8 +174,8 @@
       "context": {
         "hebrew": "וַֽיְהִי בֹ֖קֶר **י֥וֹם** הַשִּׁשִּֽׁי",
         "transliteration": "vaYehi boqer **yom** haShishi",
-        "englishLiteral": "And-was morning **Day** the-sixth",
-        "englishNatural": "was And morning **day** The sixth"
+        "englishLiteral": "And-was morning, **Day** the-sixth.",
+        "englishNatural": "was, The sixth **day.**"
       }
     },
     {
@@ -178,6 +185,7 @@
         "verse": 3
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "יוֹם",
         "transliteration": "yom",
@@ -191,8 +199,8 @@
       "context": {
         "hebrew": "אֱלֹהִים אֶת־ **יוֹם** הַשְּׁבִיעִי וַיְקַדֵּשׁ",
         "transliteration": "Elohim et- **yom** haShvi`i vaYeQadesh",
-        "englishLiteral": "Gods ↳ **day** the-seventh and-sanctified",
-        "englishNatural": "And God ↳ **day** the seventh and sanctified"
+        "englishLiteral": "Gods ↳ **day** the-seventh, and-sanctified",
+        "englishNatural": "↳ the seventh **day,** and sanctified it;"
       }
     },
     {
@@ -202,6 +210,7 @@
         "verse": 11
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "יוֹם",
         "transliteration": "yom",
@@ -215,8 +224,8 @@
       "context": {
         "hebrew": "בְּשִׁבְעָה־ עָשָׂר **יוֹם** לַחֹדֶשׁ בַּיּוֹם",
         "transliteration": "beShivah- asar **yom** laChodesh baYom",
-        "englishLiteral": "in-seven- ten **day** to-the-month in-day",
-        "englishNatural": "in seven ten **days** to the month day"
+        "englishLiteral": "in-seven- ten **day** to-the-month, in-day",
+        "englishNatural": "in seven ten **days** to the month, in this"
       }
     },
     {
@@ -226,6 +235,7 @@
         "verse": 12
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "יוֹם",
         "transliteration": "yom",
@@ -239,8 +249,8 @@
       "context": {
         "hebrew": "הָאָרֶץ אַרְבָּעִים **יוֹם** וְאַרְבָּעִים לָיְלָה",
         "transliteration": "haAretz arbaim **yom** veArbaim laylah",
-        "englishLiteral": "the-land forty **day** and-forty night",
-        "englishNatural": "the land forty **days** and forty nights"
+        "englishLiteral": "the-land, forty **day** and-forty night.",
+        "englishNatural": "the land, forty **days** and forty nights."
       }
     },
     {
@@ -250,6 +260,7 @@
         "verse": 30
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "יוֹם",
         "transliteration": "yom",
@@ -263,8 +274,8 @@
       "context": {
         "hebrew": "וָאֶהְיֶה שַׁעֲשֻׁעִים **יוֹם** יוֹם מְשַׂחֶקֶת",
         "transliteration": "vaEhyeh shaashuim **yom** yom mesacheqet",
-        "englishLiteral": "and-I-was darlings **day** day laughing",
-        "englishNatural": "and I was darlings **day** day laughing"
+        "englishLiteral": "and-I-was darlings **day** day, laughing",
+        "englishNatural": "and I was darlings **day** day, laughing"
       }
     },
     {
@@ -274,6 +285,7 @@
         "verse": 30
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "יוֹם",
         "transliteration": "yom",
@@ -287,8 +299,8 @@
       "context": {
         "hebrew": "שַׁעֲשֻׁעִים יוֹם **יוֹם** מְשַׂחֶקֶת לְפָנָיו",
         "transliteration": "shaashuim yom **yom** mesacheqet lefanav",
-        "englishLiteral": "darlings day **day** laughing to-faces-his",
-        "englishNatural": "darlings day **day** laughing to his faces"
+        "englishLiteral": "darlings day **day,** laughing to-faces-his",
+        "englishNatural": "darlings day **day,** laughing to his faces"
       }
     },
     {
@@ -298,6 +310,7 @@
         "verse": 4
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "יוֹם",
         "transliteration": "yom",
@@ -311,8 +324,8 @@
       "context": {
         "hebrew": "בָעִיר מַהֲלַךְ **יוֹם** אֶחָד וַיִּקְרָא",
         "transliteration": "baIr mahalakh **yom** echad vaYiqra",
-        "englishLiteral": "in-city journey-of **day** one and-called_out",
-        "englishNatural": "in the city a journey of **day** one and he called-out"
+        "englishLiteral": "in-city journey-of **day** one, and-called_out",
+        "englishNatural": "a journey of one **day,** and he called-out and said,"
       }
     },
     {
@@ -322,6 +335,7 @@
         "verse": 4
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "יוֹם",
         "transliteration": "yom",
@@ -335,8 +349,8 @@
       "context": {
         "hebrew": "עוֹד אַרְבָּעִים **יוֹם** וְנִינְוֵה נֶהְפָּכֶת",
         "transliteration": "od arbaim **yom** veNineveh nehpaket",
-        "englishLiteral": "yet forty **day** and-Dwelling_of_Fish (Nineveh) overturned",
-        "englishNatural": "Yet forty **days** and Dwelling-of-Fish (Nineveh) overturned"
+        "englishLiteral": "\"yet forty **day,** and-Dwelling_of_Fish (Nineveh) overturned.\"",
+        "englishNatural": "\"Yet forty **days,** and Dwelling-of-Fish (Nineveh) overturned.\""
       }
     }
   ]

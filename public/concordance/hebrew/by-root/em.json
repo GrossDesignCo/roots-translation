@@ -9,6 +9,7 @@
         "verse": 24
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "אִמּוֹ",
         "transliteration": "immo",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "אָבִיו וְאֶת־ **אִמּוֹ** וְדָבַק בְּאִשְׁתּוֹ",
         "transliteration": "aviv veEt- **immo** veDavaq beIshto",
-        "englishLiteral": "his-father and-↳ **his-mother** and-cling in-his-woman",
-        "englishNatural": "his father and **his mother** and cling in his woman"
+        "englishLiteral": "his-father, and-↳ **his-mother,** and-cling in-his-woman,",
+        "englishNatural": "his father, and **his mother,** and cling in his woman,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 20
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "אֵם",
         "transliteration": "em",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "הִוא הָיְתָה **אֵם** כָּל־ חָי׃",
         "transliteration": "hi hayetah **em** kol- chai",
-        "englishLiteral": "she was **Mother** all Living",
-        "englishNatural": "she was **Mother** of all Living"
+        "englishLiteral": "she was **Mother** all Living.",
+        "englishNatural": "she was **Mother** of all Living."
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 8
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "אִמָּ֑הּ",
         "transliteration": "immah",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "אִשָּׁ֖ה לְבֵ֣ית **אִמָּ֑הּ** יַעַשׂ֩ יְהוָ֨ה",
         "transliteration": "ishah leVeit **immah** yaas YHWH",
-        "englishLiteral": "woman to-house-of **mother-her** make He_Who_Is (YHWH)",
-        "englishNatural": "woman to the house of **her mother** make He-Who-Is (YHWH)"
+        "englishLiteral": "woman to-house-of **mother-her;** make He_Who_Is (YHWH)",
+        "englishNatural": "woman to the house of **her mother;** He-Who-Is (YHWH) make"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 2
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "אִמּוֹ",
         "transliteration": "imo",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "כְּגָמוּל עֲלֵי **אִמּוֹ** כַּגָּמוּל עָלַי",
         "transliteration": "keGamul alei **imo** kaGamul alai",
-        "englishLiteral": "as-weaned-one upon **his-mother** as-weaned-one upon",
-        "englishNatural": "as a weaned-one upon **his mother** as a weaned-one upon"
+        "englishLiteral": "as-weaned-one upon **his-mother,** as-weaned-one upon",
+        "englishNatural": "as a weaned-one upon **his mother,** as a weaned-one upon"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 12
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הַהִוא",
         "transliteration": "haHi",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וּזְהַב הָאָרֶץ **הַהִוא** טוֹב שָׁם",
         "transliteration": "uZehav haAretz **haHi** tov sham",
-        "englishLiteral": "and-gold the-land **the-that** good there",
-        "englishNatural": "And the gold land **of that** good there is"
+        "englishLiteral": "and-gold the-land **the-that,** good; there",
+        "englishNatural": "And the gold **of that** land, good;"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 11
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הַהִוא",
         "transliteration": "hahi",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "מִן־ הָאָרֶץ **הַהִוא** יָצָא אַשּׁוּר",
         "transliteration": "min- haAretz **hahi** yatsa Ashur",
-        "englishLiteral": "from- the-land **the-that** brought_out Steppe (Assyria)",
-        "englishNatural": "from land **that** brought-out Steppe (Assyria)"
+        "englishLiteral": "from- the-land **the-that** brought_out Steppe (Assyria),",
+        "englishNatural": "from **that** land brought-out"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַתֹּסֶף",
         "transliteration": "vatTosef",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "**וַתֹּסֶף** לָלֶדֶת אֶת־",
         "transliteration": "**vatTosef** laLedet et-",
-        "englishLiteral": "**and-she-added** to-her-birthing ↳",
-        "englishNatural": "**And she added** to her birthing ↳"
+        "englishLiteral": "**and-she-added** to-her-birthing, ↳",
+        "englishNatural": "**And she added** to her birthing, ↳"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 21
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "אֹסִף",
         "transliteration": "osif",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "לִבּוֹ לֹא־ **אֹסִף** לְקַלֵּל עוֹד",
         "transliteration": "libo lo- **osif** leQalel od",
-        "englishLiteral": "his-heart not- **I-will-add** to-treat-lightly again",
-        "englishNatural": "his heart not **I will add** to treat-lightly again"
+        "englishLiteral": "his-heart, \"not- **I-will-add,** to-treat-lightly again",
+        "englishNatural": "to his heart, **\"I will add** not, to treat-lightly"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 21
       },
       "wordIndex": 24,
+      "sourceOrder": 24,
       "word": {
         "originalScript": "אֹסִף",
         "transliteration": "osif",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "מִנְּעֻרָיו וְלֹא־ **אֹסִף** עוֹד לְהַכּוֹת",
         "transliteration": "miNeurav veLo- **osif** od leHakot",
-        "englishLiteral": "from-his-youth and-not- **I-will-add** again to-strike",
-        "englishNatural": "from his youth not **and I will add** again to strike"
+        "englishLiteral": "from-his-youth; and-not- **I-will-add** again to-strike",
+        "englishNatural": "bad from his youth; **and I will add** not again"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 28
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "תֹּ֨סֶף֙",
         "transliteration": "tosef",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "לְךָ֔ אַל־ **תֹּ֨סֶף֙** רְא֣וֹת פָּנָ֔י",
         "transliteration": "lekha al- **tosef** reot panay",
-        "englishLiteral": "to-you not **add** to-see faces-my",
-        "englishNatural": "yourself not **add** to see my face"
+        "englishLiteral": "to-you, not **add,** to-see faces-my,",
+        "englishNatural": "guard yourself, **add** not to see"
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 29
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "אֹסִ֥ף",
         "transliteration": "osif",
@@ -128,8 +133,8 @@
       "context": {
         "hebrew": "דִּבַּ֑רְתָּ לֹא־ **אֹסִ֥ף** עוֹד֙ רְא֖וֹת",
         "transliteration": "dibarta lo- **osif** od reot",
-        "englishLiteral": "you-spoke not **I-will-add** again to-see",
-        "englishNatural": "you have spoken not **I will add** again to see"
+        "englishLiteral": "you-spoke; not **I-will-add** again, to-see",
+        "englishNatural": "\"So you have spoken, **I will add** not again"
       }
     },
     {
@@ -139,6 +144,7 @@
         "verse": 6
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "תֹסִֽף׃",
         "transliteration": "tosif",
@@ -152,10 +158,10 @@
         }
       },
       "context": {
-        "hebrew": "וְכָמֹ֖הוּ לֹ֥א **תֹסִֽף׃**",
+        "hebrew": "וְכָמֹ֖הוּ לֹ֥א **תֹסִֽף׃׃**",
         "transliteration": "veKhamohu lo **tosif**",
-        "englishLiteral": "and-like-it not **will-add**",
-        "englishNatural": "and like it not **will add**"
+        "englishLiteral": "and-like-it not **will-add.\"**",
+        "englishNatural": "not, and like it **will add** not.\""
       }
     },
     {
@@ -165,6 +171,7 @@
         "verse": 5
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וְיוֹסֵף",
         "transliteration": "veYosef",
@@ -180,8 +187,8 @@
       "context": {
         "hebrew": "יִשְׁמַע חָכָם **וְיוֹסֵף** לֶקַח וְנָבוֹן",
         "transliteration": "yishma chakam **veYosef** leqach veNavon",
-        "englishLiteral": "Will-hear wise-man **and-will-add** teaching and-understanding-man",
-        "englishNatural": "will hear A wise man **and will add** teaching and an understanding man"
+        "englishLiteral": "Will-hear wise-man, **and-will-add** teaching; and-understanding-man,",
+        "englishNatural": "A wise man will hear, **and will add** teaching; and an understanding man,"
       }
     },
     {
@@ -191,6 +198,7 @@
         "verse": 4
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אוֹסִיף",
         "transliteration": "osif",
@@ -206,8 +214,8 @@
       "context": {
         "hebrew": "עֵינֶיךָ אַךְ **אוֹסִיף** לְהַבִּיט אֶל־",
         "transliteration": "einekha akh **osif** lehabit el-",
-        "englishLiteral": "eyes-your Only **I-will-add** to-look to-",
-        "englishNatural": "your eyes Only **I will add** to look to"
+        "englishLiteral": "eyes-your; Only **I-will-add,** to-look to-",
+        "englishNatural": "your eyes; Only **I will add,** to look to"
       }
     }
   ]

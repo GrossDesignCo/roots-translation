@@ -9,6 +9,7 @@
         "verse": 5
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "בְּפֻמַּ֖הּ",
         "transliteration": "bePummah",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "וּתְלָ֥ת עִלְעִ֛ין **בְּפֻמַּ֖הּ** בֵּ֣ין שניה",
         "transliteration": "uTelat ilin **bePummah** beyn shinnah",
-        "englishLiteral": "and-three ribs **in-mouth-its** between teeth-its",
-        "englishNatural": "and three ribs **in its mouth** between its teeth"
+        "englishLiteral": "and-three ribs **in-mouth-its** between teeth-its;",
+        "englishNatural": "and three ribs **in its mouth** between its teeth;"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 8
       },
       "wordIndex": 22,
+      "sourceOrder": 22,
       "word": {
         "originalScript": "וּפֻ֖ם",
         "transliteration": "uPum",
@@ -44,10 +46,10 @@
         }
       },
       "context": {
-        "hebrew": "בְּקַרְנָא־ דָ֔א **וּפֻ֖ם** מְמַלִּ֥ל רַבְרְבָֽן",
+        "hebrew": "בְּקַרְנָא־ דָ֔א **וּפֻ֖ם** מְמַלִּ֥ל רַבְרְבָֽן׃",
         "transliteration": "beQarna- da **uPum** memallil ravrevan",
-        "englishLiteral": "in-horn- this **and-mouth** speaking great_things",
-        "englishNatural": "horn in this **and a mouth** speaking great-things"
+        "englishLiteral": "in-horn- this, **and-mouth** speaking great_things.",
+        "englishNatural": "in this horn, **and a mouth** speaking great-things."
       }
     }
   ]

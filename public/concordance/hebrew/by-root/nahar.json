@@ -9,6 +9,7 @@
         "verse": 10
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְנָהָר",
         "transliteration": "veNahar",
@@ -33,6 +34,7 @@
         "verse": 13
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הַנָּהָר",
         "transliteration": "haNahar",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וְשֵׁם־ **הַנָּהָר** הַשֵּׁנִי גִּיחוֹן",
         "transliteration": "veShem- **haNahar** haSheni Gichon",
-        "englishLiteral": "and-name- **the-river** the-second Gusher (Gichon)",
-        "englishNatural": "And the name of **river** the second Gusher (Gichon)"
+        "englishLiteral": "and-name- **the-river** the-second, Gusher (Gichon);",
+        "englishNatural": "And the name of the second **river,** Gusher (Gichon); it"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 14
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הַנָּהָר",
         "transliteration": "haNahar",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "שֵׁם **הַנָּהָר** הַשְּׁלִישִׁי חִדֶּקֶל",
         "transliteration": "shem **haNahar** haShlishi Chidekel",
-        "englishLiteral": "name **the-river** the-third Rapid (Chidekel)",
-        "englishNatural": "The name of **river** the third Rapid (Chidekel)"
+        "englishLiteral": "name **the-river** the-third, Rapid (Chidekel);",
+        "englishNatural": "The name of the third **river,** Rapid (Chidekel); it"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 14
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וְהַנָּהָר",
         "transliteration": "veHaNahar",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "קִדְמַת אַשּׁוּר **וְהַנָּהָר** הָרְבִיעִי הוּא",
         "transliteration": "qidmat Ashur **veHaNahar** haRevii hu",
-        "englishLiteral": "east-of Steppe (Assyria) **And-the-river** the-fourth he",
-        "englishNatural": "east of Steppe (Assyria) **river** And the fourth it is"
+        "englishLiteral": "east-of Steppe (Assyria). **And-the-river** the-fourth, he",
+        "englishNatural": "Steppe (Assyria). And the fourth **river,** it is Fruitful (Perat)."
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 18
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "מִנְּהַר",
         "transliteration": "miNehar",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "הָאָרֶץ הַזֹּאת **מִנְּהַר** מִצְרַיִם עַד־",
         "transliteration": "haAretz haZot **miNehar** Mitzrayim ad-",
-        "englishLiteral": "the-land the-this **from-river-of** Double_Narrows (Egypt) until-",
-        "englishNatural": "the land this **from The River of** Double-Narrows (Egypt) until"
+        "englishLiteral": "the-land the-this, **from-river-of** Double_Narrows (Egypt) until-",
+        "englishNatural": "the land this, **from The River of** Double-Narrows (Egypt) until"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 18
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "הַנָּהָר",
         "transliteration": "haNahar",
@@ -143,7 +149,7 @@
         "hebrew": "מִצְרַיִם עַד־ **הַנָּהָר** הַגָּדֹל נְהַר־",
         "transliteration": "Mitzrayim ad- **haNahar** haGadol nehar-",
         "englishLiteral": "Double_Narrows (Egypt) until- **the-river** the-great river-of-",
-        "englishNatural": "Double-Narrows (Egypt) until **The River** The Great the River of"
+        "englishNatural": "Double-Narrows (Egypt) until **The River,** The Great, the River of"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 18
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "נְהַר־",
         "transliteration": "nehar-",
@@ -166,8 +173,8 @@
       "context": {
         "hebrew": "הַנָּהָר הַגָּדֹל **נְהַר־** פְּרָת",
         "transliteration": "haNahar haGadol **nehar-** Perat",
-        "englishLiteral": "the-river the-great **river-of-** Fruitful (Euphrates)",
-        "englishNatural": "The River The Great **the River of** Fruitful (Euphrates)"
+        "englishLiteral": "the-river the-great **river-of-** Fruitful (Euphrates).\"",
+        "englishNatural": "The River, The Great, **the River of** Fruitful (Euphrates).\""
       }
     },
     {
@@ -177,6 +184,7 @@
         "verse": 1
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "נְהַר־",
         "transliteration": "nehar-",
@@ -190,8 +198,8 @@
       "context": {
         "hebrew": "הַגּוֹלָה עַל־ **נְהַר־** כְּבָר נִפְתְּחוּ",
         "transliteration": "haGolah al- **nehar-** Kebar niftechu",
-        "englishLiteral": "the-exile upon- **River-of-** Ancient (Kebar) they-were-opened",
-        "englishNatural": "the exile upon **River of** Ancient (Kebar) were opened"
+        "englishLiteral": "the-exile upon- **River-of-** Ancient (Kebar), they-were-opened",
+        "englishNatural": "the exile upon **River of** Ancient (Kebar), the skies"
       }
     },
     {
@@ -201,6 +209,7 @@
         "verse": 3
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "נְהַר־",
         "transliteration": "nehar-",
@@ -214,8 +223,8 @@
       "context": {
         "hebrew": "כַּשְׂדִּים עַל־ **נְהַר־** כְּבָר וַתְּהִי",
         "transliteration": "Kasdim al- **nehar-** Kebar vatehi",
-        "englishLiteral": "Chaldeans over- **River-of-** Ancient (Kebar) and-it-was",
-        "englishNatural": "Chaldeans over **River of** Ancient (Kebar) was"
+        "englishLiteral": "Chaldeans over- **River-of-** Ancient (Kebar), and-it-was",
+        "englishNatural": "Chaldeans over **River of** Ancient (Kebar), and the hand of"
       }
     },
     {
@@ -225,6 +234,7 @@
         "verse": 3
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וְנָהָר",
         "transliteration": "veNahar",
@@ -238,8 +248,8 @@
       "context": {
         "hebrew": "בִּלְבַב יַמִּים **וְנָהָר** יְסֹבְבֵנִי כָּל־",
         "transliteration": "biLevav yamim **veNahar** yesoveveni kol-",
-        "englishLiteral": "in-heart-of seas **and-river** goes_around-me all-",
-        "englishNatural": "in the heart of the seas **and the river** goes-around me all"
+        "englishLiteral": "in-heart-of seas; **and-river** goes_around-me; all-",
+        "englishNatural": "in the heart of the seas; **and the river** goes-around me; all"
       }
     }
   ]

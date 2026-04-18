@@ -10,6 +10,7 @@
         "verse": 4
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "אֱנָ֖שׁ",
         "transliteration": "enash",
@@ -21,10 +22,10 @@
         }
       },
       "context": {
-        "hebrew": "הֳקִימַ֔ת וּלְבַ֥ב **אֱנָ֖שׁ** יְהִ֥יב לַֽהּ",
+        "hebrew": "הֳקִימַ֔ת וּלְבַ֥ב **אֱנָ֖שׁ** יְהִ֥יב לַֽהּ׃",
         "transliteration": "hoqimat uLevav **enash** yehiv lah",
-        "englishLiteral": "was-caused-to-stand and-heart **Mortal_Man (Enash)** was-given to-her",
-        "englishNatural": "it was caused to stand and a heart **of a Mortal-Man (Enash)** was given to it"
+        "englishLiteral": "was-caused-to-stand, and-heart **Mortal_Man (Enash)** was-given to-her.",
+        "englishNatural": "it was caused to stand, and a heart **of a Mortal-Man (Enash)** was given to it."
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 13
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אֱנָ֖שׁ",
         "transliteration": "enash",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "שְׁמַיָּ֔א כְּבַ֥ר **אֱנָ֖שׁ** אָתֵ֣ה הֲוָ֔ה",
         "transliteration": "shemaya keVar **enash** ateh havah",
-        "englishLiteral": "skies-the as-son-of **Mortal_Man (Enash)** coming was",
-        "englishNatural": "the skies as a son of **Mortal-Man (Enash)** coming he was"
+        "englishLiteral": "skies-the as-son-of **Mortal_Man (Enash)** coming was,",
+        "englishNatural": "the skies, as a son of **Mortal-Man (Enash)** he was coming,"
       }
     }
   ]

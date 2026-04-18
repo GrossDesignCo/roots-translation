@@ -10,6 +10,7 @@
         "verse": 12
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הִיא",
         "transliteration": "hi",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "נָתַתָּה עִמָּדִי **הִיא** נָתְנָה־ לִּי",
         "transliteration": "natata imadi **hi** natnah- li",
-        "englishLiteral": "you-gave with-me **she** she-gave- to-me",
-        "englishNatural": "you gave with me **she** gave to me"
+        "englishLiteral": "you-gave with-me; **she** she-gave- to-me",
+        "englishNatural": "you gave with me; **she** gave to me"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 20
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הִוא",
         "transliteration": "hi",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "חַוָּה כִּי **הִוא** הָיְתָה אֵם",
         "transliteration": "Chavah ki **hi** hayetah em",
-        "englishLiteral": "Life (Eve) that **she** was Mother",
-        "englishNatural": "Life (Eve) that **she** was Mother"
+        "englishLiteral": "Life (Eve); that **she** was Mother",
+        "englishNatural": "Life (Eve); that **she** was Mother"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 22
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הִוא",
         "transliteration": "hi",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "וְצִלָּה גַם־ **הִוא** יָלְדָה אֶת־",
         "transliteration": "veTzillah gam- **hi** yaldah et-",
-        "englishLiteral": "and-Shadow (Zillah) also- **she** bore ↳",
-        "englishNatural": "And Shadow (Zillah) also **she** bore ↳"
+        "englishLiteral": "and-Shadow (Zillah) also-, **she** bore ↳",
+        "englishNatural": "And Shadow (Zillah) also, **she** bore ↳"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 12
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הִוא",
         "transliteration": "hi",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "וּבֵין כָּלַח **הִוא** הָעִיר הַגְּדֹלָה",
         "transliteration": "uveyn Kalach **hi** haIr haGedolah",
-        "englishLiteral": "and-between Vigor (Calah) **she** the-city the-great",
-        "englishNatural": "and between Vigor (Calah) **this** The City The Great"
+        "englishLiteral": "and-between Vigor (Calah); **she** the-city the-great.",
+        "englishNatural": "and between Vigor (Calah); **this,** The City, The Great."
       }
     },
     {
@@ -106,6 +110,7 @@
         "verse": 3
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הִ֖יא",
         "transliteration": "hi",
@@ -117,10 +122,10 @@
         }
       },
       "context": {
-        "hebrew": "נָעֳמִ֑י וַתִּשָּׁאֵ֥ר **הִ֖יא** וּשְׁנֵ֥י בָנֶֽיהָ׃",
+        "hebrew": "נָעֳמִ֑י וַתִּשָּׁאֵ֥ר **הִ֖יא** וּשְׁנֵ֥י בָנֶֽיהָ׃׃",
         "transliteration": "Naomi vatTishare **hi** usheney vaneha",
-        "englishLiteral": "Pleasant_My (Naomi) and-was-left **she** and-two-of sons-her",
-        "englishNatural": "My-Pleasant (Naomi) was left **and she** and the two of her sons"
+        "englishLiteral": "Pleasant_My (Naomi); and-was-left **she;** and-two-of sons-her.",
+        "englishNatural": "My-Pleasant (Naomi) died, **and she** was left, and the two of"
       }
     },
     {
@@ -130,6 +135,7 @@
         "verse": 6
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הִיא֙",
         "transliteration": "hi",
@@ -144,7 +150,7 @@
         "hebrew": "וַתָּ֤קָם **הִיא֙** וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב",
         "transliteration": "vatTaqam **hi** veKhalloteha vatTashav",
         "englishLiteral": "And-stood_up **she** and-daughters_in_law-her and-returned",
-        "englishNatural": "stood-up **And she** and her daughters-in-law and returned"
+        "englishNatural": "**And she** and her daughters-in-law stood-up"
       }
     },
     {
@@ -154,6 +160,7 @@
         "verse": 2
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הִיא",
         "transliteration": "hi",
@@ -167,8 +174,8 @@
       "context": {
         "hebrew": "בַּחֲמִשָּׁה לַחֹדֶשׁ **הִיא** הַשָּׁנָה הַחֲמִישִׁית",
         "transliteration": "baChamishah laChodes **hi** haShanah haChamisit",
-        "englishLiteral": "In-the-five to-the-month **it** the-year the-fifth",
-        "englishNatural": "In the five to the month **it-was** the year the fifth"
+        "englishLiteral": "In-the-five to-the-month, **it** the-year the-fifth",
+        "englishNatural": "In the five to the month, **it-was** the year the fifth"
       }
     },
     {
@@ -178,6 +185,7 @@
         "verse": 13
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "הִיא",
         "transliteration": "hi",

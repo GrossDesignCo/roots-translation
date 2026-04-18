@@ -9,6 +9,7 @@
         "verse": 16
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הַגְּדֹלִ֑ים",
         "transliteration": "haGdolim",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "שְׁנֵ֥י הַמְּאֹרֹ֖ת **הַגְּדֹלִ֑ים** אֶת־ הַמָּא֤וֹר",
         "transliteration": "shney haMeOrot **haGdolim** et- haMaor",
-        "englishLiteral": "two the-light_sources **the-greats** ↳ the-light_source",
-        "englishNatural": "two the light-sources **the greats** ↳ the light-source"
+        "englishLiteral": "two, the-light_sources, **the-greats,** ↳ the-light_source",
+        "englishNatural": "two, the light-sources, **the greats,** ↳ the light-source"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 16
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "הַגָּדֹ֔ל",
         "transliteration": "haGadol",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "אֶת־ הַמָּא֤וֹר **הַגָּדֹ֔ל** לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם",
         "transliteration": "et- haMaor **haGadol** leMemShelet haYom",
-        "englishLiteral": "↳ the-light_source **the-great** for-the-ruling-of the-day",
-        "englishNatural": "↳ the light-source **the great** for the ruling of the day"
+        "englishLiteral": "↳ the-light_source **the-great,** for-the-ruling-of the-day,",
+        "englishNatural": "↳ the light-source **the great,** for the ruling of the day,"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 21
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הַגְּדֹלִ֑ים",
         "transliteration": "haGdolim",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "אֶת־ הַתַּנִּינִ֖ם **הַגְּדֹלִ֑ים** וְאֵ֣ת כָּל־",
         "transliteration": "et- haTanninim **haGdolim** veEt kol-",
-        "englishLiteral": "↳ the-monsters **the-greats** And-↳ all",
-        "englishNatural": "↳ the monsters **the greats** And all"
+        "englishLiteral": "↳ the-monsters, **the-greats,** And-↳ all",
+        "englishNatural": "↳ the monsters, **the greats,** And all"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 13
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "גָּדוֹל",
         "transliteration": "gadol",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "אֶל־ יְהוָה **גָּדוֹל** עֲוֹנִי מִנְּשֹׂא",
         "transliteration": "el- YHWH **gadol** avoni minso",
-        "englishLiteral": "to He_Who_Is (YHWH) **Great** my-twisting from-lifting_up",
-        "englishNatural": "to He-Who-Is (YHWH) **Great** is my twisting from lifting-up"
+        "englishLiteral": "to He_Who_Is (YHWH), **\"Great** my-twisting, from-lifting_up.",
+        "englishNatural": "to He-Who-Is (YHWH), **\"Great** is my twisting, from lifting-up."
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 12
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "הַגְּדֹלָה",
         "transliteration": "haGedolah",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "הִוא הָעִיר **הַגְּדֹלָה**",
         "transliteration": "hi haIr **haGedolah**",
-        "englishLiteral": "she the-city **the-great**",
-        "englishNatural": "this The City **The Great**"
+        "englishLiteral": "she the-city **the-great.**",
+        "englishNatural": "this, The City, **The Great.**"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 12
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "גְדֹלָה",
         "transliteration": "gedolah",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "אֵימָה חֲשֵׁכָה **גְדֹלָה** נֹפֶלֶת עָלָיו",
         "transliteration": "emah chashekha **gedolah** nofelet alav",
-        "englishLiteral": "terror darkness **great** falling over-him",
-        "englishNatural": "terror darkness **great** falling over him"
+        "englishLiteral": "terror darkness **great,** falling over-him.",
+        "englishNatural": "and behold terror, **great** darkness, falling"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 14
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "גָּדוֹל",
         "transliteration": "gadol",
@@ -166,8 +173,8 @@
       "context": {
         "hebrew": "יֵצְאוּ בִּרְכֻשׁ **גָּדוֹל**",
         "transliteration": "yetzeu birkhush **gadol**",
-        "englishLiteral": "they-will-come-out with-substance **great**",
-        "englishNatural": "they will come out substance **with great**"
+        "englishLiteral": "they-will-come-out with-substance **great.**",
+        "englishNatural": "so they will come out **with great** substance."
       }
     },
     {
@@ -177,6 +184,7 @@
         "verse": 18
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "הַגָּדֹל",
         "transliteration": "haGadol",
@@ -190,8 +198,8 @@
       "context": {
         "hebrew": "עַד־ הַנָּהָר **הַגָּדֹל** נְהַר־ פְּרָת",
         "transliteration": "ad- haNahar **haGadol** nehar- Perat",
-        "englishLiteral": "until- the-river **the-great** river-of- Fruitful (Euphrates)",
-        "englishNatural": "until The River **The Great** the River of Fruitful (Euphrates)"
+        "englishLiteral": "until- the-river **the-great** river-of- Fruitful (Euphrates).\"",
+        "englishNatural": "until The River, **The Great,** the River of Fruitful (Euphrates).\""
       }
     },
     {
@@ -201,6 +209,7 @@
         "verse": 3
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הַגָּדֹל",
         "transliteration": "haGadol",
@@ -214,8 +223,8 @@
       "context": {
         "hebrew": "אֶת־ הַמַּרְאֶה **הַגָּדֹל** הַזֶּה מַדּוּעַ",
         "transliteration": "et- haMareh **haGadol** haZeh madua",
-        "englishLiteral": "↳ the-sight **the-great** the-this why",
-        "englishNatural": "↳ sight **great** this why"
+        "englishLiteral": "↳ the-sight **the-great** the-this, why",
+        "englishNatural": "↳ this **great** sight, why"
       }
     },
     {
@@ -225,6 +234,7 @@
         "verse": 6
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "גְּדֹלִים",
         "transliteration": "gedolim",
@@ -238,8 +248,8 @@
       "context": {
         "hebrew": "נְטוּיָה וּבִשְׁפָטִים **גְּדֹלִים**",
         "transliteration": "netuyah uVishfatim **gedolim**",
-        "englishLiteral": "stretched_out and-in-justices **great**",
-        "englishNatural": "in a stretched-out justices **and in great**"
+        "englishLiteral": "stretched_out and-in-justices **great.\"**",
+        "englishNatural": "in a stretched-out arm **and in great** justices.\""
       }
     },
     {
@@ -249,6 +259,7 @@
         "verse": 3
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "גָּד֣וֹל",
         "transliteration": "gadol",
@@ -262,7 +273,7 @@
       "context": {
         "hebrew": "הָאִ֤ישׁ מֹשֶׁה֙ **גָּד֣וֹל** מְאֹ֔ד בְּאֶ֖רֶץ",
         "transliteration": "haIsh Moshe **gadol** meod beEretz",
-        "englishLiteral": "the-man Drawn_Out (Moses) **great** very in-land",
+        "englishLiteral": "the-man Drawn_Out (Moses) **great** very, in-land",
         "englishNatural": "the man Drawn-Out (Moses) **great** very in the land of"
       }
     },
@@ -273,6 +284,7 @@
         "verse": 6
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "גְדֹלָ֖ה",
         "transliteration": "gedolah",
@@ -287,7 +299,7 @@
         "hebrew": "וְהָֽיְתָ֛ה צְעָקָ֥ה **גְדֹלָ֖ה** בְּכָל־ אֶ֣רֶץ",
         "transliteration": "veHayetah tzaakah **gedolah** beKhol- eretz",
         "englishLiteral": "and-will-be cry **great** in-all- land",
-        "englishNatural": "will be cry **And a great** in all the land of"
+        "englishNatural": "**And a great** cry will be"
       }
     },
     {
@@ -297,6 +309,7 @@
         "verse": 30
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "גְדֹלָ֖ה",
         "transliteration": "gedolah",
@@ -310,8 +323,8 @@
       "context": {
         "hebrew": "וַתְּהִ֛י צְעָקָ֥ה **גְדֹלָ֖ה** בְּמִצְרָ֑יִם כִּֽי־",
         "transliteration": "vatTehi tzeaqah **gedolah** beMitzrayim ki-",
-        "englishLiteral": "and-was outcry **great** in-Double_Narrows (Egypt) that-",
-        "englishNatural": "was outcry **and a great** in Double-Narrows (Egypt) that"
+        "englishLiteral": "and-was outcry **great** in-Double_Narrows (Egypt); that-",
+        "englishNatural": "and all Double-Narrows (Egypt), **and a great** outcry was"
       }
     },
     {
@@ -321,6 +334,7 @@
         "verse": 2
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "גָבַר",
         "transliteration": "gavar",
@@ -336,8 +350,8 @@
       "context": {
         "hebrew": "כִּי **גָבַר** עָלֵינוּ חַסְדּוֹ",
         "transliteration": "ki **gavar** aleinu chasdo",
-        "englishLiteral": "That **is-great** toward-us his-steadfast_love",
-        "englishNatural": "That **great** toward us his steadfast-love"
+        "englishLiteral": "That **is-great** toward-us, his-steadfast_love;",
+        "englishNatural": "That **great** toward us, his steadfast-love;"
       }
     },
     {
@@ -347,6 +361,7 @@
         "verse": 1
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "בִּגְדֹלוֹת",
         "transliteration": "biGdolot",
@@ -360,8 +375,8 @@
       "context": {
         "hebrew": "וְלֹא־ הִלַּכְתִּי **בִּגְדֹלוֹת** וּבְנִפְלָאוֹת מִמֶּנִּי",
         "transliteration": "velo- hilakhti **biGdolot** uvNiFlaot mimeni",
-        "englishLiteral": "and-not- I-have-walked **in-greats** and-in-wonders from-me",
-        "englishNatural": "not and I have walked **in greats** and in wonders from me"
+        "englishLiteral": "and-not- I-have-walked, **in-greats** and-in-wonders from-me.",
+        "englishNatural": "and I have walked not, **in greats** and in wonders from me."
       }
     },
     {
@@ -371,6 +386,7 @@
         "verse": 4
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "גָּדוֹל",
         "transliteration": "gadol",
@@ -384,8 +400,8 @@
       "context": {
         "hebrew": "הַצָּפוֹן עָנָן **גָּדוֹל** וְאֵשׁ מִתְלַקַּחַת",
         "transliteration": "haTzafon anan **gadol** veEsh mitlaqqachat",
-        "englishLiteral": "the-north cloud **great** and-fire flashing",
-        "englishNatural": "the north cloud **a great** and fire flashing"
+        "englishLiteral": "the-north, cloud **great,** and-fire flashing,",
+        "englishNatural": "from the north, **a great** cloud, and fire"
       }
     },
     {
@@ -395,6 +411,7 @@
         "verse": 2
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הַגְּדוֹלָה",
         "transliteration": "haGedolah",
@@ -408,8 +425,8 @@
       "context": {
         "hebrew": "נִינְוֵה הָעִיר **הַגְּדוֹלָה** וּקְרָא עָלֶיהָ",
         "transliteration": "Nineveh haIr **haGedolah** uQera aleha",
-        "englishLiteral": "Dwelling_of_Fish (Nineveh) the-city **the-great** and-call_out over-her",
-        "englishNatural": "Dwelling-of-Fish (Nineveh) the city **the great** and call-out over her"
+        "englishLiteral": "Dwelling_of_Fish (Nineveh), the-city, **the-great;** and-call_out over-her,",
+        "englishNatural": "Dwelling-of-Fish (Nineveh), the city, **the great;** and call-out over her,"
       }
     },
     {
@@ -419,6 +436,7 @@
         "verse": 4
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "גְּדוֹלָה",
         "transliteration": "gedolah",
@@ -432,8 +450,8 @@
       "context": {
         "hebrew": "הֵטִיל רוּחַ־ **גְּדוֹלָה** אֶל־ הַיָּם",
         "transliteration": "hetil ruach- **gedolah** el- haYam",
-        "englishLiteral": "hurled wind- **great** to- the-sea",
-        "englishNatural": "hurled wind **a great** to the sea"
+        "englishLiteral": "hurled wind- **great** to- the-sea,",
+        "englishNatural": "And He-Who-Is (YHWH) hurled **a great** wind to"
       }
     },
     {
@@ -443,6 +461,7 @@
         "verse": 4
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "גָּדוֹל",
         "transliteration": "gadol",
@@ -456,8 +475,8 @@
       "context": {
         "hebrew": "וַיְהִי סַעַר־ **גָּדוֹל** בַּיָּם וְהָאֳנִיָּה",
         "transliteration": "vaYehi saar- **gadol** baYam veHaOniyah",
-        "englishLiteral": "and-was tempest- **great** in-sea and-the-ship",
-        "englishNatural": "and there was tempest **a great** in the sea and the ship"
+        "englishLiteral": "and-was tempest- **great** in-sea, and-the-ship",
+        "englishNatural": "the sea, and there was **a great** tempest in the sea,"
       }
     },
     {
@@ -467,6 +486,7 @@
         "verse": 10
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "גְדוֹלָה",
         "transliteration": "gedolah",
@@ -480,8 +500,8 @@
       "context": {
         "hebrew": "הָאֲנָשִׁים יִרְאָה **גְדוֹלָה** וַיֹּאמְרוּ אֵלָיו",
         "transliteration": "haAnashim yirah **gedolah** vaYomeru elav",
-        "englishLiteral": "the-men fear **great** and-said to-him",
-        "englishNatural": "And the men fear **a great** and said to him"
+        "englishLiteral": "the-men fear **great,** and-said to-him,",
+        "englishNatural": "And the men feared **a great** fear, and said"
       }
     },
     {
@@ -491,6 +511,7 @@
         "verse": 12
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "הַגָּדוֹל",
         "transliteration": "haGadol",
@@ -504,8 +525,8 @@
       "context": {
         "hebrew": "בְשֶׁלִּי הַסַּעַר **הַגָּדוֹל** הַזֶּה עֲלֵיכֶם",
         "transliteration": "beshelli haSaar **haGadol** haZeh aleykhem",
-        "englishLiteral": "for-sake-my the-tempest **the-great** the-this over-you",
-        "englishNatural": "for my sake the tempest **the great** the this is over you"
+        "englishLiteral": "for-sake-my the-tempest, **the-great,** the-this over-you.\"",
+        "englishNatural": "for my sake the tempest, **the great,** the this is over you.\""
       }
     },
     {
@@ -515,6 +536,7 @@
         "verse": 16
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "גְדוֹלָה",
         "transliteration": "gedolah",
@@ -528,8 +550,8 @@
       "context": {
         "hebrew": "הָאֲנָשִׁים יִרְאָה **גְדוֹלָה** אֶת־ יְהוָה",
         "transliteration": "haAnashim yirah **gedolah** et- YHWH",
-        "englishLiteral": "the-men fear **great** ↳ He_Who_Is (YHWH)",
-        "englishNatural": "And the men fear of **a great** ↳ He-Who-Is (YHWH)"
+        "englishLiteral": "the-men fear **great** ↳ He_Who_Is (YHWH);",
+        "englishNatural": "And the men feared **a great** fear of ↳"
       }
     },
     {
@@ -539,6 +561,7 @@
         "verse": 17
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "גָּדוֹל",
         "transliteration": "gadol",
@@ -553,7 +576,7 @@
         "hebrew": "יְהוָה דָּג **גָּדוֹל** לִבְלֹעַ אֶת־",
         "transliteration": "YHWH dag **gadol** livloa et-",
         "englishLiteral": "He_Who_Is (YHWH) fish **great** to-swallow ↳",
-        "englishNatural": "And He-Who-Is (YHWH) fish **a great** to swallow ↳"
+        "englishNatural": "And He-Who-Is (YHWH) appointed **a great** fish to swallow"
       }
     },
     {
@@ -563,6 +586,7 @@
         "verse": 2
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הַגְּדוֹלָה",
         "transliteration": "haGedolah",
@@ -576,8 +600,8 @@
       "context": {
         "hebrew": "נִינְוֵה הָעִיר **הַגְּדוֹלָה** וּקְרָא אֵלֶיהָ",
         "transliteration": "Nineveh haIr **haGedolah** uQera eleha",
-        "englishLiteral": "Dwelling_of_Fish (Nineveh) the-city **the-great** and-call_out to-her",
-        "englishNatural": "Dwelling-of-Fish (Nineveh) The City **The Great** and call-out to her"
+        "englishLiteral": "Dwelling_of_Fish (Nineveh), the-city, **the-great,** and-call_out to-her",
+        "englishNatural": "Dwelling-of-Fish (Nineveh), The City, **The Great,** and call-out to her"
       }
     },
     {
@@ -587,6 +611,7 @@
         "verse": 3
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "גְּדוֹלָה",
         "transliteration": "gedolah",
@@ -600,8 +625,8 @@
       "context": {
         "hebrew": "הָיְתָה עִיר־ **גְּדוֹלָה** לֵאלֹהִים מַהֲלַךְ",
         "transliteration": "haytah ir- **gedolah** lElohim mahalakh",
-        "englishLiteral": "was city- **great** to-Gods journey-of",
-        "englishNatural": "was a city **great** to God a journey of"
+        "englishLiteral": "was city- **great** to-Gods, journey-of",
+        "englishNatural": "was a city **great** to God, a journey of"
       }
     },
     {
@@ -611,6 +636,7 @@
         "verse": 5
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "מִגְּדוֹלָם",
         "transliteration": "miggedolam",
@@ -624,8 +650,8 @@
       "context": {
         "hebrew": "וַיִּלְבְּשׁוּ שַׂקִּים **מִגְּדוֹלָם** וְעַד־ קְטַנָּם",
         "transliteration": "vaYilbeshu saqim **miggedolam** veAd- qetanam",
-        "englishLiteral": "and-clothed sackcloth **from-great-their** and-unto- small-their",
-        "englishNatural": "and clothed sackcloth **from their great** and unto their small"
+        "englishLiteral": "and-clothed sackcloth, **from-great-their** and-unto- small-their.",
+        "englishNatural": "and clothed sackcloth, **from their great** and unto their small."
       }
     },
     {
@@ -635,6 +661,7 @@
         "verse": 7
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וּגְדֹלָיו",
         "transliteration": "uGedolav",
@@ -648,8 +675,8 @@
       "context": {
         "hebrew": "מִטַּעַם הַמֶּלֶךְ **וּגְדֹלָיו** לֵאמֹר הָאָדָם",
         "transliteration": "mitaam haMelekh **uGedolav** lemor haAdam",
-        "englishLiteral": "from-decree-of the-king **and-greats-his** to-say the-Earthling (Adam)",
-        "englishNatural": "from the decree of the king **and his greats** to say The Earthling (Adam)"
+        "englishLiteral": "from-decree-of the-king **and-greats-his,** to-say, \"the-Earthling (Adam)",
+        "englishNatural": "from the decree of the king **and his greats,** to say, \"The Earthling (Adam)"
       }
     },
     {
@@ -659,6 +686,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "גְדוֹלָה",
         "transliteration": "gedolah",
@@ -672,8 +700,8 @@
       "context": {
         "hebrew": "יוֹנָה רָעָה **גְדוֹלָה** וַיִּחַר לוֹ",
         "transliteration": "Yonah raah **gedolah** vaYichar lo",
-        "englishLiteral": "Dove (Jonah) bad **great** and-fumed_angrily to-him",
-        "englishNatural": "Dove (Jonah) bad **a great** and it fumed angrily to him"
+        "englishLiteral": "Dove (Jonah), bad **great;** and-fumed_angrily to-him.",
+        "englishNatural": "to Dove (Jonah), **a great** bad; and it fumed angrily"
       }
     },
     {
@@ -683,6 +711,7 @@
         "verse": 6
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "גְדוֹלָה",
         "transliteration": "gedolah",
@@ -696,8 +725,8 @@
       "context": {
         "hebrew": "הַקִּיקָיוֹן שִׂמְחָה **גְדוֹלָה**",
         "transliteration": "haQiqayon simchah **gedolah**",
-        "englishLiteral": "the-luscious_plant joy **great**",
-        "englishNatural": "the luscious-plant joy **a great**"
+        "englishLiteral": "the-luscious_plant joy **great.**",
+        "englishNatural": "over the luscious-plant **a great** joy."
       }
     },
     {
@@ -707,6 +736,7 @@
         "verse": 11
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הַגְּדוֹלָה",
         "transliteration": "haGedolah",
@@ -720,8 +750,8 @@
       "context": {
         "hebrew": "נִינְוֵה הָעִיר **הַגְּדוֹלָה** אֲשֶׁר יֶשׁ־",
         "transliteration": "Nineveh haIr **haGedolah** asher yesh-",
-        "englishLiteral": "Dwelling_of_Fish (Nineveh) the-city **the-great** which there_is-",
-        "englishNatural": "Dwelling-of-Fish (Nineveh) the city **the great** which there-is"
+        "englishLiteral": "Dwelling_of_Fish (Nineveh), the-city, **the-great,** which there_is-",
+        "englishNatural": "Dwelling-of-Fish (Nineveh), the city, **the great,** which there-is"
       }
     }
   ]

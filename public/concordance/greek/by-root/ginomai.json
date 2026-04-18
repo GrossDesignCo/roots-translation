@@ -9,6 +9,7 @@
         "verse": 16
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "γίνεσθε",
         "transliteration": "ginesthe",
@@ -22,9 +23,9 @@
       },
       "context": {
         "hebrew": "μέσῳ λύκων **γίνεσθε** οὖν φρόνιμοι",
-        "transliteration": "meso lukon **ginesthe** oun phronimoi",
-        "englishLiteral": "midst wolves **be** therefore shrewd",
-        "englishNatural": "the midst of wolves **be** therefore shrewd"
+        "transliteration": "meso lukon; **ginesthe** oun phronimoi",
+        "englishLiteral": "midst wolves; **be** therefore shrewd",
+        "englishNatural": "the midst of wolves; **be** therefore shrewd"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 58
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "γενέσθαι",
         "transliteration": "genesthai",
@@ -46,10 +48,10 @@
         }
       },
       "context": {
-        "hebrew": "πρὶν Ἀβραὰμ **γενέσθαι** ἐγὼ εἰμί",
-        "transliteration": "prin Abraam **genesthai** egō eimi",
-        "englishLiteral": "before Exalted_Father (Abraham) **to-become** I am",
-        "englishNatural": "Before Exalted-Father (Abraham) **was** I Am"
+        "hebrew": "πρὶν Ἀβραὰμ **γενέσθαι,** ἐγὼ εἰμί.",
+        "transliteration": "prin Abraam **genesthai,** egō eimi.",
+        "englishLiteral": "before Exalted_Father (Abraham) **to-become,** I am.\"",
+        "englishNatural": "Before Exalted-Father (Abraham) **was,** I Am.\""
       }
     }
   ]

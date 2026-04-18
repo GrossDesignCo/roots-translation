@@ -9,6 +9,7 @@
         "verse": 5
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "יִצְמָח",
         "transliteration": "yitzmach",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "הַשָּׂדֶה טֶרֶם **יִצְמָח** כִּי לֹא",
         "transliteration": "haSadeh terem **yitzmach** ki lo",
-        "englishLiteral": "the-field not-yet **will-grow** for not",
-        "englishNatural": "of the field had not yet **grown** for had not"
+        "englishLiteral": "the-field not-yet **will-grow;** for not",
+        "englishNatural": "of the field had not yet **grown;** for He-Who-Is (YHWH)"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 9
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּצְמַח",
         "transliteration": "vaYatzmach",
@@ -51,7 +53,7 @@
         "hebrew": "**וַיַּצְמַח** יְהוָה אֱלֹהִים",
         "transliteration": "**vaYatzmach** YHWH Elohim",
         "englishLiteral": "**And-grew** He_Who_Is (YHWH) Gods",
-        "englishNatural": "**grew** And He-Who-Is (YHWH) God"
+        "englishNatural": "And He-Who-Is (YHWH) God **grew** from the earth every"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 18
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "תַּצְמִיחַ",
         "transliteration": "tatzmich",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "וְקוֹץ וְדַרְדַּר **תַּצְמִיחַ** לָךְ וְאָכַלְתָּ",
         "transliteration": "veQots veDardar **tatzmich** lakh veAkhlta",
-        "englishLiteral": "And-thorn and-thistle **it-will-grow** to-you and-you-will-eat",
-        "englishNatural": "And thorn and thistle **it will grow** to you and you will eat"
+        "englishLiteral": "And-thorn and-thistle **it-will-grow** to-you; and-you-will-eat",
+        "englishNatural": "And thorn and thistle **it will grow** to you; and you will eat"
       }
     }
   ]

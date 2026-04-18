@@ -9,6 +9,7 @@
         "verse": 29
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "אַנְתָּה",
         "transliteration": "antah",
@@ -23,7 +24,7 @@
         "hebrew": "**אַנְתָּה** מַלְכָּא רַעְיוֹנָךְ",
         "transliteration": "**antah** malka rayonakh",
         "englishLiteral": "**you** king-the thoughts-your",
-        "englishNatural": "**You** the king your thoughts"
+        "englishNatural": "**You** the king, your thoughts"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 31
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "אַנְתָּה",
         "transliteration": "antah",
@@ -47,7 +49,7 @@
         "hebrew": "**אַנְתָּה** מַלְכָּא חָזֵה",
         "transliteration": "**antah** malka chazeh",
         "englishLiteral": "**you** the-king seeing",
-        "englishNatural": "**You** the king seeing"
+        "englishNatural": "**You** the king, were"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 37
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "אַנְתָּה",
         "transliteration": "antah",
@@ -71,7 +74,7 @@
         "hebrew": "**אַנְתָּה** מַלְכָּא מֶלֶךְ",
         "transliteration": "**antah** malka melekh",
         "englishLiteral": "**you** king-the king-of",
-        "englishNatural": "**You** the king the king of"
+        "englishNatural": "**You,** the king, the king of"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 38
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "אַנְתָּה",
         "transliteration": "antah",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "וְהַשְׁלְטָךְ בְּכֹלְּהוֹן **אַנְתָּה** הוּא רֵאשָׁה",
         "transliteration": "veHashletakh beKholhon **antah** hu reshah",
-        "englishLiteral": "and-caused-you-to-rule in-all-them **you** he head-the",
-        "englishNatural": "and has caused you to rule in them all **you** are he the head"
+        "englishLiteral": "and-caused-you-to-rule in-all-them, **you** he head-the",
+        "englishNatural": "and has caused you to rule in them all, **you** are he, the head"
       }
     }
   ]

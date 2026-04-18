@@ -10,6 +10,7 @@
         "verse": 22
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "וָלַיְלָה",
         "transliteration": "vaLaylah",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וָחֹרֶף וְיוֹם **וָלַיְלָה** לֹא יִשְׁבֹּתוּ",
         "transliteration": "vaChoref veYom **vaLaylah** lo yishbotu",
-        "englishLiteral": "and-winter and-day **and-night** not they-will-sabbath",
-        "englishNatural": "and winter and day **and night** not they will sabbath"
+        "englishLiteral": "and-winter, and-day **and-night** not they-will-sabbath.\"",
+        "englishNatural": "and winter, and day **and night** they will sabbath not.\""
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 2
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וָלָיְלָה",
         "transliteration": "vaLaylah",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "יֶהְגֶּה יוֹמָם **וָלָיְלָה**",
         "transliteration": "yehgeh yomam **vaLaylah**",
-        "englishLiteral": "he-meditates by-day **and-night**",
-        "englishNatural": "he meditates by day **and night**"
+        "englishLiteral": "he-meditates by-day **and-night.**",
+        "englishNatural": "he meditates by day **and night.**"
       }
     }
   ]

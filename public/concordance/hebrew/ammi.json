@@ -10,6 +10,7 @@
         "verse": 7
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "עַמִּי",
         "transliteration": "ammi",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אֶת־ עֳנִי **עַמִּי** אֲשֶׁר בְּמִצְרָיִם",
         "transliteration": "et- oni **ammi** asher beMitzrayim",
-        "englishLiteral": "↳ affliction-of **people-my** which in-Double_Narrows (Egypt)",
-        "englishNatural": "↳ the affliction of **my people** which in Double-Narrows (Egypt)"
+        "englishLiteral": "↳ affliction-of **people-my** which in-Double_Narrows (Egypt),",
+        "englishNatural": "↳ the affliction of **my people** which, in Double-Narrows (Egypt),"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 1
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "עַמִּי",
         "transliteration": "ammi",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "שַׁלַּח אֶת־ **עַמִּי** וְיָחֹגּוּ לִי",
         "transliteration": "shallach et- **ammi** veYachogu li",
-        "englishLiteral": "send ↳ **people-my** and-will-feast to-me",
-        "englishNatural": "Send-out ↳ **my people** and they will feast to me"
+        "englishLiteral": "'send ↳ **people-my** and-will-feast to-me",
+        "englishNatural": "'Send-out ↳ **my people** and they will feast to me"
       }
     }
   ]

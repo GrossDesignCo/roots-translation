@@ -9,6 +9,7 @@
         "verse": 7
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אִם־",
         "transliteration": "im-",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "וַהֲלוֹא **אִם־** תֵּיטִיב שְׂאֵת",
         "transliteration": "vaHaLo **im-** teytiv set",
-        "englishLiteral": "And-is_there_not **if-** you-do_well lifting_up",
-        "englishNatural": "And is there not **if** you do-well lifting-up"
+        "englishLiteral": "And-is_there_not, **if-** you-do_well, lifting_up?",
+        "englishNatural": "And is there not, **if** you do-well, lifting-up?"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 7
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וְאִם",
         "transliteration": "veim",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "תֵּיטִיב שְׂאֵת **וְאִם** לֹא תֵיטִיב",
         "transliteration": "teytiv set **veim** lo teytiv",
-        "englishLiteral": "you-do_well lifting_up **And-if** not you-do_well",
-        "englishNatural": "you do-well lifting-up **And if** not you do-well"
+        "englishLiteral": "you-do_well, lifting_up? **And-if** not you-do_well,",
+        "englishNatural": "you do-well, lifting-up? **And if** you do-well not,"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 5
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אִם־",
         "transliteration": "im-",
@@ -70,7 +73,7 @@
       "context": {
         "hebrew": "וּסְפֹר הַכּוֹכָבִים **אִם־** תּוּכַל לִסְפֹּר",
         "transliteration": "uSefor haKokhavim **im-** tukhal lisfor",
-        "englishLiteral": "and-count the-stars **if-** you-are-able to-count",
+        "englishLiteral": "and-count the-stars, **if-** you-are-able to-count",
         "englishNatural": "and count the stars **if** you are able to count"
       }
     },
@@ -81,6 +84,7 @@
         "verse": 24
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "עִמָּכֶם",
         "transliteration": "imakhem",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "טַפְּכֶם יֵלֵךְ **עִמָּכֶם**",
         "transliteration": "tapkhem yelekh **imakhem**",
-        "englishLiteral": "little_ones-your will-go **with-you**",
-        "englishNatural": "your little ones let go **with you**"
+        "englishLiteral": "little_ones-your will-go **with-you.**",
+        "englishNatural": "your little ones let go **with you.\"**"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 26
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "עִמָּנוּ",
         "transliteration": "imanu",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "מִקְנֵנוּ יֵלֵךְ **עִמָּנוּ** לֹא תִשָּׁאֵר",
         "transliteration": "miqnenu yelekh **imanu** lo tishaer",
-        "englishLiteral": "livestock-our will-go **with-us** not will-remain",
-        "englishNatural": "our livestock will go **with us** not will remain"
+        "englishLiteral": "livestock-our will-go **with-us;** not will-remain",
+        "englishNatural": "our livestock will go **with us;** not will remain"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 8
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "מֵֽעִם־",
         "transliteration": "meIm-",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "אֵצֵ֑א וַיֵּצֵ֥א **מֵֽעִם־** פַּרְעֹ֖ה בָּחֳרִי־",
         "transliteration": "etse vaYetse **meIm-** Paroh boChori-",
-        "englishLiteral": "I-will-bring_out And-he-brought_out **from-with-** Pharaoh in-burning-",
-        "englishNatural": "I will bring-out And he brought-out **from with** Pharaoh in burning"
+        "englishLiteral": "I-will-bring_out. And-he-brought_out **from-with-** Pharaoh in-burning-",
+        "englishNatural": "I will bring-out.\" And he brought-out **from with** Pharaoh in burning"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 9
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "אִם",
         "transliteration": "im",
@@ -166,8 +173,8 @@
       "context": {
         "hebrew": "הַנֵּס וְהָיָה **אִם** נָשַׁךְ הַנָּחָשׁ",
         "transliteration": "haNes veHayah **im** nashakh haNachash",
-        "englishLiteral": "the-standard and-it-was **if** struck the-snake",
-        "englishNatural": "the standard and it came about **if** struck the snake"
+        "englishLiteral": "the-standard, and-it-was, **if** struck the-snake",
+        "englishNatural": "the standard; and it came about, **if** the snake struck"
       }
     },
     {
@@ -177,6 +184,7 @@
         "verse": 2
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אִם",
         "transliteration": "im",
@@ -201,6 +209,7 @@
         "verse": 4
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אִם",
         "transliteration": "im",
@@ -214,8 +223,8 @@
       "context": {
         "hebrew": "הָרְשָׁעִים כִּי **אִם** כַּמֹּץ אֲשֶׁר",
         "transliteration": "haRshaim ki **im** kaMotz asher",
-        "englishLiteral": "the-wicked that **if** as-chaff which",
-        "englishNatural": "the wicked that **if** as chaff which"
+        "englishLiteral": "the-wicked, that **if** as-chaff which",
+        "englishNatural": "the wicked, that **if** as chaff which"
       }
     },
     {
@@ -225,6 +234,7 @@
         "verse": 4
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "עִמָּדִי",
         "transliteration": "imadi",
@@ -238,8 +248,8 @@
       "context": {
         "hebrew": "כִּי־ אַתָּה **עִמָּדִי** שִׁבְטְךָ וּמִשְׁעַנְתֶּךָ",
         "transliteration": "ki- atah **imadi** shivtekha uMishantekha",
-        "englishLiteral": "that- you **with-me** your-rod and-your-staff",
-        "englishNatural": "that you **are with me** your rod and your staff"
+        "englishLiteral": "that- you **with-me;** your-rod and-your-staff,",
+        "englishNatural": "that you **are with me;** your rod and your staff,"
       }
     },
     {
@@ -249,6 +259,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "אִם־",
         "transliteration": "im-",
@@ -263,7 +274,7 @@
         "hebrew": "**אִם־** לֹא שִׁוִּיתִי",
         "transliteration": "**im-** lo shiviti",
         "englishLiteral": "**if-** not I-have-balanced",
-        "englishNatural": "**If** not I have balanced"
+        "englishNatural": "**If** not, I have balanced"
       }
     },
     {
@@ -273,6 +284,7 @@
         "verse": 2
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "עִם",
         "transliteration": "im",
@@ -287,7 +299,7 @@
         "hebrew": "נִפְגָּשׁוּ זֶה **עִם** זֶה יְהוָה",
         "transliteration": "niFgashu zeh **im** zeh YHWH",
         "englishLiteral": "meet this **with** this He_Who_Is (YHWH)",
-        "englishNatural": "meet together **with** this He-Who-Is (YHWH)"
+        "englishNatural": "meet together; **with** this He-Who-Is (YHWH)"
       }
     }
   ]

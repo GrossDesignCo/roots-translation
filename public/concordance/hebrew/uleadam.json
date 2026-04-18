@@ -10,6 +10,7 @@
         "verse": 20
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "וּלְאָדָם",
         "transliteration": "uLeAdam",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "חַיַּת הַשָּׂדֶה **וּלְאָדָם** לֹא מָצָא",
         "transliteration": "chayyat haSadeh **uLeAdam** lo matza",
-        "englishLiteral": "living_being-of the-field **and-to-Earthling (Adam)** no was-found",
-        "englishNatural": "living-being of the field **and to Earthling (Adam)** no was found"
+        "englishLiteral": "living_being-of the-field, **and-to-Earthling (Adam)** no was-found",
+        "englishNatural": "living-being of the field, **and to Earthling (Adam),** no help"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 17
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וּלְאָדָם",
         "transliteration": "uleAdam",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "**וּלְאָדָם** אָמַר כִּי־",
         "transliteration": "**uleAdam** amar ki-",
-        "englishLiteral": "**And-to-Earthling (Adam)** he-said That",
-        "englishNatural": "**And to Earthling (Adam)** he said That"
+        "englishLiteral": "**And-to-Earthling (Adam)** he-said, \"That",
+        "englishNatural": "**And to Earthling (Adam)** he said, \"That"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 30
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "יֶ֥רֶק",
         "transliteration": "yerek",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "אֶת־ כָּל־ **יֶ֥רֶק** עֵ֖שֶׂב לְאָכְלָ֑ה",
         "transliteration": "et- kol- **yerek** esev leOchlah",
-        "englishLiteral": "↳ all **green** herb for-food",
-        "englishNatural": "↳ all **green** herb for food"
+        "englishLiteral": "↳ all **green** herb for-food.\"",
+        "englishNatural": "↳ all **green** herb for food.\""
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 3
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "כְּיֶרֶק",
         "transliteration": "keYereq",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "יִהְיֶה לְאָכְלָה **כְּיֶרֶק** עֵשֶׂב נָתַתִּי",
         "transliteration": "yihyeh leOkhlah **keYereq** esev natati",
-        "englishLiteral": "will-be for-food **like-green-of** herb I-have-given",
-        "englishNatural": "will be for food **like the green of** herb I have given"
+        "englishLiteral": "will-be for-food; **like-green-of** herb, I-have-given",
+        "englishNatural": "will be for food; **like the green of** herb, I have given"
       }
     }
   ]

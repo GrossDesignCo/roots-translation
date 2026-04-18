@@ -10,6 +10,7 @@
         "verse": 15
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "כֹּה־",
         "transliteration": "koh-",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אֶל־ מֹשֶׁה **כֹּה־** תֹאמַר אֶל־",
         "transliteration": "el- Moshe **koh-** tomar el-",
-        "englishLiteral": "to- Drawn_Out (Moses) **Thus-** you-will-say to-",
-        "englishNatural": "to Drawn-Out (Moses) **Thus** you will say to"
+        "englishLiteral": "to- Drawn_Out (Moses), **\"Thus-** you-will-say to-",
+        "englishNatural": "to Drawn-Out (Moses), **\"Thus** you will say to"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 1
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "כֹּה־",
         "transliteration": "koh-",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "אֶל־ פַּרְעֹה **כֹּה־** אָמַר יְהוָה",
         "transliteration": "el- Paroh **koh-** amar YHWH",
-        "englishLiteral": "to- Pharaoh **thus-** said He_Who_Is (YHWH)",
-        "englishNatural": "to Pharaoh **Thus** has said He-Who-Is (YHWH)"
+        "englishLiteral": "to- Pharaoh, **\"thus-** said He_Who_Is (YHWH),",
+        "englishNatural": "to Pharaoh, **\"Thus** has said He-Who-Is (YHWH),"
       }
     }
   ]

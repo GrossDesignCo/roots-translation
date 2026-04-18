@@ -10,6 +10,7 @@
         "verse": 22
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "בַּיַּמִּ֔ים",
         "transliteration": "baYamim",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אֶת־ הַמַּ֙יִם֙ **בַּיַּמִּ֔ים** וְהָע֖וֹף יִ֥רֶב",
         "transliteration": "et- haMayim **baYamim** veHaOf yiRev",
-        "englishLiteral": "↳ the-waters **in-seas** And-the-flyer let-multiply",
-        "englishNatural": "↳ the waters **in the seas** And let the flyer multiply"
+        "englishLiteral": "↳ the-waters **in-seas,** And-the-flyer let-multiply",
+        "englishNatural": "↳ the waters **in the seas,** And let the flyer multiply"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 4
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "בַּיָּמִים",
         "transliteration": "baYamim",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "הָיוּ בָאָרֶץ **בַּיָּמִים** הָהֵם וְגַם",
         "transliteration": "hayu baAretz **baYamim** hahem vegam",
-        "englishLiteral": "were in-land **in-days** the-those and-also",
-        "englishNatural": "were in the land **days** in those and also"
+        "englishLiteral": "were in-land **in-days** the-those; and-also",
+        "englishNatural": "in the land in those **days;** and also after"
       }
     }
   ]

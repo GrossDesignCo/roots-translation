@@ -9,6 +9,7 @@
         "verse": 12
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "שָּׁמָּה",
         "transliteration": "shamah",
@@ -23,7 +24,7 @@
         "hebrew": "אֲשֶׁר יִהְיֶה־ **שָּׁמָּה** הָרוּחַ לָלֶכֶת",
         "transliteration": "asher yihyeh- **shamah** haRuach laLekhet",
         "englishLiteral": "which it-was- **there** the-wind to-go",
-        "englishNatural": "which was **there** the wind to go"
+        "englishNatural": "to go was **there** they went; they went-around"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 20
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "שָׁמָּה",
         "transliteration": "shamah",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "לָלֶכֶת יֵלֵכוּ **שָׁמָּה** הָרוּחַ לָלֶכֶת",
         "transliteration": "laLekhet yelekhu **shamah** haRuach laLekhet",
-        "englishLiteral": "to-go they-went **there** the-wind to-go",
-        "englishNatural": "to go they went **there** the wind to go"
+        "englishLiteral": "to-go they-went **there,** the-wind to-go,",
+        "englishNatural": "there, they went **there,** the wind to go,"
       }
     }
   ]

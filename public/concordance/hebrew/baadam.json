@@ -10,6 +10,7 @@
         "verse": 3
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "בָאָדָם",
         "transliteration": "baAdam",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "יָדוֹן רוּחִי **בָאָדָם** לְעֹלָם בְּשַׁגַּם",
         "transliteration": "yadon ruchi **baAdam** leOlam beShagam",
-        "englishLiteral": "will-judge my-wind **in-Earthling (Adam)** to-the_age in-moreover",
-        "englishNatural": "will judge My Wind **in Earthling (Adam)** to the-age in moreover"
+        "englishLiteral": "will-judge my-wind **in-Earthling (Adam)** to-the_age, in-moreover",
+        "englishNatural": "will judge not **in Earthling (Adam)** to the-age, in moreover"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 6
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "בָּאָדָם",
         "transliteration": "baAdam",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "דַּם הָאָדָם **בָּאָדָם** דָּמוֹ יִשָּׁפֵךְ",
         "transliteration": "dam haAdam **baAdam** damo yishafekh",
-        "englishLiteral": "blood-of the-Earthling (Adam) **in-Earthling (Adam)** his-blood it-will-be-poured",
-        "englishNatural": "the blood of the Earthling (Adam) **in Earthling (Adam)** his blood will be poured"
+        "englishLiteral": "blood-of the-Earthling (Adam), **in-Earthling (Adam)** his-blood it-will-be-poured;",
+        "englishNatural": "the blood of the Earthling (Adam), **in Earthling (Adam)** his blood will be poured;"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 29
       },
       "wordIndex": 23,
+      "sourceOrder": 23,
       "word": {
         "originalScript": "זָ֑רַע",
         "transliteration": "zara",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "עֵ֣ץ זֹרֵ֣עַ **זָ֑רַע** לָכֶ֥ם יִֽהְיֶ֖ה",
         "transliteration": "etz zorea **zara** lakhem yihyeh",
-        "englishLiteral": "tree seeding **seed** to-you it-shall-be",
-        "englishNatural": "tree seeding **seed** to you it shall be"
+        "englishLiteral": "tree seeding **seed,** to-you it-shall-be",
+        "englishNatural": "tree seeding **seed,** to you it shall be"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 3
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "זָרַע",
         "transliteration": "zara",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "לֹא נָתַתָּה **זָרַע** וְהִנֵּה בֶן־",
         "transliteration": "lo natata **zara** veHineh ben-",
-        "englishLiteral": "not you-have-given **seed** and-behold son-of-",
-        "englishNatural": "not you have given **seed** and behold the son of"
+        "englishLiteral": "not you-have-given **seed,** and-behold son-of-",
+        "englishNatural": "you have given not **seed;** and behold the son of"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 16
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "לְמֶמְשֶׁ֣לֶת",
         "transliteration": "leMemShelet",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "הַמָּא֤וֹר הַגָּדֹ֔ל **לְמֶמְשֶׁ֣לֶת** הַיּ֔וֹם וְאֶת־",
         "transliteration": "haMaor haGadol **leMemShelet** haYom veEt-",
-        "englishLiteral": "the-light_source the-great **for-the-ruling-of** the-day And-↳",
-        "englishNatural": "the light-source the great **for the ruling of** the day And"
+        "englishLiteral": "the-light_source the-great, **for-the-ruling-of** the-day, And-↳",
+        "englishNatural": "the light-source the great, **for the ruling of** the day, And"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 16
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "לְמֶמְשֶׁ֣לֶת",
         "transliteration": "leMemShelet",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "הַמָּא֤וֹר הַקָּטֹן֙ **לְמֶמְשֶׁ֣לֶת** הַלַּ֔יְלָה וְאֵ֖ת",
         "transliteration": "haMaor haQaton **leMemShelet** haLaylah veEt",
-        "englishLiteral": "the-light_source the-small **for-the-ruling-of** the-night And-↳",
-        "englishNatural": "the light-source the small **for the ruling of** the night And"
+        "englishLiteral": "the-light_source the-small, **for-the-ruling-of** the-night, And-↳",
+        "englishNatural": "the light-source the small, **for the ruling of** the night, And"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 18
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְלִמְשֹׁל֙",
         "transliteration": "veLiMshol",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "**וְלִמְשֹׁל֙** בַּיּ֣וֹם וּבַלַּ֔יְלָה",
         "transliteration": "**veLiMshol** baYom uBaLaylah",
-        "englishLiteral": "**And-to-rule** in-day and-in-night",
-        "englishNatural": "**And to rule** in the day and in the night"
+        "englishLiteral": "**And-to-rule** in-day, and-in-night,",
+        "englishNatural": "**And to rule** in the day, and in the night,"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 16
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "יִמְשָׁל",
         "transliteration": "yimshal",
@@ -96,8 +100,8 @@
       "context": {
         "hebrew": "תְּשׁוּקָתֵךְ וְהוּא **יִמְשָׁל** בָּךְ",
         "transliteration": "teshuqatek veHu **yimshal** bakh",
-        "englishLiteral": "fixation-your and-he **he-will_rule** in-you",
-        "englishNatural": "your fixation and he **will rule** in you"
+        "englishLiteral": "fixation-your, and-he **he-will_rule** in-you.\"",
+        "englishNatural": "your fixation, and he **will rule** in you.\""
       }
     },
     {
@@ -107,6 +111,7 @@
         "verse": 7
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "תִּמְשָׁל־",
         "transliteration": "timshal-",
@@ -122,8 +127,8 @@
       "context": {
         "hebrew": "תְּשׁוּקָתוֹ וְאַתָּה **תִּמְשָׁל־** בּוֹ",
         "transliteration": "teshukato veAtah **timshal-** bo",
-        "englishLiteral": "its-fixation and-you **you-will-rule-** over-it",
-        "englishNatural": "is its fixation and you **will rule** over it"
+        "englishLiteral": "its-fixation, and-you **you-will-rule-** over-it.\"",
+        "englishNatural": "is its fixation, and you **will rule** over it.\""
       }
     },
     {
@@ -133,6 +138,7 @@
         "verse": 6
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "תַּ֭מְשִׁילֵהוּ",
         "transliteration": "taMshilehu",
@@ -148,8 +154,8 @@
       "context": {
         "hebrew": "**תַּ֭מְשִׁילֵהוּ** בְּמַעֲשֵׂ֣י יָדֶ֑יךָ",
         "transliteration": "**taMshilehu** beMaasei yadekha",
-        "englishLiteral": "**you-will-cause-him-to-rule** in-works-of your-hands",
-        "englishNatural": "**You will cause him to rule** in the works of your hands"
+        "englishLiteral": "**you-will-cause-him-to-rule** in-works-of your-hands;",
+        "englishNatural": "**You will cause him to rule** in the works of your hands;"
       }
     },
     {
@@ -159,6 +165,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "מִשְׁלֵי",
         "transliteration": "mishle",
@@ -172,8 +179,8 @@
       "context": {
         "hebrew": "**מִשְׁלֵי** שְׁלֹמֹה בֶן־",
         "transliteration": "**mishle** shlomo ben-",
-        "englishLiteral": "**Rules-of** His_Peace (Solomon) son-of-",
-        "englishNatural": "**Rules of** His-Peace (Solomon) son of"
+        "englishLiteral": "**Rules-of** His_Peace (Solomon), son-of-",
+        "englishNatural": "**Rules of** His-Peace (Solomon), son of"
       }
     },
     {
@@ -183,6 +190,7 @@
         "verse": 6
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "מָשָׁל",
         "transliteration": "mashal",
@@ -196,8 +204,8 @@
       "context": {
         "hebrew": "לְהָבִין **מָשָׁל** וּמְלִיצָה דִּבְרֵי",
         "transliteration": "lehavin **mashal** uMelitzah divre",
-        "englishLiteral": "To-understand **rule** and-interpretation words-of",
-        "englishNatural": "To understand **a rule** and the interpretation words of"
+        "englishLiteral": "To-understand **rule** and-interpretation; words-of",
+        "englishNatural": "To understand **a rule** and the interpretation; words of"
       }
     }
   ]

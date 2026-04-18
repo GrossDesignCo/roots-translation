@@ -10,6 +10,7 @@
         "verse": 30
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "מֵֽת׃",
         "transliteration": "met",
@@ -21,10 +22,10 @@
         }
       },
       "context": {
-        "hebrew": "אֵֽין־ שָׁ֖ם **מֵֽת׃**",
+        "hebrew": "אֵֽין־ שָׁ֖ם **מֵֽת׃׃**",
         "transliteration": "eyn- sham **met**",
-        "englishLiteral": "there-is-not- there **dead**",
-        "englishNatural": "there was not there **a dead one**"
+        "englishLiteral": "there-is-not- there **dead.**",
+        "englishNatural": "there was not there **a dead one.**"
       }
     }
   ]

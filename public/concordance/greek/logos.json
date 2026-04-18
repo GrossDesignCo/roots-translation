@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "λόγος",
         "transliteration": "logos",
@@ -21,10 +22,10 @@
         }
       },
       "context": {
-        "hebrew": "ἦν ὁ **λόγος** καὶ ὁ",
-        "transliteration": "ēn ho **logos** kai ho",
-        "englishLiteral": "was The **Word** and The",
-        "englishNatural": "was The **Word** and The"
+        "hebrew": "ἦν ὁ **λόγος,** καὶ ὁ",
+        "transliteration": "ēn ho **logos,** kai ho",
+        "englishLiteral": "was The **Word,** and The",
+        "englishNatural": "was The **Word,** and The"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 1
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "λόγος",
         "transliteration": "logos",
@@ -58,6 +60,7 @@
         "verse": 1
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "λόγος",
         "transliteration": "logos",
@@ -69,10 +72,10 @@
         }
       },
       "context": {
-        "hebrew": "ἦν ὁ **λόγος**",
-        "transliteration": "ēn ho **logos**",
-        "englishLiteral": "was The **Word**",
-        "englishNatural": "was The **Word**"
+        "hebrew": "ἦν ὁ **λόγος.**",
+        "transliteration": "ēn ho **logos.**",
+        "englishLiteral": "was The **Word.**",
+        "englishNatural": "and The **Word** was God."
       }
     }
   ]

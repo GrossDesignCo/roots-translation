@@ -10,6 +10,7 @@
         "verse": 22
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "צִוָּה",
         "transliteration": "tzivvah",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "כְּכֹל אֲשֶׁר **צִוָּה** אֹתוֹ אֱלֹהִים",
         "transliteration": "keKhol asher **tzivvah** oto Elohim",
-        "englishLiteral": "like-all which **he-commanded** him Gods",
-        "englishNatural": "like all which **commanded** him God"
+        "englishLiteral": "like-all which **he-commanded** him Gods,",
+        "englishNatural": "which God **commanded** him, so"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 9
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "צִוָּה",
         "transliteration": "tzivvah",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "וּנְקֵבָה כַּאֲשֶׁר **צִוָּה** אֱלֹהִים אֶת־",
         "transliteration": "uNeqevah kaAsher **tzivvah** Elohim et-",
-        "englishLiteral": "and-female as-which **he-commanded** Gods ↳",
-        "englishNatural": "and female as which **commanded** God ↳"
+        "englishLiteral": "and-female, as-which **he-commanded** Gods ↳",
+        "englishNatural": "as which God **commanded** ↳ Rest (Noah)."
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 8
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיֹּאמַר",
         "transliteration": "vaYomar",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "**וַיֹּאמַר** אֲדֹנָי יְהוִה",
         "transliteration": "**vaYomar** adonai YHWH",
-        "englishLiteral": "**And-he-said** Lord He_Who_Is (YHWH)",
-        "englishNatural": "**And he said** Lord He-Who-Is (YHWH)"
+        "englishLiteral": "**And-he-said** \"Lord He_Who_Is (YHWH),",
+        "englishNatural": "**And he said,** \"Lord, He-Who-Is (YHWH),"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 4
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וַיֹּאמַר",
         "transliteration": "vaYomar",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "אֶחָד וַיִּקְרָא **וַיֹּאמַר** עוֹד אַרְבָּעִים",
         "transliteration": "echad vaYiqra **vaYomar** od arbaim",
-        "englishLiteral": "one and-called_out **and-said** yet forty",
-        "englishNatural": "one and he called-out **and said** Yet forty"
+        "englishLiteral": "one, and-called_out **and-said,** \"yet forty",
+        "englishNatural": "day, and he called-out **and said,** \"Yet forty"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 3
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "מִקֵּץ",
         "transliteration": "miQetz",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "וַיְהִי **מִקֵּץ** יָמִים וַיָּבֵא",
         "transliteration": "vayHi **miQetz** yamim vayYave",
-        "englishLiteral": "And-it-was **from-end-of** days And-he-brought",
-        "englishNatural": "And it was **from the end of** days brought"
+        "englishLiteral": "And-it-was **from-end-of** days; And-he-brought",
+        "englishNatural": "And it was **from the end of** days; And Acquired (Cain)"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 13
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "קֵץ",
         "transliteration": "qetz",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "אֱלֹהִים לְנֹחַ **קֵץ** כָּל־ בָּשָׂר",
         "transliteration": "Elohim leNoach **qetz** kol- basar",
-        "englishLiteral": "Gods to-Rest (Noah) **end-of** all- flesh",
-        "englishNatural": "And God to Rest (Noah) **The end of** all flesh"
+        "englishLiteral": "Gods to-Rest (Noah), **\"end-of** all- flesh",
+        "englishNatural": "said to Rest (Noah), **\"The end of** all flesh"
       }
     }
   ]

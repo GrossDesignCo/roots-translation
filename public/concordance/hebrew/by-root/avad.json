@@ -9,6 +9,7 @@
         "verse": 5
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "לַעֲבֹד",
         "transliteration": "laAvod",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "וְאָדָם אַיִן **לַעֲבֹד** אֶת הָאֲדָמָה׃",
         "transliteration": "veAdam ayin **laAvod** et haAdamah",
-        "englishLiteral": "and-Earthling (Adam) not_exist **to-serve** ↳ the-earth",
-        "englishNatural": "and Earthling (Adam) was not there **to serve** ↳ the earth"
+        "englishLiteral": "and-Earthling (Adam) not_exist **to-serve** ↳ the-earth.",
+        "englishNatural": "and Earthling (Adam) was not there, **to serve** ↳ the earth."
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 15
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "לְעָבְדָהּ",
         "transliteration": "leAvdah",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "בְגַן־ עֵדֶן **לְעָבְדָהּ** וּלְשָׁמְרָהּ׃",
         "transliteration": "beGan- Eden **leAvdah** uLeShamrah",
-        "englishLiteral": "in-Garden- Delight (Eden) **to-serve-her** and-to-keep-her",
-        "englishNatural": "in Garden Delight (Eden) **to serve her** and to keep her"
+        "englishLiteral": "in-Garden- Delight (Eden), **to-serve-her** and-to-keep-her.",
+        "englishNatural": "in Garden Delight (Eden), **to serve her** and to keep her."
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 23
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "לַעֲבֹד",
         "transliteration": "laAvod",
@@ -74,8 +77,8 @@
       "context": {
         "hebrew": "מִגַּן־ עֵדֶן **לַעֲבֹד** אֶת־ הָאֲדָמָה",
         "transliteration": "miGan- Eden **laAvod** et- haAdamah",
-        "englishLiteral": "from-Garden Delight (Eden) **to-serve** ↳ the-earth",
-        "englishNatural": "from Garden of Delight (Eden) **to serve** ↳ the earth"
+        "englishLiteral": "from-Garden Delight (Eden); **to-serve** ↳ the-earth",
+        "englishNatural": "from Garden of Delight (Eden); **to serve** ↳ the earth"
       }
     },
     {
@@ -85,6 +88,7 @@
         "verse": 2
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "עֹבֵד",
         "transliteration": "oved",
@@ -100,8 +104,8 @@
       "context": {
         "hebrew": "וְקַיִן הָיָה **עֹבֵד** אֲדָמָה",
         "transliteration": "veQayin hayah **oved** adamah",
-        "englishLiteral": "and-Acquired (Cain) was **servant** earth",
-        "englishNatural": "and Acquired (Cain) was **a servant** of earth"
+        "englishLiteral": "and-Acquired (Cain) was **servant** earth.",
+        "englishNatural": "and Acquired (Cain) was **a servant** of earth."
       }
     },
     {
@@ -111,6 +115,7 @@
         "verse": 12
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "תַעֲבֹד",
         "transliteration": "taavod",
@@ -126,8 +131,8 @@
       "context": {
         "hebrew": "כִּי **תַעֲבֹד** אֶת־ הָאֲדָמָה",
         "transliteration": "ki **taavod** et- haAdamah",
-        "englishLiteral": "When **you-serve** ↳ the-earth",
-        "englishNatural": "When **you serve** ↳ the earth"
+        "englishLiteral": "When **you-serve** ↳ the-earth,",
+        "englishNatural": "When **you serve** ↳ the earth,"
       }
     },
     {
@@ -137,6 +142,7 @@
         "verse": 24
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "עִבְדוּ",
         "transliteration": "ivdu",
@@ -152,8 +158,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר לְכוּ **עִבְדוּ** אֶת־ יְהוָה",
         "transliteration": "vaYomer lekhu **ivdu** et- YHWH",
-        "englishLiteral": "and-said go **serve** ↳ He_Who_Is (YHWH)",
-        "englishNatural": "and said Go **serve** ↳ He-Who-Is (YHWH)"
+        "englishLiteral": "and-said go **serve** ↳ He_Who_Is (YHWH);",
+        "englishNatural": "and said, \"Go **serve** ↳ He-Who-Is (YHWH);"
       }
     },
     {
@@ -163,6 +169,7 @@
         "verse": 26
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "לַעֲבֹד",
         "transliteration": "laAvod",
@@ -189,6 +196,7 @@
         "verse": 26
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "נַּעֲבֹד",
         "transliteration": "naavod",
@@ -215,6 +223,7 @@
         "verse": 10
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "אָבָד",
         "transliteration": "avad",
@@ -230,8 +239,8 @@
       "context": {
         "hebrew": "וּבִן־ לַיְלָה **אָבָד**",
         "transliteration": "uvin- laylah **avad**",
-        "englishLiteral": "and-son-of- night **perished**",
-        "englishNatural": "and son of a night **it perished**"
+        "englishLiteral": "and-son-of- night **perished.**",
+        "englishNatural": "and son of a night **it perished.**"
       }
     }
   ]

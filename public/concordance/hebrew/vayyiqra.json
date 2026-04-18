@@ -10,6 +10,7 @@
         "verse": 20
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vayYiqra",
@@ -26,7 +27,7 @@
         "hebrew": "**וַיִּקְרָא** הָאָדָם שֵׁם",
         "transliteration": "**vayYiqra** haAdam shem",
         "englishLiteral": "**And-he-called_out** the-Earthling (Adam) name",
-        "englishNatural": "**called-out** And the Earthling (Adam) name"
+        "englishNatural": "And the Earthling (Adam) **called-out** his woman's name"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 17
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vayYiqra",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "בֹּנֶה עִיר **וַיִּקְרָא** שֵׁם הָעִיר",
         "transliteration": "boneh ir **vayYiqra** shem haIr",
-        "englishLiteral": "building city **and-he-called_out** name the-city",
-        "englishNatural": "building a city **and he called-out** the name of the city"
+        "englishLiteral": "building city, **and-he-called_out** name the-city",
+        "englishNatural": "building a city, **and he called-out** the name of the city"
       }
     }
   ]

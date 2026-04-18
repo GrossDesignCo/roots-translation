@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "אָנֹכִי",
         "transliteration": "anoki",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "תִּירָא אַבְרָם **אָנֹכִי** מָגֵן לָךְ",
         "transliteration": "tira Abram **anoki** magen lakh",
-        "englishLiteral": "you-will-fear Exalted_Father (Abram) **I** shield to-you",
-        "englishNatural": "You will fear Exalted-Father (Abram) **I** a shield to you"
+        "englishLiteral": "you-will-fear Exalted_Father (Abram), **I** shield to-you,",
+        "englishNatural": "not Exalted-Father (Abram), **I,** a shield to you;"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 14
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אָנֹכִי",
         "transliteration": "anoki",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "יַעֲבֹדוּ דָּן **אָנֹכִי** וְאַחֲרֵי־ כֵן",
         "transliteration": "yaavodu dan **anoki** veAcharey- khen",
-        "englishLiteral": "they-will-serve judging **I** and-after- so",
-        "englishNatural": "they will serve judge **I will** and after so"
+        "englishLiteral": "they-will-serve, judging **I,** and-after- so",
+        "englishNatural": "which they will serve, **I will** judge; and after"
       }
     }
   ]

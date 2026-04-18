@@ -10,6 +10,7 @@
         "verse": 23
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "מֵאִישׁ",
         "transliteration": "meIsh",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אִשָּׁה כִּי **מֵאִישׁ** לֻקֳּחָה זֹאת׃",
         "transliteration": "ishah ki **meIsh** luqqachah zot",
-        "englishLiteral": "Woman that **from-Man** was-taken this",
-        "englishNatural": "Woman that **from Man** was taken this"
+        "englishLiteral": "'Woman,' that **from-Man** was-taken this.\"",
+        "englishNatural": "'Woman,' that **from Man** this was taken.\""
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 7
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "לְמֵאִ֖ישׁ",
         "transliteration": "meIsh",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "כֶּ֙לֶב֙ לְשֹׁנ֔וֹ **לְמֵאִ֖ישׁ** וְעַד־ בְּהֵמָ֑ה",
         "transliteration": "kelev leshono **meIsh** veAd- behemah",
-        "englishLiteral": "dog tongue-his **from-man** and-until- beast",
-        "englishNatural": "a dog his tongue **from man** and until beast"
+        "englishLiteral": "dog tongue-his, **from-man** and-until- beast;",
+        "englishNatural": "not his tongue, **from man** and until beast,"
       }
     }
   ]

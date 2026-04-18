@@ -10,6 +10,7 @@
         "verse": 16
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וּמַעֲשֵׂיהֶם",
         "transliteration": "uMaaseihem",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "מַרְאֵה הָאוֹפַנִּים **וּמַעֲשֵׂיהֶם** כְּעֵין תַּרְשִׁישׁ",
         "transliteration": "marah haOphanim **uMaaseihem** keEin tarshish",
-        "englishLiteral": "appearance-of the-wheels **and-work-their** like-eye-of golden_stone",
-        "englishNatural": "The appearance of the wheels **and their work** like an eye of golden-stone"
+        "englishLiteral": "appearance-of the-wheels **and-work-their,** like-eye-of golden_stone,",
+        "englishNatural": "The appearance of the wheels **and their work,** like an eye of golden-stone,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 16
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וּמַעֲשֵׂיהֶם",
         "transliteration": "uMaaseihem",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "לְאַרְבַּעְתָּן וּמַרְאֵיהֶם **וּמַעֲשֵׂיהֶם** כַּאֲשֶׁר יִהְיֶה",
         "transliteration": "leArbatan uMareihem **uMaaseihem** kaAsher yihyeh",
-        "englishLiteral": "to-four-of-them and-appearance-their **and-work-their** like-which it-was",
-        "englishNatural": "to four of them and their appearance **and their work** like which was"
+        "englishLiteral": "to-four-of-them, and-appearance-their **and-work-their** like-which it-was",
+        "englishNatural": "to four of them, and their appearance **and their work** like which the wheel"
       }
     }
   ]

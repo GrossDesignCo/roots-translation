@@ -9,6 +9,7 @@
         "verse": 10
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "אֶ֤לֶף",
         "transliteration": "eleph",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "מִן־ קֳדָמ֔וֹהִי **אֶ֤לֶף** אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ",
         "transliteration": "min- qodamohi **eleph** alphin yeShammeshunneh",
-        "englishLiteral": "from- before-him **thousand** thousands ministered-to-him",
-        "englishNatural": "from before him **a thousand** thousands ministered to him"
+        "englishLiteral": "from- before-him; **thousand** thousands ministered-to-him,",
+        "englishNatural": "from before him; **a thousand** thousands ministered to him;"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 10
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "אַלְפִין֙",
         "transliteration": "alphin",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "קֳדָמ֔וֹהִי אֶ֤לֶף **אַלְפִין֙** יְשַׁמְּשׁוּנֵּ֔הּ וְרִבּ֥וֹ",
         "transliteration": "qodamohi eleph **alphin** yeShammeshunneh veRibbo",
-        "englishLiteral": "before-him thousand **thousands** ministered-to-him and-ten_thousand",
-        "englishNatural": "before him a thousand **thousands** ministered to him and ten-thousand"
+        "englishLiteral": "before-him; thousand **thousands** ministered-to-him, and-ten_thousand",
+        "englishNatural": "before him; a thousand **thousands** ministered to him; and ten-thousand"
       }
     }
   ]

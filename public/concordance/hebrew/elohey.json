@@ -10,6 +10,7 @@
         "verse": 15
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "Elohey",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "יִשְׂרָאֵל יְהוָה **אֱלֹהֵי** אֲבֹתֵיכֶם אֱלֹהֵי",
         "transliteration": "Yisrael YHWH **Elohey** avoteikem Elohey",
-        "englishLiteral": "Struggles_with_God (Israel) He_Who_Is (YHWH) **Gods-of** your-fathers Gods-of",
-        "englishNatural": "Struggles-with-God (Israel) He-Who-Is (YHWH) **God of** your fathers the God of"
+        "englishLiteral": "Struggles_with_God (Israel), 'He_Who_Is (YHWH), **Gods-of** your-fathers, Gods-of",
+        "englishNatural": "Struggles-with-God (Israel), 'He-Who-Is (YHWH), **God of** your fathers, the God of"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 15
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "Elohey",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי אֲבֹתֵיכֶם **אֱלֹהֵי** אַבְרָהָם אֱלֹהֵי",
         "transliteration": "Elohey avoteikem **Elohey** Avraham Elohey",
-        "englishLiteral": "Gods-of your-fathers **Gods-of** Father_of_Multitudes (Abraham) Gods-of",
-        "englishNatural": "God of your fathers **the God of** Father-of-Multitudes (Abraham) the God of"
+        "englishLiteral": "Gods-of your-fathers, **Gods-of** Father_of_Multitudes (Abraham), Gods-of",
+        "englishNatural": "God of your fathers, **the God of** Father-of-Multitudes (Abraham), the God of"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 15
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "Elohey",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי אַבְרָהָם **אֱלֹהֵי** יִצְחָק וֵאלֹהֵי",
         "transliteration": "Elohey Avraham **Elohey** Yitzchaq veElohey",
-        "englishLiteral": "Gods-of Father_of_Multitudes (Abraham) **Gods-of** He_Laughs (Isaac) and-Gods-of",
-        "englishNatural": "the God of Father-of-Multitudes (Abraham) **the God of** He-Laughs (Isaac) and the God of"
+        "englishLiteral": "Gods-of Father_of_Multitudes (Abraham), **Gods-of** He_Laughs (Isaac), and-Gods-of",
+        "englishNatural": "the God of Father-of-Multitudes (Abraham), **the God of** He-Laughs (Isaac), and the God of"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 3
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "רֵעֵהוּ",
         "transliteration": "reeyhu",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "אִישׁ אֶל־ **רֵעֵהוּ** הָבָה נִלְבְּנָה",
         "transliteration": "ish el- **reeyhu** havah nilvnah",
-        "englishLiteral": "man to- **his-friend** come let-us-make-bricks",
-        "englishNatural": "man to **his friend** \"Come let us make-bricks"
+        "englishLiteral": "man to- **his-friend,** come let-us-make-bricks",
+        "englishNatural": "man to **his friend,** \"Come let us make-bricks"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 7
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "רֵעֵהוּ",
         "transliteration": "reehu",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "אִישׁ שְׂפַת **רֵעֵהוּ**",
         "transliteration": "ish sefat **reehu**",
-        "englishLiteral": "man lip-of **friend-his**",
-        "englishNatural": "man the lip of **his friend**"
+        "englishLiteral": "man lip-of **friend-his.\"**",
+        "englishNatural": "not the lip of **his friend.\"**"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 10
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "רֵעֵהוּ",
         "transliteration": "reehu",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "בִּתְרוֹ לִקְרַאת **רֵעֵהוּ** וְאֶת־ הַצִּפֹּר",
         "transliteration": "bitro liqrat **reehu** veEt- haTzippor",
-        "englishLiteral": "piece-of-him to-meet **friend-his** and-↳ the-bird",
-        "englishNatural": "piece of him to meet **his friend** and the birds"
+        "englishLiteral": "piece-of-him to-meet **friend-his,** and-↳ the-bird",
+        "englishNatural": "piece of him to meet **his friend;** and the birds"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 2
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "רֵעֵ֗הוּ",
         "transliteration": "reehu",
@@ -94,7 +98,7 @@
       "context": {
         "hebrew": "אִ֣ישׁ מֵאֵ֣ת **רֵעֵ֗הוּ** וְאִשָּׁה֙ מֵאֵ֣ת",
         "transliteration": "ish meEt **reehu** veIshah meEt",
-        "englishLiteral": "man from-↳ **friend-his** and-woman from-↳",
+        "englishLiteral": "man from-↳ **friend-his,** and-woman from-↳",
         "englishNatural": "a man from **his friend** and a woman from"
       }
     },
@@ -105,6 +109,7 @@
         "verse": 2
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "רְעוּתָ֔הּ",
         "transliteration": "reutah",
@@ -118,7 +123,7 @@
       "context": {
         "hebrew": "וְאִשָּׁה֙ מֵאֵ֣ת **רְעוּתָ֔הּ** כְּלֵי־ כֶ֖סֶף",
         "transliteration": "veIshah meEt **reutah** keley- kesef",
-        "englishLiteral": "and-woman from-↳ **friend-her** vessels-of silver",
+        "englishLiteral": "and-woman from-↳ **friend-her,** vessels-of silver,",
         "englishNatural": "and a woman from **her friend** vessels of silver"
       }
     },
@@ -129,6 +134,7 @@
         "verse": 7
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "רֵעֵהוּ",
         "transliteration": "reehu",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "אִישׁ אֶל־ **רֵעֵהוּ** לְכוּ וְנַפִּילָה",
         "transliteration": "ish el- **reehu** lekhu veNapilah",
-        "englishLiteral": "man to- **friend-his** Go and-let-us-cause-to-fall",
-        "englishNatural": "And man to **his friend** Go and let us cause-to-fall"
+        "englishLiteral": "man to- **friend-his,** \"Go, and-let-us-cause-to-fall",
+        "englishNatural": "said to **his friend,** \"Go, and let us cause-to-fall"
       }
     }
   ]

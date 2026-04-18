@@ -9,6 +9,7 @@
         "verse": 2
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֲדֹנָי",
         "transliteration": "adonai",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר אַבְרָם **אֲדֹנָי** יְהוִה מַה־",
         "transliteration": "vaYomer Abram **adonai** YHWH mah-",
-        "englishLiteral": "And-he-said Exalted_Father (Abram) **Lord** He_Who_Is (YHWH) what-",
-        "englishNatural": "said And Exalted-Father (Abram) **Lord** He-Who-Is (YHWH) what"
+        "englishLiteral": "And-he-said Exalted_Father (Abram), **\"Lord** He_Who_Is (YHWH), what-",
+        "englishNatural": "And Exalted-Father (Abram) said, **\"Lord,** He-Who-Is (YHWH), what"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 8
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֲדֹנָי",
         "transliteration": "adonai",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וַיֹּאמַר **אֲדֹנָי** יְהוִה בַּמָּה",
         "transliteration": "vaYomar **adonai** YHWH bamah",
-        "englishLiteral": "And-he-said **Lord** He_Who_Is (YHWH) by-what",
-        "englishNatural": "And he said **Lord** He-Who-Is (YHWH) by what"
+        "englishLiteral": "And-he-said **\"Lord** He_Who_Is (YHWH), by-what",
+        "englishNatural": "And he said, **\"Lord,** He-Who-Is (YHWH), by what"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 2
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֲדֹנָי",
         "transliteration": "Adonai",
@@ -71,7 +74,7 @@
         "hebrew": "וַיִּתֵּן **אֲדֹנָי** בְּיָדוֹ אֶת־",
         "transliteration": "vaYitten **Adonai** beYado et-",
         "englishLiteral": "and-he-gave **Lord** in-hand-his ↳",
-        "englishNatural": "gave **And the Lord** into his hand ↳"
+        "englishNatural": "**And the Lord** gave into his hand,"
       }
     }
   ]

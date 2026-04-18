@@ -10,6 +10,7 @@
         "verse": 17
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "τρίτον",
         "transliteration": "triton",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "αὐτῷ τὸ **τρίτον** Σίμων Ἰωάννου",
         "transliteration": "autō to **triton** Simōn Iōannou",
-        "englishLiteral": "to-him the **third** Hearer (Simon) He—is-Gracious (John)",
-        "englishNatural": "to him the **third time** Hearer (Simon) He—is-Gracious (John)"
+        "englishLiteral": "to-him the **third,** \"Hearer (Simon) He—is-Gracious (John),",
+        "englishNatural": "to him the **third time,** \"Hearer (Simon) He—is-Gracious (John),"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 17
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "τρίτον",
         "transliteration": "triton",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "αὐτῷ τὸ **τρίτον** φιλεῖς με",
         "transliteration": "autō to **triton** phileis me",
-        "englishLiteral": "to-him the **third** Do-you-brother_love me",
-        "englishNatural": "to him the **third time** Do you brother-love me"
+        "englishLiteral": "to-him the **third,** \"Do-you-brother_love me?\"",
+        "englishNatural": "to him the **third time,** \"Do you brother-love me?\""
       }
     }
   ]

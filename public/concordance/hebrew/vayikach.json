@@ -10,6 +10,7 @@
         "verse": 15
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּקַּח",
         "transliteration": "vaYikach",
@@ -26,7 +27,7 @@
         "hebrew": "**וַיִּקַּח** יְהוָה אֱלֹהִים",
         "transliteration": "**vaYikach** YHWH Elohim",
         "englishLiteral": "**And-took** He_Who_Is (YHWH) Gods",
-        "englishNatural": "**took** And He-Who-Is (YHWH) God"
+        "englishNatural": "And He-Who-Is (YHWH) God **took** ↳ the Earthling (Adam),"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 21
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "וַיִּקַּח",
         "transliteration": "vaYikach",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "הָאָדָם וַיִּישָׁן **וַיִּקַּח** אַחַת מִצַּלְעֹתָיו",
         "transliteration": "haAdam vaYishan **vaYikach** achat miTzalotav",
-        "englishLiteral": "the-Earthling (Adam) and-he-slept **and-he-took** one from-his-sides",
-        "englishNatural": "the Earthling (Adam) and he slept **and he took** one from his sides"
+        "englishLiteral": "the-Earthling (Adam), and-he-slept; **and-he-took** one from-his-sides,",
+        "englishNatural": "the Earthling (Adam), and he slept; **and he took** one from his sides,"
       }
     }
   ]

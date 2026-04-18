@@ -10,6 +10,7 @@
         "verse": 13
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "אֲלֵיכֶם",
         "transliteration": "aleikhem",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אֲבוֹתֵיכֶם שְׁלָחַנִי **אֲלֵיכֶם** וְאָמְרוּ־ לִי",
         "transliteration": "avoteikhem shelachani **aleikhem** veAmru- li",
-        "englishLiteral": "fathers-your sent-me **to-you** and-say- to-me",
-        "englishNatural": "your fathers has sent me **to you** and they have said to me"
+        "englishLiteral": "fathers-your sent-me **to-you,'** and-say- to-me",
+        "englishNatural": "your fathers has sent me **to you,'** and they have said to me,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 14
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "אֲלֵיכֶם",
         "transliteration": "aleikhem",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "אֶהְיֶה שְׁלָחַנִי **אֲלֵיכֶם**",
         "transliteration": "ehyeh shlachani **aleikhem**",
-        "englishLiteral": "I_Am sent-me **to-you**",
-        "englishNatural": "I-Am has sent me **to you**"
+        "englishLiteral": "'I_Am sent-me **to-you.'\"**",
+        "englishNatural": "'I-Am has sent me **to you.'\"**"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 15
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "אֲלֵיכֶם",
         "transliteration": "aleikhem",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "יַעֲקֹב שְׁלָחַנִי **אֲלֵיכֶם** זֶה־ שְּׁמִי",
         "transliteration": "Yaaqov shlachani **aleikhem** zeh- shmi",
-        "englishLiteral": "Heel_Grasper (Jacob) sent-me **to-you** this- my-name",
-        "englishNatural": "Heel-Grasper (Jacob) has sent me **to you** this is my name"
+        "englishLiteral": "Heel_Grasper (Jacob), sent-me **to-you;'** this- my-name",
+        "englishNatural": "Heel-Grasper (Jacob), has sent me **to you;'** this is my name"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 11
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "חָמָס",
         "transliteration": "chamas",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וַתִּמָּלֵא הָאָרֶץ **חָמָס**",
         "transliteration": "vatTimale haAretz **chamas**",
-        "englishLiteral": "and-it-filled the-land **violence**",
-        "englishNatural": "filled-with and the land **violence**"
+        "englishLiteral": "and-it-filled the-land **violence.**",
+        "englishNatural": "and the land filled-with **violence.**"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 13
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "חָמָס",
         "transliteration": "chamas",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "מָלְאָה הָאָרֶץ **חָמָס** מִפְּנֵיהֶם וְהִנְנִי",
         "transliteration": "maleah haAretz **chamas** mipPneihem veHineni",
-        "englishLiteral": "is-full the-land **violence** from-faces-their and-behold-me",
-        "englishNatural": "is full of the land **violence** from their faces and behold me"
+        "englishLiteral": "is-full the-land **violence** from-faces-their; and-behold-me",
+        "englishNatural": "the land is full of **violence** from their faces; and behold me"
       }
     }
   ]

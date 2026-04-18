@@ -9,6 +9,7 @@
         "verse": 7
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "חַטָּאת",
         "transliteration": "chatat",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "תֵיטִיב לַפֶּתַח **חַטָּאת** רֹבֵץ וְאֵלֶיךָ",
         "transliteration": "teytiv laPetach **chatat** rovetz veElekha",
-        "englishLiteral": "you-do_well to-opening **sin** crouching and-to-you",
-        "englishNatural": "you do-well to the opening **sin** is crouching and to you"
+        "englishLiteral": "you-do_well, to-opening **sin** crouching, and-to-you",
+        "englishNatural": "not, to the opening **sin** is crouching, and to you"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 7
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "חָטָאנוּ",
         "transliteration": "chatanu",
@@ -48,8 +50,8 @@
       "context": {
         "hebrew": "מֹשֶׁה וַיֹּאמְרוּ **חָטָאנוּ** כִּי דִבַּרְנוּ",
         "transliteration": "Moshe vaYomru **chatanu** ki dibarnu",
-        "englishLiteral": "Drawn_Out (Moses) and-they-said **we-have-sinned** that we-have-spoken",
-        "englishNatural": "Drawn-Out (Moses) and said **We have sinned** that we have spoken"
+        "englishLiteral": "Drawn_Out (Moses) and-they-said, **\"we-have-sinned,** that we-have-spoken",
+        "englishNatural": "Drawn-Out (Moses) and said, **\"We have sinned,** that we have spoken"
       }
     },
     {
@@ -59,6 +61,7 @@
         "verse": 1
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "חַטָּאִים",
         "transliteration": "chataim",
@@ -72,8 +75,8 @@
       "context": {
         "hebrew": "רְשָׁעִים וּבְדֶרֶךְ **חַטָּאִים** לֹא עָמָד",
         "transliteration": "reshaim uvDerekh **chataim** lo amad",
-        "englishLiteral": "wicked_ones and-in-way-of **sinners** not has-stood",
-        "englishNatural": "wicked-ones and in the way of **sinners** not has stood"
+        "englishLiteral": "wicked_ones, and-in-way-of **sinners** not has-stood,",
+        "englishNatural": "wicked-ones, and in the way of **sinners** has stood not,"
       }
     },
     {
@@ -83,6 +86,7 @@
         "verse": 5
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וְחַטָּאִים",
         "transliteration": "veChataim",
@@ -96,8 +100,8 @@
       "context": {
         "hebrew": "רְשָׁעִים בַּמִּשְׁפָּט **וְחַטָּאִים** בַּעֲדַת צַדִּיקִים",
         "transliteration": "reshaim baMishpat **veChataim** baAdat tzadiqim",
-        "englishLiteral": "wicked-ones in-justice **and-sinners** in-assembly-of righteous-ones",
-        "englishNatural": "the wicked in justice **and sinners** in the assembly of the righteous"
+        "englishLiteral": "wicked-ones in-justice; **and-sinners,** in-assembly-of righteous-ones.",
+        "englishNatural": "not in justice; **and sinners,** in the assembly of the righteous."
       }
     },
     {
@@ -107,6 +111,7 @@
         "verse": 7
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "וְחַטָּאתְךָ",
         "transliteration": "veChatatkha",
@@ -120,8 +125,8 @@
       "context": {
         "hebrew": "וְסָר עֲוֹנֶךָ **וְחַטָּאתְךָ** תְּכֻפָּר",
         "transliteration": "veSar avonekha **veChatatkha** teKupar",
-        "englishLiteral": "and-turned_aside your-twisting **and-your-sin** will-be-covered",
-        "englishNatural": "and turned-aside your twisting **and your sin** will be covered"
+        "englishLiteral": "and-turned_aside your-twisting, **and-your-sin** will-be-covered.\"",
+        "englishNatural": "and turned-aside your twisting, **and your sin** will be covered.\""
       }
     }
   ]

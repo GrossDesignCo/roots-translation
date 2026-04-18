@@ -9,6 +9,7 @@
         "verse": 23
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "וְיֶלֶד",
         "transliteration": "veYeled",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "הָרַגְתִּי לְפִצְעִי **וְיֶלֶד** לְחַבֻּרָתִי",
         "transliteration": "haragti leFitzi **veYeled** leChaburati",
-        "englishLiteral": "I-have-killed to-wound-my **and-newborn** to-stripe-my",
-        "englishNatural": "I have killed to my wound **and newborn** to my stripe"
+        "englishLiteral": "I-have-killed to-wound-my, **and-newborn** to-stripe-my.",
+        "englishNatural": "man to my wound, **and newborn** to my stripe."
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 3
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הַיֶּלֶד",
         "transliteration": "haYeled",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "בָּהּ אֶת־ **הַיֶּלֶד** וַתָּשֶׂם בַּסּוּף",
         "transliteration": "bah et- **haYeled** vaTasem baSuph",
-        "englishLiteral": "in-it ↳ **the-child** and-set in-the-reeds",
-        "englishNatural": "in it ↳ **the child** and set it in the reeds"
+        "englishLiteral": "in-it ↳ **the-child,** and-set in-the-reeds",
+        "englishNatural": "in it ↳ **the child,** and set it in the reeds"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 10
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הַיֶּלֶד",
         "transliteration": "haYeled",
@@ -71,7 +74,7 @@
         "hebrew": "וַיִּגְדַּל **הַיֶּלֶד** וַתְּבִאֵהוּ לְבַת־",
         "transliteration": "vaYigdal **haYeled** vatTevihu leBat-",
         "englishLiteral": "And-grew **the-child** and-brought-him to-daughter-of",
-        "englishNatural": "grew **And the child** and she brought him to the daughter of"
+        "englishNatural": "**And the child** grew, and she brought him"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 5
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "יְלָדֶ֖יהָ",
         "transliteration": "yeladeha",
@@ -92,10 +96,10 @@
         }
       },
       "context": {
-        "hebrew": "הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י **יְלָדֶ֖יהָ** וּמֵאִישָֽׁהּ׃",
+        "hebrew": "הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י **יְלָדֶ֖יהָ** וּמֵאִישָֽׁהּ׃׃",
         "transliteration": "haIshah miShney **yeladeha** uMeIshah",
-        "englishLiteral": "the-woman from-two-of **children-her** and-from-man-her",
-        "englishNatural": "and the woman from the two of **her children** and from her man"
+        "englishLiteral": "the-woman; from-two-of **children-her** and-from-man-her.",
+        "englishNatural": "was left, from the two of **her children** and from her man."
       }
     }
   ]

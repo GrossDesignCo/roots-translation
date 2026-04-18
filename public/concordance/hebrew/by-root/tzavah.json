@@ -9,6 +9,7 @@
         "verse": 16
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְצַו",
         "transliteration": "vaYetzav",
@@ -25,7 +26,7 @@
         "hebrew": "**וַיְצַו** יְהוָה אֱלֹהִים",
         "transliteration": "**vaYetzav** YHWH Elohim",
         "englishLiteral": "**And-commanded** He_Who_Is (YHWH) Gods",
-        "englishNatural": "**commanded** And He-Who-Is (YHWH) God"
+        "englishNatural": "And He-Who-Is (YHWH) God **commanded** over the Earthling (Adam),"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 11
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "צִוִּיתִיךָ",
         "transliteration": "tzivitikha",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "הָעֵץ אֲשֶׁר **צִוִּיתִיךָ** לְבִלְתִּי אֲכָל־",
         "transliteration": "haEtz asher **tzivitikha** levilti akhal-",
-        "englishLiteral": "the-tree which **I-command-you** to-not eat-",
-        "englishNatural": "the tree which **I command you** not to eat"
+        "englishLiteral": "the-tree, which **I-command-you** to-not eat-",
+        "englishNatural": "the tree, which **I command you** not to eat"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 17
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "צִוִּיתִיךָ",
         "transliteration": "tzivitikha",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "הָעֵץ אֲשֶׁר **צִוִּיתִיךָ** לֵאמֹר לֹא",
         "transliteration": "haEtz asher **tzivitikha** lemor lo",
-        "englishLiteral": "the-tree which **I-commanded-you** to-say Not",
-        "englishNatural": "the tree which **I commanded you** saying not"
+        "englishLiteral": "the-tree, which **I-commanded-you** to-say, 'Not",
+        "englishNatural": "the tree, which **I commanded you** saying, 'You will eat"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 22
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "צִוָּה",
         "transliteration": "tzivvah",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "כְּכֹל אֲשֶׁר **צִוָּה** אֹתוֹ אֱלֹהִים",
         "transliteration": "keKhol asher **tzivvah** oto Elohim",
-        "englishLiteral": "like-all which **he-commanded** him Gods",
-        "englishNatural": "like all which **commanded** him God"
+        "englishLiteral": "like-all which **he-commanded** him Gods,",
+        "englishNatural": "which God **commanded** him, so"
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 9
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "צִוָּה",
         "transliteration": "tzivvah",
@@ -128,8 +133,8 @@
       "context": {
         "hebrew": "וּנְקֵבָה כַּאֲשֶׁר **צִוָּה** אֱלֹהִים אֶת־",
         "transliteration": "uNeqevah kaAsher **tzivvah** Elohim et-",
-        "englishLiteral": "and-female as-which **he-commanded** Gods ↳",
-        "englishNatural": "and female as which **commanded** God ↳"
+        "englishLiteral": "and-female, as-which **he-commanded** Gods ↳",
+        "englishNatural": "as which God **commanded** ↳ Rest (Noah)."
       }
     },
     {
@@ -139,6 +144,7 @@
         "verse": 2
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "אֲצַוֶּךָּ",
         "transliteration": "atzavekha",
@@ -154,8 +160,8 @@
       "context": {
         "hebrew": "כָּל־ אֲשֶׁר **אֲצַוֶּךָּ** וְאַהֲרֹן אָחִיךָ",
         "transliteration": "kol- asher **atzavekha** veAharon achicha",
-        "englishLiteral": "all- which **I-command-you** and-Light_Bringer (Aaron) brother-your",
-        "englishNatural": "all which **I command you** and Light-Bringer (Aaron) your brother"
+        "englishLiteral": "all- which **I-command-you;** and-Light_Bringer (Aaron) brother-your",
+        "englishNatural": "all which **I command you;** and Light-Bringer (Aaron) your brother"
       }
     },
     {
@@ -165,6 +171,7 @@
         "verse": 10
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "צִוָּה",
         "transliteration": "tzivah",
@@ -180,8 +187,8 @@
       "context": {
         "hebrew": "כֵן כַּאֲשֶׁר **צִוָּה** יְהוָה וַיַּשְׁלֵךְ",
         "transliteration": "khen kaAsher **tzivah** YHWH vaYashlekh",
-        "englishLiteral": "so as-which **he-commanded** He_Who_Is (YHWH) and-threw",
-        "englishNatural": "so as which **had commanded** He-Who-Is (YHWH) threw"
+        "englishLiteral": "so as-which **he-commanded** He_Who_Is (YHWH); and-threw",
+        "englishNatural": "as which He-Who-Is (YHWH) **had commanded;** and Light-Bringer (Aaron) threw"
       }
     }
   ]

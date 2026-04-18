@@ -10,6 +10,7 @@
         "verse": 29
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "פְּנֵ֣י",
         "transliteration": "penei",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אֲשֶׁר֙ עַל־ **פְּנֵ֣י** כָל־ הָאָ֔רֶץ",
         "transliteration": "asher al- **penei** kol- haAretz",
-        "englishLiteral": "which over **faces-of** all the-land",
-        "englishNatural": "which over **the face of** all the land"
+        "englishLiteral": "which over **faces-of** all the-land,",
+        "englishNatural": "which over **the face of** all the land,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 27
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "פְּנֵי",
         "transliteration": "penei",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "חוּג עַל־ **פְּנֵי** תְהוֹם",
         "transliteration": "chug al **penei** tehom",
-        "englishLiteral": "circle over **faces-of** abyss",
-        "englishNatural": "a circle over **the face of** the abyss"
+        "englishLiteral": "circle over **faces-of** abyss.",
+        "englishNatural": "a circle over **the face of** the abyss."
       }
     }
   ]

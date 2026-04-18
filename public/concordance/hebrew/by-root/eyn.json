@@ -9,6 +9,7 @@
         "verse": 30
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "אֵ֣ין",
         "transliteration": "eyn",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "בְּמִצְרָ֑יִם כִּֽי־ **אֵ֣ין** בַּ֔יִת אֲשֶׁ֥ר",
         "transliteration": "beMitzrayim ki- **eyn** bayit asher",
-        "englishLiteral": "in-Double_Narrows (Egypt) that- **there-is-not** house which",
-        "englishNatural": "in Double-Narrows (Egypt) that **there was not** a house which"
+        "englishLiteral": "in-Double_Narrows (Egypt); that- **there-is-not** house which",
+        "englishNatural": "in Double-Narrows (Egypt), that **there was not** a house which"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 30
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "אֵֽין־",
         "transliteration": "eyn-",
@@ -44,10 +46,10 @@
         }
       },
       "context": {
-        "hebrew": "בַּ֔יִת אֲשֶׁ֥ר **אֵֽין־** שָׁ֖ם מֵֽת׃",
+        "hebrew": "בַּ֔יִת אֲשֶׁ֥ר **אֵֽין־** שָׁ֖ם מֵֽת׃׃",
         "transliteration": "bayit asher **eyn-** sham met",
-        "englishLiteral": "house which **there-is-not-** there dead",
-        "englishNatural": "a house which **there was not** there a dead one"
+        "englishLiteral": "house which **there-is-not-** there dead.",
+        "englishNatural": "a house which **there was not** there a dead one."
       }
     }
   ]

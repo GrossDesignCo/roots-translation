@@ -9,6 +9,7 @@
         "verse": 3
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "וַיָּנָס",
         "transliteration": "vaYanas",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "וַיְהִי לְנָחָשׁ **וַיָּנָס** מֹשֶׁה מִפָּנָיו",
         "transliteration": "vaYehi leNachash **vaYanas** Moshe miPanav",
-        "englishLiteral": "and-was to-snake **and-fled** Drawn_Out (Moses) from-face-its",
-        "englishNatural": "and it was a snake **fled** and Drawn-Out (Moses) from its face"
+        "englishLiteral": "and-was to-snake, **and-fled** Drawn_Out (Moses) from-face-its.",
+        "englishNatural": "a snake, and Drawn-Out (Moses) **fled** from its face."
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 3
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "לִבְרֹחַ",
         "transliteration": "livroach",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "וַיָּקָם יוֹנָה **לִבְרֹחַ** תַּרְשִׁישָׁה מִלִּפְנֵי",
         "transliteration": "vaYaqam Yonah **livroach** Tarshishah milLiFney",
-        "englishLiteral": "And-stood_up Dove (Jonah) **to-flee** golden_stone (Tarshish) from-faces-of",
-        "englishNatural": "stood-up And Dove (Jonah) **to flee to** golden-stone (Tarshish) from the face of"
+        "englishLiteral": "And-stood_up Dove (Jonah), **to-flee** golden_stone (Tarshish), from-faces-of",
+        "englishNatural": "And Dove (Jonah) stood-up, **to flee to** golden-stone (Tarshish), from the face of"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 10
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "בֹרֵחַ",
         "transliteration": "boreach",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "יְהוָה הוּא **בֹרֵחַ** כִּי הִגִּיד",
         "transliteration": "YHWH hu **boreach** ki higid",
-        "englishLiteral": "He_Who_Is (YHWH) he **fleeing** that he-declared",
-        "englishNatural": "He-Who-Is (YHWH) he **was fleeing** that he had declared"
+        "englishLiteral": "He_Who_Is (YHWH) he **fleeing,** that he-declared",
+        "englishNatural": "He-Who-Is (YHWH) he **was fleeing,** that he had declared"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 2
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "לִבְרֹחַ",
         "transliteration": "livroch",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "כֵּן קִדַּמְתִּי **לִבְרֹחַ** תַּרְשִׁישָׁה כִּי",
         "transliteration": "ken qidamti **livroch** tarshishah ki",
-        "englishLiteral": "so I-preceded **to-flee** golden_stone (Tarshish) that",
-        "englishNatural": "So I preceded **to flee to** golden-stone (Tarshish) that"
+        "englishLiteral": "so I-preceded **to-flee** golden_stone (Tarshish), that",
+        "englishNatural": "moreover I preceded **to flee to** golden-stone (Tarshish), that"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 12
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אַרְבָּעִים",
         "transliteration": "arbaim",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "עַל־ הָאָרֶץ **אַרְבָּעִים** יוֹם וְאַרְבָּעִים",
         "transliteration": "al- haAretz **arbaim** yom veArbaim",
-        "englishLiteral": "over- the-land **forty** day and-forty",
-        "englishNatural": "over the land **forty** days and forty"
+        "englishLiteral": "over- the-land, **forty** day and-forty",
+        "englishNatural": "over the land, **forty** days and forty"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 12
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וְאַרְבָּעִים",
         "transliteration": "veArbaim",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "אַרְבָּעִים יוֹם **וְאַרְבָּעִים** לָיְלָה",
         "transliteration": "arbaim yom **veArbaim** laylah",
-        "englishLiteral": "forty day **and-forty** night",
-        "englishNatural": "forty days **and forty** nights"
+        "englishLiteral": "forty day **and-forty** night.",
+        "englishNatural": "forty days **and forty** nights."
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 4
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "אַרְבָּעִים",
         "transliteration": "arbaim",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "וַיֹּאמַר עוֹד **אַרְבָּעִים** יוֹם וְנִינְוֵה",
         "transliteration": "vaYomar od **arbaim** yom veNineveh",
-        "englishLiteral": "and-said yet **forty** day and-Dwelling_of_Fish (Nineveh)",
-        "englishNatural": "and said Yet **forty** days and Dwelling-of-Fish (Nineveh)"
+        "englishLiteral": "and-said, \"yet **forty** day, and-Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "and said, \"Yet **forty** days, and Dwelling-of-Fish (Nineveh)"
       }
     }
   ]

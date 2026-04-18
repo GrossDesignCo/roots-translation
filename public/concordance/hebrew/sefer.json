@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "סֵפֶר",
         "transliteration": "sefer",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "זֶה **סֵפֶר** תּוֹלְדֹת אָדָם",
         "transliteration": "zeh **sefer** toledot Adam",
-        "englishLiteral": "This **book** birthings Earthling (Adam)",
-        "englishNatural": "This **book** Birthings of Earthling (Adam)"
+        "englishLiteral": "This **book,** birthings Earthling (Adam).",
+        "englishNatural": "This **book,** Birthings of Earthling (Adam)."
       }
     }
   ]

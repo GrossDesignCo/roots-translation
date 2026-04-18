@@ -9,6 +9,7 @@
         "verse": 15
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וַיַּנִּחֵהוּ",
         "transliteration": "vaYanNichehu",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "אֶת־ הָאָדָם **וַיַּנִּחֵהוּ** בְגַן־ עֵדֶן",
         "transliteration": "et- haAdam **vaYanNichehu** beGan- Eden",
-        "englishLiteral": "↳ the-Earthling (Adam) **and-rested-him** in-Garden- Delight (Eden)",
-        "englishNatural": "↳ the Earthling (Adam) **and rested him** in Garden Delight (Eden)"
+        "englishLiteral": "↳ the-Earthling (Adam), **and-rested-him** in-Garden- Delight (Eden),",
+        "englishNatural": "↳ the Earthling (Adam), **and rested him** in Garden Delight (Eden),"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 29
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "נֹחַ",
         "transliteration": "Noach",
@@ -48,8 +50,8 @@
       "context": {
         "hebrew": "אֶת־ שְׁמוֹ **נֹחַ** לֵאמֹר זֶה",
         "transliteration": "et- shmo **Noach** leEmor zeh",
-        "englishLiteral": "↳ his-name **Rest (Noah)** to-say This",
-        "englishNatural": "↳ his name **Rest (Noah)** to say This"
+        "englishLiteral": "↳ his-name **\"Rest (Noah),\"** to-say, \"This",
+        "englishNatural": "↳ his name **\"Rest (Noah),\"** to say, \"This"
       }
     },
     {
@@ -59,6 +61,7 @@
         "verse": 30
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "נֹחַ",
         "transliteration": "Noach",
@@ -72,8 +75,8 @@
       "context": {
         "hebrew": "הוֹלִידוֹ אֶת־ **נֹחַ** חָמֵשׁ וְתִשְׁעִים",
         "transliteration": "holido et- **Noach** chamesh veTishim",
-        "englishLiteral": "he-birthed-him ↳ **Rest (Noah)** five and-ninety",
-        "englishNatural": "he birthed ↳ **Rest (Noah)** five and ninety"
+        "englishLiteral": "he-birthed-him ↳ **Rest (Noah),** five and-ninety",
+        "englishNatural": "he birthed ↳ **Rest (Noah),** five and ninety"
       }
     },
     {
@@ -83,6 +86,7 @@
         "verse": 32
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְנֹחַ",
         "transliteration": "veNoach",
@@ -96,8 +100,8 @@
       "context": {
         "hebrew": "**וְנֹחַ** בֶּן־ חֲמֵשׁ",
         "transliteration": "**veNoach** ben- chamesh",
-        "englishLiteral": "**And-Rest (Noah)** son-of five",
-        "englishNatural": "**And Rest (Noah)** a son of five"
+        "englishLiteral": "**And-Rest (Noah),** son-of five",
+        "englishNatural": "**And Rest (Noah),** a son of five"
       }
     },
     {
@@ -107,6 +111,7 @@
         "verse": 32
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "נֹחַ",
         "transliteration": "Noach",
@@ -120,8 +125,8 @@
       "context": {
         "hebrew": "שָׁנָה וַיּוֹלֶד **נֹחַ** אֶת־ שֵׁם",
         "transliteration": "shanah vaYoled **Noach** et- Shem",
-        "englishLiteral": "year and-he-birthed **Rest (Noah)** ↳ Name (Shem)",
-        "englishNatural": "years birthed **and Rest (Noah)** ↳ Name (Shem)"
+        "englishLiteral": "year, and-he-birthed **Rest (Noah)** ↳ Name (Shem)",
+        "englishNatural": "hundred years, **and Rest (Noah)** birthed ↳"
       }
     },
     {
@@ -131,6 +136,7 @@
         "verse": 21
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הַנִּיחֹחַ",
         "transliteration": "haNichoach",
@@ -144,8 +150,8 @@
       "context": {
         "hebrew": "אֶת־ רֵיחַ **הַנִּיחֹחַ** וַיֹּאמֶר יְהוָה",
         "transliteration": "et- reach **haNichoach** vayYomer YHWH",
-        "englishLiteral": "↳ wind-of **the-restful** and-said He_Who_Is (YHWH)",
-        "englishNatural": "↳ the wind of **the restful** said and He-Who-Is (YHWH)"
+        "englishLiteral": "↳ wind-of **the-restful;** and-said He_Who_Is (YHWH)",
+        "englishNatural": "↳ the wind of **the restful;** and He-Who-Is (YHWH) said"
       }
     },
     {
@@ -155,6 +161,7 @@
         "verse": 9
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "מְנוּחָ֔ה",
         "transliteration": "menuchah",
@@ -169,7 +176,7 @@
         "hebrew": "לָכֶ֔ם וּמְצֶ֣אןָ **מְנוּחָ֔ה** אִשָּׁ֖ה בֵּ֣ית",
         "transliteration": "lakhem uMetzena **menuchah** ishah beit",
         "englishLiteral": "to-you and-find **rest** woman house-of",
-        "englishNatural": "to you and find **rest** woman the house of"
+        "englishNatural": "to you, and find **rest,** woman the house of"
       }
     },
     {
@@ -179,6 +186,7 @@
         "verse": 2
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "מְנֻחוֹת",
         "transliteration": "menuchot",
@@ -192,8 +200,8 @@
       "context": {
         "hebrew": "עַל־ מֵי **מְנֻחוֹת** יְנַהֲלֵנִי",
         "transliteration": "al- mei **menuchot** yeNahaleni",
-        "englishLiteral": "over- water-of **rest_place** he-leads-me",
-        "englishNatural": "over water of **rest-place** he leads me"
+        "englishLiteral": "over- water-of **rest_place,** he-leads-me.",
+        "englishNatural": "over water of **rest-place,** he leads me."
       }
     }
   ]

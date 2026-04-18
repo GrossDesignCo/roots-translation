@@ -10,6 +10,7 @@
         "verse": 4
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָא֖וֹר",
         "transliteration": "haOr",
@@ -22,9 +23,9 @@
       },
       "context": {
         "hebrew": "אֱלֹהִ֛ים אֶת־ **הָא֖וֹר** כִּי־ ט֑וֹב",
-        "transliteration": "Elohim et- **haOr** ki- tov",
-        "englishLiteral": "Gods ↳ **the-light** that- good",
-        "englishNatural": "And God ↳ **the light** that it was good"
+        "transliteration": "Elohim et- **haOr** ki- tov.",
+        "englishLiteral": "Gods ↳ **the-light,** that- good.",
+        "englishNatural": "saw ↳ **the light,** that it was good."
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 4
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "הָא֖וֹר",
         "transliteration": "haOr",
@@ -46,9 +48,9 @@
       },
       "context": {
         "hebrew": "אֱלֹהִ֔ים בֵּ֥ין **הָא֖וֹר** וּבֵ֥ין הַחֹֽשֶׁךְ",
-        "transliteration": "Elohim beyn **haOr** uBeyn haChoshekh",
-        "englishLiteral": "Gods between **the-light** and-between the-darkness",
-        "englishNatural": "And God between **the light** and between the darkness"
+        "transliteration": "Elohim beyn **haOr,** uBeyn haChoshekh.",
+        "englishLiteral": "Gods between **the-light,** and-between the-darkness.",
+        "englishNatural": "separated between **the light,** and between the darkness."
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 18
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הָא֖וֹר",
         "transliteration": "haOr",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "וֽלֲהַבְדִּ֔יל בֵּ֥ין **הָא֖וֹר** וּבֵ֣ין הַחֹ֑שֶׁךְ",
         "transliteration": "uLeHavdil beyn **haOr** uBeyn haHoshekh",
-        "englishLiteral": "and-to-separate between **the-light** and-between the-darkness",
-        "englishNatural": "and to separate between **the light** and between the darkness"
+        "englishLiteral": "and-to-separate between **the-light,** and-between the-darkness,",
+        "englishNatural": "and to separate between **the light,** and between the darkness,"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "יַאֲמִינוּ",
         "transliteration": "yaAminu",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "וְהֵן לֹא־ **יַאֲמִינוּ** לִי וְלֹא",
         "transliteration": "veHen lo- **yaAminu** li veLo",
-        "englishLiteral": "and-behold not- **will-believe** to-me and-not",
-        "englishNatural": "And behold not **they will believe** me not"
+        "englishLiteral": "\"and-behold not- **will-believe** to-me and-not",
+        "englishNatural": "and said, \"And behold, **they will believe** me not,"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 5
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "יַאֲמִינוּ",
         "transliteration": "yaAminu",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "לְמַעַן **יַאֲמִינוּ** כִּי־ נִרְאָה",
         "transliteration": "lemaan **yaAminu** ki- nirAh",
-        "englishLiteral": "for-sake-of **will-believe** that- was_seen",
-        "englishNatural": "For their sake **they will believe** that he was-seen"
+        "englishLiteral": "\"for-sake-of **will-believe** that- was_seen",
+        "englishNatural": "\"For their sake **they will believe** that he was-seen"
       }
     }
   ]

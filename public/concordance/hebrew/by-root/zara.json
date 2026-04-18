@@ -9,6 +9,7 @@
         "verse": 11
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "מַזְרִ֣יעַ",
         "transliteration": "maZria",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "דֶּ֗שֶׁא עֵ֚שֶׂב **מַזְרִ֣יעַ** זֶ֔רַע עֵ֣ץ",
         "transliteration": "deshe esev **maZria** zera etz",
-        "englishLiteral": "tender_shoot herb **seeding** seed tree",
-        "englishNatural": "tender-shoot herb **seeding** seed tree"
+        "englishLiteral": "tender_shoot, herb **seeding** seed, tree",
+        "englishNatural": "tender-shoot, herb **seeding** seed, fruit"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 11
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "זֶ֔רַע",
         "transliteration": "zera",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "עֵ֚שֶׂב מַזְרִ֣יעַ **זֶ֔רַע** עֵ֣ץ פְּרִ֞י",
         "transliteration": "esev maZria **zera** etz pri",
-        "englishLiteral": "herb seeding **seed** tree fruit",
-        "englishNatural": "herb seeding **seed** tree fruit"
+        "englishLiteral": "herb seeding **seed,** tree fruit",
+        "englishNatural": "herb seeding **seed,** fruit tree"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 11
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "זַרְעוֹ־",
         "transliteration": "zaro-",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "לְמִינ֔וֹ אֲשֶׁ֥ר **זַרְעוֹ־** ב֖וֹ עַל־",
         "transliteration": "leMino asher **zaro-** bo al-",
-        "englishLiteral": "to-its-kind which **its-seed-** in-it over-",
-        "englishNatural": "after its kind which **has its seed** in it over"
+        "englishLiteral": "to-its-kind, which, **its-seed-** in-it, over-",
+        "englishNatural": "after its kind, which **has its seed** in it, over"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 12
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "מַזְרִ֣יעַ",
         "transliteration": "maZria",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "דֶּ֗שֶׁא עֵ֚שֶׂב **מַזְרִ֣יעַ** זֶ֔רַע לְמִינֵ֖הוּ",
         "transliteration": "deshe esev **maZria** zera leMinehu",
-        "englishLiteral": "tender_shoot herb **seeding** seed to-its-kind",
-        "englishNatural": "tender-shoot herb **seeding** seed after its kind"
+        "englishLiteral": "tender_shoot, herb **seeding** seed to-its-kind,",
+        "englishNatural": "tender-shoot, herb **seeding** seed after its kind,"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 12
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "זֶ֔רַע",
         "transliteration": "zera",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "עֵ֚שֶׂב מַזְרִ֣יעַ **זֶ֔רַע** לְמִינֵ֖הוּ וְעֵ֧ץ",
         "transliteration": "esev maZria **zera** leMinehu veEtz",
-        "englishLiteral": "herb seeding **seed** to-its-kind and-tree",
-        "englishNatural": "herb seeding **seed** after its kind and tree"
+        "englishLiteral": "herb seeding **seed** to-its-kind, and-tree",
+        "englishNatural": "herb seeding **seed** after its kind, and tree"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 12
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "זַרְעוֹ־ב֖וֹ",
         "transliteration": "zaro-bo",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "פְּרִ֞י אֲשֶׁ֤ר **זַרְעוֹ־ב֖וֹ** לְמִינֵ֑הוּ וַיַּ֥רְא",
         "transliteration": "pri asher **zaro-bo** leMinehu vaYar",
-        "englishLiteral": "fruit which **its-seed-in-it** to-its-kind And-saw",
-        "englishNatural": "fruit which **has its seed in it** after its kind saw"
+        "englishLiteral": "fruit which **its-seed-in-it** to-its-kind. And-saw",
+        "englishNatural": "fruit which **has its seed in it** after its kind. And God"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 29
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "זֹרֵ֣עַ",
         "transliteration": "zorea",
@@ -166,8 +173,8 @@
       "context": {
         "hebrew": "כָּל־ עֵ֣שֶׂב **זֹרֵ֣עַ** זֶ֗רַע אֲשֶׁר֙",
         "transliteration": "kol- esev **zorea** zera asher",
-        "englishLiteral": "all herb **seeding** seed which",
-        "englishNatural": "all herb **seeding** seed which"
+        "englishLiteral": "all herb **seeding** seed, which",
+        "englishNatural": "all herb **seeding** seed, which"
       }
     },
     {
@@ -177,6 +184,7 @@
         "verse": 29
       },
       "wordIndex": 22,
+      "sourceOrder": 22,
       "word": {
         "originalScript": "זֹרֵ֣עַ",
         "transliteration": "zorea",
@@ -190,8 +198,8 @@
       "context": {
         "hebrew": "פְרִֽי־ עֵ֣ץ **זֹרֵ֣עַ** זָ֑רַע לָכֶ֥ם",
         "transliteration": "peri- etz **zorea** zara lakhem",
-        "englishLiteral": "fruit-of tree **seeding** seed to-you",
-        "englishNatural": "fruit of tree **seeding** seed to you"
+        "englishLiteral": "fruit-of tree **seeding** seed, to-you",
+        "englishNatural": "fruit of tree **seeding** seed, to you"
       }
     },
     {
@@ -201,6 +209,7 @@
         "verse": 3
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "זָרַע",
         "transliteration": "zara",
@@ -214,8 +223,8 @@
       "context": {
         "hebrew": "לֹא נָתַתָּה **זָרַע** וְהִנֵּה בֶן־",
         "transliteration": "lo natata **zara** veHineh ben-",
-        "englishLiteral": "not you-have-given **seed** and-behold son-of-",
-        "englishNatural": "not you have given **seed** and behold the son of"
+        "englishLiteral": "not you-have-given **seed,** and-behold son-of-",
+        "englishNatural": "you have given not **seed;** and behold the son of"
       }
     },
     {
@@ -225,6 +234,7 @@
         "verse": 5
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "זַרְעֶךָ",
         "transliteration": "zarcha",
@@ -238,8 +248,8 @@
       "context": {
         "hebrew": "כֹּה יִהְיֶה **זַרְעֶךָ**",
         "transliteration": "koh yihyeh **zarcha**",
-        "englishLiteral": "Thus he-will-be **seed-of-you**",
-        "englishNatural": "Thus will be **your seed**"
+        "englishLiteral": "\"Thus he-will-be **seed-of-you.\"**",
+        "englishNatural": "\"Thus will be **your seed.\"**"
       }
     },
     {
@@ -249,6 +259,7 @@
         "verse": 13
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "זַרְעֲךָ",
         "transliteration": "zarcha",
@@ -263,7 +274,7 @@
         "hebrew": "גֵר יִהְיֶה **זַרְעֲךָ** בְּאֶרֶץ לֹא",
         "transliteration": "ger yihyeh **zarcha** beEretz lo",
         "englishLiteral": "sojourner he-will-be **seed-of-you** in-land not",
-        "englishNatural": "a sojourner will be **your seed** in a land not"
+        "englishNatural": "you will know, that **your seed** will be a sojourner"
       }
     },
     {
@@ -273,6 +284,7 @@
         "verse": 18
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "לְזַרְעֲךָ",
         "transliteration": "leZarakha",
@@ -286,8 +298,8 @@
       "context": {
         "hebrew": "בְּרִית לֵאמֹר **לְזַרְעֲךָ** נָתַתִּי אֶת־",
         "transliteration": "berit lemor **leZarakha** natati et-",
-        "englishLiteral": "covenant to-say **to-seed-of-you** I-gave ↳",
-        "englishNatural": "a covenant saying **To your seed** I have given ↳"
+        "englishLiteral": "covenant, to-say, **\"to-seed-of-you** I-gave ↳",
+        "englishNatural": "a covenant, saying, **\"To your seed** I have given ↳"
       }
     }
   ]

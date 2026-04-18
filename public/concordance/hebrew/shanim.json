@@ -10,6 +10,7 @@
         "verse": 6
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "שָׁנִים",
         "transliteration": "shanim",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "שֵׁת חָמֵשׁ **שָׁנִים** וּמְאַת שָׁנָה",
         "transliteration": "Shet chamesh **shanim** uMeat shanah",
-        "englishLiteral": "Appointed (Seth) five **years** and-hundred-of year",
-        "englishNatural": "And Appointed (Seth) five **years** and a hundred years"
+        "englishLiteral": "Appointed (Seth) five **years** and-hundred-of year,",
+        "englishNatural": "lived five **years** and a hundred years,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 7
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "שָׁנִים",
         "transliteration": "shanim",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "אֱנוֹשׁ שֶׁבַע **שָׁנִים** וּשְׁמֹנֶה מֵאוֹת",
         "transliteration": "Enosh sheva **shanim** uShmoneh meot",
-        "englishLiteral": "Mortal_Man (Enosh) seven **years** and-eight hundreds",
-        "englishNatural": "Mortal-Man (Enosh) seven **years** and eight hundred"
+        "englishLiteral": "Mortal_Man (Enosh), seven **years** and-eight hundreds",
+        "englishNatural": "Mortal-Man (Enosh), seven **years** and eight hundred"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 11
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "שָׁנִים",
         "transliteration": "shanim",
@@ -72,7 +75,7 @@
         "hebrew": "אֱנוֹשׁ חֲמֵשׁ **שָׁנִים** וּתְשַׁע מֵאוֹת",
         "transliteration": "Enosh chamesh **shanim** uTesha meot",
         "englishLiteral": "Mortal_Man (Enosh) five **years** and-nine hundreds",
-        "englishNatural": "Mortal-Man (Enosh) five **years** and nine hundred"
+        "englishNatural": "were five **years** and nine hundred"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 14
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "שָׁנִים",
         "transliteration": "shanim",
@@ -96,7 +100,7 @@
         "hebrew": "קֵינָן עֶשֶׂר **שָׁנִים** וּתְשַׁע מֵאוֹת",
         "transliteration": "Qeynan eser **shanim** uTesha meot",
         "englishLiteral": "Nest (Cainan) ten **years** and-nine hundreds",
-        "englishNatural": "Nest (Cainan) ten **years** and nine hundred"
+        "englishNatural": "were ten **years** and nine hundred"
       }
     },
     {
@@ -106,6 +110,7 @@
         "verse": 4
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "שָׁנִֽים׃",
         "transliteration": "shanim",
@@ -117,10 +122,10 @@
         }
       },
       "context": {
-        "hebrew": "שָׁ֖ם כְּעֶ֥שֶׂר **שָׁנִֽים׃**",
+        "hebrew": "שָׁ֖ם כְּעֶ֥שֶׂר **שָׁנִֽים׃׃**",
         "transliteration": "sham keEser **shanim**",
-        "englishLiteral": "there like-ten **years**",
-        "englishNatural": "there like ten **years**"
+        "englishLiteral": "there; like-ten **years.**",
+        "englishNatural": "there like ten **years.**"
       }
     }
   ]

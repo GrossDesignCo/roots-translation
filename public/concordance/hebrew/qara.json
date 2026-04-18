@@ -10,6 +10,7 @@
         "verse": 5
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "קָ֣רָא",
         "transliteration": "qara",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "י֑וֹם וְלַחֹ֖שֶׁךְ **קָ֣רָא** לָ֑יְלָה וַֽיְהִי",
         "transliteration": "yom veLaChoshekh **qara** laylah vaYehi",
-        "englishLiteral": "Day and-to-darkness **called_out** Night And-was",
-        "englishNatural": "Day to darkness **and called-out** Night was"
+        "englishLiteral": "\"Day,\" and-to-darkness **called_out** \"Night.\" And-was,",
+        "englishNatural": "to light, \"Day,\" **and called-out** to darkness, \"Night.\""
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 10
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "קָרָ֣א",
         "transliteration": "qara",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "וּלְמִקְוֵ֥ה הַמַּ֖יִם **קָרָ֣א** יַמִּ֑ים וַיַּ֥רְא",
         "transliteration": "uLeMiQveh haMayim **qara** yamim vaYar",
-        "englishLiteral": "and-to-gathering the-waters **called_out** Seas And-saw",
-        "englishNatural": "and to the gathering of the waters **he called-out** Seas saw"
+        "englishLiteral": "and-to-gathering, the-waters, **called_out** \"Seas.\" And-saw",
+        "englishNatural": "and to the gathering of the waters **he called-out,** \"Seas.\" And God"
       }
     },
     {
@@ -62,6 +64,7 @@
         "verse": 9
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "קָרָא",
         "transliteration": "qara",
@@ -77,8 +80,8 @@
       "context": {
         "hebrew": "עַל־ כֵּן **קָרָא** שְׁמָהּ בָּבֶל",
         "transliteration": "al- ken **qara** shemah Babel",
-        "englishLiteral": "over- so **he-called** name-of-her Confusion (Babylon)",
-        "englishNatural": "moreover So **he called** the name of it Confusion (Babylon)"
+        "englishLiteral": "over- so **he-called** name-of-her Confusion (Babylon),",
+        "englishNatural": "So moreover **he called** the name of it Confusion (Babylon),"
       }
     }
   ]

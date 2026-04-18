@@ -9,6 +9,7 @@
         "verse": 4
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּ֧רְא",
         "transliteration": "vaYar",
@@ -25,7 +26,7 @@
         "hebrew": "**וַיַּ֧רְא** אֱלֹהִ֛ים אֶת־",
         "transliteration": "**vaYar** Elohim et-",
         "englishLiteral": "**And-saw** Gods ↳",
-        "englishNatural": "**saw** And God ↳"
+        "englishNatural": "And God **saw** ↳ the light,"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 9
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וְתֵרָאֶ֖ה",
         "transliteration": "veTeRaah",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "מָקֹ֣ום אֶחָ֔ד **וְתֵרָאֶ֖ה** הַיַּבָּשָׁ֑ה וַֽיְהִי־",
         "transliteration": "maqom echad **veTeRaah** haYabashah vaVayhi-",
-        "englishLiteral": "place one **And-be-seen** the-dry_ground And-was-",
-        "englishNatural": "place one **be seen** And let the dry-ground And it was"
+        "englishLiteral": "place, one. **And-be-seen,** the-dry_ground.\" And-was-",
+        "englishNatural": "place. And let the dry-ground **be seen.\"** And it was so."
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 10
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וַיַּ֥רְא",
         "transliteration": "vaYar",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "קָרָ֣א יַמִּ֑ים **וַיַּ֥רְא** אֱלֹהִ֖ים כִּי־",
         "transliteration": "qara yamim **vaYar** Elohim ki-",
-        "englishLiteral": "called_out Seas **And-saw** Gods that-",
-        "englishNatural": "he called-out Seas **saw** And God that it was"
+        "englishLiteral": "called_out \"Seas.\" **And-saw** Gods, that-",
+        "englishNatural": "\"Seas.\" And God **saw,** that it was good."
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 12
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "וַיַּ֥רְא",
         "transliteration": "vaYar",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "זַרְעוֹ־ב֖וֹ לְמִינֵ֑הוּ **וַיַּ֥רְא** אֱלֹהִ֖ים כִּי־",
         "transliteration": "zaro-bo leMinehu **vaYar** Elohim ki-",
-        "englishLiteral": "its-seed-in-it to-its-kind **And-saw** Gods that-",
-        "englishNatural": "has its seed in it after its kind **saw** And God that it was"
+        "englishLiteral": "its-seed-in-it to-its-kind. **And-saw** Gods, that-",
+        "englishNatural": "after its kind. And God **saw,** that it was good."
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 18
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וַיַּ֧רְא",
         "transliteration": "vaYar",
@@ -128,8 +133,8 @@
       "context": {
         "hebrew": "וּבֵ֣ין הַחֹ֑שֶׁךְ **וַיַּ֧רְא** אֱלֹהִ֖ים כִּי־",
         "transliteration": "uBeyn haHoshekh **vaYar** Elohim ki-",
-        "englishLiteral": "and-between the-darkness **And-saw** Gods that-",
-        "englishNatural": "and between the darkness **saw** And God that it was"
+        "englishLiteral": "and-between the-darkness, **And-saw** Gods, that-",
+        "englishNatural": "the darkness, And God **saw,** that it was good."
       }
     },
     {
@@ -139,6 +144,7 @@
         "verse": 21
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "וַיַּ֥רְא",
         "transliteration": "vaYar",
@@ -154,8 +160,8 @@
       "context": {
         "hebrew": "כָּנָ֖ף לְמִינֵ֑הוּ **וַיַּ֥רְא** אֱלֹהִ֖ים כִּי־",
         "transliteration": "kaNaf leMinehu **vaYar** Elohim ki-",
-        "englishLiteral": "wing to-its-kind **And-saw** Gods that-",
-        "englishNatural": "winged to its kind **saw** And God that it was"
+        "englishLiteral": "wing to-its-kind, **And-saw** Gods, that-",
+        "englishNatural": "to its kind, And God **saw,** that it was good."
       }
     },
     {
@@ -165,6 +171,7 @@
         "verse": 25
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "וַיַּ֥רְא",
         "transliteration": "vaYar",
@@ -180,8 +187,8 @@
       "context": {
         "hebrew": "הָֽאֲדָמָ֖ה לְמִינֵ֖הוּ **וַיַּ֥רְא** אֱלֹהִ֖ים כִּי־",
         "transliteration": "haAdamah leMinehu **vaYar** Elohim ki-",
-        "englishLiteral": "the-earth to-its-kind **And-saw** Gods that-",
-        "englishNatural": "the earth to its kind **saw** And God that it was"
+        "englishLiteral": "the-earth, to-its-kind, **And-saw** Gods, that-",
+        "englishNatural": "to its kind, And God **saw,** that it was good."
       }
     },
     {
@@ -191,6 +198,7 @@
         "verse": 31
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּ֤רְא",
         "transliteration": "vaYar",
@@ -206,8 +214,8 @@
       "context": {
         "hebrew": "**וַיַּ֤רְא** אֱלֹהִ֖ים אֶת",
         "transliteration": "**vaYar** Elohim et",
-        "englishLiteral": "**And-saw** Gods ↳",
-        "englishNatural": "**saw** And God ↳"
+        "englishLiteral": "**And-saw** Gods, ↳",
+        "englishNatural": "And God **saw,** ↳ all"
       }
     },
     {
@@ -217,6 +225,7 @@
         "verse": 19
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "לִרְאוֹת",
         "transliteration": "liReot",
@@ -243,6 +252,7 @@
         "verse": 6
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַתֵּרֶא",
         "transliteration": "vatere",
@@ -259,7 +269,7 @@
         "hebrew": "**וַתֵּרֶא** הָאִשָּׁה כִּי",
         "transliteration": "**vatere** haIshah ki",
         "englishLiteral": "**And-saw** the-woman that",
-        "englishNatural": "**saw** And the woman that"
+        "englishNatural": "And the woman **saw** that the tree"
       }
     },
     {
@@ -269,6 +279,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּרְאוּ",
         "transliteration": "vayYiru",
@@ -285,7 +296,7 @@
         "hebrew": "**וַיִּרְאוּ** בְנֵי־ הָאֱלֹהִים",
         "transliteration": "**vayYiru** beney- haElohim",
         "englishLiteral": "**And-they-saw** sons- the-Gods",
-        "englishNatural": "**saw** And the sons of God"
+        "englishNatural": "And the sons of God **saw** ↳ the daughters of"
       }
     },
     {
@@ -295,6 +306,7 @@
         "verse": 5
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּרְא",
         "transliteration": "vayYar",
@@ -311,7 +323,7 @@
         "hebrew": "**וַיַּרְא** יְהוָה כִּי",
         "transliteration": "**vayYar** YHWH ki",
         "englishLiteral": "**And-he-saw** He_Who_Is (YHWH) that",
-        "englishNatural": "**saw** And He-Who-Is (YHWH) that"
+        "englishNatural": "And He-Who-Is (YHWH) **saw** that the bad of"
       }
     },
     {
@@ -321,6 +333,7 @@
         "verse": 12
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּרְא",
         "transliteration": "vayYar",
@@ -337,7 +350,7 @@
         "hebrew": "**וַיַּרְא** אֱלֹהִים אֶת־",
         "transliteration": "**vayYar** elohim et-",
         "englishLiteral": "**And-he-saw** Gods ↳",
-        "englishNatural": "**saw** And God ↳"
+        "englishNatural": "And God **saw** ↳ the land,"
       }
     },
     {
@@ -347,6 +360,7 @@
         "verse": 5
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "לִרְאֹת",
         "transliteration": "liRot",
@@ -363,7 +377,7 @@
         "hebrew": "וַיֵּרֶד יְהוָה **לִרְאֹת** אֶת־ הָעִיר",
         "transliteration": "vayYered YHWH **liRot** et- haIr",
         "englishLiteral": "And-he-descended He_Who_Is (YHWH) **to-see** ↳ the-city",
-        "englishNatural": "descended And He-Who-Is (YHWH) **to see** ↳ the city"
+        "englishNatural": "And He-Who-Is (YHWH) descended **to see** ↳ the city"
       }
     },
     {
@@ -373,6 +387,7 @@
         "verse": 1
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "אַרְאֶךָּ",
         "transliteration": "arekka",
@@ -388,8 +403,8 @@
       "context": {
         "hebrew": "הָאָרֶץ אֲשֶׁר **אַרְאֶךָּ**",
         "transliteration": "haAretz asher **arekka**",
-        "englishLiteral": "the-land which **I-will-cause-you-to-see**",
-        "englishNatural": "the land which **I will cause you to see**"
+        "englishLiteral": "the-land which **I-will-cause-you-to-see.**",
+        "englishNatural": "the land which **I will cause you to see.**"
       }
     },
     {
@@ -399,6 +414,7 @@
         "verse": 2
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וַתֵּרֶא",
         "transliteration": "vaTere",
@@ -414,8 +430,8 @@
       "context": {
         "hebrew": "וַתֵּלֶד בֵּן **וַתֵּרֶא** אֹתוֹ כִּי־",
         "transliteration": "vaTeledֿ ben **vaTere** oto ki-",
-        "englishLiteral": "and-birthed son **and-saw** ↳him that-",
-        "englishNatural": "and birthed a son **and she saw** him that"
+        "englishLiteral": "and-birthed son, **and-saw** ↳him that-",
+        "englishNatural": "and birthed a son, **and she saw** him, that"
       }
     },
     {
@@ -425,6 +441,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיֵּרָא",
         "transliteration": "vaYera",
@@ -441,7 +458,7 @@
         "hebrew": "**וַיֵּרָא** מַלְאַךְ יְהוָה",
         "transliteration": "**vaYera** malakh YHWH",
         "englishLiteral": "**And-was_seen** messenger-of He_Who_Is (YHWH)",
-        "englishNatural": "**was-seen** And the Messenger of He-Who-Is (YHWH)"
+        "englishNatural": "And the Messenger of He-Who-Is (YHWH) **was-seen** to him in a flame of"
       }
     },
     {
@@ -451,6 +468,7 @@
         "verse": 2
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וַיַּרְא",
         "transliteration": "vaYar",
@@ -466,8 +484,8 @@
       "context": {
         "hebrew": "מִתּוֹךְ הַסְּנֶה **וַיַּרְא** וְהִנֵּה הַסְּנֶה",
         "transliteration": "miTokh haSeneh **vaYar** veHineh haSeneh",
-        "englishLiteral": "from-midst-of the-thornbush **and-saw** and-behold the-thornbush",
-        "englishNatural": "from the midst of the thornbush **and he saw** and behold the thornbush"
+        "englishLiteral": "from-midst-of the-thornbush, **and-saw** and-behold the-thornbush",
+        "englishNatural": "from the midst of the thornbush, **and he saw,** and behold the thornbush,"
       }
     },
     {
@@ -477,6 +495,7 @@
         "verse": 3
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וְאֶרְאֶה",
         "transliteration": "veEreh",
@@ -492,8 +511,8 @@
       "context": {
         "hebrew": "אָסֻרָה־ נָּא **וְאֶרְאֶה** אֶת־ הַמַּרְאֶה",
         "transliteration": "asurah- nah **veEreh** et- haMareh",
-        "englishLiteral": "I-will-turn_aside- please **and-will-see** ↳ the-sight",
-        "englishNatural": "I will turn-aside please **and see** ↳ sight"
+        "englishLiteral": "\"I-will-turn_aside- please **and-will-see** ↳ the-sight",
+        "englishNatural": "\"I will turn-aside please, **and see** ↳ this"
       }
     },
     {
@@ -503,6 +522,7 @@
         "verse": 4
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּרְא",
         "transliteration": "vaYar",
@@ -519,7 +539,7 @@
         "hebrew": "**וַיַּרְא** יְהוָה כִּי",
         "transliteration": "**vaYar** YHWH ki",
         "englishLiteral": "**And-saw** He_Who_Is (YHWH) that",
-        "englishNatural": "**saw** And He-Who-Is (YHWH) that"
+        "englishNatural": "And He-Who-Is (YHWH) **saw** that he had turned-aside"
       }
     },
     {
@@ -529,6 +549,7 @@
         "verse": 4
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "לִרְאוֹת",
         "transliteration": "lirot",
@@ -544,8 +565,8 @@
       "context": {
         "hebrew": "כִּי סָר **לִרְאוֹת** וַיִּקְרָא אֵלָיו",
         "transliteration": "ki sar **lirot** vaYiqra elav",
-        "englishLiteral": "that turned_aside **to-see** and-he-called to-him",
-        "englishNatural": "that he had turned-aside **to see** called to him"
+        "englishLiteral": "that turned_aside **to-see,** and-he-called to-him",
+        "englishNatural": "that he had turned-aside **to see,** and God called"
       }
     },
     {
@@ -555,6 +576,7 @@
         "verse": 7
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "רָאֹה",
         "transliteration": "raoh",
@@ -570,8 +592,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר יְהוָה **רָאֹה** רָאִיתִי אֶת־",
         "transliteration": "vaYomer YHWH **raoh** raiti et-",
-        "englishLiteral": "And-said He_Who_Is (YHWH) **seeing** I-see ↳",
-        "englishNatural": "said And He-Who-Is (YHWH) **Seeing** I have seen ↳"
+        "englishLiteral": "And-said He_Who_Is (YHWH) **\"seeing** I-see ↳",
+        "englishNatural": "And He-Who-Is (YHWH) said, **\"Seeing,** I have seen ↳"
       }
     },
     {
@@ -581,6 +603,7 @@
         "verse": 7
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "רָאִיתִי",
         "transliteration": "raiti",
@@ -596,8 +619,8 @@
       "context": {
         "hebrew": "יְהוָה רָאֹה **רָאִיתִי** אֶת־ עֳנִי",
         "transliteration": "YHWH raoh **raiti** et- oni",
-        "englishLiteral": "He_Who_Is (YHWH) seeing **I-see** ↳ affliction-of",
-        "englishNatural": "And He-Who-Is (YHWH) Seeing **I have seen** ↳ the affliction of"
+        "englishLiteral": "He_Who_Is (YHWH) \"seeing **I-see** ↳ affliction-of",
+        "englishNatural": "said, \"Seeing, **I have seen** ↳ the affliction of"
       }
     },
     {
@@ -607,6 +630,7 @@
         "verse": 1
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "נִרְאָה",
         "transliteration": "nirAh",
@@ -622,8 +646,8 @@
       "context": {
         "hebrew": "יֹאמְרוּ לֹא־ **נִרְאָה** אֵלֶיךָ יְהוָה",
         "transliteration": "yomru lo- **nirAh** elekha YHWH",
-        "englishLiteral": "will-say not- **was_seen** to-you He_Who_Is (YHWH)",
-        "englishNatural": "they will say not **was-seen** to you He-Who-Is (YHWH)"
+        "englishLiteral": "will-say 'not- **was_seen** to-you He_Who_Is (YHWH).'\"",
+        "englishNatural": "they will say, 'He-Who-Is (YHWH) **was-seen** not to you.'\""
       }
     },
     {
@@ -633,6 +657,7 @@
         "verse": 5
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "נִרְאָה",
         "transliteration": "nirAh",
@@ -648,8 +673,8 @@
       "context": {
         "hebrew": "יַאֲמִינוּ כִּי־ **נִרְאָה** אֵלֶיךָ יְהוָה",
         "transliteration": "yaAminu ki- **nirAh** elekha YHWH",
-        "englishLiteral": "will-believe that- **was_seen** to-you He_Who_Is (YHWH)",
-        "englishNatural": "they will believe that **he was-seen** to you He-Who-Is (YHWH)"
+        "englishLiteral": "will-believe that- **was_seen** to-you He_Who_Is (YHWH),",
+        "englishNatural": "they will believe that **he was-seen** to you, He-Who-Is (YHWH),"
       }
     },
     {
@@ -659,6 +684,7 @@
         "verse": 21
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "רְאֵה",
         "transliteration": "reeh",
@@ -674,8 +700,8 @@
       "context": {
         "hebrew": "לָשׁוּב מִצְרַיְמָה **רְאֵה** כָּל־ הַמֹּפְתִים",
         "transliteration": "lashuv mitzraymah **reeh** kol- haMoftim",
-        "englishLiteral": "to-return Double_Narrows (Egypt)-ward **see** all- the-wonders",
-        "englishNatural": "to return to Double-Narrows (Egypt) **see** all the wonders"
+        "englishLiteral": "to-return Double_Narrows (Egypt)-ward, **see** all- the-wonders",
+        "englishNatural": "to return to Double-Narrows (Egypt), **see** all the wonders"
       }
     },
     {
@@ -685,6 +711,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "תִרְאֶה",
         "transliteration": "tireh",
@@ -700,8 +727,8 @@
       "context": {
         "hebrew": "מֹשֶׁה עַתָּה **תִרְאֶה** אֲשֶׁר אֶעֱשֶׂה",
         "transliteration": "Moshe atah **tireh** asher eEseh",
-        "englishLiteral": "Drawn_Out (Moses) now **you-will-see** which I-will-do",
-        "englishNatural": "Drawn-Out (Moses) Now **you will see** which I will do"
+        "englishLiteral": "Drawn_Out (Moses) \"now **you-will-see** which I-will-do",
+        "englishNatural": "Drawn-Out (Moses), \"Now **you will see** which I will do"
       }
     },
     {
@@ -711,6 +738,7 @@
         "verse": 3
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וָאֵרָא",
         "transliteration": "vaEra",
@@ -727,7 +755,7 @@
         "hebrew": "**וָאֵרָא** אֶל־ אַבְרָהָם",
         "transliteration": "**vaEra** el- Avraham",
         "englishLiteral": "**And-I-was_seen** to- Exalted_Father (Abraham)",
-        "englishNatural": "**And I was-seen** to Exalted-Father (Abraham)"
+        "englishNatural": "**And I was-seen** to Exalted-Father (Abraham),"
       }
     },
     {
@@ -737,6 +765,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "רְאֵה",
         "transliteration": "reeh",
@@ -752,8 +781,8 @@
       "context": {
         "hebrew": "אֶל־ מֹשֶׁה **רְאֵה** נְתַתִּיךָ אֱלֹהִים",
         "transliteration": "el- Moshe **reeh** netaticha Elohim",
-        "englishLiteral": "to- Drawn_Out (Moses) **see** I-give-you Gods",
-        "englishNatural": "to Drawn-Out (Moses) **See** I have given you God"
+        "englishLiteral": "to- Drawn_Out (Moses) **\"see** I-give-you Gods",
+        "englishNatural": "to Drawn-Out (Moses), **\"See,** I have given you, God"
       }
     },
     {
@@ -763,6 +792,7 @@
         "verse": 23
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "רָאוּ",
         "transliteration": "rau",
@@ -779,7 +809,7 @@
         "hebrew": "לֹא־ **רָאוּ** אִישׁ אֶת־",
         "transliteration": "lo- **rau** ish et-",
         "englishLiteral": "not- **saw** man ↳",
-        "englishNatural": "not **saw** Man ↳"
+        "englishNatural": "Man **saw** not ↳"
       }
     },
     {
@@ -789,6 +819,7 @@
         "verse": 28
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "רְא֣וֹת",
         "transliteration": "reot",
@@ -804,8 +835,8 @@
       "context": {
         "hebrew": "אַל־ תֹּ֨סֶף֙ **רְא֣וֹת** פָּנָ֔י כִּ֗י",
         "transliteration": "al- tosef **reot** panay ki",
-        "englishLiteral": "not add **to-see** faces-my that",
-        "englishNatural": "not add **to see** my face that"
+        "englishLiteral": "not add, **to-see** faces-my, that,",
+        "englishNatural": "add not **to see** my face, that"
       }
     },
     {
@@ -815,6 +846,7 @@
         "verse": 28
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "רְאֹתְךָ֥",
         "transliteration": "reotekha",
@@ -830,8 +862,8 @@
       "context": {
         "hebrew": "כִּ֗י בְּי֛וֹם **רְאֹתְךָ֥** פָנַ֖י תָּמֽוּת׃",
         "transliteration": "ki beYom **reotekha** panay tamut",
-        "englishLiteral": "that in-day **seeing-you** faces-my you-will-die",
-        "englishNatural": "that in the day of **you seeing** my face you will die"
+        "englishLiteral": "that, in-day **seeing-you** faces-my, you-will-die.\"",
+        "englishNatural": "that in the day of **you seeing** my face, you will die.\""
       }
     },
     {
@@ -841,6 +873,7 @@
         "verse": 29
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "רְא֖וֹת",
         "transliteration": "reot",
@@ -856,8 +889,8 @@
       "context": {
         "hebrew": "אֹסִ֥ף עוֹד֙ **רְא֖וֹת** פָּנֶֽיךָ׃",
         "transliteration": "osif od **reot** panekha",
-        "englishLiteral": "I-will-add again **to-see** faces-your",
-        "englishNatural": "I will add again **to see** your face"
+        "englishLiteral": "I-will-add again, **to-see** faces-your.\"",
+        "englishNatural": "not again **to see** your face.\""
       }
     },
     {
@@ -867,6 +900,7 @@
         "verse": 8
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "וְרָאָה",
         "transliteration": "veRaah",
@@ -882,8 +916,8 @@
       "context": {
         "hebrew": "כָּל הַנָּשׁוּךְ **וְרָאָה** אֹתוֹ וָחָי",
         "transliteration": "kol haNashukh **veRaah** oto vaChai",
-        "englishLiteral": "all the-struck **and-sees** it and-lives",
-        "englishNatural": "everyone who is struck **and sees** it will live"
+        "englishLiteral": "all the-struck, **and-sees** it, and-lives.\"",
+        "englishNatural": "everyone who is struck, **and sees** it, will live.\""
       }
     },
     {
@@ -893,6 +927,7 @@
         "verse": 3
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֶרְאֶ֥ה",
         "transliteration": "ereh",
@@ -908,8 +943,8 @@
       "context": {
         "hebrew": "כִּֽי־ **אֶרְאֶ֥ה** שָׁמֶ֗יךָ מַעֲשֵׂ֣ה",
         "transliteration": "ki- **ereh** shamekha maaseh",
-        "englishLiteral": "that- **I-will-see** your-skies work-of",
-        "englishNatural": "That **I see** your skies the work of"
+        "englishLiteral": "that- **I-will-see** your-skies, work-of",
+        "englishNatural": "That **I see** your skies, the work of"
       }
     },
     {
@@ -919,6 +954,7 @@
         "verse": 3
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "רָאָה",
         "transliteration": "ra'ah",
@@ -934,8 +970,8 @@
       "context": {
         "hebrew": "עָרוּם **רָאָה** רָעָה וְנִסְתָּר",
         "transliteration": "arum **ra'ah** ra`ah veNiStar",
-        "englishLiteral": "Shrewd **sees** bad and-himself-hides",
-        "englishNatural": "Shrewd **sees** bad and hides himself"
+        "englishLiteral": "Shrewd **sees** bad and-himself-hides,",
+        "englishNatural": "Shrewd **sees** bad and hides himself;"
       }
     },
     {
@@ -945,6 +981,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וָאֶרְאֶה",
         "transliteration": "vaEr'eh",
@@ -960,8 +997,8 @@
       "context": {
         "hebrew": "הַמֶּלֶךְ עֻזִּיָּהוּ **וָאֶרְאֶה** אֶת אֲדֹנָי",
         "transliteration": "haMelekh Uzziyahu **vaEr'eh** et Adonai",
-        "englishLiteral": "the-king He_my_Strength (Uzziah) **And-I-saw** ↳ my-Lord",
-        "englishNatural": "the king He-my-Strength (Uzziah) **And I saw** ↳ my Lord"
+        "englishLiteral": "the-king, He_my_Strength (Uzziah). **And-I-saw** ↳ my-Lord",
+        "englishNatural": "the king, He-my-Strength (Uzziah). **And I saw** ↳ my Lord"
       }
     },
     {
@@ -971,6 +1008,7 @@
         "verse": 5
       },
       "wordIndex": 21,
+      "sourceOrder": 21,
       "word": {
         "originalScript": "רָאוּ",
         "transliteration": "rau",
@@ -986,8 +1024,8 @@
       "context": {
         "hebrew": "יְהוָה צְבָאוֹת **רָאוּ** עֵינָי",
         "transliteration": "YHWH tsvaot **rau** einai",
-        "englishLiteral": "He_Who_Is (YHWH) of-Hosts **have-seen** my-eyes",
-        "englishNatural": "He-Who-Is (YHWH) of Hosts **have seen** my eyes"
+        "englishLiteral": "He_Who_Is (YHWH) of-Hosts **have-seen** my-eyes.\"",
+        "englishNatural": "that my eyes **have seen** ↳ the King,"
       }
     },
     {
@@ -997,6 +1035,7 @@
         "verse": 1
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "וָאֶרְאֶה",
         "transliteration": "vaEreh",
@@ -1012,8 +1051,8 @@
       "context": {
         "hebrew": "נִפְתְּחוּ הַשָּׁמַיִם **וָאֶרְאֶה** מַרְאוֹת אֱלֹהִים",
         "transliteration": "niftechu haShamayim **vaEreh** marot elohim",
-        "englishLiteral": "they-were-opened the-skies **and-I-saw** visions-of Gods",
-        "englishNatural": "were opened the skies **and I saw** visions of God"
+        "englishLiteral": "they-were-opened the-skies, **and-I-saw** visions-of Gods.",
+        "englishNatural": "the skies were opened, **and I saw** visions of God."
       }
     },
     {
@@ -1023,6 +1062,7 @@
         "verse": 4
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וָאֵרֶא",
         "transliteration": "vaEre",
@@ -1038,8 +1078,8 @@
       "context": {
         "hebrew": "**וָאֵרֶא** וְהִנֵּה רוּחַ",
         "transliteration": "**vaEre** veHineh ruach",
-        "englishLiteral": "**And-I-saw** and-behold wind",
-        "englishNatural": "**And I saw** and behold a wind"
+        "englishLiteral": "**And-I-saw** and-behold, wind",
+        "englishNatural": "**And I saw** and behold, a wind"
       }
     },
     {
@@ -1049,6 +1089,7 @@
         "verse": 15
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וָאֵרֶא",
         "transliteration": "vaEre",
@@ -1064,8 +1105,8 @@
       "context": {
         "hebrew": "**וָאֵרֶא** הַחַיּוֹת וְהִנֵּה",
         "transliteration": "**vaEre** haChayot veHineh",
-        "englishLiteral": "**And-I-saw** the-living-beings and-behold",
-        "englishNatural": "**And I saw** the living-beings and behold"
+        "englishLiteral": "**And-I-saw** the-living-beings, and-behold",
+        "englishNatural": "**And I saw** the living-beings, and behold"
       }
     },
     {
@@ -1075,6 +1116,7 @@
         "verse": 27
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וָאֵרֶא",
         "transliteration": "vaEre",
@@ -1090,8 +1132,8 @@
       "context": {
         "hebrew": "**וָאֵרֶא** כְּעֵין חַשְׁמַל",
         "transliteration": "**vaEre** keEin chashmal",
-        "englishLiteral": "**And-I-saw** like-eye-of glowing_metal",
-        "englishNatural": "**And I saw** like an eye of glowing-metal"
+        "englishLiteral": "**And-I-saw** like-eye-of glowing_metal,",
+        "englishNatural": "**And I saw** like an eye of glowing-metal,"
       }
     },
     {
@@ -1101,6 +1143,7 @@
         "verse": 27
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "רָאִיתִי",
         "transliteration": "raiti",
@@ -1116,8 +1159,8 @@
       "context": {
         "hebrew": "מָתְנָיו וּלְמַטָּה **רָאִיתִי** כְּמַרְאֵה־ אֵשׁ",
         "transliteration": "matnav uleMattah **raiti** keMareeh- esh",
-        "englishLiteral": "loins-his and-to-downward **I-saw** like-appearance-of- fire",
-        "englishNatural": "his loins and downward **I saw** like an appearance of fire"
+        "englishLiteral": "loins-his and-to-downward **I-saw** like-appearance-of- fire,",
+        "englishNatural": "his loins and downward **I saw** like an appearance of fire,"
       }
     },
     {
@@ -1127,6 +1170,7 @@
         "verse": 28
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "וָאֶרְאֶה",
         "transliteration": "vaEreh",
@@ -1142,8 +1186,8 @@
       "context": {
         "hebrew": "כְּבוֹד־ יְהוָה **וָאֶרְאֶה** וָאֶפֹּל עַל־",
         "transliteration": "kevod- YHWH **vaEreh** vaEppol al-",
-        "englishLiteral": "glory-of- He_Who_Is (YHWH) **And-I-saw** and-I-fell over-",
-        "englishNatural": "the glory of He-Who-Is (YHWH) **And I saw** and I fell over"
+        "englishLiteral": "glory-of- He_Who_Is (YHWH). **And-I-saw** and-I-fell over-",
+        "englishNatural": "the glory of He-Who-Is (YHWH). **And I saw** and I fell over"
       }
     },
     {
@@ -1153,6 +1197,7 @@
         "verse": 2
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "רָעָתָם",
         "transliteration": "raatam",
@@ -1166,8 +1211,8 @@
       "context": {
         "hebrew": "כִּי־ עָלְתָה **רָעָתָם** לְפָנָי",
         "transliteration": "ki- aletah **raatam** leFanai",
-        "englishLiteral": "that- went_up **bad-their** before-my-faces",
-        "englishNatural": "that has come up **their bad** before my face"
+        "englishLiteral": "that- went_up **bad-their** before-my-faces.\"",
+        "englishNatural": "over her, that **their bad** has come up before my face.\""
       }
     },
     {
@@ -1177,6 +1222,7 @@
         "verse": 10
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּרְא",
         "transliteration": "vaYar",
@@ -1193,7 +1239,7 @@
         "hebrew": "**וַיַּרְא** הָאֱלֹהִים אֶת־",
         "transliteration": "**vaYar** haElohim et-",
         "englishLiteral": "**And-saw** the-Gods ↳",
-        "englishNatural": "**saw** And the God ↳"
+        "englishNatural": "And the God **saw** ↳ their works,"
       }
     },
     {
@@ -1203,6 +1249,7 @@
         "verse": 5
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "יִרְאֶה",
         "transliteration": "yireh",

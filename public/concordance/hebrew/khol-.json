@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "כָל־",
         "transliteration": "khol-",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וַיְהִי **כָל־** הָאָרֶץ שָׂפָה",
         "transliteration": "vayHi **khol-** haAretz safah",
-        "englishLiteral": "And-was **all-** the-land lip",
-        "englishNatural": "was **And all** the land lip"
+        "englishLiteral": "And-was **all-** the-land, lip",
+        "englishNatural": "**And all** the land was,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 8
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "כָל־",
         "transliteration": "khol-",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "עַל־ פְּנֵי **כָל־** הָאָרֶץ וַיַּחְדְּלוּ",
         "transliteration": "al- peney **khol-** haAretz vayachdelu",
-        "englishLiteral": "over- faces-of **all-** the-land and-they-ceased",
-        "englishNatural": "over the face of **all** the land and they ceased"
+        "englishLiteral": "over- faces-of **all-** the-land, and-they-ceased",
+        "englishNatural": "over the face of **all** the land; and they ceased"
       }
     }
   ]

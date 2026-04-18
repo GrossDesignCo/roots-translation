@@ -9,6 +9,7 @@
         "verse": 31
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "שַׂגִּיא",
         "transliteration": "saggi",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "צְלֵם חַד **שַׂגִּיא** צַלְמָא דִכֵּן",
         "transliteration": "tselem chad **saggi** tsalma dikken",
-        "englishLiteral": "image one **great** image-the that",
-        "englishNatural": "image one **great** the image that"
+        "englishLiteral": "image one **great,** image-the that",
+        "englishNatural": "and behold, one **great** image, the image"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 5
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "שַׂגִּֽיא",
         "transliteration": "saggi",
@@ -44,10 +46,10 @@
         }
       },
       "context": {
-        "hebrew": "אֲכֻ֥ל בְּשַׂ֥ר **שַׂגִּֽיא**",
+        "hebrew": "אֲכֻ֥ל בְּשַׂ֥ר **שַׂגִּֽיא׃**",
         "transliteration": "akhul besar **saggi**",
-        "englishLiteral": "devour flesh **much**",
-        "englishNatural": "devour flesh **much**"
+        "englishLiteral": "devour flesh **much.**",
+        "englishNatural": "\"Arise, devour **much** flesh.\""
       }
     }
   ]

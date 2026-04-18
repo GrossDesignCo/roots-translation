@@ -10,6 +10,7 @@
         "verse": 18
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "בְּרִיתִי",
         "transliteration": "beriti",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וַהֲקִמֹתִי אֶת־ **בְּרִיתִי** אִתָּךְ וּבָאתָ",
         "transliteration": "vaHaqimoti et- **beriti** itakh uvata",
-        "englishLiteral": "And-I-will-stand_up ↳ **covenant-my** with-you and-you-shall-come",
-        "englishNatural": "And I will stand-up ↳ **my covenant** with you and you shall come"
+        "englishLiteral": "And-I-will-stand_up ↳ **covenant-my** with-you; and-you-shall-come",
+        "englishNatural": "And I will stand-up ↳ **my covenant** with you; and you shall come"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 9
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "בְּרִיתִי",
         "transliteration": "beriti",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "מֵקִים אֶת־ **בְּרִיתִי** אִתְּכֶם וְאֶת־",
         "transliteration": "meqim et- **beriti** itkhem veEt-",
-        "englishLiteral": "causing-to-stand_up ↳ **my-covenant** with-you and-↳",
-        "englishNatural": "causing to stand-up ↳ **my covenant** with you and"
+        "englishLiteral": "causing-to-stand_up, ↳ **my-covenant** with-you, and-↳",
+        "englishNatural": "causing to stand-up, ↳ **my covenant** with you, and"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 11
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "בְּרִיתִי",
         "transliteration": "beriti",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "וַהֲקִמֹתִי אֶת־ **בְּרִיתִי** אִתְּכֶם וְלֹא־",
         "transliteration": "vaHaqimoti et- **beriti** itkhem veLo-",
-        "englishLiteral": "and-I-will-cause-to-stand_up ↳ **my-covenant** with-you and-not-",
-        "englishNatural": "and I will cause to stand-up ↳ **my covenant** with you and not"
+        "englishLiteral": "and-I-will-cause-to-stand_up ↳, **my-covenant** with-you, and-not-",
+        "englishNatural": "and I will cause to stand-up ↳, **my covenant** with you, and not"
       }
     }
   ]

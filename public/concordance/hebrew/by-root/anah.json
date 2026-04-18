@@ -9,6 +9,7 @@
         "verse": 13
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "וְעִנּוּ",
         "transliteration": "veInu",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "לָהֶם וַעֲבָדוּם **וְעִנּוּ** אֹתָם אַרְבַּע",
         "transliteration": "lahem vaAvadum **veInu** otam arba",
-        "englishLiteral": "to-them and-they-will-serve **and-they-will-afflict** ↳ them four",
-        "englishNatural": "to them and they will serve **and they will afflict** them four"
+        "englishLiteral": "to-them, and-they-will-serve, **and-they-will-afflict** ↳ them four",
+        "englishNatural": "to them, and they will serve, **and they will afflict** them four"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּעַן",
         "transliteration": "vaYaan",
@@ -51,7 +53,7 @@
         "hebrew": "**וַיַּעַן** מֹשֶׁה וַיֹּאמֶר",
         "transliteration": "**vaYaan** Moshe vaYomer",
         "englishLiteral": "**And-answered** Drawn_Out (Moses) and-said",
-        "englishNatural": "**answered** And Drawn-Out (Moses) and said"
+        "englishNatural": "And Drawn-Out (Moses) **answered** and said, \"And behold,"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 2
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וַיַּעֲנֵנִי",
         "transliteration": "vaYaaneni",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "אֶל־ יְהוָה **וַיַּעֲנֵנִי** מִבֶּטֶן שְׁאוֹל",
         "transliteration": "el- YHWH **vaYaaneni** mibeten sheol",
-        "englishLiteral": "to- He_Who_Is (YHWH) **and-answered-me** from-belly-of Hades",
-        "englishNatural": "to He-Who-Is (YHWH) **and he answered me** from the belly of Hades"
+        "englishLiteral": "to- He_Who_Is (YHWH), **and-answered-me;** from-belly-of Hades",
+        "englishNatural": "to He-Who-Is (YHWH), **and he answered me;** from the belly of Hades"
       }
     }
   ]

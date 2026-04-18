@@ -9,6 +9,7 @@
         "verse": 31
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הַשִּׁשִּֽׁי",
         "transliteration": "haShishi",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "בֹ֖קֶר י֥וֹם **הַשִּׁשִּֽׁי**",
         "transliteration": "boqer yom **haShishi**",
-        "englishLiteral": "morning Day **the-sixth**",
-        "englishNatural": "And morning day **The sixth**"
+        "englishLiteral": "morning, Day **the-sixth.**",
+        "englishNatural": "And morning was, **The sixth** day."
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 6
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "שֵׁשׁ",
         "transliteration": "shesh",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וְנֹחַ בֶּן־ **שֵׁשׁ** מֵאוֹת שָׁנָה",
         "transliteration": "veNoach ben- **shesh** meot shanah",
-        "englishLiteral": "And-Rest (Noah) son-of- **six** hundreds year",
-        "englishNatural": "And Rest (Noah) a son of **six** hundred years"
+        "englishLiteral": "And-Rest (Noah), son-of- **six** hundreds year,",
+        "englishNatural": "And Rest (Noah), a son of **six** hundred years,"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 11
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "שֵׁשׁ־",
         "transliteration": "shesh-",
@@ -81,6 +84,7 @@
         "verse": 2
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "שֵׁשׁ",
         "transliteration": "shesh",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "מִמַּעַל לוֹ **שֵׁשׁ** כְּנָפַיִם לְאֶחָד",
         "transliteration": "miMaal lo **shesh** kenafayim leEchad",
-        "englishLiteral": "from-above to-him **six** wings to-one",
-        "englishNatural": "above him **six** wings to each one"
+        "englishLiteral": "from-above to-him; **six** wings to-one,",
+        "englishNatural": "above him; **six** wings to each one,"
       }
     }
   ]

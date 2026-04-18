@@ -10,6 +10,7 @@
         "verse": 24
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וָאֶשְׁמַע",
         "transliteration": "vaEshma",
@@ -36,6 +37,7 @@
         "verse": 28
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "וָאֶשְׁמַע",
         "transliteration": "vaEshma",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "עַל־ פָּנַי **וָאֶשְׁמַע** קוֹל מְדַבֵּר",
         "transliteration": "al- panai **vaEshma** qol medabber",
-        "englishLiteral": "over- faces-my **and-I-heard** voice speaking",
-        "englishNatural": "over my face **and I heard** a voice speaking"
+        "englishLiteral": "over- faces-my, **and-I-heard** voice speaking.",
+        "englishNatural": "over my face, **and I heard** a voice speaking."
       }
     },
     {
@@ -62,6 +64,7 @@
         "verse": 2
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וָאֶשְׁמַע",
         "transliteration": "vaEshma",
@@ -77,8 +80,8 @@
       "context": {
         "hebrew": "עַל־ רַגְלָי **וָאֶשְׁמַע** אֵת מִדַּבֵּר",
         "transliteration": "al- raglai **vaEshma** et midabber",
-        "englishLiteral": "over- feet-my **and-I-heard** ↳ speaking",
-        "englishNatural": "over my feet **and I heard** ↳ him speaking"
+        "englishLiteral": "over- feet-my, **and-I-heard** ↳ speaking",
+        "englishNatural": "over my feet, **and I heard** ↳ him speaking"
       }
     }
   ]

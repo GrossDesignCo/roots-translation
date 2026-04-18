@@ -10,6 +10,7 @@
         "verse": 7
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אִם־",
         "transliteration": "im-",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וַהֲלוֹא **אִם־** תֵּיטִיב שְׂאֵת",
         "transliteration": "vaHaLo **im-** teytiv set",
-        "englishLiteral": "And-is_there_not **if-** you-do_well lifting_up",
-        "englishNatural": "And is there not **if** you do-well lifting-up"
+        "englishLiteral": "And-is_there_not, **if-** you-do_well, lifting_up?",
+        "englishNatural": "And is there not, **if** you do-well, lifting-up?"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 5
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אִם־",
         "transliteration": "im-",
@@ -47,7 +49,7 @@
       "context": {
         "hebrew": "וּסְפֹר הַכּוֹכָבִים **אִם־** תּוּכַל לִסְפֹּר",
         "transliteration": "uSefor haKokhavim **im-** tukhal lisfor",
-        "englishLiteral": "and-count the-stars **if-** you-are-able to-count",
+        "englishLiteral": "and-count the-stars, **if-** you-are-able to-count",
         "englishNatural": "and count the stars **if** you are able to count"
       }
     },
@@ -58,6 +60,7 @@
         "verse": 8
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "עִם־",
         "transliteration": "im-",
@@ -69,10 +72,10 @@
         }
       },
       "context": {
-        "hebrew": "כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם **עִם־** הַמֵּתִ֖ים וְעִמָּדִֽי",
+        "hebrew": "כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם **עִם־** הַמֵּתִ֖ים וְעִמָּדִֽי׃",
         "transliteration": "kaAsher asitem **im-** haMetim veImmadi",
-        "englishLiteral": "as-which you-made **with-** the-dead and-with-me",
-        "englishNatural": "as which you made **with** the dead and with me"
+        "englishLiteral": "as-which you-made **with-** the-dead and-with-me.",
+        "englishNatural": "as which you made **with** the dead and with me."
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "אִם־",
         "transliteration": "im-",
@@ -96,7 +100,7 @@
         "hebrew": "**אִם־** לֹא שִׁוִּיתִי",
         "transliteration": "**im-** lo shiviti",
         "englishLiteral": "**if-** not I-have-balanced",
-        "englishNatural": "**If** not I have balanced"
+        "englishNatural": "**If** not, I have balanced"
       }
     }
   ]

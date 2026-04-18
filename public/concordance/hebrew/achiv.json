@@ -10,6 +10,7 @@
         "verse": 2
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אָחִיו",
         "transliteration": "achiv",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "לָלֶדֶת אֶת־ **אָחִיו** אֶת־ הָבֶל",
         "transliteration": "laLedet et- **achiv** et- Havel",
-        "englishLiteral": "to-her-birthing ↳ **his-brother** ↳ Vapor (Abel)",
-        "englishNatural": "to her birthing ↳ **his brother** ↳ Vapor (Abel)"
+        "englishLiteral": "to-her-birthing, ↳ **his-brother** ↳ Vapor (Abel).",
+        "englishNatural": "to her birthing, ↳ **his brother** ↳ Vapor (Abel)."
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 8
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אָחִיו",
         "transliteration": "achiv",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "אֶל־ הֶבֶל **אָחִיו** וַיְהִי בִּהְיוֹתָם",
         "transliteration": "el- Hevel **achiv** vayHi biHyotam",
-        "englishLiteral": "to Vapor (Abel) **his-brother** And-it-was in-their-being",
-        "englishNatural": "to Vapor (Abel) **his brother** and it was in their being"
+        "englishLiteral": "to Vapor (Abel) **his-brother;** And-it-was in-their-being",
+        "englishNatural": "to Vapor (Abel) **his brother;** and it was in their being"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 8
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "אָחִיו",
         "transliteration": "achiv",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "אֶל־ הֶבֶל **אָחִיו** וַיַּהַרְגֵהוּ",
         "transliteration": "el- Hevel **achiv** vayYahargehu",
-        "englishLiteral": "to- Vapor (Abel) **his-brother** and-he-killed-him",
-        "englishNatural": "to Vapor (Abel) **his brother** and killed him"
+        "englishLiteral": "to- Vapor (Abel) **his-brother,** and-he-killed-him.",
+        "englishNatural": "to Vapor (Abel) **his brother,** and killed him."
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 21
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אָחִיו",
         "transliteration": "achiv",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "וְשֵׁם **אָחִיו** יוּבָל הוּא",
         "transliteration": "veShem **achiv** Yuval hu",
-        "englishLiteral": "and-name **brother-his** Music (Jubal) he",
-        "englishNatural": "And the name **of his brother** Music (Jubal) he"
+        "englishLiteral": "and-name **brother-his,** Music (Jubal); he",
+        "englishNatural": "And the name **of his brother,** Music (Jubal); he"
       }
     },
     {
@@ -106,6 +110,7 @@
         "verse": 5
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "אָחִיו",
         "transliteration": "achiv",
@@ -130,6 +135,7 @@
         "verse": 23
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אָחִיו",
         "transliteration": "achiv",
@@ -144,7 +150,7 @@
         "hebrew": "אִישׁ אֶת־ **אָחִיו** וְלֹא־ קָמוּ",
         "transliteration": "ish et- **achiv** veLo- qamu",
         "englishLiteral": "man ↳ **brother-his** and-not- stood_up",
-        "englishNatural": "Man ↳ **his brother** not stood-up"
+        "englishNatural": "not ↳ **his brother,** and man stood-up"
       }
     }
   ]

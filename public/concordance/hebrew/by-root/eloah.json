@@ -9,6 +9,7 @@
         "verse": 1
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִ֑ים",
         "transliteration": "Elohim",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "בְּרֵאשִׁ֖ית בָּרָ֣א **אֱלֹהִ֑ים** אֵ֥ת הַשָּׁמַ֖יִם",
         "transliteration": "beReshit bara **Elohim** et haShamayim",
-        "englishLiteral": "In-heading created **Gods** ↳ the-skies",
-        "englishNatural": "In the heading created **God** ↳ the skies"
+        "englishLiteral": "In-heading, created **Gods** ↳ the-skies",
+        "englishNatural": "In the heading, **God** created ↳"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 2
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "אֱלֹהִ֔ים",
         "transliteration": "Elohim",
@@ -45,9 +47,9 @@
       },
       "context": {
         "hebrew": "תְהֹ֑ום וְר֣וּחַ **אֱלֹהִ֔ים** מְרַחֶ֖פֶת עַל־פְּנֵ֥י",
-        "transliteration": "tehom veRuach **Elohim** meRachefet al-peney",
-        "englishLiteral": "abyss And-Wind **Gods** stirring over-faces-of",
-        "englishNatural": "the abyss And the Wind of **God** stirring over the face of"
+        "transliteration": "tehom. veRuach **Elohim** meRachefet al-peney",
+        "englishLiteral": "abyss. And-Wind, **Gods,** stirring over-faces-of",
+        "englishNatural": "the abyss. And the Wind of **God,** stirring over the face of"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 3
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֖ים",
         "transliteration": "Elohim",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "וַיֹּ֥אמֶר **אֱלֹהִ֖ים** יְהִ֣י א֑וֹר",
         "transliteration": "vaYomer **Elohim** yehi or",
-        "englishLiteral": "And-said **Gods** Let-be light",
-        "englishNatural": "said **And God** be Let light"
+        "englishLiteral": "And-said **Gods,** \"Let-be light.\"",
+        "englishNatural": "**And God** said, \"Let light"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 4
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֛ים",
         "transliteration": "Elohim",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "וַיַּ֧רְא **אֱלֹהִ֛ים** אֶת־ הָא֖וֹר",
         "transliteration": "vaYar **Elohim** et- haOr",
-        "englishLiteral": "And-saw **Gods** ↳ the-light",
-        "englishNatural": "saw **And God** ↳ the light"
+        "englishLiteral": "And-saw **Gods** ↳ the-light,",
+        "englishNatural": "**And God** saw ↳"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 4
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "אֱלֹהִ֔ים",
         "transliteration": "Elohim",
@@ -117,9 +122,9 @@
       },
       "context": {
         "hebrew": "ט֑וֹב וַיַּבְדֵּ֣ל **אֱלֹהִ֔ים** בֵּ֥ין הָא֖וֹר",
-        "transliteration": "tov vaYavdel **Elohim** beyn haOr",
-        "englishLiteral": "good And-separated **Gods** between the-light",
-        "englishNatural": "good separated **And God** between the light"
+        "transliteration": "tov. vaYavdel **Elohim** beyn haOr,",
+        "englishLiteral": "good. And-separated **Gods** between the-light,",
+        "englishNatural": "that it was good. **And God** separated between"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 5
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֤ים",
         "transliteration": "Elohim",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "וַיִּקְרָ֨א **אֱלֹהִ֤ים** לָא֔וֹר י֑וֹם",
         "transliteration": "vaYiqra **Elohim** laOr yom",
-        "englishLiteral": "And-called_out **Gods** to-light Day",
-        "englishNatural": "called-out **And God** to light Day"
+        "englishLiteral": "And-called_out **Gods** to-light \"Day,\"",
+        "englishNatural": "**And God** called-out to light,"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 6
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -166,8 +173,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר **אֱלֹהִים** יְהִי רָקִיעַ",
         "transliteration": "vaYomer **Elohim** yehi raqia",
-        "englishLiteral": "And-said **Gods** Let-be hammering_out",
-        "englishNatural": "said **And God** be Let a hammering-out"
+        "englishLiteral": "And-said **Gods** \"Let-be hammering_out",
+        "englishNatural": "**And God** said, \"Let a hammering-out"
       }
     },
     {
@@ -177,6 +184,7 @@
         "verse": 7
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֔ים",
         "transliteration": "Elohim",
@@ -190,8 +198,8 @@
       "context": {
         "hebrew": "וַיַּ֣עַשׂ **אֱלֹהִ֔ים** אֶת־ הָרָקִ֖יעַ",
         "transliteration": "vaYaas **Elohim** et- haRaqia",
-        "englishLiteral": "And-made **Gods** ↳ the-hammering_out",
-        "englishNatural": "made **And God** ↳ the hammering-out"
+        "englishLiteral": "And-made **Gods** ↳ the-hammering_out,",
+        "englishNatural": "**And God** made ↳"
       }
     },
     {
@@ -201,6 +209,7 @@
         "verse": 8
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֛ים",
         "transliteration": "Elohim",
@@ -214,8 +223,8 @@
       "context": {
         "hebrew": "וַיִּקְרָ֧א **אֱלֹהִ֛ים** לָֽרָקִ֖יעַ שָׁמָ֑יִם",
         "transliteration": "vaYiqra **Elohim** laRaqia shamayim",
-        "englishLiteral": "And-called_out **Gods** to_the-hammering_out Skies",
-        "englishNatural": "called-out **And God** to the hammering-out Skies"
+        "englishLiteral": "And-called_out **Gods** to_the-hammering_out, \"Skies.\"",
+        "englishNatural": "**And God** called-out to the hammering-out,"
       }
     },
     {
@@ -225,6 +234,7 @@
         "verse": 9
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֗ים",
         "transliteration": "Elohim",
@@ -238,8 +248,8 @@
       "context": {
         "hebrew": "וַיֹּ֣אמֶר **אֱלֹהִ֗ים** יִקָּו֨וּ הַמַּ֜יִם",
         "transliteration": "vaYomer **Elohim** yiqqavu haMayim",
-        "englishLiteral": "And-said **Gods** Let-gather the-waters",
-        "englishNatural": "said **And God** gather Let the waters"
+        "englishLiteral": "And-said, **Gods,** \"Let-gather, the-waters,",
+        "englishNatural": "**And God** said, \"Let the waters"
       }
     },
     {
@@ -249,6 +259,7 @@
         "verse": 10
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֤ים ׀",
         "transliteration": "Elohim",
@@ -262,8 +273,8 @@
       "context": {
         "hebrew": "וַיִּקְרָ֨א **אֱלֹהִ֤ים ׀** לַיַּבָּשָׁה֙ אֶ֔רֶץ",
         "transliteration": "vaYiqra **Elohim** laYabashah eretz",
-        "englishLiteral": "And-called_out **Gods** to-dry-ground Land",
-        "englishNatural": "called-out **And God** to the dry-ground Land"
+        "englishLiteral": "And-called_out **Gods** to-dry-ground \"Land,\"",
+        "englishNatural": "**And God** called-out to the dry-ground,"
       }
     },
     {
@@ -273,6 +284,7 @@
         "verse": 10
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אֱלֹהִ֖ים",
         "transliteration": "Elohim",
@@ -286,8 +298,8 @@
       "context": {
         "hebrew": "יַמִּ֑ים וַיַּ֥רְא **אֱלֹהִ֖ים** כִּי־ טֽוֹב׃",
         "transliteration": "yamim vaYar **Elohim** ki- tov",
-        "englishLiteral": "Seas And-saw **Gods** that- good",
-        "englishNatural": "Seas saw **And God** that it was good"
+        "englishLiteral": "\"Seas.\" And-saw **Gods,** that- good.",
+        "englishNatural": "he called-out, \"Seas.\" **And God** saw, that it was"
       }
     },
     {
@@ -297,6 +309,7 @@
         "verse": 11
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֖ים",
         "transliteration": "Elohim",
@@ -310,8 +323,8 @@
       "context": {
         "hebrew": "וַיֹּ֥אמֶר **אֱלֹהִ֖ים** תַּֽדְשֵׁ֣א הָאָ֑רֶץ",
         "transliteration": "vaYomer **Elohim** tadShe haAretz",
-        "englishLiteral": "And-said **Gods** Let-tenderly_shoot_up the-land",
-        "englishNatural": "said **And God** tenderly-shoot-up Let the land"
+        "englishLiteral": "And-said **Gods,** \"Let-tenderly_shoot_up the-land",
+        "englishNatural": "**And God** said, \"Let the land"
       }
     },
     {
@@ -321,6 +334,7 @@
         "verse": 12
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "אֱלֹהִ֖ים",
         "transliteration": "Elohim",
@@ -334,8 +348,8 @@
       "context": {
         "hebrew": "לְמִינֵ֑הוּ וַיַּ֥רְא **אֱלֹהִ֖ים** כִּי־ טֽוֹב׃",
         "transliteration": "leMinehu vaYar **Elohim** ki- tov",
-        "englishLiteral": "to-its-kind And-saw **Gods** that- good",
-        "englishNatural": "after its kind saw **And God** that it was good"
+        "englishLiteral": "to-its-kind. And-saw **Gods,** that- good.",
+        "englishNatural": "has its seed in it after its kind. **And God** saw, that it was"
       }
     },
     {
@@ -345,6 +359,7 @@
         "verse": 14
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֔ים",
         "transliteration": "Elohim",
@@ -358,8 +373,8 @@
       "context": {
         "hebrew": "וַיֹּ֣אמֶר **אֱלֹהִ֔ים** יְהִ֤י מְאֹרֹ֖ת",
         "transliteration": "vaYomer **Elohim** yehi meOrot",
-        "englishLiteral": "And-said **Gods** Let-be light_sources",
-        "englishNatural": "said **And God** Let there be light-sources"
+        "englishLiteral": "And-said **Gods,** \"Let-be light_sources",
+        "englishNatural": "**And God** said, \"Let there be"
       }
     },
     {
@@ -369,6 +384,7 @@
         "verse": 16
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֔ים",
         "transliteration": "Elohim",
@@ -382,8 +398,8 @@
       "context": {
         "hebrew": "וַיַּ֣עַשׂ **אֱלֹהִ֔ים** אֶת־ שְׁנֵ֥י",
         "transliteration": "vaYaas **Elohim** et- shney",
-        "englishLiteral": "And-made **Gods** ↳ two",
-        "englishNatural": "made **And God** ↳ two"
+        "englishLiteral": "And-made **Gods** ↳ two,",
+        "englishNatural": "**And God** made ↳"
       }
     },
     {
@@ -393,6 +409,7 @@
         "verse": 17
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִ֖ים",
         "transliteration": "Elohim",
@@ -406,8 +423,8 @@
       "context": {
         "hebrew": "וַיִּתֵּ֥ן אֹתָ֛ם **אֱלֹהִ֖ים** בִּרְקִ֣יעַ הַשָּׁמָ֑יִם",
         "transliteration": "vaYiten otam **Elohim** biRqia haShamayim",
-        "englishLiteral": "And-put them **Gods** in-hammering_out the-skies",
-        "englishNatural": "put them **And God** in the hammering-out the skies"
+        "englishLiteral": "And-put them **Gods** in-hammering_out, the-skies,",
+        "englishNatural": "**And God** put them"
       }
     },
     {
@@ -417,6 +434,7 @@
         "verse": 18
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אֱלֹהִ֖ים",
         "transliteration": "Elohim",
@@ -430,8 +448,8 @@
       "context": {
         "hebrew": "הַחֹ֑שֶׁךְ וַיַּ֧רְא **אֱלֹהִ֖ים** כִּי־ טֽוֹב׃",
         "transliteration": "haHoshekh vaYar **Elohim** ki- tov",
-        "englishLiteral": "the-darkness And-saw **Gods** that- good",
-        "englishNatural": "the darkness saw **And God** that it was good"
+        "englishLiteral": "the-darkness, And-saw **Gods,** that- good.",
+        "englishNatural": "and between the darkness, **And God** saw, that it was"
       }
     },
     {
@@ -441,6 +459,7 @@
         "verse": 20
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֔ים",
         "transliteration": "Elohim",
@@ -454,8 +473,8 @@
       "context": {
         "hebrew": "וַיֹּ֣אמֶר **אֱלֹהִ֔ים** יִשְׁרְצ֣וּ הַמַּ֔יִם",
         "transliteration": "vaYomer **Elohim** yiShretsu haMayim",
-        "englishLiteral": "And-said **Gods** Let-swarm the-waters",
-        "englishNatural": "said **And God** swarm with Let the waters"
+        "englishLiteral": "And-said **Gods,** \"Let-swarm the-waters",
+        "englishNatural": "**And God** said, \"Let the waters"
       }
     },
     {
@@ -465,6 +484,7 @@
         "verse": 21
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֔ים",
         "transliteration": "Elohim",
@@ -478,8 +498,8 @@
       "context": {
         "hebrew": "וַיִּבְרָ֣א **אֱלֹהִ֔ים** אֶת־ הַתַּנִּינִ֖ם",
         "transliteration": "vaYiVra **Elohim** et- haTanninim",
-        "englishLiteral": "And-created **Gods** ↳ the-monsters",
-        "englishNatural": "created **And God** ↳ the monsters"
+        "englishLiteral": "And-created **Gods** ↳ the-monsters,",
+        "englishNatural": "**And God** created ↳"
       }
     },
     {
@@ -489,6 +509,7 @@
         "verse": 21
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "אֱלֹהִ֖ים",
         "transliteration": "Elohim",
@@ -502,8 +523,8 @@
       "context": {
         "hebrew": "לְמִינֵ֑הוּ וַיַּ֥רְא **אֱלֹהִ֖ים** כִּי־ טֽוֹב׃",
         "transliteration": "leMinehu vaYar **Elohim** ki- tov",
-        "englishLiteral": "to-its-kind And-saw **Gods** that- good",
-        "englishNatural": "to its kind saw **And God** that it was good"
+        "englishLiteral": "to-its-kind, And-saw **Gods,** that- good.",
+        "englishNatural": "flyer to its kind, **And God** saw, that it was"
       }
     },
     {
@@ -513,6 +534,7 @@
         "verse": 22
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִ֑ים",
         "transliteration": "Elohim",
@@ -526,8 +548,8 @@
       "context": {
         "hebrew": "וַיְבָ֧רֶךְ אֹתָ֖ם **אֱלֹהִ֑ים** לֵאמֹ֕ר פְּר֣וּ",
         "transliteration": "vaYeVarekh otam **Elohim** leMor peru",
-        "englishLiteral": "And-blessed them **Gods** saying Be_fruitful",
-        "englishNatural": "blessed them **And God** saying Be-fruitful"
+        "englishLiteral": "And-blessed them **Gods,** saying, \"Be_fruitful",
+        "englishNatural": "**And God** blessed them,"
       }
     },
     {
@@ -537,6 +559,7 @@
         "verse": 24
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֔ים",
         "transliteration": "Elohim",
@@ -550,8 +573,8 @@
       "context": {
         "hebrew": "וַיֹּ֣אמֶר **אֱלֹהִ֔ים** תּוֹצֵ֨א הָאָ֜רֶץ",
         "transliteration": "vaYomer **Elohim** totze haAretz",
-        "englishLiteral": "And-said **Gods** Let-bring_out the-land",
-        "englishNatural": "said **And God** bring-out Let the land"
+        "englishLiteral": "And-said **Gods,** \"Let-bring_out the-land",
+        "englishNatural": "**And God** said, \"Let the land"
       }
     },
     {
@@ -561,6 +584,7 @@
         "verse": 25
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִים֙",
         "transliteration": "Elohim",
@@ -574,8 +598,8 @@
       "context": {
         "hebrew": "וַיַּ֣עַשׂ **אֱלֹהִים֙** אֶת־ חַיַּ֤ת",
         "transliteration": "vaYaas **Elohim** et- chayat",
-        "englishLiteral": "And-made **Gods** ↳ living_being-of",
-        "englishNatural": "made **And God** ↳ living-being of"
+        "englishLiteral": "And-made **Gods,** ↳ living_being-of",
+        "englishNatural": "**And God** made, ↳"
       }
     },
     {
@@ -585,6 +609,7 @@
         "verse": 25
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "אֱלֹהִ֖ים",
         "transliteration": "Elohim",
@@ -598,8 +623,8 @@
       "context": {
         "hebrew": "לְמִינֵ֖הוּ וַיַּ֥רְא **אֱלֹהִ֖ים** כִּי־ טֽוֹב׃",
         "transliteration": "leMinehu vaYar **Elohim** ki- tov",
-        "englishLiteral": "to-its-kind And-saw **Gods** that- good",
-        "englishNatural": "to its kind saw **And God** that it was good"
+        "englishLiteral": "to-its-kind, And-saw **Gods,** that- good.",
+        "englishNatural": "the earth, to its kind, **And God** saw, that it was"
       }
     },
     {
@@ -609,6 +634,7 @@
         "verse": 26
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֔ים",
         "transliteration": "Elohim",
@@ -622,8 +648,8 @@
       "context": {
         "hebrew": "וַיֹּ֣אמֶר **אֱלֹהִ֔ים** נַֽעֲשֶׂ֥ה אָדָ֛ם",
         "transliteration": "vaYomer **Elohim** naAseh Adam",
-        "englishLiteral": "And-said **Gods** Let_us-make Earthling (Adam)",
-        "englishNatural": "said **And God** Let us make Earthling (Adam)"
+        "englishLiteral": "And-said **Gods,** \"Let_us-make Earthling (Adam),",
+        "englishNatural": "**And God** said, \"Let us make"
       }
     },
     {
@@ -633,6 +659,7 @@
         "verse": 27
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֤ים",
         "transliteration": "Elohim",
@@ -646,8 +673,8 @@
       "context": {
         "hebrew": "וַיִּבְרָ֨א **אֱלֹהִ֤ים** אֶת־ הָֽאָדָם֙",
         "transliteration": "vaYiVra **Elohim** et- haAdam",
-        "englishLiteral": "And-created **Gods** ↳ the-Earthling (Adam)",
-        "englishNatural": "created **And God** ↳ the Earthling (Adam)"
+        "englishLiteral": "And-created **Gods,** ↳ the-Earthling (Adam),",
+        "englishNatural": "**And God** created ↳"
       }
     },
     {
@@ -657,6 +684,7 @@
         "verse": 27
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אֱלֹהִ֖ים",
         "transliteration": "Elohim",
@@ -670,8 +698,8 @@
       "context": {
         "hebrew": "בְּצַלְמ֔וֹ בְּצֶ֥לֶם **אֱלֹהִ֖ים** בָּרָ֣א אֹת֑וֹ",
         "transliteration": "beTsalmo beTselem **Elohim** bara oto",
-        "englishLiteral": "in-his-image in-image-of **Gods** created him",
-        "englishNatural": "in his image in the image of **God** created him"
+        "englishLiteral": "in-his-image, in-image-of **Gods,** created him,",
+        "englishNatural": "in his image, in the image of **God,** created him,"
       }
     },
     {
@@ -681,6 +709,7 @@
         "verse": 28
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִ֒ים",
         "transliteration": "Elohim",
@@ -694,8 +723,8 @@
       "context": {
         "hebrew": "וַיְבָ֣רֶךְ אֹתָם֮ **אֱלֹהִ֒ים** וַיֹּ֨אמֶר לָהֶ֜ם",
         "transliteration": "vaYeVarech otam **Elohim** vaYomer lahem",
-        "englishLiteral": "And-blessed them **Gods** And-said to-them",
-        "englishNatural": "blessed them **And God** said to them"
+        "englishLiteral": "And-blessed them **Gods,** And-said to-them",
+        "englishNatural": "**And God** blessed them,"
       }
     },
     {
@@ -705,6 +734,7 @@
         "verse": 28
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "אֱלֹהִים֮",
         "transliteration": "Elohim",
@@ -718,8 +748,8 @@
       "context": {
         "hebrew": "וַיֹּ֨אמֶר לָהֶ֜ם **אֱלֹהִים֮** פְּר֥וּ וּרְב֛וּ",
         "transliteration": "vaYomer lahem **Elohim** peru uRevu",
-        "englishLiteral": "And-said to-them **Gods** Be_fruitful and-multiply",
-        "englishNatural": "said to them **And God** Be-fruitful and multiply"
+        "englishLiteral": "And-said to-them **Gods,** \"Be_fruitful and-multiply",
+        "englishNatural": "blessed them, **And God** said to them,"
       }
     },
     {
@@ -729,6 +759,7 @@
         "verse": 29
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֗ים",
         "transliteration": "Elohim",
@@ -742,8 +773,8 @@
       "context": {
         "hebrew": "וַיֹּ֣אמֶר **אֱלֹהִ֗ים** הִנֵּה֩ נָתַ֨תִּי",
         "transliteration": "vaYomer **Elohim** hineh natati",
-        "englishLiteral": "And-said **Gods** Behold I-give",
-        "englishNatural": "said **And God** Behold I give"
+        "englishLiteral": "And-said **Gods,** \"Behold, I-give",
+        "englishNatural": "**And God** said, \"Behold,"
       }
     },
     {
@@ -753,6 +784,7 @@
         "verse": 31
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִ֖ים",
         "transliteration": "Elohim",
@@ -766,8 +798,8 @@
       "context": {
         "hebrew": "וַיַּ֤רְא **אֱלֹהִ֖ים** אֶת כָּל",
         "transliteration": "vaYar **Elohim** et kol",
-        "englishLiteral": "And-saw **Gods** ↳ all",
-        "englishNatural": "saw **And God** ↳ all"
+        "englishLiteral": "And-saw **Gods,** ↳ all",
+        "englishNatural": "**And God** saw, ↳"
       }
     },
     {
@@ -777,6 +809,7 @@
         "verse": 2
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -790,8 +823,8 @@
       "context": {
         "hebrew": "וַיְכַל **אֱלֹהִים** בַּיּוֹם הַשְּׁבִיעִי",
         "transliteration": "vaYechal **Elohim** baYom haShvi`i",
-        "englishLiteral": "And-finished **Gods** in-day the-seventh",
-        "englishNatural": "finished **And God** day in the seventh"
+        "englishLiteral": "And-finished **Gods** in-day the-seventh,",
+        "englishNatural": "**And God** finished in the seventh"
       }
     },
     {
@@ -801,6 +834,7 @@
         "verse": 3
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -815,7 +849,7 @@
         "hebrew": "וַיְבָרֶךְ **אֱלֹהִים** אֶת־ יוֹם",
         "transliteration": "vaYeVarekh **Elohim** et- yom",
         "englishLiteral": "And-blessed **Gods** ↳ day",
-        "englishNatural": "blessed **And God** ↳ day"
+        "englishNatural": "**And God** blessed ↳"
       }
     },
     {
@@ -825,6 +859,7 @@
         "verse": 3
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -838,8 +873,8 @@
       "context": {
         "hebrew": "אֲשֶׁר בָּרָא **אֱלֹהִים** לַעֲשׂוֹת׃",
         "transliteration": "asher bara **Elohim** laasot",
-        "englishLiteral": "which created **Gods** to-make",
-        "englishNatural": "which created **God** made"
+        "englishLiteral": "which created **Gods** to-make.",
+        "englishNatural": "his work, which **God** created, made."
       }
     },
     {
@@ -849,6 +884,7 @@
         "verse": 4
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -862,8 +898,8 @@
       "context": {
         "hebrew": "עֲשׂוֹת יְהוָה **אֱלֹהִים** אֶרֶץ וְשָׁמָיִם׃",
         "transliteration": "asot YHWH **Elohim** eretz veShamayim",
-        "englishLiteral": "making He_Who_Is (YHWH) **Gods** land and-skies",
-        "englishNatural": "made He-Who-Is (YHWH) **God** land and skies"
+        "englishLiteral": "making He_Who_Is (YHWH) **Gods** land and-skies.",
+        "englishNatural": "in the day He-Who-Is (YHWH) **God** made land"
       }
     },
     {
@@ -873,6 +909,7 @@
         "verse": 5
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -886,8 +923,8 @@
       "context": {
         "hebrew": "הִמְטִיר יְהוָה **אֱלֹהִים** עַל הָאָרֶץ",
         "transliteration": "himtir YHWH **Elohim** al haAretz",
-        "englishLiteral": "caused_to_rain He_Who_Is (YHWH) **Gods** over the-land",
-        "englishNatural": "caused it to rain He-Who-Is (YHWH) **God** over the land"
+        "englishLiteral": "caused_to_rain He_Who_Is (YHWH) **Gods** over the-land,",
+        "englishNatural": "for He-Who-Is (YHWH) **God** had not caused it to rain"
       }
     },
     {
@@ -897,6 +934,7 @@
         "verse": 7
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -911,7 +949,7 @@
         "hebrew": "וַיִּיצֶר יְהוָה **אֱלֹהִים** אֶת־ הָאָדָם",
         "transliteration": "vaYiytzer YHWH **Elohim** et- haAdam",
         "englishLiteral": "And-formed He_Who_Is (YHWH) **Gods** ↳ the-Earthling (Adam)",
-        "englishNatural": "formed And He-Who-Is (YHWH) **God** ↳ the Earthling (Adam)"
+        "englishNatural": "And He-Who-Is (YHWH) **God** formed ↳"
       }
     },
     {
@@ -921,6 +959,7 @@
         "verse": 8
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -935,7 +974,7 @@
         "hebrew": "וַיִּטַּע יְהוָה **אֱלֹהִים** גַּן בְּעֵדֶן",
         "transliteration": "vaYitta YHWH **Elohim** gan beEden",
         "englishLiteral": "And-planted He_Who_Is (YHWH) **Gods** garden in-Delight (Eden)",
-        "englishNatural": "planted And He-Who-Is (YHWH) **God** a garden in Delight (Eden)"
+        "englishNatural": "And He-Who-Is (YHWH) **God** planted a garden"
       }
     },
     {
@@ -945,6 +984,7 @@
         "verse": 9
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -959,7 +999,7 @@
         "hebrew": "וַיַּצְמַח יְהוָה **אֱלֹהִים** מִן־הָאֲדָמָה כָּל־",
         "transliteration": "vaYatzmach YHWH **Elohim** min-haAdamah kol-",
         "englishLiteral": "And-grew He_Who_Is (YHWH) **Gods** from-the-earth all-",
-        "englishNatural": "grew And He-Who-Is (YHWH) **God** from the earth every"
+        "englishNatural": "And He-Who-Is (YHWH) **God** grew from the earth"
       }
     },
     {
@@ -969,6 +1009,7 @@
         "verse": 15
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -982,8 +1023,8 @@
       "context": {
         "hebrew": "וַיִּקַּח יְהוָה **אֱלֹהִים** אֶת־ הָאָדָם",
         "transliteration": "vaYikach YHWH **Elohim** et- haAdam",
-        "englishLiteral": "And-took He_Who_Is (YHWH) **Gods** ↳ the-Earthling (Adam)",
-        "englishNatural": "took And He-Who-Is (YHWH) **God** ↳ the Earthling (Adam)"
+        "englishLiteral": "And-took He_Who_Is (YHWH) **Gods** ↳ the-Earthling (Adam),",
+        "englishNatural": "And He-Who-Is (YHWH) **God** took ↳"
       }
     },
     {
@@ -993,6 +1034,7 @@
         "verse": 16
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1006,8 +1048,8 @@
       "context": {
         "hebrew": "וַיְצַו יְהוָה **אֱלֹהִים** עַל־ הָאָדָם",
         "transliteration": "vaYetzav YHWH **Elohim** al- haAdam",
-        "englishLiteral": "And-commanded He_Who_Is (YHWH) **Gods** over- the-Earthling (Adam)",
-        "englishNatural": "commanded And He-Who-Is (YHWH) **God** over the Earthling (Adam)"
+        "englishLiteral": "And-commanded He_Who_Is (YHWH) **Gods** over- the-Earthling (Adam),",
+        "englishNatural": "And He-Who-Is (YHWH) **God** commanded over"
       }
     },
     {
@@ -1017,6 +1059,7 @@
         "verse": 18
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1030,8 +1073,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר יְהוָה **אֱלֹהִים** לֹא־ טוֹב",
         "transliteration": "vaYomer YHWH **Elohim** lo- tov",
-        "englishLiteral": "And-said He_Who_Is (YHWH) **Gods** No- good",
-        "englishNatural": "said And He-Who-Is (YHWH) **God** No good"
+        "englishLiteral": "And-said He_Who_Is (YHWH) **Gods,** \"No- good",
+        "englishNatural": "And He-Who-Is (YHWH) **God** said, \"No"
       }
     },
     {
@@ -1041,6 +1084,7 @@
         "verse": 19
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1055,7 +1099,7 @@
         "hebrew": "וַיִּצֶר יְהוָה **אֱלֹהִים** מִן־ הָאֲדָמָה",
         "transliteration": "vaYitzer YHWH **Elohim** min- haAdamah",
         "englishLiteral": "And-formed He_Who_Is (YHWH) **Gods** from- the-earth",
-        "englishNatural": "formed And He-Who-Is (YHWH) **God** from the earth"
+        "englishNatural": "And He-Who-Is (YHWH) **God** formed from"
       }
     },
     {
@@ -1065,6 +1109,7 @@
         "verse": 21
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1079,7 +1124,7 @@
         "hebrew": "וַיַּפֵּל יְהוָה **אֱלֹהִים** תַּרְדֵּמָה עַל",
         "transliteration": "vaYapel YHWH **Elohim** tardemah al",
         "englishLiteral": "And-caused-to-fall He_Who_Is (YHWH) **Gods** deep_trance over",
-        "englishNatural": "to fall And He-Who-Is (YHWH) **God** caused a deep-trance over"
+        "englishNatural": "And He-Who-Is (YHWH) **God** caused a deep-trance to fall"
       }
     },
     {
@@ -1089,6 +1134,7 @@
         "verse": 22
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1103,7 +1149,7 @@
         "hebrew": "וַיִּבֶן יְהוָה **אֱלֹהִים** אֶת־ הַצֵּלָע",
         "transliteration": "vaYiven YHWH **Elohim** et- haTzela",
         "englishLiteral": "And-built He_Who_Is (YHWH) **Gods** ↳ the-side",
-        "englishNatural": "built And He-Who-Is (YHWH) **God** ↳ the side"
+        "englishNatural": "And He-Who-Is (YHWH) **God** built ↳"
       }
     },
     {
@@ -1113,6 +1159,7 @@
         "verse": 1
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1123,8 +1170,8 @@
       "context": {
         "hebrew": "עָשָׂה יְהוָה **אֱלֹהִים** וַיֹּאמֶר אֶל",
         "transliteration": "asah YHWH **Elohim** vaYomer el",
-        "englishLiteral": "made He_Who_Is (YHWH) **Gods** And-said to",
-        "englishNatural": "had made He-Who-Is (YHWH) **God** And he said to"
+        "englishLiteral": "made, He_Who_Is (YHWH) **Gods.** And-said, to",
+        "englishNatural": "which He-Who-Is (YHWH) **God** had made. And he said"
       }
     },
     {
@@ -1134,6 +1181,7 @@
         "verse": 1
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1147,8 +1195,8 @@
       "context": {
         "hebrew": "כִּי אָמַר **אֱלֹהִים** לֹא תֹאכְלוּ",
         "transliteration": "ki amar **Elohim** lo tokhlu",
-        "englishLiteral": "that said **Gods** Not you-shall-eat",
-        "englishNatural": "that said **God** not You shall eat"
+        "englishLiteral": "that said **Gods,** 'Not you-shall-eat",
+        "englishNatural": "\"Is-it-so, that **God** said 'You shall eat"
       }
     },
     {
@@ -1158,6 +1206,7 @@
         "verse": 3
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1171,8 +1220,8 @@
       "context": {
         "hebrew": "הַגָּן אָמַר **אֱלֹהִים** לֹא תֹאכְלוּ",
         "transliteration": "haGan amar **Elohim** lo tokhlu",
-        "englishLiteral": "the-garden said **Gods** Not you-shall-eat",
-        "englishNatural": "the garden said **God** not You shall eat"
+        "englishLiteral": "the-garden,' said **Gods,** 'Not you-shall-eat",
+        "englishNatural": "is in the midst of the garden,' **God** said, 'You shall eat"
       }
     },
     {
@@ -1182,6 +1231,7 @@
         "verse": 5
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1195,8 +1245,8 @@
       "context": {
         "hebrew": "כִּי יֹדֵעַ **אֱלֹהִים** כִּי בְיוֹם",
         "transliteration": "ki yodea **Elohim** ki beYom",
-        "englishLiteral": "That knowing **Gods** that in-day",
-        "englishNatural": "That is knowing **God** that in the day of"
+        "englishLiteral": "That knowing **Gods,** that in-day",
+        "englishNatural": "That **God** is knowing, that"
       }
     },
     {
@@ -1206,6 +1256,7 @@
         "verse": 5
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "כֵּאלֹהִים",
         "transliteration": "keElohim",
@@ -1219,8 +1270,8 @@
       "context": {
         "hebrew": "עֵינֵיכֶם וִהְיִיתֶם **כֵּאלֹהִים** יֹדְעֵי טוֹב",
         "transliteration": "eyneychen viHyiytem **keElohim** yodey tov",
-        "englishLiteral": "your-eyes and-you_all-will-be **as-Gods** knowing good",
-        "englishNatural": "and your eyes and you-all will be **as God** knowing good"
+        "englishLiteral": "your-eyes; and-you_all-will-be **as-Gods,** knowing good",
+        "englishNatural": "will be opened; and you-all will be **as God,** knowing good"
       }
     },
     {
@@ -1230,6 +1281,7 @@
         "verse": 8
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1243,8 +1295,8 @@
       "context": {
         "hebrew": "קוֹל יְהוָה **אֱלֹהִים** מִתְהַלֵּךְ בַּגָּן",
         "transliteration": "qol YHWH **Elohim** mithallekh baGan",
-        "englishLiteral": "voice He_Who_Is (YHWH) **Gods** walking in-Garden",
-        "englishNatural": "the voice of He-Who-Is (YHWH) **God** walking in Garden"
+        "englishLiteral": "voice He_Who_Is (YHWH) **Gods,** walking in-Garden",
+        "englishNatural": "the voice of He-Who-Is (YHWH) **God,** walking in Garden"
       }
     },
     {
@@ -1254,6 +1306,7 @@
         "verse": 8
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1267,8 +1320,8 @@
       "context": {
         "hebrew": "מִפְּנֵי יְהוָה **אֱלֹהִים** בְּתוֹךְ עֵץ",
         "transliteration": "miPney YHWH **Elohim** betokh etz",
-        "englishLiteral": "from-faces-of He_Who_Is (YHWH) **Gods** in-midst-of tree",
-        "englishNatural": "from the face of He-Who-Is (YHWH) **God** in the midst of the tree of"
+        "englishLiteral": "from-faces-of He_Who_Is (YHWH) **Gods,** in-midst-of tree",
+        "englishNatural": "from the face of He-Who-Is (YHWH) **God,** in the midst of the tree of"
       }
     },
     {
@@ -1278,6 +1331,7 @@
         "verse": 9
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1291,8 +1345,8 @@
       "context": {
         "hebrew": "וַיִּקְרָא יְהוָה **אֱלֹהִים** אֶל־ הָאָדָם",
         "transliteration": "vaYiqra YHWH **Elohim** el- haAdam",
-        "englishLiteral": "And-called_out He_Who_Is (YHWH) **Gods** to- the-Earthling (Adam)",
-        "englishNatural": "called-out And He-Who-Is (YHWH) **God** to the Earthling (Adam)"
+        "englishLiteral": "And-called_out He_Who_Is (YHWH) **Gods** to- the-Earthling (Adam),",
+        "englishNatural": "And He-Who-Is (YHWH) **God** called-out to"
       }
     },
     {
@@ -1302,6 +1356,7 @@
         "verse": 13
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1315,8 +1370,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר יְהוָה **אֱלֹהִים** לָאִשָּׁה מַה־",
         "transliteration": "vaYomer YHWH **Elohim** laIshah mah-",
-        "englishLiteral": "And-he-said He_Who_Is (YHWH) **Gods** to-the-woman What-",
-        "englishNatural": "said And He-Who-Is (YHWH) **God** to the woman What"
+        "englishLiteral": "And-he-said He_Who_Is (YHWH) **Gods** to-the-woman, \"What-",
+        "englishNatural": "And He-Who-Is (YHWH) **God** said to the woman,"
       }
     },
     {
@@ -1326,6 +1381,7 @@
         "verse": 14
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1339,8 +1395,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר יְהוָה **אֱלֹהִים** אֶל־ הַנָּחָשׁ",
         "transliteration": "vaYomer YHWH **Elohim** el- haNachash",
-        "englishLiteral": "And-he-said He_Who_Is (YHWH) **Gods** to- the-snake",
-        "englishNatural": "said And He-Who-Is (YHWH) **God** to the snake"
+        "englishLiteral": "And-he-said He_Who_Is (YHWH) **Gods** to- the-snake,",
+        "englishNatural": "And He-Who-Is (YHWH) **God** said to"
       }
     },
     {
@@ -1350,6 +1406,7 @@
         "verse": 21
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1363,8 +1420,8 @@
       "context": {
         "hebrew": "וַיַּעַשׂ יְהוָה **אֱלֹהִים** לְאָדָם וּלְאִשְׁתּוֹ",
         "transliteration": "vayYaas YHWH **Elohim** leAdam uleIshto",
-        "englishLiteral": "And-he-made He_Who_Is (YHWH) **Gods** to-Earthling (Adam) and-to-woman-his",
-        "englishNatural": "made And He-Who-Is (YHWH) **God** to Earthling (Adam) and to his woman"
+        "englishLiteral": "And-he-made He_Who_Is (YHWH) **Gods** to-Earthling (Adam) and-to-woman-his;",
+        "englishNatural": "And He-Who-Is (YHWH) **God** made to Earthling (Adam)"
       }
     },
     {
@@ -1374,6 +1431,7 @@
         "verse": 22
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1387,8 +1445,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר יְהוָה **אֱלֹהִים** הֵן הָאָדָם",
         "transliteration": "vayYomer YHWH **Elohim** hen haAdam",
-        "englishLiteral": "And-he-said He_Who_Is (YHWH) **Gods** Behold the-Earthling (Adam)",
-        "englishNatural": "said And He-Who-Is (YHWH) **God** Behold the Earthling (Adam)"
+        "englishLiteral": "And-he-said He_Who_Is (YHWH) **Gods,** \"Behold, the-Earthling (Adam)",
+        "englishNatural": "And He-Who-Is (YHWH) **God** said, \"Behold,"
       }
     },
     {
@@ -1398,6 +1456,7 @@
         "verse": 23
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1411,8 +1470,8 @@
       "context": {
         "hebrew": "וַיְשַׁלְּחֵהוּ יְהוָה **אֱלֹהִים** מִגַּן־ עֵדֶן",
         "transliteration": "vayShallachehu YHWH **Elohim** miGan- Eden",
-        "englishLiteral": "And-he-sent-him He_Who_Is (YHWH) **Gods** from-Garden Delight (Eden)",
-        "englishNatural": "sent him out And He-Who-Is (YHWH) **God** from Garden of Delight (Eden)"
+        "englishLiteral": "And-he-sent-him He_Who_Is (YHWH) **Gods** from-Garden Delight (Eden);",
+        "englishNatural": "And He-Who-Is (YHWH) **God** sent him out from Garden"
       }
     },
     {
@@ -1422,6 +1481,7 @@
         "verse": 25
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1436,7 +1496,7 @@
         "hebrew": "שָׁת־ לִי **אֱלֹהִים** זֶרַע אַחֵר",
         "transliteration": "shat- li **Elohim** zera acher",
         "englishLiteral": "appointed to-me **Gods** seed another",
-        "englishNatural": "has appointed me **God** seed another"
+        "englishNatural": "\"Appointed (Seth); that **God** has appointed me"
       }
     },
     {
@@ -1446,6 +1506,7 @@
         "verse": 1
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1459,8 +1520,8 @@
       "context": {
         "hebrew": "בְּיוֹם בְּרֹא **אֱלֹהִים** אָדָם בִּדְמוּת",
         "transliteration": "beYom bero **Elohim** Adam biDemut",
-        "englishLiteral": "In-day create **Gods** Earthling (Adam) in-likeness-of",
-        "englishNatural": "In the day created **God** Earthling (Adam) in the likeness of"
+        "englishLiteral": "In-day create **Gods** Earthling (Adam), in-likeness-of",
+        "englishNatural": "Earthling (Adam). In the day **God** created Earthling (Adam),"
       }
     },
     {
@@ -1470,6 +1531,7 @@
         "verse": 1
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1483,8 +1545,8 @@
       "context": {
         "hebrew": "אָדָם בִּדְמוּת **אֱלֹהִים** עָשָׂה אֹתוֹ",
         "transliteration": "Adam biDemut **Elohim** asah oto",
-        "englishLiteral": "Earthling (Adam) in-likeness-of **Gods** he-made him",
-        "englishNatural": "Earthling (Adam) in the likeness of **God** he made him"
+        "englishLiteral": "Earthling (Adam), in-likeness-of **Gods** he-made him.",
+        "englishNatural": "Earthling (Adam), in the likeness of **God** he made him."
       }
     },
     {
@@ -1494,6 +1556,7 @@
         "verse": 22
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -1507,8 +1570,8 @@
       "context": {
         "hebrew": "חֲנוֹךְ אֶת־ **הָאֱלֹהִים** אַחֲרֵי הוֹלִידוֹ",
         "transliteration": "Chanokh et- **haElohim** acharey holido",
-        "englishLiteral": "Dedicated (Enoch) ↳ **the-Gods** after birthing-him",
-        "englishNatural": "And Dedicated (Enoch) with **the God** after he had birthed"
+        "englishLiteral": "Dedicated (Enoch) ↳ **the-Gods,** after birthing-him",
+        "englishNatural": "walked with **the God,** after he had birthed"
       }
     },
     {
@@ -1518,6 +1581,7 @@
         "verse": 24
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -1531,8 +1595,8 @@
       "context": {
         "hebrew": "חֲנוֹךְ אֶת־ **הָאֱלֹהִים** וְאֵינֶנּוּ כִּי",
         "transliteration": "Chanokh et- **haElohim** veEinennu ki",
-        "englishLiteral": "Dedicated (Enoch) ↳ **the-Gods** and-not-him that",
-        "englishNatural": "And Dedicated (Enoch) with **the God** and he was not that"
+        "englishLiteral": "Dedicated (Enoch) ↳ **the-Gods,** and-not-him, that",
+        "englishNatural": "walked with **the God,** and he was not, that"
       }
     },
     {
@@ -1542,6 +1606,7 @@
         "verse": 24
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1555,8 +1620,8 @@
       "context": {
         "hebrew": "לָקַח אֹתוֹ **אֱלֹהִים**",
         "transliteration": "lakach oto **Elohim**",
-        "englishLiteral": "took him **Gods**",
-        "englishNatural": "took him **God**"
+        "englishLiteral": "took him **Gods.**",
+        "englishNatural": "and he was not, that **God** took him."
       }
     },
     {
@@ -1566,6 +1631,7 @@
         "verse": 2
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -1580,7 +1646,7 @@
         "hebrew": "וַיִּרְאוּ בְנֵי־ **הָאֱלֹהִים** אֶת־ בְּנוֹת",
         "transliteration": "vayYiru beney- **haElohim** et- benot",
         "englishLiteral": "And-they-saw sons- **the-Gods** ↳ daughters-of",
-        "englishNatural": "saw And the sons **of God** ↳ the daughters of"
+        "englishNatural": "And the sons **of God** saw ↳"
       }
     },
     {
@@ -1590,6 +1656,7 @@
         "verse": 4
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -1604,7 +1671,7 @@
         "hebrew": "יָבֹאוּ בְנֵי **הָאֱלֹהִים** אֶל־ בְּנוֹת",
         "transliteration": "yavou beney **haElohim** el- benot",
         "englishLiteral": "they-came sons-of **the-Gods** to daughters-of",
-        "englishNatural": "came the sons of **God** to the daughters of"
+        "englishNatural": "which the sons of **God** came to"
       }
     },
     {
@@ -1614,6 +1681,7 @@
         "verse": 9
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -1627,8 +1695,8 @@
       "context": {
         "hebrew": "בְּדֹרֹתָיו אֶת־ **הָאֱלֹהִים** הִתְהַלֶּךְ־ נֹחַ",
         "transliteration": "bedorotav et- **haElohim** hithalekh- noach",
-        "englishLiteral": "in-generation-his ↳ **the-Gods** walked-with- Rest (Noah)",
-        "englishNatural": "in his generation ↳ **the God** walked-with Rest (Noah)"
+        "englishLiteral": "in-generation-his; ↳ **the-Gods** walked-with- Rest (Noah).",
+        "englishNatural": "walked-with ↳ **the God.**"
       }
     },
     {
@@ -1638,6 +1706,7 @@
         "verse": 11
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -1651,8 +1720,8 @@
       "context": {
         "hebrew": "הָאָרֶץ לִפְנֵי **הָאֱלֹהִים** וַתִּמָּלֵא הָאָרֶץ",
         "transliteration": "haAretz liFney **haElohim** vatTimale haAretz",
-        "englishLiteral": "the-land to-faces-of **the-Gods** and-it-filled the-land",
-        "englishNatural": "And the land to the face of **God** filled-with and the land"
+        "englishLiteral": "the-land to-faces-of **the-Gods,** and-it-filled the-land",
+        "englishNatural": "corrupted to the face of **God,** and the land filled-with"
       }
     },
     {
@@ -1662,6 +1731,7 @@
         "verse": 12
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "elohim",
@@ -1675,8 +1745,8 @@
       "context": {
         "hebrew": "וַיַּרְא **אֱלֹהִים** אֶת־ הָאָרֶץ",
         "transliteration": "vayYar **elohim** et- haAretz",
-        "englishLiteral": "And-he-saw **Gods** ↳ the-land",
-        "englishNatural": "saw **And God** ↳ the land"
+        "englishLiteral": "And-he-saw **Gods** ↳ the-land,",
+        "englishNatural": "**And God** saw ↳"
       }
     },
     {
@@ -1686,6 +1756,7 @@
         "verse": 13
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1699,8 +1770,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר **אֱלֹהִים** לְנֹחַ קֵץ",
         "transliteration": "vayYomer **Elohim** leNoach qetz",
-        "englishLiteral": "And-he-said **Gods** to-Rest (Noah) end-of",
-        "englishNatural": "said **And God** to Rest (Noah) The end of"
+        "englishLiteral": "And-he-said **Gods** to-Rest (Noah), \"end-of",
+        "englishNatural": "**And God** said to Rest (Noah),"
       }
     },
     {
@@ -1710,6 +1781,7 @@
         "verse": 22
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1723,8 +1795,8 @@
       "context": {
         "hebrew": "צִוָּה אֹתוֹ **אֱלֹהִים** כֵּן עָשָׂה",
         "transliteration": "tzivvah oto **Elohim** ken asah",
-        "englishLiteral": "he-commanded him **Gods** so he-made",
-        "englishNatural": "commanded him **God** so he made"
+        "englishLiteral": "he-commanded him **Gods,** so he-made.",
+        "englishNatural": "like all which **God** commanded him,"
       }
     },
     {
@@ -1734,6 +1806,7 @@
         "verse": 9
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1747,8 +1820,8 @@
       "context": {
         "hebrew": "כַּאֲשֶׁר צִוָּה **אֱלֹהִים** אֶת־ נֹחַ",
         "transliteration": "kaAsher tzivvah **Elohim** et- Noach",
-        "englishLiteral": "as-which he-commanded **Gods** ↳ Rest (Noah)",
-        "englishNatural": "as which commanded **God** ↳ Rest (Noah)"
+        "englishLiteral": "as-which he-commanded **Gods** ↳ Rest (Noah).",
+        "englishNatural": "and female, as which **God** commanded ↳"
       }
     },
     {
@@ -1758,6 +1831,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1772,7 +1846,7 @@
         "hebrew": "וַיְבָרֶךְ **אֱלֹהִים** אֶת־ נֹחַ",
         "transliteration": "vayVarekh **Elohim** et- Noach",
         "englishLiteral": "And-blessed **Gods** ↳ Rest (Noah)",
-        "englishNatural": "blessed **And God** ↳ Rest (Noah)"
+        "englishNatural": "**And God** blessed ↳"
       }
     },
     {
@@ -1782,6 +1856,7 @@
         "verse": 6
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1795,8 +1870,8 @@
       "context": {
         "hebrew": "כִּי בְּצֶלֶם **אֱלֹהִים** עָשָׂה אֶת־",
         "transliteration": "ki beTselem **Elohim** asah et-",
-        "englishLiteral": "for in-image-of **Gods** he-made ↳",
-        "englishNatural": "for in the image of **God** he made ↳"
+        "englishLiteral": "for in-image-of **Gods,** he-made ↳",
+        "englishNatural": "for in the image of **God,** he made ↳"
       }
     },
     {
@@ -1806,6 +1881,7 @@
         "verse": 8
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1819,8 +1895,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר **אֱלֹהִים** אֶל־ נֹחַ",
         "transliteration": "vayYomer **Elohim** el- Noach",
-        "englishLiteral": "And-said **Gods** to- Rest (Noah)",
-        "englishNatural": "said **And God** to Rest (Noah)"
+        "englishLiteral": "And-said **Gods** to- Rest (Noah),",
+        "englishNatural": "**And God** said to"
       }
     },
     {
@@ -1830,6 +1906,7 @@
         "verse": 12
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1843,8 +1920,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר **אֱלֹהִים** זֹאת אוֹת־",
         "transliteration": "vayYomer **Elohim** zot ot-",
-        "englishLiteral": "And-said **Gods** this sign-of",
-        "englishNatural": "said **And God** This the sign of"
+        "englishLiteral": "And-said **Gods,** \"this, sign-of",
+        "englishNatural": "**And God** said, \"This,"
       }
     },
     {
@@ -1854,6 +1931,7 @@
         "verse": 18
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "לְאֵל",
         "transliteration": "leEl",
@@ -1867,8 +1945,8 @@
       "context": {
         "hebrew": "וְהוּא כֹהֵן **לְאֵל** עֶלְיוֹן",
         "transliteration": "veHu kohen **leEl** Elyon",
-        "englishLiteral": "and-he priest **to-God** Most_High",
-        "englishNatural": "and he was priest **to G.** Most-High"
+        "englishLiteral": "and-he priest **to-God** Most_High.",
+        "englishNatural": "and he was priest **to G.** Most-High."
       }
     },
     {
@@ -1878,6 +1956,7 @@
         "verse": 1
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -1891,8 +1970,8 @@
       "context": {
         "hebrew": "אֶל־ הַר **הָאֱלֹהִים** חֹרֵבָה",
         "transliteration": "el- har **haElohim** Chorevah",
-        "englishLiteral": "to- mountain-of **the-Gods** Desolate (Horeb)",
-        "englishNatural": "to the mountain of **the God** Desolate (Horeb)"
+        "englishLiteral": "to- mountain-of **the-Gods,** Desolate (Horeb).",
+        "englishNatural": "to the mountain of **the God,** Desolate (Horeb)."
       }
     },
     {
@@ -1902,6 +1981,7 @@
         "verse": 4
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -1916,7 +1996,7 @@
         "hebrew": "וַיִּקְרָא אֵלָיו **אֱלֹהִים** מִתּוֹךְ הַסְּנֶה",
         "transliteration": "vaYiqra elav **Elohim** miTokh haSeneh",
         "englishLiteral": "and-he-called to-him **Gods** from-midst-of the-thornbush",
-        "englishNatural": "called to him **and God** from the midst of the thornbush"
+        "englishNatural": "he had turned-aside to see, **and God** called to him"
       }
     },
     {
@@ -1926,6 +2006,7 @@
         "verse": 6
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "elohei",
@@ -1939,8 +2020,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר אָנֹכִי **אֱלֹהֵי** אָבִיךָ אֱלֹהֵי",
         "transliteration": "vaYomer anokhi **elohei** avikha elohei",
-        "englishLiteral": "And-said I **Gods-of** father-your Gods-of",
-        "englishNatural": "And he said I **the God of** your father the God of"
+        "englishLiteral": "And-said \"I **Gods-of** father-your, Gods-of",
+        "englishNatural": "And he said, \"I, **the God of** your father, the God of"
       }
     },
     {
@@ -1950,6 +2031,7 @@
         "verse": 6
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "elohei",
@@ -1963,8 +2045,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי אָבִיךָ **אֱלֹהֵי** אַבְרָהָם אֱלֹהֵי",
         "transliteration": "elohei avikha **elohei** Avraham elohei",
-        "englishLiteral": "Gods-of father-your **Gods-of** Exalted_Father (Abraham) Gods-of",
-        "englishNatural": "the God of your father **the God of** Exalted-Father (Abraham) the God of"
+        "englishLiteral": "Gods-of father-your, **Gods-of** Exalted_Father (Abraham), Gods-of",
+        "englishNatural": "the God of your father, **the God of** Exalted-Father (Abraham), the God of"
       }
     },
     {
@@ -1974,6 +2056,7 @@
         "verse": 6
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "elohei",
@@ -1987,8 +2070,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי אַבְרָהָם **אֱלֹהֵי** יִצְחָק וֵאלֹהֵי",
         "transliteration": "elohei Avraham **elohei** Yitzchaq vElohei",
-        "englishLiteral": "Gods-of Exalted_Father (Abraham) **Gods-of** He_Laughs (Isaac) and-Gods-of",
-        "englishNatural": "the God of Exalted-Father (Abraham) **the God of** He-Laughs (Isaac) and the God of"
+        "englishLiteral": "Gods-of Exalted_Father (Abraham), **Gods-of** He_Laughs (Isaac), and-Gods-of",
+        "englishNatural": "the God of Exalted-Father (Abraham), **the God of** He-Laughs (Isaac), and the God of"
       }
     },
     {
@@ -1998,6 +2081,7 @@
         "verse": 6
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וֵאלֹהֵי",
         "transliteration": "vElohei",
@@ -2011,8 +2095,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי יִצְחָק **וֵאלֹהֵי** יַעֲקֹב וַיַּסְתֵּר",
         "transliteration": "elohei Yitzchaq **vElohei** Yaaqov vaYaster",
-        "englishLiteral": "Gods-of He_Laughs (Isaac) **and-Gods-of** Heel_Grasper (Jacob) And-hid",
-        "englishNatural": "the God of He-Laughs (Isaac) **and the God of** Heel-Grasper (Jacob) hid"
+        "englishLiteral": "Gods-of He_Laughs (Isaac), **and-Gods-of** Heel_Grasper (Jacob).\" And-hid",
+        "englishNatural": "the God of He-Laughs (Isaac), **and the God of** Heel-Grasper (Jacob).\" And Drawn-Out (Moses)"
       }
     },
     {
@@ -2022,6 +2106,7 @@
         "verse": 6
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -2035,8 +2120,8 @@
       "context": {
         "hebrew": "מֵהַבִּיט אֶל־ **הָאֱלֹהִים**",
         "transliteration": "meHabit el- **haElohim**",
-        "englishLiteral": "from-to-look to- **the-Gods**",
-        "englishNatural": "to look to **the God**"
+        "englishLiteral": "from-to-look to- **the-Gods.**",
+        "englishNatural": "to look to **the God.**"
       }
     },
     {
@@ -2046,6 +2131,7 @@
         "verse": 13
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -2059,8 +2145,8 @@
       "context": {
         "hebrew": "מֹשֶׁה אֶל־ **הָאֱלֹהִים** הִנֵּה אָנֹכִי",
         "transliteration": "Moshe el- **haElohim** hineh anokhi",
-        "englishLiteral": "Drawn_Out (Moses) to- **the-Gods** behold I",
-        "englishNatural": "And Drawn-Out (Moses) to **the God** Behold I"
+        "englishLiteral": "Drawn_Out (Moses) to- **the-Gods** \"behold I",
+        "englishNatural": "said to **the God,** \"Behold I,"
       }
     },
     {
@@ -2070,6 +2156,7 @@
         "verse": 13
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "elohei",
@@ -2083,8 +2170,8 @@
       "context": {
         "hebrew": "וְאָמַרְתִּי לָהֶם **אֱלֹהֵי** אֲבוֹתֵיכֶם שְׁלָחַנִי",
         "transliteration": "veAmarti lahem **elohei** avoteikhem shelachani",
-        "englishLiteral": "and-say to-them **Gods-of** fathers-your sent-me",
-        "englishNatural": "and will have said to them **The God of** your fathers has sent me"
+        "englishLiteral": "and-say to-them, **'Gods-of** fathers-your sent-me",
+        "englishNatural": "and will have said to them, **'The God of** your fathers has sent me"
       }
     },
     {
@@ -2094,6 +2181,7 @@
         "verse": 14
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -2107,8 +2195,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר **אֱלֹהִים** אֶל־ מֹשֶׁה",
         "transliteration": "vaYomer **Elohim** el- Moshe",
-        "englishLiteral": "And-said **Gods** to- Drawn_Out (Moses)",
-        "englishNatural": "said **And God** to Drawn-Out (Moses)"
+        "englishLiteral": "And-said **Gods** to- Drawn_Out (Moses),",
+        "englishNatural": "**And God** said to"
       }
     },
     {
@@ -2118,6 +2206,7 @@
         "verse": 15
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -2131,8 +2220,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר עוֹד **אֱלֹהִים** אֶל־ מֹשֶׁה",
         "transliteration": "vaYomer od **Elohim** el- Moshe",
-        "englishLiteral": "And-said again **Gods** to- Drawn_Out (Moses)",
-        "englishNatural": "said And again **God** to Drawn-Out (Moses)"
+        "englishLiteral": "And-said again **Gods** to- Drawn_Out (Moses),",
+        "englishNatural": "And again **God** said to"
       }
     },
     {
@@ -2142,6 +2231,7 @@
         "verse": 15
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "Elohey",
@@ -2155,8 +2245,8 @@
       "context": {
         "hebrew": "יִשְׂרָאֵל יְהוָה **אֱלֹהֵי** אֲבֹתֵיכֶם אֱלֹהֵי",
         "transliteration": "Yisrael YHWH **Elohey** avoteikem Elohey",
-        "englishLiteral": "Struggles_with_God (Israel) He_Who_Is (YHWH) **Gods-of** your-fathers Gods-of",
-        "englishNatural": "Struggles-with-God (Israel) He-Who-Is (YHWH) **God of** your fathers the God of"
+        "englishLiteral": "Struggles_with_God (Israel), 'He_Who_Is (YHWH), **Gods-of** your-fathers, Gods-of",
+        "englishNatural": "Struggles-with-God (Israel), 'He-Who-Is (YHWH), **God of** your fathers, the God of"
       }
     },
     {
@@ -2166,6 +2256,7 @@
         "verse": 15
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "Elohey",
@@ -2179,8 +2270,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי אֲבֹתֵיכֶם **אֱלֹהֵי** אַבְרָהָם אֱלֹהֵי",
         "transliteration": "Elohey avoteikem **Elohey** Avraham Elohey",
-        "englishLiteral": "Gods-of your-fathers **Gods-of** Father_of_Multitudes (Abraham) Gods-of",
-        "englishNatural": "God of your fathers **the God of** Father-of-Multitudes (Abraham) the God of"
+        "englishLiteral": "Gods-of your-fathers, **Gods-of** Father_of_Multitudes (Abraham), Gods-of",
+        "englishNatural": "God of your fathers, **the God of** Father-of-Multitudes (Abraham), the God of"
       }
     },
     {
@@ -2190,6 +2281,7 @@
         "verse": 15
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "Elohey",
@@ -2203,8 +2295,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי אַבְרָהָם **אֱלֹהֵי** יִצְחָק וֵאלֹהֵי",
         "transliteration": "Elohey Avraham **Elohey** Yitzchaq veElohey",
-        "englishLiteral": "Gods-of Father_of_Multitudes (Abraham) **Gods-of** He_Laughs (Isaac) and-Gods-of",
-        "englishNatural": "the God of Father-of-Multitudes (Abraham) **the God of** He-Laughs (Isaac) and the God of"
+        "englishLiteral": "Gods-of Father_of_Multitudes (Abraham), **Gods-of** He_Laughs (Isaac), and-Gods-of",
+        "englishNatural": "the God of Father-of-Multitudes (Abraham), **the God of** He-Laughs (Isaac), and the God of"
       }
     },
     {
@@ -2214,6 +2306,7 @@
         "verse": 15
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "וֵאלֹהֵי",
         "transliteration": "veElohey",
@@ -2227,8 +2320,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי יִצְחָק **וֵאלֹהֵי** יַעֲקֹב שְׁלָחַנִי",
         "transliteration": "Elohey Yitzchaq **veElohey** Yaaqov shlachani",
-        "englishLiteral": "Gods-of He_Laughs (Isaac) **and-Gods-of** Heel_Grasper (Jacob) sent-me",
-        "englishNatural": "the God of He-Laughs (Isaac) **and the God of** Heel-Grasper (Jacob) has sent me"
+        "englishLiteral": "Gods-of He_Laughs (Isaac), **and-Gods-of** Heel_Grasper (Jacob), sent-me",
+        "englishNatural": "the God of He-Laughs (Isaac), **and the God of** Heel-Grasper (Jacob), has sent me"
       }
     },
     {
@@ -2238,6 +2331,7 @@
         "verse": 5
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "elohei",
@@ -2251,8 +2345,8 @@
       "context": {
         "hebrew": "אֵלֶיךָ יְהוָה **אֱלֹהֵי** אֲבֹתָם אֱלֹהֵי",
         "transliteration": "elekha YHWH **elohei** avotam elohei",
-        "englishLiteral": "to-you He_Who_Is (YHWH) **Gods-of** fathers-their Gods-of",
-        "englishNatural": "to you He-Who-Is (YHWH) **the God of** their fathers the God of"
+        "englishLiteral": "to-you He_Who_Is (YHWH), **Gods-of** fathers-their, Gods-of",
+        "englishNatural": "to you, He-Who-Is (YHWH), **the God of** their fathers, the God of"
       }
     },
     {
@@ -2262,6 +2356,7 @@
         "verse": 5
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "elohei",
@@ -2275,8 +2370,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי אֲבֹתָם **אֱלֹהֵי** אַבְרָהָם אֱלֹהֵי",
         "transliteration": "elohei avotam **elohei** Avraham elohei",
-        "englishLiteral": "Gods-of fathers-their **Gods-of** Exalted_Father (Abraham) Gods-of",
-        "englishNatural": "the God of their fathers **the God of** Exalted-Father (Abraham) the God of"
+        "englishLiteral": "Gods-of fathers-their, **Gods-of** Exalted_Father (Abraham), Gods-of",
+        "englishNatural": "the God of their fathers, **the God of** Exalted-Father (Abraham), the God of"
       }
     },
     {
@@ -2286,6 +2381,7 @@
         "verse": 5
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "elohei",
@@ -2299,8 +2395,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי אַבְרָהָם **אֱלֹהֵי** יִצְחָק וֵאלֹהֵי",
         "transliteration": "elohei Avraham **elohei** Yitzchaq vElohei",
-        "englishLiteral": "Gods-of Exalted_Father (Abraham) **Gods-of** He_Laughs (Isaac) and-Gods-of",
-        "englishNatural": "the God of Exalted-Father (Abraham) **the God of** He-Laughs (Isaac) and the God of"
+        "englishLiteral": "Gods-of Exalted_Father (Abraham), **Gods-of** He_Laughs (Isaac), and-Gods-of",
+        "englishNatural": "the God of Exalted-Father (Abraham), **the God of** He-Laughs (Isaac), and the God of"
       }
     },
     {
@@ -2310,6 +2406,7 @@
         "verse": 5
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "וֵאלֹהֵי",
         "transliteration": "vElohei",
@@ -2323,8 +2420,8 @@
       "context": {
         "hebrew": "אֱלֹהֵי יִצְחָק **וֵאלֹהֵי** יַעֲקֹב",
         "transliteration": "elohei Yitzchaq **vElohei** Yaaqov",
-        "englishLiteral": "Gods-of He_Laughs (Isaac) **and-Gods-of** Heel_Grasper (Jacob)",
-        "englishNatural": "the God of He-Laughs (Isaac) **and the God of** Heel-Grasper (Jacob)"
+        "englishLiteral": "Gods-of He_Laughs (Isaac), **and-Gods-of** Heel_Grasper (Jacob).\"",
+        "englishNatural": "the God of He-Laughs (Isaac), **and the God of** Heel-Grasper (Jacob).\""
       }
     },
     {
@@ -2334,6 +2431,7 @@
         "verse": 20
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -2347,8 +2445,8 @@
       "context": {
         "hebrew": "אֶת־ מַטֵּה **הָאֱלֹהִים** בְּיָדוֹ",
         "transliteration": "et- mateh **haElohim** beYado",
-        "englishLiteral": "↳ branch-of **the-Gods** in-hand-his",
-        "englishNatural": "↳ the branch of **the God** in his hand"
+        "englishLiteral": "↳ branch-of **the-Gods** in-hand-his.",
+        "englishNatural": "↳ the branch of **the God** in his hand."
       }
     },
     {
@@ -2358,6 +2456,7 @@
         "verse": 1
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "elohei",
@@ -2371,8 +2470,8 @@
       "context": {
         "hebrew": "אָמַר יְהוָה **אֱלֹהֵי** יִשְׂרָאֵל שַׁלַּח",
         "transliteration": "amar YHWH **elohei** Yisrael shallach",
-        "englishLiteral": "said He_Who_Is (YHWH) **Gods-of** Struggles_with_God (Israel) send",
-        "englishNatural": "has said He-Who-Is (YHWH) **the God of** Struggles-with-God (Israel) Send-out"
+        "englishLiteral": "said He_Who_Is (YHWH), **Gods-of** Struggles_with_God (Israel), 'send",
+        "englishNatural": "has said He-Who-Is (YHWH), **the God of** Struggles-with-God (Israel), 'Send-out"
       }
     },
     {
@@ -2382,6 +2481,7 @@
         "verse": 3
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "elohei",
@@ -2395,8 +2495,8 @@
       "context": {
         "hebrew": "וַיֹּאמְרוּ **אֱלֹהֵי** הָעִבְרִים נִקְרָא",
         "transliteration": "vaYomru **elohei** haIvrim niqra",
-        "englishLiteral": "And-they-said **Gods-of** the-Passes_Through (Hebrews) was-called_out",
-        "englishNatural": "And they said **The God of** the Passes-Through (Hebrews) was called-out"
+        "englishLiteral": "And-they-said **\"Gods-of** the-Passes_Through (Hebrews) was-called_out",
+        "englishNatural": "And they said, **\"The God of** the Passes-Through (Hebrews) was called-out"
       }
     },
     {
@@ -2406,6 +2506,7 @@
         "verse": 3
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "אֱלֹהֵינוּ",
         "transliteration": "Eloheinu",
@@ -2419,8 +2520,8 @@
       "context": {
         "hebrew": "וְנִזְבְּחָה לַיהוָה **אֱלֹהֵינוּ** פֶּן־ יִפְגָּעֵנוּ",
         "transliteration": "veNizbechah laYHWH **Eloheinu** pen- yifgaenu",
-        "englishLiteral": "and-we-will-sacrifice to-He_Who_Is (YHWH) **Gods-our** or-else- he-will-strike_down-us",
-        "englishNatural": "and we will sacrifice to He-Who-Is (YHWH) **our God** or else he strike-down us"
+        "englishLiteral": "and-we-will-sacrifice to-He_Who_Is (YHWH) **Gods-our,** or-else- he-will-strike_down-us",
+        "englishNatural": "and we will sacrifice to He-Who-Is (YHWH) **our God,** or else he strike-down us"
       }
     },
     {
@@ -2430,6 +2531,7 @@
         "verse": 2
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -2444,7 +2546,7 @@
         "hebrew": "וַיְדַבֵּר **אֱלֹהִים** אֶל־ מֹשֶׁה",
         "transliteration": "vayDaber **Elohim** el- Moshe",
         "englishLiteral": "And-spoke **Gods** to- Drawn_Out (Moses)",
-        "englishNatural": "spoke **And God** to Drawn-Out (Moses)"
+        "englishNatural": "**And God** spoke to"
       }
     },
     {
@@ -2454,6 +2556,7 @@
         "verse": 1
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -2467,8 +2570,8 @@
       "context": {
         "hebrew": "רְאֵה נְתַתִּיךָ **אֱלֹהִים** לְפַרְעֹה וְאַהֲרֹן",
         "transliteration": "reeh netaticha **Elohim** leParoh veAharon",
-        "englishLiteral": "see I-give-you **Gods** to-Pharaoh and-Light_Bringer (Aaron)",
-        "englishNatural": "See I have given you **God** to Pharaoh and Light-Bringer (Aaron)"
+        "englishLiteral": "\"see I-give-you **Gods** to-Pharaoh; and-Light_Bringer (Aaron)",
+        "englishNatural": "\"See, I have given you, **God** to Pharaoh; and Light-Bringer (Aaron)"
       }
     },
     {
@@ -2478,6 +2581,7 @@
         "verse": 25
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "אֱלֹהֵינוּ",
         "transliteration": "Eloheinu",
@@ -2491,8 +2595,8 @@
       "context": {
         "hebrew": "וְעָשִׂינוּ לַיהוָה **אֱלֹהֵינוּ**",
         "transliteration": "veAsinu laYHWH **Eloheinu**",
-        "englishLiteral": "and-will-make to-He_Who_Is (YHWH) **God-our**",
-        "englishNatural": "and will make to He-Who-Is (YHWH) **our God**"
+        "englishLiteral": "and-will-make to-He_Who_Is (YHWH) **God-our.**",
+        "englishNatural": "and will make to He-Who-Is (YHWH) **our God.\"**"
       }
     },
     {
@@ -2502,6 +2606,7 @@
         "verse": 26
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "אֱלֹהֵינוּ",
         "transliteration": "Eloheinu",
@@ -2515,8 +2620,8 @@
       "context": {
         "hebrew": "אֶת־ יְהוָה **אֱלֹהֵינוּ** וַאֲנַחְנוּ לֹא־",
         "transliteration": "et- YHWH **Eloheinu** vaAnachnu lo-",
-        "englishLiteral": "↳ He_Who_Is (YHWH) **God-our** and-we not-",
-        "englishNatural": "↳ He-Who-Is (YHWH) **our God** and we not"
+        "englishLiteral": "↳ He_Who_Is (YHWH) **God-our;** and-we not-",
+        "englishNatural": "↳ He-Who-Is (YHWH) **our God;** and we not"
       }
     },
     {
@@ -2526,6 +2631,7 @@
         "verse": 1
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "אֱלֹהִ֖ים",
         "transliteration": "Elohim",
@@ -2539,8 +2645,8 @@
       "context": {
         "hebrew": "וְיָשָׁ֛ר וִירֵ֥א **אֱלֹהִ֖ים** וְסָ֥ר מֵרָֽע",
         "transliteration": "veYashar viYere **Elohim** veSar meRa",
-        "englishLiteral": "and-straight and-fearing **Gods** and-turning_aside from-bad",
-        "englishNatural": "and straight and fearing **God** and turning-aside from bad"
+        "englishLiteral": "and-straight, and-fearing **Gods,** and-turning_aside from-bad.",
+        "englishNatural": "and straight, and fearing **God,** and turning-aside from bad."
       }
     },
     {
@@ -2550,6 +2656,7 @@
         "verse": 5
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "מֵאֱלֹהִ֑ים",
         "transliteration": "meElohim",
@@ -2563,8 +2670,8 @@
       "context": {
         "hebrew": "וַתְּחַסְּרֵ֣הוּ מְּ֭עַט **מֵאֱלֹהִ֑ים** וְכָב֖וֹד וְהָדָ֣ר",
         "transliteration": "vatechasrehu meat **meElohim** veKhavod veHadar",
-        "englishLiteral": "and-you-have-made-him-lack a_little **from-God** and-glory and-honor",
-        "englishNatural": "and you have made him lack a-little **from God** and glory and honor"
+        "englishLiteral": "and-you-have-made-him-lack a_little **from-God,** and-glory and-honor",
+        "englishNatural": "and you have made him lack a-little **from God,** and glory and honor"
       }
     },
     {
@@ -2574,6 +2681,7 @@
         "verse": 1
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "elohim",
@@ -2587,8 +2695,8 @@
       "context": {
         "hebrew": "וָאֶרְאֶה מַרְאוֹת **אֱלֹהִים**",
         "transliteration": "vaEreh marot **elohim**",
-        "englishLiteral": "and-I-saw visions-of **Gods**",
-        "englishNatural": "and I saw visions of **God**"
+        "englishLiteral": "and-I-saw visions-of **Gods.**",
+        "englishNatural": "and I saw visions of **God.**"
       }
     },
     {
@@ -2598,6 +2706,7 @@
         "verse": 2
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -2611,8 +2720,8 @@
       "context": {
         "hebrew": "כְּלֵי בֵּית־ **הָאֱלֹהִים** וַיְבִיאֵם בָּבֶלָה",
         "transliteration": "kelei beit- **haElohim** vaYeviem Bavelah",
-        "englishLiteral": "vessels-of house-of- **the-Gods** and-he-brought-them to-Confusion (Babylon)",
-        "englishNatural": "the vessels of the house of **the God** and he brought them to Confusion (Babylon)"
+        "englishLiteral": "vessels-of house-of- **the-Gods,** and-he-brought-them to-Confusion (Babylon),",
+        "englishNatural": "the vessels of the house of **the God,** and he brought them to Confusion (Babylon),"
       }
     },
     {
@@ -2622,6 +2731,7 @@
         "verse": 2
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "אֱלֹהָיו",
         "transliteration": "elohav",
@@ -2635,8 +2745,8 @@
       "context": {
         "hebrew": "שִׁנְעָר בֵּית **אֱלֹהָיו** וַיָּבֵא אֶת־",
         "transliteration": "Shinar beit **elohav** vaYave et-",
-        "englishLiteral": "Tooth_of_Two (Shinar) house **Gods-his** and-he-brought ↳",
-        "englishNatural": "of Tooth-of-Two (Shinar) to the house **of his God** and he brought ↳"
+        "englishLiteral": "Tooth_of_Two (Shinar), house **Gods-his,** and-he-brought ↳",
+        "englishNatural": "of Tooth-of-Two (Shinar), to the house **of his God,** and he brought ↳"
       }
     },
     {
@@ -2646,6 +2756,7 @@
         "verse": 2
       },
       "wordIndex": 23,
+      "sourceOrder": 23,
       "word": {
         "originalScript": "אֱלֹהָיו",
         "transliteration": "elohav",
@@ -2659,8 +2770,8 @@
       "context": {
         "hebrew": "בֵּית אוֹצָר **אֱלֹהָיו**",
         "transliteration": "beit otzar **elohav**",
-        "englishLiteral": "house treasure **Gods-his**",
-        "englishNatural": "to the house of treasure **of his God**"
+        "englishLiteral": "house treasure **Gods-his.**",
+        "englishNatural": "to the house of treasure **of his God.**"
       }
     },
     {
@@ -2670,6 +2781,7 @@
         "verse": 5
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "אֱלֹהָיו",
         "transliteration": "elohav",
@@ -2683,8 +2795,8 @@
       "context": {
         "hebrew": "אִישׁ אֶל־ **אֱלֹהָיו** וַיָּטִלוּ אֶת־",
         "transliteration": "ish el- **elohav** vaYatilu et-",
-        "englishLiteral": "man to- **gods-his** and-hurled ↳",
-        "englishNatural": "man to **his god** and hurled ↳"
+        "englishLiteral": "man to- **gods-his,** and-hurled ↳",
+        "englishNatural": "man to **his god,** and hurled ↳"
       }
     },
     {
@@ -2694,6 +2806,7 @@
         "verse": 6
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "אֱלֹהֶיךָ",
         "transliteration": "elohekha",
@@ -2707,8 +2820,8 @@
       "context": {
         "hebrew": "קְרָא אֶל־ **אֱלֹהֶיךָ** אוּלַי יִתְעַשֵּׁת",
         "transliteration": "qera el- **elohekha** ulay yitashet",
-        "englishLiteral": "call_out to- **gods-your** Perhaps will-think_upon",
-        "englishNatural": "call-out to **your God** If so be will think upon"
+        "englishLiteral": "call_out to- **gods-your.** Perhaps will-think_upon",
+        "englishNatural": "call-out to **your God.** If so be that God"
       }
     },
     {
@@ -2718,6 +2831,7 @@
         "verse": 6
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -2731,8 +2845,8 @@
       "context": {
         "hebrew": "אוּלַי יִתְעַשֵּׁת **הָאֱלֹהִים** לָנוּ וְלֹא",
         "transliteration": "ulay yitashet **haElohim** lanu veLo",
-        "englishLiteral": "Perhaps will-think_upon **the-Gods** to-us and-not",
-        "englishNatural": "If so be will think upon **that God** us that we may not"
+        "englishLiteral": "Perhaps will-think_upon **the-Gods** to-us, and-not",
+        "englishNatural": "your God. If so be **that God** will think upon us,"
       }
     },
     {
@@ -2742,6 +2856,7 @@
         "verse": 9
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אֱלֹהֵי",
         "transliteration": "Elohei",
@@ -2766,6 +2881,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אֱלֹהָיו",
         "transliteration": "elohav",
@@ -2779,8 +2895,8 @@
       "context": {
         "hebrew": "אֶל־ יְהוָה **אֱלֹהָיו** מִמְּעֵי הַדָּגָה",
         "transliteration": "el- YHWH **elohav** mimei haDagah",
-        "englishLiteral": "to- He_Who_Is (YHWH) **Gods-his** from-bowels-of the-fish",
-        "englishNatural": "to He-Who-Is (YHWH) **his God** from the bowels of the fish"
+        "englishLiteral": "to- He_Who_Is (YHWH) **Gods-his** from-bowels-of the-fish;",
+        "englishNatural": "to He-Who-Is (YHWH) **his God** from the bowels of the fish;"
       }
     },
     {
@@ -2790,6 +2906,7 @@
         "verse": 6
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "אֱלֹהָי",
         "transliteration": "elohai",
@@ -2803,8 +2920,8 @@
       "context": {
         "hebrew": "חַיַּי יְהוָה **אֱלֹהָי**",
         "transliteration": "chayai YHWH **elohai**",
-        "englishLiteral": "life-my He_Who_Is (YHWH) **God-my**",
-        "englishNatural": "my life He-Who-Is (YHWH) **my God**"
+        "englishLiteral": "life-my, He_Who_Is (YHWH) **God-my.**",
+        "englishNatural": "my life, He-Who-Is (YHWH) **my God.**"
       }
     },
     {
@@ -2814,6 +2931,7 @@
         "verse": 3
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "לֵאלֹהִים",
         "transliteration": "lElohim",
@@ -2827,8 +2945,8 @@
       "context": {
         "hebrew": "עִיר־ גְּדוֹלָה **לֵאלֹהִים** מַהֲלַךְ שְׁלֹשֶׁת",
         "transliteration": "ir- gedolah **lElohim** mahalakh shloshet",
-        "englishLiteral": "city- great **to-Gods** journey-of three",
-        "englishNatural": "a city great **to God** a journey of three"
+        "englishLiteral": "city- great **to-Gods,** journey-of three",
+        "englishNatural": "a city great **to God,** a journey of three"
       }
     },
     {
@@ -2838,6 +2956,7 @@
         "verse": 5
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "בֵּאלֹהִים",
         "transliteration": "bElohim",
@@ -2851,8 +2970,8 @@
       "context": {
         "hebrew": "אַנְשֵׁי נִינְוֵה **בֵּאלֹהִים** וַיִּקְרְאוּ־ צוֹם",
         "transliteration": "anshei Nineveh **bElohim** vaYiqreu- tzom",
-        "englishLiteral": "men-of Dwelling_of_Fish (Nineveh) **in-Gods** and-called_out- fast",
-        "englishNatural": "And the men of Dwelling-of-Fish (Nineveh) **in God** and called-out a fast"
+        "englishLiteral": "men-of Dwelling_of_Fish (Nineveh) **in-Gods,** and-called_out- fast,",
+        "englishNatural": "Dwelling-of-Fish (Nineveh) believed **in God,** and called-out a fast,"
       }
     },
     {
@@ -2862,6 +2981,7 @@
         "verse": 8
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -2875,8 +2995,8 @@
       "context": {
         "hebrew": "וְיִקְרְאוּ אֶל־ **אֱלֹהִים** בְּחָזְקָה וְיָשֻׁבוּ",
         "transliteration": "veYiqreu el- **Elohim** beChazqah veYashuvu",
-        "englishLiteral": "and-they-will-call_out to- **Gods** in-intensity and-return",
-        "englishNatural": "and they will call-out to **God** in intensity and return"
+        "englishLiteral": "and-they-will-call_out to- **Gods** in-intensity; and-return",
+        "englishNatural": "and they will call-out to **God** in intensity; and return"
       }
     },
     {
@@ -2886,6 +3006,7 @@
         "verse": 9
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -2899,8 +3020,8 @@
       "context": {
         "hebrew": "יָשׁוּב וְנִחַם **הָאֱלֹהִים** וְשָׁב מֵחֲרוֹן",
         "transliteration": "yashuv veNicham **haElohim** veShav meCharon",
-        "englishLiteral": "he-will-return and-will-comfort **the-Gods** and-turn from-burning-of",
-        "englishNatural": "will return and will comfort **The God** and turn from the burning of"
+        "englishLiteral": "he-will-return and-will-comfort **the-Gods,** and-turn from-burning-of",
+        "englishNatural": "Who knows? **The God** will return and will comfort,"
       }
     },
     {
@@ -2910,6 +3031,7 @@
         "verse": 10
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -2923,8 +3045,8 @@
       "context": {
         "hebrew": "וַיַּרְא **הָאֱלֹהִים** אֶת־ מַעֲשֵׂיהֶם",
         "transliteration": "vaYar **haElohim** et- maaseihem",
-        "englishLiteral": "And-saw **the-Gods** ↳ works-their",
-        "englishNatural": "saw **And the God** ↳ their works"
+        "englishLiteral": "And-saw **the-Gods** ↳ works-their,",
+        "englishNatural": "**And the God** saw ↳"
       }
     },
     {
@@ -2934,6 +3056,7 @@
         "verse": 10
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -2947,8 +3070,8 @@
       "context": {
         "hebrew": "הָרָעָה וַיִּנָּחֶם **הָאֱלֹהִים** עַל־ הָרָעָה",
         "transliteration": "haRaah vaYinachem **haElohim** al- haRaah",
-        "englishLiteral": "the-bad and-comforted **the-Gods** over- the-bad",
-        "englishNatural": "from the bad of comforted **and the God** over the bad"
+        "englishLiteral": "the-bad; and-comforted **the-Gods,** over- the-bad",
+        "englishNatural": "from the bad of their way; **and the God** comforted, over"
       }
     },
     {
@@ -2958,6 +3081,7 @@
         "verse": 6
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -2971,8 +3095,8 @@
       "context": {
         "hebrew": "וַיְמַן יְהוָה־ **אֱלֹהִים** קִיקָיוֹן וַיַּעַל",
         "transliteration": "vaYeman YHWH- **Elohim** qiqayon vaYaal",
-        "englishLiteral": "And-appointed He_Who_Is (YHWH)- **Gods** luscious_plant and-went_up",
-        "englishNatural": "appointed And He-Who-Is (YHWH) **God** a luscious-plant and made it go-up"
+        "englishLiteral": "And-appointed He_Who_Is (YHWH)- **Gods** luscious_plant, and-went_up",
+        "englishNatural": "And He-Who-Is (YHWH) **God** appointed a luscious-plant,"
       }
     },
     {
@@ -2982,6 +3106,7 @@
         "verse": 7
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאֱלֹהִים",
         "transliteration": "haElohim",
@@ -2996,7 +3121,7 @@
         "hebrew": "וַיְמַן **הָאֱלֹהִים** תּוֹלַעַת בַּעֲלוֹת",
         "transliteration": "vaYeman **haElohim** tolaat baAlot",
         "englishLiteral": "And-appointed **the-Gods** worm at-rising_of",
-        "englishNatural": "appointed **And the God** a worm at the rising of"
+        "englishNatural": "**And the God** appointed a worm"
       }
     },
     {
@@ -3006,6 +3131,7 @@
         "verse": 8
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -3019,8 +3145,8 @@
       "context": {
         "hebrew": "הַשֶּׁמֶשׁ וַיְמַן **אֱלֹהִים** רוּחַ קָדִים",
         "transliteration": "haShemesh vaYeman **Elohim** ruach qadim",
-        "englishLiteral": "the-sun and-appointed **Gods** wind east_wind",
-        "englishNatural": "the sun appointed **and God** a wind east-wind"
+        "englishLiteral": "the-sun; and-appointed **Gods** wind, east_wind",
+        "englishNatural": "at the rising of the sun; **and God** appointed a wind,"
       }
     },
     {
@@ -3030,6 +3156,7 @@
         "verse": 9
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלֹהִים",
         "transliteration": "Elohim",
@@ -3043,8 +3170,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר **אֱלֹהִים** אֶל־ יוֹנָה",
         "transliteration": "vaYomer **Elohim** el- Yonah",
-        "englishLiteral": "And-said **Gods** to- Dove (Jonah)",
-        "englishNatural": "said **And God** to Dove (Jonah)"
+        "englishLiteral": "And-said **Gods** to- Dove (Jonah),",
+        "englishNatural": "**And God** said to"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 30
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "לָא",
         "transliteration": "la",
@@ -24,7 +25,7 @@
         "hebrew": "וַאֲנָה **לָא** בְחָכְמָה דִּי",
         "transliteration": "vaAnah **la** beChokmah di",
         "englishLiteral": "and-I **not** in-wisdom which",
-        "englishNatural": "And I **not** in wisdom which"
+        "englishNatural": "And I, **not** in wisdom which"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 34
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "לָא",
         "transliteration": "la",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "אֶבֶן דִּי **לָא** בִידַיִן וּמְחָת",
         "transliteration": "even di **la** biDayin uMechat",
-        "englishLiteral": "stone which **not** in-hands and-struck",
-        "englishNatural": "a stone which **was not** in hands and struck"
+        "englishLiteral": "stone which **not** in-hands, and-struck",
+        "englishNatural": "was cut out which **was not** in hands, and struck"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 35
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "לָא",
         "transliteration": "la",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "וְכָל אֲתַר **לָא** הִשְׁתֲּכַח לְהוֹן",
         "transliteration": "veKhol atar **la** hishtakach lehon",
-        "englishLiteral": "and-all place **not** was-found to-them",
-        "englishNatural": "and any place **was not** found to them"
+        "englishLiteral": "and-all place **not** was-found to-them.",
+        "englishNatural": "and any place **was not** found to them."
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 43
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "לָא",
         "transliteration": "la",
@@ -96,7 +100,7 @@
         "hebrew": "כְּדִי פַרְזְלָא **לָא** מִתְעָרַב עִם־",
         "transliteration": "kedi parzela **la** mitarav im-",
         "englishLiteral": "just_as iron-the **not** mix-itself with-",
-        "englishNatural": "just as the iron **not** mixes itself with"
+        "englishNatural": "the iron mixes itself **not** with the clay."
       }
     },
     {
@@ -106,6 +110,7 @@
         "verse": 44
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "לָא",
         "transliteration": "la",
@@ -119,8 +124,8 @@
       "context": {
         "hebrew": "דִּי לְעָלְמִין **לָא** תִתְחַבַּל וּמַלְכוּתָה",
         "transliteration": "di leAlmin **la** titchabal uMalkhutah",
-        "englishLiteral": "which to-the_ages **not** will-be_damaged and-kingdom-the",
-        "englishNatural": "which to the-ages **not** will be-damaged and the kingdom"
+        "englishLiteral": "which to-the_ages **not** will-be_damaged, and-kingdom-the",
+        "englishNatural": "to the-ages will be-damaged **not,** and the kingdom to another"
       }
     },
     {
@@ -130,6 +135,7 @@
         "verse": 44
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "לָא",
         "transliteration": "la",
@@ -143,8 +149,8 @@
       "context": {
         "hebrew": "לְעַם אָחֳרָן **לָא** תִשְׁתְּבִק וְתַדִּק",
         "transliteration": "leAm achoran **la** tishtebiq veTaddiq",
-        "englishLiteral": "to-people another **not** will-be-left and-she-will-crush",
-        "englishNatural": "people to another **not** it will be-left and it will crush"
+        "englishLiteral": "to-people another **not** will-be-left, and-she-will-crush",
+        "englishNatural": "people it will be-left **not,** and it will crush and consume"
       }
     },
     {
@@ -154,6 +160,7 @@
         "verse": 45
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "לָא",
         "transliteration": "la",
@@ -167,8 +174,8 @@
       "context": {
         "hebrew": "אֶבֶן דִּי **לָא** בִידַיִן וְהַדֵּקֶת",
         "transliteration": "even di **la** biDayin veHaddeqet",
-        "englishLiteral": "stone which **not** in-hands and-crushed",
-        "englishNatural": "a stone which **was not** in hands and crushed"
+        "englishLiteral": "stone which **not** in-hands, and-crushed",
+        "englishNatural": "a stone which **was not** in hands, and crushed"
       }
     },
     {
@@ -178,6 +185,7 @@
         "verse": 14
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "לָ֣א",
         "transliteration": "la",
@@ -191,8 +199,8 @@
       "context": {
         "hebrew": "עָלַם֙ דִּֽי־ **לָ֣א** יֶעְדֵּ֔ה וּמַלְכוּתֵ֖הּ",
         "transliteration": "alam di- **la** yeddeh uMalkhuteh",
-        "englishLiteral": "everlasting which- **not** pass-away and-kingdom-His",
-        "englishNatural": "everlasting which **not** will pass away and His kingdom"
+        "englishLiteral": "everlasting which- **not** pass-away, and-kingdom-His",
+        "englishNatural": "which will pass away **not,** and His kingdom which"
       }
     },
     {
@@ -202,6 +210,7 @@
         "verse": 14
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "לָ֥א",
         "transliteration": "la",
@@ -213,10 +222,10 @@
         }
       },
       "context": {
-        "hebrew": "וּמַלְכוּתֵ֖הּ דִּי־ **לָ֥א** תִתְחַבַּֽל׃",
+        "hebrew": "וּמַלְכוּתֵ֖הּ דִּי־ **לָ֥א** תִתְחַבַּֽל׃׃",
         "transliteration": "uMalkhuteh di- **la** titkhabbal",
-        "englishLiteral": "and-kingdom-His which- **not** be-destroyed",
-        "englishNatural": "and His kingdom which **not** will be destroyed"
+        "englishLiteral": "and-kingdom-His which- **not** be-destroyed.",
+        "englishNatural": "which will be destroyed **not.**"
       }
     }
   ]

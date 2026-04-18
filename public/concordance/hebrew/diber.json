@@ -10,6 +10,7 @@
         "verse": 13
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "דִּבֶּר",
         "transliteration": "diber",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "אֲלֵהֶם כַּאֲשֶׁר **דִּבֶּר** יְהוָה",
         "transliteration": "alehem kaAsher **diber** YHWH",
-        "englishLiteral": "to-them as-which **spoke** He_Who_Is (YHWH)",
-        "englishNatural": "to them as which **had spoken** He-Who-Is (YHWH)"
+        "englishLiteral": "to-them, as-which **spoke** He_Who_Is (YHWH).",
+        "englishNatural": "as which He-Who-Is (YHWH) **had spoken.**"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 10
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "דִּבֶּר",
         "transliteration": "diber",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "הָרָעָה אֲשֶׁר־ **דִּבֶּר** לַעֲשׂוֹת לָהֶם",
         "transliteration": "haRaah asher- **diber** laasot lahem",
-        "englishLiteral": "the-bad which- **he-spoke** to-make to-them",
-        "englishNatural": "the bad which **he spoke** to make to them"
+        "englishLiteral": "the-bad which- **he-spoke** to-make to-them;",
+        "englishNatural": "the bad which **he spoke** to make to them;"
       }
     }
   ]

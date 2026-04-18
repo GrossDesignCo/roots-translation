@@ -9,6 +9,7 @@
         "verse": 3
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "מוֹתִי",
         "transliteration": "moti",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "כִּי טוֹב **מוֹתִי** מֵחַיָּי",
         "transliteration": "ki tov **moti** mechayyai",
-        "englishLiteral": "that good **death-my** from-lives-my",
-        "englishNatural": "that good-is **my death** from my life"
+        "englishLiteral": "that good **death-my,** from-lives-my.\"",
+        "englishNatural": "that good-is **my death,** from my life.\""
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 8
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "לָמוּת",
         "transliteration": "lamut",
@@ -48,8 +50,8 @@
       "context": {
         "hebrew": "אֶת־ נַפְשׁוֹ **לָמוּת** וַיֹּאמֶר טוֹב",
         "transliteration": "et- nafsho **lamut** vaYomer tov",
-        "englishLiteral": "↳ throat-his **to-die** and-said good",
-        "englishNatural": "↳ his throat **to die** and he said Good-is"
+        "englishLiteral": "↳ throat-his **to-die,** and-said, \"good",
+        "englishNatural": "↳ his throat **to die,** and he said, \"Good-is"
       }
     },
     {
@@ -59,6 +61,7 @@
         "verse": 8
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "מוֹתִי",
         "transliteration": "moti",
@@ -72,8 +75,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר טוֹב **מוֹתִי** מֵחַיָּי",
         "transliteration": "vaYomer tov **moti** mechayyai",
-        "englishLiteral": "and-said good **death-my** from-lives-my",
-        "englishNatural": "and he said Good-is **my death** from my life"
+        "englishLiteral": "and-said, \"good **death-my** from-lives-my.\"",
+        "englishNatural": "and he said, \"Good-is **my death** from my life.\""
       }
     }
   ]

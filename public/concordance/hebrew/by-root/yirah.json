@@ -9,6 +9,7 @@
         "verse": 7
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "יִרְאַת",
         "transliteration": "yirat",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "**יִרְאַת** יְהוָה רֵאשִׁית",
         "transliteration": "**yirat** YHWH reshit",
-        "englishLiteral": "**Fear-of** He_Who_Is (YHWH) heading-of",
-        "englishNatural": "**Fear of** He-Who-Is (YHWH) heading of"
+        "englishLiteral": "**Fear-of** He_Who_Is (YHWH), heading-of",
+        "englishNatural": "**Fear of** He-Who-Is (YHWH), heading of"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 18
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "וְיִרְאָה",
         "transliteration": "veYirah",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וְגֹבַהּ לָהֶם **וְיִרְאָה** לָהֶם וְגַבֹּתָם",
         "transliteration": "veGovah lahem **veYirah** lahem veGabbotam",
-        "englishLiteral": "and-height to-them **and-fear** to-them and-rims-their",
-        "englishNatural": "and height to them **and fear** to them and their rims"
+        "englishLiteral": "and-height to-them, **and-fear** to-them, and-rims-their",
+        "englishNatural": "and height to them, **and fear** to them, and their rims"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 10
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "יִרְאָה",
         "transliteration": "yirah",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "וַיִּירְאוּ הָאֲנָשִׁים **יִרְאָה** גְדוֹלָה וַיֹּאמְרוּ",
         "transliteration": "vaYirau haAnashim **yirah** gedolah vaYomeru",
-        "englishLiteral": "And-feared the-men **fear** great and-said",
-        "englishNatural": "feared And the men **fear** a great and said"
+        "englishLiteral": "And-feared the-men **fear** great, and-said",
+        "englishNatural": "feared a great **fear,** and said to him,"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 16
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "יִרְאָה",
         "transliteration": "yirah",
@@ -95,7 +99,7 @@
         "hebrew": "וַיִּירְאוּ הָאֲנָשִׁים **יִרְאָה** גְדוֹלָה אֶת־",
         "transliteration": "vaYireu haAnashim **yirah** gedolah et-",
         "englishLiteral": "And-feared the-men **fear** great ↳",
-        "englishNatural": "feared And the men **fear of** a great ↳"
+        "englishNatural": "feared a great **fear of** ↳ He-Who-Is (YHWH);"
       }
     }
   ]

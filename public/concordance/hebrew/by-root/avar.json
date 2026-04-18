@@ -9,6 +9,7 @@
         "verse": 17
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "בַּעֲבוּרֶךָ",
         "transliteration": "baAvurekha",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "אֲרוּרָה הָאֲדָמָה **בַּעֲבוּרֶךָ** בְּעִצָּבוֹן תֹּאכְלֶנָּה",
         "transliteration": "arurah haAdamah **baAvurekha** beItzavon tokhlena",
-        "englishLiteral": "cursed the-earth **in-passing_through-your** in-pain you-will-eat",
-        "englishNatural": "cursed is the earth **in your passing-through** in pain you will eat"
+        "englishLiteral": "cursed the-earth **in-passing_through-your;** in-pain you-will-eat,",
+        "englishNatural": "cursed is the earth **in your passing-through;** in pain you will eat,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 21
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "בַּעֲבוּר",
         "transliteration": "baAvur",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "אֶת־ הָאֲדָמָה **בַּעֲבוּר** הָאָדָם כִּי",
         "transliteration": "et- haAdamah **baAvur** haAdam ki",
-        "englishLiteral": "↳ the-earth **in-passing_through-of** the-Earthling (Adam) for",
-        "englishNatural": "↳ the earth **in the passing-through of** the Earthling (Adam) for"
+        "englishLiteral": "↳ the-earth, **in-passing_through-of** the-Earthling (Adam), for",
+        "englishNatural": "↳ the earth, **in the passing-through of** the Earthling (Adam), for"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 17
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "עָבַר",
         "transliteration": "avar",
@@ -73,7 +76,7 @@
         "hebrew": "אֵשׁ אֲשֶׁר **עָבַר** בֵּין הַגְּזָרִים",
         "transliteration": "esh asher **avar** beyn haGezarim",
         "englishLiteral": "fire which **he-passed** between the-pieces",
-        "englishNatural": "fire which **passed** between pieces"
+        "englishNatural": "fire which **passed** between these"
       }
     },
     {
@@ -83,6 +86,7 @@
         "verse": 6
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיַּעֲבֹר",
         "transliteration": "vaYaavor",
@@ -99,7 +103,7 @@
         "hebrew": "**וַיַּעֲבֹר** יְהוָה עַל־",
         "transliteration": "**vaYaavor** YHWH al-",
         "englishLiteral": "**And-passed-through** He_Who_Is (YHWH) over-",
-        "englishNatural": "**passed through** And He-Who-Is (YHWH) over"
+        "englishNatural": "And He-Who-Is (YHWH) **passed through** over his face,"
       }
     },
     {
@@ -109,6 +113,7 @@
         "verse": 8
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "עֹ֝בֵ֗ר",
         "transliteration": "over",
@@ -124,8 +129,8 @@
       "context": {
         "hebrew": "וּדְגֵ֣י הַיָּ֑ם **עֹ֝בֵ֗ר** אָרְח֥וֹת יַמִּֽים",
         "transliteration": "uDgei haYam **over** orchot yamim",
-        "englishLiteral": "and-fish-of the-sea **passing-through** paths-of seas",
-        "englishNatural": "and the fish of the sea **passing-through** the paths of seas"
+        "englishLiteral": "and-fish-of the-sea, **passing-through** paths-of seas.",
+        "englishNatural": "and the fish of the sea, **passing-through** the paths of seas."
       }
     },
     {
@@ -135,6 +140,7 @@
         "verse": 29
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "יַעַבְרוּ־",
         "transliteration": "yaavru-",
@@ -150,8 +156,8 @@
       "context": {
         "hebrew": "וּמַיִם לֹא **יַעַבְרוּ־** פִיו בְּחוּקוֹ",
         "transliteration": "uMayim lo **yaavru-** piw beChuqo",
-        "englishLiteral": "and-waters not **they-will-pass-** his-mouth in-inscribing-his",
-        "englishNatural": "and the waters not **will pass** his mouth in his inscribing"
+        "englishLiteral": "and-waters not **they-will-pass-** his-mouth; in-inscribing-his",
+        "englishNatural": "his decree, and the waters **will pass** his mouth not;"
       }
     },
     {
@@ -161,6 +167,7 @@
         "verse": 3
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "עָבְרוּ",
         "transliteration": "avru",
@@ -176,8 +183,8 @@
       "context": {
         "hebrew": "וְנִסְתָּר וּפְתָיִים **עָבְרוּ** וְנֶעֱנָשׁוּ",
         "transliteration": "veNiStar uFetayim **avru** veNeEnashu",
-        "englishLiteral": "and-himself-hides but-simples **pass-on** and-are-punished",
-        "englishNatural": "and hides himself but the simple **go on** and are punished"
+        "englishLiteral": "and-himself-hides, but-simples **pass-on** and-are-punished.",
+        "englishNatural": "and hides himself; but the simple **go on** and are punished."
       }
     },
     {
@@ -187,6 +194,7 @@
         "verse": 3
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "עָבָרוּ",
         "transliteration": "avaru",
@@ -202,8 +210,8 @@
       "context": {
         "hebrew": "וְגַלֶּיךָ עָלַי **עָבָרוּ**",
         "transliteration": "veGalekha alay **avaru**",
-        "englishLiteral": "and-waves-your over-me **passed**",
-        "englishNatural": "and your waves over me **have passed**"
+        "englishLiteral": "and-waves-your, over-me **passed.**",
+        "englishNatural": "and your waves, over me **have passed.**"
       }
     },
     {
@@ -213,6 +221,7 @@
         "verse": 6
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "וַיַּעֲבֵר",
         "transliteration": "vaYaaver",
@@ -228,8 +237,8 @@
       "context": {
         "hebrew": "וַיָּקָם מִכִּסְאוֹ **וַיַּעֲבֵר** אַדַּרְתּוֹ מֵעָלָיו",
         "transliteration": "vaYaqam mikisso **vaYaaver** adaretto meAlav",
-        "englishLiteral": "and-stood_up from-throne-his **and-passed_through** robe-his from-over-him",
-        "englishNatural": "and he stood-up from his throne **and he passed-through** his robe from over him"
+        "englishLiteral": "and-stood_up from-throne-his, **and-passed_through** robe-his from-over-him,",
+        "englishNatural": "and he stood-up from his throne, **and he passed-through** his robe from over him,"
       }
     }
   ]

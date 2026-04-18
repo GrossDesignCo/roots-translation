@@ -9,6 +9,7 @@
         "verse": 7
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הִתְפַּלֵּל",
         "transliteration": "hitpalel",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "בַיהוָה וָבָךְ **הִתְפַּלֵּל** אֶל יְהוָה",
         "transliteration": "vaYHWH vaVeKha **hitpalel** el YHWH",
-        "englishLiteral": "against-He_Who_Is (YHWH) and-against-you **pray** to He_Who_Is (YHWH)",
-        "englishNatural": "against He-Who-Is (YHWH) and against you **pray** to He-Who-Is (YHWH)"
+        "englishLiteral": "against-He_Who_Is (YHWH) and-against-you, **pray** to He_Who_Is (YHWH),",
+        "englishNatural": "against He-Who-Is (YHWH) and against you; **pray** to He-Who-Is (YHWH),"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 7
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "וַיִּתְפַּלֵּל",
         "transliteration": "vaYitpalel",
@@ -49,8 +51,8 @@
       "context": {
         "hebrew": "אֶת הַנָּחָשׁ **וַיִּתְפַּלֵּל** מֹשֶׁה בְּעַד",
         "transliteration": "et haNachash **vaYitpalel** Moshe beAd",
-        "englishLiteral": "↳ the-snake **And-prayed** Drawn_Out (Moses) in-unto",
-        "englishNatural": "↳ the snake **prayed** And Drawn-Out (Moses) in unto"
+        "englishLiteral": "↳ the-snake.\" **And-prayed** Drawn_Out (Moses) in-unto",
+        "englishNatural": "from over us.\" And Drawn-Out (Moses) **prayed** in unto the people."
       }
     },
     {
@@ -60,6 +62,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "הַלְלוּ",
         "transliteration": "halelu",
@@ -75,8 +78,8 @@
       "context": {
         "hebrew": "**הַלְלוּ** אֶת יְהוָה",
         "transliteration": "**halelu** et YHWH",
-        "englishLiteral": "**Praise** ↳ He_Who_Is (YHWH)",
-        "englishNatural": "**Praise** ↳ He-Who-Is (YHWH)"
+        "englishLiteral": "**Praise** ↳ He_Who_Is (YHWH),",
+        "englishNatural": "**Praise** ↳ He-Who-Is (YHWH),"
       }
     },
     {
@@ -86,6 +89,7 @@
         "verse": 2
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הַלְלוּ",
         "transliteration": "halelu",
@@ -101,8 +105,8 @@
       "context": {
         "hebrew": "יְהוָה לְעוֹלָם **הַלְלוּ** יָהּ",
         "transliteration": "YHWH leOlam **halelu** yah",
-        "englishLiteral": "He_Who_Is (YHWH) to-the_age **Praise** He—",
-        "englishNatural": "He-Who-Is (YHWH) to the-age **Praise** He—"
+        "englishLiteral": "He_Who_Is (YHWH) to-the_age, **Praise** He—.",
+        "englishNatural": "He-Who-Is (YHWH) to the-age, **Praise** He—."
       }
     },
     {
@@ -112,6 +116,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּתְפַּלֵּל",
         "transliteration": "vaYitpalel",
@@ -128,7 +133,7 @@
         "hebrew": "**וַיִּתְפַּלֵּל** יוֹנָה אֶל־",
         "transliteration": "**vaYitpalel** Yonah el-",
         "englishLiteral": "**And-prayed** Dove (Jonah) to-",
-        "englishNatural": "**prayed** And Dove (Jonah) to"
+        "englishNatural": "And Dove (Jonah) **prayed** to He-Who-Is (YHWH)"
       }
     },
     {
@@ -138,6 +143,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּתְפַּלֵּל",
         "transliteration": "vaYitpallel",

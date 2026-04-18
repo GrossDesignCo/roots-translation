@@ -9,6 +9,7 @@
         "verse": 2
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָיְתָ֥ה",
         "transliteration": "haytah",
@@ -23,9 +24,9 @@
       },
       "context": {
         "hebrew": "וְהָאָ֗רֶץ **הָיְתָ֥ה** תֹ֙הוּ֙ וָבֹ֔הוּ",
-        "transliteration": "veHaAretz **haytah** tohu vaVohu",
-        "englishLiteral": "And-the-land **was** waste and-void",
-        "englishNatural": "And the land **was** waste and void"
+        "transliteration": "veHaAretz **haytah** tohu vaVohu;",
+        "englishLiteral": "And-the-land **was** waste and-void;",
+        "englishNatural": "And the land **was** waste and void;"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 3
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "יְהִ֣י",
         "transliteration": "yehi",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "וַיֹּ֥אמֶר אֱלֹהִ֖ים **יְהִ֣י** א֑וֹר וַֽיְהִי",
         "transliteration": "vaYomer Elohim **yehi** or vaYehi",
-        "englishLiteral": "And-said Gods **Let-be** light And-was",
-        "englishNatural": "said And God **be** Let light was"
+        "englishLiteral": "And-said Gods, **\"Let-be** light.\" And-was",
+        "englishNatural": "said, \"Let light **be.\"** And light was."
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 3
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וַֽיְהִי",
         "transliteration": "vaYehi",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "יְהִ֣י א֑וֹר **וַֽיְהִי** אֽוֹר",
         "transliteration": "yehi or **vaYehi** or",
-        "englishLiteral": "Let-be light **And-was** light",
-        "englishNatural": "be Let light **was** And light"
+        "englishLiteral": "\"Let-be light.\" **And-was** light.",
+        "englishNatural": "be.\" And light **was.**"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 5
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "וַֽיְהִי",
         "transliteration": "vaYehi",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "קָ֣רָא לָ֑יְלָה **וַֽיְהִי** עֶ֥רֶב וַֽיְהִי",
         "transliteration": "qara laylah **vaYehi** erev vaYehi",
-        "englishLiteral": "called_out Night **And-was** evening And-was",
-        "englishNatural": "and called-out Night **was** And evening was"
+        "englishLiteral": "called_out \"Night.\" **And-was,** evening, And-was,",
+        "englishNatural": "\"Night.\" And evening **was,** And morning was,"
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 5
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וַֽיְהִי",
         "transliteration": "vaYehi",
@@ -128,8 +133,8 @@
       "context": {
         "hebrew": "וַֽיְהִי עֶ֥רֶב **וַֽיְהִי** בֹ֖קֶר י֥וֹם",
         "transliteration": "vaYehi erev **vaYehi** voqer yom",
-        "englishLiteral": "And-was evening **And-was** morning Day",
-        "englishNatural": "was And evening **was** And morning day"
+        "englishLiteral": "And-was, evening, **And-was,** morning, Day",
+        "englishNatural": "was, And morning **was,** One day."
       }
     },
     {
@@ -139,6 +144,7 @@
         "verse": 6
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "יְהִי",
         "transliteration": "yehi",
@@ -154,8 +160,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר אֱלֹהִים **יְהִי** רָקִיעַ בְּתוֹךְ",
         "transliteration": "vaYomer Elohim **yehi** raqia beTokh",
-        "englishLiteral": "And-said Gods **Let-be** hammering_out in-midst-of",
-        "englishNatural": "said And God **be** Let a hammering-out in the midst of"
+        "englishLiteral": "And-said Gods **\"Let-be** hammering_out in-midst-of",
+        "englishNatural": "said, \"Let a hammering-out **be** in the midst of the waters,"
       }
     },
     {
@@ -165,6 +171,7 @@
         "verse": 6
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וִיהִי",
         "transliteration": "vihi",
@@ -180,8 +187,8 @@
       "context": {
         "hebrew": "בְּתוֹךְ הַמָּיִם֙ **וִיהִי** מַבְדִּיל בֵּין",
         "transliteration": "beTokh haMayim **vihi** mavdil beyn",
-        "englishLiteral": "in-midst-of the-waters **and-let-be** separating between",
-        "englishNatural": "in the midst of the waters **and let it be** separating between"
+        "englishLiteral": "in-midst-of the-waters, **and-let-be** separating between",
+        "englishNatural": "in the midst of the waters, **and let it be** separating between"
       }
     },
     {
@@ -191,6 +198,7 @@
         "verse": 7
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "וַֽיְהִי־",
         "transliteration": "vaVayhi-",
@@ -206,8 +214,8 @@
       "context": {
         "hebrew": "מֵעַ֣ל לָרָקִ֑יעַ **וַֽיְהִי־** כֵֽן׃",
         "transliteration": "meAl laRaqia **vaVayhi-** ken",
-        "englishLiteral": "from-over to_the-hammering_out **And-was-** so",
-        "englishNatural": "were over the hammering-out **And it was** so"
+        "englishLiteral": "from-over to_the-hammering_out. **And-was-** so.",
+        "englishNatural": "were over the hammering-out. **And it was** so."
       }
     },
     {
@@ -217,6 +225,7 @@
         "verse": 8
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וַֽיְהִי",
         "transliteration": "vaYehi",
@@ -232,8 +241,8 @@
       "context": {
         "hebrew": "לָֽרָקִ֖יעַ שָׁמָ֑יִם **וַֽיְהִי** עֶ֥רֶב וַֽיְהִי",
         "transliteration": "laRaqia shamayim **vaYehi** erev vaYehi",
-        "englishLiteral": "to_the-hammering_out Skies **And-was** evening And-was",
-        "englishNatural": "to the hammering-out Skies **was** And evening was"
+        "englishLiteral": "to_the-hammering_out, \"Skies.\" **And-was** evening, And-was",
+        "englishNatural": "\"Skies.\" And evening **was,** And morning was,"
       }
     },
     {
@@ -243,6 +252,7 @@
         "verse": 8
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וַֽיְהִי",
         "transliteration": "vaYehi",
@@ -258,8 +268,8 @@
       "context": {
         "hebrew": "וַֽיְהִי עֶ֥רֶב **וַֽיְהִי** בֹ֖קֶר י֥וֹם",
         "transliteration": "vaYehi erev **vaYehi** voqer yom",
-        "englishLiteral": "And-was evening **And-was** morning Day",
-        "englishNatural": "was And evening **was** And morning day"
+        "englishLiteral": "And-was evening, **And-was** morning, Day",
+        "englishNatural": "was, And morning **was,** A second day."
       }
     },
     {
@@ -269,6 +279,7 @@
         "verse": 9
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "וַֽיְהִי־",
         "transliteration": "vaVayhi-",
@@ -284,8 +295,8 @@
       "context": {
         "hebrew": "וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה **וַֽיְהִי־** כֵֽן׃",
         "transliteration": "veTeRaah haYabashah **vaVayhi-** ken",
-        "englishLiteral": "And-be-seen the-dry_ground **And-was-** so",
-        "englishNatural": "be seen And let the dry-ground **And it was** so"
+        "englishLiteral": "And-be-seen, the-dry_ground.\" **And-was-** so.",
+        "englishNatural": "And let the dry-ground be seen.\" **And it was** so."
       }
     },
     {
@@ -295,6 +306,7 @@
         "verse": 11
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "וַֽיְהִי־",
         "transliteration": "vaVayhi-",
@@ -310,8 +322,8 @@
       "context": {
         "hebrew": "עַל־ הָאָ֑רֶץ **וַֽיְהִי־** כֵֽן׃",
         "transliteration": "al- haAretz **vaVayhi-** ken",
-        "englishLiteral": "over- the-land **And-was-** so",
-        "englishNatural": "over the land **And it was** so"
+        "englishLiteral": "over- the-land.\" **And-was-** so.",
+        "englishNatural": "over the land.\" **And it was** so."
       }
     },
     {
@@ -321,6 +333,7 @@
         "verse": 13
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַֽיְהִי־",
         "transliteration": "vaVayhi-",
@@ -336,8 +349,8 @@
       "context": {
         "hebrew": "**וַֽיְהִי־** עֶ֥רֶב וַֽיְהִי־",
         "transliteration": "**vaVayhi-** erev vaVayhi-",
-        "englishLiteral": "**And-was** evening And-was",
-        "englishNatural": "**was** And evening was"
+        "englishLiteral": "**And-was** evening, And-was",
+        "englishNatural": "And evening **was,** And morning was,"
       }
     },
     {
@@ -347,6 +360,7 @@
         "verse": 13
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וַֽיְהִי־",
         "transliteration": "vaVayhi-",
@@ -362,8 +376,8 @@
       "context": {
         "hebrew": "וַֽיְהִי־ עֶ֥רֶב **וַֽיְהִי־** בֹ֖קֶר י֥וֹם",
         "transliteration": "vaVayhi- erev **vaVayhi-** boqer yom",
-        "englishLiteral": "And-was evening **And-was** morning Day",
-        "englishNatural": "was And evening **was** And morning day"
+        "englishLiteral": "And-was evening, **And-was** morning, Day",
+        "englishNatural": "was, And morning **was,** A third day."
       }
     },
     {
@@ -373,6 +387,7 @@
         "verse": 14
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "יְהִ֤י",
         "transliteration": "yehi",
@@ -388,8 +403,8 @@
       "context": {
         "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים **יְהִ֤י** מְאֹרֹ֖ת בִּרְקִ֣יעַ",
         "transliteration": "vaYomer Elohim **yehi** meOrot biRqia",
-        "englishLiteral": "And-said Gods **Let-be** light_sources in-hammering_out",
-        "englishNatural": "said And God **Let there be** light-sources in the hammering-out"
+        "englishLiteral": "And-said Gods, **\"Let-be** light_sources in-hammering_out,",
+        "englishNatural": "And God said, **\"Let there be** light-sources in the hammering-out,"
       }
     },
     {
@@ -399,6 +414,7 @@
         "verse": 14
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "וְהָי֤וּ",
         "transliteration": "veHayu",
@@ -414,8 +430,8 @@
       "context": {
         "hebrew": "וּבֵ֥ין הַלָּ֑יְלָה **וְהָי֤וּ** לְאֹתֹ֔ת וּלְמוֹעֲדִ֖ים",
         "transliteration": "uBeyn haLaylah **veHayu** leOtot uLeMoedim",
-        "englishLiteral": "and-between the-night **And-they-will-be** for-signs and-for-appointed_times",
-        "englishNatural": "and between the night **And they will be** for signs and for appointed-times"
+        "englishLiteral": "and-between the-night, **And-they-will-be** for-signs, and-for-appointed_times,",
+        "englishNatural": "and between the night, **And they will be** for signs, and for appointed-times,"
       }
     },
     {
@@ -425,6 +441,7 @@
         "verse": 15
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְהָי֤וּ",
         "transliteration": "veHayu",
@@ -441,7 +458,7 @@
         "hebrew": "**וְהָי֤וּ** לִמְאוֹרֹ֖ת בִּרְקִ֣יעַ",
         "transliteration": "**veHayu** liMeOrot biRqia",
         "englishLiteral": "**And-they-will-be** for-light_sources in-hammering_out",
-        "englishNatural": "**And they will be** for light-sources in the hammering-out"
+        "englishNatural": "**And they will be** for light-sources in the hammering-out,"
       }
     },
     {
@@ -451,6 +468,7 @@
         "verse": 15
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "וַֽיְהִי־",
         "transliteration": "vaVayhi-",
@@ -466,8 +484,8 @@
       "context": {
         "hebrew": "עַל־ הָאָ֑רֶץ **וַֽיְהִי־** כֵֽן׃",
         "transliteration": "al- haAretz **vaVayhi-** ken",
-        "englishLiteral": "over the-land **And-was-** so",
-        "englishNatural": "over the land **And it was** so"
+        "englishLiteral": "over the-land. **And-was-** so.",
+        "englishNatural": "over the land. **And it was** so."
       }
     },
     {
@@ -477,6 +495,7 @@
         "verse": 19
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַֽיְהִי־",
         "transliteration": "vaVayhi-",
@@ -492,8 +511,8 @@
       "context": {
         "hebrew": "**וַֽיְהִי־** עֶ֥רֶב וַֽיְהִי־",
         "transliteration": "**vaVayhi-** erev vaVayhi-",
-        "englishLiteral": "**And-was-** evening And-was-",
-        "englishNatural": "**was** And evening was"
+        "englishLiteral": "**And-was-** evening, And-was-",
+        "englishNatural": "And evening **was,** And morning was,"
       }
     },
     {
@@ -503,6 +522,7 @@
         "verse": 19
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וַֽיְהִי־",
         "transliteration": "vaVayhi-",
@@ -518,8 +538,8 @@
       "context": {
         "hebrew": "וַֽיְהִי־ עֶ֥רֶב **וַֽיְהִי־** בֹ֖קֶר י֥וֹם",
         "transliteration": "vaVayhi- erev **vaVayhi-** boqer yom",
-        "englishLiteral": "And-was- evening **And-was-** morning Day",
-        "englishNatural": "was And evening **was** And morning day"
+        "englishLiteral": "And-was- evening, **And-was-** morning, Day",
+        "englishNatural": "was, And morning **was,** A fourth day."
       }
     },
     {
@@ -529,6 +549,7 @@
         "verse": 23
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַֽיְהִי־",
         "transliteration": "vaVayhi-",
@@ -544,8 +565,8 @@
       "context": {
         "hebrew": "**וַֽיְהִי־** עֶ֥רֶב וַֽיְהִי־",
         "transliteration": "**vaVayhi-** erev vaVayhi-",
-        "englishLiteral": "**And-was** evening And-was",
-        "englishNatural": "**was** And evening was"
+        "englishLiteral": "**And-was** evening, And-was",
+        "englishNatural": "And evening **was,** And morning was,"
       }
     },
     {
@@ -555,6 +576,7 @@
         "verse": 23
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וַֽיְהִי־",
         "transliteration": "vaVayhi-",
@@ -570,8 +592,8 @@
       "context": {
         "hebrew": "וַֽיְהִי־ עֶ֥רֶב **וַֽיְהִי־** בֹ֖קֶר י֥וֹם",
         "transliteration": "vaVayhi- erev **vaVayhi-** boqer yom",
-        "englishLiteral": "And-was evening **And-was** morning Day",
-        "englishNatural": "was And evening **was** And morning day"
+        "englishLiteral": "And-was evening, **And-was** morning, Day",
+        "englishNatural": "was, And morning **was,** A fifth day."
       }
     },
     {
@@ -581,6 +603,7 @@
         "verse": 29
       },
       "wordIndex": 25,
+      "sourceOrder": 25,
       "word": {
         "originalScript": "יִֽהְיֶ֖ה",
         "transliteration": "yihyeh",
@@ -596,8 +619,8 @@
       "context": {
         "hebrew": "זָ֑רַע לָכֶ֥ם **יִֽהְיֶ֖ה** לְאָכְלָֽה׃",
         "transliteration": "zara lakhem **yihyeh** leOchlah",
-        "englishLiteral": "seed to-you **it-shall-be** for-food",
-        "englishNatural": "seed to you **it shall be** for food"
+        "englishLiteral": "seed, to-you **it-shall-be** for-food.",
+        "englishNatural": "seed, to you **it shall be** for food."
       }
     },
     {
@@ -607,6 +630,7 @@
         "verse": 30
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "וַֽיְהִי־",
         "transliteration": "vaVayhi-",
@@ -622,8 +646,8 @@
       "context": {
         "hebrew": "עֵ֖שֶׂב לְאָכְלָ֑ה **וַֽיְהִי־** כֵֽן׃",
         "transliteration": "esev leOchlah **vaVayhi-** ken",
-        "englishLiteral": "herb for-food **And-was** so",
-        "englishNatural": "herb for food **And it was** so"
+        "englishLiteral": "herb for-food.\" **And-was** so.",
+        "englishNatural": "herb for food.\" **And it was** so."
       }
     },
     {
@@ -633,6 +657,7 @@
         "verse": 31
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וַֽיְהִי",
         "transliteration": "vaYehi",
@@ -648,8 +673,8 @@
       "context": {
         "hebrew": "ט֖וֹב מְאֹ֑ד **וַֽיְהִי** עֶ֥רֶב וַֽיְהִי",
         "transliteration": "tov meod **vaYehi** erev vaYehi",
-        "englishLiteral": "good very **And-was** evening And-was",
-        "englishNatural": "good very **was** And evening was"
+        "englishLiteral": "good very. **And-was** evening, And-was",
+        "englishNatural": "good. And evening **was,** And morning was,"
       }
     },
     {
@@ -659,6 +684,7 @@
         "verse": 31
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "וַֽיְהִי",
         "transliteration": "vaYehi",
@@ -674,8 +700,8 @@
       "context": {
         "hebrew": "וַֽיְהִי עֶ֥רֶב **וַֽיְהִי** בֹ֖קֶר י֥וֹם",
         "transliteration": "vaYehi erev **vaYehi** boqer yom",
-        "englishLiteral": "And-was evening **And-was** morning Day",
-        "englishNatural": "was And evening **was** And morning day"
+        "englishLiteral": "And-was evening, **And-was** morning, Day",
+        "englishNatural": "was, And morning **was,** The sixth day."
       }
     },
     {
@@ -685,6 +711,7 @@
         "verse": 5
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "יִהְיֶה",
         "transliteration": "yihyeh",
@@ -700,8 +727,8 @@
       "context": {
         "hebrew": "הַשָּׂדֶה טֶרֶם **יִהְיֶה** בָאָרֶץ וְכָל",
         "transliteration": "haSadeh terem **yihyeh** baAretz veKol",
-        "englishLiteral": "the-field not-yet **will-be** in-land and-all",
-        "englishNatural": "of the field not yet **was** in the land and all"
+        "englishLiteral": "the-field not-yet **will-be** in-land, and-all",
+        "englishNatural": "shrub of the field **was** not yet in the land,"
       }
     },
     {
@@ -711,6 +738,7 @@
         "verse": 7
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -726,8 +754,8 @@
       "context": {
         "hebrew": "נִשְׁמַת חַיִּים **וַיְהִי** הָאָדָם לְנֶפֶשׁ",
         "transliteration": "nishmat chayyim **vaYehi** haAdam leNefesh",
-        "englishLiteral": "breath-of lives **and-was** the-Earthling (Adam) to-throat",
-        "englishNatural": "the breath of life **was** and the Earthling (Adam) throat"
+        "englishLiteral": "breath-of lives, **and-was** the-Earthling (Adam) to-throat",
+        "englishNatural": "life, and the Earthling (Adam) **was** a living throat."
       }
     },
     {
@@ -737,6 +765,7 @@
         "verse": 10
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וְהָיָה",
         "transliteration": "veHayah",
@@ -752,8 +781,8 @@
       "context": {
         "hebrew": "וּמִשָּׁם יִפָּרֵד **וְהָיָה** לְאַרְבָּעָה רָאשִׁים׃",
         "transliteration": "uMisham yipared **veHayah** leArbaah rashim",
-        "englishLiteral": "and-from-there will-part **and-was** to-four heads",
-        "englishNatural": "and from there parted **and became** into four heads"
+        "englishLiteral": "and-from-there will-part **and-was** to-four heads.",
+        "englishNatural": "and from there parted **and became** into four heads."
       }
     },
     {
@@ -763,6 +792,7 @@
         "verse": 18
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הֱיוֹת",
         "transliteration": "heyot",
@@ -778,8 +808,8 @@
       "context": {
         "hebrew": "לֹא־ טוֹב **הֱיוֹת** הָאָדָם לְבַדּוֹ",
         "transliteration": "lo- tov **heyot** haAdam leVaddo",
-        "englishLiteral": "No- good **to-be** the-Earthling (Adam) to-alone-him",
-        "englishNatural": "No good **to be** for the Earthling (Adam) to himself alone"
+        "englishLiteral": "\"No- good **to-be** the-Earthling (Adam) to-alone-him;",
+        "englishNatural": "good for the Earthling (Adam) **to be** to himself alone; I will make"
       }
     },
     {
@@ -789,6 +819,7 @@
         "verse": 24
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "וְהָיוּ",
         "transliteration": "veHayu",
@@ -804,8 +835,8 @@
       "context": {
         "hebrew": "וְדָבַק בְּאִשְׁתּוֹ **וְהָיוּ** לְבָשָׂר אֶחָד׃",
         "transliteration": "veDavaq beIshto **veHayu** leVasar echad",
-        "englishLiteral": "and-cling in-his-woman **and-will-be** to-flesh one",
-        "englishNatural": "and cling in his woman **and will become** flesh one"
+        "englishLiteral": "and-cling in-his-woman, **and-will-be** to-flesh one.",
+        "englishNatural": "and cling in his woman, **and will become** one flesh."
       }
     },
     {
@@ -815,6 +846,7 @@
         "verse": 25
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּהְיוּ",
         "transliteration": "vaYihyu",
@@ -830,8 +862,8 @@
       "context": {
         "hebrew": "**וַיִּהְיוּ** שְׁנֵיהֶם עֲרוּמִּים",
         "transliteration": "**vaYihyu** shenehem arummim",
-        "englishLiteral": "**And-they-were** two-of-them naked",
-        "englishNatural": "**were** And the two of them naked"
+        "englishLiteral": "**And-they-were** two-of-them naked,",
+        "englishNatural": "And the two of them **were** naked, the Earthling (Adam)"
       }
     },
     {
@@ -841,6 +873,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -856,8 +889,8 @@
       "context": {
         "hebrew": "וְהַנָּחָשׁ **הָיָה** עָרוּם מִכֹּל",
         "transliteration": "veHaNachash **hayah** arum miKol",
-        "englishLiteral": "And-the-snake **was** shrewd from-all",
-        "englishNatural": "And the snake **was** shrewd out of every"
+        "englishLiteral": "And-the-snake **was** shrewd, from-all",
+        "englishNatural": "And the snake **was** shrewd, out of every"
       }
     },
     {
@@ -867,6 +900,7 @@
         "verse": 5
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וִהְיִיתֶם",
         "transliteration": "viHyiytem",
@@ -882,8 +916,8 @@
       "context": {
         "hebrew": "וְנִפְקְחוּ עֵינֵיכֶם **וִהְיִיתֶם** כֵּאלֹהִים יֹדְעֵי",
         "transliteration": "veNifqechu eyneychen **viHyiytem** keElohim yodey",
-        "englishLiteral": "and-will-be-opened your-eyes **and-you_all-will-be** as-Gods knowing",
-        "englishNatural": "will be opened and your eyes **and you-all will be** as God knowing"
+        "englishLiteral": "and-will-be-opened your-eyes; **and-you_all-will-be** as-Gods, knowing",
+        "englishNatural": "and your eyes will be opened; **and you-all will be** as God, knowing"
       }
     },
     {
@@ -893,6 +927,7 @@
         "verse": 20
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הָיְתָה",
         "transliteration": "hayetah",
@@ -919,6 +954,7 @@
         "verse": 22
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -934,8 +970,8 @@
       "context": {
         "hebrew": "הֵן הָאָדָם **הָיָה** כְּאַחַד מִמֶּנּוּ",
         "transliteration": "hen haAdam **hayah** keAchad miMennu",
-        "englishLiteral": "Behold the-Earthling (Adam) **has-become** as-one from-us",
-        "englishNatural": "Behold the Earthling (Adam) **has become** as one from us"
+        "englishLiteral": "\"Behold, the-Earthling (Adam) **has-become** as-one from-us",
+        "englishNatural": "\"Behold, the Earthling (Adam) **has become** as one from us"
       }
     },
     {
@@ -945,6 +981,7 @@
         "verse": 2
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וַיְהִי־",
         "transliteration": "vayHi-",
@@ -960,8 +997,8 @@
       "context": {
         "hebrew": "אֶת־ הָבֶל **וַיְהִי־** הֶבֶל רֹעֵה",
         "transliteration": "et- Havel **vayHi-** Hevel roeh",
-        "englishLiteral": "↳ Vapor (Abel) **And-he-was** Vapor (Abel) shepherd",
-        "englishNatural": "↳ Vapor (Abel) **was** And Vapor (Abel) a shepherd"
+        "englishLiteral": "↳ Vapor (Abel). **And-he-was** Vapor (Abel) shepherd",
+        "englishNatural": "Vapor (Abel). And Vapor (Abel) **was** a shepherd of flock,"
       }
     },
     {
@@ -971,6 +1008,7 @@
         "verse": 2
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -986,8 +1024,8 @@
       "context": {
         "hebrew": "צֹאן וְקַיִן **הָיָה** עֹבֵד אֲדָמָה",
         "transliteration": "tzon veQayin **hayah** oved adamah",
-        "englishLiteral": "flock and-Acquired (Cain) **was** servant earth",
-        "englishNatural": "of flock and Acquired (Cain) **was** a servant of earth"
+        "englishLiteral": "flock, and-Acquired (Cain) **was** servant earth.",
+        "englishNatural": "of flock, and Acquired (Cain) **was** a servant of earth."
       }
     },
     {
@@ -997,6 +1035,7 @@
         "verse": 3
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vayHi",
@@ -1012,8 +1051,8 @@
       "context": {
         "hebrew": "**וַיְהִי** מִקֵּץ יָמִים",
         "transliteration": "**vayHi** miQetz yamim",
-        "englishLiteral": "**And-it-was** from-end-of days",
-        "englishNatural": "**And it was** from the end of days"
+        "englishLiteral": "**And-it-was** from-end-of days;",
+        "englishNatural": "**And it was** from the end of days;"
       }
     },
     {
@@ -1023,6 +1062,7 @@
         "verse": 8
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vayHi",
@@ -1038,8 +1078,8 @@
       "context": {
         "hebrew": "הֶבֶל אָחִיו **וַיְהִי** בִּהְיוֹתָם בַּשָּׂדֶה",
         "transliteration": "Hevel achiv **vayHi** biHyotam basadeh",
-        "englishLiteral": "Vapor (Abel) his-brother **And-it-was** in-their-being in-field",
-        "englishNatural": "Vapor (Abel) his brother **and it was** in their being in the field"
+        "englishLiteral": "Vapor (Abel) his-brother; **And-it-was** in-their-being in-field,",
+        "englishNatural": "Vapor (Abel) his brother; **and it was** in their being in the field,"
       }
     },
     {
@@ -1049,6 +1089,7 @@
         "verse": 8
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "בִּהְיוֹתָם",
         "transliteration": "biHyotam",
@@ -1064,8 +1105,8 @@
       "context": {
         "hebrew": "אָחִיו וַיְהִי **בִּהְיוֹתָם** בַּשָּׂדֶה וַיָּקָם",
         "transliteration": "achiv vayHi **biHyotam** basadeh vayYaqam",
-        "englishLiteral": "his-brother And-it-was **in-their-being** in-field and-he-stood_up",
-        "englishNatural": "his brother and it was **in their being** in the field stood-up"
+        "englishLiteral": "his-brother; And-it-was **in-their-being** in-field, and-he-stood_up",
+        "englishNatural": "his brother; and it was **in their being** in the field, and Acquired (Cain)"
       }
     },
     {
@@ -1075,6 +1116,7 @@
         "verse": 12
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "תִּהְיֶה",
         "transliteration": "tihyeh",
@@ -1090,8 +1132,8 @@
       "context": {
         "hebrew": "נָע וָנָד **תִּהְיֶה** בָאָרֶץ",
         "transliteration": "na vanad **tihyeh** baAretz",
-        "englishLiteral": "wandering and-fugitive **you-will-be** in-land",
-        "englishNatural": "wandering and fugitive **you will be** in the land"
+        "englishLiteral": "wandering and-fugitive **you-will-be** in-land.\"",
+        "englishNatural": "wandering and fugitive **you will be** in the land.\""
       }
     },
     {
@@ -1101,6 +1143,7 @@
         "verse": 14
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וְהָיִיתִי",
         "transliteration": "veHayiti",
@@ -1116,8 +1159,8 @@
       "context": {
         "hebrew": "וּמִפָּנֶיךָ אֶסָּתֵר **וְהָיִיתִי** נָע וָנָד",
         "transliteration": "umiPanekha esater **veHayiti** na vanad",
-        "englishLiteral": "and-from-your-faces I-will-hide **and-I-will-be** wandering and-fugitive",
-        "englishNatural": "and from your faces I will be hidden **and I will be** wandering and fugitive"
+        "englishLiteral": "and-from-your-faces I-will-hide; **and-I-will-be** wandering and-fugitive",
+        "englishNatural": "and from your faces I will be hidden; **and I will be** wandering and fugitive"
       }
     },
     {
@@ -1127,6 +1170,7 @@
         "verse": 14
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "וְהָיָה",
         "transliteration": "vehayah",
@@ -1142,8 +1186,8 @@
       "context": {
         "hebrew": "וָנָד בָּאָרֶץ **וְהָיָה** כָל־ מֹצְאִי",
         "transliteration": "vanad baAretz **vehayah** kol- motzei",
-        "englishLiteral": "and-fugitive in-land **and-it-will-be** all- finding-me",
-        "englishNatural": "and fugitive in the land **and it will be** all finding me"
+        "englishLiteral": "and-fugitive in-land; **and-it-will-be** all- finding-me",
+        "englishNatural": "and fugitive in the land; **and it will be** all finding me"
       }
     },
     {
@@ -1153,6 +1197,7 @@
         "verse": 17
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vayHi",
@@ -1168,8 +1213,8 @@
       "context": {
         "hebrew": "אֶת־ חֲנוֹךְ **וַיְהִי** בֹּנֶה עִיר",
         "transliteration": "et- Chanokh **vayHi** boneh ir",
-        "englishLiteral": "↳ Dedicated (Enoch) **and-he-was** building city",
-        "englishNatural": "↳ Dedicated (Enoch) **and he was** building a city"
+        "englishLiteral": "↳ Dedicated (Enoch); **and-he-was** building city,",
+        "englishNatural": "↳ Dedicated (Enoch); **and he was** building a city,"
       }
     },
     {
@@ -1179,6 +1224,7 @@
         "verse": 20
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -1194,8 +1240,8 @@
       "context": {
         "hebrew": "יָבָל הוּא **הָיָה** אֲבִי יֹשֵׁב",
         "transliteration": "Yaval hu **hayah** avi yoshev",
-        "englishLiteral": "Stream (Jabal) he **was** father-of dwelling",
-        "englishNatural": "Stream (Jabal) he **was** father of dwelling"
+        "englishLiteral": "Stream (Jabal); he **was** father-of dwelling",
+        "englishNatural": "Stream (Jabal); he **was** father of tent"
       }
     },
     {
@@ -1205,6 +1251,7 @@
         "verse": 21
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -1220,8 +1267,8 @@
       "context": {
         "hebrew": "יוּבָל הוּא **הָיָה** אֲבִי כָּל־",
         "transliteration": "Yuval hu **hayah** avi kol-",
-        "englishLiteral": "Music (Jubal) he **was** father-of all",
-        "englishNatural": "Music (Jubal) he **was** father of all"
+        "englishLiteral": "Music (Jubal); he **was** father-of all",
+        "englishNatural": "Music (Jubal); he **was** father of all"
       }
     },
     {
@@ -1231,6 +1278,7 @@
         "verse": 4
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּהְיוּ",
         "transliteration": "vaYihyu",
@@ -1247,7 +1295,7 @@
         "hebrew": "**וַיִּהְיוּ** יְמֵי־ אָדָם",
         "transliteration": "**vaYihyu** yemey- Adam",
         "englishLiteral": "**and-were** days-of Earthling (Adam)",
-        "englishNatural": "**were** And the days of Earthling (Adam)"
+        "englishNatural": "↳ Appointed (Seth), **were** eight hundred"
       }
     },
     {
@@ -1257,6 +1305,7 @@
         "verse": 5
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּהְיוּ",
         "transliteration": "vaYihyu",
@@ -1273,7 +1322,7 @@
         "hebrew": "**וַיִּהְיוּ** כָּל־ יְמֵי",
         "transliteration": "**vaYihyu** kol- yemey",
         "englishLiteral": "**and-were** all- days-of",
-        "englishNatural": "**were** And all the days of"
+        "englishNatural": "which he lived, **were** nine hundred"
       }
     },
     {
@@ -1283,6 +1332,7 @@
         "verse": 8
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּהְיוּ",
         "transliteration": "vaYihyu",
@@ -1299,7 +1349,7 @@
         "hebrew": "**וַיִּהְיוּ** כָּל־ יְמֵי",
         "transliteration": "**vaYihyu** kol- yemey",
         "englishLiteral": "**and-were** all- days-of",
-        "englishNatural": "**were** And all the days of"
+        "englishNatural": "the days of Appointed (Seth) **were** two ten"
       }
     },
     {
@@ -1309,6 +1359,7 @@
         "verse": 11
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּהְיוּ",
         "transliteration": "vaYihyu",
@@ -1325,7 +1376,7 @@
         "hebrew": "**וַיִּהְיוּ** כָּל־ יְמֵי",
         "transliteration": "**vaYihyu** kol- yemey",
         "englishLiteral": "**and-were** all- days-of",
-        "englishNatural": "**were** And all the days of"
+        "englishNatural": "the days of Mortal-Man (Enosh) **were** five years"
       }
     },
     {
@@ -1335,6 +1386,7 @@
         "verse": 14
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּהְיוּ",
         "transliteration": "vaYihyu",
@@ -1351,7 +1403,7 @@
         "hebrew": "**וַיִּהְיוּ** כָּל־ יְמֵי",
         "transliteration": "**vaYihyu** kol- yemey",
         "englishLiteral": "**and-were** all- days-of",
-        "englishNatural": "**were** And all the days of"
+        "englishNatural": "the days of Nest (Cainan) **were** ten years"
       }
     },
     {
@@ -1361,6 +1413,7 @@
         "verse": 17
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּהְיוּ",
         "transliteration": "vaYihyu",
@@ -1377,7 +1430,7 @@
         "hebrew": "**וַיִּהְיוּ** כָּל־ יְמֵי",
         "transliteration": "**vaYihyu** kol- yemey",
         "englishLiteral": "**and-were** all- days-of",
-        "englishNatural": "**were** And all the days of"
+        "englishNatural": "the days of Praise-of-God (Mahalaleel) **were** five and ninety"
       }
     },
     {
@@ -1387,6 +1440,7 @@
         "verse": 20
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּהְיוּ",
         "transliteration": "vaYihyu",
@@ -1403,7 +1457,7 @@
         "hebrew": "**וַיִּהְיוּ** כָּל־ יְמֵי",
         "transliteration": "**vaYihyu** kol- yemey",
         "englishLiteral": "**and-were** all- days-of",
-        "englishNatural": "**were** And all the days of"
+        "englishNatural": "the days of Descending (Jared) **were** two and sixty"
       }
     },
     {
@@ -1413,6 +1467,7 @@
         "verse": 23
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -1429,7 +1484,7 @@
         "hebrew": "**וַיְהִי** כָּל יְמֵי",
         "transliteration": "**vaYehi** kol yemey",
         "englishLiteral": "**and-were** all days-of",
-        "englishNatural": "**were** And all the days of"
+        "englishNatural": "the days of Dedicated (Enoch), **were** five and sixty"
       }
     },
     {
@@ -1439,6 +1494,7 @@
         "verse": 26
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -1455,7 +1511,7 @@
         "hebrew": "**וַיְהִי** אַחֲרֵי הוֹלִידוֹ",
         "transliteration": "**vaYehi** acharey holido",
         "englishLiteral": "**and-was** after birthing-him",
-        "englishNatural": "**he was** And after he had birthed"
+        "englishNatural": "↳ Powerful (Lamech), **he was** two and eighty"
       }
     },
     {
@@ -1465,6 +1521,7 @@
         "verse": 27
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -1481,7 +1538,7 @@
         "hebrew": "**וַיְהִי** כָּל יְמֵי",
         "transliteration": "**vaYehi** kol yemey",
         "englishLiteral": "**and-was** all days-of",
-        "englishNatural": "**were** And all the days of"
+        "englishNatural": "the days of Man-of-the-Dart (Methuselah), **were** nine and sixty"
       }
     },
     {
@@ -1491,6 +1548,7 @@
         "verse": 31
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -1507,7 +1565,7 @@
         "hebrew": "**וַיְהִי** כָּל־ יְמֵי",
         "transliteration": "**vaYehi** kol- yemey",
         "englishLiteral": "**And-was** all- days-of",
-        "englishNatural": "**were** And all the days of"
+        "englishNatural": "the days of Powerful (Lamech), **were** seven and seventy"
       }
     },
     {
@@ -1517,6 +1575,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vayHi",
@@ -1532,8 +1591,8 @@
       "context": {
         "hebrew": "**וַיְהִי** כִּי־ הֵחֵל",
         "transliteration": "**vayHi** ki- hechel",
-        "englishLiteral": "**And-it-was** that- began",
-        "englishNatural": "**And it was** that began"
+        "englishLiteral": "**And-it-was,** that- began",
+        "englishNatural": "**And it was,** that the Earthling (Adam)"
       }
     },
     {
@@ -1543,6 +1602,7 @@
         "verse": 3
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "וְהָיוּ",
         "transliteration": "veHayu",
@@ -1558,8 +1618,8 @@
       "context": {
         "hebrew": "הוּא בָשָׂר **וְהָיוּ** יָמָיו מֵאָה",
         "transliteration": "hu basar **veHayu** yamav meah",
-        "englishLiteral": "he flesh **and-they-will-be** his-days hundred",
-        "englishNatural": "he is flesh **will be** and his days a hundred"
+        "englishLiteral": "he flesh; **and-they-will-be** his-days hundred",
+        "englishNatural": "is flesh; and his days **will be** a hundred and twenty"
       }
     },
     {
@@ -1569,6 +1629,7 @@
         "verse": 4
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָיוּ",
         "transliteration": "hayu",
@@ -1585,7 +1646,7 @@
         "hebrew": "הַנְּפִלִים **הָיוּ** בָאָרֶץ בַּיָּמִים",
         "transliteration": "haNephalim **hayu** baAretz baYamim",
         "englishLiteral": "The-Fallen (Nephilim) **were** in-land in-days",
-        "englishNatural": "The Fallen (Nephilim) **were** in the land days"
+        "englishNatural": "The Fallen (Nephilim) **were** in the land in those"
       }
     },
     {
@@ -1595,6 +1656,7 @@
         "verse": 9
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -1610,8 +1672,8 @@
       "context": {
         "hebrew": "צַדִּיק תָּמִים **הָיָה** בְּדֹרֹתָיו אֶת־",
         "transliteration": "tzaddiq tamim **hayah** bedorotav et-",
-        "englishLiteral": "righteous wholesome **he-was** in-generation-his ↳",
-        "englishNatural": "righteous wholesome **he was** in his generation ↳"
+        "englishLiteral": "righteous, wholesome **he-was** in-generation-his; ↳",
+        "englishNatural": "righteous, wholesome **he was** in his generation; Rest (Noah)"
       }
     },
     {
@@ -1621,6 +1683,7 @@
         "verse": 19
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "יִהְיוּ",
         "transliteration": "yihyu",
@@ -1636,8 +1699,8 @@
       "context": {
         "hebrew": "זָכָר וּנְקֵבָה **יִהְיוּ**",
         "transliteration": "zakhar uNeqevah **yihyu**",
-        "englishLiteral": "male and-female **they-will-be**",
-        "englishNatural": "male and female **they will be**"
+        "englishLiteral": "male and-female **they-will-be.**",
+        "englishNatural": "male and female **they will be.**"
       }
     },
     {
@@ -1647,6 +1710,7 @@
         "verse": 21
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וְהָיָה",
         "transliteration": "veHayah",
@@ -1662,8 +1726,8 @@
       "context": {
         "hebrew": "וְאָסַפְתָּ אֵלֶיךָ **וְהָיָה** לְךָ וְלָהֶם",
         "transliteration": "veAsafta eleikha **veHayah** lekha velahem",
-        "englishLiteral": "and-you-shall-gather to-you **and-it-will-be** to-you and-to-them",
-        "englishNatural": "and you shall gather to you **and it will be** for you and for them"
+        "englishLiteral": "and-you-shall-gather to-you; **and-it-will-be** to-you and-to-them",
+        "englishNatural": "and you shall gather to you; **and it will be** for you and for them"
       }
     },
     {
@@ -1673,6 +1737,7 @@
         "verse": 6
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -1688,8 +1753,8 @@
       "context": {
         "hebrew": "שָׁנָה וְהַמַּבּוּל **הָיָה** מַיִם עַל־",
         "transliteration": "shanah veHaMabbul **hayah** mayim al-",
-        "englishLiteral": "year and-the-flood **it-was** waters over-",
-        "englishNatural": "years and the flood **was** waters over"
+        "englishLiteral": "year, and-the-flood **it-was** waters over-",
+        "englishNatural": "years, and the flood **was** waters over"
       }
     },
     {
@@ -1699,6 +1764,7 @@
         "verse": 10
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vayehi",
@@ -1714,8 +1780,8 @@
       "context": {
         "hebrew": "**וַיְהִי** לְשִׁבְעַת הַיָּמִים",
         "transliteration": "**vayehi** leShivat haYamim",
-        "englishLiteral": "**And-it-was** to-seven-of the-days",
-        "englishNatural": "**And it was** to seven of the days"
+        "englishLiteral": "**And-it-was** to-seven-of the-days,",
+        "englishNatural": "**And it was** to seven of the days,"
       }
     },
     {
@@ -1725,6 +1791,7 @@
         "verse": 10
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הָיוּ",
         "transliteration": "hayu",
@@ -1740,8 +1807,8 @@
       "context": {
         "hebrew": "וּמֵי הַמַּבּוּל **הָיוּ** עַל־ הָאָרֶץ",
         "transliteration": "uMey haMabbul **hayu** al- haAretz",
-        "englishLiteral": "and-waters-of the-flood **they-were** over- the-land",
-        "englishNatural": "and waters of the flood **were** over the land"
+        "englishLiteral": "and-waters-of the-flood **they-were** over- the-land.",
+        "englishNatural": "and waters of the flood **were** over the land."
       }
     },
     {
@@ -1751,6 +1818,7 @@
         "verse": 12
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vayehi",
@@ -1767,7 +1835,7 @@
         "hebrew": "**וַיְהִי** הַגֶּשֶׁם עַל־",
         "transliteration": "**vayehi** haGeshem al-",
         "englishLiteral": "**And-it-was** the-rain over-",
-        "englishNatural": "**was** And the rain over"
+        "englishNatural": "And the rain **was** over the land,"
       }
     },
     {
@@ -1777,6 +1845,7 @@
         "verse": 2
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "יִהְיֶה",
         "transliteration": "yihyeh",
@@ -1803,6 +1872,7 @@
         "verse": 3
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "יִהְיֶה",
         "transliteration": "yihyeh",
@@ -1818,8 +1888,8 @@
       "context": {
         "hebrew": "חַי לָכֶם **יִהְיֶה** לְאָכְלָה כְּיֶרֶק",
         "transliteration": "chai lakhem **yihyeh** leOkhlah keYereq",
-        "englishLiteral": "living to-you **will-be** for-food like-green-of",
-        "englishNatural": "is living to you **will be** for food like the green of"
+        "englishLiteral": "living, to-you **will-be** for-food; like-green-of",
+        "englishNatural": "is living, to you **will be** for food; like the green of"
       }
     },
     {
@@ -1829,6 +1899,7 @@
         "verse": 11
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "יִהְיֶה",
         "transliteration": "yihyeh",
@@ -1844,8 +1915,8 @@
       "context": {
         "hebrew": "הַמַּבּוּל וְלֹא־ **יִהְיֶה** עוֹד מַבּוּל",
         "transliteration": "haMabbul veLo- **yihyeh** od mabbul",
-        "englishLiteral": "the-flood and-not- **it-will-be** again flood",
-        "englishNatural": "the flood and not **will be** again a flood"
+        "englishLiteral": "the-flood, and-not- **it-will-be** again flood",
+        "englishNatural": "the flood, and not **will be** again a flood"
       }
     },
     {
@@ -1855,6 +1926,7 @@
         "verse": 13
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וְהָיְתָה",
         "transliteration": "veHayetah",
@@ -1870,8 +1942,8 @@
       "context": {
         "hebrew": "נָתַתִּי בֶּעָנָן **וְהָיְתָה** לְאוֹת בְּרִית",
         "transliteration": "natati beAnan **veHayetah** leOt berit",
-        "englishLiteral": "I-have-given in-cloud **and-she-will-be** for-sign-of covenant",
-        "englishNatural": "I have given in the cloud **and it will be** for the sign of covenant"
+        "englishLiteral": "I-have-given in-cloud, **and-she-will-be** for-sign-of covenant,",
+        "englishNatural": "I have given in the cloud, **and it will be** for the sign of covenant,"
       }
     },
     {
@@ -1881,6 +1953,7 @@
         "verse": 29
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּהְיוּ",
         "transliteration": "vayihyu",
@@ -1897,7 +1970,7 @@
         "hebrew": "**וַיִּהְיוּ** כָּל־ יְמֵי־",
         "transliteration": "**vayihyu** kol- yemey-",
         "englishLiteral": "**And-were** all- days-of-",
-        "englishNatural": "**were** And all the days of"
+        "englishNatural": "the days of Rest (Noah) **were** nine hundred"
       }
     },
     {
@@ -1907,6 +1980,7 @@
         "verse": 8
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "לִהְיוֹת",
         "transliteration": "lihyot",
@@ -1922,8 +1996,8 @@
       "context": {
         "hebrew": "הוּא הֵחֵל **לִהְיוֹת** גִּבֹּר בָּאָרֶץ",
         "transliteration": "hu hechel **lihyot** gibbor baAretz",
-        "englishLiteral": "he caused-to-begin **to-be** mighty_one in-land",
-        "englishNatural": "he caused to begin **to be** a mighty-one in the land"
+        "englishLiteral": "he caused-to-begin **to-be** mighty_one in-land.",
+        "englishNatural": "he caused to begin **to be** a mighty-one in the land."
       }
     },
     {
@@ -1933,6 +2007,7 @@
         "verse": 9
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -1959,6 +2034,7 @@
         "verse": 10
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַתְּהִי",
         "transliteration": "vatehi",
@@ -1975,7 +2051,7 @@
         "hebrew": "**וַתְּהִי** רֵאשִׁית מַמְלַכְתּוֹ",
         "transliteration": "**vatehi** reshit mamlakhto",
         "englishLiteral": "**And-was** heading-of his-kingdom",
-        "englishNatural": "**was** and the heading of his kingdom"
+        "englishNatural": "and the heading of his kingdom **was** Confusion (Babylon), and Length (Erech),"
       }
     },
     {
@@ -1985,6 +2061,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vayHi",
@@ -2000,8 +2077,8 @@
       "context": {
         "hebrew": "**וַיְהִי** כָל־ הָאָרֶץ",
         "transliteration": "**vayHi** khol- haAretz",
-        "englishLiteral": "**And-was** all- the-land",
-        "englishNatural": "**was** And all the land"
+        "englishLiteral": "**And-was** all- the-land,",
+        "englishNatural": "And all the land **was,** one lip"
       }
     },
     {
@@ -2011,6 +2088,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vayHi",
@@ -2026,8 +2104,8 @@
       "context": {
         "hebrew": "**וַיְהִי** בְּנָסְעָם מִקֶּדֶם",
         "transliteration": "**vayHi** beNosam miQedem",
-        "englishLiteral": "**And-was** in-journeying-their from-east",
-        "englishNatural": "**And it was** in their journeying from the east"
+        "englishLiteral": "**And-was** in-journeying-their from-east,",
+        "englishNatural": "**And it was** in their journeying from the east,"
       }
     },
     {
@@ -2037,6 +2115,7 @@
         "verse": 3
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וַתְּהִי",
         "transliteration": "vatTehi",
@@ -2052,8 +2131,8 @@
       "context": {
         "hebrew": "וְנִשְׂרְפָה לִשְׂרֵפָה **וַתְּהִי** לָהֶם הַלְּבֵנָה",
         "transliteration": "veNisrefah liSrefah **vatTehi** lahem haLevenah",
-        "englishLiteral": "and-let-us-incinerate to-incinerating **And-she-was** to-them the-brick",
-        "englishNatural": "and let us incinerate to an incinerating **was** to them And the brick"
+        "englishLiteral": "and-let-us-incinerate to-incinerating.\" **And-she-was** to-them the-brick",
+        "englishNatural": "to an incinerating.\" And the brick **was** to them for stone,"
       }
     },
     {
@@ -2063,6 +2142,7 @@
         "verse": 3
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -2078,8 +2158,8 @@
       "context": {
         "hebrew": "לְאָבֶן וְהַחֵמָר **הָיָה** לָהֶם לַחֹמֶר",
         "transliteration": "leEven veHacheymar **hayah** lahem laChomer",
-        "englishLiteral": "for-stone and-the-bitumen **was** to-them for-mortar",
-        "englishNatural": "for stone and the bitumen **was** to them for mortar"
+        "englishLiteral": "for-stone, and-the-bitumen **was** to-them for-mortar.",
+        "englishNatural": "for stone, and the bitumen **was** to them for mortar."
       }
     },
     {
@@ -2089,6 +2169,7 @@
         "verse": 2
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וֶהְיֵה",
         "transliteration": "veHeyeh",
@@ -2104,8 +2185,8 @@
       "context": {
         "hebrew": "וַאֲגַדְּלָה שְׁמֶךָ **וֶהְיֵה** בְּרָכָה",
         "transliteration": "vaAgadelah shemekha **veHeyeh** berakah",
-        "englishLiteral": "and-I-will-make-great your-name **and-be** blessing",
-        "englishNatural": "and I will make great your name **and be** a blessing"
+        "englishLiteral": "and-I-will-make-great your-name, **and-be** blessing.\"",
+        "englishNatural": "and I will make great your name, **and be** a blessing.\""
       }
     },
     {
@@ -2115,6 +2196,7 @@
         "verse": 1
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -2130,8 +2212,8 @@
       "context": {
         "hebrew": "הַדְּבָרִים הָאֵלֶּה **הָיָה** דְבַר־ יְהוָה",
         "transliteration": "haDvarim haEleh **hayah** devar- YHWH",
-        "englishLiteral": "the-words the-these **was** word-of- He_Who_Is (YHWH)",
-        "englishNatural": "words these **was** the word of He-Who-Is (YHWH)"
+        "englishLiteral": "the-words the-these, **was** word-of- He_Who_Is (YHWH)",
+        "englishNatural": "the word of He-Who-Is (YHWH) **was** to Exalted-Father (Abram)"
       }
     },
     {
@@ -2141,6 +2223,7 @@
         "verse": 5
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "יִהְיֶה",
         "transliteration": "yihyeh",
@@ -2156,8 +2239,8 @@
       "context": {
         "hebrew": "לוֹ כֹּה **יִהְיֶה** זַרְעֶךָ",
         "transliteration": "lo koh **yihyeh** zarcha",
-        "englishLiteral": "to-him Thus **he-will-be** seed-of-you",
-        "englishNatural": "to him Thus **will be** your seed"
+        "englishLiteral": "to-him, \"Thus **he-will-be** seed-of-you.\"",
+        "englishNatural": "to him, \"Thus **will be** your seed.\""
       }
     },
     {
@@ -2167,6 +2250,7 @@
         "verse": 12
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vayehi",
@@ -2182,8 +2266,8 @@
       "context": {
         "hebrew": "**וַיְהִי** הַשֶּׁמֶשׁ לָבוֹא",
         "transliteration": "**vayehi** haShemesh lavo",
-        "englishLiteral": "**And-he-was** the-sun to-come",
-        "englishNatural": "**was** And the sun to come"
+        "englishLiteral": "**And-he-was** the-sun to-come,",
+        "englishNatural": "And the sun **was** to come, and a deep-trance"
       }
     },
     {
@@ -2193,6 +2277,7 @@
         "verse": 13
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "יִהְיֶה",
         "transliteration": "yihyeh",
@@ -2209,7 +2294,7 @@
         "hebrew": "כִּי־ גֵר **יִהְיֶה** זַרְעֲךָ בְּאֶרֶץ",
         "transliteration": "ki- ger **yihyeh** zarcha beEretz",
         "englishLiteral": "that- sojourner **he-will-be** seed-of-you in-land",
-        "englishNatural": "that a sojourner **will be** your seed in a land"
+        "englishNatural": "that your seed **will be** a sojourner in a land"
       }
     },
     {
@@ -2219,6 +2304,7 @@
         "verse": 17
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vayehi",
@@ -2235,7 +2321,7 @@
         "hebrew": "**וַיְהִי** הַשֶּׁמֶשׁ בָּאָה",
         "transliteration": "**vayehi** haShemesh baah",
         "englishLiteral": "**And-he-was** the-sun she-came",
-        "englishNatural": "**was** And the sun come"
+        "englishNatural": "And the sun **was** come and darkness"
       }
     },
     {
@@ -2245,6 +2331,7 @@
         "verse": 17
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -2260,8 +2347,8 @@
       "context": {
         "hebrew": "בָּאָה וַעֲלָטָה **הָיָה** וְהִנֵּה תַנּוּר",
         "transliteration": "baah vaAlatah **hayah** veHineh tanur",
-        "englishLiteral": "she-came and-darkness **he-was** and-behold furnace",
-        "englishNatural": "come and darkness **was** and behold a furnace"
+        "englishLiteral": "she-came and-darkness **he-was,** and-behold furnace",
+        "englishNatural": "come and darkness **was,** and behold, a furnace"
       }
     },
     {
@@ -2271,6 +2358,7 @@
         "verse": 10
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וַיְהִי־",
         "transliteration": "vaYehi-",
@@ -2286,8 +2374,8 @@
       "context": {
         "hebrew": "לְבַת־ פַּרְעֹה **וַיְהִי־** לָהּ לְבֵן",
         "transliteration": "leBat- Paroh **vaYehi-** lah leVen",
-        "englishLiteral": "to-daughter-of Pharaoh **and-was-** to-her for-son",
-        "englishNatural": "to the daughter of Pharaoh **and he was** to her for a son"
+        "englishLiteral": "to-daughter-of Pharaoh **and-was-** to-her for-son,",
+        "englishNatural": "to the daughter of Pharaoh, **and he was** to her for a son,"
       }
     },
     {
@@ -2297,6 +2385,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -2323,6 +2412,7 @@
         "verse": 3
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -2338,8 +2428,8 @@
       "context": {
         "hebrew": "וַיַּשְׁלִכֵהוּ אַרְצָה **וַיְהִי** לְנָחָשׁ וַיָּנָס",
         "transliteration": "vaYashlikhehu artzah **vaYehi** leNachash vaYanas",
-        "englishLiteral": "And-threw-it land-ward **and-was** to-snake and-fled",
-        "englishNatural": "And he threw it to the land **and it was** a snake fled"
+        "englishLiteral": "And-threw-it land-ward, **and-was** to-snake, and-fled",
+        "englishNatural": "And he threw it to the land, **and it was** a snake, and Drawn-Out (Moses)"
       }
     },
     {
@@ -2349,6 +2439,7 @@
         "verse": 4
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -2364,8 +2455,8 @@
       "context": {
         "hebrew": "וַיַּחֲזֶק בּוֹ **וַיְהִי** לְמַטֶּה בְּכַפּוֹ",
         "transliteration": "vaYachazek bo **vaYehi** leMateh beKhapo",
-        "englishLiteral": "and-handled in-it **and-was** to-branch in-palm-his",
-        "englishNatural": "and handled it **and it was** a branch in his palm"
+        "englishLiteral": "and-handled in-it, **and-was** to-branch in-palm-his.",
+        "englishNatural": "and handled it, **and it was** a branch in his palm."
       }
     },
     {
@@ -2375,6 +2466,7 @@
         "verse": 1
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "יִהְיֶה",
         "transliteration": "yihyeh",
@@ -2390,8 +2482,8 @@
       "context": {
         "hebrew": "וְאַהֲרֹן אָחִיךָ **יִהְיֶה** נְבִיאֶךָ",
         "transliteration": "veAharon achicha **yihyeh** neviekha",
-        "englishLiteral": "and-Light_Bringer (Aaron) brother-your **will-be** prophet-your",
-        "englishNatural": "and Light-Bringer (Aaron) your brother **will be** your prophet"
+        "englishLiteral": "and-Light_Bringer (Aaron) brother-your **will-be** prophet-your.\"",
+        "englishNatural": "and Light-Bringer (Aaron) your brother, **will be** your prophet.\""
       }
     },
     {
@@ -2401,6 +2493,7 @@
         "verse": 9
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "יְהִי",
         "transliteration": "yehi",
@@ -2416,8 +2509,8 @@
       "context": {
         "hebrew": "לִפְנֵי־ פַרְעֹה **יְהִי** לְתַנִּין",
         "transliteration": "lifnei- Paroh **yehi** leTannin",
-        "englishLiteral": "to-faces-of- Pharaoh **let-him-be** to-monster",
-        "englishNatural": "to the face of Pharaoh **let it be** to a monster"
+        "englishLiteral": "to-faces-of- Pharaoh **let-him-be** to-monster.\"",
+        "englishNatural": "to the face of Pharaoh,' **let it be** to a monster.\""
       }
     },
     {
@@ -2427,6 +2520,7 @@
         "verse": 10
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -2442,8 +2536,8 @@
       "context": {
         "hebrew": "וְלִפְנֵי עֲבָדָיו **וַיְהִי** לְתַנִּין",
         "transliteration": "veLifnei avadav **vaYehi** leTannin",
-        "englishLiteral": "and-to-faces-of servants-his **and-he-was** to-monster",
-        "englishNatural": "and to the face of his servants **and it was** to a monster"
+        "englishLiteral": "and-to-faces-of servants-his **and-he-was** to-monster.",
+        "englishNatural": "and to the face of his servants, **and it was** to a monster."
       }
     },
     {
@@ -2453,6 +2547,7 @@
         "verse": 12
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "וַיִּהְיוּ",
         "transliteration": "vaYihyu",
@@ -2468,8 +2563,8 @@
       "context": {
         "hebrew": "אִישׁ מַטֵּהוּ **וַיִּהְיוּ** לְתַנִּינִם וַיִּבְלַע",
         "transliteration": "ish mattehu **vaYihyu** leTanninim vaYivla",
-        "englishLiteral": "man branch-his **and-they-were** to-monsters and-swallowed",
-        "englishNatural": "And man his branch **and they were** to monsters swallowed"
+        "englishLiteral": "man branch-his **and-they-were** to-monsters; and-swallowed",
+        "englishNatural": "threw his branch, **and they were** to monsters; and the branch of"
       }
     },
     {
@@ -2479,6 +2574,7 @@
         "verse": 21
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וִיהִי",
         "transliteration": "viYhi",
@@ -2505,6 +2601,7 @@
         "verse": 22
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYhi",
@@ -2520,8 +2617,8 @@
       "context": {
         "hebrew": "עַל־ הַשָּׁמָיִם **וַיְהִי** חֹשֶׁךְ־ אֲפֵלָה",
         "transliteration": "al- haShamayim **vaYhi** choshekh- afelah",
-        "englishLiteral": "over- the-skies **and-was** darkness-of gloom",
-        "englishNatural": "over the skies **and it was** darkness of gloom"
+        "englishLiteral": "over- the-skies; **and-was** darkness-of gloom",
+        "englishNatural": "over the skies; **and it was** darkness of gloom"
       }
     },
     {
@@ -2531,6 +2628,7 @@
         "verse": 23
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -2546,8 +2644,8 @@
       "context": {
         "hebrew": "בְּנֵי יִשְׂרָאֵל **הָיָה** אוֹר בְּמוֹשְׁבֹתָם",
         "transliteration": "benei Yisrael **hayah** or beMoshvotam",
-        "englishLiteral": "sons-of Struggles_with_God (Israel) **it-was** light in-seats-their",
-        "englishNatural": "the sons of Struggles-with-God (Israel) **it had been** light in their seats"
+        "englishLiteral": "sons-of Struggles_with_God (Israel) **it-was** light in-seats-their.",
+        "englishNatural": "the sons of Struggles-with-God (Israel) **it had been** light in their seats."
       }
     },
     {
@@ -2557,6 +2655,7 @@
         "verse": 6
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְהָֽיְתָ֛ה",
         "transliteration": "veHayetah",
@@ -2573,7 +2672,7 @@
         "hebrew": "**וְהָֽיְתָ֛ה** צְעָקָ֥ה גְדֹלָ֖ה",
         "transliteration": "**veHayetah** tzaakah gedolah",
         "englishLiteral": "**and-will-be** cry great",
-        "englishNatural": "**will be** cry And a great"
+        "englishNatural": "And a great cry **will be** in all the land of"
       }
     },
     {
@@ -2583,6 +2682,7 @@
         "verse": 6
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "נִֽהְיָ֔תָה",
         "transliteration": "nihyetah",
@@ -2598,8 +2698,8 @@
       "context": {
         "hebrew": "כָּמֹ֙הוּ֙ לֹ֣א **נִֽהְיָ֔תָה** וְכָמֹ֖הוּ לֹ֥א",
         "transliteration": "kamohu lo **nihyetah** veKhamohu lo",
-        "englishLiteral": "like-it not **was** and-like-it not",
-        "englishNatural": "like it not **was** and like it not"
+        "englishLiteral": "like-it not **was,** and-like-it not",
+        "englishNatural": "which like it **was** not, and like it"
       }
     },
     {
@@ -2609,6 +2709,7 @@
         "verse": 29
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִ֣י",
         "transliteration": "vayHi",
@@ -2625,7 +2726,7 @@
         "hebrew": "**וַיְהִ֣י** בַּחֲצִ֣י הַלַּ֔יְלָה",
         "transliteration": "**vayHi** baChatziy haLaylah",
         "englishLiteral": "**And-was** in-half-of the-night",
-        "englishNatural": "**And it was** in the half of the night"
+        "englishNatural": "**And it was** in the half of the night,"
       }
     },
     {
@@ -2635,6 +2736,7 @@
         "verse": 30
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וַתְּהִ֛י",
         "transliteration": "vatTehi",
@@ -2650,8 +2752,8 @@
       "context": {
         "hebrew": "וְכָל־ מִצְרַ֔יִם **וַתְּהִ֛י** צְעָקָ֥ה גְדֹלָ֖ה",
         "transliteration": "veKhol- Mitzrayim **vatTehi** tzeaqah gedolah",
-        "englishLiteral": "and-all- Double_Narrows (Egypt) **and-was** outcry great",
-        "englishNatural": "and all Double-Narrows (Egypt) **was** outcry and a great"
+        "englishLiteral": "and-all- Double_Narrows (Egypt); **and-was** outcry great",
+        "englishNatural": "and a great outcry **was** in Double-Narrows (Egypt), that"
       }
     },
     {
@@ -2661,6 +2763,7 @@
         "verse": 8
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "וְהָיָה",
         "transliteration": "veHayah",
@@ -2676,8 +2779,8 @@
       "context": {
         "hebrew": "עַל נֵס **וְהָיָה** כָּל הַנָּשׁוּךְ",
         "transliteration": "al nes **veHayah** kol haNashukh",
-        "englishLiteral": "over standard **and-it-will-be** all the-struck",
-        "englishNatural": "over a standard **and it shall come about** everyone who is struck"
+        "englishLiteral": "over standard, **and-it-will-be,** all the-struck,",
+        "englishNatural": "over a standard; **and it shall come about,** everyone who is struck,"
       }
     },
     {
@@ -2687,6 +2790,7 @@
         "verse": 9
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "וְהָיָה",
         "transliteration": "veHayah",
@@ -2702,8 +2806,8 @@
       "context": {
         "hebrew": "עַל הַנֵּס **וְהָיָה** אִם נָשַׁךְ",
         "transliteration": "al haNes **veHayah** im nashakh",
-        "englishLiteral": "on the-standard **and-it-was** if struck",
-        "englishNatural": "on the standard **and it came about** if struck"
+        "englishLiteral": "on the-standard, **and-it-was,** if struck",
+        "englishNatural": "on the standard; **and it came about,** if the snake"
       }
     },
     {
@@ -2713,6 +2817,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִ֗י",
         "transliteration": "vayHi",
@@ -2739,6 +2844,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וַיְהִ֥י",
         "transliteration": "vayHi",
@@ -2754,8 +2860,8 @@
       "context": {
         "hebrew": "שְׁפֹ֣ט הַשֹּׁפְטִ֔ים **וַיְהִ֥י** רָעָ֖ב בָּאָ֑רֶץ",
         "transliteration": "shefot haShoftim **vayHi** raav baAretz",
-        "englishLiteral": "justice-doing-of the-Just_Ones **and-was** famine in-the-land",
-        "englishNatural": "the justice-doing of the Just-Ones **was** and famine in the land"
+        "englishLiteral": "justice-doing-of the-Just_Ones **and-was** famine in-the-land;",
+        "englishNatural": "the Just-Ones, and famine **was** in the land; and a man"
       }
     },
     {
@@ -2765,6 +2871,7 @@
         "verse": 2
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "וַיִּֽהְיוּ־",
         "transliteration": "vayihyu-",
@@ -2778,10 +2885,10 @@
         }
       },
       "context": {
-        "hebrew": "שְׂדֵי־ מוֹאָ֖ב **וַיִּֽהְיוּ־** שָֽׁם׃",
+        "hebrew": "שְׂדֵי־ מוֹאָ֖ב **וַיִּֽהְיוּ־** שָֽׁם׃׃",
         "transliteration": "sedey- Moav **vayihyu-** sham",
-        "englishLiteral": "fields-of- From_Father (Moab) **and-they-were-** there",
-        "englishNatural": "the fields of From-Father (Moab) **and were** there"
+        "englishLiteral": "fields-of- From_Father (Moab); **and-they-were-** there.",
+        "englishNatural": "the fields of From-Father (Moab) **and were** there."
       }
     },
     {
@@ -2791,6 +2898,7 @@
         "verse": 7
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָֽיְתָה־",
         "transliteration": "hayetah-",
@@ -2807,7 +2915,7 @@
         "hebrew": "הַמָּק֔וֹם אֲשֶׁ֥ר **הָֽיְתָה־** שָׁ֖מָּה וּשְׁתֵּ֣י",
         "transliteration": "haMaqom asher **hayetah-** shammah uShtey",
         "englishLiteral": "the-place which **she-had-been-** there and-two-of",
-        "englishNatural": "the place which **she had been** there and the two of"
+        "englishNatural": "the place which **she had been** there, and the two of"
       }
     },
     {
@@ -2817,6 +2925,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָיָ֥ה",
         "transliteration": "hayah",
@@ -2832,8 +2941,8 @@
       "context": {
         "hebrew": "אִ֛ישׁ **הָיָ֥ה** בְאֶֽרֶץ־ ע֖וּץ",
         "transliteration": "ish **hayah** beEretz- Uts",
-        "englishLiteral": "man **was** in-land- Counsel (Uz)",
-        "englishNatural": "A man **there was** in the land of Counsel (Uz)"
+        "englishLiteral": "man **was** in-land- Counsel (Uz),",
+        "englishNatural": "A man **there was** in the land of Counsel (Uz),"
       }
     },
     {
@@ -2843,6 +2952,7 @@
         "verse": 1
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וְהָיָ֣ה",
         "transliteration": "veHayah",
@@ -2858,8 +2968,8 @@
       "context": {
         "hebrew": "אִיּ֣וֹב שְׁמ֑וֹ **וְהָיָ֣ה** הָאִ֣ישׁ הַה֗וּא",
         "transliteration": "Iyov shmo **veHayah** haIsh haHu",
-        "englishLiteral": "Persecuted (Job) his-name **and-was** the-man the-that",
-        "englishNatural": "Persecuted (Job) his name **was** man and that"
+        "englishLiteral": "Persecuted (Job) his-name; **and-was** the-man the-that",
+        "englishNatural": "and that man **was** whole and straight,"
       }
     },
     {
@@ -2869,6 +2979,7 @@
         "verse": 3
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְהָיָה",
         "transliteration": "veHayah",
@@ -2895,6 +3006,7 @@
         "verse": 30
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וָאֶהְיֶה",
         "transliteration": "vaEhyeh",
@@ -2910,8 +3022,8 @@
       "context": {
         "hebrew": "**וָאֶהְיֶה** אֶצְלוֹ אָמוֹן",
         "transliteration": "**vaEhyeh** etslo amon",
-        "englishLiteral": "**and-I-was** beside-him master_craftsman",
-        "englishNatural": "**and I was** beside him a master-craftsman"
+        "englishLiteral": "**and-I-was** beside-him master_craftsman,",
+        "englishNatural": "**and I was** beside him a master-craftsman,"
       }
     },
     {
@@ -2921,6 +3033,7 @@
         "verse": 30
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "וָאֶהְיֶה",
         "transliteration": "vaEhyeh",
@@ -2936,8 +3049,8 @@
       "context": {
         "hebrew": "אֶצְלוֹ אָמוֹן **וָאֶהְיֶה** שַׁעֲשֻׁעִים יוֹם",
         "transliteration": "etslo amon **vaEhyeh** shaashuim yom",
-        "englishLiteral": "beside-him master_craftsman **and-I-was** darlings day",
-        "englishNatural": "beside him a master-craftsman **and I was** darlings day"
+        "englishLiteral": "beside-him master_craftsman, **and-I-was** darlings day",
+        "englishNatural": "beside him a master-craftsman, **and I was** darlings day"
       }
     },
     {
@@ -2947,6 +3060,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vayehi",
@@ -2962,8 +3076,8 @@
       "context": {
         "hebrew": "**וַיְהִי** בִּשְׁלֹשִׁים שָׁנָה",
         "transliteration": "**vayehi** biShloshim shanah",
-        "englishLiteral": "**And-it-was** in-thirty year",
-        "englishNatural": "**And it was** thirty in year"
+        "englishLiteral": "**And-it-was** in-thirty year,",
+        "englishNatural": "**And it was** in year thirty,"
       }
     },
     {
@@ -2973,6 +3087,7 @@
         "verse": 3
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "הָיֹה",
         "transliteration": "hayo",
@@ -2989,7 +3104,7 @@
         "hebrew": "**הָיֹה** הָיָה דְבַר־",
         "transliteration": "**hayo** hayah devar-",
         "englishLiteral": "**Being** was word-of-",
-        "englishNatural": "**being** was The word of"
+        "englishNatural": "He-Who-Is (YHWH) was **being** to God-Strengthens (Ezekiel)"
       }
     },
     {
@@ -2999,6 +3114,7 @@
         "verse": 3
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",
@@ -3015,7 +3131,7 @@
         "hebrew": "הָיֹה **הָיָה** דְבַר־ יְהוָה",
         "transliteration": "hayo **hayah** devar- YHWH",
         "englishLiteral": "Being **was** word-of- He_Who_Is (YHWH)",
-        "englishNatural": "being **was** The word of He-Who-Is (YHWH)"
+        "englishNatural": "The word of He-Who-Is (YHWH) **was** being to"
       }
     },
     {
@@ -3025,6 +3141,7 @@
         "verse": 3
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "וַתְּהִי",
         "transliteration": "vatehi",
@@ -3040,8 +3157,8 @@
       "context": {
         "hebrew": "נְהַר־ כְּבָר **וַתְּהִי** עָלָיו שָׁם",
         "transliteration": "nehar- Kebar **vatehi** alav sham",
-        "englishLiteral": "River-of- Ancient (Kebar) **and-it-was** over-him there",
-        "englishNatural": "River of Ancient (Kebar) **was** over him there"
+        "englishLiteral": "River-of- Ancient (Kebar), **and-it-was** over-him there",
+        "englishNatural": "and the hand of He-Who-Is (YHWH) **was** over him there."
       }
     },
     {
@@ -3051,6 +3168,7 @@
         "verse": 12
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "יִהְיֶה־",
         "transliteration": "yihyeh-",
@@ -3067,7 +3185,7 @@
         "hebrew": "אֶל אֲשֶׁר **יִהְיֶה־** שָּׁמָּה הָרוּחַ",
         "transliteration": "el asher **yihyeh-** shamah haRuach",
         "englishLiteral": "to which **it-was-** there the-wind",
-        "englishNatural": "to which **was** there the wind"
+        "englishNatural": "the wind to go **was** there they went;"
       }
     },
     {
@@ -3077,6 +3195,7 @@
         "verse": 16
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "יִהְיֶה",
         "transliteration": "yihyeh",
@@ -3093,7 +3212,7 @@
         "hebrew": "וּמַעֲשֵׂיהֶם כַּאֲשֶׁר **יִהְיֶה** הָאוֹפַן בְּתוֹךְ",
         "transliteration": "uMaaseihem kaAsher **yihyeh** haOphan betokh",
         "englishLiteral": "and-work-their like-which **it-was** the-wheel in-midst-of",
-        "englishNatural": "and their work like which **was** the wheel in the midst of"
+        "englishNatural": "like which the wheel **was** in the midst of the wheel."
       }
     },
     {
@@ -3103,6 +3222,7 @@
         "verse": 20
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "יִהְיֶה־",
         "transliteration": "yihyeh-",
@@ -3118,8 +3238,8 @@
       "context": {
         "hebrew": "עַל אֲשֶׁר **יִהְיֶה־** שָׁם הָרוּחַ",
         "transliteration": "al asher **yihyeh-** sham haRuach",
-        "englishLiteral": "over which **it-was-** there the-wind",
-        "englishNatural": "Over which **was** there the wind"
+        "englishLiteral": "over which **it-was-** there, the-wind",
+        "englishNatural": "the wind to go **was** there, they went"
       }
     },
     {
@@ -3129,6 +3249,7 @@
         "verse": 25
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי־",
         "transliteration": "vayehi-",
@@ -3155,6 +3276,7 @@
         "verse": 28
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "יִהְיֶה",
         "transliteration": "yihyeh",
@@ -3181,6 +3303,7 @@
         "verse": 21
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -3196,8 +3319,8 @@
       "context": {
         "hebrew": "**וַיְהִי** דָּנִיֵּאל עַד",
         "transliteration": "**vaYehi** Daniel ad",
-        "englishLiteral": "**and-he-was** God_Is_My_Judge (Daniel) until",
-        "englishNatural": "**was** And God-Is-My-Judge (Daniel) until"
+        "englishLiteral": "**and-he-was** God_Is_My_Judge (Daniel), until",
+        "englishNatural": "And God-Is-My-Judge (Daniel) **was,** until the year of"
       }
     },
     {
@@ -3207,6 +3330,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -3223,7 +3347,7 @@
         "hebrew": "**וַיְהִי** דְבַר־ יְהוָה",
         "transliteration": "**vaYehi** devar- YHWH",
         "englishLiteral": "**And-was** word-of He_Who_Is (YHWH)",
-        "englishNatural": "**was** And the word of He-Who-Is (YHWH)"
+        "englishNatural": "And the word of He-Who-Is (YHWH) **was** to Dove (Jonah)"
       }
     },
     {
@@ -3233,6 +3357,7 @@
         "verse": 4
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -3248,8 +3373,8 @@
       "context": {
         "hebrew": "אֶל־ הַיָּם **וַיְהִי** סַעַר־ גָּדוֹל",
         "transliteration": "el- haYam **vaYehi** saar- gadol",
-        "englishLiteral": "to- the-sea **and-was** tempest- great",
-        "englishNatural": "to the sea **and there was** tempest a great"
+        "englishLiteral": "to- the-sea, **and-was** tempest- great",
+        "englishNatural": "to the sea, **and there was** a great tempest"
       }
     },
     {
@@ -3259,6 +3384,7 @@
         "verse": 17
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -3274,8 +3400,8 @@
       "context": {
         "hebrew": "אֶת־ יוֹנָה **וַיְהִי** יוֹנָה בִּמְעֵי",
         "transliteration": "et- Yonah **vaYehi** Yonah bimei",
-        "englishLiteral": "↳ Dove (Jonah) **And-was** Dove (Jonah) in-bowels-of",
-        "englishNatural": "↳ Dove (Jonah) **was** And Dove (Jonah) in the bowels of"
+        "englishLiteral": "↳ Dove (Jonah); **And-was** Dove (Jonah) in-bowels-of",
+        "englishNatural": "Dove (Jonah); And Dove (Jonah) **was** in the bowels of the fish"
       }
     },
     {
@@ -3285,6 +3411,7 @@
         "verse": 6
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "יְהוָה",
         "transliteration": "YHWH",
@@ -3298,8 +3425,8 @@
       "context": {
         "hebrew": "מִשַּׁחַת חַיַּי **יְהוָה** אֱלֹהָי",
         "transliteration": "mishachat chayai **YHWH** elohai",
-        "englishLiteral": "from-corruption life-my **He_Who_Is (YHWH)** God-my",
-        "englishNatural": "from corruption my life **He-Who-Is (YHWH)** my God"
+        "englishLiteral": "from-corruption life-my, **He_Who_Is (YHWH)** God-my.",
+        "englishNatural": "from corruption my life, **He-Who-Is (YHWH)** my God."
       }
     },
     {
@@ -3309,6 +3436,7 @@
         "verse": 7
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "יְהוָה",
         "transliteration": "YHWH",
@@ -3322,8 +3450,8 @@
       "context": {
         "hebrew": "נַפְשִׁי אֶת־ **יְהוָה** זָכַרְתִּי וַתָּבוֹא",
         "transliteration": "nafshi et- **YHWH** zakharti vatavo",
-        "englishLiteral": "throat-my ↳ **He_Who_Is (YHWH)** I-remembered and-came",
-        "englishNatural": "my throat ↳ **He-Who-Is (YHWH)** I remembered and came"
+        "englishLiteral": "throat-my, ↳ **He_Who_Is (YHWH)** I-remembered; and-came",
+        "englishNatural": "my throat, ↳ **He-Who-Is (YHWH)** I remembered; and came"
       }
     },
     {
@@ -3333,6 +3461,7 @@
         "verse": 9
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "לַיהוָה",
         "transliteration": "laYHWH",
@@ -3346,8 +3475,8 @@
       "context": {
         "hebrew": "אֲשַׁלֵּמָה יְשׁוּעָתָה **לַיהוָה**",
         "transliteration": "ashalemah yeshuatah **laYHWH**",
-        "englishLiteral": "I-will-complete salvation **to-He_Who_Is (YHWH)**",
-        "englishNatural": "I will complete salvation **belongs to He-Who-Is (YHWH)**"
+        "englishLiteral": "I-will-complete; salvation **to-He_Who_Is (YHWH).**",
+        "englishNatural": "I will complete; salvation **belongs to He-Who-Is (YHWH).**"
       }
     },
     {
@@ -3357,6 +3486,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -3373,7 +3503,7 @@
         "hebrew": "**וַיְהִי** דְבַר־ יְהוָה",
         "transliteration": "**vaYehi** devar- YHWH",
         "englishLiteral": "**And-was** word-of He_Who_Is (YHWH)",
-        "englishNatural": "**was** And the word of He-Who-Is (YHWH)"
+        "englishNatural": "And the word of He-Who-Is (YHWH) **was** to Dove (Jonah)"
       }
     },
     {
@@ -3383,6 +3513,7 @@
         "verse": 3
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "הָיְתָה",
         "transliteration": "haytah",
@@ -3398,8 +3529,8 @@
       "context": {
         "hebrew": "יְהוָה וְנִינְוֵה **הָיְתָה** עִיר־ גְּדוֹלָה",
         "transliteration": "YHWH veNineveh **haytah** ir- gedolah",
-        "englishLiteral": "He_Who_Is (YHWH) And-Dwelling_of_Fish (Nineveh) **was** city- great",
-        "englishNatural": "He-Who-Is (YHWH) And Dwelling-of-Fish (Nineveh) **was** a city great"
+        "englishLiteral": "He_Who_Is (YHWH). And-Dwelling_of_Fish (Nineveh) **was** city- great",
+        "englishNatural": "He-Who-Is (YHWH). And Dwelling-of-Fish (Nineveh) **was** a city great"
       }
     },
     {
@@ -3409,6 +3540,7 @@
         "verse": 2
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הֱיוֹתִי",
         "transliteration": "heyoti",
@@ -3424,8 +3556,8 @@
       "context": {
         "hebrew": "דְבָרִי עַד־ **הֱיוֹתִי** עַל־ אַדְמָתִי",
         "transliteration": "devari ad- **heyoti** al- admati",
-        "englishLiteral": "word-my unto- **being-my** over- earth-my",
-        "englishNatural": "my word unto **I was** over my earth"
+        "englishLiteral": "word-my unto- **being-my** over- earth-my?",
+        "englishNatural": "my word unto **I was** over my earth?"
       }
     },
     {
@@ -3435,6 +3567,7 @@
         "verse": 5
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "יִּהְיֶה",
         "transliteration": "yihyeh",
@@ -3450,8 +3583,8 @@
       "context": {
         "hebrew": "יִרְאֶה מַה־ **יִּהְיֶה** בָּעִיר",
         "transliteration": "yireh mah- **yihyeh** baIr",
-        "englishLiteral": "he-will-see what- **will-be** in-city",
-        "englishNatural": "he will see what **will be** in the city"
+        "englishLiteral": "he-will-see what- **will-be** in-city.",
+        "englishNatural": "he will see what **will be** in the city."
       }
     },
     {
@@ -3461,6 +3594,7 @@
         "verse": 6
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "לִהְיוֹת",
         "transliteration": "lihyot",
@@ -3476,8 +3610,8 @@
       "context": {
         "hebrew": "מֵעַל לְיוֹנָה **לִהְיוֹת** צֵל עַל־",
         "transliteration": "meAl leYonah **lihyot** tzel al-",
-        "englishLiteral": "from-over to-Dove (Jonah) **to-be** shadow over-",
-        "englishNatural": "from over to Dove (Jonah) **to be** a shadow over"
+        "englishLiteral": "from-over to-Dove (Jonah), **to-be** shadow over-",
+        "englishNatural": "from over to Dove (Jonah), **to be** a shadow over"
       }
     },
     {
@@ -3487,6 +3621,7 @@
         "verse": 8
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְהִי",
         "transliteration": "vaYehi",
@@ -3502,8 +3637,8 @@
       "context": {
         "hebrew": "**וַיְהִי** כִּזְרֹחַ הַשֶּׁמֶשׁ",
         "transliteration": "**vaYehi** kizroch haShemesh",
-        "englishLiteral": "**And-was** at-rising_of the-sun",
-        "englishNatural": "**And it was** at the rising of the sun"
+        "englishLiteral": "**And-was** at-rising_of the-sun;",
+        "englishNatural": "**And it was** at the rising of the sun;"
       }
     },
     {
@@ -3513,6 +3648,7 @@
         "verse": 10
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הָיָה",
         "transliteration": "hayah",

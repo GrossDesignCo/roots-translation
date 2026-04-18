@@ -10,6 +10,7 @@
         "verse": 23
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "קוֹלִי",
         "transliteration": "qoli",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וְצִלָּה שְׁמַעַן **קוֹלִי** נְשֵׁי לֶמֶךְ",
         "transliteration": "veTzillah sheman **qoli** neshei Lemekh",
-        "englishLiteral": "and-Shadow (Zillah) hear **voice-my** women-of Powerful (Lamech)",
-        "englishNatural": "and Shadow (Zillah) hear **my voice** women of Powerful (Lamech)"
+        "englishLiteral": "and-Shadow (Zillah), hear **voice-my;** women-of Powerful (Lamech),",
+        "englishNatural": "and Shadow (Zillah), hear **my voice;** women of Powerful (Lamech),"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 2
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "קוֹלִי",
         "transliteration": "qoli",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "שִׁוַּעְתִּי שָׁמַעְתָּ **קוֹלִי**",
         "transliteration": "shivati shamata **qoli**",
-        "englishLiteral": "I-cried_out you-heard **voice-my**",
-        "englishNatural": "I cried-out you heard **my voice**"
+        "englishLiteral": "I-cried_out, you-heard **voice-my.**",
+        "englishNatural": "I cried-out, you heard **my voice.**"
       }
     }
   ]

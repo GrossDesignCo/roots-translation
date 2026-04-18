@@ -10,6 +10,7 @@
         "verse": 15
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְזֶה",
         "transliteration": "veZeh",
@@ -34,6 +35,7 @@
         "verse": 6
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וְזֶה",
         "transliteration": "veZeh",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "אַחַת לְכֻלָּם **וְזֶה** הַחִלָּם לַעֲשׂוֹת",
         "transliteration": "achat leKhulam **veZeh** hachilam laAsot",
-        "englishLiteral": "one to-all-of-them **and-this** the-beginning-of-them to-make",
-        "englishNatural": "and one to all of them **and this** the beginning of their making"
+        "englishLiteral": "one to-all-of-them, **and-this** the-beginning-of-them to-make,",
+        "englishNatural": "lip to all of them, **and this,** the beginning of their making;"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 15
       },
       "wordIndex": 24,
+      "sourceOrder": 24,
       "word": {
         "originalScript": "וְזֶה",
         "transliteration": "veZeh",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "שְּׁמִי לְעֹלָם **וְזֶה** זִכְרִי לְדֹר",
         "transliteration": "shmi leOlam **veZeh** zikri leDor",
-        "englishLiteral": "my-name to-the_age **and-this** my-rememberance to-generation",
-        "englishNatural": "my name to the-age **and this is** my rememberance to generation of"
+        "englishLiteral": "my-name to-the_age, **and-this** my-rememberance to-generation",
+        "englishNatural": "my name to the-age, **and this is** my rememberance to generation of"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 5
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וְזֶה",
         "transliteration": "veZeh",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "אַרְבַּע חַיּוֹת **וְזֶה** מַרְאֵיהֶן דְּמוּת",
         "transliteration": "arba chayot **veZeh** mareihen demut",
-        "englishLiteral": "four living_beings **and-this** appearance-their likeness-of",
-        "englishNatural": "four living-beings **and this** their appearance a likeness of"
+        "englishLiteral": "four living_beings; **and-this** appearance-their, likeness-of",
+        "englishNatural": "four living-beings; **and this** their appearance, a likeness of"
       }
     }
   ]

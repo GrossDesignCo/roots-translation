@@ -10,6 +10,7 @@
         "verse": 5
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּקְרָ֨א",
         "transliteration": "vaYiqra",
@@ -26,7 +27,7 @@
         "hebrew": "**וַיִּקְרָ֨א** אֱלֹהִ֤ים לָא֔וֹר",
         "transliteration": "**vaYiqra** Elohim laOr",
         "englishLiteral": "**And-called_out** Gods to-light",
-        "englishNatural": "**called-out** And God to light"
+        "englishNatural": "And God **called-out** to light, \"Day,\""
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 8
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּקְרָ֧א",
         "transliteration": "vaYiqra",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "**וַיִּקְרָ֧א** אֱלֹהִ֛ים לָֽרָקִ֖יעַ",
         "transliteration": "**vaYiqra** Elohim laRaqia",
-        "englishLiteral": "**And-called_out** Gods to_the-hammering_out",
-        "englishNatural": "**called-out** And God to the hammering-out"
+        "englishLiteral": "**And-called_out** Gods to_the-hammering_out,",
+        "englishNatural": "And God **called-out** to the hammering-out, \"Skies.\""
       }
     },
     {
@@ -62,6 +64,7 @@
         "verse": 10
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּקְרָ֨א",
         "transliteration": "vaYiqra",
@@ -78,7 +81,7 @@
         "hebrew": "**וַיִּקְרָ֨א** אֱלֹהִ֤ים ׀ לַיַּבָּשָׁה֙",
         "transliteration": "**vaYiqra** Elohim laYabashah",
         "englishLiteral": "**And-called_out** Gods to-dry-ground",
-        "englishNatural": "**called-out** And God to the dry-ground"
+        "englishNatural": "And God **called-out** to the dry-ground, \"Land,\""
       }
     },
     {
@@ -88,6 +91,7 @@
         "verse": 20
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vaYiqra",
@@ -104,7 +108,7 @@
         "hebrew": "**וַיִּקְרָא** הָאָדָם שֵׁמוֹת",
         "transliteration": "**vaYiqra** haAdam shemot",
         "englishLiteral": "**And-called_out** the-Earthling (Adam) names",
-        "englishNatural": "**called-out** And the Earthling (Adam) names"
+        "englishNatural": "And the Earthling (Adam) **called-out** names to every"
       }
     },
     {
@@ -114,6 +118,7 @@
         "verse": 9
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vaYiqra",
@@ -130,7 +135,7 @@
         "hebrew": "**וַיִּקְרָא** יְהוָה אֱלֹהִים",
         "transliteration": "**vaYiqra** YHWH Elohim",
         "englishLiteral": "**And-called_out** He_Who_Is (YHWH) Gods",
-        "englishNatural": "**called-out** And He-Who-Is (YHWH) God"
+        "englishNatural": "And He-Who-Is (YHWH) God **called-out** to the Earthling (Adam),"
       }
     },
     {
@@ -140,6 +145,7 @@
         "verse": 26
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vaYiqra",
@@ -155,8 +161,8 @@
       "context": {
         "hebrew": "יֻלַּד־ בֵּן **וַיִּקְרָא** אֶת־ שְׁמוֹ",
         "transliteration": "yulad- ben **vaYiqra** et- shemo",
-        "englishLiteral": "was-born son **and-called_out** ↳ name-his",
-        "englishNatural": "was born a son **and he called-out** ↳ his name"
+        "englishLiteral": "was-born son; **and-called_out** ↳ name-his",
+        "englishNatural": "was born a son; **and he called-out** ↳ his name"
       }
     },
     {
@@ -166,6 +172,7 @@
         "verse": 2
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vaYiqra",
@@ -181,8 +188,8 @@
       "context": {
         "hebrew": "וַיְבָרֶךְ אֹתָם **וַיִּקְרָא** אֶת־ שְׁמָם",
         "transliteration": "vaYevarekh otam **vaYiqra** et- shemam",
-        "englishLiteral": "and-blessed them **and-called_out** ↳ name-their",
-        "englishNatural": "and blessed them **and called-out** ↳ their name"
+        "englishLiteral": "and-blessed them, **and-called_out** ↳ name-their,",
+        "englishNatural": "and blessed them, **and called-out** ↳ their name,"
       }
     },
     {
@@ -192,6 +199,7 @@
         "verse": 3
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vaYiqra",
@@ -207,8 +215,8 @@
       "context": {
         "hebrew": "בִּדְמוּתוֹ כְּצַלְמוֹ **וַיִּקְרָא** אֶת־ שְׁמוֹ",
         "transliteration": "biDemuto keTselmo **vaYiqra** et- shemo",
-        "englishLiteral": "in-likeness-his as-image-his **and-called_out** ↳ name-his",
-        "englishNatural": "in his likeness as his image **and called-out** ↳ his name"
+        "englishLiteral": "in-likeness-his, as-image-his; **and-called_out** ↳ name-his,",
+        "englishNatural": "in his likeness, as his image; **and called-out** ↳ his name,"
       }
     },
     {
@@ -218,6 +226,7 @@
         "verse": 29
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vaYiqra",
@@ -244,6 +253,7 @@
         "verse": 4
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vaYiqra",
@@ -259,8 +269,8 @@
       "context": {
         "hebrew": "סָר לִרְאוֹת **וַיִּקְרָא** אֵלָיו אֱלֹהִים",
         "transliteration": "sar lirot **vaYiqra** elav Elohim",
-        "englishLiteral": "turned_aside to-see **and-he-called** to-him Gods",
-        "englishNatural": "he had turned-aside to see **called** to him and God"
+        "englishLiteral": "turned_aside to-see, **and-he-called** to-him Gods",
+        "englishNatural": "to see, and God **called** to him from the midst of"
       }
     },
     {
@@ -270,6 +280,7 @@
         "verse": 11
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vaYiqra",
@@ -286,7 +297,7 @@
         "hebrew": "**וַיִּקְרָא** גַם־ פַּרְעֹה",
         "transliteration": "**vaYiqra** gam- Paroh",
         "englishLiteral": "**And-called_out** also- Pharaoh",
-        "englishNatural": "**called-out** also And Pharaoh"
+        "englishNatural": "And Pharaoh **called-out** also, to the wise"
       }
     },
     {
@@ -296,6 +307,7 @@
         "verse": 24
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vaYiqra",
@@ -312,7 +324,7 @@
         "hebrew": "**וַיִּקְרָא** פַרְעֹה אֶל־",
         "transliteration": "**vaYiqra** Paroh el-",
         "englishLiteral": "**And-called_out** Pharaoh to-",
-        "englishNatural": "**called-out** And Pharaoh to"
+        "englishNatural": "And Pharaoh **called-out** to Drawn-Out (Moses)"
       }
     },
     {
@@ -322,6 +334,7 @@
         "verse": 5
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vaYiqra",
@@ -337,8 +350,8 @@
       "context": {
         "hebrew": "עִמּוֹ שָׁם **וַיִּקְרָא** בְשֵׁם יְהוָה",
         "transliteration": "imo sham **vaYiqra** beShem YHWH",
-        "englishLiteral": "with-him there **and-called_out** in-name He_Who_Is (YHWH)",
-        "englishNatural": "with him there **and called-out** in the name of He-Who-Is (YHWH)"
+        "englishLiteral": "with-him there, **and-called_out** in-name He_Who_Is (YHWH).",
+        "englishNatural": "with him there, **and called-out** in the name of He-Who-Is (YHWH)."
       }
     },
     {
@@ -348,6 +361,7 @@
         "verse": 6
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vaYiqra",
@@ -363,8 +377,8 @@
       "context": {
         "hebrew": "עַל־ פָּנָיו **וַיִּקְרָא** יְהוָה יְהוָה",
         "transliteration": "al- panav **vaYiqra** YHWH YHWH",
-        "englishLiteral": "over- his-faces **and-called_out** He_Who_Is (YHWH) He_Who_Is (YHWH)",
-        "englishNatural": "over his face **and called-out** He-Who-Is (YHWH) He-Who-Is (YHWH)"
+        "englishLiteral": "over- his-faces, **and-called_out,** \"He_Who_Is (YHWH), He_Who_Is (YHWH),",
+        "englishNatural": "over his face, **and called-out,** \"He-Who-Is (YHWH), He-Who-Is (YHWH),"
       }
     },
     {
@@ -374,6 +388,7 @@
         "verse": 4
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "וַיִּקְרָא",
         "transliteration": "vaYiqra",
@@ -389,8 +404,8 @@
       "context": {
         "hebrew": "יוֹם אֶחָד **וַיִּקְרָא** וַיֹּאמַר עוֹד",
         "transliteration": "yom echad **vaYiqra** vaYomar od",
-        "englishLiteral": "day one **and-called_out** and-said yet",
-        "englishNatural": "day one **and he called-out** and said Yet"
+        "englishLiteral": "day one, **and-called_out** and-said, \"yet",
+        "englishNatural": "one day, **and he called-out** and said, \"Yet"
       }
     }
   ]

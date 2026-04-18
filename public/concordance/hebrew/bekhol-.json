@@ -10,6 +10,7 @@
         "verse": 22
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "בְּכָל־",
         "transliteration": "beKhol-",
@@ -34,6 +35,7 @@
         "verse": 6
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "בְּכָל־",
         "transliteration": "beKhol-",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "צְעָקָ֥ה גְדֹלָ֖ה **בְּכָל־** אֶ֣רֶץ מִצְרָ֑יִם",
         "transliteration": "tzaakah gedolah **beKhol-** eretz Mitzrayim",
-        "englishLiteral": "cry great **in-all-** land Double_Narrows (Egypt)",
-        "englishNatural": "cry And a great **in all** the land of Double-Narrows (Egypt)"
+        "englishLiteral": "cry great **in-all-** land Double_Narrows (Egypt),",
+        "englishNatural": "cry will be **in all** the land of Double-Narrows (Egypt),"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "בְּכָל־",
         "transliteration": "beKhol-",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "אַדִּ֣יר שִׁ֭מְךָ **בְּכָל־** הָאָ֑רֶץ אֲשֶׁ֥ר",
         "transliteration": "addir shimkha **beKhol-** haAretz asher",
-        "englishLiteral": "majestic your-name **in-all-** the-land which",
-        "englishNatural": "majestic your name **in all** the land which"
+        "englishLiteral": "majestic your-name **in-all-** the-land; which",
+        "englishNatural": "majestic, your name **in all** the land; which"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 9
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "בְּכָל־",
         "transliteration": "beKhol-",
@@ -93,10 +97,10 @@
         }
       },
       "context": {
-        "hebrew": "אַדִּ֥יר שִׁ֝מְךָ֗ **בְּכָל־** הָאָֽרֶץ",
+        "hebrew": "אַדִּ֥יר שִׁ֝מְךָ֗ **בְּכָל־** הָאָֽרֶץ׃",
         "transliteration": "addir shimkha **beKhol-** haAretz",
-        "englishLiteral": "majestic your-name **in-all-** the-land",
-        "englishNatural": "majestic your name **in all** the land"
+        "englishLiteral": "majestic your-name **in-all-** the-land.",
+        "englishNatural": "majestic, your name **in all** the land."
       }
     },
     {
@@ -106,6 +110,7 @@
         "verse": 30
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "בְּכָל־",
         "transliteration": "beKhol-",
@@ -119,8 +124,8 @@
       "context": {
         "hebrew": "מְשַׂחֶקֶת לְפָנָיו **בְּכָל־** עֵת",
         "transliteration": "mesacheqet lefanav **beKhol-** et",
-        "englishLiteral": "laughing to-faces-his **in-all-** time",
-        "englishNatural": "laughing to his faces **in all** time"
+        "englishLiteral": "laughing to-faces-his **in-all-** time.",
+        "englishNatural": "laughing to his faces **in all** time."
       }
     }
   ]

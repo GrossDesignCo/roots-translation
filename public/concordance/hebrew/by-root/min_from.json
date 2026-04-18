@@ -9,6 +9,7 @@
         "verse": 20
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וּמִן־",
         "transliteration": "uMin-",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "מֵהָעוֹף לְמִינֵהוּ **וּמִן־** הַבְּהֵמָה לְמִינָהּ",
         "transliteration": "meHaOph leMinehu **uMin-** haBehemah leMina",
-        "englishLiteral": "From-the-bird to-kind-his **and-from-** the-beast to-kind-her",
-        "englishNatural": "From the bird to its kind **and from** the beast to its kind"
+        "englishLiteral": "From-the-bird to-kind-his **and-from-** the-beast to-kind-her,",
+        "englishNatural": "From the bird to its kind **and from** the beast to its kind,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 8
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "מִן־",
         "transliteration": "min-",
@@ -57,6 +59,7 @@
         "verse": 8
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "וּמִן־",
         "transliteration": "uMin-",
@@ -81,6 +84,7 @@
         "verse": 8
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וּמִן־",
         "transliteration": "uMin-",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "אֵינֶנָּה טְהֹרָה **וּמִן־** הָעוֹף וְכֹל",
         "transliteration": "einennah tehorah **uMin-** haOph veKhol",
-        "englishLiteral": "not-her clean **and-from-** the-bird and-all",
-        "englishNatural": "is not clean **and from** the bird and all"
+        "englishLiteral": "not-her clean, **and-from-** the-bird and-all",
+        "englishNatural": "is not clean, **and from** the bird and all"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 8
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "וּמִן־",
         "transliteration": "umin-",
@@ -119,7 +124,7 @@
         "hebrew": "מִדַּרְכּוֹ הָרָעָה **וּמִן־** הֶחָמָס אֲשֶׁר",
         "transliteration": "midarko haRaah **umin-** heChamas asher",
         "englishLiteral": "from-way-his the-bad **and-from-** the-violence which",
-        "englishNatural": "his way from the bad of **and from** the violence which is"
+        "englishNatural": "from the bad of his way **and from** the violence which is"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 3
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "מִמֶּנִּי",
         "transliteration": "mimeni",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "אֶת־ נַפְשִׁי **מִמֶּנִּי** כִּי טוֹב",
         "transliteration": "et- nafshi **mimeni** ki tov",
-        "englishLiteral": "↳ throat-my **from-me** that good",
-        "englishNatural": "↳ my throat **from me** that good-is"
+        "englishLiteral": "↳ throat-my **from-me,** that good",
+        "englishNatural": "↳ my throat **from me,** that good-is"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 5
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "מִן־",
         "transliteration": "min-",
@@ -167,7 +174,7 @@
         "hebrew": "וַיֵּצֵא יוֹנָה **מִן־** הָעִיר וַיֵּשֶׁב",
         "transliteration": "vaYetze Yonah **min-** haIr vaYeshev",
         "englishLiteral": "And-went_out Dove (Jonah) **from-** the-city and-sat",
-        "englishNatural": "went-out And Dove (Jonah) **from** the city and sat"
+        "englishNatural": "And Dove (Jonah) went-out **from** the city and sat"
       }
     }
   ]

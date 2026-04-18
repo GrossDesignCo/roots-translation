@@ -10,6 +10,7 @@
         "verse": 23
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "מִשָּׁם׃",
         "transliteration": "miSham",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אֲשֶׁר לֻקַּח **מִשָּׁם׃**",
         "transliteration": "asher luQach **miSham**",
-        "englishLiteral": "which was-taken **from-there**",
-        "englishNatural": "which he was taken **from there**"
+        "englishLiteral": "which was-taken **from-there.**",
+        "englishNatural": "↳ the earth **from there** which he was taken."
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 8
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "מִשָּׁם",
         "transliteration": "misham",
@@ -48,7 +50,7 @@
         "hebrew": "יְהוָה אֹתָם **מִשָּׁם** עַל־ פְּנֵי",
         "transliteration": "YHWH otam **misham** al- peney",
         "englishLiteral": "He_Who_Is (YHWH) ↳ them **from-there** over- faces-of",
-        "englishNatural": "And He-Who-Is (YHWH) them **from there** over the face of"
+        "englishNatural": "scattered them **from there** over the face of"
       }
     }
   ]

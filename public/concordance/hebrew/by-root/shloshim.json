@@ -9,6 +9,7 @@
         "verse": 3
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "שְׁלֹשִׁים",
         "transliteration": "shloshim",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "וַיְחִי אָדָם **שְׁלֹשִׁים** וּמְאַת שָׁנָה",
         "transliteration": "vaYechi Adam **shloshim** uMeat shanah",
-        "englishLiteral": "and-lived Earthling (Adam) **thirty** and-hundred year",
-        "englishNatural": "lived And Earthling (Adam) **thirty** and a hundred years"
+        "englishLiteral": "and-lived Earthling (Adam) **thirty** and-hundred year,",
+        "englishNatural": "And Earthling (Adam) lived **thirty** and a hundred years,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 5
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וּשְׁלֹשִׁים",
         "transliteration": "uShloshim",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "מֵאוֹת שָׁנָה **וּשְׁלֹשִׁים** שָׁנָה וַיָּמֹת",
         "transliteration": "meot shanah **uShloshim** shanah vaYamot",
-        "englishLiteral": "hundreds year **and-thirty** year and-he-died",
-        "englishNatural": "hundred years **and thirty** years and he died"
+        "englishLiteral": "hundreds year **and-thirty** year, and-he-died.",
+        "englishNatural": "hundred years **and thirty** years, and he died."
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 16
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "שְׁלֹשִׁים",
         "transliteration": "shloshim",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "אֶת־ יָרֶד **שְׁלֹשִׁים** שָׁנָה וּשְׁמֹנֶה",
         "transliteration": "et- Yared **shloshim** shanah uShmoneh",
-        "englishLiteral": "↳ Descending (Jared) **thirty** year and-eight",
-        "englishNatural": "↳ Descending (Jared) **thirty** years and eight"
+        "englishLiteral": "↳ Descending (Jared), **thirty** year and-eight",
+        "englishNatural": "↳ Descending (Jared), **thirty** years and eight"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 15
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "וּשְׁלֹשִׁים",
         "transliteration": "uShloshim",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "אַמָּה רָחְבָּהּ **וּשְׁלֹשִׁים** אַמָּה קוֹמָתָהּ",
         "transliteration": "ammah rochbah **uShloshim** ammah qomatah",
-        "englishLiteral": "cubit breadth-her **and-thirty** cubit height-her",
-        "englishNatural": "cubits its breadth **and thirty** cubits its height"
+        "englishLiteral": "cubit breadth-her, **and-thirty** cubit height-her.",
+        "englishNatural": "cubits its breadth, **and thirty** cubits its height."
       }
     }
   ]

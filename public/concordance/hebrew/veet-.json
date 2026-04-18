@@ -10,6 +10,7 @@
         "verse": 16
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -20,8 +21,8 @@
       "context": {
         "hebrew": "לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם **וְאֶת־** הַמָּא֤וֹר הַקָּטֹן֙",
         "transliteration": "leMemShelet haYom **veEt-** haMaor haQaton",
-        "englishLiteral": "for-the-ruling-of the-day **And-↳** the-light_source the-small",
-        "englishNatural": "for the ruling of the day **And** the light-source the small"
+        "englishLiteral": "for-the-ruling-of the-day, **And-↳** the-light_source the-small,",
+        "englishNatural": "for the ruling of the day, **And** the light-source the small,"
       }
     },
     {
@@ -31,6 +32,7 @@
         "verse": 25
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -41,8 +43,8 @@
       "context": {
         "hebrew": "הָאָ֔רֶץ לְמִינָ֖הּ **וְאֶת־** הַבְּהֵמָ֖ה לְמִינָ֑הּ",
         "transliteration": "haAretz leMinah **veEt-** haBehemah leMinah",
-        "englishLiteral": "the-land to-its-kind **And-↳** the-beast to-its-kind",
-        "englishNatural": "the land to its kind **And** the beast to its kind"
+        "englishLiteral": "the-land, to-its-kind, **And-↳** the-beast, to-its-kind,",
+        "englishNatural": "the land, to its kind, **And** the beast, to its kind,"
       }
     },
     {
@@ -52,6 +54,7 @@
         "verse": 29
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -62,8 +65,8 @@
       "context": {
         "hebrew": "כָל־ הָאָ֔רֶץ **וְאֶת־** כָּל־ הָעֵ֗ץ",
         "transliteration": "kol- haAretz **veEt-** kol- haEtz",
-        "englishLiteral": "all the-land **And-↳** all the-tree",
-        "englishNatural": "all the land **And** all the tree"
+        "englishLiteral": "all the-land, **And-↳** all the-tree",
+        "englishNatural": "all the land, **And** all the tree"
       }
     },
     {
@@ -73,6 +76,7 @@
         "verse": 24
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -83,8 +87,8 @@
       "context": {
         "hebrew": "אֶת־ אָבִיו **וְאֶת־** אִמּוֹ וְדָבַק",
         "transliteration": "et- aviv **veEt-** immo veDavaq",
-        "englishLiteral": "↳ his-father **and-↳** his-mother and-cling",
-        "englishNatural": "↳ his father **and** his mother and cling"
+        "englishLiteral": "↳ his-father, **and-↳** his-mother, and-cling",
+        "englishNatural": "↳ his father, **and** his mother, and cling"
       }
     },
     {
@@ -94,6 +98,7 @@
         "verse": 32
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -104,8 +109,8 @@
       "context": {
         "hebrew": "אֶת־ חָם **וְאֶת־** יָפֶת",
         "transliteration": "et- Cham **veEt-** Yafet",
-        "englishLiteral": "↳ Hot (Ham) **and-↳** Spacious (Japheth)",
-        "englishNatural": "↳ Hot (Ham) **and** Spacious (Japheth)"
+        "englishLiteral": "↳ Hot (Ham) **and-↳** Spacious (Japheth).",
+        "englishNatural": "↳ Hot (Ham), **and** Spacious (Japheth)."
       }
     },
     {
@@ -115,6 +120,7 @@
         "verse": 10
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -128,8 +134,8 @@
       "context": {
         "hebrew": "אֶת־ שֵׁם **וְאֶת־** חָם וְאֶת־",
         "transliteration": "et- shem **veEt-** cham veEt-",
-        "englishLiteral": "↳ Name (Shem) **and-↳** Hot (Ham) and-↳",
-        "englishNatural": "↳ Name (Shem) **and** Hot (Ham) and"
+        "englishLiteral": "↳ Name (Shem), **and-↳** Hot (Ham), and-↳",
+        "englishNatural": "↳ Name (Shem), **and** Hot (Ham), and"
       }
     },
     {
@@ -139,6 +145,7 @@
         "verse": 10
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -152,8 +159,8 @@
       "context": {
         "hebrew": "וְאֶת־ חָם **וְאֶת־** יָפֶת",
         "transliteration": "veEt- cham **veEt-** yafet",
-        "englishLiteral": "and-↳ Hot (Ham) **and-↳** Spacious (Japheth)",
-        "englishNatural": "and Hot (Ham) **and** Spacious (Japheth)"
+        "englishLiteral": "and-↳ Hot (Ham), **and-↳** Spacious (Japheth).",
+        "englishNatural": "and Hot (Ham), **and** Spacious (Japheth)."
       }
     },
     {
@@ -163,6 +170,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -176,8 +184,8 @@
       "context": {
         "hebrew": "אֶת־ נֹחַ **וְאֶת־** בָּנָיו וַיֹּאמֶר",
         "transliteration": "et- Noach **veEt-** banav vayYomer",
-        "englishLiteral": "↳ Rest (Noah) **and-↳** his-sons and-said",
-        "englishNatural": "↳ Rest (Noah) **and** his sons and said"
+        "englishLiteral": "↳ Rest (Noah) **and-↳** his-sons; and-said",
+        "englishNatural": "↳ Rest (Noah) **and** his sons; and said"
       }
     },
     {
@@ -187,6 +195,7 @@
         "verse": 9
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -200,8 +209,8 @@
       "context": {
         "hebrew": "בְּרִיתִי אִתְּכֶם **וְאֶת־** זַרְעֲכֶם אַחֲרֵיכֶם",
         "transliteration": "beriti itkhem **veEt-** zarkhem acharekhem",
-        "englishLiteral": "my-covenant with-you **and-↳** your-seed after-you",
-        "englishNatural": "my covenant with you **and** your seed after you"
+        "englishLiteral": "my-covenant with-you, **and-↳** your-seed after-you;",
+        "englishNatural": "my covenant with you, **and** your seed after you;"
       }
     },
     {
@@ -211,6 +220,7 @@
         "verse": 11
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -235,6 +245,7 @@
         "verse": 11
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -248,8 +259,8 @@
       "context": {
         "hebrew": "רְחֹבֹת עִיר **וְאֶת־** כָּלַח",
         "transliteration": "Rechoboth ir **veEt-** Kalach",
-        "englishLiteral": "Open_Places (Rehoboth) city **and-↳** Vigor (Calah)",
-        "englishNatural": "Open-Places (Rehoboth) City **and** Vigor (Calah)"
+        "englishLiteral": "Open_Places (Rehoboth) city **and-↳** Vigor (Calah),",
+        "englishNatural": "Open-Places (Rehoboth) City **and** Vigor (Calah),"
       }
     },
     {
@@ -259,6 +270,7 @@
         "verse": 12
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -272,8 +284,8 @@
       "context": {
         "hebrew": "**וְאֶת־** רֶסֶן בֵּין",
         "transliteration": "**veEt-** Resen beyn",
-        "englishLiteral": "**and-↳** Bridle (Resen) between",
-        "englishNatural": "**and** Bridle (Resen) between"
+        "englishLiteral": "**and-↳** Bridle (Resen), between",
+        "englishNatural": "**and** Bridle (Resen), between"
       }
     },
     {
@@ -283,6 +295,7 @@
         "verse": 5
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -307,6 +320,7 @@
         "verse": 17
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -331,6 +345,7 @@
         "verse": 10
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -344,8 +359,8 @@
       "context": {
         "hebrew": "לִקְרַאת רֵעֵהוּ **וְאֶת־** הַצִּפֹּר לֹא",
         "transliteration": "liqrat reehu **veEt-** haTzippor lo",
-        "englishLiteral": "to-meet friend-his **and-↳** the-bird not",
-        "englishNatural": "to meet his friend **and** the birds not"
+        "englishLiteral": "to-meet friend-his, **and-↳** the-bird not",
+        "englishNatural": "to meet his friend; **and** the birds he divided"
       }
     },
     {
@@ -355,6 +370,7 @@
         "verse": 7
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -368,8 +384,8 @@
       "context": {
         "hebrew": "אֲשֶׁר בְּמִצְרָיִם **וְאֶת־** צַעֲקָתָם שָׁמַעְתִּי",
         "transliteration": "asher beMitzrayim **veEt-** tzaaqatam shamati",
-        "englishLiteral": "which in-Double_Narrows (Egypt) **and-↳** outcry-their I-hear",
-        "englishNatural": "which in Double-Narrows (Egypt) **and** their outcry I have heard"
+        "englishLiteral": "which in-Double_Narrows (Egypt), **and-↳** outcry-their I-hear",
+        "englishNatural": "which, in Double-Narrows (Egypt), **and** their outcry I have heard"
       }
     },
     {
@@ -379,6 +395,7 @@
         "verse": 20
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -393,7 +410,7 @@
         "hebrew": "אֶת־ אִשְׁתּוֹ **וְאֶת־** בָּנָיו וַיַּרְכִּבֵם",
         "transliteration": "et- ishto **veEt-** banav vaYarkivem",
         "englishLiteral": "↳ woman-his **and-↳** sons-his and-caused-to-ride-them",
-        "englishNatural": "↳ his woman **and** his sons and caused them to ride"
+        "englishNatural": "↳ his woman **and** his sons, and caused them to ride"
       }
     },
     {
@@ -403,6 +420,7 @@
         "verse": 3
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -427,6 +445,7 @@
         "verse": 9
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -440,8 +459,8 @@
       "context": {
         "hebrew": "עִבְרִי אָנֹכִי **וְאֶת־** יְהוָה אֱלֹהֵי",
         "transliteration": "ivri anokhi **veEt-** YHWH Elohei",
-        "englishLiteral": "Passes_Through (Hebrew) I **and-↳** He_Who_Is (YHWH) Gods-of",
-        "englishNatural": "Passes-Through (Hebrew) am I **and** He-Who-Is (YHWH) God of"
+        "englishLiteral": "\"Passes_Through (Hebrew) I; **and-↳** He_Who_Is (YHWH) Gods-of",
+        "englishNatural": "\"Passes-Through (Hebrew) am I; **and** He-Who-Is (YHWH) God of"
       }
     },
     {
@@ -451,6 +470,7 @@
         "verse": 9
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "וְאֶת־",
         "transliteration": "veEt-",
@@ -464,8 +484,8 @@
       "context": {
         "hebrew": "אֶת־ הַיָּם **וְאֶת־** הַיַּבָּשָׁה",
         "transliteration": "et- haYam **veEt-** haYabashah",
-        "englishLiteral": "↳ the-sea **and-↳** the-dry_ground",
-        "englishNatural": "↳ the sea **and** the dry-ground"
+        "englishLiteral": "↳ the-sea **and-↳** the-dry_ground.\"",
+        "englishNatural": "↳ the sea **and** the dry-ground.\""
       }
     }
   ]

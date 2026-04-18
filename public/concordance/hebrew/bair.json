@@ -10,6 +10,7 @@
         "verse": 4
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "בָעִיר",
         "transliteration": "baIr",
@@ -24,7 +25,7 @@
         "hebrew": "יוֹנָה לָבוֹא **בָעִיר** מַהֲלַךְ יוֹם",
         "transliteration": "Yonah lavo **baIr** mahalakh yom",
         "englishLiteral": "Dove (Jonah) to-enter **in-city** journey-of day",
-        "englishNatural": "And Dove (Jonah) to enter **in the city** a journey of day"
+        "englishNatural": "began to enter **in the city** a journey of one"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 5
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "בָּעִיר",
         "transliteration": "baIr",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "מַה־ יִּהְיֶה **בָּעִיר**",
         "transliteration": "mah- yihyeh **baIr**",
-        "englishLiteral": "what- will-be **in-city**",
-        "englishNatural": "what will be **in the city**"
+        "englishLiteral": "what- will-be **in-city.**",
+        "englishNatural": "what will be **in the city.**"
       }
     }
   ]

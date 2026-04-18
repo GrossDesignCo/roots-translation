@@ -10,6 +10,7 @@
         "verse": 21
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּבְרָ֣א",
         "transliteration": "vaYiVra",
@@ -26,7 +27,7 @@
         "hebrew": "**וַיִּבְרָ֣א** אֱלֹהִ֔ים אֶת־",
         "transliteration": "**vaYiVra** Elohim et-",
         "englishLiteral": "**And-created** Gods ↳",
-        "englishNatural": "**created** And God ↳"
+        "englishNatural": "And God **created** ↳ the monsters,"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 27
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּבְרָ֨א",
         "transliteration": "vaYiVra",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "**וַיִּבְרָ֨א** אֱלֹהִ֤ים אֶת־",
         "transliteration": "**vaYiVra** Elohim et-",
-        "englishLiteral": "**And-created** Gods ↳",
-        "englishNatural": "**created** And God ↳"
+        "englishLiteral": "**And-created** Gods, ↳",
+        "englishNatural": "And God **created** ↳ the Earthling (Adam),"
       }
     }
   ]

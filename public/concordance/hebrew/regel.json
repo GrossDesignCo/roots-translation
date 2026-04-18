@@ -10,6 +10,7 @@
         "verse": 7
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "רֶגֶל",
         "transliteration": "regel",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וְרַגְלֵיהֶם **רֶגֶל** יְשָׁרָה וְכַף",
         "transliteration": "veRagleihem **regel** yesharah veKhaf",
-        "englishLiteral": "And-legs-their **leg** straight and-palm-of",
-        "englishNatural": "And their legs **were a leg** straight and the palm of"
+        "englishLiteral": "And-legs-their **leg** straight, and-palm-of",
+        "englishNatural": "And their legs **were a leg** straight, and the palm of"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 7
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "רֶגֶל",
         "transliteration": "regel",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "רַגְלֵיהֶם כְּכַף **רֶגֶל** עֵגֶל וְנֹצְצִים",
         "transliteration": "ragleihem keKhaf **regel** egel veNotzetzim",
-        "englishLiteral": "legs-their like-palm-of **leg-of** calf and-sparkling",
-        "englishNatural": "their legs like the palm of **the leg of** a calf and sparkling"
+        "englishLiteral": "legs-their like-palm-of **leg-of** calf, and-sparkling",
+        "englishNatural": "their legs like the palm of **the leg of** a calf, and sparkling"
       }
     }
   ]

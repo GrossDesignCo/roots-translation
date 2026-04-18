@@ -9,6 +9,7 @@
         "verse": 5
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הַבֶּט־",
         "transliteration": "habet-",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "הַחוּצָה וַיֹּאמֶר **הַבֶּט־** נָא הַשָּׁמַיְמָה",
         "transliteration": "haChutza vaYomer **habet-** na haShamayma",
-        "englishLiteral": "the-outside and-he-said **Look-** please the-heavens-toward",
-        "englishNatural": "outside said **Look** now toward the heavens"
+        "englishLiteral": "the-outside and-he-said, **\"Look-** please the-heavens-toward,",
+        "englishNatural": "outside, said, **\"Look** now toward the heavens,"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 6
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "מֵהַבִּיט",
         "transliteration": "meHabit",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "כִּי יָרֵא **מֵהַבִּיט** אֶל־ הָאֱלֹהִים",
         "transliteration": "ki yare **meHabit** el- haElohim",
-        "englishLiteral": "that feared **from-to-look** to- the-Gods",
-        "englishNatural": "that he feared **to look** to the God"
+        "englishLiteral": "that feared **from-to-look** to- the-Gods.",
+        "englishNatural": "that he feared **to look** to the God."
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 9
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "וְהִבִּיט",
         "transliteration": "veHibit",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "אֶת אִישׁ **וְהִבִּיט** אֶל נְחַשׁ",
         "transliteration": "et ish **veHibit** el nechash",
-        "englishLiteral": "↳ man **and-he-looked** to snake",
-        "englishNatural": "↳ a man **and he looked** to snake"
+        "englishLiteral": "↳ man, **and-he-looked** to snake,",
+        "englishNatural": "struck a man, **and he looked** to the bronze"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 4
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "לְהַבִּיט",
         "transliteration": "lehabit",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "אַךְ אוֹסִיף **לְהַבִּיט** אֶל־ הֵיכַל",
         "transliteration": "akh osif **lehabit** el- hekhal",
-        "englishLiteral": "Only I-will-add **to-look** to- temple-of",
-        "englishNatural": "Only I will add **to look** to the temple of"
+        "englishLiteral": "Only I-will-add, **to-look** to- temple-of",
+        "englishNatural": "Only I will add, **to look** to the temple of"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 2
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אַרְבַּע֙",
         "transliteration": "arba",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "לֵֽילְיָ֑א וַאֲר֗וּ **אַרְבַּע֙** רוּחֵ֣י שְׁמַיָּ֔א",
         "transliteration": "leila vaAru **arba** ruchei shemaya",
-        "englishLiteral": "night and-behold **four** winds-of the-skies",
-        "englishNatural": "night and behold **the four** winds of the skies"
+        "englishLiteral": "night; and-behold, **four** winds-of the-skies",
+        "englishNatural": "night, and behold, **the four** winds of the skies"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 3
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְאַרְבַּ֤ע",
         "transliteration": "veArba",
@@ -47,7 +49,7 @@
         "hebrew": "**וְאַרְבַּ֤ע** חֵיוָן֙ רַבְרְבָ֔ן",
         "transliteration": "**veArba** kheyvan ravravan",
         "englishLiteral": "**And-four** beasts great",
-        "englishNatural": "**And four** beasts great"
+        "englishNatural": "**And four** great beasts,"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 6
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אַרְבַּ֖ע",
         "transliteration": "arba",
@@ -81,6 +84,7 @@
         "verse": 6
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "וְאַרְבְּעָה֙",
         "transliteration": "veArbea",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "עַל־ גַּבַּ֔הּ **וְאַרְבְּעָה֙** רֵאשִׁ֣ין לְחֵֽיוְתָ֔א",
         "transliteration": "al- gabbah **veArbea** reshin lekheyveta",
-        "englishLiteral": "on- back-its **and-four** heads to-the-beast",
-        "englishNatural": "on its back **and four** heads to the beast"
+        "englishLiteral": "on- back-its, **and-four** heads to-the-beast;",
+        "englishNatural": "on its back, **and four** heads to the beast;"
       }
     }
   ]

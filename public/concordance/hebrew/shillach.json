@@ -10,6 +10,7 @@
         "verse": 20
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "שִׁלַּח",
         "transliteration": "shillach",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "פַּרְעֹה וְלֹא **שִׁלַּח** אֶת־ בְּנֵי",
         "transliteration": "Paroh veLo **shillach** et- benei",
-        "englishLiteral": "Pharaoh and-not **sent_out** ↳ sons-of",
-        "englishNatural": "Pharaoh not **and he sent-out** ↳ the sons of"
+        "englishLiteral": "Pharaoh; and-not **sent_out** ↳ sons-of",
+        "englishNatural": "the heart of Pharaoh, **and he sent-out** not ↳"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 10
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "שִׁלַּ֥ח",
         "transliteration": "shillach",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "פַּרְעֹ֔ה וְלֹֽא־ **שִׁלַּ֥ח** אֶת־ בְּנֵי־",
         "transliteration": "Paroh veLo- **shillach** et- beney-",
-        "englishLiteral": "Pharaoh and-not- **he-sent_out** ↳- sons-of-",
-        "englishNatural": "Pharaoh not **and he sent-out** ↳- the sons of"
+        "englishLiteral": "Pharaoh; and-not- **he-sent_out** ↳- sons-of-",
+        "englishNatural": "the heart of Pharaoh, **and he sent-out** not ↳-"
       }
     }
   ]

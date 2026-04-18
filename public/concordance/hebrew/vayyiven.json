@@ -10,6 +10,7 @@
         "verse": 20
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּבֶן",
         "transliteration": "vayYiven",
@@ -26,7 +27,7 @@
         "hebrew": "**וַיִּבֶן** נֹחַ מִזְבֵּחַ",
         "transliteration": "**vayYiven** Noach mizbeach",
         "englishLiteral": "**And-built** Rest (Noah) altar",
-        "englishNatural": "**built** And Rest (Noah) an altar"
+        "englishNatural": "And Rest (Noah) **built** an altar to He-Who-Is (YHWH);"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 11
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וַיִּבֶן",
         "transliteration": "vayYiven",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "יָצָא אַשּׁוּר **וַיִּבֶן** אֶת־ נִינְוֵה",
         "transliteration": "yatsa Ashur **vayYiven** et- Nineveh",
-        "englishLiteral": "brought_out Steppe (Assyria) **and-he-built** ↳ Dwelling_of_Fish (Nineveh)",
-        "englishNatural": "brought-out Steppe (Assyria) **and he built** ↳ Dwelling-of-Fish (Nineveh)"
+        "englishLiteral": "brought_out Steppe (Assyria), **and-he-built** ↳ Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "brought-out Steppe (Assyria), **and he built** ↳ Dwelling-of-Fish (Nineveh)"
       }
     }
   ]

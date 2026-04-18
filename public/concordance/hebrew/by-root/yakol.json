@@ -9,6 +9,7 @@
         "verse": 5
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "תּוּכַל",
         "transliteration": "tukhal",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "הַכּוֹכָבִים אִם־ **תּוּכַל** לִסְפֹּר אֹתָם",
         "transliteration": "haKokhavim im- **tukhal** lisfor otam",
-        "englishLiteral": "the-stars if- **you-are-able** to-count ↳ them",
-        "englishNatural": "the stars if **you are able** to count them"
+        "englishLiteral": "the-stars, if- **you-are-able** to-count ↳ them,\"",
+        "englishNatural": "the stars if **you are able** to count them.\""
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 13
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "יָכֹלוּ",
         "transliteration": "yakholu",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "הַיַּבָּשָׁה וְלֹא **יָכֹלוּ** כִּי הַיָּם",
         "transliteration": "haYabashah veLo **yakholu** ki haYam",
-        "englishLiteral": "the-dry_ground and-not **they-were-able** that the-sea",
-        "englishNatural": "the dry-ground not **and they were-able** that the sea"
+        "englishLiteral": "the-dry_ground; and-not **they-were-able;** that the-sea",
+        "englishNatural": "to the dry-ground; **and they were-able** not; that"
       }
     }
   ]

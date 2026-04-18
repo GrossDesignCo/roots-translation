@@ -10,6 +10,7 @@
         "verse": 2
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "וּבִשְׁתַּיִם",
         "transliteration": "uViShtayim",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "יְכַסֶּה פָּנָיו **וּבִשְׁתַּיִם** יְכַסֶּה רַגְלָיו",
         "transliteration": "yeKhasseh panav **uViShtayim** yeKhasseh raglav",
-        "englishLiteral": "he-covers his-faces **and-in-two** he-covers his-feet",
-        "englishNatural": "he covers his faces **and in two** he covers his feet"
+        "englishLiteral": "he-covers his-faces, **and-in-two** he-covers his-feet,",
+        "englishNatural": "he covers his faces, **and in two** he covers his feet,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 2
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "וּבִשְׁתַּיִם",
         "transliteration": "uViShtayim",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "יְכַסֶּה רַגְלָיו **וּבִשְׁתַּיִם** יְעוֹפֵף",
         "transliteration": "yeKhasseh raglav **uViShtayim** yeOfef",
-        "englishLiteral": "he-covers his-feet **and-in-two** he-flies",
-        "englishNatural": "he covers his feet **and in two** he flies"
+        "englishLiteral": "he-covers his-feet, **and-in-two** he-flies.",
+        "englishNatural": "he covers his feet, **and in two** he flies."
       }
     }
   ]

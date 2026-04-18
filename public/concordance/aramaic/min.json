@@ -10,6 +10,7 @@
         "verse": 30
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "מִן",
         "transliteration": "min",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "דִּי אִיתַי **מִן** כָּל חַיַּיָּא",
         "transliteration": "di itay **min** kol chayyayya",
-        "englishLiteral": "which there-is-in-me **from** all living-the",
-        "englishNatural": "which is in me **from** all the living"
+        "englishLiteral": "which there-is-in-me **from** all living-the,",
+        "englishNatural": "which is in me **from** all the living,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 35
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "מִן",
         "transliteration": "min",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "וַהֲווֹ כְּעוּר **מִן** אִדְּרֵי קַיִט",
         "transliteration": "vaHavo keUr **min** idrei qayit",
-        "englishLiteral": "and-they-became like-chaff **from** threshing_floors-of summer",
-        "englishNatural": "and became like chaff **from** the threshing-floors of summer"
+        "englishLiteral": "and-they-became like-chaff **from** threshing_floors-of summer,",
+        "englishNatural": "and became like chaff **from** the threshing-floors of summer,"
       }
     }
   ]

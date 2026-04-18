@@ -9,6 +9,7 @@
         "verse": 11
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "הַזָּהָב׃",
         "transliteration": "haZahav",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "אֲשֶׁר שָׁם **הַזָּהָב׃**",
         "transliteration": "asher sham **haZahav**",
-        "englishLiteral": "which there **the-gold**",
-        "englishNatural": "which there is **the gold**"
+        "englishLiteral": "which there **the-gold.**",
+        "englishNatural": "which there is **the gold.**"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 12
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וּזְהַב",
         "transliteration": "uZehav",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "**וּזְהַב** הָאָרֶץ הַהִוא",
         "transliteration": "**uZehav** haAretz haHi",
-        "englishLiteral": "**and-gold** the-land the-that",
-        "englishNatural": "**And the gold** land of that"
+        "englishLiteral": "**and-gold** the-land the-that,",
+        "englishNatural": "**And the gold** of that land,"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 2
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "זָהָֽב׃",
         "transliteration": "zahav",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "כֶ֖סֶף וּכְלֵ֥י **זָהָֽב׃**",
         "transliteration": "kesef uKhley **zahav**",
-        "englishLiteral": "silver and-vessels-of **gold**",
-        "englishNatural": "silver and vessels of **gold**"
+        "englishLiteral": "silver, and-vessels-of **gold.\"**",
+        "englishNatural": "silver and vessels of **gold.\"**"
       }
     }
   ]

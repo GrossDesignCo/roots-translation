@@ -9,6 +9,7 @@
         "verse": 10
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וַיְבַתֵּר",
         "transliteration": "vayevater",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "כָּל־ אֵלֶּה **וַיְבַתֵּר** אֹתָם בַּתָּוֶךְ",
         "transliteration": "kol- eleh **vayevater** otam batavekh",
-        "englishLiteral": "all-of- these **and-he-divided** ↳ them in-midst",
-        "englishNatural": "all these **and divided** them in the midst"
+        "englishLiteral": "all-of- these, **and-he-divided** ↳ them in-midst,",
+        "englishNatural": "all these, **and divided** them in the midst,"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 10
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "בָתָר",
         "transliteration": "batar",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "הַצִּפֹּר לֹא **בָתָר**",
         "transliteration": "haTzippor lo **batar**",
-        "englishLiteral": "the-bird not **he-divided**",
-        "englishNatural": "the birds not **he divided**"
+        "englishLiteral": "the-bird not **he-divided.**",
+        "englishNatural": "and the birds **he divided** not."
       }
     }
   ]

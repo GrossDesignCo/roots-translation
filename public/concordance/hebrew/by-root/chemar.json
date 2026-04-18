@@ -9,6 +9,7 @@
         "verse": 3
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "וְהַחֵמָר",
         "transliteration": "veHacheymar",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "הַלְּבֵנָה לְאָבֶן **וְהַחֵמָר** הָיָה לָהֶם",
         "transliteration": "haLevenah leEven **veHacheymar** hayah lahem",
-        "englishLiteral": "the-brick for-stone **and-the-bitumen** was to-them",
-        "englishNatural": "And the brick for stone **and the bitumen** was to them"
+        "englishLiteral": "the-brick for-stone, **and-the-bitumen** was to-them",
+        "englishNatural": "to them for stone, **and the bitumen** was to them"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 3
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "בַחֵמָר",
         "transliteration": "vaChemar",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "גֹּמֶא וַתַּחְמְרָה **בַחֵמָר** וּבַזָּפֶת וַתָּשֶׂם",
         "transliteration": "gome vaTachmerah **vaChemar** uVaZafet vaTasem",
-        "englishLiteral": "papyrus and-coated-it **in-bitumen** and-in-pitch and-placed",
-        "englishNatural": "papyrus and coated it **in bitumen** and in pitch and placed"
+        "englishLiteral": "papyrus, and-coated-it **in-bitumen** and-in-pitch, and-placed",
+        "englishNatural": "papyrus, and coated it **in bitumen** and in pitch, and placed"
       }
     }
   ]

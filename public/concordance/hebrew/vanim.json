@@ -10,6 +10,7 @@
         "verse": 10
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "בָנִים",
         "transliteration": "vanim",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "נֹחַ שְׁלֹשָׁה **בָנִים** אֶת־ שֵׁם",
         "transliteration": "noach shloshah **vanim** et- shem",
-        "englishLiteral": "Rest (Noah) three **sons** ↳ Name (Shem)",
-        "englishNatural": "And Rest (Noah) three **sons** ↳ Name (Shem)"
+        "englishLiteral": "Rest (Noah) three **sons:** ↳ Name (Shem),",
+        "englishNatural": "birthed three **sons:** ↳ Name (Shem),"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 7
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "בָנִים",
         "transliteration": "vanim",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "וְעַל־ בְּנֵי **בָנִים** עַל־ שִׁלֵּשִׁים",
         "transliteration": "veAl- beney **vanim** al- shilleshim",
-        "englishLiteral": "and-over- sons-of **sons** over- third_ones",
-        "englishNatural": "and on sons of **sons** on third-ones"
+        "englishLiteral": "and-over- sons-of **sons,** over- third_ones",
+        "englishNatural": "and on sons of **sons,** on third-ones"
       }
     }
   ]

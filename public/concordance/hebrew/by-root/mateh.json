@@ -9,6 +9,7 @@
         "verse": 2
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "מַטֶּה",
         "transliteration": "mateh",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "בְיָדֶךָ וַיֹּאמֶר **מַטֶּה**",
         "transliteration": "veYadekha vaYomer **mateh**",
-        "englishLiteral": "in-hand-your And-said **branch**",
-        "englishNatural": "in your hand And he said **A branch**"
+        "englishLiteral": "in-hand-your.\" And-said **\"branch.\"**",
+        "englishNatural": "in your hand?\" And he said, **\"A branch.\"**"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 4
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "לְמַטֶּה",
         "transliteration": "leMateh",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "בּוֹ וַיְהִי **לְמַטֶּה** בְּכַפּוֹ",
         "transliteration": "bo vaYehi **leMateh** beKhapo",
-        "englishLiteral": "in-it and-was **to-branch** in-palm-his",
-        "englishNatural": "it and it was **a branch** in his palm"
+        "englishLiteral": "in-it, and-was **to-branch** in-palm-his.",
+        "englishNatural": "it, and it was **a branch** in his palm."
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 20
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "מַטֵּה",
         "transliteration": "mateh",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "מֹשֶׁה אֶת־ **מַטֵּה** הָאֱלֹהִים בְּיָדוֹ",
         "transliteration": "Moshe et- **mateh** haElohim beYado",
-        "englishLiteral": "Drawn_Out (Moses) ↳ **branch-of** the-Gods in-hand-his",
-        "englishNatural": "and Drawn-Out (Moses) ↳ **the branch of** the God in his hand"
+        "englishLiteral": "Drawn_Out (Moses) ↳ **branch-of** the-Gods in-hand-his.",
+        "englishNatural": "took ↳ **the branch of** the God in his hand."
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 9
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "מַטְּךָ",
         "transliteration": "matekha",
@@ -95,7 +99,7 @@
         "hebrew": "קַח אֶת־ **מַטְּךָ** וְהַשְׁלֵךְ לִפְנֵי־",
         "transliteration": "qach et- **matekha** veHashlekh lifnei-",
         "englishLiteral": "take ↳ **branch-your** and-throw-him to-faces-of-",
-        "englishNatural": "Take ↳ **your branch** and throw it to the face of"
+        "englishNatural": "'Take ↳ **your branch** and throw it to the face of"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 10
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "מַטֵּהוּ",
         "transliteration": "mattehu",
@@ -119,7 +124,7 @@
         "hebrew": "אַהֲרֹן אֶת־ **מַטֵּהוּ** לִפְנֵי פַרְעֹה",
         "transliteration": "Aharon et- **mattehu** lifnei Paroh",
         "englishLiteral": "Light_Bringer (Aaron) ↳ **branch-his** to-faces-of Pharaoh",
-        "englishNatural": "and Light-Bringer (Aaron) ↳ **his branch** to the face of Pharaoh"
+        "englishNatural": "threw ↳ **his branch** to the face of Pharaoh"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 12
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "מַטֵּהוּ",
         "transliteration": "mattehu",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "וַיַּשְׁלִיכוּ אִישׁ **מַטֵּהוּ** וַיִּהְיוּ לְתַנִּינִם",
         "transliteration": "vaYashlikhu ish **mattehu** vaYihyu leTanninim",
-        "englishLiteral": "And-threw man **branch-his** and-they-were to-monsters",
-        "englishNatural": "threw And man **his branch** and they were to monsters"
+        "englishLiteral": "And-threw man **branch-his** and-they-were to-monsters;",
+        "englishNatural": "And man threw **his branch,** and they were to monsters;"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 12
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "מַטֵּה־",
         "transliteration": "mateh-",
@@ -166,8 +173,8 @@
       "context": {
         "hebrew": "לְתַנִּינִם וַיִּבְלַע **מַטֵּה־** אַהֲרֹן אֶת־",
         "transliteration": "leTanninim vaYivla **mateh-** Aharon et-",
-        "englishLiteral": "to-monsters and-swallowed **branch-of-** Light_Bringer (Aaron) ↳",
-        "englishNatural": "to monsters swallowed **and the branch of** Light-Bringer (Aaron) ↳"
+        "englishLiteral": "to-monsters; and-swallowed **branch-of-** Light_Bringer (Aaron) ↳",
+        "englishNatural": "and they were to monsters; **and the branch of** Light-Bringer (Aaron) swallowed"
       }
     },
     {
@@ -177,6 +184,7 @@
         "verse": 12
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "מַטֹּתָם",
         "transliteration": "mattotam",
@@ -190,8 +198,8 @@
       "context": {
         "hebrew": "אַהֲרֹן אֶת־ **מַטֹּתָם**",
         "transliteration": "Aharon et- **mattotam**",
-        "englishLiteral": "Light_Bringer (Aaron) ↳ **branches-their**",
-        "englishNatural": "Light-Bringer (Aaron) ↳ **their branches**"
+        "englishLiteral": "Light_Bringer (Aaron) ↳ **branches-their.**",
+        "englishNatural": "swallowed ↳ **their branches.**"
       }
     }
   ]

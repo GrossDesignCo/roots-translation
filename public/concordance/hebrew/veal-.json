@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "וְעַל־",
         "transliteration": "veAl-",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "עַל־ פַּרְעֹה֙ **וְעַל־** מִצְרַ֔יִם אַחֲרֵי־",
         "transliteration": "al- Paroh **veAl-** Mitzrayim acharei-",
-        "englishLiteral": "over- Pharaoh **and-over-** Double_Narrows (Egypt) after-",
-        "englishNatural": "over Pharaoh **and over** Double-Narrows (Egypt) after"
+        "englishLiteral": "over- Pharaoh, **and-over-** Double_Narrows (Egypt); after-",
+        "englishNatural": "over Pharaoh **and over** Double-Narrows (Egypt), after"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 7
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "וְעַל־",
         "transliteration": "veAl-",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "עַל־ בָּנִים **וְעַל־** בְּנֵי בָנִים",
         "transliteration": "al- banim **veAl-** beney vanim",
-        "englishLiteral": "over- sons **and-over-** sons-of sons",
-        "englishNatural": "on sons **and on** sons of sons"
+        "englishLiteral": "over- sons **and-over-** sons-of sons,",
+        "englishNatural": "on sons **and on** sons of sons,"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 7
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "וְעַל־",
         "transliteration": "veAl-",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "עַל־ שִׁלֵּשִׁים **וְעַל־** רִבֵּעִים",
         "transliteration": "al- shilleshim **veAl-** ribeim",
-        "englishLiteral": "over- third_ones **and-over-** fourth_ones",
-        "englishNatural": "on third-ones **and on** fourth-ones"
+        "englishLiteral": "over- third_ones **and-over-** fourth_ones.\"",
+        "englishNatural": "on third-ones **and on** fourth-ones.\""
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 14
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "וְאַל־",
         "transliteration": "veAl-",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "הָאִישׁ הַזֶּה **וְאַל־** תִּתֵּן עָלֵינוּ",
         "transliteration": "haIsh haZeh **veAl-** titten alenu",
-        "englishLiteral": "the-man the-this **and-not-** give over-us",
-        "englishNatural": "the man the this **not** and give over us"
+        "englishLiteral": "the-man the-this; **and-not-** give over-us",
+        "englishNatural": "and give over us **not** innocent blood;"
       }
     }
   ]

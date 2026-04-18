@@ -9,6 +9,7 @@
         "verse": 24
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְגָרֶשׁ",
         "transliteration": "vayGaresh",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "**וַיְגָרֶשׁ** אֶת־ הָאָדָם",
         "transliteration": "**vayGaresh** et- haAdam",
-        "englishLiteral": "**And-he-banished** ↳ the-Earthling (Adam)",
-        "englishNatural": "**And he banished** ↳ the Earthling (Adam)"
+        "englishLiteral": "**And-he-banished** ↳ the-Earthling (Adam);",
+        "englishNatural": "**And he banished** ↳ the Earthling (Adam);"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 14
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "גֵּרַשְׁתָּ",
         "transliteration": "gerashta",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "הֵן **גֵּרַשְׁתָּ** אֹתִי הַיּוֹם",
         "transliteration": "hen **gerashta** oti haYom",
-        "englishLiteral": "Behold **you-banished** ↳-me the-day",
-        "englishNatural": "Behold **you have banished** me this day"
+        "englishLiteral": "Behold, **you-banished** ↳-me the-day,",
+        "englishNatural": "Behold, **you have banished** me this day,"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 1
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "יְגָרְשֵׁם",
         "transliteration": "yeGarshem",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "וּבְיָד חֲזָקָה **יְגָרְשֵׁם** מֵאַרְצוֹ",
         "transliteration": "uVeYad chazaqah **yeGarshem** meArtzo",
-        "englishLiteral": "and-in-hand intense **he-will-drive_out-them** from-land-his",
-        "englishNatural": "hand and in an intense **he will drive-out them** from his land"
+        "englishLiteral": "and-in-hand intense **he-will-drive_out-them** from-land-his.\"",
+        "englishNatural": "and in an intense hand **he will drive-out them** from his land.\""
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 1
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "גָּרֵ֛שׁ",
         "transliteration": "garesh",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "כְּשַׁלְּח֣וֹ כָּלָ֔ה **גָּרֵ֛שׁ** יְגָרֵ֥שׁ אֶתְכֶ֖ם",
         "transliteration": "keShalcho kalah **garesh** yegaresh etkhem",
-        "englishLiteral": "as-sending_out-him finishing **banishing** he-will-banish ↳-you",
-        "englishNatural": "as his sending-out finishing **banishing** he will banish you"
+        "englishLiteral": "as-sending_out-him finishing, **banishing** he-will-banish ↳-you",
+        "englishNatural": "as his sending-out, finishing, **banishing** he will banish you"
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 1
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "יְגָרֵ֥שׁ",
         "transliteration": "yegaresh",
@@ -128,8 +133,8 @@
       "context": {
         "hebrew": "כָּלָ֔ה גָּרֵ֛שׁ **יְגָרֵ֥שׁ** אֶתְכֶ֖ם מִזֶּֽה׃",
         "transliteration": "kalah garesh **yegaresh** etkhem mizeh",
-        "englishLiteral": "finishing banishing **he-will-banish** ↳-you from-this",
-        "englishNatural": "finishing banishing **he will banish** you from this"
+        "englishLiteral": "finishing, banishing **he-will-banish** ↳-you from-this.",
+        "englishNatural": "finishing, banishing **he will banish** you from this."
       }
     },
     {
@@ -139,6 +144,7 @@
         "verse": 4
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "נִגְרַשְׁתִּי",
         "transliteration": "nigrashti",
@@ -154,8 +160,8 @@
       "context": {
         "hebrew": "וַאֲנִי אָמַרְתִּי **נִגְרַשְׁתִּי** מִנֶּגֶד עֵינֶיךָ",
         "transliteration": "vaAni amarti **nigrashti** mineged einekha",
-        "englishLiteral": "And-I said **I-am-driven_out** from-before eyes-your",
-        "englishNatural": "And I said **I am driven-out** from before your eyes"
+        "englishLiteral": "And-I said, **'I-am-driven_out** from-before eyes-your;",
+        "englishNatural": "And I said, **'I am driven-out** from before your eyes;"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 14
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הַהֹלֵךְ",
         "transliteration": "haHolekh",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "חִדֶּקֶל הוּא **הַהֹלֵךְ** קִדְמַת אַשּׁוּר",
         "transliteration": "Chidekel hu **haHolekh** qidmat Ashur",
-        "englishLiteral": "Rapid (Chidekel) he **the-walking** east-of Steppe (Assyria)",
-        "englishNatural": "Rapid (Chidekel) it **walks** east of Steppe (Assyria)"
+        "englishLiteral": "Rapid (Chidekel); he **the-walking** east-of Steppe (Assyria).",
+        "englishNatural": "Rapid (Chidekel); it **walks** east of Steppe (Assyria)."
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 8
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "מִתְהַלֵּךְ",
         "transliteration": "mithallekh",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "יְהוָה אֱלֹהִים **מִתְהַלֵּךְ** בַּגָּן לְרוּחַ",
         "transliteration": "YHWH Elohim **mithallekh** baGan leRuach",
-        "englishLiteral": "He_Who_Is (YHWH) Gods **walking** in-Garden to-wind",
-        "englishNatural": "of He-Who-Is (YHWH) God **walking** in Garden to the wind"
+        "englishLiteral": "He_Who_Is (YHWH) Gods, **walking** in-Garden to-wind",
+        "englishNatural": "of He-Who-Is (YHWH) God, **walking** in Garden to the wind"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 14
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "תֵלֵךְ",
         "transliteration": "telekh",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "עַל־ גְּחֹנְךָ **תֵלֵךְ** וְעָפָר תֹּאכַל",
         "transliteration": "al- gechonkha **telekh** veAfar tokhal",
-        "englishLiteral": "on- belly-your **you-will_walk** and-dust you-will_eat",
-        "englishNatural": "on your belly **you will walk** and dust you will eat"
+        "englishLiteral": "on- belly-your **you-will_walk,** and-dust you-will_eat,",
+        "englishNatural": "on your belly **you will walk,** and dust you will eat,"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 22
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּתְהַלֵּךְ",
         "transliteration": "vaYithalekh",
@@ -103,7 +107,7 @@
         "hebrew": "**וַיִּתְהַלֵּךְ** חֲנוֹךְ אֶת־",
         "transliteration": "**vaYithalekh** Chanokh et-",
         "englishLiteral": "**and-walked** Dedicated (Enoch) ↳",
-        "englishNatural": "**walked** And Dedicated (Enoch) with"
+        "englishNatural": "And Dedicated (Enoch) **walked** with the God,"
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 24
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּתְהַלֵּךְ",
         "transliteration": "vaYithalekh",
@@ -129,7 +134,7 @@
         "hebrew": "**וַיִּתְהַלֵּךְ** חֲנוֹךְ אֶת־",
         "transliteration": "**vaYithalekh** Chanokh et-",
         "englishLiteral": "**and-walked** Dedicated (Enoch) ↳",
-        "englishNatural": "**walked** And Dedicated (Enoch) with"
+        "englishNatural": "And Dedicated (Enoch) **walked** with the God,"
       }
     },
     {
@@ -139,6 +144,7 @@
         "verse": 9
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "הִתְהַלֶּךְ־",
         "transliteration": "hithalekh-",
@@ -154,8 +160,8 @@
       "context": {
         "hebrew": "אֶת־ הָאֱלֹהִים **הִתְהַלֶּךְ־** נֹחַ",
         "transliteration": "et- haElohim **hithalekh-** noach",
-        "englishLiteral": "↳ the-Gods **walked-with-** Rest (Noah)",
-        "englishNatural": "↳ the God **walked-with** Rest (Noah)"
+        "englishLiteral": "↳ the-Gods **walked-with-** Rest (Noah).",
+        "englishNatural": "in his generation; Rest (Noah) **walked-with** ↳ the God."
       }
     },
     {
@@ -165,6 +171,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "לֶךְ־",
         "transliteration": "lekh-",
@@ -180,8 +187,8 @@
       "context": {
         "hebrew": "אֶל־ אַבְרָם **לֶךְ־** לְךָ מֵאַרְצְךָ",
         "transliteration": "el- Abram **lekh-** lekha meArtsekha",
-        "englishLiteral": "to- Exalted-Father (Abram) **walk-** to-you from-land-your",
-        "englishNatural": "to Exalted-Father (Abram) **Walk** to yourself from your land"
+        "englishLiteral": "to- Exalted-Father (Abram), **\"walk-** to-you from-land-your",
+        "englishNatural": "to Exalted-Father (Abram), **\"Walk** to yourself from your land"
       }
     },
     {
@@ -191,6 +198,7 @@
         "verse": 2
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "הוֹלֵךְ",
         "transliteration": "holekh",
@@ -206,8 +214,8 @@
       "context": {
         "hebrew": "לִי וְאָנֹכִי **הוֹלֵךְ** עֲרִירִי וּבֶן־",
         "transliteration": "li veAnoki **holekh** ariri uVen-",
-        "englishLiteral": "to-me And-I **walking** childless and-son-of-",
-        "englishNatural": "to me And I **walk** childless and the son of"
+        "englishLiteral": "to-me? And-I **walking** childless, and-son-of-",
+        "englishNatural": "to me? And I **walk** childless, and the son of"
       }
     },
     {
@@ -217,6 +225,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיֵּלֶךְ",
         "transliteration": "vaYelekh",
@@ -233,7 +242,7 @@
         "hebrew": "**וַיֵּלֶךְ** אִישׁ מִבֵּית",
         "transliteration": "**vaYelekh** ish miBeyt",
         "englishLiteral": "**And-went** man from-house-of",
-        "englishNatural": "**went** And a man from the house of"
+        "englishNatural": "And a man **went** from the house of Joined (Levi),"
       }
     },
     {
@@ -243,6 +252,7 @@
         "verse": 21
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "בְּלֶכְתְּךָ",
         "transliteration": "beLekhtkha",
@@ -258,8 +268,8 @@
       "context": {
         "hebrew": "אֶל־ מֹשֶׁה **בְּלֶכְתְּךָ** לָשׁוּב מִצְרַיְמָה",
         "transliteration": "el- Moshe **beLekhtkha** lashuv mitzraymah",
-        "englishLiteral": "to- Drawn_Out (Moses) **in-going-your** to-return Double_Narrows (Egypt)-ward",
-        "englishNatural": "to Drawn-Out (Moses) **In your going** to return to Double-Narrows (Egypt)"
+        "englishLiteral": "to- Drawn_Out (Moses) **\"in-going-your** to-return Double_Narrows (Egypt)-ward,",
+        "englishNatural": "to Drawn-Out (Moses), **\"In your going,** to return to Double-Narrows (Egypt),"
       }
     },
     {
@@ -269,6 +279,7 @@
         "verse": 3
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "נֵלְכָה",
         "transliteration": "nelkhah",
@@ -284,8 +295,8 @@
       "context": {
         "hebrew": "נִקְרָא עָלֵינוּ **נֵלְכָה** נָּא דֶּרֶךְ",
         "transliteration": "niqra aleinu **nelkhah** na derekh",
-        "englishLiteral": "was-called_out over-us **we-will-go** please way-of",
-        "englishNatural": "was called-out over us **we will go** please a way of"
+        "englishLiteral": "was-called_out over-us, **we-will-go** please way-of",
+        "englishNatural": "was called-out over us, **we will go** please, a way of"
       }
     },
     {
@@ -295,6 +306,7 @@
         "verse": 4
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "לְכוּ",
         "transliteration": "lekhu",
@@ -310,8 +322,8 @@
       "context": {
         "hebrew": "הָעָם מִמַּעֲשָׂיו **לְכוּ** לְסִבְלֹתֵיכֶם",
         "transliteration": "haAm miMaasav **lekhu** leSivlotekhem",
-        "englishLiteral": "the-people from-works-their **go** to-burdens-your",
-        "englishNatural": "the people from their works **Go** to your burdens"
+        "englishLiteral": "the-people from-works-their? **go** to-burdens-your.\"",
+        "englishNatural": "the people from their works? **Go** to your burdens.\""
       }
     },
     {
@@ -321,6 +333,7 @@
         "verse": 24
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "לְכוּ",
         "transliteration": "lekhu",
@@ -337,7 +350,7 @@
         "hebrew": "מֹשֶׁה וַיֹּאמֶר **לְכוּ** עִבְדוּ אֶת־",
         "transliteration": "Moshe vaYomer **lekhu** ivdu et-",
         "englishLiteral": "Drawn_Out (Moses) and-said **go** serve ↳",
-        "englishNatural": "Drawn-Out (Moses) and said **Go** serve ↳"
+        "englishNatural": "Drawn-Out (Moses) and said, **\"Go** serve ↳"
       }
     },
     {
@@ -347,6 +360,7 @@
         "verse": 24
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "יֵלֵךְ",
         "transliteration": "yelekh",
@@ -362,8 +376,8 @@
       "context": {
         "hebrew": "גַּם־ טַפְּכֶם **יֵלֵךְ** עִמָּכֶם",
         "transliteration": "gam- tapkhem **yelekh** imakhem",
-        "englishLiteral": "also- little_ones-your **will-go** with-you",
-        "englishNatural": "also your little ones **let go** with you"
+        "englishLiteral": "also- little_ones-your **will-go** with-you.",
+        "englishNatural": "also your little ones **let go** with you.\""
       }
     },
     {
@@ -373,6 +387,7 @@
         "verse": 26
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "יֵלֵךְ",
         "transliteration": "yelekh",
@@ -388,8 +403,8 @@
       "context": {
         "hebrew": "וְגַם־ מִקְנֵנוּ **יֵלֵךְ** עִמָּנוּ לֹא",
         "transliteration": "veGam- miqnenu **yelekh** imanu lo",
-        "englishLiteral": "and-also- livestock-our **will-go** with-us not",
-        "englishNatural": "And also our livestock **will go** with us not"
+        "englishLiteral": "and-also- livestock-our **will-go** with-us; not",
+        "englishNatural": "And also our livestock **will go** with us; not"
       }
     },
     {
@@ -399,6 +414,7 @@
         "verse": 28
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "לֵ֣ךְ",
         "transliteration": "lekh",
@@ -414,8 +430,8 @@
       "context": {
         "hebrew": "ל֥וֹ פַרְעֹ֖ה **לֵ֣ךְ** מֵֽעָלָ֑י הִשָּׁ֣מֶר",
         "transliteration": "lo Paroh **lekh** meAlay hiShamer",
-        "englishLiteral": "to-him Pharaoh **Go** from-over-me guard",
-        "englishNatural": "to him And Pharaoh **Go** from over me guard"
+        "englishLiteral": "to-him Pharaoh, **\"Go** from-over-me; guard",
+        "englishNatural": "said to him, **\"Go** from over me, guard"
       }
     },
     {
@@ -425,6 +441,7 @@
         "verse": 1
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "וַיֵּ֨לֶךְ",
         "transliteration": "vaYelekh",
@@ -440,8 +457,8 @@
       "context": {
         "hebrew": "רָעָ֖ב בָּאָ֑רֶץ **וַיֵּ֨לֶךְ** אִ֜ישׁ מִבֵּ֧ית",
         "transliteration": "raav baAretz **vaYelekh** ish miBeit",
-        "englishLiteral": "famine in-the-land **and-walked** man from-House-of",
-        "englishNatural": "and famine in the land **walked** and a man from the House of"
+        "englishLiteral": "famine in-the-land; **and-walked** man from-House-of",
+        "englishNatural": "in the land; and a man **walked** from the House of Bread (Bethlehem)"
       }
     },
     {
@@ -451,6 +468,7 @@
         "verse": 7
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וַתֵּלַ֣כְנָה",
         "transliteration": "vatTelakhnah",
@@ -466,8 +484,8 @@
       "context": {
         "hebrew": "כַלֹּתֶ֣יהָ עִמָּ֑הּ **וַתֵּלַ֣כְנָה** בַדֶּ֔רֶךְ לָשׁ֖וּב",
         "transliteration": "khalloteha immah **vatTelakhnah** baDerekh lashuv",
-        "englishLiteral": "daughters_in_law-her with-her **and-walked** in-the-way to-return",
-        "englishNatural": "her daughters-in-law with her **and they walked** in the way to return"
+        "englishLiteral": "daughters_in_law-her with-her; **and-walked** in-the-way to-return",
+        "englishNatural": "her daughters-in-law with her, **and they walked** in the way to return"
       }
     },
     {
@@ -477,6 +495,7 @@
         "verse": 8
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "לֵ֣כְנָה",
         "transliteration": "lekhnah",
@@ -492,8 +511,8 @@
       "context": {
         "hebrew": "לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ **לֵ֣כְנָה** שֹׁ֔בְנָה אִשָּׁ֖ה",
         "transliteration": "liShtey khalloteha **lekhnah** shovnah ishah",
-        "englishLiteral": "to-two-of daughters_in_law-her **Go** return woman",
-        "englishNatural": "to the two of her daughters-in-law **Go** return woman"
+        "englishLiteral": "to-two-of daughters_in_law-her **\"Go** return woman",
+        "englishNatural": "to the two of her daughters-in-law, **\"Go** return, woman"
       }
     },
     {
@@ -503,6 +522,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָלַךְ",
         "transliteration": "halakh",
@@ -518,8 +538,8 @@
       "context": {
         "hebrew": "אֲשֶׁר לֹא **הָלַךְ** בַּעֲצַת רְשָׁעִים",
         "transliteration": "asher lo **halakh** baAtzat reshaim",
-        "englishLiteral": "which not **has-walked** in-counsel-of wicked_ones",
-        "englishNatural": "which not **has walked** in the counsel of wicked-ones"
+        "englishLiteral": "which not **has-walked** in-counsel-of wicked_ones,",
+        "englishNatural": "the man, which **has walked** not in the counsel of"
       }
     },
     {
@@ -529,6 +549,7 @@
         "verse": 4
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֵלֵךְ",
         "transliteration": "elekh",
@@ -544,8 +565,8 @@
       "context": {
         "hebrew": "גַּם כִּי־ **אֵלֵךְ** בְּגֵיא צַלְמָוֶת",
         "transliteration": "gam ki- **elekh** beGei tzalmavet",
-        "englishLiteral": "Also that- **I-walk** in-valley-of shadow_death",
-        "englishNatural": "Also that **I walk** in a valley of shadow-death"
+        "englishLiteral": "Also that- **I-walk** in-valley-of shadow_death,",
+        "englishNatural": "Also that **I walk** in a valley of shadow-death,"
       }
     },
     {
@@ -555,6 +576,7 @@
         "verse": 1
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "הִלַּכְתִּי",
         "transliteration": "hilakhti",
@@ -570,8 +592,8 @@
       "context": {
         "hebrew": "עֵינַי וְלֹא־ **הִלַּכְתִּי** בִּגְדֹלוֹת וּבְנִפְלָאוֹת",
         "transliteration": "einai velo- **hilakhti** biGdolot uvNiFlaot",
-        "englishLiteral": "my-eyes and-not- **I-have-walked** in-greats and-in-wonders",
-        "englishNatural": "and my eyes not **and I have walked** in greats and in wonders"
+        "englishLiteral": "my-eyes, and-not- **I-have-walked,** in-greats and-in-wonders",
+        "englishNatural": "are high not, **and I have walked** not, in greats"
       }
     },
     {
@@ -581,6 +603,7 @@
         "verse": 9
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "בְלֶכְתָּן",
         "transliteration": "beLekhtan",
@@ -595,8 +618,8 @@
       "context": {
         "hebrew": "לֹא־ יִסַּבּוּ **בְלֶכְתָּן** אִישׁ אֶל־",
         "transliteration": "lo- yisabbu **beLekhtan** ish el-",
-        "englishLiteral": "not- they-went_around **in-going-their** man to-",
-        "englishNatural": "not they went-around **in their going** man to"
+        "englishLiteral": "not- they-went_around **in-going-their;** man to-",
+        "englishNatural": "they went-around not **in their going;** man to"
       }
     },
     {
@@ -606,6 +629,7 @@
         "verse": 9
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "יֵלֵכוּ",
         "transliteration": "yelekhu",
@@ -621,8 +645,8 @@
       "context": {
         "hebrew": "עֵבֶר פָּנָיו **יֵלֵכוּ**",
         "transliteration": "ever panav **yelekhu**",
-        "englishLiteral": "side-of faces-his **they-went**",
-        "englishNatural": "the side of his face **they went**"
+        "englishLiteral": "side-of faces-his **they-went.**",
+        "englishNatural": "the side of his face **they went.**"
       }
     },
     {
@@ -632,6 +656,7 @@
         "verse": 12
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "יֵלֵכוּ",
         "transliteration": "yelekhu",
@@ -647,8 +672,8 @@
       "context": {
         "hebrew": "עֵבֶר פָּנָיו **יֵלֵכוּ** אֶל אֲשֶׁר",
         "transliteration": "ever panav **yelekhu** el asher",
-        "englishLiteral": "side-of faces-his **they-went** to which",
-        "englishNatural": "the side of his face **they went** to which"
+        "englishLiteral": "side-of faces-his **they-went;** to which",
+        "englishNatural": "the side of his face **they went;** to which"
       }
     },
     {
@@ -658,6 +683,7 @@
         "verse": 12
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "לָלֶכֶת",
         "transliteration": "laLekhet",
@@ -672,8 +698,8 @@
       "context": {
         "hebrew": "שָּׁמָּה הָרוּחַ **לָלֶכֶת** יֵלֵכוּ לֹא",
         "transliteration": "shamah haRuach **laLekhet** yelekhu lo",
-        "englishLiteral": "there the-wind **to-go** they-went not",
-        "englishNatural": "there the wind **to go** they went not"
+        "englishLiteral": "there the-wind **to-go** they-went; not",
+        "englishNatural": "which the wind **to go** was there"
       }
     },
     {
@@ -683,6 +709,7 @@
         "verse": 12
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "יֵלֵכוּ",
         "transliteration": "yelekhu",
@@ -698,8 +725,8 @@
       "context": {
         "hebrew": "הָרוּחַ לָלֶכֶת **יֵלֵכוּ** לֹא יִסַּבּוּ",
         "transliteration": "haRuach laLekhet **yelekhu** lo yisabbu",
-        "englishLiteral": "the-wind to-go **they-went** not they-went-around",
-        "englishNatural": "the wind to go **they went** not they went-around"
+        "englishLiteral": "the-wind to-go **they-went;** not they-went-around",
+        "englishNatural": "was there **they went;** they went-around not"
       }
     },
     {
@@ -709,6 +736,7 @@
         "verse": 12
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "בְּלֶכְתָּן",
         "transliteration": "beLekhtan",
@@ -723,8 +751,8 @@
       "context": {
         "hebrew": "לֹא יִסַּבּוּ **בְּלֶכְתָּן**",
         "transliteration": "lo yisabbu **beLekhtan**",
-        "englishLiteral": "not they-went-around **in-going-their**",
-        "englishNatural": "not they went-around **in their going**"
+        "englishLiteral": "not they-went-around **in-going-their.**",
+        "englishNatural": "they went-around not **in their going.**"
       }
     },
     {
@@ -734,6 +762,7 @@
         "verse": 13
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "מִתְהַלֶּכֶת",
         "transliteration": "mithalekhet",
@@ -749,8 +778,8 @@
       "context": {
         "hebrew": "הַלַּפִּדִם הִיא **מִתְהַלֶּכֶת** בֵּין הַחַיּוֹת",
         "transliteration": "haLappidim hi **mithalekhet** beyn haChayot",
-        "englishLiteral": "the-torches she **going** between the-living_beings",
-        "englishNatural": "The Torches she **was going** between the living-beings"
+        "englishLiteral": "the-torches she **going** between the-living_beings;",
+        "englishNatural": "The Torches she **was going** between the living-beings;"
       }
     },
     {
@@ -760,6 +789,7 @@
         "verse": 17
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "יֵלֵכוּ",
         "transliteration": "yelekhu",
@@ -775,8 +805,8 @@
       "context": {
         "hebrew": "אַרְבַּעַת רִבְעֵיהֶן **יֵלֵכוּ** בְּלֶכְתָּן לֹא",
         "transliteration": "arbaat riveihen **yelekhu** beLekhtan lo",
-        "englishLiteral": "four-of sides-their **they-went** in-going-their not",
-        "englishNatural": "four of their sides **they went** in their going not"
+        "englishLiteral": "four-of sides-their **they-went** in-going-their; not",
+        "englishNatural": "four of their sides **they went** in their going; they went-around"
       }
     },
     {
@@ -786,6 +816,7 @@
         "verse": 17
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "בְּלֶכְתָּן",
         "transliteration": "beLekhtan",
@@ -800,8 +831,8 @@
       "context": {
         "hebrew": "רִבְעֵיהֶן יֵלֵכוּ **בְּלֶכְתָּן** לֹא יִסַּבּוּ",
         "transliteration": "riveihen yelekhu **beLekhtan** lo yisabbu",
-        "englishLiteral": "sides-their they-went **in-going-their** not they-went-around",
-        "englishNatural": "their sides they went **in their going** not they went-around"
+        "englishLiteral": "sides-their they-went **in-going-their;** not they-went-around",
+        "englishNatural": "their sides they went **in their going;** they went-around not"
       }
     },
     {
@@ -811,6 +842,7 @@
         "verse": 17
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "בְּלֶכְתָּן",
         "transliteration": "beLekhtan",
@@ -825,8 +857,8 @@
       "context": {
         "hebrew": "לֹא יִסַּבּוּ **בְּלֶכְתָּן**",
         "transliteration": "lo yisabbu **beLekhtan**",
-        "englishLiteral": "not they-went-around **in-going-their**",
-        "englishNatural": "not they went-around **in their going**"
+        "englishLiteral": "not they-went-around **in-going-their.**",
+        "englishNatural": "they went-around not **in their going.**"
       }
     },
     {
@@ -836,6 +868,7 @@
         "verse": 19
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וּבְלֶכֶת",
         "transliteration": "uVelekhet",
@@ -850,8 +883,8 @@
       "context": {
         "hebrew": "**וּבְלֶכֶת** הַחַיּוֹת יֵלְכוּ",
         "transliteration": "**uVelekhet** haChayot yelekhu",
-        "englishLiteral": "**And-in-going-of** the-living-beings they-went",
-        "englishNatural": "**And in the going of** the living-beings went"
+        "englishLiteral": "**And-in-going-of** the-living-beings, they-went",
+        "englishNatural": "**And in the going of** the living-beings, the wheels"
       }
     },
     {
@@ -861,6 +894,7 @@
         "verse": 19
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "יֵלְכוּ",
         "transliteration": "yelekhu",
@@ -876,8 +910,8 @@
       "context": {
         "hebrew": "וּבְלֶכֶת הַחַיּוֹת **יֵלְכוּ** הָאוֹפַנִּים אֶצְלָם",
         "transliteration": "uVelekhet haChayot **yelekhu** haOphanim etzlam",
-        "englishLiteral": "And-in-going-of the-living-beings **they-went** the-wheels beside-them",
-        "englishNatural": "And in the going of the living-beings **went** the wheels beside them"
+        "englishLiteral": "And-in-going-of the-living-beings, **they-went** the-wheels beside-them,",
+        "englishNatural": "the living-beings, the wheels **went** beside them, and in the being-lifted of"
       }
     },
     {
@@ -887,6 +921,7 @@
         "verse": 20
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "לָלֶכֶת",
         "transliteration": "laLekhet",
@@ -901,8 +936,8 @@
       "context": {
         "hebrew": "שָׁם הָרוּחַ **לָלֶכֶת** יֵלֵכוּ שָׁמָּה",
         "transliteration": "sham haRuach **laLekhet** yelekhu shamah",
-        "englishLiteral": "there the-wind **to-go** they-went there",
-        "englishNatural": "there the wind **to go** they went there"
+        "englishLiteral": "there, the-wind **to-go** they-went there,",
+        "englishNatural": "which the wind **to go** was there,"
       }
     },
     {
@@ -912,6 +947,7 @@
         "verse": 20
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "יֵלֵכוּ",
         "transliteration": "yelekhu",
@@ -927,8 +963,8 @@
       "context": {
         "hebrew": "הָרוּחַ לָלֶכֶת **יֵלֵכוּ** שָׁמָּה הָרוּחַ",
         "transliteration": "haRuach laLekhet **yelekhu** shamah haRuach",
-        "englishLiteral": "the-wind to-go **they-went** there the-wind",
-        "englishNatural": "the wind to go **they went** there the wind"
+        "englishLiteral": "the-wind to-go **they-went** there, the-wind",
+        "englishNatural": "was there, **they went** there, the wind"
       }
     },
     {
@@ -938,6 +974,7 @@
         "verse": 20
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "לָלֶכֶת",
         "transliteration": "laLekhet",
@@ -952,8 +989,8 @@
       "context": {
         "hebrew": "שָׁמָּה הָרוּחַ **לָלֶכֶת** וְהָאוֹפַנִּים יִנָּשְׂאוּ",
         "transliteration": "shamah haRuach **laLekhet** veHaOphanim yinasu",
-        "englishLiteral": "there the-wind **to-go** and-the-wheels they-were-lifted",
-        "englishNatural": "there the wind **to go** and the wheels were lifted"
+        "englishLiteral": "there, the-wind **to-go,** and-the-wheels they-were-lifted",
+        "englishNatural": "there, the wind **to go,** and the wheels were lifted"
       }
     },
     {
@@ -963,6 +1000,7 @@
         "verse": 21
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "בְּלֶכְתָּם",
         "transliteration": "beLekhtan",
@@ -977,8 +1015,8 @@
       "context": {
         "hebrew": "**בְּלֶכְתָּם** יֵלֵכוּ וּבְעָמְדָם",
         "transliteration": "**beLekhtan** yelekhu uVeAmdam",
-        "englishLiteral": "**In-going-their** they-went and-in-standing-their",
-        "englishNatural": "**In their going** they went and in their standing"
+        "englishLiteral": "**In-going-their** they-went, and-in-standing-their",
+        "englishNatural": "**In their going** they went, and in their standing"
       }
     },
     {
@@ -988,6 +1026,7 @@
         "verse": 21
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "יֵלֵכוּ",
         "transliteration": "yelekhu",
@@ -1003,8 +1042,8 @@
       "context": {
         "hebrew": "בְּלֶכְתָּם **יֵלֵכוּ** וּבְעָמְדָם יַעֲמֹדוּ",
         "transliteration": "beLekhtan **yelekhu** uVeAmdam yaamodu",
-        "englishLiteral": "In-going-their **they-went** and-in-standing-their they-stood",
-        "englishNatural": "In their going **they went** and in their standing they stood"
+        "englishLiteral": "In-going-their **they-went,** and-in-standing-their they-stood,",
+        "englishNatural": "In their going **they went,** and in their standing they stood,"
       }
     },
     {
@@ -1014,6 +1053,7 @@
         "verse": 24
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "בְּלֶכְתָּם",
         "transliteration": "beLekhtan",
@@ -1028,8 +1068,8 @@
       "context": {
         "hebrew": "כְּקוֹל־ שַׁדַּי **בְּלֶכְתָּם** קוֹל הֲמֻלָּה",
         "transliteration": "keQol- shaddai **beLekhtan** qol hamulah",
-        "englishLiteral": "like-voice-of- All_Powerful (Shaddai) **in-going-their** voice-of tumult",
-        "englishNatural": "like the voice of All-Powerful (Shaddai) **in their going** the voice of tumult"
+        "englishLiteral": "like-voice-of- All_Powerful (Shaddai), **in-going-their** voice-of tumult,",
+        "englishNatural": "like the voice of All-Powerful (Shaddai), **in their going** the voice of tumult,"
       }
     },
     {
@@ -1039,6 +1079,7 @@
         "verse": 2
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "לֵךְ",
         "transliteration": "lekh",
@@ -1054,8 +1095,8 @@
       "context": {
         "hebrew": "קוּם **לֵךְ** אֶל־ נִינְוֵה",
         "transliteration": "qum **lekh** el- Nineveh",
-        "englishLiteral": "Stand_up **go** to- Dwelling_of_Fish (Nineveh)",
-        "englishNatural": "Stand-up **go** to Dwelling-of-Fish (Nineveh)"
+        "englishLiteral": "\"Stand_up, **go** to- Dwelling_of_Fish (Nineveh),",
+        "englishNatural": "\"Stand-up, **go** to Dwelling-of-Fish (Nineveh),"
       }
     },
     {
@@ -1065,6 +1106,7 @@
         "verse": 11
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הוֹלֵךְ",
         "transliteration": "holekh",
@@ -1080,8 +1122,8 @@
       "context": {
         "hebrew": "כִּי הַיָּם **הוֹלֵךְ** וְסֹעֵר",
         "transliteration": "ki haYam **holekh** vesoer",
-        "englishLiteral": "that the-sea **walking** and-storming",
-        "englishNatural": "That the sea is **walking** and storming"
+        "englishLiteral": "that the-sea **walking** and-storming.\"",
+        "englishNatural": "That the sea is **walking** and storming.\""
       }
     },
     {
@@ -1091,6 +1133,7 @@
         "verse": 13
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "הוֹלֵךְ",
         "transliteration": "holekh",
@@ -1106,8 +1149,8 @@
       "context": {
         "hebrew": "כִּי הַיָּם **הוֹלֵךְ** וְסֹעֵר עֲלֵיהֶם",
         "transliteration": "ki haYam **holekh** vesoer alehem",
-        "englishLiteral": "that the-sea **walking** and-storming over-them",
-        "englishNatural": "that the sea **was walking** and storming over them"
+        "englishLiteral": "that the-sea **walking** and-storming over-them.",
+        "englishNatural": "that the sea **was walking** and storming over them."
       }
     },
     {
@@ -1117,6 +1160,7 @@
         "verse": 2
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "לֵךְ",
         "transliteration": "lekh",
@@ -1132,8 +1176,8 @@
       "context": {
         "hebrew": "קוּם **לֵךְ** אֶל־ נִינְוֵה",
         "transliteration": "qum **lekh** el- Nineveh",
-        "englishLiteral": "Stand_up **go** to- Dwelling_of_Fish (Nineveh)",
-        "englishNatural": "Stand-up **go** to Dwelling-of-Fish (Nineveh)"
+        "englishLiteral": "\"Stand_up, **go** to- Dwelling_of_Fish (Nineveh),",
+        "englishNatural": "\"Stand-up, **go** to Dwelling-of-Fish (Nineveh),"
       }
     },
     {
@@ -1143,6 +1187,7 @@
         "verse": 3
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וַיֵּלֶךְ",
         "transliteration": "vaYelekh",
@@ -1158,8 +1203,8 @@
       "context": {
         "hebrew": "וַיָּקָם יוֹנָה **וַיֵּלֶךְ** אֶל־ נִינְוֵה",
         "transliteration": "vaYaqam Yonah **vaYelekh** el- Nineveh",
-        "englishLiteral": "And-stood_up Dove (Jonah) **and-went** to- Dwelling_of_Fish (Nineveh)",
-        "englishNatural": "stood-up And Dove (Jonah) **and went** to Dwelling-of-Fish (Nineveh)"
+        "englishLiteral": "And-stood_up Dove (Jonah), **and-went** to- Dwelling_of_Fish (Nineveh),",
+        "englishNatural": "And Dove (Jonah) stood-up, **and went** to Dwelling-of-Fish (Nineveh),"
       }
     }
   ]

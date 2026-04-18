@@ -9,6 +9,7 @@
         "verse": 17
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּתֵּ֥ן",
         "transliteration": "vaYiten",
@@ -25,7 +26,7 @@
         "hebrew": "**וַיִּתֵּ֥ן** אֹתָ֛ם אֱלֹהִ֖ים",
         "transliteration": "**vaYiten** otam Elohim",
         "englishLiteral": "**And-put** them Gods",
-        "englishNatural": "**put** them And God"
+        "englishNatural": "And God **put** them in the hammering-out,"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 29
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "נָתַ֨תִּי",
         "transliteration": "natati",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "אֱלֹהִ֗ים הִנֵּה֩ **נָתַ֨תִּי** לָכֶ֜ם אֶת־",
         "transliteration": "Elohim hineh **natati** lakhem et-",
-        "englishLiteral": "Gods Behold **I-give** to-you ↳",
-        "englishNatural": "And God Behold **I give** to you ↳"
+        "englishLiteral": "Gods, \"Behold, **I-give** to-you ↳",
+        "englishNatural": "said, \"Behold, **I give** to you ↳"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 6
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "וַתִּתֵּן",
         "transliteration": "vatiten",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "מִפִּרְיוֹ וַתֹּאכַל **וַתִּתֵּן** גַּם־ לְאִישָׁהּ",
         "transliteration": "miPiryo vatokhal **vatiten** gam- leIshah",
-        "englishLiteral": "from-fruit-its and-ate **and-gave** also- to-her-man",
-        "englishNatural": "from its fruit and ate **and gave** also to her man"
+        "englishLiteral": "from-fruit-its and-ate, **and-gave** also- to-her-man",
+        "englishNatural": "from its fruit and ate, **and gave** also to her man"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 12
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "נָתַתָּה",
         "transliteration": "natata",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "הָאִשָּׁה אֲשֶׁר **נָתַתָּה** עִמָּדִי הִיא",
         "transliteration": "haIshah asher **natata** imadi hi",
-        "englishLiteral": "The-woman which **you-gave** with-me she",
-        "englishNatural": "The woman which **you gave** with me she"
+        "englishLiteral": "\"The-woman which **you-gave** with-me; she",
+        "englishNatural": "\"The woman which **you gave** with me; she"
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 12
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "נָתְנָה־",
         "transliteration": "natnah-",
@@ -128,8 +133,8 @@
       "context": {
         "hebrew": "עִמָּדִי הִיא **נָתְנָה־** לִּי מִן־",
         "transliteration": "imadi hi **natnah-** li min-",
-        "englishLiteral": "with-me she **she-gave-** to-me from-",
-        "englishNatural": "with me she **gave** to me from"
+        "englishLiteral": "with-me; she **she-gave-** to-me from-",
+        "englishNatural": "with me; she **gave** to me from"
       }
     },
     {
@@ -139,6 +144,7 @@
         "verse": 12
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "תֵּת־",
         "transliteration": "tet-",
@@ -154,8 +160,8 @@
       "context": {
         "hebrew": "לֹא־ תֹסֵף **תֵּת־** כֹּחָהּ לָךְ",
         "transliteration": "lo- toseeph **tet-** kochah lakh",
-        "englishLiteral": "not- it-will-add **give-** her-ability to-you",
-        "englishNatural": "not it will add **to give** her ability to you"
+        "englishLiteral": "not- it-will-add **give-** her-ability to-you;",
+        "englishNatural": "it will add not, **to give** her ability to you;"
       }
     },
     {
@@ -165,6 +171,7 @@
         "verse": 2
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "נִתָּנוּ",
         "transliteration": "nitanu",
@@ -180,8 +187,8 @@
       "context": {
         "hebrew": "הַיָּם בְּיֶדְכֶם **נִתָּנוּ**",
         "transliteration": "haYam beYedkhem **nitanu**",
-        "englishLiteral": "the-sea in-hand-your **they-are-given**",
-        "englishNatural": "the sea in your hand **they are given**"
+        "englishLiteral": "the-sea; in-hand-your **they-are-given.**",
+        "englishNatural": "the sea; in your hand **they are given.**"
       }
     },
     {
@@ -191,6 +198,7 @@
         "verse": 3
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "נָתַתִּי",
         "transliteration": "natati",
@@ -206,8 +214,8 @@
       "context": {
         "hebrew": "כְּיֶרֶק עֵשֶׂב **נָתַתִּי** לָכֶם אֶת־",
         "transliteration": "keYereq esev **natati** lakhem et-",
-        "englishLiteral": "like-green-of herb **I-have-given** to-you ↳",
-        "englishNatural": "like the green of herb **I have given** to you ↳"
+        "englishLiteral": "like-green-of herb, **I-have-given** to-you ↳",
+        "englishNatural": "like the green of herb, **I have given** ↳ all"
       }
     },
     {
@@ -217,6 +225,7 @@
         "verse": 12
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "נֹתֵן",
         "transliteration": "noten",
@@ -232,8 +241,8 @@
       "context": {
         "hebrew": "אֲשֶׁר־ אֲנִי **נֹתֵן** בֵּינִי וּבֵינֵיכֶם",
         "transliteration": "asher- ani **noten** beyni uvEynekhem",
-        "englishLiteral": "which- I **giving** between-me and-between-you",
-        "englishNatural": "which I **am giving** between me and between you"
+        "englishLiteral": "which- I **giving,** between-me and-between-you,",
+        "englishNatural": "which I **am giving,** between me and between you,"
       }
     },
     {
@@ -243,6 +252,7 @@
         "verse": 13
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "נָתַתִּי",
         "transliteration": "natati",
@@ -258,8 +268,8 @@
       "context": {
         "hebrew": "אֶת־ קַשְׁתִּי **נָתַתִּי** בֶּעָנָן וְהָיְתָה",
         "transliteration": "et- qashti **natati** beAnan veHayetah",
-        "englishLiteral": "↳ my-bow **I-have-given** in-cloud and-she-will-be",
-        "englishNatural": "↳ My bow **I have given** in the cloud and it will be"
+        "englishLiteral": "↳ my-bow **I-have-given** in-cloud, and-she-will-be",
+        "englishNatural": "↳ My bow **I have given** in the cloud, and it will be"
       }
     },
     {
@@ -269,6 +279,7 @@
         "verse": 2
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "תִּתֶּן־",
         "transliteration": "titen-",
@@ -284,8 +295,8 @@
       "context": {
         "hebrew": "יְהוִה מַה־ **תִּתֶּן־** לִי וְאָנֹכִי",
         "transliteration": "YHWH mah- **titen-** li veAnoki",
-        "englishLiteral": "He_Who_Is (YHWH) what- **you-will-give-** to-me And-I",
-        "englishNatural": "He-Who-Is (YHWH) what **will you give** to me And I"
+        "englishLiteral": "He_Who_Is (YHWH), what- **you-will-give-** to-me? And-I",
+        "englishNatural": "He-Who-Is (YHWH), what **will you give** to me? And I"
       }
     },
     {
@@ -295,6 +306,7 @@
         "verse": 3
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "נָתַתָּה",
         "transliteration": "natata",
@@ -310,8 +322,8 @@
       "context": {
         "hebrew": "לִי לֹא **נָתַתָּה** זָרַע וְהִנֵּה",
         "transliteration": "li lo **natata** zara veHineh",
-        "englishLiteral": "to-me not **you-have-given** seed and-behold",
-        "englishNatural": "to me not **you have given** seed and behold"
+        "englishLiteral": "to-me not **you-have-given** seed, and-behold",
+        "englishNatural": "\"Behold to me **you have given** not seed;"
       }
     },
     {
@@ -321,6 +333,7 @@
         "verse": 7
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "לָתֶת",
         "transliteration": "latet",
@@ -336,8 +349,8 @@
       "context": {
         "hebrew": "מֵאוּר כַּשְׂדִּים **לָתֶת** לְךָ אֶת־",
         "transliteration": "meUr Kasdim **latet** lekha et-",
-        "englishLiteral": "from-Ur Chaldeans **to-give** to-you ↳",
-        "englishNatural": "from Ur of the Chaldeans **to give** to you ↳"
+        "englishLiteral": "from-Ur Chaldeans, **to-give** to-you ↳",
+        "englishNatural": "from Ur of the Chaldeans, **to give** to you ↳"
       }
     },
     {
@@ -347,6 +360,7 @@
         "verse": 10
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וַיִּתֵּן",
         "transliteration": "vayiten",
@@ -362,8 +376,8 @@
       "context": {
         "hebrew": "אֹתָם בַּתָּוֶךְ **וַיִּתֵּן** אִישׁ־ בִּתְרוֹ",
         "transliteration": "otam batavekh **vayiten** ish- bitro",
-        "englishLiteral": "↳ them in-midst **and-he-gave** man- piece-of-him",
-        "englishNatural": "them in the midst **and gave** man piece of him"
+        "englishLiteral": "↳ them in-midst, **and-he-gave** man- piece-of-him",
+        "englishNatural": "them in the midst, **and gave** man piece of him"
       }
     },
     {
@@ -373,6 +387,7 @@
         "verse": 18
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "נָתַתִּי",
         "transliteration": "natati",
@@ -388,8 +403,8 @@
       "context": {
         "hebrew": "לֵאמֹר לְזַרְעֲךָ **נָתַתִּי** אֶת־ הָאָרֶץ",
         "transliteration": "lemor leZarakha **natati** et- haAretz",
-        "englishLiteral": "to-say to-seed-of-you **I-gave** ↳ the-land",
-        "englishNatural": "saying To your seed **I have given** ↳ the land"
+        "englishLiteral": "to-say, \"to-seed-of-you **I-gave** ↳ the-land",
+        "englishNatural": "saying, \"To your seed **I have given** ↳ the land"
       }
     },
     {
@@ -399,6 +414,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "נְתַתִּיךָ",
         "transliteration": "netaticha",
@@ -414,8 +430,8 @@
       "context": {
         "hebrew": "מֹשֶׁה רְאֵה **נְתַתִּיךָ** אֱלֹהִים לְפַרְעֹה",
         "transliteration": "Moshe reeh **netaticha** Elohim leParoh",
-        "englishLiteral": "Drawn_Out (Moses) see **I-give-you** Gods to-Pharaoh",
-        "englishNatural": "Drawn-Out (Moses) See **I have given you** God to Pharaoh"
+        "englishLiteral": "Drawn_Out (Moses) \"see **I-give-you** Gods to-Pharaoh;",
+        "englishNatural": "Drawn-Out (Moses), \"See, **I have given you,** God to Pharaoh;"
       }
     },
     {
@@ -425,6 +441,7 @@
         "verse": 9
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "תְּנוּ",
         "transliteration": "tenu",
@@ -440,8 +457,8 @@
       "context": {
         "hebrew": "פַּרְעֹה לֵאמֹר **תְּנוּ** לָכֶם מוֹפֵת",
         "transliteration": "Paroh lemor **tenu** lakhem mofet",
-        "englishLiteral": "Pharaoh to-say **give** to-you wonder",
-        "englishNatural": "Pharaoh saying **Give** to you a wonder"
+        "englishLiteral": "Pharaoh to-say **give** to-you wonder;",
+        "englishNatural": "to you saying, **'Give** to you a wonder,'"
       }
     },
     {
@@ -451,6 +468,7 @@
         "verse": 25
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "תִּתֵּן",
         "transliteration": "titten",
@@ -467,7 +485,7 @@
         "hebrew": "גַּם־ אַתָּה **תִּתֵּן** בְּיָדֵנוּ זְבָחִים",
         "transliteration": "gam- atah **titten** beYadenu zevachim",
         "englishLiteral": "also- you **will-give** in-hand-our sacrifices",
-        "englishNatural": "Also you **will give** in our hand sacrifices"
+        "englishNatural": "\"Also you **will give** in our hand sacrifices"
       }
     },
     {
@@ -477,6 +495,7 @@
         "verse": 3
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּתֵּ֧ן",
         "transliteration": "vaYitten",
@@ -493,7 +512,7 @@
         "hebrew": "**וַיִּתֵּ֧ן** יְהוָ֛ה אֶת־",
         "transliteration": "**vaYitten** YHWH et-",
         "englishLiteral": "**And-gave** He_Who_Is (YHWH) ↳",
-        "englishNatural": "**gave** And He-Who-Is (YHWH) ↳"
+        "englishNatural": "And He-Who-Is (YHWH) **gave** ↳ grace"
       }
     },
     {
@@ -503,6 +522,7 @@
         "verse": 6
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "לָתֵ֥ת",
         "transliteration": "laTet",
@@ -516,10 +536,10 @@
         }
       },
       "context": {
-        "hebrew": "אֶת־ עַמּ֔וֹ **לָתֵ֥ת** לָהֶ֖ם לָֽחֶם׃",
+        "hebrew": "אֶת־ עַמּ֔וֹ **לָתֵ֥ת** לָהֶ֖ם לָֽחֶם׃׃",
         "transliteration": "et- ammo **laTet** lahem lechem",
-        "englishLiteral": "↳ people-his **to-give** to-them bread",
-        "englishNatural": "↳ his people **to give** to them bread"
+        "englishLiteral": "↳ people-his **to-give** to-them bread.",
+        "englishNatural": "↳ his people **to give** to them bread."
       }
     },
     {
@@ -529,6 +549,7 @@
         "verse": 9
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "יִתֵּ֤ן",
         "transliteration": "yitten",
@@ -545,7 +566,7 @@
         "hebrew": "**יִתֵּ֤ן** יְהוָה֙ לָכֶ֔ם",
         "transliteration": "**yitten** YHWH lakhem",
         "englishLiteral": "**Give** He_Who_Is (YHWH) to-you",
-        "englishNatural": "**give** He-Who-Is (YHWH) to you"
+        "englishNatural": "He-Who-Is (YHWH) **give** to you, and find"
       }
     },
     {
@@ -555,6 +576,7 @@
         "verse": 3
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "יִתֵּן",
         "transliteration": "yiten",
@@ -570,8 +592,8 @@
       "context": {
         "hebrew": "אֲשֶׁר פִּרְיוֹ **יִתֵּן** בְּעִתּוֹ וְעָלֵהוּ",
         "transliteration": "asher piryo **yiten** beIto veAlehu",
-        "englishLiteral": "which its-fruit **it-gives** in-its-season and-its-leaf",
-        "englishNatural": "which its fruit **gives** in its season and its leaf"
+        "englishLiteral": "which its-fruit **it-gives** in-its-season, and-its-leaf",
+        "englishNatural": "waters; which **gives** its fruit in its season,"
       }
     },
     {
@@ -581,6 +603,7 @@
         "verse": 1
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "תְּנָ֥ה",
         "transliteration": "tenah",
@@ -596,8 +619,8 @@
       "context": {
         "hebrew": "הָאָ֑רֶץ אֲשֶׁ֥ר **תְּנָ֥ה** ה֝וֹדְךָ֗ עַל־",
         "transliteration": "haAretz asher **tenah** hodkha al-",
-        "englishLiteral": "the-land which **give!** your-splendor over-",
-        "englishNatural": "the land which **give** your splendor over"
+        "englishLiteral": "the-land; which **give!** your-splendor over-",
+        "englishNatural": "the land; which **give** your splendor over"
       }
     },
     {
@@ -607,6 +630,7 @@
         "verse": 4
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "לָתֵת",
         "transliteration": "latet",
@@ -621,8 +645,8 @@
       "context": {
         "hebrew": "**לָתֵת** לַפְּתָאיִם עָרְמָה",
         "transliteration": "**latet** lapetaim armah",
-        "englishLiteral": "**To-give** to-simple_men shrewdness",
-        "englishNatural": "**To give** to simple men shrewdness"
+        "englishLiteral": "**To-give** to-simple_men, shrewdness;",
+        "englishNatural": "**To give** to simple men, shrewdness;"
       }
     },
     {
@@ -632,6 +656,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "תִּתֵּן",
         "transliteration": "titten",
@@ -647,8 +672,8 @@
       "context": {
         "hebrew": "תִקְרָא וּתְבוּנָה **תִּתֵּן** קוֹלָהּ",
         "transliteration": "tiqra uTevunah **titten** qolah",
-        "englishLiteral": "will-call_out and-Understanding **will-give** voice-her",
-        "englishNatural": "call-out and Understanding **give** her voice"
+        "englishLiteral": "will-call_out? and-Understanding **will-give** voice-her?",
+        "englishNatural": "call-out? and Understanding **give** her voice?"
       }
     },
     {
@@ -658,6 +683,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּתֵּן",
         "transliteration": "vaYitten",
@@ -674,7 +700,7 @@
         "hebrew": "**וַיִּתֵּן** אֲדֹנָי בְּיָדוֹ",
         "transliteration": "**vaYitten** Adonai beYado",
         "englishLiteral": "**and-he-gave** Lord in-hand-his",
-        "englishNatural": "**gave** And the Lord into his hand"
+        "englishNatural": "And the Lord **gave** into his hand, ↳"
       }
     },
     {
@@ -684,6 +710,7 @@
         "verse": 3
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "וַיִּתֵּן",
         "transliteration": "vaYitten",
@@ -699,8 +726,8 @@
       "context": {
         "hebrew": "בָּאָה תַרְשִׁישׁ **וַיִּתֵּן** שְׂכָרָהּ וַיֵּרֶד",
         "transliteration": "baah Tarshish **vaYitten** sekhorah vaYered",
-        "englishLiteral": "going golden_stone (Tarshish) **and-gave** fare-her and-went_down",
-        "englishNatural": "going to golden-stone (Tarshish) **and he paid** the fare of it and went-down"
+        "englishLiteral": "going golden_stone (Tarshish); **and-gave** fare-her, and-went_down",
+        "englishNatural": "going to golden-stone (Tarshish); **and he paid** the fare of it, and went-down"
       }
     },
     {
@@ -710,6 +737,7 @@
         "verse": 14
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "תִּתֵּן",
         "transliteration": "titten",
@@ -725,8 +753,8 @@
       "context": {
         "hebrew": "הַזֶּה וְאַל־ **תִּתֵּן** עָלֵינוּ דָּם",
         "transliteration": "haZeh veAl- **titten** alenu dam",
-        "englishLiteral": "the-this and-not- **give** over-us blood",
-        "englishNatural": "the this not **and give** over us blood"
+        "englishLiteral": "the-this; and-not- **give** over-us blood",
+        "englishNatural": "the man the this; **and give** over us not"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 25
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "בֵּן",
         "transliteration": "ben",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אִשְׁתּוֹ וַתֵּלֶד **בֵּן** וַתִּקְרָא אֶת־",
         "transliteration": "ishto vaTeled **ben** vaTiqra et-",
-        "englishLiteral": "woman-his and-bore **son** and-called_out ↳",
-        "englishNatural": "his woman and she bore **a son** and called-out ↳"
+        "englishLiteral": "woman-his; and-bore **son,** and-called_out ↳",
+        "englishNatural": "again; and she bore **a son,** and called-out ↳"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 26
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "בֵּן",
         "transliteration": "ben",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "הוּא יֻלַּד־ **בֵּן** וַיִּקְרָא אֶת־",
         "transliteration": "hu yulad- **ben** vaYiqra et-",
-        "englishLiteral": "he was-born **son** and-called_out ↳",
-        "englishNatural": "he was born **a son** and he called-out ↳"
+        "englishLiteral": "he was-born **son;** and-called_out ↳",
+        "englishNatural": "he was born **a son;** and he called-out ↳"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 28
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "בֵּן",
         "transliteration": "ben",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "שָׁנָה וַיּוֹלֶד **בֵּן**",
         "transliteration": "shanah vaYoled **ben**",
-        "englishLiteral": "year and-birthed **son**",
-        "englishNatural": "years and birthed **a son**"
+        "englishLiteral": "year, and-birthed **son.**",
+        "englishNatural": "years, and birthed **a son.**"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 2
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "בֵּן",
         "transliteration": "ben",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "הָאִשָּׁה וַתֵּלֶד **בֵּן** וַתֵּרֶא אֹתוֹ",
         "transliteration": "haIshah vaTeledֿ **ben** vaTere oto",
-        "englishLiteral": "the-woman and-birthed **son** and-saw ↳him",
-        "englishNatural": "And the woman and birthed **a son** and she saw him"
+        "englishLiteral": "the-woman and-birthed **son,** and-saw ↳him",
+        "englishNatural": "conceived and birthed **a son,** and she saw him,"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 16
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "ὑμᾶς",
         "transliteration": "humas",
@@ -33,6 +34,7 @@
         "verse": 15
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "σὺ",
         "transliteration": "su",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "ναί κύριε **σὺ** οἶδας ὅτι",
         "transliteration": "nai kurie **su** oidas hoti",
-        "englishLiteral": "Yes lord **you** know that",
-        "englishNatural": "Yes Lord **you** know that"
+        "englishLiteral": "\"Yes, lord, **you** know that",
+        "englishNatural": "\"Yes, Lord, **you** know that"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 16
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "σὺ",
         "transliteration": "su",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "ναί κύριε **σὺ** οἶδας ὅτι",
         "transliteration": "nai kurie **su** oidas hoti",
-        "englishLiteral": "Yes lord **you** know that",
-        "englishNatural": "Yes Lord **you** know that"
+        "englishLiteral": "\"Yes, lord, **you** know that",
+        "englishNatural": "\"Yes, Lord, **you** know that"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 17
       },
       "wordIndex": 23,
+      "sourceOrder": 23,
       "word": {
         "originalScript": "σὺ",
         "transliteration": "su",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "κύριε πάντα **σὺ** οἶδας σὺ",
         "transliteration": "kurie panta **su** oidas su",
-        "englishLiteral": "lord all **you** know you",
-        "englishNatural": "Lord all **you** know you"
+        "englishLiteral": "\"lord, all **you** know; you",
+        "englishNatural": "to him, \"Lord, **you** know all;"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 17
       },
       "wordIndex": 25,
+      "sourceOrder": 25,
       "word": {
         "originalScript": "σὺ",
         "transliteration": "su",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "σὺ οἶδας **σὺ** γινώσκεις ὅτι",
         "transliteration": "su oidas **su** ginōskeis hoti",
-        "englishLiteral": "you know **you** know that",
-        "englishNatural": "you know **you** know that"
+        "englishLiteral": "you know; **you** know that",
+        "englishNatural": "know all; **you** know that"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 18
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "σοι",
         "transliteration": "soi",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "ἀμὴν λέγω **σοι** ὅτε ἦς",
         "transliteration": "amēn legō **soi** hote ēs",
-        "englishLiteral": "truly I-say **to-you** when you-were",
-        "englishNatural": "truly I say **to you** when you were"
+        "englishLiteral": "truly, I-say **to-you,** when you-were",
+        "englishNatural": "truly, I say **to you,** when you were"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 18
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "σου",
         "transliteration": "sou",
@@ -166,8 +173,8 @@
       "context": {
         "hebrew": "τὰς χεῖράς **σου** καὶ ἄλλος",
         "transliteration": "tas cheiras **sou** kai allos",
-        "englishLiteral": "the hands **of-you** and another",
-        "englishNatural": "those hands **of yours** and another"
+        "englishLiteral": "the hands **of-you,** and another",
+        "englishNatural": "those hands **of yours,** and another"
       }
     }
   ]

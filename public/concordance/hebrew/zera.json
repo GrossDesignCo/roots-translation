@@ -10,6 +10,7 @@
         "verse": 11
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "זֶ֔רַע",
         "transliteration": "zera",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "עֵ֚שֶׂב מַזְרִ֣יעַ **זֶ֔רַע** עֵ֣ץ פְּרִ֞י",
         "transliteration": "esev maZria **zera** etz pri",
-        "englishLiteral": "herb seeding **seed** tree fruit",
-        "englishNatural": "herb seeding **seed** tree fruit"
+        "englishLiteral": "herb seeding **seed,** tree fruit",
+        "englishNatural": "herb seeding **seed,** fruit tree"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 12
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "זֶ֔רַע",
         "transliteration": "zera",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "עֵ֚שֶׂב מַזְרִ֣יעַ **זֶ֔רַע** לְמִינֵ֖הוּ וְעֵ֧ץ",
         "transliteration": "esev maZria **zera** leMinehu veEtz",
-        "englishLiteral": "herb seeding **seed** to-its-kind and-tree",
-        "englishNatural": "herb seeding **seed** after its kind and tree"
+        "englishLiteral": "herb seeding **seed** to-its-kind, and-tree",
+        "englishNatural": "herb seeding **seed** after its kind, and tree"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 29
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "זֶ֗רַע",
         "transliteration": "zera",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "עֵ֣שֶׂב זֹרֵ֣עַ **זֶ֗רַע** אֲשֶׁר֙ עַל־",
         "transliteration": "esev zorea **zera** asher al-",
-        "englishLiteral": "herb seeding **seed** which over",
-        "englishNatural": "herb seeding **seed** which over"
+        "englishLiteral": "herb seeding **seed,** which over",
+        "englishNatural": "herb seeding **seed,** which over"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 25
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "זֶרַע",
         "transliteration": "zera",
@@ -96,7 +100,7 @@
         "hebrew": "לִי אֱלֹהִים **זֶרַע** אַחֵר תַּחַת",
         "transliteration": "li Elohim **zera** acher tachat",
         "englishLiteral": "to-me Gods **seed** another instead-of",
-        "englishNatural": "me God **seed** another instead of"
+        "englishNatural": "me another **seed** instead of Vapor (Abel);"
       }
     },
     {
@@ -106,6 +110,7 @@
         "verse": 22
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "זֶרַע",
         "transliteration": "zera",
@@ -119,8 +124,8 @@
       "context": {
         "hebrew": "יְמֵי הָאָרֶץ **זֶרַע** וְקָצִיר וְקֹר",
         "transliteration": "yemei haAretz **zera** veQatzir veQor",
-        "englishLiteral": "days-of the-land **seed** and-harvest and-cold",
-        "englishNatural": "the days of the land **seed** and harvest and cold"
+        "englishLiteral": "days-of the-land, **seed** and-harvest, and-cold",
+        "englishNatural": "the days of the land, **seed** and harvest, and cold"
       }
     }
   ]

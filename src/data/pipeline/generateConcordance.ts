@@ -15,12 +15,14 @@
 import { mkdir, writeFile } from 'fs/promises';
 import fs from 'fs';
 import path from 'path';
-import { Verse, TranslationWord } from '@/types';
+import { LanguageKey, Verse, TranslationWord } from '@/types';
 import {
   SCRIPTURE_BOOK_NAMES,
   SCRIPTURE_BOOK_ORDER,
 } from '@/data/constants';
 import { BuildLogger, createBuildLogger } from './buildLogger';
+import { sortWords } from '@/utils/sortWords';
+import { formatWord } from '@/utils/formatWord';
 
 type Language = 'hebrew' | 'greek' | 'aramaic';
 
@@ -30,7 +32,13 @@ interface ConcordanceRow {
     chapter: number;
     verse: number;
   };
+  /** Index of this word in `verse.words` (storage order). */
   wordIndex: number;
+  /**
+   * 0-based position in source-language reading order for this verse
+   * (`sortWords` with `englishLiteral`), used for sorting and stable keys.
+   */
+  sourceOrder: number;
   word: {
     originalScript: string;
     transliteration: string;
@@ -74,6 +82,27 @@ function getOriginalScript(word: TranslationWord): string {
   return word.hebrew || word.greek || word.aramaic || '';
 }
 
+/**
+ * Surface form for a concordance column, including `grammarPrefix` / `grammarSuffix`
+ * (same as scripture UI `formatWord(..., showGrammar: true)`).
+ */
+function concordanceWordText(word: TranslationWord, column: LanguageKey): string {
+  if (column === 'englishNatural') {
+    if (word.englishNatural != null && word.englishNatural !== '') {
+      return formatWord(word, 'englishNatural', true).formattedWordText ?? '';
+    }
+    return formatWord(word, 'englishLiteral', true).formattedWordText ?? '';
+  }
+
+  if (column === 'original') {
+    const { wordText, formattedWordText } = formatWord(word, 'original', true);
+    if (wordText) return formattedWordText ?? '';
+    return formatWord(word, 'transliteration', true).formattedWordText ?? '';
+  }
+
+  return formatWord(word, column, true).formattedWordText ?? '';
+}
+
 function detectLanguage(word: TranslationWord): Language | null {
   if (word.hebrew) return 'hebrew';
   if (word.greek) return 'greek';
@@ -101,17 +130,29 @@ function getBookSortIndex(bookName: string): number {
   return idx === -1 ? 999 : idx;
 }
 
-function buildContextSnippet(
-  words: TranslationWord[],
-  targetIndex: number,
+/**
+ * Context window around `targetWord` using words sorted for `language`
+ * (same semantics as scripture UI via `sortWords`).
+ */
+function buildContextSnippetOrdered(
+  verse: Verse,
+  targetWord: TranslationWord,
+  language: LanguageKey,
   extractor: (w: TranslationWord) => string
 ): string {
+  const ordered = sortWords(verse.words, language);
+  const targetIndex = ordered.findIndex((w) => w === targetWord);
+
+  if (targetIndex === -1) {
+    return `**${extractor(targetWord)}**`;
+  }
+
   const start = Math.max(0, targetIndex - CONTEXT_WINDOW);
-  const end = Math.min(words.length - 1, targetIndex + CONTEXT_WINDOW);
+  const end = Math.min(ordered.length - 1, targetIndex + CONTEXT_WINDOW);
 
   const parts: string[] = [];
   for (let i = start; i <= end; i++) {
-    const text = extractor(words[i]);
+    const text = extractor(ordered[i]);
     if (i === targetIndex) {
       parts.push(`**${text}**`);
     } else {
@@ -121,13 +162,20 @@ function buildContextSnippet(
   return parts.join(' ');
 }
 
+/** Reading-order rank for tie-breaking (matches source columns of the table). */
+function sourceOrderRank(verse: Verse, word: TranslationWord): number {
+  const ordered = sortWords(verse.words, 'englishLiteral');
+  const idx = ordered.findIndex((w) => w === word);
+  if (idx !== -1) return idx;
+  return verse.words.indexOf(word);
+}
+
 function buildRow(
   verse: Verse,
-  wordIndex: number,
+  word: TranslationWord,
   bookSlug: string
 ): ConcordanceRow {
-  const word = verse.words[wordIndex];
-  const words = verse.words;
+  const wordIndex = verse.words.indexOf(word);
 
   return {
     location: {
@@ -136,6 +184,7 @@ function buildRow(
       verse: verse.meta.verse,
     },
     wordIndex,
+    sourceOrder: sourceOrderRank(verse, word),
     word: {
       originalScript: getOriginalScript(word),
       transliteration: word.transliteration,
@@ -151,10 +200,30 @@ function buildRow(
         : undefined,
     },
     context: {
-      hebrew: buildContextSnippet(words, wordIndex, (w) => getOriginalScript(w) || w.transliteration),
-      transliteration: buildContextSnippet(words, wordIndex, (w) => w.transliteration),
-      englishLiteral: buildContextSnippet(words, wordIndex, (w) => w.englishLiteral),
-      englishNatural: buildContextSnippet(words, wordIndex, (w) => w.englishNatural || w.englishLiteral),
+      hebrew: buildContextSnippetOrdered(
+        verse,
+        word,
+        'englishLiteral',
+        (w) => concordanceWordText(w, 'original')
+      ),
+      transliteration: buildContextSnippetOrdered(
+        verse,
+        word,
+        'englishLiteral',
+        (w) => concordanceWordText(w, 'transliteration')
+      ),
+      englishLiteral: buildContextSnippetOrdered(
+        verse,
+        word,
+        'englishLiteral',
+        (w) => concordanceWordText(w, 'englishLiteral')
+      ),
+      englishNatural: buildContextSnippetOrdered(
+        verse,
+        word,
+        'englishNatural',
+        (w) => concordanceWordText(w, 'englishNatural')
+      ),
     },
   };
 }
@@ -167,7 +236,7 @@ function sortRows(rows: ConcordanceRow[]): ConcordanceRow[] {
     if (chapterDiff !== 0) return chapterDiff;
     const verseDiff = a.location.verse - b.location.verse;
     if (verseDiff !== 0) return verseDiff;
-    return a.wordIndex - b.wordIndex;
+    return a.sourceOrder - b.sourceOrder;
   });
 }
 
@@ -218,11 +287,11 @@ export async function generateConcordance(logger: BuildLogger): Promise<void> {
         const verseModule = await import(versePath);
         const verse: Verse = verseModule[Object.keys(verseModule)[0]];
 
-        verse.words.forEach((word, wordIndex) => {
+        verse.words.forEach((word) => {
           const lang = detectLanguage(word);
           if (!lang || !word.transliteration) return;
 
-          const row = buildRow(verse, wordIndex, book);
+          const row = buildRow(verse, word, book);
           const key = word.transliteration.toLowerCase();
 
           if (!byWord[lang][key]) byWord[lang][key] = [];

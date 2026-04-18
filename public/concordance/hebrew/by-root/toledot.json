@@ -9,6 +9,7 @@
         "verse": 1
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "תּוֹלְדֹת",
         "transliteration": "toledot",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "זֶה סֵפֶר **תּוֹלְדֹת** אָדָם בְּיוֹם",
         "transliteration": "zeh sefer **toledot** Adam beYom",
-        "englishLiteral": "This book **birthings** Earthling (Adam) In-day",
-        "englishNatural": "This book **Birthings of** Earthling (Adam) In the day"
+        "englishLiteral": "This book, **birthings** Earthling (Adam). In-day",
+        "englishNatural": "This book, **Birthings of** Earthling (Adam). In the day"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 9
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "תּוֹלְדֹת",
         "transliteration": "toledot",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "אֵלֶּה **תּוֹלְדֹת** נֹחַ נֹחַ",
         "transliteration": "eleh **toledot** noach noach",
-        "englishLiteral": "These **birthings-of** Rest (Noah) Rest (Noah)",
-        "englishNatural": "These **are the birthings of** Rest (Noah) Rest (Noah)"
+        "englishLiteral": "These **birthings-of** Rest (Noah); Rest (Noah),",
+        "englishNatural": "These **are the birthings of** Rest (Noah); Rest (Noah),"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "תּוֹלְדֹת",
         "transliteration": "toledot",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "וְאֵלֶּה **תּוֹלְדֹת** בְּנֵי־ נֹחַ",
         "transliteration": "veEleh **toledot** beney- Noach",
-        "englishLiteral": "And-these **birthings-of** sons-of- Rest (Noah)",
-        "englishNatural": "And these **are the birthings of** the sons of Rest (Noah)"
+        "englishLiteral": "And-these **birthings-of** sons-of- Rest (Noah):",
+        "englishNatural": "And these **are the birthings of** the sons of Rest (Noah):"
       }
     }
   ]

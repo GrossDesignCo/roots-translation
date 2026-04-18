@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וַתֵּלֶד",
         "transliteration": "vatTeled",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "אִשְׁתּוֹ וַתַּהַר **וַתֵּלֶד** אֶת־ קַיִן",
         "transliteration": "ishto vatTahar **vatTeled** et- Qayin",
-        "englishLiteral": "his-woman and-she-conceived **and-she-bore** ↳ Acquired (Cain)",
-        "englishNatural": "his woman and she conceived **and bore** ↳ Acquired (Cain)"
+        "englishLiteral": "his-woman, and-she-conceived **and-she-bore** ↳ Acquired (Cain),",
+        "englishNatural": "his woman, and she conceived **and bore** ↳ Acquired (Cain),"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 17
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וַתֵּלֶד",
         "transliteration": "vatTeled",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "אִשְׁתּוֹ וַתַּהַר **וַתֵּלֶד** אֶת־ חֲנוֹךְ",
         "transliteration": "ishto vatTahar **vatTeled** et- Chanokh",
-        "englishLiteral": "his-woman and-she-conceived **and-she-bore** ↳ Dedicated (Enoch)",
-        "englishNatural": "knew his woman and she conceived **and bore** ↳ Dedicated (Enoch)"
+        "englishLiteral": "his-woman, and-she-conceived **and-she-bore** ↳ Dedicated (Enoch);",
+        "englishNatural": "knew his woman, and she conceived **and bore** ↳ Dedicated (Enoch);"
       }
     }
   ]

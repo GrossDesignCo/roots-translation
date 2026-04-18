@@ -9,6 +9,7 @@
         "verse": 15
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "Ἰωάννου",
         "transliteration": "Iōannou",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "Ἰησοῦς Σίμων **Ἰωάννου** ἀγαπᾷς με",
         "transliteration": "Iēsous Simōn **Iōannou** agapas me",
-        "englishLiteral": "Savior (Jesus) Hearer (Simon) **He—is-Gracious (John)** do-you-god_love me",
-        "englishNatural": "Savior (Jesus) Hearer (Simon) **He—is-Gracious (John)** do you god-love me"
+        "englishLiteral": "Savior (Jesus), \"Hearer (Simon) **He—is-Gracious (John),** do-you-god_love me",
+        "englishNatural": "Stone (Peter), \"Hearer (Simon) **He—is-Gracious (John),** do you god-love me"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 16
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "Ἰωάννου",
         "transliteration": "Iōannou",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "δεύτερον Σίμων **Ἰωάννου** ἀγαπᾷς με",
         "transliteration": "deuteron Simōn **Iōannou** agapas me",
-        "englishLiteral": "second Hearer (Simon) **He—is-Gracious (John)** do-you-god_love me",
-        "englishNatural": "the second time Hearer (Simon) **He—is-Gracious (John)** do you god-love me"
+        "englishLiteral": "second, \"Hearer (Simon) **He—is-Gracious (John),** do-you-god_love me?\"",
+        "englishNatural": "the second time, \"Hearer (Simon) **He—is-Gracious (John),** do you god-love me?\""
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 17
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "Ἰωάννου",
         "transliteration": "Iōannou",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "τρίτον Σίμων **Ἰωάννου** φιλεῖς με",
         "transliteration": "triton Simōn **Iōannou** phileis me",
-        "englishLiteral": "third Hearer (Simon) **He—is-Gracious (John)** do-you-brother_love me",
-        "englishNatural": "third time Hearer (Simon) **He—is-Gracious (John)** do you brother-love me"
+        "englishLiteral": "third, \"Hearer (Simon) **He—is-Gracious (John),** do-you-brother_love me?\"",
+        "englishNatural": "third time, \"Hearer (Simon) **He—is-Gracious (John),** do you brother-love me?\""
       }
     }
   ]

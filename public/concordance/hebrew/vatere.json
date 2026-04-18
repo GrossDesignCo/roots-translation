@@ -10,6 +10,7 @@
         "verse": 6
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַתֵּרֶא",
         "transliteration": "vatere",
@@ -26,7 +27,7 @@
         "hebrew": "**וַתֵּרֶא** הָאִשָּׁה כִּי",
         "transliteration": "**vatere** haIshah ki",
         "englishLiteral": "**And-saw** the-woman that",
-        "englishNatural": "**saw** And the woman that"
+        "englishNatural": "And the woman **saw** that the tree"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 2
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וַתֵּרֶא",
         "transliteration": "vaTere",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "וַתֵּלֶד בֵּן **וַתֵּרֶא** אֹתוֹ כִּי־",
         "transliteration": "vaTeledֿ ben **vaTere** oto ki-",
-        "englishLiteral": "and-birthed son **and-saw** ↳him that-",
-        "englishNatural": "and birthed a son **and she saw** him that"
+        "englishLiteral": "and-birthed son, **and-saw** ↳him that-",
+        "englishNatural": "and birthed a son, **and she saw** him, that"
       }
     }
   ]

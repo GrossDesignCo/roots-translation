@@ -10,6 +10,7 @@
         "verse": 16
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "πρόβατα",
         "transliteration": "probata",
@@ -34,6 +35,7 @@
         "verse": 16
       },
       "wordIndex": 21,
+      "sourceOrder": 21,
       "word": {
         "originalScript": "πρόβατά",
         "transliteration": "probata",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "ποίμαινε τὰ **πρόβατά** μου",
         "transliteration": "poimaine ta **probata** mou",
-        "englishLiteral": "Shepherd the **sheep** my",
-        "englishNatural": "Shepherd these **sheep** of mine"
+        "englishLiteral": "\"Shepherd the **sheep** my.\"",
+        "englishNatural": "\"Shepherd these **sheep** of mine.\""
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 17
       },
       "wordIndex": 34,
+      "sourceOrder": 34,
       "word": {
         "originalScript": "πρόβατά",
         "transliteration": "probata",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "βόσκε τὰ **πρόβατά** μου",
         "transliteration": "boske ta **probata** mou",
-        "englishLiteral": "Feed these **sheep** of-mine",
-        "englishNatural": "Feed these **sheep** of mine"
+        "englishLiteral": "\"Feed these **sheep** of-mine.\"",
+        "englishNatural": "\"Feed these **sheep** of mine.\""
       }
     }
   ]

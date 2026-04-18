@@ -10,6 +10,7 @@
         "verse": 9
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אֲחוֹתָהּ",
         "transliteration": "achotah",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אִשָּׁה אֶל־ **אֲחוֹתָהּ** כַּנְפֵיהֶם לֹא־",
         "transliteration": "ishah el- **achotah** kanfeihem lo-",
-        "englishLiteral": "woman to- **sister-her** wings-their not-",
-        "englishNatural": "woman to **her sister** their wings not"
+        "englishLiteral": "woman to- **sister-her** wings-their; not-",
+        "englishNatural": "woman to **her sister** their wings; they went-around"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 23
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אֲחוֹתָהּ",
         "transliteration": "achotah",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "אִשָּׁה אֶל־ **אֲחוֹתָהּ** לְאִישׁ שְׁתַּיִם",
         "transliteration": "ishah el- **achotah** leIsh shtayim",
-        "englishLiteral": "woman to- **sister-her** to-man two",
-        "englishNatural": "woman to **her sister** to a man two"
+        "englishLiteral": "woman to- **sister-her;** to-man two,",
+        "englishNatural": "woman to **her sister;** two to a man,"
       }
     }
   ]

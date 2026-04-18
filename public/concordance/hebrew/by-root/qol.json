@@ -9,6 +9,7 @@
         "verse": 8
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "קוֹל",
         "transliteration": "qol",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "וַיִּשְׁמְעוּ אֶת־ **קוֹל** יְהוָה אֱלֹהִים",
         "transliteration": "vaYishme'u et- **qol** YHWH Elohim",
-        "englishLiteral": "And-heard ↳ **voice** He_Who_Is (YHWH) Gods",
-        "englishNatural": "And they heard ↳ **the voice** of He-Who-Is (YHWH) God"
+        "englishLiteral": "And-heard ↳ **voice** He_Who_Is (YHWH) Gods,",
+        "englishNatural": "And they heard ↳ **the voice** of He-Who-Is (YHWH) God,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 10
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "קֹלְךָ",
         "transliteration": "qolkha",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר אֶת־ **קֹלְךָ** שָׁמַעְתִּי בַּגָּן",
         "transliteration": "vaYomer et- **qolkha** shamati baGan",
-        "englishLiteral": "And-he-said ↳ **Your-voice** I-heard in-Garden",
-        "englishNatural": "And he said ↳ **Your voice** I heard in Garden"
+        "englishLiteral": "And-he-said, \"↳ **Your-voice,** I-heard, in-Garden,",
+        "englishNatural": "And he said, \"↳ **\"Your voice,** I heard, in Garden,"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 17
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "לְקוֹל",
         "transliteration": "leQol",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "כִּי־ שָׁמַעְתָּ **לְקוֹל** אִשְׁתֶּךָ וַתֹּאכַל",
         "transliteration": "ki- shmamta **leQol** ishtekha vaToAkhal",
-        "englishLiteral": "That you-listened **to-voice** woman-your and-you-ate",
-        "englishNatural": "That you listened **to the voice** of your woman and you ate"
+        "englishLiteral": "\"That you-listened **to-voice** woman-your, and-you-ate",
+        "englishNatural": "\"That you listened **to the voice** of your woman, and you ate"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 10
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "קוֹל",
         "transliteration": "qol",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "מֶה עָשִׂיתָ **קוֹל** דְּמֵי אָחִיךָ",
         "transliteration": "meh asita **qol** demey achikha",
-        "englishLiteral": "What you-did **Voice-of** blood-of your-brother",
-        "englishNatural": "What have you done **The voice of** the blood of your brother"
+        "englishLiteral": "\"What you-did? **Voice-of** blood-of your-brother",
+        "englishNatural": "\"What have you done? **The voice of** the blood of your brother"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 23
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "קוֹלִי",
         "transliteration": "qoli",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "וְצִלָּה שְׁמַעַן **קוֹלִי** נְשֵׁי לֶמֶךְ",
         "transliteration": "veTzillah sheman **qoli** neshei Lemekh",
-        "englishLiteral": "and-Shadow (Zillah) hear **voice-my** women-of Powerful (Lamech)",
-        "englishNatural": "and Shadow (Zillah) hear **my voice** women of Powerful (Lamech)"
+        "englishLiteral": "and-Shadow (Zillah), hear **voice-my;** women-of Powerful (Lamech),",
+        "englishNatural": "and Shadow (Zillah), hear **my voice;** women of Powerful (Lamech),"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 1
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "לְקֹלִי",
         "transliteration": "leQoli",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "וְלֹא יִשְׁמְעוּ **לְקֹלִי** כִּי יֹאמְרוּ",
         "transliteration": "veLo yishmeU **leQoli** ki yomru",
-        "englishLiteral": "and-not will-hear **to-voice-my** that will-say",
-        "englishNatural": "not and they will hear **my voice** that they will say"
+        "englishLiteral": "and-not will-hear **to-voice-my,** that will-say",
+        "englishNatural": "and they will hear not **my voice,** that they will say,"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 2
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "בְּקֹלוֹ",
         "transliteration": "beQolo",
@@ -177,6 +184,7 @@
         "verse": 9
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "קוֹלָ֖ן",
         "transliteration": "qolan",
@@ -188,10 +196,10 @@
         }
       },
       "context": {
-        "hebrew": "לָהֶ֔ן וַתִּשֶּׂ֥אנָה **קוֹלָ֖ן** וַתִּבְכֶּֽינָה",
+        "hebrew": "לָהֶ֔ן וַתִּשֶּׂ֥אנָה **קוֹלָ֖ן** וַתִּבְכֶּֽינָה׃",
         "transliteration": "lahen vatTissenah **qolan** vatTivkeynah",
-        "englishLiteral": "to-them and-lifted **voice-their** and-wept",
-        "englishNatural": "to them and they lifted **their voice** and wept"
+        "englishLiteral": "to-them and-lifted **voice-their** and-wept.",
+        "englishNatural": "to them, and they lifted **their voice** and wept."
       }
     },
     {
@@ -201,6 +209,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "קוֹלָהּ",
         "transliteration": "qolah",
@@ -214,8 +223,8 @@
       "context": {
         "hebrew": "וּתְבוּנָה תִּתֵּן **קוֹלָהּ**",
         "transliteration": "uTevunah titten **qolah**",
-        "englishLiteral": "and-Understanding will-give **voice-her**",
-        "englishNatural": "and Understanding give **her voice**"
+        "englishLiteral": "and-Understanding will-give **voice-her?**",
+        "englishNatural": "and Understanding give **her voice?**"
       }
     },
     {
@@ -225,6 +234,7 @@
         "verse": 4
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "מִקּ֖וֹל",
         "transliteration": "miQol",
@@ -238,8 +248,8 @@
       "context": {
         "hebrew": "אַמּ֣וֹת הַסִּפִּ֔ים **מִקּ֖וֹל** הַקּוֹרֵ֑א וְהַבַּ֖יִת",
         "transliteration": "amot haSippim **miQol** haQore veHaBayit",
-        "englishLiteral": "pillars the-thresholds **from-voice** the-caller and-the-house",
-        "englishNatural": "And pillars of the thresholds **from the voice of** the caller and the house"
+        "englishLiteral": "pillars the-thresholds **from-voice** the-caller, and-the-house",
+        "englishNatural": "the thresholds shook **from the voice of** the caller, and the house"
       }
     },
     {
@@ -249,6 +259,7 @@
         "verse": 24
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "קוֹל",
         "transliteration": "qol",
@@ -262,8 +273,8 @@
       "context": {
         "hebrew": "וָאֶשְׁמַע אֶת־ **קוֹל** כַּנְפֵיהֶם כְּקוֹל",
         "transliteration": "vaEshma et- **qol** kanfeihem keQol",
-        "englishLiteral": "And-I-heard ↳ **voice-of** wings-their like-voice-of",
-        "englishNatural": "And I heard ↳ **the voice of** their wings like the voice of"
+        "englishLiteral": "And-I-heard ↳ **voice-of** wings-their, like-voice-of",
+        "englishNatural": "And I heard ↳ **the voice of** their wings, like the voice of"
       }
     },
     {
@@ -273,6 +284,7 @@
         "verse": 24
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "כְּקוֹל",
         "transliteration": "keQol",
@@ -286,8 +298,8 @@
       "context": {
         "hebrew": "קוֹל כַּנְפֵיהֶם **כְּקוֹל** מַיִם רַבִּים",
         "transliteration": "qol kanfeihem **keQol** mayim rabbim",
-        "englishLiteral": "voice-of wings-their **like-voice-of** waters many",
-        "englishNatural": "the voice of their wings **like the voice of** waters many"
+        "englishLiteral": "voice-of wings-their, **like-voice-of** waters many,",
+        "englishNatural": "the voice of their wings, **like the voice of** many waters,"
       }
     },
     {
@@ -297,6 +309,7 @@
         "verse": 24
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "כְּקוֹל־",
         "transliteration": "keQol-",
@@ -310,8 +323,8 @@
       "context": {
         "hebrew": "מַיִם רַבִּים **כְּקוֹל־** שַׁדַּי בְּלֶכְתָּם",
         "transliteration": "mayim rabbim **keQol-** shaddai beLekhtan",
-        "englishLiteral": "waters many **like-voice-of-** All_Powerful (Shaddai) in-going-their",
-        "englishNatural": "waters many **like the voice of** All-Powerful (Shaddai) in their going"
+        "englishLiteral": "waters many, **like-voice-of-** All_Powerful (Shaddai), in-going-their",
+        "englishNatural": "many waters, **like the voice of** All-Powerful (Shaddai), in their going"
       }
     },
     {
@@ -321,6 +334,7 @@
         "verse": 24
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "קוֹל",
         "transliteration": "qol",
@@ -334,8 +348,8 @@
       "context": {
         "hebrew": "שַׁדַּי בְּלֶכְתָּם **קוֹל** הֲמֻלָּה כְּקוֹל",
         "transliteration": "shaddai beLekhtan **qol** hamulah keQol",
-        "englishLiteral": "All_Powerful (Shaddai) in-going-their **voice-of** tumult like-voice-of",
-        "englishNatural": "All-Powerful (Shaddai) in their going **the voice of** tumult like the voice of"
+        "englishLiteral": "All_Powerful (Shaddai), in-going-their **voice-of** tumult, like-voice-of",
+        "englishNatural": "All-Powerful (Shaddai), in their going **the voice of** tumult, like the voice of"
       }
     },
     {
@@ -345,6 +359,7 @@
         "verse": 24
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "כְּקוֹל",
         "transliteration": "keQol",
@@ -358,8 +373,8 @@
       "context": {
         "hebrew": "קוֹל הֲמֻלָּה **כְּקוֹל** מַחֲנֶה בְּעָמְדָם",
         "transliteration": "qol hamulah **keQol** machaneh beAmdam",
-        "englishLiteral": "voice-of tumult **like-voice-of** camp in-standing-their",
-        "englishNatural": "the voice of tumult **like the voice of** a camp in their standing"
+        "englishLiteral": "voice-of tumult, **like-voice-of** camp; in-standing-their",
+        "englishNatural": "the voice of tumult, **like the voice of** a camp; in their standing"
       }
     },
     {
@@ -369,6 +384,7 @@
         "verse": 25
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "קוֹל",
         "transliteration": "qol",
@@ -393,6 +409,7 @@
         "verse": 28
       },
       "wordIndex": 21,
+      "sourceOrder": 21,
       "word": {
         "originalScript": "קוֹל",
         "transliteration": "qol",
@@ -406,8 +423,8 @@
       "context": {
         "hebrew": "פָּנַי וָאֶשְׁמַע **קוֹל** מְדַבֵּר",
         "transliteration": "panai vaEshma **qol** medabber",
-        "englishLiteral": "faces-my and-I-heard **voice** speaking",
-        "englishNatural": "my face and I heard **a voice** speaking"
+        "englishLiteral": "faces-my, and-I-heard **voice** speaking.",
+        "englishNatural": "my face, and I heard **a voice** speaking."
       }
     },
     {
@@ -417,6 +434,7 @@
         "verse": 2
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "קוֹלִי",
         "transliteration": "qoli",
@@ -430,8 +448,8 @@
       "context": {
         "hebrew": "שִׁוַּעְתִּי שָׁמַעְתָּ **קוֹלִי**",
         "transliteration": "shivati shamata **qoli**",
-        "englishLiteral": "I-cried_out you-heard **voice-my**",
-        "englishNatural": "I cried-out you heard **my voice**"
+        "englishLiteral": "I-cried_out, you-heard **voice-my.**",
+        "englishNatural": "I cried-out, you heard **my voice.**"
       }
     },
     {
@@ -441,6 +459,7 @@
         "verse": 9
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "בְּקוֹל",
         "transliteration": "beqol",
@@ -454,8 +473,8 @@
       "context": {
         "hebrew": "וַאֲנִי **בְּקוֹל** תּוֹדָה אֶזְבְּחָה־",
         "transliteration": "vaAni **beqol** todah ezbechah-",
-        "englishLiteral": "And-I **with-voice-of** thanksgiving I-will-sacrifice-",
-        "englishNatural": "And I **with a voice of** thanksgiving I will sacrifice"
+        "englishLiteral": "And-I **with-voice-of** thanksgiving, I-will-sacrifice-",
+        "englishNatural": "And I **with a voice of** thanksgiving, I will sacrifice"
       }
     }
   ]

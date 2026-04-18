@@ -9,6 +9,7 @@
         "verse": 4
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "נָפוּץ",
         "transliteration": "naFuts",
@@ -35,6 +36,7 @@
         "verse": 8
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיָּפֶץ",
         "transliteration": "vayYafetz",
@@ -51,7 +53,7 @@
         "hebrew": "**וַיָּפֶץ** יְהוָה אֹתָם",
         "transliteration": "**vayYafetz** YHWH otam",
         "englishLiteral": "**And-he-scattered** He_Who_Is (YHWH) ↳ them",
-        "englishNatural": "**scattered** And He-Who-Is (YHWH) them"
+        "englishNatural": "And He-Who-Is (YHWH) **scattered** them from there"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 9
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "הֱפִיצָם",
         "transliteration": "hephitzam",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "הָאָרֶץ וּמִשָּׁם **הֱפִיצָם** יְהוָה עַל־",
         "transliteration": "haAretz umisham **hephitzam** YHWH al-",
-        "englishLiteral": "the-land and-from-there **he-scattered-them** He_Who_Is (YHWH) over-",
-        "englishNatural": "the land and from there **scattered them** He-Who-Is (YHWH) over"
+        "englishLiteral": "the-land, and-from-there **he-scattered-them** He_Who_Is (YHWH) over-",
+        "englishNatural": "and from there He-Who-Is (YHWH) **scattered them** over the face of"
       }
     }
   ]

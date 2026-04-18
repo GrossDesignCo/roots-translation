@@ -10,6 +10,7 @@
         "verse": 30
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וָאֶהְיֶה",
         "transliteration": "vaEhyeh",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "**וָאֶהְיֶה** אֶצְלוֹ אָמוֹן",
         "transliteration": "**vaEhyeh** etslo amon",
-        "englishLiteral": "**and-I-was** beside-him master_craftsman",
-        "englishNatural": "**and I was** beside him a master-craftsman"
+        "englishLiteral": "**and-I-was** beside-him master_craftsman,",
+        "englishNatural": "**and I was** beside him a master-craftsman,"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 30
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "וָאֶהְיֶה",
         "transliteration": "vaEhyeh",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "אֶצְלוֹ אָמוֹן **וָאֶהְיֶה** שַׁעֲשֻׁעִים יוֹם",
         "transliteration": "etslo amon **vaEhyeh** shaashuim yom",
-        "englishLiteral": "beside-him master_craftsman **and-I-was** darlings day",
-        "englishNatural": "beside him a master-craftsman **and I was** darlings day"
+        "englishLiteral": "beside-him master_craftsman, **and-I-was** darlings day",
+        "englishNatural": "beside him a master-craftsman, **and I was** darlings day"
       }
     }
   ]

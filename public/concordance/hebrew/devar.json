@@ -10,6 +10,7 @@
         "verse": 20
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "דְּבַר",
         "transliteration": "devar",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וּבְכָל־ **דְּבַר** חָכְמַת בִּינָה",
         "transliteration": "uVeKol- **devar** chokhmat binah",
-        "englishLiteral": "and-in-all- **matter-of** wisdom-of understanding",
-        "englishNatural": "And in all **the matters of** the wisdom of understanding"
+        "englishLiteral": "and-in-all- **matter-of** wisdom-of understanding,",
+        "englishNatural": "And in all **the matters of** the wisdom of understanding,"
       }
     }
   ]

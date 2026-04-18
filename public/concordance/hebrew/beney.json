@@ -10,6 +10,7 @@
         "verse": 4
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "בְנֵי",
         "transliteration": "beney",
@@ -24,7 +25,7 @@
         "hebrew": "אֲשֶׁר יָבֹאוּ **בְנֵי** הָאֱלֹהִים אֶל־",
         "transliteration": "asher yavou **beney** haElohim el-",
         "englishLiteral": "which they-came **sons-of** the-Gods to",
-        "englishNatural": "which came **the sons of** God to"
+        "englishNatural": "so, which **the sons of** God came"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 5
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "בְּנֵי",
         "transliteration": "beney",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "אֲשֶׁר בָּנוּ **בְּנֵי** הָאָדָם",
         "transliteration": "asher banu **beney** haAdam",
-        "englishLiteral": "which they-had-built **sons-of** the-Earthling (Adam)",
-        "englishNatural": "which had built **the sons of** the Earthling (Adam)"
+        "englishLiteral": "which they-had-built **sons-of** the-Earthling (Adam).",
+        "englishNatural": "the tower which **the sons of** the Earthling (Adam) had built."
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 15
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "בְּנֵי",
         "transliteration": "beney",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "תֹאמַר אֶל־ **בְּנֵי** יִשְׂרָאֵל יְהוָה",
         "transliteration": "tomar el- **beney** Yisrael YHWH",
-        "englishLiteral": "you-will-say to- **sons-of** Struggles_with_God (Israel) He_Who_Is (YHWH)",
-        "englishNatural": "you will say to **the sons of** Struggles-with-God (Israel) He-Who-Is (YHWH)"
+        "englishLiteral": "you-will-say to- **sons-of** Struggles_with_God (Israel), 'He_Who_Is (YHWH),",
+        "englishNatural": "you will say to **the sons of** Struggles-with-God (Israel), 'He-Who-Is (YHWH),"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 7
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "בְּנֵ֣י",
         "transliteration": "beney",
@@ -96,7 +100,7 @@
         "hebrew": "וּלְכֹ֣ל **בְּנֵ֣י** יִשְׂרָאֵ֗ל לֹ֤א",
         "transliteration": "uLekhol **beney** Yisrael lo",
         "englishLiteral": "and-to-all **sons-of** Struggles_With_God (Israel) not",
-        "englishNatural": "And to all **the sons of** Struggles-With-God (Israel) not"
+        "englishNatural": "And to all **the sons of** Struggles-With-God (Israel) a dog"
       }
     },
     {
@@ -106,6 +110,7 @@
         "verse": 7
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "בְּנֵי",
         "transliteration": "beney",
@@ -119,8 +124,8 @@
       "context": {
         "hebrew": "בָּנִים וְעַל־ **בְּנֵי** בָנִים עַל־",
         "transliteration": "banim veAl- **beney** vanim al-",
-        "englishLiteral": "sons and-over- **sons-of** sons over-",
-        "englishNatural": "sons and on **sons of** sons on"
+        "englishLiteral": "sons and-over- **sons-of** sons, over-",
+        "englishNatural": "sons and on **sons of** sons, on"
       }
     }
   ]

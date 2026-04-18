@@ -10,6 +10,7 @@
         "verse": 10
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "בָּבֶל",
         "transliteration": "Babel",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "רֵאשִׁית מַמְלַכְתּוֹ **בָּבֶל** וְאֶרֶךְ וְאַכַּד",
         "transliteration": "reshit mamlakhto **Babel** veErekh veAkkad",
-        "englishLiteral": "heading-of his-kingdom **Confusion (Babylon)** and-Length (Erech) and-Fortress (Akkadia)",
-        "englishNatural": "and the heading of his kingdom **Confusion (Babylon)** and Length (Erech) and Fortress (Akkadia)"
+        "englishLiteral": "heading-of his-kingdom **Confusion (Babylon),** and-Length (Erech), and-Fortress (Akkadia),",
+        "englishNatural": "his kingdom was **Confusion (Babylon),** and Length (Erech), and Fortress (Akkadia),"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 9
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "בָּבֶל",
         "transliteration": "Babel",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "קָרָא שְׁמָהּ **בָּבֶל** כִּי־ שָׁם",
         "transliteration": "qara shemah **Babel** ki- sham",
-        "englishLiteral": "he-called name-of-her **Confusion (Babylon)** that- there",
-        "englishNatural": "he called the name of it **Confusion (Babylon)** that there"
+        "englishLiteral": "he-called name-of-her **Confusion (Babylon),** that- there",
+        "englishNatural": "he called the name of it **Confusion (Babylon),** that there"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 29
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "שְׁמוֹ",
         "transliteration": "shmo",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וַיִּקְרָא אֶת־ **שְׁמוֹ** נֹחַ לֵאמֹר",
         "transliteration": "vaYiqra et- **shmo** Noach leEmor",
-        "englishLiteral": "And-called_out ↳ **his-name** Rest (Noah) to-say",
-        "englishNatural": "And he called-out ↳ **his name** Rest (Noah) to say"
+        "englishLiteral": "And-called_out ↳ **his-name** \"Rest (Noah),\" to-say,",
+        "englishNatural": "And he called-out ↳ **his name** \"Rest (Noah),\" to say,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "שְׁמ֑וֹ",
         "transliteration": "shmo",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "ע֖וּץ אִיּ֣וֹב **שְׁמ֑וֹ** וְהָיָ֣ה הָאִ֣ישׁ",
         "transliteration": "Uts Iyov **shmo** veHayah haIsh",
-        "englishLiteral": "Counsel (Uz) Persecuted (Job) **his-name** and-was the-man",
-        "englishNatural": "Counsel (Uz) Persecuted (Job) **his name** was man"
+        "englishLiteral": "Counsel (Uz), Persecuted (Job) **his-name;** and-was the-man",
+        "englishNatural": "Counsel (Uz), Persecuted (Job) **his name;** and that man"
       }
     }
   ]

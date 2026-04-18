@@ -9,6 +9,7 @@
         "verse": 15
       },
       "wordIndex": 26,
+      "sourceOrder": 26,
       "word": {
         "originalScript": "βόσκε",
         "transliteration": "boske",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "λέγει αὐτῷ **βόσκε** τὰ ἀρνία",
         "transliteration": "legei autō **boske** ta arnia",
-        "englishLiteral": "He-says to-him **Feed** the lambs",
-        "englishNatural": "He says to him **Feed** these lambs"
+        "englishLiteral": "He-says to-him, **\"Feed** the lambs",
+        "englishNatural": "He says to him, **\"Feed** these lambs"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 17
       },
       "wordIndex": 32,
+      "sourceOrder": 32,
       "word": {
         "originalScript": "βόσκε",
         "transliteration": "boske",
@@ -48,8 +50,8 @@
       "context": {
         "hebrew": "λέγει αὐτῷ **βόσκε** τὰ πρόβατά",
         "transliteration": "legei autō **boske** ta probata",
-        "englishLiteral": "He-says to-him **Feed** these sheep",
-        "englishNatural": "He says to him **Feed** these sheep"
+        "englishLiteral": "He-says to-him, **\"Feed** these sheep",
+        "englishNatural": "He says to him, **\"Feed** these sheep"
       }
     }
   ]

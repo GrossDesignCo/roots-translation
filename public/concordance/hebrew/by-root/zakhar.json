@@ -9,6 +9,7 @@
         "verse": 27
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "זָכָ֥ר",
         "transliteration": "zakhar",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "בָּרָ֣א אֹת֑וֹ **זָכָ֥ר** וּנְקֵבָ֖ה בָּרָ֥א",
         "transliteration": "bara oto **zakhar** uNekevah bara",
-        "englishLiteral": "created him **male** and-female created",
-        "englishNatural": "created him **male** and female created"
+        "englishLiteral": "created him, **male** and-female, created",
+        "englishNatural": "created him, **male** and female, created"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "זָכָר",
         "transliteration": "zakhar",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "**זָכָר** וּנְקֵבָה בְּרָאָם",
         "transliteration": "**zakhar** uNeqevah beroam",
-        "englishLiteral": "**male** and-female he-created",
-        "englishNatural": "**Male** and female he created"
+        "englishLiteral": "**male** and-female he-created;",
+        "englishNatural": "**Male** and female he created;"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 19
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "זָכָר",
         "transliteration": "zakhar",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "לְהַחֲיֹת אִתָּךְ **זָכָר** וּנְקֵבָה יִהְיוּ",
         "transliteration": "leHachayot itakh **zakhar** uNeqevah yihyu",
-        "englishLiteral": "to-keep_alive with-you **male** and-female they-will-be",
-        "englishNatural": "to keep-alive with you **male** and female they will be"
+        "englishLiteral": "to-keep_alive with-you; **male** and-female they-will-be.",
+        "englishNatural": "to keep-alive with you; **male** and female they will be."
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 9
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "זָכָר",
         "transliteration": "zakhar",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "אֶל־ הַתֵּבָה **זָכָר** וּנְקֵבָה כַּאֲשֶׁר",
         "transliteration": "el- haTevah **zakhar** uNeqevah kaAsher",
-        "englishLiteral": "to- the-ark **male** and-female as-which",
-        "englishNatural": "to the ark **male** and female as which"
+        "englishLiteral": "to- the-ark, **male** and-female, as-which",
+        "englishNatural": "to the ark, **male** and female, as which"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 7
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "זָכַרְתִּי",
         "transliteration": "zakharti",
@@ -120,8 +125,8 @@
       "context": {
         "hebrew": "אֶת־ יְהוָה **זָכַרְתִּי** וַתָּבוֹא אֵלֶיךָ",
         "transliteration": "et- YHWH **zakharti** vatavo elekha",
-        "englishLiteral": "↳ He_Who_Is (YHWH) **I-remembered** and-came to-you",
-        "englishNatural": "↳ He-Who-Is (YHWH) **I remembered** and came to you"
+        "englishLiteral": "↳ He_Who_Is (YHWH) **I-remembered;** and-came to-you",
+        "englishNatural": "↳ He-Who-Is (YHWH) **I remembered;** and came to you"
       }
     }
   ]

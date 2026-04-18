@@ -10,6 +10,7 @@
         "verse": 20
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "חַיָּ֑ה",
         "transliteration": "chayah",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "שֶׁ֖רֶץ נֶ֣פֶשׁ **חַיָּ֑ה** וְעוֹף֙ יְעוֹפֵ֣ף",
         "transliteration": "sherets nephesh **chayah** veOf yeOfef",
-        "englishLiteral": "swarm throat **living** And-flyer let-fly",
-        "englishNatural": "a swarm throat **living** And let flyer fly"
+        "englishLiteral": "swarm throat **living,** And-flyer let-fly",
+        "englishNatural": "swarm with a swarm, **living** throat, And let flyer"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 24
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "חַיָּה֙",
         "transliteration": "chayah",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "הָאָ֜רֶץ נֶ֤פֶשׁ **חַיָּה֙** לְמִינָ֔הּ בְּהֵמָ֥ה",
         "transliteration": "haAretz nephesh **chayah** leMinah behemah",
-        "englishLiteral": "the-land throat **living** to-its-kind beast",
-        "englishNatural": "Let the land throat **living** to its kind beast"
+        "englishLiteral": "the-land throat **living,** to-its-kind, beast,",
+        "englishNatural": "\"Let the land bring-out **living** throat, to its kind,"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 28
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "חַיָּ֖ה",
         "transliteration": "chayah",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "הַשָּׁמַ֔יִם וּבְכָל־ **חַיָּ֖ה** הָֽרֹמֶ֖שֶׂת עַל־",
         "transliteration": "haShamayim uVeKol- **chayah** haRomeset al-",
-        "englishLiteral": "the-skies and-in-all **living-being** the-crawling over",
-        "englishNatural": "the skies and in all **living thing** the crawling over"
+        "englishLiteral": "the-skies, and-in-all **living-being** the-crawling over",
+        "englishNatural": "and in all the crawling **living thing** over the land.\""
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 30
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "חַיָּ֖ה",
         "transliteration": "chayah",
@@ -96,7 +100,7 @@
         "hebrew": "בּ֛וֹ נֶ֥פֶשׁ **חַיָּ֖ה** אֶת־ כָּל־",
         "transliteration": "bo nephesh **chayah** et- kol-",
         "englishLiteral": "in-it throat **living** ↳ all",
-        "englishNatural": "in it is throat **living** ↳ all"
+        "englishNatural": "which in it is **living** throat: ↳"
       }
     },
     {
@@ -106,6 +110,7 @@
         "verse": 5
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "חַיָּה",
         "transliteration": "chayah",
@@ -119,8 +124,8 @@
       "context": {
         "hebrew": "מִיַּד כָּל־ **חַיָּה** אֶדְרְשֶׁנּוּ וּמִיַּד",
         "transliteration": "miYad kol- **chayah** edreshennu uMiYad",
-        "englishLiteral": "from-hand-of all- **living_being** I-will-require-it and-from-hand-of",
-        "englishNatural": "from the hand of all **living-being** I will require it and from the hand of"
+        "englishLiteral": "from-hand-of all- **living_being** I-will-require-it; and-from-hand-of",
+        "englishNatural": "from the hand of all **living-being** I will require it; and from the hand of"
       }
     },
     {
@@ -130,6 +135,7 @@
         "verse": 12
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "חַיָּה",
         "transliteration": "chayah",
@@ -143,8 +149,8 @@
       "context": {
         "hebrew": "כָּל־ נֶפֶשׁ **חַיָּה** אֲשֶׁר אִתְּכֶם",
         "transliteration": "kol- nefesh **chayah** asher itkhem",
-        "englishLiteral": "all- wind-of **living_being** which with-you",
-        "englishNatural": "all the wind of **the living-being** which is with you"
+        "englishLiteral": "all- wind-of **living_being** which with-you,",
+        "englishNatural": "all the wind of **the living-being** which is with you,"
       }
     }
   ]

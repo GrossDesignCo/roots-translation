@@ -10,6 +10,7 @@
         "verse": 23
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אָרֶץ",
         "transliteration": "aretz",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "מֵרֹאשׁ מִקַּדְמֵי־ **אָרֶץ**",
         "transliteration": "meRosh miQadmei **aretz**",
-        "englishLiteral": "from-heading from-east-of **land**",
-        "englishNatural": "from the heading from the-east of **land**"
+        "englishLiteral": "from-heading, from-east-of **land.**",
+        "englishNatural": "from the heading, from the-east of **land.**"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 29
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אָרֶץ",
         "transliteration": "aretz",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "בְּחוּקוֹ מוֹסְדֵי **אָרֶץ**",
         "transliteration": "beChuqo mosdei **aretz**",
-        "englishLiteral": "in-inscribing-his foundations-of **land**",
-        "englishNatural": "in his inscribing the foundations of **land**"
+        "englishLiteral": "in-inscribing-his foundations-of **land.**",
+        "englishNatural": "in his inscribing the foundations of **land.**"
       }
     }
   ]

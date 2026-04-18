@@ -9,6 +9,7 @@
         "verse": 30
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "פִּשְׁרָא",
         "transliteration": "pishra",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "בְּדִבְרַת דִּי **פִּשְׁרָא** לְמַלְכָּא יְהוֹדְעוּן",
         "transliteration": "beDivrat di **pishra** leMalka yehodun",
-        "englishLiteral": "on-word-of which **interpretation-the** to-king-the they-will-make-known",
-        "englishNatural": "on the word of which **the interpretation** to the king might be made known"
+        "englishLiteral": "on-word-of which **interpretation-the** to-king-the they-will-make-known,",
+        "englishNatural": "on the word of which **the interpretation** might be made known to the king,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 36
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וּפִשְׁרֵהּ",
         "transliteration": "uFishreH",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "דְּנָה חֶלְמָא **וּפִשְׁרֵהּ** נֵאמַר קֳדָם",
         "transliteration": "denah chelma **uFishreH** nemar qodam",
-        "englishLiteral": "this dream-the **and-interpretation-its** we-will-tell before",
-        "englishNatural": "This the dream **and its interpretation** we will tell before"
+        "englishLiteral": "this dream-the, **and-interpretation-its** we-will-tell before",
+        "englishNatural": "This, the dream, **and its interpretation,** we will tell before"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 45
       },
       "wordIndex": 30,
+      "sourceOrder": 30,
       "word": {
         "originalScript": "פִּשְׁרֵהּ",
         "transliteration": "pishreh",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "חֶלְמָא וּמְהֵימַן **פִּשְׁרֵהּ**",
         "transliteration": "chelma uMeheman **pishreh**",
-        "englishLiteral": "dream-the and-trustworthy **interpretation-its**",
-        "englishNatural": "is the dream and trustworthy **is its interpretation**"
+        "englishLiteral": "dream-the, and-trustworthy **interpretation-its.\"**",
+        "englishNatural": "is the dream, and trustworthy **is its interpretation.\"**"
       }
     }
   ]

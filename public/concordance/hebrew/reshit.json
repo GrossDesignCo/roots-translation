@@ -10,6 +10,7 @@
         "verse": 10
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "רֵאשִׁית",
         "transliteration": "reshit",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וַתְּהִי **רֵאשִׁית** מַמְלַכְתּוֹ בָּבֶל",
         "transliteration": "vatehi **reshit** mamlakhto Babel",
-        "englishLiteral": "And-was **heading-of** his-kingdom Confusion (Babylon)",
-        "englishNatural": "was **and the heading of** his kingdom Confusion (Babylon)"
+        "englishLiteral": "And-was **heading-of** his-kingdom Confusion (Babylon),",
+        "englishNatural": "**and the heading of** his kingdom was"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 7
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "רֵאשִׁית",
         "transliteration": "reshit",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "יִרְאַת יְהוָה **רֵאשִׁית** דָּעַת חָכְמָה",
         "transliteration": "yirat YHWH **reshit** daat chokmah",
-        "englishLiteral": "Fear-of He_Who_Is (YHWH) **heading-of** knowledge Wisdom",
-        "englishNatural": "Fear of He-Who-Is (YHWH) **heading of** knowledge Wisdom"
+        "englishLiteral": "Fear-of He_Who_Is (YHWH), **heading-of** knowledge; Wisdom",
+        "englishNatural": "Fear of He-Who-Is (YHWH), **heading of** knowledge; Wisdom"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 22
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "רֵאשִׁית",
         "transliteration": "reshit",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "יְהוָה קָנָנִי **רֵאשִׁית** דַּרְכּוֹ קֶדֶם",
         "transliteration": "YHWH qanani **reshit** darko qedem",
-        "englishLiteral": "He_Who_Is (YHWH) acquired-me **heading-of** way-his before",
-        "englishNatural": "He-Who-Is (YHWH) acquired me **the heading of** his way before"
+        "englishLiteral": "He_Who_Is (YHWH) acquired-me, **heading-of** way-his, before",
+        "englishNatural": "He-Who-Is (YHWH) acquired me, **the heading of** his way, before"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְכֻלּוּ",
         "transliteration": "vaYechullu",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "**וַיְכֻלּוּ** הַשָּׁמַיִם וְהָאָרֶץ",
         "transliteration": "**vaYechullu** haShamayim veHaAretz",
-        "englishLiteral": "**And-were-finished** the-skies and-the-land",
-        "englishNatural": "**And finished were** the skies and the land"
+        "englishLiteral": "**And-were-finished** the-skies, and-the-land,",
+        "englishNatural": "**And finished were** the skies, and the land,"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְכַל",
         "transliteration": "vaYechal",
@@ -51,7 +53,7 @@
         "hebrew": "**וַיְכַל** אֱלֹהִים בַּיּוֹם",
         "transliteration": "**vaYechal** Elohim baYom",
         "englishLiteral": "**And-finished** Gods in-day",
-        "englishNatural": "**finished** And God day"
+        "englishNatural": "And God **finished** in the seventh day,"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 16
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "תְּכַלֶּנָּה",
         "transliteration": "tekhalennah",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "וְאֶל־ אַמָּה **תְּכַלֶּנָּה** מִלְמַעְלָה וּפֶתַח",
         "transliteration": "veEl- ammah **tekhalennah** milMaalah uFetach",
-        "englishLiteral": "and-to- cubit **you-shall-finish-her** from-to-upward and-opening-of",
-        "englishNatural": "and to a cubit **you shall finish it** from upward and the opening of"
+        "englishLiteral": "and-to- cubit **you-shall-finish-her** from-to-upward; and-opening-of",
+        "englishNatural": "and to a cubit **you shall finish it** from upward; and the opening of"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 1
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "כָּלָ֔ה",
         "transliteration": "kalah",
@@ -100,8 +104,8 @@
       "context": {
         "hebrew": "מִזֶּ֑ה כְּשַׁלְּח֣וֹ **כָּלָ֔ה** גָּרֵ֛שׁ יְגָרֵ֥שׁ",
         "transliteration": "mizeh keShalcho **kalah** garesh yegaresh",
-        "englishLiteral": "from-this as-sending_out-him **finishing** banishing he-will-banish",
-        "englishNatural": "from this as his sending-out **finishing** banishing he will banish"
+        "englishLiteral": "from-this; as-sending_out-him **finishing,** banishing he-will-banish",
+        "englishNatural": "from this, as his sending-out, **finishing,** banishing he will banish"
       }
     }
   ]

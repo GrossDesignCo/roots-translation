@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "תֹאכְלוּ",
         "transliteration": "tokhlu",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "אֱלֹהִים לֹא **תֹאכְלוּ** מִכֹּל עֵץ",
         "transliteration": "Elohim lo **tokhlu** miKol etz",
-        "englishLiteral": "Gods Not **you-shall-eat** from-all tree",
-        "englishNatural": "God not **You shall eat** from any tree"
+        "englishLiteral": "Gods, 'Not **you-shall-eat** from-all tree",
+        "englishNatural": "God said **'You shall eat** not from any"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 3
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "תֹאכְלוּ",
         "transliteration": "tokhlu",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "אֱלֹהִים לֹא **תֹאכְלוּ** מִמֶּנּוּ וְלֹא",
         "transliteration": "Elohim lo **tokhlu** mimenu velo",
-        "englishLiteral": "Gods Not **you-shall-eat** from-it and-not",
-        "englishNatural": "God not **You shall eat** from it not"
+        "englishLiteral": "Gods, 'Not **you-shall-eat** from-it, and-not",
+        "englishNatural": "God said, **'You shall eat** from it not,"
       }
     }
   ]

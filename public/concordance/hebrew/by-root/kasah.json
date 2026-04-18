@@ -9,6 +9,7 @@
         "verse": 2
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "יְכַסֶּה",
         "transliteration": "yeKhasseh",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "לְאֶחָד בִּשְׁתַּיִם **יְכַסֶּה** פָּנָיו וּבִשְׁתַּיִם",
         "transliteration": "leEchad biShtayim **yeKhasseh** panav uViShtayim",
-        "englishLiteral": "to-one in-two **he-covers** his-faces and-in-two",
-        "englishNatural": "to each one in two **he covers** his faces and in two"
+        "englishLiteral": "to-one, in-two **he-covers** his-faces, and-in-two",
+        "englishNatural": "to each one, in two **he covers** his faces, and in two"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 2
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "יְכַסֶּה",
         "transliteration": "yeKhasseh",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "פָּנָיו וּבִשְׁתַּיִם **יְכַסֶּה** רַגְלָיו וּבִשְׁתַּיִם",
         "transliteration": "panav uViShtayim **yeKhasseh** raglav uViShtayim",
-        "englishLiteral": "his-faces and-in-two **he-covers** his-feet and-in-two",
-        "englishNatural": "his faces and in two **he covers** his feet and in two"
+        "englishLiteral": "his-faces, and-in-two **he-covers** his-feet, and-in-two",
+        "englishNatural": "his faces, and in two **he covers** his feet, and in two"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 11
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "מְכַסּוֹת",
         "transliteration": "mekhasot",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "אִישׁ וּשְׁתַּיִם **מְכַסּוֹת** אֵת גְּוִיֹּתֵיהֶנָה",
         "transliteration": "ish uShtayim **mekhasot** et geviyoteihenah",
-        "englishLiteral": "man and-two **covering** ↳ bodies-their",
-        "englishNatural": "man and two **covering** ↳ their bodies"
+        "englishLiteral": "man, and-two **covering** ↳ bodies-their.",
+        "englishNatural": "to man, and two **covering** ↳ their bodies."
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 23
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "מְכַסּוֹת",
         "transliteration": "mekhasot",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "לְאִישׁ שְׁתַּיִם **מְכַסּוֹת** לָהֵנָּה וּלְאִישׁ",
         "transliteration": "leIsh shtayim **mekhasot** lahenah uLeIsh",
-        "englishLiteral": "to-man two **covering** to-them and-to-man",
-        "englishNatural": "to a man two **a covering** to them to a man"
+        "englishLiteral": "to-man two, **covering** to-them, and-to-man",
+        "englishNatural": "two to a man, **a covering** to them, and two"
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 23
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "מְכַסּוֹת",
         "transliteration": "mekhasot",
@@ -128,8 +133,8 @@
       "context": {
         "hebrew": "וּלְאִישׁ שְׁתַּיִם **מְכַסּוֹת** לָהֵנָּה אֵת",
         "transliteration": "uLeIsh shtayim **mekhasot** lahenah et",
-        "englishLiteral": "and-to-man two **covering** to-them ↳",
-        "englishNatural": "to a man and two **a covering** to them ↳"
+        "englishLiteral": "and-to-man two, **covering** to-them ↳",
+        "englishNatural": "and two to a man, **a covering** to them ↳"
       }
     },
     {
@@ -139,6 +144,7 @@
         "verse": 6
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "וַיְכַס",
         "transliteration": "vaYekhas",
@@ -154,8 +160,8 @@
       "context": {
         "hebrew": "אַדַּרְתּוֹ מֵעָלָיו **וַיְכַס** שַׂק וַיֵּשֶׁב",
         "transliteration": "adaretto meAlav **vaYekhas** saq vaYeshev",
-        "englishLiteral": "robe-his from-over-him **and-covered** sackcloth and-sat",
-        "englishNatural": "his robe from over him **and covered** sackcloth and sat"
+        "englishLiteral": "robe-his from-over-him, **and-covered** sackcloth, and-sat",
+        "englishNatural": "his robe from over him, **and covered** sackcloth, and sat"
       }
     },
     {
@@ -165,6 +171,7 @@
         "verse": 8
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְיִתְכַּסּוּ",
         "transliteration": "veYitkassu",
@@ -180,8 +187,8 @@
       "context": {
         "hebrew": "**וְיִתְכַּסּוּ** שַׂק הָאָדָם",
         "transliteration": "**veYitkassu** saq haAdam",
-        "englishLiteral": "**And-they-will-be-covered** sackcloth the-Earthling (Adam)",
-        "englishNatural": "**And they will be covered** sackcloth the Earthling (Adam)"
+        "englishLiteral": "**And-they-will-be-covered** sackcloth, the-Earthling (Adam)",
+        "englishNatural": "**And they will be covered** sackcloth, the Earthling (Adam)"
       }
     }
   ]

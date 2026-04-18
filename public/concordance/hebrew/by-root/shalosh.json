@@ -9,6 +9,7 @@
         "verse": 22
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "שְׁלֹשׁ",
         "transliteration": "shalosh",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "אֶת־ מְתוּשָׁלַח **שְׁלֹשׁ** מֵאוֹת שָׁנָה",
         "transliteration": "et- Metushalach **shalosh** meot shanah",
-        "englishLiteral": "↳ Man-of-the-Dart (Methuselah) **three** hundreds year",
-        "englishNatural": "↳ Man-of-the-Dart (Methuselah) **three** hundred years"
+        "englishLiteral": "↳ \"Man-of-the-Dart (Methuselah),\" **three** hundreds year,",
+        "englishNatural": "↳ \"Man-of-the-Dart (Methuselah),\" **three** hundred years,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 23
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "וּשְׁלֹשׁ",
         "transliteration": "uShalosh",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וְשִׁשִּׁים שָׁנָה **וּשְׁלֹשׁ** מֵאוֹת שָׁנָה",
         "transliteration": "veShishim shanah **uShalosh** meot shanah",
-        "englishLiteral": "and-sixty year **and-three** hundreds year",
-        "englishNatural": "and sixty years **and three** hundred years"
+        "englishLiteral": "and-sixty year **and-three** hundreds year.",
+        "englishNatural": "and sixty years **and three** hundred years."
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 10
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "שְׁלֹשָׁה",
         "transliteration": "shloshah",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "וַיּוֹלֶד נֹחַ **שְׁלֹשָׁה** בָנִים אֶת־",
         "transliteration": "vayYoled noach **shloshah** vanim et-",
-        "englishLiteral": "And-he-birthed Rest (Noah) **three** sons ↳",
-        "englishNatural": "birthed And Rest (Noah) **three** sons ↳"
+        "englishLiteral": "And-he-birthed Rest (Noah) **three** sons: ↳",
+        "englishNatural": "And Rest (Noah) birthed **three** sons: ↳"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 15
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "שְׁלֹשׁ",
         "transliteration": "shlosh",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "תַּעֲשֶׂה אֹתָהּ **שְׁלֹשׁ** מֵאוֹת אַמָּה",
         "transliteration": "taAseh otah **shlosh** meot ammah",
-        "englishLiteral": "you-shall-make her **three** hundreds cubit",
-        "englishNatural": "you shall make it **three** hundred cubits"
+        "englishLiteral": "you-shall-make her: **three** hundreds cubit",
+        "englishNatural": "you shall make it: **three** hundred cubits"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 13
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "וּשְׁלֹשֶׁת",
         "transliteration": "uShloshet",
@@ -129,6 +134,7 @@
         "verse": 28
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "שְׁלֹשׁ",
         "transliteration": "shelosh",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "אַחַר הַמַּבּוּל **שְׁלֹשׁ** מֵאוֹת שָׁנָה",
         "transliteration": "achar haMabbul **shelosh** meot shanah",
-        "englishLiteral": "after the-flood **three** hundreds year",
-        "englishNatural": "after the flood **three** hundred years"
+        "englishLiteral": "after the-flood, **three** hundreds year",
+        "englishNatural": "after the flood, **three** hundred years"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 2
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "שְׁלֹשָׁה",
         "transliteration": "shloshah",
@@ -166,8 +173,8 @@
       "context": {
         "hebrew": "הוּא וַתִּצְפְּנֵהוּ **שְׁלֹשָׁה** יְרָחִים",
         "transliteration": "hu vaTitzpenehu **shloshah** yerachim",
-        "englishLiteral": "he and-concealed-him **three** moon_cycles",
-        "englishNatural": "he was and she concealed him **three** moon-cycles"
+        "englishLiteral": "he, and-concealed-him **three** moon_cycles.",
+        "englishNatural": "good, and she concealed him **three** moon-cycles."
       }
     },
     {
@@ -177,6 +184,7 @@
         "verse": 3
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "שְׁלֹשֶׁת",
         "transliteration": "sheloshet",
@@ -191,7 +199,7 @@
         "hebrew": "נָּא דֶּרֶךְ **שְׁלֹשֶׁת** יָמִים בַּמִּדְבָּר",
         "transliteration": "na derekh **sheloshet** yamim baMidbar",
         "englishLiteral": "please way-of **three-of** days in-wilderness",
-        "englishNatural": "please a way of **three** days in Wilderness"
+        "englishNatural": "please, a way of **three** days in Wilderness,"
       }
     },
     {
@@ -201,6 +209,7 @@
         "verse": 22
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "שְׁלֹשֶׁת",
         "transliteration": "sheloshet",
@@ -214,8 +223,8 @@
       "context": {
         "hebrew": "אֶרֶץ מִצְרַיִם **שְׁלֹשֶׁת** יָמִים",
         "transliteration": "eretz Mitzrayim **sheloshet** yamim",
-        "englishLiteral": "land-of Double_Straits (Egypt) **three-of** days",
-        "englishNatural": "the land of Double-Straits (Egypt) **three** days"
+        "englishLiteral": "land-of Double_Straits (Egypt) **three-of** days.",
+        "englishNatural": "the land of Double-Straits (Egypt) **three** days."
       }
     },
     {
@@ -225,6 +234,7 @@
         "verse": 23
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "שְׁלֹשֶׁת",
         "transliteration": "sheloshet",
@@ -238,8 +248,8 @@
       "context": {
         "hebrew": "אִישׁ מִתַּחְתָּיו **שְׁלֹשֶׁת** יָמִים וּלְכָל־",
         "transliteration": "ish miTachtav **sheloshet** yamim uLeKhol-",
-        "englishLiteral": "man from-lowness-his **three-of** days and-to-all-",
-        "englishNatural": "and man from his lowness **three** days and to all"
+        "englishLiteral": "man from-lowness-his **three-of** days; and-to-all-",
+        "englishNatural": "not from his lowness **three** days; and to all"
       }
     },
     {
@@ -249,6 +259,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "בִּשְׁלֹשִׁים",
         "transliteration": "biShloshim",
@@ -262,8 +273,8 @@
       "context": {
         "hebrew": "וַיְהִי **בִּשְׁלֹשִׁים** שָׁנָה בָּרְבִיעִי",
         "transliteration": "vayehi **biShloshim** shanah baRevii",
-        "englishLiteral": "And-it-was **in-thirty** year in-fourth",
-        "englishNatural": "And it was **thirty** in year in the fourth"
+        "englishLiteral": "And-it-was **in-thirty** year, in-fourth,",
+        "englishNatural": "And it was in year **thirty,** in the fourth, in the five"
       }
     },
     {
@@ -273,6 +284,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "שָׁלוֹשׁ",
         "transliteration": "shalosh",
@@ -287,7 +299,7 @@
         "hebrew": "בִּשְׁנַת **שָׁלוֹשׁ** לְמַלְכוּת יְהוֹיָקִים",
         "transliteration": "biShnat **shalosh** leMalkhut Yehoyakim",
         "englishLiteral": "in-year-of **three** to-kingdom He_Will_Establish (Jehoiakim)",
-        "englishNatural": "In the year of **three** to the kingdom of He-Will-Establish (Jehoiakim)"
+        "englishNatural": "In the year of **three** to the kingdom of He-Will-Establish (Jehoiakim),"
       }
     },
     {
@@ -297,6 +309,7 @@
         "verse": 17
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "שְׁלֹשָׁה",
         "transliteration": "shloshah",
@@ -321,6 +334,7 @@
         "verse": 17
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "וּשְׁלֹשָׁה",
         "transliteration": "uShloshah",
@@ -334,8 +348,8 @@
       "context": {
         "hebrew": "שְׁלֹשָׁה יָמִים **וּשְׁלֹשָׁה** לֵילוֹת",
         "transliteration": "shloshah yamim **uShloshah** leilot",
-        "englishLiteral": "three days **and-three** nights",
-        "englishNatural": "three days **and three** nights"
+        "englishLiteral": "three days **and-three** nights.",
+        "englishNatural": "three days **and three** nights."
       }
     },
     {
@@ -345,6 +359,7 @@
         "verse": 3
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "שְׁלֹשֶׁת",
         "transliteration": "shloshet",
@@ -358,8 +373,8 @@
       "context": {
         "hebrew": "לֵאלֹהִים מַהֲלַךְ **שְׁלֹשֶׁת** יָמִים",
         "transliteration": "lElohim mahalakh **shloshet** yamim",
-        "englishLiteral": "to-Gods journey-of **three** days",
-        "englishNatural": "to God a journey of **three** days"
+        "englishLiteral": "to-Gods, journey-of **three** days.",
+        "englishNatural": "to God, a journey of **three** days."
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 11
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַתִּשָּׁחֵת",
         "transliteration": "vatTishachet",
@@ -25,7 +26,7 @@
         "hebrew": "**וַתִּשָּׁחֵת** הָאָרֶץ לִפְנֵי",
         "transliteration": "**vatTishachet** haAretz liFney",
         "englishLiteral": "**And-it-corrupted** the-land to-faces-of",
-        "englishNatural": "**corrupted** And the land to the face of"
+        "englishNatural": "And the land **corrupted** to the face of God,"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 12
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "נִשְׁחָתָה",
         "transliteration": "nishchatah",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "הָאָרֶץ וְהִנֵּה **נִשְׁחָתָה** כִּי־ הִשְׁחִית",
         "transliteration": "haAretz veHineh **nishchatah** ki- hishchit",
-        "englishLiteral": "the-land and-behold **it-had-corrupted** that- had-corrupted",
-        "englishNatural": "the land and behold **it had corrupted** that had corrupted"
+        "englishLiteral": "the-land, and-behold **it-had-corrupted;** that- had-corrupted",
+        "englishNatural": "the land, and behold **it had corrupted;** that all"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 12
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הִשְׁחִית",
         "transliteration": "hishchit",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "נִשְׁחָתָה כִּי־ **הִשְׁחִית** כָּל־ בָּשָׂר",
         "transliteration": "nishchatah ki- **hishchit** kol- basar",
-        "englishLiteral": "it-had-corrupted that- **had-corrupted** all- flesh",
-        "englishNatural": "it had corrupted that **had corrupted** all flesh"
+        "englishLiteral": "it-had-corrupted; that- **had-corrupted** all- flesh",
+        "englishNatural": "all flesh **had corrupted** ↳ its way"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 13
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "מַשְׁחִיתָם",
         "transliteration": "mashchitam",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "מִפְּנֵיהֶם וְהִנְנִי **מַשְׁחִיתָם** אֶת־ הָאָרֶץ",
         "transliteration": "mipPneihem veHineni **mashchitam** et- haAretz",
-        "englishLiteral": "from-faces-their and-behold-me **destroying** ↳ the-land",
-        "englishNatural": "from their faces and behold me **destroying** ↳ the land"
+        "englishLiteral": "from-faces-their; and-behold-me **destroying** ↳ the-land.\"",
+        "englishNatural": "from their faces; and behold me **destroying** ↳ the land.\""
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 17
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "לְשַׁחֵת",
         "transliteration": "leShachet",
@@ -128,8 +133,8 @@
       "context": {
         "hebrew": "עַל־ הָאָרֶץ **לְשַׁחֵת** כָּל־ בָּשָׂר",
         "transliteration": "al- haAretz **leShachet** kol- basar",
-        "englishLiteral": "over- the-land **to-destroy** all- flesh",
-        "englishNatural": "over the land **to destroy** all flesh"
+        "englishLiteral": "over- the-land, **to-destroy** all- flesh",
+        "englishNatural": "over the land, **to destroy** all flesh"
       }
     },
     {
@@ -139,6 +144,7 @@
         "verse": 11
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "לְשַׁחֵת",
         "transliteration": "leshachet",
@@ -154,8 +160,8 @@
       "context": {
         "hebrew": "עוֹד מַבּוּל **לְשַׁחֵת** הָאָרֶץ",
         "transliteration": "od mabbul **leshachet** haAretz",
-        "englishLiteral": "again flood **to-corrupt** the-land",
-        "englishNatural": "again a flood **to corrupt** the land"
+        "englishLiteral": "again flood **to-corrupt** the-land.",
+        "englishNatural": "again a flood **to corrupt** the land."
       }
     },
     {
@@ -165,6 +171,7 @@
         "verse": 6
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "מִשַּׁחַת",
         "transliteration": "mishachat",
@@ -178,8 +185,8 @@
       "context": {
         "hebrew": "לְעוֹלָם וַתַּעַל **מִשַּׁחַת** חַיַּי יְהוָה",
         "transliteration": "leolam vataaal **mishachat** chayai YHWH",
-        "englishLiteral": "to-the_age and-you-brought_up **from-corruption** life-my He_Who_Is (YHWH)",
-        "englishNatural": "to the-age and you brought-up **from corruption** my life He-Who-Is (YHWH)"
+        "englishLiteral": "to-the_age; and-you-brought_up **from-corruption** life-my, He_Who_Is (YHWH)",
+        "englishNatural": "to the-age; and you brought-up **from corruption** my life, He-Who-Is (YHWH)"
       }
     }
   ]

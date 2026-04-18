@@ -10,6 +10,7 @@
         "verse": 16
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "οὖν",
         "transliteration": "oun",
@@ -22,9 +23,9 @@
       },
       "context": {
         "hebrew": "λύκων γίνεσθε **οὖν** φρόνιμοι ὡς",
-        "transliteration": "lukon ginesthe **oun** phronimoi hos",
-        "englishLiteral": "wolves be **therefore** shrewd as",
-        "englishNatural": "wolves be **therefore** shrewd as"
+        "transliteration": "lukon; ginesthe **oun** phronimoi hos",
+        "englishLiteral": "wolves; be **therefore** shrewd as",
+        "englishNatural": "wolves; be **therefore** shrewd as"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 15
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "οὖν",
         "transliteration": "oun",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "Ὅτε **οὖν** ἠρίστησαν λέγει",
         "transliteration": "Hote **oun** ēristēsan legei",
-        "englishLiteral": "When **therefore** they-meal_shared he-says",
-        "englishNatural": "When **therefore** they had meal-shared says"
+        "englishLiteral": "When **therefore** they-meal_shared, he-says",
+        "englishNatural": "When **therefore** they had meal-shared, The"
       }
     }
   ]

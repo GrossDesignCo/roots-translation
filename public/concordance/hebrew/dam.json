@@ -10,6 +10,7 @@
         "verse": 6
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "דַּם",
         "transliteration": "dam",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "שֹׁפֵךְ **דַּם** הָאָדָם בָּאָדָם",
         "transliteration": "shofekh **dam** haAdam baAdam",
-        "englishLiteral": "One-pouring **blood-of** the-Earthling (Adam) in-Earthling (Adam)",
-        "englishNatural": "One-pouring **the blood of** the Earthling (Adam) in Earthling (Adam)"
+        "englishLiteral": "One-pouring **blood-of** the-Earthling (Adam), in-Earthling (Adam)",
+        "englishNatural": "One-pouring **the blood of** the Earthling (Adam), in Earthling (Adam)"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 14
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "דָּם",
         "transliteration": "dam",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "תִּתֵּן עָלֵינוּ **דָּם** נָקִיא כִּי־",
         "transliteration": "titten alenu **dam** naqi ki-",
-        "englishLiteral": "give over-us **blood** innocent that-",
-        "englishNatural": "and give over us **blood** innocent that"
+        "englishLiteral": "give over-us **blood** innocent; that-",
+        "englishNatural": "not innocent **blood;** that you"
       }
     }
   ]

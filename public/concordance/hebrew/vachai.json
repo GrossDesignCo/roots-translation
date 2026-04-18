@@ -10,6 +10,7 @@
         "verse": 22
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "וָחַי",
         "transliteration": "vaChai",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "הַחַיִּים וְאָכַל **וָחַי** לְעֹלָם׃",
         "transliteration": "haChayyim veAkhal **vaChai** leOlam",
-        "englishLiteral": "the-lives and-eat **and-live** to-the_age",
-        "englishNatural": "of Life and eat **and live** to the-age"
+        "englishLiteral": "the-lives and-eat **and-live** to-the_age—\"",
+        "englishNatural": "of Life and eat **and live** to the-age—\""
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 8
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "וָחָי",
         "transliteration": "vaChai",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "וְרָאָה אֹתוֹ **וָחָי**",
         "transliteration": "veRaah oto **vaChai**",
-        "englishLiteral": "and-sees it **and-lives**",
-        "englishNatural": "and sees it **will live**"
+        "englishLiteral": "and-sees it, **and-lives.\"**",
+        "englishNatural": "and sees it, **will live.\"**"
       }
     },
     {
@@ -62,6 +64,7 @@
         "verse": 9
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "וָחָי",
         "transliteration": "vaChai",
@@ -77,8 +80,8 @@
       "context": {
         "hebrew": "נְחַשׁ הַנְּחֹשֶׁת **וָחָי**",
         "transliteration": "nechash haNechoshet **vaChai**",
-        "englishLiteral": "snake the-bronze **and-lived**",
-        "englishNatural": "snake the bronze **he lived**"
+        "englishLiteral": "snake, the-bronze, **and-lived.**",
+        "englishNatural": "the bronze snake, **he lived.**"
       }
     }
   ]

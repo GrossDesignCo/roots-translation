@@ -10,6 +10,7 @@
         "verse": 5
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְכֹל",
         "transliteration": "veKol",
@@ -34,6 +35,7 @@
         "verse": 5
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "וְכָל",
         "transliteration": "veKol",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "יִהְיֶה בָאָרֶץ **וְכָל** עֵשֶׂב הַשָּׂדֶה",
         "transliteration": "yihyeh baAretz **veKol** esev haSadeh",
-        "englishLiteral": "will-be in-land **and-all** herb the-field",
-        "englishNatural": "was in the land **and all** herb of the field"
+        "englishLiteral": "will-be in-land, **and-all** herb the-field",
+        "englishNatural": "not yet in the land, **and all** herb of the field"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 19
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "וְכֹל",
         "transliteration": "veKol",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "יִּקְרָא־ לוֹ **וְכֹל** אֲשֶׁר יִקְרָא־",
         "transliteration": "yiqra- lo **veKol** asher yiqra-",
-        "englishLiteral": "he-calls_out- to-it **And-all** which he-calls_out-",
-        "englishNatural": "he would call-out to it **And everything** which would call-out"
+        "englishLiteral": "he-calls_out- to-it; **And-all** which he-calls_out-",
+        "englishNatural": "he would call-out to it; **And everything** which the Earthling (Adam)"
       }
     }
   ]

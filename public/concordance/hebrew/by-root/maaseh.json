@@ -9,6 +9,7 @@
         "verse": 4
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "מִמַּעֲשָׂיו",
         "transliteration": "miMaasav",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "אֶת־ הָעָם **מִמַּעֲשָׂיו** לְכוּ לְסִבְלֹתֵיכֶם",
         "transliteration": "et- haAm **miMaasav** lekhu leSivlotekhem",
-        "englishLiteral": "↳ the-people **from-works-their** go to-burdens-your",
-        "englishNatural": "↳ the people **from their works** Go to your burdens"
+        "englishLiteral": "↳ the-people **from-works-their?** go to-burdens-your.\"",
+        "englishNatural": "↳ the people **from their works?** Go to your burdens.\""
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 3
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "מַעֲשֵׂ֣ה",
         "transliteration": "maaseh",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "אֶרְאֶ֥ה שָׁמֶ֗יךָ **מַעֲשֵׂ֣ה** אֶצְבְּעֹתֶ֑יךָ יָרֵ֥חַ",
         "transliteration": "ereh shamekha **maaseh** etsbeotekha yareakh",
-        "englishLiteral": "I-will-see your-skies **work-of** your-fingers moon",
-        "englishNatural": "I see your skies **the work of** your fingers moon"
+        "englishLiteral": "I-will-see your-skies, **work-of** your-fingers, moon",
+        "englishNatural": "I see your skies, **the work of** your fingers, moon"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 6
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "בְּמַעֲשֵׂ֣י",
         "transliteration": "beMaasei",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "תַּ֭מְשִׁילֵהוּ **בְּמַעֲשֵׂ֣י** יָדֶ֑יךָ כֹּ֝ל",
         "transliteration": "taMshilehu **beMaasei** yadekha kol",
-        "englishLiteral": "you-will-cause-him-to-rule **in-works-of** your-hands all",
-        "englishNatural": "You will cause him to rule **in the works of** your hands all"
+        "englishLiteral": "you-will-cause-him-to-rule **in-works-of** your-hands; all",
+        "englishNatural": "You will cause him to rule **in the works of** your hands; all"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 16
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וּמַעֲשֵׂיהֶם",
         "transliteration": "uMaaseihem",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "מַרְאֵה הָאוֹפַנִּים **וּמַעֲשֵׂיהֶם** כְּעֵין תַּרְשִׁישׁ",
         "transliteration": "marah haOphanim **uMaaseihem** keEin tarshish",
-        "englishLiteral": "appearance-of the-wheels **and-work-their** like-eye-of golden_stone",
-        "englishNatural": "The appearance of the wheels **and their work** like an eye of golden-stone"
+        "englishLiteral": "appearance-of the-wheels **and-work-their,** like-eye-of golden_stone,",
+        "englishNatural": "The appearance of the wheels **and their work,** like an eye of golden-stone,"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 16
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "וּמַעֲשֵׂיהֶם",
         "transliteration": "uMaaseihem",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "לְאַרְבַּעְתָּן וּמַרְאֵיהֶם **וּמַעֲשֵׂיהֶם** כַּאֲשֶׁר יִהְיֶה",
         "transliteration": "leArbatan uMareihem **uMaaseihem** kaAsher yihyeh",
-        "englishLiteral": "to-four-of-them and-appearance-their **and-work-their** like-which it-was",
-        "englishNatural": "to four of them and their appearance **and their work** like which was"
+        "englishLiteral": "to-four-of-them, and-appearance-their **and-work-their** like-which it-was",
+        "englishNatural": "to four of them, and their appearance **and their work** like which the wheel"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 10
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "מַעֲשֵׂיהֶם",
         "transliteration": "maaseihem",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "הָאֱלֹהִים אֶת־ **מַעֲשֵׂיהֶם** כִּי־ שָׁבוּ",
         "transliteration": "haElohim et- **maaseihem** ki- shavu",
-        "englishLiteral": "the-Gods ↳ **works-their** that- they-returned",
-        "englishNatural": "And the God ↳ **their works** that they returned"
+        "englishLiteral": "the-Gods ↳ **works-their,** that- they-returned",
+        "englishNatural": "saw ↳ **their works,** that they returned"
       }
     }
   ]

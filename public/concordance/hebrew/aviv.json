@@ -10,6 +10,7 @@
         "verse": 24
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "אָבִיו",
         "transliteration": "aviv",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אִישׁ אֶת־ **אָבִיו** וְאֶת־ אִמּוֹ",
         "transliteration": "ish et- **aviv** veEt- immo",
-        "englishLiteral": "man ↳ **his-father** and-↳ his-mother",
-        "englishNatural": "Man ↳ **his father** and his mother"
+        "englishLiteral": "man ↳ **his-father,** and-↳ his-mother,",
+        "englishNatural": "will leave ↳ **his father,** and his mother,"
       }
     }
   ]

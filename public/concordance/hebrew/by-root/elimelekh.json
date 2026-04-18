@@ -9,6 +9,7 @@
         "verse": 2
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֱֽלִימֶ֡לֶךְ",
         "transliteration": "Elimelekh",
@@ -23,7 +24,7 @@
         "hebrew": "וְשֵׁ֣ם הָאִ֣ישׁ **אֱֽלִימֶ֡לֶךְ** וְשֵׁם֩ אִשְׁתּ֨וֹ",
         "transliteration": "veShem haIsh **Elimelekh** veShem ishto",
         "englishLiteral": "and-name-of the-man **God_My_King (Elimelech)** and-name-of woman-his",
-        "englishNatural": "And the name of the man **God-My-King (Elimelech)** and the name of his woman"
+        "englishNatural": "And the name of the man, **God-My-King (Elimelech),** and the name of his woman,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 3
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֱלִימֶ֖לֶךְ",
         "transliteration": "Elimelekh",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וַיָּ֥מָת **אֱלִימֶ֖לֶךְ** אִ֣ישׁ נָעֳמִ֑י",
         "transliteration": "vaYamat **Elimelekh** ish Naomi",
-        "englishLiteral": "And-died **My_God_King (Elimelech)** man-of Pleasant_My (Naomi)",
-        "englishNatural": "died **And My-God-King (Elimelech)** the man of My-Pleasant (Naomi)"
+        "englishLiteral": "And-died **My_God_King (Elimelech)** man-of Pleasant_My (Naomi);",
+        "englishNatural": "**And My-God-King (Elimelech)** the man of My-Pleasant (Naomi)"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 12
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "נָתַתָּה",
         "transliteration": "natata",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "הָאִשָּׁה אֲשֶׁר **נָתַתָּה** עִמָּדִי הִיא",
         "transliteration": "haIshah asher **natata** imadi hi",
-        "englishLiteral": "The-woman which **you-gave** with-me she",
-        "englishNatural": "The woman which **you gave** with me she"
+        "englishLiteral": "\"The-woman which **you-gave** with-me; she",
+        "englishNatural": "\"The woman which **you gave** with me; she"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 3
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "נָתַתָּה",
         "transliteration": "natata",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "לִי לֹא **נָתַתָּה** זָרַע וְהִנֵּה",
         "transliteration": "li lo **natata** zara veHineh",
-        "englishLiteral": "to-me not **you-have-given** seed and-behold",
-        "englishNatural": "to me not **you have given** seed and behold"
+        "englishLiteral": "to-me not **you-have-given** seed, and-behold",
+        "englishNatural": "\"Behold to me **you have given** not seed;"
       }
     }
   ]

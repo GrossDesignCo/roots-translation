@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אֵ֥ת",
         "transliteration": "et",
@@ -20,7 +21,7 @@
         "hebrew": "בָּרָ֣א אֱלֹהִ֑ים **אֵ֥ת** הַשָּׁמַ֖יִם וְאֵ֥ת",
         "transliteration": "bara Elohim **et** haShamayim veEt",
         "englishLiteral": "created Gods **↳** the-skies and-↳",
-        "englishNatural": "created God **↳** the skies and"
+        "englishNatural": "God created **↳** the skies and"
       }
     },
     {
@@ -30,6 +31,7 @@
         "verse": 31
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֶת",
         "transliteration": "et",
@@ -40,8 +42,8 @@
       "context": {
         "hebrew": "וַיַּ֤רְא אֱלֹהִ֖ים **אֶת** כָּל אֲשֶׁ֣ר",
         "transliteration": "vaYar Elohim **et** kol asher",
-        "englishLiteral": "And-saw Gods **↳** all which",
-        "englishNatural": "saw And God **↳** all which was"
+        "englishLiteral": "And-saw Gods, **↳** all which",
+        "englishNatural": "And God saw, **↳** all which was"
       }
     },
     {
@@ -51,6 +53,7 @@
         "verse": 5
       },
       "wordIndex": 21,
+      "sourceOrder": 21,
       "word": {
         "originalScript": "אֶת",
         "transliteration": "et",
@@ -61,8 +64,8 @@
       "context": {
         "hebrew": "אַיִן לַעֲבֹד **אֶת** הָאֲדָמָה׃",
         "transliteration": "ayin laAvod **et** haAdamah",
-        "englishLiteral": "not_exist to-serve **↳** the-earth",
-        "englishNatural": "was not there to serve **↳** the earth"
+        "englishLiteral": "not_exist to-serve **↳** the-earth.",
+        "englishNatural": "was not there, to serve **↳** the earth."
       }
     },
     {
@@ -72,6 +75,7 @@
         "verse": 11
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "אֵת",
         "transliteration": "et",
@@ -93,6 +97,7 @@
         "verse": 13
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אֵת",
         "transliteration": "et",
@@ -114,6 +119,7 @@
         "verse": 2
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אֵת",
         "transliteration": "et",
@@ -138,6 +144,7 @@
         "verse": 6
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אֵת",
         "transliteration": "et",
@@ -151,8 +158,8 @@
       "context": {
         "hebrew": "יְהוָה בָּעָם **אֵת** הַנְּחָשִׁים הַשְּׂרָפִים",
         "transliteration": "YHWH baAm **et** haNechashim haSeraphim",
-        "englishLiteral": "He_Who_Is (YHWH) among-the-people **↳** the-snakes the-incinerating_ones",
-        "englishNatural": "And He-Who-Is (YHWH) among the people **↳** the snakes the incinerating-ones"
+        "englishLiteral": "He_Who_Is (YHWH), among-the-people **↳** the-snakes, the-incinerating_ones,",
+        "englishNatural": "**↳**"
       }
     },
     {
@@ -162,6 +169,7 @@
         "verse": 6
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "אֶת",
         "transliteration": "et",
@@ -175,8 +183,8 @@
       "context": {
         "hebrew": "הַשְּׂרָפִים וַיְנַשְּׁכוּ **אֶת** הָעָם וַיָּמָת",
         "transliteration": "haSeraphim vaYeNashkhu **et** haAm vaYamat",
-        "englishLiteral": "the-incinerating_ones and-they-struck **↳** the-people and-died",
-        "englishNatural": "the incinerating-ones and they struck **↳** the people died"
+        "englishLiteral": "the-incinerating_ones, and-they-struck **↳** the-people, and-died,",
+        "englishNatural": "**↳**"
       }
     },
     {
@@ -186,6 +194,7 @@
         "verse": 7
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "אֶת",
         "transliteration": "et",
@@ -199,8 +208,8 @@
       "context": {
         "hebrew": "וְיָסֵר מֵעָלֵינוּ **אֶת** הַנָּחָשׁ וַיִּתְפַּלֵּל",
         "transliteration": "veYaSer meAleinu **et** haNachash vaYitpalel",
-        "englishLiteral": "and-may-he-turn_aside from-over-us **↳** the-snake And-prayed",
-        "englishNatural": "and may he turn-aside from over us **↳** the snake prayed"
+        "englishLiteral": "and-may-he-turn_aside from-over-us **↳** the-snake.\" And-prayed",
+        "englishNatural": "**↳**"
       }
     },
     {
@@ -210,6 +219,7 @@
         "verse": 9
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "אֶת",
         "transliteration": "et",
@@ -223,8 +233,8 @@
       "context": {
         "hebrew": "נָשַׁךְ הַנָּחָשׁ **אֶת** אִישׁ וְהִבִּיט",
         "transliteration": "nashakh haNachash **et** ish veHibit",
-        "englishLiteral": "struck the-snake **↳** man and-he-looked",
-        "englishNatural": "struck the snake **↳** a man and he looked"
+        "englishLiteral": "struck the-snake **↳** man, and-he-looked",
+        "englishNatural": "**↳**"
       }
     },
     {
@@ -234,6 +244,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אֶת",
         "transliteration": "et",
@@ -247,8 +258,8 @@
       "context": {
         "hebrew": "הַלְלוּ **אֶת** יְהוָה כָּל",
         "transliteration": "halelu **et** YHWH kol",
-        "englishLiteral": "Praise **↳** He_Who_Is (YHWH) all",
-        "englishNatural": "Praise **↳** He-Who-Is (YHWH) all"
+        "englishLiteral": "Praise **↳** He_Who_Is (YHWH), all",
+        "englishNatural": "Praise **↳** He-Who-Is (YHWH), all"
       }
     },
     {
@@ -258,6 +269,7 @@
         "verse": 30
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "עֵת",
         "transliteration": "et",
@@ -271,8 +283,8 @@
       "context": {
         "hebrew": "לְפָנָיו בְּכָל־ **עֵת**",
         "transliteration": "lefanav beKhol- **et**",
-        "englishLiteral": "to-faces-his in-all- **time**",
-        "englishNatural": "to his faces in all **time**"
+        "englishLiteral": "to-faces-his in-all- **time.**",
+        "englishNatural": "to his faces in all **time.**"
       }
     },
     {
@@ -282,6 +294,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "אֶת",
         "transliteration": "et",
@@ -295,8 +308,8 @@
       "context": {
         "hebrew": "עֻזִּיָּהוּ וָאֶרְאֶה **אֶת** אֲדֹנָי יֹשֵׁב",
         "transliteration": "Uzziyahu vaEr'eh **et** Adonai yoshev",
-        "englishLiteral": "He_my_Strength (Uzziah) And-I-saw **↳** my-Lord sitting",
-        "englishNatural": "He-my-Strength (Uzziah) And I saw **↳** my Lord sitting"
+        "englishLiteral": "He_my_Strength (Uzziah). And-I-saw **↳** my-Lord sitting",
+        "englishNatural": "He-my-Strength (Uzziah). And I saw **↳** my Lord sitting"
       }
     },
     {
@@ -306,6 +319,7 @@
         "verse": 1
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "אֶת",
         "transliteration": "et",
@@ -319,8 +333,8 @@
       "context": {
         "hebrew": "וְשׁוּלָיו מְמַלְּאִים **אֶת** הַהֵיכָל",
         "transliteration": "veShulav meMaleim **et** haHeikhal",
-        "englishLiteral": "and-his-garments filling **↳** the-temple",
-        "englishNatural": "and his garments filling **↳** the temple"
+        "englishLiteral": "and-his-garments, filling **↳** the-temple.",
+        "englishNatural": "and his garments, filling **↳** the temple."
       }
     },
     {
@@ -330,6 +344,7 @@
         "verse": 11
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "אֵת",
         "transliteration": "et",
@@ -343,8 +358,8 @@
       "context": {
         "hebrew": "וּשְׁתַּיִם מְכַסּוֹת **אֵת** גְּוִיֹּתֵיהֶנָה",
         "transliteration": "uShtayim mekhasot **et** geviyoteihenah",
-        "englishLiteral": "and-two covering **↳** bodies-their",
-        "englishNatural": "and two covering **↳** their bodies"
+        "englishLiteral": "and-two covering **↳** bodies-their.",
+        "englishNatural": "and two covering **↳** their bodies."
       }
     },
     {
@@ -354,6 +369,7 @@
         "verse": 23
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "אֵת",
         "transliteration": "et",
@@ -367,8 +383,8 @@
       "context": {
         "hebrew": "מְכַסּוֹת לָהֵנָּה **אֵת** גְּוִיֹּתֵיהֶם",
         "transliteration": "mekhasot lahenah **et** geviyoteihem",
-        "englishLiteral": "covering to-them **↳** bodies-their",
-        "englishNatural": "a covering to them **↳** their bodies"
+        "englishLiteral": "covering to-them **↳** bodies-their.",
+        "englishNatural": "a covering to them **↳** their bodies."
       }
     },
     {
@@ -378,6 +394,7 @@
         "verse": 2
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "אֵת",
         "transliteration": "et",
@@ -391,8 +408,8 @@
       "context": {
         "hebrew": "רַגְלָי וָאֶשְׁמַע **אֵת** מִדַּבֵּר אֵלָי",
         "transliteration": "raglai vaEshma **et** midabber elai",
-        "englishLiteral": "feet-my and-I-heard **↳** speaking to-me",
-        "englishNatural": "my feet and I heard **↳** him speaking to me"
+        "englishLiteral": "feet-my, and-I-heard **↳** speaking to-me.",
+        "englishNatural": "my feet, and I heard **↳** him speaking to me."
       }
     }
   ]

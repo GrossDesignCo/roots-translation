@@ -9,6 +9,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "בִּירוּשָׁלִָֽם",
         "transliteration": "biYrushalayim",
@@ -20,10 +21,10 @@
         }
       },
       "context": {
-        "hebrew": "דָּוִ֔ד מֶ֖לֶךְ **בִּירוּשָׁלִָֽם**",
+        "hebrew": "דָּוִ֔ד מֶ֖לֶךְ **בִּירוּשָׁלִָֽם׃**",
         "transliteration": "David melekh **biYrushalayim**",
-        "englishLiteral": "Beloved (David) king **in-Foundation_of_Peace (Jerusalem)**",
-        "englishNatural": "Beloved (David) king **in Foundation-of-Peace (Jerusalem)**"
+        "englishLiteral": "Beloved (David) king **in-Foundation_of_Peace (Jerusalem).**",
+        "englishNatural": "Beloved (David), king **in Foundation-of-Peace (Jerusalem).**"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 1
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "יְרוּשָׁלַם",
         "transliteration": "Yerushalayim",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "מֶלֶךְ בָּבֶל **יְרוּשָׁלַם** וַיָּצַר עָלֶיהָ",
         "transliteration": "melekh Bavel **Yerushalayim** vayyatsar aleha",
-        "englishLiteral": "king Confusion (Babylon) **Foundation_of_Peace (Jerusalem)** and-he-besieged over-her",
-        "englishNatural": "king of Confusion (Babylon) **to Foundation-of-Peace (Jerusalem)** and he besieged over it"
+        "englishLiteral": "king Confusion (Babylon), **Foundation_of_Peace (Jerusalem)** and-he-besieged over-her.",
+        "englishNatural": "king of Confusion (Babylon), **to Foundation-of-Peace (Jerusalem),** and he besieged over it."
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 58
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "Ἰησοῦς",
         "transliteration": "Iēsous",
@@ -20,10 +21,10 @@
         }
       },
       "context": {
-        "hebrew": "εἶπεν αὐτοῖς **Ἰησοῦς** ἀμὴν ἀμὴν",
-        "transliteration": "eipen autois **Iēsous** amēn amēn",
-        "englishLiteral": "said to-them **Salvation (Jesus)** Amen amen",
-        "englishNatural": "said to them **Salvation (Jesus)** Amen amen"
+        "hebrew": "εἶπεν αὐτοῖς **Ἰησοῦς·** ἀμὴν ἀμὴν",
+        "transliteration": "eipen autois **Iēsous,** amēn amēn",
+        "englishLiteral": "said to-them **Salvation (Jesus),** \"Amen amen",
+        "englishNatural": "**Salvation (Jesus)** said to them,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 15
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "Ἰησοῦς",
         "transliteration": "Iēsous",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "Πέτρῳ ὁ **Ἰησοῦς** Σίμων Ἰωάννου",
         "transliteration": "Petrō ho **Iēsous** Simōn Iōannou",
-        "englishLiteral": "Stone (Peter) The **Savior (Jesus)** Hearer (Simon) He—is-Gracious (John)",
-        "englishNatural": "Stone (Peter) The **Savior (Jesus)** Hearer (Simon) He—is-Gracious (John)"
+        "englishLiteral": "Stone (Peter) The **Savior (Jesus),** \"Hearer (Simon) He—is-Gracious (John),",
+        "englishNatural": "they had meal-shared, The **Savior (Jesus)** says to the"
       }
     }
   ]

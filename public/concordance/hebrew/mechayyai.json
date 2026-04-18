@@ -10,6 +10,7 @@
         "verse": 3
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "מֵחַיָּי",
         "transliteration": "mechayyai",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "טוֹב מוֹתִי **מֵחַיָּי**",
         "transliteration": "tov moti **mechayyai**",
-        "englishLiteral": "good death-my **from-lives-my**",
-        "englishNatural": "good-is my death **from my life**"
+        "englishLiteral": "good death-my, **from-lives-my.\"**",
+        "englishNatural": "good-is my death, **from my life.\"**"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 8
       },
       "wordIndex": 21,
+      "sourceOrder": 21,
       "word": {
         "originalScript": "מֵחַיָּי",
         "transliteration": "mechayyai",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "טוֹב מוֹתִי **מֵחַיָּי**",
         "transliteration": "tov moti **mechayyai**",
-        "englishLiteral": "good death-my **from-lives-my**",
-        "englishNatural": "Good-is my death **from my life**"
+        "englishLiteral": "\"good death-my **from-lives-my.\"**",
+        "englishNatural": "\"Good-is my death **from my life.\"**"
       }
     }
   ]

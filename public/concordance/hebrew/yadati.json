@@ -10,6 +10,7 @@
         "verse": 9
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "יָדַעְתִּי",
         "transliteration": "yadati",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר לֹא **יָדַעְתִּי** הֲשֹׁמֵר אָחִי",
         "transliteration": "vayYomer lo **yadati** haShomer achi",
-        "englishLiteral": "And-he-said Not **I-knew** keeper-of my-brother",
-        "englishNatural": "And he said not **I knew** keeper of my brother"
+        "englishLiteral": "And-he-said, \"Not **I-knew,** keeper-of my-brother",
+        "englishNatural": "your brother?\" And he said, **\"I knew** not, Am I"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 7
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "יָדַעְתִּי",
         "transliteration": "yadati",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "נֹגְשָׂיו כִּי **יָדַעְתִּי** אֶת־ מַכְאֹבָיו",
         "transliteration": "nogsav ki **yadati** et- makheovav",
-        "englishLiteral": "taskmasters-his that **I-know** ↳ pains-his",
-        "englishNatural": "his taskmasters that **I have known** ↳ his pains"
+        "englishLiteral": "taskmasters-his, that **I-know** ↳ pains-his.",
+        "englishNatural": "his taskmasters, that **I have known** ↳ his pains."
       }
     },
     {
@@ -62,6 +64,7 @@
         "verse": 2
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "יָדַעְתִּי",
         "transliteration": "yadati",
@@ -77,8 +80,8 @@
       "context": {
         "hebrew": "יִשְׂרָאֵל לֹא **יָדַעְתִּי** אֶת־ יְהוָה",
         "transliteration": "Yisrael lo **yadati** et- YHWH",
-        "englishLiteral": "Struggles_with_God (Israel) not **I-knew** ↳ He_Who_Is (YHWH)",
-        "englishNatural": "Struggles-with-God (Israel) not **I have known** ↳ He-Who-Is (YHWH)"
+        "englishLiteral": "Struggles_with_God (Israel), not **I-knew** ↳ He_Who_Is (YHWH),",
+        "englishNatural": "↳ Struggles-with-God (Israel)? **I have known** not ↳"
       }
     },
     {
@@ -88,6 +91,7 @@
         "verse": 2
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "יָדַעְתִּי",
         "transliteration": "yadati",
@@ -103,8 +107,8 @@
       "context": {
         "hebrew": "תַּרְשִׁישָׁה כִּי **יָדַעְתִּי** כִּי־ אַתָּה",
         "transliteration": "tarshishah ki **yadati** ki- atah",
-        "englishLiteral": "golden_stone (Tarshish) that **I-knew** that- you",
-        "englishNatural": "golden-stone (Tarshish) that **I knew** that you are"
+        "englishLiteral": "golden_stone (Tarshish), that **I-knew** that- you",
+        "englishNatural": "golden-stone (Tarshish), that **I knew** that you are"
       }
     }
   ]

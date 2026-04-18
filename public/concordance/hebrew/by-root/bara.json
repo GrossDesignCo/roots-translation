@@ -9,6 +9,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "בָּרָ֣א",
         "transliteration": "bara",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "בְּרֵאשִׁ֖ית **בָּרָ֣א** אֱלֹהִ֑ים אֵ֥ת",
         "transliteration": "beReshit **bara** Elohim et",
-        "englishLiteral": "In-heading **created** Gods ↳",
-        "englishNatural": "In the heading **created** God ↳"
+        "englishLiteral": "In-heading, **created** Gods ↳",
+        "englishNatural": "In the heading, God **created** ↳ the skies"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 21
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּבְרָ֣א",
         "transliteration": "vaYiVra",
@@ -51,7 +53,7 @@
         "hebrew": "**וַיִּבְרָ֣א** אֱלֹהִ֔ים אֶת־",
         "transliteration": "**vaYiVra** Elohim et-",
         "englishLiteral": "**And-created** Gods ↳",
-        "englishNatural": "**created** And God ↳"
+        "englishNatural": "And God **created** ↳ the monsters,"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 27
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּבְרָ֨א",
         "transliteration": "vaYiVra",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "**וַיִּבְרָ֨א** אֱלֹהִ֤ים אֶת־",
         "transliteration": "**vaYiVra** Elohim et-",
-        "englishLiteral": "**And-created** Gods ↳",
-        "englishNatural": "**created** And God ↳"
+        "englishLiteral": "**And-created** Gods, ↳",
+        "englishNatural": "And God **created** ↳ the Earthling (Adam),"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 27
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "בָּרָ֣א",
         "transliteration": "bara",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "בְּצֶ֥לֶם אֱלֹהִ֖ים **בָּרָ֣א** אֹת֑וֹ זָכָ֥ר",
         "transliteration": "beTselem Elohim **bara** oto zakhar",
-        "englishLiteral": "in-image-of Gods **created** him male",
-        "englishNatural": "in the image of God **created** him male"
+        "englishLiteral": "in-image-of Gods, **created** him, male",
+        "englishNatural": "in the image of God, **created** him, male"
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 27
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "בָּרָ֥א",
         "transliteration": "bara",
@@ -128,8 +133,8 @@
       "context": {
         "hebrew": "זָכָ֥ר וּנְקֵבָ֖ה **בָּרָ֥א** אֹתָֽם׃",
         "transliteration": "zakhar uNekevah **bara** otam",
-        "englishLiteral": "male and-female **created** them",
-        "englishNatural": "male and female **created** them"
+        "englishLiteral": "male and-female, **created** them.",
+        "englishNatural": "male and female, **created** them."
       }
     },
     {
@@ -139,6 +144,7 @@
         "verse": 3
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "בָּרָא",
         "transliteration": "bara",
@@ -154,8 +160,8 @@
       "context": {
         "hebrew": "מְלַאכְתּוֹ אֲשֶׁר **בָּרָא** אֱלֹהִים לַעֲשׂוֹת׃",
         "transliteration": "melakhto asher **bara** Elohim laasot",
-        "englishLiteral": "his-work which **created** Gods to-make",
-        "englishNatural": "his work which **created** God made"
+        "englishLiteral": "his-work, which **created** Gods to-make.",
+        "englishNatural": "which God **created,** made."
       }
     },
     {
@@ -165,6 +171,7 @@
         "verse": 4
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "בְּהִבָּרְאָם",
         "transliteration": "beHibaram",
@@ -180,8 +187,8 @@
       "context": {
         "hebrew": "הַשָּׁמַיִם וְהָאָרֶץ **בְּהִבָּרְאָם** בְּיוֹם עֲשׂוֹת",
         "transliteration": "haShamayim veHaAretz **beHibaram** beYom asot",
-        "englishLiteral": "the-skies and-the-land **in-being-created-them** in-day making",
-        "englishNatural": "of the skies and the land **in their being created** in the day made"
+        "englishLiteral": "the-skies and-the-land, **in-being-created-them;** in-day making",
+        "englishNatural": "of the skies and the land, **in their being created;** in the day He-Who-Is (YHWH)"
       }
     },
     {
@@ -191,6 +198,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "בְּרֹא",
         "transliteration": "bero",
@@ -206,8 +214,8 @@
       "context": {
         "hebrew": "אָדָם בְּיוֹם **בְּרֹא** אֱלֹהִים אָדָם",
         "transliteration": "Adam beYom **bero** Elohim Adam",
-        "englishLiteral": "Earthling (Adam) In-day **create** Gods Earthling (Adam)",
-        "englishNatural": "Earthling (Adam) In the day **created** God Earthling (Adam)"
+        "englishLiteral": "Earthling (Adam). In-day **create** Gods Earthling (Adam),",
+        "englishNatural": "In the day God **created** Earthling (Adam), in the likeness of"
       }
     },
     {
@@ -217,6 +225,7 @@
         "verse": 2
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "בְּרָאָם",
         "transliteration": "beroam",
@@ -232,8 +241,8 @@
       "context": {
         "hebrew": "זָכָר וּנְקֵבָה **בְּרָאָם** וַיְבָרֶךְ אֹתָם",
         "transliteration": "zakhar uNeqevah **beroam** vaYevarekh otam",
-        "englishLiteral": "male and-female **he-created** and-blessed them",
-        "englishNatural": "Male and female **he created** and blessed them"
+        "englishLiteral": "male and-female **he-created;** and-blessed them,",
+        "englishNatural": "Male and female **he created;** and blessed them,"
       }
     },
     {
@@ -243,6 +252,7 @@
         "verse": 2
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הִבָּרְאָם",
         "transliteration": "hiBaram",
@@ -258,8 +268,8 @@
       "context": {
         "hebrew": "אָדָם בְּיוֹם **הִבָּרְאָם**",
         "transliteration": "Adam beYom **hiBaram**",
-        "englishLiteral": "Earthling (Adam) in-day **them-being-created**",
-        "englishNatural": "Earthling (Adam) in the day of **them being created**"
+        "englishLiteral": "\"Earthling (Adam),\" in-day **them-being-created.**",
+        "englishNatural": "\"Earthling (Adam),\" in the day of **them being created.**"
       }
     },
     {
@@ -269,6 +279,7 @@
         "verse": 7
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "בָּרָאתִי",
         "transliteration": "barati",

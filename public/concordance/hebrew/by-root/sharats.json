@@ -9,6 +9,7 @@
         "verse": 20
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "יִשְׁרְצ֣וּ",
         "transliteration": "yiShretsu",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים **יִשְׁרְצ֣וּ** הַמַּ֔יִם שֶׁ֖רֶץ",
         "transliteration": "vaYomer Elohim **yiShretsu** haMayim sherets",
-        "englishLiteral": "And-said Gods **Let-swarm** the-waters swarm",
-        "englishNatural": "said And God **swarm with** Let the waters a swarm"
+        "englishLiteral": "And-said Gods, **\"Let-swarm** the-waters swarm",
+        "englishNatural": "said, \"Let the waters **swarm with** a swarm, living"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 20
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "שֶׁ֖רֶץ",
         "transliteration": "sherets",
@@ -48,8 +50,8 @@
       "context": {
         "hebrew": "יִשְׁרְצ֣וּ הַמַּ֔יִם **שֶׁ֖רֶץ** נֶ֣פֶשׁ חַיָּ֑ה",
         "transliteration": "yiShretsu haMayim **sherets** nephesh chayah",
-        "englishLiteral": "Let-swarm the-waters **swarm** throat living",
-        "englishNatural": "swarm with Let the waters **a swarm** throat living"
+        "englishLiteral": "\"Let-swarm the-waters **swarm** throat living,",
+        "englishNatural": "\"Let the waters swarm with **a swarm,** living throat,"
       }
     },
     {
@@ -59,6 +61,7 @@
         "verse": 21
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "שָׁרְצ֨וּ",
         "transliteration": "sharTsu",
@@ -72,8 +75,8 @@
       "context": {
         "hebrew": "הָֽרֹמֶ֡שֶׂת אֲשֶׁר֩ **שָׁרְצ֨וּ** הַמַּ֜יִם לְמִינֵהֶ֗ם",
         "transliteration": "haRomeshet asher **sharTsu** haMayim leMinehem",
-        "englishLiteral": "the-crawling which **swarmed** the-waters to-their-kind",
-        "englishNatural": "the crawling which **swarmed** the waters to their kind"
+        "englishLiteral": "the-crawling which **swarmed** the-waters, to-their-kind,",
+        "englishNatural": "the crawling which **swarmed** the waters, to their kind,"
       }
     },
     {
@@ -83,6 +86,7 @@
         "verse": 7
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "שִׁרְצוּ",
         "transliteration": "shirtzu",
@@ -98,8 +102,8 @@
       "context": {
         "hebrew": "פְּרוּ וּרְבוּ **שִׁרְצוּ** בָאָרֶץ וּרְבוּ־",
         "transliteration": "peru urevu **shirtzu** baAretz urevu-",
-        "englishLiteral": "be_fruitful and-multiply **swarm** in-land and-multiply-",
-        "englishNatural": "be-fruitful and multiply **swarm** in the land and multiply"
+        "englishLiteral": "be_fruitful and-multiply, **swarm** in-land, and-multiply-",
+        "englishNatural": "be-fruitful and multiply, **swarm** in the land, and multiply"
       }
     }
   ]

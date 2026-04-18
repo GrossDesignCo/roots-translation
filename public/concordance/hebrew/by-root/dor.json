@@ -9,6 +9,7 @@
         "verse": 9
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "בְּדֹרֹתָיו",
         "transliteration": "bedorotav",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "תָּמִים הָיָה **בְּדֹרֹתָיו** אֶת־ הָאֱלֹהִים",
         "transliteration": "tamim hayah **bedorotav** et- haElohim",
-        "englishLiteral": "wholesome he-was **in-generation-his** ↳ the-Gods",
-        "englishNatural": "wholesome he was **in his generation** ↳ the God"
+        "englishLiteral": "wholesome he-was **in-generation-his;** ↳ the-Gods",
+        "englishNatural": "wholesome he was **in his generation;** Rest (Noah) walked-with"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 12
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "לְדֹרֹת",
         "transliteration": "ledorot",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "אֲשֶׁר אִתְּכֶם **לְדֹרֹת** עוֹלָם",
         "transliteration": "asher itkhem **ledorot** olam",
-        "englishLiteral": "which with-you **to-generations-of** the_age",
-        "englishNatural": "which is with you **to the generations of** the-age"
+        "englishLiteral": "which with-you, **to-generations-of** the_age;",
+        "englishNatural": "which is with you, **to the generations of** the-age;"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 16
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְדוֹר",
         "transliteration": "veDor",
@@ -71,7 +74,7 @@
         "hebrew": "**וְדוֹר** רְבִיעִי יָשׁוּבוּ",
         "transliteration": "**veDor** revii yashuvu",
         "englishLiteral": "**And-generation** fourth they-will-return",
-        "englishNatural": "**generation** And the fourth will return"
+        "englishNatural": "And the fourth **generation** will return here;"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 15
       },
       "wordIndex": 26,
+      "sourceOrder": 26,
       "word": {
         "originalScript": "לְדֹר",
         "transliteration": "leDor",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "וְזֶה זִכְרִי **לְדֹר** דֹּר",
         "transliteration": "veZeh zikri **leDor** dor",
-        "englishLiteral": "and-this my-rememberance **to-generation** generation",
-        "englishNatural": "and this is my rememberance **to generation of** generation"
+        "englishLiteral": "and-this my-rememberance **to-generation** generation.\"",
+        "englishNatural": "and this is my rememberance **to generation of** generation.\""
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 15
       },
       "wordIndex": 27,
+      "sourceOrder": 27,
       "word": {
         "originalScript": "דֹּר",
         "transliteration": "dor",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "זִכְרִי לְדֹר **דֹּר**",
         "transliteration": "zikri leDor **dor**",
-        "englishLiteral": "my-rememberance to-generation **generation**",
-        "englishNatural": "my rememberance to generation of **generation**"
+        "englishLiteral": "my-rememberance to-generation **generation.\"**",
+        "englishNatural": "my rememberance to generation of **generation.\"**"
       }
     }
   ]

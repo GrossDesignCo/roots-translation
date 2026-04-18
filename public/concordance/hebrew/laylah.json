@@ -10,6 +10,7 @@
         "verse": 5
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "לָ֑יְלָה",
         "transliteration": "laylah",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וְלַחֹ֖שֶׁךְ קָ֣רָא **לָ֑יְלָה** וַֽיְהִי עֶ֥רֶב",
         "transliteration": "veLaChoshekh qara **laylah** vaYehi erev",
-        "englishLiteral": "and-to-darkness called_out **Night** And-was evening",
-        "englishNatural": "to darkness and called-out **Night** was And evening"
+        "englishLiteral": "and-to-darkness called_out **\"Night.\"** And-was, evening,",
+        "englishNatural": "and called-out to darkness, **\"Night.\"** And evening was,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 12
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "לָיְלָה",
         "transliteration": "laylah",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "יוֹם וְאַרְבָּעִים **לָיְלָה**",
         "transliteration": "yom veArbaim **laylah**",
-        "englishLiteral": "day and-forty **night**",
-        "englishNatural": "days and forty **nights**"
+        "englishLiteral": "day and-forty **night.**",
+        "englishNatural": "days and forty **nights.**"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 30
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "לַ֗יְלָה",
         "transliteration": "laylah",
@@ -72,7 +75,7 @@
         "hebrew": "וַיָּ֨קָם פַּרְעֹ֜ה **לַ֗יְלָה** ה֤וּא וְכָל־",
         "transliteration": "vaYaqam Paroh **laylah** hu veKhol-",
         "englishLiteral": "And-stood_up Pharaoh **night** he and-all-",
-        "englishNatural": "stood-up And Pharaoh **night** he and all"
+        "englishNatural": "And Pharaoh stood-up, **night,** he and all"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 10
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "לַיְלָה",
         "transliteration": "laylah",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "גִדַּלְתּוֹ שֶׁבִּן־ **לַיְלָה** הָיָה וּבִן־",
         "transliteration": "giddalto shebin- **laylah** hayah uvin-",
-        "englishLiteral": "you-grew-it yet-son-of- **night** was and-son-of-",
-        "englishNatural": "and you grew it yet son of **a night** it was and son of"
+        "englishLiteral": "you-grew-it, yet-son-of- **night** was and-son-of-",
+        "englishNatural": "not, yet son of **a night** it was and son of"
       }
     },
     {
@@ -106,6 +110,7 @@
         "verse": 10
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "לַיְלָה",
         "transliteration": "laylah",
@@ -119,8 +124,8 @@
       "context": {
         "hebrew": "הָיָה וּבִן־ **לַיְלָה** אָבָד",
         "transliteration": "hayah uvin- **laylah** avad",
-        "englishLiteral": "was and-son-of- **night** perished",
-        "englishNatural": "it was and son of **a night** it perished"
+        "englishLiteral": "was and-son-of- **night** perished.",
+        "englishNatural": "it was and son of **a night** it perished."
       }
     }
   ]

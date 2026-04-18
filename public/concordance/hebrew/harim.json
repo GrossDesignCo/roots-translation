@@ -10,6 +10,7 @@
         "verse": 25
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָרִים",
         "transliteration": "harim",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "בְּטֶרֶם **הָרִים** הָטְבָּעוּ לִפְנֵי",
         "transliteration": "beTerem **harim** hotbau lifnei",
-        "englishLiteral": "In-before **mountains** were-sunk to-faces-of",
-        "englishNatural": "In before **mountains** were sunk to the faces of"
+        "englishLiteral": "In-before **mountains** were-sunk, to-faces-of",
+        "englishNatural": "In before **mountains** were sunk, to the faces of"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 6
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הָרִים",
         "transliteration": "harim",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "יָרַדְתִּי לְקִצְבֵי **הָרִים** הָאָרֶץ בְּרִחֶיהָ",
         "transliteration": "yaradti leqitzevei **harim** haaretz bericheiha",
-        "englishLiteral": "I-went_down to-cutoffs-of **mountains** the-earth bars-her",
-        "englishNatural": "I went down to the cutoffs of **the mountains** the earth her bars"
+        "englishLiteral": "I-went_down to-cutoffs-of **mountains;** the-earth, bars-her",
+        "englishNatural": "I went down to the cutoffs of **the mountains;** the earth, her bars"
       }
     }
   ]

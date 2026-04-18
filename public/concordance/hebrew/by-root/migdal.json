@@ -9,6 +9,7 @@
         "verse": 4
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וּמִגְדָּל",
         "transliteration": "uMigdal",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "לָּנוּ עִיר **וּמִגְדָּל** וְרֹאשׁוֹ בַשָּׁמַיִם",
         "transliteration": "lanu ir **uMigdal** veRosho baShamayim",
-        "englishLiteral": "for-us city **and-tower** and-its-head in-heavens",
-        "englishNatural": "for us a city **and a tower** and its head in the heavens"
+        "englishLiteral": "for-us city **and-tower** and-its-head in-heavens,",
+        "englishNatural": "for us a city **and a tower** and its head in the heavens,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 5
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הַמִּגְדָּל",
         "transliteration": "haMigdal",
@@ -47,7 +49,7 @@
         "hebrew": "הָעִיר וְאֶת־ **הַמִּגְדָּל** אֲשֶׁר בָּנוּ",
         "transliteration": "haIr veEt- **haMigdal** asher banu",
         "englishLiteral": "the-city and-↳ **the-tower** which they-had-built",
-        "englishNatural": "the city and **the tower** which had built"
+        "englishNatural": "the city and **the tower** which the sons of"
       }
     }
   ]

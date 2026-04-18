@@ -9,6 +9,7 @@
         "verse": 22
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּבֶן",
         "transliteration": "vaYiven",
@@ -25,7 +26,7 @@
         "hebrew": "**וַיִּבֶן** יְהוָה אֱלֹהִים",
         "transliteration": "**vaYiven** YHWH Elohim",
         "englishLiteral": "**And-built** He_Who_Is (YHWH) Gods",
-        "englishNatural": "**built** And He-Who-Is (YHWH) God"
+        "englishNatural": "And He-Who-Is (YHWH) God **built** ↳ the side"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 17
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "בֹּנֶה",
         "transliteration": "boneh",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "חֲנוֹךְ וַיְהִי **בֹּנֶה** עִיר וַיִּקְרָא",
         "transliteration": "Chanokh vayHi **boneh** ir vayYiqra",
-        "englishLiteral": "Dedicated (Enoch) and-he-was **building** city and-he-called_out",
-        "englishNatural": "Dedicated (Enoch) and he was **building** a city and he called-out"
+        "englishLiteral": "Dedicated (Enoch); and-he-was **building** city, and-he-called_out",
+        "englishNatural": "Dedicated (Enoch); and he was **building** a city, and he called-out"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 20
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּבֶן",
         "transliteration": "vayYiven",
@@ -77,7 +80,7 @@
         "hebrew": "**וַיִּבֶן** נֹחַ מִזְבֵּחַ",
         "transliteration": "**vayYiven** Noach mizbeach",
         "englishLiteral": "**And-built** Rest (Noah) altar",
-        "englishNatural": "**built** And Rest (Noah) an altar"
+        "englishNatural": "And Rest (Noah) **built** an altar to He-Who-Is (YHWH);"
       }
     },
     {
@@ -87,6 +90,7 @@
         "verse": 11
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וַיִּבֶן",
         "transliteration": "vayYiven",
@@ -102,8 +106,8 @@
       "context": {
         "hebrew": "יָצָא אַשּׁוּר **וַיִּבֶן** אֶת־ נִינְוֵה",
         "transliteration": "yatsa Ashur **vayYiven** et- Nineveh",
-        "englishLiteral": "brought_out Steppe (Assyria) **and-he-built** ↳ Dwelling_of_Fish (Nineveh)",
-        "englishNatural": "brought-out Steppe (Assyria) **and he built** ↳ Dwelling-of-Fish (Nineveh)"
+        "englishLiteral": "brought_out Steppe (Assyria), **and-he-built** ↳ Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "brought-out Steppe (Assyria), **and he built** ↳ Dwelling-of-Fish (Nineveh)"
       }
     },
     {
@@ -113,6 +117,7 @@
         "verse": 4
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "נִבְנֶה־",
         "transliteration": "nivneh-",
@@ -128,8 +133,8 @@
       "context": {
         "hebrew": "וַיֹּאמְרוּ הָבָה **נִבְנֶה־** לָּנוּ עִיר",
         "transliteration": "vayYomeru havah **nivneh-** lanu ir",
-        "englishLiteral": "And-they-said come **let-us-build-** for-us city",
-        "englishNatural": "And they said Come **let us build** for us a city"
+        "englishLiteral": "And-they-said, \"come **let-us-build-** for-us city",
+        "englishNatural": "And they said, \"Come **let us build** for us a city"
       }
     },
     {
@@ -139,6 +144,7 @@
         "verse": 5
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "בָּנוּ",
         "transliteration": "banu",
@@ -154,8 +160,8 @@
       "context": {
         "hebrew": "הַמִּגְדָּל אֲשֶׁר **בָּנוּ** בְּנֵי הָאָדָם",
         "transliteration": "haMigdal asher **banu** beney haAdam",
-        "englishLiteral": "the-tower which **they-had-built** sons-of the-Earthling (Adam)",
-        "englishNatural": "the tower which **had built** the sons of the Earthling (Adam)"
+        "englishLiteral": "the-tower which **they-had-built** sons-of the-Earthling (Adam).",
+        "englishNatural": "the sons of the Earthling (Adam) **had built.**"
       }
     },
     {
@@ -165,6 +171,7 @@
         "verse": 8
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "לִבְנֹת",
         "transliteration": "livnot",
@@ -180,8 +187,8 @@
       "context": {
         "hebrew": "הָאָרֶץ וַיַּחְדְּלוּ **לִבְנֹת** הָעִיר",
         "transliteration": "haAretz vayachdelu **livnot** haIr",
-        "englishLiteral": "the-land and-they-ceased **to-build** the-city",
-        "englishNatural": "the land and they ceased **to build** the city"
+        "englishLiteral": "the-land, and-they-ceased **to-build** the-city.",
+        "englishNatural": "the land; and they ceased **to build** the city."
       }
     }
   ]

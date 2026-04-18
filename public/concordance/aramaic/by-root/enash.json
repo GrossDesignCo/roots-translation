@@ -9,6 +9,7 @@
         "verse": 38
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אֲנָשָׁא",
         "transliteration": "anasha",
@@ -23,7 +24,7 @@
         "hebrew": "דָיְרִין בְּנֵי **אֲנָשָׁא** חֵיוַת בָרָא",
         "transliteration": "dayerin benei **anasha** cheivat bara",
         "englishLiteral": "dwelling sons-of **Mortal_Man (Enash)-the** beasts-of field-the",
-        "englishNatural": "dwell the sons of **the Mortal-Man (Enash)** the beasts of the field"
+        "englishNatural": "dwell the sons of **the Mortal-Man (Enash),** the beasts of the field,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 8
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "אֲנָשָׁא֙",
         "transliteration": "anasha",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "עַיְנִ֜ין כְּעַיְנֵ֤י **אֲנָשָׁא֙** בְּקַרְנָא־ דָ֔א",
         "transliteration": "ayinin keAynei **anasha** beQarna- da",
-        "englishLiteral": "eyes like-eyes-of **Mortal_Man (Enash)-the** in-horn- this",
-        "englishNatural": "eyes like the eyes of **the Mortal-Man (Enash)** horn in this"
+        "englishLiteral": "eyes like-eyes-of **Mortal_Man (Enash)-the** in-horn- this,",
+        "englishNatural": "eyes, like the eyes of **the Mortal-Man (Enash)** in this horn,"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 13
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אֱנָ֖שׁ",
         "transliteration": "enash",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "שְׁמַיָּ֔א כְּבַ֥ר **אֱנָ֖שׁ** אָתֵ֣ה הֲוָ֔ה",
         "transliteration": "shemaya keVar **enash** ateh havah",
-        "englishLiteral": "skies-the as-son-of **Mortal_Man (Enash)** coming was",
-        "englishNatural": "the skies as a son of **Mortal-Man (Enash)** coming he was"
+        "englishLiteral": "skies-the as-son-of **Mortal_Man (Enash)** coming was,",
+        "englishNatural": "the skies, as a son of **Mortal-Man (Enash)** he was coming,"
       }
     }
   ]

@@ -10,6 +10,7 @@
         "verse": 2
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "מִפְּרִי",
         "transliteration": "miPri",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אֶל־ הַנָּחָשׁ **מִפְּרִי** עֵץ־ הַגָּן",
         "transliteration": "el- haNachash **miPri** etz- haGan",
-        "englishLiteral": "to the-snake **from-fruit-of** tree the-garden",
-        "englishNatural": "to the snake **From the fruit of** the tree of the garden"
+        "englishLiteral": "to, the-snake, **\"from-fruit-of** tree the-garden,",
+        "englishNatural": "to the snake, **\"From the fruit of** the tree of the garden"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 3
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "מִפְּרִי",
         "transliteration": "miPri",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "וַתֹּאמֶר הָאִשָּׁה **מִפְּרִי** הָעֵץ אֲשֶׁר",
         "transliteration": "vaTomar haIshah **miPri** haEtz asher",
-        "englishLiteral": "And-said the-woman **From-fruit-of** the-tree which",
-        "englishNatural": "said And the woman **From the fruit of** the tree which"
+        "englishLiteral": "And-said the-woman, **\"'From-fruit-of** the-tree which",
+        "englishNatural": "And the woman said, **\"'From the fruit of** the tree which"
       }
     }
   ]

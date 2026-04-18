@@ -10,6 +10,7 @@
         "verse": 8
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "וְכֹל",
         "transliteration": "veKhol",
@@ -34,6 +35,7 @@
         "verse": 5
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "וְכֹ֖ל",
         "transliteration": "veKhol",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "אַחַ֣ר הָרֵחָ֑יִם **וְכֹ֖ל** בְּכ֥וֹר בְּהֵמָֽה׃",
         "transliteration": "achar haRechayim **veKhol** bekhor behemah",
-        "englishLiteral": "after the-millstones **and-all** firstborn-of beast",
-        "englishNatural": "after the millstones **and all** the firstborn of beast"
+        "englishLiteral": "after the-millstones; **and-all** firstborn-of beast.",
+        "englishNatural": "after the millstones, **and all** the firstborn of beast."
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 29
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "וְכֹ֖ל",
         "transliteration": "veKhol",
@@ -69,10 +72,10 @@
         }
       },
       "context": {
-        "hebrew": "בְּבֵ֣ית הַבּ֑וֹר **וְכֹ֖ל** בְּכ֥וֹר בְּהֵמָֽה׃",
+        "hebrew": "בְּבֵ֣ית הַבּ֑וֹר **וְכֹ֖ל** בְּכ֥וֹר בְּהֵמָֽה׃׃",
         "transliteration": "beveit haBor **veKhol** bekhor behemah",
-        "englishLiteral": "in-house-of the-pit **and-all** firstborn-of beast",
-        "englishNatural": "in the house of the pit **and all** the firstborn of beast"
+        "englishLiteral": "in-house-of the-pit, **and-all** firstborn-of beast.",
+        "englishNatural": "in the house of the pit, **and all** the firstborn of beast."
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 3
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "וְכֹל",
         "transliteration": "veKhol",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "לֹא יִבּוֹל **וְכֹל** אֲשֶׁר יַעֲשֶׂה",
         "transliteration": "lo yibol **veKhol** asher yaAseh",
-        "englishLiteral": "not it-withers **and-all** which he-makes",
-        "englishNatural": "not withers **and all** which he makes"
+        "englishLiteral": "not it-withers, **and-all** which he-makes,",
+        "englishNatural": "withers not, **and all** which he makes,"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 2
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "מְלַאכְתּוֹ",
         "transliteration": "melakhto",
@@ -21,9 +22,9 @@
       },
       "context": {
         "hebrew": "בַּיּוֹם הַשְּׁבִיעִי **מְלַאכְתּוֹ** אֲשֶׁר עָשָׂה",
-        "transliteration": "baYom haShvi`i **melakhto** asher asah",
-        "englishLiteral": "in-day the-seventh **his-work** which made",
-        "englishNatural": "day in the seventh **his work** which he made"
+        "transliteration": "baYom haShvi`i **melakhto** asher asah;",
+        "englishLiteral": "in-day the-seventh, **his-work** which made;",
+        "englishNatural": "in the seventh day, **his work** which he made;"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 2
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "מְלַאכְתּוֹ",
         "transliteration": "melakhto",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "הַשְּׁבִיעִי מִכָּל־ **מְלַאכְתּוֹ** אֲשֶׁר עָשָׂה׃",
         "transliteration": "haShvi`i miKol- **melakhto** asher asah",
-        "englishLiteral": "the-seventh from-all **his-work** which made",
-        "englishNatural": "in the seventh from all **his work** which he made"
+        "englishLiteral": "the-seventh, from-all **his-work** which made.",
+        "englishNatural": "day, from all **his work** which he made."
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 3
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "מְלַאכְתּוֹ",
         "transliteration": "melakhto",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "שָׁבַת מִכָּל־ **מְלַאכְתּוֹ** אֲשֶׁר בָּרָא",
         "transliteration": "shavat miKol- **melakhto** asher bara",
-        "englishLiteral": "sabbathed from-all **his-work** which created",
-        "englishNatural": "he sabbathed from all **his work** which created"
+        "englishLiteral": "sabbathed from-all **his-work,** which created",
+        "englishNatural": "he sabbathed from all **his work,** which God"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 8
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "מְּלַאכְתְּךָ",
         "transliteration": "melakhtekha",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "לָנוּ מַה־ **מְּלַאכְתְּךָ** וּמֵאַיִן תָּבוֹא",
         "transliteration": "lanu mah- **melakhtekha** uMeAyin tavo",
-        "englishLiteral": "to-us What- **work-your** and-from-where you-come",
-        "englishNatural": "is to us What **is your work** and from where come you"
+        "englishLiteral": "to-us; What- **work-your?** and-from-where you-come?",
+        "englishNatural": "is to us; What **is your work?** and from where come you?"
       }
     }
   ]

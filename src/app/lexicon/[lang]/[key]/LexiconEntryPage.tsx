@@ -42,6 +42,7 @@ interface LexiconEntry {
 interface ConcordanceRow {
   location: { book: string; chapter: number; verse: number };
   wordIndex: number;
+  sourceOrder?: number;
   word: {
     originalScript: string;
     transliteration: string;

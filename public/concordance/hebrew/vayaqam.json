@@ -10,6 +10,7 @@
         "verse": 30
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיָּ֨קָם",
         "transliteration": "vaYaqam",
@@ -26,7 +27,7 @@
         "hebrew": "**וַיָּ֨קָם** פַּרְעֹ֜ה לַ֗יְלָה",
         "transliteration": "**vaYaqam** Paroh laylah",
         "englishLiteral": "**And-stood_up** Pharaoh night",
-        "englishNatural": "**stood-up** And Pharaoh night"
+        "englishNatural": "And Pharaoh **stood-up,** night, he"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 3
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיָּקָם",
         "transliteration": "vaYaqam",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "**וַיָּקָם** יוֹנָה לִבְרֹחַ",
         "transliteration": "**vaYaqam** Yonah livroach",
-        "englishLiteral": "**And-stood_up** Dove (Jonah) to-flee",
-        "englishNatural": "**stood-up** And Dove (Jonah) to flee to"
+        "englishLiteral": "**And-stood_up** Dove (Jonah), to-flee",
+        "englishNatural": "And Dove (Jonah) **stood-up,** to flee to golden-stone (Tarshish),"
       }
     },
     {
@@ -62,6 +64,7 @@
         "verse": 3
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיָּקָם",
         "transliteration": "vaYaqam",
@@ -77,8 +80,8 @@
       "context": {
         "hebrew": "**וַיָּקָם** יוֹנָה וַיֵּלֶךְ",
         "transliteration": "**vaYaqam** Yonah vaYelekh",
-        "englishLiteral": "**And-stood_up** Dove (Jonah) and-went",
-        "englishNatural": "**stood-up** And Dove (Jonah) and went"
+        "englishLiteral": "**And-stood_up** Dove (Jonah), and-went",
+        "englishNatural": "And Dove (Jonah) **stood-up,** and went to"
       }
     },
     {
@@ -88,6 +91,7 @@
         "verse": 6
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וַיָּקָם",
         "transliteration": "vaYaqam",
@@ -103,8 +107,8 @@
       "context": {
         "hebrew": "מֶלֶךְ נִינְוֵה **וַיָּקָם** מִכִּסְאוֹ וַיַּעֲבֵר",
         "transliteration": "melekh Nineveh **vaYaqam** mikisso vaYaaver",
-        "englishLiteral": "king-of Dwelling_of_Fish (Nineveh) **and-stood_up** from-throne-his and-passed_through",
-        "englishNatural": "the king of Dwelling-of-Fish (Nineveh) **and he stood-up** from his throne and he passed-through"
+        "englishLiteral": "king-of Dwelling_of_Fish (Nineveh), **and-stood_up** from-throne-his, and-passed_through",
+        "englishNatural": "the king of Dwelling-of-Fish (Nineveh), **and he stood-up** from his throne, and he passed-through"
       }
     }
   ]

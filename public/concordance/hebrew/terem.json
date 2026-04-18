@@ -10,6 +10,7 @@
         "verse": 5
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "טֶרֶם",
         "transliteration": "terem",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "שִׂיחַ הַשָּׂדֶה **טֶרֶם** יִהְיֶה בָאָרֶץ",
         "transliteration": "siakh haSadeh **terem** yihyeh baAretz",
-        "englishLiteral": "shrub the-field **not-yet** will-be in-land",
-        "englishNatural": "shrub of the field **not yet** was in the land"
+        "englishLiteral": "shrub the-field **not-yet** will-be in-land,",
+        "englishNatural": "of the field was **not yet** in the land, and all"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 5
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "טֶרֶם",
         "transliteration": "terem",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "עֵשֶׂב הַשָּׂדֶה **טֶרֶם** יִצְמָח כִּי",
         "transliteration": "esev haSadeh **terem** yitzmach ki",
-        "englishLiteral": "herb the-field **not-yet** will-grow for",
-        "englishNatural": "herb of the field **had not yet** grown for"
+        "englishLiteral": "herb the-field **not-yet** will-grow; for",
+        "englishNatural": "herb of the field **had not yet** grown; for"
       }
     }
   ]

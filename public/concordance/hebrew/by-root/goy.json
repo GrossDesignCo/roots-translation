@@ -9,6 +9,7 @@
         "verse": 2
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "לְגוֹי",
         "transliteration": "leGoy",
@@ -33,6 +34,7 @@
         "verse": 14
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הַגּוֹי",
         "transliteration": "haGoy",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וְגַם אֶת־ **הַגּוֹי** אֲשֶׁר יַעֲבֹדוּ",
         "transliteration": "veGam et- **haGoy** asher yaavodu",
-        "englishLiteral": "And-also ↳ **the-nation** which they-will-serve",
-        "englishNatural": "And also ↳ **the nation** which they will serve"
+        "englishLiteral": "And-also ↳ **the-nation** which they-will-serve,",
+        "englishNatural": "And also ↳ **the nation** which they will serve,"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "גּוֹיִם",
         "transliteration": "goyim",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "יְהוָה כָּל **גּוֹיִם** שַׁבְּחוּהוּ כָּל",
         "transliteration": "YHWH kol **goyim** shabechuhu kol",
-        "englishLiteral": "He_Who_Is (YHWH) all **nations** send-to-him all",
-        "englishNatural": "He-Who-Is (YHWH) all **nations** send to him all"
+        "englishLiteral": "He_Who_Is (YHWH), all **nations;** send-to-him, all",
+        "englishNatural": "He-Who-Is (YHWH), all **nations:** send to him, all"
       }
     }
   ]

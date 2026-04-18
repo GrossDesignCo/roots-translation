@@ -10,6 +10,7 @@
         "verse": 58
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "εἶπεν",
         "transliteration": "eipen",
@@ -22,10 +23,10 @@
         }
       },
       "context": {
-        "hebrew": "**εἶπεν** αὐτοῖς Ἰησοῦς",
-        "transliteration": "**eipen** autois Iēsous",
-        "englishLiteral": "**said** to-them Salvation (Jesus)",
-        "englishNatural": "**said** to them Salvation (Jesus)"
+        "hebrew": "**εἶπεν** αὐτοῖς Ἰησοῦς·",
+        "transliteration": "**eipen** autois Iēsous,",
+        "englishLiteral": "**said** to-them Salvation (Jesus),",
+        "englishNatural": "Salvation (Jesus) **said** to them, \"Amen"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 17
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "εἶπεν",
         "transliteration": "eipen",
@@ -50,7 +52,7 @@
         "hebrew": "Πέτρος ὅτι **εἶπεν** αὐτῷ τὸ",
         "transliteration": "Petros hoti **eipen** autō to",
         "englishLiteral": "Stone (Peter) that **he-said** to-him the",
-        "englishNatural": "Stone (Peter) because **he said** to him the"
+        "englishNatural": "was grieved because **he said** to him the"
       }
     }
   ]

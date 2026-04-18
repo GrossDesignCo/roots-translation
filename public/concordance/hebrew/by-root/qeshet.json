@@ -9,6 +9,7 @@
         "verse": 13
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "קַשְׁתִּי",
         "transliteration": "qashti",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "אֶת־ **קַשְׁתִּי** נָתַתִּי בֶּעָנָן",
         "transliteration": "et- **qashti** natati beAnan",
-        "englishLiteral": "↳ **my-bow** I-have-given in-cloud",
-        "englishNatural": "↳ **My bow** I have given in the cloud"
+        "englishLiteral": "↳ **my-bow** I-have-given in-cloud,",
+        "englishNatural": "↳ **My bow** I have given in the cloud,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 28
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הַקֶּשֶׁת",
         "transliteration": "haQeshet",

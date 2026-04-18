@@ -9,6 +9,7 @@
         "verse": 32
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "הוּא",
         "transliteration": "hu",
@@ -23,7 +24,7 @@
         "hebrew": "**הוּא** צַלְמָא רֵאשֵׁהּ",
         "transliteration": "**hu** tsalma resheh",
         "englishLiteral": "**he** image-the head-its",
-        "englishNatural": "**He** the image its head"
+        "englishNatural": "**He,** the image, its head"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 38
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הוּא",
         "transliteration": "hu",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "בְּכֹלְּהוֹן אַנְתָּה **הוּא** רֵאשָׁה דִּי",
         "transliteration": "beKholhon antah **hu** reshah di",
-        "englishLiteral": "in-all-them you **he** head-the which",
-        "englishNatural": "in them all you **are he** the head of"
+        "englishLiteral": "in-all-them, you **he** head-the which",
+        "englishNatural": "in them all, you **are he,** the head of"
       }
     }
   ]

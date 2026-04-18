@@ -10,6 +10,7 @@
         "verse": 2
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הָבֶל",
         "transliteration": "Havel",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אָחִיו אֶת־ **הָבֶל** וַיְהִי־ הֶבֶל",
         "transliteration": "achiv et- **Havel** vayHi- Hevel",
-        "englishLiteral": "his-brother ↳ **Vapor (Abel)** And-he-was Vapor (Abel)",
-        "englishNatural": "his brother ↳ **Vapor (Abel)** was And Vapor (Abel)"
+        "englishLiteral": "his-brother ↳ **Vapor (Abel).** And-he-was Vapor (Abel)",
+        "englishNatural": "his brother ↳ **Vapor (Abel).** And Vapor (Abel) was"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "הֲבֵ֤ל",
         "transliteration": "havel",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "**הֲבֵ֤ל** הֲבָלִים֙ אָמַ֣ר",
         "transliteration": "**havel** havalim amar",
-        "englishLiteral": "**Vapor-of** vapors said",
-        "englishNatural": "**Vapor of** vapors said"
+        "englishLiteral": "**Vapor-of** vapors, said",
+        "englishNatural": "**\"Vapor of** vapors,\" said"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 2
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הֲבֵ֥ל",
         "transliteration": "havel",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "אָמַ֣ר קֹהֶ֔לֶת **הֲבֵ֥ל** הֲבָלִ֖ים הַכֹּ֥ל",
         "transliteration": "amar qohelet **havel** havalim haKol",
-        "englishLiteral": "said Assembler **vapor-of** vapors the-all",
-        "englishNatural": "said Assembler **Vapor of** vapors all"
+        "englishLiteral": "said Assembler, **vapor-of** vapors; the-all",
+        "englishNatural": "said Assembler, **\"Vapor of** vapors; all"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 2
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הָֽבֶל׃",
         "transliteration": "havel",
@@ -93,10 +97,10 @@
         }
       },
       "context": {
-        "hebrew": "הֲבָלִ֖ים הַכֹּ֥ל **הָֽבֶל׃**",
+        "hebrew": "הֲבָלִ֖ים הַכֹּ֥ל **הָֽבֶל׃׃**",
         "transliteration": "havalim haKol **havel**",
-        "englishLiteral": "vapors the-all **vapor**",
-        "englishNatural": "vapors all **is vapor**"
+        "englishLiteral": "vapors; the-all **vapor.**",
+        "englishNatural": "vapors; all **is vapor.\"**"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 6
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וַיַּחְשְׁבֶהָ",
         "transliteration": "vaYachsheveha",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "וְהֶאֱמִן בַּיהוָה **וַיַּחְשְׁבֶהָ** לּוֹ צְדָקָה",
         "transliteration": "veHemin baYHWH **vaYachsheveha** lo tsedaqah",
-        "englishLiteral": "And-he-believed in-He_Who_Is (YHWH) **and-he-counted-her** to-him righteousness",
-        "englishNatural": "And he believed in He-Who-Is (YHWH) **and he counted it** to him as righteousness"
+        "englishLiteral": "And-he-believed in-He_Who_Is (YHWH), **and-he-counted-her** to-him righteousness.",
+        "englishNatural": "And he believed in He-Who-Is (YHWH); **and he counted it** to him as righteousness."
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 4
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "חִשְּׁבָה",
         "transliteration": "chishvah",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "בַּיָּם וְהָאֳנִיָּה **חִשְּׁבָה** לְהִשָּׁבֵר",
         "transliteration": "baYam veHaOniyah **chishvah** lehishabeir",
-        "englishLiteral": "in-sea and-the-ship **planned** to-be-broken",
-        "englishNatural": "in the sea and the ship **planned** to be broken"
+        "englishLiteral": "in-sea, and-the-ship **planned** to-be-broken.",
+        "englishNatural": "in the sea, and the ship **planned** to be broken."
       }
     }
   ]

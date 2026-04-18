@@ -9,6 +9,7 @@
         "verse": 7
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "עָפָר",
         "transliteration": "afar",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "אֶת־ הָאָדָם **עָפָר** מִן־ הָאֲדָמָה",
         "transliteration": "et- haAdam **afar** min- haAdamah",
-        "englishLiteral": "↳ the-Earthling (Adam) **dust** from- the-earth",
-        "englishNatural": "↳ the Earthling (Adam) **dust** from the earth"
+        "englishLiteral": "↳ the-Earthling (Adam) **dust** from- the-earth;",
+        "englishNatural": "↳ the Earthling (Adam), **dust** from the earth;"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 14
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "וְעָפָר",
         "transliteration": "veAfar",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "גְּחֹנְךָ תֵלֵךְ **וְעָפָר** תֹּאכַל כָּל־",
         "transliteration": "gechonkha telekh **veAfar** tokhal kol-",
-        "englishLiteral": "belly-your you-will_walk **and-dust** you-will_eat all-",
-        "englishNatural": "your belly you will walk **and dust** you will eat all"
+        "englishLiteral": "belly-your you-will_walk, **and-dust** you-will_eat, all-",
+        "englishNatural": "your belly you will walk, **and dust** you will eat, all"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 19
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "עָפָר",
         "transliteration": "afar",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "לֻקָּחְתָּ כִּי־ **עָפָר** אַתָּה וְאֶל־",
         "transliteration": "luqachta ki- **afar** atah veEl-",
-        "englishLiteral": "you-were-taken that **dust** you and-to",
-        "englishNatural": "you were taken that **dust are** you and to"
+        "englishLiteral": "you-were-taken, that **dust** you, and-to",
+        "englishNatural": "you were taken, that **dust are** you, and to"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 19
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "עָפָר",
         "transliteration": "afar",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "אַתָּה וְאֶל־ **עָפָר** תָּשׁוּב׃",
         "transliteration": "atah veEl- **afar** taShuv",
-        "englishLiteral": "you and-to **dust** you-will-return",
-        "englishNatural": "you and to **dust** you will return"
+        "englishLiteral": "you, and-to **dust** you-will-return.\"",
+        "englishNatural": "you, and to **dust** you will return.\""
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 26
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "עָפְרוֹת",
         "transliteration": "afrot",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "וְחוּצוֹת וְרֹאשׁ **עָפְרוֹת** תֵּבֵל",
         "transliteration": "veChutzot veRosh **afrot** tevel",
-        "englishLiteral": "and-outsides and-head-of **dusts-of** world",
-        "englishNatural": "and outsides and the head of **dusts of** the world"
+        "englishLiteral": "and-outsides, and-head-of **dusts-of** world.",
+        "englishNatural": "and outsides, and the head of **dusts of** the world."
       }
     }
   ]

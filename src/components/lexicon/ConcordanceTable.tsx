@@ -7,6 +7,8 @@ interface ConcordanceRow {
     verse: number;
   };
   wordIndex: number;
+  /** Present when generated with order-aware concordance build. */
+  sourceOrder?: number;
   word: {
     originalScript: string;
     transliteration: string;
@@ -76,7 +78,7 @@ export default function ConcordanceTable({
           <tbody>
             {rows.map((row, i) => (
               <tr
-                key={`${row.location.book}-${row.location.chapter}-${row.location.verse}-${row.wordIndex}-${i}`}
+                key={`${row.location.book}-${row.location.chapter}-${row.location.verse}-${row.sourceOrder ?? row.wordIndex}-${i}`}
               >
                 <td className={styles.location}>
                   {formatLocation(row.location)}

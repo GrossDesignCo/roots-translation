@@ -10,6 +10,7 @@
         "verse": 29
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הִנֵּה֩",
         "transliteration": "hineh",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים **הִנֵּה֩** נָתַ֨תִּי לָכֶ֜ם",
         "transliteration": "vaYomer Elohim **hineh** natati lakhem",
-        "englishLiteral": "And-said Gods **Behold** I-give to-you",
-        "englishNatural": "said And God **Behold** I give to you"
+        "englishLiteral": "And-said Gods, **\"Behold,** I-give to-you",
+        "englishNatural": "And God said, **\"Behold,** I give to you"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 13
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הִנֵּה",
         "transliteration": "hineh",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "אֶל־ הָאֱלֹהִים **הִנֵּה** אָנֹכִי בָא",
         "transliteration": "el- haElohim **hineh** anokhi va",
-        "englishLiteral": "to- the-Gods **behold** I coming",
-        "englishNatural": "to the God **Behold** I coming"
+        "englishLiteral": "to- the-Gods **\"behold** I coming",
+        "englishNatural": "to the God, **\"Behold** I, coming"
       }
     }
   ]

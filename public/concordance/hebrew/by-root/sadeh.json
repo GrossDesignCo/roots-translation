@@ -9,6 +9,7 @@
         "verse": 5
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הַשָּׂדֶה",
         "transliteration": "haSadeh",
@@ -23,7 +24,7 @@
         "hebrew": "וְכֹל שִׂיחַ **הַשָּׂדֶה** טֶרֶם יִהְיֶה",
         "transliteration": "veKol siakh **haSadeh** terem yihyeh",
         "englishLiteral": "And-all shrub **the-field** not-yet will-be",
-        "englishNatural": "And all shrub **of the field** not yet was"
+        "englishNatural": "And all shrub **of the field** was not yet"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 5
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "הַשָּׂדֶה",
         "transliteration": "haSadeh",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וְכָל עֵשֶׂב **הַשָּׂדֶה** טֶרֶם יִצְמָח",
         "transliteration": "veKol esev **haSadeh** terem yitzmach",
-        "englishLiteral": "and-all herb **the-field** not-yet will-grow",
-        "englishNatural": "and all herb **of the field** had not yet grown"
+        "englishLiteral": "and-all herb **the-field** not-yet will-grow;",
+        "englishNatural": "and all herb **of the field** had not yet grown;"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 19
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הַשָּׂדֶה",
         "transliteration": "haSadeh",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "כָּל־ חַיַּת **הַשָּׂדֶה** וְאֵת כָּל־",
         "transliteration": "kol- chayyat **haSadeh** veEt kol-",
-        "englishLiteral": "all- living_being-of **the-field** and-↳ all-",
-        "englishNatural": "every living-being of **the field** and every"
+        "englishLiteral": "all- living_being-of **the-field,** and-↳ all-",
+        "englishNatural": "every living-being of **the field,** and every"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 20
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "הַשָּׂדֶה",
         "transliteration": "haSadeh",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "וּלְכֹל חַיַּת **הַשָּׂדֶה** וּלְאָדָם לֹא",
         "transliteration": "uLeKol chayyat **haSadeh** uLeAdam lo",
-        "englishLiteral": "and-to-every living_being-of **the-field** and-to-Earthling (Adam) no",
-        "englishNatural": "and to every living-being of **the field** and to Earthling (Adam) no"
+        "englishLiteral": "and-to-every living_being-of **the-field,** and-to-Earthling (Adam) no",
+        "englishNatural": "and to every living-being of **the field,** and to Earthling (Adam), no"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הַשָּׂדֶה",
         "transliteration": "haSadeh",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "מִכֹּל חַיַּת **הַשָּׂדֶה** אֲשֶׁר עָשָׂה",
         "transliteration": "miKol chayat **haSadeh** asher asah",
-        "englishLiteral": "from-all living_being-of **the-field** which made",
-        "englishNatural": "out of every living-being of **the field** which had made"
+        "englishLiteral": "from-all living_being-of **the-field,** which made,",
+        "englishNatural": "out of every living-being of **the field,** which He-Who-Is (YHWH)"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 14
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הַשָּׂדֶה",
         "transliteration": "haSadeh",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "וּמִכֹּל חַיַּת **הַשָּׂדֶה** עַל־ גְּחֹנְךָ",
         "transliteration": "umikol chayat **haSadeh** al- gechonkha",
-        "englishLiteral": "and-from-all living_being **the-field** on- belly-your",
-        "englishNatural": "and from all living-being **of the field** on your belly"
+        "englishLiteral": "and-from-all living_being **the-field;** on- belly-your",
+        "englishNatural": "and from all living-being **of the field;** on your belly"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 18
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הַשָּׂדֶה׃",
         "transliteration": "haSadeh",
@@ -166,8 +173,8 @@
       "context": {
         "hebrew": "אֶת־ עֵשֶׂב **הַשָּׂדֶה׃**",
         "transliteration": "et- esev **haSadeh**",
-        "englishLiteral": "↳ herb **the-field**",
-        "englishNatural": "↳ the herb **of the field**"
+        "englishLiteral": "↳ herb **the-field;**",
+        "englishNatural": "↳ the herb **of the field;**"
       }
     },
     {
@@ -177,6 +184,7 @@
         "verse": 8
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "בַּשָּׂדֶה",
         "transliteration": "basadeh",
@@ -190,8 +198,8 @@
       "context": {
         "hebrew": "וַיְהִי בִּהְיוֹתָם **בַּשָּׂדֶה** וַיָּקָם קַיִן",
         "transliteration": "vayHi biHyotam **basadeh** vayYaqam Qayin",
-        "englishLiteral": "And-it-was in-their-being **in-field** and-he-stood_up Acquired (Cain)",
-        "englishNatural": "and it was in their being **in the field** stood-up and Acquired (Cain)"
+        "englishLiteral": "And-it-was in-their-being **in-field,** and-he-stood_up Acquired (Cain)",
+        "englishNatural": "and it was in their being **in the field,** and Acquired (Cain) stood-up"
       }
     },
     {
@@ -201,6 +209,7 @@
         "verse": 1
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "בִּשְׂדֵ֣י",
         "transliteration": "biSdey",
@@ -214,8 +223,8 @@
       "context": {
         "hebrew": "יְהוּדָ֗ה לָגוּר֙ **בִּשְׂדֵ֣י** מוֹאָ֔ב ה֥וּא",
         "transliteration": "Yehudah laGur **biSdey** Moav hu",
-        "englishLiteral": "Praise (Judah) to-sojourn **in-fields-of** From_Father (Moab) he",
-        "englishNatural": "Praise (Judah) to sojourn **in the fields of** From-Father (Moab) he"
+        "englishLiteral": "Praise (Judah) to-sojourn **in-fields-of** From_Father (Moab); he",
+        "englishNatural": "Praise (Judah), to sojourn **in the fields of** From-Father (Moab); he"
       }
     },
     {
@@ -225,6 +234,7 @@
         "verse": 2
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "שְׂדֵי־",
         "transliteration": "sedey-",
@@ -238,8 +248,8 @@
       "context": {
         "hebrew": "יְהוּדָ֑ה וַיָּבֹ֥אוּ **שְׂדֵי־** מוֹאָ֖ב וַיִּֽהְיוּ־",
         "transliteration": "Yehudah vaYavou **sedey-** Moav vayihyu-",
-        "englishLiteral": "Praise (Judah) and-they-came **fields-of-** From_Father (Moab) and-they-were-",
-        "englishNatural": "Praise (Judah) and they came **the fields of** From-Father (Moab) and were"
+        "englishLiteral": "Praise (Judah); and-they-came **fields-of-** From_Father (Moab); and-they-were-",
+        "englishNatural": "Praise (Judah), and they came **the fields of** From-Father (Moab) and were"
       }
     },
     {
@@ -249,6 +259,7 @@
         "verse": 6
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "מִשְּׂדֵ֣י",
         "transliteration": "miSdey",
@@ -262,8 +273,8 @@
       "context": {
         "hebrew": "וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב **מִשְּׂדֵ֣י** מוֹאָ֑ב כִּ֤י",
         "transliteration": "veKhalloteha vatTashav **miSdey** Moav ki",
-        "englishLiteral": "and-daughters_in_law-her and-returned **from-fields-of** From_Father (Moab) that",
-        "englishNatural": "and her daughters-in-law and returned **from the fields of** From-Father (Moab) that"
+        "englishLiteral": "and-daughters_in_law-her and-returned **from-fields-of** From_Father (Moab); that",
+        "englishNatural": "stood-up and returned **from the fields of** From-Father (Moab), that"
       }
     },
     {
@@ -273,6 +284,7 @@
         "verse": 6
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "בִּשְׂדֵ֣ה",
         "transliteration": "biSdeh",
@@ -297,6 +309,7 @@
         "verse": 7
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "שָׂדָֽי",
         "transliteration": "sadai",
@@ -310,8 +323,8 @@
       "context": {
         "hebrew": "וְגַ֥ם בַּהֲמ֥וֹת **שָׂדָֽי**",
         "transliteration": "veGam bahemot **sadai**",
-        "englishLiteral": "and-also beasts-of **field**",
-        "englishNatural": "and also the beasts of **the field**"
+        "englishLiteral": "and-also beasts-of **field.**",
+        "englishNatural": "and also the beasts of **the field.**"
       }
     }
   ]

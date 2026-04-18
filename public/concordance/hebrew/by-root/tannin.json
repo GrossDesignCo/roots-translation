@@ -9,6 +9,7 @@
         "verse": 21
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הַתַּנִּינִ֖ם",
         "transliteration": "haTanninim",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "אֱלֹהִ֔ים אֶת־ **הַתַּנִּינִ֖ם** הַגְּדֹלִ֑ים וְאֵ֣ת",
         "transliteration": "Elohim et- **haTanninim** haGdolim veEt",
-        "englishLiteral": "Gods ↳ **the-monsters** the-greats And-↳",
-        "englishNatural": "And God ↳ **the monsters** the greats And"
+        "englishLiteral": "Gods ↳ **the-monsters,** the-greats, And-↳",
+        "englishNatural": "created ↳ **the monsters,** the greats, And"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 9
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "לְתַנִּין",
         "transliteration": "leTannin",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "פַרְעֹה יְהִי **לְתַנִּין**",
         "transliteration": "Paroh yehi **leTannin**",
-        "englishLiteral": "Pharaoh let-him-be **to-monster**",
-        "englishNatural": "Pharaoh let it be **to a monster**"
+        "englishLiteral": "Pharaoh let-him-be **to-monster.\"**",
+        "englishNatural": "Pharaoh,' let it be **to a monster.\"**"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 10
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "לְתַנִּין",
         "transliteration": "leTannin",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "עֲבָדָיו וַיְהִי **לְתַנִּין**",
         "transliteration": "avadav vaYehi **leTannin**",
-        "englishLiteral": "servants-his and-he-was **to-monster**",
-        "englishNatural": "his servants and it was **to a monster**"
+        "englishLiteral": "servants-his and-he-was **to-monster.**",
+        "englishNatural": "his servants, and it was **to a monster.**"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 12
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "לְתַנִּינִם",
         "transliteration": "leTanninim",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "מַטֵּהוּ וַיִּהְיוּ **לְתַנִּינִם** וַיִּבְלַע מַטֵּה־",
         "transliteration": "mattehu vaYihyu **leTanninim** vaYivla mateh-",
-        "englishLiteral": "branch-his and-they-were **to-monsters** and-swallowed branch-of-",
-        "englishNatural": "his branch and they were **to monsters** swallowed and the branch of"
+        "englishLiteral": "branch-his and-they-were **to-monsters;** and-swallowed branch-of-",
+        "englishNatural": "his branch, and they were **to monsters;** and the branch of Light-Bringer (Aaron)"
       }
     }
   ]

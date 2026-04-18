@@ -10,6 +10,7 @@
         "verse": 5
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "בֹ֖קֶר",
         "transliteration": "voqer",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "עֶ֥רֶב וַֽיְהִי **בֹ֖קֶר** י֥וֹם אֶחָֽד",
         "transliteration": "erev vaYehi **voqer** yom echad",
-        "englishLiteral": "evening And-was **morning** Day one",
-        "englishNatural": "And evening was **And morning** day One"
+        "englishLiteral": "evening, And-was, **morning,** Day one.",
+        "englishNatural": "And evening was, **And morning** was, One"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 8
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "בֹ֖קֶר",
         "transliteration": "voqer",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "עֶ֥רֶב וַֽיְהִי **בֹ֖קֶר** י֥וֹם שֵׁנִֽי׃",
         "transliteration": "erev vaYehi **voqer** yom sheni",
-        "englishLiteral": "evening And-was **morning** Day second",
-        "englishNatural": "And evening was **And morning** day A second"
+        "englishLiteral": "evening, And-was **morning,** Day second.",
+        "englishNatural": "And evening was, **And morning** was, A second"
       }
     }
   ]

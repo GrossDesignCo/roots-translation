@@ -9,6 +9,7 @@
         "verse": 29
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "סְלִקוּ",
         "transliteration": "sliqu",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "עַל מִשְׁכְּבָךְ **סְלִקוּ** מָה דִּי",
         "transliteration": "al mishkavakh **sliqu** mah di",
-        "englishLiteral": "over bed-your **they-came-up** what which",
-        "englishNatural": "over your bed **came up** what which"
+        "englishLiteral": "over bed-your **they-came-up,** what which",
+        "englishNatural": "over your bed **came up,** what which"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 3
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "סָלְקָ֖ן",
         "transliteration": "salqan",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "חֵיוָן֙ רַבְרְבָ֔ן **סָלְקָ֖ן** מִן־ יַמָּ֑א",
         "transliteration": "kheyvan ravravan **salqan** min- yamma",
-        "englishLiteral": "beasts great **coming_up** from- the-sea",
-        "englishNatural": "beasts great **coming up** from the sea"
+        "englishLiteral": "beasts great **coming_up** from- the-sea,",
+        "englishNatural": "great beasts, **coming up** from the sea,"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 8
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "סִלְקָ֣ת",
         "transliteration": "silqat",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "אָחֳרִ֤י זְעֵירָה֙ **סִלְקָ֣ת** ביניהון וּתְלָ֗ת",
         "transliteration": "ochori zeeirah **silqat** beynehon uTelat",
-        "englishLiteral": "another small **came-up** between-them and-three",
-        "englishNatural": "another small **came up** between them and three"
+        "englishLiteral": "another small **came-up** between-them, and-three",
+        "englishNatural": "small horn **came up** between them, and three"
       }
     }
   ]

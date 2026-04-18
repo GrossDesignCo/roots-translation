@@ -10,6 +10,7 @@
         "verse": 23
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "רָאוּ",
         "transliteration": "rau",
@@ -26,7 +27,7 @@
         "hebrew": "לֹא־ **רָאוּ** אִישׁ אֶת־",
         "transliteration": "lo- **rau** ish et-",
         "englishLiteral": "not- **saw** man ↳",
-        "englishNatural": "not **saw** Man ↳"
+        "englishNatural": "Man **saw** not ↳"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 5
       },
       "wordIndex": 21,
+      "sourceOrder": 21,
       "word": {
         "originalScript": "רָאוּ",
         "transliteration": "rau",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "יְהוָה צְבָאוֹת **רָאוּ** עֵינָי",
         "transliteration": "YHWH tsvaot **rau** einai",
-        "englishLiteral": "He_Who_Is (YHWH) of-Hosts **have-seen** my-eyes",
-        "englishNatural": "He-Who-Is (YHWH) of Hosts **have seen** my eyes"
+        "englishLiteral": "He_Who_Is (YHWH) of-Hosts **have-seen** my-eyes.\"",
+        "englishNatural": "that my eyes **have seen** ↳ the King,"
       }
     }
   ]

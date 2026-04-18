@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "ἦν",
         "transliteration": "ēn",
@@ -22,10 +23,10 @@
         }
       },
       "context": {
-        "hebrew": "Ἐν ἀρχῇ **ἦν** ὁ λόγος",
-        "transliteration": "En archē **ēn** ho logos",
-        "englishLiteral": "In first **was** The Word",
-        "englishNatural": "In the first **was** The Word"
+        "hebrew": "Ἐν ἀρχῇ **ἦν** ὁ λόγος,",
+        "transliteration": "En archē **ēn** ho logos,",
+        "englishLiteral": "In first **was** The Word,",
+        "englishNatural": "In the first **was** The Word,"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 1
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "ἦν",
         "transliteration": "ēn",
@@ -60,6 +62,7 @@
         "verse": 1
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "ἦν",
         "transliteration": "ēn",
@@ -72,10 +75,10 @@
         }
       },
       "context": {
-        "hebrew": "καὶ θεὸς **ἦν** ὁ λόγος",
-        "transliteration": "kai theos **ēn** ho logos",
-        "englishLiteral": "and God **was** The Word",
-        "englishNatural": "and God **was** The Word"
+        "hebrew": "καὶ θεὸς, **ἦν** ὁ λόγος.",
+        "transliteration": "kai theos **ēn** ho logos.",
+        "englishLiteral": "and God **was** The Word.",
+        "englishNatural": "The Word **was** God."
       }
     }
   ]

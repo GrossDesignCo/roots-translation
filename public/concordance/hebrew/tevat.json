@@ -10,6 +10,7 @@
         "verse": 14
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "תֵּבַת",
         "transliteration": "tevat",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "עֲשֵׂה לְךָ **תֵּבַת** עֲצֵי־ גֹפֶר",
         "transliteration": "aseh lekha **tevat** atsey- gopher",
-        "englishLiteral": "Make to-you **ark-of** trees-of- gopher",
-        "englishNatural": "Make for yourself **an ark of** trees of gopher"
+        "englishLiteral": "Make to-you **ark-of** trees-of- gopher;",
+        "englishNatural": "Make for yourself **an ark of** trees of gopher;"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 3
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "תֵּבַת",
         "transliteration": "tevat",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "וַתִּקַּח־ לוֹ **תֵּבַת** גֹּמֶא וַתַּחְמְרָה",
         "transliteration": "vaTiqqach- lo **tevat** gome vaTachmerah",
-        "englishLiteral": "and-took- to-him **ark-of** papyrus and-coated-it",
-        "englishNatural": "she took to him **an ark of** papyrus and coated it"
+        "englishLiteral": "and-took- to-him **ark-of** papyrus, and-coated-it",
+        "englishNatural": "she took to him **an ark of** papyrus, and coated it"
       }
     }
   ]

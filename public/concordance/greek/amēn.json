@@ -10,6 +10,7 @@
         "verse": 58
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "ἀμὴν",
         "transliteration": "amēn",
@@ -21,10 +22,10 @@
         }
       },
       "context": {
-        "hebrew": "αὐτοῖς Ἰησοῦς **ἀμὴν** ἀμὴν λέγω",
-        "transliteration": "autois Iēsous **amēn** amēn legō",
-        "englishLiteral": "to-them Salvation (Jesus) **Amen** amen I-say",
-        "englishNatural": "to them Salvation (Jesus) **Amen** amen I say"
+        "hebrew": "αὐτοῖς Ἰησοῦς· **ἀμὴν** ἀμὴν λέγω",
+        "transliteration": "autois Iēsous, **amēn** amēn legō",
+        "englishLiteral": "to-them Salvation (Jesus), **\"Amen** amen I-say",
+        "englishNatural": "said to them, **\"Amen** amen I say"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 58
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "ἀμὴν",
         "transliteration": "amēn",
@@ -45,10 +47,10 @@
         }
       },
       "context": {
-        "hebrew": "Ἰησοῦς ἀμὴν **ἀμὴν** λέγω ὑμῖν",
-        "transliteration": "Iēsous amēn **amēn** legō hymin",
-        "englishLiteral": "Salvation (Jesus) Amen **amen** I-say to-you",
-        "englishNatural": "Salvation (Jesus) Amen **amen** I say to you"
+        "hebrew": "Ἰησοῦς· ἀμὴν **ἀμὴν** λέγω ὑμῖν,",
+        "transliteration": "Iēsous, amēn **amēn** legō hymin,",
+        "englishLiteral": "Salvation (Jesus), \"Amen **amen** I-say to-you,",
+        "englishNatural": "to them, \"Amen **amen** I say to you,"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 18
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "ἀμὴν",
         "transliteration": "amēn",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "**ἀμὴν** ἀμὴν λέγω",
         "transliteration": "**amēn** amēn legō",
-        "englishLiteral": "**Truly** truly I-say",
-        "englishNatural": "**Truly** truly I say"
+        "englishLiteral": "**\"Truly,** truly, I-say",
+        "englishNatural": "**\"Truly,** truly, I say"
       }
     },
     {
@@ -82,6 +85,7 @@
         "verse": 18
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "ἀμὴν",
         "transliteration": "amēn",
@@ -95,8 +99,8 @@
       "context": {
         "hebrew": "ἀμὴν **ἀμὴν** λέγω σοι",
         "transliteration": "amēn **amēn** legō soi",
-        "englishLiteral": "Truly **truly** I-say to-you",
-        "englishNatural": "Truly **truly** I say to you"
+        "englishLiteral": "\"Truly, **truly,** I-say to-you,",
+        "englishNatural": "\"Truly, **truly,** I say to you,"
       }
     }
   ]

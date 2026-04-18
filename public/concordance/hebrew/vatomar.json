@@ -10,6 +10,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַתֹּאמֶר",
         "transliteration": "vaTomar",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "**וַתֹּאמֶר** הָאִשָּׁה אֶל־",
         "transliteration": "**vaTomar** haIshah el-",
-        "englishLiteral": "**And-said** the-woman to",
-        "englishNatural": "**said** And the woman to"
+        "englishLiteral": "**And-said,** the-woman, to,",
+        "englishNatural": "And the woman **said** to the snake,"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 3
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַתֹּאמֶר",
         "transliteration": "vaTomar",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "**וַתֹּאמֶר** הָאִשָּׁה מִפְּרִי",
         "transliteration": "**vaTomar** haIshah miPri",
-        "englishLiteral": "**And-said** the-woman From-fruit-of",
-        "englishNatural": "**said** And the woman From the fruit of"
+        "englishLiteral": "**And-said** the-woman, \"'From-fruit-of",
+        "englishNatural": "And the woman **said,** \"'From the fruit of the tree"
       }
     }
   ]

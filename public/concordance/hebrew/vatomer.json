@@ -10,6 +10,7 @@
         "verse": 13
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "וַתֹּאמֶר",
         "transliteration": "vatomer",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "זֹּאת עָשִׂית **וַתֹּאמֶר** הָאִשָּׁה הַנָּחָשׁ",
         "transliteration": "zot asit **vatomer** haIshah hanachash",
-        "englishLiteral": "this you-have-made **And-she-said** the-woman The-snake",
-        "englishNatural": "is this you have made **said** And the woman The snake"
+        "englishLiteral": "this you-have-made?\" **And-she-said,** the-woman \"The-snake,",
+        "englishNatural": "you have made?\" And the woman **said,** \"The snake, he deceived me,"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 10
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "וַתֹּאמֶר",
         "transliteration": "vaTomer",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "שְׁמוֹ מֹשֶׁה **וַתֹּאמֶר** כִּי מִן־",
         "transliteration": "shemo Moshe **vaTomer** ki min-",
-        "englishLiteral": "name-his Drawn_Out (Moses) **and-said** that from-",
-        "englishNatural": "his name Drawn-Out (Moses) **and said** That from"
+        "englishLiteral": "name-his Drawn_Out (Moses), **and-said** \"that from-",
+        "englishNatural": "his name Drawn-Out (Moses), **and said,** \"That from"
       }
     }
   ]

@@ -9,6 +9,7 @@
         "verse": 26
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אָדָ֛ם",
         "transliteration": "Adam",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה **אָדָ֛ם** בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ",
         "transliteration": "Elohim naAseh **Adam** beTzalmenu kiDmuteinu",
-        "englishLiteral": "Gods Let_us-make **Earthling (Adam)** in-our-image as-our-likeness",
-        "englishNatural": "And God Let us make **Earthling (Adam)** in our image as our likeness"
+        "englishLiteral": "Gods, \"Let_us-make **Earthling (Adam),** in-our-image, as-our-likeness,",
+        "englishNatural": "said, \"Let us make **Earthling (Adam),** in our image, as our likeness,"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 27
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָֽאָדָם֙",
         "transliteration": "haAdam",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "אֱלֹהִ֤ים אֶת־ **הָֽאָדָם֙** בְּצַלְמ֔וֹ בְּצֶ֥לֶם",
         "transliteration": "Elohim et- **haAdam** beTsalmo beTselem",
-        "englishLiteral": "Gods ↳ **the-Earthling (Adam)** in-his-image in-image-of",
-        "englishNatural": "And God ↳ **the Earthling (Adam)** in his image in the image of"
+        "englishLiteral": "Gods, ↳ **the-Earthling (Adam),** in-his-image, in-image-of",
+        "englishNatural": "created ↳ **the Earthling (Adam),** in his image, in the image of"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 5
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "וְאָדָם",
         "transliteration": "veAdam",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "עַל הָאָרֶץ **וְאָדָם** אַיִן לַעֲבֹד",
         "transliteration": "al haAretz **veAdam** ayin laAvod",
-        "englishLiteral": "over the-land **and-Earthling (Adam)** not_exist to-serve",
-        "englishNatural": "over the land **and Earthling (Adam)** was not there to serve"
+        "englishLiteral": "over the-land, **and-Earthling (Adam)** not_exist to-serve",
+        "englishNatural": "over the land, **and Earthling (Adam)** was not there, to serve"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 7
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -95,7 +99,7 @@
         "hebrew": "אֱלֹהִים אֶת־ **הָאָדָם** עָפָר מִן־",
         "transliteration": "Elohim et- **haAdam** afar min-",
         "englishLiteral": "Gods ↳ **the-Earthling (Adam)** dust from-",
-        "englishNatural": "God ↳ **the Earthling (Adam)** dust from"
+        "englishNatural": "formed ↳ **the Earthling (Adam),** dust from"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 7
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "חַיִּים וַיְהִי **הָאָדָם** לְנֶפֶשׁ חַיָּה׃",
         "transliteration": "chayyim vaYehi **haAdam** leNefesh chayyah",
-        "englishLiteral": "lives and-was **the-Earthling (Adam)** to-throat living",
-        "englishNatural": "life was **and the Earthling (Adam)** throat a living"
+        "englishLiteral": "lives, and-was **the-Earthling (Adam)** to-throat living.",
+        "englishNatural": "the breath of life, **and the Earthling (Adam)** was a living"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 8
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "שָׁם אֶת־ **הָאָדָם** אֲשֶׁר יָצָר׃",
         "transliteration": "sham et- **haAdam** asher yatsar",
-        "englishLiteral": "there ↳ **the-Earthling (Adam)** which formed",
-        "englishNatural": "there ↳ **the Earthling (Adam)** which he formed"
+        "englishLiteral": "there ↳ **the-Earthling (Adam)** which formed.",
+        "englishNatural": "there ↳ **the Earthling (Adam)** which he formed."
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 15
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -166,8 +173,8 @@
       "context": {
         "hebrew": "אֱלֹהִים אֶת־ **הָאָדָם** וַיַּנִּחֵהוּ בְגַן־",
         "transliteration": "Elohim et- **haAdam** vaYanNichehu beGan-",
-        "englishLiteral": "Gods ↳ **the-Earthling (Adam)** and-rested-him in-Garden-",
-        "englishNatural": "God ↳ **the Earthling (Adam)** and rested him in Garden"
+        "englishLiteral": "Gods ↳ **the-Earthling (Adam),** and-rested-him in-Garden-",
+        "englishNatural": "took ↳ **the Earthling (Adam),** and rested him in Garden"
       }
     },
     {
@@ -177,6 +184,7 @@
         "verse": 16
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -190,8 +198,8 @@
       "context": {
         "hebrew": "אֱלֹהִים עַל־ **הָאָדָם** לֵאמֹר מִכֹּל",
         "transliteration": "Elohim al- **haAdam** leEmor miKol",
-        "englishLiteral": "Gods over- **the-Earthling (Adam)** to-say From-all",
-        "englishNatural": "God over **the Earthling (Adam)** saying From all"
+        "englishLiteral": "Gods over- **the-Earthling (Adam),** to-say, \"From-all",
+        "englishNatural": "commanded over **the Earthling (Adam),** saying, \"From all"
       }
     },
     {
@@ -201,6 +209,7 @@
         "verse": 18
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -214,8 +223,8 @@
       "context": {
         "hebrew": "טוֹב הֱיוֹת **הָאָדָם** לְבַדּוֹ אֶעֱשֶׂה־",
         "transliteration": "tov heyot **haAdam** leVaddo eese-",
-        "englishLiteral": "good to-be **the-Earthling (Adam)** to-alone-him I-will-make-",
-        "englishNatural": "good to be **for the Earthling (Adam)** to himself alone I will make"
+        "englishLiteral": "good to-be **the-Earthling (Adam)** to-alone-him; I-will-make-",
+        "englishNatural": "\"No good **for the Earthling (Adam)** to be to himself alone;"
       }
     },
     {
@@ -225,6 +234,7 @@
         "verse": 19
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -249,6 +259,7 @@
         "verse": 19
       },
       "wordIndex": 23,
+      "sourceOrder": 23,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -262,8 +273,8 @@
       "context": {
         "hebrew": "יִקְרָא־ לוֹ **הָאָדָם** נֶפֶשׁ חַיָּה",
         "transliteration": "yiqra- lo **haAdam** nephesh chayyah",
-        "englishLiteral": "he-calls_out- to-it **the-Earthling (Adam)** throat living",
-        "englishNatural": "would call-out to it **the Earthling (Adam)** throat each living"
+        "englishLiteral": "he-calls_out- to-it **the-Earthling (Adam),** throat living,",
+        "englishNatural": "And everything which **the Earthling (Adam)** would call-out to it,"
       }
     },
     {
@@ -273,6 +284,7 @@
         "verse": 20
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -287,7 +299,7 @@
         "hebrew": "וַיִּקְרָא **הָאָדָם** שֵׁמוֹת לְכָל־",
         "transliteration": "vaYiqra **haAdam** shemot leKol-",
         "englishLiteral": "And-called_out **the-Earthling (Adam)** names to-every-",
-        "englishNatural": "called-out **And the Earthling (Adam)** names to every"
+        "englishNatural": "**And the Earthling (Adam)** called-out names"
       }
     },
     {
@@ -297,6 +309,7 @@
         "verse": 20
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "וּלְאָדָם",
         "transliteration": "uLeAdam",
@@ -310,8 +323,8 @@
       "context": {
         "hebrew": "חַיַּת הַשָּׂדֶה **וּלְאָדָם** לֹא מָצָא",
         "transliteration": "chayyat haSadeh **uLeAdam** lo matza",
-        "englishLiteral": "living_being-of the-field **and-to-Earthling (Adam)** no was-found",
-        "englishNatural": "living-being of the field **and to Earthling (Adam)** no was found"
+        "englishLiteral": "living_being-of the-field, **and-to-Earthling (Adam)** no was-found",
+        "englishNatural": "living-being of the field, **and to Earthling (Adam),** no help"
       }
     },
     {
@@ -321,6 +334,7 @@
         "verse": 21
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -334,8 +348,8 @@
       "context": {
         "hebrew": "תַּרְדֵּמָה עַל **הָאָדָם** וַיִּישָׁן וַיִּקַּח",
         "transliteration": "tardemah al **haAdam** vaYishan vaYikach",
-        "englishLiteral": "deep_trance over **the-Earthling (Adam)** and-he-slept and-he-took",
-        "englishNatural": "caused a deep-trance over **the Earthling (Adam)** and he slept and he took"
+        "englishLiteral": "deep_trance over **the-Earthling (Adam),** and-he-slept; and-he-took",
+        "englishNatural": "to fall over **the Earthling (Adam),** and he slept; and he took"
       }
     },
     {
@@ -345,6 +359,7 @@
         "verse": 22
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -358,8 +373,8 @@
       "context": {
         "hebrew": "לָקַח מִן־ **הָאָדָם** לְאִשָּׁה וַיְבִאֶהָ",
         "transliteration": "lakach min- **haAdam** leIshah vaYeviEha",
-        "englishLiteral": "he-took from- **the-Earthling (Adam)** to-woman and-brought-her",
-        "englishNatural": "he took from **the Earthling (Adam)** into a woman and brought her"
+        "englishLiteral": "he-took from- **the-Earthling (Adam),** to-woman, and-brought-her",
+        "englishNatural": "he took from **the Earthling (Adam),** into a woman, and brought her"
       }
     },
     {
@@ -369,6 +384,7 @@
         "verse": 22
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "הָאָדָם׃",
         "transliteration": "haAdam",
@@ -382,8 +398,8 @@
       "context": {
         "hebrew": "וַיְבִאֶהָ אֶל־ **הָאָדָם׃**",
         "transliteration": "vaYeviEha el- **haAdam**",
-        "englishLiteral": "and-brought-her to- **the-Earthling (Adam)**",
-        "englishNatural": "and brought her to **the Earthling (Adam)**"
+        "englishLiteral": "and-brought-her to- **the-Earthling (Adam).**",
+        "englishNatural": "and brought her to **the Earthling (Adam).**"
       }
     },
     {
@@ -393,6 +409,7 @@
         "verse": 23
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -406,8 +423,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר **הָאָדָם** זֹאת הַפַּעַם",
         "transliteration": "vaYomer **haAdam** zot haPaam",
-        "englishLiteral": "And-said **the-Earthling (Adam)** This the-time",
-        "englishNatural": "said **And the Earthling (Adam)** This is the time"
+        "englishLiteral": "And-said **the-Earthling (Adam),** \"This the-time!",
+        "englishNatural": "**And the Earthling (Adam)** said, \"This is"
       }
     },
     {
@@ -417,6 +434,7 @@
         "verse": 25
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -430,8 +448,8 @@
       "context": {
         "hebrew": "שְׁנֵיהֶם עֲרוּמִּים **הָאָדָם** וְאִשְׁתּוֹ וְלֹא",
         "transliteration": "shenehem arummim **haAdam** veIshto veLo",
-        "englishLiteral": "two-of-them naked **the-Earthling (Adam)** and-his-woman and-not",
-        "englishNatural": "And the two of them naked **the Earthling (Adam)** and his woman not"
+        "englishLiteral": "two-of-them naked, **the-Earthling (Adam)** and-his-woman, and-not",
+        "englishNatural": "were naked, **the Earthling (Adam)** and his woman, and were ashamed"
       }
     },
     {
@@ -441,6 +459,7 @@
         "verse": 8
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -454,8 +473,8 @@
       "context": {
         "hebrew": "הַיּוֹם וַיִּתְחַבֵּא **הָאָדָם** וְאִשְׁתּוֹ מִפְּנֵי",
         "transliteration": "haYom vaYitchabe **haAdam** ve'ishto miPney",
-        "englishLiteral": "the-day and-hid **the-Earthling (Adam)** and-his-woman from-faces-of",
-        "englishNatural": "of the day hid **and the Earthling (Adam)** and his woman from the face of"
+        "englishLiteral": "the-day; and-hid **the-Earthling (Adam)** and-his-woman, from-faces-of",
+        "englishNatural": "to the wind of the day; **and the Earthling (Adam)** and his woman hid,"
       }
     },
     {
@@ -465,6 +484,7 @@
         "verse": 9
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -478,8 +498,8 @@
       "context": {
         "hebrew": "אֱלֹהִים אֶל־ **הָאָדָם** וַיֹּאמֶר לוֹ",
         "transliteration": "Elohim el- **haAdam** vaYomer lo",
-        "englishLiteral": "Gods to- **the-Earthling (Adam)** and-said to-him",
-        "englishNatural": "God to **the Earthling (Adam)** and said to him"
+        "englishLiteral": "Gods to- **the-Earthling (Adam),** and-said to-him,",
+        "englishNatural": "called-out to **the Earthling (Adam),** and said to him,"
       }
     },
     {
@@ -489,6 +509,7 @@
         "verse": 12
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -502,8 +523,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר **הָאָדָם** הָאִשָּׁה אֲשֶׁר",
         "transliteration": "vaYomer **haAdam** haIshah asher",
-        "englishLiteral": "And-he-said **the-Earthling (Adam)** The-woman which",
-        "englishNatural": "said **And the Earthling (Adam)** The woman which"
+        "englishLiteral": "And-he-said **the-Earthling (Adam),** \"The-woman which",
+        "englishNatural": "**And the Earthling (Adam)** said, \"The woman"
       }
     },
     {
@@ -513,6 +534,7 @@
         "verse": 17
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וּלְאָדָם",
         "transliteration": "uleAdam",
@@ -526,8 +548,8 @@
       "context": {
         "hebrew": "**וּלְאָדָם** אָמַר כִּי־",
         "transliteration": "**uleAdam** amar ki-",
-        "englishLiteral": "**And-to-Earthling (Adam)** he-said That",
-        "englishNatural": "**And to Earthling (Adam)** he said That"
+        "englishLiteral": "**And-to-Earthling (Adam)** he-said, \"That",
+        "englishNatural": "**And to Earthling (Adam)** he said, \"That"
       }
     },
     {
@@ -537,6 +559,7 @@
         "verse": 20
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -551,7 +574,7 @@
         "hebrew": "וַיִּקְרָא **הָאָדָם** שֵׁם אִשְׁתּוֹ",
         "transliteration": "vayYiqra **haAdam** shem ishto",
         "englishLiteral": "And-he-called_out **the-Earthling (Adam)** name woman-his",
-        "englishNatural": "called-out **And the Earthling (Adam)** name his woman's"
+        "englishNatural": "**And the Earthling (Adam)** called-out his woman's"
       }
     },
     {
@@ -561,6 +584,7 @@
         "verse": 21
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "לְאָדָם",
         "transliteration": "leAdam",
@@ -574,8 +598,8 @@
       "context": {
         "hebrew": "יְהוָה אֱלֹהִים **לְאָדָם** וּלְאִשְׁתּוֹ כָּתְנוֹת",
         "transliteration": "YHWH Elohim **leAdam** uleIshto kotnot",
-        "englishLiteral": "He_Who_Is (YHWH) Gods **to-Earthling (Adam)** and-to-woman-his tunics",
-        "englishNatural": "And He-Who-Is (YHWH) God **to Earthling (Adam)** and to his woman tunics"
+        "englishLiteral": "He_Who_Is (YHWH) Gods **to-Earthling (Adam)** and-to-woman-his; tunics",
+        "englishNatural": "God made **to Earthling (Adam)** and to his woman; tunics"
       }
     },
     {
@@ -585,6 +609,7 @@
         "verse": 22
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -598,8 +623,8 @@
       "context": {
         "hebrew": "אֱלֹהִים הֵן **הָאָדָם** הָיָה כְּאַחַד",
         "transliteration": "Elohim hen **haAdam** hayah keAchad",
-        "englishLiteral": "Gods Behold **the-Earthling (Adam)** has-become as-one",
-        "englishNatural": "God Behold **the Earthling (Adam)** has become as one"
+        "englishLiteral": "Gods, \"Behold, **the-Earthling (Adam)** has-become as-one",
+        "englishNatural": "said, \"Behold, **the Earthling (Adam)** has become as one"
       }
     },
     {
@@ -609,6 +634,7 @@
         "verse": 24
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -622,8 +648,8 @@
       "context": {
         "hebrew": "וַיְגָרֶשׁ אֶת־ **הָאָדָם** וַיַּשְׁכֵּן מִקֶּדֶם",
         "transliteration": "vayGaresh et- **haAdam** vayYashken miQedem",
-        "englishLiteral": "And-he-banished ↳ **the-Earthling (Adam)** and-he-caused-to-dwell from-east",
-        "englishNatural": "And he banished ↳ **the Earthling (Adam)** and he caused to dwell east"
+        "englishLiteral": "And-he-banished ↳ **the-Earthling (Adam);** and-he-caused-to-dwell from-east",
+        "englishNatural": "And he banished ↳ **the Earthling (Adam);** and he caused to dwell east"
       }
     },
     {
@@ -633,6 +659,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְהָאָדָם",
         "transliteration": "veHaAdam",
@@ -657,6 +684,7 @@
         "verse": 25
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -671,7 +699,7 @@
         "hebrew": "וַיֵּדַע **אָדָם** עוֹד אֶת־",
         "transliteration": "vaYeda **Adam** od et-",
         "englishLiteral": "and-knew **Earthling (Adam)** again ↳",
-        "englishNatural": "knew **And Earthling (Adam)** again ↳"
+        "englishNatural": "**And Earthling (Adam)** knew ↳"
       }
     },
     {
@@ -681,6 +709,7 @@
         "verse": 1
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -694,8 +723,8 @@
       "context": {
         "hebrew": "סֵפֶר תּוֹלְדֹת **אָדָם** בְּיוֹם בְּרֹא",
         "transliteration": "sefer toledot **Adam** beYom bero",
-        "englishLiteral": "book birthings **Earthling (Adam)** In-day create",
-        "englishNatural": "book Birthings of **Earthling (Adam)** In the day created"
+        "englishLiteral": "book, birthings **Earthling (Adam).** In-day create",
+        "englishNatural": "book, Birthings of **Earthling (Adam).** In the day God"
       }
     },
     {
@@ -705,6 +734,7 @@
         "verse": 1
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -718,8 +748,8 @@
       "context": {
         "hebrew": "בְּרֹא אֱלֹהִים **אָדָם** בִּדְמוּת אֱלֹהִים",
         "transliteration": "bero Elohim **Adam** biDemut Elohim",
-        "englishLiteral": "create Gods **Earthling (Adam)** in-likeness-of Gods",
-        "englishNatural": "created God **Earthling (Adam)** in the likeness of God"
+        "englishLiteral": "create Gods **Earthling (Adam),** in-likeness-of Gods",
+        "englishNatural": "God created **Earthling (Adam),** in the likeness of God"
       }
     },
     {
@@ -729,6 +759,7 @@
         "verse": 2
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -742,8 +773,8 @@
       "context": {
         "hebrew": "אֶת־ שְׁמָם **אָדָם** בְּיוֹם הִבָּרְאָם",
         "transliteration": "et- shemam **Adam** beYom hiBaram",
-        "englishLiteral": "↳ name-their **Earthling (Adam)** in-day them-being-created",
-        "englishNatural": "↳ their name **Earthling (Adam)** in the day of them being created"
+        "englishLiteral": "↳ name-their, **\"Earthling (Adam),\"** in-day them-being-created.",
+        "englishNatural": "↳ their name, **\"Earthling (Adam),\"** in the day of them being created."
       }
     },
     {
@@ -753,6 +784,7 @@
         "verse": 3
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -767,7 +799,7 @@
         "hebrew": "וַיְחִי **אָדָם** שְׁלֹשִׁים וּמְאַת",
         "transliteration": "vaYechi **Adam** shloshim uMeat",
         "englishLiteral": "and-lived **Earthling (Adam)** thirty and-hundred",
-        "englishNatural": "lived **And Earthling (Adam)** thirty and a hundred"
+        "englishNatural": "**And Earthling (Adam)** lived thirty"
       }
     },
     {
@@ -777,6 +809,7 @@
         "verse": 4
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -791,7 +824,7 @@
         "hebrew": "וַיִּהְיוּ יְמֵי־ **אָדָם** אַחֲרֵי הוֹלִידוֹ",
         "transliteration": "vaYihyu yemey- **Adam** acharey holido",
         "englishLiteral": "and-were days-of **Earthling (Adam)** after birthing-him",
-        "englishNatural": "were And the days of **Earthling (Adam)** after he had birthed"
+        "englishNatural": "And the days of **Earthling (Adam)** after he had birthed"
       }
     },
     {
@@ -801,6 +834,7 @@
         "verse": 5
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -814,8 +848,8 @@
       "context": {
         "hebrew": "כָּל־ יְמֵי **אָדָם** אֲשֶׁר חַי",
         "transliteration": "kol- yemey **Adam** asher chai",
-        "englishLiteral": "all- days-of **Earthling (Adam)** which he-lived",
-        "englishNatural": "And all the days of **Earthling (Adam)** which he lived"
+        "englishLiteral": "all- days-of **Earthling (Adam),** which he-lived,",
+        "englishNatural": "And all the days of **Earthling (Adam),** which he lived,"
       }
     },
     {
@@ -825,6 +859,7 @@
         "verse": 1
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -839,7 +874,7 @@
         "hebrew": "כִּי־ הֵחֵל **הָאָדָם** לָרֹב עַל־",
         "transliteration": "ki- hechel **haAdam** laRov al-",
         "englishLiteral": "that- began **the-Earthling (Adam)** to-multiply over-",
-        "englishNatural": "that began **the Earthling (Adam)** to multiply over"
+        "englishNatural": "And it was, that **the Earthling (Adam)** began to multiply"
       }
     },
     {
@@ -849,6 +884,7 @@
         "verse": 2
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -862,8 +898,8 @@
       "context": {
         "hebrew": "אֶת־ בְּנוֹת **הָאָדָם** כִּי טֹבֹת",
         "transliteration": "et- benot **haAdam** ki tovot",
-        "englishLiteral": "↳ daughters-of **the-Earthling (Adam)** that good",
-        "englishNatural": "↳ the daughters of **Earthling (Adam)** that good"
+        "englishLiteral": "↳ daughters-of **the-Earthling (Adam),** that good",
+        "englishNatural": "↳ the daughters of **Earthling (Adam),** that they were"
       }
     },
     {
@@ -873,6 +909,7 @@
         "verse": 3
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "בָאָדָם",
         "transliteration": "baAdam",
@@ -886,8 +923,8 @@
       "context": {
         "hebrew": "יָדוֹן רוּחִי **בָאָדָם** לְעֹלָם בְּשַׁגַּם",
         "transliteration": "yadon ruchi **baAdam** leOlam beShagam",
-        "englishLiteral": "will-judge my-wind **in-Earthling (Adam)** to-the_age in-moreover",
-        "englishNatural": "will judge My Wind **in Earthling (Adam)** to the-age in moreover"
+        "englishLiteral": "will-judge my-wind **in-Earthling (Adam)** to-the_age, in-moreover",
+        "englishNatural": "will judge not **in Earthling (Adam)** to the-age, in moreover"
       }
     },
     {
@@ -897,6 +934,7 @@
         "verse": 4
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -910,8 +948,8 @@
       "context": {
         "hebrew": "אֶל־ בְּנוֹת **הָאָדָם** וְיָלְדוּ לָהֶם",
         "transliteration": "el- benot **haAdam** veyaledu lahem",
-        "englishLiteral": "to daughters-of **the-Earthling (Adam)** and-they-birthed to-them",
-        "englishNatural": "to the daughters of **Earthling (Adam)** birthed and to them"
+        "englishLiteral": "to daughters-of **the-Earthling (Adam),** and-they-birthed to-them",
+        "englishNatural": "to the daughters of **Earthling (Adam),** and to them they"
       }
     },
     {
@@ -921,6 +959,7 @@
         "verse": 5
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -934,8 +973,8 @@
       "context": {
         "hebrew": "רַבָּה רָעַת **הָאָדָם** בָּאָרֶץ וְכָל־",
         "transliteration": "rabbah raat **haAdam** baAretz vekhol-",
-        "englishLiteral": "multiplying-was bad-of **the-Earthling (Adam)** in-land and-all-",
-        "englishNatural": "was multiplying the bad of **Earthling (Adam)** in the land and all"
+        "englishLiteral": "multiplying-was bad-of **the-Earthling (Adam)** in-land, and-all-",
+        "englishNatural": "that the bad of **Earthling (Adam)** was multiplying in the land,"
       }
     },
     {
@@ -945,6 +984,7 @@
         "verse": 6
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -958,8 +998,8 @@
       "context": {
         "hebrew": "עָשָׂה אֶת־ **הָאָדָם** בָּאָרֶץ וַיִּתְעַצֵּב",
         "transliteration": "asah et- **haAdam** baAretz vayYitatzev",
-        "englishLiteral": "he-made ↳ **the-Earthling (Adam)** in-land and-it-grieved-him",
-        "englishNatural": "he made ↳ **Earthling (Adam)** in the land and it grieved him"
+        "englishLiteral": "he-made ↳ **the-Earthling (Adam)** in-land, and-it-grieved-him",
+        "englishNatural": "he made ↳ **Earthling (Adam)** in the land, and it grieved him"
       }
     },
     {
@@ -969,6 +1009,7 @@
         "verse": 7
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -982,8 +1023,8 @@
       "context": {
         "hebrew": "אֶמְחֶה אֶת־ **הָאָדָם** אֲשֶׁר־ בָּרָאתִי",
         "transliteration": "emcheh et- **haAdam** asher- barati",
-        "englishLiteral": "I-will-wipe_out ↳ **the-Earthling (Adam)** which- I-created",
-        "englishNatural": "I will wipe-out ↳ **the Earthling (Adam)** which I created"
+        "englishLiteral": "\"I-will-wipe_out ↳ **the-Earthling (Adam)** which- I-created",
+        "englishNatural": "\"I will wipe-out ↳ **the Earthling (Adam)** which I created"
       }
     },
     {
@@ -993,6 +1034,7 @@
         "verse": 7
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "מֵאָדָם",
         "transliteration": "meAdam",
@@ -1006,8 +1048,8 @@
       "context": {
         "hebrew": "פְּנֵי הָאֲדָמָה **מֵאָדָם** עַד־ בְּהֵמָה",
         "transliteration": "peney haAdamah **meAdam** ad- behemah",
-        "englishLiteral": "faces-of the-earth **from-Earthling (Adam)** unto- beast",
-        "englishNatural": "the face of the earth **from Earthling (Adam)** unto beast"
+        "englishLiteral": "faces-of the-earth, **from-Earthling (Adam)** unto- beast,",
+        "englishNatural": "the face of the earth, **from Earthling (Adam)** unto beast,"
       }
     },
     {
@@ -1017,6 +1059,7 @@
         "verse": 21
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -1030,8 +1073,8 @@
       "context": {
         "hebrew": "הָאֲדָמָה בַּעֲבוּר **הָאָדָם** כִּי יֵצֶר",
         "transliteration": "haAdamah baAvur **haAdam** ki yetzer",
-        "englishLiteral": "the-earth in-passing_through-of **the-Earthling (Adam)** for forming",
-        "englishNatural": "the earth in the passing-through of **the Earthling (Adam)** for the forming"
+        "englishLiteral": "the-earth, in-passing_through-of **the-Earthling (Adam),** for forming",
+        "englishNatural": "the earth, in the passing-through of **the Earthling (Adam),** for the forming"
       }
     },
     {
@@ -1041,6 +1084,7 @@
         "verse": 21
       },
       "wordIndex": 20,
+      "sourceOrder": 20,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -1054,8 +1098,8 @@
       "context": {
         "hebrew": "יֵצֶר לֵב **הָאָדָם** רַע מִנְּעֻרָיו",
         "transliteration": "yetzer lev **haAdam** ra miNeurav",
-        "englishLiteral": "forming heart-of **the-Earthling (Adam)** bad from-his-youth",
-        "englishNatural": "the forming of the heart of **the Earthling (Adam)** bad from his youth"
+        "englishLiteral": "forming heart-of **the-Earthling (Adam),** bad from-his-youth;",
+        "englishNatural": "the forming of the heart of **the Earthling (Adam),** bad from his youth;"
       }
     },
     {
@@ -1065,6 +1109,7 @@
         "verse": 5
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -1078,8 +1123,8 @@
       "context": {
         "hebrew": "אֶדְרְשֶׁנּוּ וּמִיַּד **הָאָדָם** מִיַּד אִישׁ",
         "transliteration": "edreshennu uMiYad **haAdam** miYad ish",
-        "englishLiteral": "I-will-require-it and-from-hand-of **the-Earthling (Adam)** from-hand-of man",
-        "englishNatural": "I will require it and from the hand of **the Earthling (Adam)** from the hand of a man"
+        "englishLiteral": "I-will-require-it; and-from-hand-of **the-Earthling (Adam),** from-hand-of man",
+        "englishNatural": "I will require it; and from the hand of **the Earthling (Adam),** from the hand of a man"
       }
     },
     {
@@ -1089,6 +1134,7 @@
         "verse": 5
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -1102,8 +1148,8 @@
       "context": {
         "hebrew": "אֶת־ נֶפֶשׁ **הָאָדָם**",
         "transliteration": "et- nefesh **haAdam**",
-        "englishLiteral": "↳ soul-of **the-Earthling (Adam)**",
-        "englishNatural": "↳ the soul of **the Earthling (Adam)**"
+        "englishLiteral": "↳ soul-of **the-Earthling (Adam).**",
+        "englishNatural": "↳ the soul of **the Earthling (Adam).**"
       }
     },
     {
@@ -1113,6 +1159,7 @@
         "verse": 6
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -1126,8 +1173,8 @@
       "context": {
         "hebrew": "שֹׁפֵךְ דַּם **הָאָדָם** בָּאָדָם דָּמוֹ",
         "transliteration": "shofekh dam **haAdam** baAdam damo",
-        "englishLiteral": "One-pouring blood-of **the-Earthling (Adam)** in-Earthling (Adam) his-blood",
-        "englishNatural": "One-pouring the blood of **the Earthling (Adam)** in Earthling (Adam) his blood"
+        "englishLiteral": "One-pouring blood-of **the-Earthling (Adam),** in-Earthling (Adam) his-blood",
+        "englishNatural": "One-pouring the blood of **the Earthling (Adam),** in Earthling (Adam) his blood"
       }
     },
     {
@@ -1137,6 +1184,7 @@
         "verse": 6
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "בָּאָדָם",
         "transliteration": "baAdam",
@@ -1150,8 +1198,8 @@
       "context": {
         "hebrew": "דַּם הָאָדָם **בָּאָדָם** דָּמוֹ יִשָּׁפֵךְ",
         "transliteration": "dam haAdam **baAdam** damo yishafekh",
-        "englishLiteral": "blood-of the-Earthling (Adam) **in-Earthling (Adam)** his-blood it-will-be-poured",
-        "englishNatural": "the blood of the Earthling (Adam) **in Earthling (Adam)** his blood will be poured"
+        "englishLiteral": "blood-of the-Earthling (Adam), **in-Earthling (Adam)** his-blood it-will-be-poured;",
+        "englishNatural": "the blood of the Earthling (Adam), **in Earthling (Adam)** his blood will be poured;"
       }
     },
     {
@@ -1161,6 +1209,7 @@
         "verse": 6
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -1174,8 +1223,8 @@
       "context": {
         "hebrew": "עָשָׂה אֶת־ **הָאָדָם**",
         "transliteration": "asah et- **haAdam**",
-        "englishLiteral": "he-made ↳ **the-Earthling (Adam)**",
-        "englishNatural": "he made ↳ **the Earthling (Adam)**"
+        "englishLiteral": "he-made ↳ **the-Earthling (Adam).**",
+        "englishNatural": "he made ↳ **the Earthling (Adam).**"
       }
     },
     {
@@ -1185,6 +1234,7 @@
         "verse": 5
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -1198,8 +1248,8 @@
       "context": {
         "hebrew": "בָּנוּ בְּנֵי **הָאָדָם**",
         "transliteration": "banu beney **haAdam**",
-        "englishLiteral": "they-had-built sons-of **the-Earthling (Adam)**",
-        "englishNatural": "had built the sons of **the Earthling (Adam)**"
+        "englishLiteral": "they-had-built sons-of **the-Earthling (Adam).**",
+        "englishNatural": "which the sons of **the Earthling (Adam)** had built."
       }
     },
     {
@@ -1209,6 +1259,7 @@
         "verse": 4
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "אָ֝דָ֗ם",
         "transliteration": "Adam",
@@ -1222,8 +1273,8 @@
       "context": {
         "hebrew": "תִזְכְּרֶ֑נּוּ וּבֶן־ **אָ֝דָ֗ם** כִּ֣י תִפְקְדֶֽנּוּ",
         "transliteration": "tiZkrennu uVen- **Adam** ki tiFqedennu",
-        "englishLiteral": "you-will-remember-him and-son-of- **Earthling (Adam)** that you-will-visit-him",
-        "englishNatural": "you will remember him and the son of **Earthling (Adam)** that you will visit him"
+        "englishLiteral": "you-will-remember-him, and-son-of- **Earthling (Adam)** that you-will-visit-him.",
+        "englishNatural": "you will remember him, and the son of **Earthling (Adam)** that you will visit him."
       }
     },
     {
@@ -1233,6 +1284,7 @@
         "verse": 31
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "adam",
@@ -1246,8 +1298,8 @@
       "context": {
         "hebrew": "אֶת־ בְּנֵי **אָדָם**",
         "transliteration": "et- benei **adam**",
-        "englishLiteral": "↳ sons-of **Earthling (Adam)**",
-        "englishNatural": "↳ the sons of **Earthling (Adam)**"
+        "englishLiteral": "↳ sons-of **Earthling (Adam).**",
+        "englishNatural": "↳ the sons of **Earthling (Adam).**"
       }
     },
     {
@@ -1257,6 +1309,7 @@
         "verse": 5
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -1270,8 +1323,8 @@
       "context": {
         "hebrew": "מַרְאֵיהֶן דְּמוּת **אָדָם** לָהֵנָּה",
         "transliteration": "mareihen demut **Adam** lahenah",
-        "englishLiteral": "appearance-their likeness-of **Earthling (Adam)** to-them",
-        "englishNatural": "their appearance a likeness of **Earthling (Adam)** to them"
+        "englishLiteral": "appearance-their, likeness-of **Earthling (Adam)** to-them.",
+        "englishNatural": "their appearance, a likeness of **Earthling (Adam)** to them."
       }
     },
     {
@@ -1281,6 +1334,7 @@
         "verse": 8
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -1305,6 +1359,7 @@
         "verse": 10
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -1318,8 +1373,8 @@
       "context": {
         "hebrew": "פְּנֵיהֶם פְּנֵי **אָדָם** וּפְנֵי אַרְיֵה",
         "transliteration": "peneihem peney **Adam** uFeney aryeh",
-        "englishLiteral": "faces-their faces-of **Earthling (Adam)** and-faces-of lion",
-        "englishNatural": "their faces the face of **Earthling (Adam)** and the face of a lion"
+        "englishLiteral": "faces-their: faces-of **Earthling (Adam),** and-faces-of lion",
+        "englishNatural": "their faces: the face of **Earthling (Adam),** and the face of a lion"
       }
     },
     {
@@ -1329,6 +1384,7 @@
         "verse": 26
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -1342,8 +1398,8 @@
       "context": {
         "hebrew": "דְּמוּת כְּמַרְאֵה **אָדָם** עָלָיו מִלְמָעְלָה",
         "transliteration": "demut keMareeh **Adam** alav milMaalah",
-        "englishLiteral": "likeness like-appearance-of **Earthling (Adam)** over-him from-to-upward",
-        "englishNatural": "a likeness like the appearance of **Earthling (Adam)** over him from upward"
+        "englishLiteral": "likeness like-appearance-of **Earthling (Adam),** over-him from-to-upward.",
+        "englishNatural": "a likeness like the appearance of **Earthling (Adam),** from upward over him."
       }
     },
     {
@@ -1353,6 +1409,7 @@
         "verse": 1
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -1366,8 +1423,8 @@
       "context": {
         "hebrew": "אֵלָי בֶּן־ **אָדָם** עֲמֹד עַל־",
         "transliteration": "elai ben- **Adam** amod al-",
-        "englishLiteral": "to-me son-of- **Earthling (Adam)** stand over-",
-        "englishNatural": "to me Son of **Earthling (Adam)** stand over"
+        "englishLiteral": "to-me, \"son-of- **Earthling (Adam),** stand over-",
+        "englishNatural": "to me, \"Son of **Earthling (Adam),** stand over"
       }
     },
     {
@@ -1377,6 +1434,7 @@
         "verse": 7
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -1390,8 +1448,8 @@
       "context": {
         "hebrew": "וּגְדֹלָיו לֵאמֹר **הָאָדָם** וְהַבְּהֵמָה הַבָּקָר",
         "transliteration": "uGedolav lemor **haAdam** veHaBehemah haBaqar",
-        "englishLiteral": "and-greats-his to-say **the-Earthling (Adam)** and-the-beast the-cattle",
-        "englishNatural": "and his greats to say **The Earthling (Adam)** and the beast the cattle"
+        "englishLiteral": "and-greats-his, to-say, **\"the-Earthling (Adam)** and-the-beast, the-cattle",
+        "englishNatural": "and his greats, to say, **\"The Earthling (Adam)** and the beast, the cattle"
       }
     },
     {
@@ -1401,6 +1459,7 @@
         "verse": 8
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הָאָדָם",
         "transliteration": "haAdam",
@@ -1414,8 +1473,8 @@
       "context": {
         "hebrew": "וְיִתְכַּסּוּ שַׂק **הָאָדָם** וְהַבְּהֵמָה וְיִקְרְאוּ",
         "transliteration": "veYitkassu saq **haAdam** veHaBehemah veYiqreu",
-        "englishLiteral": "And-they-will-be-covered sackcloth **the-Earthling (Adam)** and-the-beast and-they-will-call_out",
-        "englishNatural": "And they will be covered sackcloth **the Earthling (Adam)** and the beast and they will call-out"
+        "englishLiteral": "And-they-will-be-covered sackcloth, **the-Earthling (Adam)** and-the-beast, and-they-will-call_out",
+        "englishNatural": "And they will be covered sackcloth, **the Earthling (Adam)** and the beast, and they will call-out"
       }
     },
     {
@@ -1425,6 +1484,7 @@
         "verse": 11
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "אָדָם",
         "transliteration": "Adam",
@@ -1438,8 +1498,8 @@
       "context": {
         "hebrew": "עֶשְׂרֵה רִבּוֹ **אָדָם** אֲשֶׁר לֹא־",
         "transliteration": "esreh ribbo **Adam** asher lo-",
-        "englishLiteral": "ten ten_thousand **Earthling (Adam)** which not-",
-        "englishNatural": "ten ten-thousand **Earthling (Adam)** which not"
+        "englishLiteral": "ten ten_thousand **Earthling (Adam),** which not-",
+        "englishNatural": "ten ten-thousand **Earthling (Adam),** which knows"
       }
     }
   ]

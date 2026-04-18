@@ -9,6 +9,7 @@
         "verse": 4
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "אֵלֶּה",
         "transliteration": "eleh",
@@ -33,6 +34,7 @@
         "verse": 23
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "זֹאת",
         "transliteration": "zot",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר הָאָדָם **זֹאת** הַפַּעַם עֶצֶם",
         "transliteration": "vaYomer haAdam **zot** haPaam etsem",
-        "englishLiteral": "And-said the-Earthling (Adam) **This** the-time Bone",
-        "englishNatural": "said And the Earthling (Adam) **This is** the time Bone"
+        "englishLiteral": "And-said the-Earthling (Adam), **\"This** the-time! Bone",
+        "englishNatural": "And the Earthling (Adam) said, **\"This is** the time! Bone"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 23
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "לְזֹאת",
         "transliteration": "leZot",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "וּבָשָׂר מִבְּשָׂרִי **לְזֹאת** יִקָּרֵא אִשָּׁה",
         "transliteration": "uVasar miVesari **leZot** yiqarei ishah",
-        "englishLiteral": "and-flesh from-my-flesh **to-this** will-be-called_out Woman",
-        "englishNatural": "and flesh from my flesh **to this** will be called-out Woman"
+        "englishLiteral": "and-flesh from-my-flesh; **to-this** will-be-called_out 'Woman,'",
+        "englishNatural": "and flesh from my flesh; **to this** will be called-out 'Woman,'"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 23
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "זֹאת׃",
         "transliteration": "zot",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "מֵאִישׁ לֻקֳּחָה **זֹאת׃**",
         "transliteration": "meIsh luqqachah **zot**",
-        "englishLiteral": "from-Man was-taken **this**",
-        "englishNatural": "from Man was taken **this**"
+        "englishLiteral": "from-Man was-taken **this.\"**",
+        "englishNatural": "that from Man **this** was taken.\""
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "זֶה",
         "transliteration": "zeh",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "**זֶה** סֵפֶר תּוֹלְדֹת",
         "transliteration": "**zeh** sefer toledot",
-        "englishLiteral": "**This** book birthings",
-        "englishNatural": "**This** book Birthings of"
+        "englishLiteral": "**This** book, birthings",
+        "englishNatural": "**This** book, Birthings of"
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 29
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "זֶה",
         "transliteration": "zeh",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "נֹחַ לֵאמֹר **זֶה** יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ",
         "transliteration": "Noach leEmor **zeh** yeNachamenu miMaasenu",
-        "englishLiteral": "Rest (Noah) to-say **This** will-comfort-us from-our-making",
-        "englishNatural": "Rest (Noah) to say **This** will comfort us from our making"
+        "englishLiteral": "\"Rest (Noah),\" to-say, **\"This** will-comfort-us from-our-making",
+        "englishNatural": "\"Rest (Noah),\" to say, **\"This** will comfort us from our making"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 15
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְזֶה",
         "transliteration": "veZeh",
@@ -177,6 +184,7 @@
         "verse": 11
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "הַזֶּה",
         "transliteration": "haZeh",
@@ -190,8 +198,8 @@
       "context": {
         "hebrew": "לַחֹדֶשׁ בַּיּוֹם **הַזֶּה** נִבְקְעוּ כָּל־",
         "transliteration": "laChodesh baYom **haZeh** nivqeu kol-",
-        "englishLiteral": "to-the-month in-day **the-this** they-were-broken_open all-",
-        "englishNatural": "to the month day **in this** were broken-open all"
+        "englishLiteral": "to-the-month, in-day **the-this** they-were-broken_open all-",
+        "englishNatural": "days to the month, **in this** day were broken-open"
       }
     },
     {
@@ -201,6 +209,7 @@
         "verse": 13
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הַזֶּה",
         "transliteration": "haZeh",
@@ -215,7 +224,7 @@
         "hebrew": "בְּעֶצֶם הַיּוֹם **הַזֶּה** בָּא נֹחַ",
         "transliteration": "beEtzem haYom **haZeh** ba Noach",
         "englishLiteral": "In-bone-of the-day **the-this** he-came Rest (Noah)",
-        "englishNatural": "In the bone of the day **the this** came Rest (Noah)"
+        "englishNatural": "In the bone of the day **the this,** Rest (Noah) came,"
       }
     },
     {
@@ -225,6 +234,7 @@
         "verse": 6
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "וְזֶה",
         "transliteration": "veZeh",
@@ -238,8 +248,8 @@
       "context": {
         "hebrew": "אַחַת לְכֻלָּם **וְזֶה** הַחִלָּם לַעֲשׂוֹת",
         "transliteration": "achat leKhulam **veZeh** hachilam laAsot",
-        "englishLiteral": "one to-all-of-them **and-this** the-beginning-of-them to-make",
-        "englishNatural": "and one to all of them **and this** the beginning of their making"
+        "englishLiteral": "one to-all-of-them, **and-this** the-beginning-of-them to-make,",
+        "englishNatural": "lip to all of them, **and this,** the beginning of their making;"
       }
     },
     {
@@ -249,6 +259,7 @@
         "verse": 4
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "זֶה",
         "transliteration": "zeh",
@@ -262,8 +273,8 @@
       "context": {
         "hebrew": "לֹא יִירָשְׁךָ **זֶה** כִּי־אִם אֲשֶׁר",
         "transliteration": "lo yirashkha **zeh** ki-im asher",
-        "englishLiteral": "Not he-will-inherit-you **this** but which",
-        "englishNatural": "Not will inherit you **this** but he which"
+        "englishLiteral": "\"Not he-will-inherit-you **this,** but which",
+        "englishNatural": "\"Not will inherit you **this;** but he which"
       }
     },
     {
@@ -273,6 +284,7 @@
         "verse": 3
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "הַזֶּה",
         "transliteration": "haZeh",
@@ -286,8 +298,8 @@
       "context": {
         "hebrew": "הַמַּרְאֶה הַגָּדֹל **הַזֶּה** מַדּוּעַ לֹא־",
         "transliteration": "haMareh haGadol **haZeh** madua lo-",
-        "englishLiteral": "the-sight the-great **the-this** why not-",
-        "englishNatural": "sight great **this** why not"
+        "englishLiteral": "the-sight the-great **the-this,** why not-",
+        "englishNatural": "and see ↳ **this** great sight,"
       }
     },
     {
@@ -297,6 +309,7 @@
         "verse": 15
       },
       "wordIndex": 21,
+      "sourceOrder": 21,
       "word": {
         "originalScript": "זֶה־",
         "transliteration": "zeh-",
@@ -310,8 +323,8 @@
       "context": {
         "hebrew": "שְׁלָחַנִי אֲלֵיכֶם **זֶה־** שְּׁמִי לְעֹלָם",
         "transliteration": "shlachani aleikhem **zeh-** shmi leOlam",
-        "englishLiteral": "sent-me to-you **this-** my-name to-the_age",
-        "englishNatural": "has sent me to you **this is** my name to the-age"
+        "englishLiteral": "sent-me to-you;' **this-** my-name to-the_age,",
+        "englishNatural": "has sent me to you;' **this is** my name to the-age,"
       }
     },
     {
@@ -321,6 +334,7 @@
         "verse": 15
       },
       "wordIndex": 24,
+      "sourceOrder": 24,
       "word": {
         "originalScript": "וְזֶה",
         "transliteration": "veZeh",
@@ -334,8 +348,8 @@
       "context": {
         "hebrew": "שְּׁמִי לְעֹלָם **וְזֶה** זִכְרִי לְדֹר",
         "transliteration": "shmi leOlam **veZeh** zikri leDor",
-        "englishLiteral": "my-name to-the_age **and-this** my-rememberance to-generation",
-        "englishNatural": "my name to the-age **and this is** my rememberance to generation of"
+        "englishLiteral": "my-name to-the_age, **and-this** my-rememberance to-generation",
+        "englishNatural": "my name to the-age, **and this is** my rememberance to generation of"
       }
     },
     {
@@ -345,6 +359,7 @@
         "verse": 2
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "זֶּה",
         "transliteration": "zeh",
@@ -358,8 +373,8 @@
       "context": {
         "hebrew": "יְהוָה מַה־ **זֶּה** בְיָדֶךָ וַיֹּאמֶר",
         "transliteration": "YHWH mah- **zeh** veYadekha vaYomer",
-        "englishLiteral": "He_Who_Is (YHWH) what- **this** in-hand-your And-said",
-        "englishNatural": "And He-Who-Is (YHWH) What is **this** in your hand And he said"
+        "englishLiteral": "He_Who_Is (YHWH) \"what- **this** in-hand-your.\" And-said",
+        "englishNatural": "to him, \"What is **this** in your hand?\" And he said,"
       }
     },
     {
@@ -369,6 +384,7 @@
         "verse": 1
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "מִזֶּ֑ה",
         "transliteration": "mizeh",
@@ -382,8 +398,8 @@
       "context": {
         "hebrew": "יְשַׁלַּ֥ח אֶתְכֶ֖ם **מִזֶּ֑ה** כְּשַׁלְּח֣וֹ כָּלָ֔ה",
         "transliteration": "yeShalach etkhem **mizeh** keShalcho kalah",
-        "englishLiteral": "he-will-send_out ↳-you **from-this** as-sending_out-him finishing",
-        "englishNatural": "he will send-out you **from this** as his sending-out finishing"
+        "englishLiteral": "he-will-send_out ↳-you **from-this;** as-sending_out-him finishing,",
+        "englishNatural": "he will send-out you **from this,** as his sending-out, finishing,"
       }
     },
     {
@@ -393,6 +409,7 @@
         "verse": 1
       },
       "wordIndex": 22,
+      "sourceOrder": 22,
       "word": {
         "originalScript": "מִזֶּֽה׃",
         "transliteration": "mizeh",
@@ -406,8 +423,8 @@
       "context": {
         "hebrew": "יְגָרֵ֥שׁ אֶתְכֶ֖ם **מִזֶּֽה׃**",
         "transliteration": "yegaresh etkhem **mizeh**",
-        "englishLiteral": "he-will-banish ↳-you **from-this**",
-        "englishNatural": "he will banish you **from this**"
+        "englishLiteral": "he-will-banish ↳-you **from-this.**",
+        "englishNatural": "he will banish you **from this.**"
       }
     },
     {
@@ -417,6 +434,7 @@
         "verse": 2
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "זֶה",
         "transliteration": "zeh",
@@ -431,7 +449,7 @@
         "hebrew": "וָרָשׁ נִפְגָּשׁוּ **זֶה** עִם זֶה",
         "transliteration": "vaRash niFgashu **zeh** im zeh",
         "englishLiteral": "and-Poor meet **this** with this",
-        "englishNatural": "and Poor meet **together** with this"
+        "englishNatural": "and Poor meet **together;** with this"
       }
     },
     {
@@ -441,6 +459,7 @@
         "verse": 2
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "זֶה",
         "transliteration": "zeh",
@@ -454,8 +473,8 @@
       "context": {
         "hebrew": "זֶה עִם **זֶה** יְהוָה עָשָׂה",
         "transliteration": "zeh im **zeh** YHWH asah",
-        "englishLiteral": "this with **this** He_Who_Is (YHWH) made",
-        "englishNatural": "together with **this** He-Who-Is (YHWH) made"
+        "englishLiteral": "this with **this** He_Who_Is (YHWH) made.",
+        "englishNatural": "together; with **this** He-Who-Is (YHWH) made."
       }
     },
     {
@@ -465,6 +484,7 @@
         "verse": 3
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "זֶה",
         "transliteration": "zeh",
@@ -478,8 +498,8 @@
       "context": {
         "hebrew": "וְקָרָא **זֶה** אֶל זֶה",
         "transliteration": "veKara **zeh** el zeh",
-        "englishLiteral": "And-called_out **this** to this",
-        "englishNatural": "called-out **And this** to this"
+        "englishLiteral": "And-called_out **this** to this,",
+        "englishNatural": "**And this** called-out to"
       }
     },
     {
@@ -489,6 +509,7 @@
         "verse": 3
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "זֶה",
         "transliteration": "zeh",
@@ -502,8 +523,8 @@
       "context": {
         "hebrew": "זֶה אֶל **זֶה** וְאָמַר קָדוֹשׁ",
         "transliteration": "zeh el **zeh** veAmar kadosh",
-        "englishLiteral": "this to **this** and-said Holy",
-        "englishNatural": "And this to **this** and said Holy"
+        "englishLiteral": "this to **this,** and-said, \"Holy,",
+        "englishNatural": "called-out to **this,** and said, \"Holy,"
       }
     },
     {
@@ -513,6 +534,7 @@
         "verse": 7
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "זֶה",
         "transliteration": "zeh",
@@ -526,8 +548,8 @@
       "context": {
         "hebrew": "הִנֵּה נָגַע **זֶה** עַל־ שְׂפָתֶיךָ",
         "transliteration": "hinneh naga **zeh** al- sfatekha",
-        "englishLiteral": "Behold has-touched **this** over- your-lips",
-        "englishNatural": "Behold has touched **this** over your lips"
+        "englishLiteral": "\"Behold, has-touched **this** over- your-lips;",
+        "englishNatural": "and he said, \"Behold, **this** has touched over"
       }
     },
     {
@@ -537,6 +559,7 @@
         "verse": 5
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "וְזֶה",
         "transliteration": "veZeh",
@@ -550,8 +573,8 @@
       "context": {
         "hebrew": "אַרְבַּע חַיּוֹת **וְזֶה** מַרְאֵיהֶן דְּמוּת",
         "transliteration": "arba chayot **veZeh** mareihen demut",
-        "englishLiteral": "four living_beings **and-this** appearance-their likeness-of",
-        "englishNatural": "four living-beings **and this** their appearance a likeness of"
+        "englishLiteral": "four living_beings; **and-this** appearance-their, likeness-of",
+        "englishNatural": "four living-beings; **and this** their appearance, a likeness of"
       }
     },
     {
@@ -561,6 +584,7 @@
         "verse": 8
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "מִזֶּה",
         "transliteration": "mizeh",
@@ -574,8 +598,8 @@
       "context": {
         "hebrew": "אַרְצֶךָ וְאֵי־ **מִזֶּה** עַם אָתָּה",
         "transliteration": "artzekha veEi- **mizeh** am atah",
-        "englishLiteral": "land-your and-where- **from-this** people you",
-        "englishNatural": "is your land and where **from this** people are you"
+        "englishLiteral": "land-your? and-where- **from-this** people you?\"",
+        "englishNatural": "is your land? and where **'from this** people' are you?\""
       }
     },
     {
@@ -585,6 +609,7 @@
         "verse": 12
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "הַזֶּה",
         "transliteration": "haZeh",
@@ -598,8 +623,8 @@
       "context": {
         "hebrew": "הַסַּעַר הַגָּדוֹל **הַזֶּה** עֲלֵיכֶם",
         "transliteration": "haSaar haGadol **haZeh** aleykhem",
-        "englishLiteral": "the-tempest the-great **the-this** over-you",
-        "englishNatural": "the tempest the great **the this** is over you"
+        "englishLiteral": "the-tempest, the-great, **the-this** over-you.\"",
+        "englishNatural": "the tempest, the great, **the this** is over you.\""
       }
     },
     {
@@ -609,6 +634,7 @@
         "verse": 14
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "הַזֶּה",
         "transliteration": "haZeh",
@@ -622,8 +648,8 @@
       "context": {
         "hebrew": "בְּנֶפֶשׁ הָאִישׁ **הַזֶּה** וְאַל־ תִּתֵּן",
         "transliteration": "beNefesh haIsh **haZeh** veAl- titten",
-        "englishLiteral": "in-throat-of the-man **the-this** and-not- give",
-        "englishNatural": "in the throat of the man **the this** not and give"
+        "englishLiteral": "in-throat-of the-man **the-this;** and-not- give",
+        "englishNatural": "in the throat of the man **the this;** and give over us"
       }
     },
     {
@@ -633,6 +659,7 @@
         "verse": 2
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "זֶה",
         "transliteration": "zeh",
@@ -646,8 +673,8 @@
       "context": {
         "hebrew": "יְהוָה הֲלוֹא־ **זֶה** דְבָרִי עַד־",
         "transliteration": "YHWH halo- **zeh** devari ad-",
-        "englishLiteral": "He_Who_Is (YHWH) is-not- **this** word-my unto-",
-        "englishNatural": "He-Who-Is (YHWH) was not **this** my word unto"
+        "englishLiteral": "He_Who_Is (YHWH), is-not- **this** word-my unto-",
+        "englishNatural": "He-Who-Is (YHWH), was not **this** my word unto"
       }
     }
   ]

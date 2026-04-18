@@ -10,6 +10,7 @@
         "verse": 7
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "לָתֶת",
         "transliteration": "latet",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "מֵאוּר כַּשְׂדִּים **לָתֶת** לְךָ אֶת־",
         "transliteration": "meUr Kasdim **latet** lekha et-",
-        "englishLiteral": "from-Ur Chaldeans **to-give** to-you ↳",
-        "englishNatural": "from Ur of the Chaldeans **to give** to you ↳"
+        "englishLiteral": "from-Ur Chaldeans, **to-give** to-you ↳",
+        "englishNatural": "from Ur of the Chaldeans, **to give** to you ↳"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 6
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "לָתֵ֥ת",
         "transliteration": "laTet",
@@ -49,10 +51,10 @@
         }
       },
       "context": {
-        "hebrew": "אֶת־ עַמּ֔וֹ **לָתֵ֥ת** לָהֶ֖ם לָֽחֶם׃",
+        "hebrew": "אֶת־ עַמּ֔וֹ **לָתֵ֥ת** לָהֶ֖ם לָֽחֶם׃׃",
         "transliteration": "et- ammo **laTet** lahem lechem",
-        "englishLiteral": "↳ people-his **to-give** to-them bread",
-        "englishNatural": "↳ his people **to give** to them bread"
+        "englishLiteral": "↳ people-his **to-give** to-them bread.",
+        "englishNatural": "↳ his people **to give** to them bread."
       }
     },
     {
@@ -62,6 +64,7 @@
         "verse": 4
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "לָתֵת",
         "transliteration": "latet",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "**לָתֵת** לַפְּתָאיִם עָרְמָה",
         "transliteration": "**latet** lapetaim armah",
-        "englishLiteral": "**To-give** to-simple_men shrewdness",
-        "englishNatural": "**To give** to simple men shrewdness"
+        "englishLiteral": "**To-give** to-simple_men, shrewdness;",
+        "englishNatural": "**To give** to simple men, shrewdness;"
       }
     }
   ]

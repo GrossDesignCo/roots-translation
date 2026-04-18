@@ -10,6 +10,7 @@
         "verse": 1
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הָאֵלֶּה",
         "transliteration": "haEleh",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "אַחַר הַדְּבָרִים **הָאֵלֶּה** הָיָה דְבַר־",
         "transliteration": "achar haDvarim **haEleh** hayah devar-",
-        "englishLiteral": "After the-words **the-these** was word-of-",
-        "englishNatural": "After words **these** was the word of"
+        "englishLiteral": "After the-words **the-these,** was word-of-",
+        "englishNatural": "After **these** words, the word of"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 17
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הָאֵלֶּה",
         "transliteration": "haEleh",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "בֵּין הַגְּזָרִים **הָאֵלֶּה**",
         "transliteration": "beyn haGezarim **haEleh**",
-        "englishLiteral": "between the-pieces **the-these**",
-        "englishNatural": "between pieces **these**"
+        "englishLiteral": "between the-pieces **the-these.**",
+        "englishNatural": "passed between **these** pieces."
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 10
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הָאֵ֖לֶּה",
         "transliteration": "haEleh",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "כָּל־ הַמֹּפְתִ֥ים **הָאֵ֖לֶּה** לִפְנֵ֣י פַרְעֹ֑ה",
         "transliteration": "kol- haMoftim **haEleh** lifney Paroh",
-        "englishLiteral": "all- the-wonders **the-these** to-faces-of Pharaoh",
-        "englishNatural": "all the wonders **these** to the face of Pharaoh"
+        "englishLiteral": "all- the-wonders **the-these** to-faces-of Pharaoh;",
+        "englishNatural": "↳- all **these,** the wonders, to the face of"
       }
     }
   ]

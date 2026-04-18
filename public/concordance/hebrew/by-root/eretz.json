@@ -9,6 +9,7 @@
         "verse": 1
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הָאָֽרֶץ",
         "transliteration": "haAretz",
@@ -23,7 +24,7 @@
         "hebrew": "הַשָּׁמַ֖יִם וְאֵ֥ת **הָאָֽרֶץ**",
         "transliteration": "haShamayim veEt **haAretz**",
         "englishLiteral": "the-skies and-↳ **the-land**",
-        "englishNatural": "the skies and **the land**"
+        "englishNatural": "the skies and **the land.**"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְהָאָ֗רֶץ",
         "transliteration": "veHaAretz",
@@ -57,6 +59,7 @@
         "verse": 10
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אֶ֔רֶץ",
         "transliteration": "eretz",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "אֱלֹהִ֤ים ׀ לַיַּבָּשָׁה֙ **אֶ֔רֶץ** וּלְמִקְוֵ֥ה הַמַּ֖יִם",
         "transliteration": "Elohim laYabashah **eretz** uLeMiQveh haMayim",
-        "englishLiteral": "Gods to-dry-ground **Land** and-to-gathering the-waters",
-        "englishNatural": "And God to the dry-ground **Land** and to the gathering of the waters"
+        "englishLiteral": "Gods to-dry-ground **\"Land,\"** and-to-gathering, the-waters,",
+        "englishNatural": "called-out to the dry-ground, **\"Land,\"** and to the gathering of the waters"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 11
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאָ֑רֶץ",
         "transliteration": "haAretz",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "אֱלֹהִ֖ים תַּֽדְשֵׁ֣א **הָאָ֑רֶץ** דֶּ֗שֶׁא עֵ֚שֶׂב",
         "transliteration": "Elohim tadShe **haAretz** deshe esev",
-        "englishLiteral": "Gods Let-tenderly_shoot_up **the-land** tender_shoot herb",
-        "englishNatural": "And God tenderly-shoot-up **Let the land** tender-shoot herb"
+        "englishLiteral": "Gods, \"Let-tenderly_shoot_up **the-land** tender_shoot, herb",
+        "englishNatural": "And God said, **\"Let the land** tenderly-shoot-up tender-shoot,"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 11
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "הָאָ֑רֶץ",
         "transliteration": "haAretz",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "ב֖וֹ עַל־ **הָאָ֑רֶץ** וַֽיְהִי־ כֵֽן׃",
         "transliteration": "bo al- **haAretz** vaVayhi- ken",
-        "englishLiteral": "in-it over- **the-land** And-was- so",
-        "englishNatural": "in it over **the land** And it was so"
+        "englishLiteral": "in-it, over- **the-land.\"** And-was- so.",
+        "englishNatural": "in it, over **the land.\"** And it was so."
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 12
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאָ֜רֶץ",
         "transliteration": "haAretz",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "וַתּוֹצֵ֨א **הָאָ֜רֶץ** דֶּ֗שֶׁא עֵ֚שֶׂב",
         "transliteration": "vaToTze **haAretz** deshe esev",
-        "englishLiteral": "And-brought-out **the-land** tender_shoot herb",
-        "englishNatural": "brought-out **And the land** tender-shoot herb"
+        "englishLiteral": "And-brought-out **the-land** tender_shoot, herb",
+        "englishNatural": "**And the land** brought-out tender-shoot,"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 15
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הָאָ֑רֶץ",
         "transliteration": "haAretz",
@@ -166,8 +173,8 @@
       "context": {
         "hebrew": "לְהָאִ֖יר עַל־ **הָאָ֑רֶץ** וַֽיְהִי־ כֵֽן׃",
         "transliteration": "leHair al- **haAretz** vaVayhi- ken",
-        "englishLiteral": "to-shine_light over **the-land** And-was- so",
-        "englishNatural": "to shine-light over **the land** And it was so"
+        "englishLiteral": "to-shine_light over **the-land.** And-was- so.",
+        "englishNatural": "to shine-light over **the land.** And it was so."
       }
     },
     {
@@ -177,6 +184,7 @@
         "verse": 17
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הָאָֽרֶץ׃",
         "transliteration": "haAretz",
@@ -190,8 +198,8 @@
       "context": {
         "hebrew": "לְהָאִ֖יר עַל־ **הָאָֽרֶץ׃**",
         "transliteration": "leHair al- **haAretz**",
-        "englishLiteral": "to-shine_light over **the-land**",
-        "englishNatural": "to shine-light over **the land**"
+        "englishLiteral": "to-shine_light over **the-land.**",
+        "englishNatural": "to shine-light over **the land.**"
       }
     },
     {
@@ -201,6 +209,7 @@
         "verse": 20
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הָאָ֔רֶץ",
         "transliteration": "haAretz",
@@ -214,8 +223,8 @@
       "context": {
         "hebrew": "יְעוֹפֵ֣ף עַל־ **הָאָ֔רֶץ** עַל־ פְּנֵ֖י",
         "transliteration": "yeOfef al- **haAretz** al- peney",
-        "englishLiteral": "let-fly over **the-land** over faces-of",
-        "englishNatural": "fly over **the land** over the face of"
+        "englishLiteral": "let-fly over **the-land,** over faces-of",
+        "englishNatural": "fly over **the land,** over the face of"
       }
     },
     {
@@ -225,6 +234,7 @@
         "verse": 22
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "בָּאָֽרֶץ׃",
         "transliteration": "baAretz",
@@ -238,8 +248,8 @@
       "context": {
         "hebrew": "וְהָע֖וֹף יִ֥רֶב **בָּאָֽרֶץ׃**",
         "transliteration": "veHaOf yiRev **baAretz**",
-        "englishLiteral": "And-the-flyer let-multiply **in-land**",
-        "englishNatural": "And let the flyer multiply **in the land**"
+        "englishLiteral": "And-the-flyer let-multiply **in-land.\"**",
+        "englishNatural": "And let the flyer multiply **in the land.\"**"
       }
     },
     {
@@ -249,6 +259,7 @@
         "verse": 24
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאָ֜רֶץ",
         "transliteration": "haAretz",
@@ -262,8 +273,8 @@
       "context": {
         "hebrew": "אֱלֹהִ֔ים תּוֹצֵ֨א **הָאָ֜רֶץ** נֶ֤פֶשׁ חַיָּה֙",
         "transliteration": "Elohim totze **haAretz** nephesh chayah",
-        "englishLiteral": "Gods Let-bring_out **the-land** throat living",
-        "englishNatural": "And God bring-out **Let the land** throat living"
+        "englishLiteral": "Gods, \"Let-bring_out **the-land** throat living,",
+        "englishNatural": "And God said, **\"Let the land** bring-out living"
       }
     },
     {
@@ -273,6 +284,7 @@
         "verse": 24
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "אֶ֖רֶץ",
         "transliteration": "eretz",
@@ -286,8 +298,8 @@
       "context": {
         "hebrew": "וָרֶ֛מֶשׂ וְחַֽיְתוֹ־ **אֶ֖רֶץ**",
         "transliteration": "vaRemes veChayto- **eretz**",
-        "englishLiteral": "and-crawler and-living_being-of **land**",
-        "englishNatural": "and crawler and living-being of **land**"
+        "englishLiteral": "and-crawler, and-living_being-of **land.\"**",
+        "englishNatural": "and crawler, and living-being of **land.\"**"
       }
     },
     {
@@ -297,6 +309,7 @@
         "verse": 25
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָאָ֔רֶץ",
         "transliteration": "haAretz",
@@ -310,8 +323,8 @@
       "context": {
         "hebrew": "אֶת־ חַיַּ֤ת **הָאָ֔רֶץ** לְמִינָ֖הּ וְאֶת־",
         "transliteration": "et- chayat **haAretz** leMinah veEt-",
-        "englishLiteral": "↳ living_being-of **the-land** to-its-kind And-↳",
-        "englishNatural": "↳ living-being of **the land** to its kind And"
+        "englishLiteral": "↳ living_being-of **the-land,** to-its-kind, And-↳",
+        "englishNatural": "↳ living-being of **the land,** to its kind, And"
       }
     },
     {
@@ -321,6 +334,7 @@
         "verse": 26
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "הָאָ֔רֶץ",
         "transliteration": "haAretz",
@@ -334,8 +348,8 @@
       "context": {
         "hebrew": "וּבַבְּהֵמָה֙ וּבְכָל־ **הָאָ֔רֶץ** וּבְכָל־ הָרֶ֖מֶשׂ",
         "transliteration": "uVaBehemah uVeKol- **haAretz** uVeKol- haRemes",
-        "englishLiteral": "and-in-beast and-in-all **the-land** and-in-all the-crawler",
-        "englishNatural": "and in the beast and in all **the land** and in all the crawler"
+        "englishLiteral": "and-in-beast, and-in-all **the-land,** and-in-all the-crawler,",
+        "englishNatural": "and in the beast, and in all **the land,** and in all the crawler,"
       }
     },
     {
@@ -345,6 +359,7 @@
         "verse": 26
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "הָאָֽרֶץ׃",
         "transliteration": "haAretz",
@@ -358,8 +373,8 @@
       "context": {
         "hebrew": "הָֽרֹמֵ֥שׂ עַל־ **הָאָֽרֶץ׃**",
         "transliteration": "haRomes al- **haAretz**",
-        "englishLiteral": "the-crawling over **the-land**",
-        "englishNatural": "the crawling over **the land**"
+        "englishLiteral": "the-crawling, over **the-land.\"**",
+        "englishNatural": "the crawling, over **the land.\"**"
       }
     },
     {
@@ -369,6 +384,7 @@
         "verse": 28
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הָאָ֖רֶץ",
         "transliteration": "haAretz",
@@ -382,8 +398,8 @@
       "context": {
         "hebrew": "וּמִלְא֥וּ אֶת־ **הָאָ֖רֶץ** וְכִבְשֻׁ֑הָ וּרְד֞וּ",
         "transliteration": "uMilu et- **haAretz** veKivshuah uRedu",
-        "englishLiteral": "and-fill ↳ **the-land** And-conquer and-subjugate",
-        "englishNatural": "and fill ↳ **the land** And conquer and subjugate"
+        "englishLiteral": "and-fill ↳ **the-land,** And-conquer and-subjugate",
+        "englishNatural": "and fill ↳ **the land,** And conquer and subjugate"
       }
     },
     {
@@ -393,6 +409,7 @@
         "verse": 28
       },
       "wordIndex": 21,
+      "sourceOrder": 21,
       "word": {
         "originalScript": "הָאָֽרֶץ׃",
         "transliteration": "haAretz",
@@ -406,8 +423,8 @@
       "context": {
         "hebrew": "הָֽרֹמֶ֖שֶׂת עַל־ **הָאָֽרֶץ׃**",
         "transliteration": "haRomeset al- **haAretz**",
-        "englishLiteral": "the-crawling over **the-land**",
-        "englishNatural": "the crawling over **the land**"
+        "englishLiteral": "the-crawling over **the-land.\"**",
+        "englishNatural": "living thing over **the land.\"**"
       }
     },
     {
@@ -417,6 +434,7 @@
         "verse": 29
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הָאָ֔רֶץ",
         "transliteration": "haAretz",
@@ -430,8 +448,8 @@
       "context": {
         "hebrew": "פְּנֵ֣י כָל־ **הָאָ֔רֶץ** וְאֶת־ כָּל־",
         "transliteration": "penei kol- **haAretz** veEt- kol-",
-        "englishLiteral": "faces-of all **the-land** And-↳ all",
-        "englishNatural": "the face of all **the land** And all"
+        "englishLiteral": "faces-of all **the-land,** And-↳ all",
+        "englishNatural": "the face of all **the land,** And all"
       }
     },
     {
@@ -441,6 +459,7 @@
         "verse": 30
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הָאָ֗רֶץ",
         "transliteration": "haAretz",
@@ -454,8 +473,8 @@
       "context": {
         "hebrew": "וּלְכָל־ חַיַּ֣ת **הָאָ֗רֶץ** וּלְכָל־ ע֣וֹף",
         "transliteration": "uLeKol- chayat **haAretz** uLeKol- of",
-        "englishLiteral": "And-to-all living_being-of **the-land** and-to-all flyer-of",
-        "englishNatural": "And to all living-being of **the land** and to all flyer of"
+        "englishLiteral": "And-to-all living_being-of **the-land,** and-to-all flyer-of",
+        "englishNatural": "And to all living-being of **the land,** and to all flyer of"
       }
     },
     {
@@ -465,6 +484,7 @@
         "verse": 30
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "הָאָ֑רֶץ",
         "transliteration": "haAretz",
@@ -478,8 +498,8 @@
       "context": {
         "hebrew": "רוֹמֵ֣שׂ עַל־ **הָאָ֑רֶץ** אֲשֶׁר־ בּ֛וֹ",
         "transliteration": "romes al- **haAretz** asher- bo",
-        "englishLiteral": "crawler over **the-land** which in-it",
-        "englishNatural": "crawler over **the land** which in it is"
+        "englishLiteral": "crawler over **the-land,** which in-it",
+        "englishNatural": "crawler over **the land,** which in it is"
       }
     },
     {
@@ -489,6 +509,7 @@
         "verse": 1
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וְהָאָרֶץ",
         "transliteration": "veHaAretz",
@@ -502,8 +523,8 @@
       "context": {
         "hebrew": "וַיְכֻלּוּ הַשָּׁמַיִם **וְהָאָרֶץ** וְכָל־ צְבָאָם׃",
         "transliteration": "vaYechullu haShamayim **veHaAretz** veKol- tsevaam",
-        "englishLiteral": "And-were-finished the-skies **and-the-land** and-all- their-host",
-        "englishNatural": "And finished were the skies **and the land** and all their host"
+        "englishLiteral": "And-were-finished the-skies, **and-the-land,** and-all- their-host.",
+        "englishNatural": "And finished were the skies, **and the land,** and all their host."
       }
     },
     {
@@ -513,6 +534,7 @@
         "verse": 4
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "וְהָאָרֶץ",
         "transliteration": "veHaAretz",
@@ -526,8 +548,8 @@
       "context": {
         "hebrew": "תוֹלְדוֹת הַשָּׁמַיִם **וְהָאָרֶץ** בְּהִבָּרְאָם בְּיוֹם",
         "transliteration": "toledot haShamayim **veHaAretz** beHibaram beYom",
-        "englishLiteral": "birthings the-skies **and-the-land** in-being-created-them in-day",
-        "englishNatural": "are the birthings of the skies **and the land** in their being created in the day"
+        "englishLiteral": "birthings the-skies **and-the-land,** in-being-created-them; in-day",
+        "englishNatural": "are the birthings of the skies **and the land,** in their being created; in the day"
       }
     },
     {
@@ -537,6 +559,7 @@
         "verse": 4
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אֶרֶץ",
         "transliteration": "eretz",
@@ -550,8 +573,8 @@
       "context": {
         "hebrew": "יְהוָה אֱלֹהִים **אֶרֶץ** וְשָׁמָיִם׃",
         "transliteration": "YHWH Elohim **eretz** veShamayim",
-        "englishLiteral": "He_Who_Is (YHWH) Gods **land** and-skies",
-        "englishNatural": "He-Who-Is (YHWH) God **land** and skies"
+        "englishLiteral": "He_Who_Is (YHWH) Gods **land** and-skies.",
+        "englishNatural": "God made **land** and skies."
       }
     },
     {
@@ -561,6 +584,7 @@
         "verse": 5
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "בָאָרֶץ",
         "transliteration": "baAretz",
@@ -574,8 +598,8 @@
       "context": {
         "hebrew": "טֶרֶם יִהְיֶה **בָאָרֶץ** וְכָל עֵשֶׂב",
         "transliteration": "terem yihyeh **baAretz** veKol esev",
-        "englishLiteral": "not-yet will-be **in-land** and-all herb",
-        "englishNatural": "not yet was **in the land** and all herb"
+        "englishLiteral": "not-yet will-be **in-land,** and-all herb",
+        "englishNatural": "was not yet **in the land,** and all herb"
       }
     },
     {
@@ -585,6 +609,7 @@
         "verse": 5
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -598,8 +623,8 @@
       "context": {
         "hebrew": "אֱלֹהִים עַל **הָאָרֶץ** וְאָדָם אַיִן",
         "transliteration": "Elohim al **haAretz** veAdam ayin",
-        "englishLiteral": "Gods over **the-land** and-Earthling (Adam) not_exist",
-        "englishNatural": "God over **the land** and Earthling (Adam) was not there"
+        "englishLiteral": "Gods over **the-land,** and-Earthling (Adam) not_exist",
+        "englishNatural": "caused it to rain over **the land,** and Earthling (Adam) was not there,"
       }
     },
     {
@@ -609,6 +634,7 @@
         "verse": 6
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -622,8 +648,8 @@
       "context": {
         "hebrew": "יַעֲלֶה מִן־ **הָאָרֶץ** וְהִשְׁקָה אֶת־",
         "transliteration": "yaaleh min- **haAretz** veHishqah et-",
-        "englishLiteral": "will-go_up from- **the-land** and-gave_drink ↳",
-        "englishNatural": "went up from **the land** and gave drink to ↳"
+        "englishLiteral": "will-go_up from- **the-land,** and-gave_drink ↳",
+        "englishNatural": "went up from **the land,** and gave drink to ↳"
       }
     },
     {
@@ -633,6 +659,7 @@
         "verse": 11
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "אֶרֶץ",
         "transliteration": "eretz",
@@ -646,8 +673,8 @@
       "context": {
         "hebrew": "אֵת כָּל־ **אֶרֶץ** הַחֲוִילָה אֲשֶׁר",
         "transliteration": "et kol- **eretz** haChavilah asher",
-        "englishLiteral": "↳ all- **land** the-Strength (Havilah) which",
-        "englishNatural": "↳ all **the land** of Strength (Havilah) which"
+        "englishLiteral": "↳ all- **land** the-Strength (Havilah), which",
+        "englishNatural": "↳ all **the land** of Strength (Havilah), which"
       }
     },
     {
@@ -657,6 +684,7 @@
         "verse": 12
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -670,8 +698,8 @@
       "context": {
         "hebrew": "וּזְהַב **הָאָרֶץ** הַהִוא טוֹב",
         "transliteration": "uZehav **haAretz** haHi tov",
-        "englishLiteral": "and-gold **the-land** the-that good",
-        "englishNatural": "And the gold **land** of that good"
+        "englishLiteral": "and-gold **the-land** the-that, good;",
+        "englishNatural": "And the gold of that **land,** good; there is"
       }
     },
     {
@@ -681,6 +709,7 @@
         "verse": 13
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "אֶרֶץ",
         "transliteration": "eretz",
@@ -694,8 +723,8 @@
       "context": {
         "hebrew": "אֵת כָּל־ **אֶרֶץ** כּוּשׁ׃",
         "transliteration": "et kol- **eretz** Kush",
-        "englishLiteral": "↳ all- **land** Black (Kush)",
-        "englishNatural": "↳ all **the land of** Black (Kush)"
+        "englishLiteral": "↳ all- **land** Black (Kush).",
+        "englishNatural": "↳ all **the land of** Black (Kush)."
       }
     },
     {
@@ -705,6 +734,7 @@
         "verse": 12
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "בָאָרֶץ",
         "transliteration": "baAretz",
@@ -718,8 +748,8 @@
       "context": {
         "hebrew": "וָנָד תִּהְיֶה **בָאָרֶץ**",
         "transliteration": "vanad tihyeh **baAretz**",
-        "englishLiteral": "and-fugitive you-will-be **in-land**",
-        "englishNatural": "and fugitive you will be **in the land**"
+        "englishLiteral": "and-fugitive you-will-be **in-land.\"**",
+        "englishNatural": "and fugitive you will be **in the land.\"**"
       }
     },
     {
@@ -729,6 +759,7 @@
         "verse": 14
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "בָּאָרֶץ",
         "transliteration": "baAretz",
@@ -742,8 +773,8 @@
       "context": {
         "hebrew": "נָע וָנָד **בָּאָרֶץ** וְהָיָה כָל־",
         "transliteration": "na vanad **baAretz** vehayah kol-",
-        "englishLiteral": "wandering and-fugitive **in-land** and-it-will-be all-",
-        "englishNatural": "wandering and fugitive **in the land** and it will be all"
+        "englishLiteral": "wandering and-fugitive **in-land;** and-it-will-be all-",
+        "englishNatural": "wandering and fugitive **in the land;** and it will be all"
       }
     },
     {
@@ -753,6 +784,7 @@
         "verse": 16
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "בְּאֶרֶץ־",
         "transliteration": "beEretz-",
@@ -766,8 +798,8 @@
       "context": {
         "hebrew": "יְהוָה וַיֵּשֶׁב **בְּאֶרֶץ־** נוֹד קִדְמַת־",
         "transliteration": "YHWH vayYeshev **beEretz-** Nod qidmat-",
-        "englishLiteral": "He_Who_Is (YHWH) and-he-dwelt **in-land-** Wandering east-",
-        "englishNatural": "He-Who-Is (YHWH) and dwelt **in the land** of Wandering east"
+        "englishLiteral": "He_Who_Is (YHWH); and-he-dwelt **in-land-** Wandering, east-",
+        "englishNatural": "He-Who-Is (YHWH); and dwelt **in the land** of Wandering, east"
       }
     },
     {
@@ -777,6 +809,7 @@
         "verse": 4
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "בָאָרֶץ",
         "transliteration": "baAretz",
@@ -790,8 +823,8 @@
       "context": {
         "hebrew": "הַנְּפִלִים הָיוּ **בָאָרֶץ** בַּיָּמִים הָהֵם",
         "transliteration": "haNephalim hayu **baAretz** baYamim hahem",
-        "englishLiteral": "The-Fallen (Nephilim) were **in-land** in-days the-those",
-        "englishNatural": "The Fallen (Nephilim) were **in the land** days in those"
+        "englishLiteral": "The-Fallen (Nephilim) were **in-land** in-days the-those;",
+        "englishNatural": "The Fallen (Nephilim) were **in the land** in those days;"
       }
     },
     {
@@ -801,6 +834,7 @@
         "verse": 5
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "בָּאָרֶץ",
         "transliteration": "baAretz",
@@ -814,8 +848,8 @@
       "context": {
         "hebrew": "רָעַת הָאָדָם **בָּאָרֶץ** וְכָל־ יֵצֶר",
         "transliteration": "raat haAdam **baAretz** vekhol- yetzer",
-        "englishLiteral": "bad-of the-Earthling (Adam) **in-land** and-all- forming-of",
-        "englishNatural": "the bad of Earthling (Adam) **in the land** and all the forming of"
+        "englishLiteral": "bad-of the-Earthling (Adam) **in-land,** and-all- forming-of",
+        "englishNatural": "Earthling (Adam) was multiplying **in the land,** and all the forming of"
       }
     },
     {
@@ -825,6 +859,7 @@
         "verse": 6
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "בָּאָרֶץ",
         "transliteration": "baAretz",
@@ -838,8 +873,8 @@
       "context": {
         "hebrew": "אֶת־ הָאָדָם **בָּאָרֶץ** וַיִּתְעַצֵּב אֶל־",
         "transliteration": "et- haAdam **baAretz** vayYitatzev el-",
-        "englishLiteral": "↳ the-Earthling (Adam) **in-land** and-it-grieved-him to-",
-        "englishNatural": "↳ Earthling (Adam) **in the land** and it grieved him to"
+        "englishLiteral": "↳ the-Earthling (Adam) **in-land,** and-it-grieved-him to-",
+        "englishNatural": "↳ Earthling (Adam) **in the land,** and it grieved him to"
       }
     },
     {
@@ -849,6 +884,7 @@
         "verse": 11
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -862,8 +898,8 @@
       "context": {
         "hebrew": "וַתִּשָּׁחֵת **הָאָרֶץ** לִפְנֵי הָאֱלֹהִים",
         "transliteration": "vatTishachet **haAretz** liFney haElohim",
-        "englishLiteral": "And-it-corrupted **the-land** to-faces-of the-Gods",
-        "englishNatural": "corrupted **And the land** to the face of God"
+        "englishLiteral": "And-it-corrupted **the-land** to-faces-of the-Gods,",
+        "englishNatural": "**And the land** corrupted to the face of"
       }
     },
     {
@@ -873,6 +909,7 @@
         "verse": 11
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -886,8 +923,8 @@
       "context": {
         "hebrew": "הָאֱלֹהִים וַתִּמָּלֵא **הָאָרֶץ** חָמָס",
         "transliteration": "haElohim vatTimale **haAretz** chamas",
-        "englishLiteral": "the-Gods and-it-filled **the-land** violence",
-        "englishNatural": "God filled-with **and the land** violence"
+        "englishLiteral": "the-Gods, and-it-filled **the-land** violence.",
+        "englishNatural": "to the face of God, **and the land** filled-with violence."
       }
     },
     {
@@ -897,6 +934,7 @@
         "verse": 12
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -910,8 +948,8 @@
       "context": {
         "hebrew": "אֱלֹהִים אֶת־ **הָאָרֶץ** וְהִנֵּה נִשְׁחָתָה",
         "transliteration": "elohim et- **haAretz** veHineh nishchatah",
-        "englishLiteral": "Gods ↳ **the-land** and-behold it-had-corrupted",
-        "englishNatural": "And God ↳ **the land** and behold it had corrupted"
+        "englishLiteral": "Gods ↳ **the-land,** and-behold it-had-corrupted;",
+        "englishNatural": "saw ↳ **the land,** and behold it had corrupted;"
       }
     },
     {
@@ -921,6 +959,7 @@
         "verse": 12
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -934,8 +973,8 @@
       "context": {
         "hebrew": "דַּרְכּוֹ עַל־ **הָאָרֶץ**",
         "transliteration": "darko al- **haAretz**",
-        "englishLiteral": "way-its over- **the-land**",
-        "englishNatural": "its way over **the land**"
+        "englishLiteral": "way-its over- **the-land.**",
+        "englishNatural": "its way over **the land.**"
       }
     },
     {
@@ -945,6 +984,7 @@
         "verse": 13
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -958,8 +998,8 @@
       "context": {
         "hebrew": "כִּי־ מָלְאָה **הָאָרֶץ** חָמָס מִפְּנֵיהֶם",
         "transliteration": "ki- maleah **haAretz** chamas mipPneihem",
-        "englishLiteral": "that- is-full **the-land** violence from-faces-their",
-        "englishNatural": "that is full of **the land** violence from their faces"
+        "englishLiteral": "that- is-full **the-land** violence from-faces-their;",
+        "englishNatural": "to my face; that **the land** is full of violence"
       }
     },
     {
@@ -969,6 +1009,7 @@
         "verse": 13
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -982,8 +1023,8 @@
       "context": {
         "hebrew": "מַשְׁחִיתָם אֶת־ **הָאָרֶץ**",
         "transliteration": "mashchitam et- **haAretz**",
-        "englishLiteral": "destroying ↳ **the-land**",
-        "englishNatural": "destroying ↳ **the land**"
+        "englishLiteral": "destroying ↳ **the-land.\"**",
+        "englishNatural": "destroying ↳ **the land.\"**"
       }
     },
     {
@@ -993,6 +1034,7 @@
         "verse": 17
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1006,8 +1048,8 @@
       "context": {
         "hebrew": "מַיִם עַל־ **הָאָרֶץ** לְשַׁחֵת כָּל־",
         "transliteration": "mayim al- **haAretz** leShachet kol-",
-        "englishLiteral": "waters over- **the-land** to-destroy all-",
-        "englishNatural": "waters over **the land** to destroy all"
+        "englishLiteral": "waters over- **the-land,** to-destroy all-",
+        "englishNatural": "waters over **the land,** to destroy all"
       }
     },
     {
@@ -1017,6 +1059,7 @@
         "verse": 17
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "בָּאָרֶץ",
         "transliteration": "baAretz",
@@ -1030,8 +1073,8 @@
       "context": {
         "hebrew": "כֹּל אֲשֶׁר־ **בָּאָרֶץ** יִגְוָע",
         "transliteration": "kol asher- **baAretz** yigva",
-        "englishLiteral": "all which- **in-land** will-expire",
-        "englishNatural": "all which **in the land** will expire"
+        "englishLiteral": "all which- **in-land** will-expire.",
+        "englishNatural": "all which **in the land** will expire."
       }
     },
     {
@@ -1041,6 +1084,7 @@
         "verse": 6
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1054,8 +1098,8 @@
       "context": {
         "hebrew": "מַיִם עַל־ **הָאָרֶץ**",
         "transliteration": "mayim al- **haAretz**",
-        "englishLiteral": "waters over- **the-land**",
-        "englishNatural": "waters over **the land**"
+        "englishLiteral": "waters over- **the-land.**",
+        "englishNatural": "waters over **the land.**"
       }
     },
     {
@@ -1065,6 +1109,7 @@
         "verse": 10
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1078,8 +1123,8 @@
       "context": {
         "hebrew": "הָיוּ עַל־ **הָאָרֶץ**",
         "transliteration": "hayu al- **haAretz**",
-        "englishLiteral": "they-were over- **the-land**",
-        "englishNatural": "were over **the land**"
+        "englishLiteral": "they-were over- **the-land.**",
+        "englishNatural": "were over **the land.**"
       }
     },
     {
@@ -1089,6 +1134,7 @@
         "verse": 12
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1102,8 +1148,8 @@
       "context": {
         "hebrew": "הַגֶּשֶׁם עַל־ **הָאָרֶץ** אַרְבָּעִים יוֹם",
         "transliteration": "haGeshem al- **haAretz** arbaim yom",
-        "englishLiteral": "the-rain over- **the-land** forty day",
-        "englishNatural": "And the rain over **the land** forty days"
+        "englishLiteral": "the-rain over- **the-land,** forty day",
+        "englishNatural": "was over **the land,** forty days"
       }
     },
     {
@@ -1113,6 +1159,7 @@
         "verse": 14
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1126,8 +1173,8 @@
       "context": {
         "hebrew": "הָרֹמֵשׂ עַל־ **הָאָרֶץ** לְמִינֵהוּ וְכָל־",
         "transliteration": "haRomes al- **haAretz** leMinehu veKhol-",
-        "englishLiteral": "the-creeping over- **the-land** to-kind-his and-all-",
-        "englishNatural": "the creeping over **the land** to its kind and all"
+        "englishLiteral": "the-creeping over- **the-land** to-kind-his, and-all-",
+        "englishNatural": "the creeping over **the land** to its kind, and all"
       }
     },
     {
@@ -1137,6 +1184,7 @@
         "verse": 22
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1150,8 +1198,8 @@
       "context": {
         "hebrew": "כָּל־ יְמֵי **הָאָרֶץ** זֶרַע וְקָצִיר",
         "transliteration": "kol- yemei **haAretz** zera veQatzir",
-        "englishLiteral": "all- days-of **the-land** seed and-harvest",
-        "englishNatural": "all the days of **the land** seed and harvest"
+        "englishLiteral": "all- days-of **the-land,** seed and-harvest,",
+        "englishNatural": "all the days of **the land,** seed and harvest,"
       }
     },
     {
@@ -1161,6 +1209,7 @@
         "verse": 1
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1174,8 +1223,8 @@
       "context": {
         "hebrew": "וּמִלְאוּ אֶת־ **הָאָרֶץ**",
         "transliteration": "uMileu et- **haAretz**",
-        "englishLiteral": "and-fill ↳ **the-land**",
-        "englishNatural": "and fill ↳ **the land**"
+        "englishLiteral": "and-fill ↳ **the-land.**",
+        "englishNatural": "and fill ↳ **the land.**"
       }
     },
     {
@@ -1185,6 +1234,7 @@
         "verse": 2
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1209,6 +1259,7 @@
         "verse": 7
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "בָאָרֶץ",
         "transliteration": "baAretz",
@@ -1222,8 +1273,8 @@
       "context": {
         "hebrew": "וּרְבוּ שִׁרְצוּ **בָאָרֶץ** וּרְבוּ־ בָהּ",
         "transliteration": "urevu shirtzu **baAretz** urevu- vah",
-        "englishLiteral": "and-multiply swarm **in-land** and-multiply- in-it",
-        "englishNatural": "and multiply swarm **in the land** and multiply in it"
+        "englishLiteral": "and-multiply, swarm **in-land,** and-multiply- in-it.\"",
+        "englishNatural": "and multiply, swarm **in the land,** and multiply in it.\""
       }
     },
     {
@@ -1233,6 +1284,7 @@
         "verse": 10
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1246,8 +1298,8 @@
       "context": {
         "hebrew": "וּבְכָל־ חַיַּת **הָאָרֶץ** אִתְּכֶם מִכֹּל",
         "transliteration": "uvKhol- chayat **haAretz** itkhem miKol",
-        "englishLiteral": "and-in-all- living_being-of **the-land** with-you from-all",
-        "englishNatural": "and in all the living-being of **the land** with you from all"
+        "englishLiteral": "and-in-all- living_being-of **the-land** with-you, from-all",
+        "englishNatural": "and in all the living-being of **the land** with you, from all"
       }
     },
     {
@@ -1257,6 +1309,7 @@
         "verse": 10
       },
       "wordIndex": 17,
+      "sourceOrder": 17,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1270,8 +1323,8 @@
       "context": {
         "hebrew": "לְכֹל חַיַּת **הָאָרֶץ**",
         "transliteration": "leKhol chayat **haAretz**",
-        "englishLiteral": "to-all living_being-of **the-land**",
-        "englishNatural": "to all the living-being of **the land**"
+        "englishLiteral": "to-all living_being-of **the-land;**",
+        "englishNatural": "to all the living-being of **the land;**"
       }
     },
     {
@@ -1281,6 +1334,7 @@
         "verse": 11
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1294,8 +1348,8 @@
       "context": {
         "hebrew": "מַבּוּל לְשַׁחֵת **הָאָרֶץ**",
         "transliteration": "mabbul leshachet **haAretz**",
-        "englishLiteral": "flood to-corrupt **the-land**",
-        "englishNatural": "a flood to corrupt **the land**"
+        "englishLiteral": "flood to-corrupt **the-land.**",
+        "englishNatural": "a flood to corrupt **the land.**"
       }
     },
     {
@@ -1305,6 +1359,7 @@
         "verse": 13
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1318,8 +1373,8 @@
       "context": {
         "hebrew": "בֵּינִי וּבֵין **הָאָרֶץ**",
         "transliteration": "beyni uveyn **haAretz**",
-        "englishLiteral": "between-me and-between **the-land**",
-        "englishNatural": "between me and between **the land**"
+        "englishLiteral": "between-me and-between **the-land.**",
+        "englishNatural": "between me and between **the land.**"
       }
     },
     {
@@ -1329,6 +1384,7 @@
         "verse": 8
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "בָּאָרֶץ",
         "transliteration": "baAretz",
@@ -1342,8 +1398,8 @@
       "context": {
         "hebrew": "לִהְיוֹת גִּבֹּר **בָּאָרֶץ**",
         "transliteration": "lihyot gibbor **baAretz**",
-        "englishLiteral": "to-be mighty_one **in-land**",
-        "englishNatural": "to be a mighty-one **in the land**"
+        "englishLiteral": "to-be mighty_one **in-land.**",
+        "englishNatural": "to be a mighty-one **in the land.**"
       }
     },
     {
@@ -1353,6 +1409,7 @@
         "verse": 10
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "בְּאֶרֶץ",
         "transliteration": "beEretz",
@@ -1366,8 +1423,8 @@
       "context": {
         "hebrew": "וְאַכַּד וְכַלְנֵה **בְּאֶרֶץ** שִׁנְעָר",
         "transliteration": "veAkkad veKhalneh **beEretz** Shinar",
-        "englishLiteral": "and-Fortress (Akkadia) and-Fortress (Calneh) **in-land-of** Tooth_of_Two (Shinar)",
-        "englishNatural": "and Fortress (Akkadia) and Fortress (Calneh) **in the land of** Tooth-of-Two (Shinar)"
+        "englishLiteral": "and-Fortress (Akkadia), and-Fortress (Calneh), **in-land-of** Tooth_of_Two (Shinar).",
+        "englishNatural": "and Fortress (Akkadia), and Fortress (Calneh), **in the land of** Tooth-of-Two (Shinar)."
       }
     },
     {
@@ -1377,6 +1434,7 @@
         "verse": 11
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1391,7 +1449,7 @@
         "hebrew": "מִן־ **הָאָרֶץ** הַהִוא יָצָא",
         "transliteration": "min- **haAretz** hahi yatsa",
         "englishLiteral": "from- **the-land** the-that brought_out",
-        "englishNatural": "from **land** that brought-out"
+        "englishNatural": "from that **land** brought-out Steppe (Assyria),"
       }
     },
     {
@@ -1401,6 +1459,7 @@
         "verse": 1
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1414,8 +1473,8 @@
       "context": {
         "hebrew": "וַיְהִי כָל־ **הָאָרֶץ** שָׂפָה אֶחָת",
         "transliteration": "vayHi khol- **haAretz** safah echat",
-        "englishLiteral": "And-was all- **the-land** lip one",
-        "englishNatural": "was And all **the land** lip one"
+        "englishLiteral": "And-was all- **the-land,** lip one",
+        "englishNatural": "And all **the land** was, one"
       }
     },
     {
@@ -1425,6 +1484,7 @@
         "verse": 2
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "בְּאֶרֶץ",
         "transliteration": "beEretz",
@@ -1449,6 +1509,7 @@
         "verse": 4
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1462,8 +1523,8 @@
       "context": {
         "hebrew": "פְּנֵי כָל־ **הָאָרֶץ**",
         "transliteration": "peney kol- **haAretz**",
-        "englishLiteral": "faces-of all- **the-land**",
-        "englishNatural": "the face of all **the land**"
+        "englishLiteral": "faces-of all- **the-land.\"**",
+        "englishNatural": "the face of all **the land.\"**"
       }
     },
     {
@@ -1473,6 +1534,7 @@
         "verse": 8
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1486,8 +1548,8 @@
       "context": {
         "hebrew": "פְּנֵי כָל־ **הָאָרֶץ** וַיַּחְדְּלוּ לִבְנֹת",
         "transliteration": "peney khol- **haAretz** vayachdelu livnot",
-        "englishLiteral": "faces-of all- **the-land** and-they-ceased to-build",
-        "englishNatural": "the face of all **the land** and they ceased to build"
+        "englishLiteral": "faces-of all- **the-land,** and-they-ceased to-build",
+        "englishNatural": "the face of all **the land;** and they ceased to build"
       }
     },
     {
@@ -1497,6 +1559,7 @@
         "verse": 9
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1510,8 +1573,8 @@
       "context": {
         "hebrew": "שְׂפַת כָּל־ **הָאָרֶץ** וּמִשָּׁם הֱפִיצָם",
         "transliteration": "sefat kol- **haAretz** umisham hephitzam",
-        "englishLiteral": "lip-of all- **the-land** and-from-there he-scattered-them",
-        "englishNatural": "the lip of all **the land** and from there scattered them"
+        "englishLiteral": "lip-of all- **the-land,** and-from-there he-scattered-them",
+        "englishNatural": "the lip of all **the land;** and from there He-Who-Is (YHWH)"
       }
     },
     {
@@ -1521,6 +1584,7 @@
         "verse": 9
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1534,8 +1598,8 @@
       "context": {
         "hebrew": "פְּנֵי כָּל־ **הָאָרֶץ**",
         "transliteration": "peney kol- **haAretz**",
-        "englishLiteral": "faces-of all- **the-land**",
-        "englishNatural": "the face of all **the land**"
+        "englishLiteral": "faces-of all- **the-land.**",
+        "englishNatural": "the face of all **the land.**"
       }
     },
     {
@@ -1545,6 +1609,7 @@
         "verse": 1
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "מֵאַרְצְךָ",
         "transliteration": "meArtsekha",
@@ -1558,8 +1623,8 @@
       "context": {
         "hebrew": "לֶךְ־ לְךָ **מֵאַרְצְךָ** וּמִמּוֹלַדְתְּךָ וּמִבֵּית",
         "transliteration": "lekh- lekha **meArtsekha** umiMoladtekha uMiBeyt",
-        "englishLiteral": "walk- to-you **from-land-your** and-from-kindred-your and-from-house-of",
-        "englishNatural": "Walk to yourself **from your land** and from your kindred and from the house of"
+        "englishLiteral": "\"walk- to-you **from-land-your** and-from-kindred-your and-from-house-of",
+        "englishNatural": "\"Walk to yourself **from your land** and from your kindred and from the house of"
       }
     },
     {
@@ -1569,6 +1634,7 @@
         "verse": 1
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1582,8 +1648,8 @@
       "context": {
         "hebrew": "אָבִיךָ אֶל־ **הָאָרֶץ** אֲשֶׁר אַרְאֶךָּ",
         "transliteration": "avikha el- **haAretz** asher arekka",
-        "englishLiteral": "father-your to- **the-land** which I-will-cause-you-to-see",
-        "englishNatural": "your father to **the land** which I will cause you to see"
+        "englishLiteral": "father-your, to- **the-land** which I-will-cause-you-to-see.",
+        "englishNatural": "your father, to **the land** which I will cause you to see."
       }
     },
     {
@@ -1593,6 +1659,7 @@
         "verse": 7
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1606,8 +1673,8 @@
       "context": {
         "hebrew": "לְךָ אֶת־ **הָאָרֶץ** הַזֹּאת לְרִשְׁתָּהּ",
         "transliteration": "lekha et- **haAretz** haZot lerishtah",
-        "englishLiteral": "to-you ↳ **the-land** the-this to-inherit-her",
-        "englishNatural": "to you ↳ **land** this to inherit it"
+        "englishLiteral": "to-you ↳ **the-land** the-this, to-inherit-her.\"",
+        "englishNatural": "↳ this **land** to inherit it.\""
       }
     },
     {
@@ -1617,6 +1684,7 @@
         "verse": 13
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "בְּאֶרֶץ",
         "transliteration": "beEretz",
@@ -1630,8 +1698,8 @@
       "context": {
         "hebrew": "יִהְיֶה זַרְעֲךָ **בְּאֶרֶץ** לֹא לָהֶם",
         "transliteration": "yihyeh zarcha **beEretz** lo lahem",
-        "englishLiteral": "he-will-be seed-of-you **in-land** not to-them",
-        "englishNatural": "will be your seed **in a land** not to them"
+        "englishLiteral": "he-will-be seed-of-you **in-land** not to-them,",
+        "englishNatural": "will be a sojourner **in a land** not to them,"
       }
     },
     {
@@ -1641,6 +1709,7 @@
         "verse": 18
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1654,8 +1723,8 @@
       "context": {
         "hebrew": "נָתַתִּי אֶת־ **הָאָרֶץ** הַזֹּאת מִנְּהַר",
         "transliteration": "natati et- **haAretz** haZot miNehar",
-        "englishLiteral": "I-gave ↳ **the-land** the-this from-river-of",
-        "englishNatural": "I have given ↳ **the land** this from The River of"
+        "englishLiteral": "I-gave ↳ **the-land** the-this, from-river-of",
+        "englishNatural": "I have given ↳ **the land** this, from The River of"
       }
     },
     {
@@ -1665,6 +1734,7 @@
         "verse": 3
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אַרְצָה",
         "transliteration": "artzah",
@@ -1678,8 +1748,8 @@
       "context": {
         "hebrew": "וַיֹּאמֶר הַשְׁלִיכֵהוּ **אַרְצָה** וַיַּשְׁלִכֵהוּ אַרְצָה",
         "transliteration": "vaYomer hashlikhehu **artzah** vaYashlikhehu artzah",
-        "englishLiteral": "And-said throw-it **land-ward** And-threw-it land-ward",
-        "englishNatural": "And he said throw it **to the land** And he threw it to the land"
+        "englishLiteral": "And-said \"throw-it **land-ward.\"** And-threw-it land-ward,",
+        "englishNatural": "And he said, \"throw it **to the land.\"** And he threw it to the land,"
       }
     },
     {
@@ -1689,6 +1759,7 @@
         "verse": 3
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אַרְצָה",
         "transliteration": "artzah",
@@ -1702,8 +1773,8 @@
       "context": {
         "hebrew": "אַרְצָה וַיַּשְׁלִכֵהוּ **אַרְצָה** וַיְהִי לְנָחָשׁ",
         "transliteration": "artzah vaYashlikhehu **artzah** vaYehi leNachash",
-        "englishLiteral": "land-ward And-threw-it **land-ward** and-was to-snake",
-        "englishNatural": "to the land And he threw it **to the land** and it was a snake"
+        "englishLiteral": "land-ward.\" And-threw-it **land-ward,** and-was to-snake,",
+        "englishNatural": "to the land.\" And he threw it **to the land,** and it was a snake,"
       }
     },
     {
@@ -1713,6 +1784,7 @@
         "verse": 20
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "אַרְצָה",
         "transliteration": "artzah",
@@ -1726,8 +1798,8 @@
       "context": {
         "hebrew": "הַחֲמֹר וַיָּשָׁב **אַרְצָה** מִצְרָיִם וַיִּקַּח",
         "transliteration": "haChamor vaYashav **artzah** Mitzrayim vaYiqqach",
-        "englishLiteral": "the-donkey and-returned **land-ward** Double_Narrows (Egypt) and-took",
-        "englishNatural": "the donkey and returned **to the land of** Double-Narrows (Egypt) took"
+        "englishLiteral": "the-donkey, and-returned **land-ward** Double_Narrows (Egypt), and-took",
+        "englishNatural": "the donkey, and returned **to the land of** Double-Narrows (Egypt), and Drawn-Out (Moses)"
       }
     },
     {
@@ -1737,6 +1809,7 @@
         "verse": 5
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -1751,7 +1824,7 @@
         "hebrew": "עַתָּה עַם **הָאָרֶץ** וְהִשְׁבַּתֶּם אֹתָם",
         "transliteration": "atah am **haAretz** veHishbatem otam",
         "englishLiteral": "now people-of **the-land** and-will-cause_to_sabbath ↳",
-        "englishNatural": "now the people of **the land** and you cause them to sabbath ↳"
+        "englishNatural": "\"Behold, the people of **the land,** now many,"
       }
     },
     {
@@ -1761,6 +1834,7 @@
         "verse": 1
       },
       "wordIndex": 16,
+      "sourceOrder": 16,
       "word": {
         "originalScript": "מֵאַרְצוֹ",
         "transliteration": "meArtzo",
@@ -1774,8 +1848,8 @@
       "context": {
         "hebrew": "חֲזָקָה יְגָרְשֵׁם **מֵאַרְצוֹ**",
         "transliteration": "chazaqah yeGarshem **meArtzo**",
-        "englishLiteral": "intense he-will-drive_out-them **from-land-his**",
-        "englishNatural": "and in an intense he will drive-out them **from his land**"
+        "englishLiteral": "intense he-will-drive_out-them **from-land-his.\"**",
+        "englishNatural": "hand he will drive-out them **from his land.\"**"
       }
     },
     {
@@ -1785,6 +1859,7 @@
         "verse": 2
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "מֵאַרְצוֹ",
         "transliteration": "meArtzo",
@@ -1798,8 +1873,8 @@
       "context": {
         "hebrew": "בְּנֵי יִשְׂרָאֵל **מֵאַרְצוֹ**",
         "transliteration": "benei Yisrael **meArtzo**",
-        "englishLiteral": "sons-of Struggles_with_God (Israel) **from-land-his**",
-        "englishNatural": "the sons of Struggles-with-God (Israel) **from his land**"
+        "englishLiteral": "sons-of Struggles_with_God (Israel) **from-land-his.\"**",
+        "englishNatural": "the sons of Struggles-with-God (Israel) **from his land.\"**"
       }
     },
     {
@@ -1809,6 +1884,7 @@
         "verse": 3
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "בְּאֶרֶץ",
         "transliteration": "beEretz",
@@ -1822,8 +1898,8 @@
       "context": {
         "hebrew": "וְאֶת־ מוֹפְתַי **בְּאֶרֶץ** מִצְרָיִם",
         "transliteration": "veEt- moftai **beEretz** Mitzrayim",
-        "englishLiteral": "and-↳ wonders-my **in-land-of** Double_Narrows (Egypt)",
-        "englishNatural": "and my wonders **in the land of** Double-Narrows (Egypt)"
+        "englishLiteral": "and-↳ wonders-my **in-land-of** Double_Narrows (Egypt).\"",
+        "englishNatural": "and my wonders **in the land of** Double-Narrows (Egypt).\""
       }
     },
     {
@@ -1833,6 +1909,7 @@
         "verse": 21
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "אֶרֶץ",
         "transliteration": "eretz",
@@ -1857,6 +1934,7 @@
         "verse": 22
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "אֶרֶץ",
         "transliteration": "eretz",
@@ -1881,6 +1959,7 @@
         "verse": 3
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "בְּאֶ֖רֶץ",
         "transliteration": "beEretz",
@@ -1894,8 +1973,8 @@
       "context": {
         "hebrew": "גָּד֣וֹל מְאֹ֔ד **בְּאֶ֖רֶץ** מִצְרָ֑יִם בְּעֵינֵ֥י",
         "transliteration": "gadol meod **beEretz** Mitzrayim beEyney",
-        "englishLiteral": "great very **in-land** Double_Narrows (Egypt) in-eyes-of",
-        "englishNatural": "great very **in the land of** Double-Narrows (Egypt) in the eyes of"
+        "englishLiteral": "great very, **in-land** Double_Narrows (Egypt); in-eyes-of",
+        "englishNatural": "great very **in the land of** Double-Narrows (Egypt), in the eyes of"
       }
     },
     {
@@ -1905,6 +1984,7 @@
         "verse": 5
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "בְּאֶ֣רֶץ",
         "transliteration": "beEretz",
@@ -1918,8 +1998,8 @@
       "context": {
         "hebrew": "כָּל־ בְּכ֣וֹר **בְּאֶ֣רֶץ** מִצְרַ֔יִם מִבְּכֹ֤ר",
         "transliteration": "kol- bekhor **beEretz** Mitzrayim miBekhor",
-        "englishLiteral": "all- firstborn **in-land** Double_Narrows (Egypt) from-firstborn",
-        "englishNatural": "all firstborn **in the land of** Double-Narrows (Egypt) from the firstborn of"
+        "englishLiteral": "all- firstborn **in-land** Double_Narrows (Egypt), from-firstborn",
+        "englishNatural": "all firstborn **in the land of** Double-Narrows (Egypt), from the firstborn of"
       }
     },
     {
@@ -1929,6 +2009,7 @@
         "verse": 6
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אֶ֣רֶץ",
         "transliteration": "eretz",
@@ -1942,8 +2023,8 @@
       "context": {
         "hebrew": "גְדֹלָ֖ה בְּכָל־ **אֶ֣רֶץ** מִצְרָ֑יִם אֲשֶׁ֤ר",
         "transliteration": "gedolah beKhol- **eretz** Mitzrayim asher",
-        "englishLiteral": "great in-all- **land** Double_Narrows (Egypt) which",
-        "englishNatural": "And a great in all **the land of** Double-Narrows (Egypt) which"
+        "englishLiteral": "great in-all- **land** Double_Narrows (Egypt), which",
+        "englishNatural": "will be in all **the land of** Double-Narrows (Egypt), which"
       }
     },
     {
@@ -1953,6 +2034,7 @@
         "verse": 9
       },
       "wordIndex": 11,
+      "sourceOrder": 11,
       "word": {
         "originalScript": "בְּאֶ֥רֶץ",
         "transliteration": "beEretz",
@@ -1964,10 +2046,10 @@
         }
       },
       "context": {
-        "hebrew": "רְבוֹת־ מוֹפְתַ֖י **בְּאֶ֥רֶץ** מִצְרָֽיִם׃",
+        "hebrew": "רְבוֹת־ מוֹפְתַ֖י **בְּאֶ֥רֶץ** מִצְרָֽיִם׃׃",
         "transliteration": "rebot- moftay **beEretz** Mitzrayim",
-        "englishLiteral": "multiplying- wonders-my **in-land-of** Double_Narrows (Egypt)",
-        "englishNatural": "multiplying my wonders **in the land of** Double-Narrows (Egypt)"
+        "englishLiteral": "multiplying- wonders-my **in-land-of** Double_Narrows (Egypt).\"",
+        "englishNatural": "multiplying my wonders **in the land of** Double-Narrows (Egypt).\""
       }
     },
     {
@@ -1977,6 +2059,7 @@
         "verse": 10
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "מֵאַרְצֽוֹ׃",
         "transliteration": "meArtzo",
@@ -1988,10 +2071,10 @@
         }
       },
       "context": {
-        "hebrew": "בְּנֵי־ יִשְׂרָאֵ֖ל **מֵאַרְצֽוֹ׃**",
+        "hebrew": "בְּנֵי־ יִשְׂרָאֵ֖ל **מֵאַרְצֽוֹ׃׃**",
         "transliteration": "beney- Yisrael **meArtzo**",
-        "englishLiteral": "sons-of- Struggles_With_God (Israel) **from-land-his**",
-        "englishNatural": "the sons of Struggles-With-God (Israel) **from his land**"
+        "englishLiteral": "sons-of- Struggles_With_God (Israel) **from-land-his.**",
+        "englishNatural": "the sons of Struggles-With-God (Israel) **from his land.**"
       }
     },
     {
@@ -2001,6 +2084,7 @@
         "verse": 29
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "בְּאֶ֣רֶץ",
         "transliteration": "beEretz",
@@ -2014,8 +2098,8 @@
       "context": {
         "hebrew": "כָל־ בְּכוֹר֮ **בְּאֶ֣רֶץ** מִצְרַיִם֒ מִבְּכֹ֤ר",
         "transliteration": "kol- bekhor **beEretz** Mitzrayim miBekor",
-        "englishLiteral": "all- firstborn **in-land-of** Double_Narrows (Egypt) from-firstborn-of",
-        "englishNatural": "all firstborn **in the land of** Double-Narrows (Egypt) from the firstborn of"
+        "englishLiteral": "all- firstborn **in-land-of** Double_Narrows (Egypt), from-firstborn-of",
+        "englishNatural": "all firstborn **in the land of** Double-Narrows (Egypt), from the firstborn of"
       }
     },
     {
@@ -2025,6 +2109,7 @@
         "verse": 1
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "בָּאָ֑רֶץ",
         "transliteration": "baAretz",
@@ -2038,8 +2123,8 @@
       "context": {
         "hebrew": "וַיְהִ֥י רָעָ֖ב **בָּאָ֑רֶץ** וַיֵּ֨לֶךְ אִ֜ישׁ",
         "transliteration": "vayHi raav **baAretz** vaYelekh ish",
-        "englishLiteral": "and-was famine **in-the-land** and-walked man",
-        "englishNatural": "was and famine **in the land** walked and a man"
+        "englishLiteral": "and-was famine **in-the-land;** and-walked man",
+        "englishNatural": "and famine was **in the land;** and a man walked"
       }
     },
     {
@@ -2049,6 +2134,7 @@
         "verse": 7
       },
       "wordIndex": 13,
+      "sourceOrder": 13,
       "word": {
         "originalScript": "אֶ֥רֶץ",
         "transliteration": "eretz",
@@ -2060,10 +2146,10 @@
         }
       },
       "context": {
-        "hebrew": "לָשׁ֖וּב אֶל־ **אֶ֥רֶץ** יְהוּדָֽה׃",
+        "hebrew": "לָשׁ֖וּב אֶל־ **אֶ֥רֶץ** יְהוּדָֽה׃׃",
         "transliteration": "lashuv el- **eretz** Yehudah",
-        "englishLiteral": "to-return to- **land-of** Praise (Judah)",
-        "englishNatural": "to return to **the land of** Praise (Judah)"
+        "englishLiteral": "to-return to- **land-of** Praise (Judah).",
+        "englishNatural": "to return to **the land of** Praise (Judah)."
       }
     },
     {
@@ -2073,6 +2159,7 @@
         "verse": 1
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "בְאֶֽרֶץ־",
         "transliteration": "beEretz-",
@@ -2086,8 +2173,8 @@
       "context": {
         "hebrew": "אִ֛ישׁ הָיָ֥ה **בְאֶֽרֶץ־** ע֖וּץ אִיּ֣וֹב",
         "transliteration": "ish hayah **beEretz-** Uts Iyov",
-        "englishLiteral": "man was **in-land-** Counsel (Uz) Persecuted (Job)",
-        "englishNatural": "A man there was **in the land of** Counsel (Uz) Persecuted (Job)"
+        "englishLiteral": "man was **in-land-** Counsel (Uz), Persecuted (Job)",
+        "englishNatural": "A man there was **in the land of** Counsel (Uz), Persecuted (Job)"
       }
     },
     {
@@ -2097,6 +2184,7 @@
         "verse": 1
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הָאָ֑רֶץ",
         "transliteration": "haAretz",
@@ -2110,8 +2198,8 @@
       "context": {
         "hebrew": "שִׁ֭מְךָ בְּכָל־ **הָאָ֑רֶץ** אֲשֶׁ֥ר תְּנָ֥ה",
         "transliteration": "shimkha beKhol- **haAretz** asher tenah",
-        "englishLiteral": "your-name in-all- **the-land** which give!",
-        "englishNatural": "your name in all **the land** which give"
+        "englishLiteral": "your-name in-all- **the-land;** which give!",
+        "englishNatural": "your name in all **the land;** which give"
       }
     },
     {
@@ -2121,6 +2209,7 @@
         "verse": 9
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הָאָֽרֶץ",
         "transliteration": "haAretz",
@@ -2132,10 +2221,10 @@
         }
       },
       "context": {
-        "hebrew": "שִׁ֝מְךָ֗ בְּכָל־ **הָאָֽרֶץ**",
+        "hebrew": "שִׁ֝מְךָ֗ בְּכָל־ **הָאָֽרֶץ׃**",
         "transliteration": "shimkha beKhol- **haAretz**",
-        "englishLiteral": "your-name in-all- **the-land**",
-        "englishNatural": "your name in all **the land**"
+        "englishLiteral": "your-name in-all- **the-land.**",
+        "englishNatural": "your name in all **the land.**"
       }
     },
     {
@@ -2145,6 +2234,7 @@
         "verse": 23
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אָרֶץ",
         "transliteration": "aretz",
@@ -2158,8 +2248,8 @@
       "context": {
         "hebrew": "מֵרֹאשׁ מִקַּדְמֵי־ **אָרֶץ**",
         "transliteration": "meRosh miQadmei **aretz**",
-        "englishLiteral": "from-heading from-east-of **land**",
-        "englishNatural": "from the heading from the-east of **land**"
+        "englishLiteral": "from-heading, from-east-of **land.**",
+        "englishNatural": "from the heading, from the-east of **land.**"
       }
     },
     {
@@ -2169,6 +2259,7 @@
         "verse": 26
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אֶרֶץ",
         "transliteration": "eretz",
@@ -2182,8 +2273,8 @@
       "context": {
         "hebrew": "לֹא עָשָׂה **אֶרֶץ** וְחוּצוֹת וְרֹאשׁ",
         "transliteration": "lo asah **eretz** veChutzot veRosh",
-        "englishLiteral": "not he-had-made **land** and-outsides and-head-of",
-        "englishNatural": "not he had made **land** and outsides and the head of"
+        "englishLiteral": "not he-had-made **land** and-outsides, and-head-of",
+        "englishNatural": "he had made not **land** and outsides, and the head of"
       }
     },
     {
@@ -2193,6 +2284,7 @@
         "verse": 29
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "אָרֶץ",
         "transliteration": "aretz",
@@ -2206,8 +2298,8 @@
       "context": {
         "hebrew": "בְּחוּקוֹ מוֹסְדֵי **אָרֶץ**",
         "transliteration": "beChuqo mosdei **aretz**",
-        "englishLiteral": "in-inscribing-his foundations-of **land**",
-        "englishNatural": "in his inscribing the foundations of **land**"
+        "englishLiteral": "in-inscribing-his foundations-of **land.**",
+        "englishNatural": "in his inscribing the foundations of **land.**"
       }
     },
     {
@@ -2217,6 +2309,7 @@
         "verse": 31
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "אַרְצוֹ",
         "transliteration": "artso",
@@ -2230,8 +2323,8 @@
       "context": {
         "hebrew": "מְשַׂחֶקֶת בְּתֵבֵל **אַרְצוֹ** וְשַׁעֲשֻׁעַי אֶת־",
         "transliteration": "mesacheqet beTevel **artso** veShaashuai et-",
-        "englishLiteral": "laughing in-world-of **his-land** and-my-darlings ↳",
-        "englishNatural": "laughing in the world of **his land** and my darlings ↳"
+        "englishLiteral": "laughing in-world-of **his-land,** and-my-darlings ↳",
+        "englishNatural": "laughing in the world of **his land,** and my darlings ↳"
       }
     },
     {
@@ -2241,6 +2334,7 @@
         "verse": 3
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -2254,8 +2348,8 @@
       "context": {
         "hebrew": "מְלֹא כָּל **הָאָרֶץ** כְּבוֹדוֹ",
         "transliteration": "melo kol **haAretz** kavodo",
-        "englishLiteral": "fullness-of all **the-land** his-glory",
-        "englishNatural": "fullness of all **the land** is his glory"
+        "englishLiteral": "fullness-of all **the-land:** his-glory.\"",
+        "englishNatural": "fullness of all **the land** is his glory.\""
       }
     },
     {
@@ -2265,6 +2359,7 @@
         "verse": 3
       },
       "wordIndex": 9,
+      "sourceOrder": 9,
       "word": {
         "originalScript": "בְּאֶרֶץ",
         "transliteration": "beEretz",
@@ -2278,8 +2373,8 @@
       "context": {
         "hebrew": "בּוּזִי הַכֹּהֵן **בְּאֶרֶץ** כַּשְׂדִּים עַל־",
         "transliteration": "Buzi haKohen **beEretz** Kasdim al-",
-        "englishLiteral": "Contempt (Buzi) the-priest **in-land-of** Chaldeans over-",
-        "englishNatural": "Contempt (Buzi) the priest **in the land of** Chaldeans over"
+        "englishLiteral": "Contempt (Buzi), the-priest, **in-land-of** Chaldeans over-",
+        "englishNatural": "Contempt (Buzi), the priest, **in the land of** Chaldeans over"
       }
     },
     {
@@ -2289,6 +2384,7 @@
         "verse": 15
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "בָּאָרֶץ",
         "transliteration": "baAretz",
@@ -2302,8 +2398,8 @@
       "context": {
         "hebrew": "אוֹפַן אֶחָד **בָּאָרֶץ** אֵצֶל הַחַיּוֹת",
         "transliteration": "ophan echad **baAretz** etzal haChayot",
-        "englishLiteral": "wheel one **in-land** beside the-living-beings",
-        "englishNatural": "wheel one **in the land** beside the living-beings"
+        "englishLiteral": "wheel one **in-land,** beside the-living-beings,",
+        "englishNatural": "one wheel **in the land,** beside the living-beings,"
       }
     },
     {
@@ -2313,6 +2409,7 @@
         "verse": 19
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -2326,8 +2423,8 @@
       "context": {
         "hebrew": "הַחַיּוֹת מֵעַל **הָאָרֶץ** יִנָּשְׂאוּ הָאוֹפַנִּים",
         "transliteration": "haChayot meAl **haAretz** yinasu haOphanim",
-        "englishLiteral": "the-living-beings from-over **the-land** they-were-lifted the-wheels",
-        "englishNatural": "the living-beings from over **the land** were lifted the wheels"
+        "englishLiteral": "the-living-beings from-over **the-land,** they-were-lifted the-wheels.",
+        "englishNatural": "the living-beings from over **the land,** the wheels were lifted."
       }
     },
     {
@@ -2337,6 +2434,7 @@
         "verse": 21
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haAretz",
@@ -2351,7 +2449,7 @@
         "hebrew": "וּבְהִנָּשְׂאָם מֵעַל **הָאָרֶץ** יִנָּשְׂאוּ הָאוֹפַנִּים",
         "transliteration": "uVehinasam meAl **haAretz** yinasu haOphanim",
         "englishLiteral": "and-in-being-lifted-their from-over **the-land** they-were-lifted the-wheels",
-        "englishNatural": "and in their being-lifted from over **the land** were lifted the wheels"
+        "englishNatural": "and in their being-lifted from over **the land** the wheels were lifted"
       }
     },
     {
@@ -2361,6 +2459,7 @@
         "verse": 2
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "אֶרֶץ",
         "transliteration": "eretz",
@@ -2374,8 +2473,8 @@
       "context": {
         "hebrew": "בָּבֶלָה אֶל־ **אֶרֶץ** שִׁנְעָר בֵּית",
         "transliteration": "Bavelah el- **eretz** Shinar beit",
-        "englishLiteral": "to-Confusion (Babylon) to- **land** Tooth_of_Two (Shinar) house",
-        "englishNatural": "to Confusion (Babylon) to **the land** of Tooth-of-Two (Shinar) to the house"
+        "englishLiteral": "to-Confusion (Babylon), to- **land** Tooth_of_Two (Shinar), house",
+        "englishNatural": "to Confusion (Babylon), to **the land** of Tooth-of-Two (Shinar), to the house"
       }
     },
     {
@@ -2385,6 +2484,7 @@
         "verse": 8
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "אַרְצֶךָ",
         "transliteration": "artzekha",
@@ -2398,8 +2498,8 @@
       "context": {
         "hebrew": "תָּבוֹא מָה **אַרְצֶךָ** וְאֵי־ מִזֶּה",
         "transliteration": "tavo mah **artzekha** veEi- mizeh",
-        "englishLiteral": "you-come What **land-your** and-where- from-this",
-        "englishNatural": "come you What **is your land** and where from this"
+        "englishLiteral": "you-come? What **land-your?** and-where- from-this",
+        "englishNatural": "come you? What **is your land?** and where 'from this"
       }
     },
     {
@@ -2409,6 +2509,7 @@
         "verse": 6
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "הָאָרֶץ",
         "transliteration": "haaretz",
@@ -2422,8 +2523,8 @@
       "context": {
         "hebrew": "לְקִצְבֵי הָרִים **הָאָרֶץ** בְּרִחֶיהָ בַעֲדִי",
         "transliteration": "leqitzevei harim **haaretz** bericheiha baadi",
-        "englishLiteral": "to-cutoffs-of mountains **the-earth** bars-her behind-me",
-        "englishNatural": "to the cutoffs of the mountains **the earth** her bars around me"
+        "englishLiteral": "to-cutoffs-of mountains; **the-earth,** bars-her behind-me",
+        "englishNatural": "to the cutoffs of the mountains; **the earth,** her bars around me"
       }
     }
   ]

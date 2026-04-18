@@ -9,6 +9,7 @@
         "verse": 9
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "אֵלֶּה",
         "transliteration": "eleh",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "**אֵלֶּה** תּוֹלְדֹת נֹחַ",
         "transliteration": "**eleh** toledot noach",
-        "englishLiteral": "**These** birthings-of Rest (Noah)",
-        "englishNatural": "**These** are the birthings of Rest (Noah)"
+        "englishLiteral": "**These** birthings-of Rest (Noah);",
+        "englishNatural": "**These** are the birthings of Rest (Noah);"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וְאֵלֶּה",
         "transliteration": "veEleh",
@@ -57,6 +59,7 @@
         "verse": 1
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "הָאֵלֶּה",
         "transliteration": "haEleh",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "אַחַר הַדְּבָרִים **הָאֵלֶּה** הָיָה דְבַר־",
         "transliteration": "achar haDvarim **haEleh** hayah devar-",
-        "englishLiteral": "After the-words **the-these** was word-of-",
-        "englishNatural": "After words **these** was the word of"
+        "englishLiteral": "After the-words **the-these,** was word-of-",
+        "englishNatural": "After **these** words, the word of"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 10
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "אֵלֶּה",
         "transliteration": "eleh",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "אֶת־ כָּל־ **אֵלֶּה** וַיְבַתֵּר אֹתָם",
         "transliteration": "et- kol- **eleh** vayevater otam",
-        "englishLiteral": "↳ all-of- **these** and-he-divided ↳ them",
-        "englishNatural": "↳ all **these** and divided them"
+        "englishLiteral": "↳ all-of- **these,** and-he-divided ↳ them",
+        "englishNatural": "↳ all **these,** and divided them"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 17
       },
       "wordIndex": 14,
+      "sourceOrder": 14,
       "word": {
         "originalScript": "הָאֵלֶּה",
         "transliteration": "haEleh",
@@ -118,8 +123,8 @@
       "context": {
         "hebrew": "בֵּין הַגְּזָרִים **הָאֵלֶּה**",
         "transliteration": "beyn haGezarim **haEleh**",
-        "englishLiteral": "between the-pieces **the-these**",
-        "englishNatural": "between pieces **these**"
+        "englishLiteral": "between the-pieces **the-these.**",
+        "englishNatural": "passed between **these** pieces."
       }
     },
     {
@@ -129,6 +134,7 @@
         "verse": 13
       },
       "wordIndex": 22,
+      "sourceOrder": 22,
       "word": {
         "originalScript": "אֲלֵהֶם",
         "transliteration": "alehem",
@@ -142,8 +148,8 @@
       "context": {
         "hebrew": "מָה אֹמַר **אֲלֵהֶם**",
         "transliteration": "mah omar **alehem**",
-        "englishLiteral": "what will-I-say **to-them**",
-        "englishNatural": "what will I say **to them**"
+        "englishLiteral": "what will-I-say **to-them.\"**",
+        "englishNatural": "what will I say **to them?\"**"
       }
     },
     {
@@ -153,6 +159,7 @@
         "verse": 8
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "אֵ֨לֶּה",
         "transliteration": "eleh",
@@ -167,7 +174,7 @@
         "hebrew": "כָל־ עֲבָדֶ֩יךָ֩ **אֵ֨לֶּה** אֵלַ֜י וְהִשְׁתַּֽחֲווּ־",
         "transliteration": "kol- avadekha **eleh** elay veHishtachavu-",
         "englishLiteral": "all- servants-your **these** to-me and-they-will-bow_down-",
-        "englishNatural": "And all your servants **these** to me and will bow-down"
+        "englishNatural": "And all **these** your servants will go-down"
       }
     },
     {
@@ -177,6 +184,7 @@
         "verse": 10
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "הָאֵ֖לֶּה",
         "transliteration": "haEleh",
@@ -190,8 +198,8 @@
       "context": {
         "hebrew": "כָּל־ הַמֹּפְתִ֥ים **הָאֵ֖לֶּה** לִפְנֵ֣י פַרְעֹ֑ה",
         "transliteration": "kol- haMoftim **haEleh** lifney Paroh",
-        "englishLiteral": "all- the-wonders **the-these** to-faces-of Pharaoh",
-        "englishNatural": "all the wonders **these** to the face of Pharaoh"
+        "englishLiteral": "all- the-wonders **the-these** to-faces-of Pharaoh;",
+        "englishNatural": "↳- all **these,** the wonders, to the face of"
       }
     }
   ]

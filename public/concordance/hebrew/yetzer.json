@@ -10,6 +10,7 @@
         "verse": 5
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "יֵצֶר",
         "transliteration": "yetzer",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "בָּאָרֶץ וְכָל־ **יֵצֶר** מַחְשְׁבֹת לִבּוֹ",
         "transliteration": "baAretz vekhol- **yetzer** machshevot libbo",
-        "englishLiteral": "in-land and-all- **forming-of** thoughts-of heart-his",
-        "englishNatural": "in the land and all **the forming of** thoughts of his heart"
+        "englishLiteral": "in-land, and-all- **forming-of** thoughts-of heart-his,",
+        "englishNatural": "in the land, and all **the forming of** thoughts of his heart,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 21
       },
       "wordIndex": 18,
+      "sourceOrder": 18,
       "word": {
         "originalScript": "יֵצֶר",
         "transliteration": "yetzer",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "הָאָדָם כִּי **יֵצֶר** לֵב הָאָדָם",
         "transliteration": "haAdam ki **yetzer** lev haAdam",
-        "englishLiteral": "the-Earthling (Adam) for **forming** heart-of the-Earthling (Adam)",
-        "englishNatural": "the Earthling (Adam) for **the forming** of the heart of the Earthling (Adam)"
+        "englishLiteral": "the-Earthling (Adam), for **forming** heart-of the-Earthling (Adam),",
+        "englishNatural": "the Earthling (Adam), for **the forming** of the heart of the Earthling (Adam),"
       }
     }
   ]

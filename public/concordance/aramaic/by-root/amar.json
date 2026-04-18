@@ -9,6 +9,7 @@
         "verse": 36
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "נֵאמַר",
         "transliteration": "nemar",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "חֶלְמָא וּפִשְׁרֵהּ **נֵאמַר** קֳדָם מַלְכָּא",
         "transliteration": "chelma uFishreH **nemar** qodam malka",
-        "englishLiteral": "dream-the and-interpretation-its **we-will-tell** before king-the",
-        "englishNatural": "the dream and its interpretation **we will tell** before the king"
+        "englishLiteral": "dream-the, and-interpretation-its **we-will-tell** before king-the.",
+        "englishNatural": "the dream, and its interpretation, **we will tell** before the king."
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 2
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "וְאָמַ֔ר",
         "transliteration": "veAmar",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "עָנֵ֤ה דָנִיֵּאל֙ **וְאָמַ֔ר** חָזֵ֥ה הֲוֵ֛ית",
         "transliteration": "aneh Daniel **veAmar** chazeh haveit",
-        "englishLiteral": "Answered God_Is_My_Judge (Daniel) **and-said** Looking I-was",
-        "englishNatural": "answered Daniel **and said** looking I was"
+        "englishLiteral": "Answered God_Is_My_Judge (Daniel) **and-said,** Looking I-was",
+        "englishNatural": "Daniel answered **and said,** \"I was looking"
       }
     },
     {
@@ -61,6 +63,7 @@
         "verse": 5
       },
       "wordIndex": 15,
+      "sourceOrder": 15,
       "word": {
         "originalScript": "אָמְרִ֣ין",
         "transliteration": "amrin",
@@ -76,8 +79,8 @@
       "context": {
         "hebrew": "שניה וְכֵן֙ **אָמְרִ֣ין** לַ֔הּ ק֥וּמִֽי",
         "transliteration": "shinnah veKhen **amrin** lah qumi",
-        "englishLiteral": "teeth-its and-thus **saying** to-her Arise",
-        "englishNatural": "its teeth and thus **they said** to it Arise"
+        "englishLiteral": "teeth-its; and-thus **saying** to-her, Arise",
+        "englishNatural": "its teeth; and thus **they said** to it, \"Arise,"
       }
     }
   ]

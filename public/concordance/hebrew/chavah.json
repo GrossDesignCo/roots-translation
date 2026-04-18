@@ -10,6 +10,7 @@
         "verse": 20
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "חַוָּה",
         "transliteration": "Chavah",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "שֵׁם אִשְׁתּוֹ **חַוָּה** כִּי הִוא",
         "transliteration": "shem ishto **Chavah** ki hi",
-        "englishLiteral": "name woman-his **Life (Eve)** that she",
-        "englishNatural": "name his woman's **Life (Eve)** that she"
+        "englishLiteral": "name woman-his **Life (Eve);** that she",
+        "englishNatural": "his woman's name **Life (Eve);** that she"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 1
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "חַוָּה",
         "transliteration": "Chavah",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "יָדַע אֶת־ **חַוָּה** אִשְׁתּוֹ וַתַּהַר",
         "transliteration": "yada et- **Chavah** ishto vatTahar",
-        "englishLiteral": "knew ↳ **Life (Eve)** his-woman and-she-conceived",
-        "englishNatural": "knew ↳ **Life (Eve)** his woman and she conceived"
+        "englishLiteral": "knew ↳ **Life (Eve)** his-woman, and-she-conceived",
+        "englishNatural": "knew ↳ **Life (Eve)** his woman, and she conceived"
       }
     }
   ]

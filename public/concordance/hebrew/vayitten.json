@@ -10,6 +10,7 @@
         "verse": 3
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּתֵּ֧ן",
         "transliteration": "vaYitten",
@@ -26,7 +27,7 @@
         "hebrew": "**וַיִּתֵּ֧ן** יְהוָ֛ה אֶת־",
         "transliteration": "**vaYitten** YHWH et-",
         "englishLiteral": "**And-gave** He_Who_Is (YHWH) ↳",
-        "englishNatural": "**gave** And He-Who-Is (YHWH) ↳"
+        "englishNatural": "And He-Who-Is (YHWH) **gave** ↳ grace"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיִּתֵּן",
         "transliteration": "vaYitten",
@@ -52,7 +54,7 @@
         "hebrew": "**וַיִּתֵּן** אֲדֹנָי בְּיָדוֹ",
         "transliteration": "**vaYitten** Adonai beYado",
         "englishLiteral": "**and-he-gave** Lord in-hand-his",
-        "englishNatural": "**gave** And the Lord into his hand"
+        "englishNatural": "And the Lord **gave** into his hand, ↳"
       }
     },
     {
@@ -62,6 +64,7 @@
         "verse": 3
       },
       "wordIndex": 12,
+      "sourceOrder": 12,
       "word": {
         "originalScript": "וַיִּתֵּן",
         "transliteration": "vaYitten",
@@ -77,8 +80,8 @@
       "context": {
         "hebrew": "בָּאָה תַרְשִׁישׁ **וַיִּתֵּן** שְׂכָרָהּ וַיֵּרֶד",
         "transliteration": "baah Tarshish **vaYitten** sekhorah vaYered",
-        "englishLiteral": "going golden_stone (Tarshish) **and-gave** fare-her and-went_down",
-        "englishNatural": "going to golden-stone (Tarshish) **and he paid** the fare of it and went-down"
+        "englishLiteral": "going golden_stone (Tarshish); **and-gave** fare-her, and-went_down",
+        "englishNatural": "going to golden-stone (Tarshish); **and he paid** the fare of it, and went-down"
       }
     }
   ]

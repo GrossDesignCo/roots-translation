@@ -10,6 +10,7 @@
         "verse": 32
       },
       "wordIndex": 10,
+      "sourceOrder": 10,
       "word": {
         "originalScript": "חָם",
         "transliteration": "Cham",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "שֵׁם אֶת־ **חָם** וְאֶת־ יָפֶת",
         "transliteration": "Shem et- **Cham** veEt- Yafet",
-        "englishLiteral": "Name (Shem) ↳ **Hot (Ham)** and-↳ Spacious (Japheth)",
-        "englishNatural": "Name (Shem) ↳ **Hot (Ham)** and Spacious (Japheth)"
+        "englishLiteral": "Name (Shem) ↳ **Hot (Ham)** and-↳ Spacious (Japheth).",
+        "englishNatural": "Name (Shem), ↳ **Hot (Ham),** and Spacious (Japheth)."
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 10
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "חָם",
         "transliteration": "cham",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "שֵׁם וְאֶת־ **חָם** וְאֶת־ יָפֶת",
         "transliteration": "shem veEt- **cham** veEt- yafet",
-        "englishLiteral": "Name (Shem) and-↳ **Hot (Ham)** and-↳ Spacious (Japheth)",
-        "englishNatural": "Name (Shem) and **Hot (Ham)** and Spacious (Japheth)"
+        "englishLiteral": "Name (Shem), and-↳ **Hot (Ham),** and-↳ Spacious (Japheth).",
+        "englishNatural": "Name (Shem), and **Hot (Ham),** and Spacious (Japheth)."
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "חָם",
         "transliteration": "Cham",
@@ -71,8 +74,8 @@
       "context": {
         "hebrew": "נֹחַ שֵׁם **חָם** וָיָפֶת וַיִּוָּלְדוּ",
         "transliteration": "Noach Shem **Cham** vaYafet vayivaledu",
-        "englishLiteral": "Rest (Noah) Name (Shem) **Hot (Ham)** and-Spacious (Japheth) and-were-birthed",
-        "englishNatural": "Rest (Noah) Name (Shem) **Hot (Ham)** and Spacious (Japheth) were birthed"
+        "englishLiteral": "Rest (Noah): Name (Shem), **Hot (Ham),** and-Spacious (Japheth); and-were-birthed",
+        "englishNatural": "Rest (Noah): Name (Shem), **Hot (Ham),** and Spacious (Japheth); and to them"
       }
     }
   ]

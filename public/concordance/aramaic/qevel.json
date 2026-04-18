@@ -10,6 +10,7 @@
         "verse": 40
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "קֳבֵל",
         "transliteration": "qevel",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "כְּפַרְזְלָא כָּל **קֳבֵל** דִּי פַרְזְלָא",
         "transliteration": "keParzela kol **qevel** di parzela",
-        "englishLiteral": "like-iron-the all **because** which iron-the",
-        "englishNatural": "like the iron all **because** which the iron"
+        "englishLiteral": "like-iron-the, all **because** which iron-the",
+        "englishNatural": "like the iron, all **because** which the iron"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 41
       },
       "wordIndex": 19,
+      "sourceOrder": 19,
       "word": {
         "originalScript": "קֳבֵל",
         "transliteration": "qevel",
@@ -47,8 +49,8 @@
       "context": {
         "hebrew": "בַּהּ כָּל **קֳבֵל** דִּי חֲזַיְתָ",
         "transliteration": "vah kol **qevel** di chazayta",
-        "englishLiteral": "in-it all **because** which you-saw",
-        "englishNatural": "in it all **because** which you saw"
+        "englishLiteral": "in-it, all **because** which you-saw",
+        "englishNatural": "in it, all **because** which you saw"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 45
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "קֳבֵל",
         "transliteration": "qevel",
@@ -72,7 +75,7 @@
         "hebrew": "כָּל־ **קֳבֵל** דִּי חֲזַיְתָ",
         "transliteration": "kol- **qevel** di chazayta",
         "englishLiteral": "all- **because** which you-saw",
-        "englishNatural": "All **because** which you saw"
+        "englishNatural": "All **because** which you saw,"
       }
     }
   ]

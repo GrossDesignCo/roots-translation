@@ -9,6 +9,7 @@
         "verse": 24
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "יַעֲזָב",
         "transliteration": "yaazov",
@@ -24,8 +25,8 @@
       "context": {
         "hebrew": "עַל־ כֵּן **יַעֲזָב** אִישׁ אֶת־",
         "transliteration": "al- ken **yaazov** ish et-",
-        "englishLiteral": "over- so **he-will-leave** man ↳",
-        "englishNatural": "moreover So **will leave** Man ↳"
+        "englishLiteral": "over- so, **he-will-leave** man ↳",
+        "englishNatural": "moreover, Man **will leave** ↳ his father,"
       }
     },
     {
@@ -35,6 +36,7 @@
         "verse": 8
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "יַעֲזֹבוּ",
         "transliteration": "yaazovu",
@@ -50,8 +52,8 @@
       "context": {
         "hebrew": "שָׁוְא חַסְדָּם **יַעֲזֹבוּ**",
         "transliteration": "shav chasdam **yaazovu**",
-        "englishLiteral": "emptiness steadfast_love-their **they-forsake**",
-        "englishNatural": "emptiness their steadfast-love **they forsake**"
+        "englishLiteral": "emptiness, steadfast_love-their **they-forsake.**",
+        "englishNatural": "emptiness, their steadfast-love **they forsake.**"
       }
     }
   ]

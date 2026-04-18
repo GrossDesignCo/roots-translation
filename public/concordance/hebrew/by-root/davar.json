@@ -9,6 +9,7 @@
         "verse": 1
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "וּדְבָרִים",
         "transliteration": "uDevarim",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "שָׂפָה אֶחָת **וּדְבָרִים** אֲחָדִים",
         "transliteration": "safah echat **uDevarim** achadim",
-        "englishLiteral": "lip one **and-words** ones",
-        "englishNatural": "lip one **words** and of one"
+        "englishLiteral": "lip one **and-words** ones.",
+        "englishNatural": "lip and of one **words.**"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הַדְּבָרִים",
         "transliteration": "haDvarim",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "אַחַר **הַדְּבָרִים** הָאֵלֶּה הָיָה",
         "transliteration": "achar **haDvarim** haEleh hayah",
-        "englishLiteral": "After **the-words** the-these was",
-        "englishNatural": "After **words** these was"
+        "englishLiteral": "After **the-words** the-these, was",
+        "englishNatural": "After these **words,** the word of He-Who-Is (YHWH)"
       }
     },
     {
@@ -57,6 +59,7 @@
         "verse": 1
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "דְבַר־",
         "transliteration": "devar-",
@@ -70,8 +73,8 @@
       "context": {
         "hebrew": "הָאֵלֶּה הָיָה **דְבַר־** יְהוָה אֶל־",
         "transliteration": "haEleh hayah **devar-** YHWH el-",
-        "englishLiteral": "the-these was **word-of-** He_Who_Is (YHWH) to-",
-        "englishNatural": "these was **the word of** He-Who-Is (YHWH) to"
+        "englishLiteral": "the-these, was **word-of-** He_Who_Is (YHWH) to-",
+        "englishNatural": "these words, **the word of** He-Who-Is (YHWH) was"
       }
     },
     {
@@ -81,6 +84,7 @@
         "verse": 4
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "דְבַר־",
         "transliteration": "devar-",
@@ -94,8 +98,8 @@
       "context": {
         "hebrew": "וְהִנֵּה **דְבַר־** יְהוָה אֵלָיו",
         "transliteration": "veHineh **devar-** YHWH elav",
-        "englishLiteral": "And-behold **word-of-** He_Who_Is (YHWH) to-him",
-        "englishNatural": "And behold **the word of** He-Who-Is (YHWH) came to him"
+        "englishLiteral": "And-behold **word-of-** He_Who_Is (YHWH) to-him,",
+        "englishNatural": "And behold **the word of** He-Who-Is (YHWH) came to him,"
       }
     },
     {
@@ -105,6 +109,7 @@
         "verse": 2
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "וַיְדַבֵּר",
         "transliteration": "vayDaber",
@@ -121,7 +126,7 @@
         "hebrew": "**וַיְדַבֵּר** אֱלֹהִים אֶל־",
         "transliteration": "**vayDaber** Elohim el-",
         "englishLiteral": "**And-spoke** Gods to-",
-        "englishNatural": "**spoke** And God to"
+        "englishNatural": "And God **spoke** to Drawn-Out (Moses)"
       }
     },
     {
@@ -131,6 +136,7 @@
         "verse": 2
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "תְדַבֵּר",
         "transliteration": "tedaber",
@@ -157,6 +163,7 @@
         "verse": 2
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "יְדַבֵּר",
         "transliteration": "yedaber",
@@ -183,6 +190,7 @@
         "verse": 9
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "יְדַבֵּר",
         "transliteration": "yedaber",
@@ -198,8 +206,8 @@
       "context": {
         "hebrew": "כִּי **יְדַבֵּר** אֲלֵכֶם פַּרְעֹה",
         "transliteration": "ki **yedaber** alekhem Paroh",
-        "englishLiteral": "that **will-speak** to-you Pharaoh",
-        "englishNatural": "That **will speak** to you Pharaoh"
+        "englishLiteral": "\"that **will-speak** to-you Pharaoh",
+        "englishNatural": "\"That Pharaoh **will speak** to you saying,"
       }
     },
     {
@@ -209,6 +217,7 @@
         "verse": 6
       },
       "wordIndex": 3,
+      "sourceOrder": 3,
       "word": {
         "originalScript": "דִּבְרֵי",
         "transliteration": "divre",
@@ -222,8 +231,8 @@
       "context": {
         "hebrew": "מָשָׁל וּמְלִיצָה **דִּבְרֵי** חֲכָמִים וְחִידֹתָם",
         "transliteration": "mashal uMelitzah **divre** chachamim veChidotam",
-        "englishLiteral": "rule and-interpretation **words-of** wise-men and-sharp_sayings-their",
-        "englishNatural": "a rule and the interpretation **words of** wise men and their sharp-sayings"
+        "englishLiteral": "rule and-interpretation; **words-of** wise-men and-sharp_sayings-their.",
+        "englishNatural": "a rule and the interpretation; **words of** wise men and their sharp-sayings."
       }
     },
     {
@@ -233,6 +242,7 @@
         "verse": 1
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "דִּבְרֵי֙",
         "transliteration": "divRey",
@@ -247,7 +257,7 @@
         "hebrew": "**דִּבְרֵי֙** קֹהֶ֣לֶת בֶּן־",
         "transliteration": "**divRey** qohelet ben-",
         "englishLiteral": "**Words-of** Assembler son-of",
-        "englishNatural": "**The words of** Assembler the son of"
+        "englishNatural": "**The words of** Assembler, the son of"
       }
     },
     {
@@ -257,6 +267,7 @@
         "verse": 3
       },
       "wordIndex": 2,
+      "sourceOrder": 2,
       "word": {
         "originalScript": "דְבַר־",
         "transliteration": "devar-",
@@ -271,7 +282,7 @@
         "hebrew": "הָיֹה הָיָה **דְבַר־** יְהוָה אֶל־",
         "transliteration": "hayo hayah **devar-** YHWH el-",
         "englishLiteral": "Being was **word-of-** He_Who_Is (YHWH) to-",
-        "englishNatural": "being was **The word of** He-Who-Is (YHWH) to"
+        "englishNatural": "**The word of** He-Who-Is (YHWH) was"
       }
     },
     {
@@ -281,6 +292,7 @@
         "verse": 20
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "דְּבַר",
         "transliteration": "devar",
@@ -294,8 +306,8 @@
       "context": {
         "hebrew": "וּבְכָל־ **דְּבַר** חָכְמַת בִּינָה",
         "transliteration": "uVeKol- **devar** chokhmat binah",
-        "englishLiteral": "and-in-all- **matter-of** wisdom-of understanding",
-        "englishNatural": "And in all **the matters of** the wisdom of understanding"
+        "englishLiteral": "and-in-all- **matter-of** wisdom-of understanding,",
+        "englishNatural": "And in all **the matters of** the wisdom of understanding,"
       }
     },
     {
@@ -305,6 +317,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "דְבַר־",
         "transliteration": "devar-",
@@ -319,7 +332,7 @@
         "hebrew": "וַיְהִי **דְבַר־** יְהוָה אֶל־",
         "transliteration": "vaYehi **devar-** YHWH el-",
         "englishLiteral": "And-was **word-of** He_Who_Is (YHWH) to-",
-        "englishNatural": "was **And the word of** He-Who-Is (YHWH) to"
+        "englishNatural": "**And the word of** He-Who-Is (YHWH) was"
       }
     },
     {
@@ -329,6 +342,7 @@
         "verse": 1
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "דְבַר־",
         "transliteration": "devar-",
@@ -343,7 +357,7 @@
         "hebrew": "וַיְהִי **דְבַר־** יְהוָה אֶל־",
         "transliteration": "vaYehi **devar-** YHWH el-",
         "englishLiteral": "And-was **word-of** He_Who_Is (YHWH) to-",
-        "englishNatural": "was **And the word of** He-Who-Is (YHWH) to"
+        "englishNatural": "**And the word of** He-Who-Is (YHWH) was"
       }
     },
     {
@@ -353,6 +367,7 @@
         "verse": 3
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "כִּדְבַר",
         "transliteration": "kidvar",
@@ -366,8 +381,8 @@
       "context": {
         "hebrew": "אֶל־ נִינְוֵה **כִּדְבַר** יְהוָה וְנִינְוֵה",
         "transliteration": "el- Nineveh **kidvar** YHWH veNineveh",
-        "englishLiteral": "to- Dwelling_of_Fish (Nineveh) **according-to-word-of** He_Who_Is (YHWH) And-Dwelling_of_Fish (Nineveh)",
-        "englishNatural": "to Dwelling-of-Fish (Nineveh) **according to the word of** He-Who-Is (YHWH) And Dwelling-of-Fish (Nineveh)"
+        "englishLiteral": "to- Dwelling_of_Fish (Nineveh), **according-to-word-of** He_Who_Is (YHWH). And-Dwelling_of_Fish (Nineveh)",
+        "englishNatural": "to Dwelling-of-Fish (Nineveh), **according to the word of** He-Who-Is (YHWH). And Dwelling-of-Fish (Nineveh)"
       }
     },
     {
@@ -377,6 +392,7 @@
         "verse": 6
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הַדָּבָר",
         "transliteration": "haDavar",
@@ -391,7 +407,7 @@
         "hebrew": "וַיִּגַּע **הַדָּבָר** אֶל־ מֶלֶךְ",
         "transliteration": "vaYiga **haDavar** el- melekh",
         "englishLiteral": "And-touched **the-word** to- king-of",
-        "englishNatural": "touched **And the word** to the king of"
+        "englishNatural": "**And the word** touched to"
       }
     },
     {
@@ -401,6 +417,7 @@
         "verse": 2
       },
       "wordIndex": 8,
+      "sourceOrder": 8,
       "word": {
         "originalScript": "דְבָרִי",
         "transliteration": "devari",

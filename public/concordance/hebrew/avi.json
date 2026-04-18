@@ -10,6 +10,7 @@
         "verse": 20
       },
       "wordIndex": 6,
+      "sourceOrder": 6,
       "word": {
         "originalScript": "אֲבִי",
         "transliteration": "avi",
@@ -23,8 +24,8 @@
       "context": {
         "hebrew": "הוּא הָיָה **אֲבִי** יֹשֵׁב אֹהֶל",
         "transliteration": "hu hayah **avi** yoshev ohel",
-        "englishLiteral": "he was **father-of** dwelling tent",
-        "englishNatural": "he was **father of** dwelling tent"
+        "englishLiteral": "he was **father-of** dwelling tent,",
+        "englishNatural": "he was **father of** tent dwelling,"
       }
     },
     {
@@ -34,6 +35,7 @@
         "verse": 21
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "אֲבִי",
         "transliteration": "avi",
@@ -48,7 +50,7 @@
         "hebrew": "הוּא הָיָה **אֲבִי** כָּל־ תֹּפֵשׂ",
         "transliteration": "hu hayah **avi** kol- tofes",
         "englishLiteral": "he was **father-of** all handling",
-        "englishNatural": "he was **father of** all handling"
+        "englishNatural": "he was **father of** all lyre"
       }
     },
     {
@@ -58,6 +60,7 @@
         "verse": 1
       },
       "wordIndex": 7,
+      "sourceOrder": 7,
       "word": {
         "originalScript": "אָבִ֤יא",
         "transliteration": "avi",
@@ -73,8 +76,8 @@
       "context": {
         "hebrew": "נֶ֨גַע אֶחָ֜ד **אָבִ֤יא** עַל־ פַּרְעֹה֙",
         "transliteration": "nega echad **avi** al- Paroh",
-        "englishLiteral": "touch one **I-will-bring** over- Pharaoh",
-        "englishNatural": "touch one **I will bring** over Pharaoh"
+        "englishLiteral": "touch one **I-will-bring** over- Pharaoh,",
+        "englishNatural": "one touch **I will bring** over Pharaoh"
       }
     }
   ]

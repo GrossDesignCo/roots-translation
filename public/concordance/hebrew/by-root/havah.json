@@ -9,6 +9,7 @@
         "verse": 3
       },
       "wordIndex": 4,
+      "sourceOrder": 4,
       "word": {
         "originalScript": "הָבָה",
         "transliteration": "havah",
@@ -22,8 +23,8 @@
       "context": {
         "hebrew": "אֶל־ רֵעֵהוּ **הָבָה** נִלְבְּנָה לְבֵנִים",
         "transliteration": "el- reeyhu **havah** nilvnah levenim",
-        "englishLiteral": "to- his-friend **come** let-us-make-bricks bricks",
-        "englishNatural": "to his friend **\"Come** let us make-bricks bricks"
+        "englishLiteral": "to- his-friend, **come** let-us-make-bricks bricks",
+        "englishNatural": "to his friend, **\"Come** let us make-bricks bricks"
       }
     },
     {
@@ -33,6 +34,7 @@
         "verse": 4
       },
       "wordIndex": 1,
+      "sourceOrder": 1,
       "word": {
         "originalScript": "הָבָה",
         "transliteration": "havah",
@@ -46,8 +48,8 @@
       "context": {
         "hebrew": "וַיֹּאמְרוּ **הָבָה** נִבְנֶה־ לָּנוּ",
         "transliteration": "vayYomeru **havah** nivneh- lanu",
-        "englishLiteral": "And-they-said **come** let-us-build- for-us",
-        "englishNatural": "And they said **Come** let us build for us"
+        "englishLiteral": "And-they-said, **\"come** let-us-build- for-us",
+        "englishNatural": "And they said, **\"Come** let us build for us"
       }
     }
   ]

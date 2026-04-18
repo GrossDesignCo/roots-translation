@@ -10,6 +10,7 @@
         "verse": 9
       },
       "wordIndex": 5,
+      "sourceOrder": 5,
       "word": {
         "originalScript": "יִשְׁמַ֥ע",
         "transliteration": "yishma",
@@ -25,8 +26,8 @@
       "context": {
         "hebrew": "מֹשֶׁ֔ה לֹא־ **יִשְׁמַ֥ע** אֲלֵיכֶ֖ם פַּרְעֹ֑ה",
         "transliteration": "Moshe lo- **yishma** aleykhem Paroh",
-        "englishLiteral": "Drawn_Out (Moses) not- **he-will-hear** to-you Pharaoh",
-        "englishNatural": "Drawn-Out (Moses) not **will hear** to you Pharaoh"
+        "englishLiteral": "Drawn_Out (Moses), not- **he-will-hear** to-you Pharaoh;",
+        "englishNatural": "Drawn-Out (Moses), \"Pharaoh **will hear** not to you,"
       }
     },
     {
@@ -36,6 +37,7 @@
         "verse": 5
       },
       "wordIndex": 0,
+      "sourceOrder": 0,
       "word": {
         "originalScript": "יִשְׁמַע",
         "transliteration": "yishma",
@@ -51,8 +53,8 @@
       "context": {
         "hebrew": "**יִשְׁמַע** חָכָם וְיוֹסֵף",
         "transliteration": "**yishma** chakam veYosef",
-        "englishLiteral": "**Will-hear** wise-man and-will-add",
-        "englishNatural": "**will hear** A wise man and will add"
+        "englishLiteral": "**Will-hear** wise-man, and-will-add",
+        "englishNatural": "A wise man **will hear,** and will add teaching;"
       }
     }
   ]
