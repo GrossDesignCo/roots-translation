@@ -57,7 +57,7 @@ export default function ConcordanceTable({
   if (!rows.length) return null;
 
   return (
-    <div className={styles.tableWrapper}>
+    <div className={styles.concordanceTableWrapper}>
       <h3 className={styles.title}>
         {title}
         <span className={styles.count}>{rows.length} occurrences</span>

@@ -1,4 +1,4 @@
-.tableWrapper {
+.concordanceTableWrapper {
   margin-bottom: 2rem;
 }
 
@@ -45,11 +45,16 @@
   padding: 0.4rem 0.75rem;
   border-bottom: 1px solid var(--ds-border);
   vertical-align: top;
+  white-space: nowrap;
   line-height: 1.5;
 }
 
+.table tbody tr {
+  transition: background 0.1s ease;
+}
+
 .table tbody tr:hover {
-  background: var(--ds-bg-hover);
+  background: var(--ds-bg-container-low-contrast);
 }
 
 .locationCol {
