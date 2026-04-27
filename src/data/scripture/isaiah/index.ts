@@ -6,7 +6,7 @@ export const isaiah: Book = {
   meta: {
     name: 'Isaiah',
     translationChain:
-      'יִשְׂעִיאֵל (yiShaiyel/Isaiah) → Ἠσαΐας (Ēsaias/Isaiah) → Isaias (Isaiah) → Isaiah',
+      'יִשְׂעִיאֵל (yiShaiyel/Isaiah/He-Saves) → Ἠσαΐας (Ēsaias/Isaiah) → Isaias (Isaiah) → Isaiah',
   },
   chapters: [isaiah_6, isaiah_14],
 };

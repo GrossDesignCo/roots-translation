@@ -2365,7 +2365,7 @@
         "hebrew": "וַיְשַׁלַּח **יְהוָה** בָּעָם אֵת",
         "transliteration": "vaYeshalach **YHWH** baAm et",
         "englishLiteral": "And-sent, **He_Who_Is (YHWH),** among-the-people ↳",
-        "englishNatural": "**And He-Who-Is (YHWH)** sent the snakes,"
+        "englishNatural": "**And He-Who-Is (YHWH)** sent ↳"
       }
     },
     {
@@ -2409,7 +2409,7 @@
         "hebrew": "הִתְפַּלֵּל אֶל **יְהוָה** וְיָסֵר מֵעָלֵינוּ",
         "transliteration": "hitpalel el **YHWH** veYaSer meAleinu",
         "englishLiteral": "pray to **He_Who_Is (YHWH),** and-may-he-turn_aside from-over-us",
-        "englishNatural": "pray to **He-Who-Is (YHWH),** and may he turn-aside the snake"
+        "englishNatural": "pray to **He-Who-Is (YHWH),** and may he turn-aside ↳"
       }
     },
     {
@@ -2510,6 +2510,181 @@
         "transliteration": "yitten **YHWH** lakhem uMetzena",
         "englishLiteral": "Give **He_Who_Is (YHWH)** to-you and-find",
         "englishNatural": "**He-Who-Is (YHWH)** give to you,"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְהִתְיַצֵּב עַל־ **יְהוָה׃**",
+        "transliteration": "leHityatzev al- **YHWH**",
+        "englishLiteral": "to-self-position over- **He_Who_Is (YHWH).**",
+        "englishNatural": "to position themselves over **He-Who-Is (YHWH).**"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "and He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֱלֹהִים וַיֹּאמֶר **יְהוָה** אֶל־ הַשָּׂטָן",
+        "transliteration": "haElohim vaYomer **YHWH** el- haShatan",
+        "englishLiteral": "the-Gods, And-he-said **He_Who_Is (YHWH)** to- the-Adversary (Satan)",
+        "englishNatural": "the sons of God, **and He-Who-Is (YHWH)** said to"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׂטָן אֶת־ **יְהוָה** וַיֹּאמַר מִשּׁוּט",
+        "transliteration": "haShatan et- **YHWH** vaYomar miShut",
+        "englishLiteral": "the-Adversary (Satan) ↳ **He_Who_Is (YHWH),** and-he-said \"from-roving",
+        "englishNatural": "answered ↳ **He-Who-Is (YHWH),** and said, \"from roving"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "And He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **יְהוָה** אֶל־ הַשָּׂטָן",
+        "transliteration": "vaYomer **YHWH** el- haShatan",
+        "englishLiteral": "And-he-said **He_Who_Is (YHWH)** to- the-Adversary (Satan),",
+        "englishNatural": "**And He-Who-Is (YHWH)** said to"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׂטָן אֶת־ **יְהוָה** וַיֹּאמַר הַחִנָּם",
+        "transliteration": "haShatan et- **YHWH** vaYomar haChinnam",
+        "englishLiteral": "the-Adversary (Satan) ↳ **He_Who_Is (YHWH),** and-he-said \"the-for_nothing",
+        "englishNatural": "answered ↳ **He-Who-Is (YHWH),** and said, \"Has Persecuted (Job)"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "And He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **יְהוָה** אֶל־ הַשָּׂטָן",
+        "transliteration": "vaYomer **YHWH** el- haShatan",
+        "englishLiteral": "And-he-said **He_Who_Is (YHWH)** to- the-Adversary (Satan),",
+        "englishNatural": "**And He-Who-Is (YHWH)** said to"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעִם פְּנֵי **יְהוָה׃**",
+        "transliteration": "meIm peney **YHWH**",
+        "englishLiteral": "from-with faces-of **He_Who_Is (YHWH).**",
+        "englishNatural": "from being with the face of **He-Who-Is (YHWH).**"
       }
     },
     {

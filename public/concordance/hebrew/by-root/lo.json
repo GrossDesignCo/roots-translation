@@ -1401,6 +1401,56 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "הֲלֹא־",
+        "transliteration": "haLo-",
+        "englishLiteral": "Have-not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**הֲלֹא־** אַתָּה שַׂכְתָּ",
+        "transliteration": "**haLo-** attah sakhta",
+        "englishLiteral": "**Have-not-** you have-hedged",
+        "englishNatural": "Have you **not** hedged around him"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "לֹא",
+        "transliteration": "lo",
+        "englishLiteral": "not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לוֹ אִם־ **לֹא** עַל־ פָּנֶיךָ",
+        "transliteration": "lo im- **lo** al- panekha",
+        "englishLiteral": "to-him; if- **not** over- faces-your",
+        "englishNatural": "is to him; if **not** he will bless you over"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 1

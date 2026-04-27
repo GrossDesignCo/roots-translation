@@ -30,6 +30,31 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 23,
+      "sourceOrder": 23,
+      "word": {
+        "originalScript": "בָּהּ",
+        "transliteration": "bah",
+        "englishLiteral": "in-her",
+        "englishNatural": "in it",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בָּאָרֶץ וּמֵהִתְהַלֵּךְ **בָּהּ׃**",
+        "transliteration": "baAretz umeHithalekh **bah**",
+        "englishLiteral": "in-land, and-from-self-walk **in-her.\"**",
+        "englishNatural": "in the land, and from walking **in it.\"**"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 3

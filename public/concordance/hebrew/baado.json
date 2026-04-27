@@ -1,0 +1,32 @@
+{
+  "key": "baado",
+  "language": "hebrew",
+  "root": "baad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בַעֲדוֹ",
+        "transliteration": "baado",
+        "englishLiteral": "around-him",
+        "englishNatural": "around him",
+        "root": "baad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אַתָּה שַׂכְתָּ **בַעֲדוֹ** וּבְעַד בֵּיתוֹ",
+        "transliteration": "attah sakhta **baado** uveAd beito",
+        "englishLiteral": "you have-hedged **around-him** and-around house-his,",
+        "englishNatural": "not hedged **around him** and around his house,"
+      }
+    }
+  ]
+}

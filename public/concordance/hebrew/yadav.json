@@ -1,0 +1,32 @@
+{
+  "key": "yadav",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "יָדָיו",
+        "transliteration": "yadav",
+        "englishLiteral": "hands-his",
+        "englishNatural": "his hands",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִסָּבִיב מַעֲשֵׂה **יָדָיו** בֵּרַכְתָּ וַתֶּפֶר",
+        "transliteration": "misaviv maaseh **yadav** berakhta vatefer",
+        "englishLiteral": "from-all_around? work-of **hands-his,** you-have-blessed and-you-caused-to_be_fruitful",
+        "englishNatural": "You have blessed the work of **his hands,** and you caused to-be-fruitful the abundance of"
+      }
+    }
+  ]
+}

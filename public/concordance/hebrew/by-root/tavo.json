@@ -4,6 +4,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "תָּבֹא",
+        "transliteration": "tavo",
+        "englishLiteral": "you-come",
+        "englishNatural": "do you come",
+        "root": "tavo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׂטָן מֵאַיִן **תָּבֹא** וַיַּעַן הַשָּׂטָן",
+        "transliteration": "haShatan meAyin **tavo** vaYaan haShatan",
+        "englishLiteral": "the-Adversary (Satan) \"from-where **you-come?\"** And-answered the-Adversary (Satan)",
+        "englishNatural": "the Adversary (Satan) \"from where **do you come?\"** And the Adversary (Satan) answered"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 8

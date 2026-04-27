@@ -806,6 +806,23 @@ const ROOTS = {
     englishNatural: 'to rejoice',
     type: 'verb',
   },
+  shatan: {
+    hebrew: 'שטן',
+    transliteration: 'shatan',
+    englishLiteral: 'Adversary (Satan)',
+    englishNatural: 'Adversary (Satan)',
+    type: 'noun',
+    description:
+      'Accuser, adversary; הַשָּׂטָן often as titled figure (English Satan).',
+  },
+  shut: {
+    hebrew: 'שוט',
+    transliteration: 'shut',
+    englishLiteral: 'roving',
+    englishNatural: 'roving',
+    type: 'noun',
+    description: 'Going to and fro; used in מִשּׁוּט (“from roving”).',
+  },
   shavar: {
     hebrew: 'שבר',
     transliteration: 'shavar',
@@ -1827,6 +1844,16 @@ const ROOTS = {
     type: 'noun',
     description: 'proper name, Shinar, the land of Babylonia/Mesopotamia',
   },
+  chinam: {
+    hebrew: 'חִנָּם',
+    transliteration: 'chinam',
+    englishLiteral: 'for-nothing',
+    englishNatural: 'for nothing',
+    type: 'adverb',
+    description:
+      'for free, for nothing, on grace alone, without cause; often with interrogative/definite prefix (הַחִנָּם), for naught',
+    related: ['chen'],
+  },
   // --- Added for Genesis 2:14 ---
   chidekel: {
     hebrew: 'חִדֶּקֶל',
@@ -2227,6 +2254,16 @@ const ROOTS = {
     description: 'to desire, lust after, covet',
     type: 'verb',
   },
+  sakhakh: {
+    hebrew: 'סכך',
+    transliteration: 'sakhakh',
+    englishLiteral: 'to hedge',
+    englishNatural: 'to hedge',
+    description:
+      'to hedge in, fence about, shut in or block off (qal perfect שַׂכְתָּ, Job 1:10)',
+    related: ['sukkah'],
+    type: 'verb',
+  },
   sakhal: {
     hebrew: 'שכל',
     transliteration: 'sakhal',
@@ -2482,7 +2519,17 @@ const ROOTS = {
     englishNatural: 'to multiply',
     type: 'verb',
     description: 'to multiply, increase, become many, be great, be numerous',
-    related: ['harbah', 'rav'],
+    related: ['harbah', 'rav', 'revu'],
+  },
+  revu: {
+    hebrew: 'רְבוּ',
+    transliteration: 'revu',
+    englishLiteral: 'abundance',
+    englishNatural: 'abundance',
+    type: 'noun',
+    description:
+      'abundance, fullness, plenty (construct + אֶרֶץ in Job 1:10, abundance of his land)',
+    related: ['rabah', 'rav'],
   },
   heron: {
     hebrew: 'הֵרָיוֹן',
@@ -4638,6 +4685,15 @@ const ROOTS = {
     type: 'noun',
     description: 'one who sleeps, sleeper (participle)',
     related: ['radam'],
+  },
+  ulam: {
+    hebrew: 'אולם',
+    transliteration: 'ulam',
+    englishLiteral: 'indeed_but',
+    englishNatural: 'indeed-but',
+    type: 'conjunction',
+    description:
+      'discourse pivot: but, however, nevertheless, only (often **וְאוּלָם**)',
   },
   ulay: {
     hebrew: 'אולי',

@@ -4,7 +4,7 @@ import ruth_1 from './ruth-1';
 export const ruth: Book = {
   meta: {
     name: 'Ruth',
-    translationChain: 'רוּת (Ruth) → Ῥούθ (Rhouth) → Ruth',
+    translationChain: 'רוּת (Ruth/Friend) → Ῥούθ (Rhouth) → Ruth',
   },
   chapters: [ruth_1],
 };

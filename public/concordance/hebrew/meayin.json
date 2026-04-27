@@ -1,0 +1,32 @@
+{
+  "key": "meayin",
+  "language": "hebrew",
+  "root": "ayin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "מֵאַיִן",
+        "transliteration": "meAyin",
+        "englishLiteral": "from-where",
+        "englishNatural": "from where",
+        "root": "ayin",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַשָּׂטָן **מֵאַיִן** תָּבֹא וַיַּעַן",
+        "transliteration": "el- haShatan **meAyin** tavo vaYaan",
+        "englishLiteral": "to- the-Adversary (Satan) **\"from-where** you-come?\" And-answered",
+        "englishNatural": "to the Adversary (Satan) **\"from where** do you come?\" And the Adversary (Satan)"
+      }
+    }
+  ]
+}

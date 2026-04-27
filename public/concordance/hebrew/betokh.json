@@ -130,6 +130,31 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בְּתוֹךְ",
+        "transliteration": "beTokh",
+        "englishLiteral": "in-midst-of",
+        "englishNatural": "in the midst of",
+        "root": "tokh",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "גַּם־ הַשָּׂטָן **בְּתוֹךְ** בְנֵי הָאֱלֹהִים",
+        "transliteration": "gam- haShatan **beTokh** beney haElohim",
+        "englishLiteral": "also the-Adversary (Satan) **in-midst-of** sons-of the-Gods,",
+        "englishNatural": "also came **in the midst of** the sons of God,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 16

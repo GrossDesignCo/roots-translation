@@ -26,6 +26,7 @@
     "ezekiel",
     "genesis",
     "isaiah",
+    "job",
     "jonah",
     "numbers",
     "ruth"
@@ -79,6 +80,7 @@
     "ezekiel",
     "genesis",
     "isaiah",
+    "job",
     "jonah",
     "proverbs",
     "psalms"
@@ -187,6 +189,7 @@
     "exodus",
     "genesis",
     "isaiah",
+    "job",
     "jonah",
     "numbers",
     "proverbs",
@@ -236,6 +239,7 @@
     "exodus",
     "ezekiel",
     "genesis",
+    "job",
     "jonah",
     "psalms",
     "ruth"
@@ -245,6 +249,7 @@
     "ezekiel",
     "genesis",
     "isaiah",
+    "job",
     "jonah",
     "numbers",
     "proverbs",
@@ -257,6 +262,7 @@
     "ezekiel",
     "genesis",
     "isaiah",
+    "job",
     "jonah",
     "numbers",
     "psalms",
@@ -271,6 +277,7 @@
     "ezekiel",
     "genesis",
     "isaiah",
+    "job",
     "jonah",
     "numbers",
     "psalms",
@@ -283,6 +290,7 @@
     "exodus",
     "ezekiel",
     "genesis",
+    "job",
     "jonah",
     "proverbs",
     "psalms"
@@ -314,7 +322,8 @@
     "exodus",
     "ezekiel",
     "genesis",
-    "isaiah"
+    "isaiah",
+    "job"
   ],
   "chatzot": [
     "exodus"
@@ -331,6 +340,7 @@
     "exodus",
     "genesis",
     "isaiah",
+    "job",
     "jonah"
   ],
   "be": [
@@ -338,6 +348,7 @@
     "exodus",
     "ezekiel",
     "genesis",
+    "job",
     "jonah"
   ],
   "mut": [
@@ -357,6 +368,7 @@
   "shalach": [
     "exodus",
     "genesis",
+    "job",
     "jonah",
     "numbers",
     "psalms"
@@ -386,6 +398,7 @@
     "exodus",
     "ezekiel",
     "genesis",
+    "job",
     "jonah",
     "numbers",
     "ruth"
@@ -429,6 +442,7 @@
   "atah": [
     "exodus",
     "genesis",
+    "job",
     "jonah",
     "numbers",
     "psalms"
@@ -445,6 +459,7 @@
   "sim": [
     "exodus",
     "genesis",
+    "job",
     "numbers",
     "proverbs"
   ],
@@ -452,6 +467,7 @@
     "daniel",
     "exodus",
     "genesis",
+    "job",
     "numbers",
     "proverbs",
     "psalms"
@@ -509,6 +525,7 @@
     "ezekiel",
     "genesis",
     "isaiah",
+    "job",
     "jonah",
     "numbers",
     "proverbs",
@@ -524,6 +541,7 @@
     "ezekiel",
     "genesis",
     "isaiah",
+    "job",
     "jonah",
     "numbers",
     "proverbs",
@@ -555,6 +573,12 @@
   "melkach": [
     "isaiah"
   ],
+  "shatan": [
+    "job"
+  ],
+  "shut": [
+    "job"
+  ],
   "shavar": [
     "isaiah"
   ],
@@ -577,6 +601,7 @@
     "ezekiel",
     "genesis",
     "isaiah",
+    "job",
     "jonah",
     "ruth"
   ],
@@ -618,6 +643,7 @@
     "ezekiel",
     "genesis",
     "isaiah",
+    "job",
     "proverbs",
     "psalms"
   ],
@@ -673,6 +699,7 @@
     "exodus",
     "ezekiel",
     "genesis",
+    "job",
     "jonah",
     "proverbs",
     "psalms",
@@ -823,10 +850,12 @@
     "genesis"
   ],
   "barakh": [
-    "genesis"
+    "genesis",
+    "job"
   ],
   "parah": [
-    "genesis"
+    "genesis",
+    "job"
   ],
   "male": [
     "ezekiel",
@@ -963,6 +992,7 @@
   "ayin": [
     "exodus",
     "genesis",
+    "job",
     "jonah",
     "proverbs"
   ],
@@ -1107,6 +1137,9 @@
     "daniel",
     "genesis"
   ],
+  "chinam": [
+    "job"
+  ],
   "chidekel": [
     "genesis"
   ],
@@ -1114,6 +1147,7 @@
     "exodus",
     "ezekiel",
     "genesis",
+    "job",
     "jonah",
     "psalms",
     "ruth"
@@ -1275,6 +1309,7 @@
     "ezekiel",
     "genesis",
     "isaiah",
+    "job",
     "psalms",
     "ruth"
   ],
@@ -1340,6 +1375,9 @@
     "exodus",
     "genesis"
   ],
+  "sakhakh": [
+    "job"
+  ],
   "sakhal": [
     "genesis"
   ],
@@ -1353,6 +1391,7 @@
   "gam": [
     "exodus",
     "genesis",
+    "job",
     "psalms",
     "ruth"
   ],
@@ -1376,6 +1415,7 @@
     "exodus",
     "ezekiel",
     "genesis",
+    "job",
     "jonah"
   ],
   "chagar": [
@@ -1424,6 +1464,7 @@
     "daniel",
     "exodus",
     "genesis",
+    "job",
     "ruth"
   ],
   "hi": [
@@ -1473,6 +1514,10 @@
     "genesis",
     "psalms"
   ],
+  "revu": [
+    "daniel",
+    "job"
+  ],
   "heron": [
     "genesis"
   ],
@@ -1484,6 +1529,7 @@
     "exodus",
     "ezekiel",
     "genesis",
+    "job",
     "jonah",
     "proverbs",
     "psalms",
@@ -1732,6 +1778,7 @@
   ],
   "levav": [
     "daniel",
+    "job",
     "jonah"
   ],
   "shavah": [
@@ -1812,7 +1859,8 @@
     "exodus"
   ],
   "kamo": [
-    "exodus"
+    "exodus",
+    "job"
   ],
   "charatz": [
     "exodus"
@@ -1972,6 +2020,7 @@
     "proverbs"
   ],
   "ein": [
+    "job",
     "proverbs"
   ],
   "mayan": [
@@ -2234,7 +2283,8 @@
     "jonah"
   ],
   "na_particle": [
-    "exodus"
+    "exodus",
+    "job"
   ],
   "ozen": [
     "exodus"
@@ -2352,6 +2402,9 @@
   "nirdam": [
     "jonah"
   ],
+  "ulam": [
+    "job"
+  ],
   "ulay": [
     "jonah"
   ],
@@ -2388,6 +2441,7 @@
     "jonah"
   ],
   "tavo": [
+    "job",
     "jonah"
   ],
   "ivri": [
@@ -2428,7 +2482,8 @@
     "genesis"
   ],
   "yatzav": [
-    "exodus"
+    "exodus",
+    "job"
   ],
   "rachum": [
     "exodus",
@@ -2530,6 +2585,7 @@
   ],
   "al_negative": [
     "exodus",
+    "job",
     "jonah"
   ],
   "chazaq": [
@@ -2563,6 +2619,7 @@
   "maaseh": [
     "exodus",
     "ezekiel",
+    "job",
     "jonah",
     "psalms"
   ],
@@ -2710,6 +2767,7 @@
     "daniel",
     "exodus",
     "genesis",
+    "job",
     "jonah"
   ],
   "beten": [
@@ -2751,6 +2809,7 @@
     "jonah"
   ],
   "baad": [
+    "job",
     "jonah"
   ],
   "shachat": [
@@ -2790,7 +2849,8 @@
   ],
   "raq": [
     "exodus",
-    "genesis"
+    "genesis",
+    "job"
   ],
   "atzav": [
     "genesis"
@@ -2831,7 +2891,8 @@
   "hineh": [
     "exodus",
     "ezekiel",
-    "genesis"
+    "genesis",
+    "job"
   ],
   "tzafon": [
     "ezekiel"
@@ -2845,7 +2906,8 @@
     "ezekiel"
   ],
   "saviv": [
-    "ezekiel"
+    "ezekiel",
+    "job"
   ],
   "chashmal": [
     "ezekiel"
@@ -3211,7 +3273,8 @@
   ],
   "elav": [
     "exodus",
-    "genesis"
+    "genesis",
+    "job"
   ],
   "ki_im": [
     "genesis"
@@ -3518,7 +3581,8 @@
     "exodus"
   ],
   "eved": [
-    "exodus"
+    "exodus",
+    "job"
   ],
   "kashaph": [
     "exodus"
@@ -4040,9 +4104,6 @@
     "daniel"
   ],
   "qevel": [
-    "daniel"
-  ],
-  "revu": [
     "daniel"
   ],
   "dechal": [

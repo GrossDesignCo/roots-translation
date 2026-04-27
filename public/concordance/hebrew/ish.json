@@ -325,7 +325,7 @@
         "hebrew": "הַנָּחָשׁ אֶת **אִישׁ** וְהִבִּיט אֶל",
         "transliteration": "haNachash et **ish** veHibit el",
         "englishLiteral": "the-snake ↳ **man,** and-he-looked to",
-        "englishNatural": "the snake struck **a man,** and he looked to"
+        "englishNatural": "struck ↳ **a man,** and he looked to"
       }
     },
     {
@@ -390,7 +390,7 @@
         "originalScript": "אִ֛ישׁ",
         "transliteration": "ish",
         "englishLiteral": "man",
-        "englishNatural": "A man",
+        "englishNatural": "a man",
         "root": "ish",
         "morphology": {
           "type": "noun"
@@ -400,7 +400,32 @@
         "hebrew": "**אִ֛ישׁ** הָיָ֥ה בְאֶֽרֶץ־",
         "transliteration": "**ish** hayah beEretz-",
         "englishLiteral": "**man** was in-land-",
-        "englishNatural": "**A man** there was in the land of"
+        "englishNatural": "There was **a man** in the land of Counsel (Uz),"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "אִישׁ",
+        "transliteration": "ish",
+        "englishLiteral": "man",
+        "englishNatural": "a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּמֹהוּ בָּאָרֶץ **אִישׁ** תָּם וְיָשָׁר",
+        "transliteration": "kamohu baAretz **ish** tam veYashar",
+        "englishLiteral": "like-him in-land, **man** whole and-straight,",
+        "englishNatural": "like him in the land, **a man** whole and straight,"
       }
     },
     {

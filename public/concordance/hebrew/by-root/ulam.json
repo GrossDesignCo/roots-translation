@@ -1,0 +1,31 @@
+{
+  "root": "ulam",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאוּלָם",
+        "transliteration": "veUlam",
+        "englishLiteral": "and-indeed_but",
+        "englishNatural": "and indeed-but",
+        "root": "ulam",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאוּלָם** שְׁלַח־ נָא",
+        "transliteration": "**veUlam** shelach- na",
+        "englishLiteral": "**and-indeed_but** send_out- please",
+        "englishNatural": "**and indeed-but** please send-out"
+      }
+    }
+  ]
+}

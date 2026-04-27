@@ -230,6 +230,81 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֲשֶׁר־",
+        "transliteration": "asher-",
+        "englishLiteral": "which-",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּיתוֹ וְכָל־ **אֲשֶׁר־** לוֹ מִסָּבִיב",
+        "transliteration": "beito vekhol- **asher-** lo misaviv",
+        "englishLiteral": "house-his, and-all- **which-** to-him from-all_around?",
+        "englishNatural": "his house, and all **which** is to him from all-around?"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אֲשֶׁר־",
+        "transliteration": "asher-",
+        "englishLiteral": "which-",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְגַע בְּכָל־ **אֲשֶׁר־** לוֹ אִם־",
+        "transliteration": "veGa bekhol- **asher-** lo im-",
+        "englishLiteral": "and-touch in-all- **which-** to-him; if-",
+        "englishNatural": "and touch in all **which** is to him; if"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אֲשֶׁר־",
+        "transliteration": "asher-",
+        "englishLiteral": "which-",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "הִנֵּה כָל־ **אֲשֶׁר־** לוֹ בְּיָדֶךָ",
+        "transliteration": "hineh khol- **asher-** lo beYadekha",
+        "englishLiteral": "\"behold all- **which-** to-him in-hand-your;",
+        "englishNatural": "\"Behold all **which** is to him is in your hand;"
+      }
+    },
+    {
+      "location": {
         "book": "Daniel",
         "chapter": 1,
         "verse": 20

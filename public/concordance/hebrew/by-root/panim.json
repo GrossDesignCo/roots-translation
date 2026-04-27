@@ -879,6 +879,56 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "פָּנֶיךָ",
+        "transliteration": "panekha",
+        "englishLiteral": "faces-your",
+        "englishNatural": "your face",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא עַל־ **פָּנֶיךָ** יְבָרְכֶךָ׃",
+        "transliteration": "lo al- **panekha** yevarKhekha",
+        "englishLiteral": "not over- **faces-your** he-will-bless-you.",
+        "englishNatural": "he will bless you over **your face.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "פְּנֵי",
+        "transliteration": "peney",
+        "englishLiteral": "faces-of",
+        "englishNatural": "the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׂטָן מֵעִם **פְּנֵי** יְהוָה׃",
+        "transliteration": "haShatan meIm **peney** YHWH",
+        "englishLiteral": "the-Adversary (Satan) from-with **faces-of** He_Who_Is (YHWH).",
+        "englishNatural": "went out from being with **the face of** He-Who-Is (YHWH)."
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 23,
         "verse": 5

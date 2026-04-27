@@ -16,7 +16,7 @@ export const numbers_21_6: Verse = {
       prefixes: ['va'],
       order: {
         hebrew: 1,
-        english: 2, // In English, "LORD" comes first
+        english: 2,
       },
       morphology: {
         gender: 'masculine',
@@ -41,7 +41,7 @@ export const numbers_21_6: Verse = {
       root: 'yhwh',
       order: {
         hebrew: 2,
-        english: 1, // Subject comes first in English
+        english: 1,
       },
       morphology: {
         gender: 'masculine',
@@ -64,7 +64,7 @@ export const numbers_21_6: Verse = {
       prefixes: ['ba', 'ha'],
       order: {
         hebrew: 3,
-        english: 5, // Object after verb and subject in English
+        english: 6,
       },
       morphology: {
         gender: 'masculine',
@@ -81,9 +81,10 @@ export const numbers_21_6: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
+      // english 3: immediately before הַנְּחָשִׁים (4); empty englishNatural skipped in buildVerseText
       order: {
         hebrew: 4,
-        english: 0, // Direct object marker not translated
+        english: 3,
       },
       morphology: {
         type: 'particle',
@@ -99,7 +100,7 @@ export const numbers_21_6: Verse = {
       suffixes: ['im'],
       order: {
         hebrew: 5,
-        english: 3, // Direct object after verb
+        english: 4,
       },
       morphology: {
         gender: 'masculine',
@@ -121,7 +122,7 @@ export const numbers_21_6: Verse = {
       suffixes: ['im'],
       order: {
         hebrew: 6,
-        english: 4,
+        english: 5,
       },
       morphology: {
         gender: 'masculine',
@@ -143,7 +144,7 @@ export const numbers_21_6: Verse = {
       suffixes: ['u'],
       order: {
         hebrew: 7,
-        english: 6,
+        english: 7,
       },
       morphology: {
         gender: 'masculine',
@@ -161,9 +162,10 @@ export const numbers_21_6: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
+      // english 8: immediately before הָעָם (9); empty englishNatural skipped in buildVerseText
       order: {
         hebrew: 8,
-        english: 0, // Direct object marker not translated
+        english: 8,
       },
       morphology: {
         type: 'particle',
@@ -178,7 +180,7 @@ export const numbers_21_6: Verse = {
       prefixes: ['ha'],
       order: {
         hebrew: 9,
-        english: 7,
+        english: 9,
       },
       morphology: {
         gender: 'masculine',
@@ -199,7 +201,7 @@ export const numbers_21_6: Verse = {
       prefixes: ['va'],
       order: {
         hebrew: 10,
-        english: 11, // Order shifts in English
+        english: 13,
       },
       morphology: {
         gender: 'masculine',
@@ -228,7 +230,7 @@ export const numbers_21_6: Verse = {
       root: 'am',
       order: {
         hebrew: 11,
-        english: 9, // Subject of the second clause
+        english: 11,
       },
       morphology: {
         gender: 'masculine',
@@ -248,7 +250,7 @@ export const numbers_21_6: Verse = {
       root: 'rav',
       order: {
         hebrew: 12,
-        english: 8,
+        english: 10,
       },
       morphology: {
         gender: 'masculine',
@@ -271,7 +273,7 @@ export const numbers_21_6: Verse = {
       prefixes: ['mi'],
       order: {
         hebrew: 13,
-        english: 10,
+        english: 12,
       },
       morphology: {
         gender: 'masculine',
@@ -296,6 +298,6 @@ export const numbers_21_6: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) sent the snakes, the incinerating-ones, among the people, and they struck the people; and many people of Struggles-with-God (Israel) died.',
     kjv: 'And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-04-27' },
   },
 };

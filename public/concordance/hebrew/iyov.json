@@ -27,6 +27,56 @@
         "englishLiteral": "in-land- Counsel (Uz), **Persecuted (Job)** his-name; and-was",
         "englishNatural": "in the land of Counsel (Uz), **Persecuted (Job)** his name; and that"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אִיּוֹב",
+        "transliteration": "Iyov",
+        "englishLiteral": "Persecuted (Job)",
+        "englishNatural": "Persecuted (Job)",
+        "root": "iyov",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ עַבְדִּי **אִיּוֹב** כִּי אֵין",
+        "transliteration": "al- avdi **Iyov** ki ein",
+        "englishLiteral": "over- servant-my **Persecuted (Job),** that nothing",
+        "englishNatural": "over my servant **Persecuted (Job),** that there is none"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אִיּוֹב",
+        "transliteration": "Iyov",
+        "englishLiteral": "Persecuted (Job)",
+        "englishNatural": "Has Persecuted (Job)",
+        "root": "iyov",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַחִנָּם יָרֵא **אִיּוֹב** אֱלֹהִים׃",
+        "transliteration": "haChinnam yare **Iyov** Elohim",
+        "englishLiteral": "\"the-for_nothing has-feared **Persecuted (Job)** Gods?\"",
+        "englishNatural": "He-Who-Is (YHWH), and said, **\"Has Persecuted (Job)** feared God"
+      }
     }
   ]
 }

@@ -4,6 +4,56 @@
   "occurrences": [
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בַעֲדוֹ",
+        "transliteration": "baado",
+        "englishLiteral": "around-him",
+        "englishNatural": "around him",
+        "root": "baad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אַתָּה שַׂכְתָּ **בַעֲדוֹ** וּבְעַד בֵּיתוֹ",
+        "transliteration": "attah sakhta **baado** uveAd beito",
+        "englishLiteral": "you have-hedged **around-him** and-around house-his,",
+        "englishNatural": "not hedged **around him** and around his house,"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וּבְעַד",
+        "transliteration": "uveAd",
+        "englishLiteral": "and-around",
+        "englishNatural": "and around",
+        "root": "baad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "שַׂכְתָּ בַעֲדוֹ **וּבְעַד** בֵּיתוֹ וְכָל־",
+        "transliteration": "sakhta baado **uveAd** beito vekhol-",
+        "englishLiteral": "have-hedged around-him **and-around** house-his, and-all-",
+        "englishNatural": "hedged around him **and around** his house, and all"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 2,
         "verse": 6

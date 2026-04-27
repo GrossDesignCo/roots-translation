@@ -5,6 +5,56 @@
   "occurrences": [
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "יָדְךָ",
+        "transliteration": "yadekha",
+        "englishLiteral": "hand-your",
+        "englishNatural": "your hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁלַח־ נָא **יָדְךָ** וְגַע בְּכָל־",
+        "transliteration": "shelach- na **yadekha** veGa bekhol-",
+        "englishLiteral": "send_out- please **hand-your,** and-touch in-all-",
+        "englishNatural": "please send-out **your hand,** and touch in all"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "יָדֶךָ",
+        "transliteration": "yadekha",
+        "englishLiteral": "hand-your",
+        "englishNatural": "your hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תִּשְׁלַח **יָדֶךָ** וַיֵּצֵא הַשָּׂטָן",
+        "transliteration": "al- tishlach **yadekha** vaYetse haShatan",
+        "englishLiteral": "not- you-will-send_out **hand-your.\"** And-he-went_out the-Adversary (Satan)",
+        "englishNatural": "do not send-out **your hand.\"** And the Adversary (Satan) went out"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 6

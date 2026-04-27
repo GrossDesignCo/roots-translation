@@ -1,0 +1,31 @@
+{
+  "root": "shut",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 20,
+      "sourceOrder": 20,
+      "word": {
+        "originalScript": "מִשּׁוּט",
+        "transliteration": "miShut",
+        "englishLiteral": "from-roving",
+        "englishNatural": "from roving",
+        "root": "shut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה וַיֹּאמַר **מִשּׁוּט** בָּאָרֶץ וּמֵהִתְהַלֵּךְ",
+        "transliteration": "YHWH vaYomar **miShut** baAretz umeHithalekh",
+        "englishLiteral": "He_Who_Is (YHWH), and-he-said **\"from-roving** in-land, and-from-self-walk",
+        "englishNatural": "He-Who-Is (YHWH), and said, **\"from roving** in the land, and from walking"
+      }
+    }
+  ]
+}

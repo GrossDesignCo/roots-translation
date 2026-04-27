@@ -52,6 +52,31 @@
         "englishLiteral": "again, to-see **faces-your.\"**",
         "englishNatural": "again to see **your face.\"**"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "פָּנֶיךָ",
+        "transliteration": "panekha",
+        "englishLiteral": "faces-your",
+        "englishNatural": "your face",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא עַל־ **פָּנֶיךָ** יְבָרְכֶךָ׃",
+        "transliteration": "lo al- **panekha** yevarKhekha",
+        "englishLiteral": "not over- **faces-your** he-will-bless-you.",
+        "englishNatural": "he will bless you over **your face.**"
+      }
     }
   ]
 }

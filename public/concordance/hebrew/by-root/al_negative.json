@@ -54,6 +54,31 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "do not",
+        "root": "al_negative",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "רַק אֵלָיו **אַל־** תִּשְׁלַח יָדֶךָ",
+        "transliteration": "raq elav **al-** tishlach yadekha",
+        "englishLiteral": "only to-him **not-** you-will-send_out hand-your.\"",
+        "englishNatural": "only to him **do not** send-out your hand.\""
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 14

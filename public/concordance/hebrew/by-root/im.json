@@ -179,6 +179,31 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אִם־",
+        "transliteration": "im-",
+        "englishLiteral": "if-",
+        "englishNatural": "if",
+        "root": "im",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ לוֹ **אִם־** לֹא עַל־",
+        "transliteration": "asher- lo **im-** lo al-",
+        "englishLiteral": "which- to-him; **if-** not over-",
+        "englishNatural": "which is to him; **if** not he will bless you"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 2

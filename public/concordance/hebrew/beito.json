@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בֵּיתוֹ",
+        "transliteration": "beito",
+        "englishLiteral": "house-his",
+        "englishNatural": "his house",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַעֲדוֹ וּבְעַד **בֵּיתוֹ** וְכָל־ אֲשֶׁר־",
+        "transliteration": "baado uveAd **beito** vekhol- asher-",
+        "englishLiteral": "around-him and-around **house-his,** and-all- which-",
+        "englishNatural": "around him and around **his house,** and all which"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 3

@@ -2651,6 +2651,106 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הָאֱלֹהִים",
+        "transliteration": "haElohim",
+        "englishLiteral": "the-Gods",
+        "englishNatural": "God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּבֹאוּ בְנֵי **הָאֱלֹהִים** לְהִתְיַצֵּב עַל־",
+        "transliteration": "vayYavou beney **haElohim** leHityatzev al-",
+        "englishLiteral": "and-they-came sons-of **the-Gods** to-self-position over-",
+        "englishNatural": "the day, and the sons of **God** came to position themselves"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הָאֱלֹהִים",
+        "transliteration": "haElohim",
+        "englishLiteral": "the-Gods",
+        "englishNatural": "God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּתוֹךְ בְנֵי **הָאֱלֹהִים** וַיֹּאמֶר יְהוָה",
+        "transliteration": "beTokh beney **haElohim** vaYomer YHWH",
+        "englishLiteral": "in-midst-of sons-of **the-Gods,** And-he-said He_Who_Is (YHWH)",
+        "englishNatural": "in the midst of the sons of **God,** and He-Who-Is (YHWH) said"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "אֱלֹהִים",
+        "transliteration": "Elohim",
+        "englishLiteral": "Gods",
+        "englishNatural": "God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְיָשָׁר יְרֵא **אֱלֹהִים** וְסָר מֵרָע׃",
+        "transliteration": "veYashar yare **Elohim** veSar meRa",
+        "englishLiteral": "and-straight, fearing **Gods,** and-turning_aside from-bad?\"",
+        "englishNatural": "and straight, fearing **God,** and turning-aside from bad?\""
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אֱלֹהִים",
+        "transliteration": "Elohim",
+        "englishLiteral": "Gods",
+        "englishNatural": "God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָרֵא אִיּוֹב **אֱלֹהִים׃**",
+        "transliteration": "yare Iyov **Elohim**",
+        "englishLiteral": "has-feared Persecuted (Job) **Gods?\"**",
+        "englishNatural": "\"Has Persecuted (Job) feared **God** for-nothing?\""
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 5

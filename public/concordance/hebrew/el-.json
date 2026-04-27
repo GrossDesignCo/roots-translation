@@ -1352,6 +1352,81 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **אֶל־** הַשָּׂטָן מֵאַיִן",
+        "transliteration": "vaYomer YHWH **el-** haShatan meAyin",
+        "englishLiteral": "And-he-said He_Who_Is (YHWH) **to-** the-Adversary (Satan) \"from-where",
+        "englishNatural": "and He-Who-Is (YHWH) said **to** the Adversary (Satan) \"from where"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **אֶל־** הַשָּׂטָן הֲשַׂמַתָּ",
+        "transliteration": "vaYomer YHWH **el-** haShatan haShamta",
+        "englishLiteral": "And-he-said He_Who_Is (YHWH) **to-** the-Adversary (Satan), \"have-you-placed",
+        "englishNatural": "And He-Who-Is (YHWH) said **to** the Adversary (Satan), \"Have you placed"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **אֶל־** הַשָּׂטָן הִנֵּה",
+        "transliteration": "vaYomer YHWH **el-** haShatan hineh",
+        "englishLiteral": "And-he-said He_Who_Is (YHWH) **to-** the-Adversary (Satan), \"behold",
+        "englishNatural": "And He-Who-Is (YHWH) said **to** the Adversary (Satan), \"Behold"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 131,
         "verse": 3

@@ -152,6 +152,31 @@
         "englishLiteral": "In-bone-of **the-day** the-this he-came",
         "englishNatural": "In the bone of **the day** the this, Rest (Noah)"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַיּוֹם",
+        "transliteration": "haYom",
+        "englishLiteral": "the-day",
+        "englishNatural": "the day",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **הַיּוֹם** וַיָּבֹאוּ בְנֵי",
+        "transliteration": "vayHi **haYom** vayYavou beney",
+        "englishLiteral": "And-was **the-day,** and-they-came sons-of",
+        "englishNatural": "And it came to be **the day,** and the sons of God"
+      }
     }
   ]
 }

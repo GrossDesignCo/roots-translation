@@ -977,6 +977,31 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "כִּי",
+        "transliteration": "ki",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "עַבְדִּי אִיּוֹב **כִּי** אֵין כָּמֹהוּ",
+        "transliteration": "avdi Iyov **ki** ein kamohu",
+        "englishLiteral": "servant-my Persecuted (Job), **that** nothing like-him",
+        "englishNatural": "my servant Persecuted (Job), **that** there is none like him"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 2

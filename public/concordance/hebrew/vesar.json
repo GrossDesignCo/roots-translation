@@ -32,6 +32,33 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "וְסָר",
+        "transliteration": "veSar",
+        "englishLiteral": "and-turning_aside",
+        "englishNatural": "and turning-aside",
+        "root": "sur",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְרֵא אֱלֹהִים **וְסָר** מֵרָע׃",
+        "transliteration": "yare Elohim **veSar** meRa",
+        "englishLiteral": "fearing Gods, **and-turning_aside** from-bad?\"",
+        "englishNatural": "fearing God, **and turning-aside** from bad?\""
+      }
+    },
+    {
+      "location": {
         "book": "Isaiah",
         "chapter": 6,
         "verse": 7

@@ -27,6 +27,31 @@
         "englishLiteral": "Gods, and-turning_aside **from-bad.**",
         "englishNatural": "God, and turning-aside **from bad.**"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "מֵרָע",
+        "transliteration": "meRa",
+        "englishLiteral": "from-bad",
+        "englishNatural": "from bad",
+        "root": "ra",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים וְסָר **מֵרָע׃**",
+        "transliteration": "Elohim veSar **meRa**",
+        "englishLiteral": "Gods, and-turning_aside **from-bad?\"**",
+        "englishNatural": "God, and turning-aside **from bad?\"**"
+      }
     }
   ]
 }

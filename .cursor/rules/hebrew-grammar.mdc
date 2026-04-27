@@ -55,6 +55,8 @@ For `englishNatural`, you have more flexibility to follow natural English clause
 
 **Do not** put English **words** or phrases in these fields (e.g. not `grammarPrefix: { englishNatural: 'and ' }`). Lexical English belongs in `englishLiteral` and `englishNatural` on the word, or in the gloss implied by `prefixes` / `suffixes` and the dictionary.
 
+**Quotation marks (dialogue / framed speech):** Treat `"` / `'` like other punctuation here—on `grammarPrefix` / `grammarSuffix`, not inside the lexical `englishLiteral` / `englishNatural` string for Hebrew words. When the same quoted span appears in both renderings (the usual case), set **both** `englishLiteral` and `englishNatural` on that grammar field (e.g. opening `grammarPrefix: { englishLiteral: '"', englishNatural: '"' }`). Omitting one key drops the mark for that column in `buildVerseText` and is a frequent cause of “missing quotes” in natural English. Closing marks combine with clause punctuation as needed (`.'"` / `,"` / `?"`). Reference pattern: `src/data/scripture/exodus/exodus-5/exodus-5-3.ts`.
+
 When natural English **word order** needs a conjunction or other function word to surface on a different token than in Hebrew, express it in that word’s `englishNatural` (and use `order.english` as needed). Example: Job 1:1 — וְהָיָה הָאִישׁ הַהוּא as “and that man was” in natural English uses `englishNatural: 'and that'` on הַהוּא and `was` on וְהָיָה, not a grammar prefix carrying `and`.
 
 ## English Clause Commas (Natural Only)

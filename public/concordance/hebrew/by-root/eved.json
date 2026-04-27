@@ -101,6 +101,31 @@
         "englishLiteral": "he and-all- **servants-his** and-all- Double_Narrows (Egypt);",
         "englishNatural": "he and all **his servants** and all Double-Narrows (Egypt),"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "עַבְדִּי",
+        "transliteration": "avdi",
+        "englishLiteral": "servant-my",
+        "englishNatural": "my servant",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְבָבְךָ עַל־ **עַבְדִּי** אִיּוֹב כִּי",
+        "transliteration": "leVavkha al- **avdi** Iyov ki",
+        "englishLiteral": "to-heart-your over- **servant-my** Persecuted (Job), that",
+        "englishNatural": "your heart over **my servant** Persecuted (Job), that"
+      }
     }
   ]
 }

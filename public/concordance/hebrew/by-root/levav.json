@@ -4,6 +4,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "לְבָבְךָ",
+        "transliteration": "leVavkha",
+        "englishLiteral": "to-heart-your",
+        "englishNatural": "your heart",
+        "root": "levav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׂטָן הֲשַׂמַתָּ **לְבָבְךָ** עַל־ עַבְדִּי",
+        "transliteration": "haShatan haShamta **leVavkha** al- avdi",
+        "englishLiteral": "the-Adversary (Satan), \"have-you-placed **to-heart-your** over- servant-my",
+        "englishNatural": "the Adversary (Satan), \"Have you placed **your heart** over my servant"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 2,
         "verse": 3

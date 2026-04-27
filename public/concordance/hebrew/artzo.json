@@ -1,0 +1,32 @@
+{
+  "key": "artzo",
+  "language": "hebrew",
+  "root": "eretz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "אַרְצוֹ",
+        "transliteration": "artzo",
+        "englishLiteral": "land-his",
+        "englishNatural": "his land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֶּפֶר רְבוּ **אַרְצוֹ׃**",
+        "transliteration": "vatefer revu **artzo**",
+        "englishLiteral": "and-you-caused-to_be_fruitful abundance-of **land-his.**",
+        "englishNatural": "and you caused to-be-fruitful the abundance of **his land.**"
+      }
+    }
+  ]
+}

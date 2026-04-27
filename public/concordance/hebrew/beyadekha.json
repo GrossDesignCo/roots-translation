@@ -1,0 +1,32 @@
+{
+  "key": "beyadekha",
+  "language": "hebrew",
+  "root": "yad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "בְּיָדֶךָ",
+        "transliteration": "beYadekha",
+        "englishLiteral": "in-hand-your",
+        "englishNatural": "is in your hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ לוֹ **בְּיָדֶךָ** רַק אֵלָיו",
+        "transliteration": "asher- lo **beYadekha** raq elav",
+        "englishLiteral": "which- to-him **in-hand-your;** only to-him",
+        "englishNatural": "which is to him **is in your hand;** only to him"
+      }
+    }
+  ]
+}

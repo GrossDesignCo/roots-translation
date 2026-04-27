@@ -1254,6 +1254,56 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בְנֵי",
+        "transliteration": "beney",
+        "englishLiteral": "sons-of",
+        "englishNatural": "and the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיּוֹם וַיָּבֹאוּ **בְנֵי** הָאֱלֹהִים לְהִתְיַצֵּב",
+        "transliteration": "haYom vayYavou **beney** haElohim leHityatzev",
+        "englishLiteral": "the-day, and-they-came **sons-of** the-Gods to-self-position",
+        "englishNatural": "And it came to be the day, **and the sons of** God came"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בְנֵי",
+        "transliteration": "beney",
+        "englishLiteral": "sons-of",
+        "englishNatural": "the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׂטָן בְּתוֹךְ **בְנֵי** הָאֱלֹהִים וַיֹּאמֶר",
+        "transliteration": "haShatan beTokh **beney** haElohim vaYomer",
+        "englishLiteral": "the-Adversary (Satan) in-midst-of **sons-of** the-Gods, And-he-said",
+        "englishNatural": "came in the midst of **the sons of** God, and He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 4

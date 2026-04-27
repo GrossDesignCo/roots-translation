@@ -227,6 +227,31 @@
         "englishLiteral": "And-they-died **also-** two-of-them Sickness (Mahlon)",
         "englishNatural": "**And also** the two of them Sickness (Mahlon)"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "גַּם־",
+        "transliteration": "gam-",
+        "englishLiteral": "also",
+        "englishNatural": "also",
+        "root": "gam",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הַהוּא וַיָּבֹא **גַּם־** הַשָּׂטָן בְּתוֹךְ",
+        "transliteration": "haHu vayYavo **gam-** haShatan beTokh",
+        "englishLiteral": "the-that, And-he-came **also** the-Adversary (Satan) in-midst-of",
+        "englishNatural": "day, and the Adversary (Satan) **also** came in the midst of"
+      }
     }
   ]
 }

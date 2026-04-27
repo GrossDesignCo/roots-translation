@@ -26,6 +26,31 @@
         "englishLiteral": "speak- **please** in-ears-of the-people;",
         "englishNatural": "Speak **please** in the ears of the people,"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "נָא",
+        "transliteration": "na",
+        "englishLiteral": "please",
+        "englishNatural": "please",
+        "root": "na_particle",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאוּלָם שְׁלַח־ **נָא** יָדְךָ וְגַע",
+        "transliteration": "veUlam shelach- **na** yadekha veGa",
+        "englishLiteral": "and-indeed_but send_out- **please** hand-your, and-touch",
+        "englishNatural": "and indeed-but **please** send-out your hand,"
+      }
     }
   ]
 }

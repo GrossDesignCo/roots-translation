@@ -229,6 +229,31 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הִנֵּה",
+        "transliteration": "hineh",
+        "englishLiteral": "behold",
+        "englishNatural": "Behold",
+        "root": "hineh",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַשָּׂטָן **הִנֵּה** כָל־ אֲשֶׁר־",
+        "transliteration": "el- haShatan **hineh** khol- asher-",
+        "englishLiteral": "to- the-Adversary (Satan), **\"behold** all- which-",
+        "englishNatural": "to the Adversary (Satan), **\"Behold** all which"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 4

@@ -202,6 +202,31 @@
         "englishLiteral": "and-all- servants-his **and-all-** Double_Narrows (Egypt); and-was",
         "englishNatural": "and all his servants **and all** Double-Narrows (Egypt), and a great"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְכָל־",
+        "transliteration": "vekhol-",
+        "englishLiteral": "and-all-",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְעַד בֵּיתוֹ **וְכָל־** אֲשֶׁר־ לוֹ",
+        "transliteration": "uveAd beito **vekhol-** asher- lo",
+        "englishLiteral": "and-around house-his, **and-all-** which- to-him",
+        "englishNatural": "and around his house, **and all** which is to him"
+      }
     }
   ]
 }

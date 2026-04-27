@@ -32,6 +32,60 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "וַיֹּאמַר",
+        "transliteration": "vaYomar",
+        "englishLiteral": "and-he-said",
+        "englishNatural": "and said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ יְהוָה **וַיֹּאמַר** מִשּׁוּט בָּאָרֶץ",
+        "transliteration": "et- YHWH **vaYomar** miShut baAretz",
+        "englishLiteral": "↳ He_Who_Is (YHWH), **and-he-said** \"from-roving in-land,",
+        "englishNatural": "↳ He-Who-Is (YHWH), **and said,** \"from roving in the land,"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וַיֹּאמַר",
+        "transliteration": "vaYomar",
+        "englishLiteral": "and-he-said",
+        "englishNatural": "and said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ יְהוָה **וַיֹּאמַר** הַחִנָּם יָרֵא",
+        "transliteration": "et- YHWH **vaYomar** haChinnam yare",
+        "englishLiteral": "↳ He_Who_Is (YHWH), **and-he-said** \"the-for_nothing has-feared",
+        "englishNatural": "↳ He-Who-Is (YHWH), **and said,** \"Has Persecuted (Job) feared"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 3,
         "verse": 4

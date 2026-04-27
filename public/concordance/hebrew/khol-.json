@@ -52,6 +52,31 @@
         "englishLiteral": "over- faces-of **all-** the-land, and-they-ceased",
         "englishNatural": "over the face of **all** the land; and they ceased"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "כָל־",
+        "transliteration": "khol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׂטָן הִנֵּה **כָל־** אֲשֶׁר־ לוֹ",
+        "transliteration": "haShatan hineh **khol-** asher- lo",
+        "englishLiteral": "the-Adversary (Satan), \"behold **all-** which- to-him",
+        "englishNatural": "the Adversary (Satan), \"Behold **all** which is to him"
+      }
     }
   ]
 }

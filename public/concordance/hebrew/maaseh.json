@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "מַעֲשֵׂה",
+        "transliteration": "maaseh",
+        "englishLiteral": "work-of",
+        "englishNatural": "the work of",
+        "root": "maaseh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לוֹ מִסָּבִיב **מַעֲשֵׂה** יָדָיו בֵּרַכְתָּ",
+        "transliteration": "lo misaviv **maaseh** yadav berakhta",
+        "englishLiteral": "to-him from-all_around? **work-of** hands-his, you-have-blessed",
+        "englishNatural": "from all-around? You have blessed **the work of** his hands, and you caused to-be-fruitful"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 3

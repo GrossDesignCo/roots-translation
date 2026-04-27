@@ -254,6 +254,81 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "לוֹ",
+        "transliteration": "lo",
+        "englishLiteral": "to-him",
+        "englishNatural": "is to him",
+        "root": "la",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ אֲשֶׁר־ **לוֹ** מִסָּבִיב מַעֲשֵׂה",
+        "transliteration": "vekhol- asher- **lo** misaviv maaseh",
+        "englishLiteral": "and-all- which- **to-him** from-all_around? work-of",
+        "englishNatural": "and all which **is to him** from all-around? You have blessed"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לוֹ",
+        "transliteration": "lo",
+        "englishLiteral": "to-him",
+        "englishNatural": "is to him",
+        "root": "la",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בְּכָל־ אֲשֶׁר־ **לוֹ** אִם־ לֹא",
+        "transliteration": "bekhol- asher- **lo** im- lo",
+        "englishLiteral": "in-all- which- **to-him;** if- not",
+        "englishNatural": "in all which **is to him;** if not"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לוֹ",
+        "transliteration": "lo",
+        "englishLiteral": "to-him",
+        "englishNatural": "is to him",
+        "root": "la",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כָל־ אֲשֶׁר־ **לוֹ** בְּיָדֶךָ רַק",
+        "transliteration": "khol- asher- **lo** beYadekha raq",
+        "englishLiteral": "all- which- **to-him** in-hand-your; only",
+        "englishNatural": "all which **is to him** is in your hand; only"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 18

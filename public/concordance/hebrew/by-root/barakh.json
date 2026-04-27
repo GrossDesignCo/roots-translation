@@ -244,6 +244,60 @@
         "englishLiteral": "and-one-treating-you-lightly, I-will-curse, **and-they-will-be-blessed** in-you, all",
         "englishNatural": "and the one treating you lightly, I will curse, **and they will be blessed** in you, all"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "בֵּרַכְתָּ",
+        "transliteration": "berakhta",
+        "englishLiteral": "you-have-blessed",
+        "englishNatural": "You have blessed",
+        "root": "barakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מַעֲשֵׂה יָדָיו **בֵּרַכְתָּ** וַתֶּפֶר רְבוּ",
+        "transliteration": "maaseh yadav **berakhta** vatefer revu",
+        "englishLiteral": "work-of hands-his, **you-have-blessed** and-you-caused-to_be_fruitful abundance-of",
+        "englishNatural": "is to him from all-around? **You have blessed** the work of his hands,"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "יְבָרְכֶךָ",
+        "transliteration": "yevarKhekha",
+        "englishLiteral": "he-will-bless-you",
+        "englishNatural": "he will bless you",
+        "root": "barakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ פָּנֶיךָ **יְבָרְכֶךָ׃**",
+        "transliteration": "al- panekha **yevarKhekha**",
+        "englishLiteral": "over- faces-your **he-will-bless-you.**",
+        "englishNatural": "if not **he will bless you** over your face."
+      }
     }
   ]
 }

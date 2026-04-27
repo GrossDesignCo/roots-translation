@@ -246,6 +246,33 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הֲשַׂמַתָּ",
+        "transliteration": "haShamta",
+        "englishLiteral": "have-you-placed",
+        "englishNatural": "Have you placed",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַשָּׂטָן **הֲשַׂמַתָּ** לְבָבְךָ עַל־",
+        "transliteration": "el- haShatan **haShamta** leVavkha al-",
+        "englishLiteral": "to- the-Adversary (Satan), **\"have-you-placed** to-heart-your over-",
+        "englishNatural": "to the Adversary (Satan), **\"Have you placed** your heart over"
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 8,
         "verse": 29

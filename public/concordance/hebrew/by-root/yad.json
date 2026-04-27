@@ -429,6 +429,106 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "יָדָיו",
+        "transliteration": "yadav",
+        "englishLiteral": "hands-his",
+        "englishNatural": "his hands",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִסָּבִיב מַעֲשֵׂה **יָדָיו** בֵּרַכְתָּ וַתֶּפֶר",
+        "transliteration": "misaviv maaseh **yadav** berakhta vatefer",
+        "englishLiteral": "from-all_around? work-of **hands-his,** you-have-blessed and-you-caused-to_be_fruitful",
+        "englishNatural": "You have blessed the work of **his hands,** and you caused to-be-fruitful the abundance of"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "יָדְךָ",
+        "transliteration": "yadekha",
+        "englishLiteral": "hand-your",
+        "englishNatural": "your hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁלַח־ נָא **יָדְךָ** וְגַע בְּכָל־",
+        "transliteration": "shelach- na **yadekha** veGa bekhol-",
+        "englishLiteral": "send_out- please **hand-your,** and-touch in-all-",
+        "englishNatural": "please send-out **your hand,** and touch in all"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "בְּיָדֶךָ",
+        "transliteration": "beYadekha",
+        "englishLiteral": "in-hand-your",
+        "englishNatural": "is in your hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ לוֹ **בְּיָדֶךָ** רַק אֵלָיו",
+        "transliteration": "asher- lo **beYadekha** raq elav",
+        "englishLiteral": "which- to-him **in-hand-your;** only to-him",
+        "englishNatural": "which is to him **is in your hand;** only to him"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "יָדֶךָ",
+        "transliteration": "yadekha",
+        "englishLiteral": "hand-your",
+        "englishNatural": "your hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תִּשְׁלַח **יָדֶךָ** וַיֵּצֵא הַשָּׂטָן",
+        "transliteration": "al- tishlach **yadekha** vaYetse haShatan",
+        "englishLiteral": "not- you-will-send_out **hand-your.\"** And-he-went_out the-Adversary (Satan)",
+        "englishNatural": "do not send-out **your hand.\"** And the Adversary (Satan) went out"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 6

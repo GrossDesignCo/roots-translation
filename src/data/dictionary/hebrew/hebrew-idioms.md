@@ -33,6 +33,7 @@ Part of the **Hebrew dictionary** material alongside `roots.ts`, `prefixes.ts`, 
 | **עַל־פְּנֵי** / **מֵעַל פְּנֵי** | `over-face-of` / `from-over face-of` | **on the surface of**; **upon the face of**; **across the face of**; **from upon the face of** | Fixed spatial idiom. *Corpus:* Gen 6:1, 6:7, 11:4, 11:8–9; Prov 8:27; Gen 4:14. |
 | **לִפְנֵי** (esp. **לִפְנֵי יְהוָה**) | `to-face-of` | **before**; **in the presence of** | *Corpus:* Gen 10:9–11; Gen 6:11; Ex 4:21, 7:10; Prov 8:25. |
 | **בַּיּוֹם הַהוּא** | `in-day` + `the-that` | **on that day**; **in that day** | *Corpus:* Gen 15:18. |
+| **וַיְהִי הַיּוֹם** | `And-was` + `the-day` (`vayHi`, `ha` + `yom`) | **And it came to be the day** | Narrative scene-setting (“there came a day…”). Split natural English across the two words: first token **And it came to be**, second **the day** (comma after `הַיּוֹם` if cantillation warrants). *Corpus:* Job 1:6. Distinct from **בַּיּוֹם הַהוּא** (in/on that day). |
 | **וְעַתָּה** | `and-now` | **And now**; **But now** | Discourse pivot (consequence / new move). *Corpus:* Gen 3:22, 4:11, 11:6; Jon 4:2. |
 | **הִנֵּה** | `behold` (dictionary `hineh`) | **Behold**; **Look**; **Here** | Presentative; often starts clause. *Corpus:* widespread (e.g. Gen 1:29, 15:4–17, Ex 3:7, Isa 6:7, Ezek 1:4). |
 | **אָנָּא** | `please` / `I-beg` (per `anna` root) | **Please**; **I beg** | *Corpus:* Jon 1:14 (with **אַל־נָא**). |
@@ -54,9 +55,9 @@ Hebrew **`.original.md`** files under `public/scripture/` are generated from ver
 - **Spatial formulae:** עַל־פְּנֵי, מֵעַל פְּנֵי, לִפְנֵי (+ divine name)  
 - **Purpose:** לְמַעַן  
 - **Polite / rhetorical:** ־נָא, אָנָּא, אַל־נָא, הֲלוֹא  
-- **Time:** בַּיּוֹם הַהוּא, מֵעַתָּה וְעַד־עוֹלָם, מֵעוֹלָם, מִקֶּדֶם (sense split)
+- **Time / narrative frame:** בַּיּוֹם הַהוּא, מֵעַתָּה וְעַד־עוֹלָם, מֵעוֹלָם, מִקֶּדֶם (sense split); **וַיְהִי הַיּוֹם** (Job 1:6)
 
-**Not elevated to idiom rows** (yet): bare **כִּי** alone, **וַיְהִי**, **כָּל־** constructs — extremely frequent; handle with grammar rules and dictionary unless a **fixed** sub-phrase gets a stable English rendering project-wide.
+**Not elevated to idiom rows** (yet): bare **כִּי** alone, bare **וַיְהִי** (without a fixed following collocation), **כָּל־** constructs — extremely frequent; handle with grammar rules and dictionary unless a **fixed** sub-phrase gets a stable English rendering project-wide. **וַיְהִי הַיּוֹם** is now registered above.
 
 ---
 

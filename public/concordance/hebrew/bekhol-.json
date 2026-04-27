@@ -55,6 +55,31 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בְּכָל־",
+        "transliteration": "bekhol-",
+        "englishLiteral": "in-all-",
+        "englishNatural": "in all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָדְךָ וְגַע **בְּכָל־** אֲשֶׁר־ לוֹ",
+        "transliteration": "yadekha veGa **bekhol-** asher- lo",
+        "englishLiteral": "hand-your, and-touch **in-all-** which- to-him;",
+        "englishNatural": "your hand, and touch **in all** which is to him;"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 1

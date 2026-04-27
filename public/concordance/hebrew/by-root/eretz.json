@@ -2174,7 +2174,82 @@
         "hebrew": "אִ֛ישׁ הָיָ֥ה **בְאֶֽרֶץ־** ע֖וּץ אִיּ֣וֹב",
         "transliteration": "ish hayah **beEretz-** Uts Iyov",
         "englishLiteral": "man was **in-land-** Counsel (Uz), Persecuted (Job)",
-        "englishNatural": "A man there was **in the land of** Counsel (Uz), Persecuted (Job)"
+        "englishNatural": "There was a man **in the land of** Counsel (Uz), Persecuted (Job)"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 21,
+      "sourceOrder": 21,
+      "word": {
+        "originalScript": "בָּאָרֶץ",
+        "transliteration": "baAretz",
+        "englishLiteral": "in-land",
+        "englishNatural": "in the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמַר מִשּׁוּט **בָּאָרֶץ** וּמֵהִתְהַלֵּךְ בָּהּ׃",
+        "transliteration": "vaYomar miShut **baAretz** umeHithalekh bah",
+        "englishLiteral": "and-he-said \"from-roving **in-land,** and-from-self-walk in-her.\"",
+        "englishNatural": "and said, \"from roving **in the land,** and from walking in it.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "בָּאָרֶץ",
+        "transliteration": "baAretz",
+        "englishLiteral": "in-land",
+        "englishNatural": "in the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵין כָּמֹהוּ **בָּאָרֶץ** אִישׁ תָּם",
+        "transliteration": "ein kamohu **baAretz** ish tam",
+        "englishLiteral": "nothing like-him **in-land,** man whole",
+        "englishNatural": "there is none like him **in the land,** a man whole"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "אַרְצוֹ",
+        "transliteration": "artzo",
+        "englishLiteral": "land-his",
+        "englishNatural": "his land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֶּפֶר רְבוּ **אַרְצוֹ׃**",
+        "transliteration": "vatefer revu **artzo**",
+        "englishLiteral": "and-you-caused-to_be_fruitful abundance-of **land-his.**",
+        "englishNatural": "and you caused to-be-fruitful the abundance of **his land.**"
       }
     },
     {

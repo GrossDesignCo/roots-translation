@@ -246,7 +246,7 @@ export const numbers_21_7: Verse = {
       suffixes: ['einu'],
       order: {
         hebrew: 15,
-        english: 16,
+        english: 17,
       },
       grammarSuffix: {
         englishNatural: '."',
@@ -261,9 +261,10 @@ export const numbers_21_7: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
+      // english 15 before הַנָּחָשׁ (16); empty englishNatural skipped in buildVerseText
       order: {
         hebrew: 16,
-        english: 0, // Not translated
+        english: 15,
       },
       morphology: {
         type: 'conjunction',
@@ -278,7 +279,7 @@ export const numbers_21_7: Verse = {
       prefixes: ['ha'],
       order: {
         hebrew: 17,
-        english: 15,
+        english: 16,
       },
       morphology: {
         gender: 'masculine',
@@ -296,7 +297,10 @@ export const numbers_21_7: Verse = {
       englishNatural: 'prayed',
       root: 'palal',
       prefixes: ['va', 'yit'],
-      order: 18,
+      order: {
+        hebrew: 18,
+        english: 19,
+      },
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -317,7 +321,7 @@ export const numbers_21_7: Verse = {
       root: 'moshe',
       order: {
         hebrew: 19,
-        english: 17, // Subject comes first in English
+        english: 18,
       },
       morphology: {
         gender: 'masculine',
@@ -337,7 +341,7 @@ export const numbers_21_7: Verse = {
       prefixes: ['be'],
       order: {
         hebrew: 20,
-        english: 19,
+        english: 20,
       },
     },
     {
@@ -349,7 +353,7 @@ export const numbers_21_7: Verse = {
       prefixes: ['ha'],
       order: {
         hebrew: 21,
-        english: 20,
+        english: 21,
       },
       morphology: {
         gender: 'masculine',
@@ -373,6 +377,6 @@ export const numbers_21_7: Verse = {
     englishNatural:
       'And the people came to Drawn-Out (Moses) and said, "We have sinned, that we have spoken against He-Who-Is (YHWH) and against you; pray to He-Who-Is (YHWH), and may he turn-aside the snake from over us." And Drawn-Out (Moses) prayed in unto the people.',
     kjv: 'Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-04-27' },
   },
 };

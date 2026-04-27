@@ -29,6 +29,60 @@
         "englishLiteral": "faces-his, that **feared** from-to-look to-",
         "englishNatural": "his face, that **he feared** to look to"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "יְרֵא",
+        "transliteration": "yare",
+        "englishLiteral": "fearing",
+        "englishNatural": "fearing",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תָּם וְיָשָׁר **יְרֵא** אֱלֹהִים וְסָר",
+        "transliteration": "tam veYashar **yare** Elohim veSar",
+        "englishLiteral": "whole and-straight, **fearing** Gods, and-turning_aside",
+        "englishNatural": "whole and straight, **fearing** God, and turning-aside"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "יָרֵא",
+        "transliteration": "yare",
+        "englishLiteral": "has-feared",
+        "englishNatural": "feared",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמַר הַחִנָּם **יָרֵא** אִיּוֹב אֱלֹהִים׃",
+        "transliteration": "vaYomar haChinnam **yare** Iyov Elohim",
+        "englishLiteral": "and-he-said \"the-for_nothing **has-feared** Persecuted (Job) Gods?\"",
+        "englishNatural": "and said, \"Has Persecuted (Job) **feared** God for-nothing?\""
+      }
     }
   ]
 }

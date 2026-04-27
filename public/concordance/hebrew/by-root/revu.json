@@ -1,0 +1,31 @@
+{
+  "root": "revu",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "רְבוּ",
+        "transliteration": "revu",
+        "englishLiteral": "abundance-of",
+        "englishNatural": "the abundance of",
+        "root": "revu",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּרַכְתָּ וַתֶּפֶר **רְבוּ** אַרְצוֹ׃",
+        "transliteration": "berakhta vatefer **revu** artzo",
+        "englishLiteral": "you-have-blessed and-you-caused-to_be_fruitful **abundance-of** land-his.",
+        "englishNatural": "his hands, and you caused to-be-fruitful **the abundance of** his land."
+      }
+    }
+  ]
+}

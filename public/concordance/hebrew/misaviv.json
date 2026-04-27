@@ -1,0 +1,32 @@
+{
+  "key": "misaviv",
+  "language": "hebrew",
+  "root": "saviv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "מִסָּבִיב",
+        "transliteration": "misaviv",
+        "englishLiteral": "from-all_around",
+        "englishNatural": "from all-around",
+        "root": "saviv",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ לוֹ **מִסָּבִיב** מַעֲשֵׂה יָדָיו",
+        "transliteration": "asher- lo **misaviv** maaseh yadav",
+        "englishLiteral": "which- to-him **from-all_around?** work-of hands-his,",
+        "englishNatural": "which is to him **from all-around?** You have blessed the work of"
+      }
+    }
+  ]
+}

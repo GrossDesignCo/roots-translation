@@ -1,0 +1,34 @@
+{
+  "key": "yevarkhekha",
+  "language": "hebrew",
+  "root": "barakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "יְבָרְכֶךָ",
+        "transliteration": "yevarKhekha",
+        "englishLiteral": "he-will-bless-you",
+        "englishNatural": "he will bless you",
+        "root": "barakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ פָּנֶיךָ **יְבָרְכֶךָ׃**",
+        "transliteration": "al- panekha **yevarKhekha**",
+        "englishLiteral": "over- faces-your **he-will-bless-you.**",
+        "englishNatural": "if not **he will bless you** over your face."
+      }
+    }
+  ]
+}

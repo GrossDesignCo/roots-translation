@@ -272,6 +272,60 @@
         "englishLiteral": "justice-doing-of the-Just_Ones **and-was** famine in-the-land;",
         "englishNatural": "the Just-Ones, and famine **was** in the land; and a man"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְהִי",
+        "transliteration": "vayHi",
+        "englishLiteral": "And-was",
+        "englishNatural": "And it came to be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְהִי** הַיּוֹם וַיָּבֹאוּ",
+        "transliteration": "**vayHi** haYom vayYavou",
+        "englishLiteral": "**And-was** the-day, and-they-came",
+        "englishNatural": "**And it came to be** the day, and the sons of"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְהִי",
+        "transliteration": "vayHi",
+        "englishLiteral": "And-was",
+        "englishNatural": "And it was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְהִי** בַּיּוֹם הַהוּא",
+        "transliteration": "**vayHi** baYom haHu",
+        "englishLiteral": "**And-was** in-day the-that,",
+        "englishNatural": "**And it was** in that day,"
+      }
     }
   ]
 }

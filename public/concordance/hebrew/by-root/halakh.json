@@ -517,6 +517,33 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 22,
+      "sourceOrder": 22,
+      "word": {
+        "originalScript": "וּמֵהִתְהַלֵּךְ",
+        "transliteration": "umeHithalekh",
+        "englishLiteral": "and-from-self-walk",
+        "englishNatural": "and from walking",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "מִשּׁוּט בָּאָרֶץ **וּמֵהִתְהַלֵּךְ** בָּהּ׃",
+        "transliteration": "miShut baAretz **umeHithalekh** bah",
+        "englishLiteral": "\"from-roving in-land, **and-from-self-walk** in-her.\"",
+        "englishNatural": "\"from roving in the land, **and from walking** in it.\""
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 1

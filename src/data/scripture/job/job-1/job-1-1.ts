@@ -11,9 +11,12 @@ export const job_1_1: Verse = {
       hebrew: 'אִ֛ישׁ',
       transliteration: 'ish',
       englishLiteral: 'man',
-      englishNatural: 'A man',
+      englishNatural: 'a man',
       root: 'ish',
-      order: 1,
+      order: {
+        hebrew: 1,
+        english: 2,
+      },
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -24,9 +27,12 @@ export const job_1_1: Verse = {
       hebrew: 'הָיָ֥ה',
       transliteration: 'hayah',
       englishLiteral: 'was',
-      englishNatural: 'there was',
+      englishNatural: 'There was',
       root: 'hayah',
-      order: 2,
+      order: {
+        hebrew: 2,
+        english: 1,
+      },
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -198,6 +204,9 @@ export const job_1_1: Verse = {
         gender: 'masculine',
         number: 'singular',
       },
+      lineBreaksBefore: {
+        english: 1,
+      }
     },
     {
       hebrew: 'אֱלֹהִ֖ים',
@@ -258,8 +267,8 @@ export const job_1_1: Verse = {
     englishLiteral:
       'man was in-land- Counsel (Uz), Persecuted (Job) his-name; and-was the-man the-that whole and-straight, and-fearing Gods, and-turning_aside from-bad.',
     englishNatural:
-      'A man there was in the land of Counsel (Uz), Persecuted (Job) his name; and that man was whole and straight, and fearing God, and turning-aside from bad.',
+      'There was a man in the land of Counsel (Uz), Persecuted (Job) his name; and that man was whole and straight, and fearing God, and turning-aside from bad.',
     kjv: 'There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-04-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-04-27' },
 },
 };

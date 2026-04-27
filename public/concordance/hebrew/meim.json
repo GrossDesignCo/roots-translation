@@ -1,0 +1,32 @@
+{
+  "key": "meim",
+  "language": "hebrew",
+  "root": "im_with",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "מֵעִם",
+        "transliteration": "meIm",
+        "englishLiteral": "from-with",
+        "englishNatural": "from being with",
+        "root": "im_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּצֵא הַשָּׂטָן **מֵעִם** פְּנֵי יְהוָה׃",
+        "transliteration": "vaYetse haShatan **meIm** peney YHWH",
+        "englishLiteral": "And-he-went_out the-Adversary (Satan) **from-with** faces-of He_Who_Is (YHWH).",
+        "englishNatural": "And the Adversary (Satan) went out **from being with** the face of He-Who-Is (YHWH)."
+      }
+    }
+  ]
+}

@@ -479,6 +479,31 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "attah",
+        "englishLiteral": "you",
+        "englishNatural": "Have you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲלֹא־ **אַתָּה** שַׂכְתָּ בַעֲדוֹ",
+        "transliteration": "haLo- **attah** sakhta baado",
+        "englishLiteral": "Have-not- **you** have-hedged around-him",
+        "englishNatural": "**Have you** not hedged"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 23,
         "verse": 4

@@ -56,3 +56,16 @@ alwaysApply: false
 ## Verse Numbering
 
 - Follow source-language numbering (e.g., Masoretic for Hebrew), not modern English conventions.
+
+## Word order — avoid `english: 0`
+
+Do **not** use **`english: 0`** on verse words. It used to mean “omit this token from **`englishNatural`** sort only,” but **`0`** breaks assumptions in tooling that expects non-zero indices or contiguous ordering.
+
+**Preferred pattern for אֶת־ (direct object marker, root `et`)**
+
+- Keep **`englishLiteral: '↳'`** and **`englishNatural: ''`** (empty string). `buildVerseText` skips tokens with falsy `englishNatural`, so the marker still does not appear in the natural column.
+- Assign **`english`** values **unique across the verse** (no two words reuse the same `english` integer). **`אֶת־` sits in the slot immediately before its object** in English natural order — typically **`english`** is **one less** than the following lexical word (`objectEnglish - 1`), placed right before it in sorted order so **`buildVerseText`** output is unchanged.
+- Use **`order: N`** only when **`hebrew` and `english` both equal `N`**. Otherwise use **`order: { hebrew: H, english: E }`** when Hebrew clause order and English natural order diverge (subject–verb inversion, אֶת before a reordered object, Numbers 21-style clauses).
+- Comment the **`אֶת`** row briefly (e.g. english `n` immediately before the object word at `n + 1`).
+
+**Historical note:** Older data used **`english: 0`** or reused the object’s **`english`** for **`אֶת`**; migrated verses use unique consecutive **`english`** slots instead.

@@ -1652,6 +1652,87 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וַיֹּאמֶר",
+        "transliteration": "vaYomer",
+        "englishLiteral": "And-he-said",
+        "englishNatural": "said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְנֵי הָאֱלֹהִים **וַיֹּאמֶר** יְהוָה אֶל־",
+        "transliteration": "beney haElohim **vaYomer** YHWH el-",
+        "englishLiteral": "sons-of the-Gods, **And-he-said** He_Who_Is (YHWH) to-",
+        "englishNatural": "God, and He-Who-Is (YHWH) **said** to the Adversary (Satan)"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיֹּאמֶר",
+        "transliteration": "vaYomer",
+        "englishLiteral": "And-he-said",
+        "englishNatural": "said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּאמֶר** יְהוָה אֶל־",
+        "transliteration": "**vaYomer** YHWH el-",
+        "englishLiteral": "**And-he-said** He_Who_Is (YHWH) to-",
+        "englishNatural": "And He-Who-Is (YHWH) **said** to the Adversary (Satan),"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיֹּאמֶר",
+        "transliteration": "vaYomer",
+        "englishLiteral": "And-he-said",
+        "englishNatural": "said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּאמֶר** יְהוָה אֶל־",
+        "transliteration": "**vaYomer** YHWH el-",
+        "englishLiteral": "**And-he-said** He_Who_Is (YHWH) to-",
+        "englishNatural": "And He-Who-Is (YHWH) **said** to the Adversary (Satan),"
+      }
+    },
+    {
+      "location": {
         "book": "Isaiah",
         "chapter": 6,
         "verse": 7

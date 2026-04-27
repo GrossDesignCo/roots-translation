@@ -255,6 +255,56 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הָאֱלֹהִים",
+        "transliteration": "haElohim",
+        "englishLiteral": "the-Gods",
+        "englishNatural": "God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּבֹאוּ בְנֵי **הָאֱלֹהִים** לְהִתְיַצֵּב עַל־",
+        "transliteration": "vayYavou beney **haElohim** leHityatzev al-",
+        "englishLiteral": "and-they-came sons-of **the-Gods** to-self-position over-",
+        "englishNatural": "the day, and the sons of **God** came to position themselves"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הָאֱלֹהִים",
+        "transliteration": "haElohim",
+        "englishLiteral": "the-Gods",
+        "englishNatural": "God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּתוֹךְ בְנֵי **הָאֱלֹהִים** וַיֹּאמֶר יְהוָה",
+        "transliteration": "beTokh beney **haElohim** vaYomer YHWH",
+        "englishLiteral": "in-midst-of sons-of **the-Gods,** And-he-said He_Who_Is (YHWH)",
+        "englishNatural": "in the midst of the sons of **God,** and He-Who-Is (YHWH) said"
+      }
+    },
+    {
+      "location": {
         "book": "Daniel",
         "chapter": 1,
         "verse": 2

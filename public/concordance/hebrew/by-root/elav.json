@@ -151,6 +151,31 @@
         "englishLiteral": "And-said **to-him** He_Who_Is (YHWH) \"what-",
         "englishNatural": "And He-Who-Is (YHWH) said **to him,** \"What is this"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אֵלָיו",
+        "transliteration": "elav",
+        "englishLiteral": "to-him",
+        "englishNatural": "to him",
+        "root": "elav",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בְּיָדֶךָ רַק **אֵלָיו** אַל־ תִּשְׁלַח",
+        "transliteration": "beYadekha raq **elav** al- tishlach",
+        "englishLiteral": "in-hand-your; only **to-him** not- you-will-send_out",
+        "englishNatural": "is in your hand; only **to him** do not send-out"
+      }
     }
   ]
 }

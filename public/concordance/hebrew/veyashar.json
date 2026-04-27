@@ -27,6 +27,31 @@
         "englishLiteral": "the-that whole **and-straight,** and-fearing Gods,",
         "englishNatural": "was whole **and straight,** and fearing God,"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "וְיָשָׁר",
+        "transliteration": "veYashar",
+        "englishLiteral": "and-straight",
+        "englishNatural": "and straight",
+        "root": "yashar",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ תָּם **וְיָשָׁר** יְרֵא אֱלֹהִים",
+        "transliteration": "ish tam **veYashar** yare Elohim",
+        "englishLiteral": "man whole **and-straight,** fearing Gods,",
+        "englishNatural": "a man whole **and straight,** fearing God,"
+      }
     }
   ]
 }

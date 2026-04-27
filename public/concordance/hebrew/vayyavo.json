@@ -29,6 +29,33 @@
         "englishLiteral": "**And-he-came** Rest (Noah), and-sons-his",
         "englishNatural": "And Rest (Noah) **came,** and his sons and his woman"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וַיָּבֹא",
+        "transliteration": "vayYavo",
+        "englishLiteral": "And-he-came",
+        "englishNatural": "came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בַּיּוֹם הַהוּא **וַיָּבֹא** גַּם־ הַשָּׂטָן",
+        "transliteration": "baYom haHu **vayYavo** gam- haShatan",
+        "englishLiteral": "in-day the-that, **And-he-came** also the-Adversary (Satan)",
+        "englishNatural": "and the Adversary (Satan) also **came** in the midst of the sons of"
+      }
     }
   ]
 }

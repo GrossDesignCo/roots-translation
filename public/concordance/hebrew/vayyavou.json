@@ -1,0 +1,34 @@
+{
+  "key": "vayyavou",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וַיָּבֹאוּ",
+        "transliteration": "vayYavou",
+        "englishLiteral": "and-they-came",
+        "englishNatural": "came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי הַיּוֹם **וַיָּבֹאוּ** בְנֵי הָאֱלֹהִים",
+        "transliteration": "vayHi haYom **vayYavou** beney haElohim",
+        "englishLiteral": "And-was the-day, **and-they-came** sons-of the-Gods",
+        "englishNatural": "and the sons of God **came** to position themselves over"
+      }
+    }
+  ]
+}

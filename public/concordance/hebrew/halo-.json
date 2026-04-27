@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "הֲלֹא־",
+        "transliteration": "haLo-",
+        "englishLiteral": "Have-not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**הֲלֹא־** אַתָּה שַׂכְתָּ",
+        "transliteration": "**haLo-** attah sakhta",
+        "englishLiteral": "**Have-not-** you have-hedged",
+        "englishNatural": "Have you **not** hedged around him"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 4,
         "verse": 2

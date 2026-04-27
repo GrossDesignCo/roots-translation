@@ -1,0 +1,31 @@
+{
+  "root": "chinam",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הַחִנָּם",
+        "transliteration": "haChinnam",
+        "englishLiteral": "the-for_nothing",
+        "englishNatural": "for-nothing",
+        "root": "chinam",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה וַיֹּאמַר **הַחִנָּם** יָרֵא אִיּוֹב",
+        "transliteration": "YHWH vaYomar **haChinnam** yare Iyov",
+        "englishLiteral": "He_Who_Is (YHWH), and-he-said **\"the-for_nothing** has-feared Persecuted (Job)",
+        "englishNatural": "feared God **for-nothing?\"**"
+      }
+    }
+  ]
+}

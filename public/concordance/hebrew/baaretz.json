@@ -280,6 +280,56 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 21,
+      "sourceOrder": 21,
+      "word": {
+        "originalScript": "בָּאָרֶץ",
+        "transliteration": "baAretz",
+        "englishLiteral": "in-land",
+        "englishNatural": "in the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמַר מִשּׁוּט **בָּאָרֶץ** וּמֵהִתְהַלֵּךְ בָּהּ׃",
+        "transliteration": "vaYomar miShut **baAretz** umeHithalekh bah",
+        "englishLiteral": "and-he-said \"from-roving **in-land,** and-from-self-walk in-her.\"",
+        "englishNatural": "and said, \"from roving **in the land,** and from walking in it.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "בָּאָרֶץ",
+        "transliteration": "baAretz",
+        "englishLiteral": "in-land",
+        "englishNatural": "in the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵין כָּמֹהוּ **בָּאָרֶץ** אִישׁ תָּם",
+        "transliteration": "ein kamohu **baAretz** ish tam",
+        "englishLiteral": "nothing like-him **in-land,** man whole",
+        "englishNatural": "there is none like him **in the land,** a man whole"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 15

@@ -109,6 +109,33 @@
         "englishLiteral": "And-you, **be_fruitful** and-multiply, swarm",
         "englishNatural": "And you, **be-fruitful** and multiply, swarm"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "וַתֶּפֶר",
+        "transliteration": "vatefer",
+        "englishLiteral": "and-you-caused-to_be_fruitful",
+        "englishNatural": "and you caused to-be-fruitful",
+        "root": "parah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יָדָיו בֵּרַכְתָּ **וַתֶּפֶר** רְבוּ אַרְצוֹ׃",
+        "transliteration": "yadav berakhta **vatefer** revu artzo",
+        "englishLiteral": "hands-his, you-have-blessed **and-you-caused-to_be_fruitful** abundance-of land-his.",
+        "englishNatural": "the work of his hands, **and you caused to-be-fruitful** the abundance of his land."
+      }
     }
   ]
 }

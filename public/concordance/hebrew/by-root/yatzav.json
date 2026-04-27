@@ -55,6 +55,33 @@
         "englishLiteral": "He_Who_Is (YHWH) in-cloud, **and-positioned-himself** with-him there,",
         "englishNatural": "went-down in the cloud, **and positioned himself** with him there,"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "לְהִתְיַצֵּב",
+        "transliteration": "leHityatzev",
+        "englishLiteral": "to-self-position",
+        "englishNatural": "to position themselves",
+        "root": "yatzav",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "בְנֵי הָאֱלֹהִים **לְהִתְיַצֵּב** עַל־ יְהוָה׃",
+        "transliteration": "beney haElohim **leHityatzev** al- YHWH",
+        "englishLiteral": "sons-of the-Gods **to-self-position** over- He_Who_Is (YHWH).",
+        "englishNatural": "God came **to position themselves** over He-Who-Is (YHWH)."
+      }
     }
   ]
 }

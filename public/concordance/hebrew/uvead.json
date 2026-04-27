@@ -1,0 +1,32 @@
+{
+  "key": "uvead",
+  "language": "hebrew",
+  "root": "baad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וּבְעַד",
+        "transliteration": "uveAd",
+        "englishLiteral": "and-around",
+        "englishNatural": "and around",
+        "root": "baad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "שַׂכְתָּ בַעֲדוֹ **וּבְעַד** בֵּיתוֹ וְכָל־",
+        "transliteration": "sakhta baado **uveAd** beito vekhol-",
+        "englishLiteral": "have-hedged around-him **and-around** house-his, and-all-",
+        "englishNatural": "hedged around him **and around** his house, and all"
+      }
+    }
+  ]
+}

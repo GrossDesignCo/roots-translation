@@ -52,6 +52,31 @@
         "englishLiteral": "and-was the-man **the-that** whole and-straight,",
         "englishNatural": "Persecuted (Job) his name; **and that** man was"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הַהוּא",
+        "transliteration": "haHu",
+        "englishLiteral": "the-that",
+        "englishNatural": "in that",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי בַּיּוֹם **הַהוּא** וַיָּבֹא גַּם־",
+        "transliteration": "vayHi baYom **haHu** vayYavo gam-",
+        "englishLiteral": "And-was in-day **the-that,** And-he-came also",
+        "englishNatural": "And it was **in that** day, and the Adversary (Satan)"
+      }
     }
   ]
 }

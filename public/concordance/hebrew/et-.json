@@ -3299,6 +3299,56 @@
     },
     {
       "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעַן הַשָּׂטָן **אֶת־** יְהוָה וַיֹּאמַר",
+        "transliteration": "vaYaan haShatan **et-** YHWH vaYomar",
+        "englishLiteral": "And-answered the-Adversary (Satan) **↳** He_Who_Is (YHWH), and-he-said",
+        "englishNatural": "And the Adversary (Satan) answered **↳** He-Who-Is (YHWH), and said,"
+      }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעַן הַשָּׂטָן **אֶת־** יְהוָה וַיֹּאמַר",
+        "transliteration": "vaYaan haShatan **et-** YHWH vaYomar",
+        "englishLiteral": "And-answered the-Adversary (Satan) **↳** He_Who_Is (YHWH), and-he-said",
+        "englishNatural": "And the Adversary (Satan) answered **↳** He-Who-Is (YHWH), and said,"
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 8,
         "verse": 31

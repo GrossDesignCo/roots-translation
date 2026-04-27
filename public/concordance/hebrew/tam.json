@@ -27,6 +27,31 @@
         "englishLiteral": "the-man the-that **whole** and-straight, and-fearing",
         "englishNatural": "man was **whole** and straight, and fearing"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "תָּם",
+        "transliteration": "tam",
+        "englishLiteral": "whole",
+        "englishNatural": "whole",
+        "root": "tam",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בָּאָרֶץ אִישׁ **תָּם** וְיָשָׁר יְרֵא",
+        "transliteration": "baAretz ish **tam** veYashar yare",
+        "englishLiteral": "in-land, man **whole** and-straight, fearing",
+        "englishNatural": "in the land, a man **whole** and straight, fearing"
+      }
     }
   ]
 }

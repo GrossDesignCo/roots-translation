@@ -1,0 +1,33 @@
+{
+  "root": "sakhakh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שַׂכְתָּ",
+        "transliteration": "sakhta",
+        "englishLiteral": "have-hedged",
+        "englishNatural": "hedged",
+        "root": "sakhakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הֲלֹא־ אַתָּה **שַׂכְתָּ** בַעֲדוֹ וּבְעַד",
+        "transliteration": "haLo- attah **sakhta** baado uveAd",
+        "englishLiteral": "Have-not- you **have-hedged** around-him and-around",
+        "englishNatural": "Have you not **hedged** around him and around"
+      }
+    }
+  ]
+}

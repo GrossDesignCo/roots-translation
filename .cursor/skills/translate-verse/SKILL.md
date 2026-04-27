@@ -33,7 +33,7 @@ Follow the source-language numbering, not modern English conventions. For exampl
 5. **Add missing dictionary entries** for any roots, prefixes, or suffixes not yet in the dictionary. Check for potential duplicates first.
 6. **Generate the verse file** following the data structure below.
 7. **Add the verse export** to the chapter's `index.ts`.
-8. **Verify each word** against the post-generation checklist (see below).
+8. **Verify each word** against the post-generation checklist (see below). When assigning `order`, **condense** to a single number wherever Hebrew/source position and English-natural position match (see **Word Order**).
 9. **Run tests** to validate: `npm test` — check output for `console.warn` messages and fix any flagged issues.
 10. **Check for TypeScript errors**: run `npx tsc --noEmit` and resolve any errors before finishing. Common issues include `related` fields referencing keys from the wrong dictionary (e.g., Aramaic keys in a Hebrew `related` array).
 
@@ -47,6 +47,7 @@ After generating verse data, review **each word** against this checklist before 
 4. **Root type match**: Does the word's `morphology.type` match the dictionary root's `type`? If the word is a noun but the root is a verb, create a separate noun root with `related` linking them.
 5. **Dictionary separation**: Noun/verb/adjective forms of the same Hebrew word must be separate dictionary entries linked with `related`. Verse words must reference the entry matching their part of speech.
 6. **`related` field scope**: The `related` array must only contain keys from the **same** dictionary. Hebrew roots reference other Hebrew root keys; Aramaic roots reference other Aramaic root keys. For cross-language links, use `cognateHebrew` on the Aramaic side or `translatedTo` for Greek — never put Aramaic/Greek keys in a Hebrew `related` array.
+7. **`order` condensed when possible**: If a word’s index in **source order** and its index in **English natural** order are the same, use **`order: N`** (one number), not `order: { hebrew: N, english: N }`. Use the **object form only** when those indices differ (reordering for natural English, subject–verb inversion, etc.). For **אֶת־** (**`↳`**), never use **`english: 0`** — give **`אֶת`** its **own** **`english`** (usually **one less** than the following object’s **`english`**) and keep **`englishNatural: ''`** (see **[translation-data.mdc](../../.cursor/rules/translation-data.mdc)**). See **Word Order** below and `src/data/scripture/job/job-1/job-1-8.ts` (split order on the opening verb/name; `order: 3` … `order: 20` for the rest).
 
 ## File Structure
 
@@ -88,11 +89,11 @@ Each word in the `words` array has this shape:
   root: 'rosh',               // Dictionary key (must exist in roots.ts)
   prefixes: ['be'],           // Array of dictionary prefix keys
   suffixes: ['it'],           // Array of dictionary suffix keys
-  order: 1,                   // Simple number if same across languages
-  // OR split order:
+  order: 1,                   // Prefer this when source index === English natural index
+  // OR split order (when Hebrew vs English indices differ):
   order: {
-    hebrew: 2,     // Position in original text
-    english: 3,    // Position in English rendering
+    hebrew: 2,     // Position in original text (used for original, transliteration, englishLiteral)
+    english: 3,    // Position in English natural rendering only
   },
   morphology: {
     type: 'noun',
@@ -158,11 +159,18 @@ When in doubt: **preserve connector glosses**; **adjust order and punctuation** 
 
 ### Word Order
 
-- `order: number` — same position in all languages.
-- `order: { hebrew: N, english: M }` — different positions per language.
-  - `englishLiteral` follows the source language order (hebrew/aramaic/greek key).
-  - `englishNatural` follows the `english` key.
-- `order: 0` (or omitting a language key) hides the word from that rendering.
+Rendering uses `sortWords()` (see `src/utils/sortWords.ts`): a plain **`order` number applies to every word-order key** — the same integer sorts **original / transliteration / `englishLiteral`** (via `hebrew` / `aramaic` / `greek`) **and** **`englishNatural`** (via `english`). So:
+
+- **`order: N` (single number)** — Use when this token’s **source sequence index** and its **English natural sequence index are equal**. This is the preferred default: one field, no duplicated integers. Example: most words in `src/data/scripture/job/job-1/job-1-8.ts` after the opening verb/subject swap.
+- **`order: { hebrew?: …, english?: …, … }`** — Use when indices **differ** (e.g. `וַיֹּאמֶר` / `יְהוָה` → natural “And YHWH said”), or for Aramaic/Greek splits (`aramaic` / `greek` keys as in `TranslationWord` in `src/types.ts`).
+  - **`englishLiteral`** is still built in **source** word order (`hebrew` / `aramaic` / `greek` slot).
+  - **`englishNatural`** follows the **`english`** slot.
+
+**Workflow:** After the first pass, scan for `order` objects where `hebrew === english` (and no other keys differ) and **collapse** to `order: N`. Keep the object only where reordering is required.
+
+**Interrogative הֲלֹא־ + אַתָּה (“Have you not …”):** Hebrew runs **particle + pronoun** (`הֲלֹא־`, then `אַתָּה`), but idiomatic English wants **auxiliary + pronoun + “not”**. Use **split `order`** on the **`english`** slot so **`englishNatural`** sorts as **Have you → not → verb** (e.g. **`אַתָּה`** earlier with **`englishNatural`** **`Have you`**, **`הֲלֹא־`** with **`not`**); **`englishLiteral`** stays in **Hebrew/source order** (see `resolveWordOrderKey`: **`englishLiteral`** uses the **`hebrew`** order key, not **`english`**). See `src/data/scripture/job/job-1/job-1-10.ts`.
+
+**Direct object marker (אֶת־):** **`englishLiteral: '↳'`**, **`englishNatural: ''`** (skipped in `buildVerseText`). Assign **`english`** **uniquely** across the verse; **`אֶת`** is the slot **immediately before** the object in natural order (**usually `objectEnglish - 1`**), so it still sorts directly ahead of its object. Prefer **`order: N`** when **`hebrew === english`**, else **`order: { hebrew, english }`**. Do **not** use **`english: 0`** — see `.cursor/rules/translation-data.mdc`. A plain **`order: 0`** still hides the word from **all** render paths (`TranslationWord.order` in `src/types.ts`).
 
 ### grammarSuffix / grammarPrefix
 
@@ -171,6 +179,8 @@ When in doubt: **preserve connector glosses**; **adjust order and punctuation** 
 - Aramaic sof pasuq: `{ aramaic: '׃', englishLiteral: '.' }`
 - Quotation marks used as punctuation (dialogue, etc.) are allowed — same marks-only rule as commas and periods.
 - Only on the `TranslationWord`, never embedded in the word text itself.
+- **Quoted speech:** Opening `"` typically goes on `grammarPrefix` of the first quoted Hebrew word; closing `"` (often with period or comma: `.'"`, `,"`) on `grammarSuffix` of the last word inside the quote. **`buildVerseText` emits quotes per language key**—if you set only `grammarPrefix: { englishLiteral: '"' }` and omit `englishNatural`, quotes disappear from the natural column. Default is to duplicate the same typographic marks on both keys unless you deliberately style literal vs natural differently.
+- After edits, verify both columns with `buildVerseText(..., 'englishLiteral' | 'englishNatural', …)` or run `npm run test` (`verseValidation` compares `expectedTranslations` to generated strings).
 
 ### lineBreaks
 
@@ -258,6 +268,7 @@ melekh: {
 
 Study these files for patterns before generating:
 - Hebrew: `src/data/scripture/genesis/genesis-1/genesis-1-1.ts`
+- Condensed vs split **`order`**: `src/data/scripture/job/job-1/job-1-8.ts` (object only where יהוה precedes “said” in English natural; otherwise `order: N`); interrogative **`הֲלֹא־` / `אַתָּה`**: `src/data/scripture/job/job-1/job-1-10.ts`
 - Aramaic: `src/data/scripture/daniel/daniel-7/daniel-7-13.ts`
 - Full translation rules: `src/data/translation-principles.md`
 - Dictionary README: `src/data/dictionary/README.md`

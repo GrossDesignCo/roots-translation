@@ -52,6 +52,31 @@
         "englishLiteral": "↳ He_Who_Is (YHWH); **only** flock-your and-herd-your",
         "englishNatural": "↳ He-Who-Is (YHWH); **only** your flock and your herd"
       }
+    },
+    {
+      "location": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "רַק",
+        "transliteration": "raq",
+        "englishLiteral": "only",
+        "englishNatural": "only",
+        "root": "raq",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לוֹ בְּיָדֶךָ **רַק** אֵלָיו אַל־",
+        "transliteration": "lo beYadekha **raq** elav al-",
+        "englishLiteral": "to-him in-hand-your; **only** to-him not-",
+        "englishNatural": "is to him is in your hand; **only** to him do not"
+      }
     }
   ]
 }
