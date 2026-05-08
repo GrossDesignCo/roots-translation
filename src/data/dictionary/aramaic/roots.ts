@@ -1271,7 +1271,7 @@ const ROOTS = {
     englishNatural: 'behold',
     type: 'interjection',
     description: 'behold, lo (Aramaic)',
-    cognateHebrew: ['hinneh'] as const,
+    cognateHebrew: ['hineh'] as const,
   },
   giach: {
     aramaic: 'גיח',

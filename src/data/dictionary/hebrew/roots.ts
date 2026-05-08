@@ -1260,7 +1260,17 @@ const ROOTS = {
     transliteration: 'male',
     englishLiteral: 'to fill',
     englishNatural: 'to fill',
+    related: ['melo'],
     type: 'verb',
+  },
+  melo: {
+    hebrew: 'מלא',
+    transliteration: 'melo',
+    englishLiteral: 'fullness',
+    englishNatural: 'fullness',
+    description: 'fullness, that which fills (construct מְלֹא often "fullness of")',
+    related: ['male'],
+    type: 'noun',
   },
   hamish: {
     hebrew: 'חמש',
@@ -1367,13 +1377,6 @@ const ROOTS = {
     englishNatural: 'female',
     related: ['zakhar', 'ish', 'ishah'],
     type: 'noun',
-  },
-  hinneh: {
-    hebrew: 'הנה',
-    transliteration: 'hinneh',
-    englishLiteral: 'behold',
-    englishNatural: 'behold',
-    type: 'particle',
   },
   okhel: {
     hebrew: 'אכל',
@@ -5930,7 +5933,8 @@ const ROOTS = {
     englishLiteral: 'behold',
     englishNatural: 'behold',
     type: 'interjection',
-    description: 'behold, look, see (draws attention)',
+    description:
+      'behold, look, see (draws attention); interjection or particle (הִנֵּה)',
   },
   // Ezekiel 1:4 additions
   tzafon: {

@@ -233,7 +233,7 @@ export const genesis_6_13: Verse = {
       transliteration: 'veHineni',
       englishLiteral: 'and-behold-me',
       englishNatural: 'and behold me',
-      root: 'hinneh',
+      root: 'hineh',
       prefixes: ['ve'],
       suffixes: ['ni'],
       order: 14,
@@ -298,6 +298,6 @@ export const genesis_6_13: Verse = {
     englishNatural:
       'And God said to Rest (Noah), "The end of all flesh has come to my face; that the land is full of violence from their faces; and behold me destroying the land."',
     kjv: 'And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-05-08' },
   },
 };

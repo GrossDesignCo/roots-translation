@@ -13,7 +13,7 @@ export const isaiah_6_4: Verse = {
       englishLiteral: 'And-shook',
       englishNatural: 'shook',
       root: 'nuah',
-      prefixes: ['ve'],
+      prefixes: ['va'],
       order: {
         hebrew: 1,
         english: 3,
@@ -22,6 +22,8 @@ export const isaiah_6_4: Verse = {
         gender: 'masculine',
         number: 'plural',
         person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
         type: 'verb',
       },
       lineBreaksBefore: {
@@ -151,6 +153,6 @@ export const isaiah_6_4: Verse = {
     englishNatural:
       'And pillars of the thresholds shook from the voice of the caller, and the house was filled with smoke.',
     kjv: 'And the posts of the door moved at the voice of him that cried, and the house was filled with smoke.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-05-08' },
   },
 };

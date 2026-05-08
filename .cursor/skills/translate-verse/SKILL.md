@@ -30,7 +30,7 @@ Follow the source-language numbering, not modern English conventions. For exampl
    - Also check prefixes/suffixes in the same directories
    - Hebrew multi-word idioms: `src/data/dictionary/hebrew/hebrew-idioms.md` (see workflow step 4)
 4. **Check [hebrew-idioms.md](../../src/data/dictionary/hebrew/hebrew-idioms.md)** (Hebrew dictionary phrasebook) if the verse contains a known multi-word formula (e.g. עַל־כֵּן).
-5. **Add missing dictionary entries** for any roots, prefixes, or suffixes not yet in the dictionary. Check for potential duplicates first.
+5. **Add missing dictionary entries** for any roots, prefixes, or suffixes not yet in the dictionary. Before adding a root, search `roots.ts` for the same lemma under another key (alternate romanization is a common source of duplicates).
 6. **Generate the verse file** following the data structure below.
 7. **Add the verse export** to the chapter's `index.ts`.
 8. **Verify each word** against the post-generation checklist (see below). When assigning `order`, **condense** to a single number wherever Hebrew/source position and English-natural position match (see **Word Order**).
@@ -48,6 +48,8 @@ After generating verse data, review **each word** against this checklist before 
 5. **Dictionary separation**: Noun/verb/adjective forms of the same Hebrew word must be separate dictionary entries linked with `related`. Verse words must reference the entry matching their part of speech.
 6. **`related` field scope**: The `related` array must only contain keys from the **same** dictionary. Hebrew roots reference other Hebrew root keys; Aramaic roots reference other Aramaic root keys. For cross-language links, use `cognateHebrew` on the Aramaic side or `translatedTo` for Greek — never put Aramaic/Greek keys in a Hebrew `related` array.
 7. **`order` condensed when possible**: If a word’s index in **source order** and its index in **English natural** order are the same, use **`order: N`** (one number), not `order: { hebrew: N, english: N }`. Use the **object form only** when those indices differ (reordering for natural English, subject–verb inversion, etc.). For **אֶת־** (**`↳`**), never use **`english: 0`** — give **`אֶת`** its **own** **`english`** (usually **one less** than the following object’s **`english`**) and keep **`englishNatural: ''`** (see **[translation-data.mdc](../../.cursor/rules/translation-data.mdc)**). See **Word Order** below and `src/data/scripture/job/job-1/job-1-8.ts` (split order on the opening verb/name; `order: 3` … `order: 20` for the rest).
+8. **Finite Hebrew verbs**: set **`morphology.stem`** and **`morphology.tense`** on every finite verb (including imperatives; participles use **`tense: 'participle'`** plus stem).
+9. **Inflected surfaces**: match `root` / `prefixes` / `suffixes` to comparable words already in the data; do not invent a second decomposition pattern for the same kind of form.
 
 ## File Structure
 

@@ -12,7 +12,7 @@ export const genesis_4_14: Verse = {
       transliteration: 'hen',
       englishLiteral: 'Behold',
       englishNatural: 'Behold',
-      root: 'hinneh',
+      root: 'hineh',
       order: 1,
       morphology: {
         type: 'interjection',
@@ -293,6 +293,6 @@ export const genesis_4_14: Verse = {
     englishNatural:
       'Behold, you have banished me this day, from over the face of the earth; and from your faces I will be hidden; and I will be wandering and fugitive in the land; and it will be all finding me will kill me."',
     kjv: 'Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-05-08' },
   },
 };

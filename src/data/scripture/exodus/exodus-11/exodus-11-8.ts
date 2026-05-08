@@ -311,7 +311,7 @@ export const exodus_11_8: Verse = {
       transliteration: 'meIm-',
       englishLiteral: 'from-with-',
       englishNatural: 'from with',
-      root: 'im',
+      root: 'im_with',
       prefixes: ['mi'],
       order: 19,
       morphology: {
@@ -374,6 +374,6 @@ export const exodus_11_8: Verse = {
     englishNatural:
       "And all these your servants will go-down to me, and will bow-down to me, saying, 'Go-out you and all the people which, in your feet.' and after so I will bring-out.\" And he brought-out from with Pharaoh in burning nose.",
     kjv: 'And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in a great anger.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-05-08' },
 },
 };

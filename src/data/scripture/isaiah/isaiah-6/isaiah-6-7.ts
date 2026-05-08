@@ -13,14 +13,14 @@ export const isaiah_6_7: Verse = {
       englishLiteral: 'And-he-touched',
       englishNatural: 'And he touched',
       root: 'naga',
-      prefixes: ['va', 'ye'],
+      prefixes: ['va'],
       order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
         person: '3rd',
-        tense: 'sequential_imperfect',
-        stem: 'qal',
+        tense: 'imperfect',
+        stem: 'hiphil',
         type: 'verb',
       },
       lineBreaksBefore: 1,
@@ -62,13 +62,13 @@ export const isaiah_6_7: Verse = {
       englishLiteral: 'and-he-said',
       englishNatural: 'and he said',
       root: 'amar',
-      prefixes: ['va', 'yo'],
+      prefixes: ['va'],
       order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
         person: '3rd',
-        tense: 'sequential_imperfect',
+        tense: 'imperfect',
         stem: 'qal',
         type: 'verb',
       },
@@ -79,13 +79,13 @@ export const isaiah_6_7: Verse = {
     },
     {
       hebrew: 'הִנֵּה',
-      transliteration: 'hinneh',
+      transliteration: 'hineh',
       englishLiteral: 'Behold',
       englishNatural: 'Behold',
-      root: 'hinneh',
+      root: 'hineh',
       order: 5,
       morphology: {
-        type: 'particle',
+        type: 'interjection',
       },
       grammarPrefix: {
         englishLiteral: '"',
@@ -241,12 +241,12 @@ export const isaiah_6_7: Verse = {
     hebrew:
       'וַיַּגַּע אֶל־פִּי וַיֹּאמֶר הִנֵּה נָגַע זֶה עַל־שְׂפָתֶיךָ וְסָר עֲוֹנֶךָ וְחַטָּאתְךָ תְּכֻפָּר',
     transliteration:
-      'vaYaGga el-pi vaYomer hinneh naga zeh al-sfatekha veSar avonekha veChatatkha teKupar',
+      'vaYaGga el-pi vaYomer hineh naga zeh al-sfatekha veSar avonekha veChatatkha teKupar',
     englishLiteral:
       'And-he-touched to- my-mouth, and-he-said, "Behold, has-touched this over- your-lips; and-turned_aside your-twisting, and-your-sin will-be-covered."',
     englishNatural:
       'And he touched it to my mouth, and he said, "Behold, this has touched over your lips; and turned-aside your twisting, and your sin will be covered."',
     kjv: 'And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-05-08' },
   },
 };

@@ -75,7 +75,7 @@ export const genesis_3_22: Verse = {
       transliteration: 'hen',
       englishLiteral: 'Behold',
       englishNatural: 'Behold',
-      root: 'hinneh',
+      root: 'hineh',
       order: 4,
       morphology: {
         type: 'particle',
@@ -364,6 +364,6 @@ export const genesis_3_22: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God said, "Behold, the Earthling (Adam) has become as one from us to know good and bad; and now —or else he will send-out his hand and take also from the Tree of Life and eat and live to the-age—"',
     kjv: 'And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-05-08' },
   },
 };

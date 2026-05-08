@@ -16,7 +16,10 @@ export const isaiah_6_1: Verse = {
       prefixes: ['be'],
       order: 1,
       morphology: {
-        type: 'preposition',
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
       },
     },
     {
@@ -27,6 +30,9 @@ export const isaiah_6_1: Verse = {
       root: 'mavet',
       order: 2,
       morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
         type: 'noun',
       },
     },
@@ -262,6 +268,6 @@ export const isaiah_6_1: Verse = {
     englishNatural:
       'In the year of the death of the king, He-my-Strength (Uzziah). And I saw my Lord sitting over a throne, high and lifted-up, and his garments, filling the temple.',
     kjv: 'In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-05-08' },
   },
 };

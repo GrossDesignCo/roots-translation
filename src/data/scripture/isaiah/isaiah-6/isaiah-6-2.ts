@@ -56,8 +56,8 @@ export const isaiah_6_2: Verse = {
       transliteration: 'lo',
       englishLiteral: 'to-him',
       englishNatural: 'him',
-      root: 'hu',
-      prefixes: ['le'],
+      root: 'la',
+      suffixes: ['o'],
       order: 4,
       morphology: {
         gender: 'masculine',
@@ -254,6 +254,6 @@ export const isaiah_6_2: Verse = {
     englishNatural:
       'Incinerating-ones were standing above him; six wings to each one, in two he covers his faces, and in two he covers his feet, and in two he flies.',
     kjv: 'Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-05-08' },
   },
 };

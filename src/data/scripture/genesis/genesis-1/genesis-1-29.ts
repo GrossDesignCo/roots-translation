@@ -61,7 +61,7 @@ export const genesis_1_29: Verse = {
       transliteration: 'hineh',
       englishLiteral: 'Behold',
       englishNatural: 'Behold',
-      root: 'hinneh',
+      root: 'hineh',
       order: 3,
       morphology: {
         type: 'particle',
@@ -398,6 +398,6 @@ export const genesis_1_29: Verse = {
     englishNatural:
       'And God said, "Behold, I give to you all herb seeding seed, which over the face of all the land, And all the tree which in it is fruit of tree seeding seed, to you it shall be for food.',
     kjv: 'And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-05-08' },
   },
 };

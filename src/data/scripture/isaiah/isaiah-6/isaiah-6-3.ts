@@ -179,7 +179,7 @@ export const isaiah_6_3: Verse = {
       transliteration: 'melo',
       englishLiteral: 'fullness-of',
       englishNatural: 'fullness of',
-      root: 'male',
+      root: 'melo',
       order: 11,
       morphology: {
         type: 'noun',
@@ -242,6 +242,6 @@ export const isaiah_6_3: Verse = {
     englishNatural:
       'And this called-out to this, and said, "Holy, holy, holy, He-Who-Is (YHWH) of Hosts, fullness of all the land is his glory."',
     kjv: 'And one cried unto another, and said, Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-05-08' },
   },
 };
