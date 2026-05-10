@@ -25,8 +25,8 @@ const PREFIXES = {
   u: {
     hebrew: 'וּ',
     transliteration: 'u',
-    englishLiteral: 'but',
-    englishNatural: 'but',
+    englishLiteral: 'and',
+    englishNatural: 'and',
   },
   ha: {
     hebrew: 'הַ',

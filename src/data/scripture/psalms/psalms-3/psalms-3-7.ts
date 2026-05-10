@@ -1,0 +1,238 @@
+import { Verse } from '@/types';
+
+export const psalms_3_7: Verse = {
+  meta: {
+    book: 'Psalms',
+    chapter: 3,
+    verse: 7,
+  },
+  words: [
+    {
+      hebrew: 'קוּמָ֣ה',
+      transliteration: 'qumah',
+      englishLiteral: 'Stand_up',
+      englishNatural: 'Stand-up',
+      root: 'qum',
+      suffixes: ['ah'],
+      order: 1,
+      morphology: {
+        type: 'verb',
+        stem: 'qal',
+        tense: 'imperative',
+        person: '2nd',
+        gender: 'masculine',
+        number: 'singular',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'יְ֭הוָה',
+      transliteration: 'YHWH',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)!',
+      root: 'yhwh',
+      order: 2,
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הוֹשִׁיעֵ֣נִי',
+      transliteration: 'hoshieni',
+      englishLiteral: 'save-me',
+      englishNatural: 'Save me',
+      root: 'yasha',
+      suffixes: ['eni'],
+      order: 3,
+      morphology: {
+        type: 'verb',
+        stem: 'hiphil',
+        tense: 'imperative',
+        person: '2nd',
+        gender: 'masculine',
+        number: 'singular',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'אֱלֹהַ֑י',
+      transliteration: 'elohai',
+      englishLiteral: 'Gods-my',
+      englishNatural: 'my God',
+      root: 'eloah',
+      suffixes: ['ai'],
+      order: 4,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'plural',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'כִּֽי־',
+      transliteration: 'ki-',
+      englishLiteral: 'that-',
+      englishNatural: 'that',
+      root: 'ki',
+      order: 5,
+      morphology: {
+        type: 'relative',
+      },
+    },
+    {
+      hebrew: 'הִכִּ֖יתָ',
+      transliteration: 'hikkita',
+      englishLiteral: 'you-have-struck_down',
+      englishNatural: 'you have struck-down',
+      root: 'nakah',
+      suffixes: ['ta'],
+      order: 6,
+      morphology: {
+        type: 'verb',
+        stem: 'hiphil',
+        tense: 'perfect',
+        person: '2nd',
+        gender: 'masculine',
+        number: 'singular',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: 7,
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'כָּל־',
+      transliteration: 'kol-',
+      englishLiteral: 'all-',
+      englishNatural: 'all',
+      root: 'kol',
+      order: 8,
+      morphology: {
+        type: 'adjective',
+      },
+    },
+    {
+      hebrew: 'אֹיְבַ֥י',
+      transliteration: 'oyvai',
+      englishLiteral: 'enemies-my',
+      englishNatural: 'my enemies',
+      root: 'oyev',
+      suffixes: ['ai'],
+      order: 9,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'plural',
+      },
+    },
+    {
+      hebrew: 'לֶ֗חִי',
+      transliteration: 'lechi',
+      englishLiteral: 'cheek',
+      englishNatural: 'on the cheek',
+      root: 'lechi',
+      order: 10,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'singular',
+        state: 'absolute',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'שִׁנֵּ֖י',
+      transliteration: 'shinei',
+      englishLiteral: 'teeth-of',
+      englishNatural: 'the teeth of',
+      root: 'shen',
+      suffixes: ['ei'],
+      order: {
+        hebrew: 11,
+        english: 12,
+      },
+      morphology: {
+        type: 'noun',
+        gender: 'feminine',
+        number: 'plural',
+        state: 'construct',
+      },
+    },
+    {
+      hebrew: 'רְשָׁעִ֣ים',
+      transliteration: 'reshaim',
+      englishLiteral: 'wicked',
+      englishNatural: 'the wicked',
+      root: 'rasha',
+      suffixes: ['im'],
+      order: {
+        hebrew: 12,
+        english: 13,
+      },
+      morphology: {
+        type: 'adjective',
+        gender: 'masculine',
+        number: 'plural',
+      },
+      grammarSuffix: {
+        englishNatural: '.',
+      },
+    },
+    {
+      hebrew: 'שִׁבַּֽרְתָּ',
+      transliteration: 'shibarta',
+      englishLiteral: 'you-have-broken',
+      englishNatural: 'you have broken',
+      root: 'shabar',
+      suffixes: ['ta'],
+      order: {
+        hebrew: 13,
+        english: 11,
+      },
+      morphology: {
+        type: 'verb',
+        stem: 'piel',
+        tense: 'perfect',
+        person: '2nd',
+        gender: 'masculine',
+        number: 'singular',
+      },
+      grammarSuffix: {
+        hebrew: '׃',
+        englishLiteral: '.',
+      },
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'קוּמָ֣ה יְ֭הוָה הוֹשִׁיעֵ֣נִי אֱלֹהַ֑י כִּֽי־הִכִּ֖יתָ אֶת־כָּל־אֹיְבַ֥י לֶ֗חִי שִׁנֵּ֖י רְשָׁעִ֣ים שִׁבַּֽרְתָּ׃',
+    transliteration:
+      'qumah YHWH hoshieni elohai ki-hikkita et-kol-oyvai lechi shinei reshaim shibarta',
+    englishLiteral:
+      'Stand_up He_Who_Is (YHWH) save-me Gods-my; that- you-have-struck_down ↳ all- enemies-my cheek; teeth-of wicked you-have-broken.',
+    englishNatural:
+      'Stand-up, He-Who-Is (YHWH)! Save me, my God; that you have struck-down all my enemies on the cheek; you have broken the teeth of the wicked.',
+    kjv: 'Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly.',
+    lastReviewed: { name: 'Matt Gross', date: '2026-05-10' },
+},
+};

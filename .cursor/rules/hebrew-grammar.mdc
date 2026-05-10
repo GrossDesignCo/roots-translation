@@ -104,13 +104,34 @@ This applies to **all** prefixes — prepositions (`be`, `le`, `mi`), articles (
 
 ## Imperfect Tense: "will" in literal; present allowed in natural (poetry)
 
-**`englishLiteral`:** Always render the Hebrew imperfect with **"will"** (never "shall"): `I-will-see`, `you-will-remember`, `he-will-give`. Dictionary imperfect prefixes stay aligned with **will**.
+**`englishLiteral`:** Always render the Hebrew imperfect with **"will"** (never "shall"): `I-will-see`, `you-will-remember`, `he-will-give`. Dictionary imperfect prefixes stay aligned with **will**. This preserves the imperfect's vagueness — it does not commit to English past, present, or future. "Will" is the project's consistent literal gloss for imperfect morphology.
 
 **`englishNatural`:** Default to **will** / **I will …** in narrative and prose so English tense matches the Hebrew form.
 
 **Exception (poetry, psalms, prayer, vivid contemplation):** When it **reads better** without changing the semantic frame, natural English may use the **simple present** (or progressive) — e.g. "I see your heavens" (Psalm 8:3) beside literal `I-will-see`. The Hebrew is still tagged `imperfect`; the literal line keeps **will**. Reviewer choice; use consistently within a passage where possible.
 
 Never use **shall** for the Hebrew imperfect.
+
+## Waw-Consecutive (Vav-Consecutive)
+
+Hebrew uses the conjunction **waw** (וְ / וַ / וּ) before verb forms to create sequential/narrative action. All three vocalizations — `ve` (shewa), `va` (patach + dagesh), `u` (shureq) — express the **same conjunction "and"**; they are allographs conditioned by phonology, not semantically distinct words.
+
+### Waw-consecutive imperfect (vayyiqtol pattern)
+
+`va` + imperfect-form verb. In narrative, this converts imperfect aspect to **sequential past** action. In `englishLiteral`: keep the standard imperfect rendering **"and-he-will-…"** (the literal line always renders imperfect as "will," regardless of discourse function — the data encodes the morphology, not interpretation). In `englishNatural`: render as **past** ("and he said," "and I slept") when the context is past narrative; render as present or future when the context is ongoing/prophetic.
+
+### Waw-consecutive perfect (weqatal pattern)
+
+`ve` + perfect-form verb. Converts perfect aspect to **sequential future** or consequential action. In `englishLiteral`: keep the standard perfect rendering **"and-he-has-…"**. In `englishNatural`: render as future ("and he will …") or imperative sequence ("and do …") per context.
+
+### Prefix dictionary: `ve`, `va`, `u` all mean "and"
+
+All three waw prefix entries gloss as **"and"** in both `englishLiteral` and `englishNatural`. The distinction is phonological:
+- `ve` (וְ) — default shewa form
+- `va` (וַ) — patach + dagesh (common before imperfect verbs)
+- `u` (וּ) — shureq form (before labials, or in other phonological contexts)
+
+**"But"** is never the default gloss for any waw form. If a reviewer chooses a contrastive "but" rendering for a specific verse (rare, discourse-driven), it goes in `englishNatural` on that word — not in the prefix dictionary.
 
 ## Verb Person and Number
 
@@ -132,3 +153,9 @@ Dictionary root entries always use the **singular** (or simplest) form of a word
 - עוֹלְלִים (olelim) → root `olel` + suffix `im`.
 
 The principle: if a word has a meaningful singular form that exists as a root, use that root and express the plural morphologically. Only use an inherently-plural root key when no singular form is standard.
+
+### Possessive suffixes on plural nouns (אֱלֹהַי pattern)
+
+When a plural noun takes a possessive suffix, use the **fused suffix key** that combines plurality and possession — e.g., `suffixes: ['ai']` for אֱלֹהַי ("my Gods" / "my God"). Keep `morphology.number: 'plural'` to record the plural morphology. In `englishLiteral`, render the plural: `'Gods-my'`. In `englishNatural`, use the conventional English singular when referring to the God of Israel: `'my God'`.
+
+Pattern: `root: 'eloah'`, `suffixes: ['ai']`, `number: 'plural'`, `englishLiteral: 'Gods-my'`, `englishNatural: 'my God'`. See Jonah 2:6, Psalm 3:7.

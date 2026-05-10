@@ -188,7 +188,7 @@ export const jonah_2_6: Verse = {
     {
       hebrew: 'אֱלֹהָי',
       transliteration: 'elohai',
-      englishLiteral: 'God-my',
+      englishLiteral: 'Gods-my',
       englishNatural: 'my God',
       root: 'eloah',
       suffixes: ['ai'],
@@ -211,10 +211,10 @@ export const jonah_2_6: Verse = {
     transliteration:
       'yaradti leqitzevei harim haaretz bericheiha baadi leolam vataaal mishachat chayai YHWH elohai',
     englishLiteral:
-      'I-went_down to-cutoffs-of mountains; the-earth, bars-her behind-me to-the_age; and-you-brought_up from-corruption life-my, He_Who_Is (YHWH) God-my.',
+      'I-went_down to-cutoffs-of mountains; the-earth, bars-her behind-me to-the_age; and-you-brought_up from-corruption life-my, He_Who_Is (YHWH) Gods-my.',
     englishNatural:
       'I went down to the cutoffs of the mountains; the earth, her bars around me to the-age; and you brought-up from corruption my life, He-Who-Is (YHWH) my God.',
     kjv: 'I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-05-10' },
   },
 };

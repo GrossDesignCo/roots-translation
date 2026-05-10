@@ -420,6 +420,13 @@ const SUFFIXES = {
     englishNatural: 'your',
     function: '2nd person masculine singular possessive on feminine plural noun',
   },
+  eni: {
+    hebrew: 'ֵנִי',
+    transliteration: 'eni',
+    englishLiteral: 'me',
+    englishNatural: 'me',
+    function: '1st person singular object suffix on imperative/imperfect verb',
+  },
 } as const;
 
 type SuffixKey = keyof typeof SUFFIXES;

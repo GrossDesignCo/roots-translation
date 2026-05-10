@@ -7,17 +7,20 @@ description: Generate word-by-word scripture translation data for Biblical Hebre
 
 ## AI Usage Rules
 
-1. **Never edit human-reviewed translations** without explicit permission. Check `lastReviewed` in `expectedTranslations`.
+1. **Always ask before editing human-reviewed translations**. Check `lastReviewed` in `expectedTranslations`.
 2. **All translation decisions are made by a human.** AI scaffolds the data structure and reference material only.
 3. Always **run tests** after generating verse data: `npm test`
 4. Review the dictionary and add missing roots/prefixes/suffixes when generating verse data.
 5. If you find yourself circling back over the same translation uncertainties more than three times, just pick a placeholder and move on. Note this placeholder to the human so they can dig deeper.
+6. **Work deliberately.** Complete each workflow step fully before moving to the next. Do not skip ahead or combine steps. When building `expectedTranslations` strings, assemble each one word-by-word from the word list — do not write them from memory. After assembling, re-read every `grammarPrefix` and `grammarSuffix` in the word list and confirm each mark appears in the output at the correct position.
 
 **Reviewing or revising** existing verses uses the same rules below (dictionary, `englishLiteral` / `englishNatural`, connective preservation, marks-only grammar fields). You do not need a separate skill — only respect `lastReviewed` and explicit human permission when changing reviewed text.
 
 ## Verse Numbering
 
 Follow the source-language numbering, not modern English conventions. For example, Psalm 8:1 in Hebrew/Masoretic starts with the introductory superscription text, whereas English Bibles typically place that before verse 1. Always use Masoretic numbering for Hebrew, and equivalent source-text numbering for Aramaic and Greek.
+
+**Psalm superscriptions** use **`verse: 0`** (file name `psalms-{N}-0.ts`). The Masoretic verse 1 of a psalm with a superscription is stored in the `verse: 0` file; subsequent verse numbers shift accordingly. See `src/data/scripture/psalms/psalms-8/psalms-8-0.ts` for an example.
 
 ## Workflow
 
@@ -31,9 +34,9 @@ Follow the source-language numbering, not modern English conventions. For exampl
    - Hebrew multi-word idioms: `src/data/dictionary/hebrew/hebrew-idioms.md` (see workflow step 4)
 4. **Check [hebrew-idioms.md](../../src/data/dictionary/hebrew/hebrew-idioms.md)** (Hebrew dictionary phrasebook) if the verse contains a known multi-word formula (e.g. עַל־כֵּן).
 5. **Add missing dictionary entries** for any roots, prefixes, or suffixes not yet in the dictionary. Before adding a root, search `roots.ts` for the same lemma under another key (alternate romanization is a common source of duplicates).
-6. **Generate the verse file** following the data structure below.
+6. **Generate the verse file** following the file structure and data schema below (see also [data-schema.md](data-schema.md) for field-level detail).
 7. **Add the verse export** to the chapter's `index.ts`.
-8. **Verify each word** against the post-generation checklist (see below). When assigning `order`, **condense** to a single number wherever Hebrew/source position and English-natural position match (see **Word Order**).
+8. **Verify each word** against the post-generation checklist (see below). When assigning `order`, **condense** to a single number wherever Hebrew/source position and English-natural position match (see [data-schema.md](data-schema.md) Word Order).
 9. **Run tests** to validate: `npm test` — check output for `console.warn` messages and fix any flagged issues.
 10. **Check for TypeScript errors**: run `npx tsc --noEmit` and resolve any errors before finishing. Common issues include `related` fields referencing keys from the wrong dictionary (e.g., Aramaic keys in a Hebrew `related` array).
 
@@ -47,9 +50,10 @@ After generating verse data, review **each word** against this checklist before 
 4. **Root type match**: Does the word's `morphology.type` match the dictionary root's `type`? If the word is a noun but the root is a verb, create a separate noun root with `related` linking them.
 5. **Dictionary separation**: Noun/verb/adjective forms of the same Hebrew word must be separate dictionary entries linked with `related`. Verse words must reference the entry matching their part of speech.
 6. **`related` field scope**: The `related` array must only contain keys from the **same** dictionary. Hebrew roots reference other Hebrew root keys; Aramaic roots reference other Aramaic root keys. For cross-language links, use `cognateHebrew` on the Aramaic side or `translatedTo` for Greek — never put Aramaic/Greek keys in a Hebrew `related` array.
-7. **`order` condensed when possible**: If a word’s index in **source order** and its index in **English natural** order are the same, use **`order: N`** (one number), not `order: { hebrew: N, english: N }`. Use the **object form only** when those indices differ (reordering for natural English, subject–verb inversion, etc.). For **אֶת־** (**`↳`**), never use **`english: 0`** — give **`אֶת`** its **own** **`english`** (usually **one less** than the following object’s **`english`**) and keep **`englishNatural: ''`** (see **[translation-data.mdc](../../.cursor/rules/translation-data.mdc)**). See **Word Order** below and `src/data/scripture/job/job-1/job-1-8.ts` (split order on the opening verb/name; `order: 3` … `order: 20` for the rest).
+7. **`order` condensed when possible**: If a word's index in **source order** and its index in **English natural** order are the same, use **`order: N`** (one number), not `order: { hebrew: N, english: N }`. Use the **object form only** when those indices differ. For **אֶת־** (**`↳`**), never use **`english: 0`** — see [data-schema.md](data-schema.md) and `.cursor/rules/translation-data.mdc`.
 8. **Finite Hebrew verbs**: set **`morphology.stem`** and **`morphology.tense`** on every finite verb (including imperatives; participles use **`tense: 'participle'`** plus stem).
 9. **Inflected surfaces**: match `root` / `prefixes` / `suffixes` to comparable words already in the data; do not invent a second decomposition pattern for the same kind of form.
+10. **Quoted speech marks**: If the verse contains dialogue or reported speech, verify that opening `"` (via `grammarPrefix`) and closing `"` (via `grammarSuffix`) appear in **both** `englishLiteral` and `englishNatural` expected strings. A missing quote in one column but not the other is the most common error.
 
 ## File Structure
 
@@ -65,7 +69,7 @@ export const genesis_1_1: Verse = {
     verse: 1,
   },
   words: [
-    // TranslationWord objects (see below)
+    // TranslationWord objects — see data-schema.md for field reference
   ],
   expectedTranslations: {
     hebrew: '...', // Full original text in source word order
@@ -78,143 +82,9 @@ export const genesis_1_1: Verse = {
 };
 ```
 
-## TranslationWord Structure
+## Translation Style
 
-Each word in the `words` array has this shape:
-
-```typescript
-{
-  hebrew: 'בְּרֵאשִׁ֖ית',     // Original script (use hebrew, aramaic, OR greek)
-  transliteration: 'beReshit', // camelCase for prefixed words
-  englishLiteral: 'In-heading', // Hyper-literal, source word order
-  englishNatural: 'In the heading', // Natural English
-  root: 'rosh',               // Dictionary key (must exist in roots.ts)
-  prefixes: ['be'],           // Array of dictionary prefix keys
-  suffixes: ['it'],           // Array of dictionary suffix keys
-  order: 1,                   // Prefer this when source index === English natural index
-  // OR split order (when Hebrew vs English indices differ):
-  order: {
-    hebrew: 2,     // Position in original text (used for original, transliteration, englishLiteral)
-    english: 3,    // Position in English natural rendering only
-  },
-  morphology: {
-    type: 'noun',
-    gender: 'feminine',
-    number: 'singular',
-    state: 'absolute',       // For nouns: absolute, construct, emphatic (Aramaic)
-    // For verbs, also include:
-    tense: 'perfect',
-    person: '3rd',
-    stem: 'qal',             // Hebrew: qal, niphal, piel, etc.
-                              // Aramaic: peal, peil, pael, haphel, etc.
-  },
-  grammarSuffix: {           // Punctuation (can differ by language)
-    englishLiteral: ',',
-    englishNatural: ';',
-  },
-  lineBreaksBefore: 1,       // Or { english: 1, aramaic: 1 } per-language
-  lineBreaksAfter: 1,        // Same
-}
-```
-
-## Key Translation Patterns
-
-For complete rules, read [translation-principles.md](../../src/data/translation-principles.md).
-For Hebrew grammar conventions (implied copula, cantillation punctuation, connective word preservation), see `.cursor/rules/hebrew-grammar.mdc`.
-For **fixed Hebrew phrases** whose English discourse equivalent is conventional (e.g. עַל־כֵּן), see **[hebrew-idioms.md](../../src/data/dictionary/hebrew/hebrew-idioms.md)** in the Hebrew dictionary folder.
-
-### englishLiteral
-
-- **Source word order** (Hebrew/Aramaic/Greek). The `order` field's source-language value determines position.
-- **Hyphenated prefixes**: `and-said`, `in-heading`, `the-land`
-- **Underscores** for multi-word concepts from single roots: `steadfast_love`, `Mortal_Man`. Never use bare spaces in compound translations — both in verse words AND dictionary entries.
-- **↳ marker** for Hebrew direct object marker (את/et): `englishLiteral: '↳'`
-- **No filler words**. Restrict to what the source text says.
-- **Root consistency**: if a root is mapped to an English word, every translation of that root must include that same English root in some form (e.g., `arum` → always includes "shrewd": "shrewdness", "was-shrewd", etc.).
-- **Preserve definite article** as `the-` prefix when Hebrew ה or Aramaic emphatic state is present.
-- Aramaic emphatic state (`-א` ending): render as `noun-the` (e.g., `night-the`, `Days-the`).
-
-### englishNatural
-
-- **English word order**. Use `order.english` to reposition words naturally.
-- **Dashes** replace underscores: `steadfast-love`, `Mortal-Man`. Never use underscores or bare spaces — both in verse words AND dictionary entries.
-- **Natural punctuation**: commas, semicolons, periods for clause breaks.
-- Definite articles follow English norms but respect source when present.
-- May add minimal words for readability (e.g., "he was" instead of just "was").
-- **Reverse subject-verb** when needed: literal `And-said Gods` → natural `And God said`.
-
-#### Readable, but Hebrew-tilted (especially poetry / Psalms)
-
-`englishNatural` is **not** the same as idiomatic contemporary English. Aim for a **middle path**:
-
-1. **Keep Hebrew connectives stable** — Follow `.cursor/rules/hebrew-grammar.mdc` (**Connective Word Preservation**). In natural as in literal, keep the same gloss for `al`/`over`, `ki`/`that`, `asher`/`which`, `be`/`in`, `le`/`to`, etc. Do **not** swap them for smoother but different English (e.g. `al` → “upon”, `ki` → “for” / “because”) just to sound more colloquial. That training is for readers learning Hebrew conceptual wiring.
-
-2. **Clause-level reordering is allowed** — Inside those constraints, use `order.english` so phrases read as **English clauses** (subject–verb, sensible phrase breaks, cantillation-informed pauses). You are avoiding **raw Hebrew linear copy** in natural, not avoiding **Hebrew vocabulary** for small words.
-
-3. **Literary / older English word order when it tracks Hebrew better** — When fully idiomatic English would scramble the Hebrew **sequence** of predication, negation, or modality, prefer **intelligible but slightly archaic or formal** order if it flows better to the reviewer than either (a) pure Hebrew mirror or (b) full modern smoothing. Examples (illustrative, not mandatory): placing negation or a trailing “not” closer to Hebrew stress than “I will not …”, or clause orders that sound Jacobean but remain clear. **Human reviewers** choose; AI should scaffold consistent glosses and flag tradeoffs rather than “fixing” toward newspaper English.
-
-4. **Imperfect in `englishNatural` (poetry)** — Keep `englishLiteral` as `I-will-…` / `you-will-…`. In psalms and similar discourse, natural may use **present** (“I see”) when it flows better; default to **will** in prose. See `.cursor/rules/hebrew-grammar.mdc` (Imperfect Tense).
-
-5. **Registered idioms** — For multi-word Hebrew formulas (e.g. עַל־כֵּן), see **[hebrew-idioms.md](../../src/data/dictionary/hebrew/hebrew-idioms.md)** (`src/data/dictionary/hebrew/`): morpheme-accurate **literal**, phrase-level **natural** options approved for the project.
-
-When in doubt: **preserve connector glosses**; **adjust order and punctuation** for breath and clarity; **do not** silently replace Hebrew function words with English near-synonyms in `englishNatural` **except** where [hebrew-idioms.md](../../src/data/dictionary/hebrew/hebrew-idioms.md) explicitly registers a whole-phrase natural equivalent.
-
-### Word Order
-
-Rendering uses `sortWords()` (see `src/utils/sortWords.ts`): a plain **`order` number applies to every word-order key** — the same integer sorts **original / transliteration / `englishLiteral`** (via `hebrew` / `aramaic` / `greek`) **and** **`englishNatural`** (via `english`). So:
-
-- **`order: N` (single number)** — Use when this token’s **source sequence index** and its **English natural sequence index are equal**. This is the preferred default: one field, no duplicated integers. Example: most words in `src/data/scripture/job/job-1/job-1-8.ts` after the opening verb/subject swap.
-- **`order: { hebrew?: …, english?: …, … }`** — Use when indices **differ** (e.g. `וַיֹּאמֶר` / `יְהוָה` → natural “And YHWH said”), or for Aramaic/Greek splits (`aramaic` / `greek` keys as in `TranslationWord` in `src/types.ts`).
-  - **`englishLiteral`** is still built in **source** word order (`hebrew` / `aramaic` / `greek` slot).
-  - **`englishNatural`** follows the **`english`** slot.
-
-**Workflow:** After the first pass, scan for `order` objects where `hebrew === english` (and no other keys differ) and **collapse** to `order: N`. Keep the object only where reordering is required.
-
-**Interrogative הֲלֹא־ + אַתָּה (“Have you not …”):** Hebrew runs **particle + pronoun** (`הֲלֹא־`, then `אַתָּה`), but idiomatic English wants **auxiliary + pronoun + “not”**. Use **split `order`** on the **`english`** slot so **`englishNatural`** sorts as **Have you → not → verb** (e.g. **`אַתָּה`** earlier with **`englishNatural`** **`Have you`**, **`הֲלֹא־`** with **`not`**); **`englishLiteral`** stays in **Hebrew/source order** (see `resolveWordOrderKey`: **`englishLiteral`** uses the **`hebrew`** order key, not **`english`**). See `src/data/scripture/job/job-1/job-1-10.ts`.
-
-**Direct object marker (אֶת־):** **`englishLiteral: '↳'`**, **`englishNatural: ''`** (skipped in `buildVerseText`). Assign **`english`** **uniquely** across the verse; **`אֶת`** is the slot **immediately before** the object in natural order (**usually `objectEnglish - 1`**), so it still sorts directly ahead of its object. Prefer **`order: N`** when **`hebrew === english`**, else **`order: { hebrew, english }`**. Do **not** use **`english: 0`** — see `.cursor/rules/translation-data.mdc`. A plain **`order: 0`** still hides the word from **all** render paths (`TranslationWord.order` in `src/types.ts`).
-
-### grammarSuffix / grammarPrefix
-
-- **Marks only** — punctuation, quotes, and similar typographic/script characters. Do **not** put English words or phrases here; use `englishLiteral` / `englishNatural` (and `order.english` when needed) for lexical material. See `.cursor/rules/hebrew-grammar.mdc` (Grammar Prefix and Suffix: Marks Only).
-- Language-specific punctuation: `{ englishLiteral: ',', englishNatural: ';' }`
-- Aramaic sof pasuq: `{ aramaic: '׃', englishLiteral: '.' }`
-- Quotation marks used as punctuation (dialogue, etc.) are allowed — same marks-only rule as commas and periods.
-- Only on the `TranslationWord`, never embedded in the word text itself.
-- **Quoted speech:** Opening `"` typically goes on `grammarPrefix` of the first quoted Hebrew word; closing `"` (often with period or comma: `.'"`, `,"`) on `grammarSuffix` of the last word inside the quote. **`buildVerseText` emits quotes per language key**—if you set only `grammarPrefix: { englishLiteral: '"' }` and omit `englishNatural`, quotes disappear from the natural column. Default is to duplicate the same typographic marks on both keys unless you deliberately style literal vs natural differently.
-- After edits, verify both columns with `buildVerseText(..., 'englishLiteral' | 'englishNatural', …)` or run `npm run test` (`verseValidation` compares `expectedTranslations` to generated strings).
-
-### lineBreaks
-
-- `lineBreaksBefore: 1` or `lineBreaksAfter: 1` — applies to all languages.
-- Per-language: `lineBreaksBefore: { english: 1 }` — only breaks in English rendering.
-- Typically used for verse structure, poetic formatting, or clause separation.
-
-### Prefixes and Suffixes
-
-- Values are **dictionary keys** (e.g., `'ve'`, `'ha'`, `'be'`, `'im'`, `'it'`, `'a'`, `'ohi'`).
-- The English rendering of these morphemes is baked into `englishLiteral`/`englishNatural`.
-- Transliterations use **camelCase** to show prefix boundaries: `beReshit`, `veEt`, `haShamayim`.
-
-### Aramaic-Specific
-
-- Use `aramaic` field instead of `hebrew`.
-- Emphatic state (definiteness via `-א` suffix) → `state: 'emphatic'`, `suffixes: ['a']`.
-- Aramaic stems: `peal`, `peil`, `pael`, `haphel`, `aphel`, etc. (not Hebrew `qal`/`piel`).
-- `englishLiteral` for emphatic nouns: postfix `the` as `noun-the` (e.g., `skies-the`).
-- `englishNatural` for emphatic nouns: prefix `the` naturally (e.g., `the skies`).
-
-### expectedTranslations
-
-This is a **doublecheck** — the built string from `buildVerseText()` must match exactly.
-
-- `hebrew`/`aramaic`/`greek`: Full original text, source word order, words joined with spaces (no space after maqaf `־` or hyphen in transliteration).
-- `transliteration`: Source word order, no grammar/punctuation.
-- `englishLiteral`: Source word order, with grammar suffixes/prefixes, hyphens preserved.
-- `englishNatural`: English word order, natural punctuation.
-- `kjv`: KJV rendering for reference.
-
-Carefully construct these by mentally walking through the word list in the appropriate order and joining all parts (grammarPrefix + word + grammarSuffix + spacing).
+For `englishLiteral` / `englishNatural` conventions, poetry tilting, and connective preservation rules, see [translation-style.md](translation-style.md).
 
 ## Dictionary Entry Structure
 
@@ -270,9 +140,16 @@ melekh: {
 
 Study these files for patterns before generating:
 - Hebrew: `src/data/scripture/genesis/genesis-1/genesis-1-1.ts`
-- Condensed vs split **`order`**: `src/data/scripture/job/job-1/job-1-8.ts` (object only where יהוה precedes “said” in English natural; otherwise `order: N`); interrogative **`הֲלֹא־` / `אַתָּה`**: `src/data/scripture/job/job-1/job-1-10.ts`
+- Condensed vs split **`order`**: `src/data/scripture/job/job-1/job-1-8.ts` (object only where יהוה precedes "said" in English natural; otherwise `order: N`); interrogative **`הֲלֹא־` / `אַתָּה`**: `src/data/scripture/job/job-1/job-1-10.ts`
 - Aramaic: `src/data/scripture/daniel/daniel-7/daniel-7-13.ts`
 - Full translation rules: `src/data/translation-principles.md`
 - Dictionary README: `src/data/dictionary/README.md`
 - Hebrew idiom phrasebook: `src/data/dictionary/hebrew/hebrew-idioms.md`
 - Full type definitions: `src/types.ts`
+
+## Detailed References
+
+- **Data schema** (TranslationWord fields, word order, grammar fields, expectedTranslations assembly): [data-schema.md](data-schema.md)
+- **Translation style** (englishLiteral/Natural conventions, poetry, connective preservation): [translation-style.md](translation-style.md)
+- **Translation data guardrails** (auto-attached rule): `.cursor/rules/translation-data.mdc`
+- **Hebrew grammar conventions** (auto-attached rule): `.cursor/rules/hebrew-grammar.mdc`
