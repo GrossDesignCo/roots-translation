@@ -1827,6 +1827,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אֱלֹהִים",
+        "transliteration": "Elohim",
+        "englishLiteral": "Gods",
+        "englishNatural": "God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צִוָּה אֹתוֹ **אֱלֹהִים** וַיִּסְגֹּר יְהוָה",
+        "transliteration": "tzivvah oto **Elohim** vaYisgor YHWH",
+        "englishLiteral": "he-has-commanded him **Gods.** And-closed He_Who_Is (YHWH)",
+        "englishNatural": "they came, as which **God** commanded him."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 1
       },
@@ -2752,6 +2777,56 @@
     {
       "location": {
         "book": "Psalms",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בֵֽאלֹהִ֣ים",
+        "transliteration": "beElohim",
+        "englishLiteral": "in-Gods",
+        "englishNatural": "in God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְשׁוּעָ֖תָה ל֣וֹ **בֵֽאלֹהִ֣ים** סֶֽלָה׃",
+        "transliteration": "yeshuatah lo **beElohim** selah",
+        "englishLiteral": "salvation to-him **in-Gods.\"** Selah.",
+        "englishNatural": "salvation to him **in God.\"** Selah."
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֱלֹהַ֑י",
+        "transliteration": "elohai",
+        "englishLiteral": "Gods-my",
+        "englishNatural": "my God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְ֭הוָה הוֹשִׁיעֵ֣נִי **אֱלֹהַ֑י** כִּֽי־ הִכִּ֖יתָ",
+        "transliteration": "YHWH hoshieni **elohai** ki- hikkita",
+        "englishLiteral": "He_Who_Is (YHWH) save-me **Gods-my;** that- you-have-struck_down",
+        "englishNatural": "He-Who-Is (YHWH)! Save me, **my God;** that you have struck-down"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
         "chapter": 8,
         "verse": 5
       },
@@ -3010,7 +3085,7 @@
       "word": {
         "originalScript": "אֱלֹהָי",
         "transliteration": "elohai",
-        "englishLiteral": "God-my",
+        "englishLiteral": "Gods-my",
         "englishNatural": "my God",
         "root": "eloah",
         "morphology": {
@@ -3020,7 +3095,7 @@
       "context": {
         "hebrew": "חַיַּי יְהוָה **אֱלֹהָי**",
         "transliteration": "chayai YHWH **elohai**",
-        "englishLiteral": "life-my, He_Who_Is (YHWH) **God-my.**",
+        "englishLiteral": "life-my, He_Who_Is (YHWH) **Gods-my.**",
         "englishNatural": "my life, He-Who-Is (YHWH) **my God.**"
       }
     },

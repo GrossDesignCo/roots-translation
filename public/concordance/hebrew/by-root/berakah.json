@@ -26,6 +26,31 @@
         "englishLiteral": "your-name, and-be **blessing.\"**",
         "englishNatural": "your name, and be **a blessing.\"**"
       }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בִרְכָתֶ֣ךָ",
+        "transliteration": "birkhatekha",
+        "englishLiteral": "blessing-your",
+        "englishNatural": "your blessing",
+        "root": "berakah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַֽל־ עַמְּךָ֖ **בִרְכָתֶ֣ךָ** סֶּֽלָה׃",
+        "transliteration": "al- ammekha **birkhatekha** selah",
+        "englishLiteral": "over- people-your **blessing-your.** Selah.",
+        "englishNatural": "over your people, **your blessing.** Selah."
+      }
     }
   ]
 }

@@ -29,6 +29,31 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "סָ֝בִ֗יב",
+        "transliteration": "saviv",
+        "englishLiteral": "all_around",
+        "englishNatural": "all-around",
+        "root": "saviv",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עָ֑ם אֲשֶׁ֥ר **סָ֝בִ֗יב** שָׁ֣תוּ עָלָֽי׃",
+        "transliteration": "am asher **saviv** shatu alay",
+        "englishLiteral": "people, which **all_around** they-have-appointed over-me.",
+        "englishNatural": "people, which **all-around** they have appointed over me."
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 4

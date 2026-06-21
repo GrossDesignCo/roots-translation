@@ -204,6 +204,31 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "קוֹלִ֗י",
+        "transliteration": "qoli",
+        "englishLiteral": "my-voice",
+        "englishNatural": "with my voice",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**קוֹלִ֗י** אֶל־ יְהוָ֥ה",
+        "transliteration": "**qoli** el- YHWH",
+        "englishLiteral": "**my-voice** to He_Who_Is (YHWH)",
+        "englishNatural": "to He-Who-Is (YHWH) **with my voice** and he answers me from the mountain of"
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 8,
         "verse": 1

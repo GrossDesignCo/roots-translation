@@ -1,0 +1,34 @@
+{
+  "key": "rabbu",
+  "language": "hebrew",
+  "root": "rabab",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "רַבּ֥וּ",
+        "transliteration": "rabbu",
+        "englishLiteral": "have-been_many",
+        "englishNatural": "have been-many",
+        "root": "rabab",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֗ה מָֽה־ **רַבּ֥וּ** צָרָ֑י רַבִּ֗ים",
+        "transliteration": "YHWH mah- **rabbu** tsarai rabbim",
+        "englishLiteral": "He_Who_Is (YHWH) what- **have-been_many** my-enemies many",
+        "englishNatural": "He-Who-Is (YHWH), what **have been-many** my enemies; many"
+      }
+    }
+  ]
+}

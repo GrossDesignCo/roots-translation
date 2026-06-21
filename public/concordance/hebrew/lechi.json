@@ -1,0 +1,32 @@
+{
+  "key": "lechi",
+  "language": "hebrew",
+  "root": "lechi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "לֶ֗חִי",
+        "transliteration": "lechi",
+        "englishLiteral": "cheek",
+        "englishNatural": "on the cheek",
+        "root": "lechi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ אֹיְבַ֥י **לֶ֗חִי** שִׁנֵּ֖י רְשָׁעִ֣ים",
+        "transliteration": "kol- oyvai **lechi** shinei reshaim",
+        "englishLiteral": "all- enemies-my **cheek;** teeth-of wicked",
+        "englishNatural": "all my enemies **on the cheek;** you have broken the teeth of"
+      }
+    }
+  ]
+}

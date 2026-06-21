@@ -55,6 +55,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אָנֹכִי",
+        "transliteration": "anokhi",
+        "englishLiteral": "I",
+        "englishNatural": "I",
+        "root": "anokhi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹד שִׁבְעָה **אָנֹכִי** מַמְטִיר עַל־",
+        "transliteration": "od shivah **anokhi** maMtir al-",
+        "englishLiteral": "yet seven, **I** causing-to-rain over-",
+        "englishNatural": "yet seven, **I** am causing rain over"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 6

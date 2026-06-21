@@ -55,6 +55,81 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "מְאֹד",
+        "transliteration": "meod",
+        "englishLiteral": "very",
+        "englishNatural": "very",
+        "root": "meod",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הַמַּיִם וַיִּרְבּוּ **מְאֹד** עַל־ הָאָרֶץ",
+        "transliteration": "haMayim vaYirbu **meod** al- haAretz",
+        "englishLiteral": "the-waters and-they-multiplied **very** over- the-land;",
+        "englishNatural": "prevailed and multiplied **very** over the land;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 19
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מְאֹד",
+        "transliteration": "meod",
+        "englishLiteral": "very",
+        "englishNatural": "very",
+        "root": "meod",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַמַּיִם גָּבְרוּ **מְאֹד** מְאֹד עַל־",
+        "transliteration": "veHaMayim gavru **meod** meod al-",
+        "englishLiteral": "And-the-waters they-have-prevailed **very** very over-",
+        "englishNatural": "And the waters have prevailed **very** very over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 19
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "מְאֹד",
+        "transliteration": "meod",
+        "englishLiteral": "very",
+        "englishNatural": "very",
+        "root": "meod",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "גָּבְרוּ מְאֹד **מְאֹד** עַל־ הָאָרֶץ",
+        "transliteration": "gavru meod **meod** al- haAretz",
+        "englishLiteral": "they-have-prevailed very **very** over- the-land;",
+        "englishNatural": "have prevailed very **very** over the land,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 1
       },

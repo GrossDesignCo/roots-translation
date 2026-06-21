@@ -6,6 +6,31 @@
     {
       "location": {
         "book": "Psalms",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "רֹאשִֽׁי",
+        "transliteration": "roshi",
+        "englishLiteral": "my-head",
+        "englishNatural": "my head",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּבוֹדִ֗י וּמֵרִ֥ים **רֹאשִֽׁי׃**",
+        "transliteration": "kevodi uMerim **roshi**",
+        "englishLiteral": "my-glory and-raising **my-head.**",
+        "englishNatural": "my glory and the one-raising **my head.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
         "chapter": 23,
         "verse": 5
       },

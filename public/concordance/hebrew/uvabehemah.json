@@ -27,6 +27,31 @@
         "englishLiteral": "and-in-flyer-of the-skies, **and-in-beast,** and-in-all the-land,",
         "englishNatural": "and in flyer of the skies, **and in the beast,** and in all the land,"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וּבַבְּהֵמָה",
+        "transliteration": "uvaBehemah",
+        "englishLiteral": "and-in-beast",
+        "englishNatural": "and in the beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ בָּעוֹף **וּבַבְּהֵמָה** וּבַחַיָּה וּבְכָל־",
+        "transliteration": "haAretz baOph **uvaBehemah** uvaChayah uveKhol-",
+        "englishLiteral": "the-land, in-flyer **and-in-beast** and-in-living_being and-in-all-",
+        "englishNatural": "the land, in the flyer **and in the beast** and in the living-being and in all"
+      }
     }
   ]
 }

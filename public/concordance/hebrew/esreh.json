@@ -55,6 +55,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 20
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "עֶשְׂרֵה",
+        "transliteration": "esreh",
+        "englishLiteral": "ten",
+        "englishNatural": "ten",
+        "root": "esreh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "חֲמֵשׁ **עֶשְׂרֵה** אַמָּה מִלְמַעְלָה",
+        "transliteration": "chamesh **esreh** ammah milmalah",
+        "englishLiteral": "Five **ten** cubits from-to-upward",
+        "englishNatural": "Five **ten** cubits upward"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 4,
         "verse": 11

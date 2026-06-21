@@ -1,0 +1,32 @@
+{
+  "key": "meoph",
+  "language": "hebrew",
+  "root": "oph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מֵעוֹף",
+        "transliteration": "meOph",
+        "englishLiteral": "from-flyer",
+        "englishNatural": "from the flyer of",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַּם **מֵעוֹף** הַשָּׁמַיִם שִׁבְעָה",
+        "transliteration": "gam **meOph** haShamayim shivah",
+        "englishLiteral": "Also **from-flyer** the-skies seven",
+        "englishNatural": "Also **from the flyer of** the skies seven"
+      }
+    }
+  ]
+}

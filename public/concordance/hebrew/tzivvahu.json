@@ -1,0 +1,34 @@
+{
+  "key": "tzivvahu",
+  "language": "hebrew",
+  "root": "tzavah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "צִוָּהוּ",
+        "transliteration": "tzivvahu",
+        "englishLiteral": "he-has-commanded-him",
+        "englishNatural": "commanded him",
+        "root": "tzavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כְּכֹל אֲשֶׁר **צִוָּהוּ** יְהוָה",
+        "transliteration": "keKol asher **tzivvahu** YHWH",
+        "englishLiteral": "as-all which **he-has-commanded-him** He_Who_Is (YHWH).",
+        "englishNatural": "which He-Who-Is (YHWH) **commanded him.**"
+      }
+    }
+  ]
+}

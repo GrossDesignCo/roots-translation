@@ -1,0 +1,81 @@
+{
+  "root": "layil",
+  "language": "aramaic",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לֵֽילְיָ֑א",
+        "transliteration": "leila",
+        "englishLiteral": "night",
+        "englishNatural": "night",
+        "root": "layil",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּחֶזְוִ֖י עִם־ **לֵֽילְיָ֑א** וַאֲר֗וּ אַרְבַּע֙",
+        "transliteration": "beKhezvi im- **leila** vaAru arba",
+        "englishLiteral": "in-vision-my with- **night;** and-behold, four",
+        "englishNatural": "in my vision with **night,** and behold, the four"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "לֵֽילְיָ֗א",
+        "transliteration": "leila",
+        "englishLiteral": "night-the",
+        "englishNatural": "of the night",
+        "root": "layil",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲוֵ֜ית בְּחֶזְוֵ֣י **לֵֽילְיָ֗א** וַאֲר֣וּ חֵיוָה֩",
+        "transliteration": "haveit beKhezevei **leila** vaAru kheyva",
+        "englishLiteral": "I-was in-visions **night-the,** and-behold, beast",
+        "englishNatural": "looking in the visions **of the night,** and behold, a fourth"
+      }
+    },
+    {
+      "location": {
+        "book": "Daniel",
+        "chapter": 7,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לֵֽילְיָ֔א",
+        "transliteration": "leila",
+        "englishLiteral": "night-the",
+        "englishNatural": "the night",
+        "root": "layil",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲוֵית֙ בְּחֶזְוֵ֣י **לֵֽילְיָ֔א** וַאֲר֗וּ עִם־",
+        "transliteration": "haveit beKhezevei **leila** vaAru im-",
+        "englishLiteral": "I-was in-visions **night-the,** and-behold, with-",
+        "englishNatural": "looking in the visions of **the night,** and behold, with"
+      }
+    }
+  ]
+}

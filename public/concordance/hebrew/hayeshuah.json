@@ -1,0 +1,32 @@
+{
+  "key": "hayeshuah",
+  "language": "hebrew",
+  "root": "yeshuah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַיְשׁוּעָ֑ה",
+        "transliteration": "haYeshuah",
+        "englishLiteral": "the-salvation",
+        "englishNatural": "the salvation",
+        "root": "yeshuah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַיהוָ֥ה **הַיְשׁוּעָ֑ה** עַֽל־ עַמְּךָ֖",
+        "transliteration": "laYHWH **haYeshuah** al- ammekha",
+        "englishLiteral": "to-He_Who_Is (YHWH) **the-salvation;** over- people-your",
+        "englishNatural": "To He-Who-Is (YHWH) **the salvation;** over your people,"
+      }
+    }
+  ]
+}

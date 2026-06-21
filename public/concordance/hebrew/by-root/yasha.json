@@ -1,0 +1,33 @@
+{
+  "root": "yasha",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הוֹשִׁיעֵ֣נִי",
+        "transliteration": "hoshieni",
+        "englishLiteral": "save-me",
+        "englishNatural": "Save me",
+        "root": "yasha",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "קוּמָ֣ה יְ֭הוָה **הוֹשִׁיעֵ֣נִי** אֱלֹהַ֑י כִּֽי־",
+        "transliteration": "qumah YHWH **hoshieni** elohai ki-",
+        "englishLiteral": "Stand_up He_Who_Is (YHWH) **save-me** Gods-my; that-",
+        "englishNatural": "Stand-up, He-Who-Is (YHWH)! **Save me,** my God; that"
+      }
+    }
+  ]
+}

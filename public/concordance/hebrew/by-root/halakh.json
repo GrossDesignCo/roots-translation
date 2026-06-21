@@ -167,6 +167,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 18
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וַתֵּלֶךְ",
+        "transliteration": "vaTelekh",
+        "englishLiteral": "and-it-walked",
+        "englishNatural": "walked",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **וַתֵּלֶךְ** הַתֵּבָה עַל־",
+        "transliteration": "al- haAretz **vaTelekh** haTevah al-",
+        "englishLiteral": "over- the-land; **and-it-walked** the-ark over-",
+        "englishNatural": "the land; and the ark **walked** over the face of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 12,
         "verse": 1
       },

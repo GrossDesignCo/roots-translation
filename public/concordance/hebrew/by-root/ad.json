@@ -105,6 +105,81 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "עַד־",
+        "transliteration": "ad-",
+        "englishLiteral": "until-",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה מֵאָדָם **עַד־** בְּהֵמָה עַד־",
+        "transliteration": "haAdamah meAdam **ad-** behemah ad-",
+        "englishLiteral": "the-earth, from-Earthling (Adam) **until-** beast until-",
+        "englishNatural": "the earth, from Earthling (Adam) **until** beast until"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "עַד־",
+        "transliteration": "ad-",
+        "englishLiteral": "until-",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עַד־ בְּהֵמָה **עַד־** רֶמֶשׂ וְעַד־",
+        "transliteration": "ad- behemah **ad-** remes veAd-",
+        "englishLiteral": "until- beast **until-** creeping_thing and-until-",
+        "englishNatural": "until beast **until** creeping-thing and until"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "וְעַד־",
+        "transliteration": "veAd-",
+        "englishLiteral": "and-until-",
+        "englishNatural": "and until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עַד־ רֶמֶשׂ **וְעַד־** עוֹף הַשָּׁמַיִם",
+        "transliteration": "ad- remes **veAd-** oph haShamayim",
+        "englishLiteral": "until- creeping_thing **and-until-** flyer the-skies;",
+        "englishNatural": "until creeping-thing **and until** flyer the skies;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 16
       },

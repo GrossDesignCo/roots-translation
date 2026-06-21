@@ -32,6 +32,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אַרְבָּעִים",
+        "transliteration": "arbaim",
+        "englishLiteral": "forty",
+        "englishNatural": "forty",
+        "root": "arbaim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **אַרְבָּעִים** יוֹם וְאַרְבָּעִים",
+        "transliteration": "al- haAretz **arbaim** yom veArbaim",
+        "englishLiteral": "over- the-land, **forty** day and-forty",
+        "englishNatural": "over the land, **forty** days and forty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 12
       },
       "wordIndex": 4,
@@ -51,6 +76,31 @@
         "transliteration": "al- haAretz **arbaim** yom veArbaim",
         "englishLiteral": "over- the-land, **forty** day and-forty",
         "englishNatural": "over the land, **forty** days and forty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אַרְבָּעִים",
+        "transliteration": "arbaim",
+        "englishLiteral": "forty",
+        "englishNatural": "forty",
+        "root": "arbaim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי הַמַּבּוּל **אַרְבָּעִים** יוֹם עַל־",
+        "transliteration": "vaYehi haMabbul **arbaim** yom al-",
+        "englishLiteral": "And-was the-flood **forty** day over-",
+        "englishNatural": "And the flood was **forty** days over"
       }
     },
     {

@@ -1,0 +1,32 @@
+{
+  "key": "leyamim",
+  "language": "hebrew",
+  "root": "yom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "לְיָמִים",
+        "transliteration": "leYamim",
+        "englishLiteral": "to-days",
+        "englishNatural": "to days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי **לְיָמִים** עוֹד שִׁבְעָה",
+        "transliteration": "ki **leYamim** od shivah",
+        "englishLiteral": "That **to-days** yet seven,",
+        "englishNatural": "That **to days** yet seven,"
+      }
+    }
+  ]
+}

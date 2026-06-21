@@ -1055,6 +1055,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "הָאָדָם",
+        "transliteration": "haAdam",
+        "englishLiteral": "the-Earthling (Adam)",
+        "englishNatural": "the Earthling (Adam)",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ וְכֹל **הָאָדָם**",
+        "transliteration": "haAretz veKhol **haAdam**",
+        "englishLiteral": "the-land, and-all **the-Earthling (Adam).**",
+        "englishNatural": "the land, and all **the Earthling (Adam).**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "מֵאָדָם",
+        "transliteration": "meAdam",
+        "englishLiteral": "from-Earthling (Adam)",
+        "englishNatural": "from Earthling (Adam)",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פְּנֵי הָאֲדָמָה **מֵאָדָם** עַד־ בְּהֵמָה",
+        "transliteration": "peney haAdamah **meAdam** ad- behemah",
+        "englishLiteral": "faces-of the-earth, **from-Earthling (Adam)** until- beast",
+        "englishNatural": "the face of the earth, **from Earthling (Adam)** until beast"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 8,
         "verse": 21
       },

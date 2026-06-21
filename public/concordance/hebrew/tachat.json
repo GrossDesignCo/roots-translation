@@ -27,6 +27,31 @@
         "englishLiteral": "seed another **instead-of** Vapor (Abel); that",
         "englishNatural": "another seed **instead of** Vapor (Abel); that"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 19
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "תַּחַת",
+        "transliteration": "tachat",
+        "englishLiteral": "under",
+        "englishNatural": "were under",
+        "root": "tachat",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַגְּבֹהִים אֲשֶׁר־ **תַּחַת** כָּל־ הַשָּׁמָיִם",
+        "transliteration": "haGevohim asher- **tachat** kol- haShamayim",
+        "englishLiteral": "the-tall which- **under** all- the-skies.",
+        "englishNatural": "the tall which **were under** all the skies"
+      }
     }
   ]
 }

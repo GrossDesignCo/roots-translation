@@ -102,6 +102,31 @@
         "englishLiteral": "to-the-ark, and-to- **cubit** you-shall-finish-her from-to-upward;",
         "englishNatural": "for the ark, and to **a cubit** you shall finish it from upward;"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אַמָּה",
+        "transliteration": "ammah",
+        "englishLiteral": "cubits",
+        "englishNatural": "cubits",
+        "root": "ammah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֲמֵשׁ עֶשְׂרֵה **אַמָּה** מִלְמַעְלָה גָּבְרוּ",
+        "transliteration": "chamesh esreh **ammah** milmalah gavru",
+        "englishLiteral": "Five ten **cubits** from-to-upward they-have-prevailed",
+        "englishNatural": "Five ten **cubits** upward the waters"
+      }
     }
   ]
 }

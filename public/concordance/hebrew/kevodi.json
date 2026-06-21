@@ -1,0 +1,32 @@
+{
+  "key": "kevodi",
+  "language": "hebrew",
+  "root": "kavod",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "כְּבוֹדִ֗י",
+        "transliteration": "kevodi",
+        "englishLiteral": "my-glory",
+        "englishNatural": "my glory",
+        "root": "kavod",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מָגֵ֣ן בַּעֲדִ֑י **כְּבוֹדִ֗י** וּמֵרִ֥ים רֹאשִֽׁי׃",
+        "transliteration": "magen baAdi **kevodi** uMerim roshi",
+        "englishLiteral": "shield around-me; **my-glory** and-raising my-head.",
+        "englishNatural": "are a shield around me; **my glory** and the one-raising my head."
+      }
+    }
+  ]
+}

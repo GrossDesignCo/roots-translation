@@ -6,6 +6,56 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אַרְבָּעִים",
+        "transliteration": "arbaim",
+        "englishLiteral": "forty",
+        "englishNatural": "forty",
+        "root": "arbaim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **אַרְבָּעִים** יוֹם וְאַרְבָּעִים",
+        "transliteration": "al- haAretz **arbaim** yom veArbaim",
+        "englishLiteral": "over- the-land, **forty** day and-forty",
+        "englishNatural": "over the land, **forty** days and forty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וְאַרְבָּעִים",
+        "transliteration": "veArbaim",
+        "englishLiteral": "and-forty",
+        "englishNatural": "and forty",
+        "root": "arbaim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְבָּעִים יוֹם **וְאַרְבָּעִים** לָיְלָה וּמָחִיתִי",
+        "transliteration": "arbaim yom **veArbaim** laylah uMachiti",
+        "englishLiteral": "forty day **and-forty** night; and-I-will-wipe_out",
+        "englishNatural": "forty days **and forty** nights; and I will wipe-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 12
       },
       "wordIndex": 4,
@@ -50,6 +100,31 @@
         "transliteration": "arbaim yom **veArbaim** laylah",
         "englishLiteral": "forty day **and-forty** night.",
         "englishNatural": "forty days **and forty** nights."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אַרְבָּעִים",
+        "transliteration": "arbaim",
+        "englishLiteral": "forty",
+        "englishNatural": "forty",
+        "root": "arbaim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי הַמַּבּוּל **אַרְבָּעִים** יוֹם עַל־",
+        "transliteration": "vaYehi haMabbul **arbaim** yom al-",
+        "englishLiteral": "And-was the-flood **forty** day over-",
+        "englishNatural": "And the flood was **forty** days over"
       }
     },
     {

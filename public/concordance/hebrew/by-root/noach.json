@@ -181,6 +181,56 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לְנֹחַ",
+        "transliteration": "leNoach",
+        "englishLiteral": "to-Rest (Noah)",
+        "englishNatural": "to Rest (Noah)",
+        "root": "noach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **לְנֹחַ** בֹּא־ אַתָּה",
+        "transliteration": "vaYomer YHWH **leNoach** bo- attah",
+        "englishLiteral": "And-he-said He_Who_Is (YHWH) **to-Rest (Noah),** \"Come- you",
+        "englishNatural": "And He-Who-Is (YHWH) said **to Rest (Noah),** \"Come, you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "נֹחַ",
+        "transliteration": "Noach",
+        "englishLiteral": "Rest (Noah)",
+        "englishNatural": "And Rest (Noah)",
+        "root": "noach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעַשׂ **נֹחַ** כְּכֹל אֲשֶׁר",
+        "transliteration": "vaYaas **Noach** keKol asher",
+        "englishLiteral": "And-he-made **Rest (Noah)** as-all which",
+        "englishNatural": "**And Rest (Noah)** did as all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 6
       },
       "wordIndex": 0,
@@ -375,6 +425,56 @@
         "transliteration": "Noach veEshet **Noach** uShloshet neshey-",
         "englishLiteral": "Rest (Noah), and-woman-of **Rest (Noah)** and-three-of women-of-",
         "englishNatural": "Rest (Noah), and the woman of **Rest (Noah)** and the three women of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 15
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "נֹחַ",
+        "transliteration": "Noach",
+        "englishLiteral": "Rest (Noah)",
+        "englishNatural": "Rest (Noah)",
+        "root": "noach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּבֹאוּ אֶל־ **נֹחַ** אֶל־ הַתֵּבָה",
+        "transliteration": "vaYavou el- **Noach** el- haTevah",
+        "englishLiteral": "And-they-came to- **Rest (Noah)** to- the-ark,",
+        "englishNatural": "And they came to **Rest (Noah)** to the ark,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 21,
+      "sourceOrder": 21,
+      "word": {
+        "originalScript": "נֹחַ",
+        "transliteration": "Noach",
+        "englishLiteral": "Rest (Noah)",
+        "englishNatural": "Rest (Noah)",
+        "root": "noach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּשָּׁאֶר אַךְ־ **נֹחַ** וַאֲשֶׁר אִתּוֹ",
+        "transliteration": "vayyishshaEr akh- **Noach** vaAsher itto",
+        "englishLiteral": "and-he-will-remain only- **Rest (Noah)** and-which with-him",
+        "englishNatural": "and remained only **Rest (Noah)** and which with him"
       }
     },
     {

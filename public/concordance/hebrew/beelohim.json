@@ -1,0 +1,32 @@
+{
+  "key": "beelohim",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בֵֽאלֹהִ֣ים",
+        "transliteration": "beElohim",
+        "englishLiteral": "in-Gods",
+        "englishNatural": "in God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְשׁוּעָ֖תָה ל֣וֹ **בֵֽאלֹהִ֣ים** סֶֽלָה׃",
+        "transliteration": "yeshuatah lo **beElohim** selah",
+        "englishLiteral": "salvation to-him **in-Gods.\"** Selah.",
+        "englishNatural": "salvation to him **in God.\"** Selah."
+      }
+    }
+  ]
+}

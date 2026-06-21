@@ -681,6 +681,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "הָאָדָם",
+        "transliteration": "haAdam",
+        "englishLiteral": "the-Earthling (Adam)",
+        "englishNatural": "the Earthling (Adam)",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ וְכֹל **הָאָדָם**",
+        "transliteration": "haAretz veKhol **haAdam**",
+        "englishLiteral": "the-land, and-all **the-Earthling (Adam).**",
+        "englishNatural": "the land, and all **the Earthling (Adam).**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 8,
         "verse": 21
       },

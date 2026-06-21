@@ -1,0 +1,202 @@
+import { Verse } from '@/types';
+
+export const genesis_7_18: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 7,
+    verse: 18,
+  },
+  words: [
+    {
+      hebrew: 'וַיִּגְבְּרוּ',
+      transliteration: 'vaYigberu',
+      englishLiteral: 'And-they-prevailed',
+      englishNatural: 'prevailed',
+      root: 'gavar',
+      prefixes: ['va'],
+      suffixes: ['plural_verb_u'],
+      order: {
+        hebrew: 1,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'הַמַּיִם',
+      transliteration: 'haMayim',
+      englishLiteral: 'the-waters',
+      englishNatural: 'And the waters',
+      root: 'mayim',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 2,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וַיִּרְבּוּ',
+      transliteration: 'vaYirbu',
+      englishLiteral: 'and-they-multiplied',
+      englishNatural: 'and multiplied',
+      root: 'rabah',
+      prefixes: ['va'],
+      suffixes: ['plural_verb_u'],
+      order: 3,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'מְאֹד',
+      transliteration: 'meod',
+      englishLiteral: 'very',
+      englishNatural: 'very',
+      root: 'meod',
+      order: 4,
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'עַל־',
+      transliteration: 'al-',
+      englishLiteral: 'over-',
+      englishNatural: 'over',
+      root: 'al',
+      order: 5,
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'הָאָרֶץ',
+      transliteration: 'haAretz',
+      englishLiteral: 'the-land',
+      englishNatural: 'the land',
+      root: 'eretz',
+      prefixes: ['ha'],
+      order: 6,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+    },
+    {
+      hebrew: 'וַתֵּלֶךְ',
+      transliteration: 'vaTelekh',
+      englishLiteral: 'and-it-walked',
+      englishNatural: 'walked',
+      root: 'halakh',
+      prefixes: ['va'],
+      order: {
+        hebrew: 7,
+        english: 8,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'הַתֵּבָה',
+      transliteration: 'haTevah',
+      englishLiteral: 'the-ark',
+      englishNatural: 'and the ark',
+      root: 'tevah',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 8,
+        english: 7,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'עַל־',
+      transliteration: 'al-',
+      englishLiteral: 'over-',
+      englishNatural: 'over',
+      root: 'al',
+      order: 9,
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'פְּנֵי',
+      transliteration: 'penei',
+      englishLiteral: 'faces-of',
+      englishNatural: 'the face of',
+      root: 'panim',
+      order: 10,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַמָּיִם',
+      transliteration: 'haMayim',
+      englishLiteral: 'the-waters',
+      englishNatural: 'the waters',
+      root: 'mayim',
+      prefixes: ['ha'],
+      order: 11,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַיִּגְבְּרוּ הַמַּיִם וַיִּרְבּוּ מְאֹד עַל־הָאָרֶץ וַתֵּלֶךְ הַתֵּבָה עַל־פְּנֵי הַמָּיִם',
+    transliteration:
+      'vaYigberu haMayim vaYirbu meod al-haAretz vaTelekh haTevah al-penei haMayim',
+    englishLiteral:
+      'And-they-prevailed the-waters and-they-multiplied very over- the-land; and-it-walked the-ark over- faces-of the-waters.',
+    englishNatural:
+      'And the waters prevailed and multiplied very over the land; and the ark walked over the face of the waters.',
+    kjv: 'And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters.',
+    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
+},
+};

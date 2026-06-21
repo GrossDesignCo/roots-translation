@@ -1,0 +1,61 @@
+{
+  "key": "gavru",
+  "language": "hebrew",
+  "root": "gavar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 19
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "גָּבְרוּ",
+        "transliteration": "gavru",
+        "englishLiteral": "they-have-prevailed",
+        "englishNatural": "have prevailed",
+        "root": "gavar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַמַּיִם **גָּבְרוּ** מְאֹד מְאֹד",
+        "transliteration": "veHaMayim **gavru** meod meod",
+        "englishLiteral": "And-the-waters **they-have-prevailed** very very",
+        "englishNatural": "And the waters **have prevailed** very very"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 20
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "גָּבְרוּ",
+        "transliteration": "gavru",
+        "englishLiteral": "they-have-prevailed",
+        "englishNatural": "have prevailed",
+        "root": "gavar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אַמָּה מִלְמַעְלָה **גָּבְרוּ** הַמָּיִם וַיְכֻסּוּ",
+        "transliteration": "ammah milmalah **gavru** haMayim vaYekhusu",
+        "englishLiteral": "cubits from-to-upward **they-have-prevailed** the-waters; and-were-covered",
+        "englishNatural": "upward the waters **have prevailed,** and the mountains were covered."
+      }
+    }
+  ]
+}

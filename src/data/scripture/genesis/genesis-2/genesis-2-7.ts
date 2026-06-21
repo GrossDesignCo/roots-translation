@@ -154,7 +154,7 @@ export const genesis_2_7: Verse = {
       transliteration: 'beAppav',
       englishLiteral: 'in-his-nostrils',
       englishNatural: 'into his nostrils',
-      root: 'af',
+      root: 'aph',
       prefixes: ['be'],
       suffixes: ['av'],
       order: 10,
@@ -289,6 +289,6 @@ export const genesis_2_7: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God formed the Earthling (Adam), dust from the earth; and blew into his nostrils the breath of life, and the Earthling (Adam) was a living throat.',
     kjv: 'And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
   },
 };

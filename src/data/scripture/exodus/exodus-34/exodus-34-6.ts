@@ -196,7 +196,7 @@ export const exodus_34_6: Verse = {
       transliteration: 'apayim',
       englishLiteral: 'nostrils',
       englishNatural: 'nostrils',
-      root: 'af',
+      root: 'aph',
       suffixes: ['ayim'],
       order: 12,
       morphology: {
@@ -267,6 +267,6 @@ export const exodus_34_6: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) passed through over his face, and called-out, "He-Who-Is (YHWH), He-Who-Is (YHWH), God, compassionate, and gracious, long of nostrils, and abundant in steadfast-love and truth.',
     kjv: 'And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
   },
 };

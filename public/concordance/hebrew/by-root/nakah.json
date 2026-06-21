@@ -139,6 +139,33 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הִכִּ֖יתָ",
+        "transliteration": "hikkita",
+        "englishLiteral": "you-have-struck_down",
+        "englishNatural": "you have struck-down",
+        "root": "nakah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהַ֑י כִּֽי־ **הִכִּ֖יתָ** אֶת־ כָּל־",
+        "transliteration": "elohai ki- **hikkita** et- kol-",
+        "englishLiteral": "Gods-my; that- **you-have-struck_down** ↳ all-",
+        "englishNatural": "my God; that **you have struck-down** ↳ all"
+      }
+    },
+    {
+      "location": {
         "book": "Isaiah",
         "chapter": 14,
         "verse": 29

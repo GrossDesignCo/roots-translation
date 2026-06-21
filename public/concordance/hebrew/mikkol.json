@@ -1,0 +1,32 @@
+{
+  "key": "mikkol",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "מִכֹּל",
+        "transliteration": "mikKol",
+        "englishLiteral": "from-all",
+        "englishNatural": "from all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "חַיִּים בְּאַפָּיו **מִכֹּל** אֲשֶׁר בֶּחָרָבָה",
+        "transliteration": "chayyim beAppav **mikKol** asher beCharavah",
+        "englishLiteral": "lives in-nose-his, **from-all** which in-dry_land,",
+        "englishNatural": "lives in his nostrils, **from all** which in the dry-land,"
+      }
+    }
+  ]
+}

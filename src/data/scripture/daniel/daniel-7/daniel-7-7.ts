@@ -86,7 +86,7 @@ export const daniel_7_7: Verse = {
       transliteration: 'leila',
       englishLiteral: 'night-the',
       englishNatural: 'of the night',
-      root: 'laylah',
+      root: 'layil',
       suffixes: ['a'],
       order: 6,
       morphology: {
@@ -535,6 +535,6 @@ export const daniel_7_7: Verse = {
     englishLiteral: 'After this looking I-was in-visions night-the, and-behold, beast fourth, dreadful and-terrible and-strong exceedingly, and-teeth of- iron to-her; devouring and-crushing, and-the-remainder with-feet-its trampling; and-she different from- all- the-beasts which before-her, and-horns ten to-her.',
     englishNatural: 'After this I was looking in the visions of the night, and behold, a fourth beast, dreadful and terrible and exceedingly strong; and teeth of iron to it; devouring and crushing, and trampling the remainder with its feet; and it, different from all the beasts that, before it, and ten horns to it.',
     kjv: 'After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-03-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
   },
 };

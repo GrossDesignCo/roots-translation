@@ -16,7 +16,7 @@
         "transliteration": "hineh",
         "englishLiteral": "Behold",
         "englishNatural": "Behold",
-        "root": "hinneh",
+        "root": "hineh",
         "morphology": {
           "type": "particle"
         }
@@ -76,6 +76,31 @@
         "transliteration": "el- haShatan **hineh** khol- asher-",
         "englishLiteral": "to- the-Adversary (Satan), **\"behold** all- which-",
         "englishNatural": "to the Adversary (Satan), **\"Behold** all which"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הִנֵּה",
+        "transliteration": "hineh",
+        "englishLiteral": "Behold",
+        "englishNatural": "Behold",
+        "root": "hineh",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "פִּי וַיֹּאמֶר **הִנֵּה** נָגַע זֶה",
+        "transliteration": "pi vaYomer **hineh** naga zeh",
+        "englishLiteral": "my-mouth, and-he-said, **\"Behold,** has-touched this",
+        "englishNatural": "my mouth, and he said, **\"Behold,** this has touched"
       }
     }
   ]

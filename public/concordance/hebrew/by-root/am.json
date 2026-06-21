@@ -405,6 +405,56 @@
     {
       "location": {
         "book": "Psalms",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "עָ֑ם",
+        "transliteration": "am",
+        "englishLiteral": "people",
+        "englishNatural": "people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִ֫ירָ֥א מֵרִבְב֥וֹת **עָ֑ם** אֲשֶׁ֥ר סָ֝בִ֗יב",
+        "transliteration": "eIra meRivevot **am** asher saviv",
+        "englishLiteral": "I-will-fear from-ten_thousands-of **people,** which all_around",
+        "englishNatural": "not from ten-thousands of **people,** which all-around"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "עַמְּךָ֖",
+        "transliteration": "ammekha",
+        "englishLiteral": "people-your",
+        "englishNatural": "your people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיְשׁוּעָ֑ה עַֽל־ **עַמְּךָ֖** בִרְכָתֶ֣ךָ סֶּֽלָה׃",
+        "transliteration": "haYeshuah al- **ammekha** birkhatekha selah",
+        "englishLiteral": "the-salvation; over- **people-your** blessing-your. Selah.",
+        "englishNatural": "the salvation; over **your people,** your blessing. Selah."
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
         "chapter": 117,
         "verse": 1
       },

@@ -750,6 +750,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ בֵּיתְךָ **אֶל־** הַתֵּבָה כִּי־",
+        "transliteration": "veKhol- beitekha **el-** haTevah ki-",
+        "englishLiteral": "and-all- house-your, **to-** the-ark; that-",
+        "englishNatural": "and all your house, **to** the ark; that"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 7
       },
       "wordIndex": 7,
@@ -844,6 +869,56 @@
         "transliteration": "vanav ittam **el-** haTevah",
         "englishLiteral": "sons-his with-them, **to-** the-ark;",
         "englishNatural": "his sons with them, **to** the ark;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּבֹאוּ **אֶל־** נֹחַ אֶל־",
+        "transliteration": "vaYavou **el-** Noach el-",
+        "englishLiteral": "And-they-came **to-** Rest (Noah) to-",
+        "englishNatural": "And they came **to** Rest (Noah) to"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ נֹחַ **אֶל־** הַתֵּבָה שְׁנַיִם",
+        "transliteration": "el- Noach **el-** haTevah shnayim",
+        "englishLiteral": "to- Rest (Noah) **to-** the-ark, two",
+        "englishNatural": "to Rest (Noah) **to** the ark, two"
       }
     },
     {
@@ -2116,6 +2191,31 @@
         "transliteration": "vaYomer YHWH **el-** haShatan hineh",
         "englishLiteral": "And-he-said He_Who_Is (YHWH) **to-** the-Adversary (Satan), \"behold",
         "englishNatural": "And He-Who-Is (YHWH) said **to** the Adversary (Satan), \"Behold"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "קוֹלִ֗י **אֶל־** יְהוָ֥ה אֶקְרָ֑א",
+        "transliteration": "qoli **el-** YHWH eQra",
+        "englishLiteral": "my-voice **to** He_Who_Is (YHWH) I-will-call_out;",
+        "englishNatural": "I call-out, **to** He-Who-Is (YHWH) with my voice"
       }
     },
     {

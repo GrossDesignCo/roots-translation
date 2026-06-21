@@ -80,6 +80,31 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "עָ֑ם",
+        "transliteration": "am",
+        "englishLiteral": "people",
+        "englishNatural": "people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִ֫ירָ֥א מֵרִבְב֥וֹת **עָ֑ם** אֲשֶׁ֥ר סָ֝בִ֗יב",
+        "transliteration": "eIra meRivevot **am** asher saviv",
+        "englishLiteral": "I-will-fear from-ten_thousands-of **people,** which all_around",
+        "englishNatural": "not from ten-thousands of **people,** which all-around"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 8

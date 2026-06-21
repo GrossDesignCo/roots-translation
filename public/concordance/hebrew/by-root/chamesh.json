@@ -204,6 +204,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 20
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "חֲמֵשׁ",
+        "transliteration": "chamesh",
+        "englishLiteral": "Five",
+        "englishNatural": "Five",
+        "root": "chamesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "**חֲמֵשׁ** עֶשְׂרֵה אַמָּה",
+        "transliteration": "**chamesh** esreh ammah",
+        "englishLiteral": "**Five** ten cubits",
+        "englishNatural": "**Five** ten cubits"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 1

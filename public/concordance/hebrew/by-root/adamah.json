@@ -481,6 +481,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 20,
+      "sourceOrder": 20,
+      "word": {
+        "originalScript": "הָאֲדָמָה",
+        "transliteration": "haAdamah",
+        "englishLiteral": "the-earth",
+        "englishNatural": "the earth",
+        "root": "adamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעַל פְּנֵי **הָאֲדָמָה**",
+        "transliteration": "meAl peney **haAdamah**",
+        "englishLiteral": "from-over faces-of **the-earth.**",
+        "englishNatural": "from over the face of **the earth.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 8
       },
       "wordIndex": 14,
@@ -500,6 +525,31 @@
         "transliteration": "romes al- **haAdamah**",
         "englishLiteral": "creeping over- **the-earth,**",
         "englishNatural": "creeps over **the earth,**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הָאֲדָמָה",
+        "transliteration": "haAdamah",
+        "englishLiteral": "the-earth",
+        "englishNatural": "the earth",
+        "root": "adamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ פְּנֵי **הָאֲדָמָה** מֵאָדָם עַד־",
+        "transliteration": "al- peney **haAdamah** meAdam ad-",
+        "englishLiteral": "over- faces-of **the-earth,** from-Earthling (Adam) until-",
+        "englishNatural": "over the face of **the earth,** from Earthling (Adam) until"
       }
     },
     {

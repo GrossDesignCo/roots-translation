@@ -200,6 +200,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "מִכֹּל",
+        "transliteration": "miKol",
+        "englishLiteral": "From-all",
+        "englishNatural": "From all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**מִכֹּל** הַבְּהֵמָה הַטְּהוֹרָה",
+        "transliteration": "**miKol** haBehemah haTehorah",
+        "englishLiteral": "**From-all** the-beast the-clean",
+        "englishNatural": "**From all** the beast the clean"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 8,
         "verse": 20
       },

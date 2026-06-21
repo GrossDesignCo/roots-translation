@@ -80,6 +80,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בְּהֵמָה",
+        "transliteration": "behemah",
+        "englishLiteral": "beast",
+        "englishNatural": "beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאָדָם עַד־ **בְּהֵמָה** עַד־ רֶמֶשׂ",
+        "transliteration": "meAdam ad- **behemah** ad- remes",
+        "englishLiteral": "from-Earthling (Adam) until- **beast** until- creeping_thing",
+        "englishNatural": "from Earthling (Adam) until **beast** until creeping-thing"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 11,
         "verse": 5

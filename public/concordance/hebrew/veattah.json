@@ -1,7 +1,7 @@
 {
   "key": "veattah",
   "language": "hebrew",
-  "root": "attah",
+  "root": "atah",
   "occurrences": [
     {
       "location": {
@@ -51,6 +51,31 @@
         "transliteration": "hachilam laAsot **veAttah** lo- yibatser",
         "englishLiteral": "the-beginning-of-them to-make, **and-now** not- he-will-be-restrained",
         "englishNatural": "the beginning of their making; **and now** nothing will be restrained"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאַתָּ֣ה",
+        "transliteration": "veAttah",
+        "englishLiteral": "And-you",
+        "englishNatural": "And you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאַתָּ֣ה** יְ֭הוָה מָגֵ֣ן",
+        "transliteration": "**veAttah** YHWH magen",
+        "englishLiteral": "**And-you** He_Who_Is (YHWH) shield",
+        "englishNatural": "**And you,** He-Who-Is (YHWH), are a shield"
       }
     },
     {

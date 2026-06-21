@@ -6,6 +6,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בָּעוֹף",
+        "transliteration": "baOph",
+        "englishLiteral": "in-flyer",
+        "englishNatural": "in the flyer",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **בָּעוֹף** וּבַבְּהֵמָה וּבַחַיָּה",
+        "transliteration": "al- haAretz **baOph** uvaBehemah uvaChayah",
+        "englishLiteral": "over- the-land, **in-flyer** and-in-beast and-in-living_being",
+        "englishNatural": "over the land, **in the flyer** and in the beast and in the living-being"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 10
       },

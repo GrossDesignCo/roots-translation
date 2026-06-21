@@ -1,0 +1,32 @@
+{
+  "key": "uvachayah",
+  "language": "hebrew",
+  "root": "chayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וּבַחַיָּה",
+        "transliteration": "uvaChayah",
+        "englishLiteral": "and-in-living_being",
+        "englishNatural": "and in the living-being",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּעוֹף וּבַבְּהֵמָה **וּבַחַיָּה** וּבְכָל־ הַשֶּׁרֶץ",
+        "transliteration": "baOph uvaBehemah **uvaChayah** uveKhol- haSherets",
+        "englishLiteral": "in-flyer and-in-beast **and-in-living_being** and-in-all- the-swarm",
+        "englishNatural": "in the flyer and in the beast **and in the living-being** and in all the swarm"
+      }
+    }
+  ]
+}

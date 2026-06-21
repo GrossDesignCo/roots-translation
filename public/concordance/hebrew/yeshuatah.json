@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "יְשׁוּעָ֖תָה",
+        "transliteration": "yeshuatah",
+        "englishLiteral": "salvation",
+        "englishNatural": "salvation",
+        "root": "yeshuah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְנַפְשִׁ֑י אֵ֤ין **יְשׁוּעָ֖תָה** ל֣וֹ בֵֽאלֹהִ֣ים",
+        "transliteration": "leNafshi ein **yeshuatah** lo beElohim",
+        "englishLiteral": "to-my-throat, \"nothing **salvation** to-him in-Gods.\"",
+        "englishNatural": "to my throat, \"No **salvation** to him in God.\""
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 2,
         "verse": 9

@@ -55,7 +55,7 @@ export const exodus_12_30: Verse = {
       transliteration: 'laylah',
       englishLiteral: 'night',
       englishNatural: 'night',
-      root: 'laylah',
+      root: 'layil',
       order: 3,
       morphology: {
         type: 'noun',
@@ -302,6 +302,6 @@ export const exodus_12_30: Verse = {
     englishNatural:
       'And Pharaoh stood-up, night, he and all his servants and all Double-Narrows (Egypt), and a great outcry was in Double-Narrows (Egypt), that there was not a house which there was not there a dead one.',
     kjv: 'And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
 },
 };

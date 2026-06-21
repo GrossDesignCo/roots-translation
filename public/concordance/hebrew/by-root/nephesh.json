@@ -280,6 +280,31 @@
     {
       "location": {
         "book": "Psalms",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לְנַפְשִׁ֑י",
+        "transliteration": "leNafshi",
+        "englishLiteral": "to-my-throat",
+        "englishNatural": "to my throat",
+        "root": "nephesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רַ֭בִּים אֹמְרִ֣ים **לְנַפְשִׁ֑י** אֵ֤ין יְשׁוּעָ֖תָה",
+        "transliteration": "rabbim omrim **leNafshi** ein yeshuatah",
+        "englishLiteral": "many say-s **to-my-throat,** \"nothing salvation",
+        "englishNatural": "Many say **to my throat,** \"No salvation"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
         "chapter": 23,
         "verse": 3
       },

@@ -81,6 +81,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "הִוא",
+        "transliteration": "hi",
+        "englishLiteral": "she",
+        "englishNatural": "she",
+        "root": "hi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא טְהוֹרָה **הִוא** שְׁנַיִם אִישׁ",
+        "transliteration": "lo tehorah **hi** shnayim ish",
+        "englishLiteral": "not clean **she,** two, man",
+        "englishNatural": "is not clean **she,** two, man"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 12
       },

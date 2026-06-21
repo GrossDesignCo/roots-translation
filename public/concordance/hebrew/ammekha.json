@@ -1,0 +1,32 @@
+{
+  "key": "ammekha",
+  "language": "hebrew",
+  "root": "am",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "עַמְּךָ֖",
+        "transliteration": "ammekha",
+        "englishLiteral": "people-your",
+        "englishNatural": "your people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיְשׁוּעָ֑ה עַֽל־ **עַמְּךָ֖** בִרְכָתֶ֣ךָ סֶּֽלָה׃",
+        "transliteration": "haYeshuah al- **ammekha** birkhatekha selah",
+        "englishLiteral": "the-salvation; over- **people-your** blessing-your. Selah.",
+        "englishNatural": "the salvation; over **your people,** your blessing. Selah."
+      }
+    }
+  ]
+}

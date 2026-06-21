@@ -1,0 +1,34 @@
+{
+  "key": "qamim",
+  "language": "hebrew",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "קָמִ֥ים",
+        "transliteration": "qamim",
+        "englishLiteral": "ones-standing_up",
+        "englishNatural": "ones-standing-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "צָרָ֑י רַבִּ֗ים **קָמִ֥ים** עָלָֽי׃",
+        "transliteration": "tsarai rabbim **qamim** alay",
+        "englishLiteral": "my-enemies many **ones-standing_up** over-me.",
+        "englishNatural": "my enemies; many **ones-standing-up** over me."
+      }
+    }
+  ]
+}

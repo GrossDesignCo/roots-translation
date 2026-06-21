@@ -1,0 +1,34 @@
+{
+  "key": "shakhavti",
+  "language": "hebrew",
+  "root": "shakav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "שָׁכַ֗בְתִּי",
+        "transliteration": "shakhavti",
+        "englishLiteral": "I-have-lain_down",
+        "englishNatural": "have lain-down",
+        "root": "shakav",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲנִ֥י **שָׁכַ֗בְתִּי** וָאִ֫ישָׁ֥נָה הֱקִיצ֑וֹתִי",
+        "transliteration": "ani **shakhavti** vaIshanah heQitsoti",
+        "englishLiteral": "I **I-have-lain_down** and-I-will-sleep; I-have-awoken,",
+        "englishNatural": "I **have lain-down** and I slept; I have awoken,"
+      }
+    }
+  ]
+}

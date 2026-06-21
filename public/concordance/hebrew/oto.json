@@ -156,6 +156,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אֹתוֹ",
+        "transliteration": "oto",
+        "englishLiteral": "him",
+        "englishNatural": "him",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "כַּאֲשֶׁר צִוָּה **אֹתוֹ** אֱלֹהִים וַיִּסְגֹּר",
+        "transliteration": "kaAsher tzivvah **oto** Elohim vaYisgor",
+        "englishLiteral": "as-which he-has-commanded **him** Gods. And-closed",
+        "englishNatural": "God commanded **him.** And He-Who-Is (YHWH) closed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 5
       },

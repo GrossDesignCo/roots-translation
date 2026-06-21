@@ -331,6 +331,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "כִּי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַתֵּבָה **כִּי־** אֹתְךָ רָאִיתִי",
+        "transliteration": "el- haTevah **ki-** otkha raiti",
+        "englishLiteral": "to- the-ark; **that-** ↳-you I-have-seen",
+        "englishNatural": "to the ark; **that** you I have seen"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 9
       },
@@ -476,6 +501,31 @@
         "transliteration": "biSdeh Moav **ki-** faqad YHWH",
         "englishLiteral": "in-field-of From_Father (Moab) **that-** had-visited He_Who_Is (YHWH)",
         "englishNatural": "in the field of From-Father (Moab) **that** He-Who-Is (YHWH) had visited"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "כִּֽי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "הוֹשִׁיעֵ֣נִי אֱלֹהַ֑י **כִּֽי־** הִכִּ֖יתָ אֶת־",
+        "transliteration": "hoshieni elohai **ki-** hikkita et-",
+        "englishLiteral": "save-me Gods-my; **that-** you-have-struck_down ↳",
+        "englishNatural": "Save me, my God; **that** you have struck-down ↳"
       }
     },
     {

@@ -1,0 +1,32 @@
+{
+  "key": "habasar",
+  "language": "hebrew",
+  "root": "basar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 15
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הַבָּשָׂר",
+        "transliteration": "haBasar",
+        "englishLiteral": "the-flesh",
+        "englishNatural": "the flesh",
+        "root": "basar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנַיִם מִכָּל־ **הַבָּשָׂר** אֲשֶׁר־ בּוֹ",
+        "transliteration": "shnayim miKol- **haBasar** asher- bo",
+        "englishLiteral": "two, from-all- **the-flesh,** which- in-him",
+        "englishNatural": "two, from all **the flesh,** which in it"
+      }
+    }
+  ]
+}

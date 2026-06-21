@@ -1,7 +1,7 @@
 {
   "key": "laylah",
   "language": "hebrew",
-  "root": "laylah",
+  "root": "layil",
   "occurrences": [
     {
       "location": {
@@ -32,6 +32,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "לָיְלָה",
+        "transliteration": "laylah",
+        "englishLiteral": "night",
+        "englishNatural": "nights",
+        "root": "layil",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹם וְאַרְבָּעִים **לָיְלָה** וּמָחִיתִי אֶת־",
+        "transliteration": "yom veArbaim **laylah** uMachiti et-",
+        "englishLiteral": "day and-forty **night;** and-I-will-wipe_out ↳",
+        "englishNatural": "days and forty **nights;** and I will wipe-out ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 12
       },
       "wordIndex": 7,
@@ -41,7 +66,7 @@
         "transliteration": "laylah",
         "englishLiteral": "night",
         "englishNatural": "nights",
-        "root": "laylah",
+        "root": "layil",
         "morphology": {
           "type": "noun"
         }
@@ -66,7 +91,7 @@
         "transliteration": "laylah",
         "englishLiteral": "night",
         "englishNatural": "night",
-        "root": "laylah",
+        "root": "layil",
         "morphology": {
           "type": "noun"
         }
@@ -91,7 +116,7 @@
         "transliteration": "laylah",
         "englishLiteral": "night",
         "englishNatural": "a night",
-        "root": "laylah",
+        "root": "layil",
         "morphology": {
           "type": "noun"
         }
@@ -116,7 +141,7 @@
         "transliteration": "laylah",
         "englishLiteral": "night",
         "englishNatural": "a night",
-        "root": "laylah",
+        "root": "layil",
         "morphology": {
           "type": "noun"
         }

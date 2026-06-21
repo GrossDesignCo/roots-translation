@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "בַּעֲדוֹ",
+        "transliteration": "baAdo",
+        "englishLiteral": "behind-him",
+        "englishNatural": "behind him",
+        "root": "baad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּסְגֹּר יְהוָה **בַּעֲדוֹ**",
+        "transliteration": "vaYisgor YHWH **baAdo**",
+        "englishLiteral": "And-closed He_Who_Is (YHWH) **behind-him.**",
+        "englishNatural": "And He-Who-Is (YHWH) closed **behind him.**"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 10

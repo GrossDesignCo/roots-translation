@@ -1876,6 +1876,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "לָיְלָה וּמָחִיתִי **אֶת־** כָּל־ הַיְקוּם",
+        "transliteration": "laylah uMachiti **et-** kol- haYequm",
+        "englishLiteral": "night; and-I-will-wipe_out **↳** all- the-standing_thing",
+        "englishNatural": "nights; and I will wipe-out **↳** all the standing-thing"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 9
       },
       "wordIndex": 12,
@@ -1895,6 +1920,56 @@
         "transliteration": "tzivvah Elohim **et-** Noach",
         "englishLiteral": "he-commanded Gods **↳** Rest (Noah).",
         "englishNatural": "God commanded **↳** Rest (Noah)."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 17
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "הַמַּיִם וַיִּשְׂאוּ **אֶת־** הַתֵּבָה וַתָּרָם",
+        "transliteration": "haMayim vaYiseu **et-** haTevah vaTaram",
+        "englishLiteral": "the-waters, and-they-lifted_up **↳** the-ark, and-it-rose",
+        "englishNatural": "multiplied, and lifted-up **↳** the ark, and it rose"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּמַח **אֶת־** כָּל־ הַיְקוּם",
+        "transliteration": "vayyiMach **et-** kol- haYequm",
+        "englishLiteral": "and-he-will-wipe_out **↳** all- the-standing_thing",
+        "englishNatural": "and wiped-out **↳** all the standing-thing"
       }
     },
     {
@@ -3345,6 +3420,31 @@
         "transliteration": "vaYaan haShatan **et-** YHWH vaYomar",
         "englishLiteral": "And-answered the-Adversary (Satan) **↳** He_Who_Is (YHWH), and-he-said",
         "englishNatural": "And the Adversary (Satan) answered **↳** He-Who-Is (YHWH), and said,"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "כִּֽי־ הִכִּ֖יתָ **אֶת־** כָּל־ אֹיְבַ֥י",
+        "transliteration": "ki- hikkita **et-** kol- oyvai",
+        "englishLiteral": "that- you-have-struck_down **↳** all- enemies-my",
+        "englishNatural": "that you have struck-down **↳** all my enemies"
       }
     },
     {

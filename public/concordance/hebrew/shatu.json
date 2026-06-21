@@ -1,0 +1,34 @@
+{
+  "key": "shatu",
+  "language": "hebrew",
+  "root": "shit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שָׁ֣תוּ",
+        "transliteration": "shatu",
+        "englishLiteral": "they-have-appointed",
+        "englishNatural": "they have appointed",
+        "root": "shit",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁ֥ר סָ֝בִ֗יב **שָׁ֣תוּ** עָלָֽי׃",
+        "transliteration": "asher saviv **shatu** alay",
+        "englishLiteral": "which all_around **they-have-appointed** over-me.",
+        "englishNatural": "which all-around **they have appointed** over me."
+      }
+    }
+  ]
+}

@@ -45,7 +45,7 @@ export const exodus_12_29: Verse = {
       transliteration: 'haLaylah',
       englishLiteral: 'the-night',
       englishNatural: 'the night',
-      root: 'laylah',
+      root: 'layil',
       prefixes: ['ha'],
       order: 3,
       morphology: {
@@ -371,6 +371,6 @@ export const exodus_12_29: Verse = {
     englishNatural:
       'And it was in the half of the night, and He-Who-Is (YHWH) struck all firstborn in the land of Double-Narrows (Egypt), from the firstborn of the sitting Pharaoh over his throne, until the firstborn of the captive which, in the house of the pit, and all the firstborn of beast.',
     kjv: 'And it came to pass at midnight, that the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon; and all the firstborn of cattle.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-01-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
 },
 };

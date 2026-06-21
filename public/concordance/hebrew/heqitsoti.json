@@ -1,0 +1,34 @@
+{
+  "key": "heqitsoti",
+  "language": "hebrew",
+  "root": "quts",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הֱקִיצ֑וֹתִי",
+        "transliteration": "heQitsoti",
+        "englishLiteral": "I-have-awoken",
+        "englishNatural": "I have awoken",
+        "root": "quts",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁכַ֗בְתִּי וָאִ֫ישָׁ֥נָה **הֱקִיצ֑וֹתִי** כִּ֖י יְהוָ֣ה",
+        "transliteration": "shakhavti vaIshanah **heQitsoti** ki YHWH",
+        "englishLiteral": "I-have-lain_down and-I-will-sleep; **I-have-awoken,** that He_Who_Is (YHWH)",
+        "englishNatural": "have lain-down and I slept; **I have awoken,** that He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

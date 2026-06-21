@@ -130,6 +130,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "זֶרַע",
+        "transliteration": "zera",
+        "englishLiteral": "seed",
+        "englishNatural": "seed",
+        "root": "zera",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּנְקֵבָה לְחַיּוֹת **זֶרַע** עַל־ פְּנֵי",
+        "transliteration": "uNeqevah leChayot **zera** al- peney",
+        "englishLiteral": "and-female; to-keep_alive **seed** over- faces-of",
+        "englishNatural": "and female; to keep-alive **seed** over the face of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 8,
         "verse": 22
       },

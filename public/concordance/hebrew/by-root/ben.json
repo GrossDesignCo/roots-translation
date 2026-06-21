@@ -1305,6 +1305,31 @@
     {
       "location": {
         "book": "Psalms",
+        "chapter": 3,
+        "verse": 0
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בְּנֽוֹ",
+        "transliteration": "beno",
+        "englishLiteral": "son-his",
+        "englishNatural": "his son",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִפְּנֵ֗י אַבְשָׁל֥וֹם **בְּנֽוֹ**",
+        "transliteration": "miPney Avshalom **beno**",
+        "englishLiteral": "from-faces_of Father_of_Peace (Absalom) **son-his.**",
+        "englishNatural": "from the face of Father-of-Peace (Absalom), **his son.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
         "chapter": 8,
         "verse": 4
       },

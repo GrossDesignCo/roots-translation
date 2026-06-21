@@ -237,7 +237,7 @@ export const jonah_4_10: Verse = {
       transliteration: 'laylah',
       englishLiteral: 'night',
       englishNatural: 'a night',
-      root: 'laylah',
+      root: 'layil',
       prefixes: ['la'],
       order: 14,
       morphology: {
@@ -279,7 +279,7 @@ export const jonah_4_10: Verse = {
       transliteration: 'laylah',
       englishLiteral: 'night',
       englishNatural: 'a night',
-      root: 'laylah',
+      root: 'layil',
       prefixes: ['la'],
       order: 17,
       morphology: {
@@ -320,6 +320,6 @@ export const jonah_4_10: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) said, "You pitied over the luscious-plant, which you labored in it not, and you grew it not, yet son of a night it was and son of a night it perished.',
     kjv: 'Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
   },
 };

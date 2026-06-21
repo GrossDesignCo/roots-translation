@@ -30,6 +30,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "וְכֹל",
+        "transliteration": "veKhol",
+        "englishLiteral": "and-all",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **וְכֹל** הָאָדָם",
+        "transliteration": "al- haAretz **veKhol** haAdam",
+        "englishLiteral": "over- the-land, **and-all** the-Earthling (Adam).",
+        "englishNatural": "over the land, **and all** the Earthling (Adam)."
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 11,
         "verse": 5

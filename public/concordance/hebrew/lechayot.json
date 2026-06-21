@@ -1,0 +1,34 @@
+{
+  "key": "lechayot",
+  "language": "hebrew",
+  "root": "chayah_verb",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לְחַיּוֹת",
+        "transliteration": "leChayot",
+        "englishLiteral": "to-keep_alive",
+        "englishNatural": "to keep-alive",
+        "root": "chayah_verb",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "זָכָר וּנְקֵבָה **לְחַיּוֹת** זֶרַע עַל־",
+        "transliteration": "zakhar uNeqevah **leChayot** zera al-",
+        "englishLiteral": "male and-female; **to-keep_alive** seed over-",
+        "englishNatural": "male and female; **to keep-alive** seed over"
+      }
+    }
+  ]
+}

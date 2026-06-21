@@ -104,6 +104,56 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 15
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "חַיִּים",
+        "transliteration": "chayyim",
+        "englishLiteral": "lives",
+        "englishNatural": "lives",
+        "root": "chayyim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בּוֹ רוּחַ **חַיִּים**",
+        "transliteration": "bo ruach **chayyim**",
+        "englishLiteral": "in-him wind-of **lives.**",
+        "englishNatural": "in it the wind of **lives.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 22
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "חַיִּים",
+        "transliteration": "chayyim",
+        "englishLiteral": "lives",
+        "englishNatural": "lives",
+        "root": "chayyim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נִשְׁמַת־ רוּחַ **חַיִּים** בְּאַפָּיו מִכֹּל",
+        "transliteration": "nishmat- ruach **chayyim** beAppav mikKol",
+        "englishLiteral": "breath-of- Wind-of **lives** in-nose-his, from-all",
+        "englishNatural": "the breath of Wind of **lives** in his nostrils, from all"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 4,
         "verse": 3

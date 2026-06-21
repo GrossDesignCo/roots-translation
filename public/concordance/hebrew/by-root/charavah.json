@@ -1,0 +1,31 @@
+{
+  "root": "charavah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 22
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "בֶּחָרָבָה",
+        "transliteration": "beCharavah",
+        "englishLiteral": "in-dry_land",
+        "englishNatural": "in the dry-land",
+        "root": "charavah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִכֹּל אֲשֶׁר **בֶּחָרָבָה** מֵתוּ",
+        "transliteration": "mikKol asher **beCharavah** metu",
+        "englishLiteral": "from-all which **in-dry_land,** have-died.",
+        "englishNatural": "from all which **in the dry-land,** died."
+      }
+    }
+  ]
+}

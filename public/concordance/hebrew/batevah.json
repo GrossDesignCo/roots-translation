@@ -1,0 +1,32 @@
+{
+  "key": "batevah",
+  "language": "hebrew",
+  "root": "tevah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 24,
+      "sourceOrder": 24,
+      "word": {
+        "originalScript": "בַּתֵּבָה",
+        "transliteration": "baTevah",
+        "englishLiteral": "in-the-ark",
+        "englishNatural": "in the ark",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲשֶׁר אִתּוֹ **בַּתֵּבָה**",
+        "transliteration": "vaAsher itto **baTevah**",
+        "englishLiteral": "and-which with-him **in-the-ark.**",
+        "englishNatural": "and which with him **in the ark.**"
+      }
+    }
+  ]
+}

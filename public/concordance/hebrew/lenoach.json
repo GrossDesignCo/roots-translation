@@ -27,6 +27,31 @@
         "englishLiteral": "And-he-said Gods **to-Rest (Noah),** \"end-of all-",
         "englishNatural": "And God said **to Rest (Noah),** \"The end of all"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לְנֹחַ",
+        "transliteration": "leNoach",
+        "englishLiteral": "to-Rest (Noah)",
+        "englishNatural": "to Rest (Noah)",
+        "root": "noach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר יְהוָה **לְנֹחַ** בֹּא־ אַתָּה",
+        "transliteration": "vaYomer YHWH **leNoach** bo- attah",
+        "englishLiteral": "And-he-said He_Who_Is (YHWH) **to-Rest (Noah),** \"Come- you",
+        "englishNatural": "And He-Who-Is (YHWH) said **to Rest (Noah),** \"Come, you"
+      }
     }
   ]
 }

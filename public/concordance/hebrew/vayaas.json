@@ -86,6 +86,33 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיַּעַשׂ",
+        "transliteration": "vaYaas",
+        "englishLiteral": "And-he-made",
+        "englishNatural": "did",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּעַשׂ** נֹחַ כְּכֹל",
+        "transliteration": "**vaYaas** Noach keKol",
+        "englishLiteral": "**And-he-made** Rest (Noah) as-all",
+        "englishNatural": "And Rest (Noah) **did** as all which"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 9

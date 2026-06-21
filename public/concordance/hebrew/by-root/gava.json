@@ -28,6 +28,33 @@
         "englishLiteral": "which- in-land **will-expire.**",
         "englishNatural": "which in the land **will expire.**"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיִּגְוַע",
+        "transliteration": "vayyiGva",
+        "englishLiteral": "and-he-will-expire",
+        "englishNatural": "and expired",
+        "root": "gava",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּגְוַע** כָּל־ בָּשָׂר",
+        "transliteration": "**vayyiGva** kol- basar",
+        "englishLiteral": "**and-he-will-expire** all- flesh",
+        "englishNatural": "**and expired** all flesh"
+      }
     }
   ]
 }

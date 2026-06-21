@@ -230,6 +230,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אִישׁ",
+        "transliteration": "ish",
+        "englishLiteral": "man",
+        "englishNatural": "man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁבְעָה שִׁבְעָה **אִישׁ** וְאִשְׁתּוֹ וּמִן־",
+        "transliteration": "shivah shivah **ish** veIshto uMin-",
+        "englishLiteral": "seven seven, **man** and-woman-his; and-from-",
+        "englishNatural": "seven seven, **man** and his woman; and from"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "אִישׁ",
+        "transliteration": "ish",
+        "englishLiteral": "man",
+        "englishNatural": "man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הִוא שְׁנַיִם **אִישׁ** וְאִשְׁתּוֹ",
+        "transliteration": "hi shnayim **ish** veIshto",
+        "englishLiteral": "she, two, **man** and-woman-his.",
+        "englishNatural": "she, two, **man** and his woman."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 5
       },

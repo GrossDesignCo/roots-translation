@@ -181,6 +181,56 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַבְּהֵמָה",
+        "transliteration": "haBehemah",
+        "englishLiteral": "the-beast",
+        "englishNatural": "the beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִכֹּל **הַבְּהֵמָה** הַטְּהוֹרָה תִּקַּח־",
+        "transliteration": "miKol **haBehemah** haTehorah tiqqach-",
+        "englishLiteral": "From-all **the-beast** the-clean you-will-take-",
+        "englishNatural": "From all **the beast** the clean you will take"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הַבְּהֵמָה",
+        "transliteration": "haBehemah",
+        "englishLiteral": "the-beast",
+        "englishNatural": "the beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאִשְׁתּוֹ וּמִן־ **הַבְּהֵמָה** אֲשֶׁר לֹא",
+        "transliteration": "veIshto uMin- **haBehemah** asher lo",
+        "englishLiteral": "and-woman-his; and-from- **the-beast** which not",
+        "englishNatural": "and his woman; and from **the beast** which is not"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 8
       },
       "wordIndex": 1,
@@ -250,6 +300,56 @@
         "transliteration": "leMina veKhol- **haBehemah** leMina veKhol-",
         "englishLiteral": "to-kind-her, and-all- **the-beast** to-kind-her, and-all-",
         "englishNatural": "to its kind, and all **the beast** to its kind, and all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וּבַבְּהֵמָה",
+        "transliteration": "uvaBehemah",
+        "englishLiteral": "and-in-beast",
+        "englishNatural": "and in the beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ בָּעוֹף **וּבַבְּהֵמָה** וּבַחַיָּה וּבְכָל־",
+        "transliteration": "haAretz baOph **uvaBehemah** uvaChayah uveKhol-",
+        "englishLiteral": "the-land, in-flyer **and-in-beast** and-in-living_being and-in-all-",
+        "englishNatural": "the land, in the flyer **and in the beast** and in the living-being and in all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בְּהֵמָה",
+        "transliteration": "behemah",
+        "englishLiteral": "beast",
+        "englishNatural": "beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאָדָם עַד־ **בְּהֵמָה** עַד־ רֶמֶשׂ",
+        "transliteration": "meAdam ad- **behemah** ad- remes",
+        "englishLiteral": "from-Earthling (Adam) until- **beast** until- creeping_thing",
+        "englishNatural": "from Earthling (Adam) until **beast** until creeping-thing"
       }
     },
     {

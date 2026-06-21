@@ -256,6 +256,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "שְׁנַיִם",
+        "transliteration": "shnayim",
+        "englishLiteral": "two",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "טְהוֹרָה הִוא **שְׁנַיִם** אִישׁ וְאִשְׁתּוֹ",
+        "transliteration": "tehorah hi **shnayim** ish veIshto",
+        "englishLiteral": "clean she, **two,** man and-woman-his.",
+        "englishNatural": "clean she, **two,** man and his woman."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 9
       },
       "wordIndex": 0,
@@ -300,6 +325,56 @@
         "transliteration": "shnayim **shnayim** bau el-",
         "englishLiteral": "two, **two,** they-came to-",
         "englishNatural": "two, **two,** they came to"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 15
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "שְׁנַיִם",
+        "transliteration": "shnayim",
+        "englishLiteral": "two",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַתֵּבָה **שְׁנַיִם** שְׁנַיִם מִכָּל־",
+        "transliteration": "el- haTevah **shnayim** shnayim miKol-",
+        "englishLiteral": "to- the-ark, **two** two, from-all-",
+        "englishNatural": "to the ark, **two** two, from all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שְׁנַיִם",
+        "transliteration": "shnayim",
+        "englishLiteral": "two",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הַתֵּבָה שְׁנַיִם **שְׁנַיִם** מִכָּל־ הַבָּשָׂר",
+        "transliteration": "haTevah shnayim **shnayim** miKol- haBasar",
+        "englishLiteral": "the-ark, two **two,** from-all- the-flesh,",
+        "englishNatural": "the ark, two **two,** from all the flesh,"
       }
     },
     {

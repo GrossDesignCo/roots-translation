@@ -153,3 +153,10 @@ Study these files for patterns before generating:
 - **Translation style** (englishLiteral/Natural conventions, poetry, connective preservation): [translation-style.md](translation-style.md)
 - **Translation data guardrails** (auto-attached rule): `.cursor/rules/translation-data.mdc`
 - **Hebrew grammar conventions** (auto-attached rule): `.cursor/rules/hebrew-grammar.mdc`
+
+## Sub-Skills (focused guidance for specific translation subtasks)
+
+- **Root word mapping** (choosing 1:1 English for a new root): `.cursor/skills/root-word-mapping/SKILL.md`
+- **Dictionary entry** (creating/updating roots.ts entries): `.cursor/skills/dictionary-entry/SKILL.md`
+- **Word order** (assigning order values, condensed vs split): `.cursor/skills/word-order/SKILL.md`
+- **Wording choice** (crafting englishLiteral/Natural per word): `.cursor/skills/wording-choice/SKILL.md`

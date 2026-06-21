@@ -21,7 +21,7 @@ reed binds, to-head-my.
 
 I-went_down to-cutoffs-of mountains; 
 the-earth, bars-her behind-me to-the_age; 
-and-you-brought_up from-corruption life-my, He_Who_Is (YHWH) God-my.
+and-you-brought_up from-corruption life-my, He_Who_Is (YHWH) Gods-my.
 
 In-fainting over-me throat-my, 
 ↳ He_Who_Is (YHWH) I-remembered; 

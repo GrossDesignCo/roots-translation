@@ -30,6 +30,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "בַּדּוֹר",
+        "transliteration": "baDor",
+        "englishLiteral": "in-the-generation",
+        "englishNatural": "in the generation",
+        "root": "dor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צַדִּיק לְפָנַי **בַּדּוֹר** הַזֶּה",
+        "transliteration": "tzaddiq leFanai **baDor** haZeh",
+        "englishLiteral": "righteous to-faces-my **in-the-generation** the-this.\"",
+        "englishNatural": "righteous to my face **in the generation** the this.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 12
       },

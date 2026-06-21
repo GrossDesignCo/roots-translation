@@ -1,0 +1,34 @@
+{
+  "key": "omrim",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֹמְרִ֣ים",
+        "transliteration": "omrim",
+        "englishLiteral": "say-s",
+        "englishNatural": "say",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רַ֭בִּים **אֹמְרִ֣ים** לְנַפְשִׁ֑י אֵ֤ין",
+        "transliteration": "rabbim **omrim** leNafshi ein",
+        "englishLiteral": "many **say-s** to-my-throat, \"nothing",
+        "englishNatural": "Many **say** to my throat, \"No"
+      }
+    }
+  ]
+}

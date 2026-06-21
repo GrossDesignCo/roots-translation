@@ -311,7 +311,17 @@ const ROOTS = {
     type: 'noun',
     description:
       'living-being/being-thing, living creature, mostly animals but broad term for all lifeforms',
-    related: ['chayah', 'chayyim', 'chai', 'hayah'],
+    related: ['chayah_verb', 'chayyim', 'chai', 'hayah'],
+  },
+  chayah_verb: {
+    hebrew: 'חיה',
+    transliteration: 'chayah',
+    englishLiteral: 'live',
+    englishNatural: 'live',
+    type: 'verb',
+    description:
+      'to live, to be alive; Piel: to keep alive, to preserve alive, to let live',
+    related: ['chayah', 'chayyim', 'chai'],
   },
   sadeh: {
     hebrew: 'שׂדה',
@@ -2488,7 +2498,7 @@ const ROOTS = {
     englishNatural: 'lives',
     type: 'noun',
     description: 'life, lives, lifetime',
-    related: ['chayah'],
+    related: ['chayah', 'chayah_verb'],
   },
   // Added for Genesis 3:15
   eivah: {
@@ -2633,7 +2643,7 @@ const ROOTS = {
     englishNatural: 'living',
     type: 'adjective',
     description: 'alive, living, having life',
-    related: ['chayah', 'chayyim'],
+    related: ['chayah', 'chayah_verb', 'chayyim'],
   },
   kuttonet: {
     hebrew: 'כֻּתֹּנֶת',
@@ -2910,6 +2920,7 @@ const ROOTS = {
     englishNatural: 'righteous',
     type: 'adjective',
     description: 'righteous, just, innocent, lawful',
+    related: ['tzedeq'],
   },
   abad: {
     hebrew: 'אָבַד',
@@ -3133,7 +3144,7 @@ const ROOTS = {
     englishNatural: 'to be-tall',
     type: 'verb',
     description: 'to be tall, exalted, lofty',
-    related: ['rum'] as const,
+    related: ['rum', 'gavar', 'gavoah'] as const,
   },
   lev: {
     hebrew: 'לֵב',
@@ -5455,14 +5466,6 @@ const ROOTS = {
     description: 'to grow, become great, bring up, make great',
     related: ['gadol'],
   },
-  laylah: {
-    hebrew: 'לילה',
-    transliteration: 'laylah',
-    englishLiteral: 'night',
-    englishNatural: 'night',
-    type: 'noun',
-    description: 'night, nighttime',
-  },
   // Jonah 4:11 additions
   yesh: {
     hebrew: 'יש',
@@ -5918,15 +5921,6 @@ const ROOTS = {
     englishNatural: 'these',
     type: 'pronoun',
     description: 'these, those (demonstrative pronoun)',
-  },
-  tzaddiq: {
-    hebrew: 'צדיק',
-    transliteration: 'tzaddiq',
-    englishLiteral: 'righteous',
-    englishNatural: 'righteous',
-    type: 'adjective',
-    description: 'righteous, just, lawful, correct',
-    related: ['tzedeq'],
   },
   tamim: {
     hebrew: 'תמים',
@@ -8630,6 +8624,45 @@ const ROOTS = {
     description:
       'to be many, be numerous, be great; stative qal verb distinct from rabah (to multiply/increase)',
     related: ['rabah', 'rav'],
+  },
+  gavar: {
+    hebrew: 'גָּבַר',
+    transliteration: 'gavar',
+    englishLiteral: 'to prevail',
+    englishNatural: 'to prevail',
+    type: 'verb',
+    description:
+      'to be strong, prevail, be mighty; used of waters overwhelming the land in the flood narrative',
+    related: ['gavah', 'gavoah'],
+  },
+  gavoah: {
+    hebrew: 'גָּבֹהַּ',
+    transliteration: 'gavoah',
+    englishLiteral: 'tall',
+    englishNatural: 'tall',
+    type: 'adjective',
+    description: 'tall, high, lofty, exalted',
+    related: ['gavah', 'gavar'],
+  },
+  yequm: {
+    hebrew: 'יְקוּם',
+    transliteration: 'yequm',
+    englishLiteral: 'standing_thing',
+    englishNatural: 'standing-thing',
+    type: 'noun',
+    description:
+      'living substance, existence, that which stands/exists; from qum (to stand up)',
+    related: ['qum'],
+  },
+  charavah: {
+    hebrew: 'חָרָבָה',
+    transliteration: 'charavah',
+    englishLiteral: 'dry_land',
+    englishNatural: 'dry-land',
+    type: 'noun',
+    description:
+      'dry land, parched ground; from charav (to be dry/desolate). Distinct from yabashah which emphasizes dry-ground contrasted with sea.',
+    related: ['eretz', 'yabashah'],
   },
 } as const;
 

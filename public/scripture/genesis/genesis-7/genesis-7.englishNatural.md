@@ -1,4 +1,23 @@
 
+And He-Who-Is (YHWH) said to Rest (Noah),
+"Come, you and all your house, to the ark;
+that you I have seen righteous to my face in the generation the this."
+
+From all the beast the clean you will take to you seven seven, man and his woman;
+
+and from the beast which is not clean she, two, man and his woman.
+
+Also from the flyer of the skies seven seven, male and female;
+
+to keep-alive seed over the face of all the land.
+
+That to days yet seven,
+I am causing rain over the land,
+forty days and forty nights;
+and I will wipe-out all the standing-thing which I have made from over the face of the earth.
+And Rest (Noah) 
+did as all which He-Who-Is (YHWH) commanded him.
+
 And Rest (Noah), a son of six hundred years,
 and the flood was waters over the land.
 
@@ -39,3 +58,32 @@ and all the beast to its kind,
 and all the creeping-thing the creeping over the land to its kind,
 and all the flier to its kind,
 all bird, all wing.
+
+And they came to Rest (Noah) to the ark,
+two two, from all the flesh, which in it the wind of lives.
+
+And the coming-ones male and female from all flesh they came,
+as which God commanded him.
+And He-Who-Is (YHWH) 
+closed behind him.
+And the flood 
+was forty days over the land;
+and the waters multiplied, and lifted-up the ark,
+and it rose from over the land.
+And the waters 
+prevailed and multiplied very over the land; and the ark 
+walked over the face of the waters.
+
+And the waters have prevailed very very over the land, 
+and all the mountains the tall which were under all the skies
+were covered.
+
+Five ten cubits upward the waters have prevailed, 
+and the mountains were covered.
+and expired all flesh the crawling over the land,
+in the flyer and in the beast and in the living-being and in all the swarm the swarming over the land,
+and all the Earthling (Adam). All which the breath of Wind of lives in his nostrils,
+from all which in the dry-land, died. and wiped-out all the standing-thing which over the face of the earth,
+from Earthling (Adam) until beast until creeping-thing and until flyer the skies;
+and they were wiped-out from the land;
+and remained only Rest (Noah) and which with him in the ark. And the waters prevailed over the land, fifty and a hundred days. 

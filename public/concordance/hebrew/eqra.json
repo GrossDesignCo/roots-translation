@@ -1,0 +1,34 @@
+{
+  "key": "eqra",
+  "language": "hebrew",
+  "root": "qara",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֶקְרָ֑א",
+        "transliteration": "eQra",
+        "englishLiteral": "I-will-call_out",
+        "englishNatural": "I call-out",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ יְהוָ֥ה **אֶקְרָ֑א** וַיַּֽעֲנֵ֨נִי מֵהַ֖ר",
+        "transliteration": "el- YHWH **eQra** vaYaaneni meHar",
+        "englishLiteral": "to He_Who_Is (YHWH) **I-will-call_out;** and-he-will-answer-me from-the-mountain-of",
+        "englishNatural": "**I call-out,** to He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "root": "shabar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "שִׁבַּֽרְתָּ",
+        "transliteration": "shibarta",
+        "englishLiteral": "you-have-broken",
+        "englishNatural": "you have broken",
+        "root": "shabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁנֵּ֖י רְשָׁעִ֣ים **שִׁבַּֽרְתָּ׃**",
+        "transliteration": "shinei reshaim **shibarta**",
+        "englishLiteral": "teeth-of wicked **you-have-broken.**",
+        "englishNatural": "my enemies on the cheek; **you have broken** the teeth of the wicked."
+      }
+    }
+  ]
+}

@@ -82,6 +82,56 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַבְּהֵמָה",
+        "transliteration": "haBehemah",
+        "englishLiteral": "the-beast",
+        "englishNatural": "the beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִכֹּל **הַבְּהֵמָה** הַטְּהוֹרָה תִּקַּח־",
+        "transliteration": "miKol **haBehemah** haTehorah tiqqach-",
+        "englishLiteral": "From-all **the-beast** the-clean you-will-take-",
+        "englishNatural": "From all **the beast** the clean you will take"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הַבְּהֵמָה",
+        "transliteration": "haBehemah",
+        "englishLiteral": "the-beast",
+        "englishNatural": "the beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאִשְׁתּוֹ וּמִן־ **הַבְּהֵמָה** אֲשֶׁר לֹא",
+        "transliteration": "veIshto uMin- **haBehemah** asher lo",
+        "englishLiteral": "and-woman-his; and-from- **the-beast** which not",
+        "englishNatural": "and his woman; and from **the beast** which is not"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 8
       },
       "wordIndex": 1,

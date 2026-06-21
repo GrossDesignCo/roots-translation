@@ -167,6 +167,33 @@
     {
       "location": {
         "book": "Psalms",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אִ֫ירָ֥א",
+        "transliteration": "eIra",
+        "englishLiteral": "I-will-fear",
+        "englishNatural": "I will fear",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֘א **אִ֫ירָ֥א** מֵרִבְב֥וֹת עָ֑ם",
+        "transliteration": "lo **eIra** meRivevot am",
+        "englishLiteral": "not **I-will-fear** from-ten_thousands-of people,",
+        "englishNatural": "**I will fear** not from ten-thousands of"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
         "chapter": 23,
         "verse": 4
       },

@@ -578,6 +578,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כִּי",
+        "transliteration": "ki",
+        "englishLiteral": "That",
+        "englishNatural": "That",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "**כִּי** לְיָמִים עוֹד",
+        "transliteration": "**ki** leYamim od",
+        "englishLiteral": "**That** to-days yet",
+        "englishNatural": "**That** to days yet"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 8,
         "verse": 21
       },
@@ -1073,6 +1098,31 @@
         "transliteration": "**ki** yodea YHWH",
         "englishLiteral": "**That** knowing He-Who-Is (YHWH)",
         "englishNatural": "**That** He-Who-Is (YHWH) knows"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "כִּ֖י",
+        "transliteration": "ki",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "וָאִ֫ישָׁ֥נָה הֱקִיצ֑וֹתִי **כִּ֖י** יְהוָ֣ה יִסְמְכֵֽנִי׃",
+        "transliteration": "vaIshanah heQitsoti **ki** YHWH yiSmkheni",
+        "englishLiteral": "and-I-will-sleep; I-have-awoken, **that** He_Who_Is (YHWH) he-will-support-me.",
+        "englishNatural": "and I slept; I have awoken, **that** He-Who-Is (YHWH) supports me."
       }
     },
     {

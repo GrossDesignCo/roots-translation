@@ -301,6 +301,33 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בֹּא־",
+        "transliteration": "bo-",
+        "englishLiteral": "Come-",
+        "englishNatural": "Come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה לְנֹחַ **בֹּא־** אַתָּה וְכָל־",
+        "transliteration": "YHWH leNoach **bo-** attah veKhol-",
+        "englishLiteral": "He_Who_Is (YHWH) to-Rest (Noah), **\"Come-** you and-all-",
+        "englishNatural": "said to Rest (Noah), **\"Come,** you and all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 7
       },
       "wordIndex": 0,
@@ -376,6 +403,87 @@
         "transliteration": "haYom haZeh **ba** Noach veShem-",
         "englishLiteral": "the-day the-this **he-came** Rest (Noah) and-Name (Shem)-",
         "englishNatural": "the this, Rest (Noah) **came,** and Name (Shem) and Hot (Ham)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיָּבֹאוּ",
+        "transliteration": "vaYavou",
+        "englishLiteral": "And-they-came",
+        "englishNatural": "And they came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּבֹאוּ** אֶל־ נֹחַ",
+        "transliteration": "**vaYavou** el- Noach",
+        "englishLiteral": "**And-they-came** to- Rest (Noah)",
+        "englishNatural": "**And they came** to Rest (Noah)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְהַבָּאִים",
+        "transliteration": "veHaBaim",
+        "englishLiteral": "And-the-coming_ones",
+        "englishNatural": "And the coming-ones",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהַבָּאִים** זָכָר וּנְקֵבָה",
+        "transliteration": "**veHaBaim** zakhar uNeqevah",
+        "englishLiteral": "**And-the-coming_ones** male and-female",
+        "englishNatural": "**And the coming-ones** male and female"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בָּאוּ",
+        "transliteration": "bau",
+        "englishLiteral": "they-have-come",
+        "englishNatural": "they came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִכָּל־ בָּשָׂר **בָּאוּ** כַּאֲשֶׁר צִוָּה",
+        "transliteration": "miKol- basar **bau** kaAsher tzivvah",
+        "englishLiteral": "from-all- flesh **they-have-come,** as-which he-has-commanded",
+        "englishNatural": "from all flesh **they came,** as which God"
       }
     },
     {

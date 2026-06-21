@@ -180,6 +180,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 15
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בּוֹ",
+        "transliteration": "bo",
+        "englishLiteral": "in-him",
+        "englishNatural": "in it",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַבָּשָׂר אֲשֶׁר־ **בּוֹ** רוּחַ חַיִּים",
+        "transliteration": "haBasar asher- **bo** ruach chayyim",
+        "englishLiteral": "the-flesh, which- **in-him** wind-of lives.",
+        "englishNatural": "the flesh, which **in it** the wind of lives."
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 4,
         "verse": 4

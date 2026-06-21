@@ -384,6 +384,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְהִי",
+        "transliteration": "vaYehi",
+        "englishLiteral": "And-was",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְהִי** הַמַּבּוּל אַרְבָּעִים",
+        "transliteration": "**vaYehi** haMabbul arbaim",
+        "englishLiteral": "**And-was** the-flood forty",
+        "englishNatural": "And the flood **was** forty days"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 12
       },

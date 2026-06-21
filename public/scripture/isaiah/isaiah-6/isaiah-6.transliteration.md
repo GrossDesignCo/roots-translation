@@ -22,6 +22,6 @@ vaYaof elai echad min haSeraphim
 uVeYado ritzpah beMelkachayim lakach meAl haMizbeach
 
 vaYaGga el-pi
-vaYomer hinneh naga zeh al-sfatekha 
+vaYomer hineh naga zeh al-sfatekha 
 veSar avonekha 
 veChatatkha teKupar 

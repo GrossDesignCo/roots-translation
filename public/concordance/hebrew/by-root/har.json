@@ -4,6 +4,56 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 19
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הֶהָרִים",
+        "transliteration": "heHarim",
+        "englishLiteral": "the-mountains",
+        "englishNatural": "the mountains",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְכֻסּוּ כָּל־ **הֶהָרִים** הַגְּבֹהִים אֲשֶׁר־",
+        "transliteration": "vaYekhusu kol- **heHarim** haGevohim asher-",
+        "englishLiteral": "and-were-covered all- **the-mountains** the-tall which-",
+        "englishNatural": "the land, and all **the mountains** the tall which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 20
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הֶהָרִים",
+        "transliteration": "heHarim",
+        "englishLiteral": "the-mountains",
+        "englishNatural": "and the mountains",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמָּיִם וַיְכֻסּוּ **הֶהָרִים**",
+        "transliteration": "haMayim vaYekhusu **heHarim**",
+        "englishLiteral": "the-waters; and-were-covered **the-mountains.**",
+        "englishNatural": "the waters have prevailed, **and the mountains** were covered."
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 1
@@ -25,6 +75,31 @@
         "transliteration": "vaYavo el- **har** haElohim Chorevah",
         "englishLiteral": "and-came to- **mountain-of** the-Gods, Desolate (Horeb).",
         "englishNatural": "and came to **the mountain of** the God, Desolate (Horeb)."
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "מֵהַ֖ר",
+        "transliteration": "meHar",
+        "englishLiteral": "from-the-mountain-of",
+        "englishNatural": "from the mountain of",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶקְרָ֑א וַיַּֽעֲנֵ֨נִי **מֵהַ֖ר** קָדְשׁ֣וֹ סֶֽלָה׃",
+        "transliteration": "eQra vaYaaneni **meHar** qodsho selah",
+        "englishLiteral": "I-will-call_out; and-he-will-answer-me **from-the-mountain-of** his-holiness Selah.",
+        "englishNatural": "with my voice and he answers me **from the mountain of** his holiness Selah."
       }
     },
     {

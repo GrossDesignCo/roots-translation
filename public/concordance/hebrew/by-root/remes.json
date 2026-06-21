@@ -76,6 +76,31 @@
         "englishLiteral": "to-kind-her, and-all- **the-creeping_thing** the-creeping over-",
         "englishNatural": "to its kind, and all **the creeping-thing** the creeping over"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "רֶמֶשׂ",
+        "transliteration": "remes",
+        "englishLiteral": "creeping_thing",
+        "englishNatural": "creeping-thing",
+        "root": "remes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּהֵמָה עַד־ **רֶמֶשׂ** וְעַד־ עוֹף",
+        "transliteration": "behemah ad- **remes** veAd- oph",
+        "englishLiteral": "beast until- **creeping_thing** and-until- flyer",
+        "englishNatural": "beast until **creeping-thing** and until flyer"
+      }
     }
   ]
 }

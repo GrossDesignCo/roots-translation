@@ -3,7 +3,6 @@ import { prefixes as hebrewPrefixes } from '@/data/dictionary/hebrew/prefixes';
 import { suffixes as hebrewSuffixes } from '@/data/dictionary/hebrew/suffixes';
 
 describe('Dictionary Validation Tests: Ensure no duplicate entries exist', () => {
-  // Helper function to find duplicates in a dictionary
   const findDuplicates = (dictionary: Record<string, unknown>): string[] => {
     const seen = new Set<string>();
     const duplicates = new Set<string>();
@@ -43,3 +42,4 @@ describe('Dictionary Validation Tests: Ensure no duplicate entries exist', () =>
     }
   });
 });
+

@@ -156,6 +156,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 22
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כֹּל",
+        "transliteration": "kol",
+        "englishLiteral": "all",
+        "englishNatural": "All",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**כֹּל** אֲשֶׁר נִשְׁמַת־",
+        "transliteration": "**kol** asher nishmat-",
+        "englishLiteral": "**all** which breath-of-",
+        "englishNatural": "**All** which the breath of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 3
       },

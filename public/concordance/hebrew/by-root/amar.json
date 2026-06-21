@@ -1189,6 +1189,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיֹּאמֶר",
+        "transliteration": "vaYomer",
+        "englishLiteral": "And-he-said",
+        "englishNatural": "said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּאמֶר** יְהוָה לְנֹחַ",
+        "transliteration": "**vaYomer** YHWH leNoach",
+        "englishLiteral": "**And-he-said** He_Who_Is (YHWH) to-Rest (Noah),",
+        "englishNatural": "And He-Who-Is (YHWH) **said** to Rest (Noah), \"Come,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 8,
         "verse": 21
       },
@@ -3186,6 +3213,33 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֹמְרִ֣ים",
+        "transliteration": "omrim",
+        "englishLiteral": "say-s",
+        "englishNatural": "say",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רַ֭בִּים **אֹמְרִ֣ים** לְנַפְשִׁ֑י אֵ֤ין",
+        "transliteration": "rabbim **omrim** leNafshi ein",
+        "englishLiteral": "many **say-s** to-my-throat, \"nothing",
+        "englishNatural": "Many **say** to my throat, \"No"
+      }
+    },
+    {
+      "location": {
         "book": "Ecclesiastes",
         "chapter": 1,
         "verse": 2
@@ -3281,13 +3335,13 @@
         "root": "amar",
         "morphology": {
           "type": "verb",
-          "tense": "sequential_imperfect",
+          "tense": "imperfect",
           "stem": "qal"
         }
       },
       "context": {
         "hebrew": "אֶל־ פִּי **וַיֹּאמֶר** הִנֵּה נָגַע",
-        "transliteration": "el- pi **vaYomer** hinneh naga",
+        "transliteration": "el- pi **vaYomer** hineh naga",
         "englishLiteral": "to- my-mouth, **and-he-said,** \"Behold, has-touched",
         "englishNatural": "it to my mouth, **and he said,** \"Behold, this"
       }

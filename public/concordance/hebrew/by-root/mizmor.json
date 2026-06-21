@@ -5,6 +5,31 @@
     {
       "location": {
         "book": "Psalms",
+        "chapter": 3,
+        "verse": 0
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "מִזְמ֥וֹר",
+        "transliteration": "mizmor",
+        "englishLiteral": "melody",
+        "englishNatural": "A melody",
+        "root": "mizmor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**מִזְמ֥וֹר** לְדָוִ֑ד בְּבָרְח֥וֹ",
+        "transliteration": "**mizmor** leDavid beVorcho",
+        "englishLiteral": "**melody** to-David, in-his-fleeing",
+        "englishNatural": "**A melody** to David, in his fleeing"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
         "chapter": 8,
         "verse": 0
       },

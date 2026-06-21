@@ -6,6 +6,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "עָשִׂיתִי",
+        "transliteration": "asiti",
+        "englishLiteral": "I-have-made",
+        "englishNatural": "I have made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַיְקוּם אֲשֶׁר **עָשִׂיתִי** מֵעַל פְּנֵי",
+        "transliteration": "haYequm asher **asiti** meAl peney",
+        "englishLiteral": "the-standing_thing which **I-have-made** from-over faces-of",
+        "englishNatural": "the standing-thing which **I have made** from over the face of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 8,
         "verse": 21
       },

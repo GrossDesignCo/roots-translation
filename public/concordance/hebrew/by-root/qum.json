@@ -220,6 +220,60 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "קָמִ֥ים",
+        "transliteration": "qamim",
+        "englishLiteral": "ones-standing_up",
+        "englishNatural": "ones-standing-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "צָרָ֑י רַבִּ֗ים **קָמִ֥ים** עָלָֽי׃",
+        "transliteration": "tsarai rabbim **qamim** alay",
+        "englishLiteral": "my-enemies many **ones-standing_up** over-me.",
+        "englishNatural": "my enemies; many **ones-standing-up** over me."
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "קוּמָ֣ה",
+        "transliteration": "qumah",
+        "englishLiteral": "Stand_up",
+        "englishNatural": "Stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**קוּמָ֣ה** יְ֭הוָה הוֹשִׁיעֵ֣נִי",
+        "transliteration": "**qumah** YHWH hoshieni",
+        "englishLiteral": "**Stand_up** He_Who_Is (YHWH) save-me",
+        "englishNatural": "**Stand-up,** He-Who-Is (YHWH)! Save me,"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 2

@@ -4,6 +4,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "וַיִּשָּׁאֶר",
+        "transliteration": "vayyishshaEr",
+        "englishLiteral": "and-he-will-remain",
+        "englishNatural": "and remained",
+        "root": "shaar_remain",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הָאָרֶץ **וַיִּשָּׁאֶר** אַךְ־ נֹחַ",
+        "transliteration": "min- haAretz **vayyishshaEr** akh- Noach",
+        "englishLiteral": "from- the-land; **and-he-will-remain** only- Rest (Noah)",
+        "englishNatural": "from the land; **and remained** only Rest (Noah)"
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 3

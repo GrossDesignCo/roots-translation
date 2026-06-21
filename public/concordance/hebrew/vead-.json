@@ -30,6 +30,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "וְעַד־",
+        "transliteration": "veAd-",
+        "englishLiteral": "and-until-",
+        "englishNatural": "and until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עַד־ רֶמֶשׂ **וְעַד־** עוֹף הַשָּׁמַיִם",
+        "transliteration": "ad- remes **veAd-** oph haShamayim",
+        "englishLiteral": "until- creeping_thing **and-until-** flyer the-skies;",
+        "englishNatural": "until creeping-thing **and until** flyer the skies;"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 11,
         "verse": 7

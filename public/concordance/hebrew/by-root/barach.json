@@ -31,6 +31,33 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 0
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בְּבָרְח֥וֹ",
+        "transliteration": "beVorcho",
+        "englishLiteral": "in-his-fleeing",
+        "englishNatural": "in his fleeing",
+        "root": "barach",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִזְמ֥וֹר לְדָוִ֑ד **בְּבָרְח֥וֹ** מִפְּנֵ֗י אַבְשָׁל֥וֹם",
+        "transliteration": "mizmor leDavid **beVorcho** miPney Avshalom",
+        "englishLiteral": "melody to-David, **in-his-fleeing** from-faces_of Father_of_Peace (Absalom)",
+        "englishNatural": "A melody to David, **in his fleeing** from the face of Father-of-Peace (Absalom),"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 3

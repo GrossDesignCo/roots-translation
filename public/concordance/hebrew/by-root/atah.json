@@ -255,6 +255,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "attah",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "לְנֹחַ בֹּא־ **אַתָּה** וְכָל־ בֵּיתְךָ",
+        "transliteration": "leNoach bo- **attah** veKhol- beitekha",
+        "englishLiteral": "to-Rest (Noah), \"Come- **you** and-all- house-your,",
+        "englishNatural": "to Rest (Noah), \"Come, **you** and all your house,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 15
       },
@@ -500,6 +525,31 @@
         "transliteration": "haLo- **attah** sakhta baado",
         "englishLiteral": "Have-not- **you** have-hedged around-him",
         "englishNatural": "**Have you** not hedged"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאַתָּ֣ה",
+        "transliteration": "veAttah",
+        "englishLiteral": "And-you",
+        "englishNatural": "And you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאַתָּ֣ה** יְ֭הוָה מָגֵ֣ן",
+        "transliteration": "**veAttah** YHWH magen",
+        "englishLiteral": "**And-you** He_Who_Is (YHWH) shield",
+        "englishNatural": "**And you,** He-Who-Is (YHWH), are a shield"
       }
     },
     {

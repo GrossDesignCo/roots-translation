@@ -1,7 +1,7 @@
 {
   "key": "layhwh",
   "language": "hebrew",
-  "root": "hayah",
+  "root": "yhwh",
   "occurrences": [
     {
       "location": {
@@ -101,6 +101,31 @@
         "transliteration": "veOlot veAsinu **laYHWH** Eloheinu",
         "englishLiteral": "and-ascending_offerings and-will-make **to-He_Who_Is (YHWH)** God-our.",
         "englishNatural": "and ascending-offerings and will make **to He-Who-Is (YHWH)** our God.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לַיהוָ֥ה",
+        "transliteration": "laYHWH",
+        "englishLiteral": "to-He_Who_Is (YHWH)",
+        "englishNatural": "To He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**לַיהוָ֥ה** הַיְשׁוּעָ֑ה עַֽל־",
+        "transliteration": "**laYHWH** haYeshuah al-",
+        "englishLiteral": "**to-He_Who_Is (YHWH)** the-salvation; over-",
+        "englishNatural": "**To He-Who-Is (YHWH)** the salvation; over"
       }
     },
     {

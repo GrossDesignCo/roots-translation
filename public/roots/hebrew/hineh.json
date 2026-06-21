@@ -5,7 +5,7 @@
   "englishLiteral": "behold",
   "englishNatural": "behold",
   "type": "interjection",
-  "description": "behold, look, see (draws attention)",
+  "description": "behold, look, see (draws attention); interjection or particle (הִנֵּה)",
   "wordIndexes": {
     "exodus": {
       "3": {
@@ -28,9 +28,30 @@
       }
     },
     "genesis": {
+      "1": {
+        "29": [
+          2
+        ],
+        "31": [
+          6
+        ]
+      },
+      "3": {
+        "22": [
+          3
+        ]
+      },
+      "4": {
+        "14": [
+          0
+        ]
+      },
       "6": {
         "12": [
           4
+        ],
+        "13": [
+          13
         ],
         "17": [
           1
@@ -53,6 +74,13 @@
         ],
         "17": [
           5
+        ]
+      }
+    },
+    "isaiah": {
+      "6": {
+        "7": [
+          4
         ]
       }
     },

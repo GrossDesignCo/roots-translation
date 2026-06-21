@@ -156,6 +156,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בָּשָׂר",
+        "transliteration": "basar",
+        "englishLiteral": "flesh",
+        "englishNatural": "flesh",
+        "root": "basar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּנְקֵבָה מִכָּל־ **בָּשָׂר** בָּאוּ כַּאֲשֶׁר",
+        "transliteration": "uNeqevah miKol- **basar** bau kaAsher",
+        "englishLiteral": "and-female from-all- **flesh** they-have-come, as-which",
+        "englishNatural": "and female from all **flesh** they came, as which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בָּשָׂר",
+        "transliteration": "basar",
+        "englishLiteral": "flesh",
+        "englishNatural": "flesh",
+        "root": "basar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּגְוַע כָּל־ **בָּשָׂר** הָרֹמֵשׂ עַל־",
+        "transliteration": "vayyiGva kol- **basar** haRomes al-",
+        "englishLiteral": "and-he-will-expire all- **flesh** the-crawling over-",
+        "englishNatural": "and expired all **flesh** the crawling over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 4
       },

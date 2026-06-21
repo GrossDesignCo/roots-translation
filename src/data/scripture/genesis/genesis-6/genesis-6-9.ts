@@ -83,7 +83,7 @@ export const genesis_6_9: Verse = {
       transliteration: 'tzaddiq',
       englishLiteral: 'righteous',
       englishNatural: 'righteous',
-      root: 'tzaddiq',
+      root: 'tzadiq',
       order: 6,
       morphology: {
         gender: 'masculine',
@@ -231,6 +231,6 @@ export const genesis_6_9: Verse = {
     englishNatural:
       'These are the birthings of Rest (Noah); Rest (Noah), a man righteous, wholesome he was in his generation; Rest (Noah) walked-with the God.',
     kjv: 'These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-04-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
   },
 };

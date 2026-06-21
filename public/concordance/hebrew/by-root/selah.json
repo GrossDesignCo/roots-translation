@@ -1,0 +1,81 @@
+{
+  "root": "selah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "סֶֽלָה׃",
+        "transliteration": "selah",
+        "englishLiteral": "Selah",
+        "englishNatural": "Selah",
+        "root": "selah",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "ל֣וֹ בֵֽאלֹהִ֣ים **סֶֽלָה׃**",
+        "transliteration": "lo beElohim **selah**",
+        "englishLiteral": "to-him in-Gods.\" **Selah.**",
+        "englishNatural": "to him in God.\" **Selah.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "סֶֽלָה׃",
+        "transliteration": "selah",
+        "englishLiteral": "Selah",
+        "englishNatural": "Selah",
+        "root": "selah",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "מֵהַ֖ר קָדְשׁ֣וֹ **סֶֽלָה׃**",
+        "transliteration": "meHar qodsho **selah**",
+        "englishLiteral": "from-the-mountain-of his-holiness **Selah.**",
+        "englishNatural": "from the mountain of his holiness **Selah.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "סֶּֽלָה׃",
+        "transliteration": "selah",
+        "englishLiteral": "Selah",
+        "englishNatural": "Selah",
+        "root": "selah",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "עַמְּךָ֖ בִרְכָתֶ֣ךָ **סֶּֽלָה׃**",
+        "transliteration": "ammekha birkhatekha **selah**",
+        "englishLiteral": "people-your blessing-your. **Selah.**",
+        "englishNatural": "your people, your blessing. **Selah.**"
+      }
+    }
+  ]
+}

@@ -28,6 +28,87 @@
         "englishLiteral": "And-he-said He_Who_Is (YHWH), **\"I-will-wipe_out** ↳ the-Earthling (Adam)",
         "englishNatural": "And He-Who-Is (YHWH) said, **\"I will wipe-out** ↳ the Earthling (Adam)"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "וּמָחִיתִי",
+        "transliteration": "uMachiti",
+        "englishLiteral": "and-I-will-wipe_out",
+        "englishNatural": "and I will wipe-out",
+        "root": "machah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַרְבָּעִים לָיְלָה **וּמָחִיתִי** אֶת־ כָּל־",
+        "transliteration": "veArbaim laylah **uMachiti** et- kol-",
+        "englishLiteral": "and-forty night; **and-I-will-wipe_out** ↳ all-",
+        "englishNatural": "and forty nights; **and I will wipe-out** ↳ all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיִּמַח",
+        "transliteration": "vayyiMach",
+        "englishLiteral": "and-he-will-wipe_out",
+        "englishNatural": "and wiped-out",
+        "root": "machah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּמַח** אֶת־ כָּל־",
+        "transliteration": "**vayyiMach** et- kol-",
+        "englishLiteral": "**and-he-will-wipe_out** ↳ all-",
+        "englishNatural": "**and wiped-out** ↳ all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "וַיִּמָּחוּ",
+        "transliteration": "vayyimMachu",
+        "englishLiteral": "and-they-will-be-wiped_out",
+        "englishNatural": "and they were wiped-out",
+        "root": "machah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹף הַשָּׁמַיִם **וַיִּמָּחוּ** מִן־ הָאָרֶץ",
+        "transliteration": "oph haShamayim **vayyimMachu** min- haAretz",
+        "englishLiteral": "flyer the-skies; **and-they-will-be-wiped_out** from- the-land;",
+        "englishNatural": "flyer the skies; **and they were wiped-out** from the land;"
+      }
     }
   ]
 }

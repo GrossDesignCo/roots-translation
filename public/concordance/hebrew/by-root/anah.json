@@ -112,6 +112,33 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וַיַּֽעֲנֵ֨נִי",
+        "transliteration": "vaYaaneni",
+        "englishLiteral": "and-he-will-answer-me",
+        "englishNatural": "and he answers me",
+        "root": "anah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֥ה אֶקְרָ֑א **וַיַּֽעֲנֵ֨נִי** מֵהַ֖ר קָדְשׁ֣וֹ",
+        "transliteration": "YHWH eQra **vaYaaneni** meHar qodsho",
+        "englishLiteral": "He_Who_Is (YHWH) I-will-call_out; **and-he-will-answer-me** from-the-mountain-of his-holiness",
+        "englishNatural": "He-Who-Is (YHWH) with my voice **and he answers me** from the mountain of his holiness"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 2,
         "verse": 2

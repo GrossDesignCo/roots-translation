@@ -1,0 +1,32 @@
+{
+  "key": "merivevot",
+  "language": "hebrew",
+  "root": "revavah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מֵרִבְב֥וֹת",
+        "transliteration": "meRivevot",
+        "englishLiteral": "from-ten_thousands-of",
+        "englishNatural": "from ten-thousands of",
+        "root": "revavah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֘א אִ֫ירָ֥א **מֵרִבְב֥וֹת** עָ֑ם אֲשֶׁ֥ר",
+        "transliteration": "lo eIra **meRivevot** am asher",
+        "englishLiteral": "not I-will-fear **from-ten_thousands-of** people, which",
+        "englishNatural": "I will fear not **from ten-thousands of** people, which"
+      }
+    }
+  ]
+}

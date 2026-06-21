@@ -28,6 +28,33 @@
         "englishLiteral": "one from-his-sides, **and-closed-up** flesh under-it.",
         "englishNatural": "one from his sides, **and closed up** flesh under it."
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וַיִּסְגֹּר",
+        "transliteration": "vaYisgor",
+        "englishLiteral": "And-closed",
+        "englishNatural": "closed",
+        "root": "sagar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֹתוֹ אֱלֹהִים **וַיִּסְגֹּר** יְהוָה בַּעֲדוֹ",
+        "transliteration": "oto Elohim **vaYisgor** YHWH baAdo",
+        "englishLiteral": "him Gods. **And-closed** He_Who_Is (YHWH) behind-him.",
+        "englishNatural": "him. And He-Who-Is (YHWH) **closed** behind him."
+      }
     }
   ]
 }

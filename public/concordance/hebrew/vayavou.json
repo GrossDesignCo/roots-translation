@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיָּבֹאוּ",
+        "transliteration": "vaYavou",
+        "englishLiteral": "And-they-came",
+        "englishNatural": "And they came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּבֹאוּ** אֶל־ נֹחַ",
+        "transliteration": "**vaYavou** el- Noach",
+        "englishLiteral": "**And-they-came** to- Rest (Noah)",
+        "englishNatural": "**And they came** to Rest (Noah)"
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 2

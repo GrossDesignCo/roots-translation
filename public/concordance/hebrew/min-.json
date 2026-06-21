@@ -256,6 +256,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "מִן־",
+        "transliteration": "min-",
+        "englishLiteral": "from-",
+        "englishNatural": "from",
+        "root": "min_from",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁמַיִם וַיִּמָּחוּ **מִן־** הָאָרֶץ וַיִּשָּׁאֶר",
+        "transliteration": "haShamayim vayyimMachu **min-** haAretz vayyishshaEr",
+        "englishLiteral": "the-skies; and-they-will-be-wiped_out **from-** the-land; and-he-will-remain",
+        "englishNatural": "the skies; and they were wiped-out **from** the land; and remained"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 11
       },

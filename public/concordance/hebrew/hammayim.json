@@ -1,0 +1,32 @@
+{
+  "key": "hammayim",
+  "language": "hebrew",
+  "root": "mayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 24
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַמַּיִם",
+        "transliteration": "hamMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "And the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּגְבְּרוּ **הַמַּיִם** עַל־ הָאָרֶץ",
+        "transliteration": "vayyiGberu **hamMayim** al- haAretz",
+        "englishLiteral": "and-they-will-prevail **the-waters** over- the-land,",
+        "englishNatural": "**And the waters** prevailed over"
+      }
+    }
+  ]
+}

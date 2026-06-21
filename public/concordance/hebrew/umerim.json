@@ -1,0 +1,34 @@
+{
+  "key": "umerim",
+  "language": "hebrew",
+  "root": "rum_verb",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וּמֵרִ֥ים",
+        "transliteration": "uMerim",
+        "englishLiteral": "and-raising",
+        "englishNatural": "and the one-raising",
+        "root": "rum_verb",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "בַּעֲדִ֑י כְּבוֹדִ֗י **וּמֵרִ֥ים** רֹאשִֽׁי׃",
+        "transliteration": "baAdi kevodi **uMerim** roshi",
+        "englishLiteral": "around-me; my-glory **and-raising** my-head.",
+        "englishNatural": "around me; my glory **and the one-raising** my head."
+      }
+    }
+  ]
+}

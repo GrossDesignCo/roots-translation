@@ -82,6 +82,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "הַשֹּׁרֵץ",
+        "transliteration": "haShorets",
+        "englishLiteral": "the-swarming",
+        "englishNatural": "the swarming",
+        "root": "sharats",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְכָל־ הַשֶּׁרֶץ **הַשֹּׁרֵץ** עַל־ הָאָרֶץ",
+        "transliteration": "uveKhol- haSherets **haShorets** al- haAretz",
+        "englishLiteral": "and-in-all- the-swarm **the-swarming** over- the-land,",
+        "englishNatural": "and in all the swarm **the swarming** over the land,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 7
       },

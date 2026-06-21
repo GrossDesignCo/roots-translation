@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֱלֹהַ֑י",
+        "transliteration": "elohai",
+        "englishLiteral": "Gods-my",
+        "englishNatural": "my God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְ֭הוָה הוֹשִׁיעֵ֣נִי **אֱלֹהַ֑י** כִּֽי־ הִכִּ֖יתָ",
+        "transliteration": "YHWH hoshieni **elohai** ki- hikkita",
+        "englishLiteral": "He_Who_Is (YHWH) save-me **Gods-my;** that- you-have-struck_down",
+        "englishNatural": "He-Who-Is (YHWH)! Save me, **my God;** that you have struck-down"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 2,
         "verse": 6
@@ -14,7 +39,7 @@
       "word": {
         "originalScript": "אֱלֹהָי",
         "transliteration": "elohai",
-        "englishLiteral": "God-my",
+        "englishLiteral": "Gods-my",
         "englishNatural": "my God",
         "root": "eloah",
         "morphology": {
@@ -24,7 +49,7 @@
       "context": {
         "hebrew": "חַיַּי יְהוָה **אֱלֹהָי**",
         "transliteration": "chayai YHWH **elohai**",
-        "englishLiteral": "life-my, He_Who_Is (YHWH) **God-my.**",
+        "englishLiteral": "life-my, He_Who_Is (YHWH) **Gods-my.**",
         "englishNatural": "my life, He-Who-Is (YHWH) **my God.**"
       }
     }

@@ -4,6 +4,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "בַּעֲדוֹ",
+        "transliteration": "baAdo",
+        "englishLiteral": "behind-him",
+        "englishNatural": "behind him",
+        "root": "baad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּסְגֹּר יְהוָה **בַּעֲדוֹ**",
+        "transliteration": "vaYisgor YHWH **baAdo**",
+        "englishLiteral": "And-closed He_Who_Is (YHWH) **behind-him.**",
+        "englishNatural": "And He-Who-Is (YHWH) closed **behind him.**"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 10
@@ -50,6 +75,31 @@
         "transliteration": "sakhta baado **uveAd** beito vekhol-",
         "englishLiteral": "have-hedged around-him **and-around** house-his, and-all-",
         "englishNatural": "hedged around him **and around** his house, and all"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בַּעֲדִ֑י",
+        "transliteration": "baAdi",
+        "englishLiteral": "around-me",
+        "englishNatural": "around me",
+        "root": "baad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יְ֭הוָה מָגֵ֣ן **בַּעֲדִ֑י** כְּבוֹדִ֗י וּמֵרִ֥ים",
+        "transliteration": "YHWH magen **baAdi** kevodi uMerim",
+        "englishLiteral": "He_Who_Is (YHWH) shield **around-me;** my-glory and-raising",
+        "englishNatural": "He-Who-Is (YHWH), are a shield **around me;** my glory and the one-raising"
       }
     },
     {

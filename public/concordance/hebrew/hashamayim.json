@@ -382,6 +382,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הַשָּׁמַיִם",
+        "transliteration": "haShamayim",
+        "englishLiteral": "the-skies",
+        "englishNatural": "the skies",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַּם מֵעוֹף **הַשָּׁמַיִם** שִׁבְעָה שִׁבְעָה",
+        "transliteration": "gam meOph **haShamayim** shivah shivah",
+        "englishLiteral": "Also from-flyer **the-skies** seven seven,",
+        "englishNatural": "Also from the flyer of **the skies** seven seven,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 11
       },
       "wordIndex": 20,
@@ -401,6 +426,56 @@
         "transliteration": "rabbah vaArubot **haShamayim** niftachu",
         "englishLiteral": "great, and-windows-of **the-skies** they-were-opened.",
         "englishNatural": "abyss, and the windows of **the skies** were opened."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 19
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "הַשָּׁמָיִם",
+        "transliteration": "haShamayim",
+        "englishLiteral": "the-skies",
+        "englishNatural": "the skies",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תַּחַת כָּל־ **הַשָּׁמָיִם**",
+        "transliteration": "tachat kol- **haShamayim**",
+        "englishLiteral": "under all- **the-skies.**",
+        "englishNatural": "were under all **the skies** were covered."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "הַשָּׁמַיִם",
+        "transliteration": "haShamayim",
+        "englishLiteral": "the-skies",
+        "englishNatural": "the skies",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַד־ עוֹף **הַשָּׁמַיִם** וַיִּמָּחוּ מִן־",
+        "transliteration": "veAd- oph **haShamayim** vayyimMachu min-",
+        "englishLiteral": "and-until- flyer **the-skies;** and-they-will-be-wiped_out from-",
+        "englishNatural": "and until flyer **the skies;** and they were wiped-out from"
       }
     },
     {

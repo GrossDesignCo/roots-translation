@@ -1,0 +1,34 @@
+{
+  "key": "yismkheni",
+  "language": "hebrew",
+  "root": "samakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "יִסְמְכֵֽנִי׃",
+        "transliteration": "yiSmkheni",
+        "englishLiteral": "he-will-support-me",
+        "englishNatural": "supports me",
+        "root": "samakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֖י יְהוָ֣ה **יִסְמְכֵֽנִי׃**",
+        "transliteration": "ki YHWH **yiSmkheni**",
+        "englishLiteral": "that He_Who_Is (YHWH) **he-will-support-me.**",
+        "englishNatural": "that He-Who-Is (YHWH) **supports me.**"
+      }
+    }
+  ]
+}

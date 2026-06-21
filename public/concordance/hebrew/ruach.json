@@ -30,6 +30,56 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 15
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "רוּחַ",
+        "transliteration": "ruach",
+        "englishLiteral": "wind-of",
+        "englishNatural": "the wind of",
+        "root": "ruach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ בּוֹ **רוּחַ** חַיִּים",
+        "transliteration": "asher- bo **ruach** chayyim",
+        "englishLiteral": "which- in-him **wind-of** lives.",
+        "englishNatural": "which in it **the wind of** lives."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 22
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "רוּחַ",
+        "transliteration": "ruach",
+        "englishLiteral": "Wind-of",
+        "englishNatural": "Wind of",
+        "root": "ruach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר נִשְׁמַת־ **רוּחַ** חַיִּים בְּאַפָּיו",
+        "transliteration": "asher nishmat- **ruach** chayyim beAppav",
+        "englishLiteral": "which breath-of- **Wind-of** lives in-nose-his,",
+        "englishNatural": "which the breath of **Wind of** lives in his nostrils,"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 4

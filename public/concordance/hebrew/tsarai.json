@@ -1,0 +1,32 @@
+{
+  "key": "tsarai",
+  "language": "hebrew",
+  "root": "tzar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "צָרָ֑י",
+        "transliteration": "tsarai",
+        "englishLiteral": "my-enemies",
+        "englishNatural": "my enemies",
+        "root": "tzar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מָֽה־ רַבּ֥וּ **צָרָ֑י** רַבִּ֗ים קָמִ֥ים",
+        "transliteration": "mah- rabbu **tsarai** rabbim qamim",
+        "englishLiteral": "what- have-been_many **my-enemies** many ones-standing_up",
+        "englishNatural": "what have been-many **my enemies;** many ones-standing-up"
+      }
+    }
+  ]
+}

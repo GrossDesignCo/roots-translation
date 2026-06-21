@@ -155,6 +155,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "גַּם",
+        "transliteration": "gam",
+        "englishLiteral": "Also",
+        "englishNatural": "Also",
+        "root": "gam",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**גַּם** מֵעוֹף הַשָּׁמַיִם",
+        "transliteration": "**gam** meOph haShamayim",
+        "englishLiteral": "**Also** from-flyer the-skies",
+        "englishNatural": "**Also** from the flyer of the skies"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 14
       },

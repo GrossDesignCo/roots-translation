@@ -1600,6 +1600,131 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְכָל־",
+        "transliteration": "veKhol-",
+        "englishLiteral": "and-all-",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בֹּא־ אַתָּה **וְכָל־** בֵּיתְךָ אֶל־",
+        "transliteration": "bo- attah **veKhol-** beitekha el-",
+        "englishLiteral": "\"Come- you **and-all-** house-your, to-",
+        "englishNatural": "\"Come, you **and all** your house, to"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "מִכֹּל",
+        "transliteration": "miKol",
+        "englishLiteral": "From-all",
+        "englishNatural": "From all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**מִכֹּל** הַבְּהֵמָה הַטְּהוֹרָה",
+        "transliteration": "**miKol** haBehemah haTehorah",
+        "englishLiteral": "**From-all** the-beast the-clean",
+        "englishNatural": "**From all** the beast the clean"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "כָל־",
+        "transliteration": "khol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ פְּנֵי **כָל־** הָאָרֶץ",
+        "transliteration": "al- peney **khol-** haAretz",
+        "englishLiteral": "over- faces-of **all-** the-land.",
+        "englishNatural": "over the face of **all** the land."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וּמָחִיתִי אֶת־ **כָּל־** הַיְקוּם אֲשֶׁר",
+        "transliteration": "uMachiti et- **kol-** haYequm asher",
+        "englishLiteral": "and-I-will-wipe_out ↳ **all-** the-standing_thing which",
+        "englishNatural": "and I will wipe-out ↳ **all** the standing-thing which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "כְּכֹל",
+        "transliteration": "keKol",
+        "englishLiteral": "as-all",
+        "englishNatural": "as all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעַשׂ נֹחַ **כְּכֹל** אֲשֶׁר צִוָּהוּ",
+        "transliteration": "vaYaas Noach **keKol** asher tzivvahu",
+        "englishLiteral": "And-he-made Rest (Noah) **as-all** which he-has-commanded-him",
+        "englishNatural": "And Rest (Noah) did **as all** which He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 8
       },
       "wordIndex": 10,
@@ -1794,6 +1919,256 @@
         "transliteration": "kol tzippor **kol-** kanaph",
         "englishLiteral": "all bird, **all-** wing.",
         "englishNatural": "all bird, **all** wing."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 15
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "מִכָּל־",
+        "transliteration": "miKol-",
+        "englishLiteral": "from-all-",
+        "englishNatural": "from all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנַיִם שְׁנַיִם **מִכָּל־** הַבָּשָׂר אֲשֶׁר־",
+        "transliteration": "shnayim shnayim **miKol-** haBasar asher-",
+        "englishLiteral": "two two, **from-all-** the-flesh, which-",
+        "englishNatural": "two two, **from all** the flesh, which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "מִכָּל־",
+        "transliteration": "miKol-",
+        "englishLiteral": "from-all-",
+        "englishNatural": "from all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זָכָר וּנְקֵבָה **מִכָּל־** בָּשָׂר בָּאוּ",
+        "transliteration": "zakhar uNeqevah **miKol-** basar bau",
+        "englishLiteral": "male and-female **from-all-** flesh they-have-come,",
+        "englishNatural": "male and female **from all** flesh they came,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 19
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ וַיְכֻסּוּ **כָּל־** הֶהָרִים הַגְּבֹהִים",
+        "transliteration": "haAretz vaYekhusu **kol-** heHarim haGevohim",
+        "englishLiteral": "the-land; and-were-covered **all-** the-mountains the-tall",
+        "englishNatural": "over the land, **and all** the mountains the tall"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 19
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ תַּחַת **כָּל־** הַשָּׁמָיִם",
+        "transliteration": "asher- tachat **kol-** haShamayim",
+        "englishLiteral": "which- under **all-** the-skies.",
+        "englishNatural": "which were under **all** the skies were covered."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּגְוַע **כָּל־** בָּשָׂר הָרֹמֵשׂ",
+        "transliteration": "vayyiGva **kol-** basar haRomes",
+        "englishLiteral": "and-he-will-expire **all-** flesh the-crawling",
+        "englishNatural": "and expired **all** flesh the crawling"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וּבְכָל־",
+        "transliteration": "uveKhol-",
+        "englishLiteral": "and-in-all-",
+        "englishNatural": "and in all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וּבַבְּהֵמָה וּבַחַיָּה **וּבְכָל־** הַשֶּׁרֶץ הַשֹּׁרֵץ",
+        "transliteration": "uvaBehemah uvaChayah **uveKhol-** haSherets haShorets",
+        "englishLiteral": "and-in-beast and-in-living_being **and-in-all-** the-swarm the-swarming",
+        "englishNatural": "and in the beast and in the living-being **and in all** the swarm the swarming"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "וְכֹל",
+        "transliteration": "veKhol",
+        "englishLiteral": "and-all",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **וְכֹל** הָאָדָם",
+        "transliteration": "al- haAretz **veKhol** haAdam",
+        "englishLiteral": "over- the-land, **and-all** the-Earthling (Adam).",
+        "englishNatural": "over the land, **and all** the Earthling (Adam)."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 22
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כֹּל",
+        "transliteration": "kol",
+        "englishLiteral": "all",
+        "englishNatural": "All",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**כֹּל** אֲשֶׁר נִשְׁמַת־",
+        "transliteration": "**kol** asher nishmat-",
+        "englishLiteral": "**all** which breath-of-",
+        "englishNatural": "**All** which the breath of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "מִכֹּל",
+        "transliteration": "mikKol",
+        "englishLiteral": "from-all",
+        "englishNatural": "from all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "חַיִּים בְּאַפָּיו **מִכֹּל** אֲשֶׁר בֶּחָרָבָה",
+        "transliteration": "chayyim beAppav **mikKol** asher beCharavah",
+        "englishLiteral": "lives in-nose-his, **from-all** which in-dry_land,",
+        "englishNatural": "lives in his nostrils, **from all** which in the dry-land,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּמַח אֶת־ **כָּל־** הַיְקוּם אֲשֶׁר",
+        "transliteration": "vayyiMach et- **kol-** haYequm asher",
+        "englishLiteral": "and-he-will-wipe_out ↳ **all-** the-standing_thing which",
+        "englishNatural": "and wiped-out ↳ **all** the standing-thing which"
       }
     },
     {
@@ -2969,6 +3344,31 @@
         "transliteration": "lo yibol **veKhol** asher yaAseh",
         "englishLiteral": "not it-withers, **and-all** which he-makes,",
         "englishNatural": "withers not, **and all** which he makes,"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הִכִּ֖יתָ אֶת־ **כָּל־** אֹיְבַ֥י לֶ֗חִי",
+        "transliteration": "hikkita et- **kol-** oyvai lechi",
+        "englishLiteral": "you-have-struck_down ↳ **all-** enemies-my cheek;",
+        "englishNatural": "you have struck-down ↳ **all** my enemies on the cheek;"
       }
     },
     {

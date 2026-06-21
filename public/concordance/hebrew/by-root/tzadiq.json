@@ -4,6 +4,56 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "צַדִּיק",
+        "transliteration": "tzaddiq",
+        "englishLiteral": "righteous",
+        "englishNatural": "righteous",
+        "root": "tzadiq",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ אִישׁ **צַדִּיק** תָּמִים הָיָה",
+        "transliteration": "noach ish **tzaddiq** tamim hayah",
+        "englishLiteral": "Rest (Noah), man **righteous,** wholesome he-was",
+        "englishNatural": "Rest (Noah), a man **righteous,** wholesome he was"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "צַדִּיק",
+        "transliteration": "tzaddiq",
+        "englishLiteral": "righteous",
+        "englishNatural": "righteous",
+        "root": "tzadiq",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֹתְךָ רָאִיתִי **צַדִּיק** לְפָנַי בַּדּוֹר",
+        "transliteration": "otkha raiti **tzaddiq** leFanai baDor",
+        "englishLiteral": "↳-you I-have-seen **righteous** to-faces-my in-the-generation",
+        "englishNatural": "you I have seen **righteous** to my face in the generation"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 5

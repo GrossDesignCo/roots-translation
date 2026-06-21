@@ -77,6 +77,31 @@
         "englishLiteral": "righteous-ones, and-way-of **wicked-ones** it-will-perish.",
         "englishNatural": "the righteous, and the way of **the wicked** will perish."
       }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "רְשָׁעִ֣ים",
+        "transliteration": "reshaim",
+        "englishLiteral": "wicked",
+        "englishNatural": "the wicked",
+        "root": "rasha",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לֶ֗חִי שִׁנֵּ֖י **רְשָׁעִ֣ים** שִׁבַּֽרְתָּ׃",
+        "transliteration": "lechi shinei **reshaim** shibarta",
+        "englishLiteral": "cheek; teeth-of **wicked** you-have-broken.",
+        "englishNatural": "you have broken the teeth of **the wicked.**"
+      }
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "key": "oyvai",
+  "language": "hebrew",
+  "root": "oyev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אֹיְבַ֥י",
+        "transliteration": "oyvai",
+        "englishLiteral": "enemies-my",
+        "englishNatural": "my enemies",
+        "root": "oyev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ כָּל־ **אֹיְבַ֥י** לֶ֗חִי שִׁנֵּ֖י",
+        "transliteration": "et- kol- **oyvai** lechi shinei",
+        "englishLiteral": "↳ all- **enemies-my** cheek; teeth-of",
+        "englishNatural": "↳ all **my enemies** on the cheek; you have broken"
+      }
+    }
+  ]
+}

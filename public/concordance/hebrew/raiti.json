@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "רָאִיתִי",
+        "transliteration": "raiti",
+        "englishLiteral": "I-have-seen",
+        "englishNatural": "I have seen",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ אֹתְךָ **רָאִיתִי** צַדִּיק לְפָנַי",
+        "transliteration": "ki- otkha **raiti** tzaddiq leFanai",
+        "englishLiteral": "that- ↳-you **I-have-seen** righteous to-faces-my",
+        "englishNatural": "that you **I have seen** righteous to my face"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 7

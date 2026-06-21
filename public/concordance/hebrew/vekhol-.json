@@ -32,6 +32,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְכָל־",
+        "transliteration": "veKhol-",
+        "englishLiteral": "and-all-",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בֹּא־ אַתָּה **וְכָל־** בֵּיתְךָ אֶל־",
+        "transliteration": "bo- attah **veKhol-** beitekha el-",
+        "englishLiteral": "\"Come- you **and-all-** house-your, to-",
+        "englishNatural": "\"Come, you **and all** your house, to"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 14
       },
       "wordIndex": 1,

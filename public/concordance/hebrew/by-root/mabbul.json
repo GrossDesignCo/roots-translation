@@ -105,6 +105,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 17
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַמַּבּוּל",
+        "transliteration": "haMabbul",
+        "englishLiteral": "the-flood",
+        "englishNatural": "And the flood",
+        "root": "mabbul",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **הַמַּבּוּל** אַרְבָּעִים יוֹם",
+        "transliteration": "vaYehi **haMabbul** arbaim yom",
+        "englishLiteral": "And-was **the-flood** forty day",
+        "englishNatural": "**And the flood** was forty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 11
       },

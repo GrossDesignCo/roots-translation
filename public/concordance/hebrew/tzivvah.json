@@ -56,6 +56,33 @@
         "englishLiteral": "and-female, as-which **he-commanded** Gods ↳",
         "englishNatural": "as which God **commanded** ↳ Rest (Noah)."
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "צִוָּה",
+        "transliteration": "tzivvah",
+        "englishLiteral": "he-has-commanded",
+        "englishNatural": "commanded",
+        "root": "tzavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "בָּאוּ כַּאֲשֶׁר **צִוָּה** אֹתוֹ אֱלֹהִים",
+        "transliteration": "bau kaAsher **tzivvah** oto Elohim",
+        "englishLiteral": "they-have-come, as-which **he-has-commanded** him Gods.",
+        "englishNatural": "as which God **commanded** him. And He-Who-Is (YHWH)"
+      }
     }
   ]
 }

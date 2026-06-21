@@ -79,6 +79,56 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "רַבִּ֗ים",
+        "transliteration": "rabbim",
+        "englishLiteral": "many",
+        "englishNatural": "many",
+        "root": "rav",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "רַבּ֥וּ צָרָ֑י **רַבִּ֗ים** קָמִ֥ים עָלָֽי׃",
+        "transliteration": "rabbu tsarai **rabbim** qamim alay",
+        "englishLiteral": "have-been_many my-enemies **many** ones-standing_up over-me.",
+        "englishNatural": "have been-many my enemies; **many** ones-standing-up over me."
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "רַ֭בִּים",
+        "transliteration": "rabbim",
+        "englishLiteral": "many",
+        "englishNatural": "Many",
+        "root": "rav",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**רַ֭בִּים** אֹמְרִ֣ים לְנַפְשִׁ֑י",
+        "transliteration": "**rabbim** omrim leNafshi",
+        "englishLiteral": "**many** say-s to-my-throat,",
+        "englishNatural": "**Many** say to my throat,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 24

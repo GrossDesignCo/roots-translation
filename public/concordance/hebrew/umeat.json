@@ -127,6 +127,31 @@
         "englishLiteral": "and-eighty year **and-hundred** year, and-birthed",
         "englishNatural": "and eighty years **and a hundred** years, and birthed"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 24
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וּמְאַת",
+        "transliteration": "uMeat",
+        "englishLiteral": "and-hundred",
+        "englishNatural": "and a hundred",
+        "root": "meah",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ חֲמִשִּׁים **וּמְאַת** יוֹם",
+        "transliteration": "haAretz chamishim **uMeat** yom",
+        "englishLiteral": "the-land, fifty **and-hundred** day.",
+        "englishNatural": "the land, fifty **and a hundred** days."
+      }
     }
   ]
 }

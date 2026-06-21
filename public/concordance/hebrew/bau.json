@@ -32,6 +32,33 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בָּאוּ",
+        "transliteration": "bau",
+        "englishLiteral": "they-have-come",
+        "englishNatural": "they came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִכָּל־ בָּשָׂר **בָּאוּ** כַּאֲשֶׁר צִוָּה",
+        "transliteration": "miKol- basar **bau** kaAsher tzivvah",
+        "englishLiteral": "from-all- flesh **they-have-come,** as-which he-has-commanded",
+        "englishNatural": "from all flesh **they came,** as which God"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 5,
         "verse": 1

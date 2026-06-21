@@ -181,7 +181,7 @@ export const genesis_8_22: Verse = {
       transliteration: 'vaLaylah',
       englishLiteral: 'and-night',
       englishNatural: 'and night',
-      root: 'laylah',
+      root: 'layil',
       prefixes: ['va'],
       order: 12,
       morphology: {
@@ -248,6 +248,6 @@ export const genesis_8_22: Verse = {
     englishNatural:
       'Still all the days of the land, seed and harvest, and cold and heat, and summer and winter, and day and night they will sabbath not."',
     kjv: 'While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
   },
 };

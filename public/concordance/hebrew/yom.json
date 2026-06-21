@@ -207,6 +207,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יוֹם",
+        "transliteration": "yom",
+        "englishLiteral": "day",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ אַרְבָּעִים **יוֹם** וְאַרְבָּעִים לָיְלָה",
+        "transliteration": "haAretz arbaim **yom** veArbaim laylah",
+        "englishLiteral": "the-land, forty **day** and-forty night;",
+        "englishNatural": "the land, forty **days** and forty nights;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 11
       },
       "wordIndex": 10,
@@ -251,6 +276,56 @@
         "transliteration": "haAretz arbaim **yom** veArbaim laylah",
         "englishLiteral": "the-land, forty **day** and-forty night.",
         "englishNatural": "the land, forty **days** and forty nights."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "יוֹם",
+        "transliteration": "yom",
+        "englishLiteral": "day",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמַּבּוּל אַרְבָּעִים **יוֹם** עַל־ הָאָרֶץ",
+        "transliteration": "haMabbul arbaim **yom** al- haAretz",
+        "englishLiteral": "the-flood forty **day** over- the-land;",
+        "englishNatural": "was forty **days** over the land;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 24
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "יוֹם",
+        "transliteration": "yom",
+        "englishLiteral": "day",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֲמִשִּׁים וּמְאַת **יוֹם**",
+        "transliteration": "chamishim uMeat **yom**",
+        "englishLiteral": "fifty and-hundred **day.**",
+        "englishNatural": "fifty and a hundred **days.**"
       }
     },
     {

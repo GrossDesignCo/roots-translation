@@ -896,6 +896,81 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "And He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **יְהוָה** לְנֹחַ בֹּא־",
+        "transliteration": "vaYomer **YHWH** leNoach bo-",
+        "englishLiteral": "And-he-said **He_Who_Is (YHWH)** to-Rest (Noah), \"Come-",
+        "englishNatural": "**And He-Who-Is (YHWH)** said to Rest (Noah),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר צִוָּהוּ **יְהוָה**",
+        "transliteration": "asher tzivvahu **YHWH**",
+        "englishLiteral": "which he-has-commanded-him **He_Who_Is (YHWH).**",
+        "englishNatural": "as all which **He-Who-Is (YHWH)** commanded him."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "And He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים וַיִּסְגֹּר **יְהוָה** בַּעֲדוֹ",
+        "transliteration": "Elohim vaYisgor **YHWH** baAdo",
+        "englishLiteral": "Gods. And-closed **He_Who_Is (YHWH)** behind-him.",
+        "englishNatural": "commanded him. **And He-Who-Is (YHWH)** closed behind him."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 8,
         "verse": 20
       },
@@ -2735,6 +2810,156 @@
         "transliteration": "ki yodea **YHWH** derekh tzadiqim",
         "englishLiteral": "That knowing **He-Who-Is (YHWH)** way-of righteous-ones,",
         "englishNatural": "That **He-Who-Is (YHWH)** knows the way of"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "יְהוָ֗ה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**יְהוָ֗ה** מָֽה־ רַבּ֥וּ",
+        "transliteration": "**YHWH** mah- rabbu",
+        "englishLiteral": "**He_Who_Is (YHWH)** what- have-been_many",
+        "englishNatural": "**He-Who-Is (YHWH),** what have been-many"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יְ֭הוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַתָּ֣ה **יְ֭הוָה** מָגֵ֣ן בַּעֲדִ֑י",
+        "transliteration": "veAttah **YHWH** magen baAdi",
+        "englishLiteral": "And-you **He_Who_Is (YHWH)** shield around-me;",
+        "englishNatural": "And you, **He-Who-Is (YHWH),** are a shield around me;"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יְהוָ֥ה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קוֹלִ֗י אֶל־ **יְהוָ֥ה** אֶקְרָ֑א וַיַּֽעֲנֵ֨נִי",
+        "transliteration": "qoli el- **YHWH** eQra vaYaaneni",
+        "englishLiteral": "my-voice to **He_Who_Is (YHWH)** I-will-call_out; and-he-will-answer-me",
+        "englishNatural": "I call-out, to **He-Who-Is (YHWH)** with my voice and he answers me"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "יְהוָ֣ה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֱקִיצ֑וֹתִי כִּ֖י **יְהוָ֣ה** יִסְמְכֵֽנִי׃",
+        "transliteration": "heQitsoti ki **YHWH** yiSmkheni",
+        "englishLiteral": "I-have-awoken, that **He_Who_Is (YHWH)** he-will-support-me.",
+        "englishNatural": "I have awoken, that **He-Who-Is (YHWH)** supports me."
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יְ֭הוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)!",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קוּמָ֣ה **יְ֭הוָה** הוֹשִׁיעֵ֣נִי אֱלֹהַ֑י",
+        "transliteration": "qumah **YHWH** hoshieni elohai",
+        "englishLiteral": "Stand_up **He_Who_Is (YHWH)** save-me Gods-my;",
+        "englishNatural": "Stand-up, **He-Who-Is (YHWH)!** Save me, my God;"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לַיהוָ֥ה",
+        "transliteration": "laYHWH",
+        "englishLiteral": "to-He_Who_Is (YHWH)",
+        "englishNatural": "To He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**לַיהוָ֥ה** הַיְשׁוּעָ֑ה עַֽל־",
+        "transliteration": "**laYHWH** haYeshuah al-",
+        "englishLiteral": "**to-He_Who_Is (YHWH)** the-salvation; over-",
+        "englishNatural": "**To He-Who-Is (YHWH)** the salvation; over"
       }
     },
     {

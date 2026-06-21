@@ -180,6 +180,31 @@
     {
       "location": {
         "book": "Psalms",
+        "chapter": 3,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מָֽה־",
+        "transliteration": "mah-",
+        "englishLiteral": "what-",
+        "englishNatural": "what",
+        "root": "mah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֗ה **מָֽה־** רַבּ֥וּ צָרָ֑י",
+        "transliteration": "YHWH **mah-** rabbu tsarai",
+        "englishLiteral": "He_Who_Is (YHWH) **what-** have-been_many my-enemies",
+        "englishNatural": "He-Who-Is (YHWH), **what** have been-many my enemies;"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
         "chapter": 8,
         "verse": 1
       },

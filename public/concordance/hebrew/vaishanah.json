@@ -1,0 +1,34 @@
+{
+  "key": "vaishanah",
+  "language": "hebrew",
+  "root": "yashen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וָאִ֫ישָׁ֥נָה",
+        "transliteration": "vaIshanah",
+        "englishLiteral": "and-I-will-sleep",
+        "englishNatural": "and I slept",
+        "root": "yashen",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲנִ֥י שָׁכַ֗בְתִּי **וָאִ֫ישָׁ֥נָה** הֱקִיצ֑וֹתִי כִּ֖י",
+        "transliteration": "ani shakhavti **vaIshanah** heQitsoti ki",
+        "englishLiteral": "I I-have-lain_down **and-I-will-sleep;** I-have-awoken, that",
+        "englishNatural": "I have lain-down **and I slept;** I have awoken, that"
+      }
+    }
+  ]
+}

@@ -57,6 +57,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וּנְקֵבָה",
+        "transliteration": "uNeqevah",
+        "englishLiteral": "and-female",
+        "englishNatural": "and female",
+        "root": "neqevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁבְעָה זָכָר **וּנְקֵבָה** לְחַיּוֹת זֶרַע",
+        "transliteration": "shivah zakhar **uNeqevah** leChayot zera",
+        "englishLiteral": "seven, male **and-female;** to-keep_alive seed",
+        "englishNatural": "seven, male **and female;** to keep-alive seed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 9
       },
       "wordIndex": 8,
@@ -76,6 +101,31 @@
         "transliteration": "haTevah zakhar **uNeqevah** kaAsher tzivvah",
         "englishLiteral": "the-ark, male **and-female,** as-which he-commanded",
         "englishNatural": "the ark, male **and female,** as which God"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וּנְקֵבָה",
+        "transliteration": "uNeqevah",
+        "englishLiteral": "and-female",
+        "englishNatural": "and female",
+        "root": "neqevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַבָּאִים זָכָר **וּנְקֵבָה** מִכָּל־ בָּשָׂר",
+        "transliteration": "veHaBaim zakhar **uNeqevah** miKol- basar",
+        "englishLiteral": "And-the-coming_ones male **and-female** from-all- flesh",
+        "englishNatural": "And the coming-ones male **and female** from all flesh"
       }
     }
   ]

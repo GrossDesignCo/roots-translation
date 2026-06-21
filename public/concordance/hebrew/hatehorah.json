@@ -7,6 +7,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הַטְּהוֹרָה",
+        "transliteration": "haTehorah",
+        "englishLiteral": "the-clean",
+        "englishNatural": "the clean",
+        "root": "tahor",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "מִכֹּל הַבְּהֵמָה **הַטְּהוֹרָה** תִּקַּח־ לְךָ",
+        "transliteration": "miKol haBehemah **haTehorah** tiqqach- lekha",
+        "englishLiteral": "From-all the-beast **the-clean** you-will-take- to-you",
+        "englishNatural": "From all the beast **the clean** you will take to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 8
       },
       "wordIndex": 2,

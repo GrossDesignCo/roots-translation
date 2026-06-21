@@ -1,0 +1,32 @@
+{
+  "key": "hasherets",
+  "language": "hebrew",
+  "root": "sherets",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הַשֶּׁרֶץ",
+        "transliteration": "haSherets",
+        "englishLiteral": "the-swarm",
+        "englishNatural": "the swarm",
+        "root": "sherets",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבַחַיָּה וּבְכָל־ **הַשֶּׁרֶץ** הַשֹּׁרֵץ עַל־",
+        "transliteration": "uvaChayah uveKhol- **haSherets** haShorets al-",
+        "englishLiteral": "and-in-living_being and-in-all- **the-swarm** the-swarming over-",
+        "englishNatural": "and in the living-being and in all **the swarm** the swarming over"
+      }
+    }
+  ]
+}

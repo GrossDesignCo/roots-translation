@@ -32,6 +32,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וּמִן־",
+        "transliteration": "uMin-",
+        "englishLiteral": "and-from-",
+        "englishNatural": "and from",
+        "root": "min_from",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ וְאִשְׁתּוֹ **וּמִן־** הַבְּהֵמָה אֲשֶׁר",
+        "transliteration": "ish veIshto **uMin-** haBehemah asher",
+        "englishLiteral": "man and-woman-his; **and-from-** the-beast which",
+        "englishNatural": "man and his woman; **and from** the beast which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 8
       },
       "wordIndex": 3,

@@ -1,0 +1,32 @@
+{
+  "key": "avshalom",
+  "language": "hebrew",
+  "root": "avshalom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 0
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אַבְשָׁל֥וֹם",
+        "transliteration": "Avshalom",
+        "englishLiteral": "Father_of_Peace (Absalom)",
+        "englishNatural": "Father-of-Peace (Absalom)",
+        "root": "avshalom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּבָרְח֥וֹ מִפְּנֵ֗י **אַבְשָׁל֥וֹם** בְּנֽוֹ",
+        "transliteration": "beVorcho miPney **Avshalom** beno",
+        "englishLiteral": "in-his-fleeing from-faces_of **Father_of_Peace (Absalom)** son-his.",
+        "englishNatural": "in his fleeing from the face of **Father-of-Peace (Absalom),** his son."
+      }
+    }
+  ]
+}

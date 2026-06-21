@@ -1,0 +1,57 @@
+{
+  "key": "hayequm",
+  "language": "hebrew",
+  "root": "yequm",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "הַיְקוּם",
+        "transliteration": "haYequm",
+        "englishLiteral": "the-standing_thing",
+        "englishNatural": "the standing-thing",
+        "root": "yequm",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ כָּל־ **הַיְקוּם** אֲשֶׁר עָשִׂיתִי",
+        "transliteration": "et- kol- **haYequm** asher asiti",
+        "englishLiteral": "↳ all- **the-standing_thing** which I-have-made",
+        "englishNatural": "↳ all **the standing-thing** which I have made"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הַיְקוּם",
+        "transliteration": "haYequm",
+        "englishLiteral": "the-standing_thing",
+        "englishNatural": "the standing-thing",
+        "root": "yequm",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ כָּל־ **הַיְקוּם** אֲשֶׁר עַל־",
+        "transliteration": "et- kol- **haYequm** asher al-",
+        "englishLiteral": "↳ all- **the-standing_thing** which over-",
+        "englishNatural": "↳ all **the standing-thing** which over"
+      }
+    }
+  ]
+}

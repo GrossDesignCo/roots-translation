@@ -30,6 +30,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "attah",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "לְנֹחַ בֹּא־ **אַתָּה** וְכָל־ בֵּיתְךָ",
+        "transliteration": "leNoach bo- **attah** veKhol- beitekha",
+        "englishLiteral": "to-Rest (Noah), \"Come- **you** and-all- house-your,",
+        "englishNatural": "to Rest (Noah), \"Come, **you** and all your house,"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 10

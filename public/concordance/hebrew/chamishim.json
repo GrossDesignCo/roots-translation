@@ -27,6 +27,31 @@
         "englishLiteral": "length-of the-ark, **fifty** cubit breadth-her,",
         "englishNatural": "the length of the ark, **fifty** cubits its breadth,"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 24
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "חֲמִשִּׁים",
+        "transliteration": "chamishim",
+        "englishLiteral": "fifty",
+        "englishNatural": "fifty",
+        "root": "chamishim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **חֲמִשִּׁים** וּמְאַת יוֹם",
+        "transliteration": "al- haAretz **chamishim** uMeat yom",
+        "englishLiteral": "over- the-land, **fifty** and-hundred day.",
+        "englishNatural": "over the land, **fifty** and a hundred days."
+      }
     }
   ]
 }

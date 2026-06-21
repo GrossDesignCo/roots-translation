@@ -1,0 +1,61 @@
+{
+  "key": "vayirbu",
+  "language": "hebrew",
+  "root": "rabah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וַיִּרְבּוּ",
+        "transliteration": "vaYirbu",
+        "englishLiteral": "and-they-multiplied",
+        "englishNatural": "multiplied",
+        "root": "rabah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **וַיִּרְבּוּ** הַמַּיִם וַיִּשְׂאוּ",
+        "transliteration": "al- haAretz **vaYirbu** haMayim vaYiseu",
+        "englishLiteral": "over- the-land; **and-they-multiplied** the-waters, and-they-lifted_up",
+        "englishNatural": "the land; and the waters **multiplied,** and lifted-up ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 18
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וַיִּרְבּוּ",
+        "transliteration": "vaYirbu",
+        "englishLiteral": "and-they-multiplied",
+        "englishNatural": "and multiplied",
+        "root": "rabah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּגְבְּרוּ הַמַּיִם **וַיִּרְבּוּ** מְאֹד עַל־",
+        "transliteration": "vaYigberu haMayim **vaYirbu** meod al-",
+        "englishLiteral": "And-they-prevailed the-waters **and-they-multiplied** very over-",
+        "englishNatural": "And the waters prevailed **and multiplied** very over"
+      }
+    }
+  ]
+}

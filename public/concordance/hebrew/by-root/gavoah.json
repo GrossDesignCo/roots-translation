@@ -1,0 +1,31 @@
+{
+  "root": "gavoah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 19
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הַגְּבֹהִים",
+        "transliteration": "haGevohim",
+        "englishLiteral": "the-tall",
+        "englishNatural": "the tall",
+        "root": "gavoah",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הֶהָרִים **הַגְּבֹהִים** אֲשֶׁר־ תַּחַת",
+        "transliteration": "kol- heHarim **haGevohim** asher- tachat",
+        "englishLiteral": "all- the-mountains **the-tall** which- under",
+        "englishNatural": "and all the mountains **the tall** which were under"
+      }
+    }
+  ]
+}

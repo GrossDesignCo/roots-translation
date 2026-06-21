@@ -130,6 +130,31 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "אֲנִ֥י",
+        "transliteration": "ani",
+        "englishLiteral": "I",
+        "englishNatural": "I",
+        "root": "ani",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**אֲנִ֥י** שָׁכַ֗בְתִּי וָאִ֫ישָׁ֥נָה",
+        "transliteration": "**ani** shakhavti vaIshanah",
+        "englishLiteral": "**I** I-have-lain_down and-I-will-sleep;",
+        "englishNatural": "**I** have lain-down and I slept;"
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 8,
         "verse": 27

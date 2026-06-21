@@ -1,0 +1,31 @@
+{
+  "root": "shen",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "שִׁנֵּ֖י",
+        "transliteration": "shinei",
+        "englishLiteral": "teeth-of",
+        "englishNatural": "the teeth of",
+        "root": "shen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֹיְבַ֥י לֶ֗חִי **שִׁנֵּ֖י** רְשָׁעִ֣ים שִׁבַּֽרְתָּ׃",
+        "transliteration": "oyvai lechi **shinei** reshaim shibarta",
+        "englishLiteral": "enemies-my cheek; **teeth-of** wicked you-have-broken.",
+        "englishNatural": "on the cheek; you have broken **the teeth of** the wicked."
+      }
+    }
+  ]
+}

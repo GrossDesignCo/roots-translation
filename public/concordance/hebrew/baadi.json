@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בַּעֲדִ֑י",
+        "transliteration": "baAdi",
+        "englishLiteral": "around-me",
+        "englishNatural": "around me",
+        "root": "baad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יְ֭הוָה מָגֵ֣ן **בַּעֲדִ֑י** כְּבוֹדִ֗י וּמֵרִ֥ים",
+        "transliteration": "YHWH magen **baAdi** kevodi uMerim",
+        "englishLiteral": "He_Who_Is (YHWH) shield **around-me;** my-glory and-raising",
+        "englishNatural": "He-Who-Is (YHWH), are a shield **around me;** my glory and the one-raising"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 2,
         "verse": 6

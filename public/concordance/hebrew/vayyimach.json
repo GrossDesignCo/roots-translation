@@ -1,0 +1,34 @@
+{
+  "key": "vayyimach",
+  "language": "hebrew",
+  "root": "machah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיִּמַח",
+        "transliteration": "vayyiMach",
+        "englishLiteral": "and-he-will-wipe_out",
+        "englishNatural": "and wiped-out",
+        "root": "machah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּמַח** אֶת־ כָּל־",
+        "transliteration": "**vayyiMach** et- kol-",
+        "englishLiteral": "**and-he-will-wipe_out** ↳ all-",
+        "englishNatural": "**and wiped-out** ↳ all"
+      }
+    }
+  ]
+}

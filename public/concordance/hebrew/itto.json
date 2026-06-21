@@ -27,6 +27,31 @@
         "englishLiteral": "and-women-of- sons-his **with-him,** to- the-ark,",
         "englishNatural": "and the women of his sons **with him,** to the ark,"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 23
+      },
+      "wordIndex": 23,
+      "sourceOrder": 23,
+      "word": {
+        "originalScript": "אִתּוֹ",
+        "transliteration": "itto",
+        "englishLiteral": "with-him",
+        "englishNatural": "with him",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ וַאֲשֶׁר **אִתּוֹ** בַּתֵּבָה",
+        "transliteration": "Noach vaAsher **itto** baTevah",
+        "englishLiteral": "Rest (Noah) and-which **with-him** in-the-ark.",
+        "englishNatural": "Rest (Noah) and which **with him** in the ark."
+      }
     }
   ]
 }

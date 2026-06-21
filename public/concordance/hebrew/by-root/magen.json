@@ -26,6 +26,31 @@
         "englishLiteral": "Exalted_Father (Abram), I **shield** to-you, reward-of-you",
         "englishNatural": "Exalted-Father (Abram), I, **a shield** to you; your reward"
       }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מָגֵ֣ן",
+        "transliteration": "magen",
+        "englishLiteral": "shield",
+        "englishNatural": "are a shield",
+        "root": "magen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַתָּ֣ה יְ֭הוָה **מָגֵ֣ן** בַּעֲדִ֑י כְּבוֹדִ֗י",
+        "transliteration": "veAttah YHWH **magen** baAdi kevodi",
+        "englishLiteral": "And-you He_Who_Is (YHWH) **shield** around-me; my-glory",
+        "englishNatural": "And you, He-Who-Is (YHWH), **are a shield** around me; my glory"
+      }
     }
   ]
 }

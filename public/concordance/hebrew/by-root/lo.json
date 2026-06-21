@@ -502,6 +502,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "לֹא",
+        "transliteration": "lo",
+        "englishLiteral": "not",
+        "englishNatural": "is not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הַבְּהֵמָה אֲשֶׁר **לֹא** טְהוֹרָה הִוא",
+        "transliteration": "haBehemah asher **lo** tehorah hi",
+        "englishLiteral": "the-beast which **not** clean she,",
+        "englishNatural": "the beast which **is not** clean she,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 8,
         "verse": 21
       },
@@ -1597,6 +1622,31 @@
         "transliteration": "al ken **lo** yaqumu reshaim",
         "englishLiteral": "Over so **not** they-will-stand_up wicked-ones",
         "englishNatural": "the wicked will stand-up **not** in justice; and sinners,"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לֹ֘א",
+        "transliteration": "lo",
+        "englishLiteral": "not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לֹ֘א** אִ֫ירָ֥א מֵרִבְב֥וֹת",
+        "transliteration": "**lo** eIra meRivevot",
+        "englishLiteral": "**not** I-will-fear from-ten_thousands-of",
+        "englishNatural": "I will fear **not** from ten-thousands of people,"
       }
     },
     {

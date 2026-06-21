@@ -1,0 +1,34 @@
+{
+  "key": "bo-",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בֹּא־",
+        "transliteration": "bo-",
+        "englishLiteral": "Come-",
+        "englishNatural": "Come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה לְנֹחַ **בֹּא־** אַתָּה וְכָל־",
+        "transliteration": "YHWH leNoach **bo-** attah veKhol-",
+        "englishLiteral": "He_Who_Is (YHWH) to-Rest (Noah), **\"Come-** you and-all-",
+        "englishNatural": "said to Rest (Noah), **\"Come,** you and all"
+      }
+    }
+  ]
+}

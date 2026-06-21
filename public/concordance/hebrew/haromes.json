@@ -54,6 +54,33 @@
         "englishLiteral": "and-all- the-creeping_thing **the-creeping** over- the-land",
         "englishNatural": "and all the creeping-thing **the creeping** over the land"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 21
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הָרֹמֵשׂ",
+        "transliteration": "haRomes",
+        "englishLiteral": "the-crawling",
+        "englishNatural": "the crawling",
+        "root": "ramas",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ בָּשָׂר **הָרֹמֵשׂ** עַל־ הָאָרֶץ",
+        "transliteration": "kol- basar **haRomes** al- haAretz",
+        "englishLiteral": "all- flesh **the-crawling** over- the-land,",
+        "englishNatural": "all flesh **the crawling** over the land,"
+      }
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "key": "kekol",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "כְּכֹל",
+        "transliteration": "keKol",
+        "englishLiteral": "as-all",
+        "englishNatural": "as all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעַשׂ נֹחַ **כְּכֹל** אֲשֶׁר צִוָּהוּ",
+        "transliteration": "vaYaas Noach **keKol** asher tzivvahu",
+        "englishLiteral": "And-he-made Rest (Noah) **as-all** which he-has-commanded-him",
+        "englishNatural": "And Rest (Noah) did **as all** which He-Who-Is (YHWH)"
+      }
+    }
+  ]
+}

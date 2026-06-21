@@ -121,7 +121,7 @@ export const genesis_7_12: Verse = {
       transliteration: 'laylah',
       englishLiteral: 'night',
       englishNatural: 'nights',
-      root: 'laylah',
+      root: 'layil',
       order: 8,
       morphology: {
         gender: 'masculine',
@@ -144,6 +144,6 @@ export const genesis_7_12: Verse = {
     englishNatural:
       'And the rain was over the land, forty days and forty nights.',
     kjv: 'And the rain was upon the earth forty days and forty nights.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
   },
 };

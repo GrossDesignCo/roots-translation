@@ -1,0 +1,34 @@
+{
+  "key": "qumah",
+  "language": "hebrew",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "קוּמָ֣ה",
+        "transliteration": "qumah",
+        "englishLiteral": "Stand_up",
+        "englishNatural": "Stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**קוּמָ֣ה** יְ֭הוָה הוֹשִׁיעֵ֣נִי",
+        "transliteration": "**qumah** YHWH hoshieni",
+        "englishLiteral": "**Stand_up** He_Who_Is (YHWH) save-me",
+        "englishNatural": "**Stand-up,** He-Who-Is (YHWH)! Save me,"
+      }
+    }
+  ]
+}

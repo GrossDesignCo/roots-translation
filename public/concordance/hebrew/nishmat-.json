@@ -1,0 +1,32 @@
+{
+  "key": "nishmat-",
+  "language": "hebrew",
+  "root": "neshamah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 22
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "נִשְׁמַת־",
+        "transliteration": "nishmat-",
+        "englishLiteral": "breath-of-",
+        "englishNatural": "the breath of",
+        "root": "neshamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֹּל אֲשֶׁר **נִשְׁמַת־** רוּחַ חַיִּים",
+        "transliteration": "kol asher **nishmat-** ruach chayyim",
+        "englishLiteral": "all which **breath-of-** Wind-of lives",
+        "englishNatural": "All which **the breath of** Wind of lives"
+      }
+    }
+  ]
+}

@@ -106,6 +106,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לְךָ",
+        "transliteration": "lekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "la",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַטְּהוֹרָה תִּקַּח־ **לְךָ** שִׁבְעָה שִׁבְעָה",
+        "transliteration": "haTehorah tiqqach- **lekha** shivah shivah",
+        "englishLiteral": "the-clean you-will-take- **to-you** seven seven,",
+        "englishNatural": "the clean you will take **to you** seven seven,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 12,
         "verse": 1
       },

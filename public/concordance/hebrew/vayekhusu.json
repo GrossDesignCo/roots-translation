@@ -1,0 +1,61 @@
+{
+  "key": "vayekhusu",
+  "language": "hebrew",
+  "root": "kasah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 19
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וַיְכֻסּוּ",
+        "transliteration": "vaYekhusu",
+        "englishLiteral": "and-were-covered",
+        "englishNatural": "were covered",
+        "root": "kasah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **וַיְכֻסּוּ** כָּל־ הֶהָרִים",
+        "transliteration": "al- haAretz **vaYekhusu** kol- heHarim",
+        "englishLiteral": "over- the-land; **and-were-covered** all- the-mountains",
+        "englishNatural": "all the skies **were covered.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 20
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וַיְכֻסּוּ",
+        "transliteration": "vaYekhusu",
+        "englishLiteral": "and-were-covered",
+        "englishNatural": "were covered",
+        "root": "kasah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "גָּבְרוּ הַמָּיִם **וַיְכֻסּוּ** הֶהָרִים",
+        "transliteration": "gavru haMayim **vaYekhusu** heHarim",
+        "englishLiteral": "they-have-prevailed the-waters; **and-were-covered** the-mountains.",
+        "englishNatural": "have prevailed, and the mountains **were covered.**"
+      }
+    }
+  ]
+}

@@ -4,6 +4,56 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בְּאַפָּיו",
+        "transliteration": "beAppav",
+        "englishLiteral": "in-his-nostrils",
+        "englishNatural": "into his nostrils",
+        "root": "aph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה וַיִּפַּח **בְּאַפָּיו** נִשְׁמַת חַיִּים",
+        "transliteration": "haAdamah vaYipach **beAppav** nishmat chayyim",
+        "englishLiteral": "the-earth; and-blew **in-his-nostrils** breath-of lives,",
+        "englishNatural": "the earth; and blew **into his nostrils** the breath of life,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 22
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בְּאַפָּיו",
+        "transliteration": "beAppav",
+        "englishLiteral": "in-nose-his",
+        "englishNatural": "in his nostrils",
+        "root": "aph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רוּחַ חַיִּים **בְּאַפָּיו** מִכֹּל אֲשֶׁר",
+        "transliteration": "ruach chayyim **beAppav** mikKol asher",
+        "englishLiteral": "Wind-of lives **in-nose-his,** from-all which",
+        "englishNatural": "Wind of lives **in his nostrils,** from all which"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 11,
         "verse": 8
@@ -25,6 +75,31 @@
         "transliteration": "Paroh boChori- **af**",
         "englishLiteral": "Pharaoh in-burning- **nose.**",
         "englishNatural": "Pharaoh in burning **nose.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "אַפַּיִם",
+        "transliteration": "apayim",
+        "englishLiteral": "nostrils",
+        "englishNatural": "nostrils",
+        "root": "aph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחַנּוּן אֶרֶךְ **אַפַּיִם** וְרַב־ חֶסֶד",
+        "transliteration": "veChannun erekh **apayim** veRav- chesed",
+        "englishLiteral": "and-gracious, long **nostrils,** and-many- steadfast_love",
+        "englishNatural": "and gracious, long of **nostrils,** and abundant in steadfast-love"
       }
     },
     {

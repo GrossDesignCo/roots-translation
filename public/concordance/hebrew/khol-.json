@@ -6,6 +6,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "כָל־",
+        "transliteration": "khol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ פְּנֵי **כָל־** הָאָרֶץ",
+        "transliteration": "al- peney **khol-** haAretz",
+        "englishLiteral": "over- faces-of **all-** the-land.",
+        "englishNatural": "over the face of **all** the land."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 1
       },

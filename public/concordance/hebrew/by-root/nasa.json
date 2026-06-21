@@ -57,6 +57,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 17
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וַיִּשְׂאוּ",
+        "transliteration": "vaYiseu",
+        "englishLiteral": "and-they-lifted_up",
+        "englishNatural": "and lifted-up",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּרְבּוּ הַמַּיִם **וַיִּשְׂאוּ** אֶת־ הַתֵּבָה",
+        "transliteration": "vaYirbu haMayim **vaYiseu** et- haTevah",
+        "englishLiteral": "and-they-multiplied the-waters, **and-they-lifted_up** ↳ the-ark,",
+        "englishNatural": "and the waters multiplied, **and lifted-up** ↳ the ark,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 2
       },

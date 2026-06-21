@@ -1653,6 +1653,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 7,
+        "verse": 16
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אֱלֹהִים",
+        "transliteration": "Elohim",
+        "englishLiteral": "Gods",
+        "englishNatural": "God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צִוָּה אֹתוֹ **אֱלֹהִים** וַיִּסְגֹּר יְהוָה",
+        "transliteration": "tzivvah oto **Elohim** vaYisgor YHWH",
+        "englishLiteral": "he-has-commanded him **Gods.** And-closed He_Who_Is (YHWH)",
+        "englishNatural": "they came, as which **God** commanded him."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 1
       },

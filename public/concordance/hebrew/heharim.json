@@ -1,0 +1,57 @@
+{
+  "key": "heharim",
+  "language": "hebrew",
+  "root": "har",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 19
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הֶהָרִים",
+        "transliteration": "heHarim",
+        "englishLiteral": "the-mountains",
+        "englishNatural": "the mountains",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְכֻסּוּ כָּל־ **הֶהָרִים** הַגְּבֹהִים אֲשֶׁר־",
+        "transliteration": "vaYekhusu kol- **heHarim** haGevohim asher-",
+        "englishLiteral": "and-were-covered all- **the-mountains** the-tall which-",
+        "englishNatural": "the land, and all **the mountains** the tall which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 20
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הֶהָרִים",
+        "transliteration": "heHarim",
+        "englishLiteral": "the-mountains",
+        "englishNatural": "and the mountains",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמָּיִם וַיְכֻסּוּ **הֶהָרִים**",
+        "transliteration": "haMayim vaYekhusu **heHarim**",
+        "englishLiteral": "the-waters; and-were-covered **the-mountains.**",
+        "englishNatural": "the waters have prevailed, **and the mountains** were covered."
+      }
+    }
+  ]
+}

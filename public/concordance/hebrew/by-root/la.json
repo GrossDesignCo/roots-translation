@@ -204,6 +204,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לְךָ",
+        "transliteration": "lekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "la",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַטְּהוֹרָה תִּקַּח־ **לְךָ** שִׁבְעָה שִׁבְעָה",
+        "transliteration": "haTehorah tiqqach- **lekha** shivah shivah",
+        "englishLiteral": "the-clean you-will-take- **to-you** seven seven,",
+        "englishNatural": "the clean you will take **to you** seven seven,"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 10,
         "verse": 28
@@ -325,6 +350,56 @@
         "transliteration": "khol- asher- **lo** beYadekha raq",
         "englishLiteral": "all- which- **to-him** in-hand-your; only",
         "englishNatural": "all which **is to him** is in your hand; only"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "ל֣וֹ",
+        "transliteration": "lo",
+        "englishLiteral": "to-him",
+        "englishNatural": "to him",
+        "root": "la",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֵ֤ין יְשׁוּעָ֖תָה **ל֣וֹ** בֵֽאלֹהִ֣ים סֶֽלָה׃",
+        "transliteration": "ein yeshuatah **lo** beElohim selah",
+        "englishLiteral": "\"nothing salvation **to-him** in-Gods.\" Selah.",
+        "englishNatural": "\"No salvation **to him** in God.\" Selah."
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לוֹ",
+        "transliteration": "lo",
+        "englishLiteral": "to-him",
+        "englishNatural": "him",
+        "root": "la",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עֹמְדִים מִמַּעַל **לוֹ** שֵׁשׁ כְּנָפַיִם",
+        "transliteration": "omedim miMaal **lo** shesh kenafayim",
+        "englishLiteral": "were-standing from-above **to-him;** six wings",
+        "englishNatural": "were standing above **him;** six wings"
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "key": "beappav",
   "language": "hebrew",
-  "root": "af",
+  "root": "aph",
   "occurrences": [
     {
       "location": {
@@ -16,7 +16,7 @@
         "transliteration": "beAppav",
         "englishLiteral": "in-his-nostrils",
         "englishNatural": "into his nostrils",
-        "root": "af",
+        "root": "aph",
         "morphology": {
           "type": "noun"
         }
@@ -26,6 +26,31 @@
         "transliteration": "haAdamah vaYipach **beAppav** nishmat chayyim",
         "englishLiteral": "the-earth; and-blew **in-his-nostrils** breath-of lives,",
         "englishNatural": "the earth; and blew **into his nostrils** the breath of life,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
+        "verse": 22
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בְּאַפָּיו",
+        "transliteration": "beAppav",
+        "englishLiteral": "in-nose-his",
+        "englishNatural": "in his nostrils",
+        "root": "aph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רוּחַ חַיִּים **בְּאַפָּיו** מִכֹּל אֲשֶׁר",
+        "transliteration": "ruach chayyim **beAppav** mikKol asher",
+        "englishLiteral": "Wind-of lives **in-nose-his,** from-all which",
+        "englishNatural": "Wind of lives **in his nostrils,** from all which"
       }
     }
   ]

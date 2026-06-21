@@ -7,6 +7,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 7,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וְאַרְבָּעִים",
+        "transliteration": "veArbaim",
+        "englishLiteral": "and-forty",
+        "englishNatural": "and forty",
+        "root": "arbaim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְבָּעִים יוֹם **וְאַרְבָּעִים** לָיְלָה וּמָחִיתִי",
+        "transliteration": "arbaim yom **veArbaim** laylah uMachiti",
+        "englishLiteral": "forty day **and-forty** night; and-I-will-wipe_out",
+        "englishNatural": "forty days **and forty** nights; and I will wipe-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 7,
         "verse": 12
       },
       "wordIndex": 6,
