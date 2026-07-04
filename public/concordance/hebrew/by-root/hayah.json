@@ -2785,6 +2785,33 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יִהְיֶ֥ה־",
+        "transliteration": "yihyeh-",
+        "englishLiteral": "he-will-be-",
+        "englishNatural": "will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֣א **יִהְיֶ֥ה־** לְךָ֛ אֱלֹהִ֥ים",
+        "transliteration": "lo **yihyeh-** lekha Elohim",
+        "englishLiteral": "Not **he-will-be-** to-you gods",
+        "englishNatural": "Other gods others **will be** not to you"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 8
@@ -3132,6 +3159,33 @@
         "transliteration": "etslo amon **vaEhyeh** shaashuim yom",
         "englishLiteral": "beside-him master_craftsman, **and-I-was** darlings day",
         "englishNatural": "beside him a master-craftsman, **and I was** darlings day"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "תִּהְיֶ֖ה",
+        "transliteration": "tihyeh",
+        "englishLiteral": "will-be",
+        "englishNatural": "will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּהַשְׁקֵט֙ וּבְבִטְחָ֔ה **תִּהְיֶ֖ה** גְּבוּרַתְכֶ֑ם וְלֹ֖א",
+        "transliteration": "beHaShqet uVeBitchah **tihyeh** gevuratkhem veLo",
+        "englishLiteral": "In-the-being_quiet and-in-trust **will-be** might-your; and-not",
+        "englishNatural": "in the being-quiet and in trust **will be** your might; and you have desired it"
       }
     },
     {

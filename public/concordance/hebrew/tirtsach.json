@@ -1,0 +1,34 @@
+{
+  "key": "tirtsach",
+  "language": "hebrew",
+  "root": "ratsach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 13
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תִּרְצָֽח׃",
+        "transliteration": "tirtsach",
+        "englishLiteral": "you-will-murder",
+        "englishNatural": "You will murder",
+        "root": "ratsach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֥א **תִּרְצָֽח׃**",
+        "transliteration": "lo **tirtsach**",
+        "englishLiteral": "Not **you-will-murder.**",
+        "englishNatural": "**You will murder** not."
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "root": "chamar_foam",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יֶחְמְר֣וּ",
+        "transliteration": "yechmeru",
+        "englishLiteral": "they-will-foam",
+        "englishNatural": "they foam",
+        "root": "chamar_foam",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יֶהֱמ֣וּ **יֶחְמְר֣וּ** מֵימָ֑יו יִרְעֲשׁ֥וּ",
+        "transliteration": "yehemu **yechmeru** meymav yiRashu",
+        "englishLiteral": "they-will-roar **they-will-foam** waters-his; they-will-quake",
+        "englishNatural": "Its waters roar **they foam;** mountains quake"
+      }
+    }
+  ]
+}

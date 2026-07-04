@@ -8,6 +8,7 @@ import exodus_7 from './exodus-7';
 import exodus_10 from './exodus-10';
 import exodus_11 from './exodus-11';
 import exodus_12 from './exodus-12';
+import exodus_20 from './exodus-20';
 import exodus_34 from './exodus-34';
 
 export const exodus: Book = {
@@ -26,6 +27,7 @@ export const exodus: Book = {
     exodus_10,
     exodus_11,
     exodus_12,
+    exodus_20,
     exodus_34,
   ],
 };

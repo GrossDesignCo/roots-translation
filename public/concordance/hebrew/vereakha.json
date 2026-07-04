@@ -1,0 +1,32 @@
+{
+  "key": "vereakha",
+  "language": "hebrew",
+  "root": "rea",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בְרֵעֲךָ֖",
+        "transliteration": "veReakha",
+        "englishLiteral": "in-friend-your",
+        "englishNatural": "against your friend",
+        "root": "rea",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ תַעֲנֶ֥ה **בְרֵעֲךָ֖** עֵ֥ד שָֽׁקֶר׃",
+        "transliteration": "lo- taaneh **veReakha** ed shaqer",
+        "englishLiteral": "Not- you-will-answer **in-friend-your** witness falsehood.",
+        "englishNatural": "as a witness of falsehood **against your friend.**"
+      }
+    }
+  ]
+}

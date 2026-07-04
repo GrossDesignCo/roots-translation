@@ -1,0 +1,34 @@
+{
+  "key": "hotsetikha",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הוֹצֵאתִ֛יךָ",
+        "transliteration": "hotsetikha",
+        "englishLiteral": "I-have-brought_out-you",
+        "englishNatural": "I have brought-out you",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֶ֑יךָ אֲשֶׁ֧ר **הוֹצֵאתִ֛יךָ** מֵאֶ֥רֶץ מִצְרַ֖יִם",
+        "transliteration": "Elohekha asher **hotsetikha** meEretz Mitsrayim",
+        "englishLiteral": "Gods-your, which **I-have-brought_out-you** from-land-of Double_Narrows (Egypt),",
+        "englishNatural": "your God, which **I have brought-out you** from the land of Double-Narrows (Egypt),"
+      }
+    }
+  ]
+}

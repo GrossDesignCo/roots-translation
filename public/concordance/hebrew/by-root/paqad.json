@@ -5,6 +5,33 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "פֹּ֠קֵד",
+        "transliteration": "poqed",
+        "englishLiteral": "visiting",
+        "englishNatural": "visiting",
+        "root": "paqad",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֵ֣ל קַנָּ֔א **פֹּ֠קֵד** עֲוֺ֨ן אָבֹ֧ת",
+        "transliteration": "El qanna **poqed** avon avot",
+        "englishLiteral": "God jealous; **visiting** iniquity-of fathers",
+        "englishNatural": "a God jealous; **visiting** the iniquity of fathers"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 7
       },

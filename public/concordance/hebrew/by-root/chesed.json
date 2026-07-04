@@ -5,6 +5,31 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "חֶ֖סֶד",
+        "transliteration": "chesed",
+        "englishLiteral": "steadfast_love",
+        "englishNatural": "steadfast-love",
+        "root": "chesed",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעֹ֥שֶׂה **חֶ֖סֶד** לַאֲלָפִ֑ים לְאֹהֲבַ֖י",
+        "transliteration": "veOseh **chesed** laAlafim leOhavai",
+        "englishLiteral": "And-making **steadfast_love** to-thousands, to-loving-me",
+        "englishNatural": "And making **steadfast-love** to thousands, to ones loving me"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 6
       },

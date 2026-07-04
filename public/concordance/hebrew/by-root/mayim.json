@@ -579,6 +579,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "בַּמַּ֖יִם",
+        "transliteration": "baMayim",
+        "englishLiteral": "in-the-waters",
+        "englishNatural": "in the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִתָּ֑חַת וַאֲשֶׁ֥ר **בַּמַּ֖יִם** מִתַּ֥חַת לָאָֽרֶץ׃",
+        "transliteration": "miTachat vaAsher **baMayim** miTachat laAretz",
+        "englishLiteral": "from-beneath, and-which **in-the-waters** from-beneath to-the-land.",
+        "englishNatural": "from beneath, and which is **in the waters** from beneath to the land."
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 3
@@ -625,6 +650,31 @@
         "transliteration": "yaRbitzeini al- **mei** menuchot yeNahaleni",
         "englishLiteral": "he-causes-me-to-lie-down; over- **water-of** rest_place, he-leads-me.",
         "englishNatural": "he lies-me-down; over **water of** rest-place, he leads me."
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מֵימָ֑יו",
+        "transliteration": "meymav",
+        "englishLiteral": "waters-his",
+        "englishNatural": "Its waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֶהֱמ֣וּ יֶחְמְר֣וּ **מֵימָ֑יו** יִרְעֲשׁ֥וּ הָרִ֗ים",
+        "transliteration": "yehemu yechmeru **meymav** yiRashu harim",
+        "englishLiteral": "they-will-roar they-will-foam **waters-his;** they-will-quake mountains",
+        "englishNatural": "**Its waters** roar they foam;"
       }
     },
     {

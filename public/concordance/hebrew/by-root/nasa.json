@@ -111,6 +111,60 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תִשָּׂ֛א",
+        "transliteration": "tissa",
+        "englishLiteral": "you-will-lift_up",
+        "englishNatural": "You will lift-up",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֥א **תִשָּׂ֛א** אֶת־ שֵֽׁם־",
+        "transliteration": "lo **tissa** et- shem-",
+        "englishLiteral": "Not **you-will-lift_up** ↳ name-of-",
+        "englishNatural": "**You will lift-up** not ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "יִשָּׂ֥א",
+        "transliteration": "yissa",
+        "englishLiteral": "he-will-lift_up",
+        "englishNatural": "will lift-up",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֵ֛ת אֲשֶׁר־ **יִשָּׂ֥א** אֶת־ שְׁמ֖וֹ",
+        "transliteration": "et asher- **yissa** et- shemo",
+        "englishLiteral": "↳ which- **he-will-lift_up** ↳ name-his",
+        "englishNatural": "↳ which **will lift-up** ↳ his name"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 7
       },

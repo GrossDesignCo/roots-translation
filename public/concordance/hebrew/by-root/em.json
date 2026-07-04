@@ -54,6 +54,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אִמֶּ֑ךָ",
+        "transliteration": "immekha",
+        "englishLiteral": "mother-your",
+        "englishNatural": "your mother",
+        "root": "em",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָבִ֖יךָ וְאֶת־ **אִמֶּ֑ךָ** לְמַ֙עַן֙ יַאֲרִכ֣וּן",
+        "transliteration": "avikha veEt- **immekha** leMaan yaarikhun",
+        "englishLiteral": "father-your and-↳ **mother-your;** to-sake they-will-be_long",
+        "englishNatural": "your father and **your mother;** for the sake your days"
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 8

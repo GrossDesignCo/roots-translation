@@ -1,0 +1,34 @@
+{
+  "key": "veoseh",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְעֹ֥שֶׂה",
+        "transliteration": "veOseh",
+        "englishLiteral": "And-making",
+        "englishNatural": "And making",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְעֹ֥שֶׂה** חֶ֖סֶד לַאֲלָפִ֑ים",
+        "transliteration": "**veOseh** chesed laAlafim",
+        "englishLiteral": "**And-making** steadfast_love to-thousands,",
+        "englishNatural": "**And making** steadfast-love to thousands,"
+      }
+    }
+  ]
+}

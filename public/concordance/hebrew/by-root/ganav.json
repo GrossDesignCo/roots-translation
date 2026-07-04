@@ -1,0 +1,33 @@
+{
+  "root": "ganav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תִּגְנֹֽב׃",
+        "transliteration": "tignov",
+        "englishLiteral": "you-will-steal",
+        "englishNatural": "You will steal",
+        "root": "ganav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֣א **תִּגְנֹֽב׃**",
+        "transliteration": "lo **tignov**",
+        "englishLiteral": "Not **you-will-steal.**",
+        "englishNatural": "**You will steal** not."
+      }
+    }
+  ]
+}

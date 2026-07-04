@@ -1,0 +1,97 @@
+import { Verse } from '@/types';
+
+export const exodus_20_8: Verse = {
+  meta: {
+    book: 'Exodus',
+    chapter: 20,
+    verse: 8,
+  },
+  words: [
+    {
+      hebrew: 'זָכ֛וֹר',
+      transliteration: 'zakhor',
+      englishLiteral: 'Remember',
+      englishNatural: 'Remember',
+      root: 'zakhar_remember',
+      order: 1,
+      morphology: {
+        type: 'verb',
+        number: 'singular',
+        person: '2nd',
+        tense: 'infinitive_absolute',
+        stem: 'qal',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: 2,
+    },
+    {
+      hebrew: 'י֥וֹם',
+      transliteration: 'yom',
+      englishLiteral: 'day-of',
+      englishNatural: 'the day of',
+      root: 'yom',
+      order: 3,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+      },
+    },
+    {
+      hebrew: 'הַשַּׁבָּ֖ת',
+      transliteration: 'haShabbat',
+      englishLiteral: 'the-Sabbath',
+      englishNatural: 'the Sabbath',
+      root: 'shabbat',
+      prefixes: ['ha'],
+      order: 4,
+      morphology: {
+        type: 'noun',
+        gender: 'feminine',
+        number: 'singular',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'לְקַדְּשֽׁוֹ׃',
+      transliteration: 'leQaddesho',
+      englishLiteral: 'to-sanctify-it',
+      englishNatural: 'to sanctify it',
+      root: 'qadash',
+      prefixes: ['le'],
+      suffixes: ['o'],
+      order: 5,
+      morphology: {
+        type: 'verb',
+        person: '3rd',
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'infinitive_construct',
+        stem: 'piel',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew: 'זָכ֛וֹר אֶת־י֥וֹם הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ׃',
+    transliteration: 'zakhor et-yom haShabbat leQaddesho',
+    englishLiteral: 'Remember ↳ day-of the-Sabbath, to-sanctify-it.',
+    englishNatural: 'Remember the day of the Sabbath, to sanctify it.',
+    kjv: 'Remember the sabbath day, to keep it holy.',
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+},
+};

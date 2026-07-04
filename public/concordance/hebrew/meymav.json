@@ -1,0 +1,32 @@
+{
+  "key": "meymav",
+  "language": "hebrew",
+  "root": "mayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מֵימָ֑יו",
+        "transliteration": "meymav",
+        "englishLiteral": "waters-his",
+        "englishNatural": "Its waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֶהֱמ֣וּ יֶחְמְר֣וּ **מֵימָ֑יו** יִרְעֲשׁ֥וּ הָרִ֗ים",
+        "transliteration": "yehemu yechmeru **meymav** yiRashu harim",
+        "englishLiteral": "they-will-roar they-will-foam **waters-his;** they-will-quake mountains",
+        "englishNatural": "**Its waters** roar they foam;"
+      }
+    }
+  ]
+}

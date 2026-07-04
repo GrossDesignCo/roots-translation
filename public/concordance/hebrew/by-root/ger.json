@@ -26,6 +26,31 @@
         "englishLiteral": "you-will-know that- **sojourner** he-will-be seed-of-you",
         "englishNatural": "your seed will be **a sojourner** in a land not"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "וְגֵרְךָ֙",
+        "transliteration": "veGerekha",
+        "englishLiteral": "and-sojourner-your",
+        "englishNatural": "and your sojourner",
+        "root": "ger",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲמָתְךָ֣ וּבְהֶמְתֶּ֗ךָ **וְגֵרְךָ֙** אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ",
+        "transliteration": "vaAmatkha uVehemtekha **veGerekha** asher biShearekha",
+        "englishLiteral": "and-maidservant-your, and-beast-your, **and-sojourner-your** which in-gates-your.",
+        "englishNatural": "and your maidservant, and your beast, **and your sojourner** which is in your gates."
+      }
     }
   ]
 }

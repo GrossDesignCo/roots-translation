@@ -1,0 +1,81 @@
+{
+  "root": "shabbat",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הַשַּׁבָּ֖ת",
+        "transliteration": "haShabbat",
+        "englishLiteral": "the-Sabbath",
+        "englishNatural": "the Sabbath",
+        "root": "shabbat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ י֥וֹם **הַשַּׁבָּ֖ת** לְקַדְּשֽׁוֹ׃",
+        "transliteration": "et- yom **haShabbat** leQaddesho",
+        "englishLiteral": "↳ day-of **the-Sabbath,** to-sanctify-it.",
+        "englishNatural": "↳ the day of **the Sabbath,** to sanctify it."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שַׁבָּ֖ת",
+        "transliteration": "shabbat",
+        "englishLiteral": "Sabbath",
+        "englishNatural": "is a Sabbath",
+        "root": "shabbat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְיוֹם֙ הַשְּׁבִיעִ֔י **שַׁבָּ֖ת** לַיהוָ֣ה אֱלֹהֶ֑יךָ",
+        "transliteration": "veYom haShevii **shabbat** laYHWH Elohekha",
+        "englishLiteral": "And-day the-seventh **Sabbath** to-He_Who_Is (YHWH) Gods-your.",
+        "englishNatural": "And the day the seventh **is a Sabbath** to He-Who-Is (YHWH) your God."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 24,
+      "sourceOrder": 24,
+      "word": {
+        "originalScript": "הַשַּׁבָּ֖ת",
+        "transliteration": "haShabbat",
+        "englishLiteral": "the-Sabbath",
+        "englishNatural": "the Sabbath",
+        "root": "shabbat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ י֥וֹם **הַשַּׁבָּ֖ת** וַֽיְקַדְּשֵֽׁהוּ׃",
+        "transliteration": "et- yom **haShabbat** vayQaddeshahu",
+        "englishLiteral": "↳ day-of **the-Sabbath** and-he-will-sanctify-it.",
+        "englishNatural": "↳ the day of **the Sabbath** and sanctified it."
+      }
+    }
+  ]
+}

@@ -29,6 +29,33 @@
         "englishLiteral": "When **you-serve** ↳ the-earth,",
         "englishNatural": "When **you serve** ↳ the earth,"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "תַּעֲבֹ֔ד",
+        "transliteration": "taAvod",
+        "englishLiteral": "you-will-serve",
+        "englishNatural": "you will serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁ֤שֶׁת יָמִים֙ **תַּעֲבֹ֔ד** וְעָשִׂ֖יתָ כָּל־",
+        "transliteration": "sheshet yamim **taAvod** veAsita kol-",
+        "englishLiteral": "Six-of days **you-will-serve,** and-you-have-made all-",
+        "englishNatural": "Six days **you will serve,** and you will make all"
+      }
     }
   ]
 }

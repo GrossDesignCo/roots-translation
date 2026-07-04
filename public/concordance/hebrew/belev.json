@@ -1,0 +1,32 @@
+{
+  "key": "belev",
+  "language": "hebrew",
+  "root": "lev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "בְּלֵ֣ב",
+        "transliteration": "beLev",
+        "englishLiteral": "in-heart-of",
+        "englishNatural": "in the heart of",
+        "root": "lev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְמ֥וֹט הָרִ֗ים **בְּלֵ֣ב** יַמִּֽים׃",
+        "transliteration": "uveMot harim **beLev** yammim",
+        "englishLiteral": "and-in-tottering mountains **in-heart-of** seas.",
+        "englishNatural": "and in the tottering of mountains **in the heart of** seas."
+      }
+    }
+  ]
+}

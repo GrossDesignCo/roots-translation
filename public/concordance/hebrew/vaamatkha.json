@@ -1,0 +1,32 @@
+{
+  "key": "vaamatkha",
+  "language": "hebrew",
+  "root": "amah_maid",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "וַאֲמָתְךָ֣",
+        "transliteration": "vaAmatkha",
+        "englishLiteral": "and-maidservant-your",
+        "englishNatural": "and your maidservant",
+        "root": "amah_maid",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבִתְּךָ֣ עַבְדְּךָ֣ **וַאֲמָתְךָ֣** וּבְהֶמְתֶּ֗ךָ וְגֵרְךָ֙",
+        "transliteration": "uVittekha avdekha **vaAmatkha** uVehemtekha veGerekha",
+        "englishLiteral": "and-daughter-your, servant-your, **and-maidservant-your,** and-beast-your, and-sojourner-your",
+        "englishNatural": "and your daughter, your servant, **and your maidservant,** and your beast, and your sojourner"
+      }
+    }
+  ]
+}

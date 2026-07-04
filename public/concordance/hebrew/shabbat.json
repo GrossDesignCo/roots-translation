@@ -1,0 +1,32 @@
+{
+  "key": "shabbat",
+  "language": "hebrew",
+  "root": "shabbat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שַׁבָּ֖ת",
+        "transliteration": "shabbat",
+        "englishLiteral": "Sabbath",
+        "englishNatural": "is a Sabbath",
+        "root": "shabbat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְיוֹם֙ הַשְּׁבִיעִ֔י **שַׁבָּ֖ת** לַיהוָ֣ה אֱלֹהֶ֑יךָ",
+        "transliteration": "veYom haShevii **shabbat** laYHWH Elohekha",
+        "englishLiteral": "And-day the-seventh **Sabbath** to-He_Who_Is (YHWH) Gods-your.",
+        "englishNatural": "And the day the seventh **is a Sabbath** to He-Who-Is (YHWH) your God."
+      }
+    }
+  ]
+}

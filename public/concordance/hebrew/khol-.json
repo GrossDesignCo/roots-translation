@@ -80,6 +80,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "כָל־",
+        "transliteration": "khol-",
+        "englishLiteral": "any-",
+        "englishNatural": "any",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֣א תַעֲשֶׂ֣ה **כָל־** מְלָאכָ֡ה אַתָּ֣ה",
+        "transliteration": "lo taase **khol-** melakhah attah",
+        "englishLiteral": "Not you-will-make **any-** work: you,",
+        "englishNatural": "You will make not **any** work: you,"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 12

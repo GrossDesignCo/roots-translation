@@ -5,6 +5,31 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לַאֲלָפִ֑ים",
+        "transliteration": "laAlafim",
+        "englishLiteral": "to-thousands",
+        "englishNatural": "to thousands",
+        "root": "elef",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעֹ֥שֶׂה חֶ֖סֶד **לַאֲלָפִ֑ים** לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י",
+        "transliteration": "veOseh chesed **laAlafim** leOhavai uleShomrei",
+        "englishLiteral": "And-making steadfast_love **to-thousands,** to-loving-me and-to-keeping",
+        "englishNatural": "And making steadfast-love **to thousands,** to ones loving me and to ones keeping"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 7
       },

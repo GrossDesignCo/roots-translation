@@ -50,7 +50,7 @@ Quoted speech: opening `"` on `grammarPrefix`, closing `"` on `grammarSuffix`. S
 
 - **Construct state**: literal `noun-of` or just `noun` when complement follows; natural "the [noun] of [complement]"
 - **Implied copula**: literal preserves absence; natural signals with comma via `grammarSuffix`
-- **Negation**: literal keeps Hebrew order (`not I-will-fear`); natural uses verb-not (`I will fear not`)
+- **Negation**: literal keeps Hebrew order (`not I-will-fear`); natural uses verb-not (`I will fear not`). In longer clauses, "not" stays immediately after the verb rather than drifting to the end of the sentence — e.g. "You will answer not as a witness of falsehood" (not "You will answer as a witness of falsehood not").
 - **Cantillation guides punctuation**: atnach→semicolon/comma, silluq→period
 
 ## Acceptance Criteria

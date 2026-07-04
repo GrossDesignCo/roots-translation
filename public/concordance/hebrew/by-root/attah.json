@@ -29,6 +29,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אַתָּ֣ה",
+        "transliteration": "attah",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "attah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כָל־ מְלָאכָ֡ה **אַתָּ֣ה** וּבִנְךָ֣ וּבִתְּךָ֣",
+        "transliteration": "khol- melakhah **attah** uVinkha uVittekha",
+        "englishLiteral": "any- work: **you,** and-son-your, and-daughter-your,",
+        "englishNatural": "any work: **you,** and your son, and your daughter,"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 4,
         "verse": 3

@@ -30,6 +30,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְיוֹם֙",
+        "transliteration": "veYom",
+        "englishLiteral": "And-day",
+        "englishNatural": "And the day",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְיוֹם֙** הַשְּׁבִיעִ֔י שַׁבָּ֖ת",
+        "transliteration": "**veYom** haShevii shabbat",
+        "englishLiteral": "**And-day** the-seventh Sabbath",
+        "englishNatural": "**And the day** the seventh is a Sabbath"
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 22,
         "verse": 1

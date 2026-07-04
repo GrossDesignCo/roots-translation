@@ -1,0 +1,34 @@
+{
+  "key": "vaydabber",
+  "language": "hebrew",
+  "root": "dabar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְדַבֵּ֣ר",
+        "transliteration": "vaYdabber",
+        "englishLiteral": "And-he-will-speak",
+        "englishNatural": "spoke",
+        "root": "dabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְדַבֵּ֣ר** אֱלֹהִ֔ים אֵ֛ת",
+        "transliteration": "**vaYdabber** Elohim et",
+        "englishLiteral": "**And-he-will-speak** Gods ↳",
+        "englishNatural": "And God **spoke** ↳ all"
+      }
+    }
+  ]
+}

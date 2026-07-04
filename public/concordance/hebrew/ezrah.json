@@ -1,0 +1,32 @@
+{
+  "key": "ezrah",
+  "language": "hebrew",
+  "root": "ezrah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "עֶזְרָ֥ה",
+        "transliteration": "ezrah",
+        "englishLiteral": "help",
+        "englishNatural": "a help",
+        "root": "ezrah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַחֲסֶ֣ה וָעֹ֑ז **עֶזְרָ֥ה** בְ֝צָר֗וֹת נִמְצָ֥א",
+        "transliteration": "machaseh vaOz **ezrah** beTsarot nimtsa",
+        "englishLiteral": "refuge and-strength, **help** in-distresses has-been-found",
+        "englishNatural": "a refuge and strength, **a help** in distresses found"
+      }
+    }
+  ]
+}

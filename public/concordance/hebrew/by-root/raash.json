@@ -1,0 +1,33 @@
+{
+  "root": "raash",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "יִרְעֲשׁ֥וּ",
+        "transliteration": "yiRashu",
+        "englishLiteral": "they-will-quake",
+        "englishNatural": "quake",
+        "root": "raash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יֶחְמְר֣וּ מֵימָ֑יו **יִרְעֲשׁ֥וּ** הָרִ֗ים בְּגַאֲוָת֥וֹ",
+        "transliteration": "yechmeru meymav **yiRashu** harim beGaavato",
+        "englishLiteral": "they-will-foam waters-his; **they-will-quake** mountains in-swelling-his.",
+        "englishNatural": "they foam; mountains **quake** in its swelling. Selah."
+      }
+    }
+  ]
+}

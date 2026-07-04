@@ -29,6 +29,33 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "זָכ֛וֹר",
+        "transliteration": "zakhor",
+        "englishLiteral": "Remember",
+        "englishNatural": "Remember",
+        "root": "zakhar_remember",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**זָכ֛וֹר** אֶת־ י֥וֹם",
+        "transliteration": "**zakhor** et- yom",
+        "englishLiteral": "**Remember** ↳ day-of",
+        "englishNatural": "**Remember** ↳ the day of"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 4

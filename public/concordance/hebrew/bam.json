@@ -1,0 +1,32 @@
+{
+  "key": "bam",
+  "language": "hebrew",
+  "root": "lamed",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "בָּ֔ם",
+        "transliteration": "bam",
+        "englishLiteral": "in-them",
+        "englishNatural": "in them",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ אֲשֶׁר־ **בָּ֔ם** וַיָּ֖נַח בַּיּ֣וֹם",
+        "transliteration": "kol- asher- **bam** vaYanach baYom",
+        "englishLiteral": "all- which- **in-them;** and-he-will-rest in-the-day",
+        "englishNatural": "all which is **in them;** and he rested in the day"
+      }
+    }
+  ]
+}

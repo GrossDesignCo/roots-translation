@@ -1,0 +1,34 @@
+{
+  "key": "nimtsa",
+  "language": "hebrew",
+  "root": "matsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "נִמְצָ֥א",
+        "transliteration": "nimtsa",
+        "englishLiteral": "has-been-found",
+        "englishNatural": "found",
+        "root": "matsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "עֶזְרָ֥ה בְ֝צָר֗וֹת **נִמְצָ֥א** מְאֹֽד׃",
+        "transliteration": "ezrah beTsarot **nimtsa** meod",
+        "englishLiteral": "help in-distresses **has-been-found** very.",
+        "englishNatural": "a help in distresses **found** very."
+      }
+    }
+  ]
+}

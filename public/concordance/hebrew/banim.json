@@ -281,6 +281,31 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "בָּנִ֛ים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָבֹ֧ת עַל־ **בָּנִ֛ים** עַל־ שִׁלֵּשִׁ֥ים",
+        "transliteration": "avot al- **banim** al- shilleshim",
+        "englishLiteral": "fathers over- **sons,** over- third_ones",
+        "englishNatural": "fathers over **sons,** over third-ones"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 7
       },

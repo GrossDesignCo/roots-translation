@@ -1,0 +1,32 @@
+{
+  "key": "vanachat",
+  "language": "hebrew",
+  "root": "nachat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וָנַ֙חַת֙",
+        "transliteration": "vaNachat",
+        "englishLiteral": "and-rest",
+        "englishNatural": "and rest",
+        "root": "nachat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׂרָאֵ֑ל בְּשׁוּבָ֤ה **וָנַ֙חַת֙** תִּוָּשֵׁ֔עוּן בְּהַשְׁקֵט֙",
+        "transliteration": "Yisrael beShuvah **vaNachat** tiVvasheun beHaShqet",
+        "englishLiteral": "Struggles_with_God (Israel): In-returning **and-rest** you-will-be-saved; In-the-being_quiet",
+        "englishNatural": "Struggles-with-God (Israel): In returning **and rest** you will be saved; in the being-quiet"
+      }
+    }
+  ]
+}

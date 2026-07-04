@@ -6,6 +6,31 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "שִׁלֵּשִׁ֥ים",
+        "transliteration": "shilleshim",
+        "englishLiteral": "third_ones",
+        "englishNatural": "third-ones",
+        "root": "shillesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּנִ֛ים עַל־ **שִׁלֵּשִׁ֥ים** וְעַל־ רִבֵּעִ֖ים",
+        "transliteration": "banim al- **shilleshim** veAl- ribbeIm",
+        "englishLiteral": "sons, over- **third_ones** and-over- fourth_ones",
+        "englishNatural": "sons, over **third-ones** and over fourth-ones"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 7
       },

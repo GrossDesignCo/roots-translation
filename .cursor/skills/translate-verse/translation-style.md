@@ -36,6 +36,8 @@ For **fixed Hebrew phrases** whose English discourse equivalent is conventional 
 
 3. **Literary / older English word order when it tracks Hebrew better** — When fully idiomatic English would scramble the Hebrew **sequence** of predication, negation, or modality, prefer **intelligible but slightly archaic or formal** order if it flows better to the reviewer than either (a) pure Hebrew mirror or (b) full modern smoothing. Examples (illustrative, not mandatory): placing negation or a trailing "not" closer to Hebrew stress than "I will not ...", or clause orders that sound Jacobean but remain clear. **Human reviewers** choose; AI should scaffold consistent glosses and flag tradeoffs rather than "fixing" toward newspaper English.
 
+   **Negation placement rule:** In `englishNatural`, "not" follows **immediately after the verb** (or verb phrase), never at the distant end of the clause. Short: "You will murder not." Longer: "You will answer not as a witness of falsehood against your friend." This keeps the negation semantically bound to the verb it modifies.
+
 4. **Imperfect in `englishLiteral`** — Always `I-will-...` / `you-will-...` (preserves the imperfect's aspect vagueness). In `englishNatural` (poetry/psalms): present tense ("I see") allowed when it flows better; waw-consecutive imperfect (`va` + imperfect): natural renders as past ("and I slept"); default to **will** in prose. See `.cursor/rules/hebrew-grammar.mdc` (Imperfect Tense, Waw-Consecutive).
 
 5. **Registered idioms** — For multi-word Hebrew formulas (e.g. עַל־כֵּן), see **[hebrew-idioms.md](../../src/data/dictionary/hebrew/hebrew-idioms.md)** (`src/data/dictionary/hebrew/`): morpheme-accurate **literal**, phrase-level **natural** options approved for the project.

@@ -52,6 +52,31 @@
         "englishLiteral": "\"I Gods-of **father-your,** Gods-of Exalted_Father (Abraham),",
         "englishNatural": "\"I, the God of **your father,** the God of Exalted-Father (Abraham),"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אָבִ֖יךָ",
+        "transliteration": "avikha",
+        "englishLiteral": "father-your",
+        "englishNatural": "your father",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כַּבֵּ֥ד אֶת־ **אָבִ֖יךָ** וְאֶת־ אִמֶּ֑ךָ",
+        "transliteration": "kabbed et- **avikha** veEt- immekha",
+        "englishLiteral": "Be_heavy-upon ↳ **father-your** and-↳ mother-your;",
+        "englishNatural": "Be-heavy upon ↳ **your father** and your mother;"
+      }
     }
   ]
 }

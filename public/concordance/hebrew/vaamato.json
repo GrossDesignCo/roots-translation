@@ -1,0 +1,32 @@
+{
+  "key": "vaamato",
+  "language": "hebrew",
+  "root": "amah_maid",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וַאֲמָתוֹ֙",
+        "transliteration": "vaAmato",
+        "englishLiteral": "and-maidservant-his",
+        "englishNatural": "and his maidservant",
+        "root": "amah_maid",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֵעֶ֗ךָ וְעַבְדּ֤וֹ **וַאֲמָתוֹ֙** וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ",
+        "transliteration": "reekha veAvdo **vaAmato** veShoro vaChamoro",
+        "englishLiteral": "friend-your, and-servant-his **and-maidservant-his** and-ox-his and-donkey-his,",
+        "englishNatural": "your friend, and his servant **and his maidservant** and his ox and his donkey,"
+      }
+    }
+  ]
+}

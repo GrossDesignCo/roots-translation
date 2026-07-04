@@ -1,0 +1,34 @@
+{
+  "key": "vayanach",
+  "language": "hebrew",
+  "root": "nuach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "וַיָּ֖נַח",
+        "transliteration": "vaYanach",
+        "englishLiteral": "and-he-will-rest",
+        "englishNatural": "and he rested",
+        "root": "nuach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ בָּ֔ם **וַיָּ֖נַח** בַּיּ֣וֹם הַשְּׁבִיעִ֑י",
+        "transliteration": "asher- bam **vaYanach** baYom haShevii",
+        "englishLiteral": "which- in-them; **and-he-will-rest** in-the-day the-seventh.",
+        "englishNatural": "which is in them; **and he rested** in the day the seventh."
+      }
+    }
+  ]
+}

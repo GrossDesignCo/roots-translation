@@ -105,6 +105,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "לָֽךְ׃",
+        "transliteration": "lakh",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֶ֖יךָ נֹתֵ֥ן **לָֽךְ׃**",
+        "transliteration": "Elohekha noten **lakh**",
+        "englishLiteral": "Gods-your giving **to-you.**",
+        "englishNatural": "your God is giving **to you.**"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 11

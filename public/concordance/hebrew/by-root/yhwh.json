@@ -2296,6 +2296,206 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יְהוָ֣ה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָנֹכִ֖י **יְהוָ֣ה** אֱלֹהֶ֑יךָ אֲשֶׁ֧ר",
+        "transliteration": "anokhi **YHWH** Elohekha asher",
+        "englishLiteral": "I **He_Who_Is (YHWH)** Gods-your, which",
+        "englishNatural": "I, **He-Who-Is (YHWH)** your God, which"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "יְהוָ֤ה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֣י אָנֹכִ֞י **יְהוָ֤ה** אֱלֹהֶ֙יךָ֙ אֵ֣ל",
+        "transliteration": "ki anokhi **YHWH** Elohekha El",
+        "englishLiteral": "That I **He_Who_Is (YHWH)** Gods-your, God",
+        "englishNatural": "That I **He-Who-Is (YHWH)** your God, a God"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "יְהוָ֥ה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ שֵֽׁם־ **יְהוָ֥ה** אֱלֹהֶ֖יךָ לַשָּׁ֑וְא",
+        "transliteration": "et- shem- **YHWH** Elohekha laShav",
+        "englishLiteral": "↳ name-of- **He_Who_Is (YHWH)** Gods-your to-the-emptiness;",
+        "englishNatural": "↳ the name of **He-Who-Is (YHWH)** your God to the emptiness;"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "יְהוָ֔ה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֤א יְנַקֶּה֙ **יְהוָ֔ה** אֵ֛ת אֲשֶׁר־",
+        "transliteration": "lo yeNaqqeh **YHWH** et asher-",
+        "englishLiteral": "not he-will-be_clean **He_Who_Is (YHWH)** ↳ which-",
+        "englishNatural": "to the emptiness; that **He-Who-Is (YHWH)** will be-clean not"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לַיהוָ֣ה",
+        "transliteration": "laYHWH",
+        "englishLiteral": "to-He_Who_Is (YHWH)",
+        "englishNatural": "to He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשְּׁבִיעִ֔י שַׁבָּ֖ת **לַיהוָ֣ה** אֱלֹהֶ֑יךָ לֹ֣א",
+        "transliteration": "haShevii shabbat **laYHWH** Elohekha lo",
+        "englishLiteral": "the-seventh Sabbath **to-He_Who_Is (YHWH)** Gods-your. Not",
+        "englishNatural": "the seventh is a Sabbath **to He-Who-Is (YHWH)** your God. You will make"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "יְהוָ֜ה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָמִים֩ עָשָׂ֨ה **יְהוָ֜ה** אֶת־ הַשָּׁמַ֣יִם",
+        "transliteration": "yamim asah **YHWH** et- haShamayim",
+        "englishLiteral": "days has-made **He_Who_Is (YHWH)** ↳ the-skies",
+        "englishNatural": "days has made **He-Who-Is (YHWH)** ↳ the skies"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 21,
+      "sourceOrder": 21,
+      "word": {
+        "originalScript": "יְהוָ֛ה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֵּ֗ן בֵּרַ֧ךְ **יְהוָ֛ה** אֶת־ י֥וֹם",
+        "transliteration": "ken berakh **YHWH** et- yom",
+        "englishLiteral": "so has-blessed **He_Who_Is (YHWH)** ↳ day-of",
+        "englishNatural": "so has blessed **He-Who-Is (YHWH)** ↳ the day of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "יְהוָ֥ה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָ֣אֲדָמָ֔ה אֲשֶׁר־ **יְהוָ֥ה** אֱלֹהֶ֖יךָ נֹתֵ֥ן",
+        "transliteration": "haAdamah asher- **YHWH** Elohekha noten",
+        "englishLiteral": "the-ground which- **He_Who_Is (YHWH)** Gods-your giving",
+        "englishNatural": "the ground which **He-Who-Is (YHWH)** your God is giving"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 5
       },
@@ -3310,6 +3510,31 @@
         "transliteration": "et- haMelekh **YHWH** tsvaot rau",
         "englishLiteral": "↳ the-king, **He_Who_Is (YHWH)** of-Hosts have-seen",
         "englishNatural": "↳ the King, **He-Who-Is (YHWH)** of Hosts.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "יְהוִ֖ה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָמַ֛ר אֲדֹנָ֥י **יְהוִ֖ה** קְד֣וֹשׁ יִשְׂרָאֵ֑ל",
+        "transliteration": "amar Adonai **YHWH** qedosh Yisrael",
+        "englishLiteral": "has-said Lord **He_Who_Is (YHWH),** Holy_One-of Struggles_with_God (Israel):",
+        "englishNatural": "has said the Lord **He-Who-Is (YHWH),** the Holy-One of Struggles-with-God (Israel):"
       }
     },
     {

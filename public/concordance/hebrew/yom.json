@@ -330,6 +330,56 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "י֥וֹם",
+        "transliteration": "yom",
+        "englishLiteral": "day-of",
+        "englishNatural": "the day of",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זָכ֛וֹר אֶת־ **י֥וֹם** הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ׃",
+        "transliteration": "zakhor et- **yom** haShabbat leQaddesho",
+        "englishLiteral": "Remember ↳ **day-of** the-Sabbath, to-sanctify-it.",
+        "englishNatural": "Remember ↳ **the day of** the Sabbath, to sanctify it."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 23,
+      "sourceOrder": 23,
+      "word": {
+        "originalScript": "י֥וֹם",
+        "transliteration": "yom",
+        "englishLiteral": "day-of",
+        "englishNatural": "the day of",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֛ה אֶת־ **י֥וֹם** הַשַּׁבָּ֖ת וַֽיְקַדְּשֵֽׁהוּ׃",
+        "transliteration": "YHWH et- **yom** haShabbat vayQaddeshahu",
+        "englishLiteral": "He_Who_Is (YHWH) ↳ **day-of** the-Sabbath and-he-will-sanctify-it.",
+        "englishNatural": "He-Who-Is (YHWH) ↳ **the day of** the Sabbath and sanctified it."
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 8,
         "verse": 30

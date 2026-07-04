@@ -1,0 +1,32 @@
+{
+  "key": "ribbeim",
+  "language": "hebrew",
+  "root": "ribbea",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "רִבֵּעִ֖ים",
+        "transliteration": "ribbeIm",
+        "englishLiteral": "fourth_ones",
+        "englishNatural": "fourth-ones",
+        "root": "ribbea",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁלֵּשִׁ֥ים וְעַל־ **רִבֵּעִ֖ים** לְשֹׂנְאָֽי׃",
+        "transliteration": "shilleshim veAl- **ribbeIm** leSoneai",
+        "englishLiteral": "third_ones and-over- **fourth_ones** to-hating-me.",
+        "englishNatural": "third-ones and over **fourth-ones** to ones hating me."
+      }
+    }
+  ]
+}

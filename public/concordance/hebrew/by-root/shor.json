@@ -4,6 +4,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וְשׁוֹר֣וֹ",
+        "transliteration": "veShoro",
+        "englishLiteral": "and-ox-his",
+        "englishNatural": "and his ox",
+        "root": "shor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ **וְשׁוֹר֣וֹ** וַחֲמֹר֔וֹ וְכֹ֖ל",
+        "transliteration": "veAvdo vaAmato **veShoro** vaChamoro veKhol",
+        "englishLiteral": "and-servant-his and-maidservant-his **and-ox-his** and-donkey-his, and-all",
+        "englishNatural": "and his servant and his maidservant **and his ox** and his donkey, and all"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 10

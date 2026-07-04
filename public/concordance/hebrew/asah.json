@@ -221,6 +221,33 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "עָשָׂ֨ה",
+        "transliteration": "asah",
+        "englishLiteral": "has-made",
+        "englishNatural": "has made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שֵֽׁשֶׁת־ יָמִים֩ **עָשָׂ֨ה** יְהוָ֜ה אֶת־",
+        "transliteration": "sheshet- yamim **asah** YHWH et-",
+        "englishLiteral": "six-of- days **has-made** He_Who_Is (YHWH) ↳",
+        "englishNatural": "in six days **has made** He-Who-Is (YHWH) ↳"
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 8,
         "verse": 26

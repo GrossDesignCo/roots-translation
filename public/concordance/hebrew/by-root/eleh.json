@@ -201,6 +201,31 @@
         "englishLiteral": "all- the-wonders **the-these** to-faces-of Pharaoh;",
         "englishNatural": "↳- all **these,** the wonders, to the face of"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הָאֵ֖לֶּה",
+        "transliteration": "haElleh",
+        "englishLiteral": "the-these",
+        "englishNatural": "these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הַדְּבָרִ֥ים **הָאֵ֖לֶּה** לֵאמֹֽר׃",
+        "transliteration": "kol- hadDevarim **haElleh** leEmor",
+        "englishLiteral": "all- the-words **the-these,** to-say:",
+        "englishNatural": "all the words, **these,** to say:"
+      }
     }
   ]
 }

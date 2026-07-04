@@ -1,0 +1,31 @@
+{
+  "root": "machaseh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מַחֲסֶ֣ה",
+        "transliteration": "machaseh",
+        "englishLiteral": "refuge",
+        "englishNatural": "a refuge",
+        "root": "machaseh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֣ים לָ֭נוּ **מַחֲסֶ֣ה** וָעֹ֑ז עֶזְרָ֥ה",
+        "transliteration": "Elohim lanu **machaseh** vaOz ezrah",
+        "englishLiteral": "Gods to-us **refuge** and-strength, help",
+        "englishNatural": "God to us **a refuge** and strength, a help"
+      }
+    }
+  ]
+}

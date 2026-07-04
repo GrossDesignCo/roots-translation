@@ -952,6 +952,81 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "כִּ֣י",
+        "transliteration": "ki",
+        "englishLiteral": "That",
+        "englishNatural": "That",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹ֣א תָעָבְדֵ֑ם **כִּ֣י** אָנֹכִ֞י יְהוָ֤ה",
+        "transliteration": "veLo taAvdem **ki** anokhi YHWH",
+        "englishLiteral": "and-not you-will-serve-them. **That** I He_Who_Is (YHWH)",
+        "englishNatural": "and you will serve them not. **That** I He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "כִּ֣י",
+        "transliteration": "ki",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֶ֖יךָ לַשָּׁ֑וְא **כִּ֣י** לֹ֤א יְנַקֶּה֙",
+        "transliteration": "Elohekha laShav **ki** lo yeNaqqeh",
+        "englishLiteral": "Gods-your to-the-emptiness; **that** not he-will-be_clean",
+        "englishNatural": "your God to the emptiness; **that** He-Who-Is (YHWH) will be-clean"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כִּ֣י",
+        "transliteration": "ki",
+        "englishLiteral": "That",
+        "englishNatural": "That",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "**כִּ֣י** שֵֽׁשֶׁת־ יָמִים֩",
+        "transliteration": "**ki** sheshet- yamim",
+        "englishLiteral": "**That** six-of- days",
+        "englishNatural": "**That** in six days"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 7
@@ -1273,6 +1348,31 @@
         "transliteration": "shevet makekh **ki** miShoresh nachash",
         "englishLiteral": "rod of-him-who-strikes_down-you **that** from-root snake",
         "englishNatural": "the rod of him who strikes-down you **that** from the root of a snake"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כִּ֣י",
+        "transliteration": "ki",
+        "englishLiteral": "That",
+        "englishNatural": "That",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "**כִּ֣י** כֹ֥ה אָמַ֛ר",
+        "transliteration": "**ki** koh amar",
+        "englishLiteral": "**That** thus has-said",
+        "englishNatural": "**That** thus has said"
       }
     },
     {

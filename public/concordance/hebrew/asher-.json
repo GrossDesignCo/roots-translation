@@ -280,6 +280,81 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "אֲשֶׁר־",
+        "transliteration": "asher-",
+        "englishLiteral": "which-",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֔ה אֵ֛ת **אֲשֶׁר־** יִשָּׂ֥א אֶת־",
+        "transliteration": "YHWH et **asher-** yissa et-",
+        "englishLiteral": "He_Who_Is (YHWH) ↳ **which-** he-will-lift_up ↳",
+        "englishNatural": "not ↳ **which** will lift-up ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "אֲשֶׁר־",
+        "transliteration": "asher-",
+        "englishLiteral": "which-",
+        "englishNatural": "which is",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ כָּל־ **אֲשֶׁר־** בָּ֔ם וַיָּ֖נַח",
+        "transliteration": "veEt- kol- **asher-** bam vaYanach",
+        "englishLiteral": "and-↳ all- **which-** in-them; and-he-will-rest",
+        "englishNatural": "and all **which is** in them; and he rested"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אֲשֶׁר־",
+        "transliteration": "asher-",
+        "englishLiteral": "which-",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "עַ֚ל הָ֣אֲדָמָ֔ה **אֲשֶׁר־** יְהוָ֥ה אֱלֹהֶ֖יךָ",
+        "transliteration": "al haAdamah **asher-** YHWH Elohekha",
+        "englishLiteral": "over the-ground **which-** He_Who_Is (YHWH) Gods-your",
+        "englishNatural": "over the ground **which** He-Who-Is (YHWH) your God"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 10

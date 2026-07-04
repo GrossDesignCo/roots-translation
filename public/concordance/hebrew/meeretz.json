@@ -1,0 +1,32 @@
+{
+  "key": "meeretz",
+  "language": "hebrew",
+  "root": "eretz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "מֵאֶ֥רֶץ",
+        "transliteration": "meEretz",
+        "englishLiteral": "from-land-of",
+        "englishNatural": "from the land of",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ **מֵאֶ֥רֶץ** מִצְרַ֖יִם מִבֵּ֥ית",
+        "transliteration": "asher hotsetikha **meEretz** Mitsrayim miBeit",
+        "englishLiteral": "which I-have-brought_out-you **from-land-of** Double_Narrows (Egypt), from-house-of",
+        "englishNatural": "which I have brought-out you **from the land of** Double-Narrows (Egypt), from the house of"
+      }
+    }
+  ]
+}

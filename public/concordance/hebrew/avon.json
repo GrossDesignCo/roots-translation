@@ -31,6 +31,31 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "עֲוֺ֨ן",
+        "transliteration": "avon",
+        "englishLiteral": "iniquity-of",
+        "englishNatural": "the iniquity of",
+        "root": "avon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קַנָּ֔א פֹּ֠קֵד **עֲוֺ֨ן** אָבֹ֧ת עַל־",
+        "transliteration": "qanna poqed **avon** avot al-",
+        "englishLiteral": "jealous; visiting **iniquity-of** fathers over-",
+        "englishNatural": "jealous; visiting **the iniquity of** fathers over"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 7
       },

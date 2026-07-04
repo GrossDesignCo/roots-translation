@@ -1502,6 +1502,106 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֲשֶׁ֧ר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֣ה אֱלֹהֶ֑יךָ **אֲשֶׁ֧ר** הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ",
+        "transliteration": "YHWH Elohekha **asher** hotsetikha meEretz",
+        "englishLiteral": "He_Who_Is (YHWH) Gods-your, **which** I-have-brought_out-you from-land-of",
+        "englishNatural": "He-Who-Is (YHWH) your God, **which** I have brought-out you from the land of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אֲשֶׁ֤ר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which is",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ תְּמוּנָ֔ה **אֲשֶׁ֤ר** בַּשָּׁמַ֙יִם֙ מִמַּ֔עַל",
+        "transliteration": "veKhol- temunah **asher** baShamayim miMaal",
+        "englishLiteral": "and-any- likeness, **which** in-the-skies from-above,",
+        "englishNatural": "and any likeness, **which is** in the skies from above,"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "אֲשֶׁ֣ר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which is",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְהֶמְתֶּ֗ךָ וְגֵרְךָ֙ **אֲשֶׁ֣ר** בִּשְׁעָרֶ֔יךָ",
+        "transliteration": "uVehemtekha veGerekha **asher** biShearekha",
+        "englishLiteral": "and-beast-your, and-sojourner-your **which** in-gates-your.",
+        "englishNatural": "and your beast, and your sojourner **which is** in your gates."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "אֲשֶׁ֥ר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "וַחֲמֹר֔וֹ וְכֹ֖ל **אֲשֶׁ֥ר** לְרֵעֶֽךָ׃",
+        "transliteration": "vaChamoro veKhol **asher** leReekha",
+        "englishLiteral": "and-donkey-his, and-all **which** to-friend-your.",
+        "englishNatural": "and his donkey, and all **which** is to your friend."
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 7

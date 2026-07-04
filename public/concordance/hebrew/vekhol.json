@@ -105,6 +105,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "וְכֹ֖ל",
+        "transliteration": "veKhol",
+        "englishLiteral": "and-all",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ **וְכֹ֖ל** אֲשֶׁ֥ר לְרֵעֶֽךָ׃",
+        "transliteration": "veShoro vaChamoro **veKhol** asher leReekha",
+        "englishLiteral": "and-ox-his and-donkey-his, **and-all** which to-friend-your.",
+        "englishNatural": "and his ox and his donkey, **and all** which is to your friend."
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 3

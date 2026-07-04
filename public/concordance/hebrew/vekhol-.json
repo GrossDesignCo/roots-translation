@@ -230,6 +230,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְכָל־",
+        "transliteration": "veKhol-",
+        "englishLiteral": "and-any-",
+        "englishNatural": "and any",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ֥ פֶ֙סֶל֙ **וְכָל־** תְּמוּנָ֔ה אֲשֶׁ֤ר",
+        "transliteration": "lekha fesel **veKhol-** temunah asher",
+        "englishLiteral": "to-you carved_image **and-any-** likeness, which",
+        "englishNatural": "to you a carved-image **and any** likeness, which is"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 10

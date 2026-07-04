@@ -1,0 +1,32 @@
+{
+  "key": "yamekha",
+  "language": "hebrew",
+  "root": "yom",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "יָמֶ֔יךָ",
+        "transliteration": "yamekha",
+        "englishLiteral": "days-your",
+        "englishNatural": "your days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַ֙עַן֙ יַאֲרִכ֣וּן **יָמֶ֔יךָ** עַ֚ל הָ֣אֲדָמָ֔ה",
+        "transliteration": "leMaan yaarikhun **yamekha** al haAdamah",
+        "englishLiteral": "to-sake they-will-be_long **days-your** over the-ground",
+        "englishNatural": "your mother; for the sake **your days** will be-long over"
+      }
+    }
+  ]
+}

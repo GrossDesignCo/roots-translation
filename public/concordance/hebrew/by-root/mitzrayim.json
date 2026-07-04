@@ -526,6 +526,31 @@
         "englishLiteral": "outcry great **in-Double_Narrows (Egypt);** that- there-is-not",
         "englishNatural": "outcry was **in Double-Narrows (Egypt),** that there was not"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "מִצְרַ֖יִם",
+        "transliteration": "Mitsrayim",
+        "englishLiteral": "Double_Narrows (Egypt)",
+        "englishNatural": "Double-Narrows (Egypt)",
+        "root": "mitzrayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ **מִצְרַ֖יִם** מִבֵּ֥ית עֲבָדִֽים׃",
+        "transliteration": "hotsetikha meEretz **Mitsrayim** miBeit avadim",
+        "englishLiteral": "I-have-brought_out-you from-land-of **Double_Narrows (Egypt),** from-house-of servants.",
+        "englishNatural": "I have brought-out you from the land of **Double-Narrows (Egypt),** from the house of servants."
+      }
     }
   ]
 }

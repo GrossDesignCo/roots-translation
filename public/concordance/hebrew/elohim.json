@@ -1902,6 +1902,56 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֱלֹהִ֔ים",
+        "transliteration": "Elohim",
+        "englishLiteral": "Gods",
+        "englishNatural": "And God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְדַבֵּ֣ר **אֱלֹהִ֔ים** אֵ֛ת כָּל־",
+        "transliteration": "vaYdabber **Elohim** et kol-",
+        "englishLiteral": "And-he-will-speak **Gods** ↳ all-",
+        "englishNatural": "**And God** spoke ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֱלֹהִ֥ים",
+        "transliteration": "Elohim",
+        "englishLiteral": "gods",
+        "englishNatural": "Other gods",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִהְיֶ֥ה־ לְךָ֛ **אֱלֹהִ֥ים** אֲחֵרִ֖ים עַל־",
+        "transliteration": "yihyeh- lekha **Elohim** acherim al-",
+        "englishLiteral": "he-will-be- to-you **gods** others over-",
+        "englishNatural": "**Other gods** others will be"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 1
@@ -1973,6 +2023,31 @@
         "transliteration": "yare Iyov **Elohim**",
         "englishLiteral": "has-feared Persecuted (Job) **Gods?\"**",
         "englishNatural": "\"Has Persecuted (Job) feared **God** for-nothing?\""
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "אֱלֹהִ֣ים",
+        "transliteration": "Elohim",
+        "englishLiteral": "Gods",
+        "englishNatural": "God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**אֱלֹהִ֣ים** לָ֭נוּ מַחֲסֶ֣ה",
+        "transliteration": "**Elohim** lanu machaseh",
+        "englishLiteral": "**Gods** to-us refuge",
+        "englishNatural": "**God** to us a refuge"
       }
     },
     {

@@ -130,6 +130,56 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יָמִים֙",
+        "transliteration": "yamim",
+        "englishLiteral": "days",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁ֤שֶׁת **יָמִים֙** תַּעֲבֹ֔ד וְעָשִׂ֖יתָ",
+        "transliteration": "sheshet **yamim** taAvod veAsita",
+        "englishLiteral": "Six-of **days** you-will-serve, and-you-have-made",
+        "englishNatural": "Six **days** you will serve, and you will make"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יָמִים֩",
+        "transliteration": "yamim",
+        "englishLiteral": "days",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֣י שֵֽׁשֶׁת־ **יָמִים֩** עָשָׂ֨ה יְהוָ֜ה",
+        "transliteration": "ki sheshet- **yamim** asah YHWH",
+        "englishLiteral": "That six-of- **days** has-made He_Who_Is (YHWH)",
+        "englishNatural": "That in six **days** has made He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 8

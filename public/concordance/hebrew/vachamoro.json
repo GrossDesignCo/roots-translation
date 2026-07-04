@@ -1,0 +1,32 @@
+{
+  "key": "vachamoro",
+  "language": "hebrew",
+  "root": "chamor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וַחֲמֹר֔וֹ",
+        "transliteration": "vaChamoro",
+        "englishLiteral": "and-donkey-his",
+        "englishNatural": "and his donkey",
+        "root": "chamor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ **וַחֲמֹר֔וֹ** וְכֹ֖ל אֲשֶׁ֥ר",
+        "transliteration": "vaAmato veShoro **vaChamoro** veKhol asher",
+        "englishLiteral": "and-maidservant-his and-ox-his **and-donkey-his,** and-all which",
+        "englishNatural": "and his maidservant and his ox **and his donkey,** and all which"
+      }
+    }
+  ]
+}

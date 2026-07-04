@@ -1,0 +1,34 @@
+{
+  "key": "behashqet",
+  "language": "hebrew",
+  "root": "shaqat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בְּהַשְׁקֵט֙",
+        "transliteration": "beHaShqet",
+        "englishLiteral": "In-the-being_quiet",
+        "englishNatural": "in the being-quiet",
+        "root": "shaqat",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וָנַ֙חַת֙ תִּוָּשֵׁ֔עוּן **בְּהַשְׁקֵט֙** וּבְבִטְחָ֔ה תִּהְיֶ֖ה",
+        "transliteration": "vaNachat tiVvasheun **beHaShqet** uVeBitchah tihyeh",
+        "englishLiteral": "and-rest you-will-be-saved; **In-the-being_quiet** and-in-trust will-be",
+        "englishNatural": "and rest you will be saved; **in the being-quiet** and in trust will be"
+      }
+    }
+  ]
+}

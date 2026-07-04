@@ -104,6 +104,81 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "עֲבָדִֽים׃",
+        "transliteration": "avadim",
+        "englishLiteral": "servants",
+        "englishNatural": "servants",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִצְרַ֖יִם מִבֵּ֥ית **עֲבָדִֽים׃**",
+        "transliteration": "Mitsrayim miBeit **avadim**",
+        "englishLiteral": "Double_Narrows (Egypt), from-house-of **servants.**",
+        "englishNatural": "Double-Narrows (Egypt), from the house of **servants.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "עַבְדְּךָ֣",
+        "transliteration": "avdekha",
+        "englishLiteral": "servant-your",
+        "englishNatural": "your servant",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבִנְךָ֣ וּבִתְּךָ֣ **עַבְדְּךָ֣** וַאֲמָתְךָ֣ וּבְהֶמְתֶּ֗ךָ",
+        "transliteration": "uVinkha uVittekha **avdekha** vaAmatkha uVehemtekha",
+        "englishLiteral": "and-son-your, and-daughter-your, **servant-your,** and-maidservant-your, and-beast-your,",
+        "englishNatural": "and your son, and your daughter, **your servant,** and your maidservant, and your beast,"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וְעַבְדּ֤וֹ",
+        "transliteration": "veAvdo",
+        "englishLiteral": "and-servant-his",
+        "englishNatural": "and his servant",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵ֣שֶׁת רֵעֶ֗ךָ **וְעַבְדּ֤וֹ** וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ",
+        "transliteration": "eshet reekha **veAvdo** vaAmato veShoro",
+        "englishLiteral": "woman-of friend-your, **and-servant-his** and-maidservant-his and-ox-his",
+        "englishNatural": "the woman of your friend, **and his servant** and his maidservant and his ox"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 8

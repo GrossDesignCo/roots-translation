@@ -1,0 +1,33 @@
+{
+  "root": "arakh_long",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "יַאֲרִכ֣וּן",
+        "transliteration": "yaarikhun",
+        "englishLiteral": "they-will-be_long",
+        "englishNatural": "will be-long",
+        "root": "arakh_long",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אִמֶּ֑ךָ לְמַ֙עַן֙ **יַאֲרִכ֣וּן** יָמֶ֔יךָ עַ֚ל",
+        "transliteration": "immekha leMaan **yaarikhun** yamekha al",
+        "englishLiteral": "mother-your; to-sake **they-will-be_long** days-your over",
+        "englishNatural": "for the sake your days **will be-long** over the ground"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "key": "hashabbat",
+  "language": "hebrew",
+  "root": "shabbat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הַשַּׁבָּ֖ת",
+        "transliteration": "haShabbat",
+        "englishLiteral": "the-Sabbath",
+        "englishNatural": "the Sabbath",
+        "root": "shabbat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ י֥וֹם **הַשַּׁבָּ֖ת** לְקַדְּשֽׁוֹ׃",
+        "transliteration": "et- yom **haShabbat** leQaddesho",
+        "englishLiteral": "↳ day-of **the-Sabbath,** to-sanctify-it.",
+        "englishNatural": "↳ the day of **the Sabbath,** to sanctify it."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 24,
+      "sourceOrder": 24,
+      "word": {
+        "originalScript": "הַשַּׁבָּ֖ת",
+        "transliteration": "haShabbat",
+        "englishLiteral": "the-Sabbath",
+        "englishNatural": "the Sabbath",
+        "root": "shabbat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ י֥וֹם **הַשַּׁבָּ֖ת** וַֽיְקַדְּשֵֽׁהוּ׃",
+        "transliteration": "et- yom **haShabbat** vayQaddeshahu",
+        "englishLiteral": "↳ day-of **the-Sabbath** and-he-will-sanctify-it.",
+        "englishNatural": "↳ the day of **the Sabbath** and sanctified it."
+      }
+    }
+  ]
+}

@@ -26,6 +26,31 @@
         "englishLiteral": "Gods seed **another** instead-of Vapor (Abel);",
         "englishNatural": "has appointed me **another** seed instead of"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֲחֵרִ֖ים",
+        "transliteration": "acherim",
+        "englishLiteral": "others",
+        "englishNatural": "",
+        "root": "acher",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ֛ אֱלֹהִ֥ים **אֲחֵרִ֖ים** עַל־ פָּנָֽי׃",
+        "transliteration": "lekha Elohim **acherim** al- panai",
+        "englishLiteral": "to-you gods **others** over- faces-my.",
+        "englishNatural": "Other gods **others** will be not"
+      }
     }
   ]
 }

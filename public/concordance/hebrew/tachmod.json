@@ -1,0 +1,61 @@
+{
+  "key": "tachmod",
+  "language": "hebrew",
+  "root": "chamad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תַחְמֹ֖ד",
+        "transliteration": "tachmod",
+        "englishLiteral": "you-will-desire",
+        "englishNatural": "You will desire",
+        "root": "chamad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֥א **תַחְמֹ֖ד** בֵּ֣ית רֵעֶ֑ךָ",
+        "transliteration": "lo **tachmod** beit reekha",
+        "englishLiteral": "Not **you-will-desire** house-of friend-your.",
+        "englishNatural": "**You will desire** not the house of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "תַחְמֹ֞ד",
+        "transliteration": "tachmod",
+        "englishLiteral": "you-will-desire",
+        "englishNatural": "You will desire",
+        "root": "chamad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רֵעֶ֑ךָ לֹֽא־ **תַחְמֹ֞ד** אֵ֣שֶׁת רֵעֶ֗ךָ",
+        "transliteration": "reekha lo- **tachmod** eshet reekha",
+        "englishLiteral": "friend-your. Not- **you-will-desire** woman-of friend-your,",
+        "englishNatural": "the house of your friend. **You will desire** not the woman of"
+      }
+    }
+  ]
+}

@@ -3223,6 +3223,156 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֔ים אֵ֛ת **כָּל־** הַדְּבָרִ֥ים הָאֵ֖לֶּה",
+        "transliteration": "Elohim et **kol-** hadDevarim haElleh",
+        "englishLiteral": "Gods ↳ **all-** the-words the-these,",
+        "englishNatural": "spoke ↳ **all** the words, these,"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְכָל־",
+        "transliteration": "veKhol-",
+        "englishLiteral": "and-any-",
+        "englishNatural": "and any",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ֥ פֶ֙סֶל֙ **וְכָל־** תְּמוּנָ֔ה אֲשֶׁ֤ר",
+        "transliteration": "lekha fesel **veKhol-** temunah asher",
+        "englishLiteral": "to-you carved_image **and-any-** likeness, which",
+        "englishNatural": "to you a carved-image **and any** likeness, which is"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "תַּעֲבֹ֔ד וְעָשִׂ֖יתָ **כָּל־** מְלַאכְתֶּֽךָ׃",
+        "transliteration": "taAvod veAsita **kol-** melakhtekha",
+        "englishLiteral": "you-will-serve, and-you-have-made **all-** work-your.",
+        "englishNatural": "you will serve, and you will make **all** your work."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "כָל־",
+        "transliteration": "khol-",
+        "englishLiteral": "any-",
+        "englishNatural": "any",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֣א תַעֲשֶׂ֣ה **כָל־** מְלָאכָ֡ה אַתָּ֣ה",
+        "transliteration": "lo taase **khol-** melakhah attah",
+        "englishLiteral": "Not you-will-make **any-** work: you,",
+        "englishNatural": "You will make not **any** work: you,"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הַיָּם֙ וְאֶת־ **כָּל־** אֲשֶׁר־ בָּ֔ם",
+        "transliteration": "haYam veEt- **kol-** asher- bam",
+        "englishLiteral": "the-sea and-↳ **all-** which- in-them;",
+        "englishNatural": "the sea and **all** which is in them;"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "וְכֹ֖ל",
+        "transliteration": "veKhol",
+        "englishLiteral": "and-all",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ **וְכֹ֖ל** אֲשֶׁ֥ר לְרֵעֶֽךָ׃",
+        "transliteration": "veShoro vaChamoro **veKhol** asher leReekha",
+        "englishLiteral": "and-ox-his and-donkey-his, **and-all** which to-friend-your.",
+        "englishNatural": "and his ox and his donkey, **and all** which is to your friend."
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 8

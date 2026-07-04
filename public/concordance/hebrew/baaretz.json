@@ -255,6 +255,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בָּאָ֖רֶץ",
+        "transliteration": "baAretz",
+        "englishLiteral": "in-the-land",
+        "englishNatural": "in the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִמַּ֔עַל וַאֲשֶׁ֥ר **בָּאָ֖רֶץ** מִתָּ֑חַת וַאֲשֶׁ֥ר",
+        "transliteration": "miMaal vaAsher **baAretz** miTachat vaAsher",
+        "englishLiteral": "from-above, and-which **in-the-land** from-beneath, and-which",
+        "englishNatural": "from above, and which is **in the land** from beneath, and which is"
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 1

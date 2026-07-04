@@ -1186,6 +1186,141 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תַעֲשֶׂ֨ה",
+        "transliteration": "taAseh",
+        "englishLiteral": "you-will-make",
+        "englishNatural": "You will make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹֽא־ **תַעֲשֶׂ֨ה** לְךָ֥ פֶ֙סֶל֙",
+        "transliteration": "lo- **taAseh** lekha fesel",
+        "englishLiteral": "Not- **you-will-make** to-you carved_image",
+        "englishNatural": "**You will make** not to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְעֹ֥שֶׂה",
+        "transliteration": "veOseh",
+        "englishLiteral": "And-making",
+        "englishNatural": "And making",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְעֹ֥שֶׂה** חֶ֖סֶד לַאֲלָפִ֑ים",
+        "transliteration": "**veOseh** chesed laAlafim",
+        "englishLiteral": "**And-making** steadfast_love to-thousands,",
+        "englishNatural": "**And making** steadfast-love to thousands,"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְעָשִׂ֖יתָ",
+        "transliteration": "veAsita",
+        "englishLiteral": "and-you-have-made",
+        "englishNatural": "and you will make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יָמִים֙ תַּעֲבֹ֔ד **וְעָשִׂ֖יתָ** כָּל־ מְלַאכְתֶּֽךָ׃",
+        "transliteration": "yamim taAvod **veAsita** kol- melakhtekha",
+        "englishLiteral": "days you-will-serve, **and-you-have-made** all- work-your.",
+        "englishNatural": "days you will serve, **and you will make** all your work."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "תַעֲשֶׂ֣ה",
+        "transliteration": "taase",
+        "englishLiteral": "you-will-make",
+        "englishNatural": "You will make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֶ֑יךָ לֹ֣א **תַעֲשֶׂ֣ה** כָל־ מְלָאכָ֡ה",
+        "transliteration": "Elohekha lo **taase** khol- melakhah",
+        "englishLiteral": "Gods-your. Not **you-will-make** any- work:",
+        "englishNatural": "to He-Who-Is (YHWH) your God. **You will make** not any"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "עָשָׂ֨ה",
+        "transliteration": "asah",
+        "englishLiteral": "has-made",
+        "englishNatural": "has made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שֵֽׁשֶׁת־ יָמִים֩ **עָשָׂ֨ה** יְהוָ֜ה אֶת־",
+        "transliteration": "sheshet- yamim **asah** YHWH et-",
+        "englishLiteral": "six-of- days **has-made** He_Who_Is (YHWH) ↳",
+        "englishNatural": "in six days **has made** He-Who-Is (YHWH) ↳"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 8

@@ -1,0 +1,34 @@
+{
+  "key": "kabbed",
+  "language": "hebrew",
+  "root": "kavad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כַּבֵּ֥ד",
+        "transliteration": "kabbed",
+        "englishLiteral": "Be_heavy-upon",
+        "englishNatural": "Be-heavy upon",
+        "root": "kavad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**כַּבֵּ֥ד** אֶת־ אָבִ֖יךָ",
+        "transliteration": "**kabbed** et- avikha",
+        "englishLiteral": "**Be_heavy-upon** ↳ father-your",
+        "englishNatural": "**Be-heavy upon** ↳ your father"
+      }
+    }
+  ]
+}

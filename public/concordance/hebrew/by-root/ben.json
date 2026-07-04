@@ -1105,6 +1105,56 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "בָּנִ֛ים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָבֹ֧ת עַל־ **בָּנִ֛ים** עַל־ שִׁלֵּשִׁ֥ים",
+        "transliteration": "avot al- **banim** al- shilleshim",
+        "englishLiteral": "fathers over- **sons,** over- third_ones",
+        "englishNatural": "fathers over **sons,** over third-ones"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וּבִנְךָ֣",
+        "transliteration": "uVinkha",
+        "englishLiteral": "and-son-your",
+        "englishNatural": "and your son",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מְלָאכָ֡ה אַתָּ֣ה **וּבִנְךָ֣** וּבִתְּךָ֣ עַבְדְּךָ֣",
+        "transliteration": "melakhah attah **uVinkha** uVittekha avdekha",
+        "englishLiteral": "work: you, **and-son-your,** and-daughter-your, servant-your,",
+        "englishNatural": "work: you, **and your son,** and your daughter, your servant,"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 7
       },
@@ -1350,6 +1400,31 @@
         "transliteration": "ki- tiZkrennu **uVen-** Adam ki",
         "englishLiteral": "that- you-will-remember-him, **and-son-of-** Earthling (Adam) that",
         "englishNatural": "that you will remember him, **and the son of** Earthling (Adam) that"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 0
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "לִבְנֵי־",
+        "transliteration": "liVney-",
+        "englishLiteral": "to-sons-of-",
+        "englishNatural": "of the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַמְנַצֵּ֥חַ **לִבְנֵי־** קֹ֑רַח עַל־",
+        "transliteration": "laMnatseach **liVney-** Qorach al-",
+        "englishLiteral": "to-the-one-who-endures **to-sons-of-** Korah. over-",
+        "englishNatural": "To the one-who-endures **of the sons of** Korah. Over"
       }
     },
     {

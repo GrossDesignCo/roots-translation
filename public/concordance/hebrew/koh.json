@@ -77,6 +77,31 @@
         "englishLiteral": "And-said Drawn_Out (Moses), **thus** said He_Who_Is (YHWH),",
         "englishNatural": "And Drawn-Out (Moses) said, **\"Thus** has said He-Who-Is (YHWH),"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "כֹ֥ה",
+        "transliteration": "koh",
+        "englishLiteral": "thus",
+        "englishNatural": "thus",
+        "root": "koh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֣י **כֹ֥ה** אָמַ֛ר אֲדֹנָ֥י",
+        "transliteration": "ki **koh** amar Adonai",
+        "englishLiteral": "That **thus** has-said Lord",
+        "englishNatural": "That **thus** has said the Lord"
+      }
     }
   ]
 }

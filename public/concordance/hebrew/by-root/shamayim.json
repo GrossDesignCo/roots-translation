@@ -654,6 +654,56 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בַּשָּׁמַ֙יִם֙",
+        "transliteration": "baShamayim",
+        "englishLiteral": "in-the-skies",
+        "englishNatural": "in the skies",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תְּמוּנָ֔ה אֲשֶׁ֤ר **בַּשָּׁמַ֙יִם֙** מִמַּ֔עַל וַאֲשֶׁ֥ר",
+        "transliteration": "temunah asher **baShamayim** miMaal vaAsher",
+        "englishLiteral": "likeness, which **in-the-skies** from-above, and-which",
+        "englishNatural": "likeness, which is **in the skies** from above, and which is"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "הַשָּׁמַ֣יִם",
+        "transliteration": "haShamayim",
+        "englishLiteral": "the-skies",
+        "englishNatural": "the skies",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֜ה אֶת־ **הַשָּׁמַ֣יִם** וְאֶת־ הָאָ֗רֶץ",
+        "transliteration": "YHWH et- **haShamayim** veEt- haAretz",
+        "englishLiteral": "He_Who_Is (YHWH) ↳ **the-skies** and-↳ the-land,",
+        "englishNatural": "He-Who-Is (YHWH) ↳ **the skies** and the land,"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 1

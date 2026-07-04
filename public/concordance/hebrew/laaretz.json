@@ -1,0 +1,32 @@
+{
+  "key": "laaretz",
+  "language": "hebrew",
+  "root": "eretz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "לָאָֽרֶץ׃",
+        "transliteration": "laAretz",
+        "englishLiteral": "to-the-land",
+        "englishNatural": "to the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּמַּ֖יִם מִתַּ֥חַת **לָאָֽרֶץ׃**",
+        "transliteration": "baMayim miTachat **laAretz**",
+        "englishLiteral": "in-the-waters from-beneath **to-the-land.**",
+        "englishNatural": "in the waters from beneath **to the land.**"
+      }
+    }
+  ]
+}

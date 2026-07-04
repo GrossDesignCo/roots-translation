@@ -1,7 +1,7 @@
 {
   "key": "lanu",
   "language": "hebrew",
-  "root": "lanu",
+  "root": "lamed",
   "occurrences": [
     {
       "location": {
@@ -51,6 +51,31 @@
         "transliteration": "baShamayim veNaaseh- **lanu** shem pen-",
         "englishLiteral": "in-heavens, and-let-us-make- **for-us** name lest-",
         "englishNatural": "in the heavens, and let us make **for us** a name lest"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "לָ֭נוּ",
+        "transliteration": "lanu",
+        "englishLiteral": "to-us",
+        "englishNatural": "to us",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֣ים **לָ֭נוּ** מַחֲסֶ֣ה וָעֹ֑ז",
+        "transliteration": "Elohim **lanu** machaseh vaOz",
+        "englishLiteral": "Gods **to-us** refuge and-strength,",
+        "englishNatural": "God **to us** a refuge and strength,"
       }
     },
     {

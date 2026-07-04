@@ -1,0 +1,32 @@
+{
+  "key": "vaoz",
+  "language": "hebrew",
+  "root": "oz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וָעֹ֑ז",
+        "transliteration": "vaOz",
+        "englishLiteral": "and-strength",
+        "englishNatural": "and strength",
+        "root": "oz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָ֭נוּ מַחֲסֶ֣ה **וָעֹ֑ז** עֶזְרָ֥ה בְ֝צָר֗וֹת",
+        "transliteration": "lanu machaseh **vaOz** ezrah beTsarot",
+        "englishLiteral": "to-us refuge **and-strength,** help in-distresses",
+        "englishNatural": "to us a refuge **and strength,** a help in distresses"
+      }
+    }
+  ]
+}

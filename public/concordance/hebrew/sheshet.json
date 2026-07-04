@@ -1,0 +1,32 @@
+{
+  "key": "sheshet",
+  "language": "hebrew",
+  "root": "shesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "שֵׁ֤שֶׁת",
+        "transliteration": "sheshet",
+        "englishLiteral": "Six-of",
+        "englishNatural": "Six",
+        "root": "shesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "**שֵׁ֤שֶׁת** יָמִים֙ תַּעֲבֹ֔ד",
+        "transliteration": "**sheshet** yamim taAvod",
+        "englishLiteral": "**Six-of** days you-will-serve,",
+        "englishNatural": "**Six** days you will serve,"
+      }
+    }
+  ]
+}

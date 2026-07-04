@@ -80,6 +80,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֲדֹנָ֥י",
+        "transliteration": "Adonai",
+        "englishLiteral": "Lord",
+        "englishNatural": "the Lord",
+        "root": "adonai",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֹ֥ה אָמַ֛ר **אֲדֹנָ֥י** יְהוִ֖ה קְד֣וֹשׁ",
+        "transliteration": "koh amar **Adonai** YHWH qedosh",
+        "englishLiteral": "thus has-said **Lord** He_Who_Is (YHWH), Holy_One-of",
+        "englishNatural": "thus has said **the Lord** He-Who-Is (YHWH), the Holy-One of"
+      }
+    },
+    {
+      "location": {
         "book": "Daniel",
         "chapter": 1,
         "verse": 2

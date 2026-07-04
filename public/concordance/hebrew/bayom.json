@@ -130,6 +130,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "בַּיּ֣וֹם",
+        "transliteration": "baYom",
+        "englishLiteral": "in-the-day",
+        "englishNatural": "in the day",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּ֔ם וַיָּ֖נַח **בַּיּ֣וֹם** הַשְּׁבִיעִ֑י עַל־",
+        "transliteration": "bam vaYanach **baYom** haShevii al-",
+        "englishLiteral": "in-them; and-he-will-rest **in-the-day** the-seventh. Over-",
+        "englishNatural": "in them; and he rested **in the day** the seventh. Therefore"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 7

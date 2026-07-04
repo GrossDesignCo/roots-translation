@@ -2478,23 +2478,23 @@
         "20": {
           "chapterNumber": 20,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
-            "5": false,
-            "6": false,
-            "7": false,
-            "8": false,
-            "9": false,
-            "10": false,
-            "11": false,
-            "12": false,
-            "13": false,
-            "14": false,
-            "15": false,
-            "16": false,
-            "17": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "15": true,
+            "16": true,
+            "17": true,
             "18": false,
             "19": false,
             "20": false,
@@ -2505,7 +2505,7 @@
             "25": false,
             "26": false
           },
-          "progress": 0
+          "progress": 65.38461538461539
         },
         "21": {
           "chapterNumber": 21,
@@ -3296,7 +3296,7 @@
           "progress": 0
         }
       },
-      "progress": 5.3586150041220115
+      "progress": 6.7600989282769985
     },
     "LEVITICUS": {
       "bookName": "Leviticus",
@@ -17867,9 +17867,9 @@
         "46": {
           "chapterNumber": 46,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
+            "1": true,
+            "2": true,
+            "3": true,
             "4": false,
             "5": false,
             "6": false,
@@ -17879,7 +17879,7 @@
             "10": false,
             "11": false
           },
-          "progress": 0
+          "progress": 27.27272727272727
         },
         "47": {
           "chapterNumber": 47,
@@ -20282,7 +20282,7 @@
           "progress": 0
         }
       },
-      "progress": 1.380991064175467
+      "progress": 1.5028432168968318
     },
     "PROVERBS": {
       "bookName": "Proverbs",
@@ -22619,7 +22619,7 @@
             "12": false,
             "13": false,
             "14": false,
-            "15": false,
+            "15": true,
             "16": false,
             "17": false,
             "18": false,
@@ -22639,7 +22639,7 @@
             "32": false,
             "33": false
           },
-          "progress": 0
+          "progress": 3.0303030303030303
         },
         "31": {
           "chapterNumber": 31,
@@ -23554,7 +23554,7 @@
           "progress": 0
         }
       },
-      "progress": 0.6191950464396285
+      "progress": 0.696594427244582
     },
     "JEREMIAH": {
       "bookName": "Jeremiah",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.6493585827733657
+  "totalProgress": 1.7168761855769539
 }

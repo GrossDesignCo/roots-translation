@@ -1,0 +1,32 @@
+{
+  "key": "beshuvah",
+  "language": "hebrew",
+  "root": "shuvah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בְּשׁוּבָ֤ה",
+        "transliteration": "beShuvah",
+        "englishLiteral": "In-returning",
+        "englishNatural": "In returning",
+        "root": "shuvah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קְד֣וֹשׁ יִשְׂרָאֵ֑ל **בְּשׁוּבָ֤ה** וָנַ֙חַת֙ תִּוָּשֵׁ֔עוּן",
+        "transliteration": "qedosh Yisrael **beShuvah** vaNachat tiVvasheun",
+        "englishLiteral": "Holy_One-of Struggles_with_God (Israel): **In-returning** and-rest you-will-be-saved;",
+        "englishNatural": "the Holy-One of Struggles-with-God (Israel): **In returning** and rest you will be saved;"
+      }
+    }
+  ]
+}

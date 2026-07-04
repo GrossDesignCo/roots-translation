@@ -517,6 +517,33 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "נֹתֵ֥ן",
+        "transliteration": "noten",
+        "englishLiteral": "giving",
+        "englishNatural": "is giving",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֥ה אֱלֹהֶ֖יךָ **נֹתֵ֥ן** לָֽךְ׃",
+        "transliteration": "YHWH Elohekha **noten** lakh",
+        "englishLiteral": "He_Who_Is (YHWH) Gods-your **giving** to-you.",
+        "englishNatural": "He-Who-Is (YHWH) your God **is giving** to you."
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 6

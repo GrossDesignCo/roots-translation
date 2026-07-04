@@ -1,0 +1,32 @@
+{
+  "key": "bishearekha",
+  "language": "hebrew",
+  "root": "shaar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "בִּשְׁעָרֶ֔יךָ",
+        "transliteration": "biShearekha",
+        "englishLiteral": "in-gates-your",
+        "englishNatural": "in your gates",
+        "root": "shaar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגֵרְךָ֙ אֲשֶׁ֣ר **בִּשְׁעָרֶ֔יךָ**",
+        "transliteration": "veGerekha asher **biShearekha**",
+        "englishLiteral": "and-sojourner-your which **in-gates-your.**",
+        "englishNatural": "and your sojourner which is **in your gates.**"
+      }
+    }
+  ]
+}

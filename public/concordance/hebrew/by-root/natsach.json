@@ -28,6 +28,33 @@
         "englishLiteral": "**to-the-one-who-endures** over- the-Gittith.",
         "englishNatural": "**To the one-who-endures** over the Gittith."
       }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 0
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לַמְנַצֵּ֥חַ",
+        "transliteration": "laMnatseach",
+        "englishLiteral": "to-the-one-who-endures",
+        "englishNatural": "To the one-who-endures",
+        "root": "natsach",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**לַמְנַצֵּ֥חַ** לִבְנֵי־ קֹ֑רַח",
+        "transliteration": "**laMnatseach** liVney- Qorach",
+        "englishLiteral": "**to-the-one-who-endures** to-sons-of- Korah.",
+        "englishNatural": "**To the one-who-endures** of the sons of Korah."
+      }
     }
   ]
 }

@@ -76,6 +76,56 @@
         "englishLiteral": "↳ day **the-seventh,** and-sanctified him;",
         "englishNatural": "blessed ↳ **the seventh** day, and sanctified"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַשְּׁבִיעִ֔י",
+        "transliteration": "haShevii",
+        "englishLiteral": "the-seventh",
+        "englishNatural": "the seventh",
+        "root": "shevii",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְיוֹם֙ **הַשְּׁבִיעִ֔י** שַׁבָּ֖ת לַיהוָ֣ה",
+        "transliteration": "veYom **haShevii** shabbat laYHWH",
+        "englishLiteral": "And-day **the-seventh** Sabbath to-He_Who_Is (YHWH)",
+        "englishNatural": "And the day **the seventh** is a Sabbath to He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "הַשְּׁבִיעִ֑י",
+        "transliteration": "haShevii",
+        "englishLiteral": "the-seventh",
+        "englishNatural": "the seventh",
+        "root": "shevii",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּ֖נַח בַּיּ֣וֹם **הַשְּׁבִיעִ֑י** עַל־ כֵּ֗ן",
+        "transliteration": "vaYanach baYom **haShevii** al- ken",
+        "englishLiteral": "and-he-will-rest in-the-day **the-seventh.** Over- so",
+        "englishNatural": "and he rested in the day **the seventh.** Therefore so"
+      }
     }
   ]
 }

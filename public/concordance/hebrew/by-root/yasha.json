@@ -28,6 +28,33 @@
         "englishLiteral": "Stand_up He_Who_Is (YHWH) **save-me** Gods-my; that-",
         "englishNatural": "Stand-up, He-Who-Is (YHWH)! **Save me,** my God; that"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "תִּוָּשֵׁ֔עוּן",
+        "transliteration": "tiVvasheun",
+        "englishLiteral": "you-will-be-saved",
+        "englishNatural": "you will be saved",
+        "root": "yasha",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּשׁוּבָ֤ה וָנַ֙חַת֙ **תִּוָּשֵׁ֔עוּן** בְּהַשְׁקֵט֙ וּבְבִטְחָ֔ה",
+        "transliteration": "beShuvah vaNachat **tiVvasheun** beHaShqet uVeBitchah",
+        "englishLiteral": "In-returning and-rest **you-will-be-saved;** In-the-being_quiet and-in-trust",
+        "englishNatural": "In returning and rest **you will be saved;** in the being-quiet and in trust"
+      }
     }
   ]
 }

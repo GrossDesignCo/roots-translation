@@ -177,6 +177,31 @@
         "englishLiteral": "Drawn_Out (Moses) great **very,** in-land Double_Narrows (Egypt);",
         "englishNatural": "Drawn-Out (Moses) great **very** in the land of Double-Narrows (Egypt),"
       }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "מְאֹֽד׃",
+        "transliteration": "meod",
+        "englishLiteral": "very",
+        "englishNatural": "very",
+        "root": "meod",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "בְ֝צָר֗וֹת נִמְצָ֥א **מְאֹֽד׃**",
+        "transliteration": "beTsarot nimtsa **meod**",
+        "englishLiteral": "in-distresses has-been-found **very.**",
+        "englishNatural": "in distresses found **very.**"
+      }
     }
   ]
 }

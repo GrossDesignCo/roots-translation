@@ -377,6 +377,31 @@
         "englishLiteral": "Beloved (David), king of **Struggles_with_God (Israel).**",
         "englishNatural": "Beloved (David), king of **Struggles-with-God (Israel).**"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "יִשְׂרָאֵ֑ל",
+        "transliteration": "Yisrael",
+        "englishLiteral": "Struggles_with_God (Israel)",
+        "englishNatural": "Struggles-with-God (Israel)",
+        "root": "yisrael",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוִ֖ה קְד֣וֹשׁ **יִשְׂרָאֵ֑ל** בְּשׁוּבָ֤ה וָנַ֙חַת֙",
+        "transliteration": "YHWH qedosh **Yisrael** beShuvah vaNachat",
+        "englishLiteral": "He_Who_Is (YHWH), Holy_One-of **Struggles_with_God (Israel):** In-returning and-rest",
+        "englishNatural": "He-Who-Is (YHWH), the Holy-One of **Struggles-with-God (Israel):** In returning and rest"
+      }
     }
   ]
 }

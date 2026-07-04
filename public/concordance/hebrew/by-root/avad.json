@@ -218,6 +218,60 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "תָעָבְדֵ֑ם",
+        "transliteration": "taAvdem",
+        "englishLiteral": "you-will-serve-them",
+        "englishNatural": "and you will serve them",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶ֖ם וְלֹ֣א **תָעָבְדֵ֑ם** כִּ֣י אָנֹכִ֞י",
+        "transliteration": "laHem veLo **taAvdem** ki anokhi",
+        "englishLiteral": "to-them and-not **you-will-serve-them.** That I",
+        "englishNatural": "not to them **and you will serve them** not. That"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "תַּעֲבֹ֔ד",
+        "transliteration": "taAvod",
+        "englishLiteral": "you-will-serve",
+        "englishNatural": "you will serve",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁ֤שֶׁת יָמִים֙ **תַּעֲבֹ֔ד** וְעָשִׂ֖יתָ כָּל־",
+        "transliteration": "sheshet yamim **taAvod** veAsita kol-",
+        "englishLiteral": "Six-of days **you-will-serve,** and-you-have-made all-",
+        "englishNatural": "Six days **you will serve,** and you will make all"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 4,
         "verse": 10

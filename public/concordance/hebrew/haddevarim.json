@@ -1,0 +1,32 @@
+{
+  "key": "haddevarim",
+  "language": "hebrew",
+  "root": "davar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הַדְּבָרִ֥ים",
+        "transliteration": "hadDevarim",
+        "englishLiteral": "the-words",
+        "englishNatural": "the words",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵ֛ת כָּל־ **הַדְּבָרִ֥ים** הָאֵ֖לֶּה לֵאמֹֽר׃",
+        "transliteration": "et kol- **hadDevarim** haElleh leEmor",
+        "englishLiteral": "↳ all- **the-words** the-these, to-say:",
+        "englishNatural": "↳ all **the words,** these, to say:"
+      }
+    }
+  ]
+}

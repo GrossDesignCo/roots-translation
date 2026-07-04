@@ -1,0 +1,32 @@
+{
+  "key": "uvittekha",
+  "language": "hebrew",
+  "root": "bat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וּבִתְּךָ֣",
+        "transliteration": "uVittekha",
+        "englishLiteral": "and-daughter-your",
+        "englishNatural": "and your daughter",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַתָּ֣ה וּבִנְךָ֣ **וּבִתְּךָ֣** עַבְדְּךָ֣ וַאֲמָתְךָ֣",
+        "transliteration": "attah uVinkha **uVittekha** avdekha vaAmatkha",
+        "englishLiteral": "you, and-son-your, **and-daughter-your,** servant-your, and-maidservant-your,",
+        "englishNatural": "you, and your son, **and your daughter,** your servant, and your maidservant,"
+      }
+    }
+  ]
+}

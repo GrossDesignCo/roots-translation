@@ -1,0 +1,32 @@
+{
+  "key": "mitsvotai",
+  "language": "hebrew",
+  "root": "mitsvah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "מִצְוֺתָֽי׃",
+        "transliteration": "mitsvotai",
+        "englishLiteral": "commandments-my",
+        "englishNatural": "my commandments",
+        "root": "mitsvah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י **מִצְוֺתָֽי׃**",
+        "transliteration": "leOhavai uleShomrei **mitsvotai**",
+        "englishLiteral": "to-loving-me and-to-keeping **commandments-my.**",
+        "englishNatural": "to ones loving me and to ones keeping **my commandments.**"
+      }
+    }
+  ]
+}

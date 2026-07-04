@@ -1,0 +1,34 @@
+{
+  "key": "avitem",
+  "language": "hebrew",
+  "root": "avah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "אֲבִיתֶֽם",
+        "transliteration": "avitem",
+        "englishLiteral": "you-have-desired",
+        "englishNatural": "and you have desired it",
+        "root": "avah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "גְּבוּרַתְכֶ֑ם וְלֹ֖א **אֲבִיתֶֽם**",
+        "transliteration": "gevuratkhem veLo **avitem**",
+        "englishLiteral": "might-your; and-not **you-have-desired.**",
+        "englishNatural": "will be your might; **and you have desired it** not."
+      }
+    }
+  ]
+}

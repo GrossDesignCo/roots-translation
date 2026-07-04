@@ -56,6 +56,33 @@
         "englishLiteral": "his-name \"Rest (Noah),\" **to-say,** \"This will-comfort-us",
         "englishNatural": "his name \"Rest (Noah),\" **to say,** \"This will comfort us"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לֵאמֹֽר׃",
+        "transliteration": "leEmor",
+        "englishLiteral": "to-say",
+        "englishNatural": "to say",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַדְּבָרִ֥ים הָאֵ֖לֶּה **לֵאמֹֽר׃**",
+        "transliteration": "hadDevarim haElleh **leEmor**",
+        "englishLiteral": "the-words the-these, **to-say:**",
+        "englishNatural": "the words, these, **to say:**"
+      }
     }
   ]
 }

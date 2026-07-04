@@ -330,6 +330,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "כֵּ֗ן",
+        "transliteration": "ken",
+        "englishLiteral": "so",
+        "englishNatural": "",
+        "root": "ken",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הַשְּׁבִיעִ֑י עַל־ **כֵּ֗ן** בֵּרַ֧ךְ יְהוָ֛ה",
+        "transliteration": "haShevii al- **ken** berakh YHWH",
+        "englishLiteral": "the-seventh. Over- **so** has-blessed He_Who_Is (YHWH)",
+        "englishNatural": "the seventh. Therefore **so** has blessed He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 5
@@ -351,6 +376,31 @@
         "transliteration": "al **ken** lo yaqumu",
         "englishLiteral": "Over **so** not they-will-stand_up",
         "englishNatural": "**So** moreover the wicked"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "כֵּ֤ן",
+        "transliteration": "ken",
+        "englishLiteral": "so",
+        "englishNatural": "",
+        "root": "ken",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ **כֵּ֤ן** לֹא־ נִירָ֗א",
+        "transliteration": "al- **ken** lo- nira",
+        "englishLiteral": "Over- **so** not- we-will-fear,",
+        "englishNatural": "Therefore **so** not will we fear,"
       }
     },
     {

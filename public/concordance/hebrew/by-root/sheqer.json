@@ -1,0 +1,31 @@
+{
+  "root": "sheqer",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 16
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "שָֽׁקֶר׃",
+        "transliteration": "shaqer",
+        "englishLiteral": "falsehood",
+        "englishNatural": "falsehood",
+        "root": "sheqer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְרֵעֲךָ֖ עֵ֥ד **שָֽׁקֶר׃**",
+        "transliteration": "veReakha ed **shaqer**",
+        "englishLiteral": "in-friend-your witness **falsehood.**",
+        "englishNatural": "not as a witness of **falsehood** against your friend."
+      }
+    }
+  ]
+}

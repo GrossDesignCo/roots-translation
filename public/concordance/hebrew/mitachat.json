@@ -105,6 +105,56 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "מִתָּ֑חַת",
+        "transliteration": "miTachat",
+        "englishLiteral": "from-beneath",
+        "englishNatural": "from beneath",
+        "root": "tachat",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲשֶׁ֥ר בָּאָ֖רֶץ **מִתָּ֑חַת** וַאֲשֶׁ֥ר בַּמַּ֖יִם",
+        "transliteration": "vaAsher baAretz **miTachat** vaAsher baMayim",
+        "englishLiteral": "and-which in-the-land **from-beneath,** and-which in-the-waters",
+        "englishNatural": "and which is in the land **from beneath,** and which is in the waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "מִתַּ֥חַת",
+        "transliteration": "miTachat",
+        "englishLiteral": "from-beneath",
+        "englishNatural": "from beneath",
+        "root": "tachat",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲשֶׁ֥ר בַּמַּ֖יִם **מִתַּ֥חַת** לָאָֽרֶץ׃",
+        "transliteration": "vaAsher baMayim **miTachat** laAretz",
+        "englishLiteral": "and-which in-the-waters **from-beneath** to-the-land.",
+        "englishNatural": "and which is in the waters **from beneath** to the land."
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 8

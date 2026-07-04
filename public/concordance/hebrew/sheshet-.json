@@ -1,0 +1,32 @@
+{
+  "key": "sheshet-",
+  "language": "hebrew",
+  "root": "shesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "שֵֽׁשֶׁת־",
+        "transliteration": "sheshet-",
+        "englishLiteral": "six-of-",
+        "englishNatural": "in six",
+        "root": "shesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֣י **שֵֽׁשֶׁת־** יָמִים֩ עָשָׂ֨ה",
+        "transliteration": "ki **sheshet-** yamim asah",
+        "englishLiteral": "That **six-of-** days has-made",
+        "englishNatural": "That **in six** days has made"
+      }
+    }
+  ]
+}

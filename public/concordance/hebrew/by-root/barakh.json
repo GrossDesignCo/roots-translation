@@ -247,6 +247,33 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 20,
+      "sourceOrder": 20,
+      "word": {
+        "originalScript": "בֵּרַ֧ךְ",
+        "transliteration": "berakh",
+        "englishLiteral": "has-blessed",
+        "englishNatural": "has blessed",
+        "root": "barakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ כֵּ֗ן **בֵּרַ֧ךְ** יְהוָ֛ה אֶת־",
+        "transliteration": "al- ken **berakh** YHWH et-",
+        "englishLiteral": "Over- so **has-blessed** He_Who_Is (YHWH) ↳",
+        "englishNatural": "Therefore so **has blessed** He-Who-Is (YHWH) ↳"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 10

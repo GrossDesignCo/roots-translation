@@ -1,0 +1,34 @@
+{
+  "key": "leqaddesho",
+  "language": "hebrew",
+  "root": "qadash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לְקַדְּשֽׁוֹ׃",
+        "transliteration": "leQaddesho",
+        "englishLiteral": "to-sanctify-it",
+        "englishNatural": "to sanctify it",
+        "root": "qadash",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "י֥וֹם הַשַּׁבָּ֖ת **לְקַדְּשֽׁוֹ׃**",
+        "transliteration": "yom haShabbat **leQaddesho**",
+        "englishLiteral": "day-of the-Sabbath, **to-sanctify-it.**",
+        "englishNatural": "the day of the Sabbath, **to sanctify it.**"
+      }
+    }
+  ]
+}

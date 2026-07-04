@@ -355,6 +355,106 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לֹֽא־",
+        "transliteration": "lo-",
+        "englishLiteral": "Not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לֹֽא־** תַעֲשֶׂ֨ה לְךָ֥",
+        "transliteration": "**lo-** taAseh lekha",
+        "englishLiteral": "**Not-** you-will-make to-you",
+        "englishNatural": "You will make **not** to you a carved-image"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לֹֽא־",
+        "transliteration": "lo-",
+        "englishLiteral": "Not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לֹֽא־** תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם",
+        "transliteration": "**lo-** tishtachaveh laHem",
+        "englishLiteral": "**Not-** you-will-bow_down to-them",
+        "englishNatural": "You will bow-down **not** to them and you will serve them"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לֹא־",
+        "transliteration": "lo-",
+        "englishLiteral": "Not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לֹא־** תַעֲנֶ֥ה בְרֵעֲךָ֖",
+        "transliteration": "**lo-** taaneh veReakha",
+        "englishLiteral": "**Not-** you-will-answer in-friend-your",
+        "englishNatural": "You will answer **not** as a witness of falsehood"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לֹֽא־",
+        "transliteration": "lo-",
+        "englishLiteral": "Not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּ֣ית רֵעֶ֑ךָ **לֹֽא־** תַחְמֹ֞ד אֵ֣שֶׁת",
+        "transliteration": "beit reekha **lo-** tachmod eshet",
+        "englishLiteral": "house-of friend-your. **Not-** you-will-desire woman-of",
+        "englishNatural": "your friend. You will desire **not** the woman of your friend,"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 23,
         "verse": 4
@@ -376,6 +476,31 @@
         "transliteration": "beGei tzalmavet **lo-** ira ra",
         "englishLiteral": "in-valley-of shadow_death, **not-** I-fear bad;",
         "englishNatural": "shadow-death, I fear **not** bad; that"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לֹא־",
+        "transliteration": "lo-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ כֵּ֤ן **לֹא־** נִירָ֗א בְּהָמִ֥יר",
+        "transliteration": "al- ken **lo-** nira beHamir",
+        "englishLiteral": "Over- so **not-** we-will-fear, in-changing",
+        "englishNatural": "Therefore so **not** will we fear, in the changing of"
       }
     },
     {

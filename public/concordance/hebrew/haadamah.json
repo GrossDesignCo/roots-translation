@@ -577,6 +577,31 @@
         "englishLiteral": "all families-of **the-earth.**",
         "englishNatural": "all the families of **the earth.**"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הָ֣אֲדָמָ֔ה",
+        "transliteration": "haAdamah",
+        "englishLiteral": "the-ground",
+        "englishNatural": "the ground",
+        "root": "adamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָמֶ֔יךָ עַ֚ל **הָ֣אֲדָמָ֔ה** אֲשֶׁר־ יְהוָ֥ה",
+        "transliteration": "yamekha al **haAdamah** asher- YHWH",
+        "englishLiteral": "days-your over **the-ground** which- He_Who_Is (YHWH)",
+        "englishNatural": "will be-long over **the ground** which He-Who-Is (YHWH)"
+      }
     }
   ]
 }

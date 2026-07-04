@@ -730,6 +730,56 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "שֵֽׁם־",
+        "transliteration": "shem-",
+        "englishLiteral": "name-of-",
+        "englishNatural": "the name of",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תִשָּׂ֛א אֶת־ **שֵֽׁם־** יְהוָ֥ה אֱלֹהֶ֖יךָ",
+        "transliteration": "tissa et- **shem-** YHWH Elohekha",
+        "englishLiteral": "you-will-lift_up ↳ **name-of-** He_Who_Is (YHWH) Gods-your",
+        "englishNatural": "not ↳ **the name of** He-Who-Is (YHWH) your God"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "שְׁמ֖וֹ",
+        "transliteration": "shemo",
+        "englishLiteral": "name-his",
+        "englishNatural": "his name",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִשָּׂ֥א אֶת־ **שְׁמ֖וֹ** לַשָּֽׁוְא׃",
+        "transliteration": "yissa et- **shemo** laShav",
+        "englishLiteral": "he-will-lift_up ↳ **name-his** to-the-emptiness.",
+        "englishNatural": "will lift-up ↳ **his name** to the emptiness."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 5
       },

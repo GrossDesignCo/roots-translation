@@ -903,6 +903,206 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לֹ֣א",
+        "transliteration": "lo",
+        "englishLiteral": "Not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לֹ֣א** יִהְיֶ֥ה־ לְךָ֛",
+        "transliteration": "**lo** yihyeh- lekha",
+        "englishLiteral": "**Not** he-will-be- to-you",
+        "englishNatural": "others will be **not** to you over"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לֹ֥א",
+        "transliteration": "lo",
+        "englishLiteral": "Not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לֹ֥א** תִשָּׂ֛א אֶת־",
+        "transliteration": "**lo** tissa et-",
+        "englishLiteral": "**Not** you-will-lift_up ↳",
+        "englishNatural": "You will lift-up **not** ↳ the name of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "לֹ֤א",
+        "transliteration": "lo",
+        "englishLiteral": "not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לַשָּׁ֑וְא כִּ֣י **לֹ֤א** יְנַקֶּה֙ יְהוָ֔ה",
+        "transliteration": "laShav ki **lo** yeNaqqeh YHWH",
+        "englishLiteral": "to-the-emptiness; that **not** he-will-be_clean He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH) will be-clean **not** ↳ which"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "לֹ֣א",
+        "transliteration": "lo",
+        "englishLiteral": "Not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לַיהוָ֣ה אֱלֹהֶ֑יךָ **לֹ֣א** תַעֲשֶׂ֣ה כָל־",
+        "transliteration": "laYHWH Elohekha **lo** taase khol-",
+        "englishLiteral": "to-He_Who_Is (YHWH) Gods-your. **Not** you-will-make any-",
+        "englishNatural": "your God. You will make **not** any work:"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 13
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לֹ֥א",
+        "transliteration": "lo",
+        "englishLiteral": "Not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לֹ֥א** תִּרְצָֽח׃",
+        "transliteration": "**lo** tirtsach",
+        "englishLiteral": "**Not** you-will-murder.",
+        "englishNatural": "You will murder **not.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לֹ֣א",
+        "transliteration": "lo",
+        "englishLiteral": "Not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לֹ֣א** תִּנְאָֽף׃",
+        "transliteration": "**lo** tinaf",
+        "englishLiteral": "**Not** you-will-commit_adultery.",
+        "englishNatural": "You will commit-adultery **not.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לֹ֣א",
+        "transliteration": "lo",
+        "englishLiteral": "Not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לֹ֣א** תִּגְנֹֽב׃",
+        "transliteration": "**lo** tignov",
+        "englishLiteral": "**Not** you-will-steal.",
+        "englishNatural": "You will steal **not.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לֹ֥א",
+        "transliteration": "lo",
+        "englishLiteral": "Not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לֹ֥א** תַחְמֹ֖ד בֵּ֣ית",
+        "transliteration": "**lo** tachmod beit",
+        "englishLiteral": "**Not** you-will-desire house-of",
+        "englishNatural": "You will desire **not** the house of your friend."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 7
       },

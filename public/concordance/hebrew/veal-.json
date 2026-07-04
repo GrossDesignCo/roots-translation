@@ -31,6 +31,31 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "וְעַל־",
+        "transliteration": "veAl-",
+        "englishLiteral": "and-over-",
+        "englishNatural": "and over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ שִׁלֵּשִׁ֥ים **וְעַל־** רִבֵּעִ֖ים לְשֹׂנְאָֽי׃",
+        "transliteration": "al- shilleshim **veAl-** ribbeIm leSoneai",
+        "englishLiteral": "over- third_ones **and-over-** fourth_ones to-hating-me.",
+        "englishNatural": "over third-ones **and over** fourth-ones to ones hating me."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 7
       },

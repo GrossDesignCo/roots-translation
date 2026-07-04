@@ -155,6 +155,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "שְׁמ֖וֹ",
+        "transliteration": "shemo",
+        "englishLiteral": "name-his",
+        "englishNatural": "his name",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִשָּׂ֥א אֶת־ **שְׁמ֖וֹ** לַשָּֽׁוְא׃",
+        "transliteration": "yissa et- **shemo** laShav",
+        "englishLiteral": "he-will-lift_up ↳ **name-his** to-the-emptiness.",
+        "englishNatural": "will lift-up ↳ **his name** to the emptiness."
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 23,
         "verse": 3

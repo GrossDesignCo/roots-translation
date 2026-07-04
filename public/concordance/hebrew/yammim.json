@@ -1,0 +1,32 @@
+{
+  "key": "yammim",
+  "language": "hebrew",
+  "root": "yam",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יַמִּֽים׃",
+        "transliteration": "yammim",
+        "englishLiteral": "seas",
+        "englishNatural": "seas",
+        "root": "yam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָרִ֗ים בְּלֵ֣ב **יַמִּֽים׃**",
+        "transliteration": "harim beLev **yammim**",
+        "englishLiteral": "mountains in-heart-of **seas.**",
+        "englishNatural": "mountains in the heart of **seas.**"
+      }
+    }
+  ]
+}

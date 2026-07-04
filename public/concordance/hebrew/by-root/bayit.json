@@ -204,6 +204,56 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "מִבֵּ֥ית",
+        "transliteration": "miBeit",
+        "englishLiteral": "from-house-of",
+        "englishNatural": "from the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאֶ֥רֶץ מִצְרַ֖יִם **מִבֵּ֥ית** עֲבָדִֽים׃",
+        "transliteration": "meEretz Mitsrayim **miBeit** avadim",
+        "englishLiteral": "from-land-of Double_Narrows (Egypt), **from-house-of** servants.",
+        "englishNatural": "from the land of Double-Narrows (Egypt), **from the house of** servants."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בֵּ֣ית",
+        "transliteration": "beit",
+        "englishLiteral": "house-of",
+        "englishNatural": "the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֥א תַחְמֹ֖ד **בֵּ֣ית** רֵעֶ֑ךָ לֹֽא־",
+        "transliteration": "lo tachmod **beit** reekha lo-",
+        "englishLiteral": "Not you-will-desire **house-of** friend-your. Not-",
+        "englishNatural": "You will desire not **the house of** your friend. You will desire"
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 1

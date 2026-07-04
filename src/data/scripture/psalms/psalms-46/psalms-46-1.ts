@@ -1,0 +1,141 @@
+import { Verse } from '@/types';
+
+export const psalms_46_1: Verse = {
+  meta: {
+    book: 'Psalms',
+    chapter: 46,
+    verse: 1,
+  },
+  words: [
+    {
+      hebrew: 'אֱלֹהִ֣ים',
+      transliteration: 'Elohim',
+      englishLiteral: 'Gods',
+      englishNatural: 'God',
+      root: 'eloah',
+      suffixes: ['im'],
+      order: 1,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'plural',
+      },
+    },
+    {
+      hebrew: 'לָ֭נוּ',
+      transliteration: 'lanu',
+      englishLiteral: 'to-us',
+      englishNatural: 'to us',
+      root: 'lamed',
+      suffixes: ['nu'],
+      order: 2,
+      morphology: {
+        type: 'preposition',
+        gender: 'common',
+        number: 'plural',
+      },
+    },
+    {
+      hebrew: 'מַחֲסֶ֣ה',
+      transliteration: 'machaseh',
+      englishLiteral: 'refuge',
+      englishNatural: 'a refuge',
+      root: 'machaseh',
+      order: 3,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'singular',
+      },
+    },
+    {
+      hebrew: 'וָעֹ֑ז',
+      transliteration: 'vaOz',
+      englishLiteral: 'and-strength',
+      englishNatural: 'and strength',
+      root: 'oz',
+      prefixes: ['va'],
+      order: 4,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'singular',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'עֶזְרָ֥ה',
+      transliteration: 'ezrah',
+      englishLiteral: 'help',
+      englishNatural: 'a help',
+      root: 'ezrah',
+      order: 5,
+      morphology: {
+        type: 'noun',
+        gender: 'feminine',
+        number: 'singular',
+      },
+    },
+    {
+      hebrew: 'בְ֝צָר֗וֹת',
+      transliteration: 'beTsarot',
+      englishLiteral: 'in-distresses',
+      englishNatural: 'in distresses',
+      root: 'tsarah',
+      prefixes: ['be'],
+      suffixes: ['ot'],
+      order: 6,
+      morphology: {
+        type: 'noun',
+        gender: 'feminine',
+        number: 'plural',
+      },
+    },
+    {
+      hebrew: 'נִמְצָ֥א',
+      transliteration: 'nimtsa',
+      englishLiteral: 'has-been-found',
+      englishNatural: 'found',
+      root: 'matsa',
+      order: 7,
+      morphology: {
+        type: 'verb',
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'niphal',
+      },
+    },
+    {
+      hebrew: 'מְאֹֽד׃',
+      transliteration: 'meod',
+      englishLiteral: 'very',
+      englishNatural: 'very',
+      root: 'meod',
+      order: 8,
+      morphology: {
+        type: 'adverb',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew: 'אֱלֹהִ֣ים לָ֭נוּ מַחֲסֶ֣ה וָעֹ֑ז עֶזְרָ֥ה בְ֝צָר֗וֹת נִמְצָ֥א מְאֹֽד׃',
+    transliteration: 'Elohim lanu machaseh vaOz ezrah beTsarot nimtsa meod',
+    englishLiteral:
+      'Gods to-us refuge and-strength, help in-distresses has-been-found very.',
+    englishNatural:
+      'God to us a refuge and strength, a help in distresses found very.',
+    kjv: 'God is our refuge and strength, a very present help in trouble.',
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+},
+};

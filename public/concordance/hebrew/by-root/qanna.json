@@ -1,0 +1,31 @@
+{
+  "root": "qanna",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "קַנָּ֔א",
+        "transliteration": "qanna",
+        "englishLiteral": "jealous",
+        "englishNatural": "jealous",
+        "root": "qanna",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֶ֙יךָ֙ אֵ֣ל **קַנָּ֔א** פֹּ֠קֵד עֲוֺ֨ן",
+        "transliteration": "Elohekha El **qanna** poqed avon",
+        "englishLiteral": "Gods-your, God **jealous;** visiting iniquity-of",
+        "englishNatural": "your God, a God **jealous;** visiting the iniquity of"
+      }
+    }
+  ]
+}

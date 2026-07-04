@@ -1,0 +1,34 @@
+{
+  "key": "yehemu",
+  "language": "hebrew",
+  "root": "hamah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "יֶהֱמ֣וּ",
+        "transliteration": "yehemu",
+        "englishLiteral": "they-will-roar",
+        "englishNatural": "roar",
+        "root": "hamah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**יֶהֱמ֣וּ** יֶחְמְר֣וּ מֵימָ֑יו",
+        "transliteration": "**yehemu** yechmeru meymav",
+        "englishLiteral": "**they-will-roar** they-will-foam waters-his;",
+        "englishNatural": "Its waters **roar** they foam; mountains"
+      }
+    }
+  ]
+}

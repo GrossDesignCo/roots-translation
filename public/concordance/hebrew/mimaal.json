@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "מִמַּ֔עַל",
+        "transliteration": "miMaal",
+        "englishLiteral": "from-above",
+        "englishNatural": "from above",
+        "root": "maal",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁ֤ר בַּשָּׁמַ֙יִם֙ **מִמַּ֔עַל** וַאֲשֶׁ֥ר בָּאָ֖רֶץ",
+        "transliteration": "asher baShamayim **miMaal** vaAsher baAretz",
+        "englishLiteral": "which in-the-skies **from-above,** and-which in-the-land",
+        "englishNatural": "which is in the skies **from above,** and which is in the land"
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 8,
         "verse": 28

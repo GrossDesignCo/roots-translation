@@ -1,0 +1,57 @@
+{
+  "key": "reekha",
+  "language": "hebrew",
+  "root": "rea",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "רֵעֶ֑ךָ",
+        "transliteration": "reekha",
+        "englishLiteral": "friend-your",
+        "englishNatural": "your friend",
+        "root": "rea",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תַחְמֹ֖ד בֵּ֣ית **רֵעֶ֑ךָ** לֹֽא־ תַחְמֹ֞ד",
+        "transliteration": "tachmod beit **reekha** lo- tachmod",
+        "englishLiteral": "you-will-desire house-of **friend-your.** Not- you-will-desire",
+        "englishNatural": "not the house of **your friend.** You will desire not"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "רֵעֶ֗ךָ",
+        "transliteration": "reekha",
+        "englishLiteral": "friend-your",
+        "englishNatural": "your friend",
+        "root": "rea",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תַחְמֹ֞ד אֵ֣שֶׁת **רֵעֶ֗ךָ** וְעַבְדּ֤וֹ וַאֲמָתוֹ֙",
+        "transliteration": "tachmod eshet **reekha** veAvdo vaAmato",
+        "englishLiteral": "you-will-desire woman-of **friend-your,** and-servant-his and-maidservant-his",
+        "englishNatural": "not the woman of **your friend,** and his servant and his maidservant"
+      }
+    }
+  ]
+}

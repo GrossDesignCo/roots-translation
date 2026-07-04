@@ -205,6 +205,56 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לְךָ֛",
+        "transliteration": "lekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֣א יִהְיֶ֥ה־ **לְךָ֛** אֱלֹהִ֥ים אֲחֵרִ֖ים",
+        "transliteration": "lo yihyeh- **lekha** Elohim acherim",
+        "englishLiteral": "Not he-will-be- **to-you** gods others",
+        "englishNatural": "will be not **to you** over my faces."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לְךָ֥",
+        "transliteration": "lekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לֹֽא־ תַעֲשֶׂ֨ה **לְךָ֥** פֶ֙סֶל֙ וְכָל־",
+        "transliteration": "lo- taAseh **lekha** fesel veKhol-",
+        "englishLiteral": "Not- you-will-make **to-you** carved_image and-any-",
+        "englishNatural": "You will make not **to you** a carved-image and any"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 8

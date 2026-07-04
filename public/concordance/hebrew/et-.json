@@ -3349,6 +3349,163 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "לֹ֥א תִשָּׂ֛א **אֶת־** שֵֽׁם־ יְהוָ֥ה",
+        "transliteration": "lo tissa **et-** shem- YHWH",
+        "englishLiteral": "Not you-will-lift_up **↳** name-of- He_Who_Is (YHWH)",
+        "englishNatural": "You will lift-up not **↳** the name of He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ יִשָּׂ֥א **אֶת־** שְׁמ֖וֹ לַשָּֽׁוְא׃",
+        "transliteration": "asher- yissa **et-** shemo laShav",
+        "englishLiteral": "which- he-will-lift_up **↳** name-his to-the-emptiness.",
+        "englishNatural": "which will lift-up **↳** his name to the emptiness."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "זָכ֛וֹר **אֶת־** י֥וֹם הַשַּׁבָּ֖ת",
+        "transliteration": "zakhor **et-** yom haShabbat",
+        "englishLiteral": "Remember **↳** day-of the-Sabbath,",
+        "englishNatural": "Remember **↳** the day of the Sabbath,"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "עָשָׂ֨ה יְהוָ֜ה **אֶת־** הַשָּׁמַ֣יִם וְאֶת־",
+        "transliteration": "asah YHWH **et-** haShamayim veEt-",
+        "englishLiteral": "has-made He_Who_Is (YHWH) **↳** the-skies and-↳",
+        "englishNatural": "has made He-Who-Is (YHWH) **↳** the skies and"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הָאָ֗רֶץ **אֶת־** הַיָּם֙ וְאֶת־",
+        "transliteration": "veEt- haAretz **et-** haYam veEt-",
+        "englishLiteral": "and-↳ the-land, **↳** the-sea and-↳",
+        "englishNatural": "and the land, **↳** the sea and"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 22,
+      "sourceOrder": 22,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "בֵּרַ֧ךְ יְהוָ֛ה **אֶת־** י֥וֹם הַשַּׁבָּ֖ת",
+        "transliteration": "berakh YHWH **et-** yom haShabbat",
+        "englishLiteral": "has-blessed He_Who_Is (YHWH) **↳** day-of the-Sabbath",
+        "englishNatural": "has blessed He-Who-Is (YHWH) **↳** the day of the Sabbath"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "כַּבֵּ֥ד **אֶת־** אָבִ֖יךָ וְאֶת־",
+        "transliteration": "kabbed **et-** avikha veEt-",
+        "englishLiteral": "Be_heavy-upon **↳** father-your and-↳",
+        "englishNatural": "Be-heavy upon **↳** your father and"
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 6

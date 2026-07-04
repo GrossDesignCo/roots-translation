@@ -1,0 +1,57 @@
+{
+  "key": "lashav",
+  "language": "hebrew",
+  "root": "shav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לַשָּׁ֑וְא",
+        "transliteration": "laShav",
+        "englishLiteral": "to-the-emptiness",
+        "englishNatural": "to the emptiness",
+        "root": "shav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֥ה אֱלֹהֶ֖יךָ **לַשָּׁ֑וְא** כִּ֣י לֹ֤א",
+        "transliteration": "YHWH Elohekha **laShav** ki lo",
+        "englishLiteral": "He_Who_Is (YHWH) Gods-your **to-the-emptiness;** that not",
+        "englishNatural": "He-Who-Is (YHWH) your God **to the emptiness;** that He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "לַשָּֽׁוְא׃",
+        "transliteration": "laShav",
+        "englishLiteral": "to-the-emptiness",
+        "englishNatural": "to the emptiness",
+        "root": "shav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ שְׁמ֖וֹ **לַשָּֽׁוְא׃**",
+        "transliteration": "et- shemo **laShav**",
+        "englishLiteral": "↳ name-his **to-the-emptiness.**",
+        "englishNatural": "↳ his name **to the emptiness.**"
+      }
+    }
+  ]
+}

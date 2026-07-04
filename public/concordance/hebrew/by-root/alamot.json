@@ -1,0 +1,31 @@
+{
+  "root": "alamot",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 0
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "עֲלָמ֥וֹת",
+        "transliteration": "alamot",
+        "englishLiteral": "maidens",
+        "englishNatural": "maidens",
+        "root": "alamot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קֹ֑רַח עַל־ **עֲלָמ֥וֹת** שִֽׁיר׃",
+        "transliteration": "Qorach al- **alamot** shir",
+        "englishLiteral": "Korah. over- **maidens.** A-song.",
+        "englishNatural": "Korah. Over **maidens.** A song."
+      }
+    }
+  ]
+}

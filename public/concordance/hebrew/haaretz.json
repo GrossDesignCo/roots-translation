@@ -1430,6 +1430,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הָאָ֗רֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁמַ֣יִם וְאֶת־ **הָאָ֗רֶץ** אֶת־ הַיָּם֙",
+        "transliteration": "haShamayim veEt- **haAretz** et- haYam",
+        "englishLiteral": "the-skies and-↳ **the-land,** ↳ the-sea",
+        "englishNatural": "the skies and **the land,** ↳ the sea"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 1

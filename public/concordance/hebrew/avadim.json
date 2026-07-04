@@ -1,0 +1,32 @@
+{
+  "key": "avadim",
+  "language": "hebrew",
+  "root": "eved",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "עֲבָדִֽים׃",
+        "transliteration": "avadim",
+        "englishLiteral": "servants",
+        "englishNatural": "servants",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִצְרַ֖יִם מִבֵּ֥ית **עֲבָדִֽים׃**",
+        "transliteration": "Mitsrayim miBeit **avadim**",
+        "englishLiteral": "Double_Narrows (Egypt), from-house-of **servants.**",
+        "englishNatural": "Double-Narrows (Egypt), from the house of **servants.**"
+      }
+    }
+  ]
+}

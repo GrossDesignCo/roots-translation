@@ -1,0 +1,34 @@
+{
+  "key": "taavdem",
+  "language": "hebrew",
+  "root": "avad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "תָעָבְדֵ֑ם",
+        "transliteration": "taAvdem",
+        "englishLiteral": "you-will-serve-them",
+        "englishNatural": "and you will serve them",
+        "root": "avad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָהֶ֖ם וְלֹ֣א **תָעָבְדֵ֑ם** כִּ֣י אָנֹכִ֞י",
+        "transliteration": "laHem veLo **taAvdem** ki anokhi",
+        "englishLiteral": "to-them and-not **you-will-serve-them.** That I",
+        "englishNatural": "not to them **and you will serve them** not. That"
+      }
+    }
+  ]
+}

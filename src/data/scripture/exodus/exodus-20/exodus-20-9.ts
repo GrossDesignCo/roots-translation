@@ -1,0 +1,113 @@
+import { Verse } from '@/types';
+
+export const exodus_20_9: Verse = {
+  meta: {
+    book: 'Exodus',
+    chapter: 20,
+    verse: 9,
+  },
+  words: [
+    {
+      hebrew: 'שֵׁ֤שֶׁת',
+      transliteration: 'sheshet',
+      englishLiteral: 'Six-of',
+      englishNatural: 'Six',
+      root: 'shesh',
+      order: 1,
+      morphology: {
+        type: 'numeral',
+        state: 'construct',
+      },
+    },
+    {
+      hebrew: 'יָמִים֙',
+      transliteration: 'yamim',
+      englishLiteral: 'days',
+      englishNatural: 'days',
+      root: 'yom',
+      suffixes: ['im'],
+      order: 2,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'plural',
+      },
+    },
+    {
+      hebrew: 'תַּעֲבֹ֔ד',
+      transliteration: 'taAvod',
+      englishLiteral: 'you-will-serve',
+      englishNatural: 'you will serve',
+      root: 'avad',
+      prefixes: ['ti'],
+      order: 3,
+      morphology: {
+        type: 'verb',
+        number: 'singular',
+        person: '2nd',
+        tense: 'imperfect',
+        stem: 'qal',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְעָשִׂ֖יתָ',
+      transliteration: 'veAsita',
+      englishLiteral: 'and-you-have-made',
+      englishNatural: 'and you will make',
+      root: 'asah',
+      prefixes: ['ve'],
+      order: 4,
+      morphology: {
+        type: 'verb',
+        gender: 'masculine',
+        number: 'singular',
+        person: '2nd',
+        tense: 'perfect',
+        stem: 'qal',
+      },
+    },
+    {
+      hebrew: 'כָּל־',
+      transliteration: 'kol-',
+      englishLiteral: 'all-',
+      englishNatural: 'all',
+      root: 'kol',
+      order: 5,
+      morphology: {
+        type: 'adjective',
+      },
+    },
+    {
+      hebrew: 'מְלַאכְתֶּֽךָ׃',
+      transliteration: 'melakhtekha',
+      englishLiteral: 'work-your',
+      englishNatural: 'your work',
+      root: 'melakhah',
+      suffixes: ['ekha'],
+      order: 6,
+      morphology: {
+        type: 'noun',
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew: 'שֵׁ֤שֶׁת יָמִים֙ תַּעֲבֹ֔ד וְעָשִׂ֖יתָ כָּל־מְלַאכְתֶּֽךָ׃',
+    transliteration: 'sheshet yamim taAvod veAsita kol-melakhtekha',
+    englishLiteral: 'Six-of days you-will-serve, and-you-have-made all- work-your.',
+    englishNatural: 'Six days you will serve, and you will make all your work.',
+    kjv: 'Six days shalt thou labour, and do all thy work:',
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+},
+};

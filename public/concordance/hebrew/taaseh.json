@@ -83,6 +83,33 @@
         "englishLiteral": "illunination **you-shall-make** to-the-ark, and-to-",
         "englishNatural": "A illunination **you shall make** for the ark, and to"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תַעֲשֶׂ֨ה",
+        "transliteration": "taAseh",
+        "englishLiteral": "you-will-make",
+        "englishNatural": "You will make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹֽא־ **תַעֲשֶׂ֨ה** לְךָ֥ פֶ֙סֶל֙",
+        "transliteration": "lo- **taAseh** lekha fesel",
+        "englishLiteral": "Not- **you-will-make** to-you carved_image",
+        "englishNatural": "**You will make** not to you"
+      }
     }
   ]
 }

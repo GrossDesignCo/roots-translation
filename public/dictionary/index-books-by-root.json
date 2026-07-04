@@ -37,6 +37,7 @@
     "exodus",
     "ezekiel",
     "genesis",
+    "isaiah",
     "job",
     "jonah",
     "numbers",
@@ -119,6 +120,7 @@
     "psalms"
   ],
   "shesh": [
+    "exodus",
     "genesis",
     "isaiah"
   ],
@@ -143,6 +145,7 @@
     "genesis"
   ],
   "shevii": [
+    "exodus",
     "genesis"
   ],
   "arum": [
@@ -293,6 +296,7 @@
     "exodus",
     "ezekiel",
     "genesis",
+    "isaiah",
     "job",
     "jonah",
     "proverbs",
@@ -500,6 +504,7 @@
   ],
   "yisrael": [
     "exodus",
+    "isaiah",
     "numbers",
     "proverbs",
     "psalms"
@@ -556,6 +561,7 @@
     "numbers"
   ],
   "maal": [
+    "exodus",
     "isaiah",
     "proverbs"
   ],
@@ -741,6 +747,7 @@
   ],
   "yam": [
     "daniel",
+    "exodus",
     "genesis",
     "jonah",
     "proverbs",
@@ -859,6 +866,7 @@
     "genesis"
   ],
   "barakh": [
+    "exodus",
     "genesis",
     "job"
   ],
@@ -933,7 +941,8 @@
   ],
   "meod": [
     "exodus",
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "sherets": [
     "genesis"
@@ -975,10 +984,12 @@
     "psalms"
   ],
   "qadash": [
+    "exodus",
     "genesis",
     "isaiah"
   ],
   "melakhah": [
+    "exodus",
     "genesis",
     "jonah"
   ],
@@ -1048,6 +1059,7 @@
     "ruth"
   ],
   "chamad": [
+    "exodus",
     "genesis"
   ],
   "mareh": [
@@ -1075,6 +1087,7 @@
     "genesis"
   ],
   "nuach": [
+    "exodus",
     "genesis",
     "psalms",
     "ruth"
@@ -1225,6 +1238,7 @@
     "genesis"
   ],
   "em": [
+    "exodus",
     "genesis",
     "psalms",
     "ruth"
@@ -1390,7 +1404,8 @@
   ],
   "avah": [
     "exodus",
-    "genesis"
+    "genesis",
+    "isaiah"
   ],
   "sakhakh": [
     "job"
@@ -1918,7 +1933,8 @@
   "lamed": [
     "exodus",
     "ezekiel",
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "shlomo": [
     "proverbs"
@@ -2052,6 +2068,7 @@
     "proverbs"
   ],
   "kavad": [
+    "exodus",
     "proverbs"
   ],
   "har": [
@@ -2191,6 +2208,7 @@
     "psalms"
   ],
   "acher": [
+    "exodus",
     "genesis"
   ],
   "od": [
@@ -2482,7 +2500,8 @@
   ],
   "koh": [
     "exodus",
-    "genesis"
+    "genesis",
+    "isaiah"
   ],
   "avot": [
     "exodus"
@@ -2669,6 +2688,7 @@
     "jonah"
   ],
   "attah": [
+    "exodus",
     "genesis",
     "jonah"
   ],
@@ -2855,6 +2875,7 @@
     "jonah"
   ],
   "shav": [
+    "exodus",
     "jonah"
   ],
   "todah": [
@@ -2902,7 +2923,8 @@
     "genesis"
   ],
   "matsa": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "chen": [
     "exodus",
@@ -2972,6 +2994,7 @@
     "ezekiel"
   ],
   "shor": [
+    "exodus",
     "ezekiel"
   ],
   "nesher": [
@@ -3288,7 +3311,8 @@
   ],
   "adonai": [
     "daniel",
-    "genesis"
+    "genesis",
+    "isaiah"
   ],
   "ariri": [
     "genesis"
@@ -3367,6 +3391,7 @@
     "genesis"
   ],
   "ger": [
+    "exodus",
     "genesis"
   ],
   "hennah": [
@@ -3822,6 +3847,7 @@
     "psalms"
   ],
   "yasha": [
+    "isaiah",
     "psalms"
   ],
   "lechi": [
@@ -3841,6 +3867,111 @@
   ],
   "charavah": [
     "genesis"
+  ],
+  "qadosh": [
+    "isaiah"
+  ],
+  "shuvah": [
+    "isaiah"
+  ],
+  "nachat": [
+    "isaiah"
+  ],
+  "shaqat": [
+    "isaiah"
+  ],
+  "bitchah": [
+    "isaiah"
+  ],
+  "gevurah": [
+    "isaiah"
+  ],
+  "korach": [
+    "psalms"
+  ],
+  "alamot": [
+    "psalms"
+  ],
+  "machaseh": [
+    "psalms"
+  ],
+  "oz": [
+    "psalms"
+  ],
+  "ezrah": [
+    "psalms"
+  ],
+  "tsarah": [
+    "psalms"
+  ],
+  "mur": [
+    "psalms"
+  ],
+  "mut_totter": [
+    "psalms"
+  ],
+  "hamah": [
+    "psalms"
+  ],
+  "chamar_foam": [
+    "psalms"
+  ],
+  "raash": [
+    "psalms"
+  ],
+  "gaavah": [
+    "psalms"
+  ],
+  "ratsach": [
+    "exodus"
+  ],
+  "naaf": [
+    "exodus"
+  ],
+  "ganav": [
+    "exodus"
+  ],
+  "ed_witness": [
+    "exodus"
+  ],
+  "sheqer": [
+    "exodus"
+  ],
+  "amah_maid": [
+    "exodus"
+  ],
+  "shabbat": [
+    "exodus"
+  ],
+  "arakh_long": [
+    "exodus"
+  ],
+  "naqah": [
+    "exodus"
+  ],
+  "pesel": [
+    "exodus"
+  ],
+  "temunah": [
+    "exodus"
+  ],
+  "qanna": [
+    "exodus"
+  ],
+  "shillesh": [
+    "exodus"
+  ],
+  "ribbea": [
+    "exodus"
+  ],
+  "sane": [
+    "exodus"
+  ],
+  "ahav": [
+    "exodus"
+  ],
+  "mitsvah": [
+    "exodus"
   ],
   "en": [
     "john",

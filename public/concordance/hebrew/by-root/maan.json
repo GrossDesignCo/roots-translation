@@ -79,6 +79,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "לְמַ֙עַן֙",
+        "transliteration": "leMaan",
+        "englishLiteral": "to-sake",
+        "englishNatural": "for the sake",
+        "root": "maan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ אִמֶּ֑ךָ **לְמַ֙עַן֙** יַאֲרִכ֣וּן יָמֶ֔יךָ",
+        "transliteration": "veEt- immekha **leMaan** yaarikhun yamekha",
+        "englishLiteral": "and-↳ mother-your; **to-sake** they-will-be_long days-your",
+        "englishNatural": "and your mother; **for the sake** your days will be-long"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 2

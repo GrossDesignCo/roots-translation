@@ -1,0 +1,32 @@
+{
+  "key": "bamayim",
+  "language": "hebrew",
+  "root": "mayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "בַּמַּ֖יִם",
+        "transliteration": "baMayim",
+        "englishLiteral": "in-the-waters",
+        "englishNatural": "in the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִתָּ֑חַת וַאֲשֶׁ֥ר **בַּמַּ֖יִם** מִתַּ֥חַת לָאָֽרֶץ׃",
+        "transliteration": "miTachat vaAsher **baMayim** miTachat laAretz",
+        "englishLiteral": "from-beneath, and-which **in-the-waters** from-beneath to-the-land.",
+        "englishNatural": "from beneath, and which is **in the waters** from beneath to the land."
+      }
+    }
+  ]
+}

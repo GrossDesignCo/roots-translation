@@ -704,6 +704,156 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לְךָ֛",
+        "transliteration": "lekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֣א יִהְיֶ֥ה־ **לְךָ֛** אֱלֹהִ֥ים אֲחֵרִ֖ים",
+        "transliteration": "lo yihyeh- **lekha** Elohim acherim",
+        "englishLiteral": "Not he-will-be- **to-you** gods others",
+        "englishNatural": "will be not **to you** over my faces."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לְךָ֥",
+        "transliteration": "lekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לֹֽא־ תַעֲשֶׂ֨ה **לְךָ֥** פֶ֙סֶל֙ וְכָל־",
+        "transliteration": "lo- taAseh **lekha** fesel veKhol-",
+        "englishLiteral": "Not- you-will-make **to-you** carved_image and-any-",
+        "englishNatural": "You will make not **to you** a carved-image and any"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לָהֶ֖ם",
+        "transliteration": "laHem",
+        "englishLiteral": "to-them",
+        "englishNatural": "to them",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לֹֽא־ תִשְׁתַּחֲוֶ֥ה **לָהֶ֖ם** וְלֹ֣א תָעָבְדֵ֑ם",
+        "transliteration": "lo- tishtachaveh **laHem** veLo taAvdem",
+        "englishLiteral": "Not- you-will-bow_down **to-them** and-not you-will-serve-them.",
+        "englishNatural": "You will bow-down not **to them** and you will serve them not."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "בָּ֔ם",
+        "transliteration": "bam",
+        "englishLiteral": "in-them",
+        "englishNatural": "in them",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ אֲשֶׁר־ **בָּ֔ם** וַיָּ֖נַח בַּיּ֣וֹם",
+        "transliteration": "kol- asher- **bam** vaYanach baYom",
+        "englishLiteral": "all- which- **in-them;** and-he-will-rest in-the-day",
+        "englishNatural": "all which is **in them;** and he rested in the day"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "לָֽךְ׃",
+        "transliteration": "lakh",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֶ֖יךָ נֹתֵ֥ן **לָֽךְ׃**",
+        "transliteration": "Elohekha noten **lakh**",
+        "englishLiteral": "Gods-your giving **to-you.**",
+        "englishNatural": "your God is giving **to you.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "לָ֭נוּ",
+        "transliteration": "lanu",
+        "englishLiteral": "to-us",
+        "englishNatural": "to us",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֣ים **לָ֭נוּ** מַחֲסֶ֣ה וָעֹ֑ז",
+        "transliteration": "Elohim **lanu** machaseh vaOz",
+        "englishLiteral": "Gods **to-us** refuge and-strength,",
+        "englishNatural": "God **to us** a refuge and strength,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 4

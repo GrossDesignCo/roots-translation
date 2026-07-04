@@ -27,6 +27,56 @@
         "englishLiteral": "only- Rest (Noah) **and-which** with-him in-the-ark.",
         "englishNatural": "only Rest (Noah) **and which** with him in the ark."
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וַאֲשֶׁ֥ר",
+        "transliteration": "vaAsher",
+        "englishLiteral": "and-which",
+        "englishNatural": "and which is",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "בַּשָּׁמַ֙יִם֙ מִמַּ֔עַל **וַאֲשֶׁ֥ר** בָּאָ֖רֶץ מִתָּ֑חַת",
+        "transliteration": "baShamayim miMaal **vaAsher** baAretz miTachat",
+        "englishLiteral": "in-the-skies from-above, **and-which** in-the-land from-beneath,",
+        "englishNatural": "in the skies from above, **and which is** in the land from beneath,"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "וַאֲשֶׁ֥ר",
+        "transliteration": "vaAsher",
+        "englishLiteral": "and-which",
+        "englishNatural": "and which is",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "בָּאָ֖רֶץ מִתָּ֑חַת **וַאֲשֶׁ֥ר** בַּמַּ֖יִם מִתַּ֥חַת",
+        "transliteration": "baAretz miTachat **vaAsher** baMayim miTachat",
+        "englishLiteral": "in-the-land from-beneath, **and-which** in-the-waters from-beneath",
+        "englishNatural": "in the land from beneath, **and which is** in the waters from beneath"
+      }
     }
   ]
 }

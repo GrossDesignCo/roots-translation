@@ -76,6 +76,31 @@
         "englishLiteral": "people-your blessing-your. **Selah.**",
         "englishNatural": "your people, your blessing. **Selah.**"
       }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "סֶֽלָה",
+        "transliteration": "selah",
+        "englishLiteral": "Selah",
+        "englishNatural": "Selah",
+        "root": "selah",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "הָרִ֗ים בְּגַאֲוָת֥וֹ **סֶֽלָה**",
+        "transliteration": "harim beGaavato **selah**",
+        "englishLiteral": "mountains in-swelling-his. **Selah.**",
+        "englishNatural": "quake in its swelling. **Selah.**"
+      }
     }
   ]
 }

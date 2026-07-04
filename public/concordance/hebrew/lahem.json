@@ -305,6 +305,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לָהֶ֖ם",
+        "transliteration": "laHem",
+        "englishLiteral": "to-them",
+        "englishNatural": "to them",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לֹֽא־ תִשְׁתַּחֲוֶ֥ה **לָהֶ֖ם** וְלֹ֣א תָעָבְדֵ֑ם",
+        "transliteration": "lo- tishtachaveh **laHem** veLo taAvdem",
+        "englishLiteral": "Not- you-will-bow_down **to-them** and-not you-will-serve-them.",
+        "englishNatural": "You will bow-down not **to them** and you will serve them not."
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 4

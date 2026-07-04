@@ -1,0 +1,31 @@
+{
+  "root": "korach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 0
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "קֹ֑רַח",
+        "transliteration": "Qorach",
+        "englishLiteral": "Korah",
+        "englishNatural": "Korah",
+        "root": "korach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַמְנַצֵּ֥חַ לִבְנֵי־ **קֹ֑רַח** עַל־ עֲלָמ֥וֹת",
+        "transliteration": "laMnatseach liVney- **Qorach** al- alamot",
+        "englishLiteral": "to-the-one-who-endures to-sons-of- **Korah.** over- maidens.",
+        "englishNatural": "To the one-who-endures of the sons of **Korah.** Over maidens."
+      }
+    }
+  ]
+}

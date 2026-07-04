@@ -1,0 +1,32 @@
+{
+  "key": "avdekha",
+  "language": "hebrew",
+  "root": "eved",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "עַבְדְּךָ֣",
+        "transliteration": "avdekha",
+        "englishLiteral": "servant-your",
+        "englishNatural": "your servant",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבִנְךָ֣ וּבִתְּךָ֣ **עַבְדְּךָ֣** וַאֲמָתְךָ֣ וּבְהֶמְתֶּ֗ךָ",
+        "transliteration": "uVinkha uVittekha **avdekha** vaAmatkha uVehemtekha",
+        "englishLiteral": "and-son-your, and-daughter-your, **servant-your,** and-maidservant-your, and-beast-your,",
+        "englishNatural": "and your son, and your daughter, **your servant,** and your maidservant, and your beast,"
+      }
+    }
+  ]
+}

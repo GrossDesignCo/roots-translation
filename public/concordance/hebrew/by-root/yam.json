@@ -129,6 +129,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הַיָּם֙",
+        "transliteration": "haYam",
+        "englishLiteral": "the-sea",
+        "englishNatural": "the sea",
+        "root": "yam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָ֗רֶץ אֶת־ **הַיָּם֙** וְאֶת־ כָּל־",
+        "transliteration": "haAretz et- **haYam** veEt- kol-",
+        "englishLiteral": "the-land, ↳ **the-sea** and-↳ all-",
+        "englishNatural": "the land, ↳ **the sea** and all"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 8
@@ -175,6 +200,31 @@
         "transliteration": "over orchot **yamim**",
         "englishLiteral": "passing-through paths-of **seas.**",
         "englishNatural": "passing-through the paths of **seas.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יַמִּֽים׃",
+        "transliteration": "yammim",
+        "englishLiteral": "seas",
+        "englishNatural": "seas",
+        "root": "yam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָרִ֗ים בְּלֵ֣ב **יַמִּֽים׃**",
+        "transliteration": "harim beLev **yammim**",
+        "englishLiteral": "mountains in-heart-of **seas.**",
+        "englishNatural": "mountains in the heart of **seas.**"
       }
     },
     {

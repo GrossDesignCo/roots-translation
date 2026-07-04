@@ -5,6 +5,131 @@
   "occurrences": [
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֱלֹהֶ֑יךָ",
+        "transliteration": "Elohekha",
+        "englishLiteral": "Gods-your",
+        "englishNatural": "your God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָנֹכִ֖י יְהוָ֣ה **אֱלֹהֶ֑יךָ** אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ",
+        "transliteration": "anokhi YHWH **Elohekha** asher hotsetikha",
+        "englishLiteral": "I He_Who_Is (YHWH) **Gods-your,** which I-have-brought_out-you",
+        "englishNatural": "I, He-Who-Is (YHWH) **your God,** which I have brought-out you"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אֱלֹהֶ֙יךָ֙",
+        "transliteration": "Elohekha",
+        "englishLiteral": "Gods-your",
+        "englishNatural": "your God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָנֹכִ֞י יְהוָ֤ה **אֱלֹהֶ֙יךָ֙** אֵ֣ל קַנָּ֔א",
+        "transliteration": "anokhi YHWH **Elohekha** El qanna",
+        "englishLiteral": "I He_Who_Is (YHWH) **Gods-your,** God jealous;",
+        "englishNatural": "I He-Who-Is (YHWH) **your God,** a God jealous;"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "אֱלֹהֶ֖יךָ",
+        "transliteration": "Elohekha",
+        "englishLiteral": "Gods-your",
+        "englishNatural": "your God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵֽׁם־ יְהוָ֥ה **אֱלֹהֶ֖יךָ** לַשָּׁ֑וְא כִּ֣י",
+        "transliteration": "shem- YHWH **Elohekha** laShav ki",
+        "englishLiteral": "name-of- He_Who_Is (YHWH) **Gods-your** to-the-emptiness; that",
+        "englishNatural": "the name of He-Who-Is (YHWH) **your God** to the emptiness; that"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֱלֹהֶ֑יךָ",
+        "transliteration": "Elohekha",
+        "englishLiteral": "Gods-your",
+        "englishNatural": "your God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שַׁבָּ֖ת לַיהוָ֣ה **אֱלֹהֶ֑יךָ** לֹ֣א תַעֲשֶׂ֣ה",
+        "transliteration": "shabbat laYHWH **Elohekha** lo taase",
+        "englishLiteral": "Sabbath to-He_Who_Is (YHWH) **Gods-your.** Not you-will-make",
+        "englishNatural": "is a Sabbath to He-Who-Is (YHWH) **your God.** You will make not"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "אֱלֹהֶ֖יךָ",
+        "transliteration": "Elohekha",
+        "englishLiteral": "Gods-your",
+        "englishNatural": "your God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ יְהוָ֥ה **אֱלֹהֶ֖יךָ** נֹתֵ֥ן לָֽךְ׃",
+        "transliteration": "asher- YHWH **Elohekha** noten lakh",
+        "englishLiteral": "which- He_Who_Is (YHWH) **Gods-your** giving to-you.",
+        "englishNatural": "which He-Who-Is (YHWH) **your God** is giving to you."
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 6

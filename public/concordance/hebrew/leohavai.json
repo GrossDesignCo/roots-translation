@@ -1,0 +1,34 @@
+{
+  "key": "leohavai",
+  "language": "hebrew",
+  "root": "ahav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לְאֹהֲבַ֖י",
+        "transliteration": "leOhavai",
+        "englishLiteral": "to-loving-me",
+        "englishNatural": "to ones loving me",
+        "root": "ahav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "חֶ֖סֶד לַאֲלָפִ֑ים **לְאֹהֲבַ֖י** וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי׃",
+        "transliteration": "chesed laAlafim **leOhavai** uleShomrei mitsvotai",
+        "englishLiteral": "steadfast_love to-thousands, **to-loving-me** and-to-keeping commandments-my.",
+        "englishNatural": "steadfast-love to thousands, **to ones loving me** and to ones keeping my commandments."
+      }
+    }
+  ]
+}

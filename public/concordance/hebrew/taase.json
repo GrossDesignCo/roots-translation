@@ -1,0 +1,34 @@
+{
+  "key": "taase",
+  "language": "hebrew",
+  "root": "asah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "תַעֲשֶׂ֣ה",
+        "transliteration": "taase",
+        "englishLiteral": "you-will-make",
+        "englishNatural": "You will make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֶ֑יךָ לֹ֣א **תַעֲשֶׂ֣ה** כָל־ מְלָאכָ֡ה",
+        "transliteration": "Elohekha lo **taase** khol- melakhah",
+        "englishLiteral": "Gods-your. Not **you-will-make** any- work:",
+        "englishNatural": "to He-Who-Is (YHWH) your God. **You will make** not any"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "fesel",
+  "language": "hebrew",
+  "root": "pesel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "פֶ֙סֶל֙",
+        "transliteration": "fesel",
+        "englishLiteral": "carved_image",
+        "englishNatural": "a carved-image",
+        "root": "pesel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תַעֲשֶׂ֨ה לְךָ֥ **פֶ֙סֶל֙** וְכָל־ תְּמוּנָ֔ה",
+        "transliteration": "taAseh lekha **fesel** veKhol- temunah",
+        "englishLiteral": "you-will-make to-you **carved_image** and-any- likeness,",
+        "englishNatural": "not to you **a carved-image** and any likeness,"
+      }
+    }
+  ]
+}

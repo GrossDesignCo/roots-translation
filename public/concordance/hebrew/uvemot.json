@@ -1,0 +1,34 @@
+{
+  "key": "uvemot",
+  "language": "hebrew",
+  "root": "mut_totter",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וּבְמ֥וֹט",
+        "transliteration": "uveMot",
+        "englishLiteral": "and-in-tottering",
+        "englishNatural": "and in the tottering of",
+        "root": "mut_totter",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּהָמִ֥יר אָ֑רֶץ **וּבְמ֥וֹט** הָרִ֗ים בְּלֵ֣ב",
+        "transliteration": "beHamir aretz **uveMot** harim beLev",
+        "englishLiteral": "in-changing land, **and-in-tottering** mountains in-heart-of",
+        "englishNatural": "in the changing of land, **and in the tottering of** mountains in the heart of"
+      }
+    }
+  ]
+}

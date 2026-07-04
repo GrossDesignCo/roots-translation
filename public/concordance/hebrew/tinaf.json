@@ -1,0 +1,34 @@
+{
+  "key": "tinaf",
+  "language": "hebrew",
+  "root": "naaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תִּנְאָֽף׃",
+        "transliteration": "tinaf",
+        "englishLiteral": "you-will-commit_adultery",
+        "englishNatural": "You will commit-adultery",
+        "root": "naaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֣א **תִּנְאָֽף׃**",
+        "transliteration": "lo **tinaf**",
+        "englishLiteral": "Not **you-will-commit_adultery.**",
+        "englishNatural": "**You will commit-adultery** not."
+      }
+    }
+  ]
+}

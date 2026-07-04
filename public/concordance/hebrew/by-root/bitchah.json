@@ -1,0 +1,31 @@
+{
+  "root": "bitchah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וּבְבִטְחָ֔ה",
+        "transliteration": "uVeBitchah",
+        "englishLiteral": "and-in-trust",
+        "englishNatural": "and in trust",
+        "root": "bitchah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תִּוָּשֵׁ֔עוּן בְּהַשְׁקֵט֙ **וּבְבִטְחָ֔ה** תִּהְיֶ֖ה גְּבוּרַתְכֶ֑ם",
+        "transliteration": "tiVvasheun beHaShqet **uVeBitchah** tihyeh gevuratkhem",
+        "englishLiteral": "you-will-be-saved; In-the-being_quiet **and-in-trust** will-be might-your;",
+        "englishNatural": "you will be saved; in the being-quiet **and in trust** will be your might;"
+      }
+    }
+  ]
+}

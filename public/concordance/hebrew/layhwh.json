@@ -105,6 +105,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לַיהוָ֣ה",
+        "transliteration": "laYHWH",
+        "englishLiteral": "to-He_Who_Is (YHWH)",
+        "englishNatural": "to He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשְּׁבִיעִ֔י שַׁבָּ֖ת **לַיהוָ֣ה** אֱלֹהֶ֑יךָ לֹ֣א",
+        "transliteration": "haShevii shabbat **laYHWH** Elohekha lo",
+        "englishLiteral": "the-seventh Sabbath **to-He_Who_Is (YHWH)** Gods-your. Not",
+        "englishNatural": "the seventh is a Sabbath **to He-Who-Is (YHWH)** your God. You will make"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 3,
         "verse": 8

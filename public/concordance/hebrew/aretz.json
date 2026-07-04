@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "אָ֑רֶץ",
+        "transliteration": "aretz",
+        "englishLiteral": "land",
+        "englishNatural": "land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נִירָ֗א בְּהָמִ֥יר **אָ֑רֶץ** וּבְמ֥וֹט הָרִ֗ים",
+        "transliteration": "nira beHamir **aretz** uveMot harim",
+        "englishLiteral": "we-will-fear, in-changing **land,** and-in-tottering mountains",
+        "englishNatural": "will we fear, in the changing of **land,** and in the tottering of mountains"
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 8,
         "verse": 23

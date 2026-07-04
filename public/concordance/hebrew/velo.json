@@ -180,6 +180,56 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְלֹ֣א",
+        "transliteration": "veLo",
+        "englishLiteral": "and-not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם **וְלֹ֣א** תָעָבְדֵ֑ם כִּ֣י",
+        "transliteration": "tishtachaveh laHem **veLo** taAvdem ki",
+        "englishLiteral": "you-will-bow_down to-them **and-not** you-will-serve-them. That",
+        "englishNatural": "to them and you will serve them **not.** That I"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "וְלֹ֖א",
+        "transliteration": "veLo",
+        "englishLiteral": "and-not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "תִּהְיֶ֖ה גְּבוּרַתְכֶ֑ם **וְלֹ֖א** אֲבִיתֶֽם",
+        "transliteration": "tihyeh gevuratkhem **veLo** avitem",
+        "englishLiteral": "will-be might-your; **and-not** you-have-desired.",
+        "englishNatural": "your might; and you have desired it **not.**"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 6

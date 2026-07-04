@@ -110,6 +110,33 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וּלְשֹׁמְרֵ֥י",
+        "transliteration": "uleShomrei",
+        "englishLiteral": "and-to-keeping",
+        "englishNatural": "and to ones keeping",
+        "root": "shamar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לַאֲלָפִ֑ים לְאֹהֲבַ֖י **וּלְשֹׁמְרֵ֥י** מִצְוֺתָֽי׃",
+        "transliteration": "laAlafim leOhavai **uleShomrei** mitsvotai",
+        "englishLiteral": "to-thousands, to-loving-me **and-to-keeping** commandments-my.",
+        "englishNatural": "to thousands, to ones loving me **and to ones keeping** my commandments."
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 2,
         "verse": 8

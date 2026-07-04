@@ -79,6 +79,56 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "שֵׁ֤שֶׁת",
+        "transliteration": "sheshet",
+        "englishLiteral": "Six-of",
+        "englishNatural": "Six",
+        "root": "shesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "**שֵׁ֤שֶׁת** יָמִים֙ תַּעֲבֹ֔ד",
+        "transliteration": "**sheshet** yamim taAvod",
+        "englishLiteral": "**Six-of** days you-will-serve,",
+        "englishNatural": "**Six** days you will serve,"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "שֵֽׁשֶׁת־",
+        "transliteration": "sheshet-",
+        "englishLiteral": "six-of-",
+        "englishNatural": "in six",
+        "root": "shesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֣י **שֵֽׁשֶׁת־** יָמִים֩ עָשָׂ֨ה",
+        "transliteration": "ki **sheshet-** yamim asah",
+        "englishLiteral": "That **six-of-** days has-made",
+        "englishNatural": "That **in six** days has made"
+      }
+    },
+    {
+      "location": {
         "book": "Isaiah",
         "chapter": 6,
         "verse": 2

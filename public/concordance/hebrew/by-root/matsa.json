@@ -55,6 +55,33 @@
         "englishLiteral": "in-journeying-their from-east, **and-they-found** plain in-land-of",
         "englishNatural": "in their journeying from the east, **and they found** a plain in the land of"
       }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "נִמְצָ֥א",
+        "transliteration": "nimtsa",
+        "englishLiteral": "has-been-found",
+        "englishNatural": "found",
+        "root": "matsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "עֶזְרָ֥ה בְ֝צָר֗וֹת **נִמְצָ֥א** מְאֹֽד׃",
+        "transliteration": "ezrah beTsarot **nimtsa** meod",
+        "englishLiteral": "help in-distresses **has-been-found** very.",
+        "englishNatural": "a help in distresses **found** very."
+      }
     }
   ]
 }

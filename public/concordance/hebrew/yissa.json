@@ -1,0 +1,34 @@
+{
+  "key": "yissa",
+  "language": "hebrew",
+  "root": "nasa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "יִשָּׂ֥א",
+        "transliteration": "yissa",
+        "englishLiteral": "he-will-lift_up",
+        "englishNatural": "will lift-up",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֵ֛ת אֲשֶׁר־ **יִשָּׂ֥א** אֶת־ שְׁמ֖וֹ",
+        "transliteration": "et asher- **yissa** et- shemo",
+        "englishLiteral": "↳ which- **he-will-lift_up** ↳ name-his",
+        "englishNatural": "↳ which **will lift-up** ↳ his name"
+      }
+    }
+  ]
+}

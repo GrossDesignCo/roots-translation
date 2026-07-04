@@ -28,6 +28,33 @@
         "englishLiteral": "these to-me **and-they-will-bow_down-** to-me, to-say,",
         "englishNatural": "will go-down to me, **and will bow-down** to me, saying,"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תִשְׁתַּחֲוֶ֥ה",
+        "transliteration": "tishtachaveh",
+        "englishLiteral": "you-will-bow_down",
+        "englishNatural": "You will bow-down",
+        "root": "shachah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hishtaphel"
+        }
+      },
+      "context": {
+        "hebrew": "לֹֽא־ **תִשְׁתַּחֲוֶ֥ה** לָהֶ֖ם וְלֹ֣א",
+        "transliteration": "lo- **tishtachaveh** laHem veLo",
+        "englishLiteral": "Not- **you-will-bow_down** to-them and-not",
+        "englishNatural": "**You will bow-down** not to them"
+      }
     }
   ]
 }

@@ -440,6 +440,72 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "אֶת־ הַשָּׁמַ֣יִם **וְאֶת־** הָאָ֗רֶץ אֶת־",
+        "transliteration": "et- haShamayim **veEt-** haAretz et-",
+        "englishLiteral": "↳ the-skies **and-↳** the-land, ↳",
+        "englishNatural": "↳ the skies **and** the land, ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "אֶת־ הַיָּם֙ **וְאֶת־** כָּל־ אֲשֶׁר־",
+        "transliteration": "et- haYam **veEt-** kol- asher-",
+        "englishLiteral": "↳ the-sea **and-↳** all- which-",
+        "englishNatural": "↳ the sea **and** all which is"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "אֶת־ אָבִ֖יךָ **וְאֶת־** אִמֶּ֑ךָ לְמַ֙עַן֙",
+        "transliteration": "et- avikha **veEt-** immekha leMaan",
+        "englishLiteral": "↳ father-your **and-↳** mother-your; to-sake",
+        "englishNatural": "↳ your father **and** your mother; for the sake"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 9

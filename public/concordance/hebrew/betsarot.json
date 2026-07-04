@@ -1,0 +1,32 @@
+{
+  "key": "betsarot",
+  "language": "hebrew",
+  "root": "tsarah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בְ֝צָר֗וֹת",
+        "transliteration": "beTsarot",
+        "englishLiteral": "in-distresses",
+        "englishNatural": "in distresses",
+        "root": "tsarah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וָעֹ֑ז עֶזְרָ֥ה **בְ֝צָר֗וֹת** נִמְצָ֥א מְאֹֽד׃",
+        "transliteration": "vaOz ezrah **beTsarot** nimtsa meod",
+        "englishLiteral": "and-strength, help **in-distresses** has-been-found very.",
+        "englishNatural": "and strength, a help **in distresses** found very."
+      }
+    }
+  ]
+}

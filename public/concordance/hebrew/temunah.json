@@ -1,0 +1,32 @@
+{
+  "key": "temunah",
+  "language": "hebrew",
+  "root": "temunah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "תְּמוּנָ֔ה",
+        "transliteration": "temunah",
+        "englishLiteral": "likeness",
+        "englishNatural": "likeness",
+        "root": "temunah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פֶ֙סֶל֙ וְכָל־ **תְּמוּנָ֔ה** אֲשֶׁ֤ר בַּשָּׁמַ֙יִם֙",
+        "transliteration": "fesel veKhol- **temunah** asher baShamayim",
+        "englishLiteral": "carved_image and-any- **likeness,** which in-the-skies",
+        "englishNatural": "a carved-image and any **likeness,** which is in the skies"
+      }
+    }
+  ]
+}

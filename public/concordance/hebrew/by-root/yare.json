@@ -220,6 +220,33 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "נִירָ֗א",
+        "transliteration": "nira",
+        "englishLiteral": "we-will-fear",
+        "englishNatural": "will we fear",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כֵּ֤ן לֹא־ **נִירָ֗א** בְּהָמִ֥יר אָ֑רֶץ",
+        "transliteration": "ken lo- **nira** beHamir aretz",
+        "englishLiteral": "so not- **we-will-fear,** in-changing land,",
+        "englishNatural": "so not **will we fear,** in the changing of land,"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 5

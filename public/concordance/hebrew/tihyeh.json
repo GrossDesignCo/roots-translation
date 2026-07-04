@@ -29,6 +29,33 @@
         "englishLiteral": "wandering and-fugitive **you-will-be** in-land.\"",
         "englishNatural": "wandering and fugitive **you will be** in the land.\""
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 15
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "תִּהְיֶ֖ה",
+        "transliteration": "tihyeh",
+        "englishLiteral": "will-be",
+        "englishNatural": "will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּהַשְׁקֵט֙ וּבְבִטְחָ֔ה **תִּהְיֶ֖ה** גְּבוּרַתְכֶ֑ם וְלֹ֖א",
+        "transliteration": "beHaShqet uVeBitchah **tihyeh** gevuratkhem veLo",
+        "englishLiteral": "In-the-being_quiet and-in-trust **will-be** might-your; and-not",
+        "englishNatural": "in the being-quiet and in trust **will be** your might; and you have desired it"
+      }
     }
   ]
 }

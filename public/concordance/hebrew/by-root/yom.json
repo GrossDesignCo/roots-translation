@@ -1354,6 +1354,181 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "י֥וֹם",
+        "transliteration": "yom",
+        "englishLiteral": "day-of",
+        "englishNatural": "the day of",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זָכ֛וֹר אֶת־ **י֥וֹם** הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ׃",
+        "transliteration": "zakhor et- **yom** haShabbat leQaddesho",
+        "englishLiteral": "Remember ↳ **day-of** the-Sabbath, to-sanctify-it.",
+        "englishNatural": "Remember ↳ **the day of** the Sabbath, to sanctify it."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יָמִים֙",
+        "transliteration": "yamim",
+        "englishLiteral": "days",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁ֤שֶׁת **יָמִים֙** תַּעֲבֹ֔ד וְעָשִׂ֖יתָ",
+        "transliteration": "sheshet **yamim** taAvod veAsita",
+        "englishLiteral": "Six-of **days** you-will-serve, and-you-have-made",
+        "englishNatural": "Six **days** you will serve, and you will make"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְיוֹם֙",
+        "transliteration": "veYom",
+        "englishLiteral": "And-day",
+        "englishNatural": "And the day",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְיוֹם֙** הַשְּׁבִיעִ֔י שַׁבָּ֖ת",
+        "transliteration": "**veYom** haShevii shabbat",
+        "englishLiteral": "**And-day** the-seventh Sabbath",
+        "englishNatural": "**And the day** the seventh is a Sabbath"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יָמִים֩",
+        "transliteration": "yamim",
+        "englishLiteral": "days",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֣י שֵֽׁשֶׁת־ **יָמִים֩** עָשָׂ֨ה יְהוָ֜ה",
+        "transliteration": "ki sheshet- **yamim** asah YHWH",
+        "englishLiteral": "That six-of- **days** has-made He_Who_Is (YHWH)",
+        "englishNatural": "That in six **days** has made He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "בַּיּ֣וֹם",
+        "transliteration": "baYom",
+        "englishLiteral": "in-the-day",
+        "englishNatural": "in the day",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּ֔ם וַיָּ֖נַח **בַּיּ֣וֹם** הַשְּׁבִיעִ֑י עַל־",
+        "transliteration": "bam vaYanach **baYom** haShevii al-",
+        "englishLiteral": "in-them; and-he-will-rest **in-the-day** the-seventh. Over-",
+        "englishNatural": "in them; and he rested **in the day** the seventh. Therefore"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 23,
+      "sourceOrder": 23,
+      "word": {
+        "originalScript": "י֥וֹם",
+        "transliteration": "yom",
+        "englishLiteral": "day-of",
+        "englishNatural": "the day of",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָ֛ה אֶת־ **י֥וֹם** הַשַּׁבָּ֖ת וַֽיְקַדְּשֵֽׁהוּ׃",
+        "transliteration": "YHWH et- **yom** haShabbat vayQaddeshahu",
+        "englishLiteral": "He_Who_Is (YHWH) ↳ **day-of** the-Sabbath and-he-will-sanctify-it.",
+        "englishNatural": "He-Who-Is (YHWH) ↳ **the day of** the Sabbath and sanctified it."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "יָמֶ֔יךָ",
+        "transliteration": "yamekha",
+        "englishLiteral": "days-your",
+        "englishNatural": "your days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַ֙עַן֙ יַאֲרִכ֣וּן **יָמֶ֔יךָ** עַ֚ל הָ֣אֲדָמָ֔ה",
+        "transliteration": "leMaan yaarikhun **yamekha** al haAdamah",
+        "englishLiteral": "to-sake they-will-be_long **days-your** over the-ground",
+        "englishNatural": "your mother; for the sake **your days** will be-long over"
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 1

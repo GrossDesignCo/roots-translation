@@ -1,0 +1,33 @@
+{
+  "root": "mur",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בְּהָמִ֥יר",
+        "transliteration": "beHamir",
+        "englishLiteral": "in-changing",
+        "englishNatural": "in the changing of",
+        "root": "mur",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ נִירָ֗א **בְּהָמִ֥יר** אָ֑רֶץ וּבְמ֥וֹט",
+        "transliteration": "lo- nira **beHamir** aretz uveMot",
+        "englishLiteral": "not- we-will-fear, **in-changing** land, and-in-tottering",
+        "englishNatural": "not will we fear, **in the changing of** land, and in the tottering of"
+      }
+    }
+  ]
+}

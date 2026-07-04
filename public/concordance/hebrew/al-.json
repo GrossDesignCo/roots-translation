@@ -1206,6 +1206,106 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֥ים אֲחֵרִ֖ים **עַל־** פָּנָֽי׃",
+        "transliteration": "Elohim acherim **al-** panai",
+        "englishLiteral": "gods others **over-** faces-my.",
+        "englishNatural": "not to you **over** my faces."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עֲוֺ֨ן אָבֹ֧ת **עַל־** בָּנִ֛ים עַל־",
+        "transliteration": "avon avot **al-** banim al-",
+        "englishLiteral": "iniquity-of fathers **over-** sons, over-",
+        "englishNatural": "the iniquity of fathers **over** sons, over"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ בָּנִ֛ים **עַל־** שִׁלֵּשִׁ֥ים וְעַל־",
+        "transliteration": "al- banim **al-** shilleshim veAl-",
+        "englishLiteral": "over- sons, **over-** third_ones and-over-",
+        "englishNatural": "over sons, **over** third-ones and over"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "Over-",
+        "englishNatural": "Therefore",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בַּיּ֣וֹם הַשְּׁבִיעִ֑י **עַל־** כֵּ֗ן בֵּרַ֧ךְ",
+        "transliteration": "baYom haShevii **al-** ken berakh",
+        "englishLiteral": "in-the-day the-seventh. **Over-** so has-blessed",
+        "englishNatural": "in the day the seventh. **Therefore** so has blessed"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 6
       },
@@ -1476,6 +1576,56 @@
         "transliteration": "deshe yaRbitzeini **al-** mei menuchot",
         "englishLiteral": "tender_shoot, he-causes-me-to-lie-down; **over-** water-of rest_place,",
         "englishNatural": "tender-shoot, he lies-me-down; **over** water of rest-place,"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 0
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "Over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לִבְנֵי־ קֹ֑רַח **עַל־** עֲלָמ֥וֹת שִֽׁיר׃",
+        "transliteration": "liVney- Qorach **al-** alamot shir",
+        "englishLiteral": "to-sons-of- Korah. **over-** maidens. A-song.",
+        "englishNatural": "of the sons of Korah. **Over** maidens. A song."
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "Over-",
+        "englishNatural": "Therefore",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**עַל־** כֵּ֤ן לֹא־",
+        "transliteration": "**al-** ken lo-",
+        "englishLiteral": "**Over-** so not-",
+        "englishNatural": "**Therefore** so not"
       }
     },
     {

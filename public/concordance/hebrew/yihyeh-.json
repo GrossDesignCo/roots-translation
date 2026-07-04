@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יִהְיֶ֥ה־",
+        "transliteration": "yihyeh-",
+        "englishLiteral": "he-will-be-",
+        "englishNatural": "will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֹ֣א **יִהְיֶ֥ה־** לְךָ֛ אֱלֹהִ֥ים",
+        "transliteration": "lo **yihyeh-** lekha Elohim",
+        "englishLiteral": "Not **he-will-be-** to-you gods",
+        "englishNatural": "Other gods others **will be** not to you"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 12

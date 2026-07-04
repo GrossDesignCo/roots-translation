@@ -1,12 +1,20 @@
 {
   "key": "naqah",
-  "hebrew": "נקה",
+  "hebrew": "נָקָה",
   "transliteration": "naqah",
-  "englishLiteral": "to be_pure",
-  "englishNatural": "to be-pure",
+  "englishLiteral": "to be_clean",
+  "englishNatural": "to be-clean",
   "type": "verb",
-  "description": "to be pure, to be clean, to be innocent (Hebrew)",
-  "wordIndexes": {},
+  "description": "to be clean, innocent, free from guilt; in piel: to leave unpunished, to acquit",
+  "wordIndexes": {
+    "exodus": {
+      "20": {
+        "7": [
+          9
+        ]
+      }
+    }
+  },
   "usage": {},
   "translationConnections": []
 }

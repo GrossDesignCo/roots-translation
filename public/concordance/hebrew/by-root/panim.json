@@ -980,6 +980,31 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "פָּנָֽי׃",
+        "transliteration": "panai",
+        "englishLiteral": "faces-my",
+        "englishNatural": "my faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲחֵרִ֖ים עַל־ **פָּנָֽי׃**",
+        "transliteration": "acherim al- **panai**",
+        "englishLiteral": "others over- **faces-my.**",
+        "englishNatural": "to you over **my faces.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 6
       },

@@ -31,6 +31,60 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לְקַדְּשֽׁוֹ׃",
+        "transliteration": "leQaddesho",
+        "englishLiteral": "to-sanctify-it",
+        "englishNatural": "to sanctify it",
+        "root": "qadash",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "י֥וֹם הַשַּׁבָּ֖ת **לְקַדְּשֽׁוֹ׃**",
+        "transliteration": "yom haShabbat **leQaddesho**",
+        "englishLiteral": "day-of the-Sabbath, **to-sanctify-it.**",
+        "englishNatural": "the day of the Sabbath, **to sanctify it.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 25,
+      "sourceOrder": 25,
+      "word": {
+        "originalScript": "וַֽיְקַדְּשֵֽׁהוּ׃",
+        "transliteration": "vayQaddeshahu",
+        "englishLiteral": "and-he-will-sanctify-it",
+        "englishNatural": "and sanctified it",
+        "root": "qadash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "י֥וֹם הַשַּׁבָּ֖ת **וַֽיְקַדְּשֵֽׁהוּ׃**",
+        "transliteration": "yom haShabbat **vayQaddeshahu**",
+        "englishLiteral": "day-of the-Sabbath **and-he-will-sanctify-it.**",
+        "englishNatural": "the day of the Sabbath **and sanctified it.**"
+      }
+    },
+    {
+      "location": {
         "book": "Isaiah",
         "chapter": 6,
         "verse": 3

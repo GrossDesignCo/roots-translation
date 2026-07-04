@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "מִבֵּ֥ית",
+        "transliteration": "miBeit",
+        "englishLiteral": "from-house-of",
+        "englishNatural": "from the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאֶ֥רֶץ מִצְרַ֖יִם **מִבֵּ֥ית** עֲבָדִֽים׃",
+        "transliteration": "meEretz Mitsrayim **miBeit** avadim",
+        "englishLiteral": "from-land-of Double_Narrows (Egypt), **from-house-of** servants.",
+        "englishNatural": "from the land of Double-Narrows (Egypt), **from the house of** servants."
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 1

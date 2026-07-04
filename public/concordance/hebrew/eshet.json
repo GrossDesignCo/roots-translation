@@ -1,0 +1,32 @@
+{
+  "key": "eshet",
+  "language": "hebrew",
+  "root": "ishah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אֵ֣שֶׁת",
+        "transliteration": "eshet",
+        "englishLiteral": "woman-of",
+        "englishNatural": "the woman of",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹֽא־ תַחְמֹ֞ד **אֵ֣שֶׁת** רֵעֶ֗ךָ וְעַבְדּ֤וֹ",
+        "transliteration": "lo- tachmod **eshet** reekha veAvdo",
+        "englishLiteral": "Not- you-will-desire **woman-of** friend-your, and-servant-his",
+        "englishNatural": "You will desire not **the woman of** your friend, and his servant"
+      }
+    }
+  ]
+}

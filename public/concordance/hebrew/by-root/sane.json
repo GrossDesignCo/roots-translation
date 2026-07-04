@@ -1,0 +1,33 @@
+{
+  "root": "sane",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 5
+      },
+      "wordIndex": 20,
+      "sourceOrder": 20,
+      "word": {
+        "originalScript": "לְשֹׂנְאָֽי׃",
+        "transliteration": "leSoneai",
+        "englishLiteral": "to-hating-me",
+        "englishNatural": "to ones hating me",
+        "root": "sane",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְעַל־ רִבֵּעִ֖ים **לְשֹׂנְאָֽי׃**",
+        "transliteration": "veAl- ribbeIm **leSoneai**",
+        "englishLiteral": "and-over- fourth_ones **to-hating-me.**",
+        "englishNatural": "and over fourth-ones **to ones hating me.**"
+      }
+    }
+  ]
+}

@@ -139,6 +139,50 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֵ֛ת",
+        "transliteration": "et",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "וַיְדַבֵּ֣ר אֱלֹהִ֔ים **אֵ֛ת** כָּל־ הַדְּבָרִ֥ים",
+        "transliteration": "vaYdabber Elohim **et** kol- hadDevarim",
+        "englishLiteral": "And-he-will-speak Gods **↳** all- the-words",
+        "englishNatural": "And God spoke **↳** all the words,"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "אֵ֛ת",
+        "transliteration": "et",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "יְנַקֶּה֙ יְהוָ֔ה **אֵ֛ת** אֲשֶׁר־ יִשָּׂ֥א",
+        "transliteration": "yeNaqqeh YHWH **et** asher- yissa",
+        "englishLiteral": "he-will-be_clean He_Who_Is (YHWH) **↳** which- he-will-lift_up",
+        "englishNatural": "will be-clean not **↳** which will lift-up"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 6

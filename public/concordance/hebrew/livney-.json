@@ -1,0 +1,32 @@
+{
+  "key": "livney-",
+  "language": "hebrew",
+  "root": "ben",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 0
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "לִבְנֵי־",
+        "transliteration": "liVney-",
+        "englishLiteral": "to-sons-of-",
+        "englishNatural": "of the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַמְנַצֵּ֥חַ **לִבְנֵי־** קֹ֑רַח עַל־",
+        "transliteration": "laMnatseach **liVney-** Qorach al-",
+        "englishLiteral": "to-the-one-who-endures **to-sons-of-** Korah. over-",
+        "englishNatural": "To the one-who-endures **of the sons of** Korah. Over"
+      }
+    }
+  ]
+}

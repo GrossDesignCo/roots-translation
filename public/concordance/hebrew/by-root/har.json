@@ -104,6 +104,56 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הָרִ֗ים",
+        "transliteration": "harim",
+        "englishLiteral": "mountains",
+        "englishNatural": "mountains",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָ֑רֶץ וּבְמ֥וֹט **הָרִ֗ים** בְּלֵ֣ב יַמִּֽים׃",
+        "transliteration": "aretz uveMot **harim** beLev yammim",
+        "englishLiteral": "land, and-in-tottering **mountains** in-heart-of seas.",
+        "englishNatural": "land, and in the tottering of **mountains** in the heart of seas."
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הָרִ֗ים",
+        "transliteration": "harim",
+        "englishLiteral": "mountains",
+        "englishNatural": "mountains",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵימָ֑יו יִרְעֲשׁ֥וּ **הָרִ֗ים** בְּגַאֲוָת֥וֹ סֶֽלָה",
+        "transliteration": "meymav yiRashu **harim** beGaavato selah",
+        "englishLiteral": "waters-his; they-will-quake **mountains** in-swelling-his. Selah.",
+        "englishNatural": "roar they foam; **mountains** quake in its swelling."
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 8,
         "verse": 25

@@ -1,0 +1,31 @@
+{
+  "root": "gaavah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 46,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בְּגַאֲוָת֥וֹ",
+        "transliteration": "beGaavato",
+        "englishLiteral": "in-swelling-his",
+        "englishNatural": "in its swelling",
+        "root": "gaavah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִרְעֲשׁ֥וּ הָרִ֗ים **בְּגַאֲוָת֥וֹ** סֶֽלָה",
+        "transliteration": "yiRashu harim **beGaavato** selah",
+        "englishLiteral": "they-will-quake mountains **in-swelling-his.** Selah.",
+        "englishNatural": "mountains quake **in its swelling.** Selah."
+      }
+    }
+  ]
+}

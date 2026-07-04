@@ -1455,6 +1455,81 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֔ים אֵ֛ת **כָּל־** הַדְּבָרִ֥ים הָאֵ֖לֶּה",
+        "transliteration": "Elohim et **kol-** hadDevarim haElleh",
+        "englishLiteral": "Gods ↳ **all-** the-words the-these,",
+        "englishNatural": "spoke ↳ **all** the words, these,"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "תַּעֲבֹ֔ד וְעָשִׂ֖יתָ **כָּל־** מְלַאכְתֶּֽךָ׃",
+        "transliteration": "taAvod veAsita **kol-** melakhtekha",
+        "englishLiteral": "you-will-serve, and-you-have-made **all-** work-your.",
+        "englishNatural": "you will serve, and you will make **all** your work."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הַיָּם֙ וְאֶת־ **כָּל־** אֲשֶׁר־ בָּ֔ם",
+        "transliteration": "haYam veEt- **kol-** asher- bam",
+        "englishLiteral": "the-sea and-↳ **all-** which- in-them;",
+        "englishNatural": "the sea and **all** which is in them;"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 3,
         "verse": 7

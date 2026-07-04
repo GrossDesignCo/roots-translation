@@ -80,6 +80,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הַיָּם֙",
+        "transliteration": "haYam",
+        "englishLiteral": "the-sea",
+        "englishNatural": "the sea",
+        "root": "yam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָ֗רֶץ אֶת־ **הַיָּם֙** וְאֶת־ כָּל־",
+        "transliteration": "haAretz et- **haYam** veEt- kol-",
+        "englishLiteral": "the-land, ↳ **the-sea** and-↳ all-",
+        "englishNatural": "the land, ↳ **the sea** and all"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 8
