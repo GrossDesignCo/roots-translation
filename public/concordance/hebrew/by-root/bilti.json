@@ -51,6 +51,31 @@
         "englishLiteral": "for-Acquired (Cain) sign, **for-not** striking_down- ↳-him",
         "englishNatural": "for Acquired (Cain) a sign, **so that not** all striking-down"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "לְבִלְתִּ֥י",
+        "transliteration": "leBilti",
+        "englishLiteral": "to-not",
+        "englishNatural": "to not",
+        "root": "bilti",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ פְּנֵיכֶ֖ם **לְבִלְתִּ֥י** תֶחֱטָֽאוּ׃",
+        "transliteration": "al- peneikhem **leBilti** techetau",
+        "englishLiteral": "over- faces-your, **to-not** you-will-sin.\"",
+        "englishNatural": "over your faces, **to not** let you sin.\""
+      }
     }
   ]
 }

@@ -2807,7 +2807,34 @@
         "hebrew": "לֹ֣א **יִהְיֶ֥ה־** לְךָ֛ אֱלֹהִ֥ים",
         "transliteration": "lo **yihyeh-** lekha Elohim",
         "englishLiteral": "Not **he-will-be-** to-you gods",
-        "englishNatural": "Other gods others **will be** not to you"
+        "englishNatural": "other gods **will be** to you over"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "תִּהְיֶ֧ה",
+        "transliteration": "tihyeh",
+        "englishLiteral": "she-will-be",
+        "englishNatural": "will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֱלֹהִ֑ים וּבַעֲב֗וּר **תִּהְיֶ֧ה** יִרְאָת֛וֹ עַל־",
+        "transliteration": "haElohim uVaavur **tihyeh** yirato al-",
+        "englishLiteral": "the-Gods; and-for_sake_of **she-will-be** fear-his over-",
+        "englishNatural": "and for the sake of his fear **will be** over your faces,"
       }
     },
     {

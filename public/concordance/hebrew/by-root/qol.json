@@ -179,6 +179,56 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הַקּוֹלֹ֜ת",
+        "transliteration": "haQolot",
+        "englishLiteral": "the-voices",
+        "englishNatural": "the voices",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֹאִ֨ים אֶת־ **הַקּוֹלֹ֜ת** וְאֶת־ הַלַּפִּידִ֗ם",
+        "transliteration": "roim et- **haQolot** veEt- haLappidim",
+        "englishLiteral": "seeing ↳ **the-voices** and-↳ the-torches",
+        "englishNatural": "were seeing ↳ **the voices** and the torches"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "ק֣וֹל",
+        "transliteration": "qol",
+        "englishLiteral": "voice-of",
+        "englishNatural": "the voice of",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַלַּפִּידִ֗ם וְאֵת֙ **ק֣וֹל** הַשֹּׁפָ֔ר וְאֶת־",
+        "transliteration": "haLappidim veEt **qol** haShofar veEt-",
+        "englishLiteral": "the-torches and-↳ **voice-of** the-horn and-↳",
+        "englishNatural": "the torches and **the voice of** the horn and"
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 9

@@ -48,9 +48,34 @@
       },
       "context": {
         "hebrew": "עַל־ שִׁלֵּשִׁ֥ים **וְעַל־** רִבֵּעִ֖ים לְשֹׂנְאָֽי׃",
-        "transliteration": "al- shilleshim **veAl-** ribbeIm leSoneai",
+        "transliteration": "al- shilleshim **veAl-** ribbeim leSoneai",
         "englishLiteral": "over- third_ones **and-over-** fourth_ones to-hating-me.",
         "englishNatural": "over third-ones **and over** fourth-ones to ones hating me."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְאַל־",
+        "transliteration": "veAl-",
+        "englishLiteral": "and-not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עִמָּ֖נוּ וְנִשְׁמָ֑עָה **וְאַל־** יְדַבֵּ֥ר עִמָּ֛נוּ",
+        "transliteration": "immanu veNishmaah **veAl-** yeDabber immanu",
+        "englishLiteral": "with-us and-we-will-hear; **and-not-** he-will-speak with-us",
+        "englishNatural": "and God will speak **not** with us, lest"
       }
     },
     {

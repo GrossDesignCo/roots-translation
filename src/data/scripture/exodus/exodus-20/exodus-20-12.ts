@@ -10,8 +10,8 @@ export const exodus_20_12: Verse = {
     {
       hebrew: 'כַּבֵּ֥ד',
       transliteration: 'kabbed',
-      englishLiteral: 'Be_heavy-upon',
-      englishNatural: 'Be-heavy upon',
+      englishLiteral: 'Treat_heavily',
+      englishNatural: 'Treat-heavily',
       root: 'kavad',
       order: 1,
       morphology: {
@@ -21,6 +21,7 @@ export const exodus_20_12: Verse = {
         tense: 'imperative',
         stem: 'piel',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אֶת־',
@@ -79,7 +80,7 @@ export const exodus_20_12: Verse = {
       hebrew: 'לְמַ֙עַן֙',
       transliteration: 'leMaan',
       englishLiteral: 'to-sake',
-      englishNatural: 'for the sake',
+      englishNatural: 'for the sake of',
       root: 'maan',
       prefixes: ['le'],
       order: 6,
@@ -91,7 +92,7 @@ export const exodus_20_12: Verse = {
       hebrew: 'יַאֲרִכ֣וּן',
       transliteration: 'yaarikhun',
       englishLiteral: 'they-will-be_long',
-      englishNatural: 'will be-long',
+      englishNatural: 'they will be-long',
       root: 'arakh_long',
       suffixes: ['un'],
       order: {
@@ -122,6 +123,9 @@ export const exodus_20_12: Verse = {
         gender: 'masculine',
         number: 'plural',
       },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'עַ֚ל',
@@ -137,8 +141,8 @@ export const exodus_20_12: Verse = {
     {
       hebrew: 'הָ֣אֲדָמָ֔ה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-ground',
-      englishNatural: 'the ground',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: 10,
@@ -224,10 +228,10 @@ export const exodus_20_12: Verse = {
     transliteration:
       'kabbed et-avikha veEt-immekha leMaan yaarikhun yamekha al haAdamah asher-YHWH Elohekha noten lakh',
     englishLiteral:
-      'Be_heavy-upon ↳ father-your and-↳ mother-your; to-sake they-will-be_long days-your over the-ground which- He_Who_Is (YHWH) Gods-your giving to-you.',
+      'Treat_heavily ↳ father-your and-↳ mother-your; to-sake they-will-be_long days-your over the-earth which- He_Who_Is (YHWH) Gods-your giving to-you.',
     englishNatural:
-      'Be-heavy upon your father and your mother; for the sake your days will be-long over the ground which He-Who-Is (YHWH) your God is giving to you.',
+      'Treat-heavily your father and your mother; for the sake your days will be-long over the earth which He-Who-Is (YHWH) your God is giving to you.',
     kjv: 'Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

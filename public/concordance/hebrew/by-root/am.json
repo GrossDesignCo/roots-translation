@@ -254,6 +254,81 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הָעָם֩",
+        "transliteration": "haAm",
+        "englishLiteral": "the-people",
+        "englishNatural": "the people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ **הָעָם֩** רֹאִ֨ים אֶת־",
+        "transliteration": "veKhol- **haAm** roim et-",
+        "englishLiteral": "And-all- **the-people** seeing ↳",
+        "englishNatural": "And all **the people** were seeing ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "הָעָם֙",
+        "transliteration": "haAm",
+        "englishLiteral": "the-people",
+        "englishNatural": "and the people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָשֵׁ֑ן וַיַּ֤רְא **הָעָם֙** וַיָּנֻ֔עוּ וַיַּעַמְד֖וּ",
+        "transliteration": "ashen vaYar **haAm** vaYanuu vaYaamdu",
+        "englishLiteral": "smoking; and-he-will-see **the-people** and-they-will-tremble and-they-will-stand",
+        "englishNatural": "the mountain smoking; **and the people** saw and they trembled"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הָעָם֮",
+        "transliteration": "haAm",
+        "englishLiteral": "the-people",
+        "englishNatural": "the people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁ֣ה אֶל־ **הָעָם֮** אַל־ תִּירָאוּ֒",
+        "transliteration": "Mosheh el- **haAm** al- tirau",
+        "englishLiteral": "Drawn_Out (Moses) to- **the-people,** \"not- you-will-fear;",
+        "englishNatural": "said to **the people,** \"You will fear not;"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 6

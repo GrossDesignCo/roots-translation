@@ -1,0 +1,34 @@
+{
+  "key": "tirau",
+  "language": "hebrew",
+  "root": "yare",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "תִּירָאוּ֒",
+        "transliteration": "tirau",
+        "englishLiteral": "you-will-fear",
+        "englishNatural": "You will fear",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָעָם֮ אַל־ **תִּירָאוּ֒** כִּ֗י לְבַעֲבוּר֙",
+        "transliteration": "haAm al- **tirau** ki leBaavur",
+        "englishLiteral": "the-people, \"not- **you-will-fear;** that to-for_sake_of",
+        "englishNatural": "to the people, **\"You will fear** not; that"
+      }
+    }
+  ]
+}

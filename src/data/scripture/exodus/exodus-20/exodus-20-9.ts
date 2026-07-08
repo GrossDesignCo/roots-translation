@@ -69,6 +69,9 @@ export const exodus_20_9: Verse = {
         tense: 'perfect',
         stem: 'qal',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'כָּל־',
@@ -108,6 +111,6 @@ export const exodus_20_9: Verse = {
     englishLiteral: 'Six-of days you-will-serve, and-you-have-made all- work-your.',
     englishNatural: 'Six days you will serve, and you will make all your work.',
     kjv: 'Six days shalt thou labour, and do all thy work:',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

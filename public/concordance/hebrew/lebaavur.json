@@ -1,0 +1,32 @@
+{
+  "key": "lebaavur",
+  "language": "hebrew",
+  "root": "baavur",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לְבַעֲבוּר֙",
+        "transliteration": "leBaavur",
+        "englishLiteral": "to-for_sake_of",
+        "englishNatural": "to the sake of",
+        "root": "baavur",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "תִּירָאוּ֒ כִּ֗י **לְבַעֲבוּר֙** נַסּ֣וֹת אֶתְכֶ֔ם",
+        "transliteration": "tirau ki **leBaavur** nassot etkhem",
+        "englishLiteral": "you-will-fear; that **to-for_sake_of** testing ↳-you",
+        "englishNatural": "not; that **to the sake of** testing you"
+      }
+    }
+  ]
+}

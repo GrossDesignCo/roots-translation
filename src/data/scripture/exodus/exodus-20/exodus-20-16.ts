@@ -39,12 +39,15 @@ export const exodus_20_16: Verse = {
         tense: 'imperfect',
         stem: 'qal',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'בְרֵעֲךָ֖',
       transliteration: 'veReakha',
       englishLiteral: 'in-friend-your',
-      englishNatural: 'against your friend',
+      englishNatural: 'in your friend',
       root: 'rea',
       prefixes: ['be'],
       suffixes: ['ekha'],
@@ -108,8 +111,8 @@ export const exodus_20_16: Verse = {
     transliteration: 'lo-taaneh veReakha ed shaqer',
     englishLiteral: 'Not- you-will-answer in-friend-your witness falsehood.',
     englishNatural:
-      'You will answer not as a witness of falsehood against your friend.',
+      'You will answer not as a witness of falsehood in your friend.',
     kjv: 'Thou shalt not bear false witness against thy neighbour.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

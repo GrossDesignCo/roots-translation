@@ -922,6 +922,60 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "רֹאִ֨ים",
+        "transliteration": "roim",
+        "englishLiteral": "seeing",
+        "englishNatural": "were seeing",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ הָעָם֩ **רֹאִ֨ים** אֶת־ הַקּוֹלֹ֜ת",
+        "transliteration": "veKhol- haAm **roim** et- haQolot",
+        "englishLiteral": "And-all- the-people **seeing** ↳ the-voices",
+        "englishNatural": "And all the people **were seeing** ↳ the voices"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "וַיַּ֤רְא",
+        "transliteration": "vaYar",
+        "englishLiteral": "and-he-will-see",
+        "englishNatural": "saw",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָהָ֖ר עָשֵׁ֑ן **וַיַּ֤רְא** הָעָם֙ וַיָּנֻ֔עוּ",
+        "transliteration": "haHar ashen **vaYar** haAm vaYanuu",
+        "englishLiteral": "the-mountain smoking; **and-he-will-see** the-people and-they-will-tremble",
+        "englishNatural": "smoking; and the people **saw** and they trembled and they stood"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 8

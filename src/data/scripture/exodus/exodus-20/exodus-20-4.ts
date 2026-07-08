@@ -20,6 +20,9 @@ export const exodus_20_4: Verse = {
       morphology: {
         type: 'adverb',
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'תַעֲשֶׂ֨ה',
@@ -39,6 +42,9 @@ export const exodus_20_4: Verse = {
         tense: 'imperfect',
         stem: 'qal',
       },
+      lineBreaksBefore: {
+        english: 1,
+      }
     },
     {
       hebrew: 'לְךָ֥',
@@ -76,6 +82,7 @@ export const exodus_20_4: Verse = {
       morphology: {
         type: 'adjective',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'תְּמוּנָ֔ה',
@@ -93,7 +100,9 @@ export const exodus_20_4: Verse = {
         englishLiteral: ',',
         englishNatural: ',',
       },
-      lineBreaksAfter: 1,
+      lineBreaksAfter: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'אֲשֶׁ֤ר',
@@ -147,6 +156,9 @@ export const exodus_20_4: Verse = {
       morphology: {
         type: 'relative',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'בָּאָ֖רֶץ',
@@ -188,6 +200,9 @@ export const exodus_20_4: Verse = {
       order: 13,
       morphology: {
         type: 'relative',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -246,6 +261,6 @@ export const exodus_20_4: Verse = {
     englishNatural:
       'You will make not to you a carved-image and any likeness, which is in the skies from above, and which is in the land from beneath, and which is in the waters from beneath to the land.',
     kjv: 'Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

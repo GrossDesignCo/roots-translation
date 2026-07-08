@@ -1,0 +1,34 @@
+{
+  "key": "roim",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "רֹאִ֨ים",
+        "transliteration": "roim",
+        "englishLiteral": "seeing",
+        "englishNatural": "were seeing",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ הָעָם֩ **רֹאִ֨ים** אֶת־ הַקּוֹלֹ֜ת",
+        "transliteration": "veKhol- haAm **roim** et- haQolot",
+        "englishLiteral": "And-all- the-people **seeing** ↳ the-voices",
+        "englishNatural": "And all the people **were seeing** ↳ the voices"
+      }
+    }
+  ]
+}

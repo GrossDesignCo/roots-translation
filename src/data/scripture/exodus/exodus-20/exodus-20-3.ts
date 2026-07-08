@@ -11,15 +11,13 @@ export const exodus_20_3: Verse = {
       hebrew: 'לֹ֣א',
       transliteration: 'lo',
       englishLiteral: 'Not',
-      englishNatural: 'not',
+      englishNatural: 'No',
       root: 'lo',
-      order: {
-        hebrew: 1,
-        english: 4,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'יִהְיֶ֥ה־',
@@ -29,7 +27,7 @@ export const exodus_20_3: Verse = {
       root: 'hayah',
       order: {
         hebrew: 2,
-        english: 3,
+        english: 4,
       },
       morphology: {
         type: 'verb',
@@ -59,12 +57,12 @@ export const exodus_20_3: Verse = {
       hebrew: 'אֱלֹהִ֥ים',
       transliteration: 'Elohim',
       englishLiteral: 'gods',
-      englishNatural: 'Other gods',
+      englishNatural: 'gods',
       root: 'eloah',
       suffixes: ['im'],
       order: {
         hebrew: 4,
-        english: 1,
+        english: 3,
       },
       morphology: {
         type: 'noun',
@@ -76,7 +74,7 @@ export const exodus_20_3: Verse = {
       hebrew: 'אֲחֵרִ֖ים',
       transliteration: 'acherim',
       englishLiteral: 'others',
-      englishNatural: '',
+      englishNatural: 'other',
       root: 'acher',
       suffixes: ['im'],
       order: {
@@ -104,7 +102,7 @@ export const exodus_20_3: Verse = {
       hebrew: 'פָּנָֽי׃',
       transliteration: 'panai',
       englishLiteral: 'faces-my',
-      englishNatural: 'my faces',
+      englishNatural: 'my face',
       root: 'panim',
       suffixes: ['ai'],
       order: 7,
@@ -124,8 +122,8 @@ export const exodus_20_3: Verse = {
     hebrew: 'לֹ֣א יִהְיֶ֥ה־לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל־פָּנָֽי׃',
     transliteration: 'lo yihyeh-lekha Elohim acherim al-panai',
     englishLiteral: 'Not he-will-be- to-you gods others over- faces-my.',
-    englishNatural: 'Other gods will be not to you over my faces.',
+    englishNatural: 'No other gods will be to you over my face.',
     kjv: 'Thou shalt not have other gods before me.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

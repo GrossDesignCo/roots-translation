@@ -1,0 +1,56 @@
+{
+  "root": "al_not",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְאַל־",
+        "transliteration": "veAl-",
+        "englishLiteral": "and-not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עִמָּ֖נוּ וְנִשְׁמָ֑עָה **וְאַל־** יְדַבֵּ֥ר עִמָּ֛נוּ",
+        "transliteration": "immanu veNishmaah **veAl-** yeDabber immanu",
+        "englishLiteral": "with-us and-we-will-hear; **and-not-** he-will-speak with-us",
+        "englishNatural": "and God will speak **not** with us, lest"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הָעָם֮ **אַל־** תִּירָאוּ֒ כִּ֗י",
+        "transliteration": "el- haAm **al-** tirau ki",
+        "englishLiteral": "to- the-people, **\"not-** you-will-fear; that",
+        "englishNatural": "the people, \"You will fear **not;** that to the sake of"
+      }
+    }
+  ]
+}

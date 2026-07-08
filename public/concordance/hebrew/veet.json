@@ -184,6 +184,28 @@
         "englishLiteral": "**and-↳** all- wind-of",
         "englishNatural": "**and** all the wind of"
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְאֵת֙",
+        "transliteration": "veEt",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הַלַּפִּידִ֗ם **וְאֵת֙** ק֣וֹל הַשֹּׁפָ֔ר",
+        "transliteration": "veEt- haLappidim **veEt** qol haShofar",
+        "englishLiteral": "and-↳ the-torches **and-↳** voice-of the-horn",
+        "englishNatural": "and the torches **and** the voice of the horn"
+      }
     }
   ]
 }

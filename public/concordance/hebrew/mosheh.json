@@ -1,0 +1,57 @@
+{
+  "key": "mosheh",
+  "language": "hebrew",
+  "root": "moshe",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מֹשֶׁ֔ה",
+        "transliteration": "Mosheh",
+        "englishLiteral": "Drawn_Out (Moses)",
+        "englishNatural": "Drawn-Out (Moses)",
+        "root": "moshe",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמְר֣וּ אֶל־ **מֹשֶׁ֔ה** דַּבֵּר־ אַתָּ֥ה",
+        "transliteration": "vaYomru el- **Mosheh** dabber- attah",
+        "englishLiteral": "And-they-will-say to- **Drawn_Out (Moses),** \"Speak- you",
+        "englishNatural": "And they said to **Drawn-Out (Moses),** \"Speak you"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מֹשֶׁ֣ה",
+        "transliteration": "Mosheh",
+        "englishLiteral": "Drawn_Out (Moses)",
+        "englishNatural": "And Drawn-Out (Moses)",
+        "root": "moshe",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּ֨אמֶר **מֹשֶׁ֣ה** אֶל־ הָעָם֮",
+        "transliteration": "vaYomer **Mosheh** el- haAm",
+        "englishLiteral": "And-he-will-say **Drawn_Out (Moses)** to- the-people,",
+        "englishNatural": "**And Drawn-Out (Moses)** said to"
+      }
+    }
+  ]
+}

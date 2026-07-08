@@ -2695,8 +2695,8 @@
       "context": {
         "hebrew": "אָנֹכִ֖י יְהוָ֣ה **אֱלֹהֶ֑יךָ** אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ",
         "transliteration": "anokhi YHWH **Elohekha** asher hotsetikha",
-        "englishLiteral": "I He_Who_Is (YHWH) **Gods-your,** which I-have-brought_out-you",
-        "englishNatural": "I, He-Who-Is (YHWH) **your God,** which I have brought-out you"
+        "englishLiteral": "\"I He_Who_Is (YHWH) **Gods-your,** which I-have-brought_out-you",
+        "englishNatural": "\"I, He-Who-Is (YHWH) **your God,** which brought-you-out"
       }
     },
     {
@@ -2711,7 +2711,7 @@
         "originalScript": "אֱלֹהִ֥ים",
         "transliteration": "Elohim",
         "englishLiteral": "gods",
-        "englishNatural": "Other gods",
+        "englishNatural": "gods",
         "root": "eloah",
         "morphology": {
           "type": "noun"
@@ -2721,7 +2721,7 @@
         "hebrew": "יִהְיֶ֥ה־ לְךָ֛ **אֱלֹהִ֥ים** אֲחֵרִ֖ים עַל־",
         "transliteration": "yihyeh- lekha **Elohim** acherim al-",
         "englishLiteral": "he-will-be- to-you **gods** others over-",
-        "englishNatural": "**Other gods** others will be"
+        "englishNatural": "No other **gods** will be to you"
       }
     },
     {
@@ -2746,7 +2746,7 @@
         "hebrew": "אָנֹכִ֞י יְהוָ֤ה **אֱלֹהֶ֙יךָ֙** אֵ֣ל קַנָּ֔א",
         "transliteration": "anokhi YHWH **Elohekha** El qanna",
         "englishLiteral": "I He_Who_Is (YHWH) **Gods-your,** God jealous;",
-        "englishNatural": "I He-Who-Is (YHWH) **your God,** a God jealous;"
+        "englishNatural": "I, He-Who-Is (YHWH) **your God,** am a jealous God;"
       }
     },
     {
@@ -2822,6 +2822,56 @@
         "transliteration": "asher- YHWH **Elohekha** noten lakh",
         "englishLiteral": "which- He_Who_Is (YHWH) **Gods-your** giving to-you.",
         "englishNatural": "which He-Who-Is (YHWH) **your God** is giving to you."
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אֱלֹהִ֖ים",
+        "transliteration": "Elohim",
+        "englishLiteral": "Gods",
+        "englishNatural": "and God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְדַבֵּ֥ר עִמָּ֛נוּ **אֱלֹהִ֖ים** פֶּן־ נָמֽוּת׃",
+        "transliteration": "yeDabber immanu **Elohim** pen- namut",
+        "englishLiteral": "he-will-speak with-us **Gods** lest- we-will-die.\"",
+        "englishNatural": "with us and we will hear; **and God** will speak not"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "הָאֱלֹהִ֑ים",
+        "transliteration": "haElohim",
+        "englishLiteral": "the-Gods",
+        "englishNatural": "the God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶתְכֶ֔ם בָּ֖א **הָאֱלֹהִ֑ים** וּבַעֲב֗וּר תִּהְיֶ֧ה",
+        "transliteration": "etkhem ba **haElohim** uVaavur tihyeh",
+        "englishLiteral": "↳-you has-come **the-Gods;** and-for_sake_of she-will-be",
+        "englishNatural": "testing you **the God** has come; and for the sake of"
       }
     },
     {

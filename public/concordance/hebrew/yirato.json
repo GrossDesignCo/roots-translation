@@ -1,0 +1,32 @@
+{
+  "key": "yirato",
+  "language": "hebrew",
+  "root": "yirah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "יִרְאָת֛וֹ",
+        "transliteration": "yirato",
+        "englishLiteral": "fear-his",
+        "englishNatural": "his fear",
+        "root": "yirah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבַעֲב֗וּר תִּהְיֶ֧ה **יִרְאָת֛וֹ** עַל־ פְּנֵיכֶ֖ם",
+        "transliteration": "uVaavur tihyeh **yirato** al- peneikhem",
+        "englishLiteral": "and-for_sake_of she-will-be **fear-his** over- faces-your,",
+        "englishNatural": "has come; and for the sake of **his fear** will be over"
+      }
+    }
+  ]
+}

@@ -4,8 +4,9 @@ vaYityatzev imo sham
 vaYiqra beShem YHWH
 
 vaYaavor YHWH al-panav 
-vaYiqra YHWH YHWH El rachum 
-veChannun erekh apayim 
+vaYiqra
+YHWH YHWH El 
+rachum veChannun erekh apayim 
 veRav-chesed 
 veEmet
 

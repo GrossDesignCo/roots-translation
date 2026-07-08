@@ -3367,8 +3367,33 @@
       "context": {
         "hebrew": "וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ **וְכֹ֖ל** אֲשֶׁ֥ר לְרֵעֶֽךָ׃",
         "transliteration": "veShoro vaChamoro **veKhol** asher leReekha",
-        "englishLiteral": "and-ox-his and-donkey-his, **and-all** which to-friend-your.",
-        "englishNatural": "and his ox and his donkey, **and all** which is to your friend."
+        "englishLiteral": "and-ox-his and-donkey-his, **and-all** which to-friend-your.\"",
+        "englishNatural": "and his ox and his donkey, **and all** which is to your friend.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְכָל־",
+        "transliteration": "veKhol-",
+        "englishLiteral": "And-all-",
+        "englishNatural": "And all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**וְכָל־** הָעָם֩ רֹאִ֨ים",
+        "transliteration": "**veKhol-** haAm roim",
+        "englishLiteral": "**And-all-** the-people seeing",
+        "englishNatural": "**And all** the people were seeing"
       }
     },
     {

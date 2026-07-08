@@ -112,6 +112,60 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "דַּבֵּר־",
+        "transliteration": "dabber-",
+        "englishLiteral": "Speak-",
+        "englishNatural": "Speak",
+        "root": "dabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ מֹשֶׁ֔ה **דַּבֵּר־** אַתָּ֥ה עִמָּ֖נוּ",
+        "transliteration": "el- Mosheh **dabber-** attah immanu",
+        "englishLiteral": "to- Drawn_Out (Moses), **\"Speak-** you with-us",
+        "englishNatural": "to Drawn-Out (Moses), **\"Speak** you with us"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "יְדַבֵּ֥ר",
+        "transliteration": "yeDabber",
+        "englishLiteral": "he-will-speak",
+        "englishNatural": "will speak",
+        "root": "dabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "וְנִשְׁמָ֑עָה וְאַל־ **יְדַבֵּ֥ר** עִמָּ֛נוּ אֱלֹהִ֖ים",
+        "transliteration": "veNishmaah veAl- **yeDabber** immanu Elohim",
+        "englishLiteral": "and-we-will-hear; and-not- **he-will-speak** with-us Gods",
+        "englishNatural": "and we will hear; and God **will speak** not with us,"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 7

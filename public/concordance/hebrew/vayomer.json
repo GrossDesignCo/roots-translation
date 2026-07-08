@@ -1652,6 +1652,33 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיֹּ֨אמֶר",
+        "transliteration": "vaYomer",
+        "englishLiteral": "And-he-will-say",
+        "englishNatural": "said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּ֨אמֶר** מֹשֶׁ֣ה אֶל־",
+        "transliteration": "**vaYomer** Mosheh el-",
+        "englishLiteral": "**And-he-will-say** Drawn_Out (Moses) to-",
+        "englishNatural": "And Drawn-Out (Moses) **said** to the people,"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 8

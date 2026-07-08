@@ -54,6 +54,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אַתָּ֥ה",
+        "transliteration": "attah",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "attah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "מֹשֶׁ֔ה דַּבֵּר־ **אַתָּ֥ה** עִמָּ֖נוּ וְנִשְׁמָ֑עָה",
+        "transliteration": "Mosheh dabber- **attah** immanu veNishmaah",
+        "englishLiteral": "Drawn_Out (Moses), \"Speak- **you** with-us and-we-will-hear;",
+        "englishNatural": "Drawn-Out (Moses), \"Speak **you** with us and we will hear;"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 4,
         "verse": 3

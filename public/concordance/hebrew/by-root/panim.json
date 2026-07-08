@@ -989,7 +989,7 @@
         "originalScript": "פָּנָֽי׃",
         "transliteration": "panai",
         "englishLiteral": "faces-my",
-        "englishNatural": "my faces",
+        "englishNatural": "my face",
         "root": "panim",
         "morphology": {
           "type": "noun"
@@ -999,7 +999,32 @@
         "hebrew": "אֲחֵרִ֖ים עַל־ **פָּנָֽי׃**",
         "transliteration": "acherim al- **panai**",
         "englishLiteral": "others over- **faces-my.**",
-        "englishNatural": "to you over **my faces.**"
+        "englishNatural": "to you over **my face.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "פְּנֵיכֶ֖ם",
+        "transliteration": "peneikhem",
+        "englishLiteral": "faces-your",
+        "englishNatural": "your faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִרְאָת֛וֹ עַל־ **פְּנֵיכֶ֖ם** לְבִלְתִּ֥י תֶחֱטָֽאוּ׃",
+        "transliteration": "yirato al- **peneikhem** leBilti techetau",
+        "englishLiteral": "fear-his over- **faces-your,** to-not you-will-sin.\"",
+        "englishNatural": "will be over **your faces,** to not let you sin.\""
       }
     },
     {

@@ -758,6 +758,33 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בָּ֖א",
+        "transliteration": "ba",
+        "englishLiteral": "has-come",
+        "englishNatural": "has come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נַסּ֣וֹת אֶתְכֶ֔ם **בָּ֖א** הָאֱלֹהִ֑ים וּבַעֲב֗וּר",
+        "transliteration": "nassot etkhem **ba** haElohim uVaavur",
+        "englishLiteral": "testing ↳-you **has-come** the-Gods; and-for_sake_of",
+        "englishNatural": "you the God **has come;** and for the sake of his fear"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 7

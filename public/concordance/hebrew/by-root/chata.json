@@ -29,6 +29,33 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "תֶחֱטָֽאוּ׃",
+        "transliteration": "techetau",
+        "englishLiteral": "you-will-sin",
+        "englishNatural": "let you sin",
+        "root": "chata",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פְּנֵיכֶ֖ם לְבִלְתִּ֥י **תֶחֱטָֽאוּ׃**",
+        "transliteration": "peneikhem leBilti **techetau**",
+        "englishLiteral": "faces-your, to-not **you-will-sin.\"**",
+        "englishNatural": "your faces, to not **let you sin.\"**"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 7

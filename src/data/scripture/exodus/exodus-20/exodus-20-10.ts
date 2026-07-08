@@ -212,6 +212,9 @@ export const exodus_20_10: Verse = {
         englishLiteral: ',',
         englishNatural: ',',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'וַאֲמָתְךָ֣',
@@ -250,6 +253,9 @@ export const exodus_20_10: Verse = {
         englishLiteral: ',',
         englishNatural: ',',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'וְגֵרְךָ֙',
@@ -264,6 +270,9 @@ export const exodus_20_10: Verse = {
         type: 'noun',
         gender: 'masculine',
         number: 'singular',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -308,6 +317,6 @@ export const exodus_20_10: Verse = {
     englishNatural:
       'And the day the seventh is a Sabbath to He-Who-Is (YHWH) your God. You will make not any work: you, and your son, and your daughter, your servant, and your maidservant, and your beast, and your sojourner which is in your gates.',
     kjv: 'But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

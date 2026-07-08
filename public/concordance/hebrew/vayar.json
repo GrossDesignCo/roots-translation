@@ -248,6 +248,33 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "וַיַּ֤רְא",
+        "transliteration": "vaYar",
+        "englishLiteral": "and-he-will-see",
+        "englishNatural": "saw",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָהָ֖ר עָשֵׁ֑ן **וַיַּ֤רְא** הָעָם֙ וַיָּנֻ֔עוּ",
+        "transliteration": "haHar ashen **vaYar** haAm vaYanuu",
+        "englishLiteral": "the-mountain smoking; **and-he-will-see** the-people and-they-will-tremble",
+        "englishNatural": "smoking; and the people **saw** and they trembled and they stood"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 3,
         "verse": 10

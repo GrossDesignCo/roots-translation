@@ -48,6 +48,9 @@ export const exodus_20_14: Verse = {
       grammarSuffix: {
         englishLiteral: '.',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
       lineBreaksAfter: {
         hebrew: 1,
       },
@@ -59,6 +62,6 @@ export const exodus_20_14: Verse = {
     englishLiteral: 'Not you-will-commit_adultery.',
     englishNatural: 'You will commit-adultery not.',
     kjv: 'Thou shalt not commit adultery.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

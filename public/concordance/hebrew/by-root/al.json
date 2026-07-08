@@ -1549,7 +1549,7 @@
         "hebrew": "אֱלֹהִ֥ים אֲחֵרִ֖ים **עַל־** פָּנָֽי׃",
         "transliteration": "Elohim acherim **al-** panai",
         "englishLiteral": "gods others **over-** faces-my.",
-        "englishNatural": "not to you **over** my faces."
+        "englishNatural": "will be to you **over** my face."
       }
     },
     {
@@ -1622,7 +1622,7 @@
       },
       "context": {
         "hebrew": "עַל־ שִׁלֵּשִׁ֥ים **וְעַל־** רִבֵּעִ֖ים לְשֹׂנְאָֽי׃",
-        "transliteration": "al- shilleshim **veAl-** ribbeIm leSoneai",
+        "transliteration": "al- shilleshim **veAl-** ribbeim leSoneai",
         "englishLiteral": "over- third_ones **and-over-** fourth_ones to-hating-me.",
         "englishNatural": "over third-ones **and over** fourth-ones to ones hating me."
       }
@@ -1639,7 +1639,7 @@
         "originalScript": "עַל־",
         "transliteration": "al-",
         "englishLiteral": "Over-",
-        "englishNatural": "Therefore",
+        "englishNatural": "moreover",
         "root": "al",
         "morphology": {
           "type": "preposition"
@@ -1649,7 +1649,7 @@
         "hebrew": "בַּיּ֣וֹם הַשְּׁבִיעִ֑י **עַל־** כֵּ֗ן בֵּרַ֧ךְ",
         "transliteration": "baYom haShevii **al-** ken berakh",
         "englishLiteral": "in-the-day the-seventh. **Over-** so has-blessed",
-        "englishNatural": "in the day the seventh. **Therefore** so has blessed"
+        "englishNatural": "the seventh. So **moreover** He-Who-Is (YHWH) has blessed"
       }
     },
     {
@@ -1673,8 +1673,33 @@
       "context": {
         "hebrew": "יַאֲרִכ֣וּן יָמֶ֔יךָ **עַ֚ל** הָ֣אֲדָמָ֔ה אֲשֶׁר־",
         "transliteration": "yaarikhun yamekha **al** haAdamah asher-",
-        "englishLiteral": "they-will-be_long days-your **over** the-ground which-",
-        "englishNatural": "your days will be-long **over** the ground which"
+        "englishLiteral": "they-will-be_long days-your **over** the-earth which-",
+        "englishNatural": "your days, they will be-long **over** the earth which"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "תִּהְיֶ֧ה יִרְאָת֛וֹ **עַל־** פְּנֵיכֶ֖ם לְבִלְתִּ֥י",
+        "transliteration": "tihyeh yirato **al-** peneikhem leBilti",
+        "englishLiteral": "she-will-be fear-his **over-** faces-your, to-not",
+        "englishNatural": "his fear will be **over** your faces, to not"
       }
     },
     {

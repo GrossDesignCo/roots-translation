@@ -255,6 +255,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "הָאֱלֹהִ֑ים",
+        "transliteration": "haElohim",
+        "englishLiteral": "the-Gods",
+        "englishNatural": "the God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶתְכֶ֔ם בָּ֖א **הָאֱלֹהִ֑ים** וּבַעֲב֗וּר תִּהְיֶ֧ה",
+        "transliteration": "etkhem ba **haElohim** uVaavur tihyeh",
+        "englishLiteral": "↳-you has-come **the-Gods;** and-for_sake_of she-will-be",
+        "englishNatural": "testing you **the God** has come; and for the sake of"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 6

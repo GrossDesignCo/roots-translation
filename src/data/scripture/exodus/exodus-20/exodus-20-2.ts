@@ -19,9 +19,14 @@ export const exodus_20_2: Verse = {
         person: '1st',
         number: 'singular',
       },
+      grammarPrefix: {
+        englishLiteral: '"',
+        englishNatural: '"',
+      },
       grammarSuffix: {
         englishNatural: ',',
-      }
+      },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'יְהוָ֣ה',
@@ -67,7 +72,7 @@ export const exodus_20_2: Verse = {
       hebrew: 'הוֹצֵאתִ֛יךָ',
       transliteration: 'hotsetikha',
       englishLiteral: 'I-have-brought_out-you',
-      englishNatural: 'I have brought-out you',
+      englishNatural: 'brought-you-out',
       root: 'yatsa',
       suffixes: ['ekha'],
       order: 5,
@@ -152,10 +157,10 @@ export const exodus_20_2: Verse = {
     transliteration:
       'anokhi YHWH Elohekha asher hotsetikha meEretz Mitsrayim miBeit avadim',
     englishLiteral:
-      'I He_Who_Is (YHWH) Gods-your, which I-have-brought_out-you from-land-of Double_Narrows (Egypt), from-house-of servants.',
+      '"I He_Who_Is (YHWH) Gods-your, which I-have-brought_out-you from-land-of Double_Narrows (Egypt), from-house-of servants.',
     englishNatural:
-      'I, He-Who-Is (YHWH) your God, which I have brought-out you from the land of Double-Narrows (Egypt), from the house of servants.',
+      '"I, He-Who-Is (YHWH) your God, which brought-you-out from the land of Double-Narrows (Egypt), from the house of servants.',
     kjv: 'I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

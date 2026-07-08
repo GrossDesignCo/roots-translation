@@ -16,6 +16,9 @@ import { exodus_20_14 } from './exodus-20-14';
 import { exodus_20_15 } from './exodus-20-15';
 import { exodus_20_16 } from './exodus-20-16';
 import { exodus_20_17 } from './exodus-20-17';
+import { exodus_20_18 } from './exodus-20-18';
+import { exodus_20_19 } from './exodus-20-19';
+import { exodus_20_20 } from './exodus-20-20';
 
 const chapter: Chapter = {
   meta: {
@@ -40,6 +43,9 @@ const chapter: Chapter = {
     exodus_20_15,
     exodus_20_16,
     exodus_20_17,
+    exodus_20_18,
+    exodus_20_19,
+    exodus_20_20,
   ],
 };
 

@@ -20,7 +20,8 @@ export const exodus_20_8: Verse = {
         person: '2nd',
         tense: 'infinitive_absolute',
         stem: 'qal',
-      },
+      },  
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אֶת־',
@@ -92,6 +93,6 @@ export const exodus_20_8: Verse = {
     englishLiteral: 'Remember ↳ day-of the-Sabbath, to-sanctify-it.',
     englishNatural: 'Remember the day of the Sabbath, to sanctify it.',
     kjv: 'Remember the sabbath day, to keep it holy.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

@@ -501,7 +501,51 @@
         "hebrew": "אֶת־ אָבִ֖יךָ **וְאֶת־** אִמֶּ֑ךָ לְמַ֙עַן֙",
         "transliteration": "et- avikha **veEt-** immekha leMaan",
         "englishLiteral": "↳ father-your **and-↳** mother-your; to-sake",
-        "englishNatural": "↳ your father **and** your mother; for the sake"
+        "englishNatural": "↳ your father **and** your mother; for the sake of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "אֶת־ הַקּוֹלֹ֜ת **וְאֶת־** הַלַּפִּידִ֗ם וְאֵת֙",
+        "transliteration": "et- haQolot **veEt-** haLappidim veEt",
+        "englishLiteral": "↳ the-voices **and-↳** the-torches and-↳",
+        "englishNatural": "↳ the voices **and** the torches and"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "ק֣וֹל הַשֹּׁפָ֔ר **וְאֶת־** הָהָ֖ר עָשֵׁ֑ן",
+        "transliteration": "qol haShofar **veEt-** haHar ashen",
+        "englishLiteral": "voice-of the-horn **and-↳** the-mountain smoking;",
+        "englishNatural": "the voice of the horn **and** the mountain smoking;"
       }
     },
     {

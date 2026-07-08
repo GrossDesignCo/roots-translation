@@ -1,0 +1,31 @@
+{
+  "root": "rachoq",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "מֵרָחֹֽק׃",
+        "transliteration": "meRachoq",
+        "englishLiteral": "from-afar",
+        "englishNatural": "from afar",
+        "root": "rachoq",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּנֻ֔עוּ וַיַּעַמְד֖וּ **מֵרָחֹֽק׃**",
+        "transliteration": "vaYanuu vaYaamdu **meRachoq**",
+        "englishLiteral": "and-they-will-tremble and-they-will-stand **from-afar.**",
+        "englishNatural": "and they trembled and they stood **from afar.**"
+      }
+    }
+  ]
+}

@@ -4,8 +4,10 @@ and positioned himself with him there,
 and called-out in the name of He-Who-Is (YHWH).
 
 And He-Who-Is (YHWH) passed through over his face, 
-and called-out, "He-Who-Is (YHWH), He-Who-Is (YHWH), God, compassionate, 
-and gracious, long of nostrils, 
+and called-out,
+"He-Who-Is (YHWH), He-Who-Is (YHWH), God, 
+compassionate, and gracious,
+long of nostrils, 
 and abundant in steadfast-love 
 and truth.
 preserving steadfast-love for thousands, 

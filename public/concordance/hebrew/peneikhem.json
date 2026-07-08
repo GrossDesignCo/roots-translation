@@ -1,0 +1,32 @@
+{
+  "key": "peneikhem",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "פְּנֵיכֶ֖ם",
+        "transliteration": "peneikhem",
+        "englishLiteral": "faces-your",
+        "englishNatural": "your faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִרְאָת֛וֹ עַל־ **פְּנֵיכֶ֖ם** לְבִלְתִּ֥י תֶחֱטָֽאוּ׃",
+        "transliteration": "yirato al- **peneikhem** leBilti techetau",
+        "englishLiteral": "fear-his over- **faces-your,** to-not you-will-sin.\"",
+        "englishNatural": "will be over **your faces,** to not let you sin.\""
+      }
+    }
+  ]
+}

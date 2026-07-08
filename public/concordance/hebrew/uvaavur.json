@@ -1,0 +1,32 @@
+{
+  "key": "uvaavur",
+  "language": "hebrew",
+  "root": "baavur",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "וּבַעֲב֗וּר",
+        "transliteration": "uVaavur",
+        "englishLiteral": "and-for_sake_of",
+        "englishNatural": "and for the sake of",
+        "root": "baavur",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בָּ֖א הָאֱלֹהִ֑ים **וּבַעֲב֗וּר** תִּהְיֶ֧ה יִרְאָת֛וֹ",
+        "transliteration": "ba haElohim **uVaavur** tihyeh yirato",
+        "englishLiteral": "has-come the-Gods; **and-for_sake_of** she-will-be fear-his",
+        "englishNatural": "the God has come; **and for the sake of** his fear will be"
+      }
+    }
+  ]
+}

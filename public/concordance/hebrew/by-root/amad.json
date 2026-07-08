@@ -31,6 +31,33 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "וַיַּעַמְד֖וּ",
+        "transliteration": "vaYaamdu",
+        "englishLiteral": "and-they-will-stand",
+        "englishNatural": "and they stood",
+        "root": "amad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָעָם֙ וַיָּנֻ֔עוּ **וַיַּעַמְד֖וּ** מֵרָחֹֽק׃",
+        "transliteration": "haAm vaYanuu **vaYaamdu** meRachoq",
+        "englishLiteral": "the-people and-they-will-tremble **and-they-will-stand** from-afar.",
+        "englishNatural": "saw and they trembled **and they stood** from afar."
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 1

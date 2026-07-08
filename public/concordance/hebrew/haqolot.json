@@ -1,0 +1,32 @@
+{
+  "key": "haqolot",
+  "language": "hebrew",
+  "root": "qol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הַקּוֹלֹ֜ת",
+        "transliteration": "haQolot",
+        "englishLiteral": "the-voices",
+        "englishNatural": "the voices",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רֹאִ֨ים אֶת־ **הַקּוֹלֹ֜ת** וְאֶת־ הַלַּפִּידִ֗ם",
+        "transliteration": "roim et- **haQolot** veEt- haLappidim",
+        "englishLiteral": "seeing ↳ **the-voices** and-↳ the-torches",
+        "englishNatural": "were seeing ↳ **the voices** and the torches"
+      }
+    }
+  ]
+}

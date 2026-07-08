@@ -1,0 +1,34 @@
+{
+  "key": "nassot",
+  "language": "hebrew",
+  "root": "nasah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "נַסּ֣וֹת",
+        "transliteration": "nassot",
+        "englishLiteral": "testing",
+        "englishNatural": "testing",
+        "root": "nasah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֗י לְבַעֲבוּר֙ **נַסּ֣וֹת** אֶתְכֶ֔ם בָּ֖א",
+        "transliteration": "ki leBaavur **nassot** etkhem ba",
+        "englishLiteral": "that to-for_sake_of **testing** ↳-you has-come",
+        "englishNatural": "that to the sake of **testing** you the God"
+      }
+    }
+  ]
+}

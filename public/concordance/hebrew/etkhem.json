@@ -127,6 +127,31 @@
         "englishLiteral": "banishing he-will-banish **↳-you** from-this.",
         "englishNatural": "banishing he will banish **you** from this."
       }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אֶתְכֶ֔ם",
+        "transliteration": "etkhem",
+        "englishLiteral": "↳-you",
+        "englishNatural": "you",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "לְבַעֲבוּר֙ נַסּ֣וֹת **אֶתְכֶ֔ם** בָּ֖א הָאֱלֹהִ֑ים",
+        "transliteration": "leBaavur nassot **etkhem** ba haElohim",
+        "englishLiteral": "to-for_sake_of testing **↳-you** has-come the-Gods;",
+        "englishNatural": "to the sake of testing **you** the God has come;"
+      }
     }
   ]
 }

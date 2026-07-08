@@ -1,0 +1,34 @@
+{
+  "key": "namut",
+  "language": "hebrew",
+  "root": "mot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "נָמֽוּת׃",
+        "transliteration": "namut",
+        "englishLiteral": "we-will-die",
+        "englishNatural": "we die",
+        "root": "mot",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִ֖ים פֶּן־ **נָמֽוּת׃**",
+        "transliteration": "Elohim pen- **namut**",
+        "englishLiteral": "Gods lest- **we-will-die.\"**",
+        "englishNatural": "with us, lest **we die.\"**"
+      }
+    }
+  ]
+}

@@ -80,6 +80,56 @@
     {
       "location": {
         "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "עִמָּ֖נוּ",
+        "transliteration": "immanu",
+        "englishLiteral": "with-us",
+        "englishNatural": "with us",
+        "root": "im_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "דַּבֵּר־ אַתָּ֥ה **עִמָּ֖נוּ** וְנִשְׁמָ֑עָה וְאַל־",
+        "transliteration": "dabber- attah **immanu** veNishmaah veAl-",
+        "englishLiteral": "\"Speak- you **with-us** and-we-will-hear; and-not-",
+        "englishNatural": "\"Speak you **with us** and we will hear; and God"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "עִמָּ֛נוּ",
+        "transliteration": "immanu",
+        "englishLiteral": "with-us",
+        "englishNatural": "with us",
+        "root": "im_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַל־ יְדַבֵּ֥ר **עִמָּ֛נוּ** אֱלֹהִ֖ים פֶּן־",
+        "transliteration": "veAl- yeDabber **immanu** Elohim pen-",
+        "englishLiteral": "and-not- he-will-speak **with-us** Gods lest-",
+        "englishNatural": "will speak not **with us,** lest we die.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
         "chapter": 34,
         "verse": 5
       },

@@ -5103,14 +5103,14 @@
         "originalScript": "אֵ֛ת",
         "transliteration": "et",
         "englishLiteral": "↳",
-        "englishNatural": "",
+        "englishNatural": "him",
         "root": "et"
       },
       "context": {
         "hebrew": "יְנַקֶּה֙ יְהוָ֔ה **אֵ֛ת** אֲשֶׁר־ יִשָּׂ֥א",
         "transliteration": "yeNaqqeh YHWH **et** asher- yissa",
         "englishLiteral": "he-will-be_clean He_Who_Is (YHWH) **↳** which- he-will-lift_up",
-        "englishNatural": "will be-clean not **↳** which will lift-up"
+        "englishNatural": "will hold-clean not **him** which lifts-up"
       }
     },
     {
@@ -5132,7 +5132,7 @@
         "hebrew": "אֲשֶׁר־ יִשָּׂ֥א **אֶת־** שְׁמ֖וֹ לַשָּֽׁוְא׃",
         "transliteration": "asher- yissa **et-** shemo laShav",
         "englishLiteral": "which- he-will-lift_up **↳** name-his to-the-emptiness.",
-        "englishNatural": "which will lift-up **↳** his name to the emptiness."
+        "englishNatural": "which lifts-up **↳** his name to the emptiness."
       }
     },
     {
@@ -5176,7 +5176,7 @@
         "hebrew": "עָשָׂ֨ה יְהוָ֜ה **אֶת־** הַשָּׁמַ֣יִם וְאֶת־",
         "transliteration": "asah YHWH **et-** haShamayim veEt-",
         "englishLiteral": "has-made He_Who_Is (YHWH) **↳** the-skies and-↳",
-        "englishNatural": "has made He-Who-Is (YHWH) **↳** the skies and"
+        "englishNatural": "He-Who-Is (YHWH) has made **↳** the skies and"
       }
     },
     {
@@ -5264,7 +5264,7 @@
         "hebrew": "בֵּרַ֧ךְ יְהוָ֛ה **אֶת־** י֥וֹם הַשַּׁבָּ֖ת",
         "transliteration": "berakh YHWH **et-** yom haShabbat",
         "englishLiteral": "has-blessed He_Who_Is (YHWH) **↳** day-of the-Sabbath",
-        "englishNatural": "has blessed He-Who-Is (YHWH) **↳** the day of the Sabbath"
+        "englishNatural": "He-Who-Is (YHWH) has blessed **↳** the day of the Sabbath"
       }
     },
     {
@@ -5288,8 +5288,8 @@
       "context": {
         "hebrew": "כַּבֵּ֥ד **אֶת־** אָבִ֖יךָ וְאֶת־",
         "transliteration": "kabbed **et-** avikha veEt-",
-        "englishLiteral": "Be_heavy-upon **↳** father-your and-↳",
-        "englishNatural": "Be-heavy upon **↳** your father and"
+        "englishLiteral": "Treat_heavily **↳** father-your and-↳",
+        "englishNatural": "Treat-heavily **↳** your father and"
       }
     },
     {
@@ -5311,7 +5311,120 @@
         "hebrew": "אֶת־ אָבִ֖יךָ **וְאֶת־** אִמֶּ֑ךָ לְמַ֙עַן֙",
         "transliteration": "et- avikha **veEt-** immekha leMaan",
         "englishLiteral": "↳ father-your **and-↳** mother-your; to-sake",
-        "englishNatural": "↳ your father **and** your mother; for the sake"
+        "englishNatural": "↳ your father **and** your mother; for the sake of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "הָעָם֩ רֹאִ֨ים **אֶת־** הַקּוֹלֹ֜ת וְאֶת־",
+        "transliteration": "haAm roim **et-** haQolot veEt-",
+        "englishLiteral": "the-people seeing **↳** the-voices and-↳",
+        "englishNatural": "the people were seeing **↳** the voices and"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "אֶת־ הַקּוֹלֹ֜ת **וְאֶת־** הַלַּפִּידִ֗ם וְאֵת֙",
+        "transliteration": "et- haQolot **veEt-** haLappidim veEt",
+        "englishLiteral": "↳ the-voices **and-↳** the-torches and-↳",
+        "englishNatural": "↳ the voices **and** the torches and"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְאֵת֙",
+        "transliteration": "veEt",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הַלַּפִּידִ֗ם **וְאֵת֙** ק֣וֹל הַשֹּׁפָ֔ר",
+        "transliteration": "veEt- haLappidim **veEt** qol haShofar",
+        "englishLiteral": "and-↳ the-torches **and-↳** voice-of the-horn",
+        "englishNatural": "and the torches **and** the voice of the horn"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et"
+      },
+      "context": {
+        "hebrew": "ק֣וֹל הַשֹּׁפָ֔ר **וְאֶת־** הָהָ֖ר עָשֵׁ֑ן",
+        "transliteration": "qol haShofar **veEt-** haHar ashen",
+        "englishLiteral": "voice-of the-horn **and-↳** the-mountain smoking;",
+        "englishNatural": "the voice of the horn **and** the mountain smoking;"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אֶתְכֶ֔ם",
+        "transliteration": "etkhem",
+        "englishLiteral": "↳-you",
+        "englishNatural": "you",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "לְבַעֲבוּר֙ נַסּ֣וֹת **אֶתְכֶ֔ם** בָּ֖א הָאֱלֹהִ֑ים",
+        "transliteration": "leBaavur nassot **etkhem** ba haElohim",
+        "englishLiteral": "to-for_sake_of testing **↳-you** has-come the-Gods;",
+        "englishNatural": "to the sake of testing **you** the God has come;"
       }
     },
     {

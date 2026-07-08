@@ -255,6 +255,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְכָל־",
+        "transliteration": "veKhol-",
+        "englishLiteral": "And-all-",
+        "englishNatural": "And all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**וְכָל־** הָעָם֩ רֹאִ֨ים",
+        "transliteration": "**veKhol-** haAm roim",
+        "englishLiteral": "**And-all-** the-people seeing",
+        "englishNatural": "**And all** the people were seeing"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 10

@@ -1937,7 +1937,7 @@
         "originalScript": "אֱלֹהִ֥ים",
         "transliteration": "Elohim",
         "englishLiteral": "gods",
-        "englishNatural": "Other gods",
+        "englishNatural": "gods",
         "root": "eloah",
         "morphology": {
           "type": "noun"
@@ -1947,7 +1947,32 @@
         "hebrew": "יִהְיֶ֥ה־ לְךָ֛ **אֱלֹהִ֥ים** אֲחֵרִ֖ים עַל־",
         "transliteration": "yihyeh- lekha **Elohim** acherim al-",
         "englishLiteral": "he-will-be- to-you **gods** others over-",
-        "englishNatural": "**Other gods** others will be"
+        "englishNatural": "No other **gods** will be to you"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אֱלֹהִ֖ים",
+        "transliteration": "Elohim",
+        "englishLiteral": "Gods",
+        "englishNatural": "and God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְדַבֵּ֥ר עִמָּ֛נוּ **אֱלֹהִ֖ים** פֶּן־ נָמֽוּת׃",
+        "transliteration": "yeDabber immanu **Elohim** pen- namut",
+        "englishLiteral": "he-will-speak with-us **Gods** lest- we-will-die.\"",
+        "englishNatural": "with us and we will hear; **and God** will speak not"
       }
     },
     {

@@ -1,0 +1,34 @@
+{
+  "key": "ashen",
+  "language": "hebrew",
+  "root": "ashan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "עָשֵׁ֑ן",
+        "transliteration": "ashen",
+        "englishLiteral": "smoking",
+        "englishNatural": "smoking",
+        "root": "ashan",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הָהָ֖ר **עָשֵׁ֑ן** וַיַּ֤רְא הָעָם֙",
+        "transliteration": "veEt- haHar **ashen** vaYar haAm",
+        "englishLiteral": "and-↳ the-mountain **smoking;** and-he-will-see the-people",
+        "englishNatural": "and the mountain **smoking;** and the people saw"
+      }
+    }
+  ]
+}

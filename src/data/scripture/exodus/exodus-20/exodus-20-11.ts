@@ -50,7 +50,10 @@ export const exodus_20_11: Verse = {
       englishLiteral: 'has-made',
       englishNatural: 'has made',
       root: 'asah',
-      order: 4,
+      order: {
+        hebrew: 4,
+        english: 5,
+      },
       morphology: {
         type: 'verb',
         gender: 'masculine',
@@ -66,7 +69,10 @@ export const exodus_20_11: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: 5,
+      order: {
+        hebrew: 5,
+        english: 4,
+      },
       morphology: {
         type: 'noun',
       },
@@ -243,9 +249,12 @@ export const exodus_20_11: Verse = {
       hebrew: 'עַל־',
       transliteration: 'al-',
       englishLiteral: 'Over-',
-      englishNatural: 'Therefore',
+      englishNatural: 'moreover',
       root: 'al',
-      order: 19,
+      order: {
+        hebrew: 19,
+        english: 20,
+      },
       morphology: {
         type: 'preposition',
       },
@@ -254,9 +263,12 @@ export const exodus_20_11: Verse = {
       hebrew: 'כֵּ֗ן',
       transliteration: 'ken',
       englishLiteral: 'so',
-      englishNatural: '',
+      englishNatural: 'So',
       root: 'ken',
-      order: 20,
+      order: {
+        hebrew: 20,
+        english: 19,
+      },
       morphology: {
         type: 'adverb',
       },
@@ -267,7 +279,10 @@ export const exodus_20_11: Verse = {
       englishLiteral: 'has-blessed',
       englishNatural: 'has blessed',
       root: 'barakh',
-      order: 21,
+      order: {
+        hebrew: 21,
+        english: 22,
+      },
       morphology: {
         type: 'verb',
         gender: 'masculine',
@@ -283,7 +298,10 @@ export const exodus_20_11: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: 22,
+      order: {
+        hebrew: 22,
+        english: 21,
+      },
       morphology: {
         type: 'noun',
       },
@@ -345,6 +363,9 @@ export const exodus_20_11: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
       lineBreaksAfter: 1,
     },
   ],
@@ -358,6 +379,6 @@ export const exodus_20_11: Verse = {
     englishNatural:
       'That in six days has made He-Who-Is (YHWH) the skies and the land, the sea and all which is in them; and he rested in the day the seventh. Therefore has blessed He-Who-Is (YHWH) the day of the Sabbath and sanctified it.',
     kjv: 'For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

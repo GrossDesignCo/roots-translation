@@ -1225,7 +1225,7 @@
         "hebrew": "אֱלֹהִ֥ים אֲחֵרִ֖ים **עַל־** פָּנָֽי׃",
         "transliteration": "Elohim acherim **al-** panai",
         "englishLiteral": "gods others **over-** faces-my.",
-        "englishNatural": "not to you **over** my faces."
+        "englishNatural": "will be to you **over** my face."
       }
     },
     {
@@ -1290,7 +1290,7 @@
         "originalScript": "עַל־",
         "transliteration": "al-",
         "englishLiteral": "Over-",
-        "englishNatural": "Therefore",
+        "englishNatural": "moreover",
         "root": "al",
         "morphology": {
           "type": "preposition"
@@ -1300,7 +1300,57 @@
         "hebrew": "בַּיּ֣וֹם הַשְּׁבִיעִ֑י **עַל־** כֵּ֗ן בֵּרַ֧ךְ",
         "transliteration": "baYom haShevii **al-** ken berakh",
         "englishLiteral": "in-the-day the-seventh. **Over-** so has-blessed",
-        "englishNatural": "in the day the seventh. **Therefore** so has blessed"
+        "englishNatural": "the seventh. So **moreover** He-Who-Is (YHWH) has blessed"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הָעָם֮ **אַל־** תִּירָאוּ֒ כִּ֗י",
+        "transliteration": "el- haAm **al-** tirau ki",
+        "englishLiteral": "to- the-people, **\"not-** you-will-fear; that",
+        "englishNatural": "the people, \"You will fear **not;** that to the sake of"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "תִּהְיֶ֧ה יִרְאָת֛וֹ **עַל־** פְּנֵיכֶ֖ם לְבִלְתִּ֥י",
+        "transliteration": "tihyeh yirato **al-** peneikhem leBilti",
+        "englishLiteral": "she-will-be fear-his **over-** faces-your, to-not",
+        "englishNatural": "his fear will be **over** your faces, to not"
       }
     },
     {

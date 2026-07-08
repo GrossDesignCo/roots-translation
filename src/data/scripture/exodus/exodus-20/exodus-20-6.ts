@@ -70,6 +70,9 @@ export const exodus_20_6: Verse = {
         tense: 'participle',
         stem: 'qal',
       },
+      lineBreaksBefore: {
+        english: 1,
+      }
     },
     {
       hebrew: 'וּלְשֹׁמְרֵ֥י',
@@ -85,6 +88,9 @@ export const exodus_20_6: Verse = {
         tense: 'participle',
         stem: 'qal',
         state: 'construct',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -115,6 +121,6 @@ export const exodus_20_6: Verse = {
     englishNatural:
       'And making steadfast-love to thousands, to ones loving me and to ones keeping my commandments.',
     kjv: 'And shewing mercy unto thousands of them that love me, and keep my commandments.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

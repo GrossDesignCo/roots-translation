@@ -79,6 +79,31 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "הָהָ֖ר",
+        "transliteration": "haHar",
+        "englishLiteral": "the-mountain",
+        "englishNatural": "the mountain",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשֹּׁפָ֔ר וְאֶת־ **הָהָ֖ר** עָשֵׁ֑ן וַיַּ֤רְא",
+        "transliteration": "haShofar veEt- **haHar** ashen vaYar",
+        "englishLiteral": "the-horn and-↳ **the-mountain** smoking; and-he-will-see",
+        "englishNatural": "the horn and **the mountain** smoking; and the people"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 3,
         "verse": 4

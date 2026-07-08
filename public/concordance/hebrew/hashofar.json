@@ -1,0 +1,32 @@
+{
+  "key": "hashofar",
+  "language": "hebrew",
+  "root": "shofar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הַשֹּׁפָ֔ר",
+        "transliteration": "haShofar",
+        "englishLiteral": "the-horn",
+        "englishNatural": "the horn",
+        "root": "shofar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵת֙ ק֣וֹל **הַשֹּׁפָ֔ר** וְאֶת־ הָהָ֖ר",
+        "transliteration": "veEt qol **haShofar** veEt- haHar",
+        "englishLiteral": "and-↳ voice-of **the-horn** and-↳ the-mountain",
+        "englishNatural": "and the voice of **the horn** and the mountain"
+      }
+    }
+  ]
+}

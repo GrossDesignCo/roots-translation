@@ -20,6 +20,9 @@ export const exodus_20_7: Verse = {
       morphology: {
         type: 'adverb',
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'תִשָּׂ֛א',
@@ -38,6 +41,9 @@ export const exodus_20_7: Verse = {
         person: '2nd',
         tense: 'imperfect',
         stem: 'qal',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -135,7 +141,7 @@ export const exodus_20_7: Verse = {
       hebrew: 'יְנַקֶּה֙',
       transliteration: 'yeNaqqeh',
       englishLiteral: 'he-will-be_clean',
-      englishNatural: 'will be-clean',
+      englishNatural: 'will hold-clean',
       root: 'naqah',
       order: {
         hebrew: 10,
@@ -168,7 +174,7 @@ export const exodus_20_7: Verse = {
       hebrew: 'אֵ֛ת',
       transliteration: 'et',
       englishLiteral: '↳',
-      englishNatural: '',
+      englishNatural: 'him',
       root: 'et',
       order: 12,
     },
@@ -187,7 +193,7 @@ export const exodus_20_7: Verse = {
       hebrew: 'יִשָּׂ֥א',
       transliteration: 'yissa',
       englishLiteral: 'he-will-lift_up',
-      englishNatural: 'will lift-up',
+      englishNatural: 'lifts-up',
       root: 'nasa',
       order: 14,
       morphology: {
@@ -249,8 +255,8 @@ export const exodus_20_7: Verse = {
     englishLiteral:
       'Not you-will-lift_up ↳ name-of- He_Who_Is (YHWH) Gods-your to-the-emptiness; that not he-will-be_clean He_Who_Is (YHWH) ↳ which- he-will-lift_up ↳ name-his to-the-emptiness.',
     englishNatural:
-      'You will lift-up not the name of He-Who-Is (YHWH) your God to the emptiness; that He-Who-Is (YHWH) will be-clean not which will lift-up his name to the emptiness.',
+      'You will lift-up not the name of He-Who-Is (YHWH) your God to the emptiness; that He-Who-Is (YHWH) will hold-clean not him which lifts-up his name to the emptiness.',
     kjv: 'Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

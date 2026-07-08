@@ -48,6 +48,9 @@ export const exodus_20_15: Verse = {
       grammarSuffix: {
         englishLiteral: '.',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
       lineBreaksAfter: {
         hebrew: 1,
       },
@@ -59,6 +62,6 @@ export const exodus_20_15: Verse = {
     englishLiteral: 'Not you-will-steal.',
     englishNatural: 'You will steal not.',
     kjv: 'Thou shalt not steal.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

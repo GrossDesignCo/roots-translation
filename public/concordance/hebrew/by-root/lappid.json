@@ -4,6 +4,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 18
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "הַלַּפִּידִ֗ם",
+        "transliteration": "haLappidim",
+        "englishLiteral": "the-torches",
+        "englishNatural": "the torches",
+        "root": "lappid",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַקּוֹלֹ֜ת וְאֶת־ **הַלַּפִּידִ֗ם** וְאֵת֙ ק֣וֹל",
+        "transliteration": "haQolot veEt- **haLappidim** veEt qol",
+        "englishLiteral": "the-voices and-↳ **the-torches** and-↳ voice-of",
+        "englishNatural": "the voices and **the torches** and the voice of"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 13

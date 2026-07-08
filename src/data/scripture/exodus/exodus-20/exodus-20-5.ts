@@ -20,6 +20,9 @@ export const exodus_20_5: Verse = {
       morphology: {
         type: 'adverb',
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'תִשְׁתַּחֲוֶ֥ה',
@@ -38,6 +41,9 @@ export const exodus_20_5: Verse = {
         person: '2nd',
         tense: 'imperfect',
         stem: 'hishtaphel',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -93,7 +99,12 @@ export const exodus_20_5: Verse = {
       grammarSuffix: {
         englishLiteral: '.',
       },
-      lineBreaksAfter: 1,
+      lineBreaksAfter: {
+        hebrew: 1,
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'כִּ֣י',
@@ -104,6 +115,9 @@ export const exodus_20_5: Verse = {
       order: 6,
       morphology: {
         type: 'relative',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -117,6 +131,9 @@ export const exodus_20_5: Verse = {
         type: 'pronoun',
         person: '1st',
         number: 'singular',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
       },
     },
     {
@@ -152,30 +169,43 @@ export const exodus_20_5: Verse = {
       hebrew: 'אֵ֣ל',
       transliteration: 'El',
       englishLiteral: 'God',
-      englishNatural: 'a God',
+      englishNatural: 'God',
       root: 'el',
-      order: 10,
+      order: {
+        hebrew: 10,
+        english:11,
+      },
       morphology: {
         type: 'noun',
         gender: 'masculine',
         number: 'singular',
+      },
+      grammarSuffix: {
+        englishNatural: ';',
+      },
+      lineBreaksAfter: {
+        english: 1,
       },
     },
     {
       hebrew: 'קַנָּ֔א',
       transliteration: 'qanna',
       englishLiteral: 'jealous',
-      englishNatural: 'jealous',
+      englishNatural: 'am a jealous',
       root: 'qanna',
-      order: 11,
+      order: {
+        hebrew: 11,
+        english: 10,
+      },
       morphology: {
         type: 'adjective',
       },
       grammarSuffix: {
         englishLiteral: ';',
-        englishNatural: ';',
       },
-      lineBreaksAfter: 1,
+      lineBreaksAfter: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'פֹּ֠קֵד',
@@ -259,6 +289,9 @@ export const exodus_20_5: Verse = {
       morphology: {
         type: 'preposition',
       },
+      lineBreaksAfter: {
+        english: 1,
+      }
     },
     {
       hebrew: 'שִׁלֵּשִׁ֥ים',
@@ -288,7 +321,7 @@ export const exodus_20_5: Verse = {
     },
     {
       hebrew: 'רִבֵּעִ֖ים',
-      transliteration: 'ribbeIm',
+      transliteration: 'ribbeim',
       englishLiteral: 'fourth_ones',
       englishNatural: 'fourth-ones',
       root: 'ribbea',
@@ -298,6 +331,9 @@ export const exodus_20_5: Verse = {
         type: 'noun',
         gender: 'masculine',
         number: 'plural',
+      },
+      lineBreaksAfter: {
+        english: 1,
       },
     },
     {
@@ -326,12 +362,12 @@ export const exodus_20_5: Verse = {
     hebrew:
       'לֹֽא־תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם וְלֹ֣א תָעָבְדֵ֑ם כִּ֣י אָנֹכִ֞י יְהוָ֤ה אֱלֹהֶ֙יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵד עֲוֺ֨ן אָבֹ֧ת עַל־בָּנִ֛ים עַל־שִׁלֵּשִׁ֥ים וְעַל־רִבֵּעִ֖ים לְשֹׂנְאָֽי׃',
     transliteration:
-      'lo-tishtachaveh laHem veLo taAvdem ki anokhi YHWH Elohekha El qanna poqed avon avot al-banim al-shilleshim veAl-ribbeIm leSoneai',
+      'lo-tishtachaveh laHem veLo taAvdem ki anokhi YHWH Elohekha El qanna poqed avon avot al-banim al-shilleshim veAl-ribbeim leSoneai',
     englishLiteral:
       'Not- you-will-bow_down to-them and-not you-will-serve-them. That I He_Who_Is (YHWH) Gods-your, God jealous; visiting iniquity-of fathers over- sons, over- third_ones and-over- fourth_ones to-hating-me.',
     englishNatural:
-      'You will bow-down not to them and you will serve them not. That I He-Who-Is (YHWH) your God, a God jealous; visiting the iniquity of fathers over sons, over third-ones and over fourth-ones to ones hating me.',
+      'You will bow-down not to them and you will serve them not. That I, He-Who-Is (YHWH) your God, am a jealous God; visiting the iniquity of fathers over sons, over third-ones and over fourth-ones to ones hating me.',
     kjv: 'Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

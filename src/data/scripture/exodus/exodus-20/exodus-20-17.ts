@@ -39,6 +39,9 @@ export const exodus_20_17: Verse = {
         tense: 'imperfect',
         stem: 'qal',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'בֵּ֣ית',
@@ -152,6 +155,9 @@ export const exodus_20_17: Verse = {
         gender: 'masculine',
         number: 'singular',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'וַאֲמָתוֹ֙',
@@ -181,6 +187,9 @@ export const exodus_20_17: Verse = {
         type: 'noun',
         gender: 'masculine',
         number: 'singular',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -213,6 +222,9 @@ export const exodus_20_17: Verse = {
       morphology: {
         type: 'adjective',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'אֲשֶׁ֥ר',
@@ -240,8 +252,8 @@ export const exodus_20_17: Verse = {
         number: 'singular',
       },
       grammarSuffix: {
-        englishLiteral: '.',
-        englishNatural: '.',
+        englishLiteral: '."',
+        englishNatural: '."',
       },
       lineBreaksAfter: 1,
     },
@@ -252,10 +264,10 @@ export const exodus_20_17: Verse = {
     transliteration:
       'lo tachmod beit reekha lo-tachmod eshet reekha veAvdo vaAmato veShoro vaChamoro veKhol asher leReekha',
     englishLiteral:
-      'Not you-will-desire house-of friend-your. Not- you-will-desire woman-of friend-your, and-servant-his and-maidservant-his and-ox-his and-donkey-his, and-all which to-friend-your.',
+      'Not you-will-desire house-of friend-your. Not- you-will-desire woman-of friend-your, and-servant-his and-maidservant-his and-ox-his and-donkey-his, and-all which to-friend-your."',
     englishNatural:
-      'You will desire not the house of your friend. You will desire not the woman of your friend, and his servant and his maidservant and his ox and his donkey, and all which is to your friend.',
+      'You will desire not the house of your friend. You will desire not the woman of your friend, and his servant and his maidservant and his ox and his donkey, and all which is to your friend."',
     kjv: "Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour's.",
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

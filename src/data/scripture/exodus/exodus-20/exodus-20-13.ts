@@ -48,6 +48,9 @@ export const exodus_20_13: Verse = {
       grammarSuffix: {
         englishLiteral: '.',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
       lineBreaksAfter: {
         hebrew: 1,
       },
@@ -59,6 +62,6 @@ export const exodus_20_13: Verse = {
     englishLiteral: 'Not you-will-murder.',
     englishNatural: 'You will murder not.',
     kjv: 'Thou shalt not kill.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
 };

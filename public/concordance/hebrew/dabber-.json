@@ -1,0 +1,34 @@
+{
+  "key": "dabber-",
+  "language": "hebrew",
+  "root": "dabar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "דַּבֵּר־",
+        "transliteration": "dabber-",
+        "englishLiteral": "Speak-",
+        "englishNatural": "Speak",
+        "root": "dabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ מֹשֶׁ֔ה **דַּבֵּר־** אַתָּ֥ה עִמָּ֖נוּ",
+        "transliteration": "el- Mosheh **dabber-** attah immanu",
+        "englishLiteral": "to- Drawn_Out (Moses), **\"Speak-** you with-us",
+        "englishNatural": "to Drawn-Out (Moses), **\"Speak** you with us"
+      }
+    }
+  ]
+}

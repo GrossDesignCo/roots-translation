@@ -4,8 +4,9 @@ and-positioned-himself with-him there,
 and-called_out in-name He_Who_Is (YHWH).
 
 And-passed-through He_Who_Is (YHWH) over- his-faces, 
-and-called_out, "He_Who_Is (YHWH), He_Who_Is (YHWH), God, compassionate, 
-and-gracious, long nostrils, 
+and-called_out,
+"He_Who_Is (YHWH), He_Who_Is (YHWH), God, 
+compassionate, and-gracious, long nostrils, 
 and-many- steadfast_love 
 and-truth.
 

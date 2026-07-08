@@ -1402,6 +1402,56 @@
     },
     {
       "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 19
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמְר֣וּ **אֶל־** מֹשֶׁ֔ה דַּבֵּר־",
+        "transliteration": "vaYomru **el-** Mosheh dabber-",
+        "englishLiteral": "And-they-will-say **to-** Drawn_Out (Moses), \"Speak-",
+        "englishNatural": "And they said **to** Drawn-Out (Moses), \"Speak"
+      }
+    },
+    {
+      "location": {
+        "book": "Exodus",
+        "chapter": 20,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּ֨אמֶר מֹשֶׁ֣ה **אֶל־** הָעָם֮ אַל־",
+        "transliteration": "vaYomer Mosheh **el-** haAm al-",
+        "englishLiteral": "And-he-will-say Drawn_Out (Moses) **to-** the-people, \"not-",
+        "englishNatural": "And Drawn-Out (Moses) said **to** the people, \"You will fear"
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 7
