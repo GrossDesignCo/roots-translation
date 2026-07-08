@@ -23,6 +23,10 @@ export default function StaticPageLayout({
             label: 'Progress',
           },
           {
+            href: '/about/difficult-words',
+            label: 'Difficult Words',
+          },
+          {
             href: '/about/contribute',
             label: 'Contribute',
           },

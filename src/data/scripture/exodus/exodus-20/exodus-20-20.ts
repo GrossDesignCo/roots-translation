@@ -341,7 +341,7 @@ export const exodus_20_20: Verse = {
     englishLiteral:
       'And-he-will-say Drawn_Out (Moses) to- the-people, "not- you-will-fear; that to-for_sake_of testing ↳-you has-come the-Gods; and-for_sake_of she-will-be fear-his over- faces-your, to-not you-will-sin."',
     englishNatural:
-      'And Drawn-Out (Moses) said to the people, "You will fear not; that for the sake of testing you the God has come; and for the sake of his fear will be over your faces, to not you will sin."',
+      'And Drawn-Out (Moses) said to the people, "You will fear not; that to the sake of testing you the God has come; and for the sake of his fear will be over your faces, to not let you sin."',
     kjv: 'And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.',
     lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },

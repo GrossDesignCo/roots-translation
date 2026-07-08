@@ -2133,13 +2133,6 @@ const ROOTS = {
     englishNatural: 'glory',
     type: 'noun',
   },
-  nuah: {
-    hebrew: 'נוע',
-    transliteration: 'nuah',
-    englishLiteral: 'to shake',
-    englishNatural: 'to shake',
-    type: 'verb',
-  },
   amah: {
     hebrew: 'אמה',
     transliteration: 'amah',
@@ -8977,8 +8970,8 @@ const ROOTS = {
   nua: {
     hebrew: 'נוּעַ',
     transliteration: 'nua',
-    englishLiteral: 'to tremble',
-    englishNatural: 'to tremble',
+    englishLiteral: 'to shake',
+    englishNatural: 'to shake',
     type: 'verb',
     description: 'to shake, tremble, totter, waver, wander',
   },

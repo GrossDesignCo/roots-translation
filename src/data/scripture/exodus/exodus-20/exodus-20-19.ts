@@ -230,7 +230,7 @@ export const exodus_20_19: Verse = {
     englishLiteral:
       'And-they-will-say to- Drawn_Out (Moses), "Speak- you with-us and-we-will-hear; and-not- he-will-speak with-us Gods lest- we-will-die."',
     englishNatural:
-      'And they said to Drawn-Out (Moses), "Speak you with us and we will hear; and God will speak not with us lest we die."',
+      'And they said to Drawn-Out (Moses), "Speak you with us and we will hear; and God will speak not with us, lest we die."',
     kjv: 'And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.',
     lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },

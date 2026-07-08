@@ -22,7 +22,7 @@ export const isaiah_6_3: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '3rd',
-        tense: 'imperfect',
+        tense: 'perfect',
         stem: 'qal',
         type: 'verb',
       },
@@ -85,7 +85,7 @@ export const isaiah_6_3: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '3rd',
-        tense: 'imperfect',
+        tense: 'perfect',
         stem: 'qal',
         type: 'verb',
       },
@@ -99,7 +99,7 @@ export const isaiah_6_3: Verse = {
       transliteration: 'kadosh',
       englishLiteral: 'Holy',
       englishNatural: 'Holy',
-      root: 'qadash',
+      root: 'qadosh',
       order: 6,
       morphology: {
         type: 'adjective',
@@ -119,7 +119,7 @@ export const isaiah_6_3: Verse = {
       transliteration: 'kadosh',
       englishLiteral: 'holy',
       englishNatural: 'holy',
-      root: 'qadash',
+      root: 'qadosh',
       order: 7,
       morphology: {
         type: 'adjective',
@@ -134,7 +134,7 @@ export const isaiah_6_3: Verse = {
       transliteration: 'kadosh',
       englishLiteral: 'holy',
       englishNatural: 'holy',
-      root: 'qadash',
+      root: 'qadosh',
       order: 8,
       morphology: {
         type: 'adjective',
@@ -242,6 +242,6 @@ export const isaiah_6_3: Verse = {
     englishNatural:
       'And this called-out to this, and said, "Holy, holy, holy, He-Who-Is (YHWH) of Hosts, fullness of all the land is his glory."',
     kjv: 'And one cried unto another, and said, Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-05-08' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
   },
 };

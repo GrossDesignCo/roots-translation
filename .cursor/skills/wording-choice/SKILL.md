@@ -62,6 +62,10 @@ Quoted speech: opening `"` on `grammarPrefix`, closing `"` on `grammarSuffix`. S
 - [ ] Grammar fields contain only marks
 - [ ] `npm test` passes (expectedTranslations match)
 
+## Difficult Wording Choices
+
+See `/src/app/about/difficult-words/page.mdx` for full discussion. Key rule: adjective קָדוֹשׁ uses `root: 'qadosh'` ("holy"); verb קדשׁ uses `root: 'qadash'` ("to sanctify").
+
 ## Reference
 
 - Translation style detail: `.cursor/skills/translate-verse/translation-style.md`

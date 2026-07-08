@@ -226,8 +226,8 @@ export const exodus_20_18: Verse = {
     {
       hebrew: 'וַיָּנֻ֔עוּ',
       transliteration: 'vaYanuu',
-      englishLiteral: 'and-they-will-tremble',
-      englishNatural: 'and they trembled',
+      englishLiteral: 'and-they-will-shake',
+      englishNatural: 'and they shook',
       root: 'nua',
       prefixes: ['va'],
       order: 16,
@@ -281,9 +281,9 @@ export const exodus_20_18: Verse = {
     transliteration:
       'veKhol-haAm roim et-haQolot veEt-haLappidim veEt qol haShofar veEt-haHar ashen vaYar haAm vaYanuu vaYaamdu meRachoq',
     englishLiteral:
-      'And-all- the-people seeing ↳ the-voices and-↳ the-torches and-↳ voice-of the-horn and-↳ the-mountain smoking; and-he-will-see the-people and-they-will-tremble and-they-will-stand from-afar.',
+      'And-all- the-people seeing ↳ the-voices and-↳ the-torches and-↳ voice-of the-horn and-↳ the-mountain smoking; and-he-will-see the-people and-they-will-shake and-they-will-stand from-afar.',
     englishNatural:
-      'And all the people were seeing the voices and the torches and the voice of the horn and the mountain smoking; and the people saw and they trembled and they stood from afar.',
+      'And all the people were seeing the voices and the torches and the voice of the horn and the mountain smoking; and the people saw and they shook and they stood from afar.',
     kjv: 'And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off.',
     lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },

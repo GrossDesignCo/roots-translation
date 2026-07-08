@@ -377,7 +377,7 @@ export const exodus_20_11: Verse = {
     englishLiteral:
       'That six-of- days has-made He_Who_Is (YHWH) ↳ the-skies and-↳ the-land, ↳ the-sea and-↳ all- which- in-them; and-he-will-rest in-the-day the-seventh. Over- so has-blessed He_Who_Is (YHWH) ↳ day-of the-Sabbath and-he-will-sanctify-it.',
     englishNatural:
-      'That in six days has made He-Who-Is (YHWH) the skies and the land, the sea and all which is in them; and he rested in the day the seventh. Therefore has blessed He-Who-Is (YHWH) the day of the Sabbath and sanctified it.',
+      'That in six days He-Who-Is (YHWH) has made the skies and the land, the sea and all which is in them; and he rested in the day the seventh. So moreover He-Who-Is (YHWH) has blessed the day of the Sabbath and sanctified it.',
     kjv: 'For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.',
     lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },

@@ -230,7 +230,7 @@ export const exodus_20_12: Verse = {
     englishLiteral:
       'Treat_heavily ↳ father-your and-↳ mother-your; to-sake they-will-be_long days-your over the-earth which- He_Who_Is (YHWH) Gods-your giving to-you.',
     englishNatural:
-      'Treat-heavily your father and your mother; for the sake your days will be-long over the earth which He-Who-Is (YHWH) your God is giving to you.',
+      'Treat-heavily your father and your mother; for the sake of your days, they will be-long over the earth which He-Who-Is (YHWH) your God is giving to you.',
     kjv: 'Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.',
     lastReviewed: { name: 'Matt Gross', date: '2026-07-08' },
 },
