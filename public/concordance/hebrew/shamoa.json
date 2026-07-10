@@ -1,0 +1,33 @@
+{
+  "key": "shamoa",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שָׁמוֹעַ",
+        "transliteration": "shamoa",
+        "englishLiteral": "hearing",
+        "englishNatural": "hearing",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive"
+        }
+      },
+      "context": {
+        "hebrew": "הַזֶּה שִׁמְעוּ **שָׁמוֹעַ** וְאַל תָּבִינוּ",
+        "transliteration": "hazeh shimeu **shamoa** veAl tavinu",
+        "englishLiteral": "the-this, Hear **hearing** and-not you-will-understand;",
+        "englishNatural": "the-this, Hear **hearing,** and you will understand not;"
+      }
+    }
+  ]
+}

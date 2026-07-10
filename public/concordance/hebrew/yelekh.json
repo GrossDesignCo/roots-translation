@@ -56,6 +56,33 @@
         "englishLiteral": "and-also- livestock-our **will-go** with-us; not",
         "englishNatural": "And also our livestock **will go** with us; not"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יֵלֶךְ",
+        "transliteration": "yelekh",
+        "englishLiteral": "he-will-walk",
+        "englishNatural": "will walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶשְׁלַח וּמִי **יֵלֶךְ** לָנוּ וָאֹמַר",
+        "transliteration": "eshlach uMi **yelekh** lanu vaOmar",
+        "englishLiteral": "I-will-send and-who **he-will-walk** to-us?\" And-I-will-say,",
+        "englishNatural": "will I send and who **will walk** to us?\" And I said,"
+      }
     }
   ]
 }

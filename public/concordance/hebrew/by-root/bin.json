@@ -55,6 +55,60 @@
         "englishLiteral": "**To-understand** rule and-interpretation;",
         "englishNatural": "**To understand** a rule and the interpretation;"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "תָּבִינוּ",
+        "transliteration": "tavinu",
+        "englishLiteral": "you-will-understand",
+        "englishNatural": "and you will understand",
+        "root": "bin",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁמוֹעַ וְאַל **תָּבִינוּ** וּרְאוּ רָאוֹ",
+        "transliteration": "shamoa veAl **tavinu** uReu rao",
+        "englishLiteral": "hearing and-not **you-will-understand;** and-see seeing",
+        "englishNatural": "Hear hearing, **and you will understand** not; and see"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "יָבִין",
+        "transliteration": "yavin",
+        "englishLiteral": "he-will-understand",
+        "englishNatural": "understands",
+        "root": "bin",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׁמָע וּלְבָבוֹ **יָבִין** וָשָׁב וְרָפָא",
+        "transliteration": "yishma uLevavo **yavin** vaShav veRapa",
+        "englishLiteral": "he-will-hear, and-his-heart **he-will-understand,** and-he-has-returned, and-has-healed",
+        "englishNatural": "in his ears, and his heart **understands,** and he returns, and have healed"
+      }
     }
   ]
 }

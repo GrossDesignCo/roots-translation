@@ -1,0 +1,32 @@
+{
+  "key": "uvaznav",
+  "language": "hebrew",
+  "root": "ozen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וּבְאָזְנָיו",
+        "transliteration": "uvAznav",
+        "englishLiteral": "and-in-his-ears",
+        "englishNatural": "in his ears",
+        "root": "ozen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִרְאֶה בְעֵינָיו **וּבְאָזְנָיו** יִשְׁמָע וּלְבָבוֹ",
+        "transliteration": "yireh beEinav **uvAznav** yishma uLevavo",
+        "englishLiteral": "he-will-see in-his-eyes, **and-in-his-ears** he-will-hear, and-his-heart",
+        "englishNatural": "in his eyes, and hear **in his ears,** and his heart understands,"
+      }
+    }
+  ]
+}

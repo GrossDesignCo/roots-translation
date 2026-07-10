@@ -51,6 +51,56 @@
         "englishLiteral": "to- the-people, **\"not-** you-will-fear; that",
         "englishNatural": "the people, \"You will fear **not;** that to the sake of"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְאַל",
+        "transliteration": "veAl",
+        "englishLiteral": "and-not",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁמְעוּ שָׁמוֹעַ **וְאַל** תָּבִינוּ וּרְאוּ",
+        "transliteration": "shimeu shamoa **veAl** tavinu uReu",
+        "englishLiteral": "Hear hearing **and-not** you-will-understand; and-see",
+        "englishNatural": "hearing, and you will understand **not;** and see seeing,"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וְאַל",
+        "transliteration": "veAl",
+        "englishLiteral": "and-not",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וּרְאוּ רָאוֹ **וְאַל** תֵּדָעוּ",
+        "transliteration": "uReu rao **veAl** tedau",
+        "englishLiteral": "and-see seeing **and-not** you-will-know.\"",
+        "englishNatural": "seeing, and you will know **not.\"**"
+      }
     }
   ]
 }

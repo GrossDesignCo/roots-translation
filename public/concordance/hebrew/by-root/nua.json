@@ -13,8 +13,8 @@
       "word": {
         "originalScript": "וַיָּנֻ֔עוּ",
         "transliteration": "vaYanuu",
-        "englishLiteral": "and-they-will-tremble",
-        "englishNatural": "and they trembled",
+        "englishLiteral": "and-they-will-shake",
+        "englishNatural": "and they shook",
         "root": "nua",
         "morphology": {
           "type": "verb",
@@ -25,8 +25,35 @@
       "context": {
         "hebrew": "וַיַּ֤רְא הָעָם֙ **וַיָּנֻ֔עוּ** וַיַּעַמְד֖וּ מֵרָחֹֽק׃",
         "transliteration": "vaYar haAm **vaYanuu** vaYaamdu meRachoq",
-        "englishLiteral": "and-he-will-see the-people **and-they-will-tremble** and-they-will-stand from-afar.",
-        "englishNatural": "and the people saw **and they trembled** and they stood from afar."
+        "englishLiteral": "and-he-will-see the-people **and-they-will-shake** and-they-will-stand from-afar.",
+        "englishNatural": "and the people saw **and they shook** and they stood from afar."
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיָּנֻ֙עוּ֙",
+        "transliteration": "vaiYanu",
+        "englishLiteral": "And-shook",
+        "englishNatural": "shook",
+        "root": "nua",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּנֻ֙עוּ֙** אַמּ֣וֹת הַסִּפִּ֔ים",
+        "transliteration": "**vaiYanu** amot haSippim",
+        "englishLiteral": "**And-shook** pillars the-thresholds",
+        "englishNatural": "And pillars of the thresholds **shook** from the voice of the caller,"
       }
     }
   ]

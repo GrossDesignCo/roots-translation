@@ -1,0 +1,32 @@
+{
+  "key": "matsevet",
+  "language": "hebrew",
+  "root": "matsevet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "מַצֶּבֶת",
+        "transliteration": "matsevet",
+        "englishLiteral": "stump",
+        "englishNatural": "a stump",
+        "root": "matsevet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר בְּשַׁלֶּכֶת **מַצֶּבֶת** בָּם זֶרַע",
+        "transliteration": "asher beShalekhet **matsevet** bam zera",
+        "englishLiteral": "which in-casting_off **stump** in-them; seed-of",
+        "englishNatural": "which in casting-off **a stump** in them; a seed of"
+      }
+    }
+  ]
+}

@@ -129,6 +129,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְרַבָּה",
+        "transliteration": "veRabbah",
+        "englishLiteral": "and-great",
+        "englishNatural": "and great",
+        "root": "rav",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת הָאָדָם **וְרַבָּה** הָעֲזוּבָה בְּקֶרֶב",
+        "transliteration": "et haAdam **veRabbah** haAzuvah beQerev",
+        "englishLiteral": "↳ the-human, **and-great** the-leaving in-midst-of",
+        "englishNatural": "the human, the leaving **and great,** in the midst of the land."
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 24

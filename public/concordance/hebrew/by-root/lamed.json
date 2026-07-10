@@ -854,6 +854,106 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "לָנוּ",
+        "transliteration": "lanu",
+        "englishLiteral": "to-us",
+        "englishNatural": "to us",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִי יֵלֶךְ **לָנוּ** וָאֹמַר הִנְנִי",
+        "transliteration": "uMi yelekh **lanu** vaOmar hineni",
+        "englishLiteral": "and-who he-will-walk **to-us?\"** And-I-will-say, \"behold_me;",
+        "englishNatural": "and who will walk **to us?\"** And I said, \"behold-me;"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "לוֹ",
+        "transliteration": "lo",
+        "englishLiteral": "to-him",
+        "englishNatural": "to him",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וָשָׁב וְרָפָא **לוֹ**",
+        "transliteration": "vaShav veRapa **lo**",
+        "englishLiteral": "and-he-has-returned, and-has-healed **to-him.**",
+        "englishNatural": "and he returns, and have healed **to him.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בָּהּ",
+        "transliteration": "bah",
+        "englishLiteral": "in-her",
+        "englishNatural": "in her",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְעוֹד **בָּהּ** עֲשִׂרִיָּה וְשָׁבָה",
+        "transliteration": "veOd **bah** asiriyyah veShavah",
+        "englishLiteral": "And-again **in-her** tenth, and-she-has-returned,",
+        "englishNatural": "And again **in her** a tenth, and it will return,"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "בָּם",
+        "transliteration": "bam",
+        "englishLiteral": "in-them",
+        "englishNatural": "in them",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בְּשַׁלֶּכֶת מַצֶּבֶת **בָּם** זֶרַע קֹדֶשׁ",
+        "transliteration": "beShalekhet matsevet **bam** zera qodesh",
+        "englishLiteral": "in-casting_off stump **in-them;** seed-of holiness",
+        "englishNatural": "in casting-off a stump **in them;** a seed of holiness,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 4

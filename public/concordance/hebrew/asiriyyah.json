@@ -1,0 +1,32 @@
+{
+  "key": "asiriyyah",
+  "language": "hebrew",
+  "root": "asiriyyah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "עֲשִׂרִיָּה",
+        "transliteration": "asiriyyah",
+        "englishLiteral": "tenth",
+        "englishNatural": "a tenth",
+        "root": "asiriyyah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעוֹד בָּהּ **עֲשִׂרִיָּה** וְשָׁבָה וְהָיְתָה",
+        "transliteration": "veOd bah **asiriyyah** veShavah veHaytah",
+        "englishLiteral": "And-again in-her **tenth,** and-she-has-returned, and-she-has-been",
+        "englishNatural": "And again in her **a tenth,** and it will return, and will be"
+      }
+    }
+  ]
+}

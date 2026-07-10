@@ -1530,6 +1530,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הָאָרֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָעֲזוּבָה בְּקֶרֶב **הָאָרֶץ**",
+        "transliteration": "haAzuvah beQerev **haAretz**",
+        "englishLiteral": "the-leaving in-midst-of **the-land.**",
+        "englishNatural": "and great, in the midst of **the land.**"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 19

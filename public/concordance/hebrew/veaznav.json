@@ -1,0 +1,32 @@
+{
+  "key": "veaznav",
+  "language": "hebrew",
+  "root": "ozen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְאָזְנָיו",
+        "transliteration": "veAznav",
+        "englishLiteral": "and-his-ears",
+        "englishNatural": "his ears",
+        "root": "ozen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָעָם הַזֶּה **וְאָזְנָיו** הַכְבֵּד וְעֵינָיו",
+        "transliteration": "haAm hazeh **veAznav** hakhbed veEinav",
+        "englishLiteral": "the-people the-this, **and-his-ears** make-heavy, and-his-eyes",
+        "englishNatural": "the-this, and make-heavy **his ears,** and seal-shut his eyes;"
+      }
+    }
+  ]
+}

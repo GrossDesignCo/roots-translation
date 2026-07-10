@@ -1,0 +1,31 @@
+{
+  "root": "shemamah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "שְׁמָמָה",
+        "transliteration": "shemamah",
+        "englishLiteral": "desolation",
+        "englishNatural": "a desolation",
+        "root": "shemamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָאֲדָמָה תִּשָּׁאֶה **שְׁמָמָה**",
+        "transliteration": "veHaAdamah tishaeh **shemamah**",
+        "englishLiteral": "and-the-ground she-will-be_desolate **desolation.**",
+        "englishNatural": "and the ground is desolate, **a desolation.**"
+      }
+    }
+  ]
+}

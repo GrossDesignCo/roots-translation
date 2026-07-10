@@ -1,0 +1,32 @@
+{
+  "key": "matay",
+  "language": "hebrew",
+  "root": "matay",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מָתַי",
+        "transliteration": "matay",
+        "englishLiteral": "when",
+        "englishNatural": "when",
+        "root": "matay",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וָאֹמַר עַד־ **מָתַי** אֲדֹנָי וַיֹּאמֶר",
+        "transliteration": "vaOmar ad- **matay** Adonai vaYomer",
+        "englishLiteral": "And-I-will-say, \"until- **when** my-Lord?\" And-he-will-say,",
+        "englishNatural": "And I said, \"Until **when** my Lord?\" And he said,"
+      }
+    }
+  ]
+}

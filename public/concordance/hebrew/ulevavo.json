@@ -1,0 +1,32 @@
+{
+  "key": "ulevavo",
+  "language": "hebrew",
+  "root": "levav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "וּלְבָבוֹ",
+        "transliteration": "uLevavo",
+        "englishLiteral": "and-his-heart",
+        "englishNatural": "and his heart",
+        "root": "levav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְאָזְנָיו יִשְׁמָע **וּלְבָבוֹ** יָבִין וָשָׁב",
+        "transliteration": "uvAznav yishma **uLevavo** yavin vaShav",
+        "englishLiteral": "and-in-his-ears he-will-hear, **and-his-heart** he-will-understand, and-he-has-returned,",
+        "englishNatural": "and hear in his ears, **and his heart** understands, and he returns,"
+      }
+    }
+  ]
+}

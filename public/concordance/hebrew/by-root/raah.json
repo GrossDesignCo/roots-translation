@@ -970,8 +970,8 @@
       "context": {
         "hebrew": "הָהָ֖ר עָשֵׁ֑ן **וַיַּ֤רְא** הָעָם֙ וַיָּנֻ֔עוּ",
         "transliteration": "haHar ashen **vaYar** haAm vaYanuu",
-        "englishLiteral": "the-mountain smoking; **and-he-will-see** the-people and-they-will-tremble",
-        "englishNatural": "smoking; and the people **saw** and they trembled and they stood"
+        "englishLiteral": "the-mountain smoking; **and-he-will-see** the-people and-they-will-shake",
+        "englishNatural": "smoking; and the people **saw** and they shook and they stood"
       }
     },
     {
@@ -1071,7 +1071,7 @@
         "root": "raah",
         "morphology": {
           "type": "verb",
-          "tense": "perfect",
+          "tense": "imperfect",
           "stem": "qal"
         }
       },
@@ -1107,6 +1107,86 @@
         "transliteration": "YHWH tsvaot **rau** einai",
         "englishLiteral": "He_Who_Is (YHWH) of-Hosts **have-seen** my-eyes.\"",
         "englishNatural": "that my eyes **have seen** ↳ the King,"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וּרְאוּ",
+        "transliteration": "uReu",
+        "englishLiteral": "and-see",
+        "englishNatural": "and see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַל תָּבִינוּ **וּרְאוּ** רָאוֹ וְאַל",
+        "transliteration": "veAl tavinu **uReu** rao veAl",
+        "englishLiteral": "and-not you-will-understand; **and-see** seeing and-not",
+        "englishNatural": "and you will understand not; **and see** seeing, and you will know"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "רָאוֹ",
+        "transliteration": "rao",
+        "englishLiteral": "seeing",
+        "englishNatural": "seeing",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive"
+        }
+      },
+      "context": {
+        "hebrew": "תָּבִינוּ וּרְאוּ **רָאוֹ** וְאַל תֵּדָעוּ",
+        "transliteration": "tavinu uReu **rao** veAl tedau",
+        "englishLiteral": "you-will-understand; and-see **seeing** and-not you-will-know.\"",
+        "englishNatural": "not; and see **seeing,** and you will know not.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יִרְאֶה",
+        "transliteration": "yireh",
+        "englishLiteral": "he-will-see",
+        "englishNatural": "he sees",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָשַׁע פֶּן **יִרְאֶה** בְעֵינָיו וּבְאָזְנָיו",
+        "transliteration": "hasha pen **yireh** beEinav uvAznav",
+        "englishLiteral": "seal-shut; or-else **he-will-see** in-his-eyes, and-in-his-ears",
+        "englishNatural": "his eyes; or-else **he sees** in his eyes, and hear"
       }
     },
     {

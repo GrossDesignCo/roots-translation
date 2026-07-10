@@ -1,0 +1,34 @@
+{
+  "key": "shelacheni",
+  "language": "hebrew",
+  "root": "shalach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "שְׁלָחֵנִי",
+        "transliteration": "shelacheni",
+        "englishLiteral": "send-me",
+        "englishNatural": "send me",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וָאֹמַר הִנְנִי **שְׁלָחֵנִי**",
+        "transliteration": "vaOmar hineni **shelacheni**",
+        "englishLiteral": "And-I-will-say, \"behold_me; **send-me.\"**",
+        "englishNatural": "And I said, \"behold-me; **send me.\"**"
+      }
+    }
+  ]
+}

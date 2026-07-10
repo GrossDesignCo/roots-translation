@@ -1552,6 +1552,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "לוֹ",
+        "transliteration": "lo",
+        "englishLiteral": "to-him",
+        "englishNatural": "to him",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וָשָׁב וְרָפָא **לוֹ**",
+        "transliteration": "vaShav veRapa **lo**",
+        "englishLiteral": "and-he-has-returned, and-has-healed **to-him.**",
+        "englishNatural": "and he returns, and have healed **to him.**"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 4

@@ -1,0 +1,34 @@
+{
+  "key": "verapa",
+  "language": "hebrew",
+  "root": "rapha",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "וְרָפָא",
+        "transliteration": "veRapa",
+        "englishLiteral": "and-has-healed",
+        "englishNatural": "and have healed",
+        "root": "rapha",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יָבִין וָשָׁב **וְרָפָא** לוֹ",
+        "transliteration": "yavin vaShav **veRapa** lo",
+        "englishLiteral": "he-will-understand, and-he-has-returned, **and-has-healed** to-him.",
+        "englishNatural": "understands, and he returns, **and have healed** to him."
+      }
+    }
+  ]
+}

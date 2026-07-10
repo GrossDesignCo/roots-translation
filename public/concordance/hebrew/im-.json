@@ -127,6 +127,31 @@
         "englishLiteral": "**if-** not I-have-balanced",
         "englishNatural": "**If** not, I have balanced"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אִם־",
+        "transliteration": "im-",
+        "englishLiteral": "if-",
+        "englishNatural": "",
+        "root": "im",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "עַד אֲשֶׁר **אִם־** שָׁאוּ עָרִים",
+        "transliteration": "ad asher **im-** shau arim",
+        "englishLiteral": "\"Until which **if-** are-desolate cities",
+        "englishNatural": "\"Until which **if-** cities are desolate"
+      }
     }
   ]
 }

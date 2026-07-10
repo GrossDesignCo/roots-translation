@@ -27,6 +27,31 @@
         "englishLiteral": "all- which- **in-them;** and-he-will-rest in-the-day",
         "englishNatural": "all which is **in them;** and he rested in the day"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "בָּם",
+        "transliteration": "bam",
+        "englishLiteral": "in-them",
+        "englishNatural": "in them",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בְּשַׁלֶּכֶת מַצֶּבֶת **בָּם** זֶרַע קֹדֶשׁ",
+        "transliteration": "beShalekhet matsevet **bam** zera qodesh",
+        "englishLiteral": "in-casting_off stump **in-them;** seed-of holiness",
+        "englishNatural": "in casting-off a stump **in them;** a seed of holiness,"
+      }
     }
   ]
 }

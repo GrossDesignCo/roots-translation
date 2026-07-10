@@ -1814,6 +1814,60 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיֹּאמֶר",
+        "transliteration": "vaYomer",
+        "englishLiteral": "And-he-will-say",
+        "englishNatural": "And he said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּאמֶר** לֵךְ וְאָמַרְתָּ",
+        "transliteration": "**vaYomer** lekh veAmarta",
+        "englishLiteral": "**And-he-will-say,** \"Walk, and-you-have-said",
+        "englishNatural": "**And he said,** \"Walk, and you will say"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וַיֹּאמֶר",
+        "transliteration": "vaYomer",
+        "englishLiteral": "And-he-will-say",
+        "englishNatural": "And he said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מָתַי אֲדֹנָי **וַיֹּאמֶר** עַד אֲשֶׁר",
+        "transliteration": "matay Adonai **vaYomer** ad asher",
+        "englishLiteral": "when my-Lord?\" **And-he-will-say,** \"Until which",
+        "englishNatural": "when my Lord?\" **And he said,** \"Until which"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 6

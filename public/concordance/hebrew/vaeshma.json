@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וָאֶשְׁמַע",
+        "transliteration": "vaEshma",
+        "englishLiteral": "And-I-will-hear",
+        "englishNatural": "And I heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וָאֶשְׁמַע** אֶת קוֹל",
+        "transliteration": "**vaEshma** et qol",
+        "englishLiteral": "**And-I-will-hear** ↳ voice-of",
+        "englishNatural": "**And I heard** ↳ the voice of"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 24

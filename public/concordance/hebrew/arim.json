@@ -1,0 +1,32 @@
+{
+  "key": "arim",
+  "language": "hebrew",
+  "root": "ir",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "עָרִים",
+        "transliteration": "arim",
+        "englishLiteral": "cities",
+        "englishNatural": "cities",
+        "root": "ir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִם־ שָׁאוּ **עָרִים** מֵאֵין יוֹשֵׁב",
+        "transliteration": "im- shau **arim** meEin yoshev",
+        "englishLiteral": "if- are-desolate **cities** from-nothing sitting,",
+        "englishNatural": "which if- **cities** are desolate without"
+      }
+    }
+  ]
+}

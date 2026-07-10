@@ -27,6 +27,31 @@
         "englishLiteral": "over-it ground-of **holiness** it.",
         "englishNatural": "over it, the ground of **holiness** it is."
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "קֹדֶשׁ",
+        "transliteration": "qodesh",
+        "englishLiteral": "holiness",
+        "englishNatural": "holiness",
+        "root": "qodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּם זֶרַע **קֹדֶשׁ** מַצַּבְתָּהּ",
+        "transliteration": "bam zera **qodesh** matsavtah",
+        "englishLiteral": "in-them; seed-of **holiness** stump-her.\"",
+        "englishNatural": "in them; a seed of **holiness,** her stump.\""
+      }
     }
   ]
 }

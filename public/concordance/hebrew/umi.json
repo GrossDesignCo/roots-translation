@@ -1,0 +1,32 @@
+{
+  "key": "umi",
+  "language": "hebrew",
+  "root": "mi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וּמִי",
+        "transliteration": "uMi",
+        "englishLiteral": "and-who",
+        "englishNatural": "and who",
+        "root": "mi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "מִי אֶשְׁלַח **וּמִי** יֵלֶךְ לָנוּ",
+        "transliteration": "mi eshlach **uMi** yelekh lanu",
+        "englishLiteral": "\"whom I-will-send **and-who** he-will-walk to-us?\"",
+        "englishNatural": "\"whom will I send **and who** will walk to us?\""
+      }
+    }
+  ]
+}

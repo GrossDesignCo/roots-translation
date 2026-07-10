@@ -1,7 +1,7 @@
 {
   "key": "hineni",
   "language": "hebrew",
-  "root": "hineh",
+  "root": "hineni",
   "occurrences": [
     {
       "location": {
@@ -76,6 +76,31 @@
         "transliteration": "Moshe vaYomer **hineni**",
         "englishLiteral": "Drawn_Out (Moses),\" and-said **\"behold_me.\"**",
         "englishNatural": "Drawn-Out (Moses),\" and he said, **\"Behold-me.\"**"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "הִנְנִי",
+        "transliteration": "hineni",
+        "englishLiteral": "behold_me",
+        "englishNatural": "behold-me",
+        "root": "hineni",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "לָנוּ וָאֹמַר **הִנְנִי** שְׁלָחֵנִי",
+        "transliteration": "lanu vaOmar **hineni** shelacheni",
+        "englishLiteral": "to-us?\" And-I-will-say, **\"behold_me;** send-me.\"",
+        "englishNatural": "to us?\" And I said, **\"behold-me;** send me.\""
       }
     }
   ]

@@ -80,6 +80,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "קוֹל",
+        "transliteration": "qol",
+        "englishLiteral": "voice-of",
+        "englishNatural": "the voice of",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וָאֶשְׁמַע אֶת **קוֹל** אֲדֹנָי אֹמֵר",
+        "transliteration": "vaEshma et **qol** Adonai omer",
+        "englishLiteral": "And-I-will-hear ↳ **voice-of** my-Lord saying,",
+        "englishNatural": "And I heard ↳ **the voice of** my Lord saying,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 24

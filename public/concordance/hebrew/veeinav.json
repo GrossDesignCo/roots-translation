@@ -1,0 +1,32 @@
+{
+  "key": "veeinav",
+  "language": "hebrew",
+  "root": "ayin_eye",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְעֵינָיו",
+        "transliteration": "veEinav",
+        "englishLiteral": "and-his-eyes",
+        "englishNatural": "his eyes",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאָזְנָיו הַכְבֵּד **וְעֵינָיו** הָשַׁע פֶּן",
+        "transliteration": "veAznav hakhbed **veEinav** hasha pen",
+        "englishLiteral": "and-his-ears make-heavy, **and-his-eyes** seal-shut; or-else",
+        "englishNatural": "his ears, and seal-shut **his eyes;** or-else he sees"
+      }
+    }
+  ]
+}

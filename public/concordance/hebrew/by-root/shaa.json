@@ -1,0 +1,33 @@
+{
+  "root": "shaa",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הָשַׁע",
+        "transliteration": "hasha",
+        "englishLiteral": "seal-shut",
+        "englishNatural": "and seal-shut",
+        "root": "shaa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הַכְבֵּד וְעֵינָיו **הָשַׁע** פֶּן יִרְאֶה",
+        "transliteration": "hakhbed veEinav **hasha** pen yireh",
+        "englishLiteral": "make-heavy, and-his-eyes **seal-shut;** or-else he-will-see",
+        "englishNatural": "and make-heavy his ears, **and seal-shut** his eyes; or-else"
+      }
+    }
+  ]
+}

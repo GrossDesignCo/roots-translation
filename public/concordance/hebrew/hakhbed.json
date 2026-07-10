@@ -1,0 +1,34 @@
+{
+  "key": "hakhbed",
+  "language": "hebrew",
+  "root": "kavad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הַכְבֵּד",
+        "transliteration": "hakhbed",
+        "englishLiteral": "make-heavy",
+        "englishNatural": "and make-heavy",
+        "root": "kavad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הַזֶּה וְאָזְנָיו **הַכְבֵּד** וְעֵינָיו הָשַׁע",
+        "transliteration": "hazeh veAznav **hakhbed** veEinav hasha",
+        "englishLiteral": "the-this, and-his-ears **make-heavy,** and-his-eyes seal-shut;",
+        "englishNatural": "this people, the-this, **and make-heavy** his ears, and seal-shut"
+      }
+    }
+  ]
+}

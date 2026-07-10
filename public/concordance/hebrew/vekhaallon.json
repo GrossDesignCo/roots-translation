@@ -1,0 +1,32 @@
+{
+  "key": "vekhaallon",
+  "language": "hebrew",
+  "root": "allon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְכָאַלּוֹן",
+        "transliteration": "veKhaAllon",
+        "englishLiteral": "and-like-oak",
+        "englishNatural": "and like an oak",
+        "root": "allon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְבָעֵר כָּאֵלָה **וְכָאַלּוֹן** אֲשֶׁר בְּשַׁלֶּכֶת",
+        "transliteration": "leBaer kaElah **veKhaAllon** asher beShalekhet",
+        "englishLiteral": "to-burn: like-terebinth **and-like-oak,** which in-casting_off",
+        "englishNatural": "to burn: like a terebinth **and like an oak,** which in casting-off"
+      }
+    }
+  ]
+}

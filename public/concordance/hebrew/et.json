@@ -383,6 +383,81 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶת",
+        "transliteration": "et",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וָאֶשְׁמַע **אֶת** קוֹל אֲדֹנָי",
+        "transliteration": "vaEshma **et** qol Adonai",
+        "englishLiteral": "And-I-will-hear **↳** voice-of my-Lord",
+        "englishNatural": "And I heard **↳** the voice of my Lord"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "אֶת",
+        "transliteration": "et",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "אֲדֹנָי אֹמֵר **אֶת** מִי אֶשְׁלַח",
+        "transliteration": "Adonai omer **et** mi eshlach",
+        "englishLiteral": "my-Lord saying, **↳** \"whom I-will-send",
+        "englishNatural": "my Lord saying, **↳** \"whom will I send"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֶת",
+        "transliteration": "et",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְרִחַק יְהוָה **אֶת** הָאָדָם וְרַבָּה",
+        "transliteration": "veRichaq YHWH **et** haAdam veRabbah",
+        "englishLiteral": "and-has-removed_far He_Who_Is (YHWH) **↳** the-human, and-great",
+        "englishNatural": "And He-Who-Is (YHWH) will remove-far **↳** the human, the leaving"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 11

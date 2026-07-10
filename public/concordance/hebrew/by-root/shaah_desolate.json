@@ -1,0 +1,60 @@
+{
+  "root": "shaah_desolate",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "שָׁאוּ",
+        "transliteration": "shau",
+        "englishLiteral": "are-desolate",
+        "englishNatural": "are desolate",
+        "root": "shaah_desolate",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר אִם־ **שָׁאוּ** עָרִים מֵאֵין",
+        "transliteration": "asher im- **shau** arim meEin",
+        "englishLiteral": "which if- **are-desolate** cities from-nothing",
+        "englishNatural": "if- cities **are desolate** without sitting,"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "תִּשָּׁאֶה",
+        "transliteration": "tishaeh",
+        "englishLiteral": "she-will-be_desolate",
+        "englishNatural": "is desolate",
+        "root": "shaah_desolate",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "אָדָם וְהָאֲדָמָה **תִּשָּׁאֶה** שְׁמָמָה",
+        "transliteration": "adam veHaAdamah **tishaeh** shemamah",
+        "englishLiteral": "human, and-the-ground **she-will-be_desolate** desolation.",
+        "englishNatural": "a human, and the ground **is desolate,** a desolation."
+      }
+    }
+  ]
+}

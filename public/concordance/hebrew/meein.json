@@ -1,0 +1,57 @@
+{
+  "key": "meein",
+  "language": "hebrew",
+  "root": "ein",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "מֵאֵין",
+        "transliteration": "meEin",
+        "englishLiteral": "from-nothing",
+        "englishNatural": "without",
+        "root": "ein",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁאוּ עָרִים **מֵאֵין** יוֹשֵׁב וּבָתִּים",
+        "transliteration": "shau arim **meEin** yoshev uvattim",
+        "englishLiteral": "are-desolate cities **from-nothing** sitting, and-houses",
+        "englishNatural": "cities are desolate **without** sitting, and houses"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "מֵאֵין",
+        "transliteration": "meEin",
+        "englishLiteral": "from-nothing",
+        "englishNatural": "without",
+        "root": "ein",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹשֵׁב וּבָתִּים **מֵאֵין** אָדָם וְהָאֲדָמָה",
+        "transliteration": "yoshev uvattim **meEin** adam veHaAdamah",
+        "englishLiteral": "sitting, and-houses **from-nothing** human, and-the-ground",
+        "englishNatural": "sitting, and houses **without** a human, and the ground"
+      }
+    }
+  ]
+}

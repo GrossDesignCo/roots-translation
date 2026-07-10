@@ -274,6 +274,33 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "יוֹשֵׁב",
+        "transliteration": "yoshev",
+        "englishLiteral": "sitting",
+        "englishNatural": "sitting",
+        "root": "yashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עָרִים מֵאֵין **יוֹשֵׁב** וּבָתִּים מֵאֵין",
+        "transliteration": "arim meEin **yoshev** uvattim meEin",
+        "englishLiteral": "cities from-nothing **sitting,** and-houses from-nothing",
+        "englishNatural": "are desolate without **sitting,** and houses without"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 3,
         "verse": 6

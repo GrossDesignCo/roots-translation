@@ -1,0 +1,34 @@
+{
+  "key": "tavinu",
+  "language": "hebrew",
+  "root": "bin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "תָּבִינוּ",
+        "transliteration": "tavinu",
+        "englishLiteral": "you-will-understand",
+        "englishNatural": "and you will understand",
+        "root": "bin",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁמוֹעַ וְאַל **תָּבִינוּ** וּרְאוּ רָאוֹ",
+        "transliteration": "shamoa veAl **tavinu** uReu rao",
+        "englishLiteral": "hearing and-not **you-will-understand;** and-see seeing",
+        "englishNatural": "Hear hearing, **and you will understand** not; and see"
+      }
+    }
+  ]
+}

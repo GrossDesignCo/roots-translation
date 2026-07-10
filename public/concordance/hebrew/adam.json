@@ -255,6 +255,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "אָדָם",
+        "transliteration": "adam",
+        "englishLiteral": "human",
+        "englishNatural": "a human",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבָתִּים מֵאֵין **אָדָם** וְהָאֲדָמָה תִּשָּׁאֶה",
+        "transliteration": "uvattim meEin **adam** veHaAdamah tishaeh",
+        "englishLiteral": "and-houses from-nothing **human,** and-the-ground she-will-be_desolate",
+        "englishNatural": "and houses without **a human,** and the ground is desolate,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 5

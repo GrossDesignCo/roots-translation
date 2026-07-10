@@ -301,6 +301,31 @@
         "englishLiteral": "not- is-tall **my-heart,** and-not- are-high",
         "englishNatural": "He-Who-Is (YHWH), **my heart** is tall not,"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "לֵב",
+        "transliteration": "lev",
+        "englishLiteral": "heart-of",
+        "englishNatural": "the heart of",
+        "root": "lev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשְׁמֵן **לֵב** הָעָם הַזֶּה",
+        "transliteration": "hashmen **lev** haAm hazeh",
+        "englishLiteral": "Make-fat **heart-of** the-people the-this,",
+        "englishNatural": "Make-fat **the heart of** this people, the-this,"
+      }
     }
   ]
 }

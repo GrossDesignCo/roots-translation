@@ -105,6 +105,56 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הַזֶּה",
+        "transliteration": "hazeh",
+        "englishLiteral": "the-this",
+        "englishNatural": "",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאָמַרְתָּ לָעָם **הַזֶּה** שִׁמְעוּ שָׁמוֹעַ",
+        "transliteration": "veAmarta laAm **hazeh** shimeu shamoa",
+        "englishLiteral": "and-you-have-said to-people **the-this,** Hear hearing",
+        "englishNatural": "and you will say to this people, **the-this,** Hear hearing,"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הַזֶּה",
+        "transliteration": "hazeh",
+        "englishLiteral": "the-this",
+        "englishNatural": "",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "לֵב הָעָם **הַזֶּה** וְאָזְנָיו הַכְבֵּד",
+        "transliteration": "lev haAm **hazeh** veAznav hakhbed",
+        "englishLiteral": "heart-of the-people **the-this,** and-his-ears make-heavy,",
+        "englishNatural": "the heart of this people, **the-this,** and make-heavy his ears,"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 12

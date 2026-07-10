@@ -32,6 +32,33 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "לֵךְ",
+        "transliteration": "lekh",
+        "englishLiteral": "Walk",
+        "englishNatural": "Walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **לֵךְ** וְאָמַרְתָּ לָעָם",
+        "transliteration": "vaYomer **lekh** veAmarta laAm",
+        "englishLiteral": "And-he-will-say, **\"Walk,** and-you-have-said to-people",
+        "englishNatural": "And he said, **\"Walk,** and you will say to this people,"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 2

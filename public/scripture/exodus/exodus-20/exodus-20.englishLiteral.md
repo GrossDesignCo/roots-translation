@@ -35,7 +35,7 @@ Not you-will-desire house-of friend-your.
 Not- you-will-desire woman-of friend-your, and-servant-his and-maidservant-his and-ox-his and-donkey-his, and-all which to-friend-your."
 
 And-all- the-people seeing ↳ the-voices and-↳ the-torches and-↳ voice-of the-horn and-↳ the-mountain smoking;
-and-he-will-see the-people and-they-will-tremble and-they-will-stand from-afar.
+and-he-will-see the-people and-they-will-shake and-they-will-stand from-afar.
 And-they-will-say to- Drawn_Out (Moses), "Speak- you with-us and-we-will-hear; and-not- he-will-speak with-us Gods lest- we-will-die."
 And-he-will-say Drawn_Out (Moses) to- the-people, "not- you-will-fear;
 that to-for_sake_of testing ↳-you has-come the-Gods;

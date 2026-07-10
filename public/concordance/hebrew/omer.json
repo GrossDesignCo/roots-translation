@@ -1,0 +1,34 @@
+{
+  "key": "omer",
+  "language": "hebrew",
+  "root": "amar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֹמֵר",
+        "transliteration": "omer",
+        "englishLiteral": "saying",
+        "englishNatural": "saying",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "קוֹל אֲדֹנָי **אֹמֵר** אֶת מִי",
+        "transliteration": "qol Adonai **omer** et mi",
+        "englishLiteral": "voice-of my-Lord **saying,** ↳ \"whom",
+        "englishNatural": "the voice of my Lord **saying,** ↳ \"whom"
+      }
+    }
+  ]
+}

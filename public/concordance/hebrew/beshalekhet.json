@@ -1,0 +1,32 @@
+{
+  "key": "beshalekhet",
+  "language": "hebrew",
+  "root": "shalekhet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בְּשַׁלֶּכֶת",
+        "transliteration": "beShalekhet",
+        "englishLiteral": "in-casting_off",
+        "englishNatural": "in casting-off",
+        "root": "shalekhet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָאַלּוֹן אֲשֶׁר **בְּשַׁלֶּכֶת** מַצֶּבֶת בָּם",
+        "transliteration": "veKhaAllon asher **beShalekhet** matsevet bam",
+        "englishLiteral": "and-like-oak, which **in-casting_off** stump in-them;",
+        "englishNatural": "and like an oak, which **in casting-off** a stump in them;"
+      }
+    }
+  ]
+}

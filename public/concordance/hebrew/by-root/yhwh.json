@@ -3515,6 +3515,31 @@
     {
       "location": {
         "book": "Isaiah",
+        "chapter": 6,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "And He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְרִחַק **יְהוָה** אֶת הָאָדָם",
+        "transliteration": "veRichaq **YHWH** et haAdam",
+        "englishLiteral": "and-has-removed_far **He_Who_Is (YHWH)** ↳ the-human,",
+        "englishNatural": "**And He-Who-Is (YHWH)** will remove-far ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
         "chapter": 30,
         "verse": 15
       },

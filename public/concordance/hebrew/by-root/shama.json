@@ -355,6 +355,113 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וָאֶשְׁמַע",
+        "transliteration": "vaEshma",
+        "englishLiteral": "And-I-will-hear",
+        "englishNatural": "And I heard",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וָאֶשְׁמַע** אֶת קוֹל",
+        "transliteration": "**vaEshma** et qol",
+        "englishLiteral": "**And-I-will-hear** ↳ voice-of",
+        "englishNatural": "**And I heard** ↳ the voice of"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "שִׁמְעוּ",
+        "transliteration": "shimeu",
+        "englishLiteral": "Hear",
+        "englishNatural": "Hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָעָם הַזֶּה **שִׁמְעוּ** שָׁמוֹעַ וְאַל",
+        "transliteration": "laAm hazeh **shimeu** shamoa veAl",
+        "englishLiteral": "to-people the-this, **Hear** hearing and-not",
+        "englishNatural": "to this people, the-this, **Hear** hearing, and you will understand"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שָׁמוֹעַ",
+        "transliteration": "shamoa",
+        "englishLiteral": "hearing",
+        "englishNatural": "hearing",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive"
+        }
+      },
+      "context": {
+        "hebrew": "הַזֶּה שִׁמְעוּ **שָׁמוֹעַ** וְאַל תָּבִינוּ",
+        "transliteration": "hazeh shimeu **shamoa** veAl tavinu",
+        "englishLiteral": "the-this, Hear **hearing** and-not you-will-understand;",
+        "englishNatural": "the-this, Hear **hearing,** and you will understand not;"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "יִשְׁמָע",
+        "transliteration": "yishma",
+        "englishLiteral": "he-will-hear",
+        "englishNatural": "and hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְעֵינָיו וּבְאָזְנָיו **יִשְׁמָע** וּלְבָבוֹ יָבִין",
+        "transliteration": "beEinav uvAznav **yishma** uLevavo yavin",
+        "englishLiteral": "in-his-eyes, and-in-his-ears **he-will-hear,** and-his-heart he-will-understand,",
+        "englishNatural": "he sees in his eyes, **and hear** in his ears, and his heart"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 24

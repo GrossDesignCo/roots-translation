@@ -2426,6 +2426,56 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אֲשֶׁר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר עַד **אֲשֶׁר** אִם־ שָׁאוּ",
+        "transliteration": "vaYomer ad **asher** im- shau",
+        "englishLiteral": "And-he-will-say, \"Until **which** if- are-desolate",
+        "englishNatural": "And he said, \"Until **which** if- cities"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אֲשֶׁר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "כָּאֵלָה וְכָאַלּוֹן **אֲשֶׁר** בְּשַׁלֶּכֶת מַצֶּבֶת",
+        "transliteration": "kaElah veKhaAllon **asher** beShalekhet matsevet",
+        "englishLiteral": "like-terebinth and-like-oak, **which** in-casting_off stump",
+        "englishNatural": "like a terebinth and like an oak, **which** in casting-off a stump"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 12

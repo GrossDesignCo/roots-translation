@@ -1,0 +1,32 @@
+{
+  "key": "matsavtah",
+  "language": "hebrew",
+  "root": "matsevet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "מַצַּבְתָּהּ",
+        "transliteration": "matsavtah",
+        "englishLiteral": "stump-her",
+        "englishNatural": "her stump",
+        "root": "matsevet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֶרַע קֹדֶשׁ **מַצַּבְתָּהּ**",
+        "transliteration": "zera qodesh **matsavtah**",
+        "englishLiteral": "seed-of holiness **stump-her.\"**",
+        "englishNatural": "a seed of holiness, **her stump.\"**"
+      }
+    }
+  ]
+}

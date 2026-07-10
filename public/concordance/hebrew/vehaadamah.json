@@ -1,0 +1,32 @@
+{
+  "key": "vehaadamah",
+  "language": "hebrew",
+  "root": "adamah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "וְהָאֲדָמָה",
+        "transliteration": "veHaAdamah",
+        "englishLiteral": "and-the-ground",
+        "englishNatural": "and the ground",
+        "root": "adamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאֵין אָדָם **וְהָאֲדָמָה** תִּשָּׁאֶה שְׁמָמָה",
+        "transliteration": "meEin adam **veHaAdamah** tishaeh shemamah",
+        "englishLiteral": "from-nothing human, **and-the-ground** she-will-be_desolate desolation.",
+        "englishNatural": "without a human, **and the ground** is desolate, a desolation."
+      }
+    }
+  ]
+}

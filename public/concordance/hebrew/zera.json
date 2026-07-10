@@ -152,6 +152,31 @@
         "englishLiteral": "days-of the-land, **seed** and-harvest, and-cold",
         "englishNatural": "the days of the land, **seed** and harvest, and cold"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "זֶרַע",
+        "transliteration": "zera",
+        "englishLiteral": "seed-of",
+        "englishNatural": "a seed of",
+        "root": "zera",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַצֶּבֶת בָּם **זֶרַע** קֹדֶשׁ מַצַּבְתָּהּ",
+        "transliteration": "matsevet bam **zera** qodesh matsavtah",
+        "englishLiteral": "stump in-them; **seed-of** holiness stump-her.\"",
+        "englishNatural": "a stump in them; **a seed of** holiness, her stump.\""
+      }
     }
   ]
 }

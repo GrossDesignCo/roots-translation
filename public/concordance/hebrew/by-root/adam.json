@@ -1354,6 +1354,56 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "אָדָם",
+        "transliteration": "adam",
+        "englishLiteral": "human",
+        "englishNatural": "a human",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבָתִּים מֵאֵין **אָדָם** וְהָאֲדָמָה תִּשָּׁאֶה",
+        "transliteration": "uvattim meEin **adam** veHaAdamah tishaeh",
+        "englishLiteral": "and-houses from-nothing **human,** and-the-ground she-will-be_desolate",
+        "englishNatural": "and houses without **a human,** and the ground is desolate,"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 12
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הָאָדָם",
+        "transliteration": "haAdam",
+        "englishLiteral": "the-human",
+        "englishNatural": "the human",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֶת **הָאָדָם** וְרַבָּה הָעֲזוּבָה",
+        "transliteration": "YHWH et **haAdam** veRabbah haAzuvah",
+        "englishLiteral": "He_Who_Is (YHWH) ↳ **the-human,** and-great the-leaving",
+        "englishNatural": "will remove-far ↳ **the human,** the leaving and great,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 5

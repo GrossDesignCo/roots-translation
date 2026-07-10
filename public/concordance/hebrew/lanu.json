@@ -80,6 +80,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "לָנוּ",
+        "transliteration": "lanu",
+        "englishLiteral": "to-us",
+        "englishNatural": "to us",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִי יֵלֶךְ **לָנוּ** וָאֹמַר הִנְנִי",
+        "transliteration": "uMi yelekh **lanu** vaOmar hineni",
+        "englishLiteral": "and-who he-will-walk **to-us?\"** And-I-will-say, \"behold_me;",
+        "englishNatural": "and who will walk **to us?\"** And I said, \"behold-me;"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 6

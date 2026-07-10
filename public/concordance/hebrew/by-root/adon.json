@@ -76,6 +76,56 @@
         "englishLiteral": "And-I-saw ↳ **my-Lord** sitting over",
         "englishNatural": "And I saw ↳ **my Lord** sitting over"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֲדֹנָי",
+        "transliteration": "Adonai",
+        "englishLiteral": "my-Lord",
+        "englishNatural": "my Lord",
+        "root": "adon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת קוֹל **אֲדֹנָי** אֹמֵר אֶת",
+        "transliteration": "et qol **Adonai** omer et",
+        "englishLiteral": "↳ voice-of **my-Lord** saying, ↳",
+        "englishNatural": "↳ the voice of **my Lord** saying, ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֲדֹנָי",
+        "transliteration": "Adonai",
+        "englishLiteral": "my-Lord",
+        "englishNatural": "my Lord",
+        "root": "adon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַד־ מָתַי **אֲדֹנָי** וַיֹּאמֶר עַד",
+        "transliteration": "ad- matay **Adonai** vaYomer ad",
+        "englishLiteral": "\"until- when **my-Lord?\"** And-he-will-say, \"Until",
+        "englishNatural": "\"Until when **my Lord?\"** And he said, \"Until"
+      }
     }
   ]
 }

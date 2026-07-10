@@ -152,6 +152,31 @@
         "englishLiteral": "He_Who_Is (YHWH) ↳- **heart-of** Pharaoh; and-not-",
         "englishNatural": "strengthened ↳- **the heart of** Pharaoh, and he sent-out"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "לֵב",
+        "transliteration": "lev",
+        "englishLiteral": "heart-of",
+        "englishNatural": "the heart of",
+        "root": "lev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשְׁמֵן **לֵב** הָעָם הַזֶּה",
+        "transliteration": "hashmen **lev** haAm hazeh",
+        "englishLiteral": "Make-fat **heart-of** the-people the-this,",
+        "englishNatural": "Make-fat **the heart of** this people, the-this,"
+      }
     }
   ]
 }

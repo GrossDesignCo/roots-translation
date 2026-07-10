@@ -1,0 +1,33 @@
+{
+  "key": "rao",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "רָאוֹ",
+        "transliteration": "rao",
+        "englishLiteral": "seeing",
+        "englishNatural": "seeing",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive"
+        }
+      },
+      "context": {
+        "hebrew": "תָּבִינוּ וּרְאוּ **רָאוֹ** וְאַל תֵּדָעוּ",
+        "transliteration": "tavinu uReu **rao** veAl tedau",
+        "englishLiteral": "you-will-understand; and-see **seeing** and-not you-will-know.\"",
+        "englishNatural": "not; and see **seeing,** and you will know not.\""
+      }
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "key": "veal",
   "language": "hebrew",
-  "root": "al",
+  "root": "al_not",
   "occurrences": [
     {
       "location": {
@@ -26,6 +26,56 @@
         "transliteration": "chayat haAretz **veAl** kol- of",
         "englishLiteral": "living-of the-land **and-over** all- flyer-of",
         "englishNatural": "the living of the land **and over** all the flyer of"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְאַל",
+        "transliteration": "veAl",
+        "englishLiteral": "and-not",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁמְעוּ שָׁמוֹעַ **וְאַל** תָּבִינוּ וּרְאוּ",
+        "transliteration": "shimeu shamoa **veAl** tavinu uReu",
+        "englishLiteral": "Hear hearing **and-not** you-will-understand; and-see",
+        "englishNatural": "hearing, and you will understand **not;** and see seeing,"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וְאַל",
+        "transliteration": "veAl",
+        "englishLiteral": "and-not",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וּרְאוּ רָאוֹ **וְאַל** תֵּדָעוּ",
+        "transliteration": "uReu rao **veAl** tedau",
+        "englishLiteral": "and-see seeing **and-not** you-will-know.\"",
+        "englishNatural": "seeing, and you will know **not.\"**"
       }
     },
     {

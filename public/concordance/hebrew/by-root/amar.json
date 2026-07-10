@@ -3362,7 +3362,7 @@
         "root": "amar",
         "morphology": {
           "type": "verb",
-          "tense": "imperfect",
+          "tense": "perfect",
           "stem": "qal"
         }
       },
@@ -3425,6 +3425,168 @@
         "transliteration": "el- pi **vaYomer** hineh naga",
         "englishLiteral": "to- my-mouth, **and-he-said,** \"Behold, has-touched",
         "englishNatural": "it to my mouth, **and he said,** \"Behold, this"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֹמֵר",
+        "transliteration": "omer",
+        "englishLiteral": "saying",
+        "englishNatural": "saying",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "קוֹל אֲדֹנָי **אֹמֵר** אֶת מִי",
+        "transliteration": "qol Adonai **omer** et mi",
+        "englishLiteral": "voice-of my-Lord **saying,** ↳ \"whom",
+        "englishNatural": "the voice of my Lord **saying,** ↳ \"whom"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וָאֹמַר",
+        "transliteration": "vaOmar",
+        "englishLiteral": "And-I-will-say",
+        "englishNatural": "And I said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יֵלֶךְ לָנוּ **וָאֹמַר** הִנְנִי שְׁלָחֵנִי",
+        "transliteration": "yelekh lanu **vaOmar** hineni shelacheni",
+        "englishLiteral": "he-will-walk to-us?\" **And-I-will-say,** \"behold_me; send-me.\"",
+        "englishNatural": "will walk to us?\" **And I said,** \"behold-me; send me.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיֹּאמֶר",
+        "transliteration": "vaYomer",
+        "englishLiteral": "And-he-will-say",
+        "englishNatural": "And he said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּאמֶר** לֵךְ וְאָמַרְתָּ",
+        "transliteration": "**vaYomer** lekh veAmarta",
+        "englishLiteral": "**And-he-will-say,** \"Walk, and-you-have-said",
+        "englishNatural": "**And he said,** \"Walk, and you will say"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וְאָמַרְתָּ",
+        "transliteration": "veAmarta",
+        "englishLiteral": "and-you-have-said",
+        "englishNatural": "and you will say",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר לֵךְ **וְאָמַרְתָּ** לָעָם הַזֶּה",
+        "transliteration": "vaYomer lekh **veAmarta** laAm hazeh",
+        "englishLiteral": "And-he-will-say, \"Walk, **and-you-have-said** to-people the-this,",
+        "englishNatural": "And he said, \"Walk, **and you will say** to this people, the-this,"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וָאֹמַר",
+        "transliteration": "vaOmar",
+        "englishLiteral": "And-I-will-say",
+        "englishNatural": "And I said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וָאֹמַר** עַד־ מָתַי",
+        "transliteration": "**vaOmar** ad- matay",
+        "englishLiteral": "**And-I-will-say,** \"until- when",
+        "englishNatural": "**And I said,** \"Until when"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וַיֹּאמֶר",
+        "transliteration": "vaYomer",
+        "englishLiteral": "And-he-will-say",
+        "englishNatural": "And he said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מָתַי אֲדֹנָי **וַיֹּאמֶר** עַד אֲשֶׁר",
+        "transliteration": "matay Adonai **vaYomer** ad asher",
+        "englishLiteral": "when my-Lord?\" **And-he-will-say,** \"Until which",
+        "englishNatural": "when my Lord?\" **And he said,** \"Until which"
       }
     },
     {

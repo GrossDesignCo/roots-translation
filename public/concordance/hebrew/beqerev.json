@@ -1,0 +1,32 @@
+{
+  "key": "beqerev",
+  "language": "hebrew",
+  "root": "qerev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 12
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בְּקֶרֶב",
+        "transliteration": "beQerev",
+        "englishLiteral": "in-midst-of",
+        "englishNatural": "in the midst of",
+        "root": "qerev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְרַבָּה הָעֲזוּבָה **בְּקֶרֶב** הָאָרֶץ",
+        "transliteration": "veRabbah haAzuvah **beQerev** haAretz",
+        "englishLiteral": "and-great the-leaving **in-midst-of** the-land.",
+        "englishNatural": "the leaving and great, **in the midst of** the land."
+      }
+    }
+  ]
+}

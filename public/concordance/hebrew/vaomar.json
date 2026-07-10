@@ -29,6 +29,60 @@
         "englishLiteral": "**And-I-said,** \"Woe- to-me",
         "englishNatural": "**And I said,** \"Woe to me"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וָאֹמַר",
+        "transliteration": "vaOmar",
+        "englishLiteral": "And-I-will-say",
+        "englishNatural": "And I said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יֵלֶךְ לָנוּ **וָאֹמַר** הִנְנִי שְׁלָחֵנִי",
+        "transliteration": "yelekh lanu **vaOmar** hineni shelacheni",
+        "englishLiteral": "he-will-walk to-us?\" **And-I-will-say,** \"behold_me; send-me.\"",
+        "englishNatural": "will walk to us?\" **And I said,** \"behold-me; send me.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וָאֹמַר",
+        "transliteration": "vaOmar",
+        "englishLiteral": "And-I-will-say",
+        "englishNatural": "And I said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וָאֹמַר** עַד־ מָתַי",
+        "transliteration": "**vaOmar** ad- matay",
+        "englishLiteral": "**And-I-will-say,** \"until- when",
+        "englishNatural": "**And I said,** \"Until when"
+      }
     }
   ]
 }

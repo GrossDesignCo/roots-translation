@@ -298,8 +298,8 @@
       "context": {
         "hebrew": "עָשֵׁ֑ן וַיַּ֤רְא **הָעָם֙** וַיָּנֻ֔עוּ וַיַּעַמְד֖וּ",
         "transliteration": "ashen vaYar **haAm** vaYanuu vaYaamdu",
-        "englishLiteral": "smoking; and-he-will-see **the-people** and-they-will-tremble and-they-will-stand",
-        "englishNatural": "the mountain smoking; **and the people** saw and they trembled"
+        "englishLiteral": "smoking; and-he-will-see **the-people** and-they-will-shake and-they-will-stand",
+        "englishNatural": "the mountain smoking; **and the people** saw and they shook"
       }
     },
     {
@@ -575,6 +575,56 @@
         "transliteration": "anokhi uVeTokh **am-** teme sfatayim",
         "englishLiteral": "I, and-in-midst-of **people-** unclean lips",
         "englishNatural": "lips, and in the midst of **a people** of unclean lips"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לָעָם",
+        "transliteration": "laAm",
+        "englishLiteral": "to-people",
+        "englishNatural": "to this people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֵךְ וְאָמַרְתָּ **לָעָם** הַזֶּה שִׁמְעוּ",
+        "transliteration": "lekh veAmarta **laAm** hazeh shimeu",
+        "englishLiteral": "\"Walk, and-you-have-said **to-people** the-this, Hear",
+        "englishNatural": "\"Walk, and you will say **to this people,** the-this, Hear"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הָעָם",
+        "transliteration": "haAm",
+        "englishLiteral": "the-people",
+        "englishNatural": "this people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשְׁמֵן לֵב **הָעָם** הַזֶּה וְאָזְנָיו",
+        "transliteration": "hashmen lev **haAm** hazeh veAznav",
+        "englishLiteral": "Make-fat heart-of **the-people** the-this, and-his-ears",
+        "englishNatural": "Make-fat the heart of **this people,** the-this, and make-heavy"
       }
     },
     {

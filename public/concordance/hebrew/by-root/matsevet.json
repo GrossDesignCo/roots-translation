@@ -1,0 +1,56 @@
+{
+  "root": "matsevet",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "מַצֶּבֶת",
+        "transliteration": "matsevet",
+        "englishLiteral": "stump",
+        "englishNatural": "a stump",
+        "root": "matsevet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר בְּשַׁלֶּכֶת **מַצֶּבֶת** בָּם זֶרַע",
+        "transliteration": "asher beShalekhet **matsevet** bam zera",
+        "englishLiteral": "which in-casting_off **stump** in-them; seed-of",
+        "englishNatural": "which in casting-off **a stump** in them; a seed of"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "מַצַּבְתָּהּ",
+        "transliteration": "matsavtah",
+        "englishLiteral": "stump-her",
+        "englishNatural": "her stump",
+        "root": "matsevet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֶרַע קֹדֶשׁ **מַצַּבְתָּהּ**",
+        "transliteration": "zera qodesh **matsavtah**",
+        "englishLiteral": "seed-of holiness **stump-her.\"**",
+        "englishNatural": "a seed of holiness, **her stump.\"**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "veod",
+  "language": "hebrew",
+  "root": "od",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְעוֹד",
+        "transliteration": "veOd",
+        "englishLiteral": "And-again",
+        "englishNatural": "And again",
+        "root": "od",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**וְעוֹד** בָּהּ עֲשִׂרִיָּה",
+        "transliteration": "**veOd** bah asiriyyah",
+        "englishLiteral": "**And-again** in-her tenth,",
+        "englishNatural": "**And again** in her a tenth,"
+      }
+    }
+  ]
+}

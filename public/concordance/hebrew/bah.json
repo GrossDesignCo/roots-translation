@@ -55,6 +55,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בָּהּ",
+        "transliteration": "bah",
+        "englishLiteral": "in-her",
+        "englishNatural": "in her",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְעוֹד **בָּהּ** עֲשִׂרִיָּה וְשָׁבָה",
+        "transliteration": "veOd **bah** asiriyyah veShavah",
+        "englishLiteral": "And-again **in-her** tenth, and-she-has-returned,",
+        "englishNatural": "And again **in her** a tenth, and it will return,"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 3

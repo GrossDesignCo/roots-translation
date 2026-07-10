@@ -52,6 +52,31 @@
         "englishLiteral": "And-said Pharaoh **\"who** He_Who_Is (YHWH) which",
         "englishNatural": "And Pharaoh said, **\"Who is** He-Who-Is (YHWH) which"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "מִי",
+        "transliteration": "mi",
+        "englishLiteral": "whom",
+        "englishNatural": "whom",
+        "root": "mi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אֹמֵר אֶת **מִי** אֶשְׁלַח וּמִי",
+        "transliteration": "omer et **mi** eshlach uMi",
+        "englishLiteral": "saying, ↳ **\"whom** I-will-send and-who",
+        "englishNatural": "saying, ↳ **\"whom** will I send and who"
+      }
     }
   ]
 }

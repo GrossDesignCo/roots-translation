@@ -1,0 +1,32 @@
+{
+  "key": "beeinav",
+  "language": "hebrew",
+  "root": "ayin_eye",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בְעֵינָיו",
+        "transliteration": "beEinav",
+        "englishLiteral": "in-his-eyes",
+        "englishNatural": "in his eyes",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פֶּן יִרְאֶה **בְעֵינָיו** וּבְאָזְנָיו יִשְׁמָע",
+        "transliteration": "pen yireh **beEinav** uvAznav yishma",
+        "englishLiteral": "or-else he-will-see **in-his-eyes,** and-in-his-ears he-will-hear,",
+        "englishNatural": "or-else he sees **in his eyes,** and hear in his ears,"
+      }
+    }
+  ]
+}

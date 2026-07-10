@@ -56,6 +56,33 @@
         "englishLiteral": "**Will-hear** wise-man, and-will-add",
         "englishNatural": "A wise man **will hear,** and will add teaching;"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "יִשְׁמָע",
+        "transliteration": "yishma",
+        "englishLiteral": "he-will-hear",
+        "englishNatural": "and hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְעֵינָיו וּבְאָזְנָיו **יִשְׁמָע** וּלְבָבוֹ יָבִין",
+        "transliteration": "beEinav uvAznav **yishma** uLevavo yavin",
+        "englishLiteral": "in-his-eyes, and-in-his-ears **he-will-hear,** and-his-heart he-will-understand,",
+        "englishNatural": "he sees in his eyes, **and hear** in his ears, and his heart"
+      }
     }
   ]
 }

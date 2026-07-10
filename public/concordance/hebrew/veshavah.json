@@ -1,0 +1,34 @@
+{
+  "key": "veshavah",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְשָׁבָה",
+        "transliteration": "veShavah",
+        "englishLiteral": "and-she-has-returned",
+        "englishNatural": "and it will return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בָּהּ עֲשִׂרִיָּה **וְשָׁבָה** וְהָיְתָה לְבָעֵר",
+        "transliteration": "bah asiriyyah **veShavah** veHaytah leBaer",
+        "englishLiteral": "in-her tenth, **and-she-has-returned,** and-she-has-been to-burn:",
+        "englishNatural": "in her a tenth, **and it will return,** and will be to burn:"
+      }
+    }
+  ]
+}

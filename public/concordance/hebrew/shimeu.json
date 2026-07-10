@@ -1,0 +1,34 @@
+{
+  "key": "shimeu",
+  "language": "hebrew",
+  "root": "shama",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "שִׁמְעוּ",
+        "transliteration": "shimeu",
+        "englishLiteral": "Hear",
+        "englishNatural": "Hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָעָם הַזֶּה **שִׁמְעוּ** שָׁמוֹעַ וְאַל",
+        "transliteration": "laAm hazeh **shimeu** shamoa veAl",
+        "englishLiteral": "to-people the-this, **Hear** hearing and-not",
+        "englishNatural": "to this people, the-this, **Hear** hearing, and you will understand"
+      }
+    }
+  ]
+}

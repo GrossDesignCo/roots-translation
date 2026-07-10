@@ -1,0 +1,33 @@
+{
+  "root": "rachaq",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְרִחַק",
+        "transliteration": "veRichaq",
+        "englishLiteral": "and-has-removed_far",
+        "englishNatural": "will remove-far",
+        "root": "rachaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וְרִחַק** יְהוָה אֶת",
+        "transliteration": "**veRichaq** YHWH et",
+        "englishLiteral": "**and-has-removed_far** He_Who_Is (YHWH) ↳",
+        "englishNatural": "And He-Who-Is (YHWH) **will remove-far** ↳ the human,"
+      }
+    }
+  ]
+}

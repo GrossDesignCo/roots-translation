@@ -1,0 +1,34 @@
+{
+  "key": "ureu",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וּרְאוּ",
+        "transliteration": "uReu",
+        "englishLiteral": "and-see",
+        "englishNatural": "and see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַל תָּבִינוּ **וּרְאוּ** רָאוֹ וְאַל",
+        "transliteration": "veAl tavinu **uReu** rao veAl",
+        "englishLiteral": "and-not you-will-understand; **and-see** seeing and-not",
+        "englishNatural": "and you will understand not; **and see** seeing, and you will know"
+      }
+    }
+  ]
+}

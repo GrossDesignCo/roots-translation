@@ -31,6 +31,33 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הָעֲזוּבָה",
+        "transliteration": "haAzuvah",
+        "englishLiteral": "the-leaving",
+        "englishNatural": "the leaving",
+        "root": "azav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָדָם וְרַבָּה **הָעֲזוּבָה** בְּקֶרֶב הָאָרֶץ",
+        "transliteration": "haAdam veRabbah **haAzuvah** beQerev haAretz",
+        "englishLiteral": "the-human, and-great **the-leaving** in-midst-of the-land.",
+        "englishNatural": "↳ the human, **the leaving** and great, in the midst of"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 2,
         "verse": 8

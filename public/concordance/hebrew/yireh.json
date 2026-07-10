@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יִרְאֶה",
+        "transliteration": "yireh",
+        "englishLiteral": "he-will-see",
+        "englishNatural": "he sees",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָשַׁע פֶּן **יִרְאֶה** בְעֵינָיו וּבְאָזְנָיו",
+        "transliteration": "hasha pen **yireh** beEinav uvAznav",
+        "englishLiteral": "seal-shut; or-else **he-will-see** in-his-eyes, and-in-his-ears",
+        "englishNatural": "his eyes; or-else **he sees** in his eyes, and hear"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 4,
         "verse": 5

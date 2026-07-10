@@ -29,6 +29,33 @@
         "englishLiteral": "to-you wonder; **and-will-say** to- Light_Bringer (Aaron)",
         "englishNatural": "to you a wonder,' **and you will say** to Light-Bringer (Aaron),"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וְאָמַרְתָּ",
+        "transliteration": "veAmarta",
+        "englishLiteral": "and-you-have-said",
+        "englishNatural": "and you will say",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר לֵךְ **וְאָמַרְתָּ** לָעָם הַזֶּה",
+        "transliteration": "vaYomer lekh **veAmarta** laAm hazeh",
+        "englishLiteral": "And-he-will-say, \"Walk, **and-you-have-said** to-people the-this,",
+        "englishNatural": "And he said, \"Walk, **and you will say** to this people, the-this,"
+      }
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "key": "hashmen",
+  "language": "hebrew",
+  "root": "shaman",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "הַשְׁמֵן",
+        "transliteration": "hashmen",
+        "englishLiteral": "Make-fat",
+        "englishNatural": "Make-fat",
+        "root": "shaman",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "**הַשְׁמֵן** לֵב הָעָם",
+        "transliteration": "**hashmen** lev haAm",
+        "englishLiteral": "**Make-fat** heart-of the-people",
+        "englishNatural": "**Make-fat** the heart of this people,"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "key": "yavin",
+  "language": "hebrew",
+  "root": "bin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "יָבִין",
+        "transliteration": "yavin",
+        "englishLiteral": "he-will-understand",
+        "englishNatural": "understands",
+        "root": "bin",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׁמָע וּלְבָבוֹ **יָבִין** וָשָׁב וְרָפָא",
+        "transliteration": "yishma uLevavo **yavin** vaShav veRapa",
+        "englishLiteral": "he-will-hear, and-his-heart **he-will-understand,** and-he-has-returned, and-has-healed",
+        "englishNatural": "in his ears, and his heart **understands,** and he returns, and have healed"
+      }
+    }
+  ]
+}

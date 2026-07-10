@@ -880,6 +880,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 12
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הָאָדָם",
+        "transliteration": "haAdam",
+        "englishLiteral": "the-human",
+        "englishNatural": "the human",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֶת **הָאָדָם** וְרַבָּה הָעֲזוּבָה",
+        "transliteration": "YHWH et **haAdam** veRabbah haAzuvah",
+        "englishLiteral": "He_Who_Is (YHWH) ↳ **the-human,** and-great the-leaving",
+        "englishNatural": "will remove-far ↳ **the human,** the leaving and great,"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 3,
         "verse": 7

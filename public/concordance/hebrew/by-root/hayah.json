@@ -3191,6 +3191,33 @@
     {
       "location": {
         "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְהָיְתָה",
+        "transliteration": "veHaytah",
+        "englishLiteral": "and-she-has-been",
+        "englishNatural": "and will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֲשִׂרִיָּה וְשָׁבָה **וְהָיְתָה** לְבָעֵר כָּאֵלָה",
+        "transliteration": "asiriyyah veShavah **veHaytah** leBaer kaElah",
+        "englishLiteral": "tenth, and-she-has-returned, **and-she-has-been** to-burn: like-terebinth",
+        "englishNatural": "a tenth, and it will return, **and will be** to burn: like a terebinth"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
         "chapter": 30,
         "verse": 15
       },

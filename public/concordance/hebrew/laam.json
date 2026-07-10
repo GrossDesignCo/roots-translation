@@ -1,0 +1,32 @@
+{
+  "key": "laam",
+  "language": "hebrew",
+  "root": "am",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לָעָם",
+        "transliteration": "laAm",
+        "englishLiteral": "to-people",
+        "englishNatural": "to this people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֵךְ וְאָמַרְתָּ **לָעָם** הַזֶּה שִׁמְעוּ",
+        "transliteration": "lekh veAmarta **laAm** hazeh shimeu",
+        "englishLiteral": "\"Walk, and-you-have-said **to-people** the-this, Hear",
+        "englishNatural": "\"Walk, and you will say **to this people,** the-this, Hear"
+      }
+    }
+  ]
+}

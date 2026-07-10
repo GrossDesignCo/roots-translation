@@ -1,0 +1,32 @@
+{
+  "key": "pen",
+  "language": "hebrew",
+  "root": "pen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "פֶּן",
+        "transliteration": "pen",
+        "englishLiteral": "or-else",
+        "englishNatural": "or-else",
+        "root": "pen",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "וְעֵינָיו הָשַׁע **פֶּן** יִרְאֶה בְעֵינָיו",
+        "transliteration": "veEinav hasha **pen** yireh beEinav",
+        "englishLiteral": "and-his-eyes seal-shut; **or-else** he-will-see in-his-eyes,",
+        "englishNatural": "and seal-shut his eyes; **or-else** he sees in his eyes,"
+      }
+    }
+  ]
+}

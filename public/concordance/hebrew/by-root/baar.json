@@ -58,6 +58,32 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "לְבָעֵר",
+        "transliteration": "leBaer",
+        "englishLiteral": "to-burn",
+        "englishNatural": "to burn",
+        "root": "baar",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive"
+        }
+      },
+      "context": {
+        "hebrew": "וְשָׁבָה וְהָיְתָה **לְבָעֵר** כָּאֵלָה וְכָאַלּוֹן",
+        "transliteration": "veShavah veHaytah **leBaer** kaElah veKhaAllon",
+        "englishLiteral": "and-she-has-returned, and-she-has-been **to-burn:** like-terebinth and-like-oak,",
+        "englishNatural": "and it will return, and will be **to burn:** like a terebinth and like an oak,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 13

@@ -26,6 +26,56 @@
         "englishLiteral": "speak- please **in-ears-of** the-people; and-let-ask",
         "englishNatural": "Speak please **in the ears of** the people, and let ask"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְאָזְנָיו",
+        "transliteration": "veAznav",
+        "englishLiteral": "and-his-ears",
+        "englishNatural": "his ears",
+        "root": "ozen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָעָם הַזֶּה **וְאָזְנָיו** הַכְבֵּד וְעֵינָיו",
+        "transliteration": "haAm hazeh **veAznav** hakhbed veEinav",
+        "englishLiteral": "the-people the-this, **and-his-ears** make-heavy, and-his-eyes",
+        "englishNatural": "the-this, and make-heavy **his ears,** and seal-shut his eyes;"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וּבְאָזְנָיו",
+        "transliteration": "uvAznav",
+        "englishLiteral": "and-in-his-ears",
+        "englishNatural": "in his ears",
+        "root": "ozen",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִרְאֶה בְעֵינָיו **וּבְאָזְנָיו** יִשְׁמָע וּלְבָבוֹ",
+        "transliteration": "yireh beEinav **uvAznav** yishma uLevavo",
+        "englishLiteral": "he-will-see in-his-eyes, **and-in-his-ears** he-will-hear, and-his-heart",
+        "englishNatural": "in his eyes, and hear **in his ears,** and his heart understands,"
+      }
     }
   ]
 }

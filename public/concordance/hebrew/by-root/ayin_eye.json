@@ -229,6 +229,56 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְעֵינָיו",
+        "transliteration": "veEinav",
+        "englishLiteral": "and-his-eyes",
+        "englishNatural": "his eyes",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאָזְנָיו הַכְבֵּד **וְעֵינָיו** הָשַׁע פֶּן",
+        "transliteration": "veAznav hakhbed **veEinav** hasha pen",
+        "englishLiteral": "and-his-ears make-heavy, **and-his-eyes** seal-shut; or-else",
+        "englishNatural": "his ears, and seal-shut **his eyes;** or-else he sees"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בְעֵינָיו",
+        "transliteration": "beEinav",
+        "englishLiteral": "in-his-eyes",
+        "englishNatural": "in his eyes",
+        "root": "ayin_eye",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פֶּן יִרְאֶה **בְעֵינָיו** וּבְאָזְנָיו יִשְׁמָע",
+        "transliteration": "pen yireh **beEinav** uvAznav yishma",
+        "englishLiteral": "or-else he-will-see **in-his-eyes,** and-in-his-ears he-will-hear,",
+        "englishNatural": "or-else he sees **in his eyes,** and hear in his ears,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 4

@@ -57,7 +57,7 @@ And all the people were seeing the voices
 and the torches 
 and the voice of the horn 
 and the mountain smoking;
-and the people saw and they trembled and they stood from afar.
+and the people saw and they shook and they stood from afar.
 
 And they said to Drawn-Out (Moses), "Speak you with us and we will hear; 
 and God will speak not with us, lest we die."

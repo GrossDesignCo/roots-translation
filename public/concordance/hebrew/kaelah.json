@@ -1,0 +1,32 @@
+{
+  "key": "kaelah",
+  "language": "hebrew",
+  "root": "elah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "כָּאֵלָה",
+        "transliteration": "kaElah",
+        "englishLiteral": "like-terebinth",
+        "englishNatural": "like a terebinth",
+        "root": "elah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיְתָה לְבָעֵר **כָּאֵלָה** וְכָאַלּוֹן אֲשֶׁר",
+        "transliteration": "veHaytah leBaer **kaElah** veKhaAllon asher",
+        "englishLiteral": "and-she-has-been to-burn: **like-terebinth** and-like-oak, which",
+        "englishNatural": "and will be to burn: **like a terebinth** and like an oak, which"
+      }
+    }
+  ]
+}
