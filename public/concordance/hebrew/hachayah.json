@@ -56,6 +56,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "הַחַיָּה",
+        "transliteration": "haChayah",
+        "englishLiteral": "the-living_being",
+        "englishNatural": "the living-being",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵת כָּל־ **הַחַיָּה** וְאֵת כָּל־",
+        "transliteration": "veEt kol- **haChayah** veEt kol-",
+        "englishLiteral": "and-↳ all- **the-living_being** and-↳ all-",
+        "englishNatural": "and all **the living-being,** and all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 10
       },

@@ -32,6 +32,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מָצְאָה",
+        "transliteration": "matsaah",
+        "englishLiteral": "she-found",
+        "englishNatural": "found",
+        "root": "matsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹא **מָצְאָה** הַיּוֹנָה מָנוֹחַ",
+        "transliteration": "veLo **matsaah** haYonah manoach",
+        "englishLiteral": "And-not **she-found** the-dove resting_place",
+        "englishNatural": "And the dove **found** no resting-place"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 2
       },

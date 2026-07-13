@@ -52,6 +52,31 @@
         "englishLiteral": "which you-shall-make **her:** three hundreds",
         "englishNatural": "which you shall make **it:** three hundred"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 20,
+      "sourceOrder": 20,
+      "word": {
+        "originalScript": "אֹתָהּ",
+        "transliteration": "otah",
+        "englishLiteral": "her",
+        "englishNatural": "her",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקָּחֶהָ וַיָּבֵא **אֹתָהּ** אֵלָיו אֶל־",
+        "transliteration": "vaYiqacheha vaYave **otah** elav el-",
+        "englishLiteral": "And-he-took-her And-he-brought **her** to-him to-",
+        "englishNatural": "and took her and brought **her** to him to"
+      }
     }
   ]
 }

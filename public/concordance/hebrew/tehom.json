@@ -49,8 +49,33 @@
       "context": {
         "hebrew": "כָּל־ מַעְיְנֹת **תְּהוֹם** רַבָּה וַאֲרֻבֹּת",
         "transliteration": "kol- mayanot **tehom** rabbah vaArubot",
-        "englishLiteral": "all- fountains-of **abyss** great, and-windows-of",
-        "englishNatural": "the fountains of the great **abyss,** and the windows of the skies"
+        "englishLiteral": "all- fountains-of **abyss** great, and-conduits-of",
+        "englishNatural": "the fountains of the great **abyss,** and the conduits of the skies"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "תְּהוֹם",
+        "transliteration": "tehom",
+        "englishLiteral": "abyss",
+        "englishNatural": "abyss",
+        "root": "tehom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּסָּכְרוּ מַעְיְנֹת **תְּהוֹם** וַאֲרֻבֹּת הַשָּׁמַיִם",
+        "transliteration": "vaYissakru mayanot **tehom** vaArubot haShamayim",
+        "englishLiteral": "And-they-will-be-shut_up fountains-of **abyss** and-conduits-of the-skies;",
+        "englishNatural": "And the fountains of **abyss** and the conduits of the skies"
       }
     },
     {

@@ -449,7 +449,7 @@
         "hebrew": "רָאִיתִי צַדִּיק **לְפָנַי** בַּדּוֹר הַזֶּה",
         "transliteration": "raiti tzaddiq **leFanai** baDor haZeh",
         "englishLiteral": "I-have-seen righteous **to-faces-my** in-the-generation the-this.\"",
-        "englishNatural": "I have seen righteous **to my face** in the generation the this.\""
+        "englishNatural": "you, righteous **to my face** in this generation.\""
       }
     },
     {
@@ -575,6 +575,56 @@
         "transliteration": "asher al- **peney** haAdamah meAdam",
         "englishLiteral": "which over- **faces-of** the-earth, from-Earthling (Adam)",
         "englishNatural": "which over **the face of** the earth, from Earthling (Adam)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "פְּנֵי",
+        "transliteration": "peney",
+        "englishLiteral": "faces-of",
+        "englishNatural": "the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמַּיִם מֵעַל **פְּנֵי** הָאֲדָמָה",
+        "transliteration": "haMayim meAl **peney** haAdamah",
+        "englishLiteral": "the-waters from-over **faces-of** the-earth.",
+        "englishNatural": "whether they were-light from over **the face of** the earth."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "פְּנֵי",
+        "transliteration": "peney",
+        "englishLiteral": "faces-of",
+        "englishNatural": "the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַיִם עַל־ **פְּנֵי** כָל־ הָאָרֶץ",
+        "transliteration": "mayim al- **peney** kol- haAretz",
+        "englishLiteral": "waters over- **faces-of** all- the-land;",
+        "englishNatural": "waters were over **the face of** all the land;"
       }
     },
     {

@@ -507,6 +507,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הָאֲדָמָה",
+        "transliteration": "haAdamah",
+        "englishLiteral": "the-earth",
+        "englishNatural": "the earth",
+        "root": "adamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעַל פְּנֵי **הָאֲדָמָה**",
+        "transliteration": "meAl peney **haAdamah**",
+        "englishLiteral": "from-over faces-of **the-earth.**",
+        "englishNatural": "from over the face of **the earth.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 14,

@@ -27,6 +27,31 @@
         "englishLiteral": "And-it-was **from-end-of** days; And-he-brought",
         "englishNatural": "And it was **from the end of** days; And Acquired (Cain)"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מִקֵּץ",
+        "transliteration": "miQetz",
+        "englishLiteral": "from-end-of",
+        "englishNatural": "from the end of",
+        "root": "qetz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **מִקֵּץ** אַרְבָּעִים יוֹם",
+        "transliteration": "vaYehi **miQetz** arbaim yom",
+        "englishLiteral": "And-it-was **from-end-of** forty day;",
+        "englishNatural": "And it was **from the end of** forty days;"
+      }
     }
   ]
 }

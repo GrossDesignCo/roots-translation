@@ -125,7 +125,7 @@
         "hebrew": "וְאִשְׁתּוֹ וּמִן־ **הַבְּהֵמָה** אֲשֶׁר לֹא",
         "transliteration": "veIshto uMin- **haBehemah** asher lo",
         "englishLiteral": "and-woman-his; and-from- **the-beast** which not",
-        "englishNatural": "and his woman; and from **the beast** which is not"
+        "englishNatural": "and his woman; and from **the beast** which she"
       }
     },
     {
@@ -201,6 +201,31 @@
         "transliteration": "leMina veKhol- **haBehemah** leMina veKhol-",
         "englishLiteral": "to-kind-her, and-all- **the-beast** to-kind-her, and-all-",
         "englishNatural": "to its kind, and all **the beast** to its kind, and all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הַבְּהֵמָה",
+        "transliteration": "haBehemah",
+        "englishLiteral": "the-beast",
+        "englishNatural": "the beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵת כָּל־ **הַבְּהֵמָה** אֲשֶׁר אִתּוֹ",
+        "transliteration": "veEt kol- **haBehemah** asher itto",
+        "englishLiteral": "and-↳ all- **the-beast** which with-him",
+        "englishNatural": "and all **the beast** which was with him"
       }
     },
     {

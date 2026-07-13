@@ -1,0 +1,32 @@
+{
+  "key": "meito",
+  "language": "hebrew",
+  "root": "et_with",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "מֵאִתּוֹ",
+        "transliteration": "meIto",
+        "englishLiteral": "from-with-him",
+        "englishNatural": "from him",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַיּוֹנָה **מֵאִתּוֹ** לִרְאוֹת הֲקַלּוּ",
+        "transliteration": "et- haYonah **meIto** lirot haQallu",
+        "englishLiteral": "↳ the-dove **from-with-him,** to-see whether-they-were-light",
+        "englishNatural": "↳ the dove **from him,** to see the waters"
+      }
+    }
+  ]
+}

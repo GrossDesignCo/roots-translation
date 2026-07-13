@@ -150,7 +150,7 @@
         "hebrew": "בֵּיתְךָ אֶל־ **הַתֵּבָה** כִּי־ אֹתְךָ",
         "transliteration": "beitekha el- **haTevah** ki- otkha",
         "englishLiteral": "house-your, to- **the-ark;** that- ↳-you",
-        "englishNatural": "your house, to **the ark;** that you"
+        "englishNatural": "your house, to **the ark;** that I have seen"
       }
     },
     {
@@ -301,6 +301,106 @@
         "transliteration": "haAretz vaTelekh **haTevah** al- penei",
         "englishLiteral": "the-land; and-it-walked **the-ark** over- faces-of",
         "englishNatural": "over the land; **and the ark** walked over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַתֵּבָה",
+        "transliteration": "haTevah",
+        "englishLiteral": "the-ark",
+        "englishNatural": "And the ark",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתָּנַח **הַתֵּבָה** בַּחֹדֶשׁ הַשְּׁבִיעִי",
+        "transliteration": "vaTannah **haTevah** baChodesh haShvii",
+        "englishLiteral": "And-she-will-rest **the-ark** in-month the-seventh,",
+        "englishNatural": "**And the ark** rested in the month"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הַתֵּבָה",
+        "transliteration": "haTevah",
+        "englishLiteral": "the-ark",
+        "englishNatural": "the ark",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ חַלּוֹן **הַתֵּבָה** אֲשֶׁר עָשָׂה",
+        "transliteration": "et- challon **haTevah** asher asah",
+        "englishLiteral": "↳ window **the-ark** which made.",
+        "englishNatural": "↳ the window of **the ark** which he made."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הַתֵּבָה",
+        "transliteration": "haTevah",
+        "englishLiteral": "the-ark",
+        "englishNatural": "the ark",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלָיו אֶל־ **הַתֵּבָה** כִּי מַיִם",
+        "transliteration": "elav el- **haTevah** ki mayim",
+        "englishLiteral": "to-him to- **the-ark,** that waters",
+        "englishNatural": "to him to **the ark,** that waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 23,
+      "sourceOrder": 23,
+      "word": {
+        "originalScript": "הַתֵּבָה",
+        "transliteration": "haTevah",
+        "englishLiteral": "the-ark",
+        "englishNatural": "the ark",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלָיו אֶל־ **הַתֵּבָה**",
+        "transliteration": "elav el- **haTevah**",
+        "englishLiteral": "to-him to- **the-ark.**",
+        "englishNatural": "to him to **the ark.**"
       }
     },
     {

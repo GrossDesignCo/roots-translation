@@ -694,8 +694,8 @@
       "context": {
         "hebrew": "צֹהַר **תַּעֲשֶׂה** לַתֵּבָה וְאֶל־",
         "transliteration": "tzohar **taAseh** laTevah veEl-",
-        "englishLiteral": "illunination **you-shall-make** to-the-ark, and-to-",
-        "englishNatural": "A illunination **you shall make** for the ark, and to"
+        "englishLiteral": "skylight **you-shall-make** to-the-ark, and-to-",
+        "englishNatural": "A skylight **you shall make** for the ark, and to"
       }
     },
     {
@@ -831,6 +831,33 @@
         "transliteration": "**vaYaas** Noach keKol",
         "englishLiteral": "**And-he-made** Rest (Noah) as-all",
         "englishNatural": "And Rest (Noah) **did** as all which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "עָשָׂה",
+        "transliteration": "asah",
+        "englishLiteral": "made",
+        "englishNatural": "he made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַתֵּבָה אֲשֶׁר **עָשָׂה**",
+        "transliteration": "haTevah asher **asah**",
+        "englishLiteral": "the-ark which **made.**",
+        "englishNatural": "the ark which **he made.**"
       }
     },
     {

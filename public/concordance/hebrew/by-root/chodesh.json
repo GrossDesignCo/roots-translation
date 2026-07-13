@@ -54,6 +54,106 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בַּחֹדֶשׁ",
+        "transliteration": "baChodesh",
+        "englishLiteral": "in-month",
+        "englishNatural": "in the month",
+        "root": "chodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתָּנַח הַתֵּבָה **בַּחֹדֶשׁ** הַשְּׁבִיעִי בְּשִׁבְעָה־",
+        "transliteration": "vaTannah haTevah **baChodesh** haShvii beShivah-",
+        "englishLiteral": "And-she-will-rest the-ark **in-month** the-seventh, in-seven-",
+        "englishNatural": "And the ark rested **in the month** the seventh, in seven"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לַחֹדֶשׁ",
+        "transliteration": "laChodesh",
+        "englishLiteral": "to-the-month",
+        "englishNatural": "to the month",
+        "root": "chodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָשָׂר יוֹם **לַחֹדֶשׁ** עַל הָרֵי",
+        "transliteration": "asar yom **laChodesh** al harei",
+        "englishLiteral": "ten day **to-the-month,** over- the-mountains-of",
+        "englishNatural": "ten days **to the month,** over the mountains of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הַחֹדֶשׁ",
+        "transliteration": "haChodesh",
+        "englishLiteral": "the-month",
+        "englishNatural": "the month",
+        "root": "chodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחָסוֹר עַד **הַחֹדֶשׁ** הָעֲשִׂירִי בָּעֲשִׂירִי",
+        "transliteration": "veChasor ad **haChodesh** haAsiri baAsiri",
+        "englishLiteral": "and-lacking, until **the-month** the-tenth; in-the-tenth",
+        "englishNatural": "and lacking, until **the month** the tenth; in the tenth"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "לַחֹדֶשׁ",
+        "transliteration": "laChodesh",
+        "englishLiteral": "to-the-month",
+        "englishNatural": "to the month",
+        "root": "chodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּעֲשִׂירִי בְּאֶחָד **לַחֹדֶשׁ** נִרְאוּ רָאשֵׁי",
+        "transliteration": "baAsiri beEchad **laChodesh** niru rashei",
+        "englishLiteral": "in-the-tenth in-one **to-the-month,** they-were-seen heads-of",
+        "englishNatural": "in the tenth on the first **to the month,** the heads of the mountains"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 1

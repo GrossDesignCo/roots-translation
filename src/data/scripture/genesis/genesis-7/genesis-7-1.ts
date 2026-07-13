@@ -177,9 +177,15 @@ export const genesis_7_1: Verse = {
       englishNatural: 'you',
       root: 'et',
       suffixes: ['kha'],
-      order: 11,
+      order: {
+        hebrew: 11,
+        english: 12,
+      },
       morphology: {
         type: 'particle',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
       },
     },
     {
@@ -189,7 +195,10 @@ export const genesis_7_1: Verse = {
       englishNatural: 'I have seen',
       root: 'raah',
       suffixes: ['ti'],
-      order: 12,
+      order: {
+        hebrew: 12,
+        english: 11,
+      },
       morphology: {
         number: 'singular',
         person: '1st',
@@ -228,32 +237,40 @@ export const genesis_7_1: Verse = {
       hebrew: 'בַּדּוֹר',
       transliteration: 'baDor',
       englishLiteral: 'in-the-generation',
-      englishNatural: 'in the generation',
+      englishNatural: 'generation',
       root: 'dor',
       prefixes: ['ba'],
-      order: 15,
+      order: {
+        hebrew: 15,
+        english: 16,
+      },
       morphology: {
         gender: 'masculine',
         number: 'singular',
         type: 'noun',
       },
+      grammarSuffix: {
+        englishNatural: '."',
+      },
+      lineBreaksAfter: 1,
     },
     {
       hebrew: 'הַזֶּה',
       transliteration: 'haZeh',
       englishLiteral: 'the-this',
-      englishNatural: 'the this',
+      englishNatural: 'in this',
       root: 'zeh',
       prefixes: ['ha'],
-      order: 16,
+      order: {
+        hebrew: 16,
+        english: 15,
+      },
       morphology: {
         type: 'pronoun',
       },
       grammarSuffix: {
         englishLiteral: '."',
-        englishNatural: '."',
       },
-      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
@@ -264,8 +281,8 @@ export const genesis_7_1: Verse = {
     englishLiteral:
       'And-he-said He_Who_Is (YHWH) to-Rest (Noah), "Come- you and-all- house-your, to- the-ark; that- ↳-you I-have-seen righteous to-faces-my in-the-generation the-this."',
     englishNatural:
-      'And He-Who-Is (YHWH) said to Rest (Noah), "Come, you and all your house, to the ark; that you I have seen righteous to my face in the generation the this."',
+      'And He-Who-Is (YHWH) said to Rest (Noah), "Come, you and all your house, to the ark; that I have seen you, righteous to my face in this generation."',
     kjv: 'And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-13' },
 },
 };

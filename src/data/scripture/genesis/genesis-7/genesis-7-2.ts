@@ -180,7 +180,10 @@ export const genesis_7_2: Verse = {
       englishLiteral: 'not',
       englishNatural: 'is not',
       root: 'lo',
-      order: 13,
+      order: {
+        hebrew: 13,
+        english: 14,
+      },
       morphology: {
         type: 'adverb',
       },
@@ -191,11 +194,17 @@ export const genesis_7_2: Verse = {
       englishLiteral: 'clean',
       englishNatural: 'clean',
       root: 'tahor',
-      order: 14,
+      order: {
+        hebrew: 14,
+        english: 15,
+      },
       morphology: {
         gender: 'feminine',
         number: 'singular',
         type: 'adjective',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
       },
     },
     {
@@ -204,13 +213,15 @@ export const genesis_7_2: Verse = {
       englishLiteral: 'she',
       englishNatural: 'she',
       root: 'hi',
-      order: 15,
+      order: {
+        hebrew: 15,
+        english: 13,
+      },
       morphology: {
         type: 'pronoun',
       },
       grammarSuffix: {
         englishLiteral: ',',
-        englishNatural: ',',
       },
     },
     {
@@ -270,8 +281,8 @@ export const genesis_7_2: Verse = {
     englishLiteral:
       'From-all the-beast the-clean you-will-take- to-you seven seven, man and-woman-his; and-from- the-beast which not clean she, two, man and-woman-his.',
     englishNatural:
-      'From all the beast the clean you will take to you seven seven, man and his woman; and from the beast which is not clean she, two, man and his woman.',
+      'From all the beast the clean you will take to you seven seven, man and his woman; and from the beast which she is not clean, two, man and his woman.',
     kjv: 'Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-13' },
 },
 };

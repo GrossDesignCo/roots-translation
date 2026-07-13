@@ -1976,6 +1976,106 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּזְכֹּר אֱלֹהִים **אֶת־** נֹחַ וְאֵת",
+        "transliteration": "vaYizkor Elohim **et-** Noach veEt",
+        "englishLiteral": "And-he-will-remember Gods **↳** Rest (Noah) and-↳",
+        "englishNatural": "And God remembered **↳** Rest (Noah), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּפְתַּח נֹחַ **אֶת־** חַלּוֹן הַתֵּבָה",
+        "transliteration": "vaYiftach Noach **et-** challon haTevah",
+        "englishLiteral": "And-he-opened Rest (Noah) **↳** window the-ark",
+        "englishNatural": "And Rest (Noah) opened **↳** the window of the ark"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְשַׁלַּח **אֶת־** הָעֹרֵב וַיֵּצֵא",
+        "transliteration": "vaYeshalach **et-** haOrev vaYetze",
+        "englishLiteral": "And-he-sent **↳** the-raven, And-he-brought_out",
+        "englishNatural": "And he sent **↳** the raven, and it went-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְשַׁלַּח **אֶת־** הַיּוֹנָה מֵאִתּוֹ",
+        "transliteration": "vaYeshalach **et-** haYonah meIto",
+        "englishLiteral": "And-he-sent **↳** the-dove from-with-him,",
+        "englishNatural": "And he sent **↳** the dove from him,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 2,

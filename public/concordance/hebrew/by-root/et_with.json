@@ -155,6 +155,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "אִתּוֹ",
+        "transliteration": "itto",
+        "englishLiteral": "with-him",
+        "englishNatural": "with him",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַבְּהֵמָה אֲשֶׁר **אִתּוֹ** בַּתֵּבָה וַיַּעֲבֵר",
+        "transliteration": "haBehemah asher **itto** baTevah vaYaavor",
+        "englishLiteral": "the-beast which **with-him** in-the-ark; and-he-will-cause-to-pass_through",
+        "englishNatural": "the beast which was **with him** in the ark; and God"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "מֵאִתּוֹ",
+        "transliteration": "meIto",
+        "englishLiteral": "from-with-him",
+        "englishNatural": "from him",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַיּוֹנָה **מֵאִתּוֹ** לִרְאוֹת הֲקַלּוּ",
+        "transliteration": "et- haYonah **meIto** lirot haQallu",
+        "englishLiteral": "↳ the-dove **from-with-him,** to-see whether-they-were-light",
+        "englishNatural": "↳ the dove **from him,** to see the waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 14,
         "verse": 17
       },

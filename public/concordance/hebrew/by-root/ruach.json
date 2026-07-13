@@ -156,6 +156,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "רוּחַ",
+        "transliteration": "ruach",
+        "englishLiteral": "wind",
+        "englishNatural": "a wind",
+        "root": "ruach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעֲבֵר אֱלֹהִים **רוּחַ** עַל־ הָאָרֶץ",
+        "transliteration": "vaYaavor Elohim **ruach** al- haAretz",
+        "englishLiteral": "and-he-will-cause-to-pass_through Gods **wind** over- the-land;",
+        "englishNatural": "and God caused to pass-through **a wind** over the land;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 0,

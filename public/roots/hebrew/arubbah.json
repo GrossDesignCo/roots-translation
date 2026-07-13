@@ -2,15 +2,24 @@
   "key": "arubbah",
   "hebrew": "ארבה",
   "transliteration": "arubbah",
-  "englishLiteral": "window",
-  "englishNatural": "window",
+  "englishLiteral": "conduit",
+  "englishNatural": "conduit",
   "type": "noun",
-  "description": "window, lattice, sluice; specifically windows of heaven, floodgates",
+  "description": "conduit, lattice, sluice (channel for something to pass through; cosmic floodgates of heaven)",
+  "related": [
+    "challon",
+    "tzohar"
+  ],
   "wordIndexes": {
     "genesis": {
       "7": {
         "11": [
           19
+        ]
+      },
+      "8": {
+        "2": [
+          3
         ]
       }
     }

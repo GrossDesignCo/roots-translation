@@ -424,8 +424,8 @@
       "context": {
         "hebrew": "רַבָּה וַאֲרֻבֹּת **הַשָּׁמַיִם** נִפְתָּחוּ",
         "transliteration": "rabbah vaArubot **haShamayim** niftachu",
-        "englishLiteral": "great, and-windows-of **the-skies** they-were-opened.",
-        "englishNatural": "abyss, and the windows of **the skies** were opened."
+        "englishLiteral": "great, and-conduits-of **the-skies** they-were-opened.",
+        "englishNatural": "abyss, and the conduits of **the skies** were opened."
       }
     },
     {
@@ -476,6 +476,56 @@
         "transliteration": "veAd- oph **haShamayim** vayyimMachu min-",
         "englishLiteral": "and-until- flyer **the-skies;** and-they-will-be-wiped_out from-",
         "englishNatural": "and until flyer **the skies;** and they were wiped-out from"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הַשָּׁמַיִם",
+        "transliteration": "haShamayim",
+        "englishLiteral": "the-skies",
+        "englishNatural": "the skies",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תְּהוֹם וַאֲרֻבֹּת **הַשָּׁמַיִם** וַיִּכָּלֵא הַגֶּשֶׁם",
+        "transliteration": "tehom vaArubot **haShamayim** vaYikale haGeshem",
+        "englishLiteral": "abyss and-conduits-of **the-skies;** And-he-will-be-restrained the-rain",
+        "englishNatural": "abyss and the conduits of **the skies** were shut-up; and the rain"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הַשָּׁמַיִם",
+        "transliteration": "haShamayim",
+        "englishLiteral": "the-skies",
+        "englishNatural": "the skies",
+        "root": "shamayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַגֶּשֶׁם מִן־ **הַשָּׁמַיִם**",
+        "transliteration": "haGeshem min- **haShamayim**",
+        "englishLiteral": "the-rain from- **the-skies.**",
+        "englishNatural": "was restrained from **the skies.**"
       }
     },
     {

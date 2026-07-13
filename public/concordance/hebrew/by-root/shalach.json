@@ -58,6 +58,87 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְשַׁלַּח",
+        "transliteration": "vaYeshalach",
+        "englishLiteral": "And-he-sent",
+        "englishNatural": "And he sent",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְשַׁלַּח** אֶת־ הָעֹרֵב",
+        "transliteration": "**vaYeshalach** et- haOrev",
+        "englishLiteral": "**And-he-sent** ↳ the-raven,",
+        "englishNatural": "**And he sent** ↳ the raven,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְשַׁלַּח",
+        "transliteration": "vaYeshalach",
+        "englishLiteral": "And-he-sent",
+        "englishNatural": "And he sent",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְשַׁלַּח** אֶת־ הַיּוֹנָה",
+        "transliteration": "**vaYeshalach** et- haYonah",
+        "englishLiteral": "**And-he-sent** ↳ the-dove",
+        "englishNatural": "**And he sent** ↳ the dove"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "וַיִּשְׁלַח",
+        "transliteration": "vaYishlach",
+        "englishLiteral": "And-he-sent",
+        "englishNatural": "and he sent",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כָל־ הָאָרֶץ **וַיִּשְׁלַח** יָדוֹ וַיִּקָּחֶהָ",
+        "transliteration": "kol- haAretz **vaYishlach** yado vaYiqacheha",
+        "englishLiteral": "all- the-land; **And-he-sent** hand-his And-he-took-her",
+        "englishNatural": "all the land; **and he sent** his hand and took her"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 5

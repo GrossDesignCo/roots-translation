@@ -1,0 +1,32 @@
+{
+  "key": "bachodesh",
+  "language": "hebrew",
+  "root": "chodesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בַּחֹדֶשׁ",
+        "transliteration": "baChodesh",
+        "englishLiteral": "in-month",
+        "englishNatural": "in the month",
+        "root": "chodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתָּנַח הַתֵּבָה **בַּחֹדֶשׁ** הַשְּׁבִיעִי בְּשִׁבְעָה־",
+        "transliteration": "vaTannah haTevah **baChodesh** haShvii beShivah-",
+        "englishLiteral": "And-she-will-rest the-ark **in-month** the-seventh, in-seven-",
+        "englishNatural": "And the ark rested **in the month** the seventh, in seven"
+      }
+    }
+  ]
+}

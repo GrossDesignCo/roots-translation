@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וַיֵּצֵא",
+        "transliteration": "vaYetze",
+        "englishLiteral": "And-he-brought_out",
+        "englishNatural": "and it went-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הָעֹרֵב **וַיֵּצֵא** יָצוֹא וָשׁוֹב",
+        "transliteration": "et- haOrev **vaYetze** yatso vaShuv",
+        "englishLiteral": "↳ the-raven, **And-he-brought_out** bringing_out and-returning,",
+        "englishNatural": "↳ the raven, **and it went-out** going-out and returning,"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 4,
         "verse": 5

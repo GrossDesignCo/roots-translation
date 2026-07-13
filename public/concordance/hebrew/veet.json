@@ -163,6 +163,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְאֵת",
+        "transliteration": "veEt",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ נֹחַ **וְאֵת** כָּל־ הַחַיָּה",
+        "transliteration": "et- Noach **veEt** kol- haChayah",
+        "englishLiteral": "↳ Rest (Noah) **and-↳** all- the-living_being",
+        "englishNatural": "↳ Rest (Noah), **and** all the living-being,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְאֵת",
+        "transliteration": "veEt",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הַחַיָּה **וְאֵת** כָּל־ הַבְּהֵמָה",
+        "transliteration": "kol- haChayah **veEt** kol- haBehemah",
+        "englishLiteral": "all- the-living_being **and-↳** all- the-beast",
+        "englishNatural": "all the living-being, **and** all the beast"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 10
       },

@@ -747,7 +747,7 @@
         "hebrew": "וּמִן־ הַבְּהֵמָה **אֲשֶׁר** לֹא טְהוֹרָה",
         "transliteration": "uMin- haBehemah **asher** lo tehorah",
         "englishLiteral": "and-from- the-beast **which** not clean",
-        "englishNatural": "and from the beast **which** is not clean"
+        "englishNatural": "and from the beast **which** she is not"
       }
     },
     {
@@ -898,6 +898,56 @@
         "transliteration": "kol- haYequm **asher** al- peney",
         "englishLiteral": "all- the-standing_thing **which** over- faces-of",
         "englishNatural": "all the standing-thing **which** over the face of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אֲשֶׁר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which was",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הַבְּהֵמָה **אֲשֶׁר** אִתּוֹ בַּתֵּבָה",
+        "transliteration": "kol- haBehemah **asher** itto baTevah",
+        "englishLiteral": "all- the-beast **which** with-him in-the-ark;",
+        "englishNatural": "all the beast **which was** with him in the ark;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אֲשֶׁר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "חַלּוֹן הַתֵּבָה **אֲשֶׁר** עָשָׂה",
+        "transliteration": "challon haTevah **asher** asah",
+        "englishLiteral": "window the-ark **which** made.",
+        "englishNatural": "the window of the ark **which** he made."
       }
     },
     {

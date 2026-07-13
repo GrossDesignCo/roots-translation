@@ -194,6 +194,58 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הָלוֹךְ",
+        "transliteration": "halokh",
+        "englishLiteral": "going",
+        "englishNatural": "going",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעַל הָאָרֶץ **הָלוֹךְ** וָשׁוֹב וַיַּחְסְרוּ",
+        "transliteration": "meAl haAretz **halokh** vaShov vaYachseru",
+        "englishLiteral": "from-over the-land, **going** and-returning; And-they-will-lack",
+        "englishNatural": "from over the land, **going** and returning; and the waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הָלוֹךְ",
+        "transliteration": "halokh",
+        "englishLiteral": "going",
+        "englishNatural": "going",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַמַּיִם הָיוּ **הָלוֹךְ** וְחָסוֹר עַד",
+        "transliteration": "veHaMayim hayu **halokh** veChasor ad",
+        "englishLiteral": "And-the-waters they-were **going** and-lacking, until",
+        "englishNatural": "And the waters were **going** and lacking, until"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 12,
         "verse": 1
       },

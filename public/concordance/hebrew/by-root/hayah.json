@@ -1868,6 +1868,60 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הָיוּ",
+        "transliteration": "hayu",
+        "englishLiteral": "they-were",
+        "englishNatural": "were",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַמַּיִם **הָיוּ** הָלוֹךְ וְחָסוֹר",
+        "transliteration": "veHaMayim **hayu** halokh veChasor",
+        "englishLiteral": "And-the-waters **they-were** going and-lacking,",
+        "englishNatural": "And the waters **were** going and lacking,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְהִי",
+        "transliteration": "vaYehi",
+        "englishLiteral": "And-it-was",
+        "englishNatural": "And it was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְהִי** מִקֵּץ אַרְבָּעִים",
+        "transliteration": "**vaYehi** miQetz arbaim",
+        "englishLiteral": "**And-it-was** from-end-of forty",
+        "englishNatural": "**And it was** from the end of forty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 2
       },

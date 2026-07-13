@@ -25,8 +25,35 @@
       "context": {
         "hebrew": "וַאֲרֻבֹּת הַשָּׁמַיִם **נִפְתָּחוּ**",
         "transliteration": "vaArubot haShamayim **niftachu**",
-        "englishLiteral": "and-windows-of the-skies **they-were-opened.**",
-        "englishNatural": "and the windows of the skies **were opened.**"
+        "englishLiteral": "and-conduits-of the-skies **they-were-opened.**",
+        "englishNatural": "and the conduits of the skies **were opened.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וַיִּפְתַּח",
+        "transliteration": "vaYiftach",
+        "englishLiteral": "And-he-opened",
+        "englishNatural": "opened",
+        "root": "patach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְבָּעִים יוֹם **וַיִּפְתַּח** נֹחַ אֶת־",
+        "transliteration": "arbaim yom **vaYiftach** Noach et-",
+        "englishLiteral": "forty day; **And-he-opened** Rest (Noah) ↳",
+        "englishNatural": "days; And Rest (Noah) **opened** ↳ the window of"
       }
     },
     {

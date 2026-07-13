@@ -1,0 +1,31 @@
+{
+  "root": "orev",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הָעֹרֵב",
+        "transliteration": "haOrev",
+        "englishLiteral": "the-raven",
+        "englishNatural": "the raven",
+        "root": "orev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְשַׁלַּח אֶת־ **הָעֹרֵב** וַיֵּצֵא יָצוֹא",
+        "transliteration": "vaYeshalach et- **haOrev** vaYetze yatso",
+        "englishLiteral": "And-he-sent ↳ **the-raven,** And-he-brought_out bringing_out",
+        "englishNatural": "And he sent ↳ **the raven,** and it went-out going-out"
+      }
+    }
+  ]
+}

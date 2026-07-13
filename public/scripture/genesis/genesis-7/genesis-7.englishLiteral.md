@@ -1,14 +1,13 @@
 
 And-he-said He_Who_Is (YHWH) to-Rest (Noah),
 "Come- you and-all- house-your, to- the-ark;
-that- ↳-you I-have-seen righteous to-faces-my in-the-generation the-this."
-
+that- ↳-you I-have-seen righteous to-faces-my in-the-generation
+the-this." 
 From-all the-beast the-clean you-will-take- to-you seven seven, man and-woman-his;
 
 and-from- the-beast which not clean she, two, man and-woman-his.
 
 Also from-flyer the-skies seven seven, male and-female;
-
 to-keep_alive seed over- faces-of all- the-land.
 
 That to-days yet seven,
@@ -43,7 +42,7 @@ In-year-of six- hundreds year to-lives-of- Rest (Noah),
 in-month the-second,
 in-seven- ten day to-the-month, in-day the-this
 they-were-broken_open all- fountains-of abyss great,
-and-windows-of the-skies they-were-opened.
+and-conduits-of the-skies they-were-opened.
 
 And-it-was the-rain over- the-land,
 forty day and-forty night.

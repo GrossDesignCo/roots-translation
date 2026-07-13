@@ -1,0 +1,34 @@
+{
+  "key": "niru",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "נִרְאוּ",
+        "transliteration": "niru",
+        "englishLiteral": "they-were-seen",
+        "englishNatural": "were seen",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאֶחָד לַחֹדֶשׁ **נִרְאוּ** רָאשֵׁי הֶהָרִים",
+        "transliteration": "beEchad laChodesh **niru** rashei heHarim",
+        "englishLiteral": "in-one to-the-month, **they-were-seen** heads-of the-mountains.",
+        "englishNatural": "the heads of the mountains **were seen.**"
+      }
+    }
+  ]
+}

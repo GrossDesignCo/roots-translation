@@ -51,6 +51,56 @@
         "englishLiteral": "Gods to-Rest (Noah), **\"end-of** all- flesh",
         "englishNatural": "said to Rest (Noah), **\"The end of** all flesh"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "מִקְצֵה",
+        "transliteration": "miqtzah",
+        "englishLiteral": "from-end-of",
+        "englishNatural": "from the end of",
+        "root": "qetz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּחְסְרוּ הַמַּיִם **מִקְצֵה** חֲמִשִּׁים וּמְאַת",
+        "transliteration": "vaYachseru haMayim **miqtzah** chamishim uMeat",
+        "englishLiteral": "And-they-will-lack the-waters **from-end-of** fifty and-hundred",
+        "englishNatural": "and the waters lacked **from the end of** fifty and a hundred"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מִקֵּץ",
+        "transliteration": "miQetz",
+        "englishLiteral": "from-end-of",
+        "englishNatural": "from the end of",
+        "root": "qetz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **מִקֵּץ** אַרְבָּעִים יוֹם",
+        "transliteration": "vaYehi **miQetz** arbaim yom",
+        "englishLiteral": "And-it-was **from-end-of** forty day;",
+        "englishNatural": "And it was **from the end of** forty days;"
+      }
     }
   ]
 }

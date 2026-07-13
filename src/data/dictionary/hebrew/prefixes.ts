@@ -34,6 +34,13 @@ const PREFIXES = {
     englishLiteral: 'the',
     englishNatural: 'the',
   },
+  ha_im: {
+    hebrew: 'הֲ',
+    transliteration: 'ha',
+    englishLiteral: 'whether',
+    englishNatural: 'whether',
+    description: 'interrogative prefix — whether, if',
+  },
   al: {
     hebrew: 'עַל',
     transliteration: 'al',

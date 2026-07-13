@@ -401,6 +401,31 @@
         "englishLiteral": "in-month the-second, **in-seven-** ten day",
         "englishNatural": "in the month the second, **in seven** ten days"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בְּשִׁבְעָה־",
+        "transliteration": "beShivah-",
+        "englishLiteral": "in-seven-",
+        "englishNatural": "in seven",
+        "root": "sheva",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "בַּחֹדֶשׁ הַשְּׁבִיעִי **בְּשִׁבְעָה־** עָשָׂר יוֹם",
+        "transliteration": "baChodesh haShvii **beShivah-** asar yom",
+        "englishLiteral": "in-month the-seventh, **in-seven-** ten day",
+        "englishNatural": "in the month the seventh, **in seven** ten days"
+      }
     }
   ]
 }

@@ -80,6 +80,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "מַיִם",
+        "transliteration": "mayim",
+        "englishLiteral": "waters",
+        "englishNatural": "waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַתֵּבָה כִּי **מַיִם** עַל־ פְּנֵי",
+        "transliteration": "haTevah ki **mayim** al- peney",
+        "englishLiteral": "the-ark, that **waters** over- faces-of",
+        "englishNatural": "the ark, that **waters** were over the face of"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 3

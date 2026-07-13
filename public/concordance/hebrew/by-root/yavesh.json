@@ -4,6 +4,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "יָבֹשׁ",
+        "transliteration": "yavosh",
+        "englishLiteral": "withered",
+        "englishNatural": "dried",
+        "root": "yavesh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וָשׁוֹב עַד־ **יָבֹשׁ** הַמַּיִם מֵעַל",
+        "transliteration": "vaShuv ad- **yavosh** haMayim meAl",
+        "englishLiteral": "and-returning, until- **withered** the-waters from-over",
+        "englishNatural": "until the waters **dried** from over the land."
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 4,
         "verse": 7

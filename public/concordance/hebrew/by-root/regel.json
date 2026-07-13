@@ -4,6 +4,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "רַגְלָהּ",
+        "transliteration": "raglah",
+        "englishLiteral": "foot-her",
+        "englishNatural": "her foot",
+        "root": "regel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מָנוֹחַ לְכַף־ **רַגְלָהּ** וַתָּשָׁב אֵלָיו",
+        "transliteration": "manoach leKhaf- **raglah** vaTashav elav",
+        "englishLiteral": "resting_place to-palm-of **foot-her,** And-she-returned to-him",
+        "englishNatural": "resting-place to the palm of **her foot,** and she returned to him"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 5

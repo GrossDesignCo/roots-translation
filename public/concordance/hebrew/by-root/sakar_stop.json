@@ -1,0 +1,33 @@
+{
+  "root": "sakar_stop",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיִּסָּכְרוּ",
+        "transliteration": "vaYissakru",
+        "englishLiteral": "And-they-will-be-shut_up",
+        "englishNatural": "were shut-up",
+        "root": "sakar_stop",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּסָּכְרוּ** מַעְיְנֹת תְּהוֹם",
+        "transliteration": "**vaYissakru** mayanot tehom",
+        "englishLiteral": "**And-they-will-be-shut_up** fountains-of abyss",
+        "englishNatural": "and the conduits of the skies **were shut-up;** and the rain was restrained"
+      }
+    }
+  ]
+}

@@ -930,6 +930,156 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים רוּחַ **עַל־** הָאָרֶץ וַיָּשֹׁכּוּ",
+        "transliteration": "Elohim ruach **al-** haAretz vaYashoku",
+        "englishLiteral": "Gods wind **over-** the-land; and-they-will-subside",
+        "englishNatural": "caused to pass-through a wind **over** the land; and the waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מֵעַל",
+        "transliteration": "meAl",
+        "englishLiteral": "from-over",
+        "englishNatural": "from over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּשֻׁבוּ הַמַּיִם **מֵעַל** הָאָרֶץ הָלוֹךְ",
+        "transliteration": "vaYaShuvu haMayim **meAl** haAretz halokh",
+        "englishLiteral": "And-they-will-return the-waters **from-over** the-land, going",
+        "englishNatural": "And the waters returned **from over** the land, going"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "עַל",
+        "transliteration": "al",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹם לַחֹדֶשׁ **עַל** הָרֵי אֲרָרָט",
+        "transliteration": "yom laChodesh **al** harei Ararat",
+        "englishLiteral": "day to-the-month, **over-** the-mountains-of Ararat.",
+        "englishNatural": "days to the month, **over** the mountains of Ararat."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "מֵעַל",
+        "transliteration": "meAl",
+        "englishLiteral": "from-over",
+        "englishNatural": "from over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יָבֹשׁ הַמַּיִם **מֵעַל** הָאָרֶץ",
+        "transliteration": "yavosh haMayim **meAl** haAretz",
+        "englishLiteral": "withered the-waters **from-over** the-land.",
+        "englishNatural": "the waters dried **from over** the land."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "מֵעַל",
+        "transliteration": "meAl",
+        "englishLiteral": "from-over",
+        "englishNatural": "from over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הֲקַלּוּ הַמַּיִם **מֵעַל** פְּנֵי הָאֲדָמָה",
+        "transliteration": "haQallu haMayim **meAl** peney haAdamah",
+        "englishLiteral": "whether-they-were-light the-waters **from-over** faces-of the-earth.",
+        "englishNatural": "the waters whether they were-light **from over** the face of the earth."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "were over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי מַיִם **עַל־** פְּנֵי כָל־",
+        "transliteration": "ki mayim **al-** peney kol-",
+        "englishLiteral": "that waters **over-** faces-of all-",
+        "englishNatural": "that waters **were over** the face of all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 2
       },

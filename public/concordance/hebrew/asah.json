@@ -195,6 +195,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "עָשָׂה",
+        "transliteration": "asah",
+        "englishLiteral": "made",
+        "englishNatural": "he made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַתֵּבָה אֲשֶׁר **עָשָׂה**",
+        "transliteration": "haTevah asher **asah**",
+        "englishLiteral": "the-ark which **made.**",
+        "englishNatural": "the ark which **he made.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 6
       },

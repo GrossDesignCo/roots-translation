@@ -105,6 +105,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אַרְבָּעִים",
+        "transliteration": "arbaim",
+        "englishLiteral": "forty",
+        "englishNatural": "forty",
+        "root": "arbaim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי מִקֵּץ **אַרְבָּעִים** יוֹם וַיִּפְתַּח",
+        "transliteration": "vaYehi miQetz **arbaim** yom vaYiftach",
+        "englishLiteral": "And-it-was from-end-of **forty** day; And-he-opened",
+        "englishNatural": "And it was from the end of **forty** days; And Rest (Noah)"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 3,
         "verse": 4

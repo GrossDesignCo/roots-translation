@@ -30,6 +30,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "עַד",
+        "transliteration": "ad",
+        "englishLiteral": "until",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הָלוֹךְ וְחָסוֹר **עַד** הַחֹדֶשׁ הָעֲשִׂירִי",
+        "transliteration": "halokh veChasor **ad** haChodesh haAsiri",
+        "englishLiteral": "going and-lacking, **until** the-month the-tenth;",
+        "englishNatural": "going and lacking, **until** the month the tenth;"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 11,
         "verse": 5

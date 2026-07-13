@@ -1,14 +1,13 @@
 
 vaYomer YHWH leNoach
 bo-attah veKhol-beitekha el-haTevah
-ki-otkha raiti tzaddiq leFanai baDor haZeh
-
+ki-otkha raiti tzaddiq leFanai baDor
+haZeh 
 miKol haBehemah haTehorah tiqqach-lekha shivah shivah ish veIshto
 
 uMin-haBehemah asher lo tehorah hi shnayim ish veIshto
 
 gam meOph haShamayim shivah shivah zakhar uNeqevah
-
 leChayot zera al-peney khol-haAretz
 
 ki leYamim od shivah

@@ -1,0 +1,32 @@
+{
+  "key": "baasiri",
+  "language": "hebrew",
+  "root": "asiri",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בָּעֲשִׂירִי",
+        "transliteration": "baAsiri",
+        "englishLiteral": "in-the-tenth",
+        "englishNatural": "in the tenth",
+        "root": "asiri",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הַחֹדֶשׁ הָעֲשִׂירִי **בָּעֲשִׂירִי** בְּאֶחָד לַחֹדֶשׁ",
+        "transliteration": "haChodesh haAsiri **baAsiri** beEchad laChodesh",
+        "englishLiteral": "the-month the-tenth; **in-the-tenth** in-one to-the-month,",
+        "englishNatural": "the month the tenth; **in the tenth** on the first to the month,"
+      }
+    }
+  ]
+}

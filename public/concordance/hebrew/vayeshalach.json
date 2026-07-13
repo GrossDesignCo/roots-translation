@@ -5,6 +5,60 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְשַׁלַּח",
+        "transliteration": "vaYeshalach",
+        "englishLiteral": "And-he-sent",
+        "englishNatural": "And he sent",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְשַׁלַּח** אֶת־ הָעֹרֵב",
+        "transliteration": "**vaYeshalach** et- haOrev",
+        "englishLiteral": "**And-he-sent** ↳ the-raven,",
+        "englishNatural": "**And he sent** ↳ the raven,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְשַׁלַּח",
+        "transliteration": "vaYeshalach",
+        "englishLiteral": "And-he-sent",
+        "englishNatural": "And he sent",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְשַׁלַּח** אֶת־ הַיּוֹנָה",
+        "transliteration": "**vaYeshalach** et- haYonah",
+        "englishLiteral": "**And-he-sent** ↳ the-dove",
+        "englishNatural": "**And he sent** ↳ the dove"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 6

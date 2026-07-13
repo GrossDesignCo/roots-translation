@@ -130,6 +130,81 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מֵעַל",
+        "transliteration": "meAl",
+        "englishLiteral": "from-over",
+        "englishNatural": "from over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּשֻׁבוּ הַמַּיִם **מֵעַל** הָאָרֶץ הָלוֹךְ",
+        "transliteration": "vaYaShuvu haMayim **meAl** haAretz halokh",
+        "englishLiteral": "And-they-will-return the-waters **from-over** the-land, going",
+        "englishNatural": "And the waters returned **from over** the land, going"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "מֵעַל",
+        "transliteration": "meAl",
+        "englishLiteral": "from-over",
+        "englishNatural": "from over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יָבֹשׁ הַמַּיִם **מֵעַל** הָאָרֶץ",
+        "transliteration": "yavosh haMayim **meAl** haAretz",
+        "englishLiteral": "withered the-waters **from-over** the-land.",
+        "englishNatural": "the waters dried **from over** the land."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "מֵעַל",
+        "transliteration": "meAl",
+        "englishLiteral": "from-over",
+        "englishNatural": "from over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הֲקַלּוּ הַמַּיִם **מֵעַל** פְּנֵי הָאֲדָמָה",
+        "transliteration": "haQallu haMayim **meAl** peney haAdamah",
+        "englishLiteral": "whether-they-were-light the-waters **from-over** faces-of the-earth.",
+        "englishNatural": "the waters whether they were-light **from over** the face of the earth."
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 5

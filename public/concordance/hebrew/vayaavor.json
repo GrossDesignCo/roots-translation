@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "וַיַּעֲבֵר",
+        "transliteration": "vaYaavor",
+        "englishLiteral": "and-he-will-cause-to-pass_through",
+        "englishNatural": "caused to pass-through",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אִתּוֹ בַּתֵּבָה **וַיַּעֲבֵר** אֱלֹהִים רוּחַ",
+        "transliteration": "itto baTevah **vaYaavor** Elohim ruach",
+        "englishLiteral": "with-him in-the-ark; **and-he-will-cause-to-pass_through** Gods wind",
+        "englishNatural": "in the ark; and God **caused to pass-through** a wind over"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 34,
         "verse": 6

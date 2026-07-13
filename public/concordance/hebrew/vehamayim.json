@@ -27,6 +27,31 @@
         "englishLiteral": "**And-the-waters** they-have-prevailed very",
         "englishNatural": "**And the waters** have prevailed very"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְהַמַּיִם",
+        "transliteration": "veHaMayim",
+        "englishLiteral": "And-the-waters",
+        "englishNatural": "And the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהַמַּיִם** הָיוּ הָלוֹךְ",
+        "transliteration": "**veHaMayim** hayu halokh",
+        "englishLiteral": "**And-the-waters** they-were going",
+        "englishNatural": "**And the waters** were going"
+      }
     }
   ]
 }

@@ -2,10 +2,15 @@
   "key": "tzohar",
   "hebrew": "צהר",
   "transliteration": "tzohar",
-  "englishLiteral": "illunination",
-  "englishNatural": "illunination",
+  "englishLiteral": "skylight",
+  "englishNatural": "skylight",
   "type": "noun",
-  "description": "light, window, opening for light; possibly a window or skylight in the ark",
+  "description": "skylight, roof-opening, light-source (lets light in from above; ark opening in Gen 6:16; distinct from challon wall-window)",
+  "related": [
+    "challon",
+    "arubbah",
+    "nogah"
+  ],
   "wordIndexes": {
     "genesis": {
       "6": {

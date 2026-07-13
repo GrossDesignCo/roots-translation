@@ -58,7 +58,7 @@ three hundreds cubit length-of the-ark,
 fifty cubit breadth-her,
 and-thirty cubit height-her.
 
-illunination you-shall-make to-the-ark,
+skylight you-shall-make to-the-ark,
 and-to- cubit you-shall-finish-her from-to-upward;
 and-opening-of the-ark in-side-her you-shall-set;
 lower second and-third you-shall-make-her.

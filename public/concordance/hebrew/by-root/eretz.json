@@ -1431,6 +1431,106 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "הָאָרֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רוּחַ עַל־ **הָאָרֶץ** וַיָּשֹׁכּוּ הַמָּיִם",
+        "transliteration": "ruach al- **haAretz** vaYashoku haMayim",
+        "englishLiteral": "wind over- **the-land;** and-they-will-subside the-waters.",
+        "englishNatural": "a wind over **the land;** and the waters subsided."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הָאָרֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמַּיִם מֵעַל **הָאָרֶץ** הָלוֹךְ וָשׁוֹב",
+        "transliteration": "haMayim meAl **haAretz** halokh vaShov",
+        "englishLiteral": "the-waters from-over **the-land,** going and-returning;",
+        "englishNatural": "returned from over **the land,** going and returning;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הָאָרֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמַּיִם מֵעַל **הָאָרֶץ**",
+        "transliteration": "haMayim meAl **haAretz**",
+        "englishLiteral": "the-waters from-over **the-land.**",
+        "englishNatural": "dried from over **the land.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "הָאָרֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פְּנֵי כָל־ **הָאָרֶץ** וַיִּשְׁלַח יָדוֹ",
+        "transliteration": "peney kol- **haAretz** vaYishlach yado",
+        "englishLiteral": "faces-of all- **the-land;** And-he-sent hand-his",
+        "englishNatural": "the face of all **the land;** and he sent his hand"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 22
       },
       "wordIndex": 3,

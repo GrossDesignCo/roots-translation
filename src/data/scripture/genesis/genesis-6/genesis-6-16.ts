@@ -10,8 +10,8 @@ export const genesis_6_16: Verse = {
     {
       hebrew: 'צֹהַר',
       transliteration: 'tzohar',
-      englishLiteral: 'illunination',
-      englishNatural: 'A illunination',
+      englishLiteral: 'skylight',
+      englishNatural: 'A skylight',
       root: 'tzohar',
       order: 1,
       morphology: {
@@ -249,10 +249,10 @@ export const genesis_6_16: Verse = {
     transliteration:
       'tzohar taAseh laTevah veEl-ammah tekhalennah milMaalah uFetach haTevah beTzidah tasim tachtiyim shniyim uShlishim taAsehah',
     englishLiteral:
-      'illunination you-shall-make to-the-ark, and-to- cubit you-shall-finish-her from-to-upward; and-opening-of the-ark in-side-her you-shall-set; lower second and-third you-shall-make-her.',
+      'skylight you-shall-make to-the-ark, and-to- cubit you-shall-finish-her from-to-upward; and-opening-of the-ark in-side-her you-shall-set; lower second and-third you-shall-make-her.',
     englishNatural:
-      'A illunination you shall make for the ark, and to a cubit you shall finish it from upward; and the opening of the ark in its side you shall set; lower second and third you shall make it.',
+      'A skylight you shall make for the ark, and to a cubit you shall finish it from upward; and the opening of the ark in its side you shall set; lower second and third you shall make it.',
     kjv: 'A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-13' },
   },
 };

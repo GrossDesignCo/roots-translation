@@ -118,7 +118,6 @@ export const genesis_7_3: Verse = {
         stem: 'piel',
         type: 'verb',
       },
-      lineBreaksBefore: 1,
     },
     {
       hebrew: 'זֶרַע',
@@ -199,6 +198,6 @@ export const genesis_7_3: Verse = {
     englishNatural:
       'Also from the flyer of the skies seven seven, male and female; to keep-alive seed over the face of all the land.',
     kjv: 'Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-06-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-13' },
 },
 };

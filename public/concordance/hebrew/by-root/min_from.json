@@ -154,6 +154,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "מִן־",
+        "transliteration": "min-",
+        "englishLiteral": "from-",
+        "englishNatural": "from",
+        "root": "min_from",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּכָּלֵא הַגֶּשֶׁם **מִן־** הַשָּׁמַיִם",
+        "transliteration": "vaYikale haGeshem **min-** haShamayim",
+        "englishLiteral": "And-he-will-be-restrained the-rain **from-** the-skies.",
+        "englishNatural": "and the rain was restrained **from** the skies."
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 3,
         "verse": 8

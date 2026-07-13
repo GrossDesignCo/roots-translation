@@ -1,0 +1,34 @@
+{
+  "key": "vayizkor",
+  "language": "hebrew",
+  "root": "zakhar_remember",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיִּזְכֹּר",
+        "transliteration": "vaYizkor",
+        "englishLiteral": "And-he-will-remember",
+        "englishNatural": "remembered",
+        "root": "zakhar_remember",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּזְכֹּר** אֱלֹהִים אֶת־",
+        "transliteration": "**vaYizkor** Elohim et-",
+        "englishLiteral": "**And-he-will-remember** Gods ↳",
+        "englishNatural": "And God **remembered** ↳ Rest (Noah),"
+      }
+    }
+  ]
+}

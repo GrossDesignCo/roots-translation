@@ -1,0 +1,34 @@
+{
+  "key": "vatannah",
+  "language": "hebrew",
+  "root": "nuach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַתָּנַח",
+        "transliteration": "vaTannah",
+        "englishLiteral": "And-she-will-rest",
+        "englishNatural": "rested",
+        "root": "nuach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתָּנַח** הַתֵּבָה בַּחֹדֶשׁ",
+        "transliteration": "**vaTannah** haTevah baChodesh",
+        "englishLiteral": "**And-she-will-rest** the-ark in-month",
+        "englishNatural": "And the ark **rested** in the month the seventh,"
+      }
+    }
+  ]
+}

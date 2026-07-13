@@ -457,6 +457,56 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "נֹחַ",
+        "transliteration": "Noach",
+        "englishLiteral": "Rest (Noah)",
+        "englishNatural": "Rest (Noah)",
+        "root": "noach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים אֶת־ **נֹחַ** וְאֵת כָּל־",
+        "transliteration": "Elohim et- **Noach** veEt kol-",
+        "englishLiteral": "Gods ↳ **Rest (Noah)** and-↳ all-",
+        "englishNatural": "remembered ↳ **Rest (Noah),** and all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "נֹחַ",
+        "transliteration": "Noach",
+        "englishLiteral": "Rest (Noah)",
+        "englishNatural": "And Rest (Noah)",
+        "root": "noach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹם וַיִּפְתַּח **נֹחַ** אֶת־ חַלּוֹן",
+        "transliteration": "yom vaYiftach **Noach** et- challon",
+        "englishLiteral": "day; And-he-opened **Rest (Noah)** ↳ window",
+        "englishNatural": "forty days; **And Rest (Noah)** opened ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 20
       },
       "wordIndex": 1,

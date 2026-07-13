@@ -1,0 +1,33 @@
+{
+  "key": "vashov",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וָשׁוֹב",
+        "transliteration": "vaShov",
+        "englishLiteral": "and-returning",
+        "englishNatural": "and returning",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ הָלוֹךְ **וָשׁוֹב** וַיַּחְסְרוּ הַמַּיִם",
+        "transliteration": "haAretz halokh **vaShov** vaYachseru haMayim",
+        "englishLiteral": "the-land, going **and-returning;** And-they-will-lack the-waters",
+        "englishNatural": "the land, going **and returning;** and the waters lacked"
+      }
+    }
+  ]
+}

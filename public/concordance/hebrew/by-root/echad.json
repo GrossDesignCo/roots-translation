@@ -180,6 +180,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "בְּאֶחָד",
+        "transliteration": "beEchad",
+        "englishLiteral": "in-one",
+        "englishNatural": "on the first",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הָעֲשִׂירִי בָּעֲשִׂירִי **בְּאֶחָד** לַחֹדֶשׁ נִרְאוּ",
+        "transliteration": "haAsiri baAsiri **beEchad** laChodesh niru",
+        "englishLiteral": "the-tenth; in-the-tenth **in-one** to-the-month, they-were-seen",
+        "englishNatural": "the tenth; in the tenth **on the first** to the month, the heads of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 1
       },

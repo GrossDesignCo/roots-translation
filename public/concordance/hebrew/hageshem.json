@@ -30,6 +30,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "הַגֶּשֶׁם",
+        "transliteration": "haGeshem",
+        "englishLiteral": "the-rain",
+        "englishNatural": "and the rain",
+        "root": "geshem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׁמַיִם וַיִּכָּלֵא **הַגֶּשֶׁם** מִן־ הַשָּׁמַיִם",
+        "transliteration": "haShamayim vaYikale **haGeshem** min- haShamayim",
+        "englishLiteral": "the-skies; And-he-will-be-restrained **the-rain** from- the-skies.",
+        "englishNatural": "the skies were shut-up; **and the rain** was restrained from"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 28

@@ -521,7 +521,32 @@
         "hebrew": "הַבְּהֵמָה אֲשֶׁר **לֹא** טְהוֹרָה הִוא",
         "transliteration": "haBehemah asher **lo** tehorah hi",
         "englishLiteral": "the-beast which **not** clean she,",
-        "englishNatural": "the beast which **is not** clean she,"
+        "englishNatural": "which she **is not** clean, two,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְלֹא",
+        "transliteration": "veLo",
+        "englishLiteral": "And-not",
+        "englishNatural": "no",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**וְלֹא** מָצְאָה הַיּוֹנָה",
+        "transliteration": "**veLo** matsaah haYonah",
+        "englishLiteral": "**And-not** she-found the-dove",
+        "englishNatural": "And the dove found **no** resting-place to the palm of"
       }
     },
     {

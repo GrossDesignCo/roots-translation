@@ -1,0 +1,34 @@
+{
+  "key": "vayashuvu",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיָּשֻׁבוּ",
+        "transliteration": "vaYaShuvu",
+        "englishLiteral": "And-they-will-return",
+        "englishNatural": "returned",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּשֻׁבוּ** הַמַּיִם מֵעַל",
+        "transliteration": "**vaYaShuvu** haMayim meAl",
+        "englishLiteral": "**And-they-will-return** the-waters from-over",
+        "englishNatural": "And the waters **returned** from over the land,"
+      }
+    }
+  ]
+}

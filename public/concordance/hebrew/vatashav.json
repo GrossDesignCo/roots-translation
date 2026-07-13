@@ -1,0 +1,34 @@
+{
+  "key": "vatashav",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וַתָּשָׁב",
+        "transliteration": "vaTashav",
+        "englishLiteral": "And-she-returned",
+        "englishNatural": "and she returned",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְכַף־ רַגְלָהּ **וַתָּשָׁב** אֵלָיו אֶל־",
+        "transliteration": "leKhaf- raglah **vaTashav** elav el-",
+        "englishLiteral": "to-palm-of foot-her, **And-she-returned** to-him to-",
+        "englishNatural": "to the palm of her foot, **and she returned** to him to"
+      }
+    }
+  ]
+}

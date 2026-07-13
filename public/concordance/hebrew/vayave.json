@@ -32,6 +32,33 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "וַיָּבֵא",
+        "transliteration": "vaYave",
+        "englishLiteral": "And-he-brought",
+        "englishNatural": "and brought",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יָדוֹ וַיִּקָּחֶהָ **וַיָּבֵא** אֹתָהּ אֵלָיו",
+        "transliteration": "yado vaYiqacheha **vaYave** otah elav",
+        "englishLiteral": "hand-his And-he-took-her **And-he-brought** her to-him",
+        "englishNatural": "his hand and took her **and brought** her to him"
+      }
+    },
+    {
+      "location": {
         "book": "Daniel",
         "chapter": 1,
         "verse": 2

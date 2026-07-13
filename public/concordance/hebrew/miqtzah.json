@@ -1,0 +1,32 @@
+{
+  "key": "miqtzah",
+  "language": "hebrew",
+  "root": "qetz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "מִקְצֵה",
+        "transliteration": "miqtzah",
+        "englishLiteral": "from-end-of",
+        "englishNatural": "from the end of",
+        "root": "qetz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּחְסְרוּ הַמַּיִם **מִקְצֵה** חֲמִשִּׁים וּמְאַת",
+        "transliteration": "vaYachseru haMayim **miqtzah** chamishim uMeat",
+        "englishLiteral": "And-they-will-lack the-waters **from-end-of** fifty and-hundred",
+        "englishNatural": "and the waters lacked **from the end of** fifty and a hundred"
+      }
+    }
+  ]
+}

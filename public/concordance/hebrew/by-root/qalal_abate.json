@@ -1,0 +1,33 @@
+{
+  "root": "qalal_abate",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הֲקַלּוּ",
+        "transliteration": "haQallu",
+        "englishLiteral": "whether-they-were-light",
+        "englishNatural": "whether they were-light",
+        "root": "qalal_abate",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאִתּוֹ לִרְאוֹת **הֲקַלּוּ** הַמַּיִם מֵעַל",
+        "transliteration": "meIto lirot **haQallu** haMayim meAl",
+        "englishLiteral": "from-with-him, to-see **whether-they-were-light** the-waters from-over",
+        "englishNatural": "to see the waters **whether they were-light** from over the face of"
+      }
+    }
+  ]
+}

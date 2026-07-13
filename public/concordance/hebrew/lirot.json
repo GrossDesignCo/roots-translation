@@ -6,6 +6,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לִרְאוֹת",
+        "transliteration": "lirot",
+        "englishLiteral": "to-see",
+        "englishNatural": "to see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַיּוֹנָה מֵאִתּוֹ **לִרְאוֹת** הֲקַלּוּ הַמַּיִם",
+        "transliteration": "haYonah meIto **lirot** haQallu haMayim",
+        "englishLiteral": "the-dove from-with-him, **to-see** whether-they-were-light the-waters",
+        "englishNatural": "the dove from him, **to see** the waters whether they were-light"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 5
       },

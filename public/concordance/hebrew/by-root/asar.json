@@ -29,6 +29,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "עָשָׂר",
+        "transliteration": "asar",
+        "englishLiteral": "ten",
+        "englishNatural": "ten",
+        "root": "asar",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הַשְּׁבִיעִי בְּשִׁבְעָה־ **עָשָׂר** יוֹם לַחֹדֶשׁ",
+        "transliteration": "haShvii beShivah- **asar** yom laChodesh",
+        "englishLiteral": "the-seventh, in-seven- **ten** day to-the-month,",
+        "englishNatural": "the seventh, in seven **ten** days to the month,"
+      }
+    },
+    {
+      "location": {
         "book": "Daniel",
         "chapter": 1,
         "verse": 20

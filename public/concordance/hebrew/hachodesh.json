@@ -1,0 +1,32 @@
+{
+  "key": "hachodesh",
+  "language": "hebrew",
+  "root": "chodesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הַחֹדֶשׁ",
+        "transliteration": "haChodesh",
+        "englishLiteral": "the-month",
+        "englishNatural": "the month",
+        "root": "chodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחָסוֹר עַד **הַחֹדֶשׁ** הָעֲשִׂירִי בָּעֲשִׂירִי",
+        "transliteration": "veChasor ad **haChodesh** haAsiri baAsiri",
+        "englishLiteral": "and-lacking, until **the-month** the-tenth; in-the-tenth",
+        "englishNatural": "and lacking, until **the month** the tenth; in the tenth"
+      }
+    }
+  ]
+}

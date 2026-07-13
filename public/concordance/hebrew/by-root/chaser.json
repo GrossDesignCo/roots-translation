@@ -4,6 +4,59 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וַיַּחְסְרוּ",
+        "transliteration": "vaYachseru",
+        "englishLiteral": "And-they-will-lack",
+        "englishNatural": "lacked",
+        "root": "chaser",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָלוֹךְ וָשׁוֹב **וַיַּחְסְרוּ** הַמַּיִם מִקְצֵה",
+        "transliteration": "halokh vaShov **vaYachseru** haMayim miqtzah",
+        "englishLiteral": "going and-returning; **And-they-will-lack** the-waters from-end-of",
+        "englishNatural": "and returning; and the waters **lacked** from the end of fifty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְחָסוֹר",
+        "transliteration": "veChasor",
+        "englishLiteral": "and-lacking",
+        "englishNatural": "and lacking",
+        "root": "chaser",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute"
+        }
+      },
+      "context": {
+        "hebrew": "הָיוּ הָלוֹךְ **וְחָסוֹר** עַד הַחֹדֶשׁ",
+        "transliteration": "hayu halokh **veChasor** ad haChodesh",
+        "englishLiteral": "they-were going **and-lacking,** until the-month",
+        "englishNatural": "were going **and lacking,** until the month"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 5

@@ -1678,6 +1678,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֱלֹהִים",
+        "transliteration": "Elohim",
+        "englishLiteral": "Gods",
+        "englishNatural": "And God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּזְכֹּר **אֱלֹהִים** אֶת־ נֹחַ",
+        "transliteration": "vaYizkor **Elohim** et- Noach",
+        "englishLiteral": "And-he-will-remember **Gods** ↳ Rest (Noah)",
+        "englishNatural": "**And God** remembered ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "אֱלֹהִים",
+        "transliteration": "Elohim",
+        "englishLiteral": "Gods",
+        "englishNatural": "and God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּתֵּבָה וַיַּעֲבֵר **אֱלֹהִים** רוּחַ עַל־",
+        "transliteration": "baTevah vaYaavor **Elohim** ruach al-",
+        "englishLiteral": "in-the-ark; and-he-will-cause-to-pass_through **Gods** wind over-",
+        "englishNatural": "with him in the ark; **and God** caused to pass-through a wind"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 1
       },

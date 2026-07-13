@@ -1,0 +1,33 @@
+{
+  "key": "vechasor",
+  "language": "hebrew",
+  "root": "chaser",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְחָסוֹר",
+        "transliteration": "veChasor",
+        "englishLiteral": "and-lacking",
+        "englishNatural": "and lacking",
+        "root": "chaser",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute"
+        }
+      },
+      "context": {
+        "hebrew": "הָיוּ הָלוֹךְ **וְחָסוֹר** עַד הַחֹדֶשׁ",
+        "transliteration": "hayu halokh **veChasor** ad haChodesh",
+        "englishLiteral": "they-were going **and-lacking,** until the-month",
+        "englishNatural": "were going **and lacking,** until the month"
+      }
+    }
+  ]
+}

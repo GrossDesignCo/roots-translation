@@ -56,6 +56,33 @@
         "englishLiteral": "and-waters-of the-flood **they-were** over- the-land.",
         "englishNatural": "and waters of the flood **were** over the land."
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הָיוּ",
+        "transliteration": "hayu",
+        "englishLiteral": "they-were",
+        "englishNatural": "were",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְהַמַּיִם **הָיוּ** הָלוֹךְ וְחָסוֹר",
+        "transliteration": "veHaMayim **hayu** halokh veChasor",
+        "englishLiteral": "And-the-waters **they-were** going and-lacking,",
+        "englishNatural": "And the waters **were** going and lacking,"
+      }
     }
   ]
 }

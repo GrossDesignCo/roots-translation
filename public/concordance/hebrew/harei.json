@@ -1,0 +1,32 @@
+{
+  "key": "harei",
+  "language": "hebrew",
+  "root": "har",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הָרֵי",
+        "transliteration": "harei",
+        "englishLiteral": "the-mountains-of",
+        "englishNatural": "the mountains of",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַחֹדֶשׁ עַל **הָרֵי** אֲרָרָט",
+        "transliteration": "laChodesh al **harei** Ararat",
+        "englishLiteral": "to-the-month, over- **the-mountains-of** Ararat.",
+        "englishNatural": "to the month, over **the mountains of** Ararat."
+      }
+    }
+  ]
+}

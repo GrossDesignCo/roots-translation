@@ -756,6 +756,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים רוּחַ **עַל־** הָאָרֶץ וַיָּשֹׁכּוּ",
+        "transliteration": "Elohim ruach **al-** haAretz vaYashoku",
+        "englishLiteral": "Gods wind **over-** the-land; and-they-will-subside",
+        "englishNatural": "caused to pass-through a wind **over** the land; and the waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "were over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי מַיִם **עַל־** פְּנֵי כָל־",
+        "transliteration": "ki mayim **al-** peney kol-",
+        "englishLiteral": "that waters **over-** faces-of all-",
+        "englishNatural": "that waters **were over** the face of all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 9
       },

@@ -55,6 +55,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "חֲמִשִּׁים",
+        "transliteration": "chamishim",
+        "englishLiteral": "fifty",
+        "englishNatural": "fifty",
+        "root": "chamishim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הַמַּיִם מִקְצֵה **חֲמִשִּׁים** וּמְאַת יוֹם",
+        "transliteration": "haMayim miqtzah **chamishim** uMeat yom",
+        "englishLiteral": "the-waters from-end-of **fifty** and-hundred day.",
+        "englishNatural": "lacked from the end of **fifty** and a hundred days."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 28
       },

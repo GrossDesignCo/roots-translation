@@ -238,6 +238,14 @@ const ROOTS = {
     englishNatural: 'seventh',
     type: 'numeral',
   },
+  asiri: {
+    hebrew: 'עשירי',
+    transliteration: 'asiri',
+    englishLiteral: 'tenth',
+    englishNatural: 'tenth',
+    type: 'numeral',
+    related: ['asiriyyah'],
+  },
   // Proverbs roots
   arum: {
     hebrew: 'ערם',
@@ -278,6 +286,14 @@ const ROOTS = {
     englishNatural: 'to pass-through',
     description: 'to pass through a place, to continue onward',
     type: 'verb',
+  },
+  shakah: {
+    hebrew: 'שׁכה',
+    transliteration: 'shakah',
+    englishLiteral: 'to subside',
+    englishNatural: 'to subside',
+    type: 'verb',
+    description: 'to subside, abate, be still (of waters)',
   },
   anash: {
     hebrew: 'ענש',
@@ -1476,6 +1492,15 @@ const ROOTS = {
     englishNatural: 'to finish',
     type: 'verb',
   },
+  kala: {
+    hebrew: 'כלא',
+    transliteration: 'kala',
+    englishLiteral: 'to shut_up',
+    englishNatural: 'to shut-up',
+    type: 'verb',
+    description: 'to shut up, restrain, withhold, keep back',
+    related: ['kalah'],
+  },
   tsava: {
     hebrew: 'צבא',
     transliteration: 'tsava',
@@ -1953,6 +1978,15 @@ const ROOTS = {
     englishLiteral: 'to close',
     englishNatural: 'to close',
     type: 'verb',
+  },
+  sakar_stop: {
+    hebrew: 'סכר',
+    transliteration: 'sakar',
+    englishLiteral: 'to shut_up',
+    englishNatural: 'to shut-up',
+    type: 'verb',
+    description: 'to shut up, stop up, close off (fountains, springs); distinct from sagar (to close a door)',
+    related: ['sagar'],
   },
   basar: {
     hebrew: 'בשר',
@@ -2938,7 +2972,7 @@ const ROOTS = {
     englishLiteral: 'to lack',
     englishNatural: 'to lack',
     type: 'verb',
-    description: 'to lack, be without, need, want',
+    description: 'to lack, be without, need, want, a sense of being incomplete relative to a standard',
   },
   naveh: {
     hebrew: 'נָוֶה',
@@ -3263,8 +3297,8 @@ const ROOTS = {
     englishNatural: 'opening',
     type: 'noun',
     description:
-      'opening, entrance, doorway (the aperture, not the door object itself)',
-    related: ['patach'],
+      'opening, entrance, doorway (threshold/access point; not a window word)',
+    related: ['patach', 'shaar', 'mavo'],
   },
   patach: {
     hebrew: 'פָּתַח',
@@ -3764,6 +3798,14 @@ const ROOTS = {
     type: 'noun',
     description: 'mountain, hill, mount',
   },
+  ararat: {
+    hebrew: 'אררט',
+    transliteration: 'Ararat',
+    englishLiteral: 'Ararat',
+    englishNatural: 'Ararat',
+    type: 'noun',
+    description: 'Ararat, a mountainous region where Noah\'s ark rested',
+  },
   taba: {
     hebrew: 'טָבַע',
     transliteration: 'taba',
@@ -4125,6 +4167,27 @@ const ROOTS = {
     englishNatural: 'to begin',
     type: 'verb',
     description: 'to begin, start, commence; also to profane, defile',
+    related: ['chalal_pierce'],
+  },
+  chalal_pierce: {
+    hebrew: 'חלל',
+    transliteration: 'chalal_pierce',
+    englishLiteral: 'to_pierce',
+    englishNatural: 'to pierce',
+    type: 'verb',
+    description:
+      'to bore through, pierce, hollow out (etymological root of challon/window)',
+    related: ['challon', 'chalal'],
+  },
+  challon: {
+    hebrew: 'חלון',
+    transliteration: 'challon',
+    englishLiteral: 'window',
+    englishNatural: 'window',
+    type: 'noun',
+    description:
+      'window, aperture, pierced opening (generic wall-gap; from ח-ל-ל to pierce/hollow)',
+    related: ['chalal_pierce', 'tzohar', 'arubbah'],
   },
   // Genesis 5:1 additions
   sefer: {
@@ -4493,6 +4556,16 @@ const ROOTS = {
     englishNatural: 'Dove (Jonah)',
     type: 'noun',
     description: 'proper name, Jonah, meaning "dove"',
+    related: ['yonah_dove'],
+  },
+  yonah_dove: {
+    hebrew: 'יונה',
+    transliteration: 'yonah',
+    englishLiteral: 'dove',
+    englishNatural: 'dove',
+    type: 'noun',
+    description: 'dove, pigeon; common noun distinct from Dove (Jonah) the proper name',
+    related: ['yonah'],
   },
   amittai: {
     hebrew: 'אמתי',
@@ -6017,6 +6090,17 @@ const ROOTS = {
     englishNatural: 'polished',
     type: 'adjective',
     description: 'polished, burnished, bright, smooth',
+    related: ['qalal_abate'],
+  },
+  qalal_abate: {
+    hebrew: 'קלל',
+    transliteration: 'qalal_abate',
+    englishLiteral: 'to_be_light',
+    englishNatural: 'to be-light',
+    type: 'verb',
+    description:
+      'to be light, abated, diminished (qal stem; waters lessening)',
+    related: ['qalal'],
   },
   // Ezekiel 1:8 additions
   reva: {
@@ -6372,11 +6456,12 @@ const ROOTS = {
   tzohar: {
     hebrew: 'צהר',
     transliteration: 'tzohar',
-    englishLiteral: 'illunination',
-    englishNatural: 'illunination',
+    englishLiteral: 'skylight',
+    englishNatural: 'skylight',
     type: 'noun',
     description:
-      'light, window, opening for light; possibly a window or skylight in the ark',
+      'skylight, roof-opening, light-source (lets light in from above; ark opening in Gen 6:16; distinct from challon wall-window)',
+    related: ['challon', 'arubbah', 'nogah'],
   },
   tzad: {
     hebrew: 'צד',
@@ -6469,11 +6554,12 @@ const ROOTS = {
   arubbah: {
     hebrew: 'ארבה',
     transliteration: 'arubbah',
-    englishLiteral: 'window',
-    englishNatural: 'window',
+    englishLiteral: 'conduit',
+    englishNatural: 'conduit',
     type: 'noun',
     description:
-      'window, lattice, sluice; specifically windows of heaven, floodgates',
+      'conduit, lattice, sluice (channel for something to pass through; cosmic floodgates of heaven)',
+    related: ['challon', 'tzohar'],
   },
   etzem: {
     hebrew: 'עצם',
@@ -7100,6 +7186,15 @@ const ROOTS = {
     description: 'piece, half, portion; a divided part',
   },
   // Genesis 15:11 additions
+  orev: {
+    hebrew: 'עורב',
+    transliteration: 'orev',
+    englishLiteral: 'raven',
+    englishNatural: 'raven',
+    type: 'noun',
+    description: 'raven, black scavenger bird; distinct from ayit (bird-of-prey)',
+    related: ['ayit'],
+  },
   ayit: {
     hebrew: 'עיט',
     transliteration: 'ayit',
@@ -8683,7 +8778,16 @@ const ROOTS = {
     englishNatural: 'rest',
     type: 'noun',
     description: 'rest, quiet, settling down; noun form from nuach (to rest)',
-    related: ['nuach'],
+    related: ['nuach', 'manoach'],
+  },
+  manoach: {
+    hebrew: 'מנוח',
+    transliteration: 'manoach',
+    englishLiteral: 'resting_place',
+    englishNatural: 'resting-place',
+    type: 'noun',
+    description: 'resting place, rest; noun from nuach (to rest)',
+    related: ['nuach', 'nachat', 'noach'],
   },
   shaqat: {
     hebrew: 'שָׁקַט',
@@ -9082,6 +9186,7 @@ const ROOTS = {
     englishNatural: 'tenth',
     type: 'noun',
     description: 'a tenth part, tithe',
+    related: ['asiri'],
   },
   elah: {
     hebrew: 'אֵלָה',

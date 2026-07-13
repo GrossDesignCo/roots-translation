@@ -52,6 +52,31 @@
         "englishLiteral": "the-waters; and-were-covered **the-mountains.**",
         "englishNatural": "the waters have prevailed, **and the mountains** were covered."
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "הֶהָרִים",
+        "transliteration": "heHarim",
+        "englishLiteral": "the-mountains",
+        "englishNatural": "the mountains",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נִרְאוּ רָאשֵׁי **הֶהָרִים**",
+        "transliteration": "niru rashei **heHarim**",
+        "englishLiteral": "they-were-seen heads-of **the-mountains.**",
+        "englishNatural": "to the month, the heads of **the mountains** were seen."
+      }
     }
   ]
 }

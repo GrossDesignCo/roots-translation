@@ -352,7 +352,7 @@ export const HEBREW_WORD_TENSES = [
   {
     tense: 'perfect',
     description:
-      'Qatal form. Completed action, typically indicating past tense (e.g., "he wrote," "she spoke"). Hebrew verbs indicate aspect (type of action) more than time.',
+      'Qatal form. Completed action, typically indicating past tense (e.g., "he wrote," "she spoke"). Commonly rendered with "has" in English to distinguish from imperfect tense. Hebrew verbs indicate aspect (type of action) more than time.',
   },
   {
     tense: 'imperfect',

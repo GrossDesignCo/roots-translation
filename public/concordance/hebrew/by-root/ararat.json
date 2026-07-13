@@ -1,0 +1,31 @@
+{
+  "root": "ararat",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אֲרָרָט",
+        "transliteration": "Ararat",
+        "englishLiteral": "Ararat",
+        "englishNatural": "Ararat",
+        "root": "ararat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל הָרֵי **אֲרָרָט**",
+        "transliteration": "al harei **Ararat**",
+        "englishLiteral": "over- the-mountains-of **Ararat.**",
+        "englishNatural": "over the mountains of **Ararat.**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "yatso",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "יָצוֹא",
+        "transliteration": "yatso",
+        "englishLiteral": "bringing_out",
+        "englishNatural": "going-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute"
+        }
+      },
+      "context": {
+        "hebrew": "הָעֹרֵב וַיֵּצֵא **יָצוֹא** וָשׁוֹב עַד־",
+        "transliteration": "haOrev vaYetze **yatso** vaShuv ad-",
+        "englishLiteral": "the-raven, And-he-brought_out **bringing_out** and-returning, until-",
+        "englishNatural": "the raven, and it went-out **going-out** and returning, until"
+      }
+    }
+  ]
+}

@@ -2669,7 +2669,7 @@
         "hebrew": "הַתֵּבָה כִּי־ **אֹתְךָ** רָאִיתִי צַדִּיק",
         "transliteration": "haTevah ki- **otkha** raiti tzaddiq",
         "englishLiteral": "the-ark; that- **↳-you** I-have-seen righteous",
-        "englishNatural": "the ark; that **you** I have seen righteous"
+        "englishNatural": "that I have seen **you,** righteous to my face"
       }
     },
     {
@@ -2795,6 +2795,181 @@
         "transliteration": "vayyiMach **et-** kol- haYequm",
         "englishLiteral": "and-he-will-wipe_out **↳** all- the-standing_thing",
         "englishNatural": "and wiped-out **↳** all the standing-thing"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּזְכֹּר אֱלֹהִים **אֶת־** נֹחַ וְאֵת",
+        "transliteration": "vaYizkor Elohim **et-** Noach veEt",
+        "englishLiteral": "And-he-will-remember Gods **↳** Rest (Noah) and-↳",
+        "englishNatural": "And God remembered **↳** Rest (Noah), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְאֵת",
+        "transliteration": "veEt",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ נֹחַ **וְאֵת** כָּל־ הַחַיָּה",
+        "transliteration": "et- Noach **veEt** kol- haChayah",
+        "englishLiteral": "↳ Rest (Noah) **and-↳** all- the-living_being",
+        "englishNatural": "↳ Rest (Noah), **and** all the living-being,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְאֵת",
+        "transliteration": "veEt",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הַחַיָּה **וְאֵת** כָּל־ הַבְּהֵמָה",
+        "transliteration": "kol- haChayah **veEt** kol- haBehemah",
+        "englishLiteral": "all- the-living_being **and-↳** all- the-beast",
+        "englishNatural": "all the living-being, **and** all the beast"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּפְתַּח נֹחַ **אֶת־** חַלּוֹן הַתֵּבָה",
+        "transliteration": "vaYiftach Noach **et-** challon haTevah",
+        "englishLiteral": "And-he-opened Rest (Noah) **↳** window the-ark",
+        "englishNatural": "And Rest (Noah) opened **↳** the window of the ark"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְשַׁלַּח **אֶת־** הָעֹרֵב וַיֵּצֵא",
+        "transliteration": "vaYeshalach **et-** haOrev vaYetze",
+        "englishLiteral": "And-he-sent **↳** the-raven, And-he-brought_out",
+        "englishNatural": "And he sent **↳** the raven, and it went-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְשַׁלַּח **אֶת־** הַיּוֹנָה מֵאִתּוֹ",
+        "transliteration": "vaYeshalach **et-** haYonah meIto",
+        "englishLiteral": "And-he-sent **↳** the-dove from-with-him,",
+        "englishNatural": "And he sent **↳** the dove from him,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 20,
+      "sourceOrder": 20,
+      "word": {
+        "originalScript": "אֹתָהּ",
+        "transliteration": "otah",
+        "englishLiteral": "her",
+        "englishNatural": "her",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקָּחֶהָ וַיָּבֵא **אֹתָהּ** אֵלָיו אֶל־",
+        "transliteration": "vaYiqacheha vaYave **otah** elav el-",
+        "englishLiteral": "And-he-took-her And-he-brought **her** to-him to-",
+        "englishNatural": "and took her and brought **her** to him to"
       }
     },
     {

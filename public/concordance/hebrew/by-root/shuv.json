@@ -56,6 +56,112 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיָּשֻׁבוּ",
+        "transliteration": "vaYaShuvu",
+        "englishLiteral": "And-they-will-return",
+        "englishNatural": "returned",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּשֻׁבוּ** הַמַּיִם מֵעַל",
+        "transliteration": "**vaYaShuvu** haMayim meAl",
+        "englishLiteral": "**And-they-will-return** the-waters from-over",
+        "englishNatural": "And the waters **returned** from over the land,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וָשׁוֹב",
+        "transliteration": "vaShov",
+        "englishLiteral": "and-returning",
+        "englishNatural": "and returning",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ הָלוֹךְ **וָשׁוֹב** וַיַּחְסְרוּ הַמַּיִם",
+        "transliteration": "haAretz halokh **vaShov** vaYachseru haMayim",
+        "englishLiteral": "the-land, going **and-returning;** And-they-will-lack the-waters",
+        "englishNatural": "the land, going **and returning;** and the waters lacked"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וָשׁוֹב",
+        "transliteration": "vaShuv",
+        "englishLiteral": "and-returning",
+        "englishNatural": "and returning",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּצֵא יָצוֹא **וָשׁוֹב** עַד־ יָבֹשׁ",
+        "transliteration": "vaYetze yatso **vaShuv** ad- yavosh",
+        "englishLiteral": "And-he-brought_out bringing_out **and-returning,** until- withered",
+        "englishNatural": "and it went-out going-out **and returning,** until the waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וַתָּשָׁב",
+        "transliteration": "vaTashav",
+        "englishLiteral": "And-she-returned",
+        "englishNatural": "and she returned",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְכַף־ רַגְלָהּ **וַתָּשָׁב** אֵלָיו אֶל־",
+        "transliteration": "leKhaf- raglah **vaTashav** elav el-",
+        "englishLiteral": "to-palm-of foot-her, **And-she-returned** to-him to-",
+        "englishNatural": "to the palm of her foot, **and she returned** to him to"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 14,
         "verse": 17
       },

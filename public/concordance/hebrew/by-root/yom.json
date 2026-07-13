@@ -1156,6 +1156,81 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "יוֹם",
+        "transliteration": "yom",
+        "englishLiteral": "day",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֲמִשִּׁים וּמְאַת **יוֹם**",
+        "transliteration": "chamishim uMeat **yom**",
+        "englishLiteral": "fifty and-hundred **day.**",
+        "englishNatural": "fifty and a hundred **days.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "יוֹם",
+        "transliteration": "yom",
+        "englishLiteral": "day",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּשִׁבְעָה־ עָשָׂר **יוֹם** לַחֹדֶשׁ עַל",
+        "transliteration": "beShivah- asar **yom** laChodesh al",
+        "englishLiteral": "in-seven- ten **day** to-the-month, over-",
+        "englishNatural": "in seven ten **days** to the month, over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "יוֹם",
+        "transliteration": "yom",
+        "englishLiteral": "day",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִקֵּץ אַרְבָּעִים **יוֹם** וַיִּפְתַּח נֹחַ",
+        "transliteration": "miQetz arbaim **yom** vaYiftach Noach",
+        "englishLiteral": "from-end-of forty **day;** And-he-opened Rest (Noah)",
+        "englishNatural": "from the end of forty **days;** And Rest (Noah) opened"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 22
       },
       "wordIndex": 2,

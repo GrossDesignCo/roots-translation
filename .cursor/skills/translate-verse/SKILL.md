@@ -22,10 +22,42 @@ Follow the source-language numbering, not modern English conventions. For exampl
 
 **Psalm superscriptions** use **`verse: 0`** (file name `psalms-{N}-0.ts`). The Masoretic verse 1 of a psalm with a superscription is stored in the `verse: 0` file; subsequent verse numbers shift accordingly. See `src/data/scripture/psalms/psalms-8/psalms-8-0.ts` for an example.
 
+## Received Text (Source Hebrew / Aramaic / Greek)
+
+**Do not recall verse text from memory.** Always **look up and confirm** the source text before generating or revising word data.
+
+### What “received text” means here
+
+Work from the **standard received text** that mainline English Bibles translate today — the text a reader would encounter in ESV, NIV, NASB, NKJV, RSV, etc. For Hebrew Bible passages, that is the **Masoretic Text (MT)** as represented by the **Leningrad Codex** (BHS / BHS-derived editions).
+
+**Include every word** in that received text. Do not omit material that mainline English Bibles include (e.g. explicit **`לֹא`**, **`לְכַף־רַגְלָהּ`**, doublets, or parallel clauses present in MT).
+
+**Sidestep entirely:**
+- Dead Sea Scrolls variants vs. MT
+- Septuagint (LXX) vs. MT debates
+- Apparatus “prefer other manuscript” notes
+- Conjectural emendations
+- “Original Hebrew probably said X” reconstructions from English tradition
+
+If a word appears in the received MT, it belongs in our data — even when KJV wording obscures it.
+
+### How to verify (before step 3)
+
+1. **Look up the verse** in a received-text source (do this **before** building the word list):
+   - Hebrew MT: [Mechon Mamre](https://www.mechon-mamre.org/) — e.g. `https://www.mechon-mamre.org/p/pt/pt0108.htm` for Genesis 8
+   - Or cross-check an adjacent verse already in this repo (`expectedTranslations.hebrew` in the same chapter)
+2. **Copy the full pointed Hebrew** (or Greek/Aramaic for NT/Aramaic passages) into a scratch line and read it word-by-word.
+3. **Cross-check KJV** (or another mainline English Bible) only for **verse boundaries, clause breaks, and meaning** — **not** as a substitute for the Hebrew source. KJV English can hide MT words (8:9 is a cautionary example: KJV “found no rest for the sole of her foot” maps to MT **`וְלֹא־מָצְאָה… לְכַף־רַגְלָהּ`**, not to a different Hebrew clause).
+4. **After generating**, confirm `expectedTranslations.hebrew` matches the lookup **exactly** (every word, prefix, suffix, maqaf).
+
+### When memory and lookup disagree
+
+**Trust the lookup.** Fix the data; do not supply negation, objects, or phrases via `grammarPrefix` / `grammarSuffix` unless they correspond to real source-language words.
+
 ## Workflow
 
-1. **Recall the original text** from memory (do not search the internet). Use the most widely accepted text as baseline.
-2. **Recall the KJV** for reference only.
+1. **Confirm the received source text** (see [Received Text](#received-text-source-hebrew--aramaic--greek) above). Write out or paste the full verse before proceeding.
+2. **Recall or look up the KJV** for reference only (verse scope, clause sense, traditional wording).
 3. **Check the dictionary** for existing root translations:
    - Hebrew: `src/data/dictionary/hebrew/roots.ts`
    - Aramaic: `src/data/dictionary/aramaic/roots.ts`
@@ -54,6 +86,7 @@ After generating verse data, review **each word** against this checklist before 
 8. **Finite Hebrew verbs**: set **`morphology.stem`** and **`morphology.tense`** on every finite verb (including imperatives; participles use **`tense: 'participle'`** plus stem).
 9. **Inflected surfaces**: match `root` / `prefixes` / `suffixes` to comparable words already in the data; do not invent a second decomposition pattern for the same kind of form.
 10. **Quoted speech marks**: If the verse contains dialogue or reported speech, verify that opening `"` (via `grammarPrefix`) and closing `"` (via `grammarSuffix`) appear in **both** `englishLiteral` and `englishNatural` expected strings. A missing quote in one column but not the other is the most common error.
+11. **Received text match**: Does `expectedTranslations.hebrew` (or `greek` / `aramaic`) match the verified received source **word-for-word**?
 
 ## File Structure
 

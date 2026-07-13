@@ -1,0 +1,31 @@
+{
+  "root": "challon",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "חַלּוֹן",
+        "transliteration": "challon",
+        "englishLiteral": "window",
+        "englishNatural": "the window of",
+        "root": "challon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ אֶת־ **חַלּוֹן** הַתֵּבָה אֲשֶׁר",
+        "transliteration": "Noach et- **challon** haTevah asher",
+        "englishLiteral": "Rest (Noah) ↳ **window** the-ark which",
+        "englishNatural": "opened ↳ **the window of** the ark which"
+      }
+    }
+  ]
+}

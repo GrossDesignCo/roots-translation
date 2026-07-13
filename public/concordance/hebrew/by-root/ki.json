@@ -946,7 +946,7 @@
         "hebrew": "אֶל־ הַתֵּבָה **כִּי־** אֹתְךָ רָאִיתִי",
         "transliteration": "el- haTevah **ki-** otkha raiti",
         "englishLiteral": "to- the-ark; **that-** ↳-you I-have-seen",
-        "englishNatural": "to the ark; **that** you I have seen"
+        "englishNatural": "to the ark; **that** I have seen you,"
       }
     },
     {
@@ -972,6 +972,31 @@
         "transliteration": "**ki** leYamim od",
         "englishLiteral": "**That** to-days yet",
         "englishNatural": "**That** to days yet"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "כִּי",
+        "transliteration": "ki",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַתֵּבָה **כִּי** מַיִם עַל־",
+        "transliteration": "el- haTevah **ki** mayim al-",
+        "englishLiteral": "to- the-ark, **that** waters over-",
+        "englishNatural": "to the ark, **that** waters were over"
       }
     },
     {

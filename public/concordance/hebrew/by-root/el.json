@@ -925,6 +925,56 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַתָּשָׁב אֵלָיו **אֶל־** הַתֵּבָה כִּי",
+        "transliteration": "vaTashav elav **el-** haTevah ki",
+        "englishLiteral": "And-she-returned to-him **to-** the-ark, that",
+        "englishNatural": "and she returned to him **to** the ark, that"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 22,
+      "sourceOrder": 22,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֹתָהּ אֵלָיו **אֶל־** הַתֵּבָה",
+        "transliteration": "otah elav **el-** haTevah",
+        "englishLiteral": "her to-him **to-** the-ark.",
+        "englishNatural": "her to him **to** the ark."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 7,

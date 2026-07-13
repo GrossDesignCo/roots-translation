@@ -377,7 +377,61 @@
         "hebrew": "כִּי־ אֹתְךָ **רָאִיתִי** צַדִּיק לְפָנַי",
         "transliteration": "ki- otkha **raiti** tzaddiq leFanai",
         "englishLiteral": "that- ↳-you **I-have-seen** righteous to-faces-my",
-        "englishNatural": "that you **I have seen** righteous to my face"
+        "englishNatural": "the ark; that **I have seen** you, righteous"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "נִרְאוּ",
+        "transliteration": "niru",
+        "englishLiteral": "they-were-seen",
+        "englishNatural": "were seen",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאֶחָד לַחֹדֶשׁ **נִרְאוּ** רָאשֵׁי הֶהָרִים",
+        "transliteration": "beEchad laChodesh **niru** rashei heHarim",
+        "englishLiteral": "in-one to-the-month, **they-were-seen** heads-of the-mountains.",
+        "englishNatural": "the heads of the mountains **were seen.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לִרְאוֹת",
+        "transliteration": "lirot",
+        "englishLiteral": "to-see",
+        "englishNatural": "to see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַיּוֹנָה מֵאִתּוֹ **לִרְאוֹת** הֲקַלּוּ הַמַּיִם",
+        "transliteration": "haYonah meIto **lirot** haQallu haMayim",
+        "englishLiteral": "the-dove from-with-him, **to-see** whether-they-were-light the-waters",
+        "englishNatural": "the dove from him, **to see** the waters whether they were-light"
       }
     },
     {

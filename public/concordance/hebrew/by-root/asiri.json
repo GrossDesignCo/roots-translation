@@ -1,0 +1,56 @@
+{
+  "root": "asiri",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "הָעֲשִׂירִי",
+        "transliteration": "haAsiri",
+        "englishLiteral": "the-tenth",
+        "englishNatural": "the tenth",
+        "root": "asiri",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "עַד הַחֹדֶשׁ **הָעֲשִׂירִי** בָּעֲשִׂירִי בְּאֶחָד",
+        "transliteration": "ad haChodesh **haAsiri** baAsiri beEchad",
+        "englishLiteral": "until the-month **the-tenth;** in-the-tenth in-one",
+        "englishNatural": "until the month **the tenth;** in the tenth on the first"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בָּעֲשִׂירִי",
+        "transliteration": "baAsiri",
+        "englishLiteral": "in-the-tenth",
+        "englishNatural": "in the tenth",
+        "root": "asiri",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הַחֹדֶשׁ הָעֲשִׂירִי **בָּעֲשִׂירִי** בְּאֶחָד לַחֹדֶשׁ",
+        "transliteration": "haChodesh haAsiri **baAsiri** beEchad laChodesh",
+        "englishLiteral": "the-month the-tenth; **in-the-tenth** in-one to-the-month,",
+        "englishNatural": "the month the tenth; **in the tenth** on the first to the month,"
+      }
+    }
+  ]
+}

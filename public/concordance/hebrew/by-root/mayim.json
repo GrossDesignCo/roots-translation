@@ -530,6 +530,181 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "הַמָּיִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "and the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ וַיָּשֹׁכּוּ **הַמָּיִם**",
+        "transliteration": "haAretz vaYashoku **haMayim**",
+        "englishLiteral": "the-land; and-they-will-subside **the-waters.**",
+        "englishNatural": "over the land; **and the waters** subsided."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַמַּיִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "And the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּשֻׁבוּ **הַמַּיִם** מֵעַל הָאָרֶץ",
+        "transliteration": "vaYaShuvu **haMayim** meAl haAretz",
+        "englishLiteral": "And-they-will-return **the-waters** from-over the-land,",
+        "englishNatural": "**And the waters** returned from over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הַמַּיִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "and the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וָשׁוֹב וַיַּחְסְרוּ **הַמַּיִם** מִקְצֵה חֲמִשִּׁים",
+        "transliteration": "vaShov vaYachseru **haMayim** miqtzah chamishim",
+        "englishLiteral": "and-returning; And-they-will-lack **the-waters** from-end-of fifty",
+        "englishNatural": "going and returning; **and the waters** lacked from the end of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְהַמַּיִם",
+        "transliteration": "veHaMayim",
+        "englishLiteral": "And-the-waters",
+        "englishNatural": "And the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהַמַּיִם** הָיוּ הָלוֹךְ",
+        "transliteration": "**veHaMayim** hayu halokh",
+        "englishLiteral": "**And-the-waters** they-were going",
+        "englishNatural": "**And the waters** were going"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הַמַּיִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַד־ יָבֹשׁ **הַמַּיִם** מֵעַל הָאָרֶץ",
+        "transliteration": "ad- yavosh **haMayim** meAl haAretz",
+        "englishLiteral": "until- withered **the-waters** from-over the-land.",
+        "englishNatural": "and returning, until **the waters** dried from over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "הַמַּיִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִרְאוֹת הֲקַלּוּ **הַמַּיִם** מֵעַל פְּנֵי",
+        "transliteration": "lirot haQallu **haMayim** meAl peney",
+        "englishLiteral": "to-see whether-they-were-light **the-waters** from-over faces-of",
+        "englishNatural": "from him, to see **the waters** whether they were-light from over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "מַיִם",
+        "transliteration": "mayim",
+        "englishLiteral": "waters",
+        "englishNatural": "waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַתֵּבָה כִּי **מַיִם** עַל־ פְּנֵי",
+        "transliteration": "haTevah ki **mayim** al- peney",
+        "englishLiteral": "the-ark, that **waters** over- faces-of",
+        "englishNatural": "the ark, that **waters** were over the face of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 11
       },

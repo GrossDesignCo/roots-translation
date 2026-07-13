@@ -180,6 +180,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "עַד",
+        "transliteration": "ad",
+        "englishLiteral": "until",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הָלוֹךְ וְחָסוֹר **עַד** הַחֹדֶשׁ הָעֲשִׂירִי",
+        "transliteration": "halokh veChasor **ad** haChodesh haAsiri",
+        "englishLiteral": "going and-lacking, **until** the-month the-tenth;",
+        "englishNatural": "going and lacking, **until** the month the tenth;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "עַד־",
+        "transliteration": "ad-",
+        "englishLiteral": "until-",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יָצוֹא וָשׁוֹב **עַד־** יָבֹשׁ הַמַּיִם",
+        "transliteration": "yatso vaShuv **ad-** yavosh haMayim",
+        "englishLiteral": "bringing_out and-returning, **until-** withered the-waters",
+        "englishNatural": "going-out and returning, **until** the waters dried"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 16
       },

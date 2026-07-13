@@ -1,0 +1,32 @@
+{
+  "key": "lekhaf-",
+  "language": "hebrew",
+  "root": "kaph",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לְכַף־",
+        "transliteration": "leKhaf-",
+        "englishLiteral": "to-palm-of",
+        "englishNatural": "to the palm of",
+        "root": "kaph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיּוֹנָה מָנוֹחַ **לְכַף־** רַגְלָהּ וַתָּשָׁב",
+        "transliteration": "haYonah manoach **leKhaf-** raglah vaTashav",
+        "englishLiteral": "the-dove resting_place **to-palm-of** foot-her, And-she-returned",
+        "englishNatural": "no resting-place **to the palm of** her foot, and she returned"
+      }
+    }
+  ]
+}

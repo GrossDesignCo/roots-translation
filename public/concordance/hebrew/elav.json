@@ -6,6 +6,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֵלָיו",
+        "transliteration": "elav",
+        "englishLiteral": "to-him",
+        "englishNatural": "to him",
+        "root": "elav",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "רַגְלָהּ וַתָּשָׁב **אֵלָיו** אֶל־ הַתֵּבָה",
+        "transliteration": "raglah vaTashav **elav** el- haTevah",
+        "englishLiteral": "foot-her, And-she-returned **to-him** to- the-ark,",
+        "englishNatural": "her foot, and she returned **to him** to the ark,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 21,
+      "sourceOrder": 21,
+      "word": {
+        "originalScript": "אֵלָיו",
+        "transliteration": "elav",
+        "englishLiteral": "to-him",
+        "englishNatural": "to him",
+        "root": "elav",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּבֵא אֹתָהּ **אֵלָיו** אֶל־ הַתֵּבָה",
+        "transliteration": "vaYave otah **elav** el- haTevah",
+        "englishLiteral": "And-he-brought her **to-him** to- the-ark.",
+        "englishNatural": "and brought her **to him** to the ark."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 4
       },

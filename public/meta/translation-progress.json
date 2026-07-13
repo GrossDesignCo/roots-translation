@@ -232,15 +232,15 @@
         "8": {
           "chapterNumber": 8,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
-            "5": false,
-            "6": false,
-            "7": false,
-            "8": false,
-            "9": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
             "10": false,
             "11": false,
             "12": false,
@@ -255,7 +255,7 @@
             "21": true,
             "22": true
           },
-          "progress": 13.636363636363635
+          "progress": 54.54545454545454
         },
         "9": {
           "chapterNumber": 9,
@@ -1837,7 +1837,7 @@
           "progress": 0
         }
       },
-      "progress": 15.655577299412915
+      "progress": 16.2426614481409
     },
     "EXODUS": {
       "bookName": "Exodus",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.745812301064206
+  "totalProgress": 1.7747484165514582
 }

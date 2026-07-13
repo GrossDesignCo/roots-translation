@@ -1,0 +1,34 @@
+{
+  "key": "vayiqacheha",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "וַיִּקָּחֶהָ",
+        "transliteration": "vaYiqacheha",
+        "englishLiteral": "And-he-took-her",
+        "englishNatural": "and took her",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּשְׁלַח יָדוֹ **וַיִּקָּחֶהָ** וַיָּבֵא אֹתָהּ",
+        "transliteration": "vaYishlach yado **vaYiqacheha** vaYave otah",
+        "englishLiteral": "And-he-sent hand-his **And-he-took-her** And-he-brought her",
+        "englishNatural": "and he sent his hand **and took her** and brought her"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "key": "vayachseru",
+  "language": "hebrew",
+  "root": "chaser",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וַיַּחְסְרוּ",
+        "transliteration": "vaYachseru",
+        "englishLiteral": "And-they-will-lack",
+        "englishNatural": "lacked",
+        "root": "chaser",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָלוֹךְ וָשׁוֹב **וַיַּחְסְרוּ** הַמַּיִם מִקְצֵה",
+        "transliteration": "halokh vaShov **vaYachseru** haMayim miqtzah",
+        "englishLiteral": "going and-returning; **And-they-will-lack** the-waters from-end-of",
+        "englishNatural": "and returning; and the waters **lacked** from the end of fifty"
+      }
+    }
+  ]
+}

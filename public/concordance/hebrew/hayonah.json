@@ -1,0 +1,57 @@
+{
+  "key": "hayonah",
+  "language": "hebrew",
+  "root": "yonah_dove",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הַיּוֹנָה",
+        "transliteration": "haYonah",
+        "englishLiteral": "the-dove",
+        "englishNatural": "the dove",
+        "root": "yonah_dove",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְשַׁלַּח אֶת־ **הַיּוֹנָה** מֵאִתּוֹ לִרְאוֹת",
+        "transliteration": "vaYeshalach et- **haYonah** meIto lirot",
+        "englishLiteral": "And-he-sent ↳ **the-dove** from-with-him, to-see",
+        "englishNatural": "And he sent ↳ **the dove** from him, to see"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הַיּוֹנָה",
+        "transliteration": "haYonah",
+        "englishLiteral": "the-dove",
+        "englishNatural": "And the dove",
+        "root": "yonah_dove",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹא מָצְאָה **הַיּוֹנָה** מָנוֹחַ לְכַף־",
+        "transliteration": "veLo matsaah **haYonah** manoach leKhaf-",
+        "englishLiteral": "And-not she-found **the-dove** resting_place to-palm-of",
+        "englishNatural": "**And the dove** found no"
+      }
+    }
+  ]
+}

@@ -58,7 +58,7 @@ three hundred cubits the length of the ark,
 fifty cubits its breadth,
 and thirty cubits its height.
 
-A illunination you shall make for the ark,
+A skylight you shall make for the ark,
 and to a cubit you shall finish it from upward;
 and the opening of the ark in its side you shall set;
 lower second and third you shall make it.

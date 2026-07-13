@@ -52,6 +52,31 @@
         "englishLiteral": "Rest (Noah) and-which **with-him** in-the-ark.",
         "englishNatural": "Rest (Noah) and which **with him** in the ark."
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "אִתּוֹ",
+        "transliteration": "itto",
+        "englishLiteral": "with-him",
+        "englishNatural": "with him",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַבְּהֵמָה אֲשֶׁר **אִתּוֹ** בַּתֵּבָה וַיַּעֲבֵר",
+        "transliteration": "haBehemah asher **itto** baTevah vaYaavor",
+        "englishLiteral": "the-beast which **with-him** in-the-ark; and-he-will-cause-to-pass_through",
+        "englishNatural": "the beast which was **with him** in the ark; and God"
+      }
     }
   ]
 }

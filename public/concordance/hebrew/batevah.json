@@ -27,6 +27,31 @@
         "englishLiteral": "and-which with-him **in-the-ark.**",
         "englishNatural": "and which with him **in the ark.**"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "בַּתֵּבָה",
+        "transliteration": "baTevah",
+        "englishLiteral": "in-the-ark",
+        "englishNatural": "in the ark",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר אִתּוֹ **בַּתֵּבָה** וַיַּעֲבֵר אֱלֹהִים",
+        "transliteration": "asher itto **baTevah** vaYaavor Elohim",
+        "englishLiteral": "which with-him **in-the-ark;** and-he-will-cause-to-pass_through Gods",
+        "englishNatural": "which was with him **in the ark;** and God caused to pass-through"
+      }
     }
   ]
 }

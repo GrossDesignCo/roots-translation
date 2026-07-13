@@ -79,6 +79,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הַשְּׁבִיעִי",
+        "transliteration": "haShvii",
+        "englishLiteral": "the-seventh",
+        "englishNatural": "the seventh",
+        "root": "shevii",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הַתֵּבָה בַּחֹדֶשׁ **הַשְּׁבִיעִי** בְּשִׁבְעָה־ עָשָׂר",
+        "transliteration": "haTevah baChodesh **haShvii** beShivah- asar",
+        "englishLiteral": "the-ark in-month **the-seventh,** in-seven- ten",
+        "englishNatural": "rested in the month **the seventh,** in seven ten"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 20,
         "verse": 10

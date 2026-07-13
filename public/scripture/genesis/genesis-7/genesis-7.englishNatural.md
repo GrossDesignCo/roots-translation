@@ -1,14 +1,13 @@
 
 And He-Who-Is (YHWH) said to Rest (Noah),
 "Come, you and all your house, to the ark;
-that you I have seen righteous to my face in the generation the this."
+that I have seen you, righteous to my face in this generation."
 
 From all the beast the clean you will take to you seven seven, man and his woman;
 
-and from the beast which is not clean she, two, man and his woman.
+and from the beast which she is not clean, two, man and his woman.
 
 Also from the flyer of the skies seven seven, male and female;
-
 to keep-alive seed over the face of all the land.
 
 That to days yet seven,
@@ -42,7 +41,7 @@ In the year of six hundred years to the life of Rest (Noah),
 in the month the second,
 in seven ten days to the month, in this day
 were broken-open all the fountains of the great abyss,
-and the windows of the skies were opened.
+and the conduits of the skies were opened.
 
 And the rain was over the land,
 forty days and forty nights.

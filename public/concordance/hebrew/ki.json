@@ -604,6 +604,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "כִּי",
+        "transliteration": "ki",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ הַתֵּבָה **כִּי** מַיִם עַל־",
+        "transliteration": "el- haTevah **ki** mayim al-",
+        "englishLiteral": "to- the-ark, **that** waters over-",
+        "englishNatural": "to the ark, **that** waters were over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 17,

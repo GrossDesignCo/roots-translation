@@ -54,6 +54,56 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הָרֵי",
+        "transliteration": "harei",
+        "englishLiteral": "the-mountains-of",
+        "englishNatural": "the mountains of",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַחֹדֶשׁ עַל **הָרֵי** אֲרָרָט",
+        "transliteration": "laChodesh al **harei** Ararat",
+        "englishLiteral": "to-the-month, over- **the-mountains-of** Ararat.",
+        "englishNatural": "to the month, over **the mountains of** Ararat."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "הֶהָרִים",
+        "transliteration": "heHarim",
+        "englishLiteral": "the-mountains",
+        "englishNatural": "the mountains",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נִרְאוּ רָאשֵׁי **הֶהָרִים**",
+        "transliteration": "niru rashei **heHarim**",
+        "englishLiteral": "they-were-seen heads-of **the-mountains.**",
+        "englishNatural": "to the month, the heads of **the mountains** were seen."
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 1

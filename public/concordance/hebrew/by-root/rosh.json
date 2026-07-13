@@ -80,6 +80,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 5
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "רָאשֵׁי",
+        "transliteration": "rashei",
+        "englishLiteral": "heads-of",
+        "englishNatural": "the heads of",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַחֹדֶשׁ נִרְאוּ **רָאשֵׁי** הֶהָרִים",
+        "transliteration": "laChodesh niru **rashei** heHarim",
+        "englishLiteral": "to-the-month, they-were-seen **heads-of** the-mountains.",
+        "englishNatural": "on the first to the month, **the heads of** the mountains were seen."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 10
       },

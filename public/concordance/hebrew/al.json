@@ -56,6 +56,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "עַל",
+        "transliteration": "al",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹם לַחֹדֶשׁ **עַל** הָרֵי אֲרָרָט",
+        "transliteration": "yom laChodesh **al** harei Ararat",
+        "englishLiteral": "day to-the-month, **over-** the-mountains-of Ararat.",
+        "englishNatural": "days to the month, **over** the mountains of Ararat."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 2
       },

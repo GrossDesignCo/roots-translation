@@ -1,0 +1,33 @@
+{
+  "root": "kala",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וַיִּכָּלֵא",
+        "transliteration": "vaYikale",
+        "englishLiteral": "And-he-will-be-restrained",
+        "englishNatural": "was restrained",
+        "root": "kala",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "וַאֲרֻבֹּת הַשָּׁמַיִם **וַיִּכָּלֵא** הַגֶּשֶׁם מִן־",
+        "transliteration": "vaArubot haShamayim **vaYikale** haGeshem min-",
+        "englishLiteral": "and-conduits-of the-skies; **And-he-will-be-restrained** the-rain from-",
+        "englishNatural": "were shut-up; and the rain **was restrained** from the skies."
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "root": "shakah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 1
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "וַיָּשֹׁכּוּ",
+        "transliteration": "vaYashoku",
+        "englishLiteral": "and-they-will-subside",
+        "englishNatural": "subsided",
+        "root": "shakah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **וַיָּשֹׁכּוּ** הַמָּיִם",
+        "transliteration": "al- haAretz **vaYashoku** haMayim",
+        "englishLiteral": "over- the-land; **and-they-will-subside** the-waters.",
+        "englishNatural": "the land; and the waters **subsided.**"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "root": "manoach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "מָנוֹחַ",
+        "transliteration": "manoach",
+        "englishLiteral": "resting_place",
+        "englishNatural": "resting-place",
+        "root": "manoach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מָצְאָה הַיּוֹנָה **מָנוֹחַ** לְכַף־ רַגְלָהּ",
+        "transliteration": "matsaah haYonah **manoach** leKhaf- raglah",
+        "englishLiteral": "she-found the-dove **resting_place** to-palm-of foot-her,",
+        "englishNatural": "found no **resting-place** to the palm of her foot,"
+      }
+    }
+  ]
+}

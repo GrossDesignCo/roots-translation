@@ -30,6 +30,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מַעְיְנֹת",
+        "transliteration": "mayanot",
+        "englishLiteral": "fountains-of",
+        "englishNatural": "And the fountains of",
+        "root": "mayan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּסָּכְרוּ **מַעְיְנֹת** תְּהוֹם וַאֲרֻבֹּת",
+        "transliteration": "vaYissakru **mayanot** tehom vaArubot",
+        "englishLiteral": "And-they-will-be-shut_up **fountains-of** abyss and-conduits-of",
+        "englishNatural": "**And the fountains of** abyss and the conduits of"
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 8,
         "verse": 24

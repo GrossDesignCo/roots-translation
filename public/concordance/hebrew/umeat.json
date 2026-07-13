@@ -152,6 +152,31 @@
         "englishLiteral": "the-land, fifty **and-hundred** day.",
         "englishNatural": "the land, fifty **and a hundred** days."
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 3
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וּמְאַת",
+        "transliteration": "uMeat",
+        "englishLiteral": "and-hundred",
+        "englishNatural": "and a hundred",
+        "root": "meah",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "מִקְצֵה חֲמִשִּׁים **וּמְאַת** יוֹם",
+        "transliteration": "miqtzah chamishim **uMeat** yom",
+        "englishLiteral": "from-end-of fifty **and-hundred** day.",
+        "englishNatural": "from the end of fifty **and a hundred** days."
+      }
     }
   ]
 }
