@@ -1747,6 +1747,16 @@ const ROOTS = {
     description:
       'a helper, military deliverance, a savior, a deliverer, one who helps where you can not help yourself',
     type: 'noun',
+    related: ['azar'],
+  },
+  azar: {
+    hebrew: 'עזר',
+    transliteration: 'azar',
+    englishLiteral: 'to help',
+    englishNatural: 'to help',
+    type: 'verb',
+    description: 'to help, assist, support; qal/piel: to help',
+    related: ['ezer'],
   },
   neged: {
     hebrew: 'נגד',
@@ -3424,10 +3434,11 @@ const ROOTS = {
   shaah: {
     hebrew: 'שָׁעָה',
     transliteration: 'shaah',
-    englishLiteral: 'to esteem',
-    englishNatural: 'to esteem',
+    englishLiteral: 'to look_upon',
+    englishNatural: 'to look-upon',
     type: 'verb',
-    description: 'to look with favor, regard, have respect for',
+    description:
+      'to look, gaze, look upon; qal: to look with favor, regard; hithpael: to look about anxiously, be dismayed; distinct from shaa (שׁעע, to seal shut)',
   },
   charah: {
     hebrew: 'חָרָה',
@@ -3748,6 +3759,16 @@ const ROOTS = {
     englishNatural: 'work',
     type: 'noun',
     description: 'work, deed, action, doing',
+    related: ['paal_verb'],
+  },
+  paal_verb: {
+    hebrew: 'פעל',
+    transliteration: 'paal',
+    englishLiteral: 'to work',
+    englishNatural: 'to work',
+    type: 'verb',
+    description: 'to do, work, perform, accomplish; qal: to do, work, wrought',
+    related: ['paal'],
   },
   az: {
     hebrew: 'אָז',
@@ -5320,7 +5341,16 @@ const ROOTS = {
     englishNatural: 'nose',
     type: 'noun',
     description: 'nose, nostril, face; often used idiomatically for anger',
-    related: ['af'],
+    related: ['af', 'aph_also'],
+  },
+  aph_also: {
+    hebrew: 'אף',
+    transliteration: 'af',
+    englishLiteral: 'yea',
+    englishNatural: 'yea',
+    type: 'adverb',
+    description: 'also, yea, nay, even; emphatic adverb (distinct from aph/nose)',
+    related: ['aph', 'gam'],
   },
   // Jonah 3:10 additions
   maaseh: {
@@ -6743,6 +6773,16 @@ const ROOTS = {
     type: 'verb',
     description:
       'to be strong, be courageous, be firm; in piel: to make firm, strengthen, establish',
+  },
+  tamak: {
+    hebrew: 'תמך',
+    transliteration: 'tamak',
+    englishLiteral: 'to uphold',
+    englishNatural: 'to uphold',
+    type: 'verb',
+    description:
+      'to grasp, hold fast, support, uphold, sustain; distinct from samakh (סמך, to lean upon, lay hands on)',
+    related: ['samakh'],
   },
   shachaq: {
     hebrew: 'שְׁחָק',
@@ -8675,7 +8715,9 @@ const ROOTS = {
     englishLiteral: 'to support',
     englishNatural: 'to support',
     type: 'verb',
-    description: 'to support, to sustain, to uphold, to lean upon',
+    description:
+      'to support, sustain, uphold, lean upon, lay hands on; distinct from tamak (תמך, to grasp, hold fast)',
+    related: ['tamak'],
   },
   selah: {
     hebrew: 'סֶלָה',
@@ -9126,7 +9168,7 @@ const ROOTS = {
     englishLiteral: 'to seal_shut',
     englishNatural: 'to seal-shut',
     type: 'verb',
-    description: 'to smear over, seal shut (eyes); distinct from shaah (to esteem)',
+    description: 'to smear over, seal shut (eyes); distinct from shaah (שׁעה, to look upon / gaze)',
   },
   rapha: {
     hebrew: 'רפא',
@@ -9187,6 +9229,22 @@ const ROOTS = {
     type: 'noun',
     description: 'a tenth part, tithe',
     related: ['asiri'],
+  },
+  sakal: {
+    hebrew: 'שכל',
+    transliteration: 'sakal',
+    englishLiteral: 'to understand',
+    englishNatural: 'to understand',
+    type: 'verb',
+    description: 'to be prudent, understand, consider; hiphil: give insight, teach',
+  },
+  yachad: {
+    hebrew: 'יחד',
+    transliteration: 'yachad',
+    englishLiteral: 'together',
+    englishNatural: 'together',
+    type: 'adverb',
+    description: 'together, united, alike; adverb form (יַחְדָּו)',
   },
   elah: {
     hebrew: 'אֵלָה',

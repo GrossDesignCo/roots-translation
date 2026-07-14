@@ -1,0 +1,31 @@
+{
+  "root": "acharon",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אַחֲרֹנִים",
+        "transliteration": "acharonim",
+        "englishLiteral": "last-ones",
+        "englishNatural": "the last ones",
+        "root": "acharon",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "רִאשׁוֹן וְאֶת־ **אַחֲרֹנִים** אֲנִי־ הוּא",
+        "transliteration": "rishon veEt- **acharonim** ani- hu",
+        "englishLiteral": "first, and-↳ **last-ones** I- he.",
+        "englishNatural": "the first, and **the last ones,** I am he."
+      }
+    }
+  ]
+}

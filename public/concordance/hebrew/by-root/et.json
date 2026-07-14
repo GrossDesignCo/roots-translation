@@ -6054,6 +6054,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה רִאשׁוֹן **וְאֶת־** אַחֲרֹנִים אֲנִי־",
+        "transliteration": "YHWH rishon **veEt-** acharonim ani-",
+        "englishLiteral": "He_Who_Is (YHWH) first, **and-↳** last-ones I-",
+        "englishNatural": "He-Who-Is (YHWH) the first, **and** the last ones, I am"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 11

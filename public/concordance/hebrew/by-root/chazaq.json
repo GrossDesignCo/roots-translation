@@ -186,6 +186,33 @@
         "englishLiteral": "to-faces-of Pharaoh; **and-strengthened** He_Who_Is (YHWH) ↳-",
         "englishNatural": "Pharaoh; and He-Who-Is (YHWH) **strengthened** ↳- the heart of"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 13
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "מַחֲזִיק",
+        "transliteration": "machaziq",
+        "englishLiteral": "holding",
+        "englishNatural": "holding",
+        "root": "chazaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהֶיךָ **מַחֲזִיק** יְמִינֶךָ הָאֹמֵר",
+        "transliteration": "YHWH Eloheykha **machaziq** yaminekha haOmer",
+        "englishLiteral": "He_Who_Is (YHWH) God-your **holding** right_hand-your; the-saying",
+        "englishNatural": "He-Who-Is (YHWH) your God **holding** your right-hand; the one saying"
+      }
     }
   ]
 }

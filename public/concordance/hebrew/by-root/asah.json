@@ -1536,6 +1536,60 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וְעָשָׂה",
+        "transliteration": "veAsah",
+        "englishLiteral": "and-he-has-made",
+        "englishNatural": "and has made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִי־ פָעַל **וְעָשָׂה** קֹרֵא הַדֹּרוֹת",
+        "transliteration": "mi- paal **veAsah** qore haDorot",
+        "englishLiteral": "who- he-has-worked **and-he-has-made** calling the-generations",
+        "englishNatural": "Who has worked **and has made,** calling the generations"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "עָשְׂתָה",
+        "transliteration": "asatah",
+        "englishLiteral": "she-has-made",
+        "englishNatural": "has made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יַד־ יְהוָה **עָשְׂתָה** זֹּאת וּקְדוֹשׁ",
+        "transliteration": "yad- YHWH **asatah** zot uQedosh",
+        "englishLiteral": "hand- He_Who_Is (YHWH), **she-has-made** this; and-holy",
+        "englishNatural": "the hand of He-Who-Is (YHWH), **has made** this; and the Holy-One of"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 9

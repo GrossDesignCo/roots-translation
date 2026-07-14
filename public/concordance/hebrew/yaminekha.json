@@ -1,0 +1,32 @@
+{
+  "key": "yaminekha",
+  "language": "hebrew",
+  "root": "yamin",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "יְמִינֶךָ",
+        "transliteration": "yaminekha",
+        "englishLiteral": "right_hand-your",
+        "englishNatural": "your right-hand",
+        "root": "yamin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֶיךָ מַחֲזִיק **יְמִינֶךָ** הָאֹמֵר לְךָ",
+        "transliteration": "Eloheykha machaziq **yaminekha** haOmer lekha",
+        "englishLiteral": "God-your holding **right_hand-your;** the-saying to-you",
+        "englishNatural": "your God holding **your right-hand;** the one saying to you"
+      }
+    }
+  ]
+}

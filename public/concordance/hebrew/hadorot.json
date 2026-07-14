@@ -1,0 +1,32 @@
+{
+  "key": "hadorot",
+  "language": "hebrew",
+  "root": "dor",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הַדֹּרוֹת",
+        "transliteration": "haDorot",
+        "englishLiteral": "the-generations",
+        "englishNatural": "the generations",
+        "root": "dor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעָשָׂה קֹרֵא **הַדֹּרוֹת** מֵרֹאשׁ אֲנִי",
+        "transliteration": "veAsah qore **haDorot** meRosh ani",
+        "englishLiteral": "and-he-has-made calling **the-generations** from-head; I",
+        "englishNatural": "and has made, calling **the generations** from the head; I am"
+      }
+    }
+  ]
+}

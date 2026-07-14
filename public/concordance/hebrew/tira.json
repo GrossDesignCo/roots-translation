@@ -29,6 +29,60 @@
         "englishLiteral": "to-say, \"not- **you-will-fear** Exalted_Father (Abram), I",
         "englishNatural": "in the vision, saying, **\"You will fear** not Exalted-Father (Abram),"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תִּירָא",
+        "transliteration": "tira",
+        "englishLiteral": "you-will-fear",
+        "englishNatural": "You will fear",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ **תִּירָא** כִּי עִמְּךָ־",
+        "transliteration": "al- **tira** ki immekha-",
+        "englishLiteral": "not- **you-will-fear** that with-you-",
+        "englishNatural": "**You will fear** not, that"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "תִּירָא",
+        "transliteration": "tira",
+        "englishLiteral": "you-will-fear",
+        "englishNatural": "You will fear",
+        "root": "yare",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ אַל־ **תִּירָא** אֲנִי עֲזַרְתִּיךָ",
+        "transliteration": "lekha al- **tira** ani azartikha",
+        "englishLiteral": "to-you \"not- **you-will-fear,** I I-have-helped-you.\"",
+        "englishNatural": "the one saying to you **\"You will fear** not, I,"
+      }
     }
   ]
 }

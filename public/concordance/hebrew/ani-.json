@@ -1,0 +1,32 @@
+{
+  "key": "ani-",
+  "language": "hebrew",
+  "root": "ani",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "אֲנִי־",
+        "transliteration": "ani-",
+        "englishLiteral": "I-",
+        "englishNatural": "I am",
+        "root": "ani",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ אַחֲרֹנִים **אֲנִי־** הוּא",
+        "transliteration": "veEt- acharonim **ani-** hu",
+        "englishLiteral": "and-↳ last-ones **I-** he.",
+        "englishNatural": "and the last ones, **I am** he."
+      }
+    }
+  ]
+}

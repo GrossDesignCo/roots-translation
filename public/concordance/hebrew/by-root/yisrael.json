@@ -426,6 +426,31 @@
         "englishLiteral": "He_Who_Is (YHWH), Holy_One-of **Struggles_with_God (Israel):** In-returning and-rest",
         "englishNatural": "He-Who-Is (YHWH), the Holy-One of **Struggles-with-God (Israel):** In returning and rest"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "יִשְׂרָאֵל",
+        "transliteration": "Yisrael",
+        "englishLiteral": "Struggles_with_God (Israel)",
+        "englishNatural": "Struggles-with-God (Israel)",
+        "root": "yisrael",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֹּאת וּקְדוֹשׁ **יִשְׂרָאֵל** בְּרָאָהּ",
+        "transliteration": "zot uQedosh **Yisrael** berah",
+        "englishLiteral": "this; and-holy **Struggles_with_God (Israel),** she-has-created-her.",
+        "englishNatural": "this; and the Holy-One of **Struggles-with-God (Israel),** has created her."
+      }
     }
   ]
 }

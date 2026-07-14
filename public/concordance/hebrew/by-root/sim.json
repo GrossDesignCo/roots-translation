@@ -297,6 +297,33 @@
         "englishLiteral": "**In-placing-his** to-the-sea his-decree,",
         "englishNatural": "**In his placing** to the sea his decree,"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְיָשִׂימוּ",
+        "transliteration": "veYasimu",
+        "englishLiteral": "and-they-will-place",
+        "englishNatural": "and they will place",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יִרְאוּ וְיֵדְעוּ **וְיָשִׂימוּ** וְיַשְׂכִּילוּ יַחְדָּו",
+        "transliteration": "yirau veYedu **veYasimu** veYaskilu yachdav",
+        "englishLiteral": "they-will-see and-they-will-know, **and-they-will-place** and-they-will-understand together,",
+        "englishNatural": "they will see and they will know, **and they will place** and they will understand together,"
+      }
     }
   ]
 }

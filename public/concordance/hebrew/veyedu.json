@@ -1,0 +1,34 @@
+{
+  "key": "veyedu",
+  "language": "hebrew",
+  "root": "yada",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וְיֵדְעוּ",
+        "transliteration": "veYedu",
+        "englishLiteral": "and-they-will-know",
+        "englishNatural": "and they will know",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַעַן יִרְאוּ **וְיֵדְעוּ** וְיָשִׂימוּ וְיַשְׂכִּילוּ",
+        "transliteration": "leMaan yirau **veYedu** veYasimu veYaskilu",
+        "englishLiteral": "to-sake they-will-see **and-they-will-know,** and-they-will-place and-they-will-understand",
+        "englishNatural": "for the sake of they will see **and they will know,** and they will place and they will understand"
+      }
+    }
+  ]
+}

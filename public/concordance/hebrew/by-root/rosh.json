@@ -329,6 +329,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "מֵרֹאשׁ",
+        "transliteration": "meRosh",
+        "englishLiteral": "from-head",
+        "englishNatural": "from the head",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קֹרֵא הַדֹּרוֹת **מֵרֹאשׁ** אֲנִי יְהוָה",
+        "transliteration": "qore haDorot **meRosh** ani YHWH",
+        "englishLiteral": "calling the-generations **from-head;** I He_Who_Is (YHWH)",
+        "englishNatural": "calling the generations **from the head;** I am He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 22

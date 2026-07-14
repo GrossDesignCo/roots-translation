@@ -505,6 +505,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "הוּא",
+        "transliteration": "hu",
+        "englishLiteral": "he",
+        "englishNatural": "he",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אַחֲרֹנִים אֲנִי־ **הוּא**",
+        "transliteration": "acharonim ani- **hu**",
+        "englishLiteral": "last-ones I- **he.**",
+        "englishNatural": "the last ones, I am **he.**"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 28

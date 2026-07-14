@@ -655,6 +655,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "כִּי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תִּשְׁתָּע **כִּי־** אֲנִי אֱלֹהֶיךָ",
+        "transliteration": "al- tishtaa **ki-** ani Eloheykha",
+        "englishLiteral": "not- you-will-look_around_yourself **that-** I God-your;",
+        "englishNatural": "you will look-around yourself not, **that** I am your God;"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 2

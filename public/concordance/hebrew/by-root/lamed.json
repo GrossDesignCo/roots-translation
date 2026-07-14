@@ -954,6 +954,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לְךָ",
+        "transliteration": "lekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יְמִינֶךָ הָאֹמֵר **לְךָ** אַל־ תִּירָא",
+        "transliteration": "yaminekha haOmer **lekha** al- tira",
+        "englishLiteral": "right_hand-your; the-saying **to-you** \"not- you-will-fear,",
+        "englishNatural": "your right-hand; the one saying **to you** \"You will fear not,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 4

@@ -868,6 +868,33 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "קֹרֵא",
+        "transliteration": "qore",
+        "englishLiteral": "calling",
+        "englishNatural": "calling",
+        "root": "qara",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "פָעַל וְעָשָׂה **קֹרֵא** הַדֹּרוֹת מֵרֹאשׁ",
+        "transliteration": "paal veAsah **qore** haDorot meRosh",
+        "englishLiteral": "he-has-worked and-he-has-made **calling** the-generations from-head;",
+        "englishNatural": "has worked and has made, **calling** the generations from the head;"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 2

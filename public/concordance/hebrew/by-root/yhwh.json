@@ -3564,6 +3564,81 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵרֹאשׁ אֲנִי **יְהוָה** רִאשׁוֹן וְאֶת־",
+        "transliteration": "meRosh ani **YHWH** rishon veEt-",
+        "englishLiteral": "from-head; I **He_Who_Is (YHWH)** first, and-↳",
+        "englishNatural": "from the head; I am **He-Who-Is (YHWH)** the first, and"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 13
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי אֲנִי **יְהוָה** אֱלֹהֶיךָ מַחֲזִיק",
+        "transliteration": "ki ani **YHWH** Eloheykha machaziq",
+        "englishLiteral": "that, I **He_Who_Is (YHWH)** God-your holding",
+        "englishNatural": "that, I am **He-Who-Is (YHWH)** your God holding"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי יַד־ **יְהוָה** עָשְׂתָה זֹּאת",
+        "transliteration": "ki yad- **YHWH** asatah zot",
+        "englishLiteral": "that hand- **He_Who_Is (YHWH),** she-has-made this;",
+        "englishNatural": "that the hand of **He-Who-Is (YHWH),** has made this;"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 3

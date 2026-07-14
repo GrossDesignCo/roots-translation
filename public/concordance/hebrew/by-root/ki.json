@@ -2101,6 +2101,106 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "כִּי",
+        "transliteration": "ki",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תִּירָא **כִּי** עִמְּךָ־ אָנִי",
+        "transliteration": "al- tira **ki** immekha- ani",
+        "englishLiteral": "not- you-will-fear **that** with-you- I,",
+        "englishNatural": "You will fear not, **that** I am with you,"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "כִּי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תִּשְׁתָּע **כִּי־** אֲנִי אֱלֹהֶיךָ",
+        "transliteration": "al- tishtaa **ki-** ani Eloheykha",
+        "englishLiteral": "not- you-will-look_around_yourself **that-** I God-your;",
+        "englishNatural": "you will look-around yourself not, **that** I am your God;"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 13
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כִּי",
+        "transliteration": "ki",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "**כִּי** אֲנִי יְהוָה",
+        "transliteration": "**ki** ani YHWH",
+        "englishLiteral": "**that,** I He_Who_Is (YHWH)",
+        "englishNatural": "**that,** I am He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "כִּי",
+        "transliteration": "ki",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "וְיַשְׂכִּילוּ יַחְדָּו **כִּי** יַד־ יְהוָה",
+        "transliteration": "veYaskilu yachdav **ki** yad- YHWH",
+        "englishLiteral": "and-they-will-understand together, **that** hand- He_Who_Is (YHWH),",
+        "englishNatural": "and they will understand together, **that** the hand of He-Who-Is (YHWH),"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 20

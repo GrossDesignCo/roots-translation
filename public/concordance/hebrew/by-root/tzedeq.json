@@ -76,6 +76,31 @@
         "englishLiteral": "discipline, wise_conduct; **righteousness,** and-justice, and-uprightness.",
         "englishNatural": "discipline, wise-conduct; **righteousness,** and justice, and uprightness."
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "צִדְקִי",
+        "transliteration": "tsidqi",
+        "englishLiteral": "righteousness-my",
+        "englishNatural": "my righteousness",
+        "root": "tzedeq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תְּמַכְתִּיךָ בִּימִין **צִדְקִי**",
+        "transliteration": "temakhtikha biYmin **tsidqi**",
+        "englishLiteral": "I-have-upheld-you, in-right_hand **righteousness-my.**",
+        "englishNatural": "I have upheld you, in the right-hand of **my righteousness.**"
+      }
     }
   ]
 }

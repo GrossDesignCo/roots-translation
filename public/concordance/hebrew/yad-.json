@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "יַד־",
+        "transliteration": "yad-",
+        "englishLiteral": "hand-",
+        "englishNatural": "the hand of",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יַחְדָּו כִּי **יַד־** יְהוָה עָשְׂתָה",
+        "transliteration": "yachdav ki **yad-** YHWH asatah",
+        "englishLiteral": "together, that **hand-** He_Who_Is (YHWH), she-has-made",
+        "englishNatural": "together, that **the hand of** He-Who-Is (YHWH), has made"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 3

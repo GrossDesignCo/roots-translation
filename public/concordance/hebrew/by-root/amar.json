@@ -3618,6 +3618,33 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "הָאֹמֵר",
+        "transliteration": "haOmer",
+        "englishLiteral": "the-saying",
+        "englishNatural": "the one saying",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מַחֲזִיק יְמִינֶךָ **הָאֹמֵר** לְךָ אַל־",
+        "transliteration": "machaziq yaminekha **haOmer** lekha al-",
+        "englishLiteral": "holding right_hand-your; **the-saying** to-you \"not-",
+        "englishNatural": "holding your right-hand; **the one saying** to you \"You will fear"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 2,
         "verse": 1

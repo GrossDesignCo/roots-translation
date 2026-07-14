@@ -3151,6 +3151,56 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אֱלֹהֶיךָ",
+        "transliteration": "Eloheykha",
+        "englishLiteral": "God-your",
+        "englishNatural": "your God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ אֲנִי **אֱלֹהֶיךָ** אִמַּצְתִּיךָ אַף־",
+        "transliteration": "ki- ani **Eloheykha** immatsitikha af-",
+        "englishLiteral": "that- I **God-your;** I-have-strengthened-you, yea-",
+        "englishNatural": "that I am **your God;** I have strengthened you, yea"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֱלֹהֶיךָ",
+        "transliteration": "Eloheykha",
+        "englishLiteral": "God-your",
+        "englishNatural": "your God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲנִי יְהוָה **אֱלֹהֶיךָ** מַחֲזִיק יְמִינֶךָ",
+        "transliteration": "ani YHWH **Eloheykha** machaziq yaminekha",
+        "englishLiteral": "I He_Who_Is (YHWH) **God-your** holding right_hand-your;",
+        "englishNatural": "I am He-Who-Is (YHWH) **your God** holding your right-hand;"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 1

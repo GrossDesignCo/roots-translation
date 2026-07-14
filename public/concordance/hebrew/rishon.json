@@ -1,0 +1,32 @@
+{
+  "key": "rishon",
+  "language": "hebrew",
+  "root": "rishon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "רִאשׁוֹן",
+        "transliteration": "rishon",
+        "englishLiteral": "first",
+        "englishNatural": "the first",
+        "root": "rishon",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֲנִי יְהוָה **רִאשׁוֹן** וְאֶת־ אַחֲרֹנִים",
+        "transliteration": "ani YHWH **rishon** veEt- acharonim",
+        "englishLiteral": "I He_Who_Is (YHWH) **first,** and-↳ last-ones",
+        "englishNatural": "I am He-Who-Is (YHWH) **the first,** and the last ones,"
+      }
+    }
+  ]
+}

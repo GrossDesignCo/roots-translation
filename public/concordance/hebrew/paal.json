@@ -1,0 +1,34 @@
+{
+  "key": "paal",
+  "language": "hebrew",
+  "root": "paal_verb",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "פָעַל",
+        "transliteration": "paal",
+        "englishLiteral": "he-has-worked",
+        "englishNatural": "has worked",
+        "root": "paal_verb",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִי־ **פָעַל** וְעָשָׂה קֹרֵא",
+        "transliteration": "mi- **paal** veAsah qore",
+        "englishLiteral": "who- **he-has-worked** and-he-has-made calling",
+        "englishNatural": "Who **has worked** and has made, calling"
+      }
+    }
+  ]
+}

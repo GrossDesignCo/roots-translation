@@ -180,6 +180,131 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אֲנִי",
+        "transliteration": "ani",
+        "englishLiteral": "I",
+        "englishNatural": "I am",
+        "root": "ani",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "הַדֹּרוֹת מֵרֹאשׁ **אֲנִי** יְהוָה רִאשׁוֹן",
+        "transliteration": "haDorot meRosh **ani** YHWH rishon",
+        "englishLiteral": "the-generations from-head; **I** He_Who_Is (YHWH) first,",
+        "englishNatural": "the generations from the head; **I am** He-Who-Is (YHWH) the first,"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אָנִי",
+        "transliteration": "ani",
+        "englishLiteral": "I",
+        "englishNatural": "I am",
+        "root": "ani",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי עִמְּךָ־ **אָנִי** אַל־ תִּשְׁתָּע",
+        "transliteration": "ki immekha- **ani** al- tishtaa",
+        "englishLiteral": "that with-you- **I,** not- you-will-look_around_yourself",
+        "englishNatural": "not, that **I am** with you, you will look-around yourself"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אֲנִי",
+        "transliteration": "ani",
+        "englishLiteral": "I",
+        "englishNatural": "I am",
+        "root": "ani",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "תִּשְׁתָּע כִּי־ **אֲנִי** אֱלֹהֶיךָ אִמַּצְתִּיךָ",
+        "transliteration": "tishtaa ki- **ani** Eloheykha immatsitikha",
+        "englishLiteral": "you-will-look_around_yourself that- **I** God-your; I-have-strengthened-you,",
+        "englishNatural": "not, that **I am** your God; I have strengthened you,"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 13
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֲנִי",
+        "transliteration": "ani",
+        "englishLiteral": "I",
+        "englishNatural": "I am",
+        "root": "ani",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי **אֲנִי** יְהוָה אֱלֹהֶיךָ",
+        "transliteration": "ki **ani** YHWH Eloheykha",
+        "englishLiteral": "that, **I** He_Who_Is (YHWH) God-your",
+        "englishNatural": "that, **I am** He-Who-Is (YHWH) your God"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אֲנִי",
+        "transliteration": "ani",
+        "englishLiteral": "I",
+        "englishNatural": "I",
+        "root": "ani",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תִּירָא **אֲנִי** עֲזַרְתִּיךָ",
+        "transliteration": "al- tira **ani** azartikha",
+        "englishLiteral": "\"not- you-will-fear, **I** I-have-helped-you.\"",
+        "englishNatural": "\"You will fear not, **I,** I have helped you.\""
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 9

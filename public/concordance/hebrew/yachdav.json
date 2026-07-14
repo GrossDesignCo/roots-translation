@@ -1,0 +1,32 @@
+{
+  "key": "yachdav",
+  "language": "hebrew",
+  "root": "yachad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "יַחְדָּו",
+        "transliteration": "yachdav",
+        "englishLiteral": "together",
+        "englishNatural": "together",
+        "root": "yachad",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וְיָשִׂימוּ וְיַשְׂכִּילוּ **יַחְדָּו** כִּי יַד־",
+        "transliteration": "veYasimu veYaskilu **yachdav** ki yad-",
+        "englishLiteral": "and-they-will-place and-they-will-understand **together,** that hand-",
+        "englishNatural": "and they will place and they will understand **together,** that the hand of"
+      }
+    }
+  ]
+}

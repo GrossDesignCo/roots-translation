@@ -1,0 +1,34 @@
+{
+  "key": "tishtaa",
+  "language": "hebrew",
+  "root": "shaah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "תִּשְׁתָּע",
+        "transliteration": "tishtaa",
+        "englishLiteral": "you-will-look_around_yourself",
+        "englishNatural": "you will look-around yourself",
+        "root": "shaah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "אָנִי אַל־ **תִּשְׁתָּע** כִּי־ אֲנִי",
+        "transliteration": "ani al- **tishtaa** ki- ani",
+        "englishLiteral": "I, not- **you-will-look_around_yourself** that- I",
+        "englishNatural": "I am with you, **you will look-around yourself** not, that"
+      }
+    }
+  ]
+}

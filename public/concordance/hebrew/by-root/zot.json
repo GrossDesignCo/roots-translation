@@ -129,6 +129,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "זֹּאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה עָשְׂתָה **זֹּאת** וּקְדוֹשׁ יִשְׂרָאֵל",
+        "transliteration": "YHWH asatah **zot** uQedosh Yisrael",
+        "englishLiteral": "He_Who_Is (YHWH), she-has-made **this;** and-holy Struggles_with_God (Israel),",
+        "englishNatural": "He-Who-Is (YHWH), has made **this;** and the Holy-One of Struggles-with-God (Israel),"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 10

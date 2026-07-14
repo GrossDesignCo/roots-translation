@@ -1755,6 +1755,81 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**אַל־** תִּירָא כִּי",
+        "transliteration": "**al-** tira ki",
+        "englishLiteral": "**not-** you-will-fear that",
+        "englishNatural": "You will fear **not,** that I am"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עִמְּךָ־ אָנִי **אַל־** תִּשְׁתָּע כִּי־",
+        "transliteration": "immekha- ani **al-** tishtaa ki-",
+        "englishLiteral": "with-you- I, **not-** you-will-look_around_yourself that-",
+        "englishNatural": "with you, you will look-around yourself **not,** that I am"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֹמֵר לְךָ **אַל־** תִּירָא אֲנִי",
+        "transliteration": "haOmer lekha **al-** tira ani",
+        "englishLiteral": "the-saying to-you **\"not-** you-will-fear, I",
+        "englishNatural": "to you \"You will fear **not,** I, I have helped you.\""
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 1

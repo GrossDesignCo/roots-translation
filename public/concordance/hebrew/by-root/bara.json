@@ -298,6 +298,33 @@
         "englishLiteral": "the-Earthling (Adam) which- **I-created** from-over faces-of",
         "englishNatural": "the Earthling (Adam) which **I created** from over the face of"
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "בְּרָאָהּ",
+        "transliteration": "berah",
+        "englishLiteral": "she-has-created-her",
+        "englishNatural": "has created her",
+        "root": "bara",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּקְדוֹשׁ יִשְׂרָאֵל **בְּרָאָהּ**",
+        "transliteration": "uQedosh Yisrael **berah**",
+        "englishLiteral": "and-holy Struggles_with_God (Israel), **she-has-created-her.**",
+        "englishNatural": "and the Holy-One of Struggles-with-God (Israel), **has created her.**"
+      }
     }
   ]
 }

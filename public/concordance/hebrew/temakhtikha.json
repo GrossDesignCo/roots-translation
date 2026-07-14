@@ -1,0 +1,34 @@
+{
+  "key": "temakhtikha",
+  "language": "hebrew",
+  "root": "tamak",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "תְּמַכְתִּיךָ",
+        "transliteration": "temakhtikha",
+        "englishLiteral": "I-have-upheld-you",
+        "englishNatural": "I have upheld you",
+        "root": "tamak",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "עֲזַרְתִּיךָ אַף־ **תְּמַכְתִּיךָ** בִּימִין צִדְקִי",
+        "transliteration": "azartikha af- **temakhtikha** biYmin tsidqi",
+        "englishLiteral": "I-have-helped-you; yea- **I-have-upheld-you,** in-right_hand righteousness-my.",
+        "englishNatural": "I have helped you; yea **I have upheld you,** in the right-hand of my righteousness."
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "key": "azartikha",
+  "language": "hebrew",
+  "root": "azar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "עֲזַרְתִּיךָ",
+        "transliteration": "azartikha",
+        "englishLiteral": "I-have-helped-you",
+        "englishNatural": "I have helped you",
+        "root": "azar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אִמַּצְתִּיךָ אַף־ **עֲזַרְתִּיךָ** אַף־ תְּמַכְתִּיךָ",
+        "transliteration": "immatsitikha af- **azartikha** af- temakhtikha",
+        "englishLiteral": "I-have-strengthened-you, yea- **I-have-helped-you;** yea- I-have-upheld-you,",
+        "englishNatural": "I have strengthened you, yea **I have helped you;** yea I have upheld you,"
+      }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "עֲזַרְתִּיךָ",
+        "transliteration": "azartikha",
+        "englishLiteral": "I-have-helped-you",
+        "englishNatural": "I have helped you",
+        "root": "azar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תִּירָא אֲנִי **עֲזַרְתִּיךָ**",
+        "transliteration": "tira ani **azartikha**",
+        "englishLiteral": "you-will-fear, I **I-have-helped-you.\"**",
+        "englishNatural": "not, I, **I have helped you.\"**"
+      }
+    }
+  ]
+}

@@ -154,6 +154,31 @@
     },
     {
       "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "מִי־",
+        "transliteration": "mi-",
+        "englishLiteral": "who-",
+        "englishNatural": "Who",
+        "root": "mi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**מִי־** פָעַל וְעָשָׂה",
+        "transliteration": "**mi-** paal veAsah",
+        "englishLiteral": "**who-** he-has-worked and-he-has-made",
+        "englishNatural": "**Who** has worked and has made,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 4

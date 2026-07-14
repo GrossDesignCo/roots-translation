@@ -1,0 +1,34 @@
+{
+  "key": "yirau",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יִרְאוּ",
+        "transliteration": "yirau",
+        "englishLiteral": "they-will-see",
+        "englishNatural": "they will see",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַעַן **יִרְאוּ** וְיֵדְעוּ וְיָשִׂימוּ",
+        "transliteration": "leMaan **yirau** veYedu veYasimu",
+        "englishLiteral": "to-sake **they-will-see** and-they-will-know, and-they-will-place",
+        "englishNatural": "for the sake of **they will see** and they will know, and they will place"
+      }
+    }
+  ]
+}

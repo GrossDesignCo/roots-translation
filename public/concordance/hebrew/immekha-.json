@@ -1,0 +1,32 @@
+{
+  "key": "immekha-",
+  "language": "hebrew",
+  "root": "im_with",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "עִמְּךָ־",
+        "transliteration": "immekha-",
+        "englishLiteral": "with-you-",
+        "englishNatural": "with you",
+        "root": "im_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "תִּירָא כִּי **עִמְּךָ־** אָנִי אַל־",
+        "transliteration": "tira ki **immekha-** ani al-",
+        "englishLiteral": "you-will-fear that **with-you-** I, not-",
+        "englishNatural": "that I am **with you,** you will look-around yourself not,"
+      }
+    }
+  ]
+}

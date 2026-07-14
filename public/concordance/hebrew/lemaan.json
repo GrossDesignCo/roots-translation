@@ -152,6 +152,31 @@
         "englishLiteral": "righteousness, he-guides-me, **for-sake-of** his-name.",
         "englishNatural": "righteousness, he guides me, **for the sake of** his name."
       }
+    },
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לְמַעַן",
+        "transliteration": "leMaan",
+        "englishLiteral": "to-sake",
+        "englishNatural": "for the sake of",
+        "root": "maan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**לְמַעַן** יִרְאוּ וְיֵדְעוּ",
+        "transliteration": "**leMaan** yirau veYedu",
+        "englishLiteral": "**to-sake** they-will-see and-they-will-know,",
+        "englishNatural": "**for the sake of** they will see and they will know,"
+      }
     }
   ]
 }

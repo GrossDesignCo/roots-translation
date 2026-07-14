@@ -1,0 +1,34 @@
+{
+  "key": "veyaskilu",
+  "language": "hebrew",
+  "root": "sakal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 20
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְיַשְׂכִּילוּ",
+        "transliteration": "veYaskilu",
+        "englishLiteral": "and-they-will-understand",
+        "englishNatural": "and they will understand",
+        "root": "sakal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וְיֵדְעוּ וְיָשִׂימוּ **וְיַשְׂכִּילוּ** יַחְדָּו כִּי",
+        "transliteration": "veYedu veYasimu **veYaskilu** yachdav ki",
+        "englishLiteral": "and-they-will-know, and-they-will-place **and-they-will-understand** together, that",
+        "englishNatural": "and they will know, and they will place **and they will understand** together, that"
+      }
+    }
+  ]
+}
