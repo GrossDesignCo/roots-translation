@@ -805,6 +805,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "מִן־",
+        "transliteration": "min-",
+        "englishLiteral": "from-",
+        "englishNatural": "from",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַיּוֹנָה **מִן־** הַתֵּבָה",
+        "transliteration": "et- haYonah **min-** haTevah",
+        "englishLiteral": "↳ the-dove, **from-** the-ark.",
+        "englishNatural": "↳ the dove, **from** the ark."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 11
       },

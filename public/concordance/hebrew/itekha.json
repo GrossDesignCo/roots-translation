@@ -1,0 +1,32 @@
+{
+  "key": "itekha",
+  "language": "hebrew",
+  "root": "et_with",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אִתְּךָ",
+        "transliteration": "itekha",
+        "englishLiteral": "with-you",
+        "englishNatural": "with you",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַחַיָּה אֲשֶׁר־ **אִתְּךָ** מִכָּל־ בָּשָׂר",
+        "transliteration": "haChayah asher- **itekha** mikol- basar",
+        "englishLiteral": "the-living_being which- **with-you** from-all- flesh,",
+        "englishNatural": "the living-being which is **with you** from all flesh,"
+      }
+    }
+  ]
+}

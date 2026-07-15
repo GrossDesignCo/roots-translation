@@ -10,5 +10,5 @@ If not, I have balanced and I have silenced my throat;
 as a weaned-one upon his mother,
 as a weaned-one upon my throat.
 
-Hope, Struggles-with-God (Israel) to He-Who-Is (YHWH),
+Wait-patiently, Struggles-with-God (Israel) to He-Who-Is (YHWH),
 from now and unto the-age. 

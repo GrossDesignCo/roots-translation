@@ -516,6 +516,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַתָּבֹא",
+        "transliteration": "vaTavo",
+        "englishLiteral": "And-she-will-come",
+        "englishNatural": "came",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתָּבֹא** אֵלָיו הַיּוֹנָה",
+        "transliteration": "**vaTavo** elav haYonah",
+        "englishLiteral": "**And-she-will-come** to-him the-dove",
+        "englishNatural": "And the dove **came** to him to the time of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 12
       },

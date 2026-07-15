@@ -305,6 +305,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בָּשָׂר",
+        "transliteration": "basar",
+        "englishLiteral": "flesh",
+        "englishNatural": "flesh",
+        "root": "basar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִתְּךָ מִכָּל־ **בָּשָׂר** בָּעוֹף וּבַבְּהֵמָה",
+        "transliteration": "itekha mikol- **basar** baOph uvaBehemah",
+        "englishLiteral": "with-you from-all- **flesh,** in-flyer and-in-beast",
+        "englishNatural": "with you from all **flesh,** in flyer and in beast"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 4
       },

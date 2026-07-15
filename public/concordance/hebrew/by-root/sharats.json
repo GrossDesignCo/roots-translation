@@ -109,6 +109,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "וְשָׁרְצוּ",
+        "transliteration": "veShartzu",
+        "englishLiteral": "and-they-will-swarm",
+        "englishNatural": "and they will swarm",
+        "root": "sharats",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַיְצֵא אִתָּךְ **וְשָׁרְצוּ** בָאָרֶץ וּפָרוּ",
+        "transliteration": "haYetze itakh **veShartzu** baAretz uParu",
+        "englishLiteral": "bringing_out with-you; **and-they-will-swarm** in-land, and-they-have-been_fruitful",
+        "englishNatural": "bringing-out with you; **and they will swarm** in the land, and they will be fruitful"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 7
       },

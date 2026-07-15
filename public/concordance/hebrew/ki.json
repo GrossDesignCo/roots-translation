@@ -629,6 +629,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "כִּי",
+        "transliteration": "ki",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּדַע נֹחַ **כִּי** קַלּוּ הַמַּיִם",
+        "transliteration": "vaYeda Noach **ki** qallu haMayim",
+        "englishLiteral": "And-he-knew Rest (Noah), **that** they-were-light the-waters",
+        "englishNatural": "And Rest (Noah) knew, **that** the waters were-light"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 17,

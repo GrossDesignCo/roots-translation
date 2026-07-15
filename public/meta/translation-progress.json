@@ -241,21 +241,21 @@
             "7": true,
             "8": true,
             "9": true,
-            "10": false,
-            "11": false,
-            "12": false,
-            "13": false,
-            "14": false,
-            "15": false,
-            "16": false,
-            "17": false,
-            "18": false,
-            "19": false,
+            "10": true,
+            "11": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "15": true,
+            "16": true,
+            "17": true,
+            "18": true,
+            "19": true,
             "20": true,
             "21": true,
             "22": true
           },
-          "progress": 54.54545454545454
+          "progress": 100
         },
         "9": {
           "chapterNumber": 9,
@@ -1837,7 +1837,7 @@
           "progress": 0
         }
       },
-      "progress": 16.2426614481409
+      "progress": 16.894977168949772
     },
     "EXODUS": {
       "bookName": "Exodus",
@@ -19902,12 +19902,12 @@
             "2": false,
             "3": false,
             "4": false,
-            "5": false,
+            "5": true,
             "6": false,
             "7": false,
             "8": false
           },
-          "progress": 0
+          "progress": 12.5
         },
         "131": {
           "chapterNumber": 131,
@@ -20282,7 +20282,7 @@
           "progress": 0
         }
       },
-      "progress": 1.5028432168968318
+      "progress": 1.543460601137287
     },
     "PROVERBS": {
       "bookName": "Proverbs",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.78760891232357
+  "totalProgress": 1.8229752756968782
 }

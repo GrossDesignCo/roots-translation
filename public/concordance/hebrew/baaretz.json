@@ -206,6 +206,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "בָאָרֶץ",
+        "transliteration": "baAretz",
+        "englishLiteral": "in-land",
+        "englishNatural": "in the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִתָּךְ וְשָׁרְצוּ **בָאָרֶץ** וּפָרוּ וְרָבוּ",
+        "transliteration": "itakh veShartzu **baAretz** uParu veRavu",
+        "englishLiteral": "with-you; and-they-will-swarm **in-land,** and-they-have-been_fruitful and-they-have-multiplied",
+        "englishNatural": "with you; and they will swarm **in the land,** and they will be fruitful and they will multiply"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 7
       },

@@ -1,0 +1,34 @@
+{
+  "key": "yatsau",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "יָצְאוּ",
+        "transliteration": "yatsau",
+        "englishLiteral": "they-have-brought_out",
+        "englishNatural": "they have brought-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ לְמִשְׁפְּחֹתֵיהֶם **יָצְאוּ** מִן־ הַתֵּבָה",
+        "transliteration": "haAretz leMishpachoteihem **yatsau** min- haTevah",
+        "englishLiteral": "the-land; to-families-their, **they-have-brought_out** from- the-ark,",
+        "englishNatural": "the land; to their families, **they have brought-out** from the ark,"
+      }
+    }
+  ]
+}

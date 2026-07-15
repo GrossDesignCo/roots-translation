@@ -2076,6 +2076,81 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּסֶף שַׁלַּח **אֶת־** הַיּוֹנָה מִן־",
+        "transliteration": "vaYosef shalach **et-** haYonah min-",
+        "englishLiteral": "And-he-will-add, sending_out-again **↳** the-dove, from-",
+        "englishNatural": "And he added, sending-out again **↳** the dove, from"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "אֲחֵרִים וַיְשַׁלַּח **אֶת־** הַיּוֹנָה וְלֹא־",
+        "transliteration": "acherim vaYeshalach **et-** haYonah veLo-",
+        "englishLiteral": "others; And-he-will-send_out-again **↳** the-dove, and-not-",
+        "englishNatural": "days; And he again sent-out **↳** the dove, and she added"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּסַר נֹחַ **אֶת־** מִכְסֵה הַתֵּבָה",
+        "transliteration": "vaYasar Noach **et-** mikseh haTevah",
+        "englishLiteral": "And-he-will-remove Rest (Noah), **↳** cover-of the-ark,",
+        "englishNatural": "And Rest (Noah) removed **↳** the cover of the ark,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 2,

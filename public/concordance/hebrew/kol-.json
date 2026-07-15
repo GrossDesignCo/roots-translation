@@ -1032,6 +1032,81 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**כָּל־** הַחַיָּה אֲשֶׁר־",
+        "transliteration": "**kol-** haChayah asher-",
+        "englishLiteral": "**all-** the-living_being which-",
+        "englishNatural": "**all** the living-being which is"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**כָּל־** הַחַיָּה כָּל־",
+        "transliteration": "**kol-** haChayah kol-",
+        "englishLiteral": "**all-** the-living_being, all-",
+        "englishNatural": "**all** the living-being, all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הַחַיָּה **כָּל־** הָרֶמֶשׂ וְכָל־",
+        "transliteration": "kol- haChayah **kol-** haRemes veKol-",
+        "englishLiteral": "all- the-living_being, **all-** the-creeping_thing and-all-",
+        "englishNatural": "all the living-being, **all** the creeping-thing and all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 28,

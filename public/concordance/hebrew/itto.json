@@ -77,6 +77,31 @@
         "englishLiteral": "the-beast which **with-him** in-the-ark; and-he-will-cause-to-pass_through",
         "englishNatural": "the beast which was **with him** in the ark; and God"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 18
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אִתּוֹ",
+        "transliteration": "itto",
+        "englishLiteral": "with-him",
+        "englishNatural": "with him",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וּנְשֵׁי־ בָנָיו **אִתּוֹ**",
+        "transliteration": "uNeshey- vanav **itto**",
+        "englishLiteral": "and-women-of- sons-his, **with-him.**",
+        "englishNatural": "and the women of his sons, **with him.**"
+      }
     }
   ]
 }

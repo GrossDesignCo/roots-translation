@@ -1,0 +1,32 @@
+{
+  "key": "beshivah",
+  "language": "hebrew",
+  "root": "sheva",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בְּשִׁבְעָה",
+        "transliteration": "beShivah",
+        "englishLiteral": "in-seven",
+        "englishNatural": "in seven",
+        "root": "sheva",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וּבַחֹדֶשׁ הַשֵּׁנִי **בְּשִׁבְעָה** וְעֶשְׂרִים יוֹם",
+        "transliteration": "uVaChodesh haSheni **beShivah** veEsrim yom",
+        "englishLiteral": "And-in-month the-second, **in-seven** and-twenty day",
+        "englishNatural": "And in the month the second, **in seven** and twenty days"
+      }
+    }
+  ]
+}

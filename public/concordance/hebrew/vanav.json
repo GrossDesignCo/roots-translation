@@ -55,6 +55,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 18
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בָנָיו",
+        "transliteration": "vanav",
+        "englishLiteral": "sons-his",
+        "englishNatural": "his sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאִשְׁתּוֹ וּנְשֵׁי־ **בָנָיו** אִתּוֹ",
+        "transliteration": "veIshto uNeshey- **vanav** itto",
+        "englishLiteral": "and-woman-his and-women-of- **sons-his,** with-him.",
+        "englishNatural": "and his woman and the women of **his sons,** with him."
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 1

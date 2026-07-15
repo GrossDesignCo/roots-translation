@@ -679,6 +679,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 15
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְדַבֵּר אֱלֹהִים **אֶל־** נֹחַ לֵאמֹר",
+        "transliteration": "vaYdabber Elohim **el-** Noach leEmor",
+        "englishLiteral": "And-he-will-speak Gods **to-** Rest (Noah), to-say,",
+        "englishNatural": "And God spoke **to** Rest (Noah), saying,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 7,
@@ -1646,8 +1671,8 @@
       "context": {
         "hebrew": "יַחֵל יִשְׂרָאֵל **אֶל־** יְהוָה מֵעַתָּה",
         "transliteration": "yachel Yisrael **el-** YHWH meAtah",
-        "englishLiteral": "Hope, Struggles_with_God (Israel) **to-** He_Who_Is (YHWH), from-now",
-        "englishNatural": "Hope, Struggles-with-God (Israel) **to** He-Who-Is (YHWH), from now"
+        "englishLiteral": "Wait_patiently, Struggles_with_God (Israel) **to-** He_Who_Is (YHWH), from-now",
+        "englishNatural": "Wait-patiently, Struggles-with-God (Israel) **to** He-Who-Is (YHWH), from now"
       }
     },
     {

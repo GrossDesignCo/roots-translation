@@ -405,6 +405,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 14
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "יוֹם",
+        "transliteration": "yom",
+        "englishLiteral": "day",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּשִׁבְעָה וְעֶשְׂרִים **יוֹם** לַחֹדֶשׁ יָבְשָׁה",
+        "transliteration": "beShivah veEsrim **yom** laChodesh yavsah",
+        "englishLiteral": "in-seven and-twenty **day** to-the-month, she-has-withered",
+        "englishNatural": "in seven and twenty **days** to the month, the land"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 20,
         "verse": 8

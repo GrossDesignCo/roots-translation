@@ -31,6 +31,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בָּעוֹף",
+        "transliteration": "baOph",
+        "englishLiteral": "in-flyer",
+        "englishNatural": "in flyer",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִכָּל־ בָּשָׂר **בָּעוֹף** וּבַבְּהֵמָה וּבְכָל־",
+        "transliteration": "mikol- basar **baOph** uvaBehemah uVekhol-",
+        "englishLiteral": "from-all- flesh, **in-flyer** and-in-beast and-in-all-",
+        "englishNatural": "from all flesh, **in flyer** and in beast and in all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 10
       },

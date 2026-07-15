@@ -1,0 +1,33 @@
+{
+  "root": "taraf",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "טָרָף",
+        "transliteration": "taraf",
+        "englishLiteral": "plucked",
+        "englishNatural": "plucked",
+        "root": "taraf",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֲלֵה־ זַיִת **טָרָף** בְּפִיהָ וַיֵּדַע",
+        "transliteration": "aleh- zayit **taraf** beFihah vaYeda",
+        "englishLiteral": "leaf-of- olive **plucked** in-her-mouth; And-he-knew",
+        "englishNatural": "a leaf of olive **plucked** in her mouth; And Rest (Noah)"
+      }
+    }
+  ]
+}

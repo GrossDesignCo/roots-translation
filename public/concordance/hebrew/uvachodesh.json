@@ -1,0 +1,32 @@
+{
+  "key": "uvachodesh",
+  "language": "hebrew",
+  "root": "chodesh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וּבַחֹדֶשׁ",
+        "transliteration": "uVaChodesh",
+        "englishLiteral": "And-in-month",
+        "englishNatural": "And in the month",
+        "root": "chodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּבַחֹדֶשׁ** הַשֵּׁנִי בְּשִׁבְעָה",
+        "transliteration": "**uVaChodesh** haSheni beShivah",
+        "englishLiteral": "**And-in-month** the-second, in-seven",
+        "englishNatural": "**And in the month** the second, in seven"
+      }
+    }
+  ]
+}

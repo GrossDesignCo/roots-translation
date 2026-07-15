@@ -1,0 +1,34 @@
+{
+  "key": "hotsa",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "הוצא",
+        "transliteration": "hotsa",
+        "englishLiteral": "Bring_out",
+        "englishNatural": "Bring-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **הוצא** הַיְצֵא אִתָּךְ",
+        "transliteration": "al- haAretz **hotsa** haYetze itakh",
+        "englishLiteral": "over- the-land **--Bring_out** bringing_out with-you;",
+        "englishNatural": "over the land, **Bring-out** bringing-out with you;"
+      }
+    }
+  ]
+}

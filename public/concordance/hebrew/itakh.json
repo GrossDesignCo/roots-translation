@@ -77,6 +77,56 @@
         "englishLiteral": "the-ark, to-keep_alive **with-you;** male and-female",
         "englishNatural": "the ark, to keep-alive **with you;** male and female"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 16
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אִתָּךְ",
+        "transliteration": "itakh",
+        "englishLiteral": "with-you",
+        "englishNatural": "with you",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וּנְשֵׁי־ בָנֶיךָ **אִתָּךְ**",
+        "transliteration": "uNeshey- vanekha **itakh**",
+        "englishLiteral": "and-women-of- sons-your **with-you.**",
+        "englishNatural": "and the women of your sons **with you.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "אִתָּךְ",
+        "transliteration": "itakh",
+        "englishLiteral": "with-you",
+        "englishNatural": "with you",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הוצא הַיְצֵא **אִתָּךְ** וְשָׁרְצוּ בָאָרֶץ",
+        "transliteration": "hotsa haYetze **itakh** veShartzu baAretz",
+        "englishLiteral": "--Bring_out bringing_out **with-you;** and-they-will-swarm in-land,",
+        "englishNatural": "Bring-out bringing-out **with you;** and they will swarm in the land,"
+      }
     }
   ]
 }

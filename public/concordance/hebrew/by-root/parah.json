@@ -59,6 +59,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "וּפָרוּ",
+        "transliteration": "uParu",
+        "englishLiteral": "and-they-have-been_fruitful",
+        "englishNatural": "and they will be fruitful",
+        "root": "parah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְשָׁרְצוּ בָאָרֶץ **וּפָרוּ** וְרָבוּ עַל־",
+        "transliteration": "veShartzu baAretz **uParu** veRavu al-",
+        "englishLiteral": "and-they-will-swarm in-land, **and-they-have-been_fruitful** and-they-have-multiplied over-",
+        "englishNatural": "and they will swarm in the land, **and they will be fruitful** and they will multiply over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 1
       },

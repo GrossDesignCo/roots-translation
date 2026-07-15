@@ -52,6 +52,31 @@
         "englishLiteral": "to-kind-his, and-all- **the-flier** to-kind-his, all",
         "englishNatural": "to its kind, and all **the flier** to its kind, all"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הָעוֹף",
+        "transliteration": "haOph",
+        "englishLiteral": "the-flier",
+        "englishNatural": "the flier",
+        "root": "oph",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָרֶמֶשׂ וְכָל־ **הָעוֹף** כֹּל רוֹמֵשׂ",
+        "transliteration": "haRemes veKol- **haOph** kol romes",
+        "englishLiteral": "the-creeping_thing and-all- **the-flier,** all creeping",
+        "englishNatural": "the creeping-thing and all **the flier,** all creeping"
+      }
     }
   ]
 }

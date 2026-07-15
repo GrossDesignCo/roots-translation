@@ -246,6 +246,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "וְרָבוּ",
+        "transliteration": "veRavu",
+        "englishLiteral": "and-they-have-multiplied",
+        "englishNatural": "and they will multiply",
+        "root": "rabah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בָאָרֶץ וּפָרוּ **וְרָבוּ** עַל־ הָאָרֶץ",
+        "transliteration": "baAretz uParu **veRavu** al- haAretz",
+        "englishLiteral": "in-land, and-they-have-been_fruitful **and-they-have-multiplied** over- the-land.\"",
+        "englishNatural": "in the land, and they will be fruitful **and they will multiply** over the land.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 1
       },

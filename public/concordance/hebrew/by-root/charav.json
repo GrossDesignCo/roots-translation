@@ -1,0 +1,60 @@
+{
+  "root": "charav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "חָרְבוּ",
+        "transliteration": "charvu",
+        "englishLiteral": "they-have-dried",
+        "englishNatural": "dried",
+        "root": "charav",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאֶחָד לַחֹדֶשׁ **חָרְבוּ** הַמַּיִם מֵעַל",
+        "transliteration": "beEchad laChodesh **charvu** haMayim meAl",
+        "englishLiteral": "in-one to-the-month, **they-have-dried** the-waters, from-over",
+        "englishNatural": "to the month, the waters **dried** from over the land;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "חָרְבוּ",
+        "transliteration": "charvu",
+        "englishLiteral": "they-have-dried",
+        "englishNatural": "had dried",
+        "root": "charav",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּרְא וְהִנֵּה **חָרְבוּ** פְּנֵי הָאֲדָמָה",
+        "transliteration": "vaYar veHineh **charvu** peney haAdamah",
+        "englishLiteral": "And-saw, and-behold **they-have-dried** faces-of the-earth.",
+        "englishNatural": "the face of the earth **had dried.**"
+      }
+    }
+  ]
+}

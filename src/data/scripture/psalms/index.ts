@@ -6,6 +6,7 @@ import psalms_23 from './psalms-23';
 import psalms_46 from './psalms-46';
 import psalms_117 from './psalms-117';
 import psalms_131 from './psalms-131';
+import psalms_130 from './psalms-130';
 
 export const psalms: Book = {
   meta: {
@@ -13,5 +14,5 @@ export const psalms: Book = {
     translationChain:
       'תְּהִלִּים (tehillim/Praises/Songs of Praise) → Ψαλμοί (Psalmoi/Psalms/Songs with Harps) → Psalmi (Psalms/Hymns) → Psalms',
   },
-  chapters: [psalms_1, psalms_3, psalms_8, psalms_23, psalms_46, psalms_117, psalms_131],
+  chapters: [psalms_1, psalms_3, psalms_8, psalms_23, psalms_46, psalms_117, psalms_130, psalms_131],
 }; 

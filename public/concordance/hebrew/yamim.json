@@ -55,6 +55,56 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "יָמִים",
+        "transliteration": "yamim",
+        "englishLiteral": "days",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹד שִׁבְעַת **יָמִים** אֲחֵרִים וַיֹּסֶף",
+        "transliteration": "od shivat **yamim** acherim vaYosef",
+        "englishLiteral": "again, seven-of **days** others; And-he-will-add,",
+        "englishNatural": "another seven **days;** And he added, sending-out again"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "יָמִים",
+        "transliteration": "yamim",
+        "englishLiteral": "days",
+        "englishNatural": "days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹד שִׁבְעַת **יָמִים** אֲחֵרִים וַיְשַׁלַּח",
+        "transliteration": "od shivat **yamim** acherim vaYeshalach",
+        "englishLiteral": "again, seven-of **days** others; And-he-will-send_out-again",
+        "englishNatural": "another seven **days;** And he again sent-out ↳"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 5,
         "verse": 3

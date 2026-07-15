@@ -33,6 +33,60 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וַיֹּסֶף",
+        "transliteration": "vaYosef",
+        "englishLiteral": "And-he-will-add",
+        "englishNatural": "And he added",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יָמִים אֲחֵרִים **וַיֹּסֶף** שַׁלַּח אֶת־",
+        "transliteration": "yamim acherim **vaYosef** shalach et-",
+        "englishLiteral": "days others; **And-he-will-add,** sending_out-again ↳",
+        "englishNatural": "seven days; **And he added,** sending-out again ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יָסְפָה",
+        "transliteration": "yasfah",
+        "englishLiteral": "she-will-add",
+        "englishNatural": "and she added",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַיּוֹנָה וְלֹא־ **יָסְפָה** שׁוּב־ אֵלָיו",
+        "transliteration": "haYonah veLo- **yasfah** shuv- elav",
+        "englishLiteral": "the-dove, and-not- **she-will-add** returning to-him",
+        "englishNatural": "↳ the dove, **and she added** not returning"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 10,

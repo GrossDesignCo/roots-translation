@@ -27,6 +27,31 @@
         "englishLiteral": "his-days hundred **and-twenty** year.\"",
         "englishNatural": "will be a hundred **and twenty** years.\""
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 14
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְעֶשְׂרִים",
+        "transliteration": "veEsrim",
+        "englishLiteral": "and-twenty",
+        "englishNatural": "and twenty",
+        "root": "esrim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "הַשֵּׁנִי בְּשִׁבְעָה **וְעֶשְׂרִים** יוֹם לַחֹדֶשׁ",
+        "transliteration": "haSheni beShivah **veEsrim** yom laChodesh",
+        "englishLiteral": "the-second, in-seven **and-twenty** day to-the-month,",
+        "englishNatural": "the second, in seven **and twenty** days to the month,"
+      }
     }
   ]
 }

@@ -181,6 +181,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "כֹּל",
+        "transliteration": "kol",
+        "englishLiteral": "all",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ הָעוֹף **כֹּל** רוֹמֵשׂ עַל־",
+        "transliteration": "veKol- haOph **kol** romes al-",
+        "englishLiteral": "and-all- the-flier, **all** creeping over-",
+        "englishNatural": "and all the flier, **all** creeping over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 3
       },

@@ -1,0 +1,34 @@
+{
+  "key": "qivviti",
+  "language": "hebrew",
+  "root": "qavah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 130,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "קִוִּיתִי",
+        "transliteration": "qivviti",
+        "englishLiteral": "I-have-waited-in_tension",
+        "englishNatural": "I have waited-in-tension",
+        "root": "qavah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**קִוִּיתִי** יְהוָה קִוְּתָה",
+        "transliteration": "**qivviti** YHWH qivvetah",
+        "englishLiteral": "**I-have-waited-in_tension** He_Who_Is (YHWH), she-has-waited-in_tension",
+        "englishNatural": "**I have waited-in-tension** He-Who-Is (YHWH); my soul"
+      }
+    }
+  ]
+}

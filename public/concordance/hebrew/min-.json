@@ -306,6 +306,81 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "מִן־",
+        "transliteration": "min-",
+        "englishLiteral": "from-",
+        "englishNatural": "from",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַיּוֹנָה **מִן־** הַתֵּבָה",
+        "transliteration": "et- haYonah **min-** haTevah",
+        "englishLiteral": "↳ the-dove, **from-** the-ark.",
+        "englishNatural": "↳ the dove, **from** the ark."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 16
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מִן־",
+        "transliteration": "min-",
+        "englishLiteral": "from-",
+        "englishNatural": "from",
+        "root": "min_from",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "צֵא **מִן־** הַתֵּבָה אַתָּה",
+        "transliteration": "tse **min-** haTevah atah",
+        "englishLiteral": "\"Go_out, **from-** the-ark; you,",
+        "englishNatural": "\"Go-out, **from** the ark; you,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "מִן־",
+        "transliteration": "min-",
+        "englishLiteral": "from-",
+        "englishNatural": "from",
+        "root": "min_from",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִשְׁפְּחֹתֵיהֶם יָצְאוּ **מִן־** הַתֵּבָה",
+        "transliteration": "leMishpachoteihem yatsau **min-** haTevah",
+        "englishLiteral": "to-families-their, they-have-brought_out **from-** the-ark,",
+        "englishNatural": "to their families, they have brought-out **from** the ark,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 11
       },

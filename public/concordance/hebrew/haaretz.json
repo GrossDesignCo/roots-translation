@@ -1107,6 +1107,156 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "הָאָרֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמַּיִם מֵעַל **הָאָרֶץ**",
+        "transliteration": "haMayim meAl **haAretz**",
+        "englishLiteral": "the-waters from-over **the-land.**",
+        "englishNatural": "were-light from over **the land.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "הָאָרֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמַּיִם מֵעַל **הָאָרֶץ** וַיָּסַר נֹחַ",
+        "transliteration": "haMayim meAl **haAretz** vaYasar Noach",
+        "englishLiteral": "the-waters, from-over **the-land;** And-he-will-remove Rest (Noah),",
+        "englishNatural": "dried from over **the land;** And Rest (Noah) removed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 14
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הָאָרֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַחֹדֶשׁ יָבְשָׁה **הָאָרֶץ**",
+        "transliteration": "laChodesh yavsah **haAretz**",
+        "englishLiteral": "to-the-month, she-has-withered **the-land.**",
+        "englishNatural": "days to the month, **the land** has withered."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "הָאָרֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָרֹמֵשׂ עַל־ **הָאָרֶץ** הוצא הַיְצֵא",
+        "transliteration": "haRomes al- **haAretz** hotsa haYetze",
+        "englishLiteral": "the-creeping over- **the-land** --Bring_out bringing_out",
+        "englishNatural": "the creeping over **the land,** Bring-out bringing-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 21,
+      "sourceOrder": 21,
+      "word": {
+        "originalScript": "הָאָרֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְרָבוּ עַל־ **הָאָרֶץ**",
+        "transliteration": "veRavu al- **haAretz**",
+        "englishLiteral": "and-they-have-multiplied over- **the-land.\"**",
+        "englishNatural": "and they will multiply over **the land.\"**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הָאָרֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רוֹמֵשׂ עַל־ **הָאָרֶץ** לְמִשְׁפְּחֹתֵיהֶם יָצְאוּ",
+        "transliteration": "romes al- **haAretz** leMishpachoteihem yatsau",
+        "englishLiteral": "creeping over- **the-land;** to-families-their, they-have-brought_out",
+        "englishNatural": "creeping over **the land;** to their families, they have brought-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 22
       },
       "wordIndex": 3,

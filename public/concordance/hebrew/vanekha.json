@@ -27,6 +27,31 @@
         "englishLiteral": "and-woman-your and-women-of- **sons-your** with-you.",
         "englishNatural": "and your woman and the women of **your sons** with you."
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בָנֶיךָ",
+        "transliteration": "vanekha",
+        "englishLiteral": "sons-your",
+        "englishNatural": "your sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבָנֶיךָ וּנְשֵׁי־ **בָנֶיךָ** אִתָּךְ",
+        "transliteration": "uVanekha uNeshey- **vanekha** itakh",
+        "englishLiteral": "and-sons-your and-women-of- **sons-your** with-you.",
+        "englishNatural": "and your sons and the women of **your sons** with you."
+      }
     }
   ]
 }

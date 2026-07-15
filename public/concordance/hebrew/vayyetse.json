@@ -6,6 +6,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 18
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיֵּצֵא",
+        "transliteration": "vayYetse",
+        "englishLiteral": "And-he-brought_out",
+        "englishNatural": "brought-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּצֵא** נֹחַ וּבָנָיו",
+        "transliteration": "**vayYetse** Noach uVanav",
+        "englishLiteral": "**And-he-brought_out** Rest (Noah); and-sons-his",
+        "englishNatural": "And Rest (Noah) **brought-out,** and his sons and his woman"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 14,
         "verse": 17
       },

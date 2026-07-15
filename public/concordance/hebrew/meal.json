@@ -205,6 +205,56 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "מֵעַל",
+        "transliteration": "meAl",
+        "englishLiteral": "from-over",
+        "englishNatural": "from over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "קַלּוּ הַמַּיִם **מֵעַל** הָאָרֶץ",
+        "transliteration": "qallu haMayim **meAl** haAretz",
+        "englishLiteral": "they-were-light the-waters **from-over** the-land.",
+        "englishNatural": "the waters were-light **from over** the land."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "מֵעַל",
+        "transliteration": "meAl",
+        "englishLiteral": "from-over",
+        "englishNatural": "from over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "חָרְבוּ הַמַּיִם **מֵעַל** הָאָרֶץ וַיָּסַר",
+        "transliteration": "charvu haMayim **meAl** haAretz vaYasar",
+        "englishLiteral": "they-have-dried the-waters, **from-over** the-land; And-he-will-remove",
+        "englishNatural": "the waters dried **from over** the land; And Rest (Noah)"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 5

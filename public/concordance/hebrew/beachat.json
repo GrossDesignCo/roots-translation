@@ -1,0 +1,32 @@
+{
+  "key": "beachat",
+  "language": "hebrew",
+  "root": "echad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בְּאַחַת",
+        "transliteration": "beAchat",
+        "englishLiteral": "in-one",
+        "englishNatural": "in one",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **בְּאַחַת** וְשֵׁשׁ־ מֵאוֹת",
+        "transliteration": "vaYehi **beAchat** veShesh- meot",
+        "englishLiteral": "And-it-was **in-one** and-six- hundreds",
+        "englishNatural": "And it was **in one** and six hundred"
+      }
+    }
+  ]
+}

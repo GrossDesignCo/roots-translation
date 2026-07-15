@@ -166,6 +166,141 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "צֵא",
+        "transliteration": "tse",
+        "englishLiteral": "Go_out",
+        "englishNatural": "Go-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**צֵא** מִן־ הַתֵּבָה",
+        "transliteration": "**tse** min- haTevah",
+        "englishLiteral": "**\"Go_out,** from- the-ark;",
+        "englishNatural": "**\"Go-out,** from the ark;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "הוצא",
+        "transliteration": "hotsa",
+        "englishLiteral": "Bring_out",
+        "englishNatural": "Bring-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **הוצא** הַיְצֵא אִתָּךְ",
+        "transliteration": "al- haAretz **hotsa** haYetze itakh",
+        "englishLiteral": "over- the-land **--Bring_out** bringing_out with-you;",
+        "englishNatural": "over the land, **Bring-out** bringing-out with you;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "הַיְצֵא",
+        "transliteration": "haYetze",
+        "englishLiteral": "bringing_out",
+        "englishNatural": "bringing-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ הוצא **הַיְצֵא** אִתָּךְ וְשָׁרְצוּ",
+        "transliteration": "haAretz hotsa **haYetze** itakh veShartzu",
+        "englishLiteral": "the-land --Bring_out **bringing_out** with-you; and-they-will-swarm",
+        "englishNatural": "the land, Bring-out **bringing-out** with you; and they will swarm"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 18
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיֵּצֵא",
+        "transliteration": "vayYetse",
+        "englishLiteral": "And-he-brought_out",
+        "englishNatural": "brought-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּצֵא** נֹחַ וּבָנָיו",
+        "transliteration": "**vayYetse** Noach uVanav",
+        "englishLiteral": "**And-he-brought_out** Rest (Noah); and-sons-his",
+        "englishNatural": "And Rest (Noah) **brought-out,** and his sons and his woman"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "יָצְאוּ",
+        "transliteration": "yatsau",
+        "englishLiteral": "they-have-brought_out",
+        "englishNatural": "they have brought-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ לְמִשְׁפְּחֹתֵיהֶם **יָצְאוּ** מִן־ הַתֵּבָה",
+        "transliteration": "haAretz leMishpachoteihem **yatsau** min- haTevah",
+        "englishLiteral": "the-land; to-families-their, **they-have-brought_out** from- the-ark,",
+        "englishNatural": "the land; to their families, **they have brought-out** from the ark,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 10
       },

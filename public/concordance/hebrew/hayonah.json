@@ -52,6 +52,81 @@
         "englishLiteral": "And-not she-found **the-dove** resting_place to-palm-of",
         "englishNatural": "**And the dove** found no"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הַיּוֹנָה",
+        "transliteration": "haYonah",
+        "englishLiteral": "the-dove",
+        "englishNatural": "the dove",
+        "root": "yonah_dove",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שַׁלַּח אֶת־ **הַיּוֹנָה** מִן־ הַתֵּבָה",
+        "transliteration": "shalach et- **haYonah** min- haTevah",
+        "englishLiteral": "sending_out-again ↳ **the-dove,** from- the-ark.",
+        "englishNatural": "sending-out again ↳ **the dove,** from the ark."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הַיּוֹנָה",
+        "transliteration": "haYonah",
+        "englishLiteral": "the-dove",
+        "englishNatural": "And the dove",
+        "root": "yonah_dove",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתָּבֹא אֵלָיו **הַיּוֹנָה** לְעֵת עֶרֶב",
+        "transliteration": "vaTavo elav **haYonah** leEt erev",
+        "englishLiteral": "And-she-will-come to-him **the-dove** to-time evening,",
+        "englishNatural": "**And the dove** came to him"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הַיּוֹנָה",
+        "transliteration": "haYonah",
+        "englishLiteral": "the-dove",
+        "englishNatural": "the dove",
+        "root": "yonah_dove",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְשַׁלַּח אֶת־ **הַיּוֹנָה** וְלֹא־ יָסְפָה",
+        "transliteration": "vaYeshalach et- **haYonah** veLo- yasfah",
+        "englishLiteral": "And-he-will-send_out-again ↳ **the-dove,** and-not- she-will-add",
+        "englishNatural": "And he again sent-out ↳ **the dove,** and she added not"
+      }
     }
   ]
 }

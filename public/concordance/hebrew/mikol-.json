@@ -152,6 +152,31 @@
         "englishLiteral": "male and-female **from-all-** flesh they-have-come,",
         "englishNatural": "male and female **from all** flesh they came,"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "מִכָּל־",
+        "transliteration": "mikol-",
+        "englishLiteral": "from-all-",
+        "englishNatural": "from all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ אִתְּךָ **מִכָּל־** בָּשָׂר בָּעוֹף",
+        "transliteration": "asher- itekha **mikol-** basar baOph",
+        "englishLiteral": "which- with-you **from-all-** flesh, in-flyer",
+        "englishNatural": "which is with you **from all** flesh, in flyer"
+      }
     }
   ]
 }

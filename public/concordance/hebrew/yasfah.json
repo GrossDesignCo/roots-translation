@@ -1,0 +1,34 @@
+{
+  "key": "yasfah",
+  "language": "hebrew",
+  "root": "yasaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יָסְפָה",
+        "transliteration": "yasfah",
+        "englishLiteral": "she-will-add",
+        "englishNatural": "and she added",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַיּוֹנָה וְלֹא־ **יָסְפָה** שׁוּב־ אֵלָיו",
+        "transliteration": "haYonah veLo- **yasfah** shuv- elav",
+        "englishLiteral": "the-dove, and-not- **she-will-add** returning to-him",
+        "englishNatural": "↳ the dove, **and she added** not returning"
+      }
+    }
+  ]
+}

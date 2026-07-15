@@ -1902,6 +1902,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֱלֹהִים",
+        "transliteration": "Elohim",
+        "englishLiteral": "Gods",
+        "englishNatural": "And God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְדַבֵּר **אֱלֹהִים** אֶל־ נֹחַ",
+        "transliteration": "vaYdabber **Elohim** el- Noach",
+        "englishLiteral": "And-he-will-speak **Gods** to- Rest (Noah),",
+        "englishNatural": "**And God** spoke to"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 1
       },

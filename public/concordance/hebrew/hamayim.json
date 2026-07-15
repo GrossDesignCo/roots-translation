@@ -455,6 +455,56 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "הַמַּיִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי קַלּוּ **הַמַּיִם** מֵעַל הָאָרֶץ",
+        "transliteration": "ki qallu **haMayim** meAl haAretz",
+        "englishLiteral": "that they-were-light **the-waters** from-over the-land.",
+        "englishNatural": "knew, that **the waters** were-light from over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הַמַּיִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַחֹדֶשׁ חָרְבוּ **הַמַּיִם** מֵעַל הָאָרֶץ",
+        "transliteration": "laChodesh charvu **haMayim** meAl haAretz",
+        "englishLiteral": "to-the-month, they-have-dried **the-waters,** from-over the-land;",
+        "englishNatural": "in one to the month, **the waters** dried from over"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 2,
         "verse": 10

@@ -1,0 +1,32 @@
+{
+  "key": "mikseh",
+  "language": "hebrew",
+  "root": "mikseh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "מִכְסֵה",
+        "transliteration": "mikseh",
+        "englishLiteral": "cover-of",
+        "englishNatural": "the cover of",
+        "root": "mikseh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ אֶת־ **מִכְסֵה** הַתֵּבָה וַיַּרְא",
+        "transliteration": "Noach et- **mikseh** haTevah vaYar",
+        "englishLiteral": "Rest (Noah), ↳ **cover-of** the-ark, And-saw,",
+        "englishNatural": "removed ↳ **the cover of** the ark, and looked,"
+      }
+    }
+  ]
+}

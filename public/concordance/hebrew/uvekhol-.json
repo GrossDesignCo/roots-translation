@@ -31,6 +31,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וּבְכָל־",
+        "transliteration": "uVekhol-",
+        "englishLiteral": "and-in-all-",
+        "englishNatural": "and in all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בָּעוֹף וּבַבְּהֵמָה **וּבְכָל־** הָרֶמֶשׂ הָרֹמֵשׂ",
+        "transliteration": "baOph uvaBehemah **uVekhol-** haRemes haRomes",
+        "englishLiteral": "in-flyer and-in-beast **and-in-all-** the-creeping_thing the-creeping",
+        "englishNatural": "in flyer and in beast **and in all** the creeping-thing the creeping"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 2
       },

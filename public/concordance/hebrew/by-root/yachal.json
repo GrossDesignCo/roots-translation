@@ -4,6 +4,87 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיָּחֶל",
+        "transliteration": "vaYachel",
+        "englishLiteral": "And-he-will-wait_patiently",
+        "englishNatural": "And he waited-patiently",
+        "root": "yachal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּחֶל** עוֹד שִׁבְעַת",
+        "transliteration": "**vaYachel** od shivat",
+        "englishLiteral": "**And-he-will-wait_patiently** again, seven-of",
+        "englishNatural": "**And he waited-patiently** again another"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיִּיָּחֶל",
+        "transliteration": "vaYiyachel",
+        "englishLiteral": "And-he-will-wait_patiently",
+        "englishNatural": "And he waited-patiently",
+        "root": "yachal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּיָּחֶל** עוֹד שִׁבְעַת",
+        "transliteration": "**vaYiyachel** od shivat",
+        "englishLiteral": "**And-he-will-wait_patiently** again, seven-of",
+        "englishNatural": "**And he waited-patiently** again another"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
+        "chapter": 130,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הוֹחָלְתִּי",
+        "transliteration": "hochalti",
+        "englishLiteral": "I-have-waited-patiently",
+        "englishNatural": "I have waited-patiently",
+        "root": "yachal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "נַפְשִׁי וְלִדְבָרוֹ **הוֹחָלְתִּי**",
+        "transliteration": "nafshi veLiDvaro **hochalti**",
+        "englishLiteral": "my-throat; and-to-word-his **I-have-waited-patiently.**",
+        "englishNatural": "has waited-in-tension; and to his word **I have waited-patiently.**"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 131,
         "verse": 3
@@ -13,8 +94,8 @@
       "word": {
         "originalScript": "יַחֵל",
         "transliteration": "yachel",
-        "englishLiteral": "Hope",
-        "englishNatural": "Hope",
+        "englishLiteral": "Wait_patiently",
+        "englishNatural": "Wait-patiently",
         "root": "yachal",
         "morphology": {
           "type": "verb",
@@ -25,8 +106,8 @@
       "context": {
         "hebrew": "**יַחֵל** יִשְׂרָאֵל אֶל־",
         "transliteration": "**yachel** Yisrael el-",
-        "englishLiteral": "**Hope,** Struggles_with_God (Israel) to-",
-        "englishNatural": "**Hope,** Struggles-with-God (Israel) to"
+        "englishLiteral": "**Wait_patiently,** Struggles_with_God (Israel) to-",
+        "englishNatural": "**Wait-patiently,** Struggles-with-God (Israel) to"
       }
     }
   ]

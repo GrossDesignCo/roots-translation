@@ -261,6 +261,60 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הָרֹמֵשׂ",
+        "transliteration": "haRomes",
+        "englishLiteral": "the-creeping",
+        "englishNatural": "the creeping",
+        "root": "ramas",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְכָל־ הָרֶמֶשׂ **הָרֹמֵשׂ** עַל־ הָאָרֶץ",
+        "transliteration": "uVekhol- haRemes **haRomes** al- haAretz",
+        "englishLiteral": "and-in-all- the-creeping_thing **the-creeping** over- the-land",
+        "englishNatural": "and in all the creeping-thing **the creeping** over the land,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "רוֹמֵשׂ",
+        "transliteration": "romes",
+        "englishLiteral": "creeping",
+        "englishNatural": "creeping",
+        "root": "ramas",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָעוֹף כֹּל **רוֹמֵשׂ** עַל־ הָאָרֶץ",
+        "transliteration": "haOph kol **romes** al- haAretz",
+        "englishLiteral": "the-flier, all **creeping** over- the-land;",
+        "englishNatural": "the flier, all **creeping** over the land;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 2
       },

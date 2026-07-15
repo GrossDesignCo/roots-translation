@@ -97,7 +97,7 @@ export const genesis_1_10: Verse = {
       transliteration: 'uLeMiQveh',
       englishLiteral: 'and-to-gathering',
       englishNatural: 'and to the gathering of',
-      root: 'qavah',
+      root: 'qavah_gather',
       prefixes: ['u', 'le', 'mi'],
       order: 5,
       morphology: {
@@ -250,6 +250,6 @@ export const genesis_1_10: Verse = {
     englishNatural:
       'And God called-out to the dry-ground, "Land," and to the gathering of the waters he called-out, "Seas." And God saw, that it was good.',
     kjv: 'And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-15' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-15' },
   },
 };

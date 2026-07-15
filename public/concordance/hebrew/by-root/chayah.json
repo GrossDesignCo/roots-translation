@@ -1044,6 +1044,56 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַחַיָּה",
+        "transliteration": "haChayah",
+        "englishLiteral": "the-living_being",
+        "englishNatural": "the living-being",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ **הַחַיָּה** אֲשֶׁר־ אִתְּךָ",
+        "transliteration": "kol- **haChayah** asher- itekha",
+        "englishLiteral": "all- **the-living_being** which- with-you",
+        "englishNatural": "all **the living-being** which is with you"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַחַיָּה",
+        "transliteration": "haChayah",
+        "englishLiteral": "the-living_being",
+        "englishNatural": "the living-being",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ **הַחַיָּה** כָּל־ הָרֶמֶשׂ",
+        "transliteration": "kol- **haChayah** kol- haRemes",
+        "englishLiteral": "all- **the-living_being,** all- the-creeping_thing",
+        "englishNatural": "all **the living-being,** all the creeping-thing"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 29,

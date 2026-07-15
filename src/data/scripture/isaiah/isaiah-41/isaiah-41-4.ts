@@ -212,8 +212,8 @@ export const isaiah_41_4: Verse = {
     englishLiteral:
       'who- he-has-worked and-he-has-made calling the-generations from-head; I He_Who_Is (YHWH) first, and-↳ last-ones I- he.',
     englishNatural:
-      'Who has worked and has made, calling the generations from the head; I am He-Who-Is (YHWH) the first, and the last ones I am he.',
+      'Who has worked and has made, calling the generations from the head; I am He-Who-Is (YHWH) the first, and the last ones, I am he.',
     kjv: 'Who hath wrought and done it? He that called the generations from the beginning. I, the LORD, who am the first, and with the last am the same.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-14' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-15' },
 },
 };

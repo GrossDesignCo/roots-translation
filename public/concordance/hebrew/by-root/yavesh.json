@@ -31,6 +31,33 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "יָבְשָׁה",
+        "transliteration": "yavsah",
+        "englishLiteral": "she-has-withered",
+        "englishNatural": "has withered",
+        "root": "yavesh",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹם לַחֹדֶשׁ **יָבְשָׁה** הָאָרֶץ",
+        "transliteration": "yom laChodesh **yavsah** haAretz",
+        "englishLiteral": "day to-the-month, **she-has-withered** the-land.",
+        "englishNatural": "to the month, the land **has withered.**"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 4,
         "verse": 7

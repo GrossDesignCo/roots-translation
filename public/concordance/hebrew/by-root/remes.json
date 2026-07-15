@@ -101,6 +101,56 @@
         "englishLiteral": "beast until- **creeping_thing** and-until- flyer",
         "englishNatural": "beast until **creeping-thing** and until flyer"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הָרֶמֶשׂ",
+        "transliteration": "haRemes",
+        "englishLiteral": "the-creeping_thing",
+        "englishNatural": "the creeping-thing",
+        "root": "remes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבַבְּהֵמָה וּבְכָל־ **הָרֶמֶשׂ** הָרֹמֵשׂ עַל־",
+        "transliteration": "uvaBehemah uVekhol- **haRemes** haRomes al-",
+        "englishLiteral": "and-in-beast and-in-all- **the-creeping_thing** the-creeping over-",
+        "englishNatural": "and in beast and in all **the creeping-thing** the creeping over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הָרֶמֶשׂ",
+        "transliteration": "haRemes",
+        "englishLiteral": "the-creeping_thing",
+        "englishNatural": "the creeping-thing",
+        "root": "remes",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַחַיָּה כָּל־ **הָרֶמֶשׂ** וְכָל־ הָעוֹף",
+        "transliteration": "haChayah kol- **haRemes** veKol- haOph",
+        "englishLiteral": "the-living_being, all- **the-creeping_thing** and-all- the-flier,",
+        "englishNatural": "the living-being, all **the creeping-thing** and all the flier,"
+      }
     }
   ]
 }

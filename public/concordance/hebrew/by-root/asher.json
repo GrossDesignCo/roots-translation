@@ -1228,6 +1228,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֲשֶׁר־",
+        "transliteration": "asher-",
+        "englishLiteral": "which-",
+        "englishNatural": "which is",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הַחַיָּה **אֲשֶׁר־** אִתְּךָ מִכָּל־",
+        "transliteration": "kol- haChayah **asher-** itekha mikol-",
+        "englishLiteral": "all- the-living_being **which-** with-you from-all-",
+        "englishNatural": "all the living-being **which is** with you from all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 30,

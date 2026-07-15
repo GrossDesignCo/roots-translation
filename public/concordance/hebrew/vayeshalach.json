@@ -59,6 +59,33 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וַיְשַׁלַּח",
+        "transliteration": "vaYeshalach",
+        "englishLiteral": "And-he-will-send_out-again",
+        "englishNatural": "And he again sent-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "יָמִים אֲחֵרִים **וַיְשַׁלַּח** אֶת־ הַיּוֹנָה",
+        "transliteration": "yamim acherim **vaYeshalach** et- haYonah",
+        "englishLiteral": "days others; **And-he-will-send_out-again** ↳ the-dove,",
+        "englishNatural": "seven days; **And he again sent-out** ↳ the dove,"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 6

@@ -56,6 +56,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֵלָיו",
+        "transliteration": "elav",
+        "englishLiteral": "to-him",
+        "englishNatural": "to him",
+        "root": "elav",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַתָּבֹא **אֵלָיו** הַיּוֹנָה לְעֵת",
+        "transliteration": "vaTavo **elav** haYonah leEt",
+        "englishLiteral": "And-she-will-come **to-him** the-dove to-time",
+        "englishNatural": "And the dove came **to him** to the time of evening,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "אֵלָיו",
+        "transliteration": "elav",
+        "englishLiteral": "to-him",
+        "englishNatural": "to him",
+        "root": "elav",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יָסְפָה שׁוּב־ **אֵלָיו** עוֹד",
+        "transliteration": "yasfah shuv- **elav** od",
+        "englishLiteral": "she-will-add returning **to-him** again.",
+        "englishNatural": "not returning **to him** again."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 4
       },

@@ -1,0 +1,32 @@
+{
+  "key": "leet",
+  "language": "hebrew",
+  "root": "et_time",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לְעֵת",
+        "transliteration": "leEt",
+        "englishLiteral": "to-time",
+        "englishNatural": "to the time of",
+        "root": "et_time",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלָיו הַיּוֹנָה **לְעֵת** עֶרֶב וְהִנֵּה",
+        "transliteration": "elav haYonah **leEt** erev veHineh",
+        "englishLiteral": "to-him the-dove **to-time** evening, And-behold",
+        "englishNatural": "came to him **to the time of** evening, And behold,"
+      }
+    }
+  ]
+}

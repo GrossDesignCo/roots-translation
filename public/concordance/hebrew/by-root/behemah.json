@@ -381,6 +381,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וּבַבְּהֵמָה",
+        "transliteration": "uvaBehemah",
+        "englishLiteral": "and-in-beast",
+        "englishNatural": "and in beast",
+        "root": "behemah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּשָׂר בָּעוֹף **וּבַבְּהֵמָה** וּבְכָל־ הָרֶמֶשׂ",
+        "transliteration": "basar baOph **uvaBehemah** uVekhol- haRemes",
+        "englishLiteral": "flesh, in-flyer **and-in-beast** and-in-all- the-creeping_thing",
+        "englishNatural": "flesh, in flyer **and in beast** and in all the creeping-thing"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 20
       },
       "wordIndex": 6,

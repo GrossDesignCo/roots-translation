@@ -532,6 +532,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 21,
+      "sourceOrder": 21,
+      "word": {
+        "originalScript": "הָאֲדָמָה",
+        "transliteration": "haAdamah",
+        "englishLiteral": "the-earth",
+        "englishNatural": "the earth",
+        "root": "adamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חָרְבוּ פְּנֵי **הָאֲדָמָה**",
+        "transliteration": "charvu peney **haAdamah**",
+        "englishLiteral": "they-have-dried faces-of **the-earth.**",
+        "englishNatural": "and behold, the face of **the earth** had dried."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 14,

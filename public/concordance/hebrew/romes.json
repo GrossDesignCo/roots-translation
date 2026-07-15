@@ -54,6 +54,33 @@
         "englishLiteral": "and-all which- **creeping** over- the-earth,",
         "englishNatural": "and all which **creeps** over the earth,"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "רוֹמֵשׂ",
+        "transliteration": "romes",
+        "englishLiteral": "creeping",
+        "englishNatural": "creeping",
+        "root": "ramas",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הָעוֹף כֹּל **רוֹמֵשׂ** עַל־ הָאָרֶץ",
+        "transliteration": "haOph kol **romes** al- haAretz",
+        "englishLiteral": "the-flier, all **creeping** over- the-land;",
+        "englishNatural": "the flier, all **creeping** over the land;"
+      }
     }
   ]
 }

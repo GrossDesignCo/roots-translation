@@ -426,6 +426,81 @@
         "englishLiteral": "in-month the-seventh, **in-seven-** ten day",
         "englishNatural": "in the month the seventh, **in seven** ten days"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שִׁבְעַת",
+        "transliteration": "shivat",
+        "englishLiteral": "seven-of",
+        "englishNatural": "seven",
+        "root": "sheva",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּחֶל עוֹד **שִׁבְעַת** יָמִים אֲחֵרִים",
+        "transliteration": "vaYachel od **shivat** yamim acherim",
+        "englishLiteral": "And-he-will-wait_patiently again, **seven-of** days others;",
+        "englishNatural": "again another **seven** days; And he added,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שִׁבְעַת",
+        "transliteration": "shivat",
+        "englishLiteral": "seven-of",
+        "englishNatural": "seven",
+        "root": "sheva",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּיָּחֶל עוֹד **שִׁבְעַת** יָמִים אֲחֵרִים",
+        "transliteration": "vaYiyachel od **shivat** yamim acherim",
+        "englishLiteral": "And-he-will-wait_patiently again, **seven-of** days others;",
+        "englishNatural": "again another **seven** days; And he again sent-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בְּשִׁבְעָה",
+        "transliteration": "beShivah",
+        "englishLiteral": "in-seven",
+        "englishNatural": "in seven",
+        "root": "sheva",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וּבַחֹדֶשׁ הַשֵּׁנִי **בְּשִׁבְעָה** וְעֶשְׂרִים יוֹם",
+        "transliteration": "uVaChodesh haSheni **beShivah** veEsrim yom",
+        "englishLiteral": "And-in-month the-second, **in-seven** and-twenty day",
+        "englishNatural": "And in the month the second, **in seven** and twenty days"
+      }
     }
   ]
 }

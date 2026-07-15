@@ -1,0 +1,32 @@
+{
+  "key": "lemishpachoteihem",
+  "language": "hebrew",
+  "root": "mishpachah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "לְמִשְׁפְּחֹתֵיהֶם",
+        "transliteration": "leMishpachoteihem",
+        "englishLiteral": "to-families-their",
+        "englishNatural": "to their families",
+        "root": "mishpachah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **לְמִשְׁפְּחֹתֵיהֶם** יָצְאוּ מִן־",
+        "transliteration": "al- haAretz **leMishpachoteihem** yatsau min-",
+        "englishLiteral": "over- the-land; **to-families-their,** they-have-brought_out from-",
+        "englishNatural": "over the land; **to their families,** they have brought-out from"
+      }
+    }
+  ]
+}

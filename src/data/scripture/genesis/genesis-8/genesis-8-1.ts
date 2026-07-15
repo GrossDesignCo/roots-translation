@@ -343,8 +343,8 @@ export const genesis_8_1: Verse = {
     englishLiteral:
       'And-he-will-remember Gods ↳ Rest (Noah) and-↳ all- the-living_being and-↳ all- the-beast which with-him in-the-ark; and-he-will-cause-to-pass_through Gods wind over- the-land; and-they-will-subside the-waters.',
     englishNatural:
-      'And God remembered Rest (Noah) and all the living-being and all the beast which was with him in the ark; and God caused to pass-through a wind over the land; and the waters subsided.',
+      'And God remembered Rest (Noah), and all the living-being, and all the beast which was with him in the ark; and God caused to pass-through a wind over the land; and the waters subsided.',
     kjv: 'And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters assuaged.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-15' },
 },
 };

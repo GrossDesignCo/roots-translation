@@ -1,0 +1,34 @@
+{
+  "key": "vayasar",
+  "language": "hebrew",
+  "root": "sar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "וַיָּסַר",
+        "transliteration": "vaYasar",
+        "englishLiteral": "And-he-will-remove",
+        "englishNatural": "removed",
+        "root": "sar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעַל הָאָרֶץ **וַיָּסַר** נֹחַ אֶת־",
+        "transliteration": "meAl haAretz **vaYasar** Noach et-",
+        "englishLiteral": "from-over the-land; **And-he-will-remove** Rest (Noah), ↳",
+        "englishNatural": "the land; And Rest (Noah) **removed** ↳ the cover of"
+      }
+    }
+  ]
+}

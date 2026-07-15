@@ -30,6 +30,36 @@ veLo matsaah haYonah manoach leKhaf-raglah vaTashav elav el-haTevah ki mayim al-
 
 vaYishlach yado vaYiqacheha vaYave otah elav el-haTevah
 
+vaYachel od shivat yamim acherim
+vaYosef shalach et-haYonah min-haTevah
+
+vaTavo elav haYonah leEt erev veHineh aleh-zayit taraf beFihah
+
+vaYeda Noach ki qallu haMayim meAl haAretz
+
+vaYiyachel od shivat yamim acherim
+vaYeshalach et-haYonah veLo-yasfah shuv-elav od
+
+vaYehi beAchat veShesh-meot shanah baRishon beEchad laChodesh charvu haMayim meAl haAretz
+vaYasar Noach et-mikseh haTevah vaYar veHineh charvu
+peney haAdamah 
+uVaChodesh haSheni beShivah veEsrim yom laChodesh yavsah haAretz
+
+vaYdabber Elohim el-Noach leEmor 
+tse min-haTevah
+atah veIshtekha uVanekha uNeshey-vanekha itakh
+
+kol-haChayah asher-itekha mikol-basar baOph uvaBehemah uVekhol-haRemes haRomes al-haAretz
+hotsa haYetze itakh
+veShartzu baAretz uParu veRavu al-haAretz
+
+vayYetse Noach
+uVanav veIshto uNeshey-vanav itto
+
+kol-haChayah kol-haRemes veKol-haOph
+kol romes al-haAretz
+leMishpachoteihem yatsau min-haTevah
+
 vayYiven Noach mizbeach laYHWH
 vayYiqach miKol haBehemah haTehorah
 uMikol haOf haTahor

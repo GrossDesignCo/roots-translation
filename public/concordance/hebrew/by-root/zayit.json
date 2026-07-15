@@ -1,0 +1,31 @@
+{
+  "root": "zayit",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "זַיִת",
+        "transliteration": "zayit",
+        "englishLiteral": "olive",
+        "englishNatural": "olive",
+        "root": "zayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִנֵּה עֲלֵה־ **זַיִת** טָרָף בְּפִיהָ",
+        "transliteration": "veHineh aleh- **zayit** taraf beFihah",
+        "englishLiteral": "And-behold leaf-of- **olive** plucked in-her-mouth;",
+        "englishNatural": "And behold, a leaf of **olive** plucked in her mouth;"
+      }
+    }
+  ]
+}

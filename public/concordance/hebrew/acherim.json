@@ -5,6 +5,56 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֲחֵרִים",
+        "transliteration": "acherim",
+        "englishLiteral": "others",
+        "englishNatural": "another",
+        "root": "acher",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁבְעַת יָמִים **אֲחֵרִים** וַיֹּסֶף שַׁלַּח",
+        "transliteration": "shivat yamim **acherim** vaYosef shalach",
+        "englishLiteral": "seven-of days **others;** And-he-will-add, sending_out-again",
+        "englishNatural": "And he waited-patiently again **another** seven days;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֲחֵרִים",
+        "transliteration": "acherim",
+        "englishLiteral": "others",
+        "englishNatural": "another",
+        "root": "acher",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁבְעַת יָמִים **אֲחֵרִים** וַיְשַׁלַּח אֶת־",
+        "transliteration": "shivat yamim **acherim** vaYeshalach et-",
+        "englishLiteral": "seven-of days **others;** And-he-will-send_out-again ↳",
+        "englishNatural": "And he waited-patiently again **another** seven days;"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 20,
         "verse": 3

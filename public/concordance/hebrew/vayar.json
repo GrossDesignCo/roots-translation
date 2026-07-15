@@ -194,6 +194,33 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "וַיַּרְא",
+        "transliteration": "vaYar",
+        "englishLiteral": "And-saw",
+        "englishNatural": "and looked",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִכְסֵה הַתֵּבָה **וַיַּרְא** וְהִנֵּה חָרְבוּ",
+        "transliteration": "mikseh haTevah **vaYar** veHineh charvu",
+        "englishLiteral": "cover-of the-ark, **And-saw,** and-behold they-have-dried",
+        "englishNatural": "the cover of the ark, **and looked,** and behold, the face of"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 2

@@ -4,6 +4,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בָּרִאשׁוֹן",
+        "transliteration": "baRishon",
+        "englishLiteral": "in-the-first",
+        "englishNatural": "in the first",
+        "root": "rishon",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאוֹת שָׁנָה **בָּרִאשׁוֹן** בְּאֶחָד לַחֹדֶשׁ",
+        "transliteration": "meot shanah **baRishon** beEchad laChodesh",
+        "englishLiteral": "hundreds year, **in-the-first,** in-one to-the-month,",
+        "englishNatural": "hundred years, **in the first,** in one to the month,"
+      }
+    },
+    {
+      "location": {
         "book": "Isaiah",
         "chapter": 41,
         "verse": 4

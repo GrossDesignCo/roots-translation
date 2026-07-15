@@ -1922,6 +1922,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְהִי",
+        "transliteration": "vaYehi",
+        "englishLiteral": "And-it-was",
+        "englishNatural": "And it was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְהִי** בְּאַחַת וְשֵׁשׁ־",
+        "transliteration": "**vaYehi** beAchat veShesh-",
+        "englishLiteral": "**And-it-was** in-one and-six-",
+        "englishNatural": "**And it was** in one and six"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 2
       },

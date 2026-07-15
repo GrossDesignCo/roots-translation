@@ -3340,6 +3340,31 @@
     {
       "location": {
         "book": "Psalms",
+        "chapter": 130,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קִוִּיתִי **יְהוָה** קִוְּתָה נַפְשִׁי",
+        "transliteration": "qivviti **YHWH** qivvetah nafshi",
+        "englishLiteral": "I-have-waited-in_tension **He_Who_Is (YHWH),** she-has-waited-in_tension my-throat;",
+        "englishNatural": "I have waited-in-tension **He-Who-Is (YHWH);** my soul has waited-in-tension;"
+      }
+    },
+    {
+      "location": {
+        "book": "Psalms",
         "chapter": 131,
         "verse": 1
       },

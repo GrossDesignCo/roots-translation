@@ -1,0 +1,34 @@
+{
+  "key": "hayetze",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "הַיְצֵא",
+        "transliteration": "haYetze",
+        "englishLiteral": "bringing_out",
+        "englishNatural": "bringing-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ הוצא **הַיְצֵא** אִתָּךְ וְשָׁרְצוּ",
+        "transliteration": "haAretz hotsa **haYetze** itakh veShartzu",
+        "englishLiteral": "the-land --Bring_out **bringing_out** with-you; and-they-will-swarm",
+        "englishNatural": "the land, Bring-out **bringing-out** with you; and they will swarm"
+      }
+    }
+  ]
+}

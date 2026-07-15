@@ -27,6 +27,31 @@
         "englishLiteral": "the-skies, and-the-land, **and-all-** their-host.",
         "englishNatural": "the skies, and the land, **and all** their host."
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְכָל־",
+        "transliteration": "veKol-",
+        "englishLiteral": "and-all-",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הָרֶמֶשׂ **וְכָל־** הָעוֹף כֹּל",
+        "transliteration": "kol- haRemes **veKol-** haOph kol",
+        "englishLiteral": "all- the-creeping_thing **and-all-** the-flier, all",
+        "englishNatural": "all the creeping-thing **and all** the flier, all"
+      }
     }
   ]
 }

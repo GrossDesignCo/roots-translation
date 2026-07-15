@@ -1217,6 +1217,33 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 15
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לֵאמֹר",
+        "transliteration": "leEmor",
+        "englishLiteral": "to-say",
+        "englishNatural": "saying",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ נֹחַ **לֵאמֹר**",
+        "transliteration": "el- Noach **leEmor**",
+        "englishLiteral": "to- Rest (Noah), **to-say,**",
+        "englishNatural": "to Rest (Noah), **saying,**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 5,

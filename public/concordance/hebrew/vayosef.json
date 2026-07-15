@@ -1,0 +1,34 @@
+{
+  "key": "vayosef",
+  "language": "hebrew",
+  "root": "yasaf",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וַיֹּסֶף",
+        "transliteration": "vaYosef",
+        "englishLiteral": "And-he-will-add",
+        "englishNatural": "And he added",
+        "root": "yasaf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יָמִים אֲחֵרִים **וַיֹּסֶף** שַׁלַּח אֶת־",
+        "transliteration": "yamim acherim **vaYosef** shalach et-",
+        "englishLiteral": "days others; **And-he-will-add,** sending_out-again ↳",
+        "englishNatural": "seven days; **And he added,** sending-out again ↳"
+      }
+    }
+  ]
+}

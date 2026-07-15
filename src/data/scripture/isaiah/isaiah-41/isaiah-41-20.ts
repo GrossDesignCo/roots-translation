@@ -239,10 +239,10 @@ export const isaiah_41_20: Verse = {
     transliteration:
       'leMaan yirau veYedu veYasimu veYaskilu yachdav ki yad-YHWH asatah zot uQedosh Yisrael berah',
     englishLiteral:
-      'to-sake they-will-see and-they-will-know, and-they-will-place and-they-will-understand together that hand- He_Who_Is (YHWH), she-has-made this; and-holy Struggles_with_God (Israel), she-has-created-her.',
+      'to-sake they-will-see and-they-will-know, and-they-will-place and-they-will-understand together, that hand- He_Who_Is (YHWH), she-has-made this; and-holy Struggles_with_God (Israel), she-has-created-her.',
     englishNatural:
-      'for the sake of they will see and they will know, and they will place and they will understand together that the hand of He-Who-Is (YHWH), has made this; and the Holy-One of Struggles-with-God (Israel), has created her.',
+      'for the sake of they will see and they will know, and they will place and they will understand together, that the hand of He-Who-Is (YHWH), has made this; and the Holy-One of Struggles-with-God (Israel), has created her.',
     kjv: 'That they may see, and know, and consider, and understand together, that the hand of the LORD hath done this, and the Holy One of Israel hath created it.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-14' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-15' },
 },
 };

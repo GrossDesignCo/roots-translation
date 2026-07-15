@@ -612,6 +612,16 @@ const ROOTS = {
     englishNatural: 'to turn-aside',
     description: 'to turn aside, to turn away, to turn from, to remove',
     type: 'verb',
+    related: ['sar'],
+  },
+  sar: {
+    hebrew: 'סר',
+    transliteration: 'sar',
+    englishLiteral: 'to remove',
+    englishNatural: 'to remove',
+    type: 'verb',
+    description: 'to remove, take away, strip off',
+    related: ['sur'],
   },
   ad: {
     hebrew: 'עד',
@@ -1046,12 +1056,25 @@ const ROOTS = {
     type: 'verb',
     related: ['raqia'],
   },
-  qavah: {
+  qavah_gather: {
     hebrew: 'קוה',
     transliteration: 'qavah',
     englishLiteral: 'to gather',
     englishNatural: 'to gather',
     type: 'verb',
+    description:
+      'to collect, bind together; niphal: to be gathered (as waters under heaven); homograph distinct from qavah (to wait in tension)',
+    related: ['qavah'],
+  },
+  qavah: {
+    hebrew: 'קוה',
+    transliteration: 'qavah',
+    englishLiteral: 'to wait_in_tension',
+    englishNatural: 'to wait-in-tension',
+    type: 'verb',
+    description:
+      'to wait, hope, expect with strained anticipation; piel: to wait for; root sense of twisting or stretching taut like a cord; frequently paired with yachal; homograph distinct from qavah_gather (to collect)',
+    related: ['qavah_gather', 'yachal'],
   },
   qahal: {
     hebrew: 'קהל',
@@ -2372,6 +2395,25 @@ const ROOTS = {
     englishNatural: 'leaf',
     description: 'leaf, foliage',
     type: 'noun',
+    related: ['zayit'],
+  },
+  zayit: {
+    hebrew: 'זית',
+    transliteration: 'zayit',
+    englishLiteral: 'olive',
+    englishNatural: 'olive',
+    description: 'olive, olive tree, olive branch',
+    type: 'noun',
+    related: ['aleh'],
+  },
+  taraf: {
+    hebrew: 'טרף',
+    transliteration: 'taraf',
+    englishLiteral: 'to pluck',
+    englishNatural: 'to pluck',
+    description:
+      'to tear, pluck off, rend (qal; passive participle means plucked/torn off)',
+    type: 'verb',
   },
   teenah: {
     hebrew: 'תאנה',
@@ -3239,10 +3281,12 @@ const ROOTS = {
   yachal: {
     hebrew: 'יָחַל',
     transliteration: 'yachal',
-    englishLiteral: 'to hope',
-    englishNatural: 'to hope',
+    englishLiteral: 'to wait_patiently',
+    englishNatural: 'to wait-patiently',
     type: 'verb',
-    description: 'to wait, hope, expect, trust',
+    description:
+      'to wait, hope, expect with patient endurance; piel/hiphil: to wait for, hope in; niphal: passive waiting; relational waiting directed at a person, usually God; distinct from qavah (strained tension)',
+    related: ['qavah'],
   },
   harah: {
     hebrew: 'הָרָה',
@@ -5210,6 +5254,17 @@ const ROOTS = {
     englishNatural: 'to cover',
     type: 'verb',
     description: 'to cover, conceal, hide, clothe',
+    related: ['mikseh'],
+  },
+  mikseh: {
+    hebrew: 'מכסה',
+    transliteration: 'mikseh',
+    englishLiteral: 'cover',
+    englishNatural: 'cover',
+    type: 'noun',
+    description:
+      'covering, that which covers; especially the ark roof-cover; from kasah (to cover)',
+    related: ['kasah', 'kofer'],
   },
   efer: {
     hebrew: 'אפר',
@@ -8784,6 +8839,16 @@ const ROOTS = {
       'living substance, existence, that which stands/exists; from qum (to stand up)',
     related: ['qum'],
   },
+  charav: {
+    hebrew: 'חרב',
+    transliteration: 'charav',
+    englishLiteral: 'to dry',
+    englishNatural: 'to dry',
+    type: 'verb',
+    description:
+      'to be dry, dry up, become desolate; qal. Distinct from yavesh (to wither).',
+    related: ['charavah', 'yavesh'],
+  },
   charavah: {
     hebrew: 'חָרָבָה',
     transliteration: 'charavah',
@@ -8792,7 +8857,7 @@ const ROOTS = {
     type: 'noun',
     description:
       'dry land, parched ground; from charav (to be dry/desolate). Distinct from yabashah which emphasizes dry-ground contrasted with sea.',
-    related: ['eretz', 'yabashah'],
+    related: ['charav', 'eretz', 'yabashah'],
   },
   // Isaiah 30:15 additions
   qadosh: {

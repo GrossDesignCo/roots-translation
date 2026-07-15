@@ -806,6 +806,81 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הָרֶמֶשׂ הָרֹמֵשׂ **עַל־** הָאָרֶץ הוצא",
+        "transliteration": "haRemes haRomes **al-** haAretz hotsa",
+        "englishLiteral": "the-creeping_thing the-creeping **over-** the-land --Bring_out",
+        "englishNatural": "the creeping-thing the creeping **over** the land, Bring-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 20,
+      "sourceOrder": 20,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וּפָרוּ וְרָבוּ **עַל־** הָאָרֶץ",
+        "transliteration": "uParu veRavu **al-** haAretz",
+        "englishLiteral": "and-they-have-been_fruitful and-they-have-multiplied **over-** the-land.\"",
+        "englishNatural": "and they will be fruitful and they will multiply **over** the land.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כֹּל רוֹמֵשׂ **עַל־** הָאָרֶץ לְמִשְׁפְּחֹתֵיהֶם",
+        "transliteration": "kol romes **al-** haAretz leMishpachoteihem",
+        "englishLiteral": "all creeping **over-** the-land; to-families-their,",
+        "englishNatural": "all creeping **over** the land; to their families,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 9
       },

@@ -237,6 +237,31 @@
     },
     {
       "location": {
+        "book": "Psalms",
+        "chapter": 130,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְלִדְבָרוֹ",
+        "transliteration": "veLiDvaro",
+        "englishLiteral": "and-to-word-his",
+        "englishNatural": "and to his word",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קִוְּתָה נַפְשִׁי **וְלִדְבָרוֹ** הוֹחָלְתִּי",
+        "transliteration": "qivvetah nafshi **veLiDvaro** hochalti",
+        "englishLiteral": "she-has-waited-in_tension my-throat; **and-to-word-his** I-have-waited-patiently.",
+        "englishNatural": "my soul has waited-in-tension; **and to his word** I have waited-patiently."
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 1,
         "verse": 6

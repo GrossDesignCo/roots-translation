@@ -139,6 +139,60 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שַׁלַּח",
+        "transliteration": "shalach",
+        "englishLiteral": "sending_out-again",
+        "englishNatural": "sending-out again",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֲחֵרִים וַיֹּסֶף **שַׁלַּח** אֶת־ הַיּוֹנָה",
+        "transliteration": "acherim vaYosef **shalach** et- haYonah",
+        "englishLiteral": "others; And-he-will-add, **sending_out-again** ↳ the-dove,",
+        "englishNatural": "days; And he added, **sending-out again** ↳ the dove,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וַיְשַׁלַּח",
+        "transliteration": "vaYeshalach",
+        "englishLiteral": "And-he-will-send_out-again",
+        "englishNatural": "And he again sent-out",
+        "root": "shalach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "יָמִים אֲחֵרִים **וַיְשַׁלַּח** אֶת־ הַיּוֹנָה",
+        "transliteration": "yamim acherim **vaYeshalach** et- haYonah",
+        "englishLiteral": "days others; **And-he-will-send_out-again** ↳ the-dove,",
+        "englishNatural": "seven days; **And he again sent-out** ↳ the dove,"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 5

@@ -1,0 +1,32 @@
+{
+  "key": "befihah",
+  "language": "hebrew",
+  "root": "peh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בְּפִיהָ",
+        "transliteration": "beFihah",
+        "englishLiteral": "in-her-mouth",
+        "englishNatural": "in her mouth",
+        "root": "peh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זַיִת טָרָף **בְּפִיהָ** וַיֵּדַע נֹחַ",
+        "transliteration": "zayit taraf **beFihah** vaYeda Noach",
+        "englishLiteral": "olive plucked **in-her-mouth;** And-he-knew Rest (Noah),",
+        "englishNatural": "olive plucked **in her mouth;** And Rest (Noah) knew,"
+      }
+    }
+  ]
+}

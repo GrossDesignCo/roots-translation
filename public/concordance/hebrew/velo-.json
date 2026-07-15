@@ -7,6 +7,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וְלֹא־",
+        "transliteration": "veLo-",
+        "englishLiteral": "and-not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַיּוֹנָה **וְלֹא־** יָסְפָה שׁוּב־",
+        "transliteration": "et- haYonah **veLo-** yasfah shuv-",
+        "englishLiteral": "↳ the-dove, **and-not-** she-will-add returning",
+        "englishNatural": "the dove, and she added **not** returning to him"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 23,

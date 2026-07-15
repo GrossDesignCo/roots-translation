@@ -27,6 +27,31 @@
         "englishLiteral": "the-ark, you **and-sons-your** and-woman-your and-women-of-",
         "englishNatural": "the ark, you **and your sons** and your woman and the women of"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וּבָנֶיךָ",
+        "transliteration": "uVanekha",
+        "englishLiteral": "and-sons-your",
+        "englishNatural": "and your sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַתָּה וְאִשְׁתְּךָ **וּבָנֶיךָ** וּנְשֵׁי־ בָנֶיךָ",
+        "transliteration": "atah veIshtekha **uVanekha** uNeshey- vanekha",
+        "englishLiteral": "you, and-woman-your **and-sons-your** and-women-of- sons-your",
+        "englishNatural": "you, and your woman **and your sons** and the women of your sons"
+      }
     }
   ]
 }

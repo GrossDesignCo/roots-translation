@@ -630,6 +630,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 20,
+      "sourceOrder": 20,
+      "word": {
+        "originalScript": "פְּנֵי",
+        "transliteration": "peney",
+        "englishLiteral": "faces-of",
+        "englishNatural": "the face of",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִנֵּה חָרְבוּ **פְּנֵי** הָאֲדָמָה",
+        "transliteration": "veHineh charvu **peney** haAdamah",
+        "englishLiteral": "and-behold they-have-dried **faces-of** the-earth.",
+        "englishNatural": "and looked, and behold, **the face of** the earth had dried."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 9
       },

@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "צֵא",
+        "transliteration": "tse",
+        "englishLiteral": "Go_out",
+        "englishNatural": "Go-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**צֵא** מִן־ הַתֵּבָה",
+        "transliteration": "**tse** min- haTevah",
+        "englishLiteral": "**\"Go_out,** from- the-ark;",
+        "englishNatural": "**\"Go-out,** from the ark;"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 11,
         "verse": 8

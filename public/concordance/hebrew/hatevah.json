@@ -406,6 +406,106 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הַתֵּבָה",
+        "transliteration": "haTevah",
+        "englishLiteral": "the-ark",
+        "englishNatural": "the ark",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיּוֹנָה מִן־ **הַתֵּבָה**",
+        "transliteration": "haYonah min- **haTevah**",
+        "englishLiteral": "the-dove, from- **the-ark.**",
+        "englishNatural": "the dove, from **the ark.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "הַתֵּבָה",
+        "transliteration": "haTevah",
+        "englishLiteral": "the-ark",
+        "englishNatural": "the ark",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ מִכְסֵה **הַתֵּבָה** וַיַּרְא וְהִנֵּה",
+        "transliteration": "et- mikseh **haTevah** vaYar veHineh",
+        "englishLiteral": "↳ cover-of **the-ark,** And-saw, and-behold",
+        "englishNatural": "↳ the cover of **the ark,** and looked, and behold,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הַתֵּבָה",
+        "transliteration": "haTevah",
+        "englishLiteral": "the-ark",
+        "englishNatural": "the ark",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צֵא מִן־ **הַתֵּבָה** אַתָּה וְאִשְׁתְּךָ",
+        "transliteration": "tse min- **haTevah** atah veIshtekha",
+        "englishLiteral": "\"Go_out, from- **the-ark;** you, and-woman-your",
+        "englishNatural": "\"Go-out, from **the ark;** you, and your woman"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "הַתֵּבָה",
+        "transliteration": "haTevah",
+        "englishLiteral": "the-ark",
+        "englishNatural": "the ark",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָצְאוּ מִן־ **הַתֵּבָה**",
+        "transliteration": "yatsau min- **haTevah**",
+        "englishLiteral": "they-have-brought_out from- **the-ark,**",
+        "englishNatural": "they have brought-out from **the ark,**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 10
       },

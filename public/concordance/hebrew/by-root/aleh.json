@@ -29,6 +29,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "עֲלֵה־",
+        "transliteration": "aleh-",
+        "englishLiteral": "leaf-of-",
+        "englishNatural": "a leaf of",
+        "root": "aleh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֶרֶב וְהִנֵּה **עֲלֵה־** זַיִת טָרָף",
+        "transliteration": "erev veHineh **aleh-** zayit taraf",
+        "englishLiteral": "evening, And-behold **leaf-of-** olive plucked",
+        "englishNatural": "evening, And behold, **a leaf of** olive plucked"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 3

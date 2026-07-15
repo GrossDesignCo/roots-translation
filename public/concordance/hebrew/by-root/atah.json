@@ -280,6 +280,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 16
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אַתָּה",
+        "transliteration": "atah",
+        "englishLiteral": "you",
+        "englishNatural": "you",
+        "root": "atah",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הַתֵּבָה **אַתָּה** וְאִשְׁתְּךָ וּבָנֶיךָ",
+        "transliteration": "min- haTevah **atah** veIshtekha uVanekha",
+        "englishLiteral": "from- the-ark; **you,** and-woman-your and-sons-your",
+        "englishNatural": "from the ark; **you,** and your woman and your sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 15
       },

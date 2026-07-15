@@ -57,6 +57,81 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "עוֹד",
+        "transliteration": "od",
+        "englishLiteral": "again",
+        "englishNatural": "again",
+        "root": "od",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּחֶל **עוֹד** שִׁבְעַת יָמִים",
+        "transliteration": "vaYachel **od** shivat yamim",
+        "englishLiteral": "And-he-will-wait_patiently **again,** seven-of days",
+        "englishNatural": "And he waited-patiently **again** another seven"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "עוֹד",
+        "transliteration": "od",
+        "englishLiteral": "again",
+        "englishNatural": "again",
+        "root": "od",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּיָּחֶל **עוֹד** שִׁבְעַת יָמִים",
+        "transliteration": "vaYiyachel **od** shivat yamim",
+        "englishLiteral": "And-he-will-wait_patiently **again,** seven-of days",
+        "englishNatural": "And he waited-patiently **again** another seven"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "עוֹד",
+        "transliteration": "od",
+        "englishLiteral": "again",
+        "englishNatural": "again",
+        "root": "od",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "שׁוּב־ אֵלָיו **עוֹד**",
+        "transliteration": "shuv- elav **od**",
+        "englishLiteral": "returning to-him **again.**",
+        "englishNatural": "returning to him **again.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 21
       },
       "wordIndex": 12,

@@ -152,6 +152,31 @@
         "englishLiteral": "very. And-was **evening,** And-was morning,",
         "englishNatural": "very good. **And evening** was, And morning"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "עֶרֶב",
+        "transliteration": "erev",
+        "englishLiteral": "evening",
+        "englishNatural": "evening",
+        "root": "erev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיּוֹנָה לְעֵת **עֶרֶב** וְהִנֵּה עֲלֵה־",
+        "transliteration": "haYonah leEt **erev** veHineh aleh-",
+        "englishLiteral": "the-dove to-time **evening,** And-behold leaf-of-",
+        "englishNatural": "to him to the time of **evening,** And behold, a leaf of"
+      }
     }
   ]
 }

@@ -27,6 +27,31 @@
         "englishLiteral": "And-he-came Rest (Noah), **and-sons-his** and-woman-his and-women-of-",
         "englishNatural": "And Rest (Noah) came, **and his sons** and his woman and the women of"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 18
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וּבָנָיו",
+        "transliteration": "uVanav",
+        "englishLiteral": "and-sons-his",
+        "englishNatural": "and his sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּצֵא נֹחַ **וּבָנָיו** וְאִשְׁתּוֹ וּנְשֵׁי־",
+        "transliteration": "vayYetse Noach **uVanav** veIshto uNeshey-",
+        "englishLiteral": "And-he-brought_out Rest (Noah); **and-sons-his** and-woman-his and-women-of-",
+        "englishNatural": "And Rest (Noah) brought-out, **and his sons** and his woman and the women of"
+      }
     }
   ]
 }

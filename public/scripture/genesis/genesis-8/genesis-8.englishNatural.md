@@ -31,6 +31,42 @@ And the dove found no resting-place to the palm of her foot,
 and she returned to him to the ark, that waters were over the face of all the land;
 and he sent his hand and took her and brought her to him to the ark.
 
+And he waited-patiently again another seven days;
+And he added, sending-out again the dove, from the ark.
+
+And the dove came to him to the time of evening, 
+And behold, a leaf of olive plucked in her mouth;
+
+And Rest (Noah) knew, that the waters were-light from over the land.
+
+And he waited-patiently again another seven days;
+And he again sent-out the dove, 
+and she added not returning to him again.
+
+And it was in one and six hundred years, in the first, in one to the month, 
+the waters dried from over the land;
+
+And Rest (Noah) removed the cover of the ark, and looked, 
+and behold, the face of the earth had dried.
+
+And in the month the second, in seven and twenty days to the month, 
+the land has withered.
+
+And God spoke to Rest (Noah), saying, 
+"Go-out, from the ark;
+you, and your woman and your sons and the women of your sons with you.
+
+all the living-being which is with you from all flesh, in flyer and in beast and in all the creeping-thing the creeping over the land,
+Bring-out bringing-out with you;
+and they will swarm in the land, and they will be fruitful and they will multiply over the land."
+
+And Rest (Noah) brought-out,
+and his sons and his woman and the women of his sons, with him.
+
+all the living-being, all the creeping-thing and all the flier,
+all creeping over the land;
+to their families, they have brought-out from the ark,
+
 And Rest (Noah) built an altar to He-Who-Is (YHWH);
 and took from all the beast the clean
 and from all the flyer the clean,

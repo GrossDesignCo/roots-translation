@@ -2,17 +2,20 @@
   "key": "qavah",
   "hebrew": "קוה",
   "transliteration": "qavah",
-  "englishLiteral": "to gather",
-  "englishNatural": "to gather",
+  "englishLiteral": "to wait_in_tension",
+  "englishNatural": "to wait-in-tension",
   "type": "verb",
+  "description": "to wait, hope, expect with strained anticipation; piel: to wait for; root sense of twisting or stretching taut like a cord; frequently paired with yachal; homograph distinct from qavah_gather (to collect)",
+  "related": [
+    "qavah_gather",
+    "yachal"
+  ],
   "wordIndexes": {
-    "genesis": {
-      "1": {
-        "9": [
+    "psalms": {
+      "130": {
+        "5": [
+          0,
           2
-        ],
-        "10": [
-          4
         ]
       }
     }

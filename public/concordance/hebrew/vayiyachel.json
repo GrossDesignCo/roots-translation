@@ -1,0 +1,34 @@
+{
+  "key": "vayiyachel",
+  "language": "hebrew",
+  "root": "yachal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיִּיָּחֶל",
+        "transliteration": "vaYiyachel",
+        "englishLiteral": "And-he-will-wait_patiently",
+        "englishNatural": "And he waited-patiently",
+        "root": "yachal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּיָּחֶל** עוֹד שִׁבְעַת",
+        "transliteration": "**vaYiyachel** od shivat",
+        "englishLiteral": "**And-he-will-wait_patiently** again, seven-of",
+        "englishNatural": "**And he waited-patiently** again another"
+      }
+    }
+  ]
+}

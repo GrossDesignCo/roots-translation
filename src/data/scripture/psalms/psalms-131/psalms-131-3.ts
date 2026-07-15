@@ -10,8 +10,8 @@ export const psalms_131_3: Verse = {
     {
       hebrew: 'יַחֵל',
       transliteration: 'yachel',
-      englishLiteral: 'Hope',
-      englishNatural: 'Hope',
+      englishLiteral: 'Wait_patiently',
+      englishNatural: 'Wait-patiently',
       root: 'yachal',
       order: 1,
       morphology: {
@@ -112,10 +112,10 @@ export const psalms_131_3: Verse = {
     hebrew: 'יַחֵל יִשְׂרָאֵל אֶל־יְהוָה מֵעַתָּה וְעַד־עוֹלָם',
     transliteration: 'yachel Yisrael el-YHWH meAtah veAd-olam',
     englishLiteral:
-      'Hope, Struggles_with_God (Israel) to- He_Who_Is (YHWH), from-now and-unto- the_age.',
+      'Wait_patiently, Struggles_with_God (Israel) to- He_Who_Is (YHWH), from-now and-unto- the_age.',
     englishNatural:
-      'Hope, Struggles-with-God (Israel) to He-Who-Is (YHWH), from now and unto the-age.',
+      'Wait-patiently, Struggles-with-God (Israel) to He-Who-Is (YHWH), from now and unto the-age.',
     kjv: 'Let Israel hope in the LORD from henceforth and for ever.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-15' },
   },
 };

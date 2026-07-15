@@ -220,8 +220,8 @@ export const isaiah_41_13: Verse = {
     englishLiteral:
       'that, I He_Who_Is (YHWH) God-your holding right_hand-your; the-saying to-you "not- you-will-fear, I I-have-helped-you."',
     englishNatural:
-      'that, I am He-Who-Is (YHWH) your God holding your right-hand; the one saying to you "You will fear not, I I have helped you."',
+      'that, I am He-Who-Is (YHWH) your God holding your right-hand; the one saying to you "You will fear not, I, I have helped you."',
     kjv: 'For I the LORD thy God hold thy right hand, who say unto thee: Fear not, I help thee.',
-    lastReviewed: { name: 'Matt Gross', date: '2026-07-14' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-15' },
 },
 };

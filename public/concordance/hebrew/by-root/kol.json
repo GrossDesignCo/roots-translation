@@ -2250,6 +2250,181 @@
       "location": {
         "book": "Genesis",
         "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**כָּל־** הַחַיָּה אֲשֶׁר־",
+        "transliteration": "**kol-** haChayah asher-",
+        "englishLiteral": "**all-** the-living_being which-",
+        "englishNatural": "**all** the living-being which is"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "מִכָּל־",
+        "transliteration": "mikol-",
+        "englishLiteral": "from-all-",
+        "englishNatural": "from all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ אִתְּךָ **מִכָּל־** בָּשָׂר בָּעוֹף",
+        "transliteration": "asher- itekha **mikol-** basar baOph",
+        "englishLiteral": "which- with-you **from-all-** flesh, in-flyer",
+        "englishNatural": "which is with you **from all** flesh, in flyer"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 17
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וּבְכָל־",
+        "transliteration": "uVekhol-",
+        "englishLiteral": "and-in-all-",
+        "englishNatural": "and in all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בָּעוֹף וּבַבְּהֵמָה **וּבְכָל־** הָרֶמֶשׂ הָרֹמֵשׂ",
+        "transliteration": "baOph uvaBehemah **uVekhol-** haRemes haRomes",
+        "englishLiteral": "in-flyer and-in-beast **and-in-all-** the-creeping_thing the-creeping",
+        "englishNatural": "in flyer and in beast **and in all** the creeping-thing the creeping"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**כָּל־** הַחַיָּה כָּל־",
+        "transliteration": "**kol-** haChayah kol-",
+        "englishLiteral": "**all-** the-living_being, all-",
+        "englishNatural": "**all** the living-being, all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הַחַיָּה **כָּל־** הָרֶמֶשׂ וְכָל־",
+        "transliteration": "kol- haChayah **kol-** haRemes veKol-",
+        "englishLiteral": "all- the-living_being, **all-** the-creeping_thing and-all-",
+        "englishNatural": "all the living-being, **all** the creeping-thing and all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְכָל־",
+        "transliteration": "veKol-",
+        "englishLiteral": "and-all-",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ הָרֶמֶשׂ **וְכָל־** הָעוֹף כֹּל",
+        "transliteration": "kol- haRemes **veKol-** haOph kol",
+        "englishLiteral": "all- the-creeping_thing **and-all-** the-flier, all",
+        "englishNatural": "all the creeping-thing **and all** the flier, all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 19
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "כֹּל",
+        "transliteration": "kol",
+        "englishLiteral": "all",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ הָעוֹף **כֹּל** רוֹמֵשׂ עַל־",
+        "transliteration": "veKol- haOph **kol** romes al-",
+        "englishLiteral": "and-all- the-flier, **all** creeping over-",
+        "englishNatural": "and all the flier, **all** creeping over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
         "verse": 20
       },
       "wordIndex": 5,

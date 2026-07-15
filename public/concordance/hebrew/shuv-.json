@@ -1,0 +1,34 @@
+{
+  "key": "shuv-",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 12
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "שׁוּב־",
+        "transliteration": "shuv-",
+        "englishLiteral": "returning",
+        "englishNatural": "returning",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹא־ יָסְפָה **שׁוּב־** אֵלָיו עוֹד",
+        "transliteration": "veLo- yasfah **shuv-** elav od",
+        "englishLiteral": "and-not- she-will-add **returning** to-him again.",
+        "englishNatural": "and she added not **returning** to him again."
+      }
+    }
+  ]
+}

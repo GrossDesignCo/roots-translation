@@ -180,6 +180,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְהִנֵּה",
+        "transliteration": "veHineh",
+        "englishLiteral": "And-behold",
+        "englishNatural": "And behold",
+        "root": "hineh",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "לְעֵת עֶרֶב **וְהִנֵּה** עֲלֵה־ זַיִת",
+        "transliteration": "leEt erev **veHineh** aleh- zayit",
+        "englishLiteral": "to-time evening, **And-behold** leaf-of- olive",
+        "englishNatural": "to the time of evening, **And behold,** a leaf of olive"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "וְהִנֵּה",
+        "transliteration": "veHineh",
+        "englishLiteral": "and-behold",
+        "englishNatural": "and behold",
+        "root": "hineh",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "הַתֵּבָה וַיַּרְא **וְהִנֵּה** חָרְבוּ פְּנֵי",
+        "transliteration": "haTevah vaYar **veHineh** charvu peney",
+        "englishLiteral": "the-ark, And-saw, **and-behold** they-have-dried faces-of",
+        "englishNatural": "the ark, and looked, **and behold,** the face of the earth"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 9,
         "verse": 9
       },

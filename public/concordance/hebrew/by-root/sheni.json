@@ -154,6 +154,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַשֵּׁנִי",
+        "transliteration": "haSheni",
+        "englishLiteral": "the-second",
+        "englishNatural": "the second",
+        "root": "sheni",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וּבַחֹדֶשׁ **הַשֵּׁנִי** בְּשִׁבְעָה וְעֶשְׂרִים",
+        "transliteration": "uVaChodesh **haSheni** beShivah veEsrim",
+        "englishLiteral": "And-in-month **the-second,** in-seven and-twenty",
+        "englishNatural": "And in the month **the second,** in seven and twenty"
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 4

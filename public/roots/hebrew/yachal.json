@@ -2,12 +2,30 @@
   "key": "yachal",
   "hebrew": "יָחַל",
   "transliteration": "yachal",
-  "englishLiteral": "to hope",
-  "englishNatural": "to hope",
+  "englishLiteral": "to wait_patiently",
+  "englishNatural": "to wait-patiently",
   "type": "verb",
-  "description": "to wait, hope, expect, trust",
+  "description": "to wait, hope, expect with patient endurance; piel/hiphil: to wait for, hope in; niphal: passive waiting; relational waiting directed at a person, usually God; distinct from qavah (strained tension)",
+  "related": [
+    "qavah"
+  ],
   "wordIndexes": {
+    "genesis": {
+      "8": {
+        "10": [
+          0
+        ],
+        "12": [
+          0
+        ]
+      }
+    },
     "psalms": {
+      "130": {
+        "5": [
+          5
+        ]
+      },
       "131": {
         "3": [
           0

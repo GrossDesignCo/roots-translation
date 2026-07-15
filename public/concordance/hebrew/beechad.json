@@ -27,6 +27,31 @@
         "englishLiteral": "the-tenth; in-the-tenth **in-one** to-the-month, they-were-seen",
         "englishNatural": "the tenth; in the tenth **on the first** to the month, the heads of"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בְּאֶחָד",
+        "transliteration": "beEchad",
+        "englishLiteral": "in-one",
+        "englishNatural": "in one",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה בָּרִאשׁוֹן **בְּאֶחָד** לַחֹדֶשׁ חָרְבוּ",
+        "transliteration": "shanah baRishon **beEchad** laChodesh charvu",
+        "englishLiteral": "year, in-the-first, **in-one** to-the-month, they-have-dried",
+        "englishNatural": "years, in the first, **in one** to the month, the waters"
+      }
     }
   ]
 }

@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 8,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיָּחֶל",
+        "transliteration": "vaYachel",
+        "englishLiteral": "And-he-will-wait_patiently",
+        "englishNatural": "And he waited-patiently",
+        "root": "yachal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיָּחֶל** עוֹד שִׁבְעַת",
+        "transliteration": "**vaYachel** od shivat",
+        "englishLiteral": "**And-he-will-wait_patiently** again, seven-of",
+        "englishNatural": "**And he waited-patiently** again another"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 3,
         "verse": 4

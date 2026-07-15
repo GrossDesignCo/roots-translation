@@ -219,6 +219,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 8,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וַיֵּדַע",
+        "transliteration": "vaYeda",
+        "englishLiteral": "And-he-knew",
+        "englishNatural": "knew",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "טָרָף בְּפִיהָ **וַיֵּדַע** נֹחַ כִּי",
+        "transliteration": "taraf beFihah **vaYeda** Noach ki",
+        "englishLiteral": "plucked in-her-mouth; **And-he-knew** Rest (Noah), that",
+        "englishNatural": "in her mouth; And Rest (Noah) **knew,** that the waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 8
       },
