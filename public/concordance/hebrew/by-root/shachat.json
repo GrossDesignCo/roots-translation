@@ -166,6 +166,33 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "לְשַׁחֵת",
+        "transliteration": "leshachet",
+        "englishLiteral": "to-corrupt",
+        "englishNatural": "to corrupt",
+        "root": "shachat",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "הַמַּיִם לְמַבּוּל **לְשַׁחֵת** כָּל־ בָּשָׂר",
+        "transliteration": "haMayim leMabbul **leshachet** kol- basar",
+        "englishLiteral": "the-waters to-flood, **to-corrupt** all- flesh.",
+        "englishNatural": "again to a flood, **to corrupt** all flesh."
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 2,
         "verse": 6

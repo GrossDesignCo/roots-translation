@@ -1,0 +1,31 @@
+{
+  "root": "kerem",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 20
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "כָּרֶם",
+        "transliteration": "kerem",
+        "englishLiteral": "vineyard",
+        "englishNatural": "a vineyard",
+        "root": "kerem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֲדָמָה וַיִּטַּע **כָּרֶם**",
+        "transliteration": "haAdamah vaYitta **kerem**",
+        "englishLiteral": "the-earth; And-planted, **vineyard.**",
+        "englishNatural": "the earth; and planted **a vineyard.**"
+      }
+    }
+  ]
+}

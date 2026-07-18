@@ -80,6 +80,81 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וָיָפֶת",
+        "transliteration": "vaYafet",
+        "englishLiteral": "and-Spacious (Japheth)",
+        "englishNatural": "and Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם וְחָם **וָיָפֶת** וְחָם הוּא",
+        "transliteration": "Shem veCham **vaYafet** veCham hu",
+        "englishLiteral": "Name (Shem), and-Hot (Ham) **and-Spacious (Japheth);** and-Hot (Ham), he",
+        "englishNatural": "Name (Shem), and Hot (Ham), **and Spacious (Japheth);** and Hot (Ham), he,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וָיֶפֶת",
+        "transliteration": "vaYephet",
+        "englishLiteral": "and-Spacious (Japheth)",
+        "englishNatural": "and Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקַּח שֵׁם **וָיֶפֶת** אֶת־ הַשִּׂמְלָה,",
+        "transliteration": "vaYiqach Shem **vaYephet** et- haSimlah,",
+        "englishLiteral": "And-took Name (Shem) **and-Spacious (Japheth)** ↳ the-cloak,",
+        "englishNatural": "And Name (Shem) **and Spacious (Japheth)** took ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 27
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לְיֶפֶת",
+        "transliteration": "leYafet",
+        "englishLiteral": "to-Spacious (Japheth)",
+        "englishNatural": "to Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יַפְתְּ אֱלֹהִים **לְיֶפֶת** וְיִשְׁכֹּן בְּאָהֳלֵי־",
+        "transliteration": "yapht Elohim **leYafet** veYishkon beAhalei-",
+        "englishLiteral": "enlarge Gods **to-Spacious (Japheth),** and-he-will-dwell in-tents-of-",
+        "englishNatural": "God, enlarge **to Spacious (Japheth),** and he will dwell in the tents of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 1
       },

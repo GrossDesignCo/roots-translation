@@ -131,6 +131,81 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וּבֵין",
+        "transliteration": "uveyn",
+        "englishLiteral": "and-between",
+        "englishNatural": "and between",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּינִי וּבֵינֵיכֶם **וּבֵין** כָּל־ נֶפֶשׁ",
+        "transliteration": "beyni uvEynekhem **uveyn** kol- nefesh",
+        "englishLiteral": "between-me and-between-you, **and-between** all- wind-of",
+        "englishNatural": "is between me and between you, **and between** all the wind of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וּבֵין",
+        "transliteration": "uveyn",
+        "englishLiteral": "and-between",
+        "englishNatural": "and between",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּין אֱלֹהִים **וּבֵין** כָּל־ נֶפֶשׁ",
+        "transliteration": "beyn Elohim **uveyn** kol- nefesh",
+        "englishLiteral": "between Gods, **and-between** all- wind-of",
+        "englishNatural": "between God, **and between** all the wind of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וּבֵין",
+        "transliteration": "uveyn",
+        "englishLiteral": "and-between",
+        "englishNatural": "and between",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הֲקִמֹתִי בֵּינִי **וּבֵין** כָּל־ בָּשָׂר",
+        "transliteration": "haQimoti beyni **uveyn** kol- basar",
+        "englishLiteral": "I-have-caused-to-stand_up, between-me, **and-between** all- flesh",
+        "englishNatural": "I have caused to stand-up, between me, **and between** all flesh"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 12
       },

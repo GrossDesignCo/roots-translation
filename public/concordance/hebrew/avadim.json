@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 25
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "עֲבָדִים",
+        "transliteration": "avadim",
+        "englishLiteral": "servants",
+        "englishNatural": "servants",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּנָעַן עֶבֶד **עֲבָדִים** יִהְיֶה לְאֶחָיו",
+        "transliteration": "Kenaan eved **avadim** yihyeh leAchav",
+        "englishLiteral": "Low (Canaan); servant-of **servants,** he-will-be to-his-brothers.\"",
+        "englishNatural": "Low (Canaan); a servant of **servants,** he will be to his brothers.\""
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 20,
         "verse": 2

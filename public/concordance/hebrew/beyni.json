@@ -52,6 +52,56 @@
         "englishLiteral": "for-sign-of covenant, **between-me** and-between the-land.",
         "englishNatural": "for the sign of covenant, **between me** and between the land."
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בֵּינִי",
+        "transliteration": "beyni",
+        "englishLiteral": "between-me",
+        "englishNatural": "is between me",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בְּרִיתִי אֲשֶׁר **בֵּינִי** וּבֵינֵיכֶם וּבֵין",
+        "transliteration": "beriti asher **beyni** uvEynekhem uveyn",
+        "englishLiteral": "my-covenant, which **between-me** and-between-you, and-between",
+        "englishNatural": "my covenant, which **is between me** and between you, and between"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בֵּינִי",
+        "transliteration": "beyni",
+        "englishLiteral": "between-me",
+        "englishNatural": "between me",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר הֲקִמֹתִי **בֵּינִי** וּבֵין כָּל־",
+        "transliteration": "asher haQimoti **beyni** uveyn kol-",
+        "englishLiteral": "which I-have-caused-to-stand_up, **between-me,** and-between all-",
+        "englishNatural": "which I have caused to stand-up, **between me,** and between all"
+      }
     }
   ]
 }

@@ -30,6 +30,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 24
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "בְּנוֹ",
+        "transliteration": "beno",
+        "englishLiteral": "son-his",
+        "englishNatural": "his son",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָשָׂה לוֹ **בְּנוֹ** הַקָּטָן",
+        "transliteration": "asah lo **beno** haQatan",
+        "englishLiteral": "had-made to-him **son-his** the-small.",
+        "englishNatural": "↳ that-which **his son** the small had made"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 3,
         "verse": 0

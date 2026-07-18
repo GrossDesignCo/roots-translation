@@ -606,6 +606,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 20
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הָאֲדָמָה",
+        "transliteration": "haAdamah",
+        "englishLiteral": "the-earth",
+        "englishNatural": "the earth",
+        "root": "adamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ אִישׁ **הָאֲדָמָה** וַיִּטַּע כָּרֶם",
+        "transliteration": "Noach ish **haAdamah** vaYitta kerem",
+        "englishLiteral": "Rest (Noah), man-of **the-earth;** And-planted, vineyard.",
+        "englishNatural": "began, a man of **the earth;** and planted a vineyard."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 12,
         "verse": 3
       },

@@ -1,0 +1,34 @@
+{
+  "key": "vayiqach",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיִּקַּח",
+        "transliteration": "vaYiqach",
+        "englishLiteral": "And-took",
+        "englishNatural": "took",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּקַּח** שֵׁם וָיֶפֶת",
+        "transliteration": "**vaYiqach** Shem vaYephet",
+        "englishLiteral": "**And-took** Name (Shem) and-Spacious (Japheth)",
+        "englishNatural": "And Name (Shem) and Spacious (Japheth) **took** ↳ the cloak,"
+      }
+    }
+  ]
+}

@@ -5,6 +5,56 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בְּכָל־",
+        "transliteration": "beKol-",
+        "englishLiteral": "in-all-",
+        "englishNatural": "in all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "נֶפֶשׁ חַיָּה **בְּכָל־** בָּשָׂר וְלֹא־",
+        "transliteration": "nefesh chayah **beKol-** basar veLo-",
+        "englishLiteral": "wind-of living_being, **in-all-** flesh; and-not-",
+        "englishNatural": "the wind of the living-being, **in all** flesh; and the waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "בְּכָל־",
+        "transliteration": "beKol-",
+        "englishLiteral": "in-all-",
+        "englishNatural": "in all",
+        "root": "kol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֶפֶשׁ חַיָּה **בְּכָל־** בָּשָׂר אֲשֶׁר",
+        "transliteration": "nefesh chayah **beKol-** basar asher",
+        "englishLiteral": "wind-of living_being **in-all-** flesh which",
+        "englishNatural": "the wind of the living-being **in all** flesh which,"
+      }
+    },
+    {
+      "location": {
         "book": "Daniel",
         "chapter": 1,
         "verse": 20

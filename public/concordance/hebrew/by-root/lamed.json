@@ -230,6 +230,81 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 24
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לוֹ",
+        "transliteration": "lo",
+        "englishLiteral": "to-him",
+        "englishNatural": "to him",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ עָשָׂה **לוֹ** בְּנוֹ הַקָּטָן",
+        "transliteration": "asher- asah **lo** beno haQatan",
+        "englishLiteral": "which- had-made **to-him** son-his the-small.",
+        "englishNatural": "the small had made **to him.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 26
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "לָמוֹ",
+        "transliteration": "lamo",
+        "englishLiteral": "to-them",
+        "englishNatural": "to them",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כְנַעַן עֶבֶד **לָמוֹ**",
+        "transliteration": "Kenaan eved **lamo**",
+        "englishLiteral": "Low (Canaan), servant **to-them,**",
+        "englishNatural": "Low (Canaan), servant **to them,**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 27
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "לָמוֹ",
+        "transliteration": "lamo",
+        "englishLiteral": "to-them",
+        "englishNatural": "to them",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כְנַעַן עֶבֶד **לָמוֹ**",
+        "transliteration": "Kenaan eved **lamo**",
+        "englishLiteral": "Low (Canaan), servant **to-them.\"**",
+        "englishNatural": "Low (Canaan), servant **to them.\"**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 1
       },

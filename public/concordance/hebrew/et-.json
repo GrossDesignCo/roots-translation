@@ -2450,6 +2450,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְזָכַרְתִּי **אֶת־** בְּרִיתִי אֲשֶׁר",
+        "transliteration": "veZakharti **et-** beriti asher",
+        "englishLiteral": "and-I-will-remember **↳** my-covenant, which",
+        "englishNatural": "and I will remember **↳** my covenant, which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֶת־",
+        "transliteration": "et-",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם וָיֶפֶת **אֶת־** הַשִּׂמְלָה, וַיָּשִׂימוּ",
+        "transliteration": "Shem vaYephet **et-** haSimlah, vaYasimu",
+        "englishLiteral": "Name (Shem) and-Spacious (Japheth) **↳** the-cloak, and-placed",
+        "englishNatural": "and Spacious (Japheth) took **↳** the cloak, and they placed it"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 8
       },

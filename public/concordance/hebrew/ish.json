@@ -181,6 +181,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אִישׁ",
+        "transliteration": "ish",
+        "englishLiteral": "man-of",
+        "englishNatural": "a man of",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּחֶל נֹחַ **אִישׁ** הָאֲדָמָה וַיִּטַּע",
+        "transliteration": "vaYachel Noach **ish** haAdamah vaYitta",
+        "englishLiteral": "And-began Rest (Noah), **man-of** the-earth; And-planted,",
+        "englishNatural": "And Rest (Noah) began, **a man of** the earth; and planted"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 3
       },

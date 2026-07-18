@@ -1,0 +1,32 @@
+{
+  "key": "bachutz",
+  "language": "hebrew",
+  "root": "chutz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 22
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בַּחוּץ",
+        "transliteration": "baChutz",
+        "englishLiteral": "in-outside",
+        "englishNatural": "outside",
+        "root": "chutz",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לִשְׁנֵי־ אֶחָיו, **בַּחוּץ.**",
+        "transliteration": "liShney- echav, **baChutz.**",
+        "englishLiteral": "to-two- brothers-his, **in-outside.**",
+        "englishNatural": "to his two brothers **outside.**"
+      }
+    }
+  ]
+}

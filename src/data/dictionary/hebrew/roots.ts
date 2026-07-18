@@ -681,6 +681,22 @@ const ROOTS = {
     description: 'to place, to set down, like to place a book on a shelf',
     type: 'verb',
   },
+  simlah: {
+    hebrew: 'שמלה',
+    transliteration: 'simlah',
+    englishLiteral: 'cloak',
+    englishNatural: 'cloak',
+    type: 'noun',
+    description: 'cloak, outer garment, mantle',
+  },
+  shekhem: {
+    hebrew: 'שכם',
+    transliteration: 'shekhem',
+    englishLiteral: 'shoulder',
+    englishNatural: 'shoulder',
+    type: 'noun',
+    description: 'shoulder, back, ridge; also place-name Shechem',
+  },
   im: {
     hebrew: 'אם',
     transliteration: 'im',
@@ -1295,6 +1311,16 @@ const ROOTS = {
     englishLiteral: 'to bless',
     englishNatural: 'to bless',
     type: 'verb',
+    related: ['barukh'],
+  },
+  barukh: {
+    hebrew: 'בָּרוּךְ',
+    transliteration: 'barukh',
+    englishLiteral: 'blessed',
+    englishNatural: 'blessed',
+    type: 'adjective',
+    description: 'blessed, praised; passive participle of barakh',
+    related: ['barakh'],
   },
   parah: {
     hebrew: 'פרה',
@@ -2580,6 +2606,15 @@ const ROOTS = {
     related: ['chayah', 'chayah_verb'],
   },
   // Added for Genesis 3:15
+  ervah: {
+    hebrew: 'ערוה',
+    transliteration: 'ervah',
+    englishLiteral: 'nakedness',
+    englishNatural: 'nakedness',
+    type: 'noun',
+    description: 'nakedness, exposure, shame of uncovered body',
+    related: ['arom'],
+  },
   eivah: {
     hebrew: 'אֵיבָה',
     transliteration: 'eivah',
@@ -2766,6 +2801,14 @@ const ROOTS = {
     type: 'verb',
     description:
       'to drive out by force, to deport from a place, expel, banish, cast out',
+  },
+  kerem: {
+    hebrew: 'כרם',
+    transliteration: 'kerem',
+    englishLiteral: 'vineyard',
+    englishNatural: 'vineyard',
+    type: 'noun',
+    description: 'vineyard, planted plot of grapevines',
   },
   keruv: {
     hebrew: 'כרוב',
@@ -3320,6 +3363,14 @@ const ROOTS = {
     type: 'noun',
     description: 'brother, kinsman, fellow',
   },
+  achor: {
+    hebrew: 'אחור',
+    transliteration: 'achor',
+    englishLiteral: 'back',
+    englishNatural: 'back',
+    type: 'noun',
+    description: 'back, rear; adverb achoranit: backward, behind',
+  },
   hevel: {
     hebrew: 'הֶבֶל',
     transliteration: 'hevel',
@@ -3361,7 +3412,16 @@ const ROOTS = {
     englishNatural: 'to open',
     type: 'verb',
     description: 'to open, to loosen, to unseal',
-    related: ['petach'],
+    related: ['petach', 'patah'],
+  },
+  patah: {
+    hebrew: 'פתה',
+    transliteration: 'patah',
+    englishLiteral: 'to enlarge',
+    englishNatural: 'to enlarge',
+    type: 'verb',
+    description: 'to enlarge, persuade, entice; piel imperative homograph with yafet (Japheth)',
+    related: ['yafet', 'patach'],
   },
   ravatz: {
     hebrew: 'רָבַץ',
@@ -4417,6 +4477,14 @@ const ROOTS = {
     type: 'noun',
     description: 'proper name, Japheth, meaning "expansion" or "spaciousness"',
   },
+  kenaan: {
+    hebrew: 'כְנָעַן',
+    transliteration: 'kenaan',
+    englishLiteral: 'Low (Canaan)',
+    englishNatural: 'Low (Canaan)',
+    type: 'noun',
+    description: 'proper name, Canaan, from kna "to be low, subdued"',
+  },
   // Genesis 5:8 additions
   esreh: {
     hebrew: 'עֶשְׂרֵה',
@@ -4707,7 +4775,17 @@ const ROOTS = {
     englishLiteral: 'fare',
     englishNatural: 'fare',
     type: 'noun',
-    description: 'fare, wages, payment, hire',
+    description: 'fare, wages, payment, hire; homograph of shakhar (to be drunk)',
+    related: ['shakhar'],
+  },
+  shakhar: {
+    hebrew: 'שכר',
+    transliteration: 'shakhar',
+    englishLiteral: 'to be_drunk',
+    englishNatural: 'to be drunk',
+    type: 'verb',
+    description: 'to be drunk, become intoxicated; homograph of sakhar (fare/wages)',
+    related: ['shatah', 'sakhar'],
   },
   immahhem: {
     hebrew: 'עמהם',
@@ -5045,6 +5123,16 @@ const ROOTS = {
     englishNatural: 'cloud',
     type: 'noun',
     description: 'cloud, thick cloud, divine presence cloud (Hebrew and Aramaic)',
+    related: ['anan_verb'],
+  },
+  anan_verb: {
+    hebrew: 'ענן',
+    transliteration: 'anan',
+    englishLiteral: 'to_cloud',
+    englishNatural: 'to cloud',
+    type: 'verb',
+    description: 'Hiphil: to bring clouds, to make cloudy',
+    related: ['anan'],
   },
   yatzav: {
     hebrew: 'יצב',
@@ -6047,6 +6135,16 @@ const ROOTS = {
     description: 'Noah (rest, comfort), name of the flood survivor',
     related: ['nuach'],
   },
+  nafats: {
+    hebrew: 'נפץ',
+    transliteration: 'nafats',
+    englishLiteral: 'to-spread_out',
+    englishNatural: 'to spread-out',
+    type: 'verb',
+    description:
+      'to dash, shatter, scatter; niphal: to be scattered or dispersed (as peoples over the earth)',
+    related: ['puts'],
+  },
   matsa: {
     hebrew: 'מצא',
     transliteration: 'matsa',
@@ -7006,6 +7104,7 @@ const ROOTS = {
     englishNatural: 'to scatter',
     type: 'verb',
     description: 'to scatter, disperse, spread abroad; to be dispersed',
+    related: ['nafats'],
   },
   // Genesis 11:6 additions
   hen: {

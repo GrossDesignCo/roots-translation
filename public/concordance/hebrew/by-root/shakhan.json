@@ -28,6 +28,33 @@
         "englishLiteral": "↳ the-Earthling (Adam); **and-he-caused-to-dwell** from-east to-Garden",
         "englishNatural": "↳ the Earthling (Adam); **and he caused to dwell** east of Garden"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 27
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְיִשְׁכֹּן",
+        "transliteration": "veYishkon",
+        "englishLiteral": "and-he-will-dwell",
+        "englishNatural": "and he will dwell",
+        "root": "shakhan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהִים לְיֶפֶת **וְיִשְׁכֹּן** בְּאָהֳלֵי־ שֵׁם",
+        "transliteration": "Elohim leYafet **veYishkon** beAhalei- shem",
+        "englishLiteral": "Gods to-Spacious (Japheth), **and-he-will-dwell** in-tents-of- Name (Shem);",
+        "englishNatural": "enlarge to Spacious (Japheth), **and he will dwell** in the tents of Name (Shem);"
+      }
     }
   ]
 }

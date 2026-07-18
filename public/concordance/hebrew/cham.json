@@ -56,6 +56,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 22
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "חָם",
+        "transliteration": "Cham",
+        "englishLiteral": "Hot (Ham)",
+        "englishNatural": "And Hot (Ham)",
+        "root": "cham",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּרְא, **חָם** אֲבִי כְנַעַן,",
+        "transliteration": "vaYar, **Cham** avi Kenaan,",
+        "englishLiteral": "And-saw, **Hot (Ham)** father-of Low (Canaan),",
+        "englishNatural": "**And Hot (Ham),** the father of Low (Canaan),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 1
       },

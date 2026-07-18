@@ -1,0 +1,32 @@
+{
+  "key": "shekhem",
+  "language": "hebrew",
+  "root": "shekhem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שְׁכֶם",
+        "transliteration": "shekhem",
+        "englishLiteral": "shoulder-of",
+        "englishNatural": "the shoulder of",
+        "root": "shekhem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיָּשִׂימוּ עַל־ **שְׁכֶם** שְׁנֵיהֶם, וַיֵּלְכוּ",
+        "transliteration": "vaYasimu al- **shekhem** shneihem, vaYelkhu",
+        "englishLiteral": "and-placed over- **shoulder-of** two-their, and-walked",
+        "englishNatural": "and they placed it over **the shoulder of** both of them, and they walked"
+      }
+    }
+  ]
+}

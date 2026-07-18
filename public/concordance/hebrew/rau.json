@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 20,
+      "sourceOrder": 20,
+      "word": {
+        "originalScript": "רָאוּ",
+        "transliteration": "rau",
+        "englishLiteral": "they-have-seen",
+        "englishNatural": "they had seen",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבִיהֶם, לֹא **רָאוּ.**",
+        "transliteration": "avihem, lo **rau.**",
+        "englishLiteral": "father-their, not **they-have-seen.**",
+        "englishNatural": "and the nakedness of their father, **they had seen** not."
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 10,
         "verse": 23

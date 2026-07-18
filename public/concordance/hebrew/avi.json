@@ -55,6 +55,56 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "אֲבִי",
+        "transliteration": "avi",
+        "englishLiteral": "father-of",
+        "englishNatural": "father of",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחָם הוּא **אֲבִי** כְנָעַן",
+        "transliteration": "veCham hu **avi** Kenaan",
+        "englishLiteral": "and-Hot (Ham), he **father-of** Low (Canaan).",
+        "englishNatural": "and Hot (Ham), he, **father of** Low (Canaan)."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 22
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֲבִי",
+        "transliteration": "avi",
+        "englishLiteral": "father-of",
+        "englishNatural": "the father of",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּרְא, חָם **אֲבִי** כְנַעַן, אֵת,",
+        "transliteration": "vaYar, Cham **avi** Kenaan, et,",
+        "englishLiteral": "And-saw, Hot (Ham) **father-of** Low (Canaan), ↳,",
+        "englishNatural": "And Hot (Ham), **the father of** Low (Canaan), saw"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 11,
         "verse": 1

@@ -655,6 +655,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "וּפְנֵיהֶם",
+        "transliteration": "uPneihem",
+        "englishLiteral": "and-faces-their",
+        "englishNatural": "and their faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֶרְוַת אֲבִיהֶם; **וּפְנֵיהֶם,** אֲחֹרַנִּית, וְעֶרְוַת",
+        "transliteration": "ervat avihem; **uPneihem,** achoranit, veErvat",
+        "englishLiteral": "nakedness-of father-their; **and-faces-their,** backward, and-nakedness-of",
+        "englishNatural": "the nakedness of their father; **and their faces,** backward, and the nakedness of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 9
       },

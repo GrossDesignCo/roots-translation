@@ -104,6 +104,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "עוֹלָם",
+        "transliteration": "olam",
+        "englishLiteral": "the_age",
+        "englishNatural": "of the-age",
+        "root": "olam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִזְכֹּר בְּרִית **עוֹלָם** בֵּין אֱלֹהִים",
+        "transliteration": "leZkor berit **olam** beyn Elohim",
+        "englishLiteral": "to-remember covenant **the_age,** between Gods,",
+        "englishNatural": "to remember the covenant **of the-age,** between God,"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 15

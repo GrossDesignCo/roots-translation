@@ -1,0 +1,34 @@
+{
+  "key": "vezakharti",
+  "language": "hebrew",
+  "root": "zakhar_remember",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְזָכַרְתִּי",
+        "transliteration": "veZakharti",
+        "englishLiteral": "and-I-will-remember",
+        "englishNatural": "and I will remember",
+        "root": "zakhar_remember",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְזָכַרְתִּי** אֶת־ בְּרִיתִי",
+        "transliteration": "**veZakharti** et- beriti",
+        "englishLiteral": "**and-I-will-remember** ↳ my-covenant,",
+        "englishNatural": "**and I will remember** ↳ my covenant,"
+      }
+    }
+  ]
+}

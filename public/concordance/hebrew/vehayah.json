@@ -86,6 +86,33 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְהָיָה",
+        "transliteration": "veHayah",
+        "englishLiteral": "and-it-will-be",
+        "englishNatural": "And it will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהָיָה** בְּעַנְנִי עָנָן",
+        "transliteration": "**veHayah** beAnnani anan",
+        "englishLiteral": "**and-it-will-be,** in-my-clouding cloud",
+        "englishNatural": "**And it will be,** in my clouding cloud"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 8

@@ -105,6 +105,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "וְלֹא־",
+        "transliteration": "veLo-",
+        "englishLiteral": "and-not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "בְּכָל־ בָּשָׂר **וְלֹא־** יִהְיֶה עוֹד",
+        "transliteration": "beKol- basar **veLo-** yihyeh od",
+        "englishLiteral": "in-all- flesh; **and-not-** it-will-be again",
+        "englishNatural": "and the waters will be **not** again to a flood,"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 2,
         "verse": 3

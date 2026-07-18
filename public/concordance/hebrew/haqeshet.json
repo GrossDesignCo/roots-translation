@@ -5,6 +5,56 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "הַקֶּשֶׁת",
+        "transliteration": "haQeshet",
+        "englishLiteral": "the-bow",
+        "englishNatural": "and the bow",
+        "root": "qeshet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ וְנִרְאֲתָה **הַקֶּשֶׁת** בֶּעָנָן",
+        "transliteration": "haAretz veNiretah **haQeshet** beAnan",
+        "englishLiteral": "the-land, and-she-will-be-seen **the-bow,** in-cloud,",
+        "englishNatural": "over the land, **and the bow** will be seen, in the cloud,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַקֶּשֶׁת",
+        "transliteration": "haQeshet",
+        "englishLiteral": "the-bow",
+        "englishNatural": "And the bow",
+        "root": "qeshet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיְתָה **הַקֶּשֶׁת** בֶּעָנָן וּרְאִיתִיהָ",
+        "transliteration": "veHayetah **haQeshet** beAnan uReitihah",
+        "englishLiteral": "and-she-will-be **the-bow,** in-cloud; and-I-have-seen-her,",
+        "englishNatural": "**And the bow** will be in the cloud;"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 28

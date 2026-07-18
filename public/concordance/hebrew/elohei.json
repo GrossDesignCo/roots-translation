@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 26
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֱלֹהֵי",
+        "transliteration": "elohei",
+        "englishLiteral": "Gods-of",
+        "englishNatural": "the God of",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּרוּךְ יְהוָה **אֱלֹהֵי** שֵׁם וִיהִי",
+        "transliteration": "barukh YHWH **elohei** Shem vihi",
+        "englishLiteral": "\"blessed He_Who_Is (YHWH) **Gods-of** Name (Shem); and-let-be",
+        "englishNatural": "\"Blessed, He-Who-Is (YHWH) **the God of** Name (Shem); and let it be,"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 6

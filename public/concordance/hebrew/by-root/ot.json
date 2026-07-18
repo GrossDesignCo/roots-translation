@@ -104,6 +104,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "אוֹת־",
+        "transliteration": "ot-",
+        "englishLiteral": "sign-of",
+        "englishNatural": "the sign of",
+        "root": "ot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ זֹאת **אוֹת־** הַבְּרִית אֲשֶׁר",
+        "transliteration": "Noach zot **ot-** haBerit asher",
+        "englishLiteral": "Rest (Noah), \"this, **sign-of** the-covenant, which",
+        "englishNatural": "Rest (Noah), \"This, **the sign of** the covenant, which"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 7,
         "verse": 3

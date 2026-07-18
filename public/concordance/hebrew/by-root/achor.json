@@ -1,0 +1,56 @@
+{
+  "root": "achor",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אֲחֹרַנִּית",
+        "transliteration": "achoranit",
+        "englishLiteral": "backward",
+        "englishNatural": "backward",
+        "root": "achor",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנֵיהֶם, וַיֵּלְכוּ **אֲחֹרַנִּית,** וַיְכַסּוּ אֵת",
+        "transliteration": "shneihem, vaYelkhu **achoranit,** vaYekhasu et",
+        "englishLiteral": "two-their, and-walked **backward,** and-covered ↳",
+        "englishNatural": "both of them, and they walked **backward,** and they covered ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "אֲחֹרַנִּית",
+        "transliteration": "achoranit",
+        "englishLiteral": "backward",
+        "englishNatural": "backward",
+        "root": "achor",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבִיהֶם; וּפְנֵיהֶם, **אֲחֹרַנִּית,** וְעֶרְוַת אֲבִיהֶם,",
+        "transliteration": "avihem; uPneihem, **achoranit,** veErvat avihem,",
+        "englishLiteral": "father-their; and-faces-their, **backward,** and-nakedness-of father-their,",
+        "englishNatural": "their father; and their faces, **backward,** and the nakedness of their father,"
+      }
+    }
+  ]
+}

@@ -255,6 +255,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "עוֹד",
+        "transliteration": "od",
+        "englishLiteral": "again",
+        "englishNatural": "again",
+        "root": "od",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹא־ יִהְיֶה **עוֹד** הַמַּיִם לְמַבּוּל",
+        "transliteration": "veLo- yihyeh **od** haMayim leMabbul",
+        "englishLiteral": "and-not- it-will-be **again** the-waters to-flood,",
+        "englishNatural": "will be not **again** to a flood, to corrupt"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 2,
         "verse": 3

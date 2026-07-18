@@ -49,8 +49,50 @@ to-generations-of the_age;
 and-she-will-be for-sign-of covenant,
 between-me and-between the-land.
 
+and-it-will-be, in-my-clouding cloud over- the-land,
+and-she-will-be-seen the-bow, in-cloud,
+
+and-I-will-remember ↳ my-covenant, which between-me and-between-you, and-between all- wind-of living_being, in-all- flesh;
+and-not- it-will-be again the-waters to-flood, to-corrupt all- flesh.
+
+and-she-will-be the-bow, in-cloud;
+and-I-have-seen-her, to-remember covenant the_age, between Gods, and-between all- wind-of living_being in-all- flesh which over- the-land."
+
+And-said Gods, to- Rest (Noah), "this, sign-of the-covenant, which I-have-caused-to-stand_up, between-me, and-between all- flesh which over- the-land."
+
+and-were sons-of- Rest (Noah), the-going-out from- the-ark-- Name (Shem), and-Hot (Ham) and-Spacious (Japheth);
+
+and-Hot (Ham), he father-of Low (Canaan).
+
+three these, sons-of- Rest (Noah);
+and-from-these, has-been-spread_out all- the-land.
+
+And-began Rest (Noah), man-of the-earth; 
+And-planted, vineyard.
+
+and-he-drank from- the-wine, and-he-was-drunk;
+
+and-he-was-revealed, in-midst-of tent-his.
+
+And-saw, Hot (Ham) father-of Low (Canaan), ↳, nakedness-of father-his; 
+And-declared to-two- brothers-his, in-outside.
+
+And-took Name (Shem) and-Spacious (Japheth) ↳ the-cloak, 
+and-placed over- shoulder-of two-their, and-walked backward, and-covered ↳ nakedness-of father-their; 
+and-faces-their, backward, and-nakedness-of father-their, not they-have-seen.
+
+And-he-will-awake Rest (Noah), from-wine-his;
+
+And-he-knew, ↳ which- had-made to-him son-his the-small.
+
+And-he-said, "cursed Low (Canaan); servant-of servants, he-will-be to-his-brothers."
+
+and-said, "blessed He_Who_Is (YHWH) Gods-of Name (Shem);
+and-let-be Low (Canaan), servant to-them, 
+enlarge Gods to-Spacious (Japheth), and-he-will-dwell in-tents-of- Name (Shem); and-let-be Low (Canaan), servant to-them."
+
 And-lived- Rest (Noah) after the-flood,
 three hundreds year and-fifty year.
 
 And-were all- days-of- Rest (Noah) nine hundreds year and-fifty year,
-and-he-died."
+and-he-died.

@@ -1,0 +1,32 @@
+{
+  "key": "hasimlah",
+  "language": "hebrew",
+  "root": "simlah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הַשִּׂמְלָה",
+        "transliteration": "haSimlah",
+        "englishLiteral": "the-cloak",
+        "englishNatural": "the cloak",
+        "root": "simlah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וָיֶפֶת אֶת־ **הַשִּׂמְלָה,** וַיָּשִׂימוּ עַל־",
+        "transliteration": "vaYephet et- **haSimlah,** vaYasimu al-",
+        "englishLiteral": "and-Spacious (Japheth) ↳ **the-cloak,** and-placed over-",
+        "englishNatural": "took ↳ **the cloak,** and they placed it over"
+      }
+    }
+  ]
+}

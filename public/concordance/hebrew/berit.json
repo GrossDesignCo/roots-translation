@@ -31,6 +31,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בְּרִית",
+        "transliteration": "berit",
+        "englishLiteral": "covenant",
+        "englishNatural": "the covenant",
+        "root": "berit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּרְאִיתִיהָ לִזְכֹּר **בְּרִית** עוֹלָם בֵּין",
+        "transliteration": "uReitihah leZkor **berit** olam beyn",
+        "englishLiteral": "and-I-have-seen-her, to-remember **covenant** the_age, between",
+        "englishNatural": "and I will see it, to remember **the covenant** of the-age, between"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 18
       },

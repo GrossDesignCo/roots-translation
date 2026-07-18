@@ -1,0 +1,32 @@
+{
+  "key": "leachav",
+  "language": "hebrew",
+  "root": "ach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 25
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לְאֶחָיו",
+        "transliteration": "leAchav",
+        "englishLiteral": "to-his-brothers",
+        "englishNatural": "to his brothers",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֲבָדִים יִהְיֶה **לְאֶחָיו**",
+        "transliteration": "avadim yihyeh **leAchav**",
+        "englishLiteral": "servants, he-will-be **to-his-brothers.\"**",
+        "englishNatural": "servants, he will be **to his brothers.\"**"
+      }
+    }
+  ]
+}

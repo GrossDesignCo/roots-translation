@@ -1,0 +1,34 @@
+{
+  "key": "vayiqets",
+  "language": "hebrew",
+  "root": "quts",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 24
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיִּיקֶץ",
+        "transliteration": "vaYiQets",
+        "englishLiteral": "And-he-will-awake",
+        "englishNatural": "awoke",
+        "root": "quts",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּיקֶץ** נֹחַ מִיֵּינוֹ",
+        "transliteration": "**vaYiQets** Noach miYeyno",
+        "englishLiteral": "**And-he-will-awake** Rest (Noah), from-wine-his;",
+        "englishNatural": "And Rest (Noah) **awoke** from his wine; and knew"
+      }
+    }
+  ]
+}

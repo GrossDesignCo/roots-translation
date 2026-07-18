@@ -56,6 +56,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 19
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֵלֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "these",
+        "englishNatural": "These",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁלֹשָׁה **אֵלֶּה** בְּנֵי־ נֹחַ",
+        "transliteration": "shloshah **eleh** beney- Noach",
+        "englishLiteral": "three **these,** sons-of- Rest (Noah);",
+        "englishNatural": "**These** three, sons of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 10
       },

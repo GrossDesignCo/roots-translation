@@ -306,6 +306,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הוּא",
+        "transliteration": "hu",
+        "englishLiteral": "he",
+        "englishNatural": "he",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "וָיָפֶת וְחָם **הוּא** אֲבִי כְנָעַן",
+        "transliteration": "vaYafet veCham **hu** avi Kenaan",
+        "englishLiteral": "and-Spacious (Japheth); and-Hot (Ham), **he** father-of Low (Canaan).",
+        "englishNatural": "and Spacious (Japheth); and Hot (Ham), **he,** father of Low (Canaan)."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 8
       },

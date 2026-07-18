@@ -32,6 +32,33 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְהָיְתָה",
+        "transliteration": "veHayetah",
+        "englishLiteral": "and-she-will-be",
+        "englishNatural": "will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהָיְתָה** הַקֶּשֶׁת בֶּעָנָן",
+        "transliteration": "**veHayetah** haQeshet beAnan",
+        "englishLiteral": "**and-she-will-be** the-bow, in-cloud;",
+        "englishNatural": "And the bow **will be** in the cloud; and I will see it,"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 11,
         "verse": 6

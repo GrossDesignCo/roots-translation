@@ -727,6 +727,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "וְלֹא־",
+        "transliteration": "veLo-",
+        "englishLiteral": "and-not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "בְּכָל־ בָּשָׂר **וְלֹא־** יִהְיֶה עוֹד",
+        "transliteration": "beKol- basar **veLo-** yihyeh od",
+        "englishLiteral": "in-all- flesh; **and-not-** it-will-be again",
+        "englishNatural": "and the waters will be **not** again to a flood,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "לֹא",
+        "transliteration": "lo",
+        "englishLiteral": "not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וְעֶרְוַת אֲבִיהֶם, **לֹא** רָאוּ.",
+        "transliteration": "veErvat avihem, **lo** rau.",
+        "englishLiteral": "and-nakedness-of father-their, **not** they-have-seen.",
+        "englishNatural": "their father, they had seen **not.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 6
       },

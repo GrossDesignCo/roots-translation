@@ -464,6 +464,114 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 14
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְנִרְאֲתָה",
+        "transliteration": "veNiretah",
+        "englishLiteral": "and-she-will-be-seen",
+        "englishNatural": "will be seen",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **וְנִרְאֲתָה** הַקֶּשֶׁת בֶּעָנָן",
+        "transliteration": "al- haAretz **veNiretah** haQeshet beAnan",
+        "englishLiteral": "over- the-land, **and-she-will-be-seen** the-bow, in-cloud,",
+        "englishNatural": "the land, and the bow **will be seen,** in the cloud,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וּרְאִיתִיהָ",
+        "transliteration": "uReitihah",
+        "englishLiteral": "and-I-have-seen-her",
+        "englishNatural": "and I will see it",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַקֶּשֶׁת בֶּעָנָן **וּרְאִיתִיהָ** לִזְכֹּר בְּרִית",
+        "transliteration": "haQeshet beAnan **uReitihah** leZkor berit",
+        "englishLiteral": "the-bow, in-cloud; **and-I-have-seen-her,** to-remember covenant",
+        "englishNatural": "will be in the cloud; **and I will see it,** to remember the covenant"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 22
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיַּרְא",
+        "transliteration": "vaYar",
+        "englishLiteral": "And-saw",
+        "englishNatural": "saw",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּרְא,** חָם אֲבִי",
+        "transliteration": "**vaYar,** Cham avi",
+        "englishLiteral": "**And-saw,** Hot (Ham) father-of",
+        "englishNatural": "the father of Low (Canaan), **saw** ↳, the nakedness of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 20,
+      "sourceOrder": 20,
+      "word": {
+        "originalScript": "רָאוּ",
+        "transliteration": "rau",
+        "englishLiteral": "they-have-seen",
+        "englishNatural": "they had seen",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבִיהֶם, לֹא **רָאוּ.**",
+        "transliteration": "avihem, lo **rau.**",
+        "englishLiteral": "father-their, not **they-have-seen.**",
+        "englishNatural": "and the nakedness of their father, **they had seen** not."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 5
       },

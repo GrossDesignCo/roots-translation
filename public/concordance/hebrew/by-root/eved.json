@@ -4,6 +4,106 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 25
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "עֶבֶד",
+        "transliteration": "eved",
+        "englishLiteral": "servant-of",
+        "englishNatural": "a servant of",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָרוּר כְּנָעַן **עֶבֶד** עֲבָדִים יִהְיֶה",
+        "transliteration": "arur Kenaan **eved** avadim yihyeh",
+        "englishLiteral": "\"cursed Low (Canaan); **servant-of** servants, he-will-be",
+        "englishNatural": "\"Cursed, Low (Canaan); **a servant of** servants, he will be"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 25
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "עֲבָדִים",
+        "transliteration": "avadim",
+        "englishLiteral": "servants",
+        "englishNatural": "servants",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּנָעַן עֶבֶד **עֲבָדִים** יִהְיֶה לְאֶחָיו",
+        "transliteration": "Kenaan eved **avadim** yihyeh leAchav",
+        "englishLiteral": "Low (Canaan); servant-of **servants,** he-will-be to-his-brothers.\"",
+        "englishNatural": "Low (Canaan); a servant of **servants,** he will be to his brothers.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 26
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "עֶבֶד",
+        "transliteration": "eved",
+        "englishLiteral": "servant",
+        "englishNatural": "servant",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וִיהִי כְנַעַן **עֶבֶד** לָמוֹ",
+        "transliteration": "vihi Kenaan **eved** lamo",
+        "englishLiteral": "and-let-be Low (Canaan), **servant** to-them,",
+        "englishNatural": "and let it be, Low (Canaan), **servant** to them,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 27
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "עֶבֶד",
+        "transliteration": "eved",
+        "englishLiteral": "servant",
+        "englishNatural": "servant",
+        "root": "eved",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וִיהִי כְנַעַן **עֶבֶד** לָמוֹ",
+        "transliteration": "vihi Kenaan **eved** lamo",
+        "englishLiteral": "and-let-be Low (Canaan), **servant** to-them.\"",
+        "englishNatural": "and let it be, Low (Canaan), **servant** to them.\""
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 7,
         "verse": 10

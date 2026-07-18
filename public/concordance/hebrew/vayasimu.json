@@ -1,0 +1,34 @@
+{
+  "key": "vayasimu",
+  "language": "hebrew",
+  "root": "sim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וַיָּשִׂימוּ",
+        "transliteration": "vaYasimu",
+        "englishLiteral": "and-placed",
+        "englishNatural": "and they placed it",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ הַשִּׂמְלָה, **וַיָּשִׂימוּ** עַל־ שְׁכֶם",
+        "transliteration": "et- haSimlah, **vaYasimu** al- shekhem",
+        "englishLiteral": "↳ the-cloak, **and-placed** over- shoulder-of",
+        "englishNatural": "↳ the cloak, **and they placed it** over the shoulder of"
+      }
+    }
+  ]
+}

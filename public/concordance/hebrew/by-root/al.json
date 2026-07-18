@@ -1255,6 +1255,106 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 14
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בְּעַנְנִי עָנָן **עַל־** הָאָרֶץ וְנִרְאֲתָה",
+        "transliteration": "beAnnani anan **al-** haAretz veNiretah",
+        "englishLiteral": "in-my-clouding cloud **over-** the-land, and-she-will-be-seen",
+        "englishNatural": "in my clouding cloud **over** the land, and the bow"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בָּשָׂר אֲשֶׁר **עַל־** הָאָרֶץ",
+        "transliteration": "basar asher **al-** haAretz",
+        "englishLiteral": "flesh which **over-** the-land.\"",
+        "englishNatural": "flesh which, **over** the land.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בָּשָׂר אֲשֶׁר **עַל־** הָאָרֶץ",
+        "transliteration": "basar asher **al-** haAretz",
+        "englishLiteral": "flesh which **over-** the-land.\"",
+        "englishNatural": "flesh which **over** the land.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַשִּׂמְלָה, וַיָּשִׂימוּ **עַל־** שְׁכֶם שְׁנֵיהֶם,",
+        "transliteration": "haSimlah, vaYasimu **al-** shekhem shneihem,",
+        "englishLiteral": "the-cloak, and-placed **over-** shoulder-of two-their,",
+        "englishNatural": "the cloak, and they placed it **over** the shoulder of both of them,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 9
       },

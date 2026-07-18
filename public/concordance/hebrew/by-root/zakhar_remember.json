@@ -31,6 +31,60 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְזָכַרְתִּי",
+        "transliteration": "veZakharti",
+        "englishLiteral": "and-I-will-remember",
+        "englishNatural": "and I will remember",
+        "root": "zakhar_remember",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְזָכַרְתִּי** אֶת־ בְּרִיתִי",
+        "transliteration": "**veZakharti** et- beriti",
+        "englishLiteral": "**and-I-will-remember** ↳ my-covenant,",
+        "englishNatural": "**and I will remember** ↳ my covenant,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לִזְכֹּר",
+        "transliteration": "leZkor",
+        "englishLiteral": "to-remember",
+        "englishNatural": "to remember",
+        "root": "zakhar_remember",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בֶּעָנָן וּרְאִיתִיהָ **לִזְכֹּר** בְּרִית עוֹלָם",
+        "transliteration": "beAnan uReitihah **leZkor** berit olam",
+        "englishLiteral": "in-cloud; and-I-have-seen-her, **to-remember** covenant the_age,",
+        "englishNatural": "in the cloud; and I will see it, **to remember** the covenant of the-age,"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 15

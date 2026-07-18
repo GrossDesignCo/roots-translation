@@ -1,0 +1,33 @@
+{
+  "root": "galah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 21
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וַיִּתְגַּל",
+        "transliteration": "vaYitgal",
+        "englishLiteral": "and-he-was-revealed",
+        "englishNatural": "and was revealed",
+        "root": "galah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "הַיַּיִן וַיִּשְׁכָּר **וַיִּתְגַּל** בְּתוֹךְ אָהֳלֹה",
+        "transliteration": "haYayin vaYishkar **vaYitgal** beTokh ahaloh",
+        "englishLiteral": "the-wine, and-he-was-drunk; **and-he-was-revealed,** in-midst-of tent-his.",
+        "englishNatural": "the wine, and was drunk; **and was revealed,** in the midst of his tent."
+      }
+    }
+  ]
+}

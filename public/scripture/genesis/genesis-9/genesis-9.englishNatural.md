@@ -47,8 +47,49 @@ My bow I have given in the cloud,
 and it will be for the sign of covenant,
 between me and between the land.
 
+And it will be, in my clouding cloud over the land,
+and the bow will be seen, in the cloud,
+
+and I will remember my covenant, which is between me and between you, and between all the wind of the living-being, in all flesh;
+and the waters will be not again to a flood, to corrupt all flesh.
+
+And the bow will be in the cloud;
+and I will see it, to remember the covenant of the-age, between God, and between all the wind of the living-being in all flesh which, over the land."
+
+And God said to Rest (Noah),
+"This, the sign of the covenant, which I have caused to stand-up, between me, and between all flesh which over the land."
+
+And the sons of Rest (Noah), that went forth from the ark, were Name (Shem), and Hot (Ham), and Spacious (Japheth);
+and Hot (Ham), he, father of Low (Canaan).
+
+These three, sons of Rest (Noah);
+and from these, all the land has been spread-out.
+
+And Rest (Noah) began, a man of the earth; and planted a vineyard.
+
+and he drank from the wine, and was drunk; and was revealed, in the midst of his tent.
+
+And Hot (Ham), the father of Low (Canaan), saw the nakedness of his father; and declared to his two brothers outside.
+
+And Name (Shem) and Spacious (Japheth) took the cloak, 
+and they placed it over the shoulder of both of them, 
+and they walked backward, 
+and they covered the nakedness of their father; 
+and their faces, backward, 
+and the nakedness of their father, they had seen not.
+
+And Rest (Noah) awoke from his wine;
+and knew that-which his son the small had made to him.
+
+And he said, "Cursed, Low (Canaan); 
+a servant of servants, he will be to his brothers."
+
+And he said, "Blessed, He-Who-Is (YHWH) the God of Name (Shem);
+and let it be, Low (Canaan), servant to them, 
+God, enlarge to Spacious (Japheth), and he will dwell in the tents of Name (Shem); and let it be, Low (Canaan), servant to them."
+
 And Rest (Noah) lived after the flood,
 three hundred years and fifty years.
 
 And all the days of Rest (Noah) were nine hundred years and fifty years,
-and he died."
+and he died.

@@ -29,6 +29,60 @@
         "englishLiteral": "in-midst-of the-waters, **and-let-be** separating between",
         "englishNatural": "in the midst of the waters, **and let it be** separating between"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 26
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וִיהִי",
+        "transliteration": "vihi",
+        "englishLiteral": "and-let-be",
+        "englishNatural": "and let it be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֵי שֵׁם **וִיהִי** כְנַעַן עֶבֶד",
+        "transliteration": "elohei Shem **vihi** Kenaan eved",
+        "englishLiteral": "Gods-of Name (Shem); **and-let-be** Low (Canaan), servant",
+        "englishNatural": "the God of Name (Shem); **and let it be,** Low (Canaan), servant"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 27
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וִיהִי",
+        "transliteration": "vihi",
+        "englishLiteral": "and-let-be",
+        "englishNatural": "and let it be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאָהֳלֵי־ שֵׁם **וִיהִי** כְנַעַן עֶבֶד",
+        "transliteration": "beAhalei- shem **vihi** Kenaan eved",
+        "englishLiteral": "in-tents-of- Name (Shem); **and-let-be** Low (Canaan), servant",
+        "englishNatural": "in the tents of Name (Shem); **and let it be,** Low (Canaan), servant"
+      }
     }
   ]
 }

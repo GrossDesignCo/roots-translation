@@ -5,6 +5,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 21
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הַיַּיִן",
+        "transliteration": "haYayin",
+        "englishLiteral": "the-wine",
+        "englishNatural": "the wine",
+        "root": "yayin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּשְׁתְּ מִן־ **הַיַּיִן** וַיִּשְׁכָּר וַיִּתְגַּל",
+        "transliteration": "vaYisht min- **haYayin** vaYishkar vaYitgal",
+        "englishLiteral": "and-he-drank from- **the-wine,** and-he-was-drunk; and-he-was-revealed,",
+        "englishNatural": "and he drank from **the wine,** and was drunk; and was revealed,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 24
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מִיֵּינוֹ",
+        "transliteration": "miYeyno",
+        "englishLiteral": "from-wine-his",
+        "englishNatural": "from his wine",
+        "root": "yayin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּיקֶץ נֹחַ **מִיֵּינוֹ** וַיֵּדַע אֵת",
+        "transliteration": "vaYiQets Noach **miYeyno** vaYeda et",
+        "englishLiteral": "And-he-will-awake Rest (Noah), **from-wine-his;** And-he-knew, ↳",
+        "englishNatural": "And Rest (Noah) awoke **from his wine;** and knew ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 14,
         "verse": 18
       },

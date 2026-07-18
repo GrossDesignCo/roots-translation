@@ -1046,6 +1046,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 26
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יְהוָה",
+        "transliteration": "YHWH",
+        "englishLiteral": "He_Who_Is (YHWH)",
+        "englishNatural": "He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר בָּרוּךְ **יְהוָה** אֱלֹהֵי שֵׁם",
+        "transliteration": "vayYomer barukh **YHWH** elohei Shem",
+        "englishLiteral": "and-said, \"blessed **He_Who_Is (YHWH)** Gods-of Name (Shem);",
+        "englishNatural": "And he said, \"Blessed, **He-Who-Is (YHWH)** the God of Name (Shem);"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 9
       },

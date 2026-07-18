@@ -381,6 +381,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "מִן־",
+        "transliteration": "min-",
+        "englishLiteral": "from-",
+        "englishNatural": "from",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ הַיֹּצְאִים **מִן־** הַתֵּבָה שֵׁם",
+        "transliteration": "Noach haYotzeim **min-** haTevah Shem",
+        "englishLiteral": "Rest (Noah), the-going-out **from-** the-ark-- Name (Shem),",
+        "englishNatural": "Rest (Noah), that went forth **from** the ark, were"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 21
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מִן־",
+        "transliteration": "min-",
+        "englishLiteral": "from-",
+        "englishNatural": "from",
+        "root": "min_from",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּשְׁתְּ **מִן־** הַיַּיִן וַיִּשְׁכָּר",
+        "transliteration": "vaYisht **min-** haYayin vaYishkar",
+        "englishLiteral": "and-he-drank **from-** the-wine, and-he-was-drunk;",
+        "englishNatural": "and he drank **from** the wine, and was drunk;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 11
       },

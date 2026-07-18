@@ -181,6 +181,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "לְמַבּוּל",
+        "transliteration": "leMabbul",
+        "englishLiteral": "to-flood",
+        "englishNatural": "to a flood",
+        "root": "mabbul",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹד הַמַּיִם **לְמַבּוּל** לְשַׁחֵת כָּל־",
+        "transliteration": "od haMayim **leMabbul** leshachet kol-",
+        "englishLiteral": "again the-waters **to-flood,** to-corrupt all-",
+        "englishNatural": "not again **to a flood,** to corrupt all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
         "verse": 28
       },
       "wordIndex": 3,

@@ -1,0 +1,33 @@
+{
+  "root": "shakhar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 21
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וַיִּשְׁכָּר",
+        "transliteration": "vaYishkar",
+        "englishLiteral": "and-he-was-drunk",
+        "englishNatural": "and was drunk",
+        "root": "shakhar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הַיַּיִן **וַיִּשְׁכָּר** וַיִּתְגַּל בְּתוֹךְ",
+        "transliteration": "min- haYayin **vaYishkar** vaYitgal beTokh",
+        "englishLiteral": "from- the-wine, **and-he-was-drunk;** and-he-was-revealed, in-midst-of",
+        "englishNatural": "from the wine, **and was drunk;** and was revealed, in the midst of"
+      }
+    }
+  ]
+}

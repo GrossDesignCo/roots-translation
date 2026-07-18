@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "עָנָן",
+        "transliteration": "anan",
+        "englishLiteral": "cloud",
+        "englishNatural": "cloud",
+        "root": "anan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיָה בְּעַנְנִי **עָנָן** עַל־ הָאָרֶץ",
+        "transliteration": "veHayah beAnnani **anan** al- haAretz",
+        "englishLiteral": "and-it-will-be, in-my-clouding **cloud** over- the-land,",
+        "englishNatural": "And it will be, in my clouding **cloud** over the land,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 4

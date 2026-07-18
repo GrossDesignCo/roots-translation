@@ -1,0 +1,34 @@
+{
+  "key": "barukh",
+  "language": "hebrew",
+  "root": "barukh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 26
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בָּרוּךְ",
+        "transliteration": "barukh",
+        "englishLiteral": "blessed",
+        "englishNatural": "Blessed",
+        "root": "barukh",
+        "morphology": {
+          "type": "adjective",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **בָּרוּךְ** יְהוָה אֱלֹהֵי",
+        "transliteration": "vayYomer **barukh** YHWH elohei",
+        "englishLiteral": "and-said, **\"blessed** He_Who_Is (YHWH) Gods-of",
+        "englishNatural": "And he said, **\"Blessed,** He-Who-Is (YHWH) the God of"
+      }
+    }
+  ]
+}

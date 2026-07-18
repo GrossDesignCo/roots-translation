@@ -229,6 +229,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 21
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מִן־",
+        "transliteration": "min-",
+        "englishLiteral": "from-",
+        "englishNatural": "from",
+        "root": "min_from",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּשְׁתְּ **מִן־** הַיַּיִן וַיִּשְׁכָּר",
+        "transliteration": "vaYisht **min-** haYayin vaYishkar",
+        "englishLiteral": "and-he-drank **from-** the-wine, and-he-was-drunk;",
+        "englishNatural": "and he drank **from** the wine, and was drunk;"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 3,
         "verse": 8

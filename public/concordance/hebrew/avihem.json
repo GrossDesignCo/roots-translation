@@ -1,0 +1,57 @@
+{
+  "key": "avihem",
+  "language": "hebrew",
+  "root": "av",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "אֲבִיהֶם",
+        "transliteration": "avihem",
+        "englishLiteral": "father-their",
+        "englishNatural": "their father",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵת עֶרְוַת **אֲבִיהֶם;** וּפְנֵיהֶם, אֲחֹרַנִּית,",
+        "transliteration": "et ervat **avihem;** uPneihem, achoranit,",
+        "englishLiteral": "↳ nakedness-of **father-their;** and-faces-their, backward,",
+        "englishNatural": "↳ the nakedness of **their father;** and their faces, backward,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "אֲבִיהֶם",
+        "transliteration": "avihem",
+        "englishLiteral": "father-their",
+        "englishNatural": "their father",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲחֹרַנִּית, וְעֶרְוַת **אֲבִיהֶם,** לֹא רָאוּ.",
+        "transliteration": "achoranit, veErvat **avihem,** lo rau.",
+        "englishLiteral": "backward, and-nakedness-of **father-their,** not they-have-seen.",
+        "englishNatural": "backward, and the nakedness of **their father,** they had seen not."
+      }
+    }
+  ]
+}

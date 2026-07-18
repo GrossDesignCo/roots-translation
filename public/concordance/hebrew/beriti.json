@@ -77,6 +77,31 @@
         "englishLiteral": "and-I-will-cause-to-stand_up ↳, **my-covenant** with-you, and-not-",
         "englishNatural": "and I will cause to stand-up ↳, **my covenant** with you, and not"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בְּרִיתִי",
+        "transliteration": "beriti",
+        "englishLiteral": "my-covenant",
+        "englishNatural": "my covenant",
+        "root": "berit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְזָכַרְתִּי אֶת־ **בְּרִיתִי** אֲשֶׁר בֵּינִי",
+        "transliteration": "veZakharti et- **beriti** asher beyni",
+        "englishLiteral": "and-I-will-remember ↳ **my-covenant,** which between-me",
+        "englishNatural": "and I will remember ↳ **my covenant,** which is between me"
+      }
     }
   ]
 }

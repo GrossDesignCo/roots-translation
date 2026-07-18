@@ -26,6 +26,56 @@
         "englishLiteral": "father-of dwelling **tent,** and-cattle.",
         "englishNatural": "was father of **tent** dwelling, and cattle."
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 21
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אָהֳלֹה",
+        "transliteration": "ahaloh",
+        "englishLiteral": "tent-his",
+        "englishNatural": "his tent",
+        "root": "ohel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּתְגַּל בְּתוֹךְ **אָהֳלֹה**",
+        "transliteration": "vaYitgal beTokh **ahaloh**",
+        "englishLiteral": "and-he-was-revealed, in-midst-of **tent-his.**",
+        "englishNatural": "and was revealed, in the midst of **his tent.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 27
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בְּאָהֳלֵי־",
+        "transliteration": "beAhalei-",
+        "englishLiteral": "in-tents-of-",
+        "englishNatural": "in the tents of",
+        "root": "ohel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְיֶפֶת וְיִשְׁכֹּן **בְּאָהֳלֵי־** שֵׁם וִיהִי",
+        "transliteration": "leYafet veYishkon **beAhalei-** shem vihi",
+        "englishLiteral": "to-Spacious (Japheth), and-he-will-dwell **in-tents-of-** Name (Shem); and-let-be",
+        "englishNatural": "to Spacious (Japheth), and he will dwell **in the tents of** Name (Shem); and let it be,"
+      }
     }
   ]
 }

@@ -114,6 +114,81 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 22
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֵת",
+        "transliteration": "et",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבִי כְנַעַן, **אֵת,** עֶרְוַת אָבִיו;",
+        "transliteration": "avi Kenaan, **et,** ervat aviv;",
+        "englishLiteral": "father-of Low (Canaan), **↳,** nakedness-of father-his;",
+        "englishNatural": "Low (Canaan), saw **↳,** the nakedness of his father;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "אֵת",
+        "transliteration": "et",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "אֲחֹרַנִּית, וַיְכַסּוּ **אֵת** עֶרְוַת אֲבִיהֶם;",
+        "transliteration": "achoranit, vaYekhasu **et** ervat avihem;",
+        "englishLiteral": "backward, and-covered **↳** nakedness-of father-their;",
+        "englishNatural": "backward, and they covered **↳** the nakedness of their father;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 24
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֵת",
+        "transliteration": "et",
+        "englishLiteral": "↳",
+        "englishNatural": "",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "מִיֵּינוֹ וַיֵּדַע **אֵת** אֲשֶׁר־ עָשָׂה",
+        "transliteration": "miYeyno vaYeda **et** asher- asah",
+        "englishLiteral": "from-wine-his; And-he-knew, **↳** which- had-made",
+        "englishNatural": "from his wine; and knew **↳** that-which his son"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 7,
         "verse": 2

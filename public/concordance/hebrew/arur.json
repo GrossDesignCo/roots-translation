@@ -54,6 +54,33 @@
         "englishLiteral": "And-now **cursed** you, from-",
         "englishNatural": "And now **cursed** are you, from"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 25
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אָרוּר",
+        "transliteration": "arur",
+        "englishLiteral": "cursed",
+        "englishNatural": "Cursed",
+        "root": "arar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר **אָרוּר** כְּנָעַן עֶבֶד",
+        "transliteration": "vayYomer **arur** Kenaan eved",
+        "englishLiteral": "And-he-said, **\"cursed** Low (Canaan); servant-of",
+        "englishNatural": "And he said, **\"Cursed,** Low (Canaan); a servant of"
+      }
     }
   ]
 }

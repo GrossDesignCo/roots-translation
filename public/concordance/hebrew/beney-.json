@@ -56,6 +56,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בְנֵי־",
+        "transliteration": "beney-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "And the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּהְיוּ **בְנֵי־** נֹחַ הַיֹּצְאִים",
+        "transliteration": "vaYihyu **beney-** Noach haYotzeim",
+        "englishLiteral": "and-were **sons-of-** Rest (Noah), the-going-out",
+        "englishNatural": "**And the sons of** Rest (Noah), that went forth"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 19
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בְּנֵי־",
+        "transliteration": "beney-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁלֹשָׁה אֵלֶּה **בְּנֵי־** נֹחַ וּמֵאֵלֶּה",
+        "transliteration": "shloshah eleh **beney-** Noach uMeEleh",
+        "englishLiteral": "three these, **sons-of-** Rest (Noah); and-from-these,",
+        "englishNatural": "These three, **sons of** Rest (Noah); and from these,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 1
       },

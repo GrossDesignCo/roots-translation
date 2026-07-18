@@ -255,6 +255,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 24
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "אֲשֶׁר־",
+        "transliteration": "asher-",
+        "englishLiteral": "which-",
+        "englishNatural": "that-which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּדַע אֵת **אֲשֶׁר־** עָשָׂה לוֹ",
+        "transliteration": "vaYeda et **asher-** asah lo",
+        "englishLiteral": "And-he-knew, ↳ **which-** had-made to-him",
+        "englishNatural": "and knew ↳ **that-which** his son the small"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 4,
         "verse": 21

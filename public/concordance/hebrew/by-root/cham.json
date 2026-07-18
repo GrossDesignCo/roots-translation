@@ -80,6 +80,81 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְחָם",
+        "transliteration": "veCham",
+        "englishLiteral": "and-Hot (Ham)",
+        "englishNatural": "and Hot (Ham)",
+        "root": "cham",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַתֵּבָה שֵׁם **וְחָם** וָיָפֶת וְחָם",
+        "transliteration": "haTevah Shem **veCham** vaYafet veCham",
+        "englishLiteral": "the-ark-- Name (Shem), **and-Hot (Ham)** and-Spacious (Japheth); and-Hot (Ham),",
+        "englishNatural": "were Name (Shem), **and Hot (Ham),** and Spacious (Japheth); and Hot (Ham),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וְחָם",
+        "transliteration": "veCham",
+        "englishLiteral": "and-Hot (Ham)",
+        "englishNatural": "and Hot (Ham)",
+        "root": "cham",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחָם וָיָפֶת **וְחָם** הוּא אֲבִי",
+        "transliteration": "veCham vaYafet **veCham** hu avi",
+        "englishLiteral": "and-Hot (Ham) and-Spacious (Japheth); **and-Hot (Ham),** he father-of",
+        "englishNatural": "and Hot (Ham), and Spacious (Japheth); **and Hot (Ham),** he, father of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 22
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "חָם",
+        "transliteration": "Cham",
+        "englishLiteral": "Hot (Ham)",
+        "englishNatural": "And Hot (Ham)",
+        "root": "cham",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּרְא, **חָם** אֲבִי כְנַעַן,",
+        "transliteration": "vaYar, **Cham** avi Kenaan,",
+        "englishLiteral": "And-saw, **Hot (Ham)** father-of Low (Canaan),",
+        "englishNatural": "**And Hot (Ham),** the father of Low (Canaan),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 1
       },

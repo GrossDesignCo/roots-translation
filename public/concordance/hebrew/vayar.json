@@ -221,6 +221,33 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 22
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיַּרְא",
+        "transliteration": "vaYar",
+        "englishLiteral": "And-saw",
+        "englishNatural": "saw",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיַּרְא,** חָם אֲבִי",
+        "transliteration": "**vaYar,** Cham avi",
+        "englishLiteral": "**And-saw,** Hot (Ham) father-of",
+        "englishNatural": "the father of Low (Canaan), **saw** ↳, the nakedness of"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 2

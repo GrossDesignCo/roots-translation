@@ -80,6 +80,131 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "אֲבִי",
+        "transliteration": "avi",
+        "englishLiteral": "father-of",
+        "englishNatural": "father of",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחָם הוּא **אֲבִי** כְנָעַן",
+        "transliteration": "veCham hu **avi** Kenaan",
+        "englishLiteral": "and-Hot (Ham), he **father-of** Low (Canaan).",
+        "englishNatural": "and Hot (Ham), he, **father of** Low (Canaan)."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 22
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֲבִי",
+        "transliteration": "avi",
+        "englishLiteral": "father-of",
+        "englishNatural": "the father of",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּרְא, חָם **אֲבִי** כְנַעַן, אֵת,",
+        "transliteration": "vaYar, Cham **avi** Kenaan, et,",
+        "englishLiteral": "And-saw, Hot (Ham) **father-of** Low (Canaan), ↳,",
+        "englishNatural": "And Hot (Ham), **the father of** Low (Canaan), saw"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אָבִיו",
+        "transliteration": "aviv",
+        "englishLiteral": "father-his",
+        "englishNatural": "his father",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵת, עֶרְוַת **אָבִיו;** וַיַּגֵּד לִשְׁנֵי־",
+        "transliteration": "et, ervat **aviv;** vaYagged liShney-",
+        "englishLiteral": "↳, nakedness-of **father-his;** And-declared to-two-",
+        "englishNatural": "↳, the nakedness of **his father;** and declared to his two"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "אֲבִיהֶם",
+        "transliteration": "avihem",
+        "englishLiteral": "father-their",
+        "englishNatural": "their father",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵת עֶרְוַת **אֲבִיהֶם;** וּפְנֵיהֶם, אֲחֹרַנִּית,",
+        "transliteration": "et ervat **avihem;** uPneihem, achoranit,",
+        "englishLiteral": "↳ nakedness-of **father-their;** and-faces-their, backward,",
+        "englishNatural": "↳ the nakedness of **their father;** and their faces, backward,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "אֲבִיהֶם",
+        "transliteration": "avihem",
+        "englishLiteral": "father-their",
+        "englishNatural": "their father",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲחֹרַנִּית, וְעֶרְוַת **אֲבִיהֶם,** לֹא רָאוּ.",
+        "transliteration": "achoranit, veErvat **avihem,** lo rau.",
+        "englishLiteral": "backward, and-nakedness-of **father-their,** not they-have-seen.",
+        "englishNatural": "backward, and the nakedness of **their father,** they had seen not."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 12,
         "verse": 1
       },

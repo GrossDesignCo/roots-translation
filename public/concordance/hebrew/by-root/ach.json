@@ -229,6 +229,56 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 22
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אֶחָיו",
+        "transliteration": "echav",
+        "englishLiteral": "brothers-his",
+        "englishNatural": "brothers",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּגֵּד לִשְׁנֵי־ **אֶחָיו,** בַּחוּץ.",
+        "transliteration": "vaYagged liShney- **echav,** baChutz.",
+        "englishLiteral": "And-declared to-two- **brothers-his,** in-outside.",
+        "englishNatural": "and declared to his two **brothers** outside."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 25
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לְאֶחָיו",
+        "transliteration": "leAchav",
+        "englishLiteral": "to-his-brothers",
+        "englishNatural": "to his brothers",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֲבָדִים יִהְיֶה **לְאֶחָיו**",
+        "transliteration": "avadim yihyeh **leAchav**",
+        "englishLiteral": "servants, he-will-be **to-his-brothers.\"**",
+        "englishNatural": "servants, he will be **to his brothers.\"**"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 7,
         "verse": 1

@@ -141,6 +141,60 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "יִהְיֶה",
+        "transliteration": "yihyeh",
+        "englishLiteral": "it-will-be",
+        "englishNatural": "will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בָּשָׂר וְלֹא־ **יִהְיֶה** עוֹד הַמַּיִם",
+        "transliteration": "basar veLo- **yihyeh** od haMayim",
+        "englishLiteral": "flesh; and-not- **it-will-be** again the-waters",
+        "englishNatural": "flesh; and the waters **will be** not again"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 25
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "יִהְיֶה",
+        "transliteration": "yihyeh",
+        "englishLiteral": "he-will-be",
+        "englishNatural": "he will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֶבֶד עֲבָדִים **יִהְיֶה** לְאֶחָיו",
+        "transliteration": "eved avadim **yihyeh** leAchav",
+        "englishLiteral": "servant-of servants, **he-will-be** to-his-brothers.\"",
+        "englishNatural": "a servant of servants, **he will be** to his brothers.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 5
       },

@@ -131,6 +131,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בֵּין",
+        "transliteration": "beyn",
+        "englishLiteral": "between",
+        "englishNatural": "between",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בְּרִית עוֹלָם **בֵּין** אֱלֹהִים וּבֵין",
+        "transliteration": "berit olam **beyn** Elohim uveyn",
+        "englishLiteral": "covenant the_age, **between** Gods, and-between",
+        "englishNatural": "the covenant of the-age, **between** God, and between"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 12
       },

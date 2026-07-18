@@ -30,6 +30,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 19
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֵלֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "these",
+        "englishNatural": "These",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁלֹשָׁה **אֵלֶּה** בְּנֵי־ נֹחַ",
+        "transliteration": "shloshah **eleh** beney- Noach",
+        "englishLiteral": "three **these,** sons-of- Rest (Noah);",
+        "englishNatural": "**These** three, sons of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 19
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וּמֵאֵלֶּה",
+        "transliteration": "uMeEleh",
+        "englishLiteral": "and-from-these",
+        "englishNatural": "and from these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי־ נֹחַ **וּמֵאֵלֶּה** נָפְצָה כָּל־",
+        "transliteration": "beney- Noach **uMeEleh** nafatsah kol-",
+        "englishLiteral": "sons-of- Rest (Noah); **and-from-these,** has-been-spread_out all-",
+        "englishNatural": "sons of Rest (Noah); **and from these,** all the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 1
       },

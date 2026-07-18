@@ -4,6 +4,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 21
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיֵּשְׁתְּ",
+        "transliteration": "vaYisht",
+        "englishLiteral": "and-he-drank",
+        "englishNatural": "and he drank",
+        "root": "shatah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֵּשְׁתְּ** מִן־ הַיַּיִן",
+        "transliteration": "**vaYisht** min- haYayin",
+        "englishLiteral": "**and-he-drank** from- the-wine,",
+        "englishNatural": "**and he drank** from the wine,"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 3,
         "verse": 7

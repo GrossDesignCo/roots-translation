@@ -104,6 +104,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 21
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בְּתוֹךְ",
+        "transliteration": "beTokh",
+        "englishLiteral": "in-midst-of",
+        "englishNatural": "in the midst of",
+        "root": "tokh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּשְׁכָּר וַיִּתְגַּל **בְּתוֹךְ** אָהֳלֹה",
+        "transliteration": "vaYishkar vaYitgal **beTokh** ahaloh",
+        "englishLiteral": "and-he-was-drunk; and-he-was-revealed, **in-midst-of** tent-his.",
+        "englishNatural": "and was drunk; and was revealed, **in the midst of** his tent."
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 11,
         "verse": 4

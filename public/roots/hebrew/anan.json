@@ -6,6 +6,9 @@
   "englishNatural": "cloud",
   "type": "noun",
   "description": "cloud, thick cloud, divine presence cloud (Hebrew and Aramaic)",
+  "related": [
+    "anan_verb"
+  ],
   "wordIndexes": {
     "daniel": {
       "7": {
@@ -35,6 +38,13 @@
       "9": {
         "13": [
           3
+        ],
+        "14": [
+          2,
+          7
+        ],
+        "16": [
+          2
         ]
       }
     }

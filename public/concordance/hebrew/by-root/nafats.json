@@ -1,0 +1,33 @@
+{
+  "root": "nafats",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 19
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "נָפְצָה",
+        "transliteration": "nafatsah",
+        "englishLiteral": "has-been-spread_out",
+        "englishNatural": "has been spread-out",
+        "root": "nafats",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ וּמֵאֵלֶּה **נָפְצָה** כָּל־ הָאָרֶץ",
+        "transliteration": "Noach uMeEleh **nafatsah** kol- haAretz",
+        "englishLiteral": "Rest (Noah); and-from-these, **has-been-spread_out** all- the-land.",
+        "englishNatural": "all the land **has been spread-out.**"
+      }
+    }
+  ]
+}

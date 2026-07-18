@@ -248,6 +248,33 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 24
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "עָשָׂה",
+        "transliteration": "asah",
+        "englishLiteral": "had-made",
+        "englishNatural": "had made",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֵת אֲשֶׁר־ **עָשָׂה** לוֹ בְּנוֹ",
+        "transliteration": "et asher- **asah** lo beno",
+        "englishLiteral": "↳ which- **had-made** to-him son-his",
+        "englishNatural": "his son the small **had made** to him."
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 20,
         "verse": 11

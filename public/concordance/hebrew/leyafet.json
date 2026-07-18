@@ -1,0 +1,32 @@
+{
+  "key": "leyafet",
+  "language": "hebrew",
+  "root": "yafet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 27
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לְיֶפֶת",
+        "transliteration": "leYafet",
+        "englishLiteral": "to-Spacious (Japheth)",
+        "englishNatural": "to Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יַפְתְּ אֱלֹהִים **לְיֶפֶת** וְיִשְׁכֹּן בְּאָהֳלֵי־",
+        "transliteration": "yapht Elohim **leYafet** veYishkon beAhalei-",
+        "englishLiteral": "enlarge Gods **to-Spacious (Japheth),** and-he-will-dwell in-tents-of-",
+        "englishNatural": "God, enlarge **to Spacious (Japheth),** and he will dwell in the tents of"
+      }
+    }
+  ]
+}

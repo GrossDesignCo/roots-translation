@@ -411,6 +411,87 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיֹּאמֶר",
+        "transliteration": "vayYomer",
+        "englishLiteral": "And-said",
+        "englishNatural": "said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּאמֶר** אֱלֹהִים אֶל־",
+        "transliteration": "**vayYomer** Elohim el-",
+        "englishLiteral": "**And-said** Gods, to-",
+        "englishNatural": "And God **said** to Rest (Noah),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 25
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיֹּאמֶר",
+        "transliteration": "vayYomer",
+        "englishLiteral": "And-he-said",
+        "englishNatural": "And he said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּאמֶר** אָרוּר כְּנָעַן",
+        "transliteration": "**vayYomer** arur Kenaan",
+        "englishLiteral": "**And-he-said,** \"cursed Low (Canaan);",
+        "englishNatural": "**And he said,** \"Cursed, Low (Canaan);"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 26
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיֹּאמֶר",
+        "transliteration": "vayYomer",
+        "englishLiteral": "and-said",
+        "englishNatural": "And he said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיֹּאמֶר** בָּרוּךְ יְהוָה",
+        "transliteration": "**vayYomer** barukh YHWH",
+        "englishLiteral": "**and-said,** \"blessed He_Who_Is (YHWH)",
+        "englishNatural": "**And he said,** \"Blessed, He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 12,
         "verse": 1
       },

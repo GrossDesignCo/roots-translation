@@ -1,0 +1,33 @@
+{
+  "root": "patah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 27
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "יַפְתְּ",
+        "transliteration": "yapht",
+        "englishLiteral": "enlarge",
+        "englishNatural": "enlarge",
+        "root": "patah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "**יַפְתְּ** אֱלֹהִים לְיֶפֶת",
+        "transliteration": "**yapht** Elohim leYafet",
+        "englishLiteral": "**enlarge** Gods to-Spacious (Japheth),",
+        "englishNatural": "God, **enlarge** to Spacious (Japheth), and he will dwell"
+      }
+    }
+  ]
+}

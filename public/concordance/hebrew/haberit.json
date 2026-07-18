@@ -27,6 +27,31 @@
         "englishLiteral": "\"this, sign-of **the-covenant** which- I",
         "englishNatural": "\"This, the sign of **the covenant** which I"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "הַבְּרִית",
+        "transliteration": "haBerit",
+        "englishLiteral": "the-covenant",
+        "englishNatural": "the covenant",
+        "root": "berit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֹאת אוֹת־ **הַבְּרִית** אֲשֶׁר הֲקִמֹתִי",
+        "transliteration": "zot ot- **haBerit** asher haQimoti",
+        "englishLiteral": "\"this, sign-of **the-covenant,** which I-have-caused-to-stand_up,",
+        "englishNatural": "\"This, the sign of **the covenant,** which I have caused to stand-up,"
+      }
     }
   ]
 }

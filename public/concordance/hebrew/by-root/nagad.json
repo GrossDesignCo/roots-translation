@@ -31,6 +31,33 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 22
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וַיַּגֵּד",
+        "transliteration": "vaYagged",
+        "englishLiteral": "And-declared",
+        "englishNatural": "and declared",
+        "root": "nagad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "עֶרְוַת אָבִיו; **וַיַּגֵּד** לִשְׁנֵי־ אֶחָיו,",
+        "transliteration": "ervat aviv; **vaYagged** liShney- echav,",
+        "englishLiteral": "nakedness-of father-his; **And-declared** to-two- brothers-his,",
+        "englishNatural": "the nakedness of his father; **and declared** to his two brothers"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 1,
         "verse": 10

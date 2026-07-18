@@ -246,6 +246,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 24
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וַיֵּדַע",
+        "transliteration": "vaYeda",
+        "englishLiteral": "And-he-knew",
+        "englishNatural": "and knew",
+        "root": "yada",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ מִיֵּינוֹ **וַיֵּדַע** אֵת אֲשֶׁר־",
+        "transliteration": "Noach miYeyno **vaYeda** et asher-",
+        "englishLiteral": "Rest (Noah), from-wine-his; **And-he-knew,** ↳ which-",
+        "englishNatural": "awoke from his wine; **and knew** ↳ that-which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 8
       },

@@ -830,6 +830,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "מִן־",
+        "transliteration": "min-",
+        "englishLiteral": "from-",
+        "englishNatural": "from",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ הַיֹּצְאִים **מִן־** הַתֵּבָה שֵׁם",
+        "transliteration": "Noach haYotzeim **min-** haTevah Shem",
+        "englishLiteral": "Rest (Noah), the-going-out **from-** the-ark-- Name (Shem),",
+        "englishNatural": "Rest (Noah), that went forth **from** the ark, were"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 11
       },

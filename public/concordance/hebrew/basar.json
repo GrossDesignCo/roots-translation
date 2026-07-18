@@ -277,6 +277,106 @@
         "englishLiteral": "it-will-be-cut all- **flesh** again from-waters-of",
         "englishNatural": "will be cut all **flesh** again from the waters of"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "בָּשָׂר",
+        "transliteration": "basar",
+        "englishLiteral": "flesh",
+        "englishNatural": "flesh",
+        "root": "basar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַיָּה בְּכָל־ **בָּשָׂר** וְלֹא־ יִהְיֶה",
+        "transliteration": "chayah beKol- **basar** veLo- yihyeh",
+        "englishLiteral": "living_being, in-all- **flesh;** and-not- it-will-be",
+        "englishNatural": "the living-being, in all **flesh;** and the waters will be"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "בָּשָׂר",
+        "transliteration": "basar",
+        "englishLiteral": "flesh",
+        "englishNatural": "flesh",
+        "root": "basar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְשַׁחֵת כָּל־ **בָּשָׂר**",
+        "transliteration": "leshachet kol- **basar**",
+        "englishLiteral": "to-corrupt all- **flesh.**",
+        "englishNatural": "to corrupt all **flesh.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "בָּשָׂר",
+        "transliteration": "basar",
+        "englishLiteral": "flesh",
+        "englishNatural": "flesh",
+        "root": "basar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַיָּה בְּכָל־ **בָּשָׂר** אֲשֶׁר עַל־",
+        "transliteration": "chayah beKol- **basar** asher al-",
+        "englishLiteral": "living_being in-all- **flesh** which over-",
+        "englishNatural": "the living-being in all **flesh** which, over"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "בָּשָׂר",
+        "transliteration": "basar",
+        "englishLiteral": "flesh",
+        "englishNatural": "flesh",
+        "root": "basar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבֵין כָּל־ **בָּשָׂר** אֲשֶׁר עַל־",
+        "transliteration": "uveyn kol- **basar** asher al-",
+        "englishLiteral": "and-between all- **flesh** which over-",
+        "englishNatural": "and between all **flesh** which over"
+      }
     }
   ]
 }

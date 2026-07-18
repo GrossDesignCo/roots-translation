@@ -1,0 +1,34 @@
+{
+  "key": "hayotzeim",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הַיֹּצְאִים",
+        "transliteration": "haYotzeim",
+        "englishLiteral": "the-going-out",
+        "englishNatural": "that went forth",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְנֵי־ נֹחַ **הַיֹּצְאִים** מִן־ הַתֵּבָה",
+        "transliteration": "beney- Noach **haYotzeim** min- haTevah",
+        "englishLiteral": "sons-of- Rest (Noah), **the-going-out** from- the-ark--",
+        "englishNatural": "And the sons of Rest (Noah), **that went forth** from the ark,"
+      }
+    }
+  ]
+}

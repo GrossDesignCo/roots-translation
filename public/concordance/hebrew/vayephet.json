@@ -1,0 +1,32 @@
+{
+  "key": "vayephet",
+  "language": "hebrew",
+  "root": "yafet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וָיֶפֶת",
+        "transliteration": "vaYephet",
+        "englishLiteral": "and-Spacious (Japheth)",
+        "englishNatural": "and Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקַּח שֵׁם **וָיֶפֶת** אֶת־ הַשִּׂמְלָה,",
+        "transliteration": "vaYiqach Shem **vaYephet** et- haSimlah,",
+        "englishLiteral": "And-took Name (Shem) **and-Spacious (Japheth)** ↳ the-cloak,",
+        "englishNatural": "And Name (Shem) **and Spacious (Japheth)** took ↳"
+      }
+    }
+  ]
+}

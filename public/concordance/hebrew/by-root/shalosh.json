@@ -131,6 +131,31 @@
       "location": {
         "book": "Genesis",
         "chapter": 9,
+        "verse": 19
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "שְׁלֹשָׁה",
+        "transliteration": "shloshah",
+        "englishLiteral": "three",
+        "englishNatural": "three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "**שְׁלֹשָׁה** אֵלֶּה בְּנֵי־",
+        "transliteration": "**shloshah** eleh beney-",
+        "englishLiteral": "**three** these, sons-of-",
+        "englishNatural": "These **three,** sons of Rest (Noah);"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
         "verse": 28
       },
       "wordIndex": 4,

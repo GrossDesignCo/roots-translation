@@ -1053,6 +1053,106 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֲשֶׁר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ בְּרִיתִי **אֲשֶׁר** בֵּינִי וּבֵינֵיכֶם",
+        "transliteration": "et- beriti **asher** beyni uvEynekhem",
+        "englishLiteral": "↳ my-covenant, **which** between-me and-between-you,",
+        "englishNatural": "↳ my covenant, **which** is between me and between you,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "אֲשֶׁר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "בְּכָל־ בָּשָׂר **אֲשֶׁר** עַל־ הָאָרֶץ",
+        "transliteration": "beKol- basar **asher** al- haAretz",
+        "englishLiteral": "in-all- flesh **which** over- the-land.\"",
+        "englishNatural": "in all flesh **which,** over the land.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֲשֶׁר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "אוֹת־ הַבְּרִית **אֲשֶׁר** הֲקִמֹתִי בֵּינִי",
+        "transliteration": "ot- haBerit **asher** haQimoti beyni",
+        "englishLiteral": "sign-of the-covenant, **which** I-have-caused-to-stand_up, between-me,",
+        "englishNatural": "the sign of the covenant, **which** I have caused to stand-up, between me,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "אֲשֶׁר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ בָּשָׂר **אֲשֶׁר** עַל־ הָאָרֶץ",
+        "transliteration": "kol- basar **asher** al- haAretz",
+        "englishLiteral": "all- flesh **which** over- the-land.\"",
+        "englishNatural": "all flesh **which** over the land.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 5
       },

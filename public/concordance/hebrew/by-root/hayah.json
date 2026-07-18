@@ -2058,6 +2058,195 @@
       "location": {
         "book": "Genesis",
         "chapter": 9,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְהָיָה",
+        "transliteration": "veHayah",
+        "englishLiteral": "and-it-will-be",
+        "englishNatural": "And it will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהָיָה** בְּעַנְנִי עָנָן",
+        "transliteration": "**veHayah** beAnnani anan",
+        "englishLiteral": "**and-it-will-be,** in-my-clouding cloud",
+        "englishNatural": "**And it will be,** in my clouding cloud"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "יִהְיֶה",
+        "transliteration": "yihyeh",
+        "englishLiteral": "it-will-be",
+        "englishNatural": "will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בָּשָׂר וְלֹא־ **יִהְיֶה** עוֹד הַמַּיִם",
+        "transliteration": "basar veLo- **yihyeh** od haMayim",
+        "englishLiteral": "flesh; and-not- **it-will-be** again the-waters",
+        "englishNatural": "flesh; and the waters **will be** not again"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְהָיְתָה",
+        "transliteration": "veHayetah",
+        "englishLiteral": "and-she-will-be",
+        "englishNatural": "will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְהָיְתָה** הַקֶּשֶׁת בֶּעָנָן",
+        "transliteration": "**veHayetah** haQeshet beAnan",
+        "englishLiteral": "**and-she-will-be** the-bow, in-cloud;",
+        "englishNatural": "And the bow **will be** in the cloud; and I will see it,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיִּהְיוּ",
+        "transliteration": "vaYihyu",
+        "englishLiteral": "and-were",
+        "englishNatural": "were",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיִּהְיוּ** בְנֵי־ נֹחַ",
+        "transliteration": "**vaYihyu** beney- Noach",
+        "englishLiteral": "**and-were** sons-of- Rest (Noah),",
+        "englishNatural": "from the ark, **were** Name (Shem), and Hot (Ham),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 25
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "יִהְיֶה",
+        "transliteration": "yihyeh",
+        "englishLiteral": "he-will-be",
+        "englishNatural": "he will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֶבֶד עֲבָדִים **יִהְיֶה** לְאֶחָיו",
+        "transliteration": "eved avadim **yihyeh** leAchav",
+        "englishLiteral": "servant-of servants, **he-will-be** to-his-brothers.\"",
+        "englishNatural": "a servant of servants, **he will be** to his brothers.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 26
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וִיהִי",
+        "transliteration": "vihi",
+        "englishLiteral": "and-let-be",
+        "englishNatural": "and let it be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֵי שֵׁם **וִיהִי** כְנַעַן עֶבֶד",
+        "transliteration": "elohei Shem **vihi** Kenaan eved",
+        "englishLiteral": "Gods-of Name (Shem); **and-let-be** Low (Canaan), servant",
+        "englishNatural": "the God of Name (Shem); **and let it be,** Low (Canaan), servant"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 27
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וִיהִי",
+        "transliteration": "vihi",
+        "englishLiteral": "and-let-be",
+        "englishNatural": "and let it be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאָהֳלֵי־ שֵׁם **וִיהִי** כְנַעַן עֶבֶד",
+        "transliteration": "beAhalei- shem **vihi** Kenaan eved",
+        "englishLiteral": "in-tents-of- Name (Shem); **and-let-be** Low (Canaan), servant",
+        "englishNatural": "in the tents of Name (Shem); **and let it be,** Low (Canaan), servant"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
         "verse": 29
       },
       "wordIndex": 0,

@@ -1,0 +1,34 @@
+{
+  "key": "vayekhasu",
+  "language": "hebrew",
+  "root": "kasah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וַיְכַסּוּ",
+        "transliteration": "vaYekhasu",
+        "englishLiteral": "and-covered",
+        "englishNatural": "and they covered",
+        "root": "kasah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּלְכוּ אֲחֹרַנִּית, **וַיְכַסּוּ** אֵת עֶרְוַת",
+        "transliteration": "vaYelkhu achoranit, **vaYekhasu** et ervat",
+        "englishLiteral": "and-walked backward, **and-covered** ↳ nakedness-of",
+        "englishNatural": "and they walked backward, **and they covered** ↳ the nakedness of"
+      }
+    }
+  ]
+}

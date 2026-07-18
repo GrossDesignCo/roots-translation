@@ -80,6 +80,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "זֹאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "This",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ נֹחַ **זֹאת** אוֹת־ הַבְּרִית",
+        "transliteration": "el- Noach **zot** ot- haBerit",
+        "englishLiteral": "to- Rest (Noah), **\"this,** sign-of the-covenant,",
+        "englishNatural": "to Rest (Noah), **\"This,** the sign of the covenant,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 7
       },

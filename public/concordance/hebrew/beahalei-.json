@@ -1,0 +1,32 @@
+{
+  "key": "beahalei-",
+  "language": "hebrew",
+  "root": "ohel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 27
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בְּאָהֳלֵי־",
+        "transliteration": "beAhalei-",
+        "englishLiteral": "in-tents-of-",
+        "englishNatural": "in the tents of",
+        "root": "ohel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְיֶפֶת וְיִשְׁכֹּן **בְּאָהֳלֵי־** שֵׁם וִיהִי",
+        "transliteration": "leYafet veYishkon **beAhalei-** shem vihi",
+        "englishLiteral": "to-Spacious (Japheth), and-he-will-dwell **in-tents-of-** Name (Shem); and-let-be",
+        "englishNatural": "to Spacious (Japheth), and he will dwell **in the tents of** Name (Shem); and let it be,"
+      }
+    }
+  ]
+}

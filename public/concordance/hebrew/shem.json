@@ -181,6 +181,106 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שֵׁם",
+        "transliteration": "Shem",
+        "englishLiteral": "Name (Shem)",
+        "englishNatural": "Name (Shem)",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִן־ הַתֵּבָה **שֵׁם** וְחָם וָיָפֶת",
+        "transliteration": "min- haTevah **Shem** veCham vaYafet",
+        "englishLiteral": "from- the-ark-- **Name (Shem),** and-Hot (Ham) and-Spacious (Japheth);",
+        "englishNatural": "the ark, were **Name (Shem),** and Hot (Ham), and Spacious (Japheth);"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "שֵׁם",
+        "transliteration": "Shem",
+        "englishLiteral": "Name (Shem)",
+        "englishNatural": "And Name (Shem)",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיִּקַּח **שֵׁם** וָיֶפֶת אֶת־",
+        "transliteration": "vaYiqach **Shem** vaYephet et-",
+        "englishLiteral": "And-took **Name (Shem)** and-Spacious (Japheth) ↳",
+        "englishNatural": "**And Name (Shem)** and Spacious (Japheth) took"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 26
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "שֵׁם",
+        "transliteration": "Shem",
+        "englishLiteral": "Name (Shem)",
+        "englishNatural": "Name (Shem)",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֱלֹהֵי **שֵׁם** וִיהִי כְנַעַן",
+        "transliteration": "YHWH elohei **Shem** vihi Kenaan",
+        "englishLiteral": "He_Who_Is (YHWH) Gods-of **Name (Shem);** and-let-be Low (Canaan),",
+        "englishNatural": "He-Who-Is (YHWH) the God of **Name (Shem);** and let it be, Low (Canaan),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 27
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "שֵׁם",
+        "transliteration": "shem",
+        "englishLiteral": "Name (Shem)",
+        "englishNatural": "Name (Shem)",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְיִשְׁכֹּן בְּאָהֳלֵי־ **שֵׁם** וִיהִי כְנַעַן",
+        "transliteration": "veYishkon beAhalei- **shem** vihi Kenaan",
+        "englishLiteral": "and-he-will-dwell in-tents-of- **Name (Shem);** and-let-be Low (Canaan),",
+        "englishNatural": "and he will dwell in the tents of **Name (Shem);** and let it be, Low (Canaan),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 1
       },

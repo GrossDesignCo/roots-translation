@@ -527,6 +527,31 @@
         "englishLiteral": "from-all going-out-of **the-ark,** to-all living_being-of",
         "englishNatural": "from all the going-out of **the ark,** to all the living-being of"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הַתֵּבָה",
+        "transliteration": "haTevah",
+        "englishLiteral": "the-ark",
+        "englishNatural": "the ark",
+        "root": "tevah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיֹּצְאִים מִן־ **הַתֵּבָה** שֵׁם וְחָם",
+        "transliteration": "haYotzeim min- **haTevah** Shem veCham",
+        "englishLiteral": "the-going-out from- **the-ark--** Name (Shem), and-Hot (Ham)",
+        "englishNatural": "that went forth from **the ark,** were Name (Shem),"
+      }
     }
   ]
 }

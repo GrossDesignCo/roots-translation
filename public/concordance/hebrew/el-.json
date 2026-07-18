@@ -753,6 +753,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֹּאמֶר אֱלֹהִים **אֶל־** נֹחַ זֹאת",
+        "transliteration": "vayYomer Elohim **el-** Noach zot",
+        "englishLiteral": "And-said Gods, **to-** Rest (Noah), \"this,",
+        "englishNatural": "And God said **to** Rest (Noah), \"This,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 3
       },

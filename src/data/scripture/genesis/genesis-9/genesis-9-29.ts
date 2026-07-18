@@ -171,8 +171,8 @@ export const genesis_9_29: Verse = {
         type: 'verb',
       },
       grammarSuffix: {
-        englishLiteral: '."',
-        englishNatural: '."',
+        englishLiteral: '.',
+        englishNatural: '.',
       },
       lineBreaksAfter: 1,
     },
@@ -183,10 +183,10 @@ export const genesis_9_29: Verse = {
     transliteration:
       'vayihyu kol-yemey-Noach tesha meot shanah vachamishim shanah vayamot',
     englishLiteral:
-      'And-were all- days-of- Rest (Noah) nine hundreds year and-fifty year, and-he-died."',
+      'And-were all- days-of- Rest (Noah) nine hundreds year and-fifty year, and-he-died.',
     englishNatural:
-      'And all the days of Rest (Noah) were nine hundred years and fifty years, and he died."',
+      'And all the days of Rest (Noah) were nine hundred years and fifty years, and he died.',
     kjv: 'And all the days of Noah were nine hundred and fifty years: and he died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2026-07-18' },
 },
 };

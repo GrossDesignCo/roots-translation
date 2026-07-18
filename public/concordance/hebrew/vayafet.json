@@ -6,6 +6,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 18
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וָיָפֶת",
+        "transliteration": "vaYafet",
+        "englishLiteral": "and-Spacious (Japheth)",
+        "englishNatural": "and Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם וְחָם **וָיָפֶת** וְחָם הוּא",
+        "transliteration": "Shem veCham **vaYafet** veCham hu",
+        "englishLiteral": "Name (Shem), and-Hot (Ham) **and-Spacious (Japheth);** and-Hot (Ham), he",
+        "englishNatural": "Name (Shem), and Hot (Ham), **and Spacious (Japheth);** and Hot (Ham), he,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 10,
         "verse": 1
       },

@@ -1,0 +1,34 @@
+{
+  "key": "lezkor",
+  "language": "hebrew",
+  "root": "zakhar_remember",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לִזְכֹּר",
+        "transliteration": "leZkor",
+        "englishLiteral": "to-remember",
+        "englishNatural": "to remember",
+        "root": "zakhar_remember",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בֶּעָנָן וּרְאִיתִיהָ **לִזְכֹּר** בְּרִית עוֹלָם",
+        "transliteration": "beAnan uReitihah **leZkor** berit olam",
+        "englishLiteral": "in-cloud; and-I-have-seen-her, **to-remember** covenant the_age,",
+        "englishNatural": "in the cloud; and I will see it, **to remember** the covenant of the-age,"
+      }
+    }
+  ]
+}

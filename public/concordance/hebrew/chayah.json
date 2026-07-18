@@ -152,6 +152,56 @@
         "englishLiteral": "all- wind-of **living_being** which with-you,",
         "englishNatural": "all the wind of **the living-being** which is with you,"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "חַיָּה",
+        "transliteration": "chayah",
+        "englishLiteral": "living_being",
+        "englishNatural": "the living-being",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ נֶפֶשׁ **חַיָּה** בְּכָל־ בָּשָׂר",
+        "transliteration": "kol- nefesh **chayah** beKol- basar",
+        "englishLiteral": "all- wind-of **living_being,** in-all- flesh;",
+        "englishNatural": "all the wind of **the living-being,** in all flesh;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "חַיָּה",
+        "transliteration": "chayah",
+        "englishLiteral": "living_being",
+        "englishNatural": "the living-being",
+        "root": "chayah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ נֶפֶשׁ **חַיָּה** בְּכָל־ בָּשָׂר",
+        "transliteration": "kol- nefesh **chayah** beKol- basar",
+        "englishLiteral": "all- wind-of **living_being** in-all- flesh",
+        "englishNatural": "all the wind of **the living-being** in all flesh"
+      }
     }
   ]
 }

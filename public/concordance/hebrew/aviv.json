@@ -27,6 +27,31 @@
         "englishLiteral": "man ↳ **his-father,** and-↳ his-mother,",
         "englishNatural": "will leave ↳ **his father,** and his mother,"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אָבִיו",
+        "transliteration": "aviv",
+        "englishLiteral": "father-his",
+        "englishNatural": "his father",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵת, עֶרְוַת **אָבִיו;** וַיַּגֵּד לִשְׁנֵי־",
+        "transliteration": "et, ervat **aviv;** vaYagged liShney-",
+        "englishLiteral": "↳, nakedness-of **father-his;** And-declared to-two-",
+        "englishNatural": "↳, the nakedness of **his father;** and declared to his two"
+      }
     }
   ]
 }

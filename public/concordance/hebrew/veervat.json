@@ -1,0 +1,32 @@
+{
+  "key": "veervat",
+  "language": "hebrew",
+  "root": "ervah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "וְעֶרְוַת",
+        "transliteration": "veErvat",
+        "englishLiteral": "and-nakedness-of",
+        "englishNatural": "and the nakedness of",
+        "root": "ervah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּפְנֵיהֶם, אֲחֹרַנִּית, **וְעֶרְוַת** אֲבִיהֶם, לֹא",
+        "transliteration": "uPneihem, achoranit, **veErvat** avihem, lo",
+        "englishLiteral": "and-faces-their, backward, **and-nakedness-of** father-their, not",
+        "englishNatural": "and their faces, backward, **and the nakedness of** their father, they had seen"
+      }
+    }
+  ]
+}

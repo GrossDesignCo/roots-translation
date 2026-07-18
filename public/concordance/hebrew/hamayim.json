@@ -505,6 +505,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "הַמַּיִם",
+        "transliteration": "haMayim",
+        "englishLiteral": "the-waters",
+        "englishNatural": "and the waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִהְיֶה עוֹד **הַמַּיִם** לְמַבּוּל לְשַׁחֵת",
+        "transliteration": "yihyeh od **haMayim** leMabbul leshachet",
+        "englishLiteral": "it-will-be again **the-waters** to-flood, to-corrupt",
+        "englishNatural": "in all flesh; **and the waters** will be not"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 2,
         "verse": 10

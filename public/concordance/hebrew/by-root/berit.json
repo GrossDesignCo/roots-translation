@@ -130,6 +130,81 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 9,
+        "verse": 15
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בְּרִיתִי",
+        "transliteration": "beriti",
+        "englishLiteral": "my-covenant",
+        "englishNatural": "my covenant",
+        "root": "berit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְזָכַרְתִּי אֶת־ **בְּרִיתִי** אֲשֶׁר בֵּינִי",
+        "transliteration": "veZakharti et- **beriti** asher beyni",
+        "englishLiteral": "and-I-will-remember ↳ **my-covenant,** which between-me",
+        "englishNatural": "and I will remember ↳ **my covenant,** which is between me"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בְּרִית",
+        "transliteration": "berit",
+        "englishLiteral": "covenant",
+        "englishNatural": "the covenant",
+        "root": "berit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּרְאִיתִיהָ לִזְכֹּר **בְּרִית** עוֹלָם בֵּין",
+        "transliteration": "uReitihah leZkor **berit** olam beyn",
+        "englishLiteral": "and-I-have-seen-her, to-remember **covenant** the_age, between",
+        "englishNatural": "and I will see it, to remember **the covenant** of the-age, between"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "הַבְּרִית",
+        "transliteration": "haBerit",
+        "englishLiteral": "the-covenant",
+        "englishNatural": "the covenant",
+        "root": "berit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֹאת אוֹת־ **הַבְּרִית** אֲשֶׁר הֲקִמֹתִי",
+        "transliteration": "zot ot- **haBerit** asher haQimoti",
+        "englishLiteral": "\"this, sign-of **the-covenant,** which I-have-caused-to-stand_up,",
+        "englishNatural": "\"This, the sign of **the covenant,** which I have caused to stand-up,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 18
       },

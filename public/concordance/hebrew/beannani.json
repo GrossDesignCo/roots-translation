@@ -1,0 +1,34 @@
+{
+  "key": "beannani",
+  "language": "hebrew",
+  "root": "anan_verb",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בְּעַנְנִי",
+        "transliteration": "beAnnani",
+        "englishLiteral": "in-my-clouding",
+        "englishNatural": "in my clouding",
+        "root": "anan_verb",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיָה **בְּעַנְנִי** עָנָן עַל־",
+        "transliteration": "veHayah **beAnnani** anan al-",
+        "englishLiteral": "and-it-will-be, **in-my-clouding** cloud over-",
+        "englishNatural": "And it will be, **in my clouding** cloud over"
+      }
+    }
+  ]
+}

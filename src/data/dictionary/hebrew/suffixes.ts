@@ -87,6 +87,13 @@ const SUFFIXES = {
     englishNatural: 'it',
     function: '3rd person masculine singular object',
   },
+  mo: {
+    hebrew: 'מוֹ',
+    transliteration: 'mo',
+    englishLiteral: 'them',
+    englishNatural: 'them',
+    function: '3rd person masculine plural object (archaic/poetic, e.g. lamo)',
+  },
   eha: {
     hebrew: 'יהָ',
     transliteration: 'eha',

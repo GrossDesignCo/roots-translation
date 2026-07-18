@@ -1,0 +1,34 @@
+{
+  "key": "haqimoti",
+  "language": "hebrew",
+  "root": "qum",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 17
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הֲקִמֹתִי",
+        "transliteration": "haQimoti",
+        "englishLiteral": "I-have-caused-to-stand_up",
+        "englishNatural": "I have caused to stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הַבְּרִית אֲשֶׁר **הֲקִמֹתִי** בֵּינִי וּבֵין",
+        "transliteration": "haBerit asher **haQimoti** beyni uveyn",
+        "englishLiteral": "the-covenant, which **I-have-caused-to-stand_up,** between-me, and-between",
+        "englishNatural": "the covenant, which **I have caused to stand-up,** between me, and between"
+      }
+    }
+  ]
+}

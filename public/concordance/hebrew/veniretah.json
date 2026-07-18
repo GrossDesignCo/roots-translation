@@ -1,0 +1,34 @@
+{
+  "key": "veniretah",
+  "language": "hebrew",
+  "root": "raah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 14
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְנִרְאֲתָה",
+        "transliteration": "veNiretah",
+        "englishLiteral": "and-she-will-be-seen",
+        "englishNatural": "will be seen",
+        "root": "raah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הָאָרֶץ **וְנִרְאֲתָה** הַקֶּשֶׁת בֶּעָנָן",
+        "transliteration": "al- haAretz **veNiretah** haQeshet beAnan",
+        "englishLiteral": "over- the-land, **and-she-will-be-seen** the-bow, in-cloud,",
+        "englishNatural": "the land, and the bow **will be seen,** in the cloud,"
+      }
+    }
+  ]
+}

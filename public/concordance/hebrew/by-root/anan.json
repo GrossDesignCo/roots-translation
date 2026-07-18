@@ -29,6 +29,81 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "עָנָן",
+        "transliteration": "anan",
+        "englishLiteral": "cloud",
+        "englishNatural": "cloud",
+        "root": "anan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיָה בְּעַנְנִי **עָנָן** עַל־ הָאָרֶץ",
+        "transliteration": "veHayah beAnnani **anan** al- haAretz",
+        "englishLiteral": "and-it-will-be, in-my-clouding **cloud** over- the-land,",
+        "englishNatural": "And it will be, in my clouding **cloud** over the land,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 14
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בֶּעָנָן",
+        "transliteration": "beAnan",
+        "englishLiteral": "in-cloud",
+        "englishNatural": "in the cloud",
+        "root": "anan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְנִרְאֲתָה הַקֶּשֶׁת **בֶּעָנָן**",
+        "transliteration": "veNiretah haQeshet **beAnan**",
+        "englishLiteral": "and-she-will-be-seen the-bow, **in-cloud,**",
+        "englishNatural": "and the bow will be seen, **in the cloud,**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בֶּעָנָן",
+        "transliteration": "beAnan",
+        "englishLiteral": "in-cloud",
+        "englishNatural": "in the cloud",
+        "root": "anan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיְתָה הַקֶּשֶׁת **בֶּעָנָן** וּרְאִיתִיהָ לִזְכֹּר",
+        "transliteration": "veHayetah haQeshet **beAnan** uReitihah leZkor",
+        "englishLiteral": "and-she-will-be the-bow, **in-cloud;** and-I-have-seen-her, to-remember",
+        "englishNatural": "And the bow will be **in the cloud;** and I will see it, to remember"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 34,
         "verse": 5

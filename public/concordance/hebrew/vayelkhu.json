@@ -1,0 +1,34 @@
+{
+  "key": "vayelkhu",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 23
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וַיֵּלְכוּ",
+        "transliteration": "vaYelkhu",
+        "englishLiteral": "and-walked",
+        "englishNatural": "and they walked",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁכֶם שְׁנֵיהֶם, **וַיֵּלְכוּ** אֲחֹרַנִּית, וַיְכַסּוּ",
+        "transliteration": "shekhem shneihem, **vaYelkhu** achoranit, vaYekhasu",
+        "englishLiteral": "shoulder-of two-their, **and-walked** backward, and-covered",
+        "englishNatural": "the shoulder of both of them, **and they walked** backward, and they covered"
+      }
+    }
+  ]
+}
