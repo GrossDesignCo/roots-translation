@@ -1,0 +1,32 @@
+{
+  "key": "letov",
+  "language": "hebrew",
+  "root": "tov",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לְטוֹב",
+        "transliteration": "leTov",
+        "englishLiteral": "to-good",
+        "englishNatural": "to good",
+        "root": "tov",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ חָלָה **לְטוֹב** יוֹשֶׁבֶת מָרוֹת",
+        "transliteration": "ki- chalah **leTov** yoshevet Marot",
+        "englishLiteral": "that- she-has-been-sick **to-good** sitting-of Bitternesses (Maroth);",
+        "englishNatural": "Bitternesses (Maroth) has been sick **to good;** that bad"
+      }
+    }
+  ]
+}

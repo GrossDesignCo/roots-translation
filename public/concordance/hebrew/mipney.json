@@ -52,6 +52,31 @@
         "englishLiteral": "to-David, in-his-fleeing **from-faces_of** Father_of_Peace (Absalom) son-his.",
         "englishNatural": "to David, in his fleeing **from the face of** Father-of-Peace (Absalom), his son."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "מִפְּנֵי",
+        "transliteration": "miPney",
+        "englishLiteral": "from-faces-of",
+        "englishNatural": "from the faces of",
+        "root": "panim",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יִתְבַּקָּעוּ כַּדּוֹנַג **מִפְּנֵי** הָאֵשׁ כְּמַיִם",
+        "transliteration": "yitbaqaqu kaDonag **miPney** haEsh keMayim",
+        "englishLiteral": "they-will-break_open, like-wax **from-faces-of** the-fire, like-waters",
+        "englishNatural": "will break-open, like wax **from the faces of** the fire, like waters"
+      }
     }
   ]
 }

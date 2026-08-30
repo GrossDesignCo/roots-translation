@@ -1,0 +1,32 @@
+{
+  "key": "lemalkhey",
+  "language": "hebrew",
+  "root": "melekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "לְמַלְכֵי",
+        "transliteration": "leMalkhey",
+        "englishLiteral": "to-kings-of",
+        "englishNatural": "to the kings of",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַכְזִיב לְאַכְזָב **לְמַלְכֵי** יִשְׂרָאֵל׃",
+        "transliteration": "Akhziv leAkhzav **leMalkhey** Yisrael",
+        "englishLiteral": "Lie (Achzib) to-lie, **to-kings-of** Struggles_with_God (Israel).",
+        "englishNatural": "Lie (Achzib) to a lie, **to the kings of** Struggles-with-God (Israel)."
+      }
+    }
+  ]
+}

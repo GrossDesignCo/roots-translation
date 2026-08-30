@@ -1,0 +1,34 @@
+{
+  "key": "sholal",
+  "language": "hebrew",
+  "root": "shalal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "שׁוֹלָל",
+        "transliteration": "sholal",
+        "englishLiteral": "spoiled",
+        "englishNatural": "spoiled",
+        "root": "shalal",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵילִילָה אֵילְכָה **שׁוֹלָל** וְעָרוֹם אֶעֱשֶׂה",
+        "transliteration": "veEililah eilekhah **sholal** veArom eeseh",
+        "englishLiteral": "and-I-will-howl, I-will-walk **spoiled** and-naked; I-will-make",
+        "englishNatural": "and I will howl, I will walk **spoiled** and naked; I will make"
+      }
+    }
+  ]
+}

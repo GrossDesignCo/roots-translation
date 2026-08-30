@@ -83,6 +83,60 @@
         "englishLiteral": "that the-sea **walking** and-storming over-them.",
         "englishNatural": "that the sea **was walking** and storming over them."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "הוֹלֵךְ",
+        "transliteration": "holekh",
+        "englishLiteral": "walking",
+        "englishNatural": "walking",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עִם הַיָּשָׁר **הוֹלֵךְ׃**",
+        "transliteration": "im haYashar **holekh**",
+        "englishLiteral": "with the-straight **walking.**",
+        "englishNatural": "with the straight **walking?**"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הֹלֵךְ",
+        "transliteration": "holekh",
+        "englishLiteral": "walking",
+        "englishNatural": "walking",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לוּ־ אִישׁ **הֹלֵךְ** רוּחַ וָשֶׁקֶר",
+        "transliteration": "lu- ish **holekh** ruach vaSheqer",
+        "englishLiteral": "if_only- man **walking** Wind and-falsehood",
+        "englishNatural": "If only a man **walking** Wind and falsehood"
+      }
     }
   ]
 }

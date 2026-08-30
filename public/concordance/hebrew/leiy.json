@@ -1,0 +1,32 @@
+{
+  "key": "leiy",
+  "language": "hebrew",
+  "root": "iy",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לְעִי",
+        "transliteration": "leIy",
+        "englishLiteral": "to-heap-of",
+        "englishNatural": "to a heap of",
+        "root": "iy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְשַׂמְתִּי שֹׁמְרוֹן **לְעִי** הַשָּׂדֶה לְמַטָּעֵי",
+        "transliteration": "veSamti Shomron **leIy** haSadeh leMattei",
+        "englishLiteral": "And-I-have-placed Keep (Samaria) **to-heap-of** the-field to-plantings-of",
+        "englishNatural": "And I will place Keep (Samaria) **to a heap of** the field, to plantings of"
+      }
+    }
+  ]
+}

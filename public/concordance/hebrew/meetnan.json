@@ -1,0 +1,32 @@
+{
+  "key": "meetnan",
+  "language": "hebrew",
+  "root": "etnan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "מֵאֶתְנַן",
+        "transliteration": "meEtnan",
+        "englishLiteral": "from-hire-of",
+        "englishNatural": "from the hire of",
+        "root": "etnan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁמָמָה כִּי **מֵאֶתְנַן** זוֹנָה קִבָּצָה",
+        "transliteration": "shemamah ki **meEtnan** zonah qibbatzah",
+        "englishLiteral": "desolation; that **from-hire-of** harlot she-has-collected,",
+        "englishNatural": "desolation; that **from the hire of** a harlot, she has collected,"
+      }
+    }
+  ]
+}

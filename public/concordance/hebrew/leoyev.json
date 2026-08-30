@@ -1,0 +1,32 @@
+{
+  "key": "leoyev",
+  "language": "hebrew",
+  "root": "oyev",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לְאוֹיֵב",
+        "transliteration": "leOyev",
+        "englishLiteral": "to-enemy",
+        "englishNatural": "to an enemy",
+        "root": "oyev",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶתְמוּל עַמִּי **לְאוֹיֵב** יְקוֹמֵם מִמּוּל",
+        "transliteration": "veEtmol ammi **leOyev** yeQomem miMul",
+        "englishLiteral": "And-yesterday people-my **to-enemy** he-will-stand_up, from-front-of",
+        "englishNatural": "And yesterday my people **to an enemy** will stand-up, from front of"
+      }
+    }
+  ]
+}

@@ -7,6 +7,7 @@ import { numbers } from './numbers';
 import { isaiah } from './isaiah';
 import { ezekiel } from './ezekiel';
 import { jonah } from './jonah';
+import { micah } from './micah';
 import { revelation } from './revelation';
 import { matthew } from './matthew';
 import { daniel } from './daniel';
@@ -46,6 +47,7 @@ const allBooks: Book[] = [
   ezekiel,
   daniel,
   jonah,
+  micah,
   matthew,
   john,
   revelation,

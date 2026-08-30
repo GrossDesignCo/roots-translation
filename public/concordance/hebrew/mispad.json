@@ -1,0 +1,32 @@
+{
+  "key": "mispad",
+  "language": "hebrew",
+  "root": "misped",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "מִסְפַּד",
+        "transliteration": "mispad",
+        "englishLiteral": "lamentation-of",
+        "englishNatural": "the lamentation of",
+        "root": "misped",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹשֶׁבֶת צַאֲנָן **מִסְפַּד** בֵּית הָאֵצֶל",
+        "transliteration": "yoshevet Tsaanan **mispad** beit haEtsel",
+        "englishLiteral": "sitting-of Sheepfold (Zaanan); **lamentation-of** house-of the-Beside (Ezel)",
+        "englishNatural": "has brought-out not; **the lamentation of** the house of the-Beside (Ezel)"
+      }
+    }
+  ]
+}

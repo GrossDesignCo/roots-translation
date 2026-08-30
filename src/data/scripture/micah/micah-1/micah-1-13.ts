@@ -1,0 +1,266 @@
+import { Verse } from '@/types';
+
+export const micah_1_13: Verse = {
+  meta: {
+    book: 'Micah',
+    chapter: 1,
+    verse: 13,
+  },
+  words: [
+    {
+      hebrew: 'רְתֹם',
+      transliteration: 'retom',
+      englishLiteral: 'Harness',
+      englishNatural: 'Harness',
+      root: 'ratam',
+      order: 1,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '2nd',
+        tense: 'imperative',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'הַמֶּרְכָּבָה',
+      transliteration: 'haMerkavah',
+      englishLiteral: 'the-chariot',
+      englishNatural: 'the chariot',
+      root: 'merkavah',
+      prefixes: ['ha'],
+      order: 2,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לָרֶכֶשׁ',
+      transliteration: 'laRekhesh',
+      englishLiteral: 'to-the-steed',
+      englishNatural: 'to the steed',
+      root: 'rekhesh',
+      prefixes: ['la'],
+      order: 3,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'יוֹשֶׁבֶת',
+      transliteration: 'yoshevet',
+      englishLiteral: 'sitting-of',
+      englishNatural: 'sitting one of',
+      root: 'yashav',
+      order: 4,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'לָכִישׁ',
+      transliteration: 'Lakhish',
+      englishLiteral: 'Invincible (Lachish)',
+      englishNatural: 'Invincible (Lachish)',
+      root: 'lakhish',
+      order: 5,
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'רֵאשִׁית',
+      transliteration: 'reshit',
+      englishLiteral: 'beginning-of',
+      englishNatural: 'is the beginning of',
+      root: 'rosh',
+      suffixes: ['it'],
+      order: {
+        hebrew: 6,
+        english: 7,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'חַטָּאת',
+      transliteration: 'chattaat',
+      englishLiteral: 'sin',
+      englishNatural: 'sin',
+      root: 'chattaah',
+      order: {
+        hebrew: 7,
+        english: 8,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'absolute',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הִיא',
+      transliteration: 'hi',
+      englishLiteral: 'she',
+      englishNatural: 'she',
+      root: 'hi',
+      order: {
+        hebrew: 8,
+        english: 6,
+      },
+      morphology: {
+        type: 'pronoun',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'לְבַת־',
+      transliteration: 'leBat-',
+      englishLiteral: 'to-daughter-of',
+      englishNatural: 'to the daughter of',
+      root: 'bat',
+      prefixes: ['le'],
+      order: 9,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'צִיּוֹן',
+      transliteration: 'Tziyon',
+      englishLiteral: 'Marker (Zion)',
+      englishNatural: 'Marker (Zion)',
+      root: 'tziyon',
+      order: 10,
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'כִּי־',
+      transliteration: 'ki-',
+      englishLiteral: 'that-',
+      englishNatural: 'that',
+      root: 'ki',
+      order: 11,
+      morphology: {
+        type: 'conjunction',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'בָךְ',
+      transliteration: 'bakh',
+      englishLiteral: 'in-you',
+      englishNatural: 'in you',
+      root: 'be',
+      suffixes: ['ekh'],
+      order: 12,
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'נִמְצְאוּ',
+      transliteration: 'niMtseu',
+      englishLiteral: 'they-have-been-found',
+      englishNatural: 'have been found',
+      root: 'matsa',
+      prefixes: ['ni'],
+      suffixes: ['u'],
+      order: 13,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'niphal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'פִּשְׁעֵי',
+      transliteration: 'pishei',
+      englishLiteral: 'transgressions-of',
+      englishNatural: 'the transgressions of',
+      root: 'pesha',
+      suffixes: ['ey'],
+      order: 14,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'יִשְׂרָאֵל',
+      transliteration: 'Yisrael',
+      englishLiteral: 'Struggles_with_God (Israel)',
+      englishNatural: 'Struggles-with-God (Israel)',
+      root: 'yisrael',
+      order: 15,
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        hebrew: '׃',
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'רְתֹם הַמֶּרְכָּבָה לָרֶכֶשׁ יוֹשֶׁבֶת לָכִישׁ רֵאשִׁית חַטָּאת הִיא לְבַת־צִיּוֹן כִּי־בָךְ נִמְצְאוּ פִּשְׁעֵי יִשְׂרָאֵל׃',
+    transliteration:
+      'retom haMerkavah laRekhesh yoshevet Lakhish reshit chattaat hi leBat-Tziyon ki-bakh niMtseu pishei Yisrael',
+    englishLiteral:
+      'Harness the-chariot to-the-steed, sitting-of Invincible (Lachish); beginning-of sin she to-daughter-of Marker (Zion); that- in-you they-have-been-found transgressions-of Struggles_with_God (Israel).',
+    englishNatural:
+      'Harness the chariot to the steed, sitting one of Invincible (Lachish); she is the beginning of sin to the daughter of Marker (Zion); that in you have been found the transgressions of Struggles-with-God (Israel).',
+    kjv: 'O thou inhabitant of Lachish, bind the chariot to the swift beast: she is the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.',
+  },
+};

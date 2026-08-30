@@ -1,0 +1,32 @@
+{
+  "key": "amim",
+  "language": "hebrew",
+  "root": "am",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "עַמִּים",
+        "transliteration": "amim",
+        "englishLiteral": "peoples",
+        "englishNatural": "peoples",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁמְעוּ **עַמִּים** כֻּלָּם הַקְשִׁיבִי",
+        "transliteration": "shimu **amim** kullam haqshivi",
+        "englishLiteral": "\"Hear **peoples** all-of-them, hearken",
+        "englishNatural": "\"Hear, **peoples,** all of them; hearken,"
+      }
+    }
+  ]
+}

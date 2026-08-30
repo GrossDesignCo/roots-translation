@@ -1,0 +1,56 @@
+{
+  "root": "bamah_high",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "בָּמֳתֵי",
+        "transliteration": "bamotei",
+        "englishLiteral": "high_places-of",
+        "englishNatural": "the high-places of",
+        "root": "bamah_high",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְדָרַךְ עַל־ **בָּמֳתֵי** אָרֶץ׃",
+        "transliteration": "veDarakh al- **bamotei** aretz",
+        "englishLiteral": "and-he-has-trodden over- **high_places-of** earth.",
+        "englishNatural": "and tread over **the high-places of** earth."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "בָּמוֹת",
+        "transliteration": "bamot",
+        "englishLiteral": "high_places-of",
+        "englishNatural": "are the high-places of",
+        "root": "bamah_high",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֹׁמְרוֹן וּמִי **בָּמוֹת** יְהוּדָה הֲלוֹא",
+        "transliteration": "Shomron uMi **bamot** Yehudah halo",
+        "englishLiteral": "Keep (Samaria), and-who **high_places-of** Praise (Judah), is_it_not",
+        "englishNatural": "Keep (Samaria)? and who **are the high-places of** Praise (Judah)? is it not"
+      }
+    }
+  ]
+}

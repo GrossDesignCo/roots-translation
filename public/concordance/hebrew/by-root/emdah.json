@@ -1,0 +1,31 @@
+{
+  "root": "emdah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "עֶמְדָּתוֹ",
+        "transliteration": "emdato",
+        "englishLiteral": "standing-his",
+        "englishNatural": "his standing",
+        "root": "emdah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִקַּח מִכֶּם **עֶמְדָּתוֹ׃**",
+        "transliteration": "yiqach miKem **emdato**",
+        "englishLiteral": "he-will-take from-you **standing-his.**",
+        "englishNatural": "will take from you **his standing.**"
+      }
+    }
+  ]
+}

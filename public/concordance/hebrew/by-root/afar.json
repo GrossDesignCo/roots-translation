@@ -126,6 +126,31 @@
         "englishLiteral": "and-outsides, and-head-of **dusts-of** world.",
         "englishNatural": "and outsides, and the head of **dusts of** the world."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "עָפָר",
+        "transliteration": "afar",
+        "englishLiteral": "dust",
+        "englishNatural": "dust",
+        "root": "afar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּבֵית לְעַפְרָה **עָפָר** הִתְפַּלָּשִׁי׃",
+        "transliteration": "beBeit leAphrah **afar** hitPalashi",
+        "englishLiteral": "in-house-of to-Dust (Aphrah), **dust** wallow-yourself.",
+        "englishNatural": "in the house to Dust (Aphrah), **dust,** wallow yourself."
+      }
     }
   ]
 }

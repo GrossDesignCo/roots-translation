@@ -1,0 +1,34 @@
+{
+  "key": "yaldati",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "יָלַ֥דְתִּי",
+        "transliteration": "yaldati",
+        "englishLiteral": "I-have-birthed",
+        "englishNatural": "I have birthed",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְאִ֔ישׁ וְגַ֖ם **יָלַ֥דְתִּי** בָנִֽים׃",
+        "transliteration": "leIsh veGam **yaldati** banim",
+        "englishLiteral": "to-man, and-also **I-have-birthed** sons,",
+        "englishNatural": "to a man, and also **I have birthed** sons,"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "verut",
+  "language": "hebrew",
+  "root": "rut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְר֖וּת",
+        "transliteration": "veRut",
+        "englishLiteral": "and-Friend (Ruth)",
+        "englishNatural": "but Friend (Ruth)",
+        "root": "rut",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָרְפָּה֙ לַחֲמוֹתָ֔הּ **וְר֖וּת** דָּ֥בְקָה בָּֽהּ׃",
+        "transliteration": "Orpah laChamotah **veRut** davqah bah",
+        "englishLiteral": "Neck (Orpah) to-mother-in-law-her; **and-Friend (Ruth)** she-has-clung in-her.",
+        "englishNatural": "kissed to her mother-in-law; **but Friend (Ruth)** clung in her."
+      }
+    }
+  ]
+}

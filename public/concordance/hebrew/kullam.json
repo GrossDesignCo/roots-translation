@@ -1,0 +1,32 @@
+{
+  "key": "kullam",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "כֻּלָּם",
+        "transliteration": "kullam",
+        "englishLiteral": "all-of-them",
+        "englishNatural": "all of them",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁמְעוּ עַמִּים **כֻּלָּם** הַקְשִׁיבִי אֶרֶץ",
+        "transliteration": "shimu amim **kullam** haqshivi eretz",
+        "englishLiteral": "\"Hear peoples **all-of-them,** hearken earth",
+        "englishNatural": "\"Hear, peoples, **all of them;** hearken, earth"
+      }
+    }
+  ]
+}

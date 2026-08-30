@@ -127,6 +127,31 @@
         "englishLiteral": "all- servants-your **these** to-me and-they-will-bow_down-",
         "englishNatural": "And all **these** your servants will go-down"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֵלֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "these",
+        "englishNatural": "these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אִם־ **אֵלֶּה** מַעֲלָלָיו הֲלוֹא",
+        "transliteration": "YHWH im- **eleh** maAlalav halo",
+        "englishLiteral": "He_Who_Is (YHWH)? if- **these** deeds-his; is_it_not",
+        "englishNatural": "short? if **these,** his deeds? is it not"
+      }
     }
   ]
 }

@@ -54,6 +54,56 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אַ֣ל",
+        "transliteration": "al",
+        "englishLiteral": "not",
+        "englishNatural": "No",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הֱיוֹת לְאִ֑ישׁ **אַ֣ל** בְּנֹתַ֗י כִּֽי־",
+        "transliteration": "hiYot leIsh **al** benotai ki-",
+        "englishLiteral": "to-be to-man; **not** my-daughters, that-",
+        "englishNatural": "being to a man? **No,** my daughters; for"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּאמֶר רוּת **אַל־** תִּפְגְּעִי־ בִי",
+        "transliteration": "vatTomer Rut **al-** tipgei- vi",
+        "englishLiteral": "And-said, Friend (Ruth) **\"not-** you-will-encounter in-me",
+        "englishNatural": "\"You will encounter me **not** to leave you, to return"
+      }
+    },
+    {
+      "location": {
         "book": "Isaiah",
         "chapter": 6,
         "verse": 9
@@ -175,6 +225,81 @@
         "transliteration": "haOmer lekha **al-** tira ani",
         "englishLiteral": "the-saying to-you **\"not-** you-will-fear, I",
         "englishNatural": "to you \"You will fear **not,** I, I have helped you.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "בְּגַת **אַל־** תַּגִּידוּ בָּכוֹ",
+        "transliteration": "beGat **al-** taGgidu bakho",
+        "englishLiteral": "in-Winepress (Gath), **not-** you-will-declare; weeping,",
+        "englishNatural": "In Winepress (Gath) you will declare **not;** weeping, you will weep"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "תַּגִּידוּ בָּכוֹ **אַל־** תִּבְכּוּ בְּבֵית",
+        "transliteration": "taGgidu bakho **al-** tiVkhu beBeit",
+        "englishLiteral": "you-will-declare; weeping, **not-** you-will-weep; in-house-of",
+        "englishNatural": "weeping, you will weep **not;** in the house to Dust (Aphrah),"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**אַל־** תַּטִּפוּ יַטִּיפוּן",
+        "transliteration": "**al-** taTtifu yaTtifun",
+        "englishLiteral": "**not-** you-will-drip; they-will-drip;",
+        "englishNatural": "You will drip **not;** they will drip; they will drip"
       }
     }
   ]

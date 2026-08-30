@@ -1,7 +1,7 @@
 {
   "key": "ivri",
   "language": "hebrew",
-  "root": "ivri",
+  "root": "avar",
   "occurrences": [
     {
       "location": {
@@ -26,6 +26,33 @@
         "transliteration": "vaYomer aleihem **ivri** anokhi veEt-",
         "englishLiteral": "And-said to-them, **\"Passes_Through (Hebrew)** I; and-↳",
         "englishNatural": "And he said to them, **\"Passes-Through (Hebrew)** am I; and"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "עִבְרִי",
+        "transliteration": "ivri",
+        "englishLiteral": "Pass_through",
+        "englishNatural": "Pass-through",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**עִבְרִי** לָכֶם יוֹשֶׁבֶת",
+        "transliteration": "**ivri** lakhem yoshevet",
+        "englishLiteral": "**Pass_through** to-you sitting-of",
+        "englishNatural": "**Pass-through** to you, the sitting of"
       }
     }
   ]

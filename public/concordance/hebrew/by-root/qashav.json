@@ -1,0 +1,33 @@
+{
+  "root": "qashav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הַקְשִׁיבִי",
+        "transliteration": "haqshivi",
+        "englishLiteral": "hearken",
+        "englishNatural": "hearken",
+        "root": "qashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "עַמִּים כֻּלָּם **הַקְשִׁיבִי** אֶרֶץ וּמְלֹאָהּ",
+        "transliteration": "amim kullam **haqshivi** eretz uMeloah",
+        "englishLiteral": "peoples all-of-them, **hearken** earth and-fullness-her;",
+        "englishNatural": "peoples, all of them; **hearken,** earth and her fullness;"
+      }
+    }
+  ]
+}

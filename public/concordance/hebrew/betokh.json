@@ -202,6 +202,31 @@
         "englishLiteral": "it-was the-wheel **in-midst-of** the-wheel.",
         "englishNatural": "the wheel was **in the midst of** the wheel."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "בְּתוֹךְ",
+        "transliteration": "beTokh",
+        "englishLiteral": "in-midst-of",
+        "englishNatural": "in the midst of",
+        "root": "tokh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּצְרָה כְּעֵדֶר **בְּתוֹךְ** הַדָּבְרוֹ תְּהִימֶנָה",
+        "transliteration": "Botsrah keEder **beTokh** haDovro teHimenah",
+        "englishLiteral": "Enclosure (Bozrah); like-herd **in-midst-of** the-fold-his, they-will-roar",
+        "englishNatural": "Enclosure (Bozrah); like a herd **in the midst of** his fold, they will roar"
+      }
     }
   ]
 }

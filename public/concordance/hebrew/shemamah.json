@@ -27,6 +27,31 @@
         "englishLiteral": "and-the-ground she-will-be_desolate **desolation.**",
         "englishNatural": "and the ground is desolate, **a desolation.**"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "שְׁמָמָה",
+        "transliteration": "shemamah",
+        "englishLiteral": "desolation",
+        "englishNatural": "desolation",
+        "root": "shemamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֲצַבֶּיהָ אָשִׂים **שְׁמָמָה** כִּי מֵאֶתְנַן",
+        "transliteration": "atzabeiha asim **shemamah** ki meEtnan",
+        "englishLiteral": "idols-her I-will-place **desolation;** that from-hire-of",
+        "englishNatural": "her idols I will place **desolation;** that from the hire of"
+      }
     }
   ]
 }

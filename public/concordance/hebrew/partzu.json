@@ -1,0 +1,34 @@
+{
+  "key": "partzu",
+  "language": "hebrew",
+  "root": "parats",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "פָּרְצוּ",
+        "transliteration": "partzu",
+        "englishLiteral": "they-have-broken_through",
+        "englishNatural": "they have broken-through",
+        "root": "parats",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַפֹּרֵץ לִפְנֵיהֶם **פָּרְצוּ** וַיַּעֲבֹרוּ שַׁעַר",
+        "transliteration": "haPoretz liFneihem **partzu** vaYaavru shaar",
+        "englishLiteral": "the-breaking_through to-faces-their, **they-have-broken_through,** and-they-will-pass_through gate,",
+        "englishNatural": "has gone-up to their faces, **they have broken-through,** and they will pass-through a gate,"
+      }
+    }
+  ]
+}

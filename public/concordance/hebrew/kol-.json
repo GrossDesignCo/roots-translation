@@ -1902,6 +1902,31 @@
         "englishLiteral": "and-river goes_around-me; **all-** breakers-your and-waves-your,",
         "englishNatural": "and the river goes-around me; **all** your breakers and your waves,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בְּפֶשַׁע יַעֲקֹב **כָּל־** זֹאת וּבְחַטֹּאות",
+        "transliteration": "bePesha Yaaqov **kol-** zot uvChattot",
+        "englishLiteral": "in-transgression-of Heel_Grasper (Jacob) **all-** this, and-in-sins-of",
+        "englishNatural": "In the transgression of Heel-Grasper (Jacob) **all** this, and in the sins of"
+      }
     }
   ]
 }

@@ -28,6 +28,33 @@
         "englishLiteral": "who- **he-has-worked** and-he-has-made calling",
         "englishNatural": "Who **has worked** and has made, calling"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וּפֹ֥עֲלֵי",
+        "transliteration": "uPoalei",
+        "englishLiteral": "and-workers-of",
+        "englishNatural": "and workers of",
+        "root": "paal_verb",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "חֹֽשְׁבֵי־ אָ֛וֶן **וּפֹ֥עֲלֵי** רָ֖ע עַל־",
+        "transliteration": "choshvei- aven **uPoalei** ra al-",
+        "englishLiteral": "planners-of trouble **and-workers-of** bad, over-",
+        "englishNatural": "planners of trouble **and workers of** bad, over"
+      }
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "key": "begat",
+  "language": "hebrew",
+  "root": "gat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "בְּגַת",
+        "transliteration": "beGat",
+        "englishLiteral": "in-Winepress (Gath)",
+        "englishNatural": "In Winepress (Gath)",
+        "root": "gat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּגַת** אַל־ תַּגִּידוּ",
+        "transliteration": "**beGat** al- taGgidu",
+        "englishLiteral": "**in-Winepress (Gath),** not- you-will-declare;",
+        "englishNatural": "**In Winepress (Gath)** you will declare not;"
+      }
+    }
+  ]
+}

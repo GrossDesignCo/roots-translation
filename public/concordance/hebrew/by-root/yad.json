@@ -454,6 +454,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 20,
+      "sourceOrder": 20,
+      "word": {
+        "originalScript": "יַד־",
+        "transliteration": "yad-",
+        "englishLiteral": "hand-",
+        "englishNatural": "the hand of",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָצְאָ֥ה בִ֖י **יַד־** יְהוָֽה׃",
+        "transliteration": "yatsah vi **yad-** YHWH",
+        "englishLiteral": "she-has-brought_out in-me **hand-** He_Who_Is (YHWH).\"",
+        "englishNatural": "from you, for **the hand of** He-Who-Is (YHWH) has gone out"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 10
@@ -750,6 +775,31 @@
         "transliteration": "vaYimtzaem eser **yadot** al kol-",
         "englishLiteral": "and-he-found-them ten **hands** over all-",
         "englishNatural": "and he found them ten **hands** over all"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "יָדָֽם",
+        "transliteration": "yadam",
+        "englishLiteral": "hand-their",
+        "englishNatural": "their hand",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֶשׁ־ לְאֵ֖ל **יָדָֽם׃**",
+        "transliteration": "yesh- leEl **yadam**",
+        "englishLiteral": "there_is- to-power-of **hand-their.**",
+        "englishNatural": "there-is to the power of **their hand.**"
       }
     }
   ]

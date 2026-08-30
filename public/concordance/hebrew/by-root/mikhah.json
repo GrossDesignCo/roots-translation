@@ -1,0 +1,31 @@
+{
+  "root": "mikhah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "מִיכָה",
+        "transliteration": "Mikhah",
+        "englishLiteral": "Who_Is_Like_He (Micah)",
+        "englishNatural": "Who-Is-Like-He (Micah)",
+        "root": "mikhah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיָה אֶל־ **מִיכָה** הַמֹּרַשְׁתִּי בִּימֵי",
+        "transliteration": "hayah el- **Mikhah** haMorashti biYmey",
+        "englishLiteral": "was to- **Who_Is_Like_He (Micah)** the-Possessionite (Morashtite) in-days-of",
+        "englishNatural": "was to **Who-Is-Like-He (Micah)** the Possessionite (Morashtite), in the days of"
+      }
+    }
+  ]
+}

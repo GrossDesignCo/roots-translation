@@ -77,6 +77,31 @@
         "englishLiteral": "in-inscribing-his foundations-of **land.**",
         "englishNatural": "in his inscribing the foundations of **land.**"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אָרֶץ",
+        "transliteration": "aretz",
+        "englishLiteral": "earth",
+        "englishNatural": "earth",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ בָּמֳתֵי **אָרֶץ׃**",
+        "transliteration": "al- bamotei **aretz**",
+        "englishLiteral": "over- high_places-of **earth.**",
+        "englishNatural": "over the high-places of **earth.**"
+      }
     }
   ]
 }

@@ -252,6 +252,56 @@
         "englishLiteral": "and-appointed Gods **wind,** east_wind scorching,",
         "englishNatural": "and God appointed **a wind,** a scorching east-wind,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "רוּחַ",
+        "transliteration": "ruach",
+        "englishLiteral": "Wind-of",
+        "englishNatural": "is the Wind of",
+        "root": "ruach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יַעֲקֹב הֲקָצַר **רוּחַ** יְהוָה אִם־",
+        "transliteration": "Yaaqov haQatsar **ruach** YHWH im-",
+        "englishLiteral": "Heel_Grasper (Jacob), whether-has-been-short **Wind-of** He_Who_Is (YHWH)? if-",
+        "englishNatural": "the house of Heel-Grasper (Jacob), **is the Wind of** He-Who-Is (YHWH) short?"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "רוּחַ",
+        "transliteration": "ruach",
+        "englishLiteral": "Wind",
+        "englishNatural": "Wind",
+        "root": "ruach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ הֹלֵךְ **רוּחַ** וָשֶׁקֶר כִּזֵּב",
+        "transliteration": "ish holekh **ruach** vaSheqer kizzev",
+        "englishLiteral": "man walking **Wind** and-falsehood he-has-falsified,",
+        "englishNatural": "a man walking **Wind** and falsehood has falsified,"
+      }
     }
   ]
 }

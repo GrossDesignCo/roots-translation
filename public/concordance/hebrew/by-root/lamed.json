@@ -904,6 +904,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "לָּ֑הּ",
+        "transliteration": "lah",
+        "englishLiteral": "to-her",
+        "englishNatural": "to her",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּאמַ֖רְנָה־ **לָּ֑הּ** כִּֽי־ אִתָּ֥ךְ",
+        "transliteration": "vatTomarnah- **lah** ki- itakh",
+        "englishLiteral": "And-said **to-her;** \"that- with-you",
+        "englishNatural": "And they said **to her,** \"That with you"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 46,
         "verse": 1

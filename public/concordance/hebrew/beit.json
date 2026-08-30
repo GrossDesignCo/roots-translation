@@ -102,6 +102,56 @@
         "englishLiteral": "↳ the-vessels **house** treasure Gods-his.",
         "englishNatural": "↳ the vessels **to the house** of treasure of his God."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בֵּית",
+        "transliteration": "beit",
+        "englishLiteral": "house-of",
+        "englishNatural": "the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֹאת וּבְחַטֹּאות **בֵּית** יִשְׂרָאֵל מִי־",
+        "transliteration": "zot uvChattot **beit** Yisrael mi-",
+        "englishLiteral": "this, and-in-sins-of **house-of** Struggles_with_God (Israel); who-",
+        "englishNatural": "this, and in the sins of **the house of** Struggles-with-God (Israel); who"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "בֵּית",
+        "transliteration": "beit",
+        "englishLiteral": "house-of",
+        "englishNatural": "the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צַאֲנָן מִסְפַּד **בֵּית** הָאֵצֶל יִקַּח",
+        "transliteration": "Tsaanan mispad **beit** haEtsel yiqach",
+        "englishLiteral": "Sheepfold (Zaanan); lamentation-of **house-of** the-Beside (Ezel) he-will-take",
+        "englishNatural": "not; the lamentation of **the house of** the-Beside (Ezel) will take"
+      }
     }
   ]
 }

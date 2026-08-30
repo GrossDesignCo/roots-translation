@@ -173,8 +173,8 @@ export const genesis_15_4: Verse = {
     {
       hebrew: 'מִמֵּעֶיךָ',
       transliteration: 'mimmeykha',
-      englishLiteral: 'from-bowels-of-you',
-      englishNatural: 'from your bowels',
+      englishLiteral: 'from-belly-of-you',
+      englishNatural: 'from your belly',
       root: 'meah',
       prefixes: ['mi'],
       suffixes: ['kha'],
@@ -236,9 +236,9 @@ export const genesis_15_4: Verse = {
     transliteration:
       'veHineh devar-YHWH elav lemor lo yirashkha zeh ki-im asher yetze mimmeykha hu yirashekha',
     englishLiteral:
-      'And-behold word-of- He_Who_Is (YHWH) to-him, to-say, "Not he-will-inherit-you this, but which he-will-come-out from-bowels-of-you, he he-will-inherit-you."',
+      'And-behold word-of- He_Who_Is (YHWH) to-him, to-say, "Not he-will-inherit-you this, but which he-will-come-out from-belly-of-you, he he-will-inherit-you."',
     englishNatural:
-      'And behold the word of He-Who-Is (YHWH) came to him, saying, "Not will inherit you this; but he which will come out from your bowels, he will inherit you."',
+      'And behold the word of He-Who-Is (YHWH) came to him, saying, "Not will inherit you this; but he which will come out from your belly, he will inherit you."',
     kjv: 'And, behold, the word of the LORD came unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir.',
     lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
 },

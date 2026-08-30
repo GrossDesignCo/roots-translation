@@ -253,7 +253,7 @@ const ROOTS = {
     englishNatural: 'to see',
     type: 'verb',
     description: 'to see, to behold, to perceive (Aramaic)',
-    cognateHebrew: ['raah'] as const,
+    cognateHebrew: ['chazah', 'raah'] as const,
   },
   alu: {
     aramaic: 'אֲלוּ',

@@ -28,6 +28,33 @@
         "englishLiteral": "to- friend-his, **\"Go,** and-let-us-cause-to-fall lots,",
         "englishNatural": "to his friend, **\"Go,** and let us cause-to-fall lots,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "וּלְכוּ",
+        "transliteration": "uLekhu",
+        "englishLiteral": "and-go",
+        "englishNatural": "and go",
+        "root": "lekhu",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "קוּמוּ **וּלְכוּ** כִּי לֹא־",
+        "transliteration": "qumu **uLekhu** ki lo-",
+        "englishLiteral": "Stand_up **and-go,** that not-",
+        "englishNatural": "Stand-up **and go,** that this"
+      }
     }
   ]
 }

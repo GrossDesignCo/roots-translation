@@ -26,6 +26,81 @@
         "englishLiteral": "**therefore** say to-sons-of-",
         "englishNatural": "**Therefore** say to the sons of"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לָכֵן",
+        "transliteration": "lakhen",
+        "englishLiteral": "therefore",
+        "englishNatural": "Therefore",
+        "root": "lakhen",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לָכֵן** תִּתְּנִי שִׁלּוּחִים",
+        "transliteration": "**lakhen** titteni shilluchim",
+        "englishLiteral": "**therefore** you-will-give send_offs,",
+        "englishNatural": "**Therefore** you will give send-offs,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לָכֵן",
+        "transliteration": "lakhen",
+        "englishLiteral": "therefore",
+        "englishNatural": "Therefore",
+        "root": "lakhen",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לָכֵן** כֹּה אָמַר",
+        "transliteration": "**lakhen** koh amar",
+        "englishLiteral": "**therefore** thus said",
+        "englishNatural": "**Therefore** thus has said"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לָכֵן",
+        "transliteration": "lakhen",
+        "englishLiteral": "therefore",
+        "englishNatural": "Therefore",
+        "root": "lakhen",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**לָכֵן** לֹא־ יִהְיֶה",
+        "transliteration": "**lakhen** lo- yihyeh",
+        "englishLiteral": "**therefore** not- he-will-be",
+        "englishNatural": "**Therefore** there will be not"
+      }
     }
   ]
 }

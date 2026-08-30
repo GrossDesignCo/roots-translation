@@ -5,6 +5,81 @@
   "occurrences": [
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לְאִ֑ישׁ",
+        "transliteration": "leIsh",
+        "englishLiteral": "to-man",
+        "englishNatural": "to a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זָקַ֖נְתִּי מִהְי֣וֹת **לְאִ֑ישׁ** כִּ֤י אָמַ֙רְתִּי֙",
+        "transliteration": "zaqanti miHiyot **leIsh** ki amarti",
+        "englishLiteral": "I-have-grown_old from-to_be **to-man;** that I-have-said",
+        "englishNatural": "I have grown old from being **to a man;** that I have said,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "לְאִ֔ישׁ",
+        "transliteration": "leIsh",
+        "englishLiteral": "to-man",
+        "englishNatural": "to a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיִ֤יתִי הַלַּ֙יְלָה֙ **לְאִ֔ישׁ** וְגַ֖ם יָלַ֥דְתִּי",
+        "transliteration": "hayiti haLaylah **leIsh** veGam yaldati",
+        "englishLiteral": "I-have-been the-night **to-man,** and-also I-have-birthed",
+        "englishNatural": "I have been the night **to a man,** and also I have birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "לְאִ֑ישׁ",
+        "transliteration": "leIsh",
+        "englishLiteral": "to-man",
+        "englishNatural": "to a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְבִלְתִּ֖י הֱיוֹת **לְאִ֑ישׁ** אַ֣ל בְּנֹתַ֗י",
+        "transliteration": "leBilti hiYot **leIsh** al benotai",
+        "englishLiteral": "to-not to-be **to-man;** not my-daughters,",
+        "englishNatural": "without being **to a man?** No, my daughters;"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 11

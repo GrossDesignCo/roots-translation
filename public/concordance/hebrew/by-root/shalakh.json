@@ -136,6 +136,33 @@
         "englishLiteral": "**And-threw** man branch-his",
         "englishNatural": "And man **threw** his branch, and they were"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "מַשְׁלִיךְ",
+        "transliteration": "maShlikh",
+        "englishLiteral": "one-who-throws",
+        "englishNatural": "one who throws",
+        "root": "shalakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יִהְיֶה לְךָ **מַשְׁלִיךְ** חֶבֶל בְּגוֹרָל",
+        "transliteration": "yihyeh lekha **maShlikh** chevel beGoral",
+        "englishLiteral": "he-will-be to-you, **one-who-throws** cord in-lot;",
+        "englishNatural": "not to you, **one who throws** a cord in a lot,"
+      }
     }
   ]
 }

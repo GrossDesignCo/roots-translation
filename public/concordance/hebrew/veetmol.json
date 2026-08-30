@@ -1,0 +1,32 @@
+{
+  "key": "veetmol",
+  "language": "hebrew",
+  "root": "etmol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאֶתְמוּל",
+        "transliteration": "veEtmol",
+        "englishLiteral": "And-yesterday",
+        "englishNatural": "And yesterday",
+        "root": "etmol",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֶתְמוּל** עַמִּי לְאוֹיֵב",
+        "transliteration": "**veEtmol** ammi leOyev",
+        "englishLiteral": "**And-yesterday** people-my to-enemy",
+        "englishNatural": "**And yesterday** my people to an enemy"
+      }
+    }
+  ]
+}

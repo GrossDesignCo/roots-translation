@@ -154,6 +154,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הִ֖יא",
+        "transliteration": "hi",
+        "englishLiteral": "she",
+        "englishNatural": "she",
+        "root": "hi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּֽי־ מִתְאַמֶּ֥צֶת **הִ֖יא** לָלֶ֣כֶת אִתָּ֑הּ",
+        "transliteration": "ki- mitAmetset **hi** laLekhet itah",
+        "englishLiteral": "that- being-strong **she** to-go with-her;",
+        "englishNatural": "And she saw that **she** was steadfast to go"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 13
@@ -175,6 +200,56 @@
         "transliteration": "keMarah haLappidim **hi** mithalekhet beyn",
         "englishLiteral": "like-appearance-of the-torches **she** going between",
         "englishNatural": "like the appearance of The Torches **she** was going between"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הִיא",
+        "transliteration": "hi",
+        "englishLiteral": "she",
+        "englishNatural": "she",
+        "root": "hi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "רֵאשִׁית חַטָּאת **הִיא** לְבַת־ צִיּוֹן",
+        "transliteration": "reshit chattaat **hi** leBat- Tziyon",
+        "englishLiteral": "beginning-of sin **she** to-daughter-of Marker (Zion);",
+        "englishNatural": "sitting one of Invincible (Lachish); **she** is the beginning of sin"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 21,
+      "sourceOrder": 21,
+      "word": {
+        "originalScript": "הִיא",
+        "transliteration": "hi",
+        "englishLiteral": "she",
+        "englishNatural": "she",
+        "root": "hi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "עֵת רָעָה **הִיא׃**",
+        "transliteration": "et raah **hi**",
+        "englishLiteral": "time bad **she.**",
+        "englishNatural": "a time bad, **she.**"
       }
     }
   ]

@@ -78,6 +78,81 @@
         "englishLiteral": "To-hand-of **gates,** to-mouth-of city,",
         "englishNatural": "To the hand of **gates,** to the mouth of a city,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "שַׁעַר",
+        "transliteration": "shaar",
+        "englishLiteral": "gate-of",
+        "englishNatural": "the gate of",
+        "root": "shaar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נָגַע עַד־ **שַׁעַר** עַמִּי עַד־",
+        "transliteration": "naga ad- **shaar** ammi ad-",
+        "englishLiteral": "he-has-touched until- **gate-of** people-my, until-",
+        "englishNatural": "he has touched until **the gate of** my people, until"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "לְשַׁעַר",
+        "transliteration": "leShaar",
+        "englishLiteral": "to-gate-of",
+        "englishNatural": "to the gate of",
+        "root": "shaar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאֵת יְהוָה **לְשַׁעַר** יְרוּשָׁלִָם׃",
+        "transliteration": "meEt YHWH **leShaar** Yerushalayim",
+        "englishLiteral": "from-with He_Who_Is (YHWH) **to-gate-of** Foundation_of_Peace (Jerusalem).",
+        "englishNatural": "from with He-Who-Is (YHWH) **to the gate of** Foundation-of-Peace (Jerusalem)."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "שַׁעַר",
+        "transliteration": "shaar",
+        "englishLiteral": "gate",
+        "englishNatural": "a gate",
+        "root": "shaar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פָּרְצוּ וַיַּעֲבֹרוּ **שַׁעַר** וַיֵּצְאוּ בּוֹ",
+        "transliteration": "partzu vaYaavru **shaar** vaYetzeu bo",
+        "englishLiteral": "they-have-broken_through, and-they-will-pass_through **gate,** and-they-will-go_out in-it;",
+        "englishNatural": "they have broken-through, and they will pass-through **a gate,** and they will go-out in it;"
+      }
     }
   ]
 }

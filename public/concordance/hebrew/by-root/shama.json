@@ -567,6 +567,33 @@
         "englishLiteral": "Hades I-cried_out, **you-heard** voice-my.",
         "englishNatural": "Hades I cried-out, **you heard** my voice."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "שִׁמְעוּ",
+        "transliteration": "shimu",
+        "englishLiteral": "Hear",
+        "englishNatural": "Hear",
+        "root": "shama",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**שִׁמְעוּ** עַמִּים כֻּלָּם",
+        "transliteration": "**shimu** amim kullam",
+        "englishLiteral": "**\"Hear** peoples all-of-them,",
+        "englishNatural": "**\"Hear,** peoples, all of them;"
+      }
     }
   ]
 }

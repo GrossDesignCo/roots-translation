@@ -29,6 +29,33 @@
         "englishLiteral": "and-kissed to-them **and-lifted** voice-their and-wept.",
         "englishNatural": "And she kissed to them, **and they lifted** their voice and wept."
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַתִּשֶּׂ֣נָה",
+        "transliteration": "vatTissenah",
+        "englishLiteral": "and-lifted",
+        "englishNatural": "And they lifted",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתִּשֶּׂ֣נָה** קוֹלָ֔ן וַתִּבְכֶּ֖ינָה",
+        "transliteration": "**vatTissenah** qolan vatTivkeynah",
+        "englishLiteral": "**and-lifted** voice-their, and-wept",
+        "englishNatural": "**And they lifted** their voice, and wept"
+      }
     }
   ]
 }

@@ -245,6 +245,33 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַתִּשֶּׂ֣נָה",
+        "transliteration": "vatTissenah",
+        "englishLiteral": "and-lifted",
+        "englishNatural": "And they lifted",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתִּשֶּׂ֣נָה** קוֹלָ֔ן וַתִּבְכֶּ֖ינָה",
+        "transliteration": "**vatTissenah** qolan vatTivkeynah",
+        "englishLiteral": "**and-lifted** voice-their, and-wept",
+        "englishNatural": "**And they lifted** their voice, and wept"
+      }
+    },
+    {
+      "location": {
         "book": "Isaiah",
         "chapter": 6,
         "verse": 1
@@ -457,6 +484,60 @@
         "transliteration": "**vaYiseu** et- Yonah",
         "englishLiteral": "**And-lifted_up** ↳ Dove (Jonah)",
         "englishNatural": "**And they lifted-up** ↳ Dove (Jonah)"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְנָשָׂאוּ",
+        "transliteration": "veNasau",
+        "englishLiteral": "and-they-have-lifted_up",
+        "englishNatural": "and they have lifted-up",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְגָזָלוּ וּבָתִּים **וְנָשָׂאוּ** וְעָשְׁקוּ גֶּבֶר",
+        "transliteration": "veGazalu uBatim **veNasau** veAshequ gever",
+        "englishLiteral": "and-they-have-robbed, and-houses **and-they-have-lifted_up;** and-they-have-oppressed strong_man",
+        "englishNatural": "and they have robbed, and houses **and they have lifted-up;** and they have oppressed a strong-man"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יִשָּׂא",
+        "transliteration": "yissa",
+        "englishLiteral": "he-will-lift_up",
+        "englishNatural": "he will lift-up",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בַּיּוֹם הַהוּא **יִשָּׂא** עֲלֵיכֶם מָשָׁל",
+        "transliteration": "baYom haHu **yissa** aleykhem mashal",
+        "englishLiteral": "In-day the-that **he-will-lift_up** over-you parable,",
+        "englishNatural": "In the day that **he will lift-up** over you a parable,"
       }
     }
   ]

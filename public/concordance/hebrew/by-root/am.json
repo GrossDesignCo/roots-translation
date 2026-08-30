@@ -479,6 +479,106 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "לְעַמֵּֽךְ",
+        "transliteration": "leAmmeKh",
+        "englishLiteral": "to-people-your",
+        "englishNatural": "to your people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִתָּ֥ךְ נָשׁ֖וּב **לְעַמֵּֽךְ׃**",
+        "transliteration": "itakh naShuv **leAmmeKh**",
+        "englishLiteral": "with-you we-will-return **to-people-your.\"**",
+        "englishNatural": "with you we will return **to your people.\"**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "עַמָּ֖הּ",
+        "transliteration": "ammah",
+        "englishLiteral": "people-her",
+        "englishNatural": "her people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְבִמְתֵּ֔ךְ אֶל־ **עַמָּ֖הּ** וְאֶל־ אֱלֹהֶ֑יהָ",
+        "transliteration": "yevimtekh el- **ammah** veEl- elohiha",
+        "englishLiteral": "sister_in_law-your, to- **people-her** and-to- Gods-her;",
+        "englishNatural": "has returned to **her people** and to her gods;"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "עַמֵּךְ",
+        "transliteration": "ammekh",
+        "englishLiteral": "people-your",
+        "englishNatural": "your people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תָּלִינִי אָלִין **עַמֵּךְ** עַמִּי וֵאלֹהַיִךְ",
+        "transliteration": "taLini aLin **ammekh** ammi veElohayikh",
+        "englishLiteral": "you-will-lodge I-will-lodge; **people-your** people-my, and-Gods-your",
+        "englishNatural": "you will lodge, I will lodge; **your people,** my people, and your God,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "עַמִּי",
+        "transliteration": "ammi",
+        "englishLiteral": "people-my",
+        "englishNatural": "my people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָלִין עַמֵּךְ **עַמִּי** וֵאלֹהַיִךְ אֱלֹהָי׃",
+        "transliteration": "aLin ammekh **ammi** veElohayikh elohai",
+        "englishLiteral": "I-will-lodge; people-your **people-my,** and-Gods-your Gods-my.",
+        "englishNatural": "I will lodge; your people, **my people,** and your God, my God."
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 3,
         "verse": 6
@@ -650,6 +750,156 @@
         "transliteration": "veEi- mizeh **am** atah",
         "englishLiteral": "and-where- from-this **people** you?\"",
         "englishNatural": "and where 'from this **people'** are you?\""
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "עַמִּים",
+        "transliteration": "amim",
+        "englishLiteral": "peoples",
+        "englishNatural": "peoples",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁמְעוּ **עַמִּים** כֻּלָּם הַקְשִׁיבִי",
+        "transliteration": "shimu **amim** kullam haqshivi",
+        "englishLiteral": "\"Hear **peoples** all-of-them, hearken",
+        "englishNatural": "\"Hear, **peoples,** all of them; hearken,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "עַמִּי",
+        "transliteration": "ammi",
+        "englishLiteral": "people-my",
+        "englishNatural": "my people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַד־ שַׁעַר **עַמִּי** עַד־ יְרוּשָׁלִָם׃",
+        "transliteration": "ad- shaar **ammi** ad- Yerushalayim",
+        "englishLiteral": "until- gate-of **people-my,** until- Foundation_of_Peace (Jerusalem).",
+        "englishNatural": "until the gate of **my people,** until Foundation-of-Peace (Jerusalem)."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "עַמִּי",
+        "transliteration": "ammi",
+        "englishLiteral": "people-my",
+        "englishNatural": "my people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְשַׁדֻּנוּ חֵלֶק **עַמִּי** יָמִיר אֵיךְ",
+        "transliteration": "neshadunu cheleq **ammi** yamir eikh",
+        "englishLiteral": "we-have-been-devastated, portion-of **people-my** he-will-change; how",
+        "englishNatural": "he will change the portion of **my people;** how he will displace"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "עַמִּי",
+        "transliteration": "ammi",
+        "englishLiteral": "people-my",
+        "englishNatural": "my people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶתְמוּל **עַמִּי** לְאוֹיֵב יְקוֹמֵם",
+        "transliteration": "veEtmol **ammi** leOyev yeQomem",
+        "englishLiteral": "And-yesterday **people-my** to-enemy he-will-stand_up,",
+        "englishNatural": "And yesterday **my people** to an enemy will stand-up,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "עַמִּי",
+        "transliteration": "ammi",
+        "englishLiteral": "people-my",
+        "englishNatural": "my people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נְשֵׁי **עַמִּי** תְּגָרְשׁוּן מִבֵּית",
+        "transliteration": "neshei **ammi** teGarshun miBeit",
+        "englishLiteral": "women-of **people-my** you-will-banish, from-house-of",
+        "englishNatural": "The women of **my people** you will banish from the house of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "הָעָם",
+        "transliteration": "haAm",
+        "englishLiteral": "the-people",
+        "englishNatural": "people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיָה מַטִּיף **הָעָם** הַזֶּה׃",
+        "transliteration": "veHayah maTtif **haAm** haZeh",
+        "englishLiteral": "and-he-has-been dripping **the-people** the-this.",
+        "englishNatural": "the dripping of this **people.**"
       }
     }
   ]

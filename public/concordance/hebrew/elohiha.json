@@ -1,0 +1,32 @@
+{
+  "key": "elohiha",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֱלֹהֶ֑יהָ",
+        "transliteration": "elohiha",
+        "englishLiteral": "Gods-her",
+        "englishNatural": "her gods",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַמָּ֖הּ וְאֶל־ **אֱלֹהֶ֑יהָ** שׁ֖וּבִי אַחֲרֵ֥י",
+        "transliteration": "ammah veEl- **elohiha** shuvi acharei",
+        "englishLiteral": "people-her and-to- **Gods-her;** return after",
+        "englishNatural": "her people and to **her gods;** Return after"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "etnaneiha",
+  "language": "hebrew",
+  "root": "etnan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֶתְנַנֶּיהָ",
+        "transliteration": "etnaneiha",
+        "englishLiteral": "hires-her",
+        "englishNatural": "her hires",
+        "root": "etnan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֻכַּתּוּ וְכָל־ **אֶתְנַנֶּיהָ** יִשָּׂרְפוּ בָאֵשׁ",
+        "transliteration": "yukattu veKhol- **etnaneiha** yissarefu baEsh",
+        "englishLiteral": "they-will-be-beaten, and-all- **hires-her** they-will-be-incinerated in-the-fire,",
+        "englishNatural": "will be beaten, and all **her hires** will be incinerated in the fire,"
+      }
+    }
+  ]
+}

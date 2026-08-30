@@ -1,0 +1,34 @@
+{
+  "key": "asimennu",
+  "language": "hebrew",
+  "root": "sim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אֲשִׂימֶנּוּ",
+        "transliteration": "asimennu",
+        "englishLiteral": "I-will-place-him",
+        "englishNatural": "I will place them",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׂרָאֵל יַחַד **אֲשִׂימֶנּוּ** כְּצֹאן בָּצְרָה",
+        "transliteration": "Yisrael yachad **asimennu** keTzon Botsrah",
+        "englishLiteral": "Struggles_with_God (Israel), together **I-will-place-him** like-flock Enclosure (Bozrah);",
+        "englishNatural": "Struggles-with-God (Israel), together **I will place them** like the flock of Enclosure (Bozrah);"
+      }
+    }
+  ]
+}

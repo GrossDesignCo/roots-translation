@@ -76,6 +76,31 @@
         "englishLiteral": "and-faces-their, backward, **and-nakedness-of** father-their, not",
         "englishNatural": "and their faces, backward, **and the nakedness of** their father, they had seen"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "עֶרְיָה־",
+        "transliteration": "eryah-",
+        "englishLiteral": "nakedness-",
+        "englishNatural": "nakedness",
+        "root": "ervah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹשֶׁבֶת שָׁפִיר **עֶרְיָה־** בֹשֶׁת לֹא",
+        "transliteration": "yoshevet Shapir **eryah-** boshet lo",
+        "englishLiteral": "sitting-of Fair (Saphir), **nakedness-** shame; not",
+        "englishNatural": "the sitting of Fair (Saphir), **nakedness** shame; the sitting of"
+      }
     }
   ]
 }

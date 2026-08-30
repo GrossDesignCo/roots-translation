@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אָמַ֙רְתִּי֙",
+        "transliteration": "amarti",
+        "englishLiteral": "I-have-said",
+        "englishNatural": "I have said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְאִ֑ישׁ כִּ֤י **אָמַ֙רְתִּי֙** יֶשׁ־ לִ֣י",
+        "transliteration": "leIsh ki **amarti** yesh- li",
+        "englishLiteral": "to-man; that **I-have-said** there_is- to-me",
+        "englishNatural": "to a man; that **I have said,** there-is to me"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 2,
         "verse": 4

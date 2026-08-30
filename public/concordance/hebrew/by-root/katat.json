@@ -1,0 +1,33 @@
+{
+  "root": "katat",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יֻכַּתּוּ",
+        "transliteration": "yukattu",
+        "englishLiteral": "they-will-be-beaten",
+        "englishNatural": "will be beaten",
+        "root": "katat",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ פְּסִילֶיהָ **יֻכַּתּוּ** וְכָל־ אֶתְנַנֶּיהָ",
+        "transliteration": "veKhol- pesileiha **yukattu** veKhol- etnaneiha",
+        "englishLiteral": "And-all- carved_images-her **they-will-be-beaten,** and-all- hires-her",
+        "englishNatural": "And all her carved-images **will be beaten,** and all her hires"
+      }
+    }
+  ]
+}

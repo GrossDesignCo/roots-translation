@@ -80,7 +80,7 @@ export const genesis_6_15: Verse = {
       transliteration: 'meot',
       englishLiteral: 'hundreds',
       englishNatural: 'hundred',
-      root: 'meah',
+      root: 'meah_hundred',
       order: 6,
       morphology: {
         gender: 'feminine',

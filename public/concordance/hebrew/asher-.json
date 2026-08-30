@@ -552,6 +552,31 @@
         "englishLiteral": "over- the-bad **which-** he-spoke to-make",
         "englishNatural": "over the bad **which** he spoke to make"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "אֲשֶׁר־",
+        "transliteration": "asher-",
+        "englishLiteral": "which-",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "מַלְכֵי יְהוּדָה **אֲשֶׁר־** חָזָה עַל־",
+        "transliteration": "malkhey Yehudah **asher-** chazah al-",
+        "englishLiteral": "kings-of Praise (Judah); **which-** he-has-gazed over-",
+        "englishNatural": "kings of Praise (Judah); **which** he has gazed over"
+      }
     }
   ]
 }

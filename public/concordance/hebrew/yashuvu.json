@@ -29,6 +29,33 @@
         "englishLiteral": "And-generation fourth **they-will-return** here, that",
         "englishNatural": "And the fourth generation **will return** here; that"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "יָשׁוּבוּ",
+        "transliteration": "yashuvu",
+        "englishLiteral": "they-will-return",
+        "englishNatural": "they will return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶתְנַן זוֹנָה **יָשׁוּבוּ׃**",
+        "transliteration": "etnan zonah **yashuvu**",
+        "englishLiteral": "hire-of harlot **they-will-return.**",
+        "englishNatural": "the hire of a harlot **they will return.**"
+      }
     }
   ]
 }

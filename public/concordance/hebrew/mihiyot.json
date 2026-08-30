@@ -1,0 +1,34 @@
+{
+  "key": "mihiyot",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "מִהְי֣וֹת",
+        "transliteration": "miHiyot",
+        "englishLiteral": "from-to_be",
+        "englishNatural": "from being",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֥י זָקַ֖נְתִּי **מִהְי֣וֹת** לְאִ֑ישׁ כִּ֤י",
+        "transliteration": "ki zaqanti **miHiyot** leIsh ki",
+        "englishLiteral": "that I-have-grown_old **from-to_be** to-man; that",
+        "englishNatural": "that I have grown old **from being** to a man; that"
+      }
+    }
+  ]
+}

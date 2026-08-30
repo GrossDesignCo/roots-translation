@@ -1,0 +1,32 @@
+{
+  "key": "uvaasher",
+  "language": "hebrew",
+  "root": "asher",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "וּבַאֲשֶׁר",
+        "transliteration": "uvaAsher",
+        "englishLiteral": "and-in-which",
+        "englishNatural": "and in which",
+        "root": "asher",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "תֵּלְכִי אֵלֵךְ **וּבַאֲשֶׁר** תָּלִינִי אָלִין",
+        "transliteration": "teLkhi elekh **uvaAsher** taLini aLin",
+        "englishLiteral": "you-will-walk I-will-walk; **and-in-which** you-will-lodge I-will-lodge;",
+        "englishNatural": "you will walk, I will walk; **and in which** you will lodge, I will lodge;"
+      }
+    }
+  ]
+}

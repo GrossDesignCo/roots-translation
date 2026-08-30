@@ -1,0 +1,32 @@
+{
+  "key": "avaneiha",
+  "language": "hebrew",
+  "root": "even",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אֲבָנֶיהָ",
+        "transliteration": "avaneiha",
+        "englishLiteral": "stones-her",
+        "englishNatural": "her stones",
+        "root": "even",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהִגַּרְתִּי לַגַּי **אֲבָנֶיהָ** וִיסֹדֶיהָ אֲגַלֶּה׃",
+        "transliteration": "veHigarti laGay **avaneiha** viSodeiha agalleh",
+        "englishLiteral": "and-I-have-cascaded to-the-valley **stones-her,** and-foundations-her I-will-reveal.",
+        "englishNatural": "and I will cascade to the valley **her stones,** and her foundations I will reveal."
+      }
+    }
+  ]
+}

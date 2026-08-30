@@ -141,7 +141,7 @@ export const genesis_1_24: Verse = {
       transliteration: 'leMinah',
       englishLiteral: 'to-its-kind',
       englishNatural: 'to its kind',
-      root: 'min',
+      root: 'min_kind',
       prefixes: ['le'],
       suffixes: ['ah'],
       order: 7,

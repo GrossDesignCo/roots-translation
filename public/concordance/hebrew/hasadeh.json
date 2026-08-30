@@ -177,6 +177,31 @@
         "englishLiteral": "↳ herb **the-field;**",
         "englishNatural": "↳ the herb **of the field;**"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הַשָּׂדֶה",
+        "transliteration": "haSadeh",
+        "englishLiteral": "the-field",
+        "englishNatural": "the field",
+        "root": "sadeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֹׁמְרוֹן לְעִי **הַשָּׂדֶה** לְמַטָּעֵי כָרֶם",
+        "transliteration": "Shomron leIy **haSadeh** leMattei kerem",
+        "englishLiteral": "Keep (Samaria) to-heap-of **the-field** to-plantings-of vineyard;",
+        "englishNatural": "Keep (Samaria) to a heap of **the field,** to plantings of vineyard;"
+      }
     }
   ]
 }

@@ -220,7 +220,7 @@ export const genesis_1_11: Verse = {
       transliteration: 'leMino',
       englishLiteral: 'to-its-kind',
       englishNatural: 'after its kind',
-      root: 'min',
+      root: 'min_kind',
       prefixes: ['le'],
       suffixes: ['o'],
       order: 13,

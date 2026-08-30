@@ -1051,6 +1051,31 @@
         "englishLiteral": "not- they-will-graze **and-waters** not- they-will-drink;",
         "englishNatural": "they will graze not, **and waters** they will drink not;"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "כְּמַיִם",
+        "transliteration": "keMayim",
+        "englishLiteral": "like-waters",
+        "englishNatural": "like waters",
+        "root": "mayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִפְּנֵי הָאֵשׁ **כְּמַיִם** מֻגָּרִים בְּמוֹרָד׃",
+        "transliteration": "miPney haEsh **keMayim** mugarim beMorad",
+        "englishLiteral": "from-faces-of the-fire, **like-waters** cascaded in-descent.",
+        "englishNatural": "from the faces of the fire, **like waters** cascaded in a descent."
+      }
     }
   ]
 }

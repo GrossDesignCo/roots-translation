@@ -1,0 +1,34 @@
+{
+  "key": "teagenah",
+  "language": "hebrew",
+  "root": "agen",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "תֵּעָגֵ֔נָה",
+        "transliteration": "teagenah",
+        "englishLiteral": "you-will-be-bound",
+        "englishNatural": "Would you be bound",
+        "root": "agen",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "יִגְדָּ֔לוּ הֲלָהֵן֙ **תֵּעָגֵ֔נָה** לְבִלְתִּ֖י הֱיוֹת",
+        "transliteration": "yigdalu haLahen **teagenah** leBilti hiYot",
+        "englishLiteral": "they-grow? whether-to-them **you-will-be-bound** to-not to-be",
+        "englishNatural": "which they would grow? **Would you be bound** for them without"
+      }
+    }
+  ]
+}

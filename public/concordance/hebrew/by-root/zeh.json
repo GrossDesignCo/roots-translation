@@ -751,6 +751,31 @@
         "englishLiteral": "He_Who_Is (YHWH), is-not- **this** word-my unto-",
         "englishNatural": "He-Who-Is (YHWH), was not **this** my word unto"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "הַזֶּה",
+        "transliteration": "haZeh",
+        "englishLiteral": "the-this",
+        "englishNatural": "this",
+        "root": "zeh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "מַטִּיף הָעָם **הַזֶּה׃**",
+        "transliteration": "maTtif haAm **haZeh**",
+        "englishLiteral": "dripping the-people **the-this.**",
+        "englishNatural": "and he will be the dripping of **this** people."
+      }
     }
   ]
 }

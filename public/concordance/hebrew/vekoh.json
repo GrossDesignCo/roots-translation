@@ -1,0 +1,32 @@
+{
+  "key": "vekoh",
+  "language": "hebrew",
+  "root": "koh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וְכֹה",
+        "transliteration": "veKoh",
+        "englishLiteral": "and-thus",
+        "englishNatural": "and thus",
+        "root": "koh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה לִי **וְכֹה** יוֹסִיף כִּי",
+        "transliteration": "YHWH li **veKoh** yosif ki",
+        "englishLiteral": "He_Who_Is (YHWH) to-me, **and-thus** he-will-add, that",
+        "englishNatural": "will do to me, **and thus** he will add, that"
+      }
+    }
+  ]
+}

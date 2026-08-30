@@ -1,0 +1,34 @@
+{
+  "key": "yitbaqaqu",
+  "language": "hebrew",
+  "root": "baqa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "יִתְבַּקָּעוּ",
+        "transliteration": "yitbaqaqu",
+        "englishLiteral": "they-will-break_open",
+        "englishNatural": "will break-open",
+        "root": "baqa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "תַּחְתָּיו וְהָעֲמָקִים **יִתְבַּקָּעוּ** כַּדּוֹנַג מִפְּנֵי",
+        "transliteration": "tachtav veHaAmaqim **yitbaqaqu** kaDonag miPney",
+        "englishLiteral": "under-him, and-the-valleys **they-will-break_open,** like-wax from-faces-of",
+        "englishNatural": "under him, and the valleys **will break-open,** like wax from the faces of"
+      }
+    }
+  ]
+}

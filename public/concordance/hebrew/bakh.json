@@ -27,6 +27,31 @@
         "englishLiteral": "and-he he-will_rule **in-you.\"**",
         "englishNatural": "and he will rule **in you.\"**"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "בָךְ",
+        "transliteration": "bakh",
+        "englishLiteral": "in-you",
+        "englishNatural": "in you",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "צִיּוֹן כִּי־ **בָךְ** נִמְצְאוּ פִּשְׁעֵי",
+        "transliteration": "Tziyon ki- **bakh** niMtseu pishei",
+        "englishLiteral": "Marker (Zion); that- **in-you** they-have-been-found transgressions-of",
+        "englishNatural": "Marker (Zion); that **in you** have been found the transgressions of"
+      }
     }
   ]
 }

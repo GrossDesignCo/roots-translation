@@ -30,7 +30,7 @@ export const genesis_9_21: Verse = {
       transliteration: 'min-',
       englishLiteral: 'from-',
       englishNatural: 'from',
-      root: 'min_from',
+      root: 'min',
       order: 2,
       morphology: {
         type: 'preposition',

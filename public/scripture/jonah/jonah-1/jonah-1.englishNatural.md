@@ -71,5 +71,5 @@ and sacrificed a sacrifice to He-Who-Is (YHWH)
 and vowed vows.
 
 And He-Who-Is (YHWH) appointed a great fish to swallow Dove (Jonah); 
-And Dove (Jonah) was in the bowels of the fish 
+And Dove (Jonah) was in the belly of the fish 
 three days and three nights.

@@ -202,6 +202,81 @@
         "englishLiteral": "to-him, \"What- **this** you-did?\" that-",
         "englishNatural": "to him, \"What **is this** you have done?\" that"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "זֹאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יַעֲקֹב כָּל־ **זֹאת** וּבְחַטֹּאות בֵּית",
+        "transliteration": "Yaaqov kol- **zot** uvChattot beit",
+        "englishLiteral": "Heel_Grasper (Jacob) all- **this,** and-in-sins-of house-of",
+        "englishNatural": "Heel-Grasper (Jacob) all **this,** and in the sins of the house of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "זֹאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ **זֹאת** אֶסְפְּדָה וְאֵילִילָה",
+        "transliteration": "al- **zot** espeidah veEililah",
+        "englishLiteral": "Over- **this** I-will-lament and-I-will-howl,",
+        "englishNatural": "Over **this** I will lament and I will howl,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "זֹאת",
+        "transliteration": "zot",
+        "englishLiteral": "this",
+        "englishNatural": "this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי לֹא־ **זֹאת** הַמְּנוּחָה בַּעֲבוּר",
+        "transliteration": "ki lo- **zot** haMenuchah baavur",
+        "englishLiteral": "that not- **this** the-resting_place; for_sake_of",
+        "englishNatural": "and go, that **this** is not the resting-place;"
+      }
     }
   ]
 }

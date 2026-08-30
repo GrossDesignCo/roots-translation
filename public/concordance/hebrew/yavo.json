@@ -1,0 +1,34 @@
+{
+  "key": "yavo",
+  "language": "hebrew",
+  "root": "bo",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "יָבוֹא",
+        "transliteration": "yavo",
+        "englishLiteral": "he-will-come",
+        "englishNatural": "will come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַד־ עֲדֻלָּם **יָבוֹא** כְּבוֹד יִשְׂרָאֵל׃",
+        "transliteration": "ad- Adullam **yavo** kevod Yisrael",
+        "englishLiteral": "until- Refuge (Adullam) **he-will-come,** glory-of Struggles_with_God (Israel).",
+        "englishNatural": "the glory of Struggles-with-God (Israel) **will come.**"
+      }
+    }
+  ]
+}

@@ -126,6 +126,31 @@
         "englishLiteral": "to- temple-of **holiness-your.**",
         "englishNatural": "to the temple of **your holiness.**"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "קָדְשׁוֹ",
+        "transliteration": "qodsho",
+        "englishLiteral": "holiness-his",
+        "englishNatural": "his holiness",
+        "root": "qodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲדֹנָי מֵהֵיכַל **קָדְשׁוֹ׃**",
+        "transliteration": "adonai meHekhal **qodsho**",
+        "englishLiteral": "Lord from-temple-of **holiness-his.**",
+        "englishNatural": "Lord from the temple of **his holiness.**"
+      }
     }
   ]
 }

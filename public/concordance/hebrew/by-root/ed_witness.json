@@ -26,6 +26,31 @@
         "englishLiteral": "you-will-answer in-friend-your **witness** falsehood.",
         "englishNatural": "You will answer not **as a witness of** falsehood in your friend."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "לְעֵד",
+        "transliteration": "leEd",
+        "englishLiteral": "to-witness",
+        "englishNatural": "to a witness",
+        "root": "ed_witness",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוִה בָּכֶם **לְעֵד** אֲדֹנָי מֵהֵיכַל",
+        "transliteration": "YHWH baKhem **leEd** adonai meHekhal",
+        "englishLiteral": "He_Who_Is (YHWH) in-you **to-witness,** Lord from-temple-of",
+        "englishNatural": "be in you **to a witness,** Lord from the temple of"
+      }
     }
   ]
 }

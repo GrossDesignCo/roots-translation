@@ -602,6 +602,106 @@
         "englishLiteral": "Earthling (Adam), which **not-** knows between-",
         "englishNatural": "which knows **not** between his right-hand"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "לֹא־",
+        "transliteration": "lo-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "רָעָה אֲשֶׁר **לֹא־** תָמִישׁוּ מִשָּׁם",
+        "transliteration": "raah asher **lo-** tamishu miSham",
+        "englishLiteral": "bad; which **not-** you-will-displace from-there",
+        "englishNatural": "which you will displace **not** from there your necks,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "לֹא־",
+        "transliteration": "lo-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֵן **לֹא־** יִהְיֶה לְךָ",
+        "transliteration": "lakhen **lo-** yihyeh lekha",
+        "englishLiteral": "therefore **not-** he-will-be to-you,",
+        "englishNatural": "Therefore there will be **not** to you, one who throws"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לֹא־",
+        "transliteration": "lo-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "תַּטִּפוּ יַטִּיפוּן **לֹא־** יַטִּפוּ לָאֵלֶּה",
+        "transliteration": "taTtifu yaTtifun **lo-** yaTtifu leEleh",
+        "englishLiteral": "you-will-drip; they-will-drip; **not-** they-will-drip to-these,",
+        "englishNatural": "they will drip; they will drip **not** to these; disgraces"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לֹא־",
+        "transliteration": "lo-",
+        "englishLiteral": "not-",
+        "englishNatural": "is not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְכוּ כִּי **לֹא־** זֹאת הַמְּנוּחָה",
+        "transliteration": "uLekhu ki **lo-** zot haMenuchah",
+        "englishLiteral": "and-go, that **not-** this the-resting_place;",
+        "englishNatural": "that this **is not** the resting-place; for the sake of"
+      }
     }
   ]
 }

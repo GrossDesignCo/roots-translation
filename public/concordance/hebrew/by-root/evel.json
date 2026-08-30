@@ -1,0 +1,31 @@
+{
+  "root": "evel",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וְאֵבֶל",
+        "transliteration": "veEvel",
+        "englishLiteral": "and-mourning",
+        "englishNatural": "and a mourning",
+        "root": "evel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִסְפֵּד כַּתַּנִּים **וְאֵבֶל** כִּבְנוֹת יַעֲנָה׃",
+        "transliteration": "misped kaTannim **veEvel** kiVnot yaanah",
+        "englishLiteral": "lamentation like-jackals, **and-mourning** like-daughters-of ostrich.",
+        "englishNatural": "a lamentation like jackals, **and a mourning** like daughters of ostrich."
+      }
+    }
+  ]
+}

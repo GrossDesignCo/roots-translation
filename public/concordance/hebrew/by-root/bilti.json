@@ -76,6 +76,31 @@
         "englishLiteral": "over- faces-your, **to-not** you-will-sin.\"",
         "englishNatural": "over your faces, **to not** let you sin.\""
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לְבִלְתִּ֖י",
+        "transliteration": "leBilti",
+        "englishLiteral": "to-not",
+        "englishNatural": "without",
+        "root": "bilti",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "הֲלָהֵן֙ תֵּעָגֵ֔נָה **לְבִלְתִּ֖י** הֱיוֹת לְאִ֑ישׁ",
+        "transliteration": "haLahen teagenah **leBilti** hiYot leIsh",
+        "englishLiteral": "whether-to-them you-will-be-bound **to-not** to-be to-man;",
+        "englishNatural": "Would you be bound for them **without** being to a man?"
+      }
     }
   ]
 }

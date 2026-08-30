@@ -5,6 +5,56 @@
   "occurrences": [
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "בִ֖י",
+        "transliteration": "vi",
+        "englishLiteral": "in-me",
+        "englishNatural": "in me",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כִּֽי־ יָצְאָ֥ה **בִ֖י** יַד־ יְהוָֽה׃",
+        "transliteration": "ki- yatsah **vi** yad- YHWH",
+        "englishLiteral": "that- she-has-brought_out **in-me** hand- He_Who_Is (YHWH).\"",
+        "englishNatural": "He-Who-Is (YHWH) has gone out **in me.\"**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בִי",
+        "transliteration": "vi",
+        "englishLiteral": "in-me",
+        "englishNatural": "me",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תִּפְגְּעִי־ **בִי** לְעׇזְבֵךְ לָשׁוּב",
+        "transliteration": "al- tipgei- **vi** leAzvekh laShuv",
+        "englishLiteral": "\"not- you-will-encounter **in-me** to-leave-you to-return",
+        "englishNatural": "said, \"You will encounter **me** not to leave you,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 2,
         "verse": 2

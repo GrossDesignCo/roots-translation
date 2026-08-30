@@ -12,7 +12,7 @@ export const genesis_7_8: Verse = {
       transliteration: 'min-',
       englishLiteral: 'From-',
       englishNatural: 'From',
-      root: 'min_from',
+      root: 'min',
       order: 1,
       morphology: {
         type: 'preposition',
@@ -52,7 +52,7 @@ export const genesis_7_8: Verse = {
       transliteration: 'uMin-',
       englishLiteral: 'and-from-',
       englishNatural: 'and from',
-      root: 'min_from',
+      root: 'min',
       prefixes: ['u'],
       order: 4,
       morphology: {
@@ -122,7 +122,7 @@ export const genesis_7_8: Verse = {
       transliteration: 'uMin-',
       englishLiteral: 'and-from-',
       englishNatural: 'and from',
-      root: 'min_from',
+      root: 'min',
       prefixes: ['u'],
       order: 9,
       morphology: {

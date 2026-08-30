@@ -29,6 +29,33 @@
         "englishLiteral": "to-two-of daughters_in_law-her **\"Go** return woman",
         "englishNatural": "to the two of her daughters-in-law, **\"Go** return, woman"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לֵ֔כְנָה",
+        "transliteration": "lekhnah",
+        "englishLiteral": "Go",
+        "englishNatural": "go",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שֹׁ֤בְנָה בְנֹתַי֙ **לֵ֔כְנָה** כִּ֥י זָקַ֖נְתִּי",
+        "transliteration": "shovnah benotai **lekhnah** ki zaqanti",
+        "englishLiteral": "return daughters-my **Go** that I-have-grown_old",
+        "englishNatural": "Return, my daughters, **go,** that I have grown old"
+      }
     }
   ]
 }

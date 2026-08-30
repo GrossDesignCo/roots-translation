@@ -86,7 +86,10 @@ export const ruth_1_5: Verse = {
       englishLiteral: 'and-Wasting (Chilion)',
       englishNatural: 'and Wasting (Chilion)',
       root: 'khilyon',
-      order: 4,
+      order: {
+        hebrew: 5,
+        english: 4,
+      },
       morphology: {
         type: 'noun',
       },

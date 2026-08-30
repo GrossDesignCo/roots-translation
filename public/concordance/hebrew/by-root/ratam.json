@@ -1,0 +1,33 @@
+{
+  "root": "ratam",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "רְתֹם",
+        "transliteration": "retom",
+        "englishLiteral": "Harness",
+        "englishNatural": "Harness",
+        "root": "ratam",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**רְתֹם** הַמֶּרְכָּבָה לָרֶכֶשׁ",
+        "transliteration": "**retom** haMerkavah laRekhesh",
+        "englishLiteral": "**Harness** the-chariot to-the-steed,",
+        "englishNatural": "**Harness** the chariot to the steed,"
+      }
+    }
+  ]
+}

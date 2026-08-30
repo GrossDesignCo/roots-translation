@@ -783,6 +783,33 @@
         "englishLiteral": "the-this; and-not- **give** over-us blood",
         "englishNatural": "the man the this; **and give** over us not"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תִּתְּנִי",
+        "transliteration": "titteni",
+        "englishLiteral": "you-will-give",
+        "englishNatural": "you will give",
+        "root": "natan",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֵן **תִּתְּנִי** שִׁלּוּחִים עַל",
+        "transliteration": "lakhen **titteni** shilluchim al",
+        "englishLiteral": "therefore **you-will-give** send_offs, over",
+        "englishNatural": "Therefore **you will give** send-offs, over"
+      }
     }
   ]
 }

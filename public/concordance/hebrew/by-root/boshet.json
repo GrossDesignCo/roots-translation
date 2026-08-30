@@ -1,0 +1,31 @@
+{
+  "root": "boshet",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בֹשֶׁת",
+        "transliteration": "boshet",
+        "englishLiteral": "shame",
+        "englishNatural": "shame",
+        "root": "boshet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁפִיר עֶרְיָה־ **בֹשֶׁת** לֹא יָצְאָה",
+        "transliteration": "Shapir eryah- **boshet** lo yatsah",
+        "englishLiteral": "Fair (Saphir), nakedness- **shame;** not she-has-brought_out",
+        "englishNatural": "Fair (Saphir), nakedness **shame;** the sitting of Sheepfold (Zaanan)"
+      }
+    }
+  ]
+}

@@ -1296,8 +1296,8 @@
       "context": {
         "hebrew": "זֶה כִּי־אִם **אֲשֶׁר** יֵצֵא מִמֵּעֶיךָ",
         "transliteration": "zeh ki-im **asher** yetze mimmeykha",
-        "englishLiteral": "this, but **which** he-will-come-out from-bowels-of-you,",
-        "englishNatural": "this; but **he which** will come out from your bowels,"
+        "englishLiteral": "this, but **which** he-will-come-out from-belly-of-you,",
+        "englishNatural": "this; but **he which** will come out from your belly,"
       }
     },
     {
@@ -1773,6 +1773,56 @@
         "transliteration": "min- haMaqom **asher** hayetah- shammah",
         "englishLiteral": "from- the-place **which** she-had-been- there",
         "englishNatural": "from the place **which** she had been there,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֲשֶׁ֣ר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "תְּשַׂבֵּ֗רְנָה עַ֚ד **אֲשֶׁ֣ר** יִגְדָּ֔לוּ הֲלָהֵן֙",
+        "transliteration": "teshabbernah ad **asher** yigdalu haLahen",
+        "englishLiteral": "you-will-wait until **which** they-grow? whether-to-them",
+        "englishNatural": "for them until **which** they would grow? Would you be bound"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אֲשֶׁר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי אֶל־ **אֲשֶׁר** תֵּלְכִי אֵלֵךְ",
+        "transliteration": "ki el- **asher** teLkhi elekh",
+        "englishLiteral": "that- to- **which** you-will-walk I-will-walk;",
+        "englishNatural": "for to **which** you will walk, I will walk;"
       }
     },
     {
@@ -2348,6 +2398,56 @@
         "transliteration": "ribbo Adam **asher** lo- yada",
         "englishLiteral": "ten_thousand Earthling (Adam), **which** not- knows",
         "englishNatural": "ten-thousand Earthling (Adam), **which** knows not"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֲשֶׁר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "דְּבַר־ יְהוָה **אֲשֶׁר** הָיָה אֶל־",
+        "transliteration": "devar- YHWH **asher** hayah el-",
+        "englishLiteral": "word-of He_Who_Is (YHWH) **which** was to-",
+        "englishNatural": "The word of He-Who-Is (YHWH) **which** was to"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אֲשֶׁר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "הַזֹּאת רָעָה **אֲשֶׁר** לֹא־ תָמִישׁוּ",
+        "transliteration": "haZot raah **asher** lo- tamishu",
+        "englishLiteral": "the-this bad; **which** not- you-will-displace",
+        "englishNatural": "this family; **which** you will displace not"
       }
     }
   ]

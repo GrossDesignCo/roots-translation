@@ -1,0 +1,31 @@
+{
+  "root": "kelimah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "כְּלִמּוֹת",
+        "transliteration": "kelimot",
+        "englishLiteral": "disgraces",
+        "englishNatural": "disgraces",
+        "root": "kelimah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא יִסַּג **כְּלִמּוֹת׃**",
+        "transliteration": "lo yiSsag **kelimot**",
+        "englishLiteral": "not he-will-be-turned_back **disgraces.**",
+        "englishNatural": "not to these; **disgraces** will be turned-back not."
+      }
+    }
+  ]
+}

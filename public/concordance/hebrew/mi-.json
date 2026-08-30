@@ -52,6 +52,31 @@
         "englishLiteral": "**who-** knows? he-will-return",
         "englishNatural": "**Who** knows? The God"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "מִי־",
+        "transliteration": "mi-",
+        "englishLiteral": "who-",
+        "englishNatural": "who",
+        "root": "mi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּית יִשְׂרָאֵל **מִי־** פֶשַׁע יַעֲקֹב",
+        "transliteration": "beit Yisrael **mi-** pesha Yaaqov",
+        "englishLiteral": "house-of Struggles_with_God (Israel); **who-** transgression-of Heel_Grasper (Jacob),",
+        "englishNatural": "the house of Struggles-with-God (Israel); **who** is the transgression of Heel-Grasper (Jacob)?"
+      }
     }
   ]
 }

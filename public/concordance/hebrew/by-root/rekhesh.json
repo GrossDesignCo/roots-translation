@@ -1,0 +1,31 @@
+{
+  "root": "rekhesh",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לָרֶכֶשׁ",
+        "transliteration": "laRekhesh",
+        "englishLiteral": "to-the-steed",
+        "englishNatural": "to the steed",
+        "root": "rekhesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רְתֹם הַמֶּרְכָּבָה **לָרֶכֶשׁ** יוֹשֶׁבֶת לָכִישׁ",
+        "transliteration": "retom haMerkavah **laRekhesh** yoshevet Lakhish",
+        "englishLiteral": "Harness the-chariot **to-the-steed,** sitting-of Invincible (Lachish);",
+        "englishNatural": "Harness the chariot **to the steed,** sitting one of Invincible (Lachish);"
+      }
+    }
+  ]
+}

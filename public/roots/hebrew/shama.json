@@ -6,6 +6,10 @@
   "englishNatural": "hear",
   "description": "to hear, listen, obey, understand",
   "type": "verb",
+  "related": [
+    "azan",
+    "qashav"
+  ],
   "wordIndexes": {
     "exodus": {
       "3": {
@@ -95,6 +99,13 @@
       "2": {
         "2": [
           10
+        ]
+      }
+    },
+    "micah": {
+      "1": {
+        "2": [
+          0
         ]
       }
     },

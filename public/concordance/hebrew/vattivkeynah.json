@@ -29,6 +29,33 @@
         "englishLiteral": "and-lifted voice-their **and-wept.**",
         "englishNatural": "and they lifted their voice **and wept.**"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וַתִּבְכֶּ֖ינָה",
+        "transliteration": "vatTivkeynah",
+        "englishLiteral": "and-wept",
+        "englishNatural": "and wept",
+        "root": "bakah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּשֶּׂ֣נָה קוֹלָ֔ן **וַתִּבְכֶּ֖ינָה** ע֑וֹד וַתִּשַּׁ֤ק",
+        "transliteration": "vatTissenah qolan **vatTivkeynah** od vatTishaq",
+        "englishLiteral": "and-lifted voice-their, **and-wept** again; and-kissed",
+        "englishNatural": "And they lifted their voice, **and wept** again: And Neck (Orpah)"
+      }
     }
   ]
 }

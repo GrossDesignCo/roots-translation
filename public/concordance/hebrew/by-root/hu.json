@@ -598,8 +598,8 @@
       "context": {
         "hebrew": "יֵצֵא מִמֵּעֶיךָ **הוּא** יִירָשֶׁךָ",
         "transliteration": "yetze mimmeykha **hu** yirashekha",
-        "englishLiteral": "he-will-come-out from-bowels-of-you, **he** he-will-inherit-you.\"",
-        "englishNatural": "will come out from your bowels, **he** will inherit you.\""
+        "englishLiteral": "he-will-come-out from-belly-of-you, **he** he-will-inherit-you.\"",
+        "englishNatural": "will come out from your belly, **he** will inherit you.\""
       }
     },
     {
@@ -875,6 +875,31 @@
         "transliteration": "miLiFney YHWH **hu** boreach ki",
         "englishLiteral": "from-faces-of He_Who_Is (YHWH) **he** fleeing, that",
         "englishNatural": "from the face of He-Who-Is (YHWH) **he** was fleeing, that"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַהוּא",
+        "transliteration": "haHu",
+        "englishLiteral": "the-that",
+        "englishNatural": "that",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "בַּיּוֹם **הַהוּא** יִשָּׂא עֲלֵיכֶם",
+        "transliteration": "baYom **haHu** yissa aleykhem",
+        "englishLiteral": "In-day **the-that** he-will-lift_up over-you",
+        "englishNatural": "In the day **that** he will lift-up over you"
       }
     }
   ]

@@ -1,0 +1,32 @@
+{
+  "key": "beor",
+  "language": "hebrew",
+  "root": "or",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בְּא֤וֹר",
+        "transliteration": "beOr",
+        "englishLiteral": "in-light-of",
+        "englishNatural": "in the light of",
+        "root": "or",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ מִשְׁכְּבוֹתָ֑ם **בְּא֤וֹר** הַבֹּ֙קֶר֙ יַעֲשׂ֔וּהָ",
+        "transliteration": "al- mishkevotam **beOr** haBoqer yaasuha",
+        "englishLiteral": "over- beds-their; **in-light-of** the-morning they-will-make-her,",
+        "englishNatural": "over their beds; **in the light of** the morning they will make it,"
+      }
+    }
+  ]
+}

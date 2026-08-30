@@ -1,7 +1,7 @@
 {
   "key": "leel",
   "language": "hebrew",
-  "root": "eloah",
+  "root": "el_power",
   "occurrences": [
     {
       "location": {
@@ -26,6 +26,31 @@
         "transliteration": "veHu kohen **leEl** Elyon",
         "englishLiteral": "and-he priest **to-God** Most_High.",
         "englishNatural": "and he was priest **to G.** Most-High."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "לְאֵ֖ל",
+        "transliteration": "leEl",
+        "englishLiteral": "to-power-of",
+        "englishNatural": "to the power of",
+        "root": "el_power",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֥י יֶשׁ־ **לְאֵ֖ל** יָדָֽם׃",
+        "transliteration": "ki yesh- **leEl** yadam",
+        "englishLiteral": "that there_is- **to-power-of** hand-their.",
+        "englishNatural": "that there-is **to the power of** their hand."
       }
     }
   ]

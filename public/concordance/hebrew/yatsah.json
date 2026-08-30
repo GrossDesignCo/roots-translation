@@ -1,0 +1,61 @@
+{
+  "key": "yatsah",
+  "language": "hebrew",
+  "root": "yatsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "יָצְאָ֥ה",
+        "transliteration": "yatsah",
+        "englishLiteral": "she-has-brought_out",
+        "englishNatural": "has gone out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִכֶּ֔ם כִּֽי־ **יָצְאָ֥ה** בִ֖י יַד־",
+        "transliteration": "miKem ki- **yatsah** vi yad-",
+        "englishLiteral": "from-you, that- **she-has-brought_out** in-me hand-",
+        "englishNatural": "the hand of He-Who-Is (YHWH) **has gone out** in me.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "יָצְאָה",
+        "transliteration": "yatsah",
+        "englishLiteral": "she-has-brought_out",
+        "englishNatural": "has brought-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בֹשֶׁת לֹא **יָצְאָה** יוֹשֶׁבֶת צַאֲנָן",
+        "transliteration": "boshet lo **yatsah** yoshevet Tsaanan",
+        "englishLiteral": "shame; not **she-has-brought_out** sitting-of Sheepfold (Zaanan);",
+        "englishNatural": "the sitting of Sheepfold (Zaanan) **has brought-out** not; the lamentation of"
+      }
+    }
+  ]
+}

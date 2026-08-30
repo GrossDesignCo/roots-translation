@@ -76,6 +76,31 @@
         "englishLiteral": "prayer-my, to- **temple-of** holiness-your.",
         "englishNatural": "my prayer, to **the temple of** your holiness."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "מֵהֵיכַל",
+        "transliteration": "meHekhal",
+        "englishLiteral": "from-temple-of",
+        "englishNatural": "from the temple of",
+        "root": "hekhal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְעֵד אֲדֹנָי **מֵהֵיכַל** קָדְשׁוֹ׃",
+        "transliteration": "leEd adonai **meHekhal** qodsho",
+        "englishLiteral": "to-witness, Lord **from-temple-of** holiness-his.",
+        "englishNatural": "to a witness, Lord **from the temple of** his holiness."
+      }
     }
   ]
 }

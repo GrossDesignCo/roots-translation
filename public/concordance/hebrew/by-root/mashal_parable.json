@@ -1,0 +1,31 @@
+{
+  "root": "mashal_parable",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "מָשָׁל",
+        "transliteration": "mashal",
+        "englishLiteral": "parable",
+        "englishNatural": "a parable",
+        "root": "mashal_parable",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִשָּׂא עֲלֵיכֶם **מָשָׁל** וְנָהָה נְהִי",
+        "transliteration": "yissa aleykhem **mashal** veNahah nehi",
+        "englishLiteral": "he-will-lift_up over-you **parable,** and-he-has-wailed wailing",
+        "englishNatural": "he will lift-up over you **a parable,** and he will wail a wailing"
+      }
+    }
+  ]
+}

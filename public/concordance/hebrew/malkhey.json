@@ -1,0 +1,32 @@
+{
+  "key": "malkhey",
+  "language": "hebrew",
+  "root": "melekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "מַלְכֵי",
+        "transliteration": "malkhey",
+        "englishLiteral": "kings-of",
+        "englishNatural": "kings of",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָחָז יְחִזְקִיָּה **מַלְכֵי** יְהוּדָה אֲשֶׁר־",
+        "transliteration": "Achaz Yechizqiyyah **malkhey** Yehudah asher-",
+        "englishLiteral": "Seized (Ahaz) He_Intensifies (Hezekiah) **kings-of** Praise (Judah); which-",
+        "englishNatural": "Seized (Ahaz), He-Intensifies (Hezekiah), **kings of** Praise (Judah); which"
+      }
+    }
+  ]
+}

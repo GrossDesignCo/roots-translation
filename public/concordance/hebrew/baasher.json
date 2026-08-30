@@ -1,0 +1,32 @@
+{
+  "key": "baasher",
+  "language": "hebrew",
+  "root": "asher",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "בַּאֲשֶׁר",
+        "transliteration": "baAsher",
+        "englishLiteral": "in-which",
+        "englishNatural": "where",
+        "root": "asher",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**בַּאֲשֶׁר** תָּמוּתִי אָמוּת",
+        "transliteration": "**baAsher** tamuti amut",
+        "englishLiteral": "**in-which** you-will-die, I-will-die,",
+        "englishNatural": "**where** you will die, I will die,"
+      }
+    }
+  ]
+}

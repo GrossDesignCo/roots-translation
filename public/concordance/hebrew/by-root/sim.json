@@ -351,6 +351,87 @@
         "englishLiteral": "they-will-see and-they-will-know, **and-they-will-place** and-they-will-understand together,",
         "englishNatural": "they will see and they will know, **and they will place** and they will understand together,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְשַׂמְתִּי",
+        "transliteration": "veSamti",
+        "englishLiteral": "And-I-have-placed",
+        "englishNatural": "And I will place",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְשַׂמְתִּי** שֹׁמְרוֹן לְעִי",
+        "transliteration": "**veSamti** Shomron leIy",
+        "englishLiteral": "**And-I-have-placed** Keep (Samaria) to-heap-of",
+        "englishNatural": "**And I will place** Keep (Samaria) to a heap of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אָשִׂים",
+        "transliteration": "asim",
+        "englishLiteral": "I-will-place",
+        "englishNatural": "I will place",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ עֲצַבֶּיהָ **אָשִׂים** שְׁמָמָה כִּי",
+        "transliteration": "veKhol- atzabeiha **asim** shemamah ki",
+        "englishLiteral": "and-all- idols-her **I-will-place** desolation; that",
+        "englishNatural": "and all her idols **I will place** desolation; that"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אֲשִׂימֶנּוּ",
+        "transliteration": "asimennu",
+        "englishLiteral": "I-will-place-him",
+        "englishNatural": "I will place them",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׂרָאֵל יַחַד **אֲשִׂימֶנּוּ** כְּצֹאן בָּצְרָה",
+        "transliteration": "Yisrael yachad **asimennu** keTzon Botsrah",
+        "englishLiteral": "Struggles_with_God (Israel), together **I-will-place-him** like-flock Enclosure (Bozrah);",
+        "englishNatural": "Struggles-with-God (Israel), together **I will place them** like the flock of Enclosure (Bozrah);"
+      }
     }
   ]
 }

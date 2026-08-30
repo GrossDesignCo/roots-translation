@@ -29,6 +29,60 @@
         "englishLiteral": "daughters_in_law-her \"Go **return** woman to-house-of",
         "englishNatural": "her daughters-in-law, \"Go **return,** woman to the house of"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שֹׁ֣בְנָה",
+        "transliteration": "shovnah",
+        "englishLiteral": "return",
+        "englishNatural": "Return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּ֤אמֶר נָעֳמִי֙ **שֹׁ֣בְנָה** בְנֹתַ֔י לָ֥מָּה",
+        "transliteration": "vatTomer Naomi **shovnah** benotai lamah",
+        "englishLiteral": "And-said Pleasant_My (Naomi) **\"return** my-daughters, why",
+        "englishNatural": "And My-Pleasant (Naomi) said, **\"Return,** my daughters, why"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "שֹׁ֤בְנָה",
+        "transliteration": "shovnah",
+        "englishLiteral": "return",
+        "englishNatural": "Return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**שֹׁ֤בְנָה** בְנֹתַי֙ לֵ֔כְנָה",
+        "transliteration": "**shovnah** benotai lekhnah",
+        "englishLiteral": "**return** daughters-my Go",
+        "englishNatural": "**Return,** my daughters, go,"
+      }
     }
   ]
 }

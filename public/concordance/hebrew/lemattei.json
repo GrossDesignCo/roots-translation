@@ -1,0 +1,32 @@
+{
+  "key": "lemattei",
+  "language": "hebrew",
+  "root": "matta",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לְמַטָּעֵי",
+        "transliteration": "leMattei",
+        "englishLiteral": "to-plantings-of",
+        "englishNatural": "to plantings of",
+        "root": "matta",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְעִי הַשָּׂדֶה **לְמַטָּעֵי** כָרֶם וְהִגַּרְתִּי",
+        "transliteration": "leIy haSadeh **leMattei** kerem veHigarti",
+        "englishLiteral": "to-heap-of the-field **to-plantings-of** vineyard; and-I-have-cascaded",
+        "englishNatural": "to a heap of the field, **to plantings of** vineyard; and I will cascade"
+      }
+    }
+  ]
+}

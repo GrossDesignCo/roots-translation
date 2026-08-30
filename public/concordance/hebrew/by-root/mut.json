@@ -509,7 +509,7 @@
       "context": {
         "hebrew": "**וַיָּ֥מָת** אֱלִימֶ֖לֶךְ אִ֣ישׁ",
         "transliteration": "**vaYamat** Elimelekh ish",
-        "englishLiteral": "**And-died** My_God_King (Elimelech) man-of",
+        "englishLiteral": "**And-died** God_My_King (Elimelech) man-of",
         "englishNatural": "the man of My-Pleasant (Naomi) **died,** and she was left,"
       }
     },
@@ -565,6 +565,60 @@
         "transliteration": "asitem im- **haMetim** veImmadi",
         "englishLiteral": "you-made with- **the-dead** and-with-me.",
         "englishNatural": "you made with **the dead** and with me."
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תָּמוּתִי",
+        "transliteration": "tamuti",
+        "englishLiteral": "you-will-die",
+        "englishNatural": "you will die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בַּאֲשֶׁר **תָּמוּתִי** אָמוּת וְשָׁם",
+        "transliteration": "baAsher **tamuti** amut veSham",
+        "englishLiteral": "in-which **you-will-die,** I-will-die, and-there",
+        "englishNatural": "where **you will die,** I will die, and there"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אָמוּת",
+        "transliteration": "amut",
+        "englishLiteral": "I-will-die",
+        "englishNatural": "I will die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בַּאֲשֶׁר תָּמוּתִי **אָמוּת** וְשָׁם אֶקָּבֵר",
+        "transliteration": "baAsher tamuti **amut** veSham eqaver",
+        "englishLiteral": "in-which you-will-die, **I-will-die,** and-there I-will-be-buried;",
+        "englishNatural": "where you will die, **I will die,** and there I will be buried;"
       }
     }
   ]

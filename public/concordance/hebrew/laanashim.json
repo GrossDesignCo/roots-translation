@@ -1,0 +1,32 @@
+{
+  "key": "laanashim",
+  "language": "hebrew",
+  "root": "ish",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "לַאֲנָשִֽׁים",
+        "transliteration": "laAnashim",
+        "englishLiteral": "to-men",
+        "englishNatural": "men",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָי֥וּ לָכֶ֖ם **לַאֲנָשִֽׁים׃**",
+        "transliteration": "veHayu lakhem **laAnashim**",
+        "englishLiteral": "and-will-be to-you **to-men.**",
+        "englishNatural": "and would they be to you **men?\"**"
+      }
+    }
+  ]
+}

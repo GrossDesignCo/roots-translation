@@ -88,9 +88,9 @@ export const jonah_2_1: Verse = {
     {
       hebrew: 'מִמְּעֵי',
       transliteration: 'mimei',
-      englishLiteral: 'from-bowels-of',
-      englishNatural: 'from the bowels of',
-      root: 'meah_bowels',
+      englishLiteral: 'from-belly-of',
+      englishNatural: 'from the belly of',
+      root: 'meah',
       prefixes: ['mi'],
       suffixes: ['ei'],
       order: 6,
@@ -125,9 +125,9 @@ export const jonah_2_1: Verse = {
     hebrew: 'וַיִּתְפַּלֵּל יוֹנָה אֶל־יְהוָה אֱלֹהָיו מִמְּעֵי הַדָּגָה',
     transliteration: 'vaYitpalel Yonah el-YHWH elohav mimei haDagah',
     englishLiteral:
-      'And-prayed Dove (Jonah) to- He_Who_Is (YHWH) Gods-his from-bowels-of the-fish;',
+      'And-prayed Dove (Jonah) to- He_Who_Is (YHWH) Gods-his from-belly-of the-fish;',
     englishNatural:
-      'And Dove (Jonah) prayed to He-Who-Is (YHWH) his God from the bowels of the fish;',
+      'And Dove (Jonah) prayed to He-Who-Is (YHWH) his God from the belly of the fish;',
     kjv: "And Jonah prayed unto the LORD his God out of the fish's belly:",
     lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },

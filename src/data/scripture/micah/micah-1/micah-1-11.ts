@@ -1,0 +1,286 @@
+import { Verse } from '@/types';
+
+export const micah_1_11: Verse = {
+  meta: {
+    book: 'Micah',
+    chapter: 1,
+    verse: 11,
+  },
+  words: [
+    {
+      hebrew: 'עִבְרִי',
+      transliteration: 'ivri',
+      englishLiteral: 'Pass_through',
+      englishNatural: 'Pass-through',
+      root: 'avar',
+      order: 1,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '2nd',
+        tense: 'imperative',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'לָכֶם',
+      transliteration: 'lakhem',
+      englishLiteral: 'to-you',
+      englishNatural: 'to you',
+      root: 'le',
+      suffixes: ['khem'],
+      order: 2,
+      morphology: {
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'יוֹשֶׁבֶת',
+      transliteration: 'yoshevet',
+      englishLiteral: 'sitting-of',
+      englishNatural: 'the sitting of',
+      root: 'yashav',
+      order: 3,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'שָׁפִיר',
+      transliteration: 'Shapir',
+      englishLiteral: 'Fair (Saphir)',
+      englishNatural: 'Fair (Saphir)',
+      root: 'shapir',
+      order: 4,
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'עֶרְיָה־',
+      transliteration: 'eryah-',
+      englishLiteral: 'nakedness-',
+      englishNatural: 'nakedness',
+      root: 'ervah',
+      order: 5,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'בֹשֶׁת',
+      transliteration: 'boshet',
+      englishLiteral: 'shame',
+      englishNatural: 'shame',
+      root: 'boshet',
+      order: 6,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'לֹא',
+      transliteration: 'lo',
+      englishLiteral: 'not',
+      englishNatural: 'not',
+      root: 'lo',
+      order: {
+        hebrew: 7,
+        english: 10,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+      grammarSuffix: {
+        englishNatural: ';',
+      },
+      lineBreaksAfter: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'יָצְאָה',
+      transliteration: 'yatsah',
+      englishLiteral: 'she-has-brought_out',
+      englishNatural: 'has brought-out',
+      root: 'yatsa',
+      suffixes: ['ah'],
+      order: {
+        hebrew: 8,
+        english: 9,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'יוֹשֶׁבֶת',
+      transliteration: 'yoshevet',
+      englishLiteral: 'sitting-of',
+      englishNatural: 'the sitting of',
+      root: 'yashav',
+      order: {
+        hebrew: 9,
+        english: 7,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'צַאֲנָן',
+      transliteration: 'Tsaanan',
+      englishLiteral: 'Sheepfold (Zaanan)',
+      englishNatural: 'Sheepfold (Zaanan)',
+      root: 'zaanan',
+      order: {
+        hebrew: 10,
+        english: 8,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+      },
+    },
+    {
+      hebrew: 'מִסְפַּד',
+      transliteration: 'mispad',
+      englishLiteral: 'lamentation-of',
+      englishNatural: 'the lamentation of',
+      root: 'misped',
+      order: 11,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'בֵּית',
+      transliteration: 'beit',
+      englishLiteral: 'house-of',
+      englishNatural: 'the house of',
+      root: 'bayit',
+      order: 12,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָאֵצֶל',
+      transliteration: 'haEtsel',
+      englishLiteral: 'the-Beside (Ezel)',
+      englishNatural: 'the-Beside (Ezel)',
+      root: 'ezel',
+      prefixes: ['ha'],
+      order: 13,
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'יִקַּח',
+      transliteration: 'yiqach',
+      englishLiteral: 'he-will-take',
+      englishNatural: 'will take',
+      root: 'laqach',
+      prefixes: ['yi'],
+      order: 14,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'מִכֶּם',
+      transliteration: 'miKem',
+      englishLiteral: 'from-you',
+      englishNatural: 'from you',
+      root: 'min',
+      suffixes: ['chem'],
+      order: 15,
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'עֶמְדָּתוֹ',
+      transliteration: 'emdato',
+      englishLiteral: 'standing-his',
+      englishNatural: 'his standing',
+      root: 'emdah',
+      suffixes: ['o'],
+      order: 16,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        hebrew: '׃',
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'עִבְרִי לָכֶם יוֹשֶׁבֶת שָׁפִיר עֶרְיָה־בֹשֶׁת לֹא יָצְאָה יוֹשֶׁבֶת צַאֲנָן מִסְפַּד בֵּית הָאֵצֶל יִקַּח מִכֶּם עֶמְדָּתוֹ׃',
+    transliteration:
+      'ivri lakhem yoshevet Shapir eryah-boshet lo yatsah yoshevet Tsaanan mispad beit haEtsel yiqach miKem emdato',
+    englishLiteral:
+      'Pass_through to-you sitting-of Fair (Saphir), nakedness- shame; not she-has-brought_out sitting-of Sheepfold (Zaanan); lamentation-of house-of the-Beside (Ezel) he-will-take from-you standing-his.',
+    englishNatural:
+      'Pass-through to you, the sitting of Fair (Saphir), nakedness shame; the sitting of Sheepfold (Zaanan) has brought-out not; the lamentation of the house of the-Beside (Ezel) will take from you his standing.',
+    kjv: 'Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Bethezel; he shall receive of you his standing.',
+  },
+};

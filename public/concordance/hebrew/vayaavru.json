@@ -1,0 +1,34 @@
+{
+  "key": "vayaavru",
+  "language": "hebrew",
+  "root": "avar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וַיַּעֲבֹרוּ",
+        "transliteration": "vaYaavru",
+        "englishLiteral": "and-they-will-pass_through",
+        "englishNatural": "and they will pass-through",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִפְנֵיהֶם פָּרְצוּ **וַיַּעֲבֹרוּ** שַׁעַר וַיֵּצְאוּ",
+        "transliteration": "liFneihem partzu **vaYaavru** shaar vaYetzeu",
+        "englishLiteral": "to-faces-their, they-have-broken_through, **and-they-will-pass_through** gate, and-they-will-go_out",
+        "englishNatural": "to their faces, they have broken-through, **and they will pass-through** a gate, and they will go-out"
+      }
+    }
+  ]
+}

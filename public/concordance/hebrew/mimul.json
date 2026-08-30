@@ -1,0 +1,32 @@
+{
+  "key": "mimul",
+  "language": "hebrew",
+  "root": "mul",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "מִמּוּל",
+        "transliteration": "miMul",
+        "englishLiteral": "from-front-of",
+        "englishNatural": "from front of",
+        "root": "mul",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לְאוֹיֵב יְקוֹמֵם **מִמּוּל** שַׂלְמָה אֶדֶר",
+        "transliteration": "leOyev yeQomem **miMul** salmah eder",
+        "englishLiteral": "to-enemy he-will-stand_up, **from-front-of** cloak, mantle",
+        "englishNatural": "to an enemy will stand-up, **from front of** a cloak, a mantle"
+      }
+    }
+  ]
+}

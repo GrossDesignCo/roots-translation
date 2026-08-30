@@ -1,0 +1,32 @@
+{
+  "key": "leammekh",
+  "language": "hebrew",
+  "root": "am",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "לְעַמֵּֽךְ",
+        "transliteration": "leAmmeKh",
+        "englishLiteral": "to-people-your",
+        "englishNatural": "to your people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִתָּ֥ךְ נָשׁ֖וּב **לְעַמֵּֽךְ׃**",
+        "transliteration": "itakh naShuv **leAmmeKh**",
+        "englishLiteral": "with-you we-will-return **to-people-your.\"**",
+        "englishNatural": "with you we will return **to your people.\"**"
+      }
+    }
+  ]
+}

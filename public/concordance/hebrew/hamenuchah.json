@@ -1,0 +1,32 @@
+{
+  "key": "hamenuchah",
+  "language": "hebrew",
+  "root": "manoach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הַמְּנוּחָה",
+        "transliteration": "haMenuchah",
+        "englishLiteral": "the-resting_place",
+        "englishNatural": "the resting-place",
+        "root": "manoach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ זֹאת **הַמְּנוּחָה** בַּעֲבוּר טָמְאָה",
+        "transliteration": "lo- zot **haMenuchah** baavur tameah",
+        "englishLiteral": "not- this **the-resting_place;** for_sake_of unclean,",
+        "englishNatural": "this is not **the resting-place;** for the sake of unclean,"
+      }
+    }
+  ]
+}

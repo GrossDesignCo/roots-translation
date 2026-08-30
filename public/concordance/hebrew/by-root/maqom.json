@@ -76,6 +76,31 @@
         "englishLiteral": "And-she-went_out from- **the-place** which she-had-been-",
         "englishNatural": "And she went-out from **the place** which she had been"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "מִמְּקוֹמוֹ",
+        "transliteration": "miMeqomo",
+        "englishLiteral": "from-place-his",
+        "englishNatural": "from his place",
+        "root": "maqom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה יֹצֵא **מִמְּקוֹמוֹ** וְיָרַד וְדָרַךְ",
+        "transliteration": "YHWH yotze **miMeqomo** veYarad veDarakh",
+        "englishLiteral": "He_Who_Is (YHWH) going_out **from-place-his;** and-he-has-gone_down and-he-has-trodden",
+        "englishNatural": "He-Who-Is (YHWH) is going-out **from his place;** and he will go-down and tread"
+      }
     }
   ]
 }

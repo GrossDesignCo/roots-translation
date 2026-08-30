@@ -1,0 +1,32 @@
+{
+  "key": "shapir",
+  "language": "hebrew",
+  "root": "shapir",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "שָׁפִיר",
+        "transliteration": "Shapir",
+        "englishLiteral": "Fair (Saphir)",
+        "englishNatural": "Fair (Saphir)",
+        "root": "shapir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֶם יוֹשֶׁבֶת **שָׁפִיר** עֶרְיָה־ בֹשֶׁת",
+        "transliteration": "lakhem yoshevet **Shapir** eryah- boshet",
+        "englishLiteral": "to-you sitting-of **Fair (Saphir),** nakedness- shame;",
+        "englishNatural": "to you, the sitting of **Fair (Saphir),** nakedness shame;"
+      }
+    }
+  ]
+}

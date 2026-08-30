@@ -227,7 +227,7 @@ export const genesis_6_3: Verse = {
       transliteration: 'meah',
       englishLiteral: 'hundred',
       englishNatural: 'a hundred',
-      root: 'meah',
+      root: 'meah_hundred',
       order: 13,
       morphology: {
         type: 'numeral',

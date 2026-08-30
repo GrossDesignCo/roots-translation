@@ -77,6 +77,31 @@
         "englishLiteral": "He_Who_Is (YHWH) acquired-me, **heading-of** way-his, before",
         "englishNatural": "He-Who-Is (YHWH) acquired me, **the heading of** his way, before"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "רֵאשִׁית",
+        "transliteration": "reshit",
+        "englishLiteral": "beginning-of",
+        "englishNatural": "is the beginning of",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹשֶׁבֶת לָכִישׁ **רֵאשִׁית** חַטָּאת הִיא",
+        "transliteration": "yoshevet Lakhish **reshit** chattaat hi",
+        "englishLiteral": "sitting-of Invincible (Lachish); **beginning-of** sin she",
+        "englishNatural": "Invincible (Lachish); she **is the beginning of** sin to the daughter of"
+      }
     }
   ]
 }

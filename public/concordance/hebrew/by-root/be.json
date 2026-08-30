@@ -304,6 +304,81 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "בִ֖י",
+        "transliteration": "vi",
+        "englishLiteral": "in-me",
+        "englishNatural": "in me",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כִּֽי־ יָצְאָ֥ה **בִ֖י** יַד־ יְהוָֽה׃",
+        "transliteration": "ki- yatsah **vi** yad- YHWH",
+        "englishLiteral": "that- she-has-brought_out **in-me** hand- He_Who_Is (YHWH).\"",
+        "englishNatural": "He-Who-Is (YHWH) has gone out **in me.\"**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בָּֽהּ",
+        "transliteration": "bah",
+        "englishLiteral": "in-her",
+        "englishNatural": "in her",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְר֖וּת דָּ֥בְקָה **בָּֽהּ׃**",
+        "transliteration": "veRut davqah **bah**",
+        "englishLiteral": "and-Friend (Ruth) she-has-clung **in-her.**",
+        "englishNatural": "but Friend (Ruth) clung **in her.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בִי",
+        "transliteration": "vi",
+        "englishLiteral": "in-me",
+        "englishNatural": "me",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תִּפְגְּעִי־ **בִי** לְעׇזְבֵךְ לָשׁוּב",
+        "transliteration": "al- tipgei- **vi** leAzvekh laShuv",
+        "englishLiteral": "\"not- you-will-encounter **in-me** to-leave-you to-return",
+        "englishNatural": "said, \"You will encounter **me** not to leave you,"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 7
@@ -450,6 +525,81 @@
         "transliteration": "asher yesh- **bah** harbeh mishteym-",
         "englishLiteral": "which there_is- **in-her** much from-two-",
         "englishNatural": "which there-is **in her** much more than two"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בָּכֶם",
+        "transliteration": "baKhem",
+        "englishLiteral": "in-you",
+        "englishNatural": "in you",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֲדֹנָי יְהוִה **בָּכֶם** לְעֵד אֲדֹנָי",
+        "transliteration": "adonai YHWH **baKhem** leEd adonai",
+        "englishLiteral": "Lord He_Who_Is (YHWH) **in-you** to-witness, Lord",
+        "englishNatural": "He-Who-Is (YHWH) be **in you** to a witness, Lord"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "בָךְ",
+        "transliteration": "bakh",
+        "englishLiteral": "in-you",
+        "englishNatural": "in you",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "צִיּוֹן כִּי־ **בָךְ** נִמְצְאוּ פִּשְׁעֵי",
+        "transliteration": "Tziyon ki- **bakh** niMtseu pishei",
+        "englishLiteral": "Marker (Zion); that- **in-you** they-have-been-found transgressions-of",
+        "englishNatural": "Marker (Zion); that **in you** have been found the transgressions of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בּוֹ",
+        "transliteration": "bo",
+        "englishLiteral": "in-it",
+        "englishNatural": "in it",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "שַׁעַר וַיֵּצְאוּ **בּוֹ** וַיַּעֲבֹר מַלְכָּם",
+        "transliteration": "shaar vaYetzeu **bo** vaYaavor malkam",
+        "englishLiteral": "gate, and-they-will-go_out **in-it;** and-he-will-pass_through king-their",
+        "englishNatural": "a gate, and they will go-out **in it;** and their king will pass-through"
       }
     }
   ]

@@ -79,8 +79,8 @@
       "context": {
         "hebrew": "מִמֵּעֶיךָ הוּא **יִירָשֶׁךָ**",
         "transliteration": "mimmeykha hu **yirashekha**",
-        "englishLiteral": "from-bowels-of-you, he **he-will-inherit-you.\"**",
-        "englishNatural": "from your bowels, he **will inherit you.\"**"
+        "englishLiteral": "from-belly-of-you, he **he-will-inherit-you.\"**",
+        "englishNatural": "from your belly, he **will inherit you.\"**"
       }
     },
     {
@@ -135,6 +135,33 @@
         "transliteration": "eda ki **irashenah**",
         "englishLiteral": "I-will-know that **I-will-inherit-her?\"**",
         "englishNatural": "will I know that **I will inherit it?\"**"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַיּוֹרֵשׁ",
+        "transliteration": "haYoresh",
+        "englishLiteral": "the-inheriting",
+        "englishNatural": "the one inheriting",
+        "root": "yarash",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹד **הַיּוֹרֵשׁ** אָבִי לָךְ",
+        "transliteration": "od **haYoresh** avi lakh",
+        "englishLiteral": "again **the-inheriting** I-will-bring to-you,",
+        "englishNatural": "Again I will bring **the one inheriting** to you, sitting one of"
       }
     }
   ]

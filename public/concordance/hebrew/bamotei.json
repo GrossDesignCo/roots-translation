@@ -1,0 +1,32 @@
+{
+  "key": "bamotei",
+  "language": "hebrew",
+  "root": "bamah_high",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "בָּמֳתֵי",
+        "transliteration": "bamotei",
+        "englishLiteral": "high_places-of",
+        "englishNatural": "the high-places of",
+        "root": "bamah_high",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְדָרַךְ עַל־ **בָּמֳתֵי** אָרֶץ׃",
+        "transliteration": "veDarakh al- **bamotei** aretz",
+        "englishLiteral": "and-he-has-trodden over- **high_places-of** earth.",
+        "englishNatural": "and tread over **the high-places of** earth."
+      }
+    }
+  ]
+}

@@ -254,6 +254,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "הַלַּ֙יְלָה֙",
+        "transliteration": "haLaylah",
+        "englishLiteral": "the-night",
+        "englishNatural": "the night",
+        "root": "layil",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַּ֣ם הָיִ֤יתִי **הַלַּ֙יְלָה֙** לְאִ֔ישׁ וְגַ֖ם",
+        "transliteration": "gam hayiti **haLaylah** leIsh veGam",
+        "englishLiteral": "also I-have-been **the-night** to-man, and-also",
+        "englishNatural": "also I have been **the night** to a man, and also"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 2

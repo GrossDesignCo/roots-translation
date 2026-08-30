@@ -77,6 +77,56 @@
         "englishLiteral": "not- I-fear **bad;** that- you",
         "englishNatural": "I fear not **bad;** that you"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "רָע",
+        "transliteration": "ra",
+        "englishLiteral": "bad",
+        "englishNatural": "bad",
+        "root": "ra",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ יָרַד **רָע** מֵאֵת יְהוָה",
+        "transliteration": "ki- yarad **ra** meEt YHWH",
+        "englishLiteral": "that- he-has-gone_down **bad** from-with He_Who_Is (YHWH)",
+        "englishNatural": "to good; that **bad** has gone-down from with"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "רָ֖ע",
+        "transliteration": "ra",
+        "englishLiteral": "bad",
+        "englishNatural": "bad",
+        "root": "ra",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אָ֛וֶן וּפֹ֥עֲלֵי **רָ֖ע** עַל־ מִשְׁכְּבוֹתָ֑ם",
+        "transliteration": "aven uPoalei **ra** al- mishkevotam",
+        "englishLiteral": "trouble and-workers-of **bad,** over- beds-their;",
+        "englishNatural": "trouble and workers of **bad,** over their beds;"
+      }
     }
   ]
 }

@@ -18,7 +18,7 @@ and-behold son-of- house-of-me inheriting ↳ me."
 And-behold word-of- He_Who_Is (YHWH) to-him,
 to-say,
 "Not he-will-inherit-you this,
-but which he-will-come-out from-bowels-of-you,
+but which he-will-come-out from-belly-of-you,
 he he-will-inherit-you."
 
 And-he-brought-out ↳ him the-outside

@@ -1,0 +1,34 @@
+{
+  "key": "shavah",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שָׁ֣בָה",
+        "transliteration": "shavah",
+        "englishLiteral": "she-has-returned",
+        "englishNatural": "has returned",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּ֗אמֶר הִנֵּה֙ **שָׁ֣בָה** יְבִמְתֵּ֔ךְ אֶל־",
+        "transliteration": "vatTomer hineh **shavah** yevimtekh el-",
+        "englishLiteral": "And-said, \"Behold **she-has-returned** sister_in_law-your, to-",
+        "englishNatural": "\"Behold, your sister-in-law **has returned** to her people"
+      }
+    }
+  ]
+}

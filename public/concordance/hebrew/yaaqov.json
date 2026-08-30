@@ -102,6 +102,106 @@
         "englishLiteral": "He_Laughs (Isaac) and-to- **Heel_Grasper (Jacob)** in-God Almighty",
         "englishNatural": "He-Laughs (Isaac), and to **Heel-Grasper (Jacob),** in God Almighty,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יַעֲקֹב",
+        "transliteration": "Yaaqov",
+        "englishLiteral": "Heel_Grasper (Jacob)",
+        "englishNatural": "Heel-Grasper (Jacob)",
+        "root": "yaaqov",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּפֶשַׁע **יַעֲקֹב** כָּל־ זֹאת",
+        "transliteration": "bePesha **Yaaqov** kol- zot",
+        "englishLiteral": "in-transgression-of **Heel_Grasper (Jacob)** all- this,",
+        "englishNatural": "In the transgression of **Heel-Grasper (Jacob)** all this,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יַעֲקֹב",
+        "transliteration": "Yaaqov",
+        "englishLiteral": "Heel_Grasper (Jacob)",
+        "englishNatural": "Heel-Grasper (Jacob)",
+        "root": "yaaqov",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִי־ פֶשַׁע **יַעֲקֹב** הֲלוֹא שֹׁמְרוֹן",
+        "transliteration": "mi- pesha **Yaaqov** halo Shomron",
+        "englishLiteral": "who- transgression-of **Heel_Grasper (Jacob),** is_it_not Keep (Samaria),",
+        "englishNatural": "who is the transgression of **Heel-Grasper (Jacob)?** is it not Keep (Samaria)?"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יַעֲקֹב",
+        "transliteration": "Yaaqov",
+        "englishLiteral": "Heel_Grasper (Jacob)",
+        "englishNatural": "Heel-Grasper (Jacob)",
+        "root": "yaaqov",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֶאָמוּר בֵּית־ **יַעֲקֹב** הֲקָצַר רוּחַ",
+        "transliteration": "heAmur beit- **Yaaqov** haQatsar ruach",
+        "englishLiteral": "the-said house-of **Heel_Grasper (Jacob),** whether-has-been-short Wind-of",
+        "englishNatural": "Said, the house of **Heel-Grasper (Jacob),** is the Wind of He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יַעֲקֹב",
+        "transliteration": "Yaaqov",
+        "englishLiteral": "Heel_Grasper (Jacob)",
+        "englishNatural": "Heel-Grasper (Jacob)",
+        "root": "yaaqov",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָסֹף אֶאֱסֹף **יַעֲקֹב** כֻּלָּךְ קַבֵּץ",
+        "transliteration": "asof eEsof **Yaaqov** kullakh qabets",
+        "englishLiteral": "Gathering I-will-gather **Heel_Grasper (Jacob)** all-of-you, collecting",
+        "englishNatural": "Gathering I will gather **Heel-Grasper (Jacob),** all of you, collecting"
+      }
     }
   ]
 }

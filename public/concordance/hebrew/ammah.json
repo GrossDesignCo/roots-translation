@@ -1,7 +1,7 @@
 {
   "key": "ammah",
   "language": "hebrew",
-  "root": "ammah",
+  "root": "am",
   "occurrences": [
     {
       "location": {
@@ -126,6 +126,31 @@
         "transliteration": "chamesh esreh **ammah** milmalah gavru",
         "englishLiteral": "Five ten **cubits** from-to-upward they-have-prevailed",
         "englishNatural": "Five ten **cubits** upward the waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "עַמָּ֖הּ",
+        "transliteration": "ammah",
+        "englishLiteral": "people-her",
+        "englishNatural": "her people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְבִמְתֵּ֔ךְ אֶל־ **עַמָּ֖הּ** וְאֶל־ אֱלֹהֶ֑יהָ",
+        "transliteration": "yevimtekh el- **ammah** veEl- elohiha",
+        "englishLiteral": "sister_in_law-your, to- **people-her** and-to- Gods-her;",
+        "englishNatural": "has returned to **her people** and to her gods;"
       }
     }
   ]

@@ -1,0 +1,31 @@
+{
+  "root": "achzav",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "לְאַכְזָב",
+        "transliteration": "leAkhzav",
+        "englishLiteral": "to-lie",
+        "englishNatural": "to a lie",
+        "root": "achzav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּתֵּי אַכְזִיב **לְאַכְזָב** לְמַלְכֵי יִשְׂרָאֵל׃",
+        "transliteration": "batei Akhziv **leAkhzav** leMalkhey Yisrael",
+        "englishLiteral": "houses-of Lie (Achzib) **to-lie,** to-kings-of Struggles_with_God (Israel).",
+        "englishNatural": "the houses of Lie (Achzib) **to a lie,** to the kings of Struggles-with-God (Israel)."
+      }
+    }
+  ]
+}

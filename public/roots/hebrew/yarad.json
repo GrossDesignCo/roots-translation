@@ -6,6 +6,9 @@
   "englishNatural": "to go-down",
   "type": "verb",
   "description": "to go down, descend, come down",
+  "related": [
+    "morad"
+  ],
   "wordIndexes": {
     "exodus": {
       "11": {
@@ -47,6 +50,16 @@
       "2": {
         "6": [
           0
+        ]
+      }
+    },
+    "micah": {
+      "1": {
+        "3": [
+          5
+        ],
+        "12": [
+          6
         ]
       }
     }

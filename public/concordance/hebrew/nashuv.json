@@ -1,0 +1,34 @@
+{
+  "key": "nashuv",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "נָשׁ֖וּב",
+        "transliteration": "naShuv",
+        "englishLiteral": "we-will-return",
+        "englishNatural": "we will return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּֽי־ אִתָּ֥ךְ **נָשׁ֖וּב** לְעַמֵּֽךְ׃",
+        "transliteration": "ki- itakh **naShuv** leAmmeKh",
+        "englishLiteral": "\"that- with-you **we-will-return** to-people-your.\"",
+        "englishNatural": "\"That with you **we will return** to your people.\""
+      }
+    }
+  ]
+}

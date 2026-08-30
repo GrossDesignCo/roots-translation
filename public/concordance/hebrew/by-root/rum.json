@@ -53,6 +53,31 @@
         "englishLiteral": "over throne, **high** and-lifted_up, and-his-garments,",
         "englishNatural": "over a throne, **high** and lifted-up, and his garments,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "רוֹמָה",
+        "transliteration": "romah",
+        "englishLiteral": "high",
+        "englishNatural": "high",
+        "root": "rum",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְלֹא תֵלְכוּ **רוֹמָה** כִּי עֵת",
+        "transliteration": "veLo telekhu **romah** ki et",
+        "englishLiteral": "and-not you-will-walk **high,** that time",
+        "englishNatural": "and you will walk not **high,** that a time"
+      }
     }
   ]
 }

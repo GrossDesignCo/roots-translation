@@ -237,7 +237,7 @@ export const jonah_3_8: Verse = {
       transliteration: 'umin-',
       englishLiteral: 'and-from-',
       englishNatural: 'and from',
-      root: 'min_from',
+      root: 'min',
       prefixes: ['u'],
       order: 13,
       morphology: {

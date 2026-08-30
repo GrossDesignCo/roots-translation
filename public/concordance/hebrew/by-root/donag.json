@@ -1,0 +1,31 @@
+{
+  "root": "donag",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "כַּדּוֹנַג",
+        "transliteration": "kaDonag",
+        "englishLiteral": "like-wax",
+        "englishNatural": "like wax",
+        "root": "donag",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָעֲמָקִים יִתְבַּקָּעוּ **כַּדּוֹנַג** מִפְּנֵי הָאֵשׁ",
+        "transliteration": "veHaAmaqim yitbaqaqu **kaDonag** miPney haEsh",
+        "englishLiteral": "and-the-valleys they-will-break_open, **like-wax** from-faces-of the-fire,",
+        "englishNatural": "and the valleys will break-open, **like wax** from the faces of the fire,"
+      }
+    }
+  ]
+}

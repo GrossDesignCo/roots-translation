@@ -144,7 +144,7 @@ export const genesis_8_2: Verse = {
       transliteration: 'min-',
       englishLiteral: 'from-',
       englishNatural: 'from',
-      root: 'min_from',
+      root: 'min',
       order: {
         hebrew: 8,
         english: 10,

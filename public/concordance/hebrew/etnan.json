@@ -1,0 +1,32 @@
+{
+  "key": "etnan",
+  "language": "hebrew",
+  "root": "etnan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "אֶתְנַן",
+        "transliteration": "etnan",
+        "englishLiteral": "hire-of",
+        "englishNatural": "the hire of",
+        "root": "etnan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קִבָּצָה וְעַד־ **אֶתְנַן** זוֹנָה יָשׁוּבוּ׃",
+        "transliteration": "qibbatzah veAd- **etnan** zonah yashuvu",
+        "englishLiteral": "she-has-collected, and-until- **hire-of** harlot they-will-return.",
+        "englishNatural": "she has collected, and until **the hire of** a harlot they will return."
+      }
+    }
+  ]
+}

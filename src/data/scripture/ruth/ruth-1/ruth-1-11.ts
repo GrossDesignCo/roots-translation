@@ -1,0 +1,257 @@
+import { Verse } from '@/types';
+
+export const ruth_1_11: Verse = {
+  meta: {
+    book: 'Ruth',
+    chapter: 1,
+    verse: 11,
+  },
+  words: [
+    {
+      hebrew: 'וַתֹּ֤אמֶר',
+      transliteration: 'vatTomer',
+      englishLiteral: 'And-said',
+      englishNatural: 'said',
+      root: 'amar',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 2,
+      },
+      morphology: {
+        type: 'verb',
+        tense: 'imperfect',
+        person: '3rd',
+        gender: 'feminine',
+        number: 'singular',
+        stem: 'qal',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'נָעֳמִי֙',
+      transliteration: 'Naomi',
+      englishLiteral: 'Pleasant_My (Naomi)',
+      englishNatural: 'And My-Pleasant (Naomi)',
+      root: 'naomi',
+      order: {
+        hebrew: 2,
+        english: 1,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'שֹׁ֣בְנָה',
+      transliteration: 'shovnah',
+      englishLiteral: 'return',
+      englishNatural: 'Return',
+      root: 'shuv',
+      order: 3,
+      morphology: {
+        type: 'verb',
+        tense: 'imperative',
+        person: '2nd',
+        gender: 'feminine',
+        number: 'plural',
+        stem: 'qal',
+      },
+      grammarPrefix: {
+        englishLiteral: '"',
+        englishNatural: '"',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'בְנֹתַ֔י',
+      transliteration: 'benotai',
+      englishLiteral: 'my-daughters',
+      englishNatural: 'my daughters',
+      root: 'bat',
+      suffixes: ['ot', 'i_possessive'],
+      order: 4,
+      morphology: {
+        type: 'noun',
+        gender: 'feminine',
+        number: 'plural',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'לָ֥מָּה',
+      transliteration: 'lamah',
+      englishLiteral: 'why',
+      englishNatural: 'why',
+      root: 'lamah',
+      order: 5,
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'תֵלַ֖כְנָה',
+      transliteration: 'telakhna',
+      englishLiteral: 'you-will-walk',
+      englishNatural: 'will you walk',
+      root: 'halakh',
+      order: 6,
+      morphology: {
+        type: 'verb',
+        tense: 'imperfect',
+        person: '2nd',
+        gender: 'feminine',
+        number: 'plural',
+        stem: 'qal',
+      },
+    },
+    {
+      hebrew: 'עִמִּ֑י',
+      transliteration: 'immi',
+      englishLiteral: 'with-me',
+      englishNatural: 'with me',
+      root: 'im_with',
+      suffixes: ['i'],
+      order: 7,
+      morphology: {
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+    },
+    {
+      hebrew: 'הַעֽוֹד־',
+      transliteration: 'haOd-',
+      englishLiteral: 'the-again',
+      englishNatural: 'are there again',
+      root: 'od',
+      prefixes: ['ha'],
+      order: 8,
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'לִ֤י',
+      transliteration: 'li',
+      englishLiteral: 'to-me',
+      englishNatural: 'to me',
+      root: 'le',
+      suffixes: ['li'],
+      order: 9,
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'בָנִים֙',
+      transliteration: 'banim',
+      englishLiteral: 'sons',
+      englishNatural: 'sons',
+      root: 'ben',
+      suffixes: ['im'],
+      order: 10,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'plural',
+      },
+    },
+    {
+      hebrew: 'בְּֽמֵעַ֔י',
+      transliteration: 'beMeai',
+      englishLiteral: 'in-belly-my',
+      englishNatural: 'in my belly',
+      root: 'meah',
+      prefixes: ['be'],
+      suffixes: ['i_possessive'],
+      order: 11,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְהָי֥וּ',
+      transliteration: 'veHayu',
+      englishLiteral: 'and-will-be',
+      englishNatural: 'and would they be',
+      root: 'hayah',
+      prefixes: ['ve'],
+      order: 12,
+      morphology: {
+        type: 'verb',
+        tense: 'imperfect',
+        person: '3rd',
+        gender: 'masculine',
+        number: 'plural',
+        stem: 'qal',
+      },
+    },
+    {
+      hebrew: 'לָכֶ֖ם',
+      transliteration: 'lakhem',
+      englishLiteral: 'to-you',
+      englishNatural: 'to you',
+      root: 'le',
+      suffixes: ['khem'],
+      order: 13,
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'לַאֲנָשִֽׁים',
+      transliteration: 'laAnashim',
+      englishLiteral: 'to-men',
+      englishNatural: 'men',
+      root: 'ish',
+      prefixes: ['le'],
+      suffixes: ['im'],
+      order: 14,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'plural',
+      },
+      grammarSuffix: {
+        hebrew: '׃',
+        englishLiteral: '.',
+        englishNatural: '?"',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃',
+    transliteration:
+      'vatTomer Naomi shovnah benotai lamah telakhna immi haOd-li banim beMeai veHayu lakhem laAnashim',
+    englishLiteral:
+      'And-said Pleasant_My (Naomi) "return my-daughters, why you-will-walk with-me; the-again to-me sons in-belly-my, and-will-be to-you to-men.',
+    englishNatural:
+      'And My-Pleasant (Naomi) said, "Return, my daughters, why will you walk with me; are there again to me sons in my belly, and would they be to you men?"',
+    kjv: 'And Naomi said, Turn again, my daughters: why will ye go with me? are there yet any more sons in my womb, that they may be your husbands?',
+  },
+};

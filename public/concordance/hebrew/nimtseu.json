@@ -1,0 +1,34 @@
+{
+  "key": "nimtseu",
+  "language": "hebrew",
+  "root": "matsa",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "נִמְצְאוּ",
+        "transliteration": "niMtseu",
+        "englishLiteral": "they-have-been-found",
+        "englishNatural": "have been found",
+        "root": "matsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ בָךְ **נִמְצְאוּ** פִּשְׁעֵי יִשְׂרָאֵל׃",
+        "transliteration": "ki- bakh **niMtseu** pishei Yisrael",
+        "englishLiteral": "that- in-you **they-have-been-found** transgressions-of Struggles_with_God (Israel).",
+        "englishNatural": "that in you **have been found** the transgressions of Struggles-with-God (Israel)."
+      }
+    }
+  ]
+}

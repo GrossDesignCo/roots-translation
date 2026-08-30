@@ -149,7 +149,7 @@ export const genesis_5_26: Verse = {
       transliteration: 'meot',
       englishLiteral: 'hundreds',
       englishNatural: 'hundred',
-      root: 'meah',
+      root: 'meah_hundred',
       prefixes: ['me'],
       order: 10,
       morphology: {

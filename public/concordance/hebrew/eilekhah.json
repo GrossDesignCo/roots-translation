@@ -1,0 +1,34 @@
+{
+  "key": "eilekhah",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֵילְכָה",
+        "transliteration": "eilekhah",
+        "englishLiteral": "I-will-walk",
+        "englishNatural": "I will walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶסְפְּדָה וְאֵילִילָה **אֵילְכָה** שׁוֹלָל וְעָרוֹם",
+        "transliteration": "espeidah veEililah **eilekhah** sholal veArom",
+        "englishLiteral": "I-will-lament and-I-will-howl, **I-will-walk** spoiled and-naked;",
+        "englishNatural": "I will lament and I will howl, **I will walk** spoiled and naked;"
+      }
+    }
+  ]
+}

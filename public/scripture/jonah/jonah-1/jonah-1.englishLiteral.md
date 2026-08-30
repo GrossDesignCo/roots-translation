@@ -70,5 +70,5 @@ and-sacrificed- sacrifice to-He_Who_Is (YHWH)
 and-vowed vows.
 
 And-appointed He_Who_Is (YHWH) fish great to-swallow ↳ Dove (Jonah); 
-And-was Dove (Jonah) in-bowels-of the-fish 
+And-was Dove (Jonah) in-belly-of the-fish 
 three days and-three nights.

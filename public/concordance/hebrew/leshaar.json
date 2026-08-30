@@ -1,0 +1,32 @@
+{
+  "key": "leshaar",
+  "language": "hebrew",
+  "root": "shaar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "לְשַׁעַר",
+        "transliteration": "leShaar",
+        "englishLiteral": "to-gate-of",
+        "englishNatural": "to the gate of",
+        "root": "shaar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאֵת יְהוָה **לְשַׁעַר** יְרוּשָׁלִָם׃",
+        "transliteration": "meEt YHWH **leShaar** Yerushalayim",
+        "englishLiteral": "from-with He_Who_Is (YHWH) **to-gate-of** Foundation_of_Peace (Jerusalem).",
+        "englishNatural": "from with He-Who-Is (YHWH) **to the gate of** Foundation-of-Peace (Jerusalem)."
+      }
+    }
+  ]
+}

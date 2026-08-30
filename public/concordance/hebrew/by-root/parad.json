@@ -31,6 +31,33 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "יַפְרִיד",
+        "transliteration": "yafrid",
+        "englishLiteral": "he-will-part",
+        "englishNatural": "will part",
+        "root": "parad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי הַמָּוֶת **יַפְרִיד** בֵּינִי וּבֵינֵךְ׃",
+        "transliteration": "ki haMavet **yafrid** beyni uVeynekh",
+        "englishLiteral": "that the-death **he-will-part** between-me and-between-you.\"",
+        "englishNatural": "that the death **will part** between me and between you.\""
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 11

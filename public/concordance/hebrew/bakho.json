@@ -1,0 +1,34 @@
+{
+  "key": "bakho",
+  "language": "hebrew",
+  "root": "bakah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בָּכוֹ",
+        "transliteration": "bakho",
+        "englishLiteral": "weeping",
+        "englishNatural": "weeping",
+        "root": "bakah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תַּגִּידוּ **בָּכוֹ** אַל־ תִּבְכּוּ",
+        "transliteration": "al- taGgidu **bakho** al- tiVkhu",
+        "englishLiteral": "not- you-will-declare; **weeping,** not- you-will-weep;",
+        "englishNatural": "you will declare not; **weeping,** you will weep not;"
+      }
+    }
+  ]
+}

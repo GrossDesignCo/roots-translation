@@ -127,6 +127,31 @@
         "englishLiteral": "and-my-darlings ↳ **sons-of** Earthling (Adam).",
         "englishNatural": "and my darlings ↳ **the sons of** Earthling (Adam)."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בְּנֵי",
+        "transliteration": "benei",
+        "englishLiteral": "sons-of",
+        "englishNatural": "the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וָגֹזִּי עַל־ **בְּנֵי** תַּעֲנוּגָיִךְ הַרְחִבִי",
+        "transliteration": "vaGozzi al- **benei** taanugayikh harchivi",
+        "englishLiteral": "and-shear, over- **sons-of** luxuries-your; Widen",
+        "englishNatural": "and shear, over **the sons of** your luxuries; Widen"
+      }
     }
   ]
 }

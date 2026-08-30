@@ -526,6 +526,56 @@
         "englishLiteral": "which- in-feet-your. **and-after-** so I-will-bring_out.",
         "englishNatural": "which, in your feet.' **and after** so I will bring-out.\""
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אַחֲרֵ֥י",
+        "transliteration": "acharei",
+        "englishLiteral": "after",
+        "englishNatural": "after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֶ֑יהָ שׁ֖וּבִי **אַחֲרֵ֥י** יְבִמְתֵּֽךְ׃",
+        "transliteration": "elohiha shuvi **acharei** yevimtekh",
+        "englishLiteral": "Gods-her; return **after** sister_in_law-your.\"",
+        "englishNatural": "her gods; Return **after** your sister-in-law.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "מֵאַחֲרָיִךְ",
+        "transliteration": "meAcharayikh",
+        "englishLiteral": "from-after-you",
+        "englishNatural": "from after you",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לְעׇזְבֵךְ לָשׁוּב **מֵאַחֲרָיִךְ** כִּי אֶל־",
+        "transliteration": "leAzvekh laShuv **meAcharayikh** ki el-",
+        "englishLiteral": "to-leave-you to-return **from-after-you,** that- to-",
+        "englishNatural": "to leave you, to return **from after you,** for to"
+      }
     }
   ]
 }

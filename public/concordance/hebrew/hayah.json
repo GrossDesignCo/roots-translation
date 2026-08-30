@@ -434,6 +434,33 @@
         "englishLiteral": "yet-son-of- night **was** and-son-of- night",
         "englishNatural": "yet son of a night **it was** and son of a night"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הָיָה",
+        "transliteration": "hayah",
+        "englishLiteral": "was",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֲשֶׁר **הָיָה** אֶל־ מִיכָה",
+        "transliteration": "YHWH asher **hayah** el- Mikhah",
+        "englishLiteral": "He_Who_Is (YHWH) which **was** to- Who_Is_Like_He (Micah)",
+        "englishNatural": "He-Who-Is (YHWH) which **was** to Who-Is-Like-He (Micah)"
+      }
     }
   ]
 }

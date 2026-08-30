@@ -26,6 +26,31 @@
         "englishLiteral": "that- I-walk **in-valley-of** shadow_death, not-",
         "englishNatural": "that I walk **in a valley of** shadow-death, I fear"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לַגַּי",
+        "transliteration": "laGay",
+        "englishLiteral": "to-the-valley",
+        "englishNatural": "to the valley",
+        "root": "gei",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָרֶם וְהִגַּרְתִּי **לַגַּי** אֲבָנֶיהָ וִיסֹדֶיהָ",
+        "transliteration": "kerem veHigarti **laGay** avaneiha viSodeiha",
+        "englishLiteral": "vineyard; and-I-have-cascaded **to-the-valley** stones-her, and-foundations-her",
+        "englishNatural": "vineyard; and I will cascade **to the valley** her stones, and her foundations"
+      }
     }
   ]
 }

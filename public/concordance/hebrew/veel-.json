@@ -202,6 +202,31 @@
         "englishLiteral": "to- Drawn_Out (Moses) **and-to-** Light_Bringer (Aaron) to-say:",
         "englishNatural": "to Drawn-Out (Moses), **and to** Light-Bringer (Aaron), saying,"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְאֶל־",
+        "transliteration": "veEl-",
+        "englishLiteral": "and-to-",
+        "englishNatural": "and to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ עַמָּ֖הּ **וְאֶל־** אֱלֹהֶ֑יהָ שׁ֖וּבִי",
+        "transliteration": "el- ammah **veEl-** elohiha shuvi",
+        "englishLiteral": "to- people-her **and-to-** Gods-her; return",
+        "englishNatural": "to her people **and to** her gods; Return"
+      }
     }
   ]
 }

@@ -62,11 +62,9 @@ export const ruth_1_1: Verse = {
       prefixes: ['ha'],
       order: 4,
       morphology: {
-        type: 'verb',
-        tense: 'participle',
+        type: 'noun',
         gender: 'masculine',
         number: 'plural',
-        stem: 'qal',
       },
       grammarSuffix: {
         englishNatural: ',',

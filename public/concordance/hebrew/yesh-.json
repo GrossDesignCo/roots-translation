@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יֶשׁ־",
+        "transliteration": "yesh-",
+        "englishLiteral": "there_is-",
+        "englishNatural": "there-is",
+        "root": "yesh",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֤י אָמַ֙רְתִּי֙ **יֶשׁ־** לִ֣י תִקְוָ֔ה",
+        "transliteration": "ki amarti **yesh-** li tikvah",
+        "englishLiteral": "that I-have-said **there_is-** to-me hope,",
+        "englishNatural": "that I have said, **there-is** to me hope,"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 4,
         "verse": 11
@@ -26,6 +51,31 @@
         "transliteration": "haGedolah asher **yesh-** bah harbeh",
         "englishLiteral": "the-great, which **there_is-** in-her much",
         "englishNatural": "the great, which **there-is** in her much"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "יֶשׁ־",
+        "transliteration": "yesh-",
+        "englishLiteral": "there_is-",
+        "englishNatural": "there-is",
+        "root": "yesh",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "יַעֲשׂ֔וּהָ כִּ֥י **יֶשׁ־** לְאֵ֖ל יָדָֽם׃",
+        "transliteration": "yaasuha ki **yesh-** leEl yadam",
+        "englishLiteral": "they-will-make-her, that **there_is-** to-power-of hand-their.",
+        "englishNatural": "they will make it, that **there-is** to the power of their hand."
       }
     }
   ]

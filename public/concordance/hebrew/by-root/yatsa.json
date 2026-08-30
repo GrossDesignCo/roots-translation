@@ -456,8 +456,8 @@
       "context": {
         "hebrew": "כִּי־אִם אֲשֶׁר **יֵצֵא** מִמֵּעֶיךָ הוּא",
         "transliteration": "ki-im asher **yetze** mimmeykha hu",
-        "englishLiteral": "but which **he-will-come-out** from-bowels-of-you, he",
-        "englishNatural": "but he which **will come out** from your bowels, he"
+        "englishLiteral": "but which **he-will-come-out** from-belly-of-you, he",
+        "englishNatural": "but he which **will come out** from your belly, he"
       }
     },
     {
@@ -732,6 +732,33 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "יָצְאָ֥ה",
+        "transliteration": "yatsah",
+        "englishLiteral": "she-has-brought_out",
+        "englishNatural": "has gone out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִכֶּ֔ם כִּֽי־ **יָצְאָ֥ה** בִ֖י יַד־",
+        "transliteration": "miKem ki- **yatsah** vi yad-",
+        "englishLiteral": "from-you, that- **she-has-brought_out** in-me hand-",
+        "englishNatural": "the hand of He-Who-Is (YHWH) **has gone out** in me.\""
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 12
@@ -836,6 +863,87 @@
         "transliteration": "**vaYetze** Yonah min-",
         "englishLiteral": "**And-went_out** Dove (Jonah) from-",
         "englishNatural": "And Dove (Jonah) **went-out** from the city"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "יֹצֵא",
+        "transliteration": "yotze",
+        "englishLiteral": "going_out",
+        "englishNatural": "is going-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הִנֵּה יְהוָה **יֹצֵא** מִמְּקוֹמוֹ וְיָרַד",
+        "transliteration": "hineh YHWH **yotze** miMeqomo veYarad",
+        "englishLiteral": "behold He_Who_Is (YHWH) **going_out** from-place-his; and-he-has-gone_down",
+        "englishNatural": "behold, He-Who-Is (YHWH) **is going-out** from his place; and he will go-down"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "יָצְאָה",
+        "transliteration": "yatsah",
+        "englishLiteral": "she-has-brought_out",
+        "englishNatural": "has brought-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בֹשֶׁת לֹא **יָצְאָה** יוֹשֶׁבֶת צַאֲנָן",
+        "transliteration": "boshet lo **yatsah** yoshevet Tsaanan",
+        "englishLiteral": "shame; not **she-has-brought_out** sitting-of Sheepfold (Zaanan);",
+        "englishNatural": "the sitting of Sheepfold (Zaanan) **has brought-out** not; the lamentation of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וַיֵּצְאוּ",
+        "transliteration": "vaYetzeu",
+        "englishLiteral": "and-they-will-go_out",
+        "englishNatural": "and they will go-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעֲבֹרוּ שַׁעַר **וַיֵּצְאוּ** בּוֹ וַיַּעֲבֹר",
+        "transliteration": "vaYaavru shaar **vaYetzeu** bo vaYaavor",
+        "englishLiteral": "and-they-will-pass_through gate, **and-they-will-go_out** in-it; and-he-will-pass_through",
+        "englishNatural": "and they will pass-through a gate, **and they will go-out** in it; and their king"
       }
     }
   ]

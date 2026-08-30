@@ -1,0 +1,31 @@
+{
+  "root": "ezel",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "הָאֵצֶל",
+        "transliteration": "haEtsel",
+        "englishLiteral": "the-Beside (Ezel)",
+        "englishNatural": "the-Beside (Ezel)",
+        "root": "ezel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִסְפַּד בֵּית **הָאֵצֶל** יִקַּח מִכֶּם",
+        "transliteration": "mispad beit **haEtsel** yiqach miKem",
+        "englishLiteral": "lamentation-of house-of **the-Beside (Ezel)** he-will-take from-you",
+        "englishNatural": "the lamentation of the house of **the-Beside (Ezel)** will take from you"
+      }
+    }
+  ]
+}

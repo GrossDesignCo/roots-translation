@@ -1,0 +1,56 @@
+{
+  "root": "gat",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "בְּגַת",
+        "transliteration": "beGat",
+        "englishLiteral": "in-Winepress (Gath)",
+        "englishNatural": "In Winepress (Gath)",
+        "root": "gat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּגַת** אַל־ תַּגִּידוּ",
+        "transliteration": "**beGat** al- taGgidu",
+        "englishLiteral": "**in-Winepress (Gath),** not- you-will-declare;",
+        "englishNatural": "**In Winepress (Gath)** you will declare not;"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "גַּת",
+        "transliteration": "Gat",
+        "englishLiteral": "Winepress (Gath)",
+        "englishNatural": "Winepress (Gath)",
+        "root": "gat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל מוֹרֶשֶׁת **גַּת** בָּתֵּי אַכְזִיב",
+        "transliteration": "al Moreshet **Gat** batei Akhziv",
+        "englishLiteral": "over Possession (Moresheth) **Winepress (Gath);** houses-of Lie (Achzib)",
+        "englishNatural": "over Possession (Moresheth) **Winepress (Gath);** the houses of Lie (Achzib)"
+      }
+    }
+  ]
+}

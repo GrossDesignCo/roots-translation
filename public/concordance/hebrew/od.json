@@ -380,6 +380,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "ע֑וֹד",
+        "transliteration": "od",
+        "englishLiteral": "again",
+        "englishNatural": "again",
+        "root": "od",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "קוֹלָ֔ן וַתִּבְכֶּ֖ינָה **ע֑וֹד** וַתִּשַּׁ֤ק עָרְפָּה֙",
+        "transliteration": "qolan vatTivkeynah **od** vatTishaq Orpah",
+        "englishLiteral": "voice-their, and-wept **again;** and-kissed Neck (Orpah)",
+        "englishNatural": "their voice, and wept **again:** And Neck (Orpah) kissed"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 3,
         "verse": 4
@@ -401,6 +426,31 @@
         "transliteration": "vaYiqra vaYomar **od** arbaim yom",
         "englishLiteral": "and-called_out and-said, **\"yet** forty day,",
         "englishNatural": "and he called-out and said, **\"Yet** forty days,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "עוֹד",
+        "transliteration": "od",
+        "englishLiteral": "again",
+        "englishNatural": "Again",
+        "root": "od",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**עוֹד** הַיּוֹרֵשׁ אָבִי",
+        "transliteration": "**od** haYoresh avi",
+        "englishLiteral": "**again** the-inheriting I-will-bring",
+        "englishNatural": "**Again** I will bring the one inheriting"
       }
     }
   ]

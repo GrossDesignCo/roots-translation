@@ -1201,6 +1201,31 @@
         "englishLiteral": "wings-their straight, **woman** to- sister-her;",
         "englishNatural": "their wings straight, **woman** to her sister;"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "נְשֵׁי",
+        "transliteration": "neshei",
+        "englishLiteral": "women-of",
+        "englishNatural": "The women of",
+        "root": "ishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**נְשֵׁי** עַמִּי תְּגָרְשׁוּן",
+        "transliteration": "**neshei** ammi teGarshun",
+        "englishLiteral": "**women-of** people-my you-will-banish,",
+        "englishNatural": "**The women of** my people you will banish"
+      }
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "key": "itah",
+  "language": "hebrew",
+  "root": "et_with",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "אִתָּ֑הּ",
+        "transliteration": "itah",
+        "englishLiteral": "with-her",
+        "englishNatural": "with her",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הִ֖יא לָלֶ֣כֶת **אִתָּ֑הּ** וַתֶּחְדַּ֖ל לְדַבֵּ֥ר",
+        "transliteration": "hi laLekhet **itah** vatTechdal leDaber",
+        "englishLiteral": "she to-go **with-her;** and-ceased to-speak",
+        "englishNatural": "was steadfast to go **with her,** and she ceased to speak"
+      }
+    }
+  ]
+}

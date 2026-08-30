@@ -3051,6 +3051,81 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֱלֹהֶ֑יהָ",
+        "transliteration": "elohiha",
+        "englishLiteral": "Gods-her",
+        "englishNatural": "her gods",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַמָּ֖הּ וְאֶל־ **אֱלֹהֶ֑יהָ** שׁ֖וּבִי אַחֲרֵ֥י",
+        "transliteration": "ammah veEl- **elohiha** shuvi acharei",
+        "englishLiteral": "people-her and-to- **Gods-her;** return after",
+        "englishNatural": "her people and to **her gods;** Return after"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "וֵאלֹהַיִךְ",
+        "transliteration": "veElohayikh",
+        "englishLiteral": "and-Gods-your",
+        "englishNatural": "and your God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַמֵּךְ עַמִּי **וֵאלֹהַיִךְ** אֱלֹהָי׃",
+        "transliteration": "ammekh ammi **veElohayikh** elohai",
+        "englishLiteral": "people-your people-my, **and-Gods-your** Gods-my.",
+        "englishNatural": "your people, my people, **and your God,** my God."
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "אֱלֹהָי",
+        "transliteration": "elohai",
+        "englishLiteral": "Gods-my",
+        "englishNatural": "my God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַמִּי וֵאלֹהַיִךְ **אֱלֹהָי׃**",
+        "transliteration": "ammi veElohayikh **elohai**",
+        "englishLiteral": "people-my, and-Gods-your **Gods-my.**",
+        "englishNatural": "my people, and your God, **my God.**"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 1
@@ -3545,8 +3620,8 @@
       "context": {
         "hebrew": "אֶל־ יְהוָה **אֱלֹהָיו** מִמְּעֵי הַדָּגָה",
         "transliteration": "el- YHWH **elohav** mimei haDagah",
-        "englishLiteral": "to- He_Who_Is (YHWH) **Gods-his** from-bowels-of the-fish;",
-        "englishNatural": "to He-Who-Is (YHWH) **his God** from the bowels of the fish;"
+        "englishLiteral": "to- He_Who_Is (YHWH) **Gods-his** from-belly-of the-fish;",
+        "englishNatural": "to He-Who-Is (YHWH) **his God** from the belly of the fish;"
       }
     },
     {

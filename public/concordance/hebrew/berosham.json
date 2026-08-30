@@ -1,0 +1,32 @@
+{
+  "key": "berosham",
+  "language": "hebrew",
+  "root": "rosh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "בְּרֹאשָׁם",
+        "transliteration": "beRosham",
+        "englishLiteral": "in-head-their",
+        "englishNatural": "in their head",
+        "root": "rosh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִפְנֵיהֶם וַיהוָה **בְּרֹאשָׁם׃**",
+        "transliteration": "liFneihem vaYHWH **beRosham**",
+        "englishLiteral": "to-faces-their, and-He_Who_Is (YHWH) **in-head-their.**",
+        "englishNatural": "to their faces, and He-Who-Is (YHWH), **in their head.**"
+      }
+    }
+  ]
+}

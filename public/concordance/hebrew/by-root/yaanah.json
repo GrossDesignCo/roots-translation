@@ -1,0 +1,31 @@
+{
+  "root": "yaanah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "יַעֲנָה",
+        "transliteration": "yaanah",
+        "englishLiteral": "ostrich",
+        "englishNatural": "ostrich",
+        "root": "yaanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֵבֶל כִּבְנוֹת **יַעֲנָה׃**",
+        "transliteration": "veEvel kiVnot **yaanah**",
+        "englishLiteral": "and-mourning like-daughters-of **ostrich.**",
+        "englishNatural": "and a mourning like daughters of **ostrich.**"
+      }
+    }
+  ]
+}

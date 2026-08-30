@@ -39,7 +39,7 @@ export const genesis_7_11: Verse = {
       transliteration: 'meot',
       englishLiteral: 'hundreds',
       englishNatural: 'hundred',
-      root: 'meah',
+      root: 'meah_hundred',
       order: 3,
       morphology: {
         gender: 'feminine',

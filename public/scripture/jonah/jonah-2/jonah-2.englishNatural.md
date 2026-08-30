@@ -1,5 +1,5 @@
 
-And Dove (Jonah) prayed to He-Who-Is (YHWH) his God from the bowels of the fish;
+And Dove (Jonah) prayed to He-Who-Is (YHWH) his God from the belly of the fish;
 
 And he said, 
 "I called-out from distress to me to He-Who-Is (YHWH), 

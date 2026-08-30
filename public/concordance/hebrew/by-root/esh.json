@@ -251,6 +251,56 @@
         "englishLiteral": "I-saw like-appearance-of- **fire,** and-brightness to-him",
         "englishNatural": "I saw like an appearance of **fire,** and brightness to him"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הָאֵשׁ",
+        "transliteration": "haEsh",
+        "englishLiteral": "the-fire",
+        "englishNatural": "the fire",
+        "root": "esh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כַּדּוֹנַג מִפְּנֵי **הָאֵשׁ** כְּמַיִם מֻגָּרִים",
+        "transliteration": "kaDonag miPney **haEsh** keMayim mugarim",
+        "englishLiteral": "like-wax from-faces-of **the-fire,** like-waters cascaded",
+        "englishNatural": "like wax from the faces of **the fire,** like waters cascaded"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בָאֵשׁ",
+        "transliteration": "baEsh",
+        "englishLiteral": "in-the-fire",
+        "englishNatural": "in the fire",
+        "root": "esh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶתְנַנֶּיהָ יִשָּׂרְפוּ **בָאֵשׁ** וְכָל־ עֲצַבֶּיהָ",
+        "transliteration": "etnaneiha yissarefu **baEsh** veKhol- atzabeiha",
+        "englishLiteral": "hires-her they-will-be-incinerated **in-the-fire,** and-all- idols-her",
+        "englishNatural": "her hires will be incinerated **in the fire,** and all her idols"
+      }
     }
   ]
 }

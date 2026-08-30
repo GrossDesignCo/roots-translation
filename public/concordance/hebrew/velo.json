@@ -377,6 +377,31 @@
         "englishLiteral": "you-labored in-it **and-not** you-grew-it, yet-son-of-",
         "englishNatural": "not, and you grew it **not,** yet son of a night"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "וְלֹא",
+        "transliteration": "veLo",
+        "englishLiteral": "and-not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "מִשָּׁם צַוְּארֹתֵיכֶם **וְלֹא** תֵלְכוּ רוֹמָה",
+        "transliteration": "miSham tzavroteikhem **veLo** telekhu romah",
+        "englishLiteral": "from-there necks-your, **and-not** you-will-walk high,",
+        "englishNatural": "your necks, and you will walk **not** high, that"
+      }
     }
   ]
 }

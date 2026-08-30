@@ -26,6 +26,31 @@
         "englishLiteral": "his-mouth; in-inscribing-his **foundations-of** land.",
         "englishNatural": "not; in his inscribing **the foundations of** land."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וִיסֹדֶיהָ",
+        "transliteration": "viSodeiha",
+        "englishLiteral": "and-foundations-her",
+        "englishNatural": "and her foundations",
+        "root": "mosed",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לַגַּי אֲבָנֶיהָ **וִיסֹדֶיהָ** אֲגַלֶּה׃",
+        "transliteration": "laGay avaneiha **viSodeiha** agalleh",
+        "englishLiteral": "to-the-valley stones-her, **and-foundations-her** I-will-reveal.",
+        "englishNatural": "to the valley her stones, **and her foundations** I will reveal."
+      }
     }
   ]
 }

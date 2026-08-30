@@ -29,6 +29,33 @@
         "englishLiteral": "↳ which- **he-will-lift_up** ↳ name-his",
         "englishNatural": "him which **lifts-up** ↳ his name"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יִשָּׂא",
+        "transliteration": "yissa",
+        "englishLiteral": "he-will-lift_up",
+        "englishNatural": "he will lift-up",
+        "root": "nasa",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בַּיּוֹם הַהוּא **יִשָּׂא** עֲלֵיכֶם מָשָׁל",
+        "transliteration": "baYom haHu **yissa** aleykhem mashal",
+        "englishLiteral": "In-day the-that **he-will-lift_up** over-you parable,",
+        "englishNatural": "In the day that **he will lift-up** over you a parable,"
+      }
     }
   ]
 }

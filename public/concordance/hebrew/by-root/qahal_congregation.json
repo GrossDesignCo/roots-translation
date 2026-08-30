@@ -1,0 +1,31 @@
+{
+  "root": "qahal_congregation",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בִּקְהַל",
+        "transliteration": "biQahal",
+        "englishLiteral": "in-congregation-of",
+        "englishNatural": "in the congregation of",
+        "root": "qahal_congregation",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֶבֶל בְּגוֹרָל **בִּקְהַל** יְהוָה׃",
+        "transliteration": "chevel beGoral **biQahal** YHWH",
+        "englishLiteral": "cord in-lot; **in-congregation-of** He_Who_Is (YHWH).\"",
+        "englishNatural": "a cord in a lot, **in the congregation of** He-Who-Is (YHWH).\""
+      }
+    }
+  ]
+}

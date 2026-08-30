@@ -56,6 +56,33 @@
         "englishLiteral": "and-walked in-the-way **to-return** to- land-of",
         "englishNatural": "and they walked in the way **to return** to the land of"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לָשׁוּב",
+        "transliteration": "laShuv",
+        "englishLiteral": "to-return",
+        "englishNatural": "to return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בִי לְעׇזְבֵךְ **לָשׁוּב** מֵאַחֲרָיִךְ כִּי",
+        "transliteration": "vi leAzvekh **laShuv** meAcharayikh ki",
+        "englishLiteral": "in-me to-leave-you **to-return** from-after-you, that-",
+        "englishNatural": "not to leave you, **to return** from after you, for"
+      }
     }
   ]
 }

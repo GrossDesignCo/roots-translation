@@ -252,6 +252,31 @@
         "englishLiteral": "not- you-labored **in-it** and-not you-grew-it,",
         "englishNatural": "which you labored **in it** not, and you grew it"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בּוֹ",
+        "transliteration": "bo",
+        "englishLiteral": "in-it",
+        "englishNatural": "in it",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "שַׁעַר וַיֵּצְאוּ **בּוֹ** וַיַּעֲבֹר מַלְכָּם",
+        "transliteration": "shaar vaYetzeu **bo** vaYaavor malkam",
+        "englishLiteral": "gate, and-they-will-go_out **in-it;** and-he-will-pass_through king-their",
+        "englishNatural": "a gate, and they will go-out **in it;** and their king will pass-through"
+      }
     }
   ]
 }

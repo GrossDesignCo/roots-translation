@@ -276,6 +276,56 @@
         "englishLiteral": "all- the-words **the-these,** to-say:",
         "englishNatural": "all the words, **these,** to say:"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "לָאֵלֶּה",
+        "transliteration": "leEleh",
+        "englishLiteral": "to-these",
+        "englishNatural": "to these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ יַטִּפוּ **לָאֵלֶּה** לֹא יִסַּג",
+        "transliteration": "lo- yaTtifu **leEleh** lo yiSsag",
+        "englishLiteral": "not- they-will-drip **to-these,** not he-will-be-turned_back",
+        "englishNatural": "they will drip not **to these;** disgraces will be turned-back"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֵלֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "these",
+        "englishNatural": "these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אִם־ **אֵלֶּה** מַעֲלָלָיו הֲלוֹא",
+        "transliteration": "YHWH im- **eleh** maAlalav halo",
+        "englishLiteral": "He_Who_Is (YHWH)? if- **these** deeds-his; is_it_not",
+        "englishNatural": "short? if **these,** his deeds? is it not"
+      }
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "key": "mitametset",
+  "language": "hebrew",
+  "root": "amats",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מִתְאַמֶּ֥צֶת",
+        "transliteration": "mitAmetset",
+        "englishLiteral": "being-strong",
+        "englishNatural": "was steadfast",
+        "root": "amats",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֵּ֕רֶא כִּֽי־ **מִתְאַמֶּ֥צֶת** הִ֖יא לָלֶ֣כֶת",
+        "transliteration": "vatTere ki- **mitAmetset** hi laLekhet",
+        "englishLiteral": "And-saw that- **being-strong** she to-go",
+        "englishNatural": "that she **was steadfast** to go with her,"
+      }
+    }
+  ]
+}

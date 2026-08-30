@@ -167,7 +167,7 @@ export const genesis_9_26: Verse = {
     transliteration:
       'vayYomer barukh YHWH elohei Shem vihi Kenaan eved lamo',
     englishLiteral:
-      'and-said, "Blessed He_Who_Is (YHWH) Gods-of Name (Shem); and-let-be Low (Canaan), servant to-them,',
+      'and-said, "blessed He_Who_Is (YHWH) Gods-of Name (Shem); and-let-be Low (Canaan), servant to-them,',
     englishNatural:
       'And he said, "Blessed, He-Who-Is (YHWH) the God of Name (Shem); and let it be, Low (Canaan), servant to them,',
     kjv: 'And he said: Blessed be the LORD, the God of Shem; and let Canaan be their servant.',

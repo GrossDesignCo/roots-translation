@@ -110,6 +110,33 @@
         "englishLiteral": "he flesh; **and-they-will-be** his-days hundred",
         "englishNatural": "is flesh; and his days **will be** a hundred and twenty"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וְהָי֥וּ",
+        "transliteration": "veHayu",
+        "englishLiteral": "and-will-be",
+        "englishNatural": "and would they be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בָנִים֙ בְּֽמֵעַ֔י **וְהָי֥וּ** לָכֶ֖ם לַאֲנָשִֽׁים׃",
+        "transliteration": "banim beMeai **veHayu** lakhem laAnashim",
+        "englishLiteral": "sons in-belly-my, **and-will-be** to-you to-men.",
+        "englishNatural": "sons in my belly, **and would they be** to you men?\""
+      }
     }
   ]
 }

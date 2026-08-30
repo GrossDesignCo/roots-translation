@@ -1,0 +1,32 @@
+{
+  "key": "katannim",
+  "language": "hebrew",
+  "root": "tan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "כַּתַּנִּים",
+        "transliteration": "kaTannim",
+        "englishLiteral": "like-jackals",
+        "englishNatural": "like jackals",
+        "root": "tan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶעֱשֶׂה מִסְפֵּד **כַּתַּנִּים** וְאֵבֶל כִּבְנוֹת",
+        "transliteration": "eeseh misped **kaTannim** veEvel kiVnot",
+        "englishLiteral": "I-will-make lamentation **like-jackals,** and-mourning like-daughters-of",
+        "englishNatural": "I will make a lamentation **like jackals,** and a mourning like daughters of"
+      }
+    }
+  ]
+}

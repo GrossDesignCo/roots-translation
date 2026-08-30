@@ -1,0 +1,32 @@
+{
+  "key": "tikvah",
+  "language": "hebrew",
+  "root": "tikvah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "תִקְוָ֔ה",
+        "transliteration": "tikvah",
+        "englishLiteral": "hope",
+        "englishNatural": "hope",
+        "root": "tikvah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֶשׁ־ לִ֣י **תִקְוָ֔ה** גַּ֣ם הָיִ֤יתִי",
+        "transliteration": "yesh- li **tikvah** gam hayiti",
+        "englishLiteral": "there_is- to-me **hope,** also I-have-been",
+        "englishNatural": "there-is to me **hope,** also I have been"
+      }
+    }
+  ]
+}

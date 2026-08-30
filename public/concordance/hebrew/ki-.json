@@ -505,6 +505,106 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "כִּֽי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "That",
+        "root": "ki",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּאמַ֖רְנָה־ לָּ֑הּ **כִּֽי־** אִתָּ֥ךְ נָשׁ֖וּב",
+        "transliteration": "vatTomarnah- lah **ki-** itakh naShuv",
+        "englishLiteral": "And-said to-her; **\"that-** with-you we-will-return",
+        "englishNatural": "And they said to her, **\"That** with you we will return"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "כִּֽי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "for",
+        "root": "ki",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "אַ֣ל בְּנֹתַ֗י **כִּֽי־** מַר־ לִ֤י",
+        "transliteration": "al benotai **ki-** mar- li",
+        "englishLiteral": "not my-daughters, **that-** bitter- to-me",
+        "englishNatural": "No, my daughters; **for** very bitter"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "כִּֽי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "for",
+        "root": "ki",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "מְאֹד֙ מִכֶּ֔ם **כִּֽי־** יָצְאָ֥ה בִ֖י",
+        "transliteration": "meod miKem **ki-** yatsah vi",
+        "englishLiteral": "very from-you, **that-** she-has-brought_out in-me",
+        "englishNatural": "to me from you, **for** the hand of He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "כִּֽי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֵּ֕רֶא **כִּֽי־** מִתְאַמֶּ֥צֶת הִ֖יא",
+        "transliteration": "vatTere **ki-** mitAmetset hi",
+        "englishLiteral": "And-saw **that-** being-strong she",
+        "englishNatural": "And she saw **that** she was steadfast"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 3,
         "verse": 7
@@ -826,6 +926,131 @@
         "transliteration": "ki yadati **ki-** atah el-",
         "englishLiteral": "that I-knew **that-** you God-",
         "englishNatural": "that I knew **that** you are God"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כִּי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "**כִּי־** הִנֵּה יְהוָה",
+        "transliteration": "**ki-** hineh YHWH",
+        "englishLiteral": "**that-** behold He_Who_Is (YHWH)",
+        "englishNatural": "**that** behold, He-Who-Is (YHWH)"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "כִּי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "אֲנוּשָׁה מַכּוֹתֶיהָ **כִּי־** בָאָה עַד־",
+        "transliteration": "anushah makkoteiha **ki-** baah ad-",
+        "englishLiteral": "incurable, blows-her; **that-** she-has-come until-",
+        "englishNatural": "incurable, her blows; **that** she has come until"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "כִּי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "**כִּי־** חָלָה לְטוֹב",
+        "transliteration": "**ki-** chalah leTov",
+        "englishLiteral": "**that-** she-has-been-sick to-good",
+        "englishNatural": "**that** the sitting of Bitternesses (Maroth)"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "כִּי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹשֶׁבֶת מָרוֹת **כִּי־** יָרַד רָע",
+        "transliteration": "yoshevet Marot **ki-** yarad ra",
+        "englishLiteral": "sitting-of Bitternesses (Maroth); **that-** he-has-gone_down bad",
+        "englishNatural": "has been sick to good; **that** bad has gone-down"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "כִּי־",
+        "transliteration": "ki-",
+        "englishLiteral": "that-",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "לְבַת־ צִיּוֹן **כִּי־** בָךְ נִמְצְאוּ",
+        "transliteration": "leBat- Tziyon **ki-** bakh niMtseu",
+        "englishLiteral": "to-daughter-of Marker (Zion); **that-** in-you they-have-been-found",
+        "englishNatural": "to the daughter of Marker (Zion); **that** in you have been found"
       }
     }
   ]

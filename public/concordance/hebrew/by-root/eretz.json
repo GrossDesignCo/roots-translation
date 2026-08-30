@@ -3376,6 +3376,56 @@
         "englishLiteral": "to-cutoffs-of mountains; **the-earth,** bars-her behind-me",
         "englishNatural": "to the cutoffs of the mountains; **the earth,** her bars around me"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֶרֶץ",
+        "transliteration": "eretz",
+        "englishLiteral": "earth",
+        "englishNatural": "earth",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֻּלָּם הַקְשִׁיבִי **אֶרֶץ** וּמְלֹאָהּ וִיהִי",
+        "transliteration": "kullam haqshivi **eretz** uMeloah viYehi",
+        "englishLiteral": "all-of-them, hearken **earth** and-fullness-her; and-let-be",
+        "englishNatural": "all of them; hearken, **earth** and her fullness; and let Lord"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אָרֶץ",
+        "transliteration": "aretz",
+        "englishLiteral": "earth",
+        "englishNatural": "earth",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ בָּמֳתֵי **אָרֶץ׃**",
+        "transliteration": "al- bamotei **aretz**",
+        "englishLiteral": "over- high_places-of **earth.**",
+        "englishNatural": "over the high-places of **earth.**"
+      }
     }
   ]
 }

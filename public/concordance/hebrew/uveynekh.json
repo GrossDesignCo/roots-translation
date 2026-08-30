@@ -1,0 +1,32 @@
+{
+  "key": "uveynekh",
+  "language": "hebrew",
+  "root": "beyn",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "וּבֵינֵךְ",
+        "transliteration": "uVeynekh",
+        "englishLiteral": "and-between-you",
+        "englishNatural": "and between you",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יַפְרִיד בֵּינִי **וּבֵינֵךְ׃**",
+        "transliteration": "yafrid beyni **uVeynekh**",
+        "englishLiteral": "he-will-part between-me **and-between-you.\"**",
+        "englishNatural": "will part between me **and between you.\"**"
+      }
+    }
+  ]
+}

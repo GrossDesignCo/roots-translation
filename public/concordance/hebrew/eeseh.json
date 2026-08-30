@@ -29,6 +29,33 @@
         "englishLiteral": "you-will-see which **I-will-do** to-Pharaoh; that",
         "englishNatural": "you will see which **I will do** to Pharaoh; that"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֶעֱשֶׂה",
+        "transliteration": "eeseh",
+        "englishLiteral": "I-will-make",
+        "englishNatural": "I will make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שׁוֹלָל וְעָרוֹם **אֶעֱשֶׂה** מִסְפֵּד כַּתַּנִּים",
+        "transliteration": "sholal veArom **eeseh** misped kaTannim",
+        "englishLiteral": "spoiled and-naked; **I-will-make** lamentation like-jackals,",
+        "englishNatural": "spoiled and naked; **I will make** a lamentation like jackals,"
+      }
     }
   ]
 }

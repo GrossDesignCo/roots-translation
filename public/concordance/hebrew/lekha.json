@@ -352,6 +352,56 @@
         "englishLiteral": "\"the-doing_well fuming_angrily **to-you,** over- the-luscious_plant?\"",
         "englishNatural": "\"Is the doing-well fuming-angrily **to you,** over the luscious-plant?\""
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לְךָ",
+        "transliteration": "lekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ יִהְיֶה **לְךָ** מַשְׁלִיךְ חֶבֶל",
+        "transliteration": "lo- yihyeh **lekha** maShlikh chevel",
+        "englishLiteral": "not- he-will-be **to-you,** one-who-throws cord",
+        "englishNatural": "there will be not **to you,** one who throws a cord"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לְךָ",
+        "transliteration": "lekha",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כִּזֵּב אַטִּף **לְךָ** לַיַּיִן וְלַשֵּׁכָר",
+        "transliteration": "kizzev attif **lekha** laYayin veLaShekhar",
+        "englishLiteral": "he-has-falsified, I-will-drip **to-you,** to-the-wine and-to-the-strong_drink;",
+        "englishNatural": "has falsified, I will drip **to you,** to the wine and to the strong-drink;"
+      }
     }
   ]
 }

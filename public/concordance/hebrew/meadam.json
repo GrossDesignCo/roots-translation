@@ -52,6 +52,31 @@
         "englishLiteral": "faces-of the-earth, **from-Earthling (Adam)** until- beast",
         "englishNatural": "the face of the earth, **from Earthling (Adam)** until beast"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "מֵאָדָם",
+        "transliteration": "meAdam",
+        "englishLiteral": "from-Earthling (Adam)",
+        "englishNatural": "from Earthling (Adam)",
+        "root": "adam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַדָּבְרוֹ תְּהִימֶנָה **מֵאָדָם׃**",
+        "transliteration": "haDovro teHimenah **meAdam**",
+        "englishLiteral": "the-fold-his, they-will-roar **from-Earthling (Adam).**",
+        "englishNatural": "his fold, they will roar **from Earthling (Adam).**"
+      }
     }
   ]
 }

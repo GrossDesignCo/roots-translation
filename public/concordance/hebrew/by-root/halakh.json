@@ -623,6 +623,141 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "תֵלַ֖כְנָה",
+        "transliteration": "telakhna",
+        "englishLiteral": "you-will-walk",
+        "englishNatural": "will you walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְנֹתַ֔י לָ֥מָּה **תֵלַ֖כְנָה** עִמִּ֑י הַעֽוֹד־",
+        "transliteration": "benotai lamah **telakhna** immi haOd-",
+        "englishLiteral": "my-daughters, why **you-will-walk** with-me; the-again",
+        "englishNatural": "my daughters, why **will you walk** with me; are there again"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לֵ֔כְנָה",
+        "transliteration": "lekhnah",
+        "englishLiteral": "Go",
+        "englishNatural": "go",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שֹׁ֤בְנָה בְנֹתַי֙ **לֵ֔כְנָה** כִּ֥י זָקַ֖נְתִּי",
+        "transliteration": "shovnah benotai **lekhnah** ki zaqanti",
+        "englishLiteral": "return daughters-my **Go** that I-have-grown_old",
+        "englishNatural": "Return, my daughters, **go,** that I have grown old"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "תֵּלְכִי",
+        "transliteration": "teLkhi",
+        "englishLiteral": "you-will-walk",
+        "englishNatural": "you will walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ אֲשֶׁר **תֵּלְכִי** אֵלֵךְ וּבַאֲשֶׁר",
+        "transliteration": "el- asher **teLkhi** elekh uvaAsher",
+        "englishLiteral": "to- which **you-will-walk** I-will-walk; and-in-which",
+        "englishNatural": "to which **you will walk,** I will walk; and in which"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "אֵלֵךְ",
+        "transliteration": "elekh",
+        "englishLiteral": "I-will-walk",
+        "englishNatural": "I will walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר תֵּלְכִי **אֵלֵךְ** וּבַאֲשֶׁר תָּלִינִי",
+        "transliteration": "asher teLkhi **elekh** uvaAsher taLini",
+        "englishLiteral": "which you-will-walk **I-will-walk;** and-in-which you-will-lodge",
+        "englishNatural": "which you will walk, **I will walk;** and in which you will lodge,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לָלֶ֣כֶת",
+        "transliteration": "laLekhet",
+        "englishLiteral": "to-go",
+        "englishNatural": "to go",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִתְאַמֶּ֥צֶת הִ֖יא **לָלֶ֣כֶת** אִתָּ֑הּ וַתֶּחְדַּ֖ל",
+        "transliteration": "mitAmetset hi **laLekhet** itah vatTechdal",
+        "englishLiteral": "being-strong she **to-go** with-her; and-ceased",
+        "englishNatural": "she was steadfast **to go** with her, and she ceased"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 7
@@ -1392,6 +1527,114 @@
         "transliteration": "vaYaqam Yonah **vaYelekh** el- Nineveh",
         "englishLiteral": "And-stood_up Dove (Jonah), **and-went** to- Dwelling_of_Fish (Nineveh),",
         "englishNatural": "And Dove (Jonah) stood-up, **and went** to Dwelling-of-Fish (Nineveh),"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֵילְכָה",
+        "transliteration": "eilekhah",
+        "englishLiteral": "I-will-walk",
+        "englishNatural": "I will walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶסְפְּדָה וְאֵילִילָה **אֵילְכָה** שׁוֹלָל וְעָרוֹם",
+        "transliteration": "espeidah veEililah **eilekhah** sholal veArom",
+        "englishLiteral": "I-will-lament and-I-will-howl, **I-will-walk** spoiled and-naked;",
+        "englishNatural": "I will lament and I will howl, **I will walk** spoiled and naked;"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "תֵלְכוּ",
+        "transliteration": "telekhu",
+        "englishLiteral": "you-will-walk",
+        "englishNatural": "and you will walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "צַוְּארֹתֵיכֶם וְלֹא **תֵלְכוּ** רוֹמָה כִּי",
+        "transliteration": "tzavroteikhem veLo **telekhu** romah ki",
+        "englishLiteral": "necks-your, and-not **you-will-walk** high, that",
+        "englishNatural": "from there your necks, **and you will walk** not high,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "הוֹלֵךְ",
+        "transliteration": "holekh",
+        "englishLiteral": "walking",
+        "englishNatural": "walking",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עִם הַיָּשָׁר **הוֹלֵךְ׃**",
+        "transliteration": "im haYashar **holekh**",
+        "englishLiteral": "with the-straight **walking.**",
+        "englishNatural": "with the straight **walking?**"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הֹלֵךְ",
+        "transliteration": "holekh",
+        "englishLiteral": "walking",
+        "englishNatural": "walking",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לוּ־ אִישׁ **הֹלֵךְ** רוּחַ וָשֶׁקֶר",
+        "transliteration": "lu- ish **holekh** ruach vaSheqer",
+        "englishLiteral": "if_only- man **walking** Wind and-falsehood",
+        "englishNatural": "If only a man **walking** Wind and falsehood"
       }
     }
   ]

@@ -1,0 +1,31 @@
+{
+  "root": "merkavah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַמֶּרְכָּבָה",
+        "transliteration": "haMerkavah",
+        "englishLiteral": "the-chariot",
+        "englishNatural": "the chariot",
+        "root": "merkavah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רְתֹם **הַמֶּרְכָּבָה** לָרֶכֶשׁ יוֹשֶׁבֶת",
+        "transliteration": "retom **haMerkavah** laRekhesh yoshevet",
+        "englishLiteral": "Harness **the-chariot** to-the-steed, sitting-of",
+        "englishNatural": "Harness **the chariot** to the steed, sitting one of"
+      }
+    }
+  ]
+}

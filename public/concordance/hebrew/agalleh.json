@@ -1,0 +1,34 @@
+{
+  "key": "agalleh",
+  "language": "hebrew",
+  "root": "galah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אֲגַלֶּה",
+        "transliteration": "agalleh",
+        "englishLiteral": "I-will-reveal",
+        "englishNatural": "I will reveal",
+        "root": "galah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבָנֶיהָ וִיסֹדֶיהָ **אֲגַלֶּה׃**",
+        "transliteration": "avaneiha viSodeiha **agalleh**",
+        "englishLiteral": "stones-her, and-foundations-her **I-will-reveal.**",
+        "englishNatural": "her stones, and her foundations **I will reveal.**"
+      }
+    }
+  ]
+}

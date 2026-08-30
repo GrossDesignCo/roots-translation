@@ -1,7 +1,7 @@
 {
   "key": "al-",
   "language": "hebrew",
-  "root": "al",
+  "root": "al_not",
   "occurrences": [
     {
       "location": {
@@ -1655,6 +1655,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּאמֶר רוּת **אַל־** תִּפְגְּעִי־ בִי",
+        "transliteration": "vatTomer Rut **al-** tipgei- vi",
+        "englishLiteral": "And-said, Friend (Ruth) **\"not-** you-will-encounter in-me",
+        "englishNatural": "\"You will encounter me **not** to leave you, to return"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 6
@@ -2651,6 +2676,231 @@
         "transliteration": "lo achus **al-** Nineveh haIr",
         "englishLiteral": "not I-will-pity **over-** Dwelling_of_Fish (Nineveh), the-city,",
         "englishNatural": "will I pity not **over** Dwelling-of-Fish (Nineveh), the city,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר־ חָזָה **עַל־** שֹׁמְרוֹן וִירוּשָׁלִָם׃",
+        "transliteration": "asher- chazah **al-** Shomron viYerushalayim",
+        "englishLiteral": "which- he-has-gazed **over-** Keep (Samaria) and-Foundation_of_Peace (Jerusalem).",
+        "englishNatural": "which he has gazed **over** Keep (Samaria) and Foundation-of-Peace (Jerusalem)."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְיָרַד וְדָרַךְ **עַל־** בָּמֳתֵי אָרֶץ׃",
+        "transliteration": "veYarad veDarakh **al-** bamotei aretz",
+        "englishLiteral": "and-he-has-gone_down and-he-has-trodden **over-** high_places-of earth.",
+        "englishNatural": "and he will go-down and tread **over** the high-places of earth."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "Over-",
+        "englishNatural": "Over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**עַל־** זֹאת אֶסְפְּדָה",
+        "transliteration": "**al-** zot espeidah",
+        "englishLiteral": "**Over-** this I-will-lament",
+        "englishNatural": "**Over** this I will lament"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "בְּגַת **אַל־** תַּגִּידוּ בָּכוֹ",
+        "transliteration": "beGat **al-** taGgidu bakho",
+        "englishLiteral": "in-Winepress (Gath), **not-** you-will-declare; weeping,",
+        "englishNatural": "In Winepress (Gath) you will declare **not;** weeping, you will weep"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "תַּגִּידוּ בָּכוֹ **אַל־** תִּבְכּוּ בְּבֵית",
+        "transliteration": "taGgidu bakho **al-** tiVkhu beBeit",
+        "englishLiteral": "you-will-declare; weeping, **not-** you-will-weep; in-house-of",
+        "englishNatural": "weeping, you will weep **not;** in the house to Dust (Aphrah),"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "קָרְחִי וָגֹזִּי **עַל־** בְּנֵי תַּעֲנוּגָיִךְ",
+        "transliteration": "qarchi vaGozzi **al-** benei taanugayikh",
+        "englishLiteral": "Make_bald and-shear, **over-** sons-of luxuries-your;",
+        "englishNatural": "Make bald and shear, **over** the sons of your luxuries;"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וּפֹ֥עֲלֵי רָ֖ע **עַל־** מִשְׁכְּבוֹתָ֑ם בְּא֤וֹר",
+        "transliteration": "uPoalei ra **al-** mishkevotam beOr",
+        "englishLiteral": "and-workers-of bad, **over-** beds-their; in-light-of",
+        "englishNatural": "and workers of bad, **over** their beds; in the light of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "עַל־",
+        "transliteration": "al-",
+        "englishLiteral": "over-",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הִנְנִי חֹשֵׁב **עַל־** הַמִּשְׁפָּחָה הַזֹּאת",
+        "transliteration": "hineni choshev **al-** haMishpachah haZot",
+        "englishLiteral": "\"behold_me planning **over-** the-family the-this",
+        "englishNatural": "planning bad **over** this family;"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "אַל־",
+        "transliteration": "al-",
+        "englishLiteral": "not-",
+        "englishNatural": "not",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "**אַל־** תַּטִּפוּ יַטִּיפוּן",
+        "transliteration": "**al-** taTtifu yaTtifun",
+        "englishLiteral": "**not-** you-will-drip; they-will-drip;",
+        "englishNatural": "You will drip **not;** they will drip; they will drip"
       }
     }
   ]

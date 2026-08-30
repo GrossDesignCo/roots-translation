@@ -29,6 +29,33 @@
         "englishLiteral": "house-of man-her; **and-kissed** to-them and-lifted",
         "englishNatural": "the house of her man.\" **And she kissed** to them, and they lifted"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וַתִּשַּׁ֤ק",
+        "transliteration": "vatTishaq",
+        "englishLiteral": "and-kissed",
+        "englishNatural": "kissed",
+        "root": "nashaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּבְכֶּ֖ינָה ע֑וֹד **וַתִּשַּׁ֤ק** עָרְפָּה֙ לַחֲמוֹתָ֔הּ",
+        "transliteration": "vatTivkeynah od **vatTishaq** Orpah laChamotah",
+        "englishLiteral": "and-wept again; **and-kissed** Neck (Orpah) to-mother-in-law-her;",
+        "englishNatural": "again: And Neck (Orpah) **kissed** to her mother-in-law; but Friend (Ruth)"
+      }
     }
   ]
 }

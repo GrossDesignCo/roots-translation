@@ -1,0 +1,32 @@
+{
+  "key": "immi",
+  "language": "hebrew",
+  "root": "im_with",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "עִמִּ֑י",
+        "transliteration": "immi",
+        "englishLiteral": "with-me",
+        "englishNatural": "with me",
+        "root": "im_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לָ֥מָּה תֵלַ֖כְנָה **עִמִּ֑י** הַעֽוֹד־ לִ֤י",
+        "transliteration": "lamah telakhna **immi** haOd- li",
+        "englishLiteral": "why you-will-walk **with-me;** the-again to-me",
+        "englishNatural": "why will you walk **with me;** are there again to me"
+      }
+    }
+  ]
+}

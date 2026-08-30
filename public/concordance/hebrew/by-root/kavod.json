@@ -101,6 +101,31 @@
         "englishLiteral": "appearance-of likeness-of **glory-of-** He_Who_Is (YHWH). And-I-saw",
         "englishNatural": "the appearance of the likeness of **the glory of** He-Who-Is (YHWH). And I saw"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "כְּבוֹד",
+        "transliteration": "kevod",
+        "englishLiteral": "glory-of",
+        "englishNatural": "the glory of",
+        "root": "kavod",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֲדֻלָּם יָבוֹא **כְּבוֹד** יִשְׂרָאֵל׃",
+        "transliteration": "Adullam yavo **kevod** Yisrael",
+        "englishLiteral": "Refuge (Adullam) he-will-come, **glory-of** Struggles_with_God (Israel).",
+        "englishNatural": "until Refuge (Adullam) **the glory of** Struggles-with-God (Israel) will come."
+      }
     }
   ]
 }

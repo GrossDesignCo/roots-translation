@@ -1,0 +1,31 @@
+{
+  "root": "tziyon",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "צִיּוֹן",
+        "transliteration": "Tziyon",
+        "englishLiteral": "Marker (Zion)",
+        "englishNatural": "Marker (Zion)",
+        "root": "tziyon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הִיא לְבַת־ **צִיּוֹן** כִּי־ בָךְ",
+        "transliteration": "hi leBat- **Tziyon** ki- bakh",
+        "englishLiteral": "she to-daughter-of **Marker (Zion);** that- in-you",
+        "englishNatural": "sin to the daughter of **Marker (Zion);** that in you"
+      }
+    }
+  ]
+}

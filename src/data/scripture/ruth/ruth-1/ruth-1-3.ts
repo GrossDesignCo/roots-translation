@@ -36,8 +36,8 @@ export const ruth_1_3: Verse = {
     {
       hebrew: 'אֱלִימֶ֖לֶךְ',
       transliteration: 'Elimelekh',
-      englishLiteral: 'My_God_King (Elimelech)',
-      englishNatural: 'And My-God-King (Elimelech)',
+      englishLiteral: 'God_My_King (Elimelech)',
+      englishNatural: 'And God-My-King (Elimelech)',
       root: 'elimelekh',
       order: {
         hebrew: 2,
@@ -167,9 +167,9 @@ export const ruth_1_3: Verse = {
     transliteration:
       'vaYamat Elimelekh ish Naomi vatTishare hi usheney vaneha',
     englishLiteral:
-      'And-died My_God_King (Elimelech) man-of Pleasant_My (Naomi); and-was-left she; and-two-of sons-her.',
+      'And-died God_My_King (Elimelech) man-of Pleasant_My (Naomi); and-was-left she; and-two-of sons-her.',
     englishNatural:
-      'And My-God-King (Elimelech) the man of My-Pleasant (Naomi) died, and she was left, and the two of her sons.',
+      'And God-My-King (Elimelech) the man of My-Pleasant (Naomi) died, and she was left, and the two of her sons.',
     kjv: 'And Elimelech Naomis husband died; and she was left, and her two sons.',
     lastReviewed: { name: 'Matt Gross', date: '2026-02-14' },
 },

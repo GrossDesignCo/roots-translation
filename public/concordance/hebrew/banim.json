@@ -327,6 +327,56 @@
         "englishLiteral": "fathers over- **sons** and-over- sons-of",
         "englishNatural": "fathers on **sons** and on sons of"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בָנִים֙",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַעֽוֹד־ לִ֤י **בָנִים֙** בְּֽמֵעַ֔י וְהָי֥וּ",
+        "transliteration": "haOd- li **banim** beMeai veHayu",
+        "englishLiteral": "the-again to-me **sons** in-belly-my, and-will-be",
+        "englishNatural": "are there again to me **sons** in my belly, and would they be"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "בָנִֽים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגַ֖ם יָלַ֥דְתִּי **בָנִֽים׃**",
+        "transliteration": "veGam yaldati **banim**",
+        "englishLiteral": "and-also I-have-birthed **sons,**",
+        "englishNatural": "and also I have birthed **sons,**"
+      }
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "key": "veyarad",
+  "language": "hebrew",
+  "root": "yarad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְיָרַד",
+        "transliteration": "veYarad",
+        "englishLiteral": "and-he-has-gone_down",
+        "englishNatural": "and he will go-down",
+        "root": "yarad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יֹצֵא מִמְּקוֹמוֹ **וְיָרַד** וְדָרַךְ עַל־",
+        "transliteration": "yotze miMeqomo **veYarad** veDarakh al-",
+        "englishLiteral": "going_out from-place-his; **and-he-has-gone_down** and-he-has-trodden over-",
+        "englishNatural": "is going-out from his place; **and he will go-down** and tread over"
+      }
+    }
+  ]
+}

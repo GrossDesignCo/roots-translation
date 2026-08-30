@@ -50,7 +50,7 @@ export const jonah_4_5: Verse = {
       transliteration: 'min-',
       englishLiteral: 'from-',
       englishNatural: 'from',
-      root: 'min_from',
+      root: 'min',
       order: 3,
       morphology: {
         type: 'preposition',

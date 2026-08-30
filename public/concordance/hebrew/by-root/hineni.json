@@ -51,6 +51,31 @@
         "englishLiteral": "to-us?\" And-I-will-say, **\"behold_me;** send-me.\"",
         "englishNatural": "to us?\" And I said, **\"behold-me;** send me.\""
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "הִנְנִי",
+        "transliteration": "hineni",
+        "englishLiteral": "behold_me",
+        "englishNatural": "Behold-me",
+        "root": "hineni",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "אָמַר יְהוָה **הִנְנִי** חֹשֵׁב עַל־",
+        "transliteration": "amar YHWH **hineni** choshev al-",
+        "englishLiteral": "said He_Who_Is (YHWH), **\"behold_me** planning over-",
+        "englishNatural": "has said He-Who-Is (YHWH), **\"Behold-me,** planning bad"
+      }
     }
   ]
 }

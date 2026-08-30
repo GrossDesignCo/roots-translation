@@ -28,6 +28,33 @@
         "englishLiteral": "fathers-of-you in-peace, **you-will-be-buried** in-old-age good.",
         "englishNatural": "your fathers in peace; **you will be buried** in good old age."
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֶקָּבֵר",
+        "transliteration": "eqaver",
+        "englishLiteral": "I-will-be-buried",
+        "englishNatural": "I will be buried",
+        "root": "qavar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אָמוּת וְשָׁם **אֶקָּבֵר** כֹּה יַעֲשֶׂה",
+        "transliteration": "amut veSham **eqaver** koh yaaseh",
+        "englishLiteral": "I-will-die, and-there **I-will-be-buried;** thus he-will-do",
+        "englishNatural": "I will die, and there **I will be buried;** thus He-Who-Is (YHWH)"
+      }
     }
   ]
 }

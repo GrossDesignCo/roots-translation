@@ -1,0 +1,56 @@
+{
+  "root": "taanug",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "תַּעֲנוּגָיִךְ",
+        "transliteration": "taanugayikh",
+        "englishLiteral": "luxuries-your",
+        "englishNatural": "your luxuries",
+        "root": "taanug",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ בְּנֵי **תַּעֲנוּגָיִךְ** הַרְחִבִי קָרְחָתֵךְ",
+        "transliteration": "al- benei **taanugayikh** harchivi qorchatekh",
+        "englishLiteral": "over- sons-of **luxuries-your;** Widen baldness-your",
+        "englishNatural": "over the sons of **your luxuries;** Widen your baldness"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "תַּעֲנֻגֶיהָ",
+        "transliteration": "taanugeiha",
+        "englishLiteral": "luxuries-her",
+        "englishNatural": "her luxuries",
+        "root": "taanug",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תְּגָרְשׁוּן מִבֵּית **תַּעֲנֻגֶיהָ** מֵעַל עֹלָלֶיהָ",
+        "transliteration": "teGarshun miBeit **taanugeiha** meAl olaleiha",
+        "englishLiteral": "you-will-banish, from-house-of **luxuries-her;** from-over infants-her,",
+        "englishNatural": "you will banish from the house of **her luxuries;** from over her infants"
+      }
+    }
+  ]
+}

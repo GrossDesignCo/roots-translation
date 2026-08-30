@@ -1,0 +1,34 @@
+{
+  "key": "vesamti",
+  "language": "hebrew",
+  "root": "sim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְשַׂמְתִּי",
+        "transliteration": "veSamti",
+        "englishLiteral": "And-I-have-placed",
+        "englishNatural": "And I will place",
+        "root": "sim",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְשַׂמְתִּי** שֹׁמְרוֹן לְעִי",
+        "transliteration": "**veSamti** Shomron leIy",
+        "englishLiteral": "**And-I-have-placed** Keep (Samaria) to-heap-of",
+        "englishNatural": "**And I will place** Keep (Samaria) to a heap of"
+      }
+    }
+  ]
+}

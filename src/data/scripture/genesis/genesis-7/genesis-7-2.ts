@@ -141,7 +141,7 @@ export const genesis_7_2: Verse = {
       transliteration: 'uMin-',
       englishLiteral: 'and-from-',
       englishNatural: 'and from',
-      root: 'min_from',
+      root: 'min',
       prefixes: ['u'],
       order: 10,
       morphology: {

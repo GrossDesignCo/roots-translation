@@ -1,0 +1,32 @@
+{
+  "key": "viyerushalayim",
+  "language": "hebrew",
+  "root": "yerushalayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "וִירוּשָׁלִָם",
+        "transliteration": "viYerushalayim",
+        "englishLiteral": "and-Foundation_of_Peace (Jerusalem)",
+        "englishNatural": "and Foundation-of-Peace (Jerusalem)",
+        "root": "yerushalayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ שֹׁמְרוֹן **וִירוּשָׁלִָם׃**",
+        "transliteration": "al- Shomron **viYerushalayim**",
+        "englishLiteral": "over- Keep (Samaria) **and-Foundation_of_Peace (Jerusalem).**",
+        "englishNatural": "over Keep (Samaria) **and Foundation-of-Peace (Jerusalem).**"
+      }
+    }
+  ]
+}

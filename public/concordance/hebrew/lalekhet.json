@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לָלֶ֣כֶת",
+        "transliteration": "laLekhet",
+        "englishLiteral": "to-go",
+        "englishNatural": "to go",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִתְאַמֶּ֥צֶת הִ֖יא **לָלֶ֣כֶת** אִתָּ֑הּ וַתֶּחְדַּ֖ל",
+        "transliteration": "mitAmetset hi **laLekhet** itah vatTechdal",
+        "englishLiteral": "being-strong she **to-go** with-her; and-ceased",
+        "englishNatural": "she was steadfast **to go** with her, and she ceased"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 12

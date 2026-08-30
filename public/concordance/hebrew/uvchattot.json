@@ -1,0 +1,32 @@
+{
+  "key": "uvchattot",
+  "language": "hebrew",
+  "root": "chattaah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וּבְחַטֹּאות",
+        "transliteration": "uvChattot",
+        "englishLiteral": "and-in-sins-of",
+        "englishNatural": "and in the sins of",
+        "root": "chattaah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ זֹאת **וּבְחַטֹּאות** בֵּית יִשְׂרָאֵל",
+        "transliteration": "kol- zot **uvChattot** beit Yisrael",
+        "englishLiteral": "all- this, **and-in-sins-of** house-of Struggles_with_God (Israel);",
+        "englishNatural": "all this, **and in the sins of** the house of Struggles-with-God (Israel);"
+      }
+    }
+  ]
+}

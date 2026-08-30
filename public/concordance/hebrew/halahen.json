@@ -1,0 +1,57 @@
+{
+  "key": "halahen",
+  "language": "hebrew",
+  "root": "le",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "הֲלָהֵ֣ן",
+        "transliteration": "haLahen",
+        "englishLiteral": "whether-to-them",
+        "englishNatural": "for them",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "**הֲלָהֵ֣ן** תְּשַׂבֵּ֗רְנָה עַ֚ד",
+        "transliteration": "**haLahen** teshabbernah ad",
+        "englishLiteral": "**whether-to-them** you-will-wait until",
+        "englishNatural": "Would you wait **for them** until which"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הֲלָהֵן֙",
+        "transliteration": "haLahen",
+        "englishLiteral": "whether-to-them",
+        "englishNatural": "for them",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁ֣ר יִגְדָּ֔לוּ **הֲלָהֵן֙** תֵּעָגֵ֔נָה לְבִלְתִּ֖י",
+        "transliteration": "asher yigdalu **haLahen** teagenah leBilti",
+        "englishLiteral": "which they-grow? **whether-to-them** you-will-be-bound to-not",
+        "englishNatural": "they would grow? Would you be bound **for them** without being"
+      }
+    }
+  ]
+}

@@ -1849,6 +1849,56 @@
         "englishLiteral": "And-I, **not** I-will-pity over-",
         "englishNatural": "And I, will I pity **not** over Dwelling-of-Fish (Nineveh),"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לֹא",
+        "transliteration": "lo",
+        "englishLiteral": "not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עֶרְיָה־ בֹשֶׁת **לֹא** יָצְאָה יוֹשֶׁבֶת",
+        "transliteration": "eryah- boshet **lo** yatsah yoshevet",
+        "englishLiteral": "nakedness- shame; **not** she-has-brought_out sitting-of",
+        "englishNatural": "Sheepfold (Zaanan) has brought-out **not;** the lamentation of the house of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לֹא",
+        "transliteration": "lo",
+        "englishLiteral": "not",
+        "englishNatural": "not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "יַטִּפוּ לָאֵלֶּה **לֹא** יִסַּג כְּלִמּוֹת׃",
+        "transliteration": "yaTtifu leEleh **lo** yiSsag kelimot",
+        "englishLiteral": "they-will-drip to-these, **not** he-will-be-turned_back disgraces.",
+        "englishNatural": "disgraces will be turned-back **not.**"
+      }
     }
   ]
 }

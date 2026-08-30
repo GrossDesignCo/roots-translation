@@ -1,0 +1,32 @@
+{
+  "key": "venachalato",
+  "language": "hebrew",
+  "root": "nachalah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וְנַחֲלָתוֹ",
+        "transliteration": "veNachalato",
+        "englishLiteral": "and-inheritance-his",
+        "englishNatural": "and his inheritance",
+        "root": "nachalah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבֵיתוֹ וְאִישׁ **וְנַחֲלָתוֹ׃**",
+        "transliteration": "uBeito veIsh **veNachalato**",
+        "englishLiteral": "and-house-his, and-man **and-inheritance-his.**",
+        "englishNatural": "and his house, and a man **and his inheritance.**"
+      }
+    }
+  ]
+}

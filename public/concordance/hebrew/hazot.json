@@ -1,7 +1,7 @@
 {
   "key": "hazot",
   "language": "hebrew",
-  "root": "hazot",
+  "root": "zot",
   "occurrences": [
     {
       "location": {
@@ -101,6 +101,31 @@
         "transliteration": "lemi- haRaah **hazot** lanu mah-",
         "englishLiteral": "for-who- the-bad **this** to-us; What-",
         "englishNatural": "for who the bad **this** is to us; What"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הַזֹּאת",
+        "transliteration": "haZot",
+        "englishLiteral": "the-this",
+        "englishNatural": "this",
+        "root": "zot",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל־ הַמִּשְׁפָּחָה **הַזֹּאת** רָעָה אֲשֶׁר",
+        "transliteration": "al- haMishpachah **haZot** raah asher",
+        "englishLiteral": "over- the-family **the-this** bad; which",
+        "englishNatural": "bad over **this** family; which"
       }
     }
   ]

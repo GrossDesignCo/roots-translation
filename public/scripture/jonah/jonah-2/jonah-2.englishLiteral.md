@@ -1,5 +1,5 @@
 
-And-prayed Dove (Jonah) to- He_Who_Is (YHWH) Gods-his from-bowels-of the-fish;
+And-prayed Dove (Jonah) to- He_Who_Is (YHWH) Gods-his from-belly-of the-fish;
 
 And-said, 
 "I-called_out from-distress to-me to- He_Who_Is (YHWH), 

@@ -605,6 +605,31 @@
         "englishLiteral": "feet-my, and-I-heard **↳** speaking to-me.",
         "englishNatural": "my feet, and I heard **↳** him speaking to me."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "עֵת",
+        "transliteration": "et",
+        "englishLiteral": "time",
+        "englishNatural": "a time",
+        "root": "et_time",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רוֹמָה כִּי **עֵת** רָעָה הִיא׃",
+        "transliteration": "romah ki **et** raah hi",
+        "englishLiteral": "high, that **time** bad she.",
+        "englishNatural": "high, that **a time** bad, she."
+      }
     }
   ]
 }

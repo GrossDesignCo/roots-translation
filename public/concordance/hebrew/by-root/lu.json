@@ -1,0 +1,31 @@
+{
+  "root": "lu",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "לוּ־",
+        "transliteration": "lu-",
+        "englishLiteral": "if_only-",
+        "englishNatural": "If only",
+        "root": "lu",
+        "morphology": {
+          "type": "conjunction"
+        }
+      },
+      "context": {
+        "hebrew": "**לוּ־** אִישׁ הֹלֵךְ",
+        "transliteration": "**lu-** ish holekh",
+        "englishLiteral": "**if_only-** man walking",
+        "englishNatural": "**If only** a man walking"
+      }
+    }
+  ]
+}

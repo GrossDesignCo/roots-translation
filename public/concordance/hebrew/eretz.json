@@ -277,6 +277,31 @@
         "englishLiteral": "to-Confusion (Babylon), to- **land** Tooth_of_Two (Shinar), house",
         "englishNatural": "to Confusion (Babylon), to **the land** of Tooth-of-Two (Shinar), to the house"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֶרֶץ",
+        "transliteration": "eretz",
+        "englishLiteral": "earth",
+        "englishNatural": "earth",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כֻּלָּם הַקְשִׁיבִי **אֶרֶץ** וּמְלֹאָהּ וִיהִי",
+        "transliteration": "kullam haqshivi **eretz** uMeloah viYehi",
+        "englishLiteral": "all-of-them, hearken **earth** and-fullness-her; and-let-be",
+        "englishNatural": "all of them; hearken, **earth** and her fullness; and let Lord"
+      }
     }
   ]
 }

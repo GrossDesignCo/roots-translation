@@ -27,6 +27,31 @@
         "englishLiteral": "to-them and-lifted **voice-their** and-wept.",
         "englishNatural": "to them, and they lifted **their voice** and wept."
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "קוֹלָ֔ן",
+        "transliteration": "qolan",
+        "englishLiteral": "voice-their",
+        "englishNatural": "their voice",
+        "root": "qol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתִּשֶּׂ֣נָה **קוֹלָ֔ן** וַתִּבְכֶּ֖ינָה ע֑וֹד",
+        "transliteration": "vatTissenah **qolan** vatTivkeynah od",
+        "englishLiteral": "and-lifted **voice-their,** and-wept again;",
+        "englishNatural": "And they lifted **their voice,** and wept again:"
+      }
     }
   ]
 }

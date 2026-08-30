@@ -1,0 +1,32 @@
+{
+  "key": "vesham",
+  "language": "hebrew",
+  "root": "sham",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְשָׁם",
+        "transliteration": "veSham",
+        "englishLiteral": "and-there",
+        "englishNatural": "and there",
+        "root": "sham",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "תָּמוּתִי אָמוּת **וְשָׁם** אֶקָּבֵר כֹּה",
+        "transliteration": "tamuti amut **veSham** eqaver koh",
+        "englishLiteral": "you-will-die, I-will-die, **and-there** I-will-be-buried; thus",
+        "englishNatural": "you will die, I will die, **and there** I will be buried; thus"
+      }
+    }
+  ]
+}

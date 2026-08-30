@@ -404,6 +404,168 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "נָשׁ֖וּב",
+        "transliteration": "naShuv",
+        "englishLiteral": "we-will-return",
+        "englishNatural": "we will return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּֽי־ אִתָּ֥ךְ **נָשׁ֖וּב** לְעַמֵּֽךְ׃",
+        "transliteration": "ki- itakh **naShuv** leAmmeKh",
+        "englishLiteral": "\"that- with-you **we-will-return** to-people-your.\"",
+        "englishNatural": "\"That with you **we will return** to your people.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שֹׁ֣בְנָה",
+        "transliteration": "shovnah",
+        "englishLiteral": "return",
+        "englishNatural": "Return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּ֤אמֶר נָעֳמִי֙ **שֹׁ֣בְנָה** בְנֹתַ֔י לָ֥מָּה",
+        "transliteration": "vatTomer Naomi **shovnah** benotai lamah",
+        "englishLiteral": "And-said Pleasant_My (Naomi) **\"return** my-daughters, why",
+        "englishNatural": "And My-Pleasant (Naomi) said, **\"Return,** my daughters, why"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "שֹׁ֤בְנָה",
+        "transliteration": "shovnah",
+        "englishLiteral": "return",
+        "englishNatural": "Return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**שֹׁ֤בְנָה** בְנֹתַי֙ לֵ֔כְנָה",
+        "transliteration": "**shovnah** benotai lekhnah",
+        "englishLiteral": "**return** daughters-my Go",
+        "englishNatural": "**Return,** my daughters, go,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שָׁ֣בָה",
+        "transliteration": "shavah",
+        "englishLiteral": "she-has-returned",
+        "englishNatural": "has returned",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּ֗אמֶר הִנֵּה֙ **שָׁ֣בָה** יְבִמְתֵּ֔ךְ אֶל־",
+        "transliteration": "vatTomer hineh **shavah** yevimtekh el-",
+        "englishLiteral": "And-said, \"Behold **she-has-returned** sister_in_law-your, to-",
+        "englishNatural": "\"Behold, your sister-in-law **has returned** to her people"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "שׁ֖וּבִי",
+        "transliteration": "shuvi",
+        "englishLiteral": "return",
+        "englishNatural": "Return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶל־ אֱלֹהֶ֑יהָ **שׁ֖וּבִי** אַחֲרֵ֥י יְבִמְתֵּֽךְ׃",
+        "transliteration": "veEl- elohiha **shuvi** acharei yevimtekh",
+        "englishLiteral": "and-to- Gods-her; **return** after sister_in_law-your.\"",
+        "englishNatural": "and to her gods; **Return** after your sister-in-law.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לָשׁוּב",
+        "transliteration": "laShuv",
+        "englishLiteral": "to-return",
+        "englishNatural": "to return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בִי לְעׇזְבֵךְ **לָשׁוּב** מֵאַחֲרָיִךְ כִּי",
+        "transliteration": "vi leAzvekh **laShuv** meAcharayikh ki",
+        "englishLiteral": "in-me to-leave-you **to-return** from-after-you, that-",
+        "englishNatural": "not to leave you, **to return** from after you, for"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 23,
         "verse": 3
@@ -643,6 +805,87 @@
         "transliteration": "maaseihem ki- **shavu** midarkam haRaah",
         "englishLiteral": "works-their, that- **they-returned** from-way-their the-bad;",
         "englishNatural": "their works, that **they returned** from the bad of their way;"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "יָשׁוּבוּ",
+        "transliteration": "yashuvu",
+        "englishLiteral": "they-will-return",
+        "englishNatural": "they will return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶתְנַן זוֹנָה **יָשׁוּבוּ׃**",
+        "transliteration": "etnan zonah **yashuvu**",
+        "englishLiteral": "hire-of harlot **they-will-return.**",
+        "englishNatural": "the hire of a harlot **they will return.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 17,
+      "sourceOrder": 17,
+      "word": {
+        "originalScript": "לְשׁוֹבֵב",
+        "transliteration": "leShovev",
+        "englishLiteral": "to-returning",
+        "englishNatural": "to returning",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "polel"
+        }
+      },
+      "context": {
+        "hebrew": "יָמִישׁ לִי **לְשׁוֹבֵב** שָׂדֵינוּ יְחַלֵּק׃",
+        "transliteration": "yamish li **leShovev** sadeinu yechalleq",
+        "englishLiteral": "he-will-displace to-me, **to-returning** fields-our he-will-allot.\"",
+        "englishNatural": "he will displace to me! **to returning** our fields he will allot.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "שׁוּבֵי",
+        "transliteration": "shuvei",
+        "englishLiteral": "returners-of",
+        "englishNatural": "returners of",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעֹבְרִים בֶּטַח **שׁוּבֵי** מִלְחָמָה׃",
+        "transliteration": "meOverim betach **shuvei** milchamah",
+        "englishLiteral": "from-passing_through-ones security, **returners-of** war.",
+        "englishNatural": "from those passing-through in security, **returners of** war."
       }
     }
   ]

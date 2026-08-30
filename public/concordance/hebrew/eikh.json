@@ -1,0 +1,32 @@
+{
+  "key": "eikh",
+  "language": "hebrew",
+  "root": "eikh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "אֵיךְ",
+        "transliteration": "eikh",
+        "englishLiteral": "how",
+        "englishNatural": "how",
+        "root": "eikh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "עַמִּי יָמִיר **אֵיךְ** יָמִישׁ לִי",
+        "transliteration": "ammi yamir **eikh** yamish li",
+        "englishLiteral": "people-my he-will-change; **how** he-will-displace to-me,",
+        "englishNatural": "the portion of my people; **how** he will displace to me!"
+      }
+    }
+  ]
+}

@@ -26,6 +26,81 @@
         "englishLiteral": "lifting_up twisting **and-transgression** and-sin, and-clearing",
         "englishNatural": "lifting-up twisting **and transgression** and sin, and clearing"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "בְּפֶשַׁע",
+        "transliteration": "bePesha",
+        "englishLiteral": "in-transgression-of",
+        "englishNatural": "In the transgression of",
+        "root": "pesha",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּפֶשַׁע** יַעֲקֹב כָּל־",
+        "transliteration": "**bePesha** Yaaqov kol-",
+        "englishLiteral": "**in-transgression-of** Heel_Grasper (Jacob) all-",
+        "englishNatural": "**In the transgression of** Heel-Grasper (Jacob) all"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "פֶשַׁע",
+        "transliteration": "pesha",
+        "englishLiteral": "transgression-of",
+        "englishNatural": "is the transgression of",
+        "root": "pesha",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׂרָאֵל מִי־ **פֶשַׁע** יַעֲקֹב הֲלוֹא",
+        "transliteration": "Yisrael mi- **pesha** Yaaqov halo",
+        "englishLiteral": "Struggles_with_God (Israel); who- **transgression-of** Heel_Grasper (Jacob), is_it_not",
+        "englishNatural": "Struggles-with-God (Israel); who **is the transgression of** Heel-Grasper (Jacob)? is it not"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "פִּשְׁעֵי",
+        "transliteration": "pishei",
+        "englishLiteral": "transgressions-of",
+        "englishNatural": "the transgressions of",
+        "root": "pesha",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָךְ נִמְצְאוּ **פִּשְׁעֵי** יִשְׂרָאֵל׃",
+        "transliteration": "bakh niMtseu **pishei** Yisrael",
+        "englishLiteral": "in-you they-have-been-found **transgressions-of** Struggles_with_God (Israel).",
+        "englishNatural": "in you have been found **the transgressions of** Struggles-with-God (Israel)."
+      }
     }
   ]
 }

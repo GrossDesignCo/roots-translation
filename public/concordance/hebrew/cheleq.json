@@ -1,0 +1,32 @@
+{
+  "key": "cheleq",
+  "language": "hebrew",
+  "root": "cheleq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "חֵלֶק",
+        "transliteration": "cheleq",
+        "englishLiteral": "portion-of",
+        "englishNatural": "the portion of",
+        "root": "cheleq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁדוֹד נְשַׁדֻּנוּ **חֵלֶק** עַמִּי יָמִיר",
+        "transliteration": "shadod neshadunu **cheleq** ammi yamir",
+        "englishLiteral": "\"Devastating, we-have-been-devastated, **portion-of** people-my he-will-change;",
+        "englishNatural": "we have been devastated; he will change **the portion of** my people; how"
+      }
+    }
+  ]
+}

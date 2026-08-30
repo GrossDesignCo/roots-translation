@@ -1,0 +1,31 @@
+{
+  "root": "nimrats",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "נִמְרָץ",
+        "transliteration": "nimrats",
+        "englishLiteral": "grievous",
+        "englishNatural": "and a grievous",
+        "root": "nimrats",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "תְּחַבֵּל וְחֶבֶל **נִמְרָץ׃**",
+        "transliteration": "teChabel veChevel **nimrats**",
+        "englishLiteral": "she-will-destroy, and-destruction **grievous.**",
+        "englishNatural": "unclean, she will destroy, **and a grievous** destruction."
+      }
+    }
+  ]
+}

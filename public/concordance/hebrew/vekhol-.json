@@ -302,6 +302,81 @@
         "englishLiteral": "and-around house-his, **and-all-** which- to-him",
         "englishNatural": "and around his house, **and all** which is to him"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְכָל־",
+        "transliteration": "veKhol-",
+        "englishLiteral": "And-all-",
+        "englishNatural": "And all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "**וְכָל־** פְּסִילֶיהָ יֻכַּתּוּ",
+        "transliteration": "**veKhol-** pesileiha yukattu",
+        "englishLiteral": "**And-all-** carved_images-her they-will-be-beaten,",
+        "englishNatural": "**And all** her carved-images will be beaten,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְכָל־",
+        "transliteration": "veKhol-",
+        "englishLiteral": "and-all-",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "פְּסִילֶיהָ יֻכַּתּוּ **וְכָל־** אֶתְנַנֶּיהָ יִשָּׂרְפוּ",
+        "transliteration": "pesileiha yukattu **veKhol-** etnaneiha yissarefu",
+        "englishLiteral": "carved_images-her they-will-be-beaten, **and-all-** hires-her they-will-be-incinerated",
+        "englishNatural": "her carved-images will be beaten, **and all** her hires will be incinerated"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וְכָל־",
+        "transliteration": "veKhol-",
+        "englishLiteral": "and-all-",
+        "englishNatural": "and all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "יִשָּׂרְפוּ בָאֵשׁ **וְכָל־** עֲצַבֶּיהָ אָשִׂים",
+        "transliteration": "yissarefu baEsh **veKhol-** atzabeiha asim",
+        "englishLiteral": "they-will-be-incinerated in-the-fire, **and-all-** idols-her I-will-place",
+        "englishNatural": "will be incinerated in the fire, **and all** her idols I will place"
+      }
     }
   ]
 }

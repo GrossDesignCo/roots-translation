@@ -80,6 +80,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "גַּ֣ם",
+        "transliteration": "gam",
+        "englishLiteral": "also",
+        "englishNatural": "also",
+        "root": "gam",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לִ֣י תִקְוָ֔ה **גַּ֣ם** הָיִ֤יתִי הַלַּ֙יְלָה֙",
+        "transliteration": "li tikvah **gam** hayiti haLaylah",
+        "englishLiteral": "to-me hope, **also** I-have-been the-night",
+        "englishNatural": "to me hope, **also** I have been the night"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 23,
         "verse": 4

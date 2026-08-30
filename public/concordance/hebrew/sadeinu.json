@@ -1,0 +1,32 @@
+{
+  "key": "sadeinu",
+  "language": "hebrew",
+  "root": "sadeh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "שָׂדֵינוּ",
+        "transliteration": "sadeinu",
+        "englishLiteral": "fields-our",
+        "englishNatural": "our fields",
+        "root": "sadeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִי לְשׁוֹבֵב **שָׂדֵינוּ** יְחַלֵּק׃",
+        "transliteration": "li leShovev **sadeinu** yechalleq",
+        "englishLiteral": "to-me, to-returning **fields-our** he-will-allot.\"",
+        "englishNatural": "to me! to returning **our fields** he will allot.\""
+      }
+    }
+  ]
+}

@@ -5,6 +5,7 @@
     "genesis",
     "isaiah",
     "jonah",
+    "micah",
     "proverbs",
     "psalms"
   ],
@@ -20,7 +21,8 @@
     "isaiah",
     "job",
     "jonah",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "amar": [
     "daniel",
@@ -31,6 +33,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "numbers",
     "psalms",
     "ruth"
@@ -43,6 +46,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "numbers",
     "proverbs",
     "psalms",
@@ -50,7 +54,8 @@
   ],
   "or": [
     "exodus",
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "eretz": [
     "daniel",
@@ -60,6 +65,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "proverbs",
     "psalms",
     "ruth"
@@ -68,7 +74,8 @@
     "genesis"
   ],
   "boqer": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "tohu": [
     "genesis"
@@ -87,6 +94,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "proverbs",
     "psalms"
   ],
@@ -100,6 +108,7 @@
     "ezekiel",
     "genesis",
     "jonah",
+    "micah",
     "psalms"
   ],
   "rachaf": [
@@ -110,6 +119,7 @@
     "ezekiel",
     "genesis",
     "jonah",
+    "micah",
     "proverbs",
     "psalms"
   ],
@@ -170,7 +180,8 @@
     "jonah",
     "numbers",
     "proverbs",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "satar": [
     "exodus",
@@ -184,6 +195,7 @@
     "exodus",
     "genesis",
     "jonah",
+    "micah",
     "proverbs",
     "psalms"
   ],
@@ -208,6 +220,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "numbers",
     "proverbs",
     "psalms"
@@ -224,6 +237,7 @@
   ],
   "sadeh": [
     "genesis",
+    "micah",
     "psalms",
     "ruth"
   ],
@@ -232,6 +246,7 @@
     "genesis",
     "isaiah",
     "jonah",
+    "micah",
     "numbers",
     "proverbs",
     "psalms",
@@ -241,6 +256,7 @@
     "exodus",
     "ezekiel",
     "genesis",
+    "micah",
     "ruth"
   ],
   "akhal": [
@@ -263,6 +279,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "psalms",
     "ruth"
   ],
@@ -273,6 +290,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "numbers",
     "proverbs",
     "psalms",
@@ -286,6 +304,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "numbers",
     "psalms",
     "ruth"
@@ -300,6 +319,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "numbers",
     "psalms",
     "ruth"
@@ -314,6 +334,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "proverbs",
     "psalms"
   ],
@@ -337,15 +358,21 @@
     "ezekiel",
     "genesis",
     "isaiah",
+    "jonah",
+    "micah",
     "psalms",
     "ruth"
+  ],
+  "min_kind": [
+    "genesis"
   ],
   "tokh": [
     "exodus",
     "ezekiel",
     "genesis",
     "isaiah",
-    "job"
+    "job",
+    "micah"
   ],
   "chatzot": [
     "exodus"
@@ -363,7 +390,8 @@
     "genesis",
     "isaiah",
     "job",
-    "jonah"
+    "jonah",
+    "micah"
   ],
   "be": [
     "daniel",
@@ -371,7 +399,9 @@
     "ezekiel",
     "genesis",
     "job",
-    "jonah"
+    "jonah",
+    "micah",
+    "ruth"
   ],
   "mut": [
     "exodus",
@@ -386,7 +416,8 @@
   ],
   "saraph": [
     "genesis",
-    "isaiah"
+    "isaiah",
+    "micah"
   ],
   "shalach": [
     "exodus",
@@ -415,6 +446,7 @@
     "genesis",
     "isaiah",
     "jonah",
+    "micah",
     "numbers",
     "psalms",
     "ruth"
@@ -426,6 +458,7 @@
     "genesis",
     "job",
     "jonah",
+    "micah",
     "numbers",
     "ruth"
   ],
@@ -441,7 +474,8 @@
     "ezekiel",
     "genesis",
     "jonah",
-    "numbers"
+    "numbers",
+    "ruth"
   ],
   "palal": [
     "jonah",
@@ -463,9 +497,11 @@
     "genesis",
     "isaiah",
     "jonah",
+    "micah",
     "numbers",
     "proverbs",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "moshe": [
     "exodus",
@@ -493,11 +529,13 @@
     "genesis",
     "isaiah",
     "job",
+    "micah",
     "numbers",
     "proverbs"
   ],
   "simlah": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "shekhem": [
     "genesis"
@@ -508,6 +546,7 @@
     "genesis",
     "isaiah",
     "job",
+    "micah",
     "numbers",
     "proverbs",
     "psalms"
@@ -524,6 +563,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "numbers",
     "psalms",
     "ruth"
@@ -537,6 +577,7 @@
   "yisrael": [
     "exodus",
     "isaiah",
+    "micah",
     "numbers",
     "proverbs",
     "psalms"
@@ -557,6 +598,7 @@
     "genesis",
     "isaiah",
     "jonah",
+    "micah",
     "psalms",
     "ruth"
   ],
@@ -574,7 +616,9 @@
     "ruth"
   ],
   "et_with": [
-    "genesis"
+    "genesis",
+    "micah",
+    "ruth"
   ],
   "al": [
     "daniel",
@@ -584,6 +628,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "numbers",
     "proverbs",
     "psalms"
@@ -634,6 +679,7 @@
     "ezekiel",
     "genesis",
     "jonah",
+    "micah",
     "psalms"
   ],
   "shoresh": [
@@ -646,6 +692,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "ruth"
   ],
   "tsefa": [
@@ -659,6 +706,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "ruth"
   ],
   "echad": [
@@ -687,8 +735,10 @@
     "genesis",
     "isaiah",
     "job",
+    "micah",
     "proverbs",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "lakach": [
     "genesis",
@@ -711,6 +761,7 @@
     "exodus",
     "genesis",
     "jonah",
+    "micah",
     "proverbs",
     "psalms"
   ],
@@ -718,6 +769,7 @@
     "genesis",
     "job",
     "jonah",
+    "micah",
     "proverbs",
     "psalms"
   ],
@@ -729,7 +781,8 @@
     "exodus",
     "ezekiel",
     "genesis",
-    "jonah"
+    "jonah",
+    "ruth"
   ],
   "qara": [
     "exodus",
@@ -740,7 +793,8 @@
     "psalms"
   ],
   "qavar": [
-    "genesis"
+    "genesis",
+    "ruth"
   ],
   "yom": [
     "daniel",
@@ -749,6 +803,7 @@
     "genesis",
     "job",
     "jonah",
+    "micah",
     "proverbs",
     "psalms",
     "ruth"
@@ -758,7 +813,8 @@
     "exodus",
     "genesis",
     "jonah",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "raqia": [
     "ezekiel",
@@ -770,12 +826,16 @@
   "qavah": [
     "psalms"
   ],
+  "tikvah": [
+    "ruth"
+  ],
   "qahal": [
     "ecclesiastes"
   ],
   "maqom": [
     "exodus",
     "genesis",
+    "micah",
     "ruth"
   ],
   "yabashah": [
@@ -792,6 +852,9 @@
   ],
   "seivah": [
     "genesis"
+  ],
+  "zaqen": [
+    "ruth"
   ],
   "shalom": [
     "genesis"
@@ -812,12 +875,14 @@
     "genesis",
     "isaiah",
     "jonah",
-    "proverbs"
+    "proverbs",
+    "ruth"
   ],
   "yalad": [
     "exodus",
     "genesis",
-    "proverbs"
+    "proverbs",
+    "ruth"
   ],
   "ashar": [
     "proverbs",
@@ -829,6 +894,9 @@
   "rash": [
     "proverbs"
   ],
+  "paga": [
+    "ruth"
+  ],
   "pagash": [
     "proverbs"
   ],
@@ -838,6 +906,7 @@
     "genesis",
     "isaiah",
     "jonah",
+    "micah",
     "proverbs"
   ],
   "ot": [
@@ -883,6 +952,7 @@
     "exodus",
     "genesis",
     "jonah",
+    "micah",
     "proverbs",
     "psalms",
     "ruth"
@@ -920,7 +990,8 @@
     "isaiah"
   ],
   "melo": [
-    "isaiah"
+    "isaiah",
+    "micah"
   ],
   "hamish": [
     "genesis"
@@ -939,6 +1010,7 @@
   ],
   "afar": [
     "genesis",
+    "micah",
     "proverbs"
   ],
   "adam": [
@@ -946,6 +1018,7 @@
     "genesis",
     "isaiah",
     "jonah",
+    "micah",
     "proverbs",
     "psalms"
   ],
@@ -984,7 +1057,8 @@
   "meod": [
     "exodus",
     "genesis",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "sherets": [
     "genesis"
@@ -1069,6 +1143,7 @@
   "alah": [
     "genesis",
     "jonah",
+    "micah",
     "psalms"
   ],
   "shaqah": [
@@ -1100,12 +1175,14 @@
     "ezekiel",
     "genesis",
     "jonah",
+    "micah",
     "proverbs",
     "ruth"
   ],
   "chamad": [
     "exodus",
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "mareh": [
     "exodus",
@@ -1124,7 +1201,8 @@
   ],
   "parad": [
     "ezekiel",
-    "genesis"
+    "genesis",
+    "ruth"
   ],
   "arba": [
     "daniel",
@@ -1177,7 +1255,8 @@
   "even": [
     "daniel",
     "ezekiel",
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "shoham": [
     "genesis"
@@ -1222,6 +1301,7 @@
     "isaiah",
     "job",
     "jonah",
+    "micah",
     "psalms",
     "ruth"
   ],
@@ -1276,7 +1356,8 @@
     "genesis"
   ],
   "arom": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "bosh": [
     "genesis"
@@ -1284,7 +1365,8 @@
   "azav": [
     "genesis",
     "isaiah",
-    "jonah"
+    "jonah",
+    "ruth"
   ],
   "av": [
     "exodus",
@@ -1298,7 +1380,8 @@
   ],
   "davaq": [
     "daniel",
-    "genesis"
+    "genesis",
+    "ruth"
   ],
   "kisse": [
     "exodus",
@@ -1308,7 +1391,8 @@
   ],
   "hekhal": [
     "isaiah",
-    "jonah"
+    "jonah",
+    "micah"
   ],
   "shul": [
     "isaiah"
@@ -1321,6 +1405,7 @@
     "genesis",
     "isaiah",
     "jonah",
+    "micah",
     "proverbs"
   ],
   "mamlakah": [
@@ -1345,6 +1430,7 @@
   ],
   "rum": [
     "isaiah",
+    "micah",
     "psalms"
   ],
   "rum_verb": [
@@ -1357,11 +1443,13 @@
     "genesis",
     "isaiah",
     "jonah",
+    "micah",
     "ruth"
   ],
   "kavod": [
     "ezekiel",
     "isaiah",
+    "micah",
     "psalms"
   ],
   "amah": [
@@ -1392,6 +1480,7 @@
     "genesis",
     "isaiah",
     "job",
+    "micah",
     "psalms",
     "ruth"
   ],
@@ -1409,7 +1498,8 @@
     "jonah"
   ],
   "teme": [
-    "isaiah"
+    "isaiah",
+    "micah"
   ],
   "li": [
     "daniel",
@@ -1470,6 +1560,7 @@
     "ezekiel",
     "genesis",
     "jonah",
+    "micah",
     "proverbs"
   ],
   "gam": [
@@ -1519,6 +1610,7 @@
     "genesis",
     "isaiah",
     "jonah",
+    "micah",
     "proverbs",
     "ruth"
   ],
@@ -1547,15 +1639,18 @@
     "ezekiel",
     "genesis",
     "isaiah",
-    "jonah"
+    "jonah",
+    "micah"
   ],
   "nagad": [
     "genesis",
-    "jonah"
+    "jonah",
+    "micah"
   ],
   "bilti": [
     "exodus",
-    "genesis"
+    "genesis",
+    "ruth"
   ],
   "im_with": [
     "daniel",
@@ -1563,12 +1658,14 @@
     "genesis",
     "isaiah",
     "job",
+    "micah",
     "ruth"
   ],
   "hi": [
     "daniel",
     "ezekiel",
     "genesis",
+    "micah",
     "ruth"
   ],
   "mah": [
@@ -1581,7 +1678,8 @@
   "zot": [
     "genesis",
     "isaiah",
-    "jonah"
+    "jonah",
+    "micah"
   ],
   "nasha": [
     "genesis"
@@ -1597,7 +1695,8 @@
     "jonah"
   ],
   "ervah": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "eivah": [
     "genesis"
@@ -1633,6 +1732,7 @@
     "genesis",
     "job",
     "jonah",
+    "micah",
     "proverbs",
     "psalms",
     "ruth"
@@ -1659,6 +1759,7 @@
     "genesis",
     "isaiah",
     "jonah",
+    "micah",
     "psalms",
     "ruth"
   ],
@@ -1682,16 +1783,19 @@
     "exodus",
     "genesis",
     "jonah",
+    "micah",
     "proverbs",
     "psalms"
   ],
   "garash": [
     "exodus",
     "genesis",
-    "jonah"
+    "jonah",
+    "micah"
   ],
   "kerem": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "keruv": [
     "genesis"
@@ -1751,6 +1855,7 @@
   ],
   "et_time": [
     "genesis",
+    "micah",
     "proverbs",
     "psalms"
   ],
@@ -1771,6 +1876,7 @@
     "exodus",
     "genesis",
     "jonah",
+    "micah",
     "psalms",
     "ruth"
   ],
@@ -1825,6 +1931,7 @@
     "psalms"
   ],
   "gei": [
+    "micah",
     "psalms"
   ],
   "tzalmavet": [
@@ -1922,7 +2029,8 @@
     "exodus",
     "genesis",
     "jonah",
-    "proverbs"
+    "proverbs",
+    "ruth"
   ],
   "ach": [
     "exodus",
@@ -1940,11 +2048,13 @@
     "exodus",
     "genesis",
     "jonah",
+    "micah",
     "psalms"
   ],
   "yatav": [
     "genesis",
-    "jonah"
+    "jonah",
+    "micah"
   ],
   "petach": [
     "genesis",
@@ -2014,14 +2124,16 @@
   ],
   "lamah": [
     "exodus",
-    "genesis"
+    "genesis",
+    "ruth"
   ],
   "lamed": [
     "exodus",
     "ezekiel",
     "genesis",
     "isaiah",
-    "psalms"
+    "psalms",
+    "ruth"
   ],
   "shlomo": [
     "proverbs"
@@ -2086,6 +2198,7 @@
     "ezekiel",
     "genesis",
     "jonah",
+    "micah",
     "proverbs",
     "psalms"
   ],
@@ -2121,6 +2234,7 @@
   ],
   "shaar": [
     "exodus",
+    "micah",
     "proverbs"
   ],
   "peh": [
@@ -2141,7 +2255,8 @@
     "proverbs"
   ],
   "paal_verb": [
-    "isaiah"
+    "isaiah",
+    "micah"
   ],
   "az": [
     "genesis",
@@ -2169,6 +2284,7 @@
     "exodus",
     "genesis",
     "jonah",
+    "micah",
     "proverbs",
     "psalms"
   ],
@@ -2314,7 +2430,9 @@
     "exodus",
     "genesis",
     "isaiah",
-    "jonah"
+    "jonah",
+    "micah",
+    "ruth"
   ],
   "enosh": [
     "daniel",
@@ -2337,21 +2455,24 @@
   "shloshim": [
     "genesis"
   ],
-  "meah": [
+  "meah_hundred": [
     "daniel",
     "genesis"
   ],
   "achar": [
     "daniel",
     "exodus",
-    "genesis"
+    "genesis",
+    "ruth"
   ],
   "shmoneh": [
     "genesis"
   ],
   "bat": [
     "exodus",
-    "genesis"
+    "genesis",
+    "micah",
+    "ruth"
   ],
   "tesha": [
     "genesis"
@@ -2494,7 +2615,8 @@
   "yarad": [
     "exodus",
     "genesis",
-    "jonah"
+    "jonah",
+    "micah"
   ],
   "yafo": [
     "jonah"
@@ -2520,7 +2642,8 @@
   ],
   "chashav": [
     "genesis",
-    "jonah"
+    "jonah",
+    "micah"
   ],
   "lehishabeir": [
     "jonah"
@@ -2583,10 +2706,12 @@
     "genesis"
   ],
   "lekhu": [
-    "jonah"
+    "jonah",
+    "micah"
   ],
   "goral": [
-    "jonah"
+    "jonah",
+    "micah"
   ],
   "beshelmi": [
     "jonah"
@@ -2614,7 +2739,9 @@
   "koh": [
     "exodus",
     "genesis",
-    "isaiah"
+    "isaiah",
+    "micah",
+    "ruth"
   ],
   "avot": [
     "exodus"
@@ -2626,7 +2753,8 @@
     "exodus"
   ],
   "yaaqov": [
-    "exodus"
+    "exodus",
+    "micah"
   ],
   "zakhar_remember": [
     "exodus",
@@ -2670,10 +2798,12 @@
     "exodus"
   ],
   "pesha": [
-    "exodus"
+    "exodus",
+    "micah"
   ],
   "chattaah": [
-    "exodus"
+    "exodus",
+    "micah"
   ],
   "nakeh": [
     "exodus"
@@ -2694,8 +2824,10 @@
     "exodus",
     "jonah"
   ],
-  "meah_bowels": [
-    "jonah"
+  "meah": [
+    "genesis",
+    "jonah",
+    "ruth"
   ],
   "qey": [
     "jonah"
@@ -2773,11 +2905,6 @@
   "kaph": [
     "exodus",
     "ezekiel",
-    "genesis",
-    "jonah"
-  ],
-  "min_from": [
-    "daniel",
     "genesis",
     "jonah"
   ],
@@ -2878,10 +3005,13 @@
   "gadal": [
     "exodus",
     "genesis",
-    "jonah"
+    "jonah",
+    "ruth"
   ],
   "yesh": [
-    "jonah"
+    "jonah",
+    "micah",
+    "ruth"
   ],
   "harbeh": [
     "jonah"
@@ -2971,6 +3101,7 @@
     "exodus",
     "isaiah",
     "jonah",
+    "micah",
     "psalms"
   ],
   "afaf": [
@@ -3058,6 +3189,7 @@
   ],
   "matsa": [
     "genesis",
+    "micah",
     "psalms"
   ],
   "chen": [
@@ -3066,7 +3198,8 @@
   ],
   "eleh": [
     "exodus",
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "tamim": [
     "genesis"
@@ -3079,7 +3212,9 @@
     "ezekiel",
     "genesis",
     "isaiah",
-    "job"
+    "job",
+    "micah",
+    "ruth"
   ],
   "tzafon": [
     "ezekiel"
@@ -3087,7 +3222,8 @@
   "esh": [
     "exodus",
     "ezekiel",
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "nogah": [
     "ezekiel"
@@ -3102,7 +3238,8 @@
   ],
   "yashar": [
     "ezekiel",
-    "job"
+    "job",
+    "micah"
   ],
   "egel": [
     "ezekiel"
@@ -3136,7 +3273,8 @@
   ],
   "nesher": [
     "daniel",
-    "ezekiel"
+    "ezekiel",
+    "micah"
   ],
   "maala": [
     "ezekiel",
@@ -3270,7 +3408,8 @@
     "genesis"
   ],
   "asaph": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "tahor": [
     "genesis"
@@ -3284,7 +3423,8 @@
     "genesis"
   ],
   "baqa": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "arubbah": [
     "genesis"
@@ -3355,7 +3495,8 @@
   ],
   "amats": [
     "isaiah",
-    "proverbs"
+    "proverbs",
+    "ruth"
   ],
   "tamak": [
     "isaiah"
@@ -3367,6 +3508,7 @@
     "proverbs"
   ],
   "mosed": [
+    "micah",
     "proverbs"
   ],
   "etsel": [
@@ -3392,13 +3534,17 @@
     "psalms"
   ],
   "mishpachah": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "biqah": [
     "genesis"
   ],
   "havah": [
     "genesis"
+  ],
+  "lun": [
+    "ruth"
   ],
   "lavan": [
     "genesis"
@@ -3437,7 +3583,8 @@
     "genesis"
   ],
   "chadal": [
-    "genesis"
+    "genesis",
+    "ruth"
   ],
   "machazeh": [
     "genesis"
@@ -3455,7 +3602,8 @@
   "adonai": [
     "daniel",
     "genesis",
-    "isaiah"
+    "isaiah",
+    "micah"
   ],
   "ariri": [
     "genesis"
@@ -3470,7 +3618,8 @@
     "genesis"
   ],
   "yarash": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "elav": [
     "exodus",
@@ -3570,7 +3719,8 @@
     "genesis"
   ],
   "emeq": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "shaveh": [
     "genesis"
@@ -3582,7 +3732,8 @@
     "genesis"
   ],
   "yayin": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "malkhut": [
     "daniel"
@@ -3592,6 +3743,7 @@
   ],
   "yehudah": [
     "daniel",
+    "micah",
     "ruth"
   ],
   "nevukhadnetzar": [
@@ -3599,7 +3751,8 @@
   ],
   "yerushalayim": [
     "daniel",
-    "ecclesiastes"
+    "ecclesiastes",
+    "micah"
   ],
   "tsur": [
     "daniel"
@@ -3630,7 +3783,8 @@
     "isaiah"
   ],
   "galah": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "raz": [
     "daniel"
@@ -3686,6 +3840,9 @@
   "choten": [
     "exodus"
   ],
+  "chamot": [
+    "ruth"
+  ],
   "midyan": [
     "exodus"
   ],
@@ -3727,7 +3884,8 @@
   ],
   "hineni": [
     "exodus",
-    "isaiah"
+    "isaiah",
+    "micah"
   ],
   "paroh": [
     "exodus"
@@ -3769,7 +3927,8 @@
     "exodus"
   ],
   "lakhen": [
-    "exodus"
+    "exodus",
+    "micah"
   ],
   "avodah": [
     "exodus"
@@ -3790,7 +3949,8 @@
     "exodus"
   ],
   "shalakh": [
-    "exodus"
+    "exodus",
+    "micah"
   ],
   "eved": [
     "exodus",
@@ -3840,6 +4000,7 @@
   "le": [
     "daniel",
     "exodus",
+    "micah",
     "ruth"
   ],
   "sheviy": [
@@ -3906,10 +4067,14 @@
   "kallah": [
     "ruth"
   ],
+  "yevimt": [
+    "ruth"
+  ],
   "nashaq": [
     "ruth"
   ],
   "bakah": [
+    "micah",
     "ruth"
   ],
   "dov": [
@@ -3947,6 +4112,7 @@
     "psalms"
   ],
   "olel": [
+    "micah",
     "psalms"
   ],
   "yoneq": [
@@ -3956,6 +4122,7 @@
     "psalms"
   ],
   "oyev": [
+    "micah",
     "psalms"
   ],
   "etsba": [
@@ -3965,6 +4132,7 @@
     "psalms"
   ],
   "hadar": [
+    "micah",
     "psalms"
   ],
   "atar_crown": [
@@ -4036,7 +4204,8 @@
     "isaiah"
   ],
   "manoach": [
-    "genesis"
+    "genesis",
+    "micah"
   ],
   "shaqat": [
     "isaiah"
@@ -4066,12 +4235,14 @@
     "psalms"
   ],
   "mur": [
+    "micah",
     "psalms"
   ],
   "mut_totter": [
     "psalms"
   ],
   "hamah": [
+    "micah",
     "psalms"
   ],
   "chamar_foam": [
@@ -4093,10 +4264,12 @@
     "exodus"
   ],
   "ed_witness": [
-    "exodus"
+    "exodus",
+    "micah"
   ],
   "sheqer": [
-    "exodus"
+    "exodus",
+    "micah"
   ],
   "amah_maid": [
     "exodus"
@@ -4111,7 +4284,8 @@
     "exodus"
   ],
   "pesel": [
-    "exodus"
+    "exodus",
+    "micah"
   ],
   "temunah": [
     "exodus"
@@ -4148,11 +4322,14 @@
     "exodus"
   ],
   "baavur": [
-    "exodus"
+    "exodus",
+    "micah"
   ],
   "al_not": [
     "exodus",
-    "isaiah"
+    "isaiah",
+    "micah",
+    "ruth"
   ],
   "shaman": [
     "isaiah"
@@ -4170,7 +4347,8 @@
     "isaiah"
   ],
   "shemamah": [
-    "isaiah"
+    "isaiah",
+    "micah"
   ],
   "rachaq": [
     "isaiah"
@@ -4187,7 +4365,8 @@
     "isaiah"
   ],
   "yachad": [
-    "isaiah"
+    "isaiah",
+    "micah"
   ],
   "elah": [
     "daniel",
@@ -4201,6 +4380,307 @@
   ],
   "matsevet": [
     "isaiah"
+  ],
+  "mikhah": [
+    "micah"
+  ],
+  "morashti": [
+    "micah"
+  ],
+  "yotam": [
+    "micah"
+  ],
+  "achaz_name": [
+    "micah"
+  ],
+  "yechizqiyyah": [
+    "micah"
+  ],
+  "chazah": [
+    "daniel",
+    "micah"
+  ],
+  "shomron": [
+    "micah"
+  ],
+  "qashav": [
+    "micah"
+  ],
+  "sabar": [
+    "ruth"
+  ],
+  "agen": [
+    "ruth"
+  ],
+  "mar": [
+    "ruth"
+  ],
+  "darakh": [
+    "micah"
+  ],
+  "masas": [
+    "micah"
+  ],
+  "donag": [
+    "micah"
+  ],
+  "nagar": [
+    "micah"
+  ],
+  "morad": [
+    "micah"
+  ],
+  "bamah_high": [
+    "micah"
+  ],
+  "iy": [
+    "micah"
+  ],
+  "matta": [
+    "micah"
+  ],
+  "katat": [
+    "micah"
+  ],
+  "etnan": [
+    "micah"
+  ],
+  "zonah": [
+    "micah"
+  ],
+  "atzav_idol": [
+    "micah"
+  ],
+  "qavatz": [
+    "micah"
+  ],
+  "saphad": [
+    "micah"
+  ],
+  "misped": [
+    "micah"
+  ],
+  "yalal": [
+    "micah"
+  ],
+  "shalal": [
+    "micah"
+  ],
+  "tan": [
+    "micah"
+  ],
+  "evel": [
+    "micah"
+  ],
+  "yaanah": [
+    "micah"
+  ],
+  "anush": [
+    "micah"
+  ],
+  "makkah": [
+    "micah"
+  ],
+  "qarach": [
+    "micah"
+  ],
+  "qorchah": [
+    "micah"
+  ],
+  "gazaz": [
+    "micah"
+  ],
+  "taanug": [
+    "micah"
+  ],
+  "rachav": [
+    "micah"
+  ],
+  "shilluch": [
+    "micah"
+  ],
+  "moreshet": [
+    "micah"
+  ],
+  "gat": [
+    "micah"
+  ],
+  "achziv": [
+    "micah"
+  ],
+  "achzav": [
+    "micah"
+  ],
+  "mareshah": [
+    "micah"
+  ],
+  "adullam": [
+    "micah"
+  ],
+  "chalah": [
+    "micah"
+  ],
+  "marot": [
+    "micah"
+  ],
+  "aphrah": [
+    "micah"
+  ],
+  "palash": [
+    "micah"
+  ],
+  "ratam": [
+    "micah"
+  ],
+  "merkavah": [
+    "micah"
+  ],
+  "rekhesh": [
+    "micah"
+  ],
+  "lakhish": [
+    "micah"
+  ],
+  "tziyon": [
+    "micah"
+  ],
+  "shapir": [
+    "micah"
+  ],
+  "boshet": [
+    "micah"
+  ],
+  "zaanan": [
+    "micah"
+  ],
+  "ezel": [
+    "micah"
+  ],
+  "emdah": [
+    "micah"
+  ],
+  "gazal": [
+    "micah"
+  ],
+  "ashaq": [
+    "micah"
+  ],
+  "gever": [
+    "micah"
+  ],
+  "nachalah": [
+    "micah"
+  ],
+  "chevel": [
+    "micah"
+  ],
+  "qahal_congregation": [
+    "micah"
+  ],
+  "hoy": [
+    "micah"
+  ],
+  "aven": [
+    "micah"
+  ],
+  "mishkav": [
+    "micah"
+  ],
+  "el_power": [
+    "micah"
+  ],
+  "etmol": [
+    "micah"
+  ],
+  "mul": [
+    "micah"
+  ],
+  "eder": [
+    "micah"
+  ],
+  "pashat": [
+    "micah"
+  ],
+  "betach": [
+    "micah"
+  ],
+  "milchamah": [
+    "micah"
+  ],
+  "nataf": [
+    "micah"
+  ],
+  "sug": [
+    "micah"
+  ],
+  "kelimah": [
+    "micah"
+  ],
+  "chabal": [
+    "micah"
+  ],
+  "chevel_destruction": [
+    "micah"
+  ],
+  "nimrats": [
+    "micah"
+  ],
+  "lu": [
+    "micah"
+  ],
+  "kazav": [
+    "micah"
+  ],
+  "shekhar": [
+    "micah"
+  ],
+  "parats": [
+    "micah"
+  ],
+  "mush": [
+    "micah"
+  ],
+  "tzavar": [
+    "micah"
+  ],
+  "mashal_parable": [
+    "micah"
+  ],
+  "nahah": [
+    "micah"
+  ],
+  "nehi": [
+    "micah"
+  ],
+  "shadad": [
+    "micah"
+  ],
+  "cheleq": [
+    "micah"
+  ],
+  "eikh": [
+    "micah"
+  ],
+  "chalaq": [
+    "micah"
+  ],
+  "qatsar": [
+    "micah"
+  ],
+  "maallal": [
+    "micah"
+  ],
+  "sheerit": [
+    "micah"
+  ],
+  "botsrah": [
+    "micah"
+  ],
+  "eder_herd": [
+    "micah"
+  ],
+  "dover": [
+    "micah"
   ],
   "en": [
     "john",
@@ -4509,9 +4989,6 @@
     "daniel"
   ],
   "peshar": [
-    "daniel"
-  ],
-  "chazah": [
     "daniel"
   ],
   "alu": [

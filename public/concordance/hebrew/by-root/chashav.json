@@ -55,6 +55,60 @@
         "englishLiteral": "in-sea, and-the-ship **planned** to-be-broken.",
         "englishNatural": "in the sea, and the ship **planned** to be broken."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "חֹֽשְׁבֵי־",
+        "transliteration": "choshvei-",
+        "englishLiteral": "planners-of",
+        "englishNatural": "planners of",
+        "root": "chashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "ה֧וֹי **חֹֽשְׁבֵי־** אָ֛וֶן וּפֹ֥עֲלֵי",
+        "transliteration": "hoy **choshvei-** aven uPoalei",
+        "englishLiteral": "Ho **planners-of** trouble and-workers-of",
+        "englishNatural": "Ho **planners of** trouble and workers of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "חֹשֵׁב",
+        "transliteration": "choshev",
+        "englishLiteral": "planning",
+        "englishNatural": "planning",
+        "root": "chashav",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה הִנְנִי **חֹשֵׁב** עַל־ הַמִּשְׁפָּחָה",
+        "transliteration": "YHWH hineni **choshev** al- haMishpachah",
+        "englishLiteral": "He_Who_Is (YHWH), \"behold_me **planning** over- the-family",
+        "englishNatural": "He-Who-Is (YHWH), \"Behold-me, **planning** bad over"
+      }
     }
   ]
 }

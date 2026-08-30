@@ -27,6 +27,81 @@
         "englishLiteral": "**Does-not** Wisdom will-call_out?",
         "englishNatural": "**Does not** Wisdom call-out?"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הֲלוֹא",
+        "transliteration": "halo",
+        "englishLiteral": "is_it_not",
+        "englishNatural": "is it not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "פֶשַׁע יַעֲקֹב **הֲלוֹא** שֹׁמְרוֹן וּמִי",
+        "transliteration": "pesha Yaaqov **halo** Shomron uMi",
+        "englishLiteral": "transgression-of Heel_Grasper (Jacob), **is_it_not** Keep (Samaria), and-who",
+        "englishNatural": "is the transgression of Heel-Grasper (Jacob)? **is it not** Keep (Samaria)? and who"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "הֲלוֹא",
+        "transliteration": "halo",
+        "englishLiteral": "is_it_not",
+        "englishNatural": "is it not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "בָּמוֹת יְהוּדָה **הֲלוֹא** יְרוּשָׁלִָם׃",
+        "transliteration": "bamot Yehudah **halo** Yerushalayim",
+        "englishLiteral": "high_places-of Praise (Judah), **is_it_not** Foundation_of_Peace (Jerusalem).",
+        "englishNatural": "are the high-places of Praise (Judah)? **is it not** Foundation-of-Peace (Jerusalem)?"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הֲלוֹא",
+        "transliteration": "halo",
+        "englishLiteral": "is_it_not",
+        "englishNatural": "is it not",
+        "root": "lo",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה מַעֲלָלָיו **הֲלוֹא** דְבָרַי יֵיטִיבוּ",
+        "transliteration": "eleh maAlalav **halo** devarai yeitivu",
+        "englishLiteral": "these deeds-his; **is_it_not** words-my they-will-do_well",
+        "englishNatural": "these, his deeds? **is it not** my words do-well"
+      }
     }
   ]
 }

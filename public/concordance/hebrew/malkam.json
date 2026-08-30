@@ -1,0 +1,32 @@
+{
+  "key": "malkam",
+  "language": "hebrew",
+  "root": "melekh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "מַלְכָּם",
+        "transliteration": "malkam",
+        "englishLiteral": "king-their",
+        "englishNatural": "and their king",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בּוֹ וַיַּעֲבֹר **מַלְכָּם** לִפְנֵיהֶם וַיהוָה",
+        "transliteration": "bo vaYaavor **malkam** liFneihem vaYHWH",
+        "englishLiteral": "in-it; and-he-will-pass_through **king-their** to-faces-their, and-He_Who_Is (YHWH)",
+        "englishNatural": "and they will go-out in it; **and their king** will pass-through to their faces,"
+      }
+    }
+  ]
+}

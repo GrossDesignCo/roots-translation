@@ -1,0 +1,32 @@
+{
+  "key": "kivnot",
+  "language": "hebrew",
+  "root": "bat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "כִּבְנוֹת",
+        "transliteration": "kiVnot",
+        "englishLiteral": "like-daughters-of",
+        "englishNatural": "like daughters of",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כַּתַּנִּים וְאֵבֶל **כִּבְנוֹת** יַעֲנָה׃",
+        "transliteration": "kaTannim veEvel **kiVnot** yaanah",
+        "englishLiteral": "like-jackals, and-mourning **like-daughters-of** ostrich.",
+        "englishNatural": "like jackals, and a mourning **like daughters of** ostrich."
+      }
+    }
+  ]
+}

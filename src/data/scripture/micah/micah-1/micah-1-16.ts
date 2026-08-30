@@ -1,0 +1,203 @@
+import { Verse } from '@/types';
+
+export const micah_1_16: Verse = {
+  meta: {
+    book: 'Micah',
+    chapter: 1,
+    verse: 16,
+  },
+  words: [
+    {
+      hebrew: 'קָרְחִי',
+      transliteration: 'qarchi',
+      englishLiteral: 'Make_bald',
+      englishNatural: 'Make bald',
+      root: 'qarach',
+      order: 1,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '2nd',
+        tense: 'imperative',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'וָגֹזִּי',
+      transliteration: 'vaGozzi',
+      englishLiteral: 'and-shear',
+      englishNatural: 'and shear',
+      root: 'gazaz',
+      prefixes: ['va'],
+      order: 2,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '2nd',
+        tense: 'imperative',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'עַל־',
+      transliteration: 'al-',
+      englishLiteral: 'over-',
+      englishNatural: 'over',
+      root: 'al',
+      order: 3,
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'בְּנֵי',
+      transliteration: 'benei',
+      englishLiteral: 'sons-of',
+      englishNatural: 'the sons of',
+      root: 'ben',
+      suffixes: ['ei'],
+      order: 4,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'תַּעֲנוּגָיִךְ',
+      transliteration: 'taanugayikh',
+      englishLiteral: 'luxuries-your',
+      englishNatural: 'your luxuries',
+      root: 'taanug',
+      suffixes: ['ayikh'],
+      order: 5,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'הַרְחִבִי',
+      transliteration: 'harchivi',
+      englishLiteral: 'Widen',
+      englishNatural: 'Widen',
+      root: 'rachav',
+      order: 6,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '2nd',
+        tense: 'imperative',
+        stem: 'hiphil',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'קָרְחָתֵךְ',
+      transliteration: 'qorchatekh',
+      englishLiteral: 'baldness-your',
+      englishNatural: 'your baldness',
+      root: 'qorchah',
+      suffixes: ['ekh'],
+      order: 7,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'כַּנֶּשֶׁר',
+      transliteration: 'kaNesher',
+      englishLiteral: 'like-eagle',
+      englishNatural: 'like an eagle',
+      root: 'nesher',
+      prefixes: ['ka'],
+      order: 8,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'כִּי',
+      transliteration: 'ki',
+      englishLiteral: 'that',
+      englishNatural: 'that',
+      root: 'ki',
+      order: 9,
+      morphology: {
+        type: 'conjunction',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'גָלוּ',
+      transliteration: 'galu',
+      englishLiteral: 'they-have-revealed',
+      englishNatural: 'they have revealed',
+      root: 'galah',
+      order: 10,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'מִמֵּךְ',
+      transliteration: 'miMekh',
+      englishLiteral: 'from-you',
+      englishNatural: 'from you',
+      root: 'min',
+      suffixes: ['ekh'],
+      order: 11,
+      morphology: {
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        hebrew: '׃',
+        englishLiteral: '."',
+        englishNatural: '."',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'קָרְחִי וָגֹזִּי עַל־בְּנֵי תַּעֲנוּגָיִךְ הַרְחִבִי קָרְחָתֵךְ כַּנֶּשֶׁר כִּי גָלוּ מִמֵּךְ׃',
+    transliteration:
+      'qarchi vaGozzi al-benei taanugayikh harchivi qorchatekh kaNesher ki galu miMekh',
+    englishLiteral:
+      'Make_bald and-shear, over- sons-of luxuries-your; Widen baldness-your like-eagle, that they-have-revealed from-you."',
+    englishNatural:
+      'Make bald and shear, over the sons of your luxuries; Widen your baldness like an eagle, that they have revealed from you."',
+    kjv: 'Make thee bald, and poll thee for thy delicate children; enlarge thy baldness as the eagle; for they are gone into captivity from thee.',
+  },
+};

@@ -1,0 +1,34 @@
+{
+  "key": "venamasu",
+  "language": "hebrew",
+  "root": "masas",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְנָמַסּוּ",
+        "transliteration": "veNamasu",
+        "englishLiteral": "and-they-have-been-melted",
+        "englishNatural": "will be melted",
+        "root": "masas",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "**וְנָמַסּוּ** הֶהָרִים תַּחְתָּיו",
+        "transliteration": "**veNamasu** heHarim tachtav",
+        "englishLiteral": "**and-they-have-been-melted** the-mountains under-him,",
+        "englishNatural": "and the mountains **will be melted** under him, and the valleys"
+      }
+    }
+  ]
+}

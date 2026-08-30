@@ -1,0 +1,32 @@
+{
+  "key": "atzabeiha",
+  "language": "hebrew",
+  "root": "atzav_idol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "עֲצַבֶּיהָ",
+        "transliteration": "atzabeiha",
+        "englishLiteral": "idols-her",
+        "englishNatural": "her idols",
+        "root": "atzav_idol",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָאֵשׁ וְכָל־ **עֲצַבֶּיהָ** אָשִׂים שְׁמָמָה",
+        "transliteration": "baEsh veKhol- **atzabeiha** asim shemamah",
+        "englishLiteral": "in-the-fire, and-all- **idols-her** I-will-place desolation;",
+        "englishNatural": "in the fire, and all **her idols** I will place desolation;"
+      }
+    }
+  ]
+}

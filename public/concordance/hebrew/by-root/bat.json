@@ -376,6 +376,131 @@
         "englishLiteral": "you, and-son-your, **and-daughter-your,** servant-your, and-maidservant-your,",
         "englishNatural": "you, and your son, **and your daughter,** your servant, and your maidservant,"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בְנֹתַ֔י",
+        "transliteration": "benotai",
+        "englishLiteral": "my-daughters",
+        "englishNatural": "my daughters",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נָעֳמִי֙ שֹׁ֣בְנָה **בְנֹתַ֔י** לָ֥מָּה תֵלַ֖כְנָה",
+        "transliteration": "Naomi shovnah **benotai** lamah telakhna",
+        "englishLiteral": "Pleasant_My (Naomi) \"return **my-daughters,** why you-will-walk",
+        "englishNatural": "said, \"Return, **my daughters,** why will you walk"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בְנֹתַי֙",
+        "transliteration": "benotai",
+        "englishLiteral": "daughters-my",
+        "englishNatural": "my daughters",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֹׁ֤בְנָה **בְנֹתַי֙** לֵ֔כְנָה כִּ֥י",
+        "transliteration": "shovnah **benotai** lekhnah ki",
+        "englishLiteral": "return **daughters-my** Go that",
+        "englishNatural": "Return, **my daughters,** go, that"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "בְּנֹתַ֗י",
+        "transliteration": "benotai",
+        "englishLiteral": "my-daughters",
+        "englishNatural": "my daughters",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְאִ֑ישׁ אַ֣ל **בְּנֹתַ֗י** כִּֽי־ מַר־",
+        "transliteration": "leIsh al **benotai** ki- mar-",
+        "englishLiteral": "to-man; not **my-daughters,** that- bitter-",
+        "englishNatural": "to a man? No, **my daughters;** for very"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "כִּבְנוֹת",
+        "transliteration": "kiVnot",
+        "englishLiteral": "like-daughters-of",
+        "englishNatural": "like daughters of",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כַּתַּנִּים וְאֵבֶל **כִּבְנוֹת** יַעֲנָה׃",
+        "transliteration": "kaTannim veEvel **kiVnot** yaanah",
+        "englishLiteral": "like-jackals, and-mourning **like-daughters-of** ostrich.",
+        "englishNatural": "like jackals, and a mourning **like daughters of** ostrich."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "לְבַת־",
+        "transliteration": "leBat-",
+        "englishLiteral": "to-daughter-of",
+        "englishNatural": "to the daughter of",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַטָּאת הִיא **לְבַת־** צִיּוֹן כִּי־",
+        "transliteration": "chattaat hi **leBat-** Tziyon ki-",
+        "englishLiteral": "sin she **to-daughter-of** Marker (Zion); that-",
+        "englishNatural": "is the beginning of sin **to the daughter of** Marker (Zion); that"
+      }
     }
   ]
 }

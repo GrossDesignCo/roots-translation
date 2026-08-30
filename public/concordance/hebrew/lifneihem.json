@@ -1,0 +1,57 @@
+{
+  "key": "lifneihem",
+  "language": "hebrew",
+  "root": "panim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לִפְנֵיהֶם",
+        "transliteration": "liFneihem",
+        "englishLiteral": "to-faces-their",
+        "englishNatural": "to their faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָלָה הַפֹּרֵץ **לִפְנֵיהֶם** פָּרְצוּ וַיַּעֲבֹרוּ",
+        "transliteration": "alah haPoretz **liFneihem** partzu vaYaavru",
+        "englishLiteral": "He-has-gone_up the-breaking_through **to-faces-their,** they-have-broken_through, and-they-will-pass_through",
+        "englishNatural": "The breaking-through has gone-up **to their faces,** they have broken-through, and they will pass-through"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "לִפְנֵיהֶם",
+        "transliteration": "liFneihem",
+        "englishLiteral": "to-faces-their",
+        "englishNatural": "to their faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעֲבֹר מַלְכָּם **לִפְנֵיהֶם** וַיהוָה בְּרֹאשָׁם׃",
+        "transliteration": "vaYaavor malkam **liFneihem** vaYHWH beRosham",
+        "englishLiteral": "and-he-will-pass_through king-their **to-faces-their,** and-He_Who_Is (YHWH) in-head-their.",
+        "englishNatural": "and their king will pass-through **to their faces,** and He-Who-Is (YHWH), in their head."
+      }
+    }
+  ]
+}

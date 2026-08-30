@@ -1,0 +1,32 @@
+{
+  "key": "yachad",
+  "language": "hebrew",
+  "root": "yachad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "יַחַד",
+        "transliteration": "yachad",
+        "englishLiteral": "together",
+        "englishNatural": "together",
+        "root": "yachad",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁאֵרִית יִשְׂרָאֵל **יַחַד** אֲשִׂימֶנּוּ כְּצֹאן",
+        "transliteration": "sheerit Yisrael **yachad** asimennu keTzon",
+        "englishLiteral": "remnant-of Struggles_with_God (Israel), **together** I-will-place-him like-flock",
+        "englishNatural": "the remnant of Struggles-with-God (Israel), **together** I will place them like the flock of"
+      }
+    }
+  ]
+}

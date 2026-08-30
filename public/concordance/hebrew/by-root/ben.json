@@ -1479,6 +1479,56 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בָנִים֙",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַעֽוֹד־ לִ֤י **בָנִים֙** בְּֽמֵעַ֔י וְהָי֥וּ",
+        "transliteration": "haOd- li **banim** beMeai veHayu",
+        "englishLiteral": "the-again to-me **sons** in-belly-my, and-will-be",
+        "englishNatural": "are there again to me **sons** in my belly, and would they be"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "בָנִֽים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְגַ֖ם יָלַ֥דְתִּי **בָנִֽים׃**",
+        "transliteration": "veGam yaldati **banim**",
+        "englishLiteral": "and-also I-have-birthed **sons,**",
+        "englishNatural": "and also I have birthed **sons,**"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 6
@@ -1800,6 +1850,31 @@
         "transliteration": "laylah hayah **uvin-** laylah avad",
         "englishLiteral": "night was **and-son-of-** night perished.",
         "englishNatural": "a night it was **and son of** a night it perished."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בְּנֵי",
+        "transliteration": "benei",
+        "englishLiteral": "sons-of",
+        "englishNatural": "the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וָגֹזִּי עַל־ **בְּנֵי** תַּעֲנוּגָיִךְ הַרְחִבִי",
+        "transliteration": "vaGozzi al- **benei** taanugayikh harchivi",
+        "englishLiteral": "and-shear, over- **sons-of** luxuries-your; Widen",
+        "englishNatural": "and shear, over **the sons of** your luxuries; Widen"
       }
     }
   ]

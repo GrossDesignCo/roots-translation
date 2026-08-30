@@ -28,6 +28,33 @@
         "englishLiteral": "**they-will-roar** they-will-foam waters-his;",
         "englishNatural": "Its waters **roar** they foam; mountains"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "תְּהִימֶנָה",
+        "transliteration": "teHimenah",
+        "englishLiteral": "they-will-roar",
+        "englishNatural": "they will roar",
+        "root": "hamah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּתוֹךְ הַדָּבְרוֹ **תְּהִימֶנָה** מֵאָדָם׃",
+        "transliteration": "beTokh haDovro **teHimenah** meAdam",
+        "englishLiteral": "in-midst-of the-fold-his, **they-will-roar** from-Earthling (Adam).",
+        "englishNatural": "in the midst of his fold, **they will roar** from Earthling (Adam)."
+      }
     }
   ]
 }

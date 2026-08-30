@@ -1,0 +1,31 @@
+{
+  "root": "anush",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֲנוּשָׁה",
+        "transliteration": "anushah",
+        "englishLiteral": "incurable",
+        "englishNatural": "incurable",
+        "root": "anush",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי **אֲנוּשָׁה** מַכּוֹתֶיהָ כִּי־",
+        "transliteration": "ki **anushah** makkoteiha ki-",
+        "englishLiteral": "that **incurable,** blows-her; that-",
+        "englishNatural": "that **incurable,** her blows; that"
+      }
+    }
+  ]
+}

@@ -152,6 +152,56 @@
         "englishLiteral": "Give He_Who_Is (YHWH) **to-you** and-find rest",
         "englishNatural": "He-Who-Is (YHWH) give **to you,** and find rest,"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "לָכֶ֖ם",
+        "transliteration": "lakhem",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בְּֽמֵעַ֔י וְהָי֥וּ **לָכֶ֖ם** לַאֲנָשִֽׁים׃",
+        "transliteration": "beMeai veHayu **lakhem** laAnashim",
+        "englishLiteral": "in-belly-my, and-will-be **to-you** to-men.",
+        "englishNatural": "in my belly, and would they be **to you** men?\""
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "לָכֶם",
+        "transliteration": "lakhem",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עִבְרִי **לָכֶם** יוֹשֶׁבֶת שָׁפִיר",
+        "transliteration": "ivri **lakhem** yoshevet Shapir",
+        "englishLiteral": "Pass_through **to-you** sitting-of Fair (Saphir),",
+        "englishNatural": "Pass-through **to you,** the sitting of Fair (Saphir),"
+      }
     }
   ]
 }

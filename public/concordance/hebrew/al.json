@@ -1,7 +1,7 @@
 {
   "key": "al",
   "language": "hebrew",
-  "root": "al",
+  "root": "al_not",
   "occurrences": [
     {
       "location": {
@@ -173,6 +173,31 @@
         "transliteration": "nechoshet vaYeSimehu **al** haNes veHayah",
         "englishLiteral": "bronze, and-he-placed-it **on** the-standard, and-it-was,",
         "englishNatural": "snake, and he placed it **on** the standard; and it came about,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אַ֣ל",
+        "transliteration": "al",
+        "englishLiteral": "not",
+        "englishNatural": "No",
+        "root": "al_not",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הֱיוֹת לְאִ֑ישׁ **אַ֣ל** בְּנֹתַ֗י כִּֽי־",
+        "transliteration": "hiYot leIsh **al** benotai ki-",
+        "englishLiteral": "to-be to-man; **not** my-daughters, that-",
+        "englishNatural": "being to a man? **No,** my daughters; for"
       }
     },
     {
@@ -373,6 +398,31 @@
         "transliteration": "eser yadot **al** kol- haChartomim",
         "englishLiteral": "ten hands **over** all- the-mages",
         "englishNatural": "ten hands **over** all the mages,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "עַל",
+        "transliteration": "al",
+        "englishLiteral": "over",
+        "englishNatural": "over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "תִּתְּנִי שִׁלּוּחִים **עַל** מוֹרֶשֶׁת גַּת",
+        "transliteration": "titteni shilluchim **al** Moreshet Gat",
+        "englishLiteral": "you-will-give send_offs, **over** Possession (Moresheth) Winepress (Gath);",
+        "englishNatural": "you will give send-offs, **over** Possession (Moresheth) Winepress (Gath);"
       }
     }
   ]

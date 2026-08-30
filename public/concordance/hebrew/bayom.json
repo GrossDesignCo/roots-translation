@@ -177,6 +177,31 @@
         "englishLiteral": "And-was **in-day** the-that, And-he-came",
         "englishNatural": "And it was in that **day,** and the Adversary (Satan) also"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "בַּיּוֹם",
+        "transliteration": "baYom",
+        "englishLiteral": "In-day",
+        "englishNatural": "In the day",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בַּיּוֹם** הַהוּא יִשָּׂא",
+        "transliteration": "**baYom** haHu yissa",
+        "englishLiteral": "**In-day** the-that he-will-lift_up",
+        "englishNatural": "**In the day** that he will lift-up"
+      }
     }
   ]
 }

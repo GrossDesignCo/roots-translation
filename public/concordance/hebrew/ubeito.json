@@ -1,0 +1,32 @@
+{
+  "key": "ubeito",
+  "language": "hebrew",
+  "root": "bayit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וּבֵיתוֹ",
+        "transliteration": "uBeito",
+        "englishLiteral": "and-house-his",
+        "englishNatural": "and his house",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעָשְׁקוּ גֶּבֶר **וּבֵיתוֹ** וְאִישׁ וְנַחֲלָתוֹ׃",
+        "transliteration": "veAshequ gever **uBeito** veIsh veNachalato",
+        "englishLiteral": "and-they-have-oppressed strong_man **and-house-his,** and-man and-inheritance-his.",
+        "englishNatural": "and they have oppressed a strong-man **and his house,** and a man and his inheritance."
+      }
+    }
+  ]
+}

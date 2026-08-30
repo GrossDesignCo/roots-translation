@@ -26,6 +26,31 @@
         "englishLiteral": "from-mouth-of **infants** and-sucklings you-have-founded",
         "englishNatural": "from the mouth of **infants** and sucklings you have founded"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "עֹלָלֶיהָ",
+        "transliteration": "olaleiha",
+        "englishLiteral": "infants-her",
+        "englishNatural": "her infants",
+        "root": "olel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תַּעֲנֻגֶיהָ מֵעַל **עֹלָלֶיהָ** תִּקְחוּ הֲדָרִי",
+        "transliteration": "taanugeiha meAl **olaleiha** tiQchu hadari",
+        "englishLiteral": "luxuries-her; from-over **infants-her,** you-will-take honor-my",
+        "englishNatural": "her luxuries; from over **her infants** you will take my honor"
+      }
     }
   ]
 }

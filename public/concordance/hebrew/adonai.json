@@ -1,7 +1,7 @@
 {
   "key": "adonai",
   "language": "hebrew",
-  "root": "adon",
+  "root": "adonai",
   "occurrences": [
     {
       "location": {
@@ -176,6 +176,56 @@
         "transliteration": "vaYitten **Adonai** beYado et-",
         "englishLiteral": "and-he-gave **Lord** in-hand-his ↳",
         "englishNatural": "**And the Lord** gave into his hand,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֲדֹנָי",
+        "transliteration": "adonai",
+        "englishLiteral": "Lord",
+        "englishNatural": "and let Lord",
+        "root": "adonai",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמְלֹאָהּ וִיהִי **אֲדֹנָי** יְהוִה בָּכֶם",
+        "transliteration": "uMeloah viYehi **adonai** YHWH baKhem",
+        "englishLiteral": "and-fullness-her; and-let-be **Lord** He_Who_Is (YHWH) in-you",
+        "englishNatural": "earth and her fullness; **and let Lord** He-Who-Is (YHWH) be"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "אֲדֹנָי",
+        "transliteration": "adonai",
+        "englishLiteral": "Lord",
+        "englishNatural": "Lord",
+        "root": "adonai",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּכֶם לְעֵד **אֲדֹנָי** מֵהֵיכַל קָדְשׁוֹ׃",
+        "transliteration": "baKhem leEd **adonai** meHekhal qodsho",
+        "englishLiteral": "in-you to-witness, **Lord** from-temple-of holiness-his.",
+        "englishNatural": "in you to a witness, **Lord** from the temple of his holiness."
       }
     }
   ]

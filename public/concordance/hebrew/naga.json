@@ -29,6 +29,33 @@
         "englishLiteral": "and-he-said, \"Behold, **has-touched** this over-",
         "englishNatural": "\"Behold, this **has touched** over your lips;"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "נָגַע",
+        "transliteration": "naga",
+        "englishLiteral": "he-has-touched",
+        "englishNatural": "he has touched",
+        "root": "naga",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַד־ יְהוּדָה **נָגַע** עַד־ שַׁעַר",
+        "transliteration": "ad- Yehudah **naga** ad- shaar",
+        "englishLiteral": "until- Praise (Judah); **he-has-touched** until- gate-of",
+        "englishNatural": "until Praise (Judah); **he has touched** until the gate of"
+      }
     }
   ]
 }

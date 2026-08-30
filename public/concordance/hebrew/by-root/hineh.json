@@ -404,6 +404,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הִנֵּה֙",
+        "transliteration": "hineh",
+        "englishLiteral": "Behold",
+        "englishNatural": "Behold",
+        "root": "hineh",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּ֗אמֶר **הִנֵּה֙** שָׁ֣בָה יְבִמְתֵּ֔ךְ",
+        "transliteration": "vatTomer **hineh** shavah yevimtekh",
+        "englishLiteral": "And-said, **\"Behold** she-has-returned sister_in_law-your,",
+        "englishNatural": "And she said, **\"Behold,** your sister-in-law has returned"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 12
@@ -500,6 +525,31 @@
         "transliteration": "vaEre haChayot **veHineh** ophan echad",
         "englishLiteral": "And-I-saw the-living-beings, **and-behold** wheel one",
         "englishNatural": "And I saw the living-beings, **and behold** one wheel"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הִנֵּה",
+        "transliteration": "hineh",
+        "englishLiteral": "behold",
+        "englishNatural": "behold",
+        "root": "hineh",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ **הִנֵּה** יְהוָה יֹצֵא",
+        "transliteration": "ki- **hineh** YHWH yotze",
+        "englishLiteral": "that- **behold** He_Who_Is (YHWH) going_out",
+        "englishNatural": "that **behold,** He-Who-Is (YHWH) is going-out"
       }
     }
   ]

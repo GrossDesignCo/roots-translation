@@ -1,0 +1,33 @@
+{
+  "root": "sabar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תְּשַׂבֵּ֗רְנָה",
+        "transliteration": "teshabbernah",
+        "englishLiteral": "you-will-wait",
+        "englishNatural": "Would you wait",
+        "root": "sabar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "הֲלָהֵ֣ן **תְּשַׂבֵּ֗רְנָה** עַ֚ד אֲשֶׁ֣ר",
+        "transliteration": "haLahen **teshabbernah** ad asher",
+        "englishLiteral": "whether-to-them **you-will-wait** until which",
+        "englishNatural": "**Would you wait** for them until"
+      }
+    }
+  ]
+}

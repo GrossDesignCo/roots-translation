@@ -56,6 +56,33 @@
         "englishLiteral": "**And-passed-through** He_Who_Is (YHWH) over-",
         "englishNatural": "And He-Who-Is (YHWH) **passed through** over his face,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וַיַּעֲבֹר",
+        "transliteration": "vaYaavor",
+        "englishLiteral": "and-he-will-pass_through",
+        "englishNatural": "will pass-through",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּצְאוּ בּוֹ **וַיַּעֲבֹר** מַלְכָּם לִפְנֵיהֶם",
+        "transliteration": "vaYetzeu bo **vaYaavor** malkam liFneihem",
+        "englishLiteral": "and-they-will-go_out in-it; **and-he-will-pass_through** king-their to-faces-their,",
+        "englishNatural": "in it; and their king **will pass-through** to their faces, and He-Who-Is (YHWH),"
+      }
     }
   ]
 }

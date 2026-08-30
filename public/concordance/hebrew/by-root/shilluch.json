@@ -1,0 +1,31 @@
+{
+  "root": "shilluch",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שִׁלּוּחִים",
+        "transliteration": "shilluchim",
+        "englishLiteral": "send_offs",
+        "englishNatural": "send-offs",
+        "root": "shilluch",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֵן תִּתְּנִי **שִׁלּוּחִים** עַל מוֹרֶשֶׁת",
+        "transliteration": "lakhen titteni **shilluchim** al Moreshet",
+        "englishLiteral": "therefore you-will-give **send_offs,** over Possession (Moresheth)",
+        "englishNatural": "Therefore you will give **send-offs,** over Possession (Moresheth)"
+      }
+    }
+  ]
+}

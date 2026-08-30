@@ -1,7 +1,7 @@
 {
   "key": "baavur",
   "language": "hebrew",
-  "root": "avar",
+  "root": "baavur",
   "occurrences": [
     {
       "location": {
@@ -26,6 +26,31 @@
         "transliteration": "et- haAdamah **baAvur** haAdam ki",
         "englishLiteral": "↳ the-earth, **in-passing_through-of** the-Earthling (Adam), for",
         "englishNatural": "↳ the earth, **in the passing-through of** the Earthling (Adam), for"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בַּעֲבוּר",
+        "transliteration": "baavur",
+        "englishLiteral": "for_sake_of",
+        "englishNatural": "for the sake of",
+        "root": "baavur",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "זֹאת הַמְּנוּחָה **בַּעֲבוּר** טָמְאָה תְּחַבֵּל",
+        "transliteration": "zot haMenuchah **baavur** tameah teChabel",
+        "englishLiteral": "this the-resting_place; **for_sake_of** unclean, she-will-destroy,",
+        "englishNatural": "is not the resting-place; **for the sake of** unclean, she will destroy,"
       }
     }
   ]

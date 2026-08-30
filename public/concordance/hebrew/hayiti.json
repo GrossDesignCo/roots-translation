@@ -1,0 +1,34 @@
+{
+  "key": "hayiti",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "הָיִ֤יתִי",
+        "transliteration": "hayiti",
+        "englishLiteral": "I-have-been",
+        "englishNatural": "I have been",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תִקְוָ֔ה גַּ֣ם **הָיִ֤יתִי** הַלַּ֙יְלָה֙ לְאִ֔ישׁ",
+        "transliteration": "tikvah gam **hayiti** haLaylah leIsh",
+        "englishLiteral": "hope, also **I-have-been** the-night to-man,",
+        "englishNatural": "hope, also **I have been** the night to a man,"
+      }
+    }
+  ]
+}

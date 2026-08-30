@@ -1,0 +1,31 @@
+{
+  "root": "dover",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "הַדָּבְרוֹ",
+        "transliteration": "haDovro",
+        "englishLiteral": "the-fold-his",
+        "englishNatural": "his fold",
+        "root": "dover",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּעֵדֶר בְּתוֹךְ **הַדָּבְרוֹ** תְּהִימֶנָה מֵאָדָם׃",
+        "transliteration": "keEder beTokh **haDovro** teHimenah meAdam",
+        "englishLiteral": "like-herd in-midst-of **the-fold-his,** they-will-roar from-Earthling (Adam).",
+        "englishNatural": "like a herd in the midst of **his fold,** they will roar from Earthling (Adam)."
+      }
+    }
+  ]
+}

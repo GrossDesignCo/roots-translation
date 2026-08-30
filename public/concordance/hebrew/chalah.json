@@ -1,0 +1,34 @@
+{
+  "key": "chalah",
+  "language": "hebrew",
+  "root": "chalah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "חָלָה",
+        "transliteration": "chalah",
+        "englishLiteral": "she-has-been-sick",
+        "englishNatural": "has been sick",
+        "root": "chalah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ **חָלָה** לְטוֹב יוֹשֶׁבֶת",
+        "transliteration": "ki- **chalah** leTov yoshevet",
+        "englishLiteral": "that- **she-has-been-sick** to-good sitting-of",
+        "englishNatural": "the sitting of Bitternesses (Maroth) **has been sick** to good; that"
+      }
+    }
+  ]
+}

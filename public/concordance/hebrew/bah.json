@@ -30,6 +30,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בָּֽהּ",
+        "transliteration": "bah",
+        "englishLiteral": "in-her",
+        "englishNatural": "in her",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְר֖וּת דָּ֥בְקָה **בָּֽהּ׃**",
+        "transliteration": "veRut davqah **bah**",
+        "englishLiteral": "and-Friend (Ruth) she-has-clung **in-her.**",
+        "englishNatural": "but Friend (Ruth) clung **in her.**"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 7

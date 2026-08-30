@@ -1,0 +1,32 @@
+{
+  "key": "kanesher",
+  "language": "hebrew",
+  "root": "nesher",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "כַּנֶּשֶׁר",
+        "transliteration": "kaNesher",
+        "englishLiteral": "like-eagle",
+        "englishNatural": "like an eagle",
+        "root": "nesher",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַרְחִבִי קָרְחָתֵךְ **כַּנֶּשֶׁר** כִּי גָלוּ",
+        "transliteration": "harchivi qorchatekh **kaNesher** ki galu",
+        "englishLiteral": "Widen baldness-your **like-eagle,** that they-have-revealed",
+        "englishNatural": "Widen your baldness **like an eagle,** that they have revealed"
+      }
+    }
+  ]
+}

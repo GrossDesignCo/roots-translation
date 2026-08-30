@@ -1,0 +1,32 @@
+{
+  "key": "bamot",
+  "language": "hebrew",
+  "root": "bamah_high",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "בָּמוֹת",
+        "transliteration": "bamot",
+        "englishLiteral": "high_places-of",
+        "englishNatural": "are the high-places of",
+        "root": "bamah_high",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֹׁמְרוֹן וּמִי **בָּמוֹת** יְהוּדָה הֲלוֹא",
+        "transliteration": "Shomron uMi **bamot** Yehudah halo",
+        "englishLiteral": "Keep (Samaria), and-who **high_places-of** Praise (Judah), is_it_not",
+        "englishNatural": "Keep (Samaria)? and who **are the high-places of** Praise (Judah)? is it not"
+      }
+    }
+  ]
+}

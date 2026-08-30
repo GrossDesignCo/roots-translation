@@ -1,0 +1,32 @@
+{
+  "key": "akhziv",
+  "language": "hebrew",
+  "root": "achziv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אַכְזִיב",
+        "transliteration": "Akhziv",
+        "englishLiteral": "Lie (Achzib)",
+        "englishNatural": "Lie (Achzib)",
+        "root": "achziv",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַּת בָּתֵּי **אַכְזִיב** לְאַכְזָב לְמַלְכֵי",
+        "transliteration": "Gat batei **Akhziv** leAkhzav leMalkhey",
+        "englishLiteral": "Winepress (Gath); houses-of **Lie (Achzib)** to-lie, to-kings-of",
+        "englishNatural": "Winepress (Gath); the houses of **Lie (Achzib)** to a lie, to the kings of"
+      }
+    }
+  ]
+}

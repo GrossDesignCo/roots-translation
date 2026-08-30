@@ -1,0 +1,32 @@
+{
+  "key": "mareshah",
+  "language": "hebrew",
+  "root": "mareshah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "מָרֵשָׁה",
+        "transliteration": "Mareshah",
+        "englishLiteral": "Inheritance (Mareshah)",
+        "englishNatural": "Inheritance (Mareshah)",
+        "root": "mareshah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לָךְ יוֹשֶׁבֶת **מָרֵשָׁה** עַד־ עֲדֻלָּם",
+        "transliteration": "lakh yoshevet **Mareshah** ad- Adullam",
+        "englishLiteral": "to-you, sitting-of **Inheritance (Mareshah);** until- Refuge (Adullam)",
+        "englishNatural": "to you, sitting one of **Inheritance (Mareshah);** until Refuge (Adullam)"
+      }
+    }
+  ]
+}

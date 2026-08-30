@@ -1,0 +1,32 @@
+{
+  "key": "veelohayikh",
+  "language": "hebrew",
+  "root": "eloah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "וֵאלֹהַיִךְ",
+        "transliteration": "veElohayikh",
+        "englishLiteral": "and-Gods-your",
+        "englishNatural": "and your God",
+        "root": "eloah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַמֵּךְ עַמִּי **וֵאלֹהַיִךְ** אֱלֹהָי׃",
+        "transliteration": "ammekh ammi **veElohayikh** elohai",
+        "englishLiteral": "people-your people-my, **and-Gods-your** Gods-my.",
+        "englishNatural": "your people, my people, **and your God,** my God."
+      }
+    }
+  ]
+}

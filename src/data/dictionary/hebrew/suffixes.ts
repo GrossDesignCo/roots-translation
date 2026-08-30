@@ -434,6 +434,13 @@ const SUFFIXES = {
     englishNatural: 'me',
     function: '1st person singular object suffix on imperative/imperfect verb',
   },
+  ayikh: {
+    hebrew: 'ַיִךְ',
+    transliteration: 'ayikh',
+    englishLiteral: 'you',
+    englishNatural: 'you',
+    function: '2nd person feminine singular on preposition or noun',
+  },
 } as const;
 
 type SuffixKey = keyof typeof SUFFIXES;

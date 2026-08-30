@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 20,
+      "sourceOrder": 20,
+      "word": {
+        "originalScript": "יַד־",
+        "transliteration": "yad-",
+        "englishLiteral": "hand-",
+        "englishNatural": "the hand of",
+        "root": "yad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָצְאָ֥ה בִ֖י **יַד־** יְהוָֽה׃",
+        "transliteration": "yatsah vi **yad-** YHWH",
+        "englishLiteral": "she-has-brought_out in-me **hand-** He_Who_Is (YHWH).\"",
+        "englishNatural": "from you, for **the hand of** He-Who-Is (YHWH) has gone out"
+      }
+    },
+    {
+      "location": {
         "book": "Isaiah",
         "chapter": 41,
         "verse": 20

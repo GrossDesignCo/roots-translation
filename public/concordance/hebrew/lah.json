@@ -1,7 +1,7 @@
 {
   "key": "lah",
   "language": "hebrew",
-  "root": "la",
+  "root": "lamed",
   "occurrences": [
     {
       "location": {
@@ -26,6 +26,31 @@
         "transliteration": "Paroh vaYehi- **lah** leVen vaTiqra",
         "englishLiteral": "Pharaoh and-was- **to-her** for-son, and-called",
         "englishNatural": "Pharaoh, and he was **to her** for a son, and she called"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "לָּ֑הּ",
+        "transliteration": "lah",
+        "englishLiteral": "to-her",
+        "englishNatural": "to her",
+        "root": "lamed",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּאמַ֖רְנָה־ **לָּ֑הּ** כִּֽי־ אִתָּ֥ךְ",
+        "transliteration": "vatTomarnah- **lah** ki- itakh",
+        "englishLiteral": "And-said **to-her;** \"that- with-you",
+        "englishNatural": "And they said **to her,** \"That with you"
       }
     },
     {

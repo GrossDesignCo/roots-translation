@@ -27,6 +27,31 @@
         "englishLiteral": "and-he-will-answer-me from-the-mountain-of **his-holiness** Selah.",
         "englishNatural": "and he answers me from the mountain of **his holiness** Selah."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "קָדְשׁוֹ",
+        "transliteration": "qodsho",
+        "englishLiteral": "holiness-his",
+        "englishNatural": "his holiness",
+        "root": "qodesh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲדֹנָי מֵהֵיכַל **קָדְשׁוֹ׃**",
+        "transliteration": "adonai meHekhal **qodsho**",
+        "englishLiteral": "Lord from-temple-of **holiness-his.**",
+        "englishNatural": "Lord from the temple of **his holiness.**"
+      }
     }
   ]
 }

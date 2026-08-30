@@ -402,6 +402,31 @@
         "englishLiteral": "luscious_plant, and-went_up **from-over** to-Dove (Jonah), to-be",
         "englishNatural": "a luscious-plant, and made it go-up **from over** to Dove (Jonah), to be"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "מֵעַל",
+        "transliteration": "meAl",
+        "englishLiteral": "from-over",
+        "englishNatural": "from over",
+        "root": "al",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "מִבֵּית תַּעֲנֻגֶיהָ **מֵעַל** עֹלָלֶיהָ תִּקְחוּ",
+        "transliteration": "miBeit taanugeiha **meAl** olaleiha tiQchu",
+        "englishLiteral": "from-house-of luxuries-her; **from-over** infants-her, you-will-take",
+        "englishNatural": "from the house of her luxuries; **from over** her infants you will take"
+      }
     }
   ]
 }

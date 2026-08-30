@@ -1,0 +1,33 @@
+{
+  "root": "yalal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְאֵילִילָה",
+        "transliteration": "veEililah",
+        "englishLiteral": "and-I-will-howl",
+        "englishNatural": "and I will howl",
+        "root": "yalal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "זֹאת אֶסְפְּדָה **וְאֵילִילָה** אֵילְכָה שׁוֹלָל",
+        "transliteration": "zot espeidah **veEililah** eilekhah sholal",
+        "englishLiteral": "this I-will-lament **and-I-will-howl,** I-will-walk spoiled",
+        "englishNatural": "this I will lament **and I will howl,** I will walk spoiled"
+      }
+    }
+  ]
+}

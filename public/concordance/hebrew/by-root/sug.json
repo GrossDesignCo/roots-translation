@@ -1,0 +1,33 @@
+{
+  "root": "sug",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "יִסַּג",
+        "transliteration": "yiSsag",
+        "englishLiteral": "he-will-be-turned_back",
+        "englishNatural": "will be turned-back",
+        "root": "sug",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "לָאֵלֶּה לֹא **יִסַּג** כְּלִמּוֹת׃",
+        "transliteration": "leEleh lo **yiSsag** kelimot",
+        "englishLiteral": "to-these, not **he-will-be-turned_back** disgraces.",
+        "englishNatural": "to these; disgraces **will be turned-back** not."
+      }
+    }
+  ]
+}

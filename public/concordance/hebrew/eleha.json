@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אֵלֶֽיהָ",
+        "transliteration": "eleha",
+        "englishLiteral": "to-her",
+        "englishNatural": "to her",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֶּחְדַּ֖ל לְדַבֵּ֥ר **אֵלֶֽיהָ׃**",
+        "transliteration": "vatTechdal leDaber **eleha**",
+        "englishLiteral": "and-ceased to-speak **to-her.**",
+        "englishNatural": "and she ceased to speak **to her.**"
+      }
+    },
+    {
+      "location": {
         "book": "Jonah",
         "chapter": 3,
         "verse": 2

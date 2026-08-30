@@ -1,0 +1,34 @@
+{
+  "key": "mugarim",
+  "language": "hebrew",
+  "root": "nagar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "מֻגָּרִים",
+        "transliteration": "mugarim",
+        "englishLiteral": "cascaded",
+        "englishNatural": "cascaded",
+        "root": "nagar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hophal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֵשׁ כְּמַיִם **מֻגָּרִים** בְּמוֹרָד׃",
+        "transliteration": "haEsh keMayim **mugarim** beMorad",
+        "englishLiteral": "the-fire, like-waters **cascaded** in-descent.",
+        "englishNatural": "the fire, like waters **cascaded** in a descent."
+      }
+    }
+  ]
+}

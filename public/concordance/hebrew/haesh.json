@@ -52,6 +52,31 @@
         "englishLiteral": "to-the-fire, and-from- **the-fire** brought_out lightning.",
         "englishNatural": "to the fire, and from **the fire** brought-out lightning."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הָאֵשׁ",
+        "transliteration": "haEsh",
+        "englishLiteral": "the-fire",
+        "englishNatural": "the fire",
+        "root": "esh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כַּדּוֹנַג מִפְּנֵי **הָאֵשׁ** כְּמַיִם מֻגָּרִים",
+        "transliteration": "kaDonag miPney **haEsh** keMayim mugarim",
+        "englishLiteral": "like-wax from-faces-of **the-fire,** like-waters cascaded",
+        "englishNatural": "like wax from the faces of **the fire,** like waters cascaded"
+      }
     }
   ]
 }

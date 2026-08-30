@@ -1,0 +1,32 @@
+{
+  "key": "chevel",
+  "language": "hebrew",
+  "root": "chevel",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "חֶבֶל",
+        "transliteration": "chevel",
+        "englishLiteral": "cord",
+        "englishNatural": "a cord",
+        "root": "chevel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְךָ מַשְׁלִיךְ **חֶבֶל** בְּגוֹרָל בִּקְהַל",
+        "transliteration": "lekha maShlikh **chevel** beGoral biQahal",
+        "englishLiteral": "to-you, one-who-throws **cord** in-lot; in-congregation-of",
+        "englishNatural": "to you, one who throws **a cord** in a lot, in the congregation of"
+      }
+    }
+  ]
+}

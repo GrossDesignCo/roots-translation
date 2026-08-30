@@ -1,0 +1,56 @@
+{
+  "root": "yevimt",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "יְבִמְתֵּ֔ךְ",
+        "transliteration": "yevimtekh",
+        "englishLiteral": "sister_in_law-your",
+        "englishNatural": "your sister-in-law",
+        "root": "yevimt",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הִנֵּה֙ שָׁ֣בָה **יְבִמְתֵּ֔ךְ** אֶל־ עַמָּ֖הּ",
+        "transliteration": "hineh shavah **yevimtekh** el- ammah",
+        "englishLiteral": "\"Behold she-has-returned **sister_in_law-your,** to- people-her",
+        "englishNatural": "And she said, \"Behold, **your sister-in-law** has returned to"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "יְבִמְתֵּֽךְ",
+        "transliteration": "yevimtekh",
+        "englishLiteral": "sister_in_law-your",
+        "englishNatural": "your sister-in-law",
+        "root": "yevimt",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שׁ֖וּבִי אַחֲרֵ֥י **יְבִמְתֵּֽךְ׃**",
+        "transliteration": "shuvi acharei **yevimtekh**",
+        "englishLiteral": "return after **sister_in_law-your.\"**",
+        "englishNatural": "Return after **your sister-in-law.\"**"
+      }
+    }
+  ]
+}

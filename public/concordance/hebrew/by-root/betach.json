@@ -1,0 +1,31 @@
+{
+  "root": "betach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בֶּטַח",
+        "transliteration": "betach",
+        "englishLiteral": "security",
+        "englishNatural": "in security",
+        "root": "betach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תַּפְשִׁטוּן מֵעֹבְרִים **בֶּטַח** שׁוּבֵי מִלְחָמָה׃",
+        "transliteration": "taPshitun meOverim **betach** shuvei milchamah",
+        "englishLiteral": "you-will-strip; from-passing_through-ones **security,** returners-of war.",
+        "englishNatural": "you will strip; from those passing-through **in security,** returners of war."
+      }
+    }
+  ]
+}

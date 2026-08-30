@@ -2,14 +2,12 @@
   "key": "chazah",
   "hebrew": "חזה",
   "transliteration": "chazah",
-  "englishLiteral": "to see",
-  "englishNatural": "to see",
+  "englishLiteral": "to gaze",
+  "englishNatural": "to gaze",
   "type": "verb",
-  "description": "to see, to behold, to gaze, to have a vision (Aramaic)",
+  "description": "to gaze, behold intently; often of prophetic vision; distinct from ראה (to see)",
   "related": [
-    "raah",
-    "machazeh",
-    "khezev"
+    "machazeh"
   ],
   "wordIndexes": {
     "daniel": {
@@ -49,6 +47,13 @@
         ],
         "13": [
           0
+        ]
+      }
+    },
+    "micah": {
+      "1": {
+        "1": [
+          14
         ]
       }
     }

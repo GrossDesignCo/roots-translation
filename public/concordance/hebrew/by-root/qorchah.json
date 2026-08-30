@@ -1,0 +1,31 @@
+{
+  "root": "qorchah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "קָרְחָתֵךְ",
+        "transliteration": "qorchatekh",
+        "englishLiteral": "baldness-your",
+        "englishNatural": "your baldness",
+        "root": "qorchah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תַּעֲנוּגָיִךְ הַרְחִבִי **קָרְחָתֵךְ** כַּנֶּשֶׁר כִּי",
+        "transliteration": "taanugayikh harchivi **qorchatekh** kaNesher ki",
+        "englishLiteral": "luxuries-your; Widen **baldness-your** like-eagle, that",
+        "englishNatural": "your luxuries; Widen **your baldness** like an eagle, that"
+      }
+    }
+  ]
+}

@@ -27,6 +27,81 @@
         "englishLiteral": "king Confusion (Babylon), **Foundation_of_Peace (Jerusalem)** and-he-besieged over-her.",
         "englishNatural": "king of Confusion (Babylon), **to Foundation-of-Peace (Jerusalem),** and he besieged over it."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "יְרוּשָׁלִָם",
+        "transliteration": "Yerushalayim",
+        "englishLiteral": "Foundation_of_Peace (Jerusalem)",
+        "englishNatural": "Foundation-of-Peace (Jerusalem)",
+        "root": "yerushalayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוּדָה הֲלוֹא **יְרוּשָׁלִָם׃**",
+        "transliteration": "Yehudah halo **Yerushalayim**",
+        "englishLiteral": "Praise (Judah), is_it_not **Foundation_of_Peace (Jerusalem).**",
+        "englishNatural": "Praise (Judah)? is it not **Foundation-of-Peace (Jerusalem)?**"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "יְרוּשָׁלִָם",
+        "transliteration": "Yerushalayim",
+        "englishLiteral": "Foundation_of_Peace (Jerusalem)",
+        "englishNatural": "Foundation-of-Peace (Jerusalem)",
+        "root": "yerushalayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַמִּי עַד־ **יְרוּשָׁלִָם׃**",
+        "transliteration": "ammi ad- **Yerushalayim**",
+        "englishLiteral": "people-my, until- **Foundation_of_Peace (Jerusalem).**",
+        "englishNatural": "my people, until **Foundation-of-Peace (Jerusalem).**"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "יְרוּשָׁלִָם",
+        "transliteration": "Yerushalayim",
+        "englishLiteral": "Foundation_of_Peace (Jerusalem)",
+        "englishNatural": "Foundation-of-Peace (Jerusalem)",
+        "root": "yerushalayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה לְשַׁעַר **יְרוּשָׁלִָם׃**",
+        "transliteration": "YHWH leShaar **Yerushalayim**",
+        "englishLiteral": "He_Who_Is (YHWH) to-gate-of **Foundation_of_Peace (Jerusalem).**",
+        "englishNatural": "He-Who-Is (YHWH) to the gate of **Foundation-of-Peace (Jerusalem).**"
+      }
     }
   ]
 }

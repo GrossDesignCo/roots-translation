@@ -1,0 +1,34 @@
+{
+  "key": "venahah",
+  "language": "hebrew",
+  "root": "nahah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְנָהָה",
+        "transliteration": "veNahah",
+        "englishLiteral": "and-he-has-wailed",
+        "englishNatural": "and he will wail",
+        "root": "nahah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עֲלֵיכֶם מָשָׁל **וְנָהָה** נְהִי נִהְיָה",
+        "transliteration": "aleykhem mashal **veNahah** nehi nihyah",
+        "englishLiteral": "over-you parable, **and-he-has-wailed** wailing has-been,",
+        "englishNatural": "over you a parable, **and he will wail** a wailing has been,"
+      }
+    }
+  ]
+}

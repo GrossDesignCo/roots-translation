@@ -1,0 +1,57 @@
+{
+  "key": "mikem",
+  "language": "hebrew",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "מִכֶּ֔ם",
+        "transliteration": "miKem",
+        "englishLiteral": "from-you",
+        "englishNatural": "from you",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לִ֤י מְאֹד֙ **מִכֶּ֔ם** כִּֽי־ יָצְאָ֥ה",
+        "transliteration": "li meod **miKem** ki- yatsah",
+        "englishLiteral": "to-me very **from-you,** that- she-has-brought_out",
+        "englishNatural": "bitter to me **from you,** for the hand of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "מִכֶּם",
+        "transliteration": "miKem",
+        "englishLiteral": "from-you",
+        "englishNatural": "from you",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֵצֶל יִקַּח **מִכֶּם** עֶמְדָּתוֹ׃",
+        "transliteration": "haEtsel yiqach **miKem** emdato",
+        "englishLiteral": "the-Beside (Ezel) he-will-take **from-you** standing-his.",
+        "englishNatural": "the-Beside (Ezel) will take **from you** his standing."
+      }
+    }
+  ]
+}

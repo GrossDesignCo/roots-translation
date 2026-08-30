@@ -1,7 +1,7 @@
 {
   "key": "lakh",
   "language": "hebrew",
-  "root": "lakhem",
+  "root": "le",
   "occurrences": [
     {
       "location": {
@@ -201,6 +201,31 @@
         "transliteration": "haHeitiv charah **lakh**",
         "englishLiteral": "\"the-doing_well, fuming_angrily, **to-you?\"**",
         "englishNatural": "\"Is fuming-angrily the doing-well, **to you?\"**"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לָךְ",
+        "transliteration": "lakh",
+        "englishLiteral": "to-you",
+        "englishNatural": "to you",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַיּוֹרֵשׁ אָבִי **לָךְ** יוֹשֶׁבֶת מָרֵשָׁה",
+        "transliteration": "haYoresh avi **lakh** yoshevet Mareshah",
+        "englishLiteral": "the-inheriting I-will-bring **to-you,** sitting-of Inheritance (Mareshah);",
+        "englishNatural": "I will bring the one inheriting **to you,** sitting one of Inheritance (Mareshah);"
       }
     }
   ]

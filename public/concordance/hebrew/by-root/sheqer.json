@@ -26,6 +26,31 @@
         "englishLiteral": "in-friend-your witness **falsehood.**",
         "englishNatural": "not as a witness of **falsehood** in your friend."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וָשֶׁקֶר",
+        "transliteration": "vaSheqer",
+        "englishLiteral": "and-falsehood",
+        "englishNatural": "and falsehood",
+        "root": "sheqer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֹלֵךְ רוּחַ **וָשֶׁקֶר** כִּזֵּב אַטִּף",
+        "transliteration": "holekh ruach **vaSheqer** kizzev attif",
+        "englishLiteral": "walking Wind **and-falsehood** he-has-falsified, I-will-drip",
+        "englishNatural": "walking Wind **and falsehood** has falsified, I will drip"
+      }
     }
   ]
 }

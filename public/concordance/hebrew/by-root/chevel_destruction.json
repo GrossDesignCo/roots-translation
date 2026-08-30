@@ -1,0 +1,31 @@
+{
+  "root": "chevel_destruction",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וְחֶבֶל",
+        "transliteration": "veChevel",
+        "englishLiteral": "and-destruction",
+        "englishNatural": "destruction",
+        "root": "chevel_destruction",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "טָמְאָה תְּחַבֵּל **וְחֶבֶל** נִמְרָץ׃",
+        "transliteration": "tameah teChabel **veChevel** nimrats",
+        "englishLiteral": "unclean, she-will-destroy, **and-destruction** grievous.",
+        "englishNatural": "she will destroy, and a grievous **destruction.**"
+      }
+    }
+  ]
+}

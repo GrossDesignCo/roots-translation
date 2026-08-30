@@ -1,0 +1,33 @@
+{
+  "root": "pashat",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "תַּפְשִׁטוּן",
+        "transliteration": "taPshitun",
+        "englishLiteral": "you-will-strip",
+        "englishNatural": "you will strip",
+        "root": "pashat",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "שַׂלְמָה אֶדֶר **תַּפְשִׁטוּן** מֵעֹבְרִים בֶּטַח",
+        "transliteration": "salmah eder **taPshitun** meOverim betach",
+        "englishLiteral": "cloak, mantle **you-will-strip;** from-passing_through-ones security,",
+        "englishNatural": "a cloak, a mantle **you will strip;** from those passing-through in security,"
+      }
+    }
+  ]
+}

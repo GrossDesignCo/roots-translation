@@ -1,0 +1,33 @@
+{
+  "root": "gazal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וְגָזָלוּ",
+        "transliteration": "veGazalu",
+        "englishLiteral": "and-they-have-robbed",
+        "englishNatural": "and they have robbed",
+        "root": "gazal",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְחָמְדוּ שָׂדוֹת **וְגָזָלוּ** וּבָתִּים וְנָשָׂאוּ",
+        "transliteration": "veChamdu sadot **veGazalu** uBatim veNasau",
+        "englishLiteral": "And-they-have-desired fields **and-they-have-robbed,** and-houses and-they-have-lifted_up;",
+        "englishNatural": "And they have desired fields **and they have robbed,** and houses and they have lifted-up;"
+      }
+    }
+  ]
+}

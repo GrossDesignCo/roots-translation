@@ -1,0 +1,32 @@
+{
+  "key": "leeleh",
+  "language": "hebrew",
+  "root": "eleh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "לָאֵלֶּה",
+        "transliteration": "leEleh",
+        "englishLiteral": "to-these",
+        "englishNatural": "to these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ יַטִּפוּ **לָאֵלֶּה** לֹא יִסַּג",
+        "transliteration": "lo- yaTtifu **leEleh** lo yiSsag",
+        "englishLiteral": "not- they-will-drip **to-these,** not he-will-be-turned_back",
+        "englishNatural": "they will drip not **to these;** disgraces will be turned-back"
+      }
+    }
+  ]
+}

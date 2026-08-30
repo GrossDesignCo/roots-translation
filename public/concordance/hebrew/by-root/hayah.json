@@ -3271,6 +3271,114 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וְהָי֥וּ",
+        "transliteration": "veHayu",
+        "englishLiteral": "and-will-be",
+        "englishNatural": "and would they be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בָנִים֙ בְּֽמֵעַ֔י **וְהָי֥וּ** לָכֶ֖ם לַאֲנָשִֽׁים׃",
+        "transliteration": "banim beMeai **veHayu** lakhem laAnashim",
+        "englishLiteral": "sons in-belly-my, **and-will-be** to-you to-men.",
+        "englishNatural": "sons in my belly, **and would they be** to you men?\""
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "מִהְי֣וֹת",
+        "transliteration": "miHiyot",
+        "englishLiteral": "from-to_be",
+        "englishNatural": "from being",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּ֥י זָקַ֖נְתִּי **מִהְי֣וֹת** לְאִ֑ישׁ כִּ֤י",
+        "transliteration": "ki zaqanti **miHiyot** leIsh ki",
+        "englishLiteral": "that I-have-grown_old **from-to_be** to-man; that",
+        "englishNatural": "that I have grown old **from being** to a man; that"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "הָיִ֤יתִי",
+        "transliteration": "hayiti",
+        "englishLiteral": "I-have-been",
+        "englishNatural": "I have been",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תִקְוָ֔ה גַּ֣ם **הָיִ֤יתִי** הַלַּ֙יְלָה֙ לְאִ֔ישׁ",
+        "transliteration": "tikvah gam **hayiti** haLaylah leIsh",
+        "englishLiteral": "hope, also **I-have-been** the-night to-man,",
+        "englishNatural": "hope, also **I have been** the night to a man,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הֱיוֹת",
+        "transliteration": "hiYot",
+        "englishLiteral": "to-be",
+        "englishNatural": "being",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תֵּעָגֵ֔נָה לְבִלְתִּ֖י **הֱיוֹת** לְאִ֑ישׁ אַ֣ל",
+        "transliteration": "teagenah leBilti **hiYot** leIsh al",
+        "englishLiteral": "you-will-be-bound to-not **to-be** to-man; not",
+        "englishNatural": "for them without **being** to a man? No,"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 1
@@ -3859,8 +3967,8 @@
       "context": {
         "hebrew": "אֶת־ יוֹנָה **וַיְהִי** יוֹנָה בִּמְעֵי",
         "transliteration": "et- Yonah **vaYehi** Yonah bimei",
-        "englishLiteral": "↳ Dove (Jonah); **And-was** Dove (Jonah) in-bowels-of",
-        "englishNatural": "Dove (Jonah); And Dove (Jonah) **was** in the bowels of the fish"
+        "englishLiteral": "↳ Dove (Jonah); **And-was** Dove (Jonah) in-belly-of",
+        "englishNatural": "Dove (Jonah); And Dove (Jonah) **was** in the belly of the fish"
       }
     },
     {
@@ -4125,6 +4233,141 @@
         "transliteration": "shebin- laylah **hayah** uvin- laylah",
         "englishLiteral": "yet-son-of- night **was** and-son-of- night",
         "englishNatural": "yet son of a night **it was** and son of a night"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הָיָה",
+        "transliteration": "hayah",
+        "englishLiteral": "was",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה אֲשֶׁר **הָיָה** אֶל־ מִיכָה",
+        "transliteration": "YHWH asher **hayah** el- Mikhah",
+        "englishLiteral": "He_Who_Is (YHWH) which **was** to- Who_Is_Like_He (Micah)",
+        "englishNatural": "He-Who-Is (YHWH) which **was** to Who-Is-Like-He (Micah)"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וִיהִי",
+        "transliteration": "viYehi",
+        "englishLiteral": "and-let-be",
+        "englishNatural": "be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶרֶץ וּמְלֹאָהּ **וִיהִי** אֲדֹנָי יְהוִה",
+        "transliteration": "eretz uMeloah **viYehi** adonai YHWH",
+        "englishLiteral": "earth and-fullness-her; **and-let-be** Lord He_Who_Is (YHWH)",
+        "englishNatural": "and let Lord He-Who-Is (YHWH) **be** in you to a witness,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "נִהְיָה",
+        "transliteration": "nihyah",
+        "englishLiteral": "has-been",
+        "englishNatural": "has been",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "וְנָהָה נְהִי **נִהְיָה** אָמַר שָׁדוֹד",
+        "transliteration": "veNahah nehi **nihyah** amar shadod",
+        "englishLiteral": "and-he-has-wailed wailing **has-been,** he-has-said, \"Devastating,",
+        "englishNatural": "and he will wail a wailing **has been,** he has said, \"Devastating,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יִהְיֶה",
+        "transliteration": "yihyeh",
+        "englishLiteral": "he-will-be",
+        "englishNatural": "there will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֵן לֹא־ **יִהְיֶה** לְךָ מַשְׁלִיךְ",
+        "transliteration": "lakhen lo- **yihyeh** lekha maShlikh",
+        "englishLiteral": "therefore not- **he-will-be** to-you, one-who-throws",
+        "englishNatural": "Therefore **there will be** not to you,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וְהָיָה",
+        "transliteration": "veHayah",
+        "englishLiteral": "and-he-has-been",
+        "englishNatural": "and he will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לַיַּיִן וְלַשֵּׁכָר **וְהָיָה** מַטִּיף הָעָם",
+        "transliteration": "laYayin veLaShekhar **veHayah** maTtif haAm",
+        "englishLiteral": "to-the-wine and-to-the-strong_drink; **and-he-has-been** dripping the-people",
+        "englishNatural": "to the wine and to the strong-drink; **and he will be** the dripping of this"
       }
     }
   ]

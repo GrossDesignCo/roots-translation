@@ -404,6 +404,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְשָׁם",
+        "transliteration": "veSham",
+        "englishLiteral": "and-there",
+        "englishNatural": "and there",
+        "root": "sham",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "תָּמוּתִי אָמוּת **וְשָׁם** אֶקָּבֵר כֹּה",
+        "transliteration": "tamuti amut **veSham** eqaver koh",
+        "englishLiteral": "you-will-die, I-will-die, **and-there** I-will-be-buried; thus",
+        "englishNatural": "you will die, I will die, **and there** I will be buried; thus"
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 8,
         "verse": 27
@@ -500,6 +525,31 @@
         "transliteration": "vaYaas lo **sham** sukkah vaYeshev",
         "englishLiteral": "and-made to-him **there** booth and-sat",
         "englishNatural": "and made for him **there** a booth and sat"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "מִשָּׁם",
+        "transliteration": "miSham",
+        "englishLiteral": "from-there",
+        "englishNatural": "from there",
+        "root": "sham",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ תָמִישׁוּ **מִשָּׁם** צַוְּארֹתֵיכֶם וְלֹא",
+        "transliteration": "lo- tamishu **miSham** tzavroteikhem veLo",
+        "englishLiteral": "not- you-will-displace **from-there** necks-your, and-not",
+        "englishNatural": "you will displace not **from there** your necks, and you will walk"
       }
     }
   ]

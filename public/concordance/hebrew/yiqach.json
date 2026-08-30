@@ -1,0 +1,34 @@
+{
+  "key": "yiqach",
+  "language": "hebrew",
+  "root": "laqach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "יִקַּח",
+        "transliteration": "yiqach",
+        "englishLiteral": "he-will-take",
+        "englishNatural": "will take",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּית הָאֵצֶל **יִקַּח** מִכֶּם עֶמְדָּתוֹ׃",
+        "transliteration": "beit haEtsel **yiqach** miKem emdato",
+        "englishLiteral": "house-of the-Beside (Ezel) **he-will-take** from-you standing-his.",
+        "englishNatural": "the house of the-Beside (Ezel) **will take** from you his standing."
+      }
+    }
+  ]
+}

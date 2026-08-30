@@ -1,0 +1,34 @@
+{
+  "key": "vagozzi",
+  "language": "hebrew",
+  "root": "gazaz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "וָגֹזִּי",
+        "transliteration": "vaGozzi",
+        "englishLiteral": "and-shear",
+        "englishNatural": "and shear",
+        "root": "gazaz",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "קָרְחִי **וָגֹזִּי** עַל־ בְּנֵי",
+        "transliteration": "qarchi **vaGozzi** al- benei",
+        "englishLiteral": "Make_bald **and-shear,** over- sons-of",
+        "englishNatural": "Make bald **and shear,** over the sons of"
+      }
+    }
+  ]
+}

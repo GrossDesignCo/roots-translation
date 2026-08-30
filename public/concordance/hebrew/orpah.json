@@ -27,6 +27,31 @@
         "englishLiteral": "name-of the-one **Neck (Orpah)** and-name-of the-second",
         "englishNatural": "the name of the one **Neck (Orpah)** and the name of the second"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "עָרְפָּה֙",
+        "transliteration": "Orpah",
+        "englishLiteral": "Neck (Orpah)",
+        "englishNatural": "And Neck (Orpah)",
+        "root": "orpah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ע֑וֹד וַתִּשַּׁ֤ק **עָרְפָּה֙** לַחֲמוֹתָ֔הּ וְר֖וּת",
+        "transliteration": "od vatTishaq **Orpah** laChamotah veRut",
+        "englishLiteral": "again; and-kissed **Neck (Orpah)** to-mother-in-law-her; and-Friend (Ruth)",
+        "englishNatural": "and wept again: **And Neck (Orpah)** kissed to her mother-in-law;"
+      }
     }
   ]
 }

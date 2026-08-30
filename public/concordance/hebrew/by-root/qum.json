@@ -460,6 +460,60 @@
         "englishLiteral": "king-of Dwelling_of_Fish (Nineveh), **and-stood_up** from-throne-his, and-passed_through",
         "englishNatural": "the king of Dwelling-of-Fish (Nineveh), **and he stood-up** from his throne, and he passed-through"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "יְקוֹמֵם",
+        "transliteration": "yeQomem",
+        "englishLiteral": "he-will-stand_up",
+        "englishNatural": "will stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "polel"
+        }
+      },
+      "context": {
+        "hebrew": "עַמִּי לְאוֹיֵב **יְקוֹמֵם** מִמּוּל שַׂלְמָה",
+        "transliteration": "ammi leOyev **yeQomem** miMul salmah",
+        "englishLiteral": "people-my to-enemy **he-will-stand_up,** from-front-of cloak,",
+        "englishNatural": "my people to an enemy **will stand-up,** from front of a cloak,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "קוּמוּ",
+        "transliteration": "qumu",
+        "englishLiteral": "Stand_up",
+        "englishNatural": "Stand-up",
+        "root": "qum",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**קוּמוּ** וּלְכוּ כִּי",
+        "transliteration": "**qumu** uLekhu ki",
+        "englishLiteral": "**Stand_up** and-go, that",
+        "englishNatural": "**Stand-up** and go, that"
+      }
     }
   ]
 }

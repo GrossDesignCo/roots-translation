@@ -1,0 +1,31 @@
+{
+  "root": "milchamah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "מִלְחָמָה",
+        "transliteration": "milchamah",
+        "englishLiteral": "war",
+        "englishNatural": "war",
+        "root": "milchamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֶּטַח שׁוּבֵי **מִלְחָמָה׃**",
+        "transliteration": "betach shuvei **milchamah**",
+        "englishLiteral": "security, returners-of **war.**",
+        "englishNatural": "in security, returners of **war.**"
+      }
+    }
+  ]
+}

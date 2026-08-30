@@ -1,0 +1,32 @@
+{
+  "key": "aven",
+  "language": "hebrew",
+  "root": "aven",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אָ֛וֶן",
+        "transliteration": "aven",
+        "englishLiteral": "trouble",
+        "englishNatural": "trouble",
+        "root": "aven",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "ה֧וֹי חֹֽשְׁבֵי־ **אָ֛וֶן** וּפֹ֥עֲלֵי רָ֖ע",
+        "transliteration": "hoy choshvei- **aven** uPoalei ra",
+        "englishLiteral": "Ho planners-of **trouble** and-workers-of bad,",
+        "englishNatural": "Ho planners of **trouble** and workers of bad,"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "key": "hitpalashi",
+  "language": "hebrew",
+  "root": "palash",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הִתְפַּלָּשִׁי",
+        "transliteration": "hitPalashi",
+        "englishLiteral": "wallow-yourself",
+        "englishNatural": "wallow yourself",
+        "root": "palash",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "hithpael"
+        }
+      },
+      "context": {
+        "hebrew": "לְעַפְרָה עָפָר **הִתְפַּלָּשִׁי׃**",
+        "transliteration": "leAphrah afar **hitPalashi**",
+        "englishLiteral": "to-Dust (Aphrah), dust **wallow-yourself.**",
+        "englishNatural": "to Dust (Aphrah), dust, **wallow yourself.**"
+      }
+    }
+  ]
+}

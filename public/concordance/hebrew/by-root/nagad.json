@@ -82,6 +82,33 @@
         "englishLiteral": "fleeing, that **he-declared** to-them.",
         "englishNatural": "was fleeing, that **he had declared** to them."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "תַּגִּידוּ",
+        "transliteration": "taGgidu",
+        "englishLiteral": "you-will-declare",
+        "englishNatural": "you will declare",
+        "root": "nagad",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "בְּגַת אַל־ **תַּגִּידוּ** בָּכוֹ אַל־",
+        "transliteration": "beGat al- **taGgidu** bakho al-",
+        "englishLiteral": "in-Winepress (Gath), not- **you-will-declare;** weeping, not-",
+        "englishNatural": "In Winepress (Gath) **you will declare** not; weeping,"
+      }
     }
   ]
 }

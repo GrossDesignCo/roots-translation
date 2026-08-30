@@ -451,6 +451,81 @@
         "englishLiteral": "in-Dwelling_of_Fish (Nineveh), from-decree-of **the-king** and-greats-his, to-say,",
         "englishNatural": "in Dwelling-of-Fish (Nineveh), from the decree of **the king** and his greats, to say,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "מַלְכֵי",
+        "transliteration": "malkhey",
+        "englishLiteral": "kings-of",
+        "englishNatural": "kings of",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אָחָז יְחִזְקִיָּה **מַלְכֵי** יְהוּדָה אֲשֶׁר־",
+        "transliteration": "Achaz Yechizqiyyah **malkhey** Yehudah asher-",
+        "englishLiteral": "Seized (Ahaz) He_Intensifies (Hezekiah) **kings-of** Praise (Judah); which-",
+        "englishNatural": "Seized (Ahaz), He-Intensifies (Hezekiah), **kings of** Praise (Judah); which"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "לְמַלְכֵי",
+        "transliteration": "leMalkhey",
+        "englishLiteral": "to-kings-of",
+        "englishNatural": "to the kings of",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַכְזִיב לְאַכְזָב **לְמַלְכֵי** יִשְׂרָאֵל׃",
+        "transliteration": "Akhziv leAkhzav **leMalkhey** Yisrael",
+        "englishLiteral": "Lie (Achzib) to-lie, **to-kings-of** Struggles_with_God (Israel).",
+        "englishNatural": "Lie (Achzib) to a lie, **to the kings of** Struggles-with-God (Israel)."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "מַלְכָּם",
+        "transliteration": "malkam",
+        "englishLiteral": "king-their",
+        "englishNatural": "and their king",
+        "root": "melekh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בּוֹ וַיַּעֲבֹר **מַלְכָּם** לִפְנֵיהֶם וַיהוָה",
+        "transliteration": "bo vaYaavor **malkam** liFneihem vaYHWH",
+        "englishLiteral": "in-it; and-he-will-pass_through **king-their** to-faces-their, and-He_Who_Is (YHWH)",
+        "englishNatural": "and they will go-out in it; **and their king** will pass-through to their faces,"
+      }
     }
   ]
 }

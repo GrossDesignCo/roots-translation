@@ -1,0 +1,34 @@
+{
+  "key": "vedarakh",
+  "language": "hebrew",
+  "root": "darakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְדָרַךְ",
+        "transliteration": "veDarakh",
+        "englishLiteral": "and-he-has-trodden",
+        "englishNatural": "and tread",
+        "root": "darakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מִמְּקוֹמוֹ וְיָרַד **וְדָרַךְ** עַל־ בָּמֳתֵי",
+        "transliteration": "miMeqomo veYarad **veDarakh** al- bamotei",
+        "englishLiteral": "from-place-his; and-he-has-gone_down **and-he-has-trodden** over- high_places-of",
+        "englishNatural": "from his place; and he will go-down **and tread** over the high-places of"
+      }
+    }
+  ]
+}

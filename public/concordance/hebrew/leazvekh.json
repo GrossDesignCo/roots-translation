@@ -1,0 +1,34 @@
+{
+  "key": "leazvekh",
+  "language": "hebrew",
+  "root": "azav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "לְעׇזְבֵךְ",
+        "transliteration": "leAzvekh",
+        "englishLiteral": "to-leave-you",
+        "englishNatural": "to leave you",
+        "root": "azav",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "תִּפְגְּעִי־ בִי **לְעׇזְבֵךְ** לָשׁוּב מֵאַחֲרָיִךְ",
+        "transliteration": "tipgei- vi **leAzvekh** laShuv meAcharayikh",
+        "englishLiteral": "you-will-encounter in-me **to-leave-you** to-return from-after-you,",
+        "englishNatural": "me not **to leave you,** to return from after you,"
+      }
+    }
+  ]
+}

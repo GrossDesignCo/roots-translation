@@ -1,0 +1,32 @@
+{
+  "key": "nehi",
+  "language": "hebrew",
+  "root": "nehi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "נְהִי",
+        "transliteration": "nehi",
+        "englishLiteral": "wailing",
+        "englishNatural": "a wailing",
+        "root": "nehi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מָשָׁל וְנָהָה **נְהִי** נִהְיָה אָמַר",
+        "transliteration": "mashal veNahah **nehi** nihyah amar",
+        "englishLiteral": "parable, and-he-has-wailed **wailing** has-been, he-has-said,",
+        "englishNatural": "a parable, and he will wail **a wailing** has been, he has said,"
+      }
+    }
+  ]
+}

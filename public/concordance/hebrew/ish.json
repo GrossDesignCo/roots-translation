@@ -449,8 +449,8 @@
       "context": {
         "hebrew": "וַיָּ֥מָת אֱלִימֶ֖לֶךְ **אִ֣ישׁ** נָעֳמִ֑י וַתִּשָּׁאֵ֥ר",
         "transliteration": "vaYamat Elimelekh **ish** Naomi vatTishare",
-        "englishLiteral": "And-died My_God_King (Elimelech) **man-of** Pleasant_My (Naomi); and-was-left",
-        "englishNatural": "And My-God-King (Elimelech) **the man of** My-Pleasant (Naomi) died,"
+        "englishLiteral": "And-died God_My_King (Elimelech) **man-of** Pleasant_My (Naomi); and-was-left",
+        "englishNatural": "And God-My-King (Elimelech) **the man of** My-Pleasant (Naomi) died,"
       }
     },
     {
@@ -651,6 +651,31 @@
         "transliteration": "beChazqah veYashuvu **ish** midarko haRaah",
         "englishLiteral": "in-intensity; and-return **man** from-way-his the-bad",
         "englishNatural": "in intensity; and return **man** from the bad of his way"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אִישׁ",
+        "transliteration": "ish",
+        "englishLiteral": "man",
+        "englishNatural": "a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לוּ־ **אִישׁ** הֹלֵךְ רוּחַ",
+        "transliteration": "lu- **ish** holekh ruach",
+        "englishLiteral": "if_only- **man** walking Wind",
+        "englishNatural": "If only **a man** walking Wind"
       }
     }
   ]

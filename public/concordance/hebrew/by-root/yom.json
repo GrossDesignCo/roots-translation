@@ -2051,6 +2051,56 @@
         "englishLiteral": "\"yet forty **day,** and-Dwelling_of_Fish (Nineveh) overturned.\"",
         "englishNatural": "\"Yet forty **days,** and Dwelling-of-Fish (Nineveh) overturned.\""
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בִּימֵי",
+        "transliteration": "biYmey",
+        "englishLiteral": "in-days-of",
+        "englishNatural": "in the days of",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִיכָה הַמֹּרַשְׁתִּי **בִּימֵי** יוֹתָם אָחָז",
+        "transliteration": "Mikhah haMorashti **biYmey** Yotam Achaz",
+        "englishLiteral": "Who_Is_Like_He (Micah) the-Possessionite (Morashtite) **in-days-of** He_Is_Whole (Jotham) Seized (Ahaz)",
+        "englishNatural": "Who-Is-Like-He (Micah) the Possessionite (Morashtite), **in the days of** He-Is-Whole (Jotham), Seized (Ahaz),"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "בַּיּוֹם",
+        "transliteration": "baYom",
+        "englishLiteral": "In-day",
+        "englishNatural": "In the day",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בַּיּוֹם** הַהוּא יִשָּׂא",
+        "transliteration": "**baYom** haHu yissa",
+        "englishLiteral": "**In-day** the-that he-will-lift_up",
+        "englishNatural": "**In the day** that he will lift-up"
+      }
     }
   ]
 }

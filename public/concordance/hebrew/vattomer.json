@@ -56,6 +56,87 @@
         "englishLiteral": "**And-said** Pleasant_My (Naomi) to-two-of",
         "englishNatural": "And My-Pleasant (Naomi) **said** to the two of her daughters-in-law,"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַתֹּ֤אמֶר",
+        "transliteration": "vatTomer",
+        "englishLiteral": "And-said",
+        "englishNatural": "said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתֹּ֤אמֶר** נָעֳמִי֙ שֹׁ֣בְנָה",
+        "transliteration": "**vatTomer** Naomi shovnah",
+        "englishLiteral": "**And-said** Pleasant_My (Naomi) \"return",
+        "englishNatural": "And My-Pleasant (Naomi) **said,** \"Return, my daughters,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַתֹּ֗אמֶר",
+        "transliteration": "vatTomer",
+        "englishLiteral": "And-said",
+        "englishNatural": "And she said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתֹּ֗אמֶר** הִנֵּה֙ שָׁ֣בָה",
+        "transliteration": "**vatTomer** hineh shavah",
+        "englishLiteral": "**And-said,** \"Behold she-has-returned",
+        "englishNatural": "**And she said,** \"Behold, your sister-in-law"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַתֹּאמֶר",
+        "transliteration": "vatTomer",
+        "englishLiteral": "And-said",
+        "englishNatural": "said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתֹּאמֶר** רוּת אַל־",
+        "transliteration": "**vatTomer** Rut al-",
+        "englishLiteral": "**And-said,** Friend (Ruth) \"not-",
+        "englishNatural": "And Friend (Ruth) **said,** \"You will encounter me"
+      }
     }
   ]
 }

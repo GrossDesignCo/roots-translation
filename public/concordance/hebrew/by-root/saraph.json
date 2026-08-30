@@ -78,6 +78,33 @@
         "englishLiteral": "one from **the-incinerating_ones** and-in-his-hand live_coal",
         "englishNatural": "one from **the incinerating-ones** and in his hand a live-coal"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "יִשָּׂרְפוּ",
+        "transliteration": "yissarefu",
+        "englishLiteral": "they-will-be-incinerated",
+        "englishNatural": "will be incinerated",
+        "root": "saraph",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ אֶתְנַנֶּיהָ **יִשָּׂרְפוּ** בָאֵשׁ וְכָל־",
+        "transliteration": "veKhol- etnaneiha **yissarefu** baEsh veKhol-",
+        "englishLiteral": "and-all- hires-her **they-will-be-incinerated** in-the-fire, and-all-",
+        "englishNatural": "and all her hires **will be incinerated** in the fire, and all"
+      }
     }
   ]
 }

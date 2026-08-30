@@ -1,0 +1,32 @@
+{
+  "key": "moreshet",
+  "language": "hebrew",
+  "root": "moreshet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "מוֹרֶשֶׁת",
+        "transliteration": "Moreshet",
+        "englishLiteral": "Possession (Moresheth)",
+        "englishNatural": "Possession (Moresheth)",
+        "root": "moreshet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שִׁלּוּחִים עַל **מוֹרֶשֶׁת** גַּת בָּתֵּי",
+        "transliteration": "shilluchim al **Moreshet** Gat batei",
+        "englishLiteral": "send_offs, over **Possession (Moresheth)** Winepress (Gath); houses-of",
+        "englishNatural": "send-offs, over **Possession (Moresheth)** Winepress (Gath); the houses of"
+      }
+    }
+  ]
+}

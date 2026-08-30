@@ -551,6 +551,206 @@
         "englishLiteral": "↳ the-vessels **house** treasure Gods-his.",
         "englishNatural": "↳ the vessels **to the house** of treasure of his God."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בֵּית",
+        "transliteration": "beit",
+        "englishLiteral": "house-of",
+        "englishNatural": "the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זֹאת וּבְחַטֹּאות **בֵּית** יִשְׂרָאֵל מִי־",
+        "transliteration": "zot uvChattot **beit** Yisrael mi-",
+        "englishLiteral": "this, and-in-sins-of **house-of** Struggles_with_God (Israel); who-",
+        "englishNatural": "this, and in the sins of **the house of** Struggles-with-God (Israel); who"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בְּבֵית",
+        "transliteration": "beBeit",
+        "englishLiteral": "in-house-of",
+        "englishNatural": "in the house",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תִּבְכּוּ **בְּבֵית** לְעַפְרָה עָפָר",
+        "transliteration": "al- tiVkhu **beBeit** leAphrah afar",
+        "englishLiteral": "not- you-will-weep; **in-house-of** to-Dust (Aphrah), dust",
+        "englishNatural": "you will weep not; **in the house** to Dust (Aphrah), dust,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "בֵּית",
+        "transliteration": "beit",
+        "englishLiteral": "house-of",
+        "englishNatural": "the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "צַאֲנָן מִסְפַּד **בֵּית** הָאֵצֶל יִקַּח",
+        "transliteration": "Tsaanan mispad **beit** haEtsel yiqach",
+        "englishLiteral": "Sheepfold (Zaanan); lamentation-of **house-of** the-Beside (Ezel) he-will-take",
+        "englishNatural": "not; the lamentation of **the house of** the-Beside (Ezel) will take"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בָּתֵּי",
+        "transliteration": "batei",
+        "englishLiteral": "houses-of",
+        "englishNatural": "the houses of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מוֹרֶשֶׁת גַּת **בָּתֵּי** אַכְזִיב לְאַכְזָב",
+        "transliteration": "Moreshet Gat **batei** Akhziv leAkhzav",
+        "englishLiteral": "Possession (Moresheth) Winepress (Gath); **houses-of** Lie (Achzib) to-lie,",
+        "englishNatural": "Possession (Moresheth) Winepress (Gath); **the houses of** Lie (Achzib) to a lie,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וּבָתִּים",
+        "transliteration": "uBatim",
+        "englishLiteral": "and-houses",
+        "englishNatural": "and houses",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׂדוֹת וְגָזָלוּ **וּבָתִּים** וְנָשָׂאוּ וְעָשְׁקוּ",
+        "transliteration": "sadot veGazalu **uBatim** veNasau veAshequ",
+        "englishLiteral": "fields and-they-have-robbed, **and-houses** and-they-have-lifted_up; and-they-have-oppressed",
+        "englishNatural": "fields and they have robbed, **and houses** and they have lifted-up; and they have oppressed"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וּבֵיתוֹ",
+        "transliteration": "uBeito",
+        "englishLiteral": "and-house-his",
+        "englishNatural": "and his house",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְעָשְׁקוּ גֶּבֶר **וּבֵיתוֹ** וְאִישׁ וְנַחֲלָתוֹ׃",
+        "transliteration": "veAshequ gever **uBeito** veIsh veNachalato",
+        "englishLiteral": "and-they-have-oppressed strong_man **and-house-his,** and-man and-inheritance-his.",
+        "englishNatural": "and they have oppressed a strong-man **and his house,** and a man and his inheritance."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בֵּית־",
+        "transliteration": "beit-",
+        "englishLiteral": "house-of",
+        "englishNatural": "the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֶאָמוּר **בֵּית־** יַעֲקֹב הֲקָצַר",
+        "transliteration": "heAmur **beit-** Yaaqov haQatsar",
+        "englishLiteral": "the-said **house-of** Heel_Grasper (Jacob), whether-has-been-short",
+        "englishNatural": "Said, **the house of** Heel-Grasper (Jacob), is the Wind of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "מִבֵּית",
+        "transliteration": "miBeit",
+        "englishLiteral": "from-house-of",
+        "englishNatural": "from the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַמִּי תְּגָרְשׁוּן **מִבֵּית** תַּעֲנֻגֶיהָ מֵעַל",
+        "transliteration": "ammi teGarshun **miBeit** taanugeiha meAl",
+        "englishLiteral": "people-my you-will-banish, **from-house-of** luxuries-her; from-over",
+        "englishNatural": "my people you will banish **from the house of** her luxuries; from over"
+      }
     }
   ]
 }

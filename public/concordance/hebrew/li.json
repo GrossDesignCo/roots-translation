@@ -1,7 +1,7 @@
 {
   "key": "li",
   "language": "hebrew",
-  "root": "li",
+  "root": "le",
   "occurrences": [
     {
       "location": {
@@ -229,6 +229,106 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "לִ֤י",
+        "transliteration": "li",
+        "englishLiteral": "to-me",
+        "englishNatural": "to me",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "עִמִּ֑י הַעֽוֹד־ **לִ֤י** בָנִים֙ בְּֽמֵעַ֔י",
+        "transliteration": "immi haOd- **li** banim beMeai",
+        "englishLiteral": "with-me; the-again **to-me** sons in-belly-my,",
+        "englishNatural": "with me; are there again **to me** sons in my belly,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "לִ֣י",
+        "transliteration": "li",
+        "englishLiteral": "to-me",
+        "englishNatural": "to me",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אָמַ֙רְתִּי֙ יֶשׁ־ **לִ֣י** תִקְוָ֔ה גַּ֣ם",
+        "transliteration": "amarti yesh- **li** tikvah gam",
+        "englishLiteral": "I-have-said there_is- **to-me** hope, also",
+        "englishNatural": "I have said, there-is **to me** hope, also"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "לִ֤י",
+        "transliteration": "li",
+        "englishLiteral": "to-me",
+        "englishNatural": "to me",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כִּֽי־ מַר־ **לִ֤י** מְאֹד֙ מִכֶּ֔ם",
+        "transliteration": "ki- mar- **li** meod miKem",
+        "englishLiteral": "that- bitter- **to-me** very from-you,",
+        "englishNatural": "very bitter **to me** from you, for"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "לִי",
+        "transliteration": "li",
+        "englishLiteral": "to-me",
+        "englishNatural": "to me",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יַעֲשֶׂה יְהוָה **לִי** וְכֹה יוֹסִיף",
+        "transliteration": "yaaseh YHWH **li** veKoh yosif",
+        "englishLiteral": "he-will-do He_Who_Is (YHWH) **to-me,** and-thus he-will-add,",
+        "englishNatural": "He-Who-Is (YHWH) will do **to me,** and thus he will add,"
+      }
+    },
+    {
+      "location": {
         "book": "Isaiah",
         "chapter": 6,
         "verse": 5
@@ -300,6 +400,31 @@
         "transliteration": "heitiv charah- **li** ad- mavet",
         "englishLiteral": "\"doing_well fuming_angrily- **to-me,** unto- death.\"",
         "englishNatural": "\"Doing-well is fuming-angrily **to me,** unto death.\""
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "לִי",
+        "transliteration": "li",
+        "englishLiteral": "to-me",
+        "englishNatural": "to me",
+        "root": "le",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֵיךְ יָמִישׁ **לִי** לְשׁוֹבֵב שָׂדֵינוּ",
+        "transliteration": "eikh yamish **li** leShovev sadeinu",
+        "englishLiteral": "how he-will-displace **to-me,** to-returning fields-our",
+        "englishNatural": "how he will displace **to me!** to returning our fields"
       }
     }
   ]

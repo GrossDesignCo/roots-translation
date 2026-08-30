@@ -218,6 +218,60 @@
         "englishLiteral": "That thus **has-said** Lord He_Who_Is (YHWH),",
         "englishNatural": "That thus **has said** the Lord He-Who-Is (YHWH),"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אָמַר",
+        "transliteration": "amar",
+        "englishLiteral": "said",
+        "englishNatural": "has said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֵן כֹּה **אָמַר** יְהוָה הִנְנִי",
+        "transliteration": "lakhen koh **amar** YHWH hineni",
+        "englishLiteral": "therefore thus **said** He_Who_Is (YHWH), \"behold_me",
+        "englishNatural": "Therefore thus **has said** He-Who-Is (YHWH), \"Behold-me,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אָמַר",
+        "transliteration": "amar",
+        "englishLiteral": "he-has-said",
+        "englishNatural": "he has said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נְהִי נִהְיָה **אָמַר** שָׁדוֹד נְשַׁדֻּנוּ",
+        "transliteration": "nehi nihyah **amar** shadod neshadunu",
+        "englishLiteral": "wailing has-been, **he-has-said,** \"Devastating, we-have-been-devastated,",
+        "englishNatural": "a wailing has been, **he has said,** \"Devastating, we have been devastated;"
+      }
     }
   ]
 }

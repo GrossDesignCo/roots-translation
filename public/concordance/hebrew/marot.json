@@ -1,7 +1,7 @@
 {
   "key": "marot",
   "language": "hebrew",
-  "root": "mareh",
+  "root": "marot",
   "occurrences": [
     {
       "location": {
@@ -26,6 +26,31 @@
         "transliteration": "haShamayim vaEreh **marot** elohim",
         "englishLiteral": "the-skies, and-I-saw **visions-of** Gods.",
         "englishNatural": "were opened, and I saw **visions of** God."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "מָרוֹת",
+        "transliteration": "Marot",
+        "englishLiteral": "Bitternesses (Maroth)",
+        "englishNatural": "Bitternesses (Maroth)",
+        "root": "marot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְטוֹב יוֹשֶׁבֶת **מָרוֹת** כִּי־ יָרַד",
+        "transliteration": "leTov yoshevet **Marot** ki- yarad",
+        "englishLiteral": "to-good sitting-of **Bitternesses (Maroth);** that- he-has-gone_down",
+        "englishNatural": "that the sitting of **Bitternesses (Maroth)** has been sick to good;"
       }
     }
   ]

@@ -1751,6 +1751,81 @@
         "englishLiteral": "the-men, that- **from-faces-of** He_Who_Is (YHWH) he",
         "englishNatural": "knew, that **from the face of** He-Who-Is (YHWH) he"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "מִפְּנֵי",
+        "transliteration": "miPney",
+        "englishLiteral": "from-faces-of",
+        "englishNatural": "from the faces of",
+        "root": "panim",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יִתְבַּקָּעוּ כַּדּוֹנַג **מִפְּנֵי** הָאֵשׁ כְּמַיִם",
+        "transliteration": "yitbaqaqu kaDonag **miPney** haEsh keMayim",
+        "englishLiteral": "they-will-break_open, like-wax **from-faces-of** the-fire, like-waters",
+        "englishNatural": "will break-open, like wax **from the faces of** the fire, like waters"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "לִפְנֵיהֶם",
+        "transliteration": "liFneihem",
+        "englishLiteral": "to-faces-their",
+        "englishNatural": "to their faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עָלָה הַפֹּרֵץ **לִפְנֵיהֶם** פָּרְצוּ וַיַּעֲבֹרוּ",
+        "transliteration": "alah haPoretz **liFneihem** partzu vaYaavru",
+        "englishLiteral": "He-has-gone_up the-breaking_through **to-faces-their,** they-have-broken_through, and-they-will-pass_through",
+        "englishNatural": "The breaking-through has gone-up **to their faces,** they have broken-through, and they will pass-through"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "לִפְנֵיהֶם",
+        "transliteration": "liFneihem",
+        "englishLiteral": "to-faces-their",
+        "englishNatural": "to their faces",
+        "root": "panim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיַּעֲבֹר מַלְכָּם **לִפְנֵיהֶם** וַיהוָה בְּרֹאשָׁם׃",
+        "transliteration": "vaYaavor malkam **liFneihem** vaYHWH beRosham",
+        "englishLiteral": "and-he-will-pass_through king-their **to-faces-their,** and-He_Who_Is (YHWH) in-head-their.",
+        "englishNatural": "and their king will pass-through **to their faces,** and He-Who-Is (YHWH), in their head."
+      }
     }
   ]
 }

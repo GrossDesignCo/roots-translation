@@ -1,0 +1,32 @@
+{
+  "key": "bakhem",
+  "language": "hebrew",
+  "root": "be",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בָּכֶם",
+        "transliteration": "baKhem",
+        "englishLiteral": "in-you",
+        "englishNatural": "in you",
+        "root": "be",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֲדֹנָי יְהוִה **בָּכֶם** לְעֵד אֲדֹנָי",
+        "transliteration": "adonai YHWH **baKhem** leEd adonai",
+        "englishLiteral": "Lord He_Who_Is (YHWH) **in-you** to-witness, Lord",
+        "englishNatural": "He-Who-Is (YHWH) be **in you** to a witness, Lord"
+      }
+    }
+  ]
+}

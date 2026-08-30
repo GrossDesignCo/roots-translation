@@ -92,7 +92,7 @@ export const jonah_4_3: Verse = {
       transliteration: 'mimeni',
       englishLiteral: 'from-me',
       englishNatural: 'from me',
-      root: 'min_from',
+      root: 'min',
       suffixes: ['i_possessive'],
       order: 7,
       morphology: {

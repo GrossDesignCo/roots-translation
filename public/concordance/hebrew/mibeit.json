@@ -77,6 +77,31 @@
         "englishLiteral": "and-Wasting (Chilion); Fruitful_Ones (Ephrathites) **from-House-of** Bread (Bethlehem) Praise (Judah);",
         "englishNatural": "and Wasting (Chilion); Fruitful-Ones (Ephrathites) **from the House of** Bread (Bethlehem) Praise (Judah),"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "מִבֵּית",
+        "transliteration": "miBeit",
+        "englishLiteral": "from-house-of",
+        "englishNatural": "from the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַמִּי תְּגָרְשׁוּן **מִבֵּית** תַּעֲנֻגֶיהָ מֵעַל",
+        "transliteration": "ammi teGarshun **miBeit** taanugeiha meAl",
+        "englishLiteral": "people-my you-will-banish, **from-house-of** luxuries-her; from-over",
+        "englishNatural": "my people you will banish **from the house of** her luxuries; from over"
+      }
     }
   ]
 }

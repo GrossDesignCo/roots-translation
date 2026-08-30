@@ -97,7 +97,7 @@ export const genesis_9_28: Verse = {
       transliteration: 'meot',
       englishLiteral: 'hundreds',
       englishNatural: 'hundred',
-      root: 'meah',
+      root: 'meah_hundred',
       suffixes: ['ot'],
       order: 6,
       morphology: {

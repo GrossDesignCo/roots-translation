@@ -136,6 +136,33 @@
         "englishLiteral": "the-luscious_plant?\" And-said, **\"doing_well** fuming_angrily- to-me,",
         "englishNatural": "the luscious-plant?\" And he said, **\"Doing-well is** fuming-angrily to me,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "יֵיטִיבוּ",
+        "transliteration": "yeitivu",
+        "englishLiteral": "they-will-do_well",
+        "englishNatural": "do-well",
+        "root": "yatav",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "הֲלוֹא דְבָרַי **יֵיטִיבוּ** עִם הַיָּשָׁר",
+        "transliteration": "halo devarai **yeitivu** im haYashar",
+        "englishLiteral": "is_it_not words-my **they-will-do_well** with the-straight",
+        "englishNatural": "is it not my words **do-well** with the straight"
+      }
     }
   ]
 }

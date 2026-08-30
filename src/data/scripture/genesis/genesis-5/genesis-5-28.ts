@@ -94,7 +94,7 @@ export const genesis_5_28: Verse = {
       transliteration: 'uMeat',
       englishLiteral: 'and-hundred',
       englishNatural: 'and a hundred',
-      root: 'meah',
+      root: 'meah_hundred',
       prefixes: ['u', 'me'],
       order: 6,
       morphology: {

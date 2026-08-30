@@ -16,3 +16,21 @@ vatTetze min-haMaqom asher hayetah-shammah uShtey khalloteha immah vatTelakhnah 
 vatTomer Naomi liShtey khalloteha lekhnah shovnah ishah leVeit immah yaas YHWH immakhem chesed kaAsher asitem im-haMetim veImmadi
 
 yitten YHWH lakhem uMetzena menuchah ishah beit ishah vatTishaq lahen vatTissenah qolan vatTivkeynah
+
+vatTomarnah-lah ki-itakh naShuv leAmmeKh
+
+vatTomer Naomi shovnah benotai lamah telakhna immi haOd-li banim beMeai veHayu lakhem laAnashim
+
+shovnah benotai lekhnah ki zaqanti miHiyot leIsh ki amarti yesh-li tikvah gam hayiti haLaylah leIsh veGam yaldati banim
+
+haLahen teshabbernah ad asher yigdalu haLahen teagenah leBilti hiYot leIsh al benotai ki-mar-li meod miKem ki-yatsah vi yad-YHWH
+
+vatTissenah qolan vatTivkeynah od vatTishaq Orpah laChamotah veRut davqah bah
+
+vatTomer hineh shavah yevimtekh el-ammah veEl-elohiha shuvi acharei yevimtekh
+
+vatTomer Rut al-tipgei-vi leAzvekh laShuv meAcharayikh ki el-asher teLkhi elekh uvaAsher taLini aLin ammekh ammi veElohayikh elohai
+
+baAsher tamuti amut veSham eqaver koh yaaseh YHWH li veKoh yosif ki haMavet yafrid beyni uVeynekh
+
+vatTere ki-mitAmetset hi laLekhet itah vatTechdal leDaber eleha

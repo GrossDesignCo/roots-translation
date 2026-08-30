@@ -1,0 +1,33 @@
+{
+  "root": "paga",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "תִּפְגְּעִי־",
+        "transliteration": "tipgei-",
+        "englishLiteral": "you-will-encounter",
+        "englishNatural": "You will encounter",
+        "root": "paga",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "רוּת אַל־ **תִּפְגְּעִי־** בִי לְעׇזְבֵךְ",
+        "transliteration": "Rut al- **tipgei-** vi leAzvekh",
+        "englishLiteral": "Friend (Ruth) \"not- **you-will-encounter** in-me to-leave-you",
+        "englishNatural": "And Friend (Ruth) said, **\"You will encounter** me not"
+      }
+    }
+  ]
+}

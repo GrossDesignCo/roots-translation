@@ -26,6 +26,31 @@
         "englishLiteral": "you-will-make to-you **carved_image** and-any- likeness,",
         "englishNatural": "not to you **a carved-image** and any likeness,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "פְּסִילֶיהָ",
+        "transliteration": "pesileiha",
+        "englishLiteral": "carved_images-her",
+        "englishNatural": "her carved-images",
+        "root": "pesel",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְכָל־ **פְּסִילֶיהָ** יֻכַּתּוּ וְכָל־",
+        "transliteration": "veKhol- **pesileiha** yukattu veKhol-",
+        "englishLiteral": "And-all- **carved_images-her** they-will-be-beaten, and-all-",
+        "englishNatural": "And all **her carved-images** will be beaten, and all"
+      }
     }
   ]
 }

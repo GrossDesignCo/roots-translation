@@ -1,0 +1,32 @@
+{
+  "key": "keeder",
+  "language": "hebrew",
+  "root": "eder_herd",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "כְּעֵדֶר",
+        "transliteration": "keEder",
+        "englishLiteral": "like-herd",
+        "englishNatural": "like a herd",
+        "root": "eder_herd",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּצֹאן בָּצְרָה **כְּעֵדֶר** בְּתוֹךְ הַדָּבְרוֹ",
+        "transliteration": "keTzon Botsrah **keEder** beTokh haDovro",
+        "englishLiteral": "like-flock Enclosure (Bozrah); **like-herd** in-midst-of the-fold-his,",
+        "englishNatural": "like the flock of Enclosure (Bozrah); **like a herd** in the midst of his fold,"
+      }
+    }
+  ]
+}

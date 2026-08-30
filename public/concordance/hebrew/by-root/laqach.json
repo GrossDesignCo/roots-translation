@@ -567,6 +567,60 @@
         "englishLiteral": "And-now He_Who_Is (YHWH), **take-** please ↳",
         "englishNatural": "And now He-Who-Is (YHWH), **take** please ↳"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "יִקַּח",
+        "transliteration": "yiqach",
+        "englishLiteral": "he-will-take",
+        "englishNatural": "will take",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּית הָאֵצֶל **יִקַּח** מִכֶּם עֶמְדָּתוֹ׃",
+        "transliteration": "beit haEtsel **yiqach** miKem emdato",
+        "englishLiteral": "house-of the-Beside (Ezel) **he-will-take** from-you standing-his.",
+        "englishNatural": "the house of the-Beside (Ezel) **will take** from you his standing."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "תִּקְחוּ",
+        "transliteration": "tiQchu",
+        "englishLiteral": "you-will-take",
+        "englishNatural": "you will take",
+        "root": "laqach",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵעַל עֹלָלֶיהָ **תִּקְחוּ** הֲדָרִי לְעוֹלָם׃",
+        "transliteration": "meAl olaleiha **tiQchu** hadari leOlam",
+        "englishLiteral": "from-over infants-her, **you-will-take** honor-my to-the_age.",
+        "englishNatural": "from over her infants **you will take** my honor to the-age."
+      }
     }
   ]
 }

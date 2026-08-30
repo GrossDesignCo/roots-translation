@@ -326,6 +326,81 @@
         "englishLiteral": "and-also beasts-of **field.**",
         "englishNatural": "and also the beasts of **the field.**"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הַשָּׂדֶה",
+        "transliteration": "haSadeh",
+        "englishLiteral": "the-field",
+        "englishNatural": "the field",
+        "root": "sadeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֹׁמְרוֹן לְעִי **הַשָּׂדֶה** לְמַטָּעֵי כָרֶם",
+        "transliteration": "Shomron leIy **haSadeh** leMattei kerem",
+        "englishLiteral": "Keep (Samaria) to-heap-of **the-field** to-plantings-of vineyard;",
+        "englishNatural": "Keep (Samaria) to a heap of **the field,** to plantings of vineyard;"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "שָׂדוֹת",
+        "transliteration": "sadot",
+        "englishLiteral": "fields",
+        "englishNatural": "fields",
+        "root": "sadeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחָמְדוּ **שָׂדוֹת** וְגָזָלוּ וּבָתִּים",
+        "transliteration": "veChamdu **sadot** veGazalu uBatim",
+        "englishLiteral": "And-they-have-desired **fields** and-they-have-robbed, and-houses",
+        "englishNatural": "And they have desired **fields** and they have robbed, and houses"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 18,
+      "sourceOrder": 18,
+      "word": {
+        "originalScript": "שָׂדֵינוּ",
+        "transliteration": "sadeinu",
+        "englishLiteral": "fields-our",
+        "englishNatural": "our fields",
+        "root": "sadeh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִי לְשׁוֹבֵב **שָׂדֵינוּ** יְחַלֵּק׃",
+        "transliteration": "li leShovev **sadeinu** yechalleq",
+        "englishLiteral": "to-me, to-returning **fields-our** he-will-allot.\"",
+        "englishNatural": "to me! to returning **our fields** he will allot.\""
+      }
     }
   ]
 }

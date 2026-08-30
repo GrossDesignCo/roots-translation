@@ -74,6 +74,31 @@
         "englishLiteral": "**And-He_Who_Is (YHWH)** hurled wind-",
         "englishNatural": "**And He-Who-Is (YHWH)** hurled a great"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וַיהוָה",
+        "transliteration": "vaYHWH",
+        "englishLiteral": "and-He_Who_Is (YHWH)",
+        "englishNatural": "and He-Who-Is (YHWH)",
+        "root": "yhwh",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מַלְכָּם לִפְנֵיהֶם **וַיהוָה** בְּרֹאשָׁם׃",
+        "transliteration": "malkam liFneihem **vaYHWH** beRosham",
+        "englishLiteral": "king-their to-faces-their, **and-He_Who_Is (YHWH)** in-head-their.",
+        "englishNatural": "will pass-through to their faces, **and He-Who-Is (YHWH),** in their head."
+      }
     }
   ]
 }

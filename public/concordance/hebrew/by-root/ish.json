@@ -673,8 +673,8 @@
       "context": {
         "hebrew": "וַיָּ֥מָת אֱלִימֶ֖לֶךְ **אִ֣ישׁ** נָעֳמִ֑י וַתִּשָּׁאֵ֥ר",
         "transliteration": "vaYamat Elimelekh **ish** Naomi vatTishare",
-        "englishLiteral": "And-died My_God_King (Elimelech) **man-of** Pleasant_My (Naomi); and-was-left",
-        "englishNatural": "And My-God-King (Elimelech) **the man of** My-Pleasant (Naomi) died,"
+        "englishLiteral": "And-died God_My_King (Elimelech) **man-of** Pleasant_My (Naomi); and-was-left",
+        "englishNatural": "And God-My-King (Elimelech) **the man of** My-Pleasant (Naomi) died,"
       }
     },
     {
@@ -725,6 +725,106 @@
         "transliteration": "ishah beit **ishah** vatTishaq lahen",
         "englishLiteral": "woman house-of **man-her;** and-kissed to-them",
         "englishNatural": "woman the house of **her man.\"** And she kissed to them,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "לַאֲנָשִֽׁים",
+        "transliteration": "laAnashim",
+        "englishLiteral": "to-men",
+        "englishNatural": "men",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָי֥וּ לָכֶ֖ם **לַאֲנָשִֽׁים׃**",
+        "transliteration": "veHayu lakhem **laAnashim**",
+        "englishLiteral": "and-will-be to-you **to-men.**",
+        "englishNatural": "and would they be to you **men?\"**"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לְאִ֑ישׁ",
+        "transliteration": "leIsh",
+        "englishLiteral": "to-man",
+        "englishNatural": "to a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "זָקַ֖נְתִּי מִהְי֣וֹת **לְאִ֑ישׁ** כִּ֤י אָמַ֙רְתִּי֙",
+        "transliteration": "zaqanti miHiyot **leIsh** ki amarti",
+        "englishLiteral": "I-have-grown_old from-to_be **to-man;** that I-have-said",
+        "englishNatural": "I have grown old from being **to a man;** that I have said,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "לְאִ֔ישׁ",
+        "transliteration": "leIsh",
+        "englishLiteral": "to-man",
+        "englishNatural": "to a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָיִ֤יתִי הַלַּ֙יְלָה֙ **לְאִ֔ישׁ** וְגַ֖ם יָלַ֥דְתִּי",
+        "transliteration": "hayiti haLaylah **leIsh** veGam yaldati",
+        "englishLiteral": "I-have-been the-night **to-man,** and-also I-have-birthed",
+        "englishNatural": "I have been the night **to a man,** and also I have birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "לְאִ֑ישׁ",
+        "transliteration": "leIsh",
+        "englishLiteral": "to-man",
+        "englishNatural": "to a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְבִלְתִּ֖י הֱיוֹת **לְאִ֑ישׁ** אַ֣ל בְּנֹתַ֗י",
+        "transliteration": "leBilti hiYot **leIsh** al benotai",
+        "englishLiteral": "to-not to-be **to-man;** not my-daughters,",
+        "englishNatural": "without being **to a man?** No, my daughters;"
       }
     },
     {
@@ -1225,6 +1325,56 @@
         "transliteration": "beChazqah veYashuvu **ish** midarko haRaah",
         "englishLiteral": "in-intensity; and-return **man** from-way-his the-bad",
         "englishNatural": "in intensity; and return **man** from the bad of his way"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וְאִישׁ",
+        "transliteration": "veIsh",
+        "englishLiteral": "and-man",
+        "englishNatural": "and a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גֶּבֶר וּבֵיתוֹ **וְאִישׁ** וְנַחֲלָתוֹ׃",
+        "transliteration": "gever uBeito **veIsh** veNachalato",
+        "englishLiteral": "strong_man and-house-his, **and-man** and-inheritance-his.",
+        "englishNatural": "a strong-man and his house, **and a man** and his inheritance."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אִישׁ",
+        "transliteration": "ish",
+        "englishLiteral": "man",
+        "englishNatural": "a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לוּ־ **אִישׁ** הֹלֵךְ רוּחַ",
+        "transliteration": "lu- **ish** holekh ruach",
+        "englishLiteral": "if_only- **man** walking Wind",
+        "englishNatural": "If only **a man** walking Wind"
       }
     }
   ]

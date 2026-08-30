@@ -1,0 +1,32 @@
+{
+  "key": "pishei",
+  "language": "hebrew",
+  "root": "pesha",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "פִּשְׁעֵי",
+        "transliteration": "pishei",
+        "englishLiteral": "transgressions-of",
+        "englishNatural": "the transgressions of",
+        "root": "pesha",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָךְ נִמְצְאוּ **פִּשְׁעֵי** יִשְׂרָאֵל׃",
+        "transliteration": "bakh niMtseu **pishei** Yisrael",
+        "englishLiteral": "in-you they-have-been-found **transgressions-of** Struggles_with_God (Israel).",
+        "englishNatural": "in you have been found **the transgressions of** Struggles-with-God (Israel)."
+      }
+    }
+  ]
+}

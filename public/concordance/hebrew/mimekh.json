@@ -1,0 +1,32 @@
+{
+  "key": "mimekh",
+  "language": "hebrew",
+  "root": "min",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "מִמֵּךְ",
+        "transliteration": "miMekh",
+        "englishLiteral": "from-you",
+        "englishNatural": "from you",
+        "root": "min",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי גָלוּ **מִמֵּךְ׃**",
+        "transliteration": "ki galu **miMekh**",
+        "englishLiteral": "that they-have-revealed **from-you.\"**",
+        "englishNatural": "that they have revealed **from you.\"**"
+      }
+    }
+  ]
+}

@@ -27,6 +27,31 @@
         "englishLiteral": "And-lived Powerful (Lamech) **after** he-birthed-him ↳",
         "englishNatural": "And Powerful (Lamech) lived **after** he birthed ↳"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אַחֲרֵ֥י",
+        "transliteration": "acharei",
+        "englishLiteral": "after",
+        "englishNatural": "after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלֹהֶ֑יהָ שׁ֖וּבִי **אַחֲרֵ֥י** יְבִמְתֵּֽךְ׃",
+        "transliteration": "elohiha shuvi **acharei** yevimtekh",
+        "englishLiteral": "Gods-her; return **after** sister_in_law-your.\"",
+        "englishNatural": "her gods; Return **after** your sister-in-law.\""
+      }
     }
   ]
 }

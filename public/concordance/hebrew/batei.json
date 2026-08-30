@@ -1,0 +1,32 @@
+{
+  "key": "batei",
+  "language": "hebrew",
+  "root": "bayit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בָּתֵּי",
+        "transliteration": "batei",
+        "englishLiteral": "houses-of",
+        "englishNatural": "the houses of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מוֹרֶשֶׁת גַּת **בָּתֵּי** אַכְזִיב לְאַכְזָב",
+        "transliteration": "Moreshet Gat **batei** Akhziv leAkhzav",
+        "englishLiteral": "Possession (Moresheth) Winepress (Gath); **houses-of** Lie (Achzib) to-lie,",
+        "englishNatural": "Possession (Moresheth) Winepress (Gath); **the houses of** Lie (Achzib) to a lie,"
+      }
+    }
+  ]
+}

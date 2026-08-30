@@ -218,6 +218,33 @@
         "englishLiteral": "**And-he-will-be** as-tree planted",
         "englishNatural": "**And he will be** as a tree planted"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וְהָיָה",
+        "transliteration": "veHayah",
+        "englishLiteral": "and-he-has-been",
+        "englishNatural": "and he will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לַיַּיִן וְלַשֵּׁכָר **וְהָיָה** מַטִּיף הָעָם",
+        "transliteration": "laYayin veLaShekhar **veHayah** maTtif haAm",
+        "englishLiteral": "to-the-wine and-to-the-strong_drink; **and-he-has-been** dripping the-people",
+        "englishNatural": "to the wine and to the strong-drink; **and he will be** the dripping of this"
+      }
     }
   ]
 }

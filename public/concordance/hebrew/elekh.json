@@ -5,6 +5,33 @@
   "occurrences": [
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "אֵלֵךְ",
+        "transliteration": "elekh",
+        "englishLiteral": "I-will-walk",
+        "englishNatural": "I will walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר תֵּלְכִי **אֵלֵךְ** וּבַאֲשֶׁר תָּלִינִי",
+        "transliteration": "asher teLkhi **elekh** uvaAsher taLini",
+        "englishLiteral": "which you-will-walk **I-will-walk;** and-in-which you-will-lodge",
+        "englishNatural": "which you will walk, **I will walk;** and in which you will lodge,"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 23,
         "verse": 4

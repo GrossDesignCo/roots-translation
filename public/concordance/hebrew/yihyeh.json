@@ -353,6 +353,33 @@
         "englishLiteral": "he-will-see what- **will-be** in-city.",
         "englishNatural": "he will see what **will be** in the city."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יִהְיֶה",
+        "transliteration": "yihyeh",
+        "englishLiteral": "he-will-be",
+        "englishNatural": "there will be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֵן לֹא־ **יִהְיֶה** לְךָ מַשְׁלִיךְ",
+        "transliteration": "lakhen lo- **yihyeh** lekha maShlikh",
+        "englishLiteral": "therefore not- **he-will-be** to-you, one-who-throws",
+        "englishNatural": "Therefore **there will be** not to you,"
+      }
     }
   ]
 }

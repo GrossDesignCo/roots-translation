@@ -1,0 +1,32 @@
+{
+  "key": "meacharayikh",
+  "language": "hebrew",
+  "root": "achar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "מֵאַחֲרָיִךְ",
+        "transliteration": "meAcharayikh",
+        "englishLiteral": "from-after-you",
+        "englishNatural": "from after you",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "לְעׇזְבֵךְ לָשׁוּב **מֵאַחֲרָיִךְ** כִּי אֶל־",
+        "transliteration": "leAzvekh laShuv **meAcharayikh** ki el-",
+        "englishLiteral": "to-leave-you to-return **from-after-you,** that- to-",
+        "englishNatural": "to leave you, to return **from after you,** for to"
+      }
+    }
+  ]
+}

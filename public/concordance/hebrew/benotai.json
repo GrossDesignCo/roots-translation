@@ -1,0 +1,82 @@
+{
+  "key": "benotai",
+  "language": "hebrew",
+  "root": "bat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בְנֹתַ֔י",
+        "transliteration": "benotai",
+        "englishLiteral": "my-daughters",
+        "englishNatural": "my daughters",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נָעֳמִי֙ שֹׁ֣בְנָה **בְנֹתַ֔י** לָ֥מָּה תֵלַ֖כְנָה",
+        "transliteration": "Naomi shovnah **benotai** lamah telakhna",
+        "englishLiteral": "Pleasant_My (Naomi) \"return **my-daughters,** why you-will-walk",
+        "englishNatural": "said, \"Return, **my daughters,** why will you walk"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בְנֹתַי֙",
+        "transliteration": "benotai",
+        "englishLiteral": "daughters-my",
+        "englishNatural": "my daughters",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֹׁ֤בְנָה **בְנֹתַי֙** לֵ֔כְנָה כִּ֥י",
+        "transliteration": "shovnah **benotai** lekhnah ki",
+        "englishLiteral": "return **daughters-my** Go that",
+        "englishNatural": "Return, **my daughters,** go, that"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "בְּנֹתַ֗י",
+        "transliteration": "benotai",
+        "englishLiteral": "my-daughters",
+        "englishNatural": "my daughters",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְאִ֑ישׁ אַ֣ל **בְּנֹתַ֗י** כִּֽי־ מַר־",
+        "transliteration": "leIsh al **benotai** ki- mar-",
+        "englishLiteral": "to-man; not **my-daughters,** that- bitter-",
+        "englishNatural": "to a man? No, **my daughters;** for very"
+      }
+    }
+  ]
+}

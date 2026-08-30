@@ -1,0 +1,34 @@
+{
+  "key": "shuvi",
+  "language": "hebrew",
+  "root": "shuv",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "שׁ֖וּבִי",
+        "transliteration": "shuvi",
+        "englishLiteral": "return",
+        "englishNatural": "Return",
+        "root": "shuv",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶל־ אֱלֹהֶ֑יהָ **שׁ֖וּבִי** אַחֲרֵ֥י יְבִמְתֵּֽךְ׃",
+        "transliteration": "veEl- elohiha **shuvi** acharei yevimtekh",
+        "englishLiteral": "and-to- Gods-her; **return** after sister_in_law-your.\"",
+        "englishNatural": "and to her gods; **Return** after your sister-in-law.\""
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "root": "mar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "מַר־",
+        "transliteration": "mar-",
+        "englishLiteral": "bitter-",
+        "englishNatural": "bitter",
+        "root": "mar",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֹתַ֗י כִּֽי־ **מַר־** לִ֤י מְאֹד֙",
+        "transliteration": "benotai ki- **mar-** li meod",
+        "englishLiteral": "my-daughters, that- **bitter-** to-me very",
+        "englishNatural": "for very **bitter** to me from you,"
+      }
+    }
+  ]
+}

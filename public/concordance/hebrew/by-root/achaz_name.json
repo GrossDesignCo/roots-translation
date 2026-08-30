@@ -1,0 +1,31 @@
+{
+  "root": "achaz_name",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אָחָז",
+        "transliteration": "Achaz",
+        "englishLiteral": "Seized (Ahaz)",
+        "englishNatural": "Seized (Ahaz)",
+        "root": "achaz_name",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בִּימֵי יוֹתָם **אָחָז** יְחִזְקִיָּה מַלְכֵי",
+        "transliteration": "biYmey Yotam **Achaz** Yechizqiyyah malkhey",
+        "englishLiteral": "in-days-of He_Is_Whole (Jotham) **Seized (Ahaz)** He_Intensifies (Hezekiah) kings-of",
+        "englishNatural": "in the days of He-Is-Whole (Jotham), **Seized (Ahaz),** He-Intensifies (Hezekiah), kings of"
+      }
+    }
+  ]
+}

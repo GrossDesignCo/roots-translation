@@ -1,0 +1,31 @@
+{
+  "root": "maallal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "מַעֲלָלָיו",
+        "transliteration": "maAlalav",
+        "englishLiteral": "deeds-his",
+        "englishNatural": "his deeds",
+        "root": "maallal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִם־ אֵלֶּה **מַעֲלָלָיו** הֲלוֹא דְבָרַי",
+        "transliteration": "im- eleh **maAlalav** halo devarai",
+        "englishLiteral": "if- these **deeds-his;** is_it_not words-my",
+        "englishNatural": "if these, **his deeds?** is it not my words"
+      }
+    }
+  ]
+}

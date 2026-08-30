@@ -102,6 +102,31 @@
         "englishLiteral": "which I-have-caused-to-stand_up, **between-me,** and-between all-",
         "englishNatural": "which I have caused to stand-up, **between me,** and between all"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "בֵּינִי",
+        "transliteration": "beyni",
+        "englishLiteral": "between-me",
+        "englishNatural": "between me",
+        "root": "beyn",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַמָּוֶת יַפְרִיד **בֵּינִי** וּבֵינֵךְ׃",
+        "transliteration": "haMavet yafrid **beyni** uVeynekh",
+        "englishLiteral": "the-death he-will-part **between-me** and-between-you.\"",
+        "englishNatural": "the death will part **between me** and between you.\""
+      }
     }
   ]
 }

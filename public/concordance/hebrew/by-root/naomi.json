@@ -48,8 +48,8 @@
       "context": {
         "hebrew": "אֱלִימֶ֖לֶךְ אִ֣ישׁ **נָעֳמִ֑י** וַתִּשָּׁאֵ֥ר הִ֖יא",
         "transliteration": "Elimelekh ish **Naomi** vatTishare hi",
-        "englishLiteral": "My_God_King (Elimelech) man-of **Pleasant_My (Naomi);** and-was-left she;",
-        "englishNatural": "And My-God-King (Elimelech) the man of **My-Pleasant (Naomi)** died, and she"
+        "englishLiteral": "God_My_King (Elimelech) man-of **Pleasant_My (Naomi);** and-was-left she;",
+        "englishNatural": "And God-My-King (Elimelech) the man of **My-Pleasant (Naomi)** died, and she"
       }
     },
     {
@@ -75,6 +75,31 @@
         "transliteration": "vatTomer **Naomi** liShtey khalloteha",
         "englishLiteral": "And-said **Pleasant_My (Naomi)** to-two-of daughters_in_law-her",
         "englishNatural": "**And My-Pleasant (Naomi)** said to the two of"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "נָעֳמִי֙",
+        "transliteration": "Naomi",
+        "englishLiteral": "Pleasant_My (Naomi)",
+        "englishNatural": "And My-Pleasant (Naomi)",
+        "root": "naomi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֹּ֤אמֶר **נָעֳמִי֙** שֹׁ֣בְנָה בְנֹתַ֔י",
+        "transliteration": "vatTomer **Naomi** shovnah benotai",
+        "englishLiteral": "And-said **Pleasant_My (Naomi)** \"return my-daughters,",
+        "englishNatural": "**And My-Pleasant (Naomi)** said, \"Return,"
       }
     }
   ]

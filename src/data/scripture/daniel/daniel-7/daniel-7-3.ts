@@ -76,7 +76,7 @@ export const daniel_7_3: Verse = {
       transliteration: 'min-',
       englishLiteral: 'from-',
       englishNatural: 'from',
-      root: 'min_from',
+      root: 'min',
       order: 5,
       morphology: {
         type: 'preposition',
@@ -144,7 +144,7 @@ export const daniel_7_3: Verse = {
       transliteration: 'min-',
       englishLiteral: 'from-',
       englishNatural: 'from',
-      root: 'min_from',
+      root: 'min',
       order: 9,
       morphology: {
         type: 'preposition',

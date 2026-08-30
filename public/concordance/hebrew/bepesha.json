@@ -1,0 +1,32 @@
+{
+  "key": "bepesha",
+  "language": "hebrew",
+  "root": "pesha",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "בְּפֶשַׁע",
+        "transliteration": "bePesha",
+        "englishLiteral": "in-transgression-of",
+        "englishNatural": "In the transgression of",
+        "root": "pesha",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּפֶשַׁע** יַעֲקֹב כָּל־",
+        "transliteration": "**bePesha** Yaaqov kol-",
+        "englishLiteral": "**in-transgression-of** Heel_Grasper (Jacob) all-",
+        "englishNatural": "**In the transgression of** Heel-Grasper (Jacob) all"
+      }
+    }
+  ]
+}

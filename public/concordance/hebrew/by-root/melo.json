@@ -26,6 +26,31 @@
         "englishLiteral": "He_Who_Is (YHWH) of-Hosts, **fullness-of** all the-land:",
         "englishNatural": "He-Who-Is (YHWH) of Hosts, **fullness of** all the land"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וּמְלֹאָהּ",
+        "transliteration": "uMeloah",
+        "englishLiteral": "and-fullness-her",
+        "englishNatural": "and her fullness",
+        "root": "melo",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַקְשִׁיבִי אֶרֶץ **וּמְלֹאָהּ** וִיהִי אֲדֹנָי",
+        "transliteration": "haqshivi eretz **uMeloah** viYehi adonai",
+        "englishLiteral": "hearken earth **and-fullness-her;** and-let-be Lord",
+        "englishNatural": "hearken, earth **and her fullness;** and let Lord He-Who-Is (YHWH)"
+      }
     }
   ]
 }

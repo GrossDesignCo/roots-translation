@@ -1,0 +1,33 @@
+{
+  "root": "chazah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "חָזָה",
+        "transliteration": "chazah",
+        "englishLiteral": "he-has-gazed",
+        "englishNatural": "he has gazed",
+        "root": "chazah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוּדָה אֲשֶׁר־ **חָזָה** עַל־ שֹׁמְרוֹן",
+        "transliteration": "Yehudah asher- **chazah** al- Shomron",
+        "englishLiteral": "Praise (Judah); which- **he-has-gazed** over- Keep (Samaria)",
+        "englishNatural": "Praise (Judah); which **he has gazed** over Keep (Samaria)"
+      }
+    }
+  ]
+}

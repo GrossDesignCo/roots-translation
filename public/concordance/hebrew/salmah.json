@@ -1,0 +1,32 @@
+{
+  "key": "salmah",
+  "language": "hebrew",
+  "root": "simlah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "שַׂלְמָה",
+        "transliteration": "salmah",
+        "englishLiteral": "cloak",
+        "englishNatural": "a cloak",
+        "root": "simlah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יְקוֹמֵם מִמּוּל **שַׂלְמָה** אֶדֶר תַּפְשִׁטוּן",
+        "transliteration": "yeQomem miMul **salmah** eder taPshitun",
+        "englishLiteral": "he-will-stand_up, from-front-of **cloak,** mantle you-will-strip;",
+        "englishNatural": "will stand-up, from front of **a cloak,** a mantle you will strip;"
+      }
+    }
+  ]
+}

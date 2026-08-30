@@ -1,0 +1,34 @@
+{
+  "key": "amut",
+  "language": "hebrew",
+  "root": "mut",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אָמוּת",
+        "transliteration": "amut",
+        "englishLiteral": "I-will-die",
+        "englishNatural": "I will die",
+        "root": "mut",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בַּאֲשֶׁר תָּמוּתִי **אָמוּת** וְשָׁם אֶקָּבֵר",
+        "transliteration": "baAsher tamuti **amut** veSham eqaver",
+        "englishLiteral": "in-which you-will-die, **I-will-die,** and-there I-will-be-buried;",
+        "englishNatural": "where you will die, **I will die,** and there I will be buried;"
+      }
+    }
+  ]
+}

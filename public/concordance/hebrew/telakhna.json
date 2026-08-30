@@ -1,0 +1,34 @@
+{
+  "key": "telakhna",
+  "language": "hebrew",
+  "root": "halakh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "תֵלַ֖כְנָה",
+        "transliteration": "telakhna",
+        "englishLiteral": "you-will-walk",
+        "englishNatural": "will you walk",
+        "root": "halakh",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְנֹתַ֔י לָ֥מָּה **תֵלַ֖כְנָה** עִמִּ֑י הַעֽוֹד־",
+        "transliteration": "benotai lamah **telakhna** immi haOd-",
+        "englishLiteral": "my-daughters, why **you-will-walk** with-me; the-again",
+        "englishNatural": "my daughters, why **will you walk** with me; are there again"
+      }
+    }
+  ]
+}

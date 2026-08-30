@@ -1,0 +1,31 @@
+{
+  "root": "yotam",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "יוֹתָם",
+        "transliteration": "Yotam",
+        "englishLiteral": "He_Is_Whole (Jotham)",
+        "englishNatural": "He-Is-Whole (Jotham)",
+        "root": "yotam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַמֹּרַשְׁתִּי בִּימֵי **יוֹתָם** אָחָז יְחִזְקִיָּה",
+        "transliteration": "haMorashti biYmey **Yotam** Achaz Yechizqiyyah",
+        "englishLiteral": "the-Possessionite (Morashtite) in-days-of **He_Is_Whole (Jotham)** Seized (Ahaz) He_Intensifies (Hezekiah)",
+        "englishNatural": "the Possessionite (Morashtite), in the days of **He-Is-Whole (Jotham),** Seized (Ahaz), He-Intensifies (Hezekiah),"
+      }
+    }
+  ]
+}

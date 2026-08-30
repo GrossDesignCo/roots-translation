@@ -52,6 +52,31 @@
         "englishLiteral": "He_Who_Is (YHWH) ↳ them **from-there** over- faces-of",
         "englishNatural": "scattered them **from there** over the face of"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "מִשָּׁם",
+        "transliteration": "miSham",
+        "englishLiteral": "from-there",
+        "englishNatural": "from there",
+        "root": "sham",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לֹא־ תָמִישׁוּ **מִשָּׁם** צַוְּארֹתֵיכֶם וְלֹא",
+        "transliteration": "lo- tamishu **miSham** tzavroteikhem veLo",
+        "englishLiteral": "not- you-will-displace **from-there** necks-your, and-not",
+        "englishNatural": "you will displace not **from there** your necks, and you will walk"
+      }
     }
   ]
 }

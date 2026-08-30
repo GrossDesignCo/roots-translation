@@ -28,6 +28,60 @@
         "englishLiteral": "the-wine, and-he-was-drunk; **and-he-was-revealed,** in-midst-of tent-his.",
         "englishNatural": "the wine, and was drunk; **and was revealed,** in the midst of his tent."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אֲגַלֶּה",
+        "transliteration": "agalleh",
+        "englishLiteral": "I-will-reveal",
+        "englishNatural": "I will reveal",
+        "root": "galah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבָנֶיהָ וִיסֹדֶיהָ **אֲגַלֶּה׃**",
+        "transliteration": "avaneiha viSodeiha **agalleh**",
+        "englishLiteral": "stones-her, and-foundations-her **I-will-reveal.**",
+        "englishNatural": "her stones, and her foundations **I will reveal.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "גָלוּ",
+        "transliteration": "galu",
+        "englishLiteral": "they-have-revealed",
+        "englishNatural": "they have revealed",
+        "root": "galah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כַּנֶּשֶׁר כִּי **גָלוּ** מִמֵּךְ׃",
+        "transliteration": "kaNesher ki **galu** miMekh",
+        "englishLiteral": "like-eagle, that **they-have-revealed** from-you.\"",
+        "englishNatural": "like an eagle, that **they have revealed** from you.\""
+      }
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "root": "chabal",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 10
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "תְּחַבֵּל",
+        "transliteration": "teChabel",
+        "englishLiteral": "she-will-destroy",
+        "englishNatural": "she will destroy",
+        "root": "chabal",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "בַּעֲבוּר טָמְאָה **תְּחַבֵּל** וְחֶבֶל נִמְרָץ׃",
+        "transliteration": "baavur tameah **teChabel** veChevel nimrats",
+        "englishLiteral": "for_sake_of unclean, **she-will-destroy,** and-destruction grievous.",
+        "englishNatural": "for the sake of unclean, **she will destroy,** and a grievous destruction."
+      }
+    }
+  ]
+}

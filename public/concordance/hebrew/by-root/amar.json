@@ -3267,6 +3267,141 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַתֹּאמַ֖רְנָה־",
+        "transliteration": "vatTomarnah-",
+        "englishLiteral": "And-said",
+        "englishNatural": "And they said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתֹּאמַ֖רְנָה־** לָּ֑הּ כִּֽי־",
+        "transliteration": "**vatTomarnah-** lah ki-",
+        "englishLiteral": "**And-said** to-her; \"that-",
+        "englishNatural": "**And they said** to her, \"That"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַתֹּ֤אמֶר",
+        "transliteration": "vatTomer",
+        "englishLiteral": "And-said",
+        "englishNatural": "said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתֹּ֤אמֶר** נָעֳמִי֙ שֹׁ֣בְנָה",
+        "transliteration": "**vatTomer** Naomi shovnah",
+        "englishLiteral": "**And-said** Pleasant_My (Naomi) \"return",
+        "englishNatural": "And My-Pleasant (Naomi) **said,** \"Return, my daughters,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אָמַ֙רְתִּי֙",
+        "transliteration": "amarti",
+        "englishLiteral": "I-have-said",
+        "englishNatural": "I have said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לְאִ֑ישׁ כִּ֤י **אָמַ֙רְתִּי֙** יֶשׁ־ לִ֣י",
+        "transliteration": "leIsh ki **amarti** yesh- li",
+        "englishLiteral": "to-man; that **I-have-said** there_is- to-me",
+        "englishNatural": "to a man; that **I have said,** there-is to me"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַתֹּ֗אמֶר",
+        "transliteration": "vatTomer",
+        "englishLiteral": "And-said",
+        "englishNatural": "And she said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתֹּ֗אמֶר** הִנֵּה֙ שָׁ֣בָה",
+        "transliteration": "**vatTomer** hineh shavah",
+        "englishLiteral": "**And-said,** \"Behold she-has-returned",
+        "englishNatural": "**And she said,** \"Behold, your sister-in-law"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַתֹּאמֶר",
+        "transliteration": "vatTomer",
+        "englishLiteral": "And-said",
+        "englishNatural": "said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַתֹּאמֶר** רוּת אַל־",
+        "transliteration": "**vatTomer** Rut al-",
+        "englishLiteral": "**And-said,** Friend (Ruth) \"not-",
+        "englishNatural": "And Friend (Ruth) **said,** \"You will encounter me"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 7
@@ -4370,6 +4505,87 @@
         "transliteration": "**vaYomer** YHWH atah",
         "englishLiteral": "**And-said** He_Who_Is (YHWH), \"you",
         "englishNatural": "And He-Who-Is (YHWH) **said,** \"You pitied"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אָמַר",
+        "transliteration": "amar",
+        "englishLiteral": "said",
+        "englishNatural": "has said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֵן כֹּה **אָמַר** יְהוָה הִנְנִי",
+        "transliteration": "lakhen koh **amar** YHWH hineni",
+        "englishLiteral": "therefore thus **said** He_Who_Is (YHWH), \"behold_me",
+        "englishNatural": "Therefore thus **has said** He-Who-Is (YHWH), \"Behold-me,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אָמַר",
+        "transliteration": "amar",
+        "englishLiteral": "he-has-said",
+        "englishNatural": "he has said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "נְהִי נִהְיָה **אָמַר** שָׁדוֹד נְשַׁדֻּנוּ",
+        "transliteration": "nehi nihyah **amar** shadod neshadunu",
+        "englishLiteral": "wailing has-been, **he-has-said,** \"Devastating, we-have-been-devastated,",
+        "englishNatural": "a wailing has been, **he has said,** \"Devastating, we have been devastated;"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "הֶאָמוּר",
+        "transliteration": "heAmur",
+        "englishLiteral": "the-said",
+        "englishNatural": "Said",
+        "root": "amar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**הֶאָמוּר** בֵּית־ יַעֲקֹב",
+        "transliteration": "**heAmur** beit- Yaaqov",
+        "englishLiteral": "**the-said** house-of Heel_Grasper (Jacob),",
+        "englishNatural": "**Said,** the house of Heel-Grasper (Jacob),"
       }
     }
   ]

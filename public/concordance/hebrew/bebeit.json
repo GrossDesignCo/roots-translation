@@ -27,6 +27,31 @@
         "englishLiteral": "my-life; and-I-will-sit **in-house-of** He_Who_Is (YHWH), to-length-of",
         "englishNatural": "my life; and I will sit **in the house of** He-Who-Is (YHWH), to the length of"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בְּבֵית",
+        "transliteration": "beBeit",
+        "englishLiteral": "in-house-of",
+        "englishNatural": "in the house",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תִּבְכּוּ **בְּבֵית** לְעַפְרָה עָפָר",
+        "transliteration": "al- tiVkhu **beBeit** leAphrah afar",
+        "englishLiteral": "not- you-will-weep; **in-house-of** to-Dust (Aphrah), dust",
+        "englishNatural": "you will weep not; **in the house** to Dust (Aphrah), dust,"
+      }
     }
   ]
 }

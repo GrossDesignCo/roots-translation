@@ -1,7 +1,7 @@
 {
   "key": "avi",
   "language": "hebrew",
-  "root": "av",
+  "root": "bo",
   "occurrences": [
     {
       "location": {
@@ -128,6 +128,33 @@
         "transliteration": "nega echad **avi** al- Paroh",
         "englishLiteral": "touch one **I-will-bring** over- Pharaoh,",
         "englishNatural": "one touch **I will bring** over Pharaoh"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אָבִי",
+        "transliteration": "avi",
+        "englishLiteral": "I-will-bring",
+        "englishNatural": "I will bring",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹד הַיּוֹרֵשׁ **אָבִי** לָךְ יוֹשֶׁבֶת",
+        "transliteration": "od haYoresh **avi** lakh yoshevet",
+        "englishLiteral": "again the-inheriting **I-will-bring** to-you, sitting-of",
+        "englishNatural": "Again **I will bring** the one inheriting to you,"
       }
     }
   ]

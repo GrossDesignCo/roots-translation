@@ -1,0 +1,33 @@
+{
+  "root": "zaqen",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "זָקַ֖נְתִּי",
+        "transliteration": "zaqanti",
+        "englishLiteral": "I-have-grown_old",
+        "englishNatural": "I have grown old",
+        "root": "zaqen",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לֵ֔כְנָה כִּ֥י **זָקַ֖נְתִּי** מִהְי֣וֹת לְאִ֑ישׁ",
+        "transliteration": "lekhnah ki **zaqanti** miHiyot leIsh",
+        "englishLiteral": "Go that **I-have-grown_old** from-to_be to-man;",
+        "englishNatural": "go, that **I have grown old** from being to a man;"
+      }
+    }
+  ]
+}

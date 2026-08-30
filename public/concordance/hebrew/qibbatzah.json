@@ -1,0 +1,34 @@
+{
+  "key": "qibbatzah",
+  "language": "hebrew",
+  "root": "qavatz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "קִבָּצָה",
+        "transliteration": "qibbatzah",
+        "englishLiteral": "she-has-collected",
+        "englishNatural": "she has collected",
+        "root": "qavatz",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאֶתְנַן זוֹנָה **קִבָּצָה** וְעַד־ אֶתְנַן",
+        "transliteration": "meEtnan zonah **qibbatzah** veAd- etnan",
+        "englishLiteral": "from-hire-of harlot **she-has-collected,** and-until- hire-of",
+        "englishNatural": "from the hire of a harlot, **she has collected,** and until the hire of"
+      }
+    }
+  ]
+}

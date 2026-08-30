@@ -180,6 +180,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 15,
+      "sourceOrder": 15,
+      "word": {
+        "originalScript": "מְאֹד֙",
+        "transliteration": "meod",
+        "englishLiteral": "very",
+        "englishNatural": "very",
+        "root": "meod",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "מַר־ לִ֤י **מְאֹד֙** מִכֶּ֔ם כִּֽי־",
+        "transliteration": "mar- li **meod** miKem ki-",
+        "englishLiteral": "bitter- to-me **very** from-you, that-",
+        "englishNatural": "my daughters; for **very** bitter to me"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 46,
         "verse": 1

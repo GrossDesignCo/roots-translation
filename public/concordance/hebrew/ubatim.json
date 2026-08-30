@@ -1,0 +1,32 @@
+{
+  "key": "ubatim",
+  "language": "hebrew",
+  "root": "bayit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וּבָתִּים",
+        "transliteration": "uBatim",
+        "englishLiteral": "and-houses",
+        "englishNatural": "and houses",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׂדוֹת וְגָזָלוּ **וּבָתִּים** וְנָשָׂאוּ וְעָשְׁקוּ",
+        "transliteration": "sadot veGazalu **uBatim** veNasau veAshequ",
+        "englishLiteral": "fields and-they-have-robbed, **and-houses** and-they-have-lifted_up; and-they-have-oppressed",
+        "englishNatural": "fields and they have robbed, **and houses** and they have lifted-up; and they have oppressed"
+      }
+    }
+  ]
+}

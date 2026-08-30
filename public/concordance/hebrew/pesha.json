@@ -1,0 +1,32 @@
+{
+  "key": "pesha",
+  "language": "hebrew",
+  "root": "pesha",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "פֶשַׁע",
+        "transliteration": "pesha",
+        "englishLiteral": "transgression-of",
+        "englishNatural": "is the transgression of",
+        "root": "pesha",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יִשְׂרָאֵל מִי־ **פֶשַׁע** יַעֲקֹב הֲלוֹא",
+        "transliteration": "Yisrael mi- **pesha** Yaaqov halo",
+        "englishLiteral": "Struggles_with_God (Israel); who- **transgression-of** Heel_Grasper (Jacob), is_it_not",
+        "englishNatural": "Struggles-with-God (Israel); who **is the transgression of** Heel-Grasper (Jacob)? is it not"
+      }
+    }
+  ]
+}

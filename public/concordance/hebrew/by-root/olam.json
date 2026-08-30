@@ -251,6 +251,31 @@
         "englishLiteral": "bars-her behind-me **to-the_age;** and-you-brought_up from-corruption",
         "englishNatural": "her bars around me **to the-age;** and you brought-up from corruption"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "לְעוֹלָם",
+        "transliteration": "leOlam",
+        "englishLiteral": "to-the_age",
+        "englishNatural": "to the-age",
+        "root": "olam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תִּקְחוּ הֲדָרִי **לְעוֹלָם׃**",
+        "transliteration": "tiQchu hadari **leOlam**",
+        "englishLiteral": "you-will-take honor-my **to-the_age.**",
+        "englishNatural": "you will take my honor **to the-age.**"
+      }
     }
   ]
 }

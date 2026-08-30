@@ -1,0 +1,32 @@
+{
+  "key": "kullakh",
+  "language": "hebrew",
+  "root": "kol",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "כֻּלָּךְ",
+        "transliteration": "kullakh",
+        "englishLiteral": "all-of-you",
+        "englishNatural": "all of you",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֶאֱסֹף יַעֲקֹב **כֻּלָּךְ** קַבֵּץ אֲקַבֵּץ",
+        "transliteration": "eEsof Yaaqov **kullakh** qabets eQabets",
+        "englishLiteral": "I-will-gather Heel_Grasper (Jacob) **all-of-you,** collecting I-will-collect",
+        "englishNatural": "I will gather Heel-Grasper (Jacob), **all of you,** collecting I will collect"
+      }
+    }
+  ]
+}

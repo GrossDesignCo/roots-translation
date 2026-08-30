@@ -1,0 +1,31 @@
+{
+  "root": "hoy",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "ה֧וֹי",
+        "transliteration": "hoy",
+        "englishLiteral": "Ho",
+        "englishNatural": "Ho",
+        "root": "hoy",
+        "morphology": {
+          "type": "interjection"
+        }
+      },
+      "context": {
+        "hebrew": "**ה֧וֹי** חֹֽשְׁבֵי־ אָ֛וֶן",
+        "transliteration": "**hoy** choshvei- aven",
+        "englishLiteral": "**Ho** planners-of trouble",
+        "englishNatural": "**Ho** planners of trouble"
+      }
+    }
+  ]
+}

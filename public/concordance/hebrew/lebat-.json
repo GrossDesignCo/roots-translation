@@ -27,6 +27,31 @@
         "englishLiteral": "the-child and-brought-him **to-daughter-of** Pharaoh and-was-",
         "englishNatural": "grew, and she brought him **to the daughter of** Pharaoh, and he was"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "לְבַת־",
+        "transliteration": "leBat-",
+        "englishLiteral": "to-daughter-of",
+        "englishNatural": "to the daughter of",
+        "root": "bat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַטָּאת הִיא **לְבַת־** צִיּוֹן כִּי־",
+        "transliteration": "chattaat hi **leBat-** Tziyon ki-",
+        "englishLiteral": "sin she **to-daughter-of** Marker (Zion); that-",
+        "englishNatural": "is the beginning of sin **to the daughter of** Marker (Zion); that"
+      }
     }
   ]
 }

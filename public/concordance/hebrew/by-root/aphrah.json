@@ -1,0 +1,31 @@
+{
+  "root": "aphrah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 10
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לְעַפְרָה",
+        "transliteration": "leAphrah",
+        "englishLiteral": "to-Dust (Aphrah)",
+        "englishNatural": "to Dust (Aphrah)",
+        "root": "aphrah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תִּבְכּוּ בְּבֵית **לְעַפְרָה** עָפָר הִתְפַּלָּשִׁי׃",
+        "transliteration": "tiVkhu beBeit **leAphrah** afar hitPalashi",
+        "englishLiteral": "you-will-weep; in-house-of **to-Dust (Aphrah),** dust wallow-yourself.",
+        "englishNatural": "not; in the house **to Dust (Aphrah),** dust, wallow yourself."
+      }
+    }
+  ]
+}

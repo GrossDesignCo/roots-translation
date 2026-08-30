@@ -1,0 +1,34 @@
+{
+  "key": "viyehi",
+  "language": "hebrew",
+  "root": "hayah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וִיהִי",
+        "transliteration": "viYehi",
+        "englishLiteral": "and-let-be",
+        "englishNatural": "be",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "jussive",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶרֶץ וּמְלֹאָהּ **וִיהִי** אֲדֹנָי יְהוִה",
+        "transliteration": "eretz uMeloah **viYehi** adonai YHWH",
+        "englishLiteral": "earth and-fullness-her; **and-let-be** Lord He_Who_Is (YHWH)",
+        "englishNatural": "and let Lord He-Who-Is (YHWH) **be** in you to a witness,"
+      }
+    }
+  ]
+}

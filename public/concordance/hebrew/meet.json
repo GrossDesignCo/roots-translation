@@ -1,7 +1,7 @@
 {
   "key": "meet",
   "language": "hebrew",
-  "root": "et",
+  "root": "et_with",
   "occurrences": [
     {
       "location": {
@@ -51,6 +51,31 @@
         "transliteration": "reehu veIshah **meEt** reutah keley-",
         "englishLiteral": "friend-his, and-woman **from-↳** friend-her, vessels-of",
         "englishNatural": "his friend and a woman **from** her friend vessels of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "מֵאֵת",
+        "transliteration": "meEt",
+        "englishLiteral": "from-with",
+        "englishNatural": "from with",
+        "root": "et_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יָרַד רָע **מֵאֵת** יְהוָה לְשַׁעַר",
+        "transliteration": "yarad ra **meEt** YHWH leShaar",
+        "englishLiteral": "he-has-gone_down bad **from-with** He_Who_Is (YHWH) to-gate-of",
+        "englishNatural": "bad has gone-down **from with** He-Who-Is (YHWH) to the gate of"
       }
     }
   ]

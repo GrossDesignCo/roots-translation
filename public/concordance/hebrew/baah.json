@@ -1,7 +1,7 @@
 {
   "key": "baah",
   "language": "hebrew",
-  "root": "baah",
+  "root": "bo",
   "occurrences": [
     {
       "location": {
@@ -82,6 +82,33 @@
         "transliteration": "vaYimtza aniyah **baah** Tarshish vaYitten",
         "englishLiteral": "and-found ship **going** golden_stone (Tarshish); and-gave",
         "englishNatural": "and he found a ship **going to** golden-stone (Tarshish); and he paid"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בָאָה",
+        "transliteration": "baah",
+        "englishLiteral": "she-has-come",
+        "englishNatural": "she has come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מַכּוֹתֶיהָ כִּי־ **בָאָה** עַד־ יְהוּדָה",
+        "transliteration": "makkoteiha ki- **baah** ad- Yehudah",
+        "englishLiteral": "blows-her; that- **she-has-come** until- Praise (Judah);",
+        "englishNatural": "her blows; that **she has come** until Praise (Judah);"
       }
     }
   ]

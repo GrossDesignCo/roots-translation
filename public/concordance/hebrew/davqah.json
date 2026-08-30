@@ -1,0 +1,34 @@
+{
+  "key": "davqah",
+  "language": "hebrew",
+  "root": "davaq",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "דָּ֥בְקָה",
+        "transliteration": "davqah",
+        "englishLiteral": "she-has-clung",
+        "englishNatural": "clung",
+        "root": "davaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לַחֲמוֹתָ֔הּ וְר֖וּת **דָּ֥בְקָה** בָּֽהּ׃",
+        "transliteration": "laChamotah veRut **davqah** bah",
+        "englishLiteral": "to-mother-in-law-her; and-Friend (Ruth) **she-has-clung** in-her.",
+        "englishNatural": "to her mother-in-law; but Friend (Ruth) **clung** in her."
+      }
+    }
+  ]
+}

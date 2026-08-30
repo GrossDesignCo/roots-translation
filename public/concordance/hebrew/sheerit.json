@@ -1,0 +1,32 @@
+{
+  "key": "sheerit",
+  "language": "hebrew",
+  "root": "sheerit",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שְׁאֵרִית",
+        "transliteration": "sheerit",
+        "englishLiteral": "remnant-of",
+        "englishNatural": "the remnant of",
+        "root": "sheerit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "קַבֵּץ אֲקַבֵּץ **שְׁאֵרִית** יִשְׂרָאֵל יַחַד",
+        "transliteration": "qabets eQabets **sheerit** Yisrael yachad",
+        "englishLiteral": "collecting I-will-collect **remnant-of** Struggles_with_God (Israel), together",
+        "englishNatural": "collecting I will collect **the remnant of** Struggles-with-God (Israel), together"
+      }
+    }
+  ]
+}

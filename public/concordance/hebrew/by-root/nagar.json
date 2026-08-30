@@ -1,0 +1,60 @@
+{
+  "root": "nagar",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "מֻגָּרִים",
+        "transliteration": "mugarim",
+        "englishLiteral": "cascaded",
+        "englishNatural": "cascaded",
+        "root": "nagar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hophal"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֵשׁ כְּמַיִם **מֻגָּרִים** בְּמוֹרָד׃",
+        "transliteration": "haEsh keMayim **mugarim** beMorad",
+        "englishLiteral": "the-fire, like-waters **cascaded** in-descent.",
+        "englishNatural": "the fire, like waters **cascaded** in a descent."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְהִגַּרְתִּי",
+        "transliteration": "veHigarti",
+        "englishLiteral": "and-I-have-cascaded",
+        "englishNatural": "and I will cascade",
+        "root": "nagar",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "לְמַטָּעֵי כָרֶם **וְהִגַּרְתִּי** לַגַּי אֲבָנֶיהָ",
+        "transliteration": "leMattei kerem **veHigarti** laGay avaneiha",
+        "englishLiteral": "to-plantings-of vineyard; **and-I-have-cascaded** to-the-valley stones-her,",
+        "englishNatural": "to plantings of vineyard; **and I will cascade** to the valley her stones,"
+      }
+    }
+  ]
+}

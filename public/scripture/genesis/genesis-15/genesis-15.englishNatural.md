@@ -16,7 +16,7 @@ and behold the son of my house inherits me."
 And behold the word of He-Who-Is (YHWH) came to him,
 saying,
 "Not will inherit you this;
-but he which will come out from your bowels, he will inherit you."
+but he which will come out from your belly, he will inherit you."
 
 And he brought out him outside, said, "Look now toward the heavens,
 and count the stars if you are able to count them."

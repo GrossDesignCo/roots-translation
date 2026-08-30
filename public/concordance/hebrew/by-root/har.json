@@ -276,6 +276,31 @@
         "englishLiteral": "I-went_down to-cutoffs-of **mountains;** the-earth, bars-her",
         "englishNatural": "I went down to the cutoffs of **the mountains;** the earth, her bars"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הֶהָרִים",
+        "transliteration": "heHarim",
+        "englishLiteral": "the-mountains",
+        "englishNatural": "and the mountains",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְנָמַסּוּ **הֶהָרִים** תַּחְתָּיו וְהָעֲמָקִים",
+        "transliteration": "veNamasu **heHarim** tachtav veHaAmaqim",
+        "englishLiteral": "and-they-have-been-melted **the-mountains** under-him, and-the-valleys",
+        "englishNatural": "**and the mountains** will be melted under him,"
+      }
     }
   ]
 }

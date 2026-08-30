@@ -51,6 +51,31 @@
         "englishLiteral": "in-you, all **families-of** the-earth.",
         "englishNatural": "in you, all **the families of** the earth."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הַמִּשְׁפָּחָה",
+        "transliteration": "haMishpachah",
+        "englishLiteral": "the-family",
+        "englishNatural": "family",
+        "root": "mishpachah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֹשֵׁב עַל־ **הַמִּשְׁפָּחָה** הַזֹּאת רָעָה",
+        "transliteration": "choshev al- **haMishpachah** haZot raah",
+        "englishLiteral": "planning over- **the-family** the-this bad;",
+        "englishNatural": "over this **family;** which you will displace"
+      }
     }
   ]
 }

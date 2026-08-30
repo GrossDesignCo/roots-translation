@@ -105,6 +105,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 13
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "עַ֚ד",
+        "transliteration": "ad",
+        "englishLiteral": "until",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הֲלָהֵ֣ן תְּשַׂבֵּ֗רְנָה **עַ֚ד** אֲשֶׁ֣ר יִגְדָּ֔לוּ",
+        "transliteration": "haLahen teshabbernah **ad** asher yigdalu",
+        "englishLiteral": "whether-to-them you-will-wait **until** which they-grow?",
+        "englishNatural": "Would you wait for them **until** which they would grow?"
+      }
+    },
+    {
+      "location": {
         "book": "Proverbs",
         "chapter": 8,
         "verse": 26

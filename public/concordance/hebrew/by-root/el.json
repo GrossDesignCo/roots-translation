@@ -2295,6 +2295,106 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁ֣בָה יְבִמְתֵּ֔ךְ **אֶל־** עַמָּ֖הּ וְאֶל־",
+        "transliteration": "shavah yevimtekh **el-** ammah veEl-",
+        "englishLiteral": "she-has-returned sister_in_law-your, **to-** people-her and-to-",
+        "englishNatural": "your sister-in-law has returned **to** her people and to"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְאֶל־",
+        "transliteration": "veEl-",
+        "englishLiteral": "and-to-",
+        "englishNatural": "and to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֶל־ עַמָּ֖הּ **וְאֶל־** אֱלֹהֶ֑יהָ שׁ֖וּבִי",
+        "transliteration": "el- ammah **veEl-** elohiha shuvi",
+        "englishLiteral": "to- people-her **and-to-** Gods-her; return",
+        "englishNatural": "to her people **and to** her gods; Return"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאַחֲרָיִךְ כִּי **אֶל־** אֲשֶׁר תֵּלְכִי",
+        "transliteration": "meAcharayikh ki **el-** asher teLkhi",
+        "englishLiteral": "from-after-you, that- **to-** which you-will-walk",
+        "englishNatural": "from after you, for **to** which you will walk,"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 18
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אֵלֶֽיהָ",
+        "transliteration": "eleha",
+        "englishLiteral": "to-her",
+        "englishNatural": "to her",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וַתֶּחְדַּ֖ל לְדַבֵּ֥ר **אֵלֶֽיהָ׃**",
+        "transliteration": "vatTechdal leDaber **eleha**",
+        "englishLiteral": "and-ceased to-speak **to-her.**",
+        "englishNatural": "and she ceased to speak **to her.**"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 7
@@ -3691,6 +3791,31 @@
         "transliteration": "vaYomer Elohim **el-** Yonah haHeitiv",
         "englishLiteral": "And-said Gods **to-** Dove (Jonah), \"the-doing_well",
         "englishNatural": "And God said **to** Dove (Jonah), \"Is the doing-well"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֶל־",
+        "transliteration": "el-",
+        "englishLiteral": "to-",
+        "englishNatural": "to",
+        "root": "el",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר הָיָה **אֶל־** מִיכָה הַמֹּרַשְׁתִּי",
+        "transliteration": "asher hayah **el-** Mikhah haMorashti",
+        "englishLiteral": "which was **to-** Who_Is_Like_He (Micah) the-Possessionite (Morashtite)",
+        "englishNatural": "which was **to** Who-Is-Like-He (Micah) the Possessionite (Morashtite),"
       }
     }
   ]

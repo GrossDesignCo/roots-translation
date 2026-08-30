@@ -1,0 +1,32 @@
+{
+  "key": "haod-",
+  "language": "hebrew",
+  "root": "od",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "הַעֽוֹד־",
+        "transliteration": "haOd-",
+        "englishLiteral": "the-again",
+        "englishNatural": "are there again",
+        "root": "od",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "תֵלַ֖כְנָה עִמִּ֑י **הַעֽוֹד־** לִ֤י בָנִים֙",
+        "transliteration": "telakhna immi **haOd-** li banim",
+        "englishLiteral": "you-will-walk with-me; **the-again** to-me sons",
+        "englishNatural": "will you walk with me; **are there again** to me sons"
+      }
+    }
+  ]
+}

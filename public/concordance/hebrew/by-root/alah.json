@@ -213,6 +213,33 @@
         "englishLiteral": "the-Gods worm **at-rising_of** the-dawn to-the-next_day,",
         "englishNatural": "appointed a worm **at the rising of** the dawn to the next-day,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "עָלָה",
+        "transliteration": "alah",
+        "englishLiteral": "He-has-gone_up",
+        "englishNatural": "has gone-up",
+        "root": "alah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**עָלָה** הַפֹּרֵץ לִפְנֵיהֶם",
+        "transliteration": "**alah** haPoretz liFneihem",
+        "englishLiteral": "**He-has-gone_up** the-breaking_through to-faces-their,",
+        "englishNatural": "The breaking-through **has gone-up** to their faces, they have broken-through,"
+      }
     }
   ]
 }

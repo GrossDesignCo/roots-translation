@@ -267,6 +267,114 @@
         "englishLiteral": "and-stood_up from-throne-his, **and-passed_through** robe-his from-over-him,",
         "englishNatural": "and he stood-up from his throne, **and he passed-through** his robe from over him,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "עִבְרִי",
+        "transliteration": "ivri",
+        "englishLiteral": "Pass_through",
+        "englishNatural": "Pass-through",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperative",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**עִבְרִי** לָכֶם יוֹשֶׁבֶת",
+        "transliteration": "**ivri** lakhem yoshevet",
+        "englishLiteral": "**Pass_through** to-you sitting-of",
+        "englishNatural": "**Pass-through** to you, the sitting of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 8
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "מֵעֹבְרִים",
+        "transliteration": "meOverim",
+        "englishLiteral": "from-passing_through-ones",
+        "englishNatural": "from those passing-through",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶדֶר תַּפְשִׁטוּן **מֵעֹבְרִים** בֶּטַח שׁוּבֵי",
+        "transliteration": "eder taPshitun **meOverim** betach shuvei",
+        "englishLiteral": "mantle you-will-strip; **from-passing_through-ones** security, returners-of",
+        "englishNatural": "a mantle you will strip; **from those passing-through** in security, returners of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וַיַּעֲבֹרוּ",
+        "transliteration": "vaYaavru",
+        "englishLiteral": "and-they-will-pass_through",
+        "englishNatural": "and they will pass-through",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "לִפְנֵיהֶם פָּרְצוּ **וַיַּעֲבֹרוּ** שַׁעַר וַיֵּצְאוּ",
+        "transliteration": "liFneihem partzu **vaYaavru** shaar vaYetzeu",
+        "englishLiteral": "to-faces-their, they-have-broken_through, **and-they-will-pass_through** gate, and-they-will-go_out",
+        "englishNatural": "to their faces, they have broken-through, **and they will pass-through** a gate, and they will go-out"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וַיַּעֲבֹר",
+        "transliteration": "vaYaavor",
+        "englishLiteral": "and-he-will-pass_through",
+        "englishNatural": "will pass-through",
+        "root": "avar",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וַיֵּצְאוּ בּוֹ **וַיַּעֲבֹר** מַלְכָּם לִפְנֵיהֶם",
+        "transliteration": "vaYetzeu bo **vaYaavor** malkam liFneihem",
+        "englishLiteral": "and-they-will-go_out in-it; **and-he-will-pass_through** king-their to-faces-their,",
+        "englishNatural": "in it; and their king **will pass-through** to their faces, and He-Who-Is (YHWH),"
+      }
     }
   ]
 }

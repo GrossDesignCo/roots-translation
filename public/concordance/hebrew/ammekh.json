@@ -1,0 +1,32 @@
+{
+  "key": "ammekh",
+  "language": "hebrew",
+  "root": "am",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "עַמֵּךְ",
+        "transliteration": "ammekh",
+        "englishLiteral": "people-your",
+        "englishNatural": "your people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תָּלִינִי אָלִין **עַמֵּךְ** עַמִּי וֵאלֹהַיִךְ",
+        "transliteration": "taLini aLin **ammekh** ammi veElohayikh",
+        "englishLiteral": "you-will-lodge I-will-lodge; **people-your** people-my, and-Gods-your",
+        "englishNatural": "you will lodge, I will lodge; **your people,** my people, and your God,"
+      }
+    }
+  ]
+}

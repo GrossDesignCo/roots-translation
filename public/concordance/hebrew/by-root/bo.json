@@ -1160,6 +1160,87 @@
         "englishLiteral": "And-began Dove (Jonah) **to-enter** in-city journey-of",
         "englishNatural": "And Dove (Jonah) began **to enter** in the city a journey of"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בָאָה",
+        "transliteration": "baah",
+        "englishLiteral": "she-has-come",
+        "englishNatural": "she has come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מַכּוֹתֶיהָ כִּי־ **בָאָה** עַד־ יְהוּדָה",
+        "transliteration": "makkoteiha ki- **baah** ad- Yehudah",
+        "englishLiteral": "blows-her; that- **she-has-come** until- Praise (Judah);",
+        "englishNatural": "her blows; that **she has come** until Praise (Judah);"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אָבִי",
+        "transliteration": "avi",
+        "englishLiteral": "I-will-bring",
+        "englishNatural": "I will bring",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹד הַיּוֹרֵשׁ **אָבִי** לָךְ יוֹשֶׁבֶת",
+        "transliteration": "od haYoresh **avi** lakh yoshevet",
+        "englishLiteral": "again the-inheriting **I-will-bring** to-you, sitting-of",
+        "englishNatural": "Again **I will bring** the one inheriting to you,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "יָבוֹא",
+        "transliteration": "yavo",
+        "englishLiteral": "he-will-come",
+        "englishNatural": "will come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַד־ עֲדֻלָּם **יָבוֹא** כְּבוֹד יִשְׂרָאֵל׃",
+        "transliteration": "ad- Adullam **yavo** kevod Yisrael",
+        "englishLiteral": "until- Refuge (Adullam) **he-will-come,** glory-of Struggles_with_God (Israel).",
+        "englishNatural": "the glory of Struggles-with-God (Israel) **will come.**"
+      }
     }
   ]
 }

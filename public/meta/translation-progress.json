@@ -8577,21 +8577,21 @@
             "7": true,
             "8": true,
             "9": true,
-            "10": false,
-            "11": false,
-            "12": false,
-            "13": false,
-            "14": false,
-            "15": false,
-            "16": false,
-            "17": false,
-            "18": false,
+            "10": true,
+            "11": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "15": true,
+            "16": true,
+            "17": true,
+            "18": true,
             "19": false,
             "20": false,
             "21": false,
             "22": false
           },
-          "progress": 40.909090909090914
+          "progress": 81.81818181818183
         },
         "2": {
           "chapterNumber": 2,
@@ -8675,7 +8675,7 @@
           "progress": 0
         }
       },
-      "progress": 10.588235294117647
+      "progress": 21.176470588235293
     },
     "FIRST_SAMUEL": {
       "bookName": "1 Samuel",
@@ -28137,43 +28137,43 @@
         "1": {
           "chapterNumber": 1,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
-            "5": false,
-            "6": false,
-            "7": false,
-            "8": false,
-            "9": false,
-            "10": false,
-            "11": false,
-            "12": false,
-            "13": false,
-            "14": false,
-            "15": false,
-            "16": false
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "15": true,
+            "16": true
           },
-          "progress": 0
+          "progress": 100
         },
         "2": {
           "chapterNumber": 2,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
-            "5": false,
-            "6": false,
-            "7": false,
-            "8": false,
-            "9": false,
-            "10": false,
-            "11": false,
-            "12": false,
-            "13": false
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true,
+            "13": true
           },
-          "progress": 0
+          "progress": 100
         },
         "3": {
           "chapterNumber": 3,
@@ -28282,7 +28282,7 @@
           "progress": 0
         }
       },
-      "progress": 0
+      "progress": 27.61904761904762
     },
     "NAHUM": {
       "bookName": "Nahum",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.8679870108992702
+  "totalProgress": 1.9901617207343343
 }

@@ -52,6 +52,31 @@
         "englishLiteral": "and-from-part vessels-of **house-of-** the-Gods, and-he-brought-them",
         "englishNatural": "and part of the vessels of **the house of** the God, and he brought them"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בֵּית־",
+        "transliteration": "beit-",
+        "englishLiteral": "house-of",
+        "englishNatural": "the house of",
+        "root": "bayit",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֶאָמוּר **בֵּית־** יַעֲקֹב הֲקָצַר",
+        "transliteration": "heAmur **beit-** Yaaqov haQatsar",
+        "englishLiteral": "the-said **house-of** Heel_Grasper (Jacob), whether-has-been-short",
+        "englishNatural": "Said, **the house of** Heel-Grasper (Jacob), is the Wind of"
+      }
     }
   ]
 }

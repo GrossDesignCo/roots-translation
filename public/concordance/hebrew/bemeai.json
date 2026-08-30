@@ -1,0 +1,32 @@
+{
+  "key": "bemeai",
+  "language": "hebrew",
+  "root": "meah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בְּֽמֵעַ֔י",
+        "transliteration": "beMeai",
+        "englishLiteral": "in-belly-my",
+        "englishNatural": "in my belly",
+        "root": "meah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִ֤י בָנִים֙ **בְּֽמֵעַ֔י** וְהָי֥וּ לָכֶ֖ם",
+        "transliteration": "li banim **beMeai** veHayu lakhem",
+        "englishLiteral": "to-me sons **in-belly-my,** and-will-be to-you",
+        "englishNatural": "to me sons **in my belly,** and would they be to you"
+      }
+    }
+  ]
+}

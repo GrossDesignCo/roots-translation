@@ -76,6 +76,31 @@
         "englishLiteral": "to-you that **naked** you? Is_it_from-",
         "englishNatural": "to you that **naked** you are? Is it from"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְעָרוֹם",
+        "transliteration": "veArom",
+        "englishLiteral": "and-naked",
+        "englishNatural": "and naked",
+        "root": "arom",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֵילְכָה שׁוֹלָל **וְעָרוֹם** אֶעֱשֶׂה מִסְפֵּד",
+        "transliteration": "eilekhah sholal **veArom** eeseh misped",
+        "englishLiteral": "I-will-walk spoiled **and-naked;** I-will-make lamentation",
+        "englishNatural": "I will walk spoiled **and naked;** I will make a lamentation"
+      }
     }
   ]
 }

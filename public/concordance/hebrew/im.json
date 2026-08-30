@@ -102,6 +102,31 @@
         "englishLiteral": "meet this **with** this He_Who_Is (YHWH)",
         "englishNatural": "meet together; **with** this He-Who-Is (YHWH)"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 7
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "עִם",
+        "transliteration": "im",
+        "englishLiteral": "with",
+        "englishNatural": "with",
+        "root": "im_with",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "דְבָרַי יֵיטִיבוּ **עִם** הַיָּשָׁר הוֹלֵךְ׃",
+        "transliteration": "devarai yeitivu **im** haYashar holekh",
+        "englishLiteral": "words-my they-will-do_well **with** the-straight walking.",
+        "englishNatural": "my words do-well **with** the straight walking?"
+      }
     }
   ]
 }

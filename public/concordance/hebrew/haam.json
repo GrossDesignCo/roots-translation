@@ -327,6 +327,31 @@
         "englishLiteral": "Make-fat heart-of **the-people** the-this, and-his-ears",
         "englishNatural": "Make-fat the heart of **this people,** the-this, and make-heavy"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "הָעָם",
+        "transliteration": "haAm",
+        "englishLiteral": "the-people",
+        "englishNatural": "people",
+        "root": "am",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְהָיָה מַטִּיף **הָעָם** הַזֶּה׃",
+        "transliteration": "veHayah maTtif **haAm** haZeh",
+        "englishLiteral": "and-he-has-been dripping **the-people** the-this.",
+        "englishNatural": "the dripping of this **people.**"
+      }
     }
   ]
 }

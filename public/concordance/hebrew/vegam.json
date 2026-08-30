@@ -80,6 +80,31 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 12
+      },
+      "wordIndex": 16,
+      "sourceOrder": 16,
+      "word": {
+        "originalScript": "וְגַ֖ם",
+        "transliteration": "veGam",
+        "englishLiteral": "and-also",
+        "englishNatural": "and also",
+        "root": "gam",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "הַלַּ֙יְלָה֙ לְאִ֔ישׁ **וְגַ֖ם** יָלַ֥דְתִּי בָנִֽים׃",
+        "transliteration": "haLaylah leIsh **veGam** yaldati banim",
+        "englishLiteral": "the-night to-man, **and-also** I-have-birthed sons,",
+        "englishNatural": "the night to a man, **and also** I have birthed sons,"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 7

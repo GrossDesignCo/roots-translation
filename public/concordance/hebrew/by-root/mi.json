@@ -226,6 +226,56 @@
         "englishLiteral": "**who-** knows? he-will-return",
         "englishNatural": "**Who** knows? The God"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "מִי־",
+        "transliteration": "mi-",
+        "englishLiteral": "who-",
+        "englishNatural": "who",
+        "root": "mi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "בֵּית יִשְׂרָאֵל **מִי־** פֶשַׁע יַעֲקֹב",
+        "transliteration": "beit Yisrael **mi-** pesha Yaaqov",
+        "englishLiteral": "house-of Struggles_with_God (Israel); **who-** transgression-of Heel_Grasper (Jacob),",
+        "englishNatural": "the house of Struggles-with-God (Israel); **who** is the transgression of Heel-Grasper (Jacob)?"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 5
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "וּמִי",
+        "transliteration": "uMi",
+        "englishLiteral": "and-who",
+        "englishNatural": "and who",
+        "root": "mi",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲלוֹא שֹׁמְרוֹן **וּמִי** בָּמוֹת יְהוּדָה",
+        "transliteration": "halo Shomron **uMi** bamot Yehudah",
+        "englishLiteral": "is_it_not Keep (Samaria), **and-who** high_places-of Praise (Judah),",
+        "englishNatural": "is it not Keep (Samaria)? **and who** are the high-places of Praise (Judah)?"
+      }
     }
   ]
 }

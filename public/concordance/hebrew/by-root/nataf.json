@@ -1,0 +1,141 @@
+{
+  "root": "nataf",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תַּטִּפוּ",
+        "transliteration": "taTtifu",
+        "englishLiteral": "you-will-drip",
+        "englishNatural": "You will drip",
+        "root": "nataf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ **תַּטִּפוּ** יַטִּיפוּן לֹא־",
+        "transliteration": "al- **taTtifu** yaTtifun lo-",
+        "englishLiteral": "not- **you-will-drip;** they-will-drip; not-",
+        "englishNatural": "**You will drip** not; they will drip;"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "יַטִּיפוּן",
+        "transliteration": "yaTtifun",
+        "englishLiteral": "they-will-drip",
+        "englishNatural": "they will drip",
+        "root": "nataf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "אַל־ תַּטִּפוּ **יַטִּיפוּן** לֹא־ יַטִּפוּ",
+        "transliteration": "al- taTtifu **yaTtifun** lo- yaTtifu",
+        "englishLiteral": "not- you-will-drip; **they-will-drip;** not- they-will-drip",
+        "englishNatural": "You will drip not; **they will drip;** they will drip not"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "יַטִּפוּ",
+        "transliteration": "yaTtifu",
+        "englishLiteral": "they-will-drip",
+        "englishNatural": "they will drip",
+        "root": "nataf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "יַטִּיפוּן לֹא־ **יַטִּפוּ** לָאֵלֶּה לֹא",
+        "transliteration": "yaTtifun lo- **yaTtifu** leEleh lo",
+        "englishLiteral": "they-will-drip; not- **they-will-drip** to-these, not",
+        "englishNatural": "not; they will drip; **they will drip** not to these;"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אַטִּף",
+        "transliteration": "attif",
+        "englishLiteral": "I-will-drip",
+        "englishNatural": "I will drip",
+        "root": "nataf",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וָשֶׁקֶר כִּזֵּב **אַטִּף** לְךָ לַיַּיִן",
+        "transliteration": "vaSheqer kizzev **attif** lekha laYayin",
+        "englishLiteral": "and-falsehood he-has-falsified, **I-will-drip** to-you, to-the-wine",
+        "englishNatural": "and falsehood has falsified, **I will drip** to you, to the wine"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "מַטִּיף",
+        "transliteration": "maTtif",
+        "englishLiteral": "dripping",
+        "englishNatural": "the dripping of",
+        "root": "nataf",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "hiphil"
+        }
+      },
+      "context": {
+        "hebrew": "וְלַשֵּׁכָר וְהָיָה **מַטִּיף** הָעָם הַזֶּה׃",
+        "transliteration": "veLaShekhar veHayah **maTtif** haAm haZeh",
+        "englishLiteral": "and-to-the-strong_drink; and-he-has-been **dripping** the-people the-this.",
+        "englishNatural": "and to the strong-drink; and he will be **the dripping of** this people."
+      }
+    }
+  ]
+}

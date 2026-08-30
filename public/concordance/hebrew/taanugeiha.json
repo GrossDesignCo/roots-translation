@@ -1,0 +1,32 @@
+{
+  "key": "taanugeiha",
+  "language": "hebrew",
+  "root": "taanug",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 9
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "תַּעֲנֻגֶיהָ",
+        "transliteration": "taanugeiha",
+        "englishLiteral": "luxuries-her",
+        "englishNatural": "her luxuries",
+        "root": "taanug",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תְּגָרְשׁוּן מִבֵּית **תַּעֲנֻגֶיהָ** מֵעַל עֹלָלֶיהָ",
+        "transliteration": "teGarshun miBeit **taanugeiha** meAl olaleiha",
+        "englishLiteral": "you-will-banish, from-house-of **luxuries-her;** from-over infants-her,",
+        "englishNatural": "you will banish from the house of **her luxuries;** from over her infants"
+      }
+    }
+  ]
+}

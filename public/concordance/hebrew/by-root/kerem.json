@@ -26,6 +26,31 @@
         "englishLiteral": "the-earth; And-planted, **vineyard.**",
         "englishNatural": "the earth; and planted **a vineyard.**"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "כָרֶם",
+        "transliteration": "kerem",
+        "englishLiteral": "vineyard",
+        "englishNatural": "vineyard",
+        "root": "kerem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַשָּׂדֶה לְמַטָּעֵי **כָרֶם** וְהִגַּרְתִּי לַגַּי",
+        "transliteration": "haSadeh leMattei **kerem** veHigarti laGay",
+        "englishLiteral": "the-field to-plantings-of **vineyard;** and-I-have-cascaded to-the-valley",
+        "englishNatural": "the field, to plantings of **vineyard;** and I will cascade to the valley"
+      }
     }
   ]
 }

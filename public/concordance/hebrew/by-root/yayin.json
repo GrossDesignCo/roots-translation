@@ -76,6 +76,31 @@
         "englishLiteral": "he-brought-out bread **and-wine,** and-he priest",
         "englishNatural": "brought out bread **and wine;** and he was priest"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "לַיַּיִן",
+        "transliteration": "laYayin",
+        "englishLiteral": "to-the-wine",
+        "englishNatural": "to the wine",
+        "root": "yayin",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַטִּף לְךָ **לַיַּיִן** וְלַשֵּׁכָר וְהָיָה",
+        "transliteration": "attif lekha **laYayin** veLaShekhar veHayah",
+        "englishLiteral": "I-will-drip to-you, **to-the-wine** and-to-the-strong_drink; and-he-has-been",
+        "englishNatural": "I will drip to you, **to the wine** and to the strong-drink; and he will be"
+      }
     }
   ]
 }

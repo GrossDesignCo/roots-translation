@@ -302,6 +302,106 @@
         "englishLiteral": "fuming_angrily- to-me, **unto-** death.\"",
         "englishNatural": "fuming-angrily to me, **unto** death.\""
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "עַד־",
+        "transliteration": "ad-",
+        "englishLiteral": "until-",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי־ בָאָה **עַד־** יְהוּדָה נָגַע",
+        "transliteration": "ki- baah **ad-** Yehudah naga",
+        "englishLiteral": "that- she-has-come **until-** Praise (Judah); he-has-touched",
+        "englishNatural": "that she has come **until** Praise (Judah); he has touched"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "עַד־",
+        "transliteration": "ad-",
+        "englishLiteral": "until-",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוּדָה נָגַע **עַד־** שַׁעַר עַמִּי",
+        "transliteration": "Yehudah naga **ad-** shaar ammi",
+        "englishLiteral": "Praise (Judah); he-has-touched **until-** gate-of people-my,",
+        "englishNatural": "Praise (Judah); he has touched **until** the gate of my people,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 9
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "עַד־",
+        "transliteration": "ad-",
+        "englishLiteral": "until-",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "שַׁעַר עַמִּי **עַד־** יְרוּשָׁלִָם׃",
+        "transliteration": "shaar ammi **ad-** Yerushalayim",
+        "englishLiteral": "gate-of people-my, **until-** Foundation_of_Peace (Jerusalem).",
+        "englishNatural": "the gate of my people, **until** Foundation-of-Peace (Jerusalem)."
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "עַד־",
+        "transliteration": "ad-",
+        "englishLiteral": "until-",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹשֶׁבֶת מָרֵשָׁה **עַד־** עֲדֻלָּם יָבוֹא",
+        "transliteration": "yoshevet Mareshah **ad-** Adullam yavo",
+        "englishLiteral": "sitting-of Inheritance (Mareshah); **until-** Refuge (Adullam) he-will-come,",
+        "englishNatural": "sitting one of Inheritance (Mareshah); **until** Refuge (Adullam) the glory of"
+      }
     }
   ]
 }

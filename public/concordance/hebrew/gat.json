@@ -1,0 +1,32 @@
+{
+  "key": "gat",
+  "language": "hebrew",
+  "root": "gat",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 14
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "גַּת",
+        "transliteration": "Gat",
+        "englishLiteral": "Winepress (Gath)",
+        "englishNatural": "Winepress (Gath)",
+        "root": "gat",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַל מוֹרֶשֶׁת **גַּת** בָּתֵּי אַכְזִיב",
+        "transliteration": "al Moreshet **Gat** batei Akhziv",
+        "englishLiteral": "over Possession (Moresheth) **Winepress (Gath);** houses-of Lie (Achzib)",
+        "englishNatural": "over Possession (Moresheth) **Winepress (Gath);** the houses of Lie (Achzib)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "root": "morad",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בְּמוֹרָד",
+        "transliteration": "beMorad",
+        "englishLiteral": "in-descent",
+        "englishNatural": "in a descent",
+        "root": "morad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כְּמַיִם מֻגָּרִים **בְּמוֹרָד׃**",
+        "transliteration": "keMayim mugarim **beMorad**",
+        "englishLiteral": "like-waters cascaded **in-descent.**",
+        "englishNatural": "like waters cascaded **in a descent.**"
+      }
+    }
+  ]
+}

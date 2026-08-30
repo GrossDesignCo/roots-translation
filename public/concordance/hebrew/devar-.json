@@ -127,6 +127,31 @@
         "englishLiteral": "And-was **word-of** He_Who_Is (YHWH) to-",
         "englishNatural": "**And the word of** He-Who-Is (YHWH) was"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "דְּבַר־",
+        "transliteration": "devar-",
+        "englishLiteral": "word-of",
+        "englishNatural": "The word of",
+        "root": "davar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**דְּבַר־** יְהוָה אֲשֶׁר",
+        "transliteration": "**devar-** YHWH asher",
+        "englishLiteral": "**word-of** He_Who_Is (YHWH) which",
+        "englishNatural": "**The word of** He-Who-Is (YHWH) which"
+      }
     }
   ]
 }

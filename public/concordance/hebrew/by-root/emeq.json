@@ -51,6 +51,31 @@
         "englishLiteral": "Level (Shaveh), he **valley-of** the-king.",
         "englishNatural": "Level (Shaveh), it is **the Valley of** the King."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְהָעֲמָקִים",
+        "transliteration": "veHaAmaqim",
+        "englishLiteral": "and-the-valleys",
+        "englishNatural": "and the valleys",
+        "root": "emeq",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֶהָרִים תַּחְתָּיו **וְהָעֲמָקִים** יִתְבַּקָּעוּ כַּדּוֹנַג",
+        "transliteration": "heHarim tachtav **veHaAmaqim** yitbaqaqu kaDonag",
+        "englishLiteral": "the-mountains under-him, **and-the-valleys** they-will-break_open, like-wax",
+        "englishNatural": "will be melted under him, **and the valleys** will break-open, like wax"
+      }
     }
   ]
 }

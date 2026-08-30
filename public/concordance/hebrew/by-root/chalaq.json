@@ -1,0 +1,33 @@
+{
+  "root": "chalaq",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 4
+      },
+      "wordIndex": 19,
+      "sourceOrder": 19,
+      "word": {
+        "originalScript": "יְחַלֵּק",
+        "transliteration": "yechalleq",
+        "englishLiteral": "he-will-allot",
+        "englishNatural": "he will allot",
+        "root": "chalaq",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "לְשׁוֹבֵב שָׂדֵינוּ **יְחַלֵּק׃**",
+        "transliteration": "leShovev sadeinu **yechalleq**",
+        "englishLiteral": "to-returning fields-our **he-will-allot.\"**",
+        "englishNatural": "to returning our fields **he will allot.\"**"
+      }
+    }
+  ]
+}

@@ -56,6 +56,33 @@
         "englishLiteral": "and-from- the-fire **brought_out** lightning.",
         "englishNatural": "and from the fire **brought-out** lightning."
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "יֹצֵא",
+        "transliteration": "yotze",
+        "englishLiteral": "going_out",
+        "englishNatural": "is going-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "participle",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הִנֵּה יְהוָה **יֹצֵא** מִמְּקוֹמוֹ וְיָרַד",
+        "transliteration": "hineh YHWH **yotze** miMeqomo veYarad",
+        "englishLiteral": "behold He_Who_Is (YHWH) **going_out** from-place-his; and-he-has-gone_down",
+        "englishNatural": "behold, He-Who-Is (YHWH) **is going-out** from his place; and he will go-down"
+      }
     }
   ]
 }

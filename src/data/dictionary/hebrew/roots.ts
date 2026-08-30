@@ -28,6 +28,7 @@ const ROOTS = {
     englishNatural: 'God',
     type: 'noun',
     translatedTo: ['theos'],
+    related: ['el_power'],
   },
   amar: {
     hebrew: 'אמר',
@@ -471,11 +472,20 @@ const ROOTS = {
     type: 'noun',
   },
   min: {
+    hebrew: 'מן',
+    transliteration: 'min',
+    englishLiteral: 'from',
+    englishNatural: 'from',
+    type: 'preposition',
+    description: 'from, out of, away from, since, than',
+  },
+  min_kind: {
     hebrew: 'מין',
     transliteration: 'min',
     englishLiteral: 'kind',
     englishNatural: 'kind',
     type: 'noun',
+    related: ['min'],
   },
   // Genesis 3:3 roots
   tokh: {
@@ -550,7 +560,7 @@ const ROOTS = {
     englishNatural: 'to send',
     type: 'verb',
     description: 'to send or to send-out, depending on intensity',
-    related: ['Metushalach', 'shalakh'],
+    related: ['Metushalach', 'shalakh', 'shilluch'],
   },
   shafakh: {
     hebrew: 'שָׁפַךְ',
@@ -688,6 +698,7 @@ const ROOTS = {
     englishNatural: 'cloak',
     type: 'noun',
     description: 'cloak, outer garment, mantle',
+    related: ['eder'],
   },
   shekhem: {
     hebrew: 'שכם',
@@ -703,6 +714,7 @@ const ROOTS = {
     englishLiteral: 'if',
     englishNatural: 'if',
     type: 'conjunction',
+    related: ['lu'],
   },
   nechoshet: {
     hebrew: 'נחשׁת',
@@ -742,6 +754,7 @@ const ROOTS = {
     englishLiteral: 'way',
     englishNatural: 'way',
     type: 'noun',
+    related: ['darakh'],
   },
   atar: {
     hebrew: 'אתר',
@@ -970,6 +983,7 @@ const ROOTS = {
     description:
       'the Philistines, from the hebrew word for wallowing or rolling in the mud',
     type: 'noun',
+    related: ['palash'],
   },
   shabar: {
     hebrew: 'שָׁבַר',
@@ -985,7 +999,7 @@ const ROOTS = {
     englishNatural: 'to strike-down',
     description:
       'to strike down, to defeat militarily, to strike out of existence',
-    related: ['nachash', 'nashakh'],
+    related: ['nachash', 'nashakh', 'makkah'],
     type: 'verb',
   },
   tov: {
@@ -1090,7 +1104,16 @@ const ROOTS = {
     type: 'verb',
     description:
       'to wait, hope, expect with strained anticipation; piel: to wait for; root sense of twisting or stretching taut like a cord; frequently paired with yachal; homograph distinct from qavah_gather (to collect)',
-    related: ['qavah_gather', 'yachal'],
+    related: ['qavah_gather', 'yachal', 'tikvah'],
+  },
+  tikvah: {
+    hebrew: 'תקוה',
+    transliteration: 'tikvah',
+    englishLiteral: 'hope',
+    englishNatural: 'hope',
+    type: 'noun',
+    description: 'hope, expectation; noun from qavah (to wait in tension)',
+    related: ['qavah'],
   },
   qahal: {
     hebrew: 'קהל',
@@ -1099,7 +1122,7 @@ const ROOTS = {
     englishNatural: 'to assemble',
     type: 'verb',
     description: 'to gather, to assemble, to call together; also used as noun for assembly or congregation',
-    related: ['edah'],
+    related: ['edah', 'qahal_congregation'],
   },
   maqom: {
     hebrew: 'מקום',
@@ -1132,6 +1155,16 @@ const ROOTS = {
     englishNatural: 'old age',
     type: 'noun',
     description: 'old age, gray hair, hoary head',
+    related: ['zaqen'],
+  },
+  zaqen: {
+    hebrew: 'זקן',
+    transliteration: 'zaqen',
+    englishLiteral: 'to grow_old',
+    englishNatural: 'to grow-old',
+    type: 'verb',
+    description: 'to grow old, become old, be old',
+    related: ['seivah'],
   },
   shalom: {
     hebrew: 'שלום',
@@ -1194,12 +1227,22 @@ const ROOTS = {
     related: ['ashar'],
     type: 'adjective',
   },
+  paga: {
+    hebrew: 'פגע',
+    transliteration: 'paga',
+    englishLiteral: 'to encounter',
+    englishNatural: 'to encounter',
+    type: 'verb',
+    description: 'to meet, encounter, fall upon; to entreat, intercede, plead',
+    related: ['pagash'],
+  },
   pagash: {
     hebrew: 'פגש',
     transliteration: 'pagash',
     englishLiteral: 'meet',
     englishNatural: 'meet',
     type: 'verb',
+    related: ['paga'],
   },
   zeh: {
     hebrew: 'זה',
@@ -1254,6 +1297,7 @@ const ROOTS = {
     englishLiteral: 'to rule',
     englishNatural: 'to rule',
     type: 'verb',
+    related: ['mashal_parable'],
   },
   qatan: {
     hebrew: 'קטן',
@@ -1378,7 +1422,7 @@ const ROOTS = {
     englishLiteral: 'dust',
     englishNatural: 'dust',
     type: 'noun',
-    related: ['adamah'],
+    related: ['adamah', 'aphrah'],
     description: 'dust of the earth, dry barrenness',
   },
   adam: {
@@ -1526,6 +1570,7 @@ const ROOTS = {
     englishLiteral: 'to stand',
     englishNatural: 'to stand',
     type: 'verb',
+    related: ['emdah'],
   },
   samach: {
     hebrew: 'שָׂמַח',
@@ -1678,6 +1723,7 @@ const ROOTS = {
     englishLiteral: 'to plant',
     englishNatural: 'to plant',
     type: 'verb',
+    related: ['matta'],
   },
   eden: {
     hebrew: 'עדן',
@@ -1778,6 +1824,7 @@ const ROOTS = {
     description:
       'to exercise great care over something, similar to shepherding or being faithful to, but more broad',
     type: 'verb',
+    related: ['shomron'],
   },
   // --- Added for Genesis 2:18 ---
   badad: {
@@ -2088,6 +2135,7 @@ const ROOTS = {
     englishLiteral: 'to be ashamed',
     englishNatural: 'to be ashamed',
     type: 'verb',
+    related: ['boshet'],
   },
   azav: {
     hebrew: 'עזב',
@@ -2267,6 +2315,7 @@ const ROOTS = {
     englishLiteral: 'woe',
     englishNatural: 'woe',
     type: 'interjection',
+    related: ['hoy'],
   },
   damah: {
     hebrew: 'דמה',
@@ -2473,6 +2522,7 @@ const ROOTS = {
     englishNatural: 'hear',
     description: 'to hear, listen, obey, understand',
     type: 'verb',
+    related: ['azan', 'qashav'],
   },
   chaba: {
     hebrew: 'חבא',
@@ -2578,6 +2628,7 @@ const ROOTS = {
     englishNatural: 'to deceive',
     type: 'verb',
     description: 'to deceive, to lead astray, to beguile',
+    related: ['kazav'],
   },
   // Added for Genesis 3:14
   arar: {
@@ -2683,6 +2734,7 @@ const ROOTS = {
     englishNatural: 'pain',
     type: 'noun',
     description: 'pain, sorrow, grief, toil',
+    related: ['atzav', 'atzav_idol'],
   },
   ben: {
     hebrew: 'בֵּן',
@@ -3034,6 +3086,7 @@ const ROOTS = {
     englishNatural: 'assembly',
     type: 'noun',
     description: 'congregation, assembly, community',
+    related: ['qahal', 'qahal_congregation'],
   },
   tzadiq: {
     hebrew: 'צַדִּיק',
@@ -3384,6 +3437,7 @@ const ROOTS = {
     transliteration: 'tzon',
     englishLiteral: 'flock',
     englishNatural: 'flock',
+    related: ['eder_herd'],
     type: 'noun',
     description: 'flock, sheep, goats',
   },
@@ -4188,7 +4242,7 @@ const ROOTS = {
     englishNatural: 'to hear',
     type: 'verb',
     description: 'to hear, listen, give ear to',
-    related: ['shama'],
+    related: ['shama', 'qashav'],
   },
   imrah: {
     hebrew: 'אִמְרָה',
@@ -4341,13 +4395,14 @@ const ROOTS = {
     type: 'numeral',
     description: 'thirty, the number thirty',
   },
-  meah: {
+  meah_hundred: {
     hebrew: 'מְאַת',
     transliteration: 'meah',
     englishLiteral: 'hundred',
     englishNatural: 'hundred',
     type: 'numeral',
     description: 'hundred, the number one hundred',
+    related: ['meah'],
   },
   // Genesis 5:4 additions
   achar: {
@@ -4743,6 +4798,7 @@ const ROOTS = {
     englishNatural: 'to go-down',
     type: 'verb',
     description: 'to go down, descend, come down',
+    related: ['morad'],
   },
   yafo: {
     hebrew: 'יפו',
@@ -4909,6 +4965,7 @@ const ROOTS = {
     englishNatural: 'sailor',
     type: 'noun',
     description: 'sailor, shipmaster, ship captain',
+    related: ['chevel'],
   },
   nirdam: {
     hebrew: 'נרדם',
@@ -5264,13 +5321,14 @@ const ROOTS = {
     type: 'verb',
     description: 'to swallow, swallow up, engulf',
   },
-  meah_bowels: {
+  meah: {
     hebrew: 'מעה',
     transliteration: 'meah',
-    englishLiteral: 'bowels',
-    englishNatural: 'bowels',
+    englishLiteral: 'belly',
+    englishNatural: 'belly',
     type: 'noun',
-    description: 'bowels, belly, intestines, inward parts',
+    description: 'belly, intestines, inward parts, womb',
+    related: ['meah_hundred'],
   },
   // Jonah 2:10 additions
   qey: {
@@ -5430,7 +5488,7 @@ const ROOTS = {
     type: 'verb',
     description:
       'to be strong, grow strong, strengthen, harden, intensify; in Qal: be/grow strong; in Piel: strengthen, make firm; in Hiphil: seize, grasp firmly, hold fast; with heart as object: to make obstinate/unyielding',
-    related: ['chozeq'],
+    related: ['chozeq', 'yechizqiyyah'],
   },
   chozeq: {
     hebrew: 'חֹזֶק',
@@ -5457,14 +5515,6 @@ const ROOTS = {
     englishNatural: 'palm',
     type: 'noun',
     description: 'palm of hand, hand, sole of foot',
-  },
-  min_from: {
-    hebrew: 'מן',
-    transliteration: 'min',
-    englishLiteral: 'from',
-    englishNatural: 'from',
-    type: 'preposition',
-    description: 'from, out of, away from, since, than',
   },
   // Jonah 3:9 additions
   charon: {
@@ -5503,7 +5553,7 @@ const ROOTS = {
     englishNatural: 'work',
     type: 'noun',
     description: 'work, deed, action, thing made',
-    related: ['asah'],
+    related: ['asah', 'maallal'],
   },
   lahem: {
     hebrew: 'להם',
@@ -6097,6 +6147,7 @@ const ROOTS = {
     englishNatural: 'to grieve',
     type: 'verb',
     description: 'to grieve, pain, hurt, be sorrowful',
+    related: ['etzev', 'atzav_idol'],
   },
   // Genesis 6:7 additions
   machah: {
@@ -6187,7 +6238,7 @@ const ROOTS = {
     englishNatural: 'whole',
     type: 'adjective',
     description: 'whole, complete, blameless, having integrity',
-    related: ['tamim'],
+    related: ['tamim', 'yotam'],
   },
   // Genesis 6:12 additions
   hineh: {
@@ -6961,7 +7012,8 @@ const ROOTS = {
     englishNatural: 'foundation',
     type: 'noun',
     description:
-      'foundation, base; from the root ysd (to found, establish, lay a foundation)',
+      'foundation, base; from the root ysd (to found, establish, lay a foundation); also covers יְסוֹד forms',
+    related: ['yasad'],
   },
   etsel: {
     hebrew: 'אֵצֶל',
@@ -6970,6 +7022,7 @@ const ROOTS = {
     englishNatural: 'beside',
     type: 'preposition',
     description: 'beside, by, near, with, at the side of',
+    related: ['ezel'],
   },
   amon: {
     hebrew: 'אָמוֹן',
@@ -7051,6 +7104,14 @@ const ROOTS = {
     type: 'particle',
     description:
       'come, come now; an interjection expressing encouragement or exhortation',
+  },
+  lun: {
+    hebrew: 'לין',
+    transliteration: 'lun',
+    englishLiteral: 'to lodge',
+    englishNatural: 'to lodge',
+    type: 'verb',
+    description: 'to lodge, stay overnight, abide, remain',
   },
   lavan: {
     hebrew: 'לָבַן',
@@ -7166,6 +7227,7 @@ const ROOTS = {
     englishNatural: 'vision',
     type: 'noun',
     description: 'vision, sight, appearance; prophetic vision or revelation',
+    related: ['chazah'],
   },
   anoki: {
     hebrew: 'אנכי',
@@ -7240,6 +7302,7 @@ const ROOTS = {
     englishNatural: 'to inherit',
     type: 'verb',
     description: 'to inherit, possess, dispossess; to take possession of',
+    related: ['morashti', 'moreshet', 'mareshah', 'nachalah'],
   },
   // Genesis 15:4 additions
   elav: {
@@ -7542,6 +7605,7 @@ const ROOTS = {
     englishNatural: 'wine',
     type: 'noun',
     description: 'wine; fermented grape juice',
+    related: ['shekhar'],
   },
   // Daniel 1:1 additions
   malkhut: {
@@ -7654,6 +7718,7 @@ const ROOTS = {
     type: 'noun',
     description:
       'Mishael; one of Daniel\'s companions, name means "Who is like God?"',
+    related: ['mikhah'],
   },
   azaryah: {
     hebrew: 'עזריה',
@@ -7730,6 +7795,7 @@ const ROOTS = {
     englishNatural: 'to lie',
     type: 'verb',
     description: 'to lie down, rest, sleep; bed (noun form)',
+    related: ['mishkav'],
   },
   raavon: {
     hebrew: 'רעיון',
@@ -7894,6 +7960,16 @@ const ROOTS = {
     englishNatural: 'father-in-law',
     type: 'noun',
     description: 'father-in-law, relative by marriage',
+    related: ['chamot'],
+  },
+  chamot: {
+    hebrew: 'חמות',
+    transliteration: 'chamot',
+    englishLiteral: 'mother_in_law',
+    englishNatural: 'mother-in-law',
+    type: 'noun',
+    description: 'mother-in-law, relative by marriage',
+    related: ['choten'],
   },
   midyan: {
     hebrew: 'מדין',
@@ -8072,6 +8148,7 @@ const ROOTS = {
     englishNatural: 'to ride',
     type: 'verb',
     description: 'to ride, mount (an animal or vehicle)',
+    related: ['merkavah'],
   },
   // Exodus 4:21 additions
   mofet: {
@@ -8455,7 +8532,7 @@ const ROOTS = {
     englishLiteral: 'Pleasant_My (Naomi)',
     englishNatural: 'My-Pleasant (Naomi)',
     type: 'noun',
-    description: 'Naomi; wife of Elimelech, mother-in-law of Ruth; posessive form of "pleasant one/pleasantness"',
+    description: 'Naomi; woman of Elimelech, mother-in-law of Ruth; posessive form of "pleasant one/pleasantness"',
   },
   machlon: {
     hebrew: 'מחלון',
@@ -8488,6 +8565,7 @@ const ROOTS = {
     englishNatural: 'to remain',
     type: 'verb',
     description: 'to remain, be left over, survive; in niphal: to be left behind, remain',
+    related: ['sheerit'],
   },
   moaviyot: {
     hebrew: 'מואביות',
@@ -8504,7 +8582,7 @@ const ROOTS = {
     englishLiteral: 'Neck (Orpah)',
     englishNatural: 'Neck (Orpah)',
     type: 'noun',
-    description: 'Orpah; daughter-in-law of Naomi, wife of Chilion; name means "neck" or "back of neck"',
+    description: 'Orpah; daughter-in-law of Naomi, woman of Chilion; name means "neck" or "back of neck"',
   },
   rut: {
     hebrew: 'רות',
@@ -8512,7 +8590,7 @@ const ROOTS = {
     englishLiteral: 'Friend (Ruth)',
     englishNatural: 'Friend (Ruth)',
     type: 'noun',
-    description: 'Ruth; daughter-in-law of Naomi, wife of Mahlon; name means "friend" or "companion"',
+    description: 'Ruth; daughter-in-law of Naomi, woman of Mahlon; name means "friend" or "companion"',
   },
   eser: {
     hebrew: 'עשר',
@@ -8531,6 +8609,25 @@ const ROOTS = {
     englishNatural: 'daughter-in-law',
     type: 'noun',
     description: 'daughter-in-law, bride',
+  },
+  yevimt: {
+    hebrew: 'יבמת',
+    transliteration: 'yevimt',
+    englishLiteral: 'sister_in_law',
+    englishNatural: 'sister-in-law',
+    type: 'noun',
+    description:
+      'sister-in-law (wife of deceased brother; levirate/yibbum context)',
+    related: ['yavam'],
+  },
+  yavam: {
+    hebrew: 'יבם',
+    transliteration: 'yavam',
+    englishLiteral: 'brother_in_law',
+    englishNatural: 'brother-in-law',
+    type: 'noun',
+    description: 'brother-in-law; levirate marriage (yibbum)',
+    related: ['yevimt'],
   },
   // Ruth 1:9 additions
   nashaq: {
@@ -8917,7 +9014,7 @@ const ROOTS = {
     type: 'verb',
     description:
       'to be strong, prevail, be mighty; used of waters overwhelming the land in the flood narrative',
-    related: ['gavah', 'gavoah'],
+    related: ['gavah', 'gavoah', 'gever'],
   },
   gavoah: {
     hebrew: 'גָּבֹהַּ',
@@ -9010,7 +9107,7 @@ const ROOTS = {
     englishNatural: 'to trust',
     type: 'verb',
     description: 'to trust, rely on, be confident, feel secure',
-    related: ['bitchah'],
+    related: ['bitchah', 'betach'],
   },
   bitchah: {
     hebrew: 'בִּטְחָה',
@@ -9019,7 +9116,7 @@ const ROOTS = {
     englishNatural: 'trust',
     type: 'noun',
     description: 'trust, confidence, security; noun form from batach (to trust)',
-    related: ['batach'],
+    related: ['batach', 'betach'],
   },
   gevurah: {
     hebrew: 'גְּבוּרָה',
@@ -9442,6 +9539,929 @@ const ROOTS = {
     englishNatural: 'stump',
     type: 'noun',
     description: 'stump, stock, pillar; the part that remains standing after felling',
+  },
+  // --- Micah 1:1–2 additions ---
+  mikhah: {
+    hebrew: 'מיכה',
+    transliteration: 'Mikhah',
+    englishLiteral: 'Who_Is_Like_He (Micah)',
+    englishNatural: 'Who-Is-Like-He (Micah)',
+    type: 'noun',
+    description:
+      'Micah; prophet from Moresheth; name means "Who is like Yah?" (Yah rendered as He)',
+    related: ['mishael'],
+  },
+  morashti: {
+    hebrew: 'מורשתי',
+    transliteration: 'Morashti',
+    englishLiteral: 'Possessionite (Morashtite)',
+    englishNatural: 'Possessionite (Morashtite)',
+    type: 'noun',
+    description:
+      'Morashtite; gentilic of Moresheth, from the inheritance/possession root ירש',
+    related: ['yarash', 'moreshet', 'mareshah'],
+  },
+  yotam: {
+    hebrew: 'יותם',
+    transliteration: 'Yotam',
+    englishLiteral: 'He_Is_Whole (Jotham)',
+    englishNatural: 'He-Is-Whole (Jotham)',
+    type: 'noun',
+    description:
+      'Jotham; king of Judah; name means "Yah is whole" (Yah rendered as He)',
+    related: ['tam'],
+  },
+  achaz: {
+    hebrew: 'אחז',
+    transliteration: 'achaz',
+    englishLiteral: 'to seize',
+    englishNatural: 'to seize',
+    type: 'verb',
+    description: 'to seize, grasp, take hold of',
+    related: ['achaz_name'],
+  },
+  achaz_name: {
+    hebrew: 'אחז',
+    transliteration: 'Achaz',
+    englishLiteral: 'Seized (Ahaz)',
+    englishNatural: 'Seized (Ahaz)',
+    type: 'noun',
+    description: 'Ahaz; king of Judah; name is the verb "seized" used as a proper name',
+    related: ['achaz'],
+  },
+  yechizqiyyah: {
+    hebrew: 'יחזקיה',
+    transliteration: 'Yechizqiyyah',
+    englishLiteral: 'He_Intensifies (Hezekiah)',
+    englishNatural: 'He-Intensifies (Hezekiah)',
+    type: 'noun',
+    description:
+      'Hezekiah; king of Judah; name means "Yah intensifies/strengthens" (Yah rendered as He)',
+    related: ['chazaq'],
+  },
+  chazah: {
+    hebrew: 'חזה',
+    transliteration: 'chazah',
+    englishLiteral: 'to gaze',
+    englishNatural: 'to gaze',
+    type: 'verb',
+    description:
+      'to gaze, behold intently; often of prophetic vision; distinct from ראה (to see)',
+    related: ['machazeh'],
+  },
+  shomron: {
+    hebrew: 'שמרון',
+    transliteration: 'Shomron',
+    englishLiteral: 'Keep (Samaria)',
+    englishNatural: 'Keep (Samaria)',
+    type: 'noun',
+    description:
+      'Samaria; capital of the northern kingdom; related to שמר (to keep)',
+    related: ['shamar'],
+  },
+  qashav: {
+    hebrew: 'קשב',
+    transliteration: 'qashav',
+    englishLiteral: 'to hearken',
+    englishNatural: 'to hearken',
+    type: 'verb',
+    description:
+      'to hearken, give careful ear; distinct from שמע (hear) and אזן (to hear / attend)',
+    related: ['shama', 'azan'],
+  },
+  // Ruth 1:13 additions
+  sabar: {
+    hebrew: 'סבר',
+    transliteration: 'sabar',
+    englishLiteral: 'to wait',
+    englishNatural: 'to wait',
+    type: 'verb',
+    description: 'to wait, tarry, hope; piel: to wait expectantly',
+  },
+  agen: {
+    hebrew: 'עגן',
+    transliteration: 'agen',
+    englishLiteral: 'to bind',
+    englishNatural: 'to bind',
+    type: 'verb',
+    description: 'to bind, anchor; niphal: to be bound, betrothed',
+  },
+  mar: {
+    hebrew: 'מר',
+    transliteration: 'mar',
+    englishLiteral: 'bitter',
+    englishNatural: 'bitter',
+    type: 'adjective',
+    description: 'bitter, grievous, painful',
+    related: ['marot'],
+  },
+  // --- Micah 1:3–5 additions ---
+  darakh: {
+    hebrew: 'דרך',
+    transliteration: 'darakh',
+    englishLiteral: 'to tread',
+    englishNatural: 'to tread',
+    type: 'verb',
+    description: 'to tread, march, walk upon; distinct from derekh (way)',
+    related: ['derekh'],
+  },
+  masas: {
+    hebrew: 'מסס',
+    transliteration: 'masas',
+    englishLiteral: 'to melt',
+    englishNatural: 'to melt',
+    type: 'verb',
+    description: 'to melt, dissolve; niphal: to melt away, be melted',
+  },
+  donag: {
+    hebrew: 'דונג',
+    transliteration: 'donag',
+    englishLiteral: 'wax',
+    englishNatural: 'wax',
+    type: 'noun',
+    description: 'wax (as melting before fire)',
+  },
+  nagar: {
+    hebrew: 'נגר',
+    transliteration: 'nagar',
+    englishLiteral: 'to cascade',
+    englishNatural: 'to cascade',
+    type: 'verb',
+    description:
+      'to cascade, pour down steeply; distinct from shafakh (pour) and nasakh (to pour_out)',
+  },
+  morad: {
+    hebrew: 'מורד',
+    transliteration: 'morad',
+    englishLiteral: 'descent',
+    englishNatural: 'descent',
+    type: 'noun',
+    description: 'descent, slope, steep place; related to ירד (to go_down)',
+    related: ['yarad'],
+  },
+  bamah_high: {
+    hebrew: 'במה',
+    transliteration: 'bamah',
+    englishLiteral: 'high_place',
+    englishNatural: 'high-place',
+    type: 'noun',
+    description:
+      'high place, height, cultic height; distinct from bamah (by-what / בַּמָּה)',
+  },
+  // --- Micah 1:6–8 additions ---
+  iy: {
+    hebrew: 'עי',
+    transliteration: 'iy',
+    englishLiteral: 'heap',
+    englishNatural: 'heap',
+    type: 'noun',
+    description: 'heap, ruin-heap, rubble mound',
+  },
+  matta: {
+    hebrew: 'מטע',
+    transliteration: 'matta',
+    englishLiteral: 'planting',
+    englishNatural: 'planting',
+    type: 'noun',
+    description: 'planting, place of planting; from נטע (to plant)',
+    related: ['nata'],
+  },
+  katat: {
+    hebrew: 'כתת',
+    transliteration: 'katat',
+    englishLiteral: 'to beat',
+    englishNatural: 'to beat',
+    type: 'verb',
+    description:
+      'to beat, smash, crush by pounding; distinct from daqaq (to crush fine)',
+  },
+  etnan: {
+    hebrew: 'אתנן',
+    transliteration: 'etnan',
+    englishLiteral: 'hire',
+    englishNatural: 'hire',
+    type: 'noun',
+    description: "hire, wage; especially a harlot's hire",
+    related: ['zonah'],
+  },
+  zonah: {
+    hebrew: 'זונה',
+    transliteration: 'zonah',
+    englishLiteral: 'harlot',
+    englishNatural: 'harlot',
+    type: 'noun',
+    description: 'harlot, prostitute',
+    related: ['etnan'],
+  },
+  atzav_idol: {
+    hebrew: 'עצב',
+    transliteration: 'atzav',
+    englishLiteral: 'idol',
+    englishNatural: 'idol',
+    type: 'noun',
+    description:
+      'idol, image (that which grieves); distinct from atzav (to grieve) and etzev (pain)',
+    related: ['atzav', 'etzev'],
+  },
+  qavatz: {
+    hebrew: 'קבץ',
+    transliteration: 'qavatz',
+    englishLiteral: 'to collect',
+    englishNatural: 'to collect',
+    type: 'verb',
+    description:
+      'to collect, assemble by gathering in; distinct from asaph/qavah_gather (to gather) — different root letters (קבץ vs קוה/אסף)',
+  },
+  saphad: {
+    hebrew: 'ספד',
+    transliteration: 'saphad',
+    englishLiteral: 'to lament',
+    englishNatural: 'to lament',
+    type: 'verb',
+    description: 'to lament, mourn, beat the breast in mourning',
+    related: ['misped'],
+  },
+  misped: {
+    hebrew: 'מספד',
+    transliteration: 'misped',
+    englishLiteral: 'lamentation',
+    englishNatural: 'lamentation',
+    type: 'noun',
+    description: 'lamentation, mourning cry; from ספד (to lament)',
+    related: ['saphad'],
+  },
+  yalal: {
+    hebrew: 'ילל',
+    transliteration: 'yalal',
+    englishLiteral: 'to howl',
+    englishNatural: 'to howl',
+    type: 'verb',
+    description: 'to howl, wail loudly',
+  },
+  shalal: {
+    hebrew: 'שלל',
+    transliteration: 'shalal',
+    englishLiteral: 'to spoil',
+    englishNatural: 'to spoil',
+    type: 'verb',
+    description: 'to spoil, plunder; participle/adjective שׁוֹלָל: spoiled, stripped',
+  },
+  tan: {
+    hebrew: 'תן',
+    transliteration: 'tan',
+    englishLiteral: 'jackal',
+    englishNatural: 'jackal',
+    type: 'noun',
+    description: 'jackal (desert howler); traditionally also rendered dragon/serpent in some older translations',
+  },
+  evel: {
+    hebrew: 'אבל',
+    transliteration: 'evel',
+    englishLiteral: 'mourning',
+    englishNatural: 'mourning',
+    type: 'noun',
+    description: 'mourning, lamentation, grief ritual',
+  },
+  yaanah: {
+    hebrew: 'יענה',
+    transliteration: 'yaanah',
+    englishLiteral: 'ostrich',
+    englishNatural: 'ostrich',
+    type: 'noun',
+    description: 'ostrich (daughter of greed/owl in older renderings); desert bird known for loud cries',
+  },
+  // --- Micah 1:9 additions ---
+  anush: {
+    hebrew: 'אנוש',
+    transliteration: 'anush',
+    englishLiteral: 'incurable',
+    englishNatural: 'incurable',
+    type: 'adjective',
+    description:
+      'incurable, desperate, mortal (of a wound); distinct from anash (to punish) and enosh (Mortal_Man)',
+  },
+  makkah: {
+    hebrew: 'מכה',
+    transliteration: 'makkah',
+    englishLiteral: 'blow',
+    englishNatural: 'blow',
+    type: 'noun',
+    description:
+      'blow, stroke, plague, wounding strike; from nakah (to strike_down); distinct from petza (wound)',
+    related: ['nakah'],
+  },
+  // --- Micah 1:16 additions ---
+  qarach: {
+    hebrew: 'קרח',
+    transliteration: 'qarach',
+    englishLiteral: 'to make_bald',
+    englishNatural: 'to make-bald',
+    type: 'verb',
+    description: 'to make bald, shave the head in mourning',
+    related: ['qorchah'],
+  },
+  qorchah: {
+    hebrew: 'קרחה',
+    transliteration: 'qorchah',
+    englishLiteral: 'baldness',
+    englishNatural: 'baldness',
+    type: 'noun',
+    description: 'baldness, bald spot; from קרח (to make_bald)',
+    related: ['qarach'],
+  },
+  gazaz: {
+    hebrew: 'גזז',
+    transliteration: 'gazaz',
+    englishLiteral: 'to shear',
+    englishNatural: 'to shear',
+    type: 'verb',
+    description: 'to shear, cut hair/wool; poll the head',
+  },
+  taanug: {
+    hebrew: 'תענוג',
+    transliteration: 'taanug',
+    englishLiteral: 'luxury',
+    englishNatural: 'luxury',
+    type: 'noun',
+    description: 'luxury, delight, delicate pleasure',
+  },
+  rachav: {
+    hebrew: 'רחב',
+    transliteration: 'rachav',
+    englishLiteral: 'to widen',
+    englishNatural: 'to widen',
+    type: 'verb',
+    description: 'to widen, enlarge, make broad',
+  },
+  // --- Micah 1:14–15 additions ---
+  shilluch: {
+    hebrew: 'שלוח',
+    transliteration: 'shilluch',
+    englishLiteral: 'send_off',
+    englishNatural: 'send-off',
+    type: 'noun',
+    description: 'send-off, parting gift, dismissal present; from שׁלח (to send)',
+    related: ['shalach'],
+  },
+  moreshet: {
+    hebrew: 'מורשת',
+    transliteration: 'Moreshet',
+    englishLiteral: 'Possession (Moresheth)',
+    englishNatural: 'Possession (Moresheth)',
+    type: 'noun',
+    description:
+      'Moresheth (also Moresheth-gath); place name from ירש (to inherit)',
+    related: ['morashti', 'yarash', 'mareshah'],
+  },
+  gat: {
+    hebrew: 'גת',
+    transliteration: 'Gat',
+    englishLiteral: 'Winepress (Gath)',
+    englishNatural: 'Winepress (Gath)',
+    type: 'noun',
+    description: 'Gath; Philistine city; name means winepress',
+  },
+  achziv: {
+    hebrew: 'אכזיב',
+    transliteration: 'Achziv',
+    englishLiteral: 'Lie (Achzib)',
+    englishNatural: 'Lie (Achzib)',
+    type: 'noun',
+    description:
+      'Achzib; place name playing on אַכְזָב (lie/deceit); distinct from shakhav (to lie down)',
+    related: ['achzav'],
+  },
+  achzav: {
+    hebrew: 'אכזב',
+    transliteration: 'achzav',
+    englishLiteral: 'lie',
+    englishNatural: 'lie',
+    type: 'noun',
+    description:
+      'lie, deceit, failing brook; noun of falsehood/disappointment; distinct from sheqer (falsehood) and shakhav (to lie down)',
+    related: ['achziv'],
+  },
+  mareshah: {
+    hebrew: 'מרשה',
+    transliteration: 'Mareshah',
+    englishLiteral: 'Inheritance (Mareshah)',
+    englishNatural: 'Inheritance (Mareshah)',
+    type: 'noun',
+    description:
+      'Mareshah; Judean city; name from ירש (to inherit); wordplay with יורֵשׁ',
+    related: ['yarash', 'moreshet', 'morashti'],
+  },
+  adullam: {
+    hebrew: 'עדלם',
+    transliteration: 'Adullam',
+    englishLiteral: 'Refuge (Adullam)',
+    englishNatural: 'Refuge (Adullam)',
+    type: 'noun',
+    description:
+      'Adullam; Judean city/cave; gloss Refuge is contextual (etymology uncertain)',
+  },
+  // --- Micah 1:12 additions ---
+  chalah: {
+    hebrew: 'חלה',
+    transliteration: 'chalah',
+    englishLiteral: 'to be_sick',
+    englishNatural: 'to be sick',
+    type: 'verb',
+    description: 'to be sick, weak, or in anguish; to grow ill',
+  },
+  marot: {
+    hebrew: 'מרות',
+    transliteration: 'Marot',
+    englishLiteral: 'Bitternesses (Maroth)',
+    englishNatural: 'Bitternesses (Maroth)',
+    type: 'noun',
+    description: 'Maroth; place name from מר (bitter)',
+    related: ['mar'],
+  },
+  // --- Micah 1:10 additions ---
+  aphrah: {
+    hebrew: 'עפרה',
+    transliteration: 'Aphrah',
+    englishLiteral: 'Dust (Aphrah)',
+    englishNatural: 'Dust (Aphrah)',
+    type: 'noun',
+    description: 'Aphrah (Beth-le-Aphrah); place name playing on עפר (dust)',
+    related: ['afar'],
+  },
+  palash: {
+    hebrew: 'פלש',
+    transliteration: 'palash',
+    englishLiteral: 'to wallow',
+    englishNatural: 'to wallow',
+    type: 'verb',
+    description: 'to wallow or roll (in dust); root of פלשת (Philistia/Wallowers)',
+    related: ['Peleshet'],
+  },
+  // --- Micah 1:13 additions ---
+  ratam: {
+    hebrew: 'רתם',
+    transliteration: 'ratam',
+    englishLiteral: 'to harness',
+    englishNatural: 'to harness',
+    type: 'verb',
+    description: 'to harness, bind (a chariot to a steed)',
+  },
+  merkavah: {
+    hebrew: 'מרכבה',
+    transliteration: 'merkavah',
+    englishLiteral: 'chariot',
+    englishNatural: 'chariot',
+    type: 'noun',
+    description: 'chariot, riding-vehicle; from רכב (to ride)',
+    related: ['rakav'],
+  },
+  rekhesh: {
+    hebrew: 'רכש',
+    transliteration: 'rekhesh',
+    englishLiteral: 'steed',
+    englishNatural: 'steed',
+    type: 'noun',
+    description: 'steed, swift horse or team for chariots',
+  },
+  lakhish: {
+    hebrew: 'לכיש',
+    transliteration: 'Lakhish',
+    englishLiteral: 'Invincible (Lachish)',
+    englishNatural: 'Invincible (Lachish)',
+    type: 'noun',
+    description: 'Lachish; fortified Judean city (etymology uncertain; gloss Invincible is traditional)',
+  },
+  tziyon: {
+    hebrew: 'ציון',
+    transliteration: 'Tziyon',
+    englishLiteral: 'Marker (Zion)',
+    englishNatural: 'Marker (Zion)',
+    type: 'noun',
+    description: 'Zion; Jerusalem/Temple mount; from a root for landmark/marker',
+  },
+  // --- Micah 1:11 additions ---
+  shapir: {
+    hebrew: 'שפיר',
+    transliteration: 'Shapir',
+    englishLiteral: 'Fair (Saphir)',
+    englishNatural: 'Fair (Saphir)',
+    type: 'noun',
+    description: 'Saphir; place name meaning fair/beautiful',
+  },
+  boshet: {
+    hebrew: 'בשת',
+    transliteration: 'boshet',
+    englishLiteral: 'shame',
+    englishNatural: 'shame',
+    type: 'noun',
+    description: 'shame, disgrace; noun from בוש (to be ashamed)',
+    related: ['bosh', 'kelimah'],
+  },
+  zaanan: {
+    hebrew: 'צאנן',
+    transliteration: 'Zaanan',
+    englishLiteral: 'Sheepfold (Zaanan)',
+    englishNatural: 'Sheepfold (Zaanan)',
+    type: 'noun',
+    description:
+      'Zaanan; place name (sheepfold/pasture sense); wordplay with יצא (to go out)',
+  },
+  ezel: {
+    hebrew: 'אצל',
+    transliteration: 'Ezel',
+    englishLiteral: 'Beside (Ezel)',
+    englishNatural: 'Beside (Ezel)',
+    type: 'noun',
+    description: 'Ezel (Beth-ha-Ezel); place name from אצל (beside)',
+    related: ['etsel'],
+  },
+  emdah: {
+    hebrew: 'עמדה',
+    transliteration: 'emdah',
+    englishLiteral: 'standing',
+    englishNatural: 'standing',
+    type: 'noun',
+    description: 'standing, support, foothold; from עמד (to stand)',
+    related: ['amad'],
+  },
+  // --- Micah 2:2 additions ---
+  gazal: {
+    hebrew: 'גזל',
+    transliteration: 'gazal',
+    englishLiteral: 'to rob',
+    englishNatural: 'to rob',
+    type: 'verb',
+    description: 'to rob, seize by violence, snatch away',
+  },
+  ashaq: {
+    hebrew: 'עשק',
+    transliteration: 'ashaq',
+    englishLiteral: 'to oppress',
+    englishNatural: 'to oppress',
+    type: 'verb',
+    description: 'to oppress, exploit, wrong by force',
+  },
+  gever: {
+    hebrew: 'גבר',
+    transliteration: 'gever',
+    englishLiteral: 'strong_man',
+    englishNatural: 'strong-man',
+    type: 'noun',
+    description: 'strong man, mighty man; from גבר (to prevail); distinct from ish (man)',
+    related: ['gavar'],
+  },
+  nachalah: {
+    hebrew: 'נחלה',
+    transliteration: 'nachalah',
+    englishLiteral: 'inheritance',
+    englishNatural: 'inheritance',
+    type: 'noun',
+    description: 'inheritance, hereditary possession, heritage',
+    related: ['yarash'],
+  },
+  // --- Micah 2:5 additions ---
+  chevel: {
+    hebrew: 'חבל',
+    transliteration: 'chevel',
+    englishLiteral: 'cord',
+    englishNatural: 'cord',
+    type: 'noun',
+    description:
+      'cord, rope, measuring line (for casting lots/allotting land); from חבל; distinct from chovel (sailor) and chevel_destruction (same root, different sense); not related to hevel (הבל, vapor)',
+    related: ['chovel', 'chevel_destruction', 'chabal'],
+  },
+  qahal_congregation: {
+    hebrew: 'קהל',
+    transliteration: 'qahal',
+    englishLiteral: 'congregation',
+    englishNatural: 'congregation',
+    type: 'noun',
+    description:
+      'congregation, assembly of people; noun from קהל (to assemble); distinct from edah (assembly)',
+    related: ['qahal', 'edah'],
+  },
+  // --- Micah 2:1 additions ---
+  hoy: {
+    hebrew: 'הוי',
+    transliteration: 'hoy',
+    englishLiteral: 'ho',
+    englishNatural: 'ho',
+    type: 'interjection',
+    description:
+      'ho, alas (attention/woe cry); distinct from oy (אוי, woe)',
+    related: ['oy'],
+  },
+  aven: {
+    hebrew: 'און',
+    transliteration: 'aven',
+    englishLiteral: 'trouble',
+    englishNatural: 'trouble',
+    type: 'noun',
+    description: 'trouble, iniquity, wickedness, sorrow',
+  },
+  mishkav: {
+    hebrew: 'משכב',
+    transliteration: 'mishkav',
+    englishLiteral: 'bed',
+    englishNatural: 'bed',
+    type: 'noun',
+    description: 'bed, couch, lying-place; from שכב (to lie)',
+    related: ['shakhav'],
+  },
+  el_power: {
+    hebrew: 'אל',
+    transliteration: 'el',
+    englishLiteral: 'power',
+    englishNatural: 'power',
+    type: 'noun',
+    description:
+      'power, capability (as in יֵשׁ לְאֵל יָדָם, in the power of the hand); distinct from preposition el (to) and eloah (God)',
+    related: ['eloah'],
+  },
+  // --- Micah 2:8 additions ---
+  etmol: {
+    hebrew: 'אתמול',
+    transliteration: 'etmol',
+    englishLiteral: 'yesterday',
+    englishNatural: 'yesterday',
+    type: 'adverb',
+    description: 'yesterday, formerly, of late',
+  },
+  mul: {
+    hebrew: 'מול',
+    transliteration: 'mul',
+    englishLiteral: 'front',
+    englishNatural: 'front',
+    type: 'noun',
+    description: 'front, opposite side; often in מִמּוּל (from before/opposite)',
+  },
+  eder: {
+    hebrew: 'אדר',
+    transliteration: 'eder',
+    englishLiteral: 'mantle',
+    englishNatural: 'mantle',
+    type: 'noun',
+    description:
+      'mantle, splendid garment; distinct from eder_herd (עדר, herd)',
+    related: ['simlah'],
+  },
+  pashat: {
+    hebrew: 'פשט',
+    transliteration: 'pashat',
+    englishLiteral: 'to strip',
+    englishNatural: 'to strip',
+    type: 'verb',
+    description: 'to strip off, flay, raid; remove a garment',
+  },
+  betach: {
+    hebrew: 'בטח',
+    transliteration: 'betach',
+    englishLiteral: 'security',
+    englishNatural: 'security',
+    type: 'noun',
+    description:
+      'security, safety, confidence; adverbial sense “securely”; from בטח (to trust)',
+    related: ['batach', 'bitchah'],
+  },
+  milchamah: {
+    hebrew: 'מלחמה',
+    transliteration: 'milchamah',
+    englishLiteral: 'war',
+    englishNatural: 'war',
+    type: 'noun',
+    description: 'war, battle, fighting',
+  },
+  // --- Micah 2:6 additions ---
+  nataf: {
+    hebrew: 'נטף',
+    transliteration: 'nataf',
+    englishLiteral: 'to drip',
+    englishNatural: 'to drip',
+    type: 'verb',
+    description:
+      'to drip, drop; hiphil of prophetic speech (“drip” words/oracles)',
+  },
+  sug: {
+    hebrew: 'סוג',
+    transliteration: 'sug',
+    englishLiteral: 'to turn_back',
+    englishNatural: 'to turn-back',
+    type: 'verb',
+    description: 'to turn back, withdraw, move away; niphal: be turned back',
+  },
+  kelimah: {
+    hebrew: 'כלמה',
+    transliteration: 'kelimah',
+    englishLiteral: 'disgrace',
+    englishNatural: 'disgrace',
+    type: 'noun',
+    description: 'disgrace, ignominy, insult; distinct from boshet (shame)',
+    related: ['boshet'],
+  },
+  // --- Micah 2:10 additions ---
+  chabal: {
+    hebrew: 'חבל',
+    transliteration: 'chabal',
+    englishLiteral: 'to destroy',
+    englishNatural: 'to destroy',
+    type: 'verb',
+    description:
+      'to destroy, ruin, corrupt; also to take as pledge (other stems/contexts)',
+    related: ['chevel', 'chevel_destruction'],
+  },
+  chevel_destruction: {
+    hebrew: 'חבל',
+    transliteration: 'chevel',
+    englishLiteral: 'destruction',
+    englishNatural: 'destruction',
+    type: 'noun',
+    description:
+      'destruction, ruin, pang; noun from חבל (to destroy); distinct from chevel (cord)',
+    related: ['chabal', 'chevel'],
+  },
+  nimrats: {
+    hebrew: 'נמרץ',
+    transliteration: 'nimrats',
+    englishLiteral: 'grievous',
+    englishNatural: 'grievous',
+    type: 'adjective',
+    description: 'grievous, severe, sore, sharp',
+  },
+  // --- Micah 2:11 additions ---
+  lu: {
+    hebrew: 'לו',
+    transliteration: 'lu',
+    englishLiteral: 'if_only',
+    englishNatural: 'if only',
+    type: 'conjunction',
+    description: 'if only, O that, would that; also used as conditional “if”',
+    related: ['im'],
+  },
+  kazav: {
+    hebrew: 'כזב',
+    transliteration: 'kazav',
+    englishLiteral: 'to falsify',
+    englishNatural: 'to falsify',
+    type: 'verb',
+    description:
+      'to lie, speak falsely, prove false; distinct from nasha (to deceive), achzav (lie noun), shakhav (to lie down)',
+    related: ['achzav', 'achziv', 'sheqer', 'nasha'],
+  },
+  shekhar: {
+    hebrew: 'שכר',
+    transliteration: 'shekhar',
+    englishLiteral: 'strong_drink',
+    englishNatural: 'strong-drink',
+    type: 'noun',
+    description: 'strong drink, intoxicating beverage; distinct from yayin (wine)',
+    related: ['yayin'],
+  },
+  // --- Micah 2:13 additions ---
+  parats: {
+    hebrew: 'פרץ',
+    transliteration: 'parats',
+    englishLiteral: 'to break_through',
+    englishNatural: 'to break-through',
+    type: 'verb',
+    description:
+      'to break through, burst forth, make a breach; distinct from shavar (to break) and baqa (to break_open)',
+  },
+  // --- Micah 2:3–4 additions ---
+  mush: {
+    hebrew: 'מוש',
+    transliteration: 'mush',
+    englishLiteral: 'to displace',
+    englishNatural: 'to displace',
+    type: 'verb',
+    description: 'to remove, displace, take away, depart',
+  },
+  tzavar: {
+    hebrew: 'צואר',
+    transliteration: 'tzavar',
+    englishLiteral: 'neck',
+    englishNatural: 'neck',
+    type: 'noun',
+    description: 'neck',
+  },
+  mashal_parable: {
+    hebrew: 'משל',
+    transliteration: 'mashal',
+    englishLiteral: 'parable',
+    englishNatural: 'parable',
+    type: 'noun',
+    description:
+      'parable, proverb, taunt-song; noun from משל; distinct from mashal (to rule)',
+    related: ['mashal'],
+  },
+  nahah: {
+    hebrew: 'נהה',
+    transliteration: 'nahah',
+    englishLiteral: 'to wail',
+    englishNatural: 'to wail',
+    type: 'verb',
+    description: 'to wail, lament, moan',
+    related: ['nehi'],
+  },
+  nehi: {
+    hebrew: 'נהי',
+    transliteration: 'nehi',
+    englishLiteral: 'wailing',
+    englishNatural: 'wailing',
+    type: 'noun',
+    description: 'wailing, lamentation; from נהה (to wail)',
+    related: ['nahah'],
+  },
+  shadad: {
+    hebrew: 'שדד',
+    transliteration: 'shadad',
+    englishLiteral: 'to devastate',
+    englishNatural: 'to devastate',
+    type: 'verb',
+    description:
+      'to devastate, deal violently, ruin; distinct from shalal (to spoil)',
+  },
+  cheleq: {
+    hebrew: 'חלק',
+    transliteration: 'cheleq',
+    englishLiteral: 'portion',
+    englishNatural: 'portion',
+    type: 'noun',
+    description: 'portion, share, allotment; related to chalaq (to allot)',
+    related: ['chalaq'],
+  },
+  eikh: {
+    hebrew: 'איך',
+    transliteration: 'eikh',
+    englishLiteral: 'how',
+    englishNatural: 'how',
+    type: 'adverb',
+    description: 'how, in what way',
+  },
+  chalaq: {
+    hebrew: 'חלק',
+    transliteration: 'chalaq',
+    englishLiteral: 'to allot',
+    englishNatural: 'to allot',
+    type: 'verb',
+    description:
+      'to allot, apportion, divide by lot; distinct from batar (to divide)',
+    related: ['cheleq'],
+  },
+  // --- Micah 2:7 additions ---
+  qatsar: {
+    hebrew: 'קצר',
+    transliteration: 'qatsar',
+    englishLiteral: 'to be_short',
+    englishNatural: 'to be short',
+    type: 'verb',
+    description: 'to be short, shortened, impatient; also to reap/harvest',
+  },
+  maallal: {
+    hebrew: 'מעלל',
+    transliteration: 'maallal',
+    englishLiteral: 'deed',
+    englishNatural: 'deed',
+    type: 'noun',
+    description:
+      'deed, practice, doing; distinct from maaseh/paal (work)',
+    related: ['maaseh', 'paal'],
+  },
+  // --- Micah 2:12 additions ---
+  sheerit: {
+    hebrew: 'שארית',
+    transliteration: 'sheerit',
+    englishLiteral: 'remnant',
+    englishNatural: 'remnant',
+    type: 'noun',
+    description: 'remnant, remainder, survivors; from שאר (to remain)',
+    related: ['shaar_remain'],
+  },
+  botsrah: {
+    hebrew: 'בצרה',
+    transliteration: 'Botsrah',
+    englishLiteral: 'Enclosure (Bozrah)',
+    englishNatural: 'Enclosure (Bozrah)',
+    type: 'noun',
+    description:
+      'Bozrah; Edomite city; name means enclosure/fortress (also readable as common “enclosure”)',
+  },
+  eder_herd: {
+    hebrew: 'עדר',
+    transliteration: 'eder',
+    englishLiteral: 'herd',
+    englishNatural: 'herd',
+    type: 'noun',
+    description:
+      'herd, flock of animals; distinct from tzon (flock) and eder (mantle, אדר)',
+    related: ['tzon'],
+  },
+  dover: {
+    hebrew: 'דבר',
+    transliteration: 'dover',
+    englishLiteral: 'fold',
+    englishNatural: 'fold',
+    type: 'noun',
+    description: 'fold, sheepfold, pasture enclosure',
   },
 } as const;
 

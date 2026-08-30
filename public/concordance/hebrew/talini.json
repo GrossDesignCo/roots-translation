@@ -1,0 +1,34 @@
+{
+  "key": "talini",
+  "language": "hebrew",
+  "root": "lun",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 16
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "תָּלִינִי",
+        "transliteration": "taLini",
+        "englishLiteral": "you-will-lodge",
+        "englishNatural": "you will lodge",
+        "root": "lun",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֵךְ וּבַאֲשֶׁר **תָּלִינִי** אָלִין עַמֵּךְ",
+        "transliteration": "elekh uvaAsher **taLini** aLin ammekh",
+        "englishLiteral": "I-will-walk; and-in-which **you-will-lodge** I-will-lodge; people-your",
+        "englishNatural": "I will walk; and in which **you will lodge,** I will lodge; your people,"
+      }
+    }
+  ]
+}

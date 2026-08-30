@@ -1482,6 +1482,33 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "יַעֲשֶׂה",
+        "transliteration": "yaaseh",
+        "englishLiteral": "he-will-do",
+        "englishNatural": "will do",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אֶקָּבֵר כֹּה **יַעֲשֶׂה** יְהוָה לִי",
+        "transliteration": "eqaver koh **yaaseh** YHWH li",
+        "englishLiteral": "I-will-be-buried; thus **he-will-do** He_Who_Is (YHWH) to-me,",
+        "englishNatural": "thus He-Who-Is (YHWH) **will do** to me, and thus"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 3
@@ -1802,6 +1829,60 @@
         "transliteration": "miQedem laIr **vaYaas** lo sham",
         "englishLiteral": "from-east to-the-city **and-made** to-him there",
         "englishNatural": "from east to the city **and made** for him there"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 8
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֶעֱשֶׂה",
+        "transliteration": "eeseh",
+        "englishLiteral": "I-will-make",
+        "englishNatural": "I will make",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "שׁוֹלָל וְעָרוֹם **אֶעֱשֶׂה** מִסְפֵּד כַּתַּנִּים",
+        "transliteration": "sholal veArom **eeseh** misped kaTannim",
+        "englishLiteral": "spoiled and-naked; **I-will-make** lamentation like-jackals,",
+        "englishNatural": "spoiled and naked; **I will make** a lamentation like jackals,"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 1
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יַעֲשׂ֔וּהָ",
+        "transliteration": "yaasuha",
+        "englishLiteral": "they-will-make-her",
+        "englishNatural": "they will make it",
+        "root": "asah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּא֤וֹר הַבֹּ֙קֶר֙ **יַעֲשׂ֔וּהָ** כִּ֥י יֶשׁ־",
+        "transliteration": "beOr haBoqer **yaasuha** ki yesh-",
+        "englishLiteral": "in-light-of the-morning **they-will-make-her,** that there_is-",
+        "englishNatural": "in the light of the morning **they will make it,** that there-is"
       }
     }
   ]

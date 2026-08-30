@@ -28,6 +28,60 @@
         "englishLiteral": "which it-is-eaten, **and-you-shall-gather** to-you; and-it-will-be",
         "englishNatural": "which is eaten, **and you shall gather** to you; and it will be"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "אָסֹף",
+        "transliteration": "asof",
+        "englishLiteral": "Gathering",
+        "englishNatural": "Gathering",
+        "root": "asaph",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**אָסֹף** אֶאֱסֹף יַעֲקֹב",
+        "transliteration": "**asof** eEsof Yaaqov",
+        "englishLiteral": "**Gathering** I-will-gather Heel_Grasper (Jacob)",
+        "englishNatural": "**Gathering** I will gather Heel-Grasper (Jacob),"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֶאֱסֹף",
+        "transliteration": "eEsof",
+        "englishLiteral": "I-will-gather",
+        "englishNatural": "I will gather",
+        "root": "asaph",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "אָסֹף **אֶאֱסֹף** יַעֲקֹב כֻּלָּךְ",
+        "transliteration": "asof **eEsof** Yaaqov kullakh",
+        "englishLiteral": "Gathering **I-will-gather** Heel_Grasper (Jacob) all-of-you,",
+        "englishNatural": "Gathering **I will gather** Heel-Grasper (Jacob), all of you,"
+      }
     }
   ]
 }

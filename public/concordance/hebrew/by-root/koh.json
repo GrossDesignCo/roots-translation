@@ -129,6 +129,56 @@
     },
     {
       "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "כֹּה",
+        "transliteration": "koh",
+        "englishLiteral": "thus",
+        "englishNatural": "thus",
+        "root": "koh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וְשָׁם אֶקָּבֵר **כֹּה** יַעֲשֶׂה יְהוָה",
+        "transliteration": "veSham eqaver **koh** yaaseh YHWH",
+        "englishLiteral": "and-there I-will-be-buried; **thus** he-will-do He_Who_Is (YHWH)",
+        "englishNatural": "and there I will be buried; **thus** He-Who-Is (YHWH) will do"
+      }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 17
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וְכֹה",
+        "transliteration": "veKoh",
+        "englishLiteral": "and-thus",
+        "englishNatural": "and thus",
+        "root": "koh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "יְהוָה לִי **וְכֹה** יוֹסִיף כִּי",
+        "transliteration": "YHWH li **veKoh** yosif ki",
+        "englishLiteral": "He_Who_Is (YHWH) to-me, **and-thus** he-will-add, that",
+        "englishNatural": "will do to me, **and thus** he will add, that"
+      }
+    },
+    {
+      "location": {
         "book": "Isaiah",
         "chapter": 30,
         "verse": 15
@@ -150,6 +200,31 @@
         "transliteration": "ki **koh** amar Adonai",
         "englishLiteral": "That **thus** has-said Lord",
         "englishNatural": "That **thus** has said the Lord"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "כֹּה",
+        "transliteration": "koh",
+        "englishLiteral": "thus",
+        "englishNatural": "thus",
+        "root": "koh",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "לָכֵן **כֹּה** אָמַר יְהוָה",
+        "transliteration": "lakhen **koh** amar YHWH",
+        "englishLiteral": "therefore **thus** said He_Who_Is (YHWH),",
+        "englishNatural": "Therefore **thus** has said He-Who-Is (YHWH),"
       }
     }
   ]

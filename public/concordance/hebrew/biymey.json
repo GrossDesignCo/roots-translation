@@ -27,6 +27,31 @@
         "englishLiteral": "And-was **in-days-of** justice-doing-of the-Just_Ones",
         "englishNatural": "And it was **in the days of** the justice-doing of the Just-Ones,"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 1
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "בִּימֵי",
+        "transliteration": "biYmey",
+        "englishLiteral": "in-days-of",
+        "englishNatural": "in the days of",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִיכָה הַמֹּרַשְׁתִּי **בִּימֵי** יוֹתָם אָחָז",
+        "transliteration": "Mikhah haMorashti **biYmey** Yotam Achaz",
+        "englishLiteral": "Who_Is_Like_He (Micah) the-Possessionite (Morashtite) **in-days-of** He_Is_Whole (Jotham) Seized (Ahaz)",
+        "englishNatural": "Who-Is-Like-He (Micah) the Possessionite (Morashtite), **in the days of** He-Is-Whole (Jotham), Seized (Ahaz),"
+      }
     }
   ]
 }

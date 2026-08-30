@@ -326,6 +326,31 @@
         "englishLiteral": "booth and-sat **under-her** in-shadow, until",
         "englishNatural": "a booth and sat **under it** in the shadow, until"
       }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "תַּחְתָּיו",
+        "transliteration": "tachtav",
+        "englishLiteral": "under-him",
+        "englishNatural": "under him",
+        "root": "tachat",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְנָמַסּוּ הֶהָרִים **תַּחְתָּיו** וְהָעֲמָקִים יִתְבַּקָּעוּ",
+        "transliteration": "veNamasu heHarim **tachtav** veHaAmaqim yitbaqaqu",
+        "englishLiteral": "and-they-have-been-melted the-mountains **under-him,** and-the-valleys they-will-break_open,",
+        "englishNatural": "and the mountains will be melted **under him,** and the valleys will break-open,"
+      }
     }
   ]
 }

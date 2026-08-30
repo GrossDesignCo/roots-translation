@@ -1,0 +1,87 @@
+{
+  "root": "qavatz",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 1,
+        "verse": 7
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "קִבָּצָה",
+        "transliteration": "qibbatzah",
+        "englishLiteral": "she-has-collected",
+        "englishNatural": "she has collected",
+        "root": "qavatz",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאֶתְנַן זוֹנָה **קִבָּצָה** וְעַד־ אֶתְנַן",
+        "transliteration": "meEtnan zonah **qibbatzah** veAd- etnan",
+        "englishLiteral": "from-hire-of harlot **she-has-collected,** and-until- hire-of",
+        "englishNatural": "from the hire of a harlot, **she has collected,** and until the hire of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "קַבֵּץ",
+        "transliteration": "qabets",
+        "englishLiteral": "collecting",
+        "englishNatural": "collecting",
+        "root": "qavatz",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_absolute",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "יַעֲקֹב כֻּלָּךְ **קַבֵּץ** אֲקַבֵּץ שְׁאֵרִית",
+        "transliteration": "Yaaqov kullakh **qabets** eQabets sheerit",
+        "englishLiteral": "Heel_Grasper (Jacob) all-of-you, **collecting** I-will-collect remnant-of",
+        "englishNatural": "Heel-Grasper (Jacob), all of you, **collecting** I will collect the remnant of"
+      }
+    },
+    {
+      "location": {
+        "book": "Micah",
+        "chapter": 2,
+        "verse": 12
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "אֲקַבֵּץ",
+        "transliteration": "eQabets",
+        "englishLiteral": "I-will-collect",
+        "englishNatural": "I will collect",
+        "root": "qavatz",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "piel"
+        }
+      },
+      "context": {
+        "hebrew": "כֻּלָּךְ קַבֵּץ **אֲקַבֵּץ** שְׁאֵרִית יִשְׂרָאֵל",
+        "transliteration": "kullakh qabets **eQabets** sheerit Yisrael",
+        "englishLiteral": "all-of-you, collecting **I-will-collect** remnant-of Struggles_with_God (Israel),",
+        "englishNatural": "all of you, collecting **I will collect** the remnant of Struggles-with-God (Israel),"
+      }
+    }
+  ]
+}

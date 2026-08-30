@@ -165,7 +165,7 @@ export const daniel_2_32: Verse = {
       transliteration: 'meohi',
       englishLiteral: 'belly-its',
       englishNatural: 'its belly',
-      root: 'meah',
+      root: 'meah_hundred',
       suffixes: ['ohi'],
       order: 11,
       morphology: {

@@ -52,6 +52,31 @@
         "englishLiteral": "king-of Double_Narrows (Egypt) **\"why** Drawn_Out (Moses) and-Light_Bringer (Aaron)",
         "englishNatural": "said to them, **\"Why,** Drawn-Out (Moses) and Light-Bringer (Aaron),"
       }
+    },
+    {
+      "location": {
+        "book": "Ruth",
+        "chapter": 1,
+        "verse": 11
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לָ֥מָּה",
+        "transliteration": "lamah",
+        "englishLiteral": "why",
+        "englishNatural": "why",
+        "root": "lamah",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "שֹׁ֣בְנָה בְנֹתַ֔י **לָ֥מָּה** תֵלַ֖כְנָה עִמִּ֑י",
+        "transliteration": "shovnah benotai **lamah** telakhna immi",
+        "englishLiteral": "\"return my-daughters, **why** you-will-walk with-me;",
+        "englishNatural": "\"Return, my daughters, **why** will you walk with me;"
+      }
     }
   ]
 }
