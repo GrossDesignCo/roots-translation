@@ -4,6 +4,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 30
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מוֹשָׁבָם",
+        "transliteration": "moshavam",
+        "englishLiteral": "seat-their",
+        "englishNatural": "And their seat",
+        "root": "moshav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **מוֹשָׁבָם** מִמֵּשָׁא בֹּאֲכָה",
+        "transliteration": "vaYehi **moshavam** miMesha boakhah",
+        "englishLiteral": "And-was **seat-their** from-Freedom (Mesha), coming-you",
+        "englishNatural": "**And their seat** from Freedom (Mesha) was,"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 10,
         "verse": 23

@@ -1,0 +1,32 @@
+{
+  "key": "tesha-",
+  "language": "hebrew",
+  "root": "tesha",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 25
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "תְּשַׁע־",
+        "transliteration": "tesha-",
+        "englishLiteral": "nine-",
+        "englishNatural": "nine",
+        "root": "tesha",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ תֶּרַח **תְּשַׁע־** עֶשְׂרֵה שָׁנָה",
+        "transliteration": "et- Terach **tesha-** esreh shanah",
+        "englishLiteral": "↳ Delay (Terah), **nine-** ten year",
+        "englishNatural": "↳ Delay (Terah), **nine** ten years"
+      }
+    }
+  ]
+}

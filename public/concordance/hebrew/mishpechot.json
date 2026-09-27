@@ -6,6 +6,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 18
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "מִשְׁפְּחוֹת",
+        "transliteration": "mishpechot",
+        "englishLiteral": "families-of",
+        "englishNatural": "the families of",
+        "root": "mishpachah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַחַר נָפֹצוּ **מִשְׁפְּחוֹת** הַכְּנַעֲנִי",
+        "transliteration": "veAchar nafotsu **mishpechot** haKenaani",
+        "englishLiteral": "and-after they-have-been-spread_out **families-of** the-Canaanite.",
+        "englishNatural": "and after have been spread-out **the families of** the Canaanite."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מִשְׁפְּחֹת",
+        "transliteration": "mishpechot",
+        "englishLiteral": "families-of",
+        "englishNatural": "are the families of",
+        "root": "mishpachah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה **מִשְׁפְּחֹת** בְּנֵי־ נֹחַ",
+        "transliteration": "eleh **mishpechot** benei- Noach",
+        "englishLiteral": "These **families-of** sons-of- Rest (Noah),",
+        "englishNatural": "These **are the families of** the sons of Rest (Noah),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 12,
         "verse": 3
       },

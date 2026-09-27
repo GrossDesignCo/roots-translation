@@ -27,6 +27,31 @@
         "englishLiteral": "sons-of- Rest (Noah); **and-from-these,** has-been-spread_out all-",
         "englishNatural": "sons of Rest (Noah); **and from these,** all the land"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וּמֵאֵלֶּה",
+        "transliteration": "uMeEleh",
+        "englishLiteral": "and-from-these",
+        "englishNatural": "and from these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "לְתוֹלְדֹתָם בְּגוֹיֵהֶם **וּמֵאֵלֶּה** נִפְרְדוּ הַגּוֹיִם",
+        "transliteration": "leToledotam beGoyeihem **uMeEleh** niphredu haGoyim",
+        "englishLiteral": "to-birthings-their, in-nations-their; **and-from-these** they-have-been-parted the-nations",
+        "englishNatural": "to their birthings, in their nations; **and from these** have been parted the nations"
+      }
     }
   ]
 }

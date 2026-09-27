@@ -1,0 +1,56 @@
+{
+  "root": "tsidon",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "צִידֹן",
+        "transliteration": "Tsidon",
+        "englishLiteral": "Fishery (Sidon)",
+        "englishNatural": "Fishery (Sidon)",
+        "root": "tsidon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָלַד אֶת־ **צִידֹן** בְּכֹרוֹ וְאֶת־",
+        "transliteration": "yalad et- **Tsidon** bekhoro veEt-",
+        "englishLiteral": "he-birthed ↳ **Fishery (Sidon),** firstborn-his, and-↳",
+        "englishNatural": "birthed ↳ **Fishery (Sidon),** his firstborn, and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "מִצִּידֹן",
+        "transliteration": "miTsidon",
+        "englishLiteral": "from-Fishery (Sidon)",
+        "englishNatural": "from Fishery (Sidon)",
+        "root": "tsidon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גְּבוּל הַכְּנַעֲנִי **מִצִּידֹן** בֹּאֲכָה גְרָרָה",
+        "transliteration": "gevul haKenaani **miTsidon** boakhah Gerarah",
+        "englishLiteral": "border the-Canaanite **from-Fishery (Sidon),** coming-you toward-Gerar (Gerar)",
+        "englishNatural": "of the Canaanite was **from Fishery (Sidon),** as you come toward Gerar (Gerar)"
+      }
+    }
+  ]
+}

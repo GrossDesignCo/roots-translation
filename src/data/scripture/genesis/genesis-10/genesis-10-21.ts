@@ -1,0 +1,187 @@
+import { Verse } from '@/types';
+
+export const genesis_10_21: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 10,
+    verse: 21,
+  },
+  words: [
+    {
+      hebrew: 'וּלְשֵׁם',
+      transliteration: 'uleShem',
+      englishLiteral: 'And-to-Name (Shem)',
+      englishNatural: 'And to Name (Shem)',
+      root: 'shem',
+      prefixes: ['u', 'le'],
+      order: 1,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'יֻלַּד',
+      transliteration: 'yulad',
+      englishLiteral: 'was-birthed',
+      englishNatural: 'was birthed',
+      root: 'yalad',
+      order: 2,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'pual',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'גַּם־',
+      transliteration: 'gam-',
+      englishLiteral: 'also-',
+      englishNatural: 'also',
+      root: 'gam',
+      order: 3,
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'הוּא',
+      transliteration: 'hu',
+      englishLiteral: 'he',
+      englishNatural: 'he',
+      root: 'hu',
+      order: 4,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        type: 'pronoun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'אֲבִי',
+      transliteration: 'avi',
+      englishLiteral: 'father-of',
+      englishNatural: 'father of',
+      root: 'av',
+      order: 5,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'כָּל־',
+      transliteration: 'kol-',
+      englishLiteral: 'all-',
+      englishNatural: 'all',
+      root: 'kol',
+      order: 6,
+      morphology: {
+        type: 'adjective',
+        state: 'construct',
+      },
+    },
+    {
+      hebrew: 'בְּנֵי־',
+      transliteration: 'benei-',
+      englishLiteral: 'sons-of-',
+      englishNatural: 'the sons of',
+      root: 'ben',
+      suffixes: ['ei'],
+      order: 7,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'עֵבֶר',
+      transliteration: 'Ever',
+      englishLiteral: 'Crossing (Eber)',
+      englishNatural: 'Crossing (Eber)',
+      root: 'eber',
+      order: 8,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'אֲחִי',
+      transliteration: 'achi',
+      englishLiteral: 'brother-of',
+      englishNatural: 'brother of',
+      root: 'ach',
+      order: 9,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'יֶפֶת',
+      transliteration: 'Yafet',
+      englishLiteral: 'Spacious (Japheth)',
+      englishNatural: 'Spacious (Japheth)',
+      root: 'yafet',
+      order: 10,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַגָּדֹול',
+      transliteration: 'haGadol',
+      englishLiteral: 'the-great',
+      englishNatural: 'the great',
+      root: 'gadol',
+      prefixes: ['ha'],
+      order: 11,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'adjective',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וּלְשֵׁם יֻלַּד גַּם־הוּא אֲבִי כָּל־בְּנֵי־עֵבֶר אֲחִי יֶפֶת הַגָּדֹול',
+    transliteration:
+      'uleShem yulad gam-hu avi kol-benei-Ever achi Yafet haGadol',
+    englishLiteral:
+      'And-to-Name (Shem) was-birthed also- he, father-of all- sons-of- Crossing (Eber), brother-of Spacious (Japheth) the-great.',
+    englishNatural:
+      'And to Name (Shem) was birthed also he, father of all the sons of Crossing (Eber), brother of Spacious (Japheth) the great.',
+    kjv: 'Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.',
+  },
+};

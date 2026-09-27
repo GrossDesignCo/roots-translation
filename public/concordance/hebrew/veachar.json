@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 18
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְאַחַר",
+        "transliteration": "veAchar",
+        "englishLiteral": "and-after",
+        "englishNatural": "and after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הַחֲמָתִי **וְאַחַר** נָפֹצוּ מִשְׁפְּחוֹת",
+        "transliteration": "veEt- haChamathi **veAchar** nafotsu mishpechot",
+        "englishLiteral": "and-↳ the-Hamathite; **and-after** they-have-been-spread_out families-of",
+        "englishNatural": "and the Hamathite; **and after** have been spread-out the families of"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 5,
         "verse": 1

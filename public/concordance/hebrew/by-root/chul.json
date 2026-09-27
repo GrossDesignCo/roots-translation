@@ -1,0 +1,31 @@
+{
+  "root": "chul",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְחוּל",
+        "transliteration": "veChul",
+        "englishLiteral": "and-Writhe (Hul)",
+        "englishNatural": "and Writhe (Hul)",
+        "root": "chul",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲרָם עוּץ **וְחוּל** וְגֶתֶר וָמַשׁ",
+        "transliteration": "Aram Uts **veChul** veGether vaMash",
+        "englishLiteral": "High (Aram): Counsel (Uz), **and-Writhe (Hul),** and-Gether (Gether), and-Feel (Mash).",
+        "englishNatural": "High (Aram): Counsel (Uz), **and Writhe (Hul),** and Gether (Gether), and Feel (Mash)."
+      }
+    }
+  ]
+}

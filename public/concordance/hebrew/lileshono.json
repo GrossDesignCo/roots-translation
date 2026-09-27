@@ -1,0 +1,32 @@
+{
+  "key": "lileshono",
+  "language": "hebrew",
+  "root": "lashon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לִלְשֹׁנוֹ",
+        "transliteration": "liLeshono",
+        "englishLiteral": "to-tongue-his",
+        "englishNatural": "to his tongue",
+        "root": "lashon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאַרְצֹתָם אִישׁ **לִלְשֹׁנוֹ** לְמִשְׁפְּחֹתָם בְּגוֹיֵהֶם",
+        "transliteration": "beArtzotam ish **liLeshono** leMishpechotam beGoyeihem",
+        "englishLiteral": "in-lands-their; man **to-tongue-his,** to-families-their, in-nations-their.",
+        "englishNatural": "in their lands; a man **to his tongue,** to their families, in their nations."
+      }
+    }
+  ]
+}

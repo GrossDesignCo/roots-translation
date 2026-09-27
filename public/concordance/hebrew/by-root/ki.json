@@ -1077,6 +1077,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "כִּי",
+        "transliteration": "ki",
+        "englishLiteral": "that",
+        "englishNatural": "that",
+        "root": "ki",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֶחָד פֶּלֶג **כִּי** בְיָמָיו נִפְלְגָה",
+        "transliteration": "haEchad Peleg **ki** beYamav niphlagah",
+        "englishLiteral": "the-one Channel (Peleg), **that** in-days-his has-been-divided",
+        "englishNatural": "the one Channel (Peleg), **that** in his days the land"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 9
       },

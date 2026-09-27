@@ -1,0 +1,32 @@
+{
+  "key": "vaaram",
+  "language": "hebrew",
+  "root": "aram",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וַאֲרָם",
+        "transliteration": "vaAram",
+        "englishLiteral": "and-High (Aram)",
+        "englishNatural": "and High (Aram)",
+        "root": "aram",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַרְפַּכְשַׁד וְלוּד **וַאֲרָם**",
+        "transliteration": "veArpachshad veLud **vaAram**",
+        "englishLiteral": "and-Heal_Shaddai (Arpachshad), and-Lud (Lud), **and-High (Aram).**",
+        "englishNatural": "and Heal-Shaddai (Arpachshad), and Lud (Lud), **and High (Aram).**"
+      }
+    }
+  ]
+}

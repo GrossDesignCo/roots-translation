@@ -105,6 +105,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֲבִי",
+        "transliteration": "avi",
+        "englishLiteral": "father-of",
+        "englishNatural": "father of",
+        "root": "av",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גַּם־ הוּא **אֲבִי** כָּל־ בְּנֵי־",
+        "transliteration": "gam- hu **avi** kol- benei-",
+        "englishLiteral": "also- he, **father-of** all- sons-of-",
+        "englishNatural": "also he, **father of** all the sons of"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 11,
         "verse": 1

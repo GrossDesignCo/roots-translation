@@ -1,0 +1,56 @@
+{
+  "root": "aram",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 22
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וַאֲרָם",
+        "transliteration": "vaAram",
+        "englishLiteral": "and-High (Aram)",
+        "englishNatural": "and High (Aram)",
+        "root": "aram",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַרְפַּכְשַׁד וְלוּד **וַאֲרָם**",
+        "transliteration": "veArpachshad veLud **vaAram**",
+        "englishLiteral": "and-Heal_Shaddai (Arpachshad), and-Lud (Lud), **and-High (Aram).**",
+        "englishNatural": "and Heal-Shaddai (Arpachshad), and Lud (Lud), **and High (Aram).**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֲרָם",
+        "transliteration": "Aram",
+        "englishLiteral": "High (Aram)",
+        "englishNatural": "High (Aram)",
+        "root": "aram",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְנֵי **אֲרָם** עוּץ וְחוּל",
+        "transliteration": "uBenei **Aram** Uts veChul",
+        "englishLiteral": "And-sons-of **High (Aram):** Counsel (Uz), and-Writhe (Hul),",
+        "englishNatural": "And the sons of **High (Aram):** Counsel (Uz), and Writhe (Hul),"
+      }
+    }
+  ]
+}

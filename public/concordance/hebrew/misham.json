@@ -31,6 +31,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 14
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "מִשָּׁם",
+        "transliteration": "miSham",
+        "englishLiteral": "from-there",
+        "englishNatural": "from there",
+        "root": "sham",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "אֲשֶׁר יָצְאוּ **מִשָּׁם** פְּלִשְׁתִּים וְאֶת־",
+        "transliteration": "asher yatsau **miSham** Pelishtim veEt-",
+        "englishLiteral": "which they-have-brought_out **from-there** Wallowers (Philistines), and-↳",
+        "englishNatural": "which they have brought-out **from there** Wallowers (Philistines), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 8
       },

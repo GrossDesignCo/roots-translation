@@ -1,0 +1,32 @@
+{
+  "key": "diqlah",
+  "language": "hebrew",
+  "root": "diqlah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 27
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "דִּקְלָה",
+        "transliteration": "Diqlah",
+        "englishLiteral": "Palm (Diklah)",
+        "englishNatural": "Palm (Diklah)",
+        "root": "diqlah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אוּזָל וְאֶת־ **דִּקְלָה**",
+        "transliteration": "Uzal veEt- **Diqlah**",
+        "englishLiteral": "Uzal (Uzal), and-↳ **Palm (Diklah),**",
+        "englishNatural": "Uzal (Uzal), and **Palm (Diklah),**"
+      }
+    }
+  ]
+}

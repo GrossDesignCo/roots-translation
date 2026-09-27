@@ -1,0 +1,31 @@
+{
+  "root": "sabtah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 7
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְסַבְתָּה",
+        "transliteration": "veSabtah",
+        "englishLiteral": "and-Striking (Sabtah)",
+        "englishNatural": "and Striking (Sabtah)",
+        "root": "sabtah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "סְבָא וַחֲוִילָה **וְסַבְתָּה** וְרַעְמָה וְסַבְתְּכָא",
+        "transliteration": "Seba vaChavilah **veSabtah** veRaamah veSabteca",
+        "englishLiteral": "Drunkard (Seba), and-Strength (Havilah), **and-Striking (Sabtah),** and-Thunder (Raamah), and-Striking_you (Sabteca);",
+        "englishNatural": "Drunkard (Seba), and Strength (Havilah), **and Striking (Sabtah),** and Thunder (Raamah), and Striking-you (Sabteca);"
+      }
+    }
+  ]
+}

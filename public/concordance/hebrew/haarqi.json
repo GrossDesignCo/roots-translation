@@ -1,0 +1,32 @@
+{
+  "key": "haarqi",
+  "language": "hebrew",
+  "root": "arqi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 17
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הָעַרְקִי",
+        "transliteration": "haArqi",
+        "englishLiteral": "the-Arkite",
+        "englishNatural": "the Arkite",
+        "root": "arqi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַחִוִּי וְאֶת־ **הָעַרְקִי** וְאֶת־ הַסִּינִי",
+        "transliteration": "haChivi veEt- **haArqi** veEt- haSini",
+        "englishLiteral": "the-Hivite, and-↳ **the-Arkite,** and-↳ the-Sinite,",
+        "englishNatural": "the Hivite, and **the Arkite,** and the Sinite,"
+      }
+    }
+  ]
+}

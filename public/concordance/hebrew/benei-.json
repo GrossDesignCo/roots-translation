@@ -1,0 +1,107 @@
+{
+  "key": "benei-",
+  "language": "hebrew",
+  "root": "ben",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 20
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בְנֵי־",
+        "transliteration": "benei-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "are the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה **בְנֵי־** חָם לְמִשְׁפְּחֹתָם",
+        "transliteration": "eleh **benei-** Cham leMishpechotam",
+        "englishLiteral": "These **sons-of-** Hot (Ham), to-families-their,",
+        "englishNatural": "These **are the sons of** Hot (Ham), to their families,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בְּנֵי־",
+        "transliteration": "benei-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבִי כָּל־ **בְּנֵי־** עֵבֶר אֲחִי",
+        "transliteration": "avi kol- **benei-** Ever achi",
+        "englishLiteral": "father-of all- **sons-of-** Crossing (Eber), brother-of",
+        "englishNatural": "father of all **the sons of** Crossing (Eber), brother of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 31
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בְנֵי־",
+        "transliteration": "benei-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "are the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה **בְנֵי־** שֵׁם לְמִשְׁפְּחֹתָם",
+        "transliteration": "eleh **benei-** Shem leMishpechotam",
+        "englishLiteral": "These **sons-of-** Name (Shem), to-families-their,",
+        "englishNatural": "These **are the sons of** Name (Shem), to their families,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בְּנֵי־",
+        "transliteration": "benei-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה מִשְׁפְּחֹת **בְּנֵי־** נֹחַ לְתוֹלְדֹתָם",
+        "transliteration": "eleh mishpechot **benei-** Noach leToledotam",
+        "englishLiteral": "These families-of **sons-of-** Rest (Noah), to-birthings-their,",
+        "englishNatural": "These are the families of **the sons of** Rest (Noah), to their birthings,"
+      }
+    }
+  ]
+}

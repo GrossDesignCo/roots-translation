@@ -56,6 +56,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "אַחַר",
+        "transliteration": "achar",
+        "englishLiteral": "after",
+        "englishNatural": "after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "הַגּוֹיִם בָּאָרֶץ **אַחַר** הַמַּבּוּל",
+        "transliteration": "haGoyim baAretz **achar** haMabbul",
+        "englishLiteral": "the-nations in-the-land **after** the-flood.",
+        "englishNatural": "the nations in the land **after** the flood."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "אַחַר",
+        "transliteration": "achar",
+        "englishLiteral": "after",
+        "englishNatural": "after",
+        "root": "achar",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְפַּכְשָׁד שְׁנָתַיִם **אַחַר** הַמַּבּוּל",
+        "transliteration": "Arpachshad shanatayim **achar** haMabbul",
+        "englishLiteral": "Heal_Shaddai (Arpachshad) two-years **after** the-flood.",
+        "englishNatural": "Heal-Shaddai (Arpachshad) two years **after** the flood."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 1
       },

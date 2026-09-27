@@ -27,6 +27,31 @@
         "englishLiteral": "I-knew, keeper-of **my-brother** I?\"",
         "englishNatural": "Am I keeper of **my brother?\"**"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אֲחִי",
+        "transliteration": "achi",
+        "englishLiteral": "brother-of",
+        "englishNatural": "brother of",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי־ עֵבֶר **אֲחִי** יֶפֶת הַגָּדֹול",
+        "transliteration": "benei- Ever **achi** Yafet haGadol",
+        "englishLiteral": "sons-of- Crossing (Eber), **brother-of** Spacious (Japheth) the-great.",
+        "englishNatural": "the sons of Crossing (Eber), **brother of** Spacious (Japheth) the great."
+      }
     }
   ]
 }

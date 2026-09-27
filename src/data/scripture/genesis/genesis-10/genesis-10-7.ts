@@ -1,0 +1,216 @@
+import { Verse } from '@/types';
+
+export const genesis_10_7: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 10,
+    verse: 7,
+  },
+  words: [
+    {
+      hebrew: 'וּבְנֵי',
+      transliteration: 'uBeney',
+      englishLiteral: 'And-sons-of',
+      englishNatural: 'And the sons of',
+      root: 'ben',
+      prefixes: ['u'],
+      suffixes: ['ei'],
+      order: 1,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'כוּשׁ',
+      transliteration: 'Khush',
+      englishLiteral: 'Black (Kush)',
+      englishNatural: 'Black (Kush)',
+      root: 'kush',
+      order: 2,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ':',
+        englishNatural: ':',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'סְבָא',
+      transliteration: 'Seba',
+      englishLiteral: 'Drunkard (Seba)',
+      englishNatural: 'Drunkard (Seba)',
+      root: 'seba',
+      order: 3,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וַחֲוִילָה',
+      transliteration: 'vaChavilah',
+      englishLiteral: 'and-Strength (Havilah)',
+      englishNatural: 'and Strength (Havilah)',
+      root: 'Chavilah',
+      prefixes: ['va'],
+      order: 4,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְסַבְתָּה',
+      transliteration: 'veSabtah',
+      englishLiteral: 'and-Striking (Sabtah)',
+      englishNatural: 'and Striking (Sabtah)',
+      root: 'sabtah',
+      prefixes: ['ve'],
+      order: 5,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְרַעְמָה',
+      transliteration: 'veRaamah',
+      englishLiteral: 'and-Thunder (Raamah)',
+      englishNatural: 'and Thunder (Raamah)',
+      root: 'raamah',
+      prefixes: ['ve'],
+      order: 6,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְסַבְתְּכָא',
+      transliteration: 'veSabteca',
+      englishLiteral: 'and-Striking_you (Sabteca)',
+      englishNatural: 'and Striking-you (Sabteca)',
+      root: 'sabteca',
+      prefixes: ['ve'],
+      order: 7,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וּבְנֵי',
+      transliteration: 'uBeney',
+      englishLiteral: 'and-sons-of',
+      englishNatural: 'and the sons of',
+      root: 'ben',
+      prefixes: ['u'],
+      suffixes: ['ei'],
+      order: 8,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'רַעְמָה',
+      transliteration: 'Raamah',
+      englishLiteral: 'Thunder (Raamah)',
+      englishNatural: 'Thunder (Raamah)',
+      root: 'raamah',
+      order: 9,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ':',
+        englishNatural: ':',
+      },
+    },
+    {
+      hebrew: 'שְׁבָא',
+      transliteration: 'Sheba',
+      englishLiteral: 'Oath (Sheba)',
+      englishNatural: 'Oath (Sheba)',
+      root: 'sheba',
+      order: 10,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וּדְדָן',
+      transliteration: 'uDedan',
+      englishLiteral: 'and-Lowland (Dedan)',
+      englishNatural: 'and Lowland (Dedan)',
+      root: 'dedan',
+      prefixes: ['u'],
+      order: 11,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וּבְנֵי כוּשׁ סְבָא וַחֲוִילָה וְסַבְתָּה וְרַעְמָה וְסַבְתְּכָא וּבְנֵי רַעְמָה שְׁבָא וּדְדָן',
+    transliteration:
+      'uBeney Khush Seba vaChavilah veSabtah veRaamah veSabteca uBeney Raamah Sheba uDedan',
+    englishLiteral:
+      'And-sons-of Black (Kush): Drunkard (Seba), and-Strength (Havilah), and-Striking (Sabtah), and-Thunder (Raamah), and-Striking_you (Sabteca); and-sons-of Thunder (Raamah): Oath (Sheba), and-Lowland (Dedan).',
+    englishNatural:
+      'And the sons of Black (Kush): Drunkard (Seba), and Strength (Havilah), and Striking (Sabtah), and Thunder (Raamah), and Striking-you (Sabteca); and the sons of Thunder (Raamah): Oath (Sheba), and Lowland (Dedan).',
+    kjv: 'And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan.',
+  },
+};

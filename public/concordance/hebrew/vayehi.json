@@ -465,6 +465,60 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְהִי",
+        "transliteration": "vaYehi",
+        "englishLiteral": "And-was",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְהִי** גְּבוּל הַכְּנַעֲנִי",
+        "transliteration": "**vaYehi** gevul haKenaani",
+        "englishLiteral": "**And-was** border the-Canaanite",
+        "englishNatural": "And the border of the Canaanite **was** from Fishery (Sidon), as you come"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 30
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְהִי",
+        "transliteration": "vaYehi",
+        "englishLiteral": "And-was",
+        "englishNatural": "was",
+        "root": "hayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְהִי** מוֹשָׁבָם מִמֵּשָׁא",
+        "transliteration": "**vaYehi** moshavam miMesha",
+        "englishLiteral": "**And-was** seat-their from-Freedom (Mesha),",
+        "englishNatural": "And their seat from Freedom (Mesha) **was,** as you come toward Counting (Sephar),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 12
       },

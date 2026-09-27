@@ -1,0 +1,31 @@
+{
+  "root": "chamathi",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 18
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הַחֲמָתִי",
+        "transliteration": "haChamathi",
+        "englishLiteral": "the-Hamathite",
+        "englishNatural": "the Hamathite",
+        "root": "chamathi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַצְּמָרִי וְאֶת־ **הַחֲמָתִי** וְאַחַר נָפֹצוּ",
+        "transliteration": "haTsemari veEt- **haChamathi** veAchar nafotsu",
+        "englishLiteral": "the-Zemarite, and-↳ **the-Hamathite;** and-after they-have-been-spread_out",
+        "englishNatural": "the Zemarite, and **the Hamathite;** and after have been spread-out"
+      }
+    }
+  ]
+}

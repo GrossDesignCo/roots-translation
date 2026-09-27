@@ -1,0 +1,32 @@
+{
+  "key": "hachivi",
+  "language": "hebrew",
+  "root": "chivi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 17
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַחִוִּי",
+        "transliteration": "haChivi",
+        "englishLiteral": "the-Hivite",
+        "englishNatural": "the Hivite",
+        "root": "chivi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ **הַחִוִּי** וְאֶת־ הָעַרְקִי",
+        "transliteration": "veEt- **haChivi** veEt- haArqi",
+        "englishLiteral": "and-↳ **the-Hivite,** and-↳ the-Arkite,",
+        "englishNatural": "and **the Hivite,** and the Arkite,"
+      }
+    }
+  ]
+}

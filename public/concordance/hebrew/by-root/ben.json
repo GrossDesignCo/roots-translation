@@ -905,6 +905,356 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "בְּנֵי",
+        "transliteration": "beney",
+        "englishLiteral": "sons-of",
+        "englishNatural": "The sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּנֵי** יֶפֶת גֹּמֶר",
+        "transliteration": "**beney** Yafet Gomer",
+        "englishLiteral": "**sons-of** Spacious (Japheth): Complete (Gomer),",
+        "englishNatural": "**The sons of** Spacious (Japheth): Complete (Gomer),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 3
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וּבְנֵי",
+        "transliteration": "uBeney",
+        "englishLiteral": "And-sons-of",
+        "englishNatural": "And the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּבְנֵי** גֹּמֶר אַשְׁכְּנַז",
+        "transliteration": "**uBeney** Gomer Ashkenaz",
+        "englishLiteral": "**And-sons-of** Complete (Gomer): Fire_scatter (Ashkenaz),",
+        "englishNatural": "**And the sons of** Complete (Gomer): Fire-scatter (Ashkenaz),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 4
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וּבְנֵי",
+        "transliteration": "uBeney",
+        "englishLiteral": "And-sons-of",
+        "englishNatural": "And the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּבְנֵי** יָוָן אֱלִישָׁה",
+        "transliteration": "**uBeney** Yavan Elishah",
+        "englishLiteral": "**And-sons-of** Mire (Javan): God_helps (Elishah),",
+        "englishNatural": "**And the sons of** Mire (Javan): God-helps (Elishah),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 6
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וּבְנֵי",
+        "transliteration": "uBeney",
+        "englishLiteral": "And-sons-of",
+        "englishNatural": "And the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּבְנֵי** חָם כּוּשׁ",
+        "transliteration": "**uBeney** Cham Khush",
+        "englishLiteral": "**And-sons-of** Hot (Ham): Black (Kush),",
+        "englishNatural": "**And the sons of** Hot (Ham): Black (Kush),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 7
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וּבְנֵי",
+        "transliteration": "uBeney",
+        "englishLiteral": "And-sons-of",
+        "englishNatural": "And the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּבְנֵי** כוּשׁ סְבָא",
+        "transliteration": "**uBeney** Khush Seba",
+        "englishLiteral": "**And-sons-of** Black (Kush): Drunkard (Seba),",
+        "englishNatural": "**And the sons of** Black (Kush): Drunkard (Seba),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 7
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וּבְנֵי",
+        "transliteration": "uBeney",
+        "englishLiteral": "and-sons-of",
+        "englishNatural": "and the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְרַעְמָה וְסַבְתְּכָא **וּבְנֵי** רַעְמָה שְׁבָא",
+        "transliteration": "veRaamah veSabteca **uBeney** Raamah Sheba",
+        "englishLiteral": "and-Thunder (Raamah), and-Striking_you (Sabteca); **and-sons-of** Thunder (Raamah): Oath (Sheba),",
+        "englishNatural": "and Thunder (Raamah), and Striking-you (Sabteca); **and the sons of** Thunder (Raamah): Oath (Sheba),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 20
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בְנֵי־",
+        "transliteration": "benei-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "are the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה **בְנֵי־** חָם לְמִשְׁפְּחֹתָם",
+        "transliteration": "eleh **benei-** Cham leMishpechotam",
+        "englishLiteral": "These **sons-of-** Hot (Ham), to-families-their,",
+        "englishNatural": "These **are the sons of** Hot (Ham), to their families,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בְּנֵי־",
+        "transliteration": "benei-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבִי כָּל־ **בְּנֵי־** עֵבֶר אֲחִי",
+        "transliteration": "avi kol- **benei-** Ever achi",
+        "englishLiteral": "father-of all- **sons-of-** Crossing (Eber), brother-of",
+        "englishNatural": "father of all **the sons of** Crossing (Eber), brother of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 22
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "בְּנֵי",
+        "transliteration": "benei",
+        "englishLiteral": "Sons-of",
+        "englishNatural": "The sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּנֵי** שֵׁם עֵילָם",
+        "transliteration": "**benei** Shem Elam",
+        "englishLiteral": "**Sons-of** Name (Shem): Hidden (Elam),",
+        "englishNatural": "**The sons of** Name (Shem): Hidden (Elam),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וּבְנֵי",
+        "transliteration": "uBenei",
+        "englishLiteral": "And-sons-of",
+        "englishNatural": "And the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּבְנֵי** אֲרָם עוּץ",
+        "transliteration": "**uBenei** Aram Uts",
+        "englishLiteral": "**And-sons-of** High (Aram): Counsel (Uz),",
+        "englishNatural": "**And the sons of** High (Aram): Counsel (Uz),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בָנִים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֻלַּד שְׁנֵי **בָנִים** שֵׁם הָאֶחָד",
+        "transliteration": "yulad shenei **banim** shem haEchad",
+        "englishLiteral": "was-birthed two-of **sons;** name-of the-one",
+        "englishNatural": "was birthed two **sons;** the name of the one"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "בְּנֵי",
+        "transliteration": "benei",
+        "englishLiteral": "sons-of",
+        "englishNatural": "are the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ אֵלֶּה **בְּנֵי** יָקְטָן",
+        "transliteration": "kol- eleh **benei** Yoqtan",
+        "englishLiteral": "all- these **sons-of** Small (Joktan).",
+        "englishNatural": "all these **are the sons of** Small (Joktan)."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 31
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "בְנֵי־",
+        "transliteration": "benei-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "are the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה **בְנֵי־** שֵׁם לְמִשְׁפְּחֹתָם",
+        "transliteration": "eleh **benei-** Shem leMishpechotam",
+        "englishLiteral": "These **sons-of-** Name (Shem), to-families-their,",
+        "englishNatural": "These **are the sons of** Name (Shem), to their families,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "בְּנֵי־",
+        "transliteration": "benei-",
+        "englishLiteral": "sons-of-",
+        "englishNatural": "the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה מִשְׁפְּחֹת **בְּנֵי־** נֹחַ לְתוֹלְדֹתָם",
+        "transliteration": "eleh mishpechot **benei-** Noach leToledotam",
+        "englishLiteral": "These families-of **sons-of-** Rest (Noah), to-birthings-their,",
+        "englishNatural": "These are the families of **the sons of** Rest (Noah), to their birthings,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 5
       },
@@ -925,6 +1275,231 @@
         "transliteration": "asher banu **beney** haAdam",
         "englishLiteral": "which they-had-built **sons-of** the-Earthling (Adam).",
         "englishNatural": "the tower which **the sons of** the Earthling (Adam) had built."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בֶּן־",
+        "transliteration": "ben-",
+        "englishLiteral": "son-of",
+        "englishNatural": "a son of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם שֵׁם **בֶּן־** מְאַת שָׁנָה",
+        "transliteration": "Shem Shem **ben-** meat shanah",
+        "englishLiteral": "Name (Shem); Name (Shem), **son-of** hundred year,",
+        "englishNatural": "Name (Shem); Name (Shem), **a son of** a hundred years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 11
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "בָּנִים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה וַיּוֹלֶד **בָּנִים** וּבָנוֹת",
+        "transliteration": "shanah vaYoled **banim** uVanot",
+        "englishLiteral": "year, and-he-birthed **sons** and-daughters.",
+        "englishNatural": "years, and birthed **sons** and daughters."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 13
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "בָּנִים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה וַיּוֹלֶד **בָּנִים** וּבָנוֹת",
+        "transliteration": "shanah vaYoled **banim** uVanot",
+        "englishLiteral": "year, and-he-birthed **sons** and-daughters.",
+        "englishNatural": "years, and birthed **sons** and daughters."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 15
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "בָּנִים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה וַיּוֹלֶד **בָּנִים** וּבָנוֹת",
+        "transliteration": "shanah vaYoled **banim** uVanot",
+        "englishLiteral": "year, and-he-begot **sons** and-daughters.",
+        "englishNatural": "years, and begot **sons** and daughters."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 17
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "בָּנִים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה וַיּוֹלֶד **בָּנִים** וּבָנוֹת",
+        "transliteration": "shanah vaYoled **banim** uVanot",
+        "englishLiteral": "year, and-he-begot **sons** and-daughters.",
+        "englishNatural": "years, and begot **sons** and daughters."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 19
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "בָּנִים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה וַיּוֹלֶד **בָּנִים** וּבָנוֹת",
+        "transliteration": "shanah vaYoled **banim** uVanot",
+        "englishLiteral": "year, and-he-birthed **sons** and-daughters.",
+        "englishNatural": "years, and birthed **sons** and daughters."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 21
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "בָּנִים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה וַיּוֹלֶד **בָּנִים** וּבָנוֹת",
+        "transliteration": "shanah vaYoled **banim** uVanot",
+        "englishLiteral": "year, and-he-begot **sons** and-daughters.",
+        "englishNatural": "years, and begot **sons** and daughters."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 23
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בָּנִים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה וַיּוֹלֶד **בָּנִים** וּבָנוֹת",
+        "transliteration": "shanah vaYoled **banim** uVanot",
+        "englishLiteral": "year, and-he-begot **sons** and-daughters.",
+        "englishNatural": "years, and begot **sons** and daughters."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 25
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "בָּנִים",
+        "transliteration": "banim",
+        "englishLiteral": "sons",
+        "englishNatural": "sons",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה וַיּוֹלֶד **בָּנִים** וּבָנוֹת",
+        "transliteration": "shanah vaYoled **banim** uVanot",
+        "englishLiteral": "year, and-he-begot **sons** and-daughters.",
+        "englishNatural": "years, and begot **sons** and daughters."
       }
     },
     {

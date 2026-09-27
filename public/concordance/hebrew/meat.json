@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "מְאַת",
+        "transliteration": "meat",
+        "englishLiteral": "hundred",
+        "englishNatural": "a hundred",
+        "root": "meah_hundred",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם בֶּן־ **מְאַת** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "Shem ben- **meat** shanah vaYoled",
+        "englishLiteral": "Name (Shem), son-of **hundred** year, and-he-birthed",
+        "englishNatural": "Name (Shem), a son of **a hundred** years, and birthed"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 8,
         "verse": 5

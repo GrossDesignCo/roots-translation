@@ -1,0 +1,34 @@
+{
+  "key": "nafotsu",
+  "language": "hebrew",
+  "root": "nafats",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 18
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "נָפֹצוּ",
+        "transliteration": "nafotsu",
+        "englishLiteral": "they-have-been-spread_out",
+        "englishNatural": "have been spread-out",
+        "root": "nafats",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "הַחֲמָתִי וְאַחַר **נָפֹצוּ** מִשְׁפְּחוֹת הַכְּנַעֲנִי",
+        "transliteration": "haChamathi veAchar **nafotsu** mishpechot haKenaani",
+        "englishLiteral": "the-Hamathite; and-after **they-have-been-spread_out** families-of the-Canaanite.",
+        "englishNatural": "the Hamathite; and after **have been spread-out** the families of the Canaanite."
+      }
+    }
+  ]
+}

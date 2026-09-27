@@ -5,6 +5,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "סְדֹמָה",
+        "transliteration": "Sedomah",
+        "englishLiteral": "toward-Devastation (Sodom)",
+        "englishNatural": "toward Devastation (Sodom)",
+        "root": "sedom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עַזָּה בֹּאֲכָה **סְדֹמָה** וַעֲמֹרָה וְאַדְמָה",
+        "transliteration": "Azzah boakhah **Sedomah** vaAmorah veAdmah",
+        "englishLiteral": "Strong (Gaza); coming-you **toward-Devastation (Sodom),** and-toward-Gomorrah (Gomorrah), and-Earth (Admah),",
+        "englishNatural": "Strong (Gaza); as you come **toward Devastation (Sodom),** and toward Gomorrah (Gomorrah), and Earth (Admah),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 14,
         "verse": 17
       },

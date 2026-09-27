@@ -1,0 +1,31 @@
+{
+  "root": "elishah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 4
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אֱלִישָׁה",
+        "transliteration": "Elishah",
+        "englishLiteral": "God_helps (Elishah)",
+        "englishNatural": "God-helps (Elishah)",
+        "root": "elishah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְנֵי יָוָן **אֱלִישָׁה** וְתַרְשִׁישׁ כִּתִּים",
+        "transliteration": "uBeney Yavan **Elishah** veTarshish Kittim",
+        "englishLiteral": "And-sons-of Mire (Javan): **God_helps (Elishah),** and-golden_stone (Tarshish); Bruisers (Kittim),",
+        "englishNatural": "And the sons of Mire (Javan): **God-helps (Elishah),** and golden-stone (Tarshish); Bruisers (Kittim),"
+      }
+    }
+  ]
+}

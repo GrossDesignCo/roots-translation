@@ -1,0 +1,32 @@
+{
+  "key": "oval",
+  "language": "hebrew",
+  "root": "oval",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "עוֹבָל",
+        "transliteration": "Oval",
+        "englishLiteral": "Obal (Obal)",
+        "englishNatural": "Obal (Obal)",
+        "root": "oval",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ **עוֹבָל** וְאֶת־ אֲבִימָאֵל",
+        "transliteration": "veEt- **Oval** veEt- Avimael",
+        "englishLiteral": "and-↳ **Obal (Obal),** and-↳ Father_is_God (Abimael),",
+        "englishNatural": "and **Obal (Obal),** and Father-is-God (Abimael),"
+      }
+    }
+  ]
+}

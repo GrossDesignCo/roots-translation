@@ -1,0 +1,31 @@
+{
+  "root": "naphtuhim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "נַפְתֻּחִים",
+        "transliteration": "Naphtuhim",
+        "englishLiteral": "Of_Ptah (Naphtuhim)",
+        "englishNatural": "Of-Ptah (Naphtuhim)",
+        "root": "naphtuhim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְהָבִים וְאֶת־ **נַפְתֻּחִים**",
+        "transliteration": "Lehabim veEt- **Naphtuhim**",
+        "englishLiteral": "Flames (Lehabim), and-↳ **Of_Ptah (Naphtuhim),**",
+        "englishNatural": "Flames (Lehabim), and **Of-Ptah (Naphtuhim),**"
+      }
+    }
+  ]
+}

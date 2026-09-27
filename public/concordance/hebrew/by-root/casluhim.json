@@ -1,0 +1,31 @@
+{
+  "root": "casluhim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 14
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "כַּסְלֻחִים",
+        "transliteration": "Casluhim",
+        "englishLiteral": "Loiners (Casluhim)",
+        "englishNatural": "Loiners (Casluhim)",
+        "root": "casluhim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פַּתְרֻסִים וְאֶת־ **כַּסְלֻחִים** אֲשֶׁר יָצְאוּ",
+        "transliteration": "Pathrusim veEt- **Casluhim** asher yatsau",
+        "englishLiteral": "Southerners (Pathrusim), and-↳ **Loiners (Casluhim),** which they-have-brought_out",
+        "englishNatural": "Southerners (Pathrusim), and **Loiners (Casluhim),** which they have brought-out"
+      }
+    }
+  ]
+}

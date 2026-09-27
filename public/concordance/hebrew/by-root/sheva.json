@@ -501,6 +501,31 @@
         "englishLiteral": "And-in-month the-second, **in-seven** and-twenty day",
         "englishNatural": "And in the month the second, **in seven** and twenty days"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 21
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שֶׁבַע",
+        "transliteration": "sheva",
+        "englishLiteral": "seven",
+        "englishNatural": "seven",
+        "root": "sheva",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ שְׂרוּג **שֶׁבַע** שָׁנִים וּמָאתַיִם",
+        "transliteration": "et- Serug **sheva** shanim uMatayim",
+        "englishLiteral": "↳ Intertwined (Serug), **seven** years and-two-hundred",
+        "englishNatural": "↳ Intertwined (Serug), **seven** years and two hundred"
+      }
     }
   ]
 }

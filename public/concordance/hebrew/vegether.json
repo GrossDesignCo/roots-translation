@@ -1,0 +1,32 @@
+{
+  "key": "vegether",
+  "language": "hebrew",
+  "root": "gether",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְגֶתֶר",
+        "transliteration": "veGether",
+        "englishLiteral": "and-Gether (Gether)",
+        "englishNatural": "and Gether (Gether)",
+        "root": "gether",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עוּץ וְחוּל **וְגֶתֶר** וָמַשׁ",
+        "transliteration": "Uts veChul **veGether** vaMash",
+        "englishLiteral": "Counsel (Uz), and-Writhe (Hul), **and-Gether (Gether),** and-Feel (Mash).",
+        "englishNatural": "Counsel (Uz), and Writhe (Hul), **and Gether (Gether),** and Feel (Mash)."
+      }
+    }
+  ]
+}

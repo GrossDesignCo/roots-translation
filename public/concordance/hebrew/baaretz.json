@@ -280,6 +280,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "בָּאָרֶץ",
+        "transliteration": "baAretz",
+        "englishLiteral": "in-the-land",
+        "englishNatural": "in the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נִפְרְדוּ הַגּוֹיִם **בָּאָרֶץ** אַחַר הַמַּבּוּל",
+        "transliteration": "niphredu haGoyim **baAretz** achar haMabbul",
+        "englishLiteral": "they-have-been-parted the-nations **in-the-land** after the-flood.",
+        "englishNatural": "have been parted the nations **in the land** after the flood."
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 20,
         "verse": 4

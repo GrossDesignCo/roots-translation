@@ -31,6 +31,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 2
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "בְּנֵי",
+        "transliteration": "beney",
+        "englishLiteral": "sons-of",
+        "englishNatural": "The sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**בְּנֵי** יֶפֶת גֹּמֶר",
+        "transliteration": "**beney** Yafet Gomer",
+        "englishLiteral": "**sons-of** Spacious (Japheth): Complete (Gomer),",
+        "englishNatural": "**The sons of** Spacious (Japheth): Complete (Gomer),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 5
       },

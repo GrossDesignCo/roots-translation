@@ -1,0 +1,32 @@
+{
+  "key": "pathrusim",
+  "language": "hebrew",
+  "root": "pathrusim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "פַּתְרֻסִים",
+        "transliteration": "Pathrusim",
+        "englishLiteral": "Southerners (Pathrusim)",
+        "englishNatural": "Southerners (Pathrusim)",
+        "root": "pathrusim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ **פַּתְרֻסִים** וְאֶת־ כַּסְלֻחִים",
+        "transliteration": "veEt- **Pathrusim** veEt- Casluhim",
+        "englishLiteral": "and-↳ **Southerners (Pathrusim),** and-↳ Loiners (Casluhim),",
+        "englishNatural": "and **Southerners (Pathrusim),** and Loiners (Casluhim),"
+      }
+    }
+  ]
+}

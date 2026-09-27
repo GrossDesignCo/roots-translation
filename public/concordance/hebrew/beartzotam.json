@@ -1,0 +1,82 @@
+{
+  "key": "beartzotam",
+  "language": "hebrew",
+  "root": "eretz",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 5
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בְּאַרְצֹתָם",
+        "transliteration": "beArtzotam",
+        "englishLiteral": "in-lands-their",
+        "englishNatural": "in their lands",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִיֵּי הַגּוֹיִם **בְּאַרְצֹתָם** אִישׁ לִלְשֹׁנוֹ",
+        "transliteration": "iyyei haGoyim **beArtzotam** ish liLeshono",
+        "englishLiteral": "islands-of the-nations **in-lands-their;** man to-tongue-his,",
+        "englishNatural": "the islands of the nations **in their lands;** a man to his tongue,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 20
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בְּאַרְצֹתָם",
+        "transliteration": "beArtzotam",
+        "englishLiteral": "in-lands-their",
+        "englishNatural": "in their lands",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִשְׁפְּחֹתָם לִלְשֹׁנֹתָם **בְּאַרְצֹתָם** בְּגוֹיֵהֶם",
+        "transliteration": "leMishpechotam liLeshonotam **beArtzotam** beGoyeihem",
+        "englishLiteral": "to-families-their, to-tongues-their, **in-lands-their,** in-nations-their.",
+        "englishNatural": "to their families, to their tongues, **in their lands,** in their nations."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 31
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בְּאַרְצֹתָם",
+        "transliteration": "beArtzotam",
+        "englishLiteral": "in-lands-their",
+        "englishNatural": "in their lands",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לְמִשְׁפְּחֹתָם לִלְשֹׁנֹתָם **בְּאַרְצֹתָם** לְגוֹיֵהֶם",
+        "transliteration": "leMishpechotam liLeshonotam **beArtzotam** leGoyeihem",
+        "englishLiteral": "to-families-their, to-tongues-their, **in-lands-their,** to-nations-their.",
+        "englishNatural": "to their families, to their tongues, **in their lands,** to their nations."
+      }
+    }
+  ]
+}

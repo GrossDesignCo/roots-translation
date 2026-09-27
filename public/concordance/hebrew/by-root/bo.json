@@ -543,6 +543,87 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בֹּאֲכָה",
+        "transliteration": "boakhah",
+        "englishLiteral": "coming-you",
+        "englishNatural": "as you come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "הַכְּנַעֲנִי מִצִּידֹן **בֹּאֲכָה** גְרָרָה עַד־",
+        "transliteration": "haKenaani miTsidon **boakhah** Gerarah ad-",
+        "englishLiteral": "the-Canaanite from-Fishery (Sidon), **coming-you** toward-Gerar (Gerar) until-",
+        "englishNatural": "was from Fishery (Sidon), **as you come** toward Gerar (Gerar) until"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "בֹּאֲכָה",
+        "transliteration": "boakhah",
+        "englishLiteral": "coming-you",
+        "englishNatural": "as you come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "עַד־ עַזָּה **בֹּאֲכָה** סְדֹמָה וַעֲמֹרָה",
+        "transliteration": "ad- Azzah **boakhah** Sedomah vaAmorah",
+        "englishLiteral": "until- Strong (Gaza); **coming-you** toward-Devastation (Sodom), and-toward-Gomorrah (Gomorrah),",
+        "englishNatural": "until Strong (Gaza); **as you come** toward Devastation (Sodom), and toward Gomorrah (Gomorrah),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 30
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "בֹּאֲכָה",
+        "transliteration": "boakhah",
+        "englishLiteral": "coming-you",
+        "englishNatural": "as you come",
+        "root": "bo",
+        "morphology": {
+          "type": "verb",
+          "tense": "infinitive_construct",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "מוֹשָׁבָם מִמֵּשָׁא **בֹּאֲכָה** סְפָרָה הַר",
+        "transliteration": "moshavam miMesha **boakhah** Sefarah har",
+        "englishLiteral": "seat-their from-Freedom (Mesha), **coming-you** toward-Counting (Sephar), mountain-of",
+        "englishNatural": "from Freedom (Mesha) was, **as you come** toward Counting (Sephar), the mountain of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 12
       },

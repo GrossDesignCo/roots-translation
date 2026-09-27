@@ -76,6 +76,56 @@
         "englishLiteral": "And-these **birthings-of** sons-of- Rest (Noah):",
         "englishNatural": "And these **are the birthings of** the sons of Rest (Noah):"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לְתוֹלְדֹתָם",
+        "transliteration": "leToledotam",
+        "englishLiteral": "to-birthings-their",
+        "englishNatural": "to their birthings",
+        "root": "toledot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי־ נֹחַ **לְתוֹלְדֹתָם** בְּגוֹיֵהֶם וּמֵאֵלֶּה",
+        "transliteration": "benei- Noach **leToledotam** beGoyeihem uMeEleh",
+        "englishLiteral": "sons-of- Rest (Noah), **to-birthings-their,** in-nations-their; and-from-these",
+        "englishNatural": "the sons of Rest (Noah), **to their birthings,** in their nations; and from these"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תּוֹלְדֹת",
+        "transliteration": "toledot",
+        "englishLiteral": "birthings-of",
+        "englishNatural": "are the birthings of",
+        "root": "toledot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה **תּוֹלְדֹת** שֵׁם שֵׁם",
+        "transliteration": "eleh **toledot** Shem Shem",
+        "englishLiteral": "These **birthings-of** Name (Shem); Name (Shem),",
+        "englishNatural": "These **are the birthings of** Name (Shem); Name (Shem),"
+      }
     }
   ]
 }

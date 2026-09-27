@@ -229,6 +229,56 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 11
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "חֲמֵשׁ",
+        "transliteration": "chamesh",
+        "englishLiteral": "five",
+        "englishNatural": "five",
+        "root": "chamesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ אַרְפַּכְשָׁד **חֲמֵשׁ** מֵאוֹת שָׁנָה",
+        "transliteration": "et- Arpachshad **chamesh** meot shanah",
+        "englishLiteral": "↳ Heal_Shaddai (Arpachshad), **five** hundreds year,",
+        "englishNatural": "↳ Heal-Shaddai (Arpachshad), **five** hundred years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 12
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "חָמֵשׁ",
+        "transliteration": "chamesh",
+        "englishLiteral": "five",
+        "englishNatural": "five",
+        "root": "chamesh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַרְפַּכְשַׁד חַי **חָמֵשׁ** וּשְׁלֹשִׁים שָׁנָה",
+        "transliteration": "veArpachshad chai **chamesh** uShloshim shanah",
+        "englishLiteral": "And-Heal_Shaddai (Arpachshad) he-lived **five** and-thirty year,",
+        "englishNatural": "And Heal-Shaddai (Arpachshad) lived **five** and thirty years,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 1

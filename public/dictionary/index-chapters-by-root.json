@@ -489,12 +489,14 @@
       4,
       5,
       7,
-      8
+      8,
+      11
     ]
   },
   "shivim": {
     "genesis": [
-      5
+      5,
+      11
     ]
   },
   "rishon": {
@@ -707,6 +709,7 @@
       7,
       8,
       9,
+      10,
       11,
       12,
       15
@@ -751,7 +754,8 @@
       6,
       7,
       8,
-      9
+      9,
+      11
     ],
     "jonah": [
       2
@@ -918,6 +922,7 @@
       7,
       8,
       9,
+      10,
       11,
       12,
       14,
@@ -1105,6 +1110,7 @@
       7,
       8,
       9,
+      10,
       11,
       15
     ],
@@ -1556,6 +1562,7 @@
       6,
       7,
       8,
+      10,
       15
     ],
     "job": [
@@ -1664,6 +1671,7 @@
       6,
       7,
       8,
+      10,
       15
     ],
     "isaiah": [
@@ -1856,6 +1864,7 @@
       6,
       7,
       9,
+      10,
       11,
       15
     ],
@@ -2330,6 +2339,7 @@
       3,
       4,
       8,
+      10,
       11
     ],
     "isaiah": [
@@ -2353,7 +2363,9 @@
       5,
       6,
       7,
-      9
+      9,
+      10,
+      11
     ],
     "isaiah": [
       6
@@ -2594,6 +2606,7 @@
       7,
       8,
       9,
+      10,
       15
     ],
     "job": [
@@ -2801,7 +2814,8 @@
       4,
       5,
       6,
-      10
+      10,
+      11
     ],
     "proverbs": [
       8,
@@ -2899,6 +2913,7 @@
       7,
       8,
       9,
+      11,
       15
     ],
     "isaiah": [
@@ -3531,6 +3546,7 @@
       2,
       3,
       4,
+      10,
       11
     ],
     "jonah": [
@@ -3552,6 +3568,7 @@
     "genesis": [
       2,
       3,
+      10,
       11
     ],
     "jonah": [
@@ -3618,7 +3635,8 @@
       1
     ],
     "genesis": [
-      2
+      2,
+      10
     ],
     "ruth": [
       1
@@ -3634,6 +3652,7 @@
     "genesis": [
       2,
       5,
+      11,
       15
     ]
   },
@@ -3700,7 +3719,8 @@
   },
   "Chavilah": {
     "genesis": [
-      2
+      2,
+      10
     ]
   },
   "savav": {
@@ -4002,6 +4022,7 @@
       2,
       4,
       9,
+      10,
       12,
       15
     ]
@@ -4489,6 +4510,7 @@
       4,
       6,
       7,
+      10,
       15
     ],
     "job": [
@@ -5131,6 +5153,7 @@
   },
   "goy": {
     "genesis": [
+      10,
       12,
       15
     ],
@@ -5151,6 +5174,9 @@
   },
   "moshav": {
     "exodus": [
+      10
+    ],
+    "genesis": [
       10
     ],
     "psalms": [
@@ -5183,6 +5209,10 @@
     ]
   },
   "peleg": {
+    "genesis": [
+      10,
+      11
+    ],
     "psalms": [
       1
     ]
@@ -5580,7 +5610,8 @@
     ],
     "genesis": [
       4,
-      9
+      9,
+      10
     ]
   },
   "achor": {
@@ -5680,7 +5711,8 @@
       12
     ],
     "genesis": [
-      4
+      4,
+      10
     ]
   },
   "shifchah": {
@@ -5722,6 +5754,9 @@
     ],
     "exodus": [
       11
+    ],
+    "genesis": [
+      10
     ]
   },
   "palah": {
@@ -6092,7 +6127,8 @@
     ],
     "genesis": [
       7,
-      8
+      8,
+      10
     ],
     "jonah": [
       2
@@ -6445,13 +6481,15 @@
     "genesis": [
       5,
       6,
-      10
+      10,
+      11
     ]
   },
   "shloshim": {
     "genesis": [
       5,
-      6
+      6,
+      11
     ]
   },
   "meah_hundred": {
@@ -6464,6 +6502,7 @@
       7,
       8,
       9,
+      11,
       15
     ]
   },
@@ -6481,6 +6520,7 @@
       6,
       9,
       10,
+      11,
       14,
       15
     ],
@@ -6500,7 +6540,8 @@
     ],
     "genesis": [
       5,
-      6
+      6,
+      11
     ],
     "micah": [
       1
@@ -6512,7 +6553,8 @@
   "tesha": {
     "genesis": [
       5,
-      9
+      9,
+      11
     ]
   },
   "chamishah": {
@@ -6546,7 +6588,8 @@
       5,
       6,
       7,
-      9
+      9,
+      11
     ],
     "jonah": [
       1,
@@ -6559,7 +6602,8 @@
     ],
     "genesis": [
       5,
-      7
+      7,
+      11
     ]
   },
   "shmonim": {
@@ -6598,15 +6642,395 @@
       10
     ]
   },
+  "gomer": {
+    "genesis": [
+      10
+    ]
+  },
+  "magog": {
+    "genesis": [
+      10
+    ]
+  },
+  "madai": {
+    "genesis": [
+      10
+    ]
+  },
+  "yavan": {
+    "genesis": [
+      10
+    ]
+  },
+  "tubal": {
+    "genesis": [
+      10
+    ]
+  },
+  "meshech": {
+    "genesis": [
+      10
+    ]
+  },
+  "tiras": {
+    "genesis": [
+      10
+    ]
+  },
+  "ashkenaz": {
+    "genesis": [
+      10
+    ]
+  },
+  "riphath": {
+    "genesis": [
+      10
+    ]
+  },
+  "togarmah": {
+    "genesis": [
+      10
+    ]
+  },
+  "elishah": {
+    "genesis": [
+      10
+    ]
+  },
+  "kittim": {
+    "genesis": [
+      10
+    ]
+  },
+  "dodanim": {
+    "genesis": [
+      10
+    ]
+  },
+  "put": {
+    "genesis": [
+      10
+    ]
+  },
+  "seba": {
+    "genesis": [
+      10
+    ]
+  },
+  "sabtah": {
+    "genesis": [
+      10
+    ]
+  },
+  "raamah": {
+    "genesis": [
+      10
+    ]
+  },
+  "sabteca": {
+    "genesis": [
+      10
+    ]
+  },
+  "sheba": {
+    "genesis": [
+      10
+    ]
+  },
+  "dedan": {
+    "genesis": [
+      10
+    ]
+  },
+  "ludim": {
+    "genesis": [
+      10
+    ]
+  },
+  "anamim": {
+    "genesis": [
+      10
+    ]
+  },
+  "lehabim": {
+    "genesis": [
+      10
+    ]
+  },
+  "naphtuhim": {
+    "genesis": [
+      10
+    ]
+  },
+  "pathrusim": {
+    "genesis": [
+      10
+    ]
+  },
+  "casluhim": {
+    "genesis": [
+      10
+    ]
+  },
+  "pelishtim": {
+    "genesis": [
+      10
+    ]
+  },
+  "kaphtorim": {
+    "genesis": [
+      10
+    ]
+  },
   "kenaan": {
     "genesis": [
-      9
+      9,
+      10
+    ]
+  },
+  "tsidon": {
+    "genesis": [
+      10
+    ]
+  },
+  "chet": {
+    "genesis": [
+      10
+    ]
+  },
+  "yebusi": {
+    "genesis": [
+      10
+    ]
+  },
+  "girgashi": {
+    "genesis": [
+      10
+    ]
+  },
+  "chivi": {
+    "genesis": [
+      10
+    ]
+  },
+  "arqi": {
+    "genesis": [
+      10
+    ]
+  },
+  "sini": {
+    "genesis": [
+      10
+    ]
+  },
+  "arvadi": {
+    "genesis": [
+      10
+    ]
+  },
+  "tsemari": {
+    "genesis": [
+      10
+    ]
+  },
+  "chamathi": {
+    "genesis": [
+      10
+    ]
+  },
+  "kenaani": {
+    "genesis": [
+      10
+    ]
+  },
+  "gevul": {
+    "genesis": [
+      10
+    ]
+  },
+  "gerar": {
+    "genesis": [
+      10
+    ]
+  },
+  "azzah": {
+    "genesis": [
+      10
+    ]
+  },
+  "amorah": {
+    "genesis": [
+      10
+    ]
+  },
+  "admah": {
+    "genesis": [
+      10
+    ]
+  },
+  "tsevoyim": {
+    "genesis": [
+      10
+    ]
+  },
+  "lasha": {
+    "genesis": [
+      10
+    ]
+  },
+  "eber": {
+    "genesis": [
+      10,
+      11
+    ]
+  },
+  "elam": {
+    "genesis": [
+      10
+    ]
+  },
+  "aram": {
+    "genesis": [
+      10
+    ]
+  },
+  "lud": {
+    "genesis": [
+      10
+    ]
+  },
+  "arpachshad": {
+    "genesis": [
+      10,
+      11
+    ]
+  },
+  "chul": {
+    "genesis": [
+      10
+    ]
+  },
+  "gether": {
+    "genesis": [
+      10
+    ]
+  },
+  "mash_person": {
+    "genesis": [
+      10
+    ]
+  },
+  "shelach": {
+    "genesis": [
+      10,
+      11
+    ]
+  },
+  "reu": {
+    "genesis": [
+      11
+    ]
+  },
+  "serug": {
+    "genesis": [
+      11
+    ]
+  },
+  "nachor": {
+    "genesis": [
+      11
+    ]
+  },
+  "terach": {
+    "genesis": [
+      11
+    ]
+  },
+  "haran": {
+    "genesis": [
+      11
+    ]
+  },
+  "palag": {
+    "genesis": [
+      10
+    ]
+  },
+  "yoqtan": {
+    "genesis": [
+      10
+    ]
+  },
+  "almodad": {
+    "genesis": [
+      10
+    ]
+  },
+  "shalef": {
+    "genesis": [
+      10
+    ]
+  },
+  "chatsarmavet": {
+    "genesis": [
+      10
+    ]
+  },
+  "yarach": {
+    "genesis": [
+      10
+    ]
+  },
+  "hadoram": {
+    "genesis": [
+      10
+    ]
+  },
+  "uzal": {
+    "genesis": [
+      10
+    ]
+  },
+  "diqlah": {
+    "genesis": [
+      10
+    ]
+  },
+  "oval": {
+    "genesis": [
+      10
+    ]
+  },
+  "avimael": {
+    "genesis": [
+      10
+    ]
+  },
+  "ophir": {
+    "genesis": [
+      10
+    ]
+  },
+  "yovav": {
+    "genesis": [
+      10
+    ]
+  },
+  "mesha": {
+    "genesis": [
+      10
+    ]
+  },
+  "sefar": {
+    "genesis": [
+      10
     ]
   },
   "esreh": {
     "genesis": [
       5,
-      7
+      7,
+      11
     ],
     "jonah": [
       4
@@ -6725,7 +7149,8 @@
   "esrim": {
     "genesis": [
       6,
-      8
+      8,
+      11
     ]
   },
   "nefilim": {
@@ -6787,6 +7212,9 @@
   "tarshish": {
     "ezekiel": [
       1
+    ],
+    "genesis": [
+      10
     ],
     "jonah": [
       1,
@@ -7942,7 +8370,8 @@
   },
   "nafats": {
     "genesis": [
-      9
+      9,
+      10
     ]
   },
   "matsa": {
@@ -7976,6 +8405,7 @@
       6,
       9,
       10,
+      11,
       15
     ],
     "micah": [
@@ -8371,7 +8801,8 @@
       6,
       7,
       9,
-      10
+      10,
+      11
     ]
   },
   "gava": {
@@ -8603,6 +9034,7 @@
   },
   "abram": {
     "genesis": [
+      11,
       12,
       15
     ]
@@ -8623,6 +9055,7 @@
   "mishpachah": {
     "genesis": [
       8,
+      10,
       12
     ],
     "micah": [
@@ -8912,6 +9345,7 @@
   },
   "emori": {
     "genesis": [
+      10,
       15
     ]
   },
@@ -8951,11 +9385,13 @@
       20
     ],
     "genesis": [
+      10,
       15
     ]
   },
   "sedom": {
     "genesis": [
+      10,
       14
     ]
   },
@@ -9749,6 +10185,9 @@
     ]
   },
   "uts": {
+    "genesis": [
+      10
+    ],
     "job": [
       1
     ]
@@ -10254,6 +10693,11 @@
   "iy": {
     "micah": [
       1
+    ]
+  },
+  "i": {
+    "genesis": [
+      10
     ]
   },
   "matta": {

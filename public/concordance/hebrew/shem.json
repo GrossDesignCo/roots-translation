@@ -306,6 +306,81 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 22
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "שֵׁם",
+        "transliteration": "Shem",
+        "englishLiteral": "Name (Shem)",
+        "englishNatural": "Name (Shem)",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי **שֵׁם** עֵילָם וְאַשּׁוּר",
+        "transliteration": "benei **Shem** Elam veAshur",
+        "englishLiteral": "Sons-of **Name (Shem):** Hidden (Elam), and-Steppe (Assyria),",
+        "englishNatural": "The sons of **Name (Shem):** Hidden (Elam), and Steppe (Assyria),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "שֵׁם",
+        "transliteration": "shem",
+        "englishLiteral": "name-of",
+        "englishNatural": "the name of",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנֵי בָנִים **שֵׁם** הָאֶחָד פֶּלֶג",
+        "transliteration": "shenei banim **shem** haEchad Peleg",
+        "englishLiteral": "two-of sons; **name-of** the-one Channel (Peleg),",
+        "englishNatural": "two sons; **the name of** the one Channel (Peleg),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 31
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שֵׁם",
+        "transliteration": "Shem",
+        "englishLiteral": "Name (Shem)",
+        "englishNatural": "Name (Shem)",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה בְנֵי־ **שֵׁם** לְמִשְׁפְּחֹתָם לִלְשֹׁנֹתָם",
+        "transliteration": "eleh benei- **Shem** leMishpechotam liLeshonotam",
+        "englishLiteral": "These sons-of- **Name (Shem),** to-families-their, to-tongues-their,",
+        "englishNatural": "These are the sons of **Name (Shem),** to their families, to their tongues,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 4
       },
@@ -326,6 +401,81 @@
         "transliteration": "veNaaseh- lanu **shem** pen- naFuts",
         "englishLiteral": "and-let-us-make- for-us **name** lest- we-are-scattered",
         "englishNatural": "and let us make for us **a name** lest we are scattered"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שֵׁם",
+        "transliteration": "Shem",
+        "englishLiteral": "Name (Shem)",
+        "englishNatural": "Name (Shem)",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה תּוֹלְדֹת **שֵׁם** שֵׁם בֶּן־",
+        "transliteration": "eleh toledot **Shem** Shem ben-",
+        "englishLiteral": "These birthings-of **Name (Shem);** Name (Shem), son-of",
+        "englishNatural": "These are the birthings of **Name (Shem);** Name (Shem), a son of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "שֵׁם",
+        "transliteration": "Shem",
+        "englishLiteral": "Name (Shem)",
+        "englishNatural": "Name (Shem)",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תּוֹלְדֹת שֵׁם **שֵׁם** בֶּן־ מְאַת",
+        "transliteration": "toledot Shem **Shem** ben- meat",
+        "englishLiteral": "birthings-of Name (Shem); **Name (Shem),** son-of hundred",
+        "englishNatural": "are the birthings of Name (Shem); **Name (Shem),** a son of a hundred"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 11
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "שֵׁם",
+        "transliteration": "Shem",
+        "englishLiteral": "Name (Shem)",
+        "englishNatural": "And Name (Shem)",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי־ **שֵׁם** אַחֲרֵי הוֹלִידוֹ",
+        "transliteration": "vaYechi- **Shem** acharey holido",
+        "englishLiteral": "and-lived- **Name (Shem)** after his-begetting",
+        "englishNatural": "**And Name (Shem)** lived after"
       }
     },
     {

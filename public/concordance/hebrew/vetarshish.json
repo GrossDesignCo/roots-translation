@@ -1,0 +1,32 @@
+{
+  "key": "vetarshish",
+  "language": "hebrew",
+  "root": "tarshish",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 4
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְתַרְשִׁישׁ",
+        "transliteration": "veTarshish",
+        "englishLiteral": "and-golden_stone (Tarshish)",
+        "englishNatural": "and golden-stone (Tarshish)",
+        "root": "tarshish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָוָן אֱלִישָׁה **וְתַרְשִׁישׁ** כִּתִּים וְדֹדָנִים",
+        "transliteration": "Yavan Elishah **veTarshish** Kittim veDodanim",
+        "englishLiteral": "Mire (Javan): God_helps (Elishah), **and-golden_stone (Tarshish);** Bruisers (Kittim), and-Beloveds (Dodanim).",
+        "englishNatural": "Mire (Javan): God-helps (Elishah), **and golden-stone (Tarshish);** Bruisers (Kittim), and Beloveds (Dodanim)."
+      }
+    }
+  ]
+}

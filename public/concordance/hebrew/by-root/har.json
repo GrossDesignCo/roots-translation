@@ -104,6 +104,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 30
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הַר",
+        "transliteration": "har",
+        "englishLiteral": "mountain-of",
+        "englishNatural": "the mountain of",
+        "root": "har",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֹּאֲכָה סְפָרָה **הַר** הַקֶּדֶם",
+        "transliteration": "boakhah Sefarah **har** haQedem",
+        "englishLiteral": "coming-you toward-Counting (Sephar), **mountain-of** the-east.",
+        "englishNatural": "as you come toward Counting (Sephar), **the mountain of** the east."
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 3,
         "verse": 1

@@ -1,0 +1,32 @@
+{
+  "key": "vetuval",
+  "language": "hebrew",
+  "root": "tubal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 2
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְתֻבָל",
+        "transliteration": "veTuval",
+        "englishLiteral": "and-World (Tubal)",
+        "englishNatural": "and World (Tubal)",
+        "root": "tubal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמָדַי וְיָוָן **וְתֻבָל** וּמֶשֶׁךְ וְתִירָס",
+        "transliteration": "uMadai veYavan **veTuval** uMeshech veTiras",
+        "englishLiteral": "and-Measure (Madai), and-Mire (Javan), **and-World (Tubal),** and-Drawing (Meshech), and-Moist (Tiras).",
+        "englishNatural": "and Measure (Madai), and Mire (Javan), **and World (Tubal),** and Drawing (Meshech), and Moist (Tiras)."
+      }
+    }
+  ]
+}

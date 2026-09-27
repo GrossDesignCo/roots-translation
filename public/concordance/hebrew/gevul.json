@@ -1,0 +1,32 @@
+{
+  "key": "gevul",
+  "language": "hebrew",
+  "root": "gevul",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "גְּבוּל",
+        "transliteration": "gevul",
+        "englishLiteral": "border",
+        "englishNatural": "And the border",
+        "root": "gevul",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי **גְּבוּל** הַכְּנַעֲנִי מִצִּידֹן",
+        "transliteration": "vaYehi **gevul** haKenaani miTsidon",
+        "englishLiteral": "And-was **border** the-Canaanite from-Fishery (Sidon),",
+        "englishNatural": "**And the border** of the Canaanite was"
+      }
+    }
+  ]
+}

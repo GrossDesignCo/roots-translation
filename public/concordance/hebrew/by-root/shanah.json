@@ -1430,6 +1430,606 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בֶּן־ מְאַת **שָׁנָה** וַיּוֹלֶד אֶת־",
+        "transliteration": "ben- meat **shanah** vaYoled et-",
+        "englishLiteral": "son-of hundred **year,** and-he-birthed ↳",
+        "englishNatural": "a son of a hundred **years,** and birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "שְׁנָתַיִם",
+        "transliteration": "shanatayim",
+        "englishLiteral": "two-years",
+        "englishNatural": "two years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ אַרְפַּכְשָׁד **שְׁנָתַיִם** אַחַר הַמַּבּוּל",
+        "transliteration": "et- Arpachshad **shanatayim** achar haMabbul",
+        "englishLiteral": "↳ Heal_Shaddai (Arpachshad) **two-years** after the-flood.",
+        "englishNatural": "↳ Heal-Shaddai (Arpachshad) **two years** after the flood."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 11
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֲמֵשׁ מֵאוֹת **שָׁנָה** וַיּוֹלֶד בָּנִים",
+        "transliteration": "chamesh meot **shanah** vaYoled banim",
+        "englishLiteral": "five hundreds **year,** and-he-birthed sons",
+        "englishNatural": "five hundred **years,** and birthed sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 12
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חָמֵשׁ וּשְׁלֹשִׁים **שָׁנָה** וַיּוֹלֶד אֶת־",
+        "transliteration": "chamesh uShloshim **shanah** vaYoled et-",
+        "englishLiteral": "five and-thirty **year,** and-he-birthed ↳",
+        "englishNatural": "five and thirty **years,** and birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שָׁנִים",
+        "transliteration": "shanim",
+        "englishLiteral": "years",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֶׁלַח שָׁלֹשׁ **שָׁנִים** וְאַרְבַּע מֵאוֹת",
+        "transliteration": "Shelach shalosh **shanim** veArba meot",
+        "englishLiteral": "Sent (Shelah), three **years** and-four hundreds",
+        "englishNatural": "Sent (Shelah), three **years** and four hundred"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 13
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַרְבַּע מֵאוֹת **שָׁנָה** וַיּוֹלֶד בָּנִים",
+        "transliteration": "veArba meot **shanah** vaYoled banim",
+        "englishLiteral": "and-four hundreds **year,** and-he-birthed sons",
+        "englishNatural": "and four hundred **years,** and birthed sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 14
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חַי שְׁלֹשִׁים **שָׁנָה** וַיּוֹלֶד אֶת־",
+        "transliteration": "chai shloshim **shanah** vaYoled et-",
+        "englishLiteral": "he-lived thirty **year,** and-he-birthed ↳",
+        "englishNatural": "lived thirty **years,** and birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 15
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שָׁנִים",
+        "transliteration": "shanim",
+        "englishLiteral": "years",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֵבֶר שָׁלֹשׁ **שָׁנִים** וְאַרְבַּע מֵאוֹת",
+        "transliteration": "Ever shalosh **shanim** veArba meot",
+        "englishLiteral": "Crossing (Eber), three **years** and-four hundreds",
+        "englishNatural": "Crossing (Eber), three **years** and four hundred"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 15
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַרְבַּע מֵאוֹת **שָׁנָה** וַיּוֹלֶד בָּנִים",
+        "transliteration": "veArba meot **shanah** vaYoled banim",
+        "englishLiteral": "and-four hundreds **year,** and-he-begot sons",
+        "englishNatural": "and four hundred **years,** and begot sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 16
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְבַּע וּשְׁלֹשִׁים **שָׁנָה** וַיּוֹלֶד אֶת־",
+        "transliteration": "arba uShloshim **shanah** vaYoled et-",
+        "englishLiteral": "four and-thirty **year,** and-he-birthed ↳",
+        "englishNatural": "four and thirty **years,** and birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 17
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פֶּלֶג שְׁלֹשִׁים **שָׁנָה** וְאַרְבַּע מֵאוֹת",
+        "transliteration": "Peleg shloshim **shanah** veArba meot",
+        "englishLiteral": "Channel (Peleg), thirty **year** and-four hundreds",
+        "englishNatural": "Channel (Peleg), thirty **years** and four hundred"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 17
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַרְבַּע מֵאוֹת **שָׁנָה** וַיּוֹלֶד בָּנִים",
+        "transliteration": "veArba meot **shanah** vaYoled banim",
+        "englishLiteral": "and-four hundreds **year,** and-he-begot sons",
+        "englishNatural": "and four hundred **years,** and begot sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פֶלֶג שְׁלֹשִׁים **שָׁנָה** וַיּוֹלֶד אֶת־",
+        "transliteration": "Peleg shloshim **shanah** vaYoled et-",
+        "englishLiteral": "Channel (Peleg) thirty **year,** and-he-birthed ↳",
+        "englishNatural": "lived thirty **years,** and birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 19
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שָׁנִים",
+        "transliteration": "shanim",
+        "englishLiteral": "years",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רְעוּ תֵּשַׁע **שָׁנִים** וּמָאתַיִם שָׁנָה",
+        "transliteration": "Reu tesha **shanim** uMatayim shanah",
+        "englishLiteral": "Friend (Reu), nine **years** and-two-hundred year,",
+        "englishNatural": "Friend (Reu), nine **years** and two hundred years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 19
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנִים וּמָאתַיִם **שָׁנָה** וַיּוֹלֶד בָּנִים",
+        "transliteration": "shanim uMatayim **shanah** vaYoled banim",
+        "englishLiteral": "years and-two-hundred **year,** and-he-birthed sons",
+        "englishNatural": "years and two hundred **years,** and birthed sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 20
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁתַּיִם וּשְׁלֹשִׁים **שָׁנָה** וַיּוֹלֶד אֶת־",
+        "transliteration": "shtayim uShloshim **shanah** vaYoled et-",
+        "englishLiteral": "two and-thirty **year,** and-he-birthed ↳",
+        "englishNatural": "two and thirty **years,** and birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 21
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שָׁנִים",
+        "transliteration": "shanim",
+        "englishLiteral": "years",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׂרוּג שֶׁבַע **שָׁנִים** וּמָאתַיִם שָׁנָה",
+        "transliteration": "Serug sheva **shanim** uMatayim shanah",
+        "englishLiteral": "Intertwined (Serug), seven **years** and-two-hundred year,",
+        "englishNatural": "Intertwined (Serug), seven **years** and two hundred years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 21
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנִים וּמָאתַיִם **שָׁנָה** וַיּוֹלֶד בָּנִים",
+        "transliteration": "shanim uMatayim **shanah** vaYoled banim",
+        "englishLiteral": "years and-two-hundred **year,** and-he-begot sons",
+        "englishNatural": "years and two hundred **years,** and begot sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 22
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׂרוּג שְׁלֹשִׁים **שָׁנָה** וַיּוֹלֶד אֶת־",
+        "transliteration": "Serug shloshim **shanah** vaYoled et-",
+        "englishLiteral": "Intertwined (Serug) thirty **year,** and-he-birthed ↳",
+        "englishNatural": "lived thirty **years,** and birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 23
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נָחוֹר מָאתַיִם **שָׁנָה** וַיּוֹלֶד בָּנִים",
+        "transliteration": "Nachor matayim **shanah** vaYoled banim",
+        "englishLiteral": "Snorting (Nahor), two-hundred **year,** and-he-begot sons",
+        "englishNatural": "Snorting (Nahor), two hundred **years,** and begot sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 24
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תֵּשַׁע וְעֶשְׂרִים **שָׁנָה** וַיּוֹלֶד אֶת־",
+        "transliteration": "tesha veEsrim **shanah** vaYoled et-",
+        "englishLiteral": "nine and-twenty **year,** and-he-birthed ↳",
+        "englishNatural": "nine and twenty **years,** and birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 25
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תְּשַׁע־ עֶשְׂרֵה **שָׁנָה** וּמְאַת שָׁנָה",
+        "transliteration": "tesha- esreh **shanah** uMeat shanah",
+        "englishLiteral": "nine- ten **year** and-hundred year,",
+        "englishNatural": "nine ten **years** and a hundred years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 25
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה וּמְאַת **שָׁנָה** וַיּוֹלֶד בָּנִים",
+        "transliteration": "shanah uMeat **shanah** vaYoled banim",
+        "englishLiteral": "year and-hundred **year,** and-he-begot sons",
+        "englishNatural": "years and a hundred **years,** and begot sons"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 26
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "שָׁנָה",
+        "transliteration": "shanah",
+        "englishLiteral": "year",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "תֶרַח שִׁבְעִים **שָׁנָה** וַיּוֹלֶד אֶת־",
+        "transliteration": "Terach shivim **shanah** vaYoled et-",
+        "englishLiteral": "Delay (Terah) seventy **year,** and-he-birthed ↳",
+        "englishNatural": "lived seventy **years,** and birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 13
       },

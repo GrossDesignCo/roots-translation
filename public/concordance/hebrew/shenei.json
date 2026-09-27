@@ -1,0 +1,32 @@
+{
+  "key": "shenei",
+  "language": "hebrew",
+  "root": "shnayim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שְׁנֵי",
+        "transliteration": "shenei",
+        "englishLiteral": "two-of",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְעֵבֶר יֻלַּד **שְׁנֵי** בָנִים שֵׁם",
+        "transliteration": "uleEver yulad **shenei** banim shem",
+        "englishLiteral": "And-to-Crossing (Eber) was-birthed **two-of** sons; name-of",
+        "englishNatural": "And to Crossing (Eber) was birthed **two** sons; the name of"
+      }
+    }
+  ]
+}

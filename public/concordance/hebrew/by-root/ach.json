@@ -279,6 +279,56 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "אֲחִי",
+        "transliteration": "achi",
+        "englishLiteral": "brother-of",
+        "englishNatural": "brother of",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי־ עֵבֶר **אֲחִי** יֶפֶת הַגָּדֹול",
+        "transliteration": "benei- Ever **achi** Yafet haGadol",
+        "englishLiteral": "sons-of- Crossing (Eber), **brother-of** Spacious (Japheth) the-great.",
+        "englishNatural": "the sons of Crossing (Eber), **brother of** Spacious (Japheth) the great."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "אָחִיו",
+        "transliteration": "achiv",
+        "englishLiteral": "brother-his",
+        "englishNatural": "his brother",
+        "root": "ach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאָרֶץ וְשֵׁם **אָחִיו** יָקְטָן",
+        "transliteration": "haAretz veShem **achiv** Yoqtan",
+        "englishLiteral": "the-land; and-name-of **brother-his** Small (Joktan).",
+        "englishNatural": "has been divided; and the name of **his brother** Small (Joktan)."
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 7,
         "verse": 1

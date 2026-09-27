@@ -51,6 +51,31 @@
         "englishLiteral": "the-that brought_out **Steppe (Assyria),** and-he-built ↳",
         "englishNatural": "land brought-out **Steppe (Assyria),** and he built ↳"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 22
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְאַשּׁוּר",
+        "transliteration": "veAshur",
+        "englishLiteral": "and-Steppe (Assyria)",
+        "englishNatural": "and Steppe (Assyria)",
+        "root": "ashur",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם עֵילָם **וְאַשּׁוּר** וְאַרְפַּכְשַׁד וְלוּד",
+        "transliteration": "Shem Elam **veAshur** veArpachshad veLud",
+        "englishLiteral": "Name (Shem): Hidden (Elam), **and-Steppe (Assyria),** and-Heal_Shaddai (Arpachshad), and-Lud (Lud),",
+        "englishNatural": "Name (Shem): Hidden (Elam), **and Steppe (Assyria),** and Heal-Shaddai (Arpachshad), and Lud (Lud),"
+      }
     }
   ]
 }

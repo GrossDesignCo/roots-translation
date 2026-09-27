@@ -1,0 +1,31 @@
+{
+  "root": "lasha",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 14,
+      "sourceOrder": 14,
+      "word": {
+        "originalScript": "לָשַׁע",
+        "transliteration": "Lasha",
+        "englishLiteral": "Lasha (Lasha)",
+        "englishNatural": "Lasha (Lasha)",
+        "root": "lasha",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּצְבֹיִם עַד־ **לָשַׁע**",
+        "transliteration": "uTsevoyim ad- **Lasha**",
+        "englishLiteral": "and-Gazelles (Zeboim) until- **Lasha (Lasha).**",
+        "englishNatural": "and Gazelles (Zeboim) until **Lasha (Lasha).**"
+      }
+    }
+  ]
+}

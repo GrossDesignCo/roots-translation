@@ -1,0 +1,32 @@
+{
+  "key": "azzah",
+  "language": "hebrew",
+  "root": "azzah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "עַזָּה",
+        "transliteration": "Azzah",
+        "englishLiteral": "Strong (Gaza)",
+        "englishNatural": "Strong (Gaza)",
+        "root": "azzah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גְרָרָה עַד־ **עַזָּה** בֹּאֲכָה סְדֹמָה",
+        "transliteration": "Gerarah ad- **Azzah** boakhah Sedomah",
+        "englishLiteral": "toward-Gerar (Gerar) until- **Strong (Gaza);** coming-you toward-Devastation (Sodom),",
+        "englishNatural": "toward Gerar (Gerar) until **Strong (Gaza);** as you come toward Devastation (Sodom),"
+      }
+    }
+  ]
+}

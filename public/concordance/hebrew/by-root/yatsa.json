@@ -382,6 +382,33 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 14
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "יָצְאוּ",
+        "transliteration": "yatsau",
+        "englishLiteral": "they-have-brought_out",
+        "englishNatural": "they have brought-out",
+        "root": "yatsa",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "כַּסְלֻחִים אֲשֶׁר **יָצְאוּ** מִשָּׁם פְּלִשְׁתִּים",
+        "transliteration": "Casluhim asher **yatsau** miSham Pelishtim",
+        "englishLiteral": "Loiners (Casluhim), which **they-have-brought_out** from-there Wallowers (Philistines),",
+        "englishNatural": "Loiners (Casluhim), which **they have brought-out** from there Wallowers (Philistines),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 14,
         "verse": 17
       },

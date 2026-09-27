@@ -104,6 +104,60 @@
         "englishLiteral": "which it- **living,** to-you will-be",
         "englishNatural": "which it **is living,** to you will be"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "חַי",
+        "transliteration": "chai",
+        "englishLiteral": "he-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַרְפַּכְשַׁד **חַי** חָמֵשׁ וּשְׁלֹשִׁים",
+        "transliteration": "veArpachshad **chai** chamesh uShloshim",
+        "englishLiteral": "And-Heal_Shaddai (Arpachshad) **he-lived** five and-thirty",
+        "englishNatural": "And Heal-Shaddai (Arpachshad) **lived** five and thirty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "חַי",
+        "transliteration": "chai",
+        "englishLiteral": "he-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֶׁלַח **חַי** שְׁלֹשִׁים שָׁנָה",
+        "transliteration": "veShelach **chai** shloshim shanah",
+        "englishLiteral": "And-Sent (Shelah) **he-lived** thirty year,",
+        "englishNatural": "And Sent (Shelah) **lived** thirty years,"
+      }
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "root": "avimael",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אֲבִימָאֵל",
+        "transliteration": "Avimael",
+        "englishLiteral": "Father_is_God (Abimael)",
+        "englishNatural": "Father-is-God (Abimael)",
+        "root": "avimael",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עוֹבָל וְאֶת־ **אֲבִימָאֵל** וְאֶת־ שְׁבָא",
+        "transliteration": "Oval veEt- **Avimael** veEt- Sheba",
+        "englishLiteral": "Obal (Obal), and-↳ **Father_is_God (Abimael),** and-↳ Oath (Sheba),",
+        "englishNatural": "Obal (Obal), and **Father-is-God (Abimael),** and Oath (Sheba),"
+      }
+    }
+  ]
+}

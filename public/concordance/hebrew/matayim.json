@@ -1,0 +1,32 @@
+{
+  "key": "matayim",
+  "language": "hebrew",
+  "root": "meah_hundred",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 23
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "מָאתַיִם",
+        "transliteration": "matayim",
+        "englishLiteral": "two-hundred",
+        "englishNatural": "two hundred",
+        "root": "meah_hundred",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ נָחוֹר **מָאתַיִם** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "et- Nachor **matayim** shanah vaYoled",
+        "englishLiteral": "↳ Snorting (Nahor), **two-hundred** year, and-he-begot",
+        "englishNatural": "↳ Snorting (Nahor), **two hundred** years, and begot"
+      }
+    }
+  ]
+}

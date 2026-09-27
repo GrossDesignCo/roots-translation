@@ -1,0 +1,32 @@
+{
+  "key": "gerarah",
+  "language": "hebrew",
+  "root": "gerar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "גְרָרָה",
+        "transliteration": "Gerarah",
+        "englishLiteral": "toward-Gerar (Gerar)",
+        "englishNatural": "toward Gerar (Gerar)",
+        "root": "gerar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִצִּידֹן בֹּאֲכָה **גְרָרָה** עַד־ עַזָּה",
+        "transliteration": "miTsidon boakhah **Gerarah** ad- Azzah",
+        "englishLiteral": "from-Fishery (Sidon), coming-you **toward-Gerar (Gerar)** until- Strong (Gaza);",
+        "englishNatural": "from Fishery (Sidon), as you come **toward Gerar (Gerar)** until Strong (Gaza);"
+      }
+    }
+  ]
+}

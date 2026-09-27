@@ -3049,6 +3049,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "הוּא אֲבִי **כָּל־** בְּנֵי־ עֵבֶר",
+        "transliteration": "hu avi **kol-** benei- Ever",
+        "englishLiteral": "he, father-of **all-** sons-of- Crossing (Eber),",
+        "englishNatural": "he, father of **all** the sons of Crossing (Eber),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "כָּל־",
+        "transliteration": "kol-",
+        "englishLiteral": "all-",
+        "englishNatural": "all",
+        "root": "kol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ יוֹבָב **כָּל־** אֵלֶּה בְּנֵי",
+        "transliteration": "veEt- Yovav **kol-** eleh benei",
+        "englishLiteral": "and-↳ Howler (Jobab); **all-** these sons-of",
+        "englishNatural": "and Howler (Jobab); **all** these are the sons of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 1
       },

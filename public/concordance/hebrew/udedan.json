@@ -1,0 +1,32 @@
+{
+  "key": "udedan",
+  "language": "hebrew",
+  "root": "dedan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 7
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "וּדְדָן",
+        "transliteration": "uDedan",
+        "englishLiteral": "and-Lowland (Dedan)",
+        "englishNatural": "and Lowland (Dedan)",
+        "root": "dedan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רַעְמָה שְׁבָא **וּדְדָן**",
+        "transliteration": "Raamah Sheba **uDedan**",
+        "englishLiteral": "Thunder (Raamah): Oath (Sheba), **and-Lowland (Dedan).**",
+        "englishNatural": "Thunder (Raamah): Oath (Sheba), **and Lowland (Dedan).**"
+      }
+    }
+  ]
+}

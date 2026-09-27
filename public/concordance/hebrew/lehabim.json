@@ -1,0 +1,32 @@
+{
+  "key": "lehabim",
+  "language": "hebrew",
+  "root": "lehabim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לְהָבִים",
+        "transliteration": "Lehabim",
+        "englishLiteral": "Flames (Lehabim)",
+        "englishNatural": "Flames (Lehabim)",
+        "root": "lehabim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֲנָמִים וְאֶת־ **לְהָבִים** וְאֶת־ נַפְתֻּחִים",
+        "transliteration": "Anamim veEt- **Lehabim** veEt- Naphtuhim",
+        "englishLiteral": "Ans (Anamim), and-↳ **Flames (Lehabim),** and-↳ Of_Ptah (Naphtuhim),",
+        "englishNatural": "Ans (Anamim), and **Flames (Lehabim),** and Of-Ptah (Naphtuhim),"
+      }
+    }
+  ]
+}

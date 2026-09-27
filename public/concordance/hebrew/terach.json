@@ -1,0 +1,82 @@
+{
+  "key": "terach",
+  "language": "hebrew",
+  "root": "terach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 24
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "תָּרַח",
+        "transliteration": "Terach",
+        "englishLiteral": "Delay (Terah)",
+        "englishNatural": "Delay (Terah)",
+        "root": "terach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיּוֹלֶד אֶת־ **תָּרַח**",
+        "transliteration": "vaYoled et- **Terach**",
+        "englishLiteral": "and-he-birthed ↳ **Delay (Terah).**",
+        "englishNatural": "and birthed ↳ **Delay (Terah).**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 25
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "תֶּרַח",
+        "transliteration": "Terach",
+        "englishLiteral": "Delay (Terah)",
+        "englishNatural": "Delay (Terah)",
+        "root": "terach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוֹלִידוֹ אֶת־ **תֶּרַח** תְּשַׁע־ עֶשְׂרֵה",
+        "transliteration": "holido et- **Terach** tesha- esreh",
+        "englishLiteral": "his-begetting ↳ **Delay (Terah),** nine- ten",
+        "englishNatural": "he begot ↳ **Delay (Terah),** nine ten"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 26
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תֶרַח",
+        "transliteration": "Terach",
+        "englishLiteral": "Delay (Terah)",
+        "englishNatural": "And Delay (Terah)",
+        "root": "terach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי־ **תֶרַח** שִׁבְעִים שָׁנָה",
+        "transliteration": "vaYechi- **Terach** shivim shanah",
+        "englishLiteral": "and-lived **Delay (Terah)** seventy year,",
+        "englishNatural": "**And Delay (Terah)** lived seventy"
+      }
+    }
+  ]
+}

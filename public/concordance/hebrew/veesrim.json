@@ -52,6 +52,31 @@
         "englishLiteral": "the-second, in-seven **and-twenty** day to-the-month,",
         "englishNatural": "the second, in seven **and twenty** days to the month,"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 24
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְעֶשְׂרִים",
+        "transliteration": "veEsrim",
+        "englishLiteral": "and-twenty",
+        "englishNatural": "and twenty",
+        "root": "esrim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "נָחוֹר תֵּשַׁע **וְעֶשְׂרִים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "Nachor tesha **veEsrim** shanah vaYoled",
+        "englishLiteral": "Snorting (Nahor) nine **and-twenty** year, and-he-birthed",
+        "englishNatural": "lived nine **and twenty** years, and birthed"
+      }
     }
   ]
 }

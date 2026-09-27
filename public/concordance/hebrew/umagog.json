@@ -1,0 +1,32 @@
+{
+  "key": "umagog",
+  "language": "hebrew",
+  "root": "magog",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 2
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וּמָגוֹג",
+        "transliteration": "uMagog",
+        "englishLiteral": "and-From_Gog (Magog)",
+        "englishNatural": "and From-Gog (Magog)",
+        "root": "magog",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יֶפֶת גֹּמֶר **וּמָגוֹג** וּמָדַי וְיָוָן",
+        "transliteration": "Yafet Gomer **uMagog** uMadai veYavan",
+        "englishLiteral": "Spacious (Japheth): Complete (Gomer), **and-From_Gog (Magog),** and-Measure (Madai), and-Mire (Javan),",
+        "englishNatural": "Spacious (Japheth): Complete (Gomer), **and From-Gog (Magog),** and Measure (Madai), and Mire (Javan),"
+      }
+    }
+  ]
+}

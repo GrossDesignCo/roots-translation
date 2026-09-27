@@ -1,0 +1,32 @@
+{
+  "key": "shalef",
+  "language": "hebrew",
+  "root": "shalef",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "שָׁלֶף",
+        "transliteration": "Shalef",
+        "englishLiteral": "Drawn (Sheleph)",
+        "englishNatural": "Drawn (Sheleph)",
+        "root": "shalef",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַלְמוֹדָד וְאֶת־ **שָׁלֶף** וְאֶת־ חֲצַרְמָוֶת",
+        "transliteration": "Almodad veEt- **Shalef** veEt- Chatsarmavet",
+        "englishLiteral": "Almodad (Almodad), and-↳ **Drawn (Sheleph),** and-↳ Court_of_Death (Hazarmaveth),",
+        "englishNatural": "Almodad (Almodad), and **Drawn (Sheleph),** and Court-of-Death (Hazarmaveth),"
+      }
+    }
+  ]
+}

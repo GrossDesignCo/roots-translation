@@ -1,0 +1,32 @@
+{
+  "key": "umeshech",
+  "language": "hebrew",
+  "root": "meshech",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 2
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "וּמֶשֶׁךְ",
+        "transliteration": "uMeshech",
+        "englishLiteral": "and-Drawing (Meshech)",
+        "englishNatural": "and Drawing (Meshech)",
+        "root": "meshech",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְיָוָן וְתֻבָל **וּמֶשֶׁךְ** וְתִירָס",
+        "transliteration": "veYavan veTuval **uMeshech** veTiras",
+        "englishLiteral": "and-Mire (Javan), and-World (Tubal), **and-Drawing (Meshech),** and-Moist (Tiras).",
+        "englishNatural": "and Mire (Javan), and World (Tubal), **and Drawing (Meshech),** and Moist (Tiras)."
+      }
+    }
+  ]
+}

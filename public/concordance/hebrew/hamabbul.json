@@ -177,6 +177,56 @@
         "englishLiteral": "sons, after **the-flood.**",
         "englishNatural": "sons, after **the flood.**"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "הַמַּבּוּל",
+        "transliteration": "haMabbul",
+        "englishLiteral": "the-flood",
+        "englishNatural": "the flood",
+        "root": "mabbul",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בָּאָרֶץ אַחַר **הַמַּבּוּל**",
+        "transliteration": "baAretz achar **haMabbul**",
+        "englishLiteral": "in-the-land after **the-flood.**",
+        "englishNatural": "in the land after **the flood.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "הַמַּבּוּל",
+        "transliteration": "haMabbul",
+        "englishLiteral": "the-flood",
+        "englishNatural": "the flood",
+        "root": "mabbul",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁנָתַיִם אַחַר **הַמַּבּוּל**",
+        "transliteration": "shanatayim achar **haMabbul**",
+        "englishLiteral": "two-years after **the-flood.**",
+        "englishNatural": "two years after **the flood.**"
+      }
     }
   ]
 }

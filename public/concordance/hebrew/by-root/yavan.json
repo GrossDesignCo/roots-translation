@@ -1,0 +1,56 @@
+{
+  "root": "yavan",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 2
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְיָוָן",
+        "transliteration": "veYavan",
+        "englishLiteral": "and-Mire (Javan)",
+        "englishNatural": "and Mire (Javan)",
+        "root": "yavan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמָגוֹג וּמָדַי **וְיָוָן** וְתֻבָל וּמֶשֶׁךְ",
+        "transliteration": "uMagog uMadai **veYavan** veTuval uMeshech",
+        "englishLiteral": "and-From_Gog (Magog), and-Measure (Madai), **and-Mire (Javan),** and-World (Tubal), and-Drawing (Meshech),",
+        "englishNatural": "and From-Gog (Magog), and Measure (Madai), **and Mire (Javan),** and World (Tubal), and Drawing (Meshech),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 4
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יָוָן",
+        "transliteration": "Yavan",
+        "englishLiteral": "Mire (Javan)",
+        "englishNatural": "Mire (Javan)",
+        "root": "yavan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְנֵי **יָוָן** אֱלִישָׁה וְתַרְשִׁישׁ",
+        "transliteration": "uBeney **Yavan** Elishah veTarshish",
+        "englishLiteral": "And-sons-of **Mire (Javan):** God_helps (Elishah), and-golden_stone (Tarshish);",
+        "englishNatural": "And the sons of **Mire (Javan):** God-helps (Elishah), and golden-stone (Tarshish);"
+      }
+    }
+  ]
+}

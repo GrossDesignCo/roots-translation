@@ -5,6 +5,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 6
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וּמִצְרַיִם",
+        "transliteration": "uMitzrayim",
+        "englishLiteral": "and-Double_Narrows (Egypt)",
+        "englishNatural": "and Double-Narrows (Egypt)",
+        "root": "mitzrayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חָם כּוּשׁ **וּמִצְרַיִם** וּפוּט וּכְנָעַן",
+        "transliteration": "Cham Khush **uMitzrayim** uPut uKenaan",
+        "englishLiteral": "Hot (Ham): Black (Kush), **and-Double_Narrows (Egypt),** and-Bow (Put), and-Low (Canaan).",
+        "englishNatural": "Hot (Ham): Black (Kush), **and Double-Narrows (Egypt),** and Bow (Put), and Low (Canaan)."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 13
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וּמִצְרַיִם",
+        "transliteration": "uMitzrayim",
+        "englishLiteral": "And-Double_Narrows (Egypt)",
+        "englishNatural": "And Double-Narrows (Egypt)",
+        "root": "mitzrayim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּמִצְרַיִם** יָלַד אֶת־",
+        "transliteration": "**uMitzrayim** yalad et-",
+        "englishLiteral": "**And-Double_Narrows (Egypt)** he-birthed ↳",
+        "englishNatural": "**And Double-Narrows (Egypt)** birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 18
       },

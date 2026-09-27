@@ -1527,6 +1527,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 14
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "אֲשֶׁר",
+        "transliteration": "asher",
+        "englishLiteral": "which",
+        "englishNatural": "which",
+        "root": "asher",
+        "morphology": {
+          "type": "relative"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ כַּסְלֻחִים **אֲשֶׁר** יָצְאוּ מִשָּׁם",
+        "transliteration": "veEt- Casluhim **asher** yatsau miSham",
+        "englishLiteral": "and-↳ Loiners (Casluhim), **which** they-have-brought_out from-there",
+        "englishNatural": "and Loiners (Casluhim), **which** they have brought-out from there"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 5
       },

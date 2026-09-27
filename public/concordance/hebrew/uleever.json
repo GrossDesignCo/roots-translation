@@ -1,0 +1,32 @@
+{
+  "key": "uleever",
+  "language": "hebrew",
+  "root": "eber",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וּלְעֵבֶר",
+        "transliteration": "uleEver",
+        "englishLiteral": "And-to-Crossing (Eber)",
+        "englishNatural": "And to Crossing (Eber)",
+        "root": "eber",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּלְעֵבֶר** יֻלַּד שְׁנֵי",
+        "transliteration": "**uleEver** yulad shenei",
+        "englishLiteral": "**And-to-Crossing (Eber)** was-birthed two-of",
+        "englishNatural": "**And to Crossing (Eber)** was birthed two"
+      }
+    }
+  ]
+}

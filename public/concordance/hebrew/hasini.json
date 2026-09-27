@@ -1,0 +1,32 @@
+{
+  "key": "hasini",
+  "language": "hebrew",
+  "root": "sini",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הַסִּינִי",
+        "transliteration": "haSini",
+        "englishLiteral": "the-Sinite",
+        "englishNatural": "the Sinite",
+        "root": "sini",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָעַרְקִי וְאֶת־ **הַסִּינִי**",
+        "transliteration": "haArqi veEt- **haSini**",
+        "englishLiteral": "the-Arkite, and-↳ **the-Sinite,**",
+        "englishNatural": "the Arkite, and **the Sinite,**"
+      }
+    }
+  ]
+}

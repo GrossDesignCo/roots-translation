@@ -5,6 +5,156 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הַגּוֹיִם",
+        "transliteration": "haGoyim",
+        "englishLiteral": "the-nations",
+        "englishNatural": "the nations",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נִפְרְדוּ אִיֵּי **הַגּוֹיִם** בְּאַרְצֹתָם אִישׁ",
+        "transliteration": "niphredu iyyei **haGoyim** beArtzotam ish",
+        "englishLiteral": "they-have-been-parted islands-of **the-nations** in-lands-their; man",
+        "englishNatural": "have been parted the islands of **the nations** in their lands; a man"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 5
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "בְּגוֹיֵהֶם",
+        "transliteration": "beGoyeihem",
+        "englishLiteral": "in-nations-their",
+        "englishNatural": "in their nations",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִלְשֹׁנוֹ לְמִשְׁפְּחֹתָם **בְּגוֹיֵהֶם**",
+        "transliteration": "liLeshono leMishpechotam **beGoyeihem**",
+        "englishLiteral": "to-tongue-his, to-families-their, **in-nations-their.**",
+        "englishNatural": "to his tongue, to their families, **in their nations.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 20
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "בְּגוֹיֵהֶם",
+        "transliteration": "beGoyeihem",
+        "englishLiteral": "in-nations-their",
+        "englishNatural": "in their nations",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִלְשֹׁנֹתָם בְּאַרְצֹתָם **בְּגוֹיֵהֶם**",
+        "transliteration": "liLeshonotam beArtzotam **beGoyeihem**",
+        "englishLiteral": "to-tongues-their, in-lands-their, **in-nations-their.**",
+        "englishNatural": "to their tongues, in their lands, **in their nations.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 31
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לְגוֹיֵהֶם",
+        "transliteration": "leGoyeihem",
+        "englishLiteral": "to-nations-their",
+        "englishNatural": "to their nations",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לִלְשֹׁנֹתָם בְּאַרְצֹתָם **לְגוֹיֵהֶם**",
+        "transliteration": "liLeshonotam beArtzotam **leGoyeihem**",
+        "englishLiteral": "to-tongues-their, in-lands-their, **to-nations-their.**",
+        "englishNatural": "to their tongues, in their lands, **to their nations.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "בְּגוֹיֵהֶם",
+        "transliteration": "beGoyeihem",
+        "englishLiteral": "in-nations-their",
+        "englishNatural": "in their nations",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נֹחַ לְתוֹלְדֹתָם **בְּגוֹיֵהֶם** וּמֵאֵלֶּה נִפְרְדוּ",
+        "transliteration": "Noach leToledotam **beGoyeihem** uMeEleh niphredu",
+        "englishLiteral": "Rest (Noah), to-birthings-their, **in-nations-their;** and-from-these they-have-been-parted",
+        "englishNatural": "Rest (Noah), to their birthings, **in their nations;** and from these have been parted"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הַגּוֹיִם",
+        "transliteration": "haGoyim",
+        "englishLiteral": "the-nations",
+        "englishNatural": "the nations",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמֵאֵלֶּה נִפְרְדוּ **הַגּוֹיִם** בָּאָרֶץ אַחַר",
+        "transliteration": "uMeEleh niphredu **haGoyim** baAretz achar",
+        "englishLiteral": "and-from-these they-have-been-parted **the-nations** in-the-land after",
+        "englishNatural": "and from these have been parted **the nations** in the land after"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 12,
         "verse": 2
       },

@@ -1,0 +1,31 @@
+{
+  "root": "dodanim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 4
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְדֹדָנִים",
+        "transliteration": "veDodanim",
+        "englishLiteral": "and-Beloveds (Dodanim)",
+        "englishNatural": "and Beloveds (Dodanim)",
+        "root": "dodanim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְתַרְשִׁישׁ כִּתִּים **וְדֹדָנִים**",
+        "transliteration": "veTarshish Kittim **veDodanim**",
+        "englishLiteral": "and-golden_stone (Tarshish); Bruisers (Kittim), **and-Beloveds (Dodanim).**",
+        "englishNatural": "and golden-stone (Tarshish); Bruisers (Kittim), **and Beloveds (Dodanim).**"
+      }
+    }
+  ]
+}

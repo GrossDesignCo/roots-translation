@@ -52,6 +52,31 @@
         "englishLiteral": "and-lived Nest (Cainan) **seventy** year, and-he-birthed",
         "englishNatural": "And Nest (Cainan) lived **seventy** years, and birthed"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 26
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שִׁבְעִים",
+        "transliteration": "shivim",
+        "englishLiteral": "seventy",
+        "englishNatural": "seventy",
+        "root": "shivim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי־ תֶרַח **שִׁבְעִים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "vaYechi- Terach **shivim** shanah vaYoled",
+        "englishLiteral": "and-lived Delay (Terah) **seventy** year, and-he-birthed",
+        "englishNatural": "And Delay (Terah) lived **seventy** years, and birthed"
+      }
     }
   ]
 }

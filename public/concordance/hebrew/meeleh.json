@@ -1,0 +1,32 @@
+{
+  "key": "meeleh",
+  "language": "hebrew",
+  "root": "eleh",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 5
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "מֵאֵלֶּה",
+        "transliteration": "meEleh",
+        "englishLiteral": "From-these",
+        "englishNatural": "From these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**מֵאֵלֶּה** נִפְרְדוּ אִיֵּי",
+        "transliteration": "**meEleh** niphredu iyyei",
+        "englishLiteral": "**From-these** they-have-been-parted islands-of",
+        "englishNatural": "**From these** have been parted the islands of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "seba",
+  "language": "hebrew",
+  "root": "seba",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 7
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "סְבָא",
+        "transliteration": "Seba",
+        "englishLiteral": "Drunkard (Seba)",
+        "englishNatural": "Drunkard (Seba)",
+        "root": "seba",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְנֵי כוּשׁ **סְבָא** וַחֲוִילָה וְסַבְתָּה",
+        "transliteration": "uBeney Khush **Seba** vaChavilah veSabtah",
+        "englishLiteral": "And-sons-of Black (Kush): **Drunkard (Seba),** and-Strength (Havilah), and-Striking (Sabtah),",
+        "englishNatural": "And the sons of Black (Kush): **Drunkard (Seba),** and Strength (Havilah), and Striking (Sabtah),"
+      }
+    }
+  ]
+}

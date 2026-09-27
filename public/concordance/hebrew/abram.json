@@ -6,6 +6,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 11,
+        "verse": 26
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "אַבְרָם",
+        "transliteration": "Abram",
+        "englishLiteral": "Exalted-Father (Abram)",
+        "englishNatural": "Exalted-Father (Abram)",
+        "root": "abram",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיּוֹלֶד אֶת־ **אַבְרָם** אֶת־ נָחוֹר",
+        "transliteration": "vaYoled et- **Abram** et- Nachor",
+        "englishLiteral": "and-he-birthed ↳ **Exalted-Father (Abram)** ↳ Snorting (Nahor)",
+        "englishNatural": "and birthed ↳ **Exalted-Father (Abram),** ↳ Snorting (Nahor),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 12,
         "verse": 1
       },

@@ -631,6 +631,106 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 11,
+        "verse": 11
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "מֵאוֹת",
+        "transliteration": "meot",
+        "englishLiteral": "hundreds",
+        "englishNatural": "hundred",
+        "root": "meah_hundred",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אַרְפַּכְשָׁד חֲמֵשׁ **מֵאוֹת** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "Arpachshad chamesh **meot** shanah vaYoled",
+        "englishLiteral": "Heal_Shaddai (Arpachshad), five **hundreds** year, and-he-birthed",
+        "englishNatural": "Heal-Shaddai (Arpachshad), five **hundred** years, and birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 13
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "מֵאוֹת",
+        "transliteration": "meot",
+        "englishLiteral": "hundreds",
+        "englishNatural": "hundred",
+        "root": "meah_hundred",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנִים וְאַרְבַּע **מֵאוֹת** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "shanim veArba **meot** shanah vaYoled",
+        "englishLiteral": "years and-four **hundreds** year, and-he-birthed",
+        "englishNatural": "years and four **hundred** years, and birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 15
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "מֵאוֹת",
+        "transliteration": "meot",
+        "englishLiteral": "hundreds",
+        "englishNatural": "hundred",
+        "root": "meah_hundred",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנִים וְאַרְבַּע **מֵאוֹת** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "shanim veArba **meot** shanah vaYoled",
+        "englishLiteral": "years and-four **hundreds** year, and-he-begot",
+        "englishNatural": "years and four **hundred** years, and begot"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 17
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "מֵאוֹת",
+        "transliteration": "meot",
+        "englishLiteral": "hundreds",
+        "englishNatural": "hundred",
+        "root": "meah_hundred",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁנָה וְאַרְבַּע **מֵאוֹת** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "shanah veArba **meot** shanah vaYoled",
+        "englishLiteral": "year and-four **hundreds** year, and-he-begot",
+        "englishNatural": "years and four **hundred** years, and begot"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 13
       },

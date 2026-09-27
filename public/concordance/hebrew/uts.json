@@ -5,6 +5,31 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "עוּץ",
+        "transliteration": "Uts",
+        "englishLiteral": "Counsel (Uz)",
+        "englishNatural": "Counsel (Uz)",
+        "root": "uts",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְנֵי אֲרָם **עוּץ** וְחוּל וְגֶתֶר",
+        "transliteration": "uBenei Aram **Uts** veChul veGether",
+        "englishLiteral": "And-sons-of High (Aram): **Counsel (Uz),** and-Writhe (Hul), and-Gether (Gether),",
+        "englishNatural": "And the sons of High (Aram): **Counsel (Uz),** and Writhe (Hul), and Gether (Gether),"
+      }
+    },
+    {
+      "location": {
         "book": "Job",
         "chapter": 1,
         "verse": 1

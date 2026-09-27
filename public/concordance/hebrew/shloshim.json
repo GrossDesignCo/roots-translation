@@ -52,6 +52,106 @@
         "englishLiteral": "↳ Descending (Jared), **thirty** year and-eight",
         "englishNatural": "↳ Descending (Jared), **thirty** years and eight"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שְׁלֹשִׁים",
+        "transliteration": "shloshim",
+        "englishLiteral": "thirty",
+        "englishNatural": "thirty",
+        "root": "shloshim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֶׁלַח חַי **שְׁלֹשִׁים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "veShelach chai **shloshim** shanah vaYoled",
+        "englishLiteral": "And-Sent (Shelah) he-lived **thirty** year, and-he-birthed",
+        "englishNatural": "And Sent (Shelah) lived **thirty** years, and birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שְׁלֹשִׁים",
+        "transliteration": "shloshim",
+        "englishLiteral": "thirty",
+        "englishNatural": "thirty",
+        "root": "shloshim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ פֶּלֶג **שְׁלֹשִׁים** שָׁנָה וְאַרְבַּע",
+        "transliteration": "et- Peleg **shloshim** shanah veArba",
+        "englishLiteral": "↳ Channel (Peleg), **thirty** year and-four",
+        "englishNatural": "↳ Channel (Peleg), **thirty** years and four"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 18
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שְׁלֹשִׁים",
+        "transliteration": "shloshim",
+        "englishLiteral": "thirty",
+        "englishNatural": "thirty",
+        "root": "shloshim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי־ פֶלֶג **שְׁלֹשִׁים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "vaYechi- Peleg **shloshim** shanah vaYoled",
+        "englishLiteral": "and-lived Channel (Peleg) **thirty** year, and-he-birthed",
+        "englishNatural": "And Channel (Peleg) lived **thirty** years, and birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 22
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שְׁלֹשִׁים",
+        "transliteration": "shloshim",
+        "englishLiteral": "thirty",
+        "englishNatural": "thirty",
+        "root": "shloshim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי שְׂרוּג **שְׁלֹשִׁים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "vaYechi Serug **shloshim** shanah vaYoled",
+        "englishLiteral": "and-lived Intertwined (Serug) **thirty** year, and-he-birthed",
+        "englishNatural": "And Intertwined (Serug) lived **thirty** years, and birthed"
+      }
     }
   ]
 }

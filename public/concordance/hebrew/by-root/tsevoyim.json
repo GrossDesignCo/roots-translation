@@ -1,0 +1,31 @@
+{
+  "root": "tsevoyim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 12,
+      "sourceOrder": 12,
+      "word": {
+        "originalScript": "וּצְבֹיִם",
+        "transliteration": "uTsevoyim",
+        "englishLiteral": "and-Gazelles (Zeboim)",
+        "englishNatural": "and Gazelles (Zeboim)",
+        "root": "tsevoyim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַעֲמֹרָה וְאַדְמָה **וּצְבֹיִם** עַד־ לָשַׁע",
+        "transliteration": "vaAmorah veAdmah **uTsevoyim** ad- Lasha",
+        "englishLiteral": "and-toward-Gomorrah (Gomorrah), and-Earth (Admah), **and-Gazelles (Zeboim)** until- Lasha (Lasha).",
+        "englishNatural": "and toward Gomorrah (Gomorrah), and Earth (Admah), **and Gazelles (Zeboim)** until Lasha (Lasha)."
+      }
+    }
+  ]
+}

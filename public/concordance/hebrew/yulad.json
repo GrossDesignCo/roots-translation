@@ -1,0 +1,61 @@
+{
+  "key": "yulad",
+  "language": "hebrew",
+  "root": "yalad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יֻלַּד",
+        "transliteration": "yulad",
+        "englishLiteral": "was-birthed",
+        "englishNatural": "was birthed",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְשֵׁם **יֻלַּד** גַּם־ הוּא",
+        "transliteration": "uleShem **yulad** gam- hu",
+        "englishLiteral": "And-to-Name (Shem) **was-birthed** also- he,",
+        "englishNatural": "And to Name (Shem) **was birthed** also he,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יֻלַּד",
+        "transliteration": "yulad",
+        "englishLiteral": "was-birthed",
+        "englishNatural": "was birthed",
+        "root": "yalad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "pual"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְעֵבֶר **יֻלַּד** שְׁנֵי בָנִים",
+        "transliteration": "uleEver **yulad** shenei banim",
+        "englishLiteral": "And-to-Crossing (Eber) **was-birthed** two-of sons;",
+        "englishNatural": "And to Crossing (Eber) **was birthed** two sons;"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "letoledotam",
+  "language": "hebrew",
+  "root": "toledot",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לְתוֹלְדֹתָם",
+        "transliteration": "leToledotam",
+        "englishLiteral": "to-birthings-their",
+        "englishNatural": "to their birthings",
+        "root": "toledot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי־ נֹחַ **לְתוֹלְדֹתָם** בְּגוֹיֵהֶם וּמֵאֵלֶּה",
+        "transliteration": "benei- Noach **leToledotam** beGoyeihem uMeEleh",
+        "englishLiteral": "sons-of- Rest (Noah), **to-birthings-their,** in-nations-their; and-from-these",
+        "englishNatural": "the sons of Rest (Noah), **to their birthings,** in their nations; and from these"
+      }
+    }
+  ]
+}

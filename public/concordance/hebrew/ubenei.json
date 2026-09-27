@@ -1,0 +1,32 @@
+{
+  "key": "ubenei",
+  "language": "hebrew",
+  "root": "ben",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וּבְנֵי",
+        "transliteration": "uBenei",
+        "englishLiteral": "And-sons-of",
+        "englishNatural": "And the sons of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּבְנֵי** אֲרָם עוּץ",
+        "transliteration": "**uBenei** Aram Uts",
+        "englishLiteral": "**And-sons-of** High (Aram): Counsel (Uz),",
+        "englishNatural": "**And the sons of** High (Aram): Counsel (Uz),"
+      }
+    }
+  ]
+}

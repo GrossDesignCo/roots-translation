@@ -1,0 +1,56 @@
+{
+  "root": "sheba",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 7
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "שְׁבָא",
+        "transliteration": "Sheba",
+        "englishLiteral": "Oath (Sheba)",
+        "englishNatural": "Oath (Sheba)",
+        "root": "sheba",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְנֵי רַעְמָה **שְׁבָא** וּדְדָן",
+        "transliteration": "uBeney Raamah **Sheba** uDedan",
+        "englishLiteral": "and-sons-of Thunder (Raamah): **Oath (Sheba),** and-Lowland (Dedan).",
+        "englishNatural": "and the sons of Thunder (Raamah): **Oath (Sheba),** and Lowland (Dedan)."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "שְׁבָא",
+        "transliteration": "Sheba",
+        "englishLiteral": "Oath (Sheba)",
+        "englishNatural": "Oath (Sheba)",
+        "root": "sheba",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֲבִימָאֵל וְאֶת־ **שְׁבָא**",
+        "transliteration": "Avimael veEt- **Sheba**",
+        "englishLiteral": "Father_is_God (Abimael), and-↳ **Oath (Sheba),**",
+        "englishNatural": "Father-is-God (Abimael), and **Oath (Sheba),**"
+      }
+    }
+  ]
+}

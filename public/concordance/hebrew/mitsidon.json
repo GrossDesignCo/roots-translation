@@ -1,0 +1,32 @@
+{
+  "key": "mitsidon",
+  "language": "hebrew",
+  "root": "tsidon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "מִצִּידֹן",
+        "transliteration": "miTsidon",
+        "englishLiteral": "from-Fishery (Sidon)",
+        "englishNatural": "from Fishery (Sidon)",
+        "root": "tsidon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גְּבוּל הַכְּנַעֲנִי **מִצִּידֹן** בֹּאֲכָה גְרָרָה",
+        "transliteration": "gevul haKenaani **miTsidon** boakhah Gerarah",
+        "englishLiteral": "border the-Canaanite **from-Fishery (Sidon),** coming-you toward-Gerar (Gerar)",
+        "englishNatural": "of the Canaanite was **from Fishery (Sidon),** as you come toward Gerar (Gerar)"
+      }
+    }
+  ]
+}

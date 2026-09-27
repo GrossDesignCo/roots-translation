@@ -1,0 +1,34 @@
+{
+  "key": "niphlagah",
+  "language": "hebrew",
+  "root": "palag",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "נִפְלְגָה",
+        "transliteration": "niphlagah",
+        "englishLiteral": "has-been-divided",
+        "englishNatural": "has been divided",
+        "root": "palag",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "כִּי בְיָמָיו **נִפְלְגָה** הָאָרֶץ וְשֵׁם",
+        "transliteration": "ki beYamav **niphlagah** haAretz veShem",
+        "englishLiteral": "that in-days-his **has-been-divided** the-land; and-name-of",
+        "englishNatural": "in his days the land **has been divided;** and the name of his brother"
+      }
+    }
+  ]
+}

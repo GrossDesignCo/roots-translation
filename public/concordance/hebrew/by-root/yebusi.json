@@ -1,0 +1,31 @@
+{
+  "root": "yebusi",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הַיְבוּסִי",
+        "transliteration": "haYebusi",
+        "englishLiteral": "the-Jebusite",
+        "englishNatural": "the Jebusite",
+        "root": "yebusi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ **הַיְבוּסִי** וְאֶת־ הָאֱמֹרִי",
+        "transliteration": "veEt- **haYebusi** veEt- haEmori",
+        "englishLiteral": "and-↳ **the-Jebusite,** and-↳ the-Amorite,",
+        "englishNatural": "and **the Jebusite,** and the Amorite,"
+      }
+    }
+  ]
+}

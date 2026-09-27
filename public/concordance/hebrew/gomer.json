@@ -1,0 +1,57 @@
+{
+  "key": "gomer",
+  "language": "hebrew",
+  "root": "gomer",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 2
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "גֹּמֶר",
+        "transliteration": "Gomer",
+        "englishLiteral": "Complete (Gomer)",
+        "englishNatural": "Complete (Gomer)",
+        "root": "gomer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי יֶפֶת **גֹּמֶר** וּמָגוֹג וּמָדַי",
+        "transliteration": "beney Yafet **Gomer** uMagog uMadai",
+        "englishLiteral": "sons-of Spacious (Japheth): **Complete (Gomer),** and-From_Gog (Magog), and-Measure (Madai),",
+        "englishNatural": "The sons of Spacious (Japheth): **Complete (Gomer),** and From-Gog (Magog), and Measure (Madai),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 3
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "גֹּמֶר",
+        "transliteration": "Gomer",
+        "englishLiteral": "Complete (Gomer)",
+        "englishNatural": "Complete (Gomer)",
+        "root": "gomer",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְנֵי **גֹּמֶר** אַשְׁכְּנַז וְרִיפַת",
+        "transliteration": "uBeney **Gomer** Ashkenaz veRiphath",
+        "englishLiteral": "And-sons-of **Complete (Gomer):** Fire_scatter (Ashkenaz), and-Sink (Riphath),",
+        "englishNatural": "And the sons of **Complete (Gomer):** Fire-scatter (Ashkenaz), and Sink (Riphath),"
+      }
+    }
+  ]
+}

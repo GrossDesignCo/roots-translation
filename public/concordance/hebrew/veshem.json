@@ -55,6 +55,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וְשֵׁם",
+        "transliteration": "veShem",
+        "englishLiteral": "and-name-of",
+        "englishNatural": "and the name of",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נִפְלְגָה הָאָרֶץ **וְשֵׁם** אָחִיו יָקְטָן",
+        "transliteration": "niphlagah haAretz **veShem** achiv Yoqtan",
+        "englishLiteral": "has-been-divided the-land; **and-name-of** brother-his Small (Joktan).",
+        "englishNatural": "the land has been divided; **and the name of** his brother Small (Joktan)."
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 2

@@ -1,0 +1,32 @@
+{
+  "key": "uleshem",
+  "language": "hebrew",
+  "root": "shem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וּלְשֵׁם",
+        "transliteration": "uleShem",
+        "englishLiteral": "And-to-Name (Shem)",
+        "englishNatural": "And to Name (Shem)",
+        "root": "shem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּלְשֵׁם** יֻלַּד גַּם־",
+        "transliteration": "**uleShem** yulad gam-",
+        "englishLiteral": "**And-to-Name (Shem)** was-birthed also-",
+        "englishNatural": "**And to Name (Shem)** was birthed also"
+      }
+    }
+  ]
+}

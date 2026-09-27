@@ -1,0 +1,31 @@
+{
+  "root": "kaphtorim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 14
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "כַּפְתֹּרִים",
+        "transliteration": "Kaphtorim",
+        "englishLiteral": "Palm_knobs (Caphtorim)",
+        "englishNatural": "Palm-knobs (Caphtorim)",
+        "root": "kaphtorim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פְּלִשְׁתִּים וְאֶת־ **כַּפְתֹּרִים**",
+        "transliteration": "Pelishtim veEt- **Kaphtorim**",
+        "englishLiteral": "Wallowers (Philistines), and-↳ **Palm_knobs (Caphtorim).**",
+        "englishNatural": "Wallowers (Philistines), and **Palm-knobs (Caphtorim).**"
+      }
+    }
+  ]
+}

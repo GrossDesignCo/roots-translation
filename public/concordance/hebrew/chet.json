@@ -1,0 +1,32 @@
+{
+  "key": "chet",
+  "language": "hebrew",
+  "root": "chet",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "חֵת",
+        "transliteration": "Chet",
+        "englishLiteral": "Heth (Heth)",
+        "englishNatural": "Heth (Heth)",
+        "root": "chet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּכֹרוֹ וְאֶת־ **חֵת**",
+        "transliteration": "bekhoro veEt- **Chet**",
+        "englishLiteral": "firstborn-his, and-↳ **Heth (Heth),**",
+        "englishNatural": "his firstborn, and **Heth (Heth),**"
+      }
+    }
+  ]
+}

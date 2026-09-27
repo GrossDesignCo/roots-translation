@@ -34,3 +34,55 @@ and-they-ceased to-build the-city.
 over- so he-called name-of-her Confusion (Babylon),
 that- there he-confused He_Who_Is (YHWH) lip-of all- the-land,
 and-from-there he-scattered-them He_Who_Is (YHWH) over- faces-of all- the-land.
+
+These birthings-of Name (Shem);
+
+Name (Shem), son-of hundred year, and-he-birthed ↳ Heal_Shaddai (Arpachshad) two-years after the-flood.
+and-lived- Name (Shem) after his-begetting ↳ Heal_Shaddai (Arpachshad),
+five hundreds year,
+and-he-birthed sons and-daughters.
+
+And-Heal_Shaddai (Arpachshad) he-lived five and-thirty year,
+and-he-birthed ↳ Sent (Shelah).
+and-lived Heal_Shaddai (Arpachshad) after his-birthing ↳ Sent (Shelah),
+three years and-four hundreds year,
+and-he-birthed sons and-daughters.
+
+And-Sent (Shelah) he-lived thirty year,
+and-he-birthed ↳ Crossing (Eber).
+and-lived Sent (Shelah) after his-begetting ↳ Crossing (Eber),
+three years and-four hundreds year,
+and-he-begot sons and-daughters.
+
+and-lived Crossing (Eber) four and-thirty year,
+and-he-birthed ↳ Channel (Peleg).
+and-lived- Crossing (Eber) after his-begetting ↳ Channel (Peleg),
+thirty year and-four hundreds year,
+and-he-begot sons and-daughters.
+
+and-lived Channel (Peleg) thirty year,
+and-he-birthed ↳ Friend (Reu).
+and-lived- Channel (Peleg) after his-begetting ↳ Friend (Reu),
+nine years and-two-hundred year,
+and-he-birthed sons and-daughters.
+
+and-lived Friend (Reu) two and-thirty year,
+and-he-birthed ↳ Intertwined (Serug).
+and-lived Friend (Reu) after his-begetting ↳ Intertwined (Serug),
+seven years and-two-hundred year,
+and-he-begot sons and-daughters.
+
+and-lived Intertwined (Serug) thirty year,
+and-he-birthed ↳ Snorting (Nahor).
+and-lived Intertwined (Serug) after his-begetting ↳ Snorting (Nahor),
+two-hundred year,
+and-he-begot sons and-daughters.
+
+and-lived Snorting (Nahor) nine and-twenty year,
+and-he-birthed ↳ Delay (Terah).
+and-lived Snorting (Nahor) after his-begetting ↳ Delay (Terah),
+nine- ten year and-hundred year,
+and-he-begot sons and-daughters.
+
+and-lived Delay (Terah) seventy year,
+and-he-birthed ↳ Exalted-Father (Abram) ↳ Snorting (Nahor) and-↳ Mountaineer (Haran).

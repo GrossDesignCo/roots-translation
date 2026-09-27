@@ -877,6 +877,31 @@
         "englishLiteral": "birthings-of sons-of- **Rest (Noah):** Name (Shem), Hot (Ham),",
         "englishNatural": "are the birthings of the sons of **Rest (Noah):** Name (Shem), Hot (Ham),"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "נֹחַ",
+        "transliteration": "Noach",
+        "englishLiteral": "Rest (Noah)",
+        "englishNatural": "Rest (Noah)",
+        "root": "noach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִשְׁפְּחֹת בְּנֵי־ **נֹחַ** לְתוֹלְדֹתָם בְּגוֹיֵהֶם",
+        "transliteration": "mishpechot benei- **Noach** leToledotam beGoyeihem",
+        "englishLiteral": "families-of sons-of- **Rest (Noah),** to-birthings-their, in-nations-their;",
+        "englishNatural": "are the families of the sons of **Rest (Noah),** to their birthings, in their nations;"
+      }
     }
   ]
 }

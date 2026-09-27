@@ -1,0 +1,57 @@
+{
+  "key": "ukenaan",
+  "language": "hebrew",
+  "root": "kenaan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 6
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וּכְנָעַן",
+        "transliteration": "uKenaan",
+        "englishLiteral": "and-Low (Canaan)",
+        "englishNatural": "and Low (Canaan)",
+        "root": "kenaan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמִצְרַיִם וּפוּט **וּכְנָעַן**",
+        "transliteration": "uMitzrayim uPut **uKenaan**",
+        "englishLiteral": "and-Double_Narrows (Egypt), and-Bow (Put), **and-Low (Canaan).**",
+        "englishNatural": "and Double-Narrows (Egypt), and Bow (Put), **and Low (Canaan).**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וּכְנַעַן",
+        "transliteration": "uKenaan",
+        "englishLiteral": "And-Low (Canaan)",
+        "englishNatural": "And Low (Canaan)",
+        "root": "kenaan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וּכְנַעַן** יָלַד אֶת־",
+        "transliteration": "**uKenaan** yalad et-",
+        "englishLiteral": "**And-Low (Canaan)** he-birthed ↳",
+        "englishNatural": "**And Low (Canaan)** birthed ↳"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "vamash",
+  "language": "hebrew",
+  "root": "mash_person",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וָמַשׁ",
+        "transliteration": "vaMash",
+        "englishLiteral": "and-Feel (Mash)",
+        "englishNatural": "and Feel (Mash)",
+        "root": "mash_person",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְחוּל וְגֶתֶר **וָמַשׁ**",
+        "transliteration": "veChul veGether **vaMash**",
+        "englishLiteral": "and-Writhe (Hul), and-Gether (Gether), **and-Feel (Mash).**",
+        "englishNatural": "and Writhe (Hul), and Gether (Gether), **and Feel (Mash).**"
+      }
+    }
+  ]
+}

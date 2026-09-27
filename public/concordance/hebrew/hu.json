@@ -356,6 +356,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הוּא",
+        "transliteration": "hu",
+        "englishLiteral": "he",
+        "englishNatural": "he",
+        "root": "hu",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יֻלַּד גַּם־ **הוּא** אֲבִי כָּל־",
+        "transliteration": "yulad gam- **hu** avi kol-",
+        "englishLiteral": "was-birthed also- **he,** father-of all-",
+        "englishNatural": "was birthed also **he,** father of all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 14,
         "verse": 17
       },

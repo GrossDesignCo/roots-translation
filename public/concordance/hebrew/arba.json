@@ -6,6 +6,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 11,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אַרְבַּע",
+        "transliteration": "arba",
+        "englishLiteral": "four",
+        "englishNatural": "four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי־ עֵבֶר **אַרְבַּע** וּשְׁלֹשִׁים שָׁנָה",
+        "transliteration": "vaYechi- Eber **arba** uShloshim shanah",
+        "englishLiteral": "and-lived Crossing (Eber) **four** and-thirty year,",
+        "englishNatural": "And Crossing (Eber) lived **four** and thirty years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 13
       },

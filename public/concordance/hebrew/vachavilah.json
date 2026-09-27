@@ -1,0 +1,32 @@
+{
+  "key": "vachavilah",
+  "language": "hebrew",
+  "root": "Chavilah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 7
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וַחֲוִילָה",
+        "transliteration": "vaChavilah",
+        "englishLiteral": "and-Strength (Havilah)",
+        "englishNatural": "and Strength (Havilah)",
+        "root": "Chavilah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כוּשׁ סְבָא **וַחֲוִילָה** וְסַבְתָּה וְרַעְמָה",
+        "transliteration": "Khush Seba **vaChavilah** veSabtah veRaamah",
+        "englishLiteral": "Black (Kush): Drunkard (Seba), **and-Strength (Havilah),** and-Striking (Sabtah), and-Thunder (Raamah),",
+        "englishNatural": "Black (Kush): Drunkard (Seba), **and Strength (Havilah),** and Striking (Sabtah), and Thunder (Raamah),"
+      }
+    }
+  ]
+}

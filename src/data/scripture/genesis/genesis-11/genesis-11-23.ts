@@ -1,0 +1,197 @@
+import { type Verse } from '@/types';
+
+export const genesis_11_23: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 11,
+    verse: 23,
+  },
+  words: [
+    {
+      hebrew: 'וַיְחִי',
+      transliteration: 'vaYechi',
+      englishLiteral: 'and-lived',
+      englishNatural: 'lived',
+      root: 'chayah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 2,
+      },
+      morphology: {
+        type: 'verb',
+        person: '3rd',
+        gender: 'masculine',
+        number: 'singular',
+        stem: 'qal',
+        tense: 'imperfect',
+      },
+    },
+    {
+      hebrew: 'שְׂרוּג',
+      transliteration: 'Serug',
+      englishLiteral: 'Intertwined (Serug)',
+      englishNatural: 'And Intertwined (Serug)',
+      root: 'serug',
+      order: {
+        hebrew: 2,
+        english: 1,
+      },
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'singular',
+      },
+    },
+    {
+      hebrew: 'אַחֲרֵי',
+      transliteration: 'acharey',
+      englishLiteral: 'after',
+      englishNatural: 'after',
+      root: 'achar',
+      order: 3,
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'הוֹלִידוֹ',
+      transliteration: 'holido',
+      englishLiteral: 'his-begetting',
+      englishNatural: 'he begot',
+      root: 'yalad',
+      suffixes: ['o'],
+      order: 4,
+      morphology: {
+        type: 'verb',
+        person: '3rd',
+        gender: 'masculine',
+        number: 'singular',
+        stem: 'hiphil',
+        tense: 'infinitive_construct',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: 5,
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'נָחוֹר',
+      transliteration: 'Nachor',
+      englishLiteral: 'Snorting (Nahor)',
+      englishNatural: 'Snorting (Nahor)',
+      root: 'nachor',
+      order: 6,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'singular',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'מָאתַיִם',
+      transliteration: 'matayim',
+      englishLiteral: 'two-hundred',
+      englishNatural: 'two hundred',
+      root: 'meah_hundred',
+      order: 7,
+      morphology: {
+        type: 'numeral',
+        gender: 'feminine',
+        number: 'dual',
+      },
+    },
+    {
+      hebrew: 'שָׁנָה',
+      transliteration: 'shanah',
+      englishLiteral: 'year',
+      englishNatural: 'years',
+      root: 'shanah',
+      order: 8,
+      morphology: {
+        type: 'noun',
+        gender: 'feminine',
+        number: 'singular',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וַיּוֹלֶד',
+      transliteration: 'vaYoled',
+      englishLiteral: 'and-he-begot',
+      englishNatural: 'and begot',
+      root: 'yalad',
+      prefixes: ['va'],
+      order: 9,
+      morphology: {
+        type: 'verb',
+        person: '3rd',
+        gender: 'masculine',
+        number: 'singular',
+        stem: 'hiphil',
+        tense: 'imperfect',
+      },
+    },
+    {
+      hebrew: 'בָּנִים',
+      transliteration: 'banim',
+      englishLiteral: 'sons',
+      englishNatural: 'sons',
+      root: 'ben',
+      suffixes: ['im'],
+      order: 10,
+      morphology: {
+        type: 'noun',
+        gender: 'masculine',
+        number: 'plural',
+      },
+    },
+    {
+      hebrew: 'וּבָנוֹת',
+      transliteration: 'uVanot',
+      englishLiteral: 'and-daughters',
+      englishNatural: 'and daughters',
+      root: 'bat',
+      prefixes: ['u'],
+      suffixes: ['ot'],
+      order: 11,
+      morphology: {
+        type: 'noun',
+        gender: 'feminine',
+        number: 'plural',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַיְחִי שְׂרוּג אַחֲרֵי הוֹלִידוֹ אֶת־נָחוֹר מָאתַיִם שָׁנָה וַיּוֹלֶד בָּנִים וּבָנוֹת',
+    transliteration:
+      'vaYechi Serug acharey holido et-Nachor matayim shanah vaYoled banim uVanot',
+    englishLiteral:
+      'and-lived Intertwined (Serug) after his-begetting ↳ Snorting (Nahor), two-hundred year, and-he-begot sons and-daughters.',
+    englishNatural:
+      'And Intertwined (Serug) lived after he begot Snorting (Nahor), two hundred years, and begot sons and daughters.',
+    kjv: 'And Serug lived after he begat Nahor two hundred years, and begat sons and daughters.',
+  },
+};

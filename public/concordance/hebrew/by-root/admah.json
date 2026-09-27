@@ -1,0 +1,31 @@
+{
+  "root": "admah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 11,
+      "sourceOrder": 11,
+      "word": {
+        "originalScript": "וְאַדְמָה",
+        "transliteration": "veAdmah",
+        "englishLiteral": "and-Earth (Admah)",
+        "englishNatural": "and Earth (Admah)",
+        "root": "admah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "סְדֹמָה וַעֲמֹרָה **וְאַדְמָה** וּצְבֹיִם עַד־",
+        "transliteration": "Sedomah vaAmorah **veAdmah** uTsevoyim ad-",
+        "englishLiteral": "toward-Devastation (Sodom), and-toward-Gomorrah (Gomorrah), **and-Earth (Admah),** and-Gazelles (Zeboim) until-",
+        "englishNatural": "toward Devastation (Sodom), and toward Gomorrah (Gomorrah), **and Earth (Admah),** and Gazelles (Zeboim) until"
+      }
+    }
+  ]
+}

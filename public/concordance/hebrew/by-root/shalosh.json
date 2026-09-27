@@ -179,6 +179,56 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שָׁלֹשׁ",
+        "transliteration": "shalosh",
+        "englishLiteral": "three",
+        "englishNatural": "three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ שֶׁלַח **שָׁלֹשׁ** שָׁנִים וְאַרְבַּע",
+        "transliteration": "et- Shelach **shalosh** shanim veArba",
+        "englishLiteral": "↳ Sent (Shelah), **three** years and-four",
+        "englishNatural": "↳ Sent (Shelah), **three** years and four"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 15
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שָׁלֹשׁ",
+        "transliteration": "shalosh",
+        "englishLiteral": "three",
+        "englishNatural": "three",
+        "root": "shalosh",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ עֵבֶר **שָׁלֹשׁ** שָׁנִים וְאַרְבַּע",
+        "transliteration": "et- Ever **shalosh** shanim veArba",
+        "englishLiteral": "↳ Crossing (Eber), **three** years and-four",
+        "englishNatural": "↳ Crossing (Eber), **three** years and four"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 2,
         "verse": 2

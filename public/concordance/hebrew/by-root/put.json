@@ -1,0 +1,31 @@
+{
+  "root": "put",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 6
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וּפוּט",
+        "transliteration": "uPut",
+        "englishLiteral": "and-Bow (Put)",
+        "englishNatural": "and Bow (Put)",
+        "root": "put",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כּוּשׁ וּמִצְרַיִם **וּפוּט** וּכְנָעַן",
+        "transliteration": "Khush uMitzrayim **uPut** uKenaan",
+        "englishLiteral": "Black (Kush), and-Double_Narrows (Egypt), **and-Bow (Put),** and-Low (Canaan).",
+        "englishNatural": "Black (Kush), and Double-Narrows (Egypt), **and Bow (Put),** and Low (Canaan)."
+      }
+    }
+  ]
+}

@@ -206,6 +206,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 5
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "אִישׁ",
+        "transliteration": "ish",
+        "englishLiteral": "man",
+        "englishNatural": "a man",
+        "root": "ish",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַגּוֹיִם בְּאַרְצֹתָם **אִישׁ** לִלְשֹׁנוֹ לְמִשְׁפְּחֹתָם",
+        "transliteration": "haGoyim beArtzotam **ish** liLeshono leMishpechotam",
+        "englishLiteral": "the-nations in-lands-their; **man** to-tongue-his, to-families-their,",
+        "englishNatural": "the nations in their lands; **a man** to his tongue, to their families,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 3
       },

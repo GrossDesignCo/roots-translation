@@ -1,0 +1,32 @@
+{
+  "key": "shanatayim",
+  "language": "hebrew",
+  "root": "shanah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "שְׁנָתַיִם",
+        "transliteration": "shanatayim",
+        "englishLiteral": "two-years",
+        "englishNatural": "two years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ אַרְפַּכְשָׁד **שְׁנָתַיִם** אַחַר הַמַּבּוּל",
+        "transliteration": "et- Arpachshad **shanatayim** achar haMabbul",
+        "englishLiteral": "↳ Heal_Shaddai (Arpachshad) **two-years** after the-flood.",
+        "englishNatural": "↳ Heal-Shaddai (Arpachshad) **two years** after the flood."
+      }
+    }
+  ]
+}

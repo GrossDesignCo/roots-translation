@@ -31,6 +31,60 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 5
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "נִפְרְדוּ",
+        "transliteration": "niphredu",
+        "englishLiteral": "they-have-been-parted",
+        "englishNatural": "have been parted",
+        "root": "parad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאֵלֶּה **נִפְרְדוּ** אִיֵּי הַגּוֹיִם",
+        "transliteration": "meEleh **niphredu** iyyei haGoyim",
+        "englishLiteral": "From-these **they-have-been-parted** islands-of the-nations",
+        "englishNatural": "From these **have been parted** the islands of the nations"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "נִפְרְדוּ",
+        "transliteration": "niphredu",
+        "englishLiteral": "they-have-been-parted",
+        "englishNatural": "have been parted",
+        "root": "parad",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "niphal"
+        }
+      },
+      "context": {
+        "hebrew": "בְּגוֹיֵהֶם וּמֵאֵלֶּה **נִפְרְדוּ** הַגּוֹיִם בָּאָרֶץ",
+        "transliteration": "beGoyeihem uMeEleh **niphredu** haGoyim baAretz",
+        "englishLiteral": "in-nations-their; and-from-these **they-have-been-parted** the-nations in-the-land",
+        "englishNatural": "in their nations; and from these **have been parted** the nations in the land"
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 17

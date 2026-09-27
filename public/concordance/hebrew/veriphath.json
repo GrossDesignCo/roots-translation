@@ -1,0 +1,32 @@
+{
+  "key": "veriphath",
+  "language": "hebrew",
+  "root": "riphath",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 3
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וְרִיפַת",
+        "transliteration": "veRiphath",
+        "englishLiteral": "and-Sink (Riphath)",
+        "englishNatural": "and Sink (Riphath)",
+        "root": "riphath",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גֹּמֶר אַשְׁכְּנַז **וְרִיפַת** וְתֹגַרְמָה",
+        "transliteration": "Gomer Ashkenaz **veRiphath** veTogarmah",
+        "englishLiteral": "Complete (Gomer): Fire_scatter (Ashkenaz), **and-Sink (Riphath),** and-Bone_all (Togarmah).",
+        "englishNatural": "Complete (Gomer): Fire-scatter (Ashkenaz), **and Sink (Riphath),** and Bone-all (Togarmah)."
+      }
+    }
+  ]
+}

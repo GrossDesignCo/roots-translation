@@ -1,0 +1,32 @@
+{
+  "key": "ludim",
+  "language": "hebrew",
+  "root": "ludim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 13
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לוּדִים",
+        "transliteration": "Ludim",
+        "englishLiteral": "Luds (Ludim)",
+        "englishNatural": "Luds (Ludim)",
+        "root": "ludim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָלַד אֶת־ **לוּדִים** וְאֶת־ עֲנָמִים",
+        "transliteration": "yalad et- **Ludim** veEt- Anamim",
+        "englishLiteral": "he-birthed ↳ **Luds (Ludim),** and-↳ Ans (Anamim),",
+        "englishNatural": "birthed ↳ **Luds (Ludim),** and Ans (Anamim),"
+      }
+    }
+  ]
+}

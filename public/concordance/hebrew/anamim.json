@@ -1,0 +1,32 @@
+{
+  "key": "anamim",
+  "language": "hebrew",
+  "root": "anamim",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "עֲנָמִים",
+        "transliteration": "Anamim",
+        "englishLiteral": "Ans (Anamim)",
+        "englishNatural": "Ans (Anamim)",
+        "root": "anamim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "לוּדִים וְאֶת־ **עֲנָמִים** וְאֶת־ לְהָבִים",
+        "transliteration": "Ludim veEt- **Anamim** veEt- Lehabim",
+        "englishLiteral": "Luds (Ludim), and-↳ **Ans (Anamim),** and-↳ Flames (Lehabim),",
+        "englishNatural": "Luds (Ludim), and **Ans (Anamim),** and Flames (Lehabim),"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "vetiras",
+  "language": "hebrew",
+  "root": "tiras",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 2
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וְתִירָס",
+        "transliteration": "veTiras",
+        "englishLiteral": "and-Moist (Tiras)",
+        "englishNatural": "and Moist (Tiras)",
+        "root": "tiras",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְתֻבָל וּמֶשֶׁךְ **וְתִירָס**",
+        "transliteration": "veTuval uMeshech **veTiras**",
+        "englishLiteral": "and-World (Tubal), and-Drawing (Meshech), **and-Moist (Tiras).**",
+        "englishNatural": "and World (Tubal), and Drawing (Meshech), **and Moist (Tiras).**"
+      }
+    }
+  ]
+}

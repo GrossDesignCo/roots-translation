@@ -1,0 +1,32 @@
+{
+  "key": "tsidon",
+  "language": "hebrew",
+  "root": "tsidon",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 15
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "צִידֹן",
+        "transliteration": "Tsidon",
+        "englishLiteral": "Fishery (Sidon)",
+        "englishNatural": "Fishery (Sidon)",
+        "root": "tsidon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָלַד אֶת־ **צִידֹן** בְּכֹרוֹ וְאֶת־",
+        "transliteration": "yalad et- **Tsidon** bekhoro veEt-",
+        "englishLiteral": "he-birthed ↳ **Fishery (Sidon),** firstborn-his, and-↳",
+        "englishNatural": "birthed ↳ **Fishery (Sidon),** his firstborn, and"
+      }
+    }
+  ]
+}

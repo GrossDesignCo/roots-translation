@@ -429,6 +429,56 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שְׁנֵי",
+        "transliteration": "shenei",
+        "englishLiteral": "two-of",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְעֵבֶר יֻלַּד **שְׁנֵי** בָנִים שֵׁם",
+        "transliteration": "uleEver yulad **shenei** banim shem",
+        "englishLiteral": "And-to-Crossing (Eber) was-birthed **two-of** sons; name-of",
+        "englishNatural": "And to Crossing (Eber) was birthed **two** sons; the name of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שְׁתַּיִם",
+        "transliteration": "shtayim",
+        "englishLiteral": "two",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי רְעוּ **שְׁתַּיִם** וּשְׁלֹשִׁים שָׁנָה",
+        "transliteration": "vaYechi Reu **shtayim** uShloshim shanah",
+        "englishLiteral": "and-lived Friend (Reu) **two** and-thirty year,",
+        "englishNatural": "And Friend (Reu) lived **two** and thirty years,"
+      }
+    },
+    {
+      "location": {
         "book": "Isaiah",
         "chapter": 6,
         "verse": 2

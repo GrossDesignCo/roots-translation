@@ -56,6 +56,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בֶּן־",
+        "transliteration": "ben-",
+        "englishLiteral": "son-of",
+        "englishNatural": "a son of",
+        "root": "ben",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם שֵׁם **בֶּן־** מְאַת שָׁנָה",
+        "transliteration": "Shem Shem **ben-** meat shanah",
+        "englishLiteral": "Name (Shem); Name (Shem), **son-of** hundred year,",
+        "englishNatural": "Name (Shem); Name (Shem), **a son of** a hundred years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 3
       },

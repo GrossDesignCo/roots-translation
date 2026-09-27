@@ -29,6 +29,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 15
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "בְּכֹרוֹ",
+        "transliteration": "bekhoro",
+        "englishLiteral": "firstborn-his",
+        "englishNatural": "his firstborn",
+        "root": "bekhor",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ צִידֹן **בְּכֹרוֹ** וְאֶת־ חֵת",
+        "transliteration": "et- Tsidon **bekhoro** veEt- Chet",
+        "englishLiteral": "↳ Fishery (Sidon), **firstborn-his,** and-↳ Heth (Heth),",
+        "englishNatural": "↳ Fishery (Sidon), **his firstborn,** and Heth (Heth),"
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 11,
         "verse": 5

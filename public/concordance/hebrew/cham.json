@@ -102,6 +102,56 @@
         "englishLiteral": "Rest (Noah): Name (Shem), **Hot (Ham),** and-Spacious (Japheth); and-were-birthed",
         "englishNatural": "Rest (Noah): Name (Shem), **Hot (Ham),** and Spacious (Japheth); and to them"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 6
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "חָם",
+        "transliteration": "Cham",
+        "englishLiteral": "Hot (Ham)",
+        "englishNatural": "Hot (Ham)",
+        "root": "cham",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְנֵי **חָם** כּוּשׁ וּמִצְרַיִם",
+        "transliteration": "uBeney **Cham** Khush uMitzrayim",
+        "englishLiteral": "And-sons-of **Hot (Ham):** Black (Kush), and-Double_Narrows (Egypt),",
+        "englishNatural": "And the sons of **Hot (Ham):** Black (Kush), and Double-Narrows (Egypt),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "חָם",
+        "transliteration": "Cham",
+        "englishLiteral": "Hot (Ham)",
+        "englishNatural": "Hot (Ham)",
+        "root": "cham",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה בְנֵי־ **חָם** לְמִשְׁפְּחֹתָם לִלְשֹׁנֹתָם",
+        "transliteration": "eleh benei- **Cham** leMishpechotam liLeshonotam",
+        "englishLiteral": "These sons-of- **Hot (Ham),** to-families-their, to-tongues-their,",
+        "englishNatural": "These are the sons of **Hot (Ham),** to their families, to their tongues,"
+      }
     }
   ]
 }

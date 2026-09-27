@@ -1,0 +1,57 @@
+{
+  "key": "umatayim",
+  "language": "hebrew",
+  "root": "meah_hundred",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 19
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וּמָאתַיִם",
+        "transliteration": "uMatayim",
+        "englishLiteral": "and-two-hundred",
+        "englishNatural": "and two hundred",
+        "root": "meah_hundred",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "תֵּשַׁע שָׁנִים **וּמָאתַיִם** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "tesha shanim **uMatayim** shanah vaYoled",
+        "englishLiteral": "nine years **and-two-hundred** year, and-he-birthed",
+        "englishNatural": "nine years **and two hundred** years, and birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 21
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וּמָאתַיִם",
+        "transliteration": "uMatayim",
+        "englishLiteral": "and-two-hundred",
+        "englishNatural": "and two hundred",
+        "root": "meah_hundred",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שֶׁבַע שָׁנִים **וּמָאתַיִם** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "sheva shanim **uMatayim** shanah vaYoled",
+        "englishLiteral": "seven years **and-two-hundred** year, and-he-begot",
+        "englishNatural": "seven years **and two hundred** years, and begot"
+      }
+    }
+  ]
+}

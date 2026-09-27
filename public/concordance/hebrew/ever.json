@@ -1,8 +1,83 @@
 {
   "key": "ever",
   "language": "hebrew",
-  "root": "ever",
+  "root": "eber",
   "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "עֵבֶר",
+        "transliteration": "Ever",
+        "englishLiteral": "Crossing (Eber)",
+        "englishNatural": "Crossing (Eber)",
+        "root": "eber",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "כָּל־ בְּנֵי־ **עֵבֶר** אֲחִי יֶפֶת",
+        "transliteration": "kol- benei- **Ever** achi Yafet",
+        "englishLiteral": "all- sons-of- **Crossing (Eber),** brother-of Spacious (Japheth)",
+        "englishNatural": "all the sons of **Crossing (Eber),** brother of Spacious (Japheth)"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 24
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "עֵבֶר",
+        "transliteration": "Ever",
+        "englishLiteral": "Crossing (Eber)",
+        "englishNatural": "Crossing (Eber)",
+        "root": "eber",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָלַד אֶת־ **עֵבֶר**",
+        "transliteration": "yalad et- **Ever**",
+        "englishLiteral": "he-birthed ↳ **Crossing (Eber).**",
+        "englishNatural": "birthed ↳ **Crossing (Eber).**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 15
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "עֵבֶר",
+        "transliteration": "Ever",
+        "englishLiteral": "Crossing (Eber)",
+        "englishNatural": "Crossing (Eber)",
+        "root": "eber",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוֹלִידוֹ אֶת־ **עֵבֶר** שָׁלֹשׁ שָׁנִים",
+        "transliteration": "holido et- **Ever** shalosh shanim",
+        "englishLiteral": "his-begetting ↳ **Crossing (Eber),** three years",
+        "englishNatural": "he begot ↳ **Crossing (Eber),** three years"
+      }
+    },
     {
       "location": {
         "book": "Ezekiel",

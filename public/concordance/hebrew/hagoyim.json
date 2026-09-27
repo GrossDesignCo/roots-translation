@@ -1,0 +1,57 @@
+{
+  "key": "hagoyim",
+  "language": "hebrew",
+  "root": "goy",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 5
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הַגּוֹיִם",
+        "transliteration": "haGoyim",
+        "englishLiteral": "the-nations",
+        "englishNatural": "the nations",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נִפְרְדוּ אִיֵּי **הַגּוֹיִם** בְּאַרְצֹתָם אִישׁ",
+        "transliteration": "niphredu iyyei **haGoyim** beArtzotam ish",
+        "englishLiteral": "they-have-been-parted islands-of **the-nations** in-lands-their; man",
+        "englishNatural": "have been parted the islands of **the nations** in their lands; a man"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "הַגּוֹיִם",
+        "transliteration": "haGoyim",
+        "englishLiteral": "the-nations",
+        "englishNatural": "the nations",
+        "root": "goy",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּמֵאֵלֶּה נִפְרְדוּ **הַגּוֹיִם** בָּאָרֶץ אַחַר",
+        "transliteration": "uMeEleh niphredu **haGoyim** baAretz achar",
+        "englishLiteral": "and-from-these they-have-been-parted **the-nations** in-the-land after",
+        "englishNatural": "and from these have been parted **the nations** in the land after"
+      }
+    }
+  ]
+}

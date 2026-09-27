@@ -1,0 +1,32 @@
+{
+  "key": "mimesha",
+  "language": "hebrew",
+  "root": "mesha",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 30
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "מִמֵּשָׁא",
+        "transliteration": "miMesha",
+        "englishLiteral": "from-Freedom (Mesha)",
+        "englishNatural": "from Freedom (Mesha)",
+        "root": "mesha",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי מוֹשָׁבָם **מִמֵּשָׁא** בֹּאֲכָה סְפָרָה",
+        "transliteration": "vaYehi moshavam **miMesha** boakhah Sefarah",
+        "englishLiteral": "And-was seat-their **from-Freedom (Mesha),** coming-you toward-Counting (Sephar),",
+        "englishNatural": "And their seat **from Freedom (Mesha)** was, as you come"
+      }
+    }
+  ]
+}

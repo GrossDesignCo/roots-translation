@@ -1,0 +1,32 @@
+{
+  "key": "raamah",
+  "language": "hebrew",
+  "root": "raamah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 7
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "רַעְמָה",
+        "transliteration": "Raamah",
+        "englishLiteral": "Thunder (Raamah)",
+        "englishNatural": "Thunder (Raamah)",
+        "root": "raamah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְסַבְתְּכָא וּבְנֵי **רַעְמָה** שְׁבָא וּדְדָן",
+        "transliteration": "veSabteca uBeney **Raamah** Sheba uDedan",
+        "englishLiteral": "and-Striking_you (Sabteca); and-sons-of **Thunder (Raamah):** Oath (Sheba), and-Lowland (Dedan).",
+        "englishNatural": "and Striking-you (Sabteca); and the sons of **Thunder (Raamah):** Oath (Sheba), and Lowland (Dedan)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "root": "lud",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 22
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְלוּד",
+        "transliteration": "veLud",
+        "englishLiteral": "and-Lud (Lud)",
+        "englishNatural": "and Lud (Lud)",
+        "root": "lud",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַשּׁוּר וְאַרְפַּכְשַׁד **וְלוּד** וַאֲרָם",
+        "transliteration": "veAshur veArpachshad **veLud** vaAram",
+        "englishLiteral": "and-Steppe (Assyria), and-Heal_Shaddai (Arpachshad), **and-Lud (Lud),** and-High (Aram).",
+        "englishNatural": "and Steppe (Assyria), and Heal-Shaddai (Arpachshad), **and Lud (Lud),** and High (Aram)."
+      }
+    }
+  ]
+}

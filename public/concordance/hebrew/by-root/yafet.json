@@ -176,6 +176,56 @@
         "englishLiteral": "Name (Shem), Hot (Ham), **and-Spacious (Japheth);** and-were-birthed to-them",
         "englishNatural": "Name (Shem), Hot (Ham), **and Spacious (Japheth);** and to them were birthed"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 2
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "יֶפֶת",
+        "transliteration": "Yafet",
+        "englishLiteral": "Spacious (Japheth)",
+        "englishNatural": "Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי **יֶפֶת** גֹּמֶר וּמָגוֹג",
+        "transliteration": "beney **Yafet** Gomer uMagog",
+        "englishLiteral": "sons-of **Spacious (Japheth):** Complete (Gomer), and-From_Gog (Magog),",
+        "englishNatural": "The sons of **Spacious (Japheth):** Complete (Gomer), and From-Gog (Magog),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יֶפֶת",
+        "transliteration": "Yafet",
+        "englishLiteral": "Spacious (Japheth)",
+        "englishNatural": "Spacious (Japheth)",
+        "root": "yafet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֵבֶר אֲחִי **יֶפֶת** הַגָּדֹול",
+        "transliteration": "Ever achi **Yafet** haGadol",
+        "englishLiteral": "Crossing (Eber), brother-of **Spacious (Japheth)** the-great.",
+        "englishNatural": "Crossing (Eber), brother of **Spacious (Japheth)** the great."
+      }
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "key": "aram",
+  "language": "hebrew",
+  "root": "aram",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 23
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אֲרָם",
+        "transliteration": "Aram",
+        "englishLiteral": "High (Aram)",
+        "englishNatural": "High (Aram)",
+        "root": "aram",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְנֵי **אֲרָם** עוּץ וְחוּל",
+        "transliteration": "uBenei **Aram** Uts veChul",
+        "englishLiteral": "And-sons-of **High (Aram):** Counsel (Uz), and-Writhe (Hul),",
+        "englishNatural": "And the sons of **High (Aram):** Counsel (Uz), and Writhe (Hul),"
+      }
+    }
+  ]
+}

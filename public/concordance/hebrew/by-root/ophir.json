@@ -1,0 +1,31 @@
+{
+  "root": "ophir",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "אוֹפִר",
+        "transliteration": "Ophir",
+        "englishLiteral": "Ophir (Ophir)",
+        "englishNatural": "Ophir (Ophir)",
+        "root": "ophir",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ **אוֹפִר** וְאֶת־ חֲוִילָה",
+        "transliteration": "veEt- **Ophir** veEt- Chavilah",
+        "englishLiteral": "and-↳ **Ophir (Ophir),** and-↳ Strength (Havilah),",
+        "englishNatural": "and **Ophir (Ophir),** and Strength (Havilah),"
+      }
+    }
+  ]
+}

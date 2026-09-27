@@ -1,0 +1,57 @@
+{
+  "key": "khush",
+  "language": "hebrew",
+  "root": "kush",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 6
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "כּוּשׁ",
+        "transliteration": "Khush",
+        "englishLiteral": "Black (Kush)",
+        "englishNatural": "Black (Kush)",
+        "root": "kush",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְנֵי חָם **כּוּשׁ** וּמִצְרַיִם וּפוּט",
+        "transliteration": "uBeney Cham **Khush** uMitzrayim uPut",
+        "englishLiteral": "And-sons-of Hot (Ham): **Black (Kush),** and-Double_Narrows (Egypt), and-Bow (Put),",
+        "englishNatural": "And the sons of Hot (Ham): **Black (Kush),** and Double-Narrows (Egypt), and Bow (Put),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 7
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "כוּשׁ",
+        "transliteration": "Khush",
+        "englishLiteral": "Black (Kush)",
+        "englishNatural": "Black (Kush)",
+        "root": "kush",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וּבְנֵי **כוּשׁ** סְבָא וַחֲוִילָה",
+        "transliteration": "uBeney **Khush** Seba vaChavilah",
+        "englishLiteral": "And-sons-of **Black (Kush):** Drunkard (Seba), and-Strength (Havilah),",
+        "englishNatural": "And the sons of **Black (Kush):** Drunkard (Seba), and Strength (Havilah),"
+      }
+    }
+  ]
+}

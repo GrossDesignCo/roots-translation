@@ -31,6 +31,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הַגָּדֹול",
+        "transliteration": "haGadol",
+        "englishLiteral": "the-great",
+        "englishNatural": "the great",
+        "root": "gadol",
+        "morphology": {
+          "type": "adjective"
+        }
+      },
+      "context": {
+        "hebrew": "אֲחִי יֶפֶת **הַגָּדֹול**",
+        "transliteration": "achi Yafet **haGadol**",
+        "englishLiteral": "brother-of Spacious (Japheth) **the-great.**",
+        "englishNatural": "brother of Spacious (Japheth) **the great.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 18
       },

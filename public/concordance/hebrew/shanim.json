@@ -105,6 +105,106 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 13
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שָׁנִים",
+        "transliteration": "shanim",
+        "englishLiteral": "years",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֶׁלַח שָׁלֹשׁ **שָׁנִים** וְאַרְבַּע מֵאוֹת",
+        "transliteration": "Shelach shalosh **shanim** veArba meot",
+        "englishLiteral": "Sent (Shelah), three **years** and-four hundreds",
+        "englishNatural": "Sent (Shelah), three **years** and four hundred"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 15
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שָׁנִים",
+        "transliteration": "shanim",
+        "englishLiteral": "years",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֵבֶר שָׁלֹשׁ **שָׁנִים** וְאַרְבַּע מֵאוֹת",
+        "transliteration": "Ever shalosh **shanim** veArba meot",
+        "englishLiteral": "Crossing (Eber), three **years** and-four hundreds",
+        "englishNatural": "Crossing (Eber), three **years** and four hundred"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 19
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שָׁנִים",
+        "transliteration": "shanim",
+        "englishLiteral": "years",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "רְעוּ תֵּשַׁע **שָׁנִים** וּמָאתַיִם שָׁנָה",
+        "transliteration": "Reu tesha **shanim** uMatayim shanah",
+        "englishLiteral": "Friend (Reu), nine **years** and-two-hundred year,",
+        "englishNatural": "Friend (Reu), nine **years** and two hundred years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 21
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שָׁנִים",
+        "transliteration": "shanim",
+        "englishLiteral": "years",
+        "englishNatural": "years",
+        "root": "shanah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שְׂרוּג שֶׁבַע **שָׁנִים** וּמָאתַיִם שָׁנָה",
+        "transliteration": "Serug sheva **shanim** uMatayim shanah",
+        "englishLiteral": "Intertwined (Serug), seven **years** and-two-hundred year,",
+        "englishNatural": "Intertwined (Serug), seven **years** and two hundred years,"
+      }
+    },
+    {
+      "location": {
         "book": "Ruth",
         "chapter": 1,
         "verse": 4

@@ -1,0 +1,32 @@
+{
+  "key": "hagirgashi",
+  "language": "hebrew",
+  "root": "girgashi",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הַגִּרְגָּשִׁי",
+        "transliteration": "haGirgashi",
+        "englishLiteral": "the-Girgashite",
+        "englishNatural": "the Girgashite",
+        "root": "girgashi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאֱמֹרִי וְאֵת **הַגִּרְגָּשִׁי**",
+        "transliteration": "haEmori veEt **haGirgashi**",
+        "englishLiteral": "the-Amorite, and-↳ **the-Girgashite,**",
+        "englishNatural": "the Amorite, and **the Girgashite,**"
+      }
+    }
+  ]
+}

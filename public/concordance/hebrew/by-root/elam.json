@@ -1,0 +1,31 @@
+{
+  "root": "elam",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 22
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "עֵילָם",
+        "transliteration": "Elam",
+        "englishLiteral": "Hidden (Elam)",
+        "englishNatural": "Hidden (Elam)",
+        "root": "elam",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּנֵי שֵׁם **עֵילָם** וְאַשּׁוּר וְאַרְפַּכְשַׁד",
+        "transliteration": "benei Shem **Elam** veAshur veArpachshad",
+        "englishLiteral": "Sons-of Name (Shem): **Hidden (Elam),** and-Steppe (Assyria), and-Heal_Shaddai (Arpachshad),",
+        "englishNatural": "The sons of Name (Shem): **Hidden (Elam),** and Steppe (Assyria), and Heal-Shaddai (Arpachshad),"
+      }
+    }
+  ]
+}

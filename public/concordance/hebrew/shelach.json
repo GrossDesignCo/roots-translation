@@ -1,8 +1,108 @@
 {
   "key": "shelach",
   "language": "hebrew",
-  "root": "shalach",
+  "root": "shelach",
   "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 24
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "שָׁלַח",
+        "transliteration": "Shelach",
+        "englishLiteral": "Sent (Shelah)",
+        "englishNatural": "Sent (Shelah)",
+        "root": "shelach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָלַד אֶת־ **שָׁלַח** וְשֶׁלַח יָלַד",
+        "transliteration": "yalad et- **Shelach** veShelach yalad",
+        "englishLiteral": "he-birthed ↳ **Sent (Shelah);** and-Sent (Shelah) he-birthed",
+        "englishNatural": "birthed ↳ **Sent (Shelah);** and Sent (Shelah) birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שָׁלַח",
+        "transliteration": "Shelach",
+        "englishLiteral": "Sent (Shelah)",
+        "englishNatural": "Sent (Shelah)",
+        "root": "shelach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיּוֹלֶד אֶת־ **שָׁלַח**",
+        "transliteration": "vaYoled et- **Shelach**",
+        "englishLiteral": "and-he-birthed ↳ **Sent (Shelah).**",
+        "englishNatural": "and birthed ↳ **Sent (Shelah).**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "שֶׁלַח",
+        "transliteration": "Shelach",
+        "englishLiteral": "Sent (Shelah)",
+        "englishNatural": "Sent (Shelah)",
+        "root": "shelach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוֹלִידוֹ אֶת־ **שֶׁלַח** שָׁלֹשׁ שָׁנִים",
+        "transliteration": "holido et- **Shelach** shalosh shanim",
+        "englishLiteral": "his-birthing ↳ **Sent (Shelah),** three years",
+        "englishNatural": "he birthed ↳ **Sent (Shelah),** three years"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "שֶׁלַח",
+        "transliteration": "Shelach",
+        "englishLiteral": "Sent (Shelah)",
+        "englishNatural": "And Sent (Shelah)",
+        "root": "shelach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי־ **שֶׁלַח** אַחֲרֵי הוֹלִידוֹ",
+        "transliteration": "vaYechi- **Shelach** acharey holido",
+        "englishLiteral": "and-lived **Sent (Shelah)** after his-begetting",
+        "englishNatural": "**And Sent (Shelah)** lived after"
+      }
+    },
     {
       "location": {
         "book": "Exodus",

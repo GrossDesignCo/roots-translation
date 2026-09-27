@@ -30,6 +30,131 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 5
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "לְמִשְׁפְּחֹתָם",
+        "transliteration": "leMishpechotam",
+        "englishLiteral": "to-families-their",
+        "englishNatural": "to their families",
+        "root": "mishpachah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אִישׁ לִלְשֹׁנוֹ **לְמִשְׁפְּחֹתָם** בְּגוֹיֵהֶם",
+        "transliteration": "ish liLeshono **leMishpechotam** beGoyeihem",
+        "englishLiteral": "man to-tongue-his, **to-families-their,** in-nations-their.",
+        "englishNatural": "a man to his tongue, **to their families,** in their nations."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 18
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "מִשְׁפְּחוֹת",
+        "transliteration": "mishpechot",
+        "englishLiteral": "families-of",
+        "englishNatural": "the families of",
+        "root": "mishpachah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַחַר נָפֹצוּ **מִשְׁפְּחוֹת** הַכְּנַעֲנִי",
+        "transliteration": "veAchar nafotsu **mishpechot** haKenaani",
+        "englishLiteral": "and-after they-have-been-spread_out **families-of** the-Canaanite.",
+        "englishNatural": "and after have been spread-out **the families of** the Canaanite."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 20
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לְמִשְׁפְּחֹתָם",
+        "transliteration": "leMishpechotam",
+        "englishLiteral": "to-families-their",
+        "englishNatural": "to their families",
+        "root": "mishpachah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְנֵי־ חָם **לְמִשְׁפְּחֹתָם** לִלְשֹׁנֹתָם בְּאַרְצֹתָם",
+        "transliteration": "benei- Cham **leMishpechotam** liLeshonotam beArtzotam",
+        "englishLiteral": "sons-of- Hot (Ham), **to-families-their,** to-tongues-their, in-lands-their,",
+        "englishNatural": "are the sons of Hot (Ham), **to their families,** to their tongues, in their lands,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 31
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "לְמִשְׁפְּחֹתָם",
+        "transliteration": "leMishpechotam",
+        "englishLiteral": "to-families-their",
+        "englishNatural": "to their families",
+        "root": "mishpachah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְנֵי־ שֵׁם **לְמִשְׁפְּחֹתָם** לִלְשֹׁנֹתָם בְּאַרְצֹתָם",
+        "transliteration": "benei- Shem **leMishpechotam** liLeshonotam beArtzotam",
+        "englishLiteral": "sons-of- Name (Shem), **to-families-their,** to-tongues-their, in-lands-their,",
+        "englishNatural": "are the sons of Name (Shem), **to their families,** to their tongues, in their lands,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "מִשְׁפְּחֹת",
+        "transliteration": "mishpechot",
+        "englishLiteral": "families-of",
+        "englishNatural": "are the families of",
+        "root": "mishpachah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה **מִשְׁפְּחֹת** בְּנֵי־ נֹחַ",
+        "transliteration": "eleh **mishpechot** benei- Noach",
+        "englishLiteral": "These **families-of** sons-of- Rest (Noah),",
+        "englishNatural": "These **are the families of** the sons of Rest (Noah),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 12,
         "verse": 3
       },

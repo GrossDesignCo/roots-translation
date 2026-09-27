@@ -1,0 +1,81 @@
+{
+  "root": "yoqtan",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "יָקְטָן",
+        "transliteration": "Yoqtan",
+        "englishLiteral": "Small (Joktan)",
+        "englishNatural": "Small (Joktan)",
+        "root": "yoqtan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֵׁם אָחִיו **יָקְטָן**",
+        "transliteration": "veShem achiv **Yoqtan**",
+        "englishLiteral": "and-name-of brother-his **Small (Joktan).**",
+        "englishNatural": "and the name of his brother **Small (Joktan).**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְיָקְטָן",
+        "transliteration": "veYoqtan",
+        "englishLiteral": "And-Small (Joktan)",
+        "englishNatural": "And Small (Joktan)",
+        "root": "yoqtan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְיָקְטָן** יָלַד אֶת־",
+        "transliteration": "**veYoqtan** yalad et-",
+        "englishLiteral": "**And-Small (Joktan)** he-birthed ↳",
+        "englishNatural": "**And Small (Joktan)** birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יָקְטָן",
+        "transliteration": "Yoqtan",
+        "englishLiteral": "Small (Joktan)",
+        "englishNatural": "Small (Joktan)",
+        "root": "yoqtan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה בְּנֵי **יָקְטָן**",
+        "transliteration": "eleh benei **Yoqtan**",
+        "englishLiteral": "these sons-of **Small (Joktan).**",
+        "englishNatural": "these are the sons of **Small (Joktan).**"
+      }
+    }
+  ]
+}

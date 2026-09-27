@@ -1,0 +1,32 @@
+{
+  "key": "almodad",
+  "language": "hebrew",
+  "root": "almodad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אַלְמוֹדָד",
+        "transliteration": "Almodad",
+        "englishLiteral": "Almodad (Almodad)",
+        "englishNatural": "Almodad (Almodad)",
+        "root": "almodad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָלַד אֶת־ **אַלְמוֹדָד** וְאֶת־ שָׁלֶף",
+        "transliteration": "yalad et- **Almodad** veEt- Shalef",
+        "englishLiteral": "he-birthed ↳ **Almodad (Almodad),** and-↳ Drawn (Sheleph),",
+        "englishNatural": "birthed ↳ **Almodad (Almodad),** and Drawn (Sheleph),"
+      }
+    }
+  ]
+}

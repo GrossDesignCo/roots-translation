@@ -1369,6 +1369,438 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 11
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי־",
+        "transliteration": "vaYechi-",
+        "englishLiteral": "and-lived-",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי־** שֵׁם אַחֲרֵי",
+        "transliteration": "**vaYechi-** Shem acharey",
+        "englishLiteral": "**and-lived-** Name (Shem) after",
+        "englishNatural": "And Name (Shem) **lived** after he begot"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 12
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "חַי",
+        "transliteration": "chai",
+        "englishLiteral": "he-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַרְפַּכְשַׁד **חַי** חָמֵשׁ וּשְׁלֹשִׁים",
+        "transliteration": "veArpachshad **chai** chamesh uShloshim",
+        "englishLiteral": "And-Heal_Shaddai (Arpachshad) **he-lived** five and-thirty",
+        "englishNatural": "And Heal-Shaddai (Arpachshad) **lived** five and thirty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 13
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי",
+        "transliteration": "vaYechi",
+        "englishLiteral": "and-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי** אַרְפַּכְשַׁד אַחֲרֵי",
+        "transliteration": "**vaYechi** Arpachshad acharey",
+        "englishLiteral": "**and-lived** Heal_Shaddai (Arpachshad) after",
+        "englishNatural": "And Heal-Shaddai (Arpachshad) **lived** after he birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 14
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "חַי",
+        "transliteration": "chai",
+        "englishLiteral": "he-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "perfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֶׁלַח **חַי** שְׁלֹשִׁים שָׁנָה",
+        "transliteration": "veShelach **chai** shloshim shanah",
+        "englishLiteral": "And-Sent (Shelah) **he-lived** thirty year,",
+        "englishNatural": "And Sent (Shelah) **lived** thirty years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 15
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי־",
+        "transliteration": "vaYechi-",
+        "englishLiteral": "and-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי־** שֶׁלַח אַחֲרֵי",
+        "transliteration": "**vaYechi-** Shelach acharey",
+        "englishLiteral": "**and-lived** Sent (Shelah) after",
+        "englishNatural": "And Sent (Shelah) **lived** after he begot"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי־",
+        "transliteration": "vaYechi-",
+        "englishLiteral": "and-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי־** עֵבֶר אַרְבַּע",
+        "transliteration": "**vaYechi-** Eber arba",
+        "englishLiteral": "**and-lived** Crossing (Eber) four",
+        "englishNatural": "And Crossing (Eber) **lived** four and thirty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי־",
+        "transliteration": "vaYechi-",
+        "englishLiteral": "and-lived-",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי־** עֵבֶר אַחֲרֵי",
+        "transliteration": "**vaYechi-** Eber acharey",
+        "englishLiteral": "**and-lived-** Crossing (Eber) after",
+        "englishNatural": "And Crossing (Eber) **lived** after he begot"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 18
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי־",
+        "transliteration": "vaYechi-",
+        "englishLiteral": "and-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי־** פֶלֶג שְׁלֹשִׁים",
+        "transliteration": "**vaYechi-** Peleg shloshim",
+        "englishLiteral": "**and-lived** Channel (Peleg) thirty",
+        "englishNatural": "And Channel (Peleg) **lived** thirty years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 19
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי־",
+        "transliteration": "vaYechi-",
+        "englishLiteral": "and-lived-",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי־** פֶלֶג אַחֲרֵי",
+        "transliteration": "**vaYechi-** Peleg acharey",
+        "englishLiteral": "**and-lived-** Channel (Peleg) after",
+        "englishNatural": "And Channel (Peleg) **lived** after he begot"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 20
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי",
+        "transliteration": "vaYechi",
+        "englishLiteral": "and-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי** רְעוּ שְׁתַּיִם",
+        "transliteration": "**vaYechi** Reu shtayim",
+        "englishLiteral": "**and-lived** Friend (Reu) two",
+        "englishNatural": "And Friend (Reu) **lived** two and thirty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 21
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי",
+        "transliteration": "vaYechi",
+        "englishLiteral": "and-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי** רְעוּ אַחֲרֵי",
+        "transliteration": "**vaYechi** Reu acharey",
+        "englishLiteral": "**and-lived** Friend (Reu) after",
+        "englishNatural": "And Friend (Reu) **lived** after he begot"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 22
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי",
+        "transliteration": "vaYechi",
+        "englishLiteral": "and-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי** שְׂרוּג שְׁלֹשִׁים",
+        "transliteration": "**vaYechi** Serug shloshim",
+        "englishLiteral": "**and-lived** Intertwined (Serug) thirty",
+        "englishNatural": "And Intertwined (Serug) **lived** thirty years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 23
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי",
+        "transliteration": "vaYechi",
+        "englishLiteral": "and-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי** שְׂרוּג אַחֲרֵי",
+        "transliteration": "**vaYechi** Serug acharey",
+        "englishLiteral": "**and-lived** Intertwined (Serug) after",
+        "englishNatural": "And Intertwined (Serug) **lived** after he begot"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 24
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי",
+        "transliteration": "vaYechi",
+        "englishLiteral": "and-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי** נָחוֹר תֵּשַׁע",
+        "transliteration": "**vaYechi** Nachor tesha",
+        "englishLiteral": "**and-lived** Snorting (Nahor) nine",
+        "englishNatural": "And Snorting (Nahor) **lived** nine and twenty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 25
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי",
+        "transliteration": "vaYechi",
+        "englishLiteral": "and-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי** נָחוֹר אַחֲרֵי",
+        "transliteration": "**vaYechi** Nachor acharey",
+        "englishLiteral": "**and-lived** Snorting (Nahor) after",
+        "englishNatural": "And Snorting (Nahor) **lived** after he begot"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 26
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וַיְחִי־",
+        "transliteration": "vaYechi-",
+        "englishLiteral": "and-lived",
+        "englishNatural": "lived",
+        "root": "chayah",
+        "morphology": {
+          "type": "verb",
+          "tense": "imperfect",
+          "stem": "qal"
+        }
+      },
+      "context": {
+        "hebrew": "**וַיְחִי־** תֶרַח שִׁבְעִים",
+        "transliteration": "**vaYechi-** Terach shivim",
+        "englishLiteral": "**and-lived** Delay (Terah) seventy",
+        "englishNatural": "And Delay (Terah) **lived** seventy years,"
+      }
+    },
+    {
+      "location": {
         "book": "Numbers",
         "chapter": 21,
         "verse": 8

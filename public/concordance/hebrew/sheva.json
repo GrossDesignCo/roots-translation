@@ -77,6 +77,31 @@
         "englishLiteral": "days-of Powerful (Lamech), **seven** and-seventy year",
         "englishNatural": "Powerful (Lamech), were **seven** and seventy years"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 21
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שֶׁבַע",
+        "transliteration": "sheva",
+        "englishLiteral": "seven",
+        "englishNatural": "seven",
+        "root": "sheva",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ שְׂרוּג **שֶׁבַע** שָׁנִים וּמָאתַיִם",
+        "transliteration": "et- Serug **sheva** shanim uMatayim",
+        "englishLiteral": "↳ Intertwined (Serug), **seven** years and-two-hundred",
+        "englishNatural": "↳ Intertwined (Serug), **seven** years and two hundred"
+      }
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "root": "chatsarmavet",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "חֲצַרְמָוֶת",
+        "transliteration": "Chatsarmavet",
+        "englishLiteral": "Court_of_Death (Hazarmaveth)",
+        "englishNatural": "Court-of-Death (Hazarmaveth)",
+        "root": "chatsarmavet",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁלֶף וְאֶת־ **חֲצַרְמָוֶת** וְאֶת־ יָרַח",
+        "transliteration": "Shalef veEt- **Chatsarmavet** veEt- Yarach",
+        "englishLiteral": "Drawn (Sheleph), and-↳ **Court_of_Death (Hazarmaveth),** and-↳ Moon_cycle (Jerah),",
+        "englishNatural": "Drawn (Sheleph), and **Court-of-Death (Hazarmaveth),** and Moon-cycle (Jerah),"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": "sefarah",
+  "language": "hebrew",
+  "root": "sefar",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 30
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "סְפָרָה",
+        "transliteration": "Sefarah",
+        "englishLiteral": "toward-Counting (Sephar)",
+        "englishNatural": "toward Counting (Sephar)",
+        "root": "sefar",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מִמֵּשָׁא בֹּאֲכָה **סְפָרָה** הַר הַקֶּדֶם",
+        "transliteration": "miMesha boakhah **Sefarah** har haQedem",
+        "englishLiteral": "from-Freedom (Mesha), coming-you **toward-Counting (Sephar),** mountain-of the-east.",
+        "englishNatural": "was, as you come **toward Counting (Sephar),** the mountain of the east."
+      }
+    }
+  ]
+}

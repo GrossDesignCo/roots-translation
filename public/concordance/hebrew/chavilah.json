@@ -1,0 +1,32 @@
+{
+  "key": "chavilah",
+  "language": "hebrew",
+  "root": "Chavilah",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "חֲוִילָה",
+        "transliteration": "Chavilah",
+        "englishLiteral": "Strength (Havilah)",
+        "englishNatural": "Strength (Havilah)",
+        "root": "Chavilah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אוֹפִר וְאֶת־ **חֲוִילָה** וְאֶת־ יוֹבָב",
+        "transliteration": "Ophir veEt- **Chavilah** veEt- Yovav",
+        "englishLiteral": "Ophir (Ophir), and-↳ **Strength (Havilah),** and-↳ Howler (Jobab);",
+        "englishNatural": "Ophir (Ophir), and **Strength (Havilah),** and Howler (Jobab);"
+      }
+    }
+  ]
+}

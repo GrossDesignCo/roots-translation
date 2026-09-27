@@ -291,6 +291,681 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 13
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ לוּדִים **וְאֶת־** עֲנָמִים וְאֶת־",
+        "transliteration": "et- Ludim **veEt-** Anamim veEt-",
+        "englishLiteral": "↳ Luds (Ludim), **and-↳** Ans (Anamim), and-↳",
+        "englishNatural": "↳ Luds (Ludim), **and** Ans (Anamim), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 13
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ עֲנָמִים **וְאֶת־** לְהָבִים וְאֶת־",
+        "transliteration": "veEt- Anamim **veEt-** Lehabim veEt-",
+        "englishLiteral": "and-↳ Ans (Anamim), **and-↳** Flames (Lehabim), and-↳",
+        "englishNatural": "and Ans (Anamim), **and** Flames (Lehabim), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ לְהָבִים **וְאֶת־** נַפְתֻּחִים",
+        "transliteration": "veEt- Lehabim **veEt-** Naphtuhim",
+        "englishLiteral": "and-↳ Flames (Lehabim), **and-↳** Of_Ptah (Naphtuhim),",
+        "englishNatural": "and Flames (Lehabim), **and** Of-Ptah (Naphtuhim),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֶת־** פַּתְרֻסִים וְאֶת־",
+        "transliteration": "**veEt-** Pathrusim veEt-",
+        "englishLiteral": "**and-↳** Southerners (Pathrusim), and-↳",
+        "englishNatural": "**and** Southerners (Pathrusim), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ פַּתְרֻסִים **וְאֶת־** כַּסְלֻחִים אֲשֶׁר",
+        "transliteration": "veEt- Pathrusim **veEt-** Casluhim asher",
+        "englishLiteral": "and-↳ Southerners (Pathrusim), **and-↳** Loiners (Casluhim), which",
+        "englishNatural": "and Southerners (Pathrusim), **and** Loiners (Casluhim), which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 14
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "מִשָּׁם פְּלִשְׁתִּים **וְאֶת־** כַּפְתֹּרִים",
+        "transliteration": "miSham Pelishtim **veEt-** Kaphtorim",
+        "englishLiteral": "from-there Wallowers (Philistines), **and-↳** Palm_knobs (Caphtorim).",
+        "englishNatural": "from there Wallowers (Philistines), **and** Palm-knobs (Caphtorim)."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 15
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "צִידֹן בְּכֹרוֹ **וְאֶת־** חֵת",
+        "transliteration": "Tsidon bekhoro **veEt-** Chet",
+        "englishLiteral": "Fishery (Sidon), firstborn-his, **and-↳** Heth (Heth),",
+        "englishNatural": "Fishery (Sidon), his firstborn, **and** Heth (Heth),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֶת־** הַיְבוּסִי וְאֶת־",
+        "transliteration": "**veEt-** haYebusi veEt-",
+        "englishLiteral": "**and-↳** the-Jebusite, and-↳",
+        "englishNatural": "**and** the Jebusite, and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הַיְבוּסִי **וְאֶת־** הָאֱמֹרִי וְאֵת",
+        "transliteration": "veEt- haYebusi **veEt-** haEmori veEt",
+        "englishLiteral": "and-↳ the-Jebusite, **and-↳** the-Amorite, and-↳",
+        "englishNatural": "and the Jebusite, **and** the Amorite, and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 17
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֶת־** הַחִוִּי וְאֶת־",
+        "transliteration": "**veEt-** haChivi veEt-",
+        "englishLiteral": "**and-↳** the-Hivite, and-↳",
+        "englishNatural": "**and** the Hivite, and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 17
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הַחִוִּי **וְאֶת־** הָעַרְקִי וְאֶת־",
+        "transliteration": "veEt- haChivi **veEt-** haArqi veEt-",
+        "englishLiteral": "and-↳ the-Hivite, **and-↳** the-Arkite, and-↳",
+        "englishNatural": "and the Hivite, **and** the Arkite, and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 17
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הָעַרְקִי **וְאֶת־** הַסִּינִי",
+        "transliteration": "veEt- haArqi **veEt-** haSini",
+        "englishLiteral": "and-↳ the-Arkite, **and-↳** the-Sinite,",
+        "englishNatural": "and the Arkite, **and** the Sinite,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 18
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֶת־** הָאַרְוָדִי וְאֶת־",
+        "transliteration": "**veEt-** haArvadi veEt-",
+        "englishLiteral": "**and-↳** the-Arvadite, and-↳",
+        "englishNatural": "**and** the Arvadite, and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 18
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הָאַרְוָדִי **וְאֶת־** הַצְּמָרִי וְאֶת־",
+        "transliteration": "veEt- haArvadi **veEt-** haTsemari veEt-",
+        "englishLiteral": "and-↳ the-Arvadite, **and-↳** the-Zemarite, and-↳",
+        "englishNatural": "and the Arvadite, **and** the Zemarite, and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 18
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הַצְּמָרִי **וְאֶת־** הַחֲמָתִי וְאַחַר",
+        "transliteration": "veEt- haTsemari **veEt-** haChamathi veAchar",
+        "englishLiteral": "and-↳ the-Zemarite, **and-↳** the-Hamathite; and-after",
+        "englishNatural": "and the Zemarite, **and** the Hamathite; and after"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ אַלְמוֹדָד **וְאֶת־** שָׁלֶף וְאֶת־",
+        "transliteration": "et- Almodad **veEt-** Shalef veEt-",
+        "englishLiteral": "↳ Almodad (Almodad), **and-↳** Drawn (Sheleph), and-↳",
+        "englishNatural": "↳ Almodad (Almodad), **and** Drawn (Sheleph), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ שָׁלֶף **וְאֶת־** חֲצַרְמָוֶת וְאֶת־",
+        "transliteration": "veEt- Shalef **veEt-** Chatsarmavet veEt-",
+        "englishLiteral": "and-↳ Drawn (Sheleph), **and-↳** Court_of_Death (Hazarmaveth), and-↳",
+        "englishNatural": "and Drawn (Sheleph), **and** Court-of-Death (Hazarmaveth), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ חֲצַרְמָוֶת **וְאֶת־** יָרַח",
+        "transliteration": "veEt- Chatsarmavet **veEt-** Yarach",
+        "englishLiteral": "and-↳ Court_of_Death (Hazarmaveth), **and-↳** Moon_cycle (Jerah),",
+        "englishNatural": "and Court-of-Death (Hazarmaveth), **and** Moon-cycle (Jerah),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 27
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֶת־** הֲדוֹרָם וְאֶת־",
+        "transliteration": "**veEt-** Hadoram veEt-",
+        "englishLiteral": "**and-↳** Honor (Hadoram), and-↳",
+        "englishNatural": "**and** Honor (Hadoram), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 27
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ הֲדוֹרָם **וְאֶת־** אוּזָל וְאֶת־",
+        "transliteration": "veEt- Hadoram **veEt-** Uzal veEt-",
+        "englishLiteral": "and-↳ Honor (Hadoram), **and-↳** Uzal (Uzal), and-↳",
+        "englishNatural": "and Honor (Hadoram), **and** Uzal (Uzal), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 27
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ אוּזָל **וְאֶת־** דִּקְלָה",
+        "transliteration": "veEt- Uzal **veEt-** Diqlah",
+        "englishLiteral": "and-↳ Uzal (Uzal), **and-↳** Palm (Diklah),",
+        "englishNatural": "and Uzal (Uzal), **and** Palm (Diklah),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֶת־** עוֹבָל וְאֶת־",
+        "transliteration": "**veEt-** Oval veEt-",
+        "englishLiteral": "**and-↳** Obal (Obal), and-↳",
+        "englishNatural": "**and** Obal (Obal), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ עוֹבָל **וְאֶת־** אֲבִימָאֵל וְאֶת־",
+        "transliteration": "veEt- Oval **veEt-** Avimael veEt-",
+        "englishLiteral": "and-↳ Obal (Obal), **and-↳** Father_is_God (Abimael), and-↳",
+        "englishNatural": "and Obal (Obal), **and** Father-is-God (Abimael), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 28
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ אֲבִימָאֵל **וְאֶת־** שְׁבָא",
+        "transliteration": "veEt- Avimael **veEt-** Sheba",
+        "englishLiteral": "and-↳ Father_is_God (Abimael), **and-↳** Oath (Sheba),",
+        "englishNatural": "and Father-is-God (Abimael), **and** Oath (Sheba),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאֶת־** אוֹפִר וְאֶת־",
+        "transliteration": "**veEt-** Ophir veEt-",
+        "englishLiteral": "**and-↳** Ophir (Ophir), and-↳",
+        "englishNatural": "**and** Ophir (Ophir), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ אוֹפִר **וְאֶת־** חֲוִילָה וְאֶת־",
+        "transliteration": "veEt- Ophir **veEt-** Chavilah veEt-",
+        "englishLiteral": "and-↳ Ophir (Ophir), **and-↳** Strength (Havilah), and-↳",
+        "englishNatural": "and Ophir (Ophir), **and** Strength (Havilah), and"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ חֲוִילָה **וְאֶת־** יוֹבָב כָּל־",
+        "transliteration": "veEt- Chavilah **veEt-** Yovav kol-",
+        "englishLiteral": "and-↳ Strength (Havilah), **and-↳** Howler (Jobab); all-",
+        "englishNatural": "and Strength (Havilah), **and** Howler (Jobab); all"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 5
       },
@@ -311,6 +986,31 @@
         "transliteration": "et- haIr **veEt-** haMigdal asher",
         "englishLiteral": "↳ the-city **and-↳** the-tower which",
         "englishNatural": "↳ the city **and** the tower which"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 26
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "וְאֶת־",
+        "transliteration": "veEt-",
+        "englishLiteral": "and-↳",
+        "englishNatural": "and",
+        "root": "et",
+        "morphology": {
+          "type": "particle"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ נָחוֹר **וְאֶת־** הָרָן",
+        "transliteration": "et- Nachor **veEt-** Haran",
+        "englishLiteral": "↳ Snorting (Nahor) **and-↳** Mountaineer (Haran).",
+        "englishNatural": "↳ Snorting (Nahor), **and** Mountaineer (Haran)."
       }
     },
     {

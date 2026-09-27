@@ -1,0 +1,32 @@
+{
+  "key": "yarach",
+  "language": "hebrew",
+  "root": "yarach",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "יָרַח",
+        "transliteration": "Yarach",
+        "englishLiteral": "Moon_cycle (Jerah)",
+        "englishNatural": "Moon-cycle (Jerah)",
+        "root": "yarach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֲצַרְמָוֶת וְאֶת־ **יָרַח**",
+        "transliteration": "Chatsarmavet veEt- **Yarach**",
+        "englishLiteral": "Court_of_Death (Hazarmaveth), and-↳ **Moon_cycle (Jerah),**",
+        "englishNatural": "Court-of-Death (Hazarmaveth), and **Moon-cycle (Jerah),**"
+      }
+    }
+  ]
+}

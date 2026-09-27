@@ -1,0 +1,82 @@
+{
+  "key": "vearpachshad",
+  "language": "hebrew",
+  "root": "arpachshad",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 22
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְאַרְפַּכְשַׁד",
+        "transliteration": "veArpachshad",
+        "englishLiteral": "and-Heal_Shaddai (Arpachshad)",
+        "englishNatural": "and Heal-Shaddai (Arpachshad)",
+        "root": "arpachshad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "עֵילָם וְאַשּׁוּר **וְאַרְפַּכְשַׁד** וְלוּד וַאֲרָם",
+        "transliteration": "Elam veAshur **veArpachshad** veLud vaAram",
+        "englishLiteral": "Hidden (Elam), and-Steppe (Assyria), **and-Heal_Shaddai (Arpachshad),** and-Lud (Lud), and-High (Aram).",
+        "englishNatural": "Hidden (Elam), and Steppe (Assyria), **and Heal-Shaddai (Arpachshad),** and Lud (Lud), and High (Aram)."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 24
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאַרְפַּכְשַׁד",
+        "transliteration": "veArpachshad",
+        "englishLiteral": "And-Heal_Shaddai (Arpachshad)",
+        "englishNatural": "And Heal-Shaddai (Arpachshad)",
+        "root": "arpachshad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאַרְפַּכְשַׁד** יָלַד אֶת־",
+        "transliteration": "**veArpachshad** yalad et-",
+        "englishLiteral": "**And-Heal_Shaddai (Arpachshad)** he-birthed ↳",
+        "englishNatural": "**And Heal-Shaddai (Arpachshad)** birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 12
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְאַרְפַּכְשַׁד",
+        "transliteration": "veArpachshad",
+        "englishLiteral": "And-Heal_Shaddai (Arpachshad)",
+        "englishNatural": "And Heal-Shaddai (Arpachshad)",
+        "root": "arpachshad",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְאַרְפַּכְשַׁד** חַי חָמֵשׁ",
+        "transliteration": "**veArpachshad** chai chamesh",
+        "englishLiteral": "**And-Heal_Shaddai (Arpachshad)** he-lived five",
+        "englishNatural": "**And Heal-Shaddai (Arpachshad)** lived five"
+      }
+    }
+  ]
+}

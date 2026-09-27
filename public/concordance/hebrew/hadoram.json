@@ -1,0 +1,32 @@
+{
+  "key": "hadoram",
+  "language": "hebrew",
+  "root": "hadoram",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 27
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הֲדוֹרָם",
+        "transliteration": "Hadoram",
+        "englishLiteral": "Honor (Hadoram)",
+        "englishNatural": "Honor (Hadoram)",
+        "root": "hadoram",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ **הֲדוֹרָם** וְאֶת־ אוּזָל",
+        "transliteration": "veEt- **Hadoram** veEt- Uzal",
+        "englishLiteral": "and-↳ **Honor (Hadoram),** and-↳ Uzal (Uzal),",
+        "englishNatural": "and **Honor (Hadoram),** and Uzal (Uzal),"
+      }
+    }
+  ]
+}

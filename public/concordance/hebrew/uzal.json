@@ -1,0 +1,32 @@
+{
+  "key": "uzal",
+  "language": "hebrew",
+  "root": "uzal",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 27
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "אוּזָל",
+        "transliteration": "Uzal",
+        "englishLiteral": "Uzal (Uzal)",
+        "englishNatural": "Uzal (Uzal)",
+        "root": "uzal",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הֲדוֹרָם וְאֶת־ **אוּזָל** וְאֶת־ דִּקְלָה",
+        "transliteration": "Hadoram veEt- **Uzal** veEt- Diqlah",
+        "englishLiteral": "Honor (Hadoram), and-↳ **Uzal (Uzal),** and-↳ Palm (Diklah),",
+        "englishNatural": "Honor (Hadoram), and **Uzal (Uzal),** and Palm (Diklah),"
+      }
+    }
+  ]
+}

@@ -6,6 +6,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 16
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הָאֱמֹרִי",
+        "transliteration": "haEmori",
+        "englishLiteral": "the-Amorite",
+        "englishNatural": "the Amorite",
+        "root": "emori",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הַיְבוּסִי וְאֶת־ **הָאֱמֹרִי** וְאֵת הַגִּרְגָּשִׁי",
+        "transliteration": "haYebusi veEt- **haEmori** veEt haGirgashi",
+        "englishLiteral": "the-Jebusite, and-↳ **the-Amorite,** and-↳ the-Girgashite,",
+        "englishNatural": "the Jebusite, and **the Amorite,** and the Girgashite,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 16
       },

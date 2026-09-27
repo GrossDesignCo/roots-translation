@@ -1,0 +1,56 @@
+{
+  "root": "kenaani",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 18
+      },
+      "wordIndex": 9,
+      "sourceOrder": 9,
+      "word": {
+        "originalScript": "הַכְּנַעֲנִי",
+        "transliteration": "haKenaani",
+        "englishLiteral": "the-Canaanite",
+        "englishNatural": "the Canaanite",
+        "root": "kenaani",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נָפֹצוּ מִשְׁפְּחוֹת **הַכְּנַעֲנִי**",
+        "transliteration": "nafotsu mishpechot **haKenaani**",
+        "englishLiteral": "they-have-been-spread_out families-of **the-Canaanite.**",
+        "englishNatural": "have been spread-out the families of **the Canaanite.**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "הַכְּנַעֲנִי",
+        "transliteration": "haKenaani",
+        "englishLiteral": "the-Canaanite",
+        "englishNatural": "of the Canaanite",
+        "root": "kenaani",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְהִי גְּבוּל **הַכְּנַעֲנִי** מִצִּידֹן בֹּאֲכָה",
+        "transliteration": "vaYehi gevul **haKenaani** miTsidon boakhah",
+        "englishLiteral": "And-was border **the-Canaanite** from-Fishery (Sidon), coming-you",
+        "englishNatural": "And the border **of the Canaanite** was from Fishery (Sidon),"
+      }
+    }
+  ]
+}

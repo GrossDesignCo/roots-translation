@@ -1,0 +1,31 @@
+{
+  "root": "tsemari",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 18
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "הַצְּמָרִי",
+        "transliteration": "haTsemari",
+        "englishLiteral": "the-Zemarite",
+        "englishNatural": "the Zemarite",
+        "root": "tsemari",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הָאַרְוָדִי וְאֶת־ **הַצְּמָרִי** וְאֶת־ הַחֲמָתִי",
+        "transliteration": "haArvadi veEt- **haTsemari** veEt- haChamathi",
+        "englishLiteral": "the-Arvadite, and-↳ **the-Zemarite,** and-↳ the-Hamathite;",
+        "englishNatural": "the Arvadite, and **the Zemarite,** and the Hamathite;"
+      }
+    }
+  ]
+}

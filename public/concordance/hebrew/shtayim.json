@@ -105,6 +105,31 @@
     },
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 20
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שְׁתַּיִם",
+        "transliteration": "shtayim",
+        "englishLiteral": "two",
+        "englishNatural": "two",
+        "root": "shnayim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי רְעוּ **שְׁתַּיִם** וּשְׁלֹשִׁים שָׁנָה",
+        "transliteration": "vaYechi Reu **shtayim** uShloshim shanah",
+        "englishLiteral": "and-lived Friend (Reu) **two** and-thirty year,",
+        "englishNatural": "And Friend (Reu) lived **two** and thirty years,"
+      }
+    },
+    {
+      "location": {
         "book": "Ezekiel",
         "chapter": 1,
         "verse": 11

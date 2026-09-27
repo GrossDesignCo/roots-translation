@@ -1,0 +1,32 @@
+{
+  "key": "iyyei",
+  "language": "hebrew",
+  "root": "i",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 5
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אִיֵּי",
+        "transliteration": "iyyei",
+        "englishLiteral": "islands-of",
+        "englishNatural": "the islands of",
+        "root": "i",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "מֵאֵלֶּה נִפְרְדוּ **אִיֵּי** הַגּוֹיִם בְּאַרְצֹתָם",
+        "transliteration": "meEleh niphredu **iyyei** haGoyim beArtzotam",
+        "englishLiteral": "From-these they-have-been-parted **islands-of** the-nations in-lands-their;",
+        "englishNatural": "From these have been parted **the islands of** the nations in their lands;"
+      }
+    }
+  ]
+}

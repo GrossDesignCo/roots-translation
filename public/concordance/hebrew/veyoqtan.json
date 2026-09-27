@@ -1,0 +1,32 @@
+{
+  "key": "veyoqtan",
+  "language": "hebrew",
+  "root": "yoqtan",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 26
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְיָקְטָן",
+        "transliteration": "veYoqtan",
+        "englishLiteral": "And-Small (Joktan)",
+        "englishNatural": "And Small (Joktan)",
+        "root": "yoqtan",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְיָקְטָן** יָלַד אֶת־",
+        "transliteration": "**veYoqtan** yalad et-",
+        "englishLiteral": "**And-Small (Joktan)** he-birthed ↳",
+        "englishNatural": "**And Small (Joktan)** birthed ↳"
+      }
+    }
+  ]
+}

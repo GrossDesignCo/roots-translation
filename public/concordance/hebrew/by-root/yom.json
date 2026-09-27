@@ -1380,6 +1380,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "בְיָמָיו",
+        "transliteration": "beYamav",
+        "englishLiteral": "in-days-his",
+        "englishNatural": "in his days",
+        "root": "yom",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "פֶּלֶג כִּי **בְיָמָיו** נִפְלְגָה הָאָרֶץ",
+        "transliteration": "Peleg ki **beYamav** niphlagah haAretz",
+        "englishLiteral": "Channel (Peleg), that **in-days-his** has-been-divided the-land;",
+        "englishNatural": "Channel (Peleg), that **in his days** the land has been divided;"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 18
       },

@@ -178,6 +178,7 @@ const ROOTS = {
     englishLiteral: 'seven',
     englishNatural: 'seven',
     type: 'numeral',
+    related: ['sheba'],
   },
   shivim: {
     hebrew: 'שִׁבְעִים',
@@ -287,6 +288,7 @@ const ROOTS = {
     englishNatural: 'to pass-through',
     description: 'to pass through a place, to continue onward',
     type: 'verb',
+    related: ['eber'],
   },
   shakah: {
     hebrew: 'שׁכה',
@@ -983,7 +985,7 @@ const ROOTS = {
     description:
       'the Philistines, from the hebrew word for wallowing or rolling in the mud',
     type: 'noun',
-    related: ['palash'],
+    related: ['palash', 'pelishtim'],
   },
   shabar: {
     hebrew: 'שָׁבַר',
@@ -1405,7 +1407,7 @@ const ROOTS = {
     englishNatural: 'earth',
     description:
       'earth, ground, soil, sometimes referring to the whole world, always refers to the ground from which humans were formed when in feminine form',
-    related: ['adam', 'eretz', 'yabashah'],
+    related: ['adam', 'eretz', 'yabashah', 'admah'],
     type: 'noun',
   },
   behemah: {
@@ -1457,6 +1459,7 @@ const ROOTS = {
     englishNatural: 'hunter',
     type: 'noun',
     description: 'hunter, hunting, game',
+    related: ['tsidon'],
   },
   demut: {
     hebrew: 'דמות',
@@ -3021,6 +3024,7 @@ const ROOTS = {
     type: 'noun',
     description:
       'stream, channel, division of water, like division in Genesis of the world into continents, or irrigation canals',
+    related: ['palag'],
   },
   et_time: {
     hebrew: 'עֵת',
@@ -4181,7 +4185,7 @@ const ROOTS = {
     type: 'noun',
     description:
       'proper name, Tubalcain, meaning "world-smith" or "worldly possession"',
-    related: ['Qayin'],
+    related: ['Qayin', 'tubal'],
   },
   latash: {
     hebrew: 'לָטַשׁ',
@@ -4532,6 +4536,268 @@ const ROOTS = {
     type: 'noun',
     description: 'proper name, Japheth, meaning "expansion" or "spaciousness"',
   },
+  // Genesis 10:2 additions (sons of Japheth)
+  gomer: {
+    hebrew: 'גֹּמֶר',
+    transliteration: 'gomer',
+    englishLiteral: 'Complete (Gomer)',
+    englishNatural: 'Complete (Gomer)',
+    type: 'noun',
+    description:
+      'proper name, Gomer, son of Japheth; from gamar "to complete/finish"',
+  },
+  magog: {
+    hebrew: 'מָגוֹג',
+    transliteration: 'magog',
+    englishLiteral: 'From_Gog (Magog)',
+    englishNatural: 'From-Gog (Magog)',
+    type: 'noun',
+    description:
+      'proper name, Magog, son of Japheth; traditionally analyzed as ma + Gog (etymology obscure)',
+  },
+  madai: {
+    hebrew: 'מָדַי',
+    transliteration: 'madai',
+    englishLiteral: 'Measure (Madai)',
+    englishNatural: 'Measure (Madai)',
+    type: 'noun',
+    description:
+      'proper name, Madai, son of Japheth; associated with the Medes; linked to madad "to measure"',
+  },
+  yavan: {
+    hebrew: 'יָוָן',
+    transliteration: 'yavan',
+    englishLiteral: 'Mire (Javan)',
+    englishNatural: 'Mire (Javan)',
+    type: 'noun',
+    description:
+      'proper name, Javan, son of Japheth; Greece/Ionians; from yaven "mire"',
+  },
+  tubal: {
+    hebrew: 'תֻבָל',
+    transliteration: 'tubal',
+    englishLiteral: 'World (Tubal)',
+    englishNatural: 'World (Tubal)',
+    type: 'noun',
+    description:
+      'proper name, Tubal, son of Japheth; cf. Tubal-Cain "World Acquired"',
+    related: ['TuvalQayin'],
+  },
+  meshech: {
+    hebrew: 'מֶשֶׁךְ',
+    transliteration: 'meshech',
+    englishLiteral: 'Drawing (Meshech)',
+    englishNatural: 'Drawing (Meshech)',
+    type: 'noun',
+    description:
+      'proper name, Meshech, son of Japheth; from mashak "to draw/pull"',
+  },
+  tiras: {
+    hebrew: 'תִירָס',
+    transliteration: 'tiras',
+    englishLiteral: 'Moist (Tiras)',
+    englishNatural: 'Moist (Tiras)',
+    type: 'noun',
+    description:
+      'proper name, Tiras, son of Japheth; etymology uncertain (placeholder gloss)',
+  },
+  // Genesis 10:3 additions (sons of Gomer)
+  ashkenaz: {
+    hebrew: 'אַשְׁכְּנַז',
+    transliteration: 'ashkenaz',
+    englishLiteral: 'Fire_scatter (Ashkenaz)',
+    englishNatural: 'Fire-scatter (Ashkenaz)',
+    type: 'noun',
+    description:
+      'proper name, Ashkenaz, son of Gomer; etymology obscure (placeholder folk gloss)',
+  },
+  riphath: {
+    hebrew: 'רִיפַת',
+    transliteration: 'riphath',
+    englishLiteral: 'Sink (Riphath)',
+    englishNatural: 'Sink (Riphath)',
+    type: 'noun',
+    description:
+      'proper name, Riphath, son of Gomer; speculative link to raphah "to sink"',
+    related: ['raphah'],
+  },
+  togarmah: {
+    hebrew: 'תֹגַרְמָה',
+    transliteration: 'togarmah',
+    englishLiteral: 'Bone_all (Togarmah)',
+    englishNatural: 'Bone-all (Togarmah)',
+    type: 'noun',
+    description:
+      'proper name, Togarmah, son of Gomer; etymology obscure (placeholder gloss)',
+  },
+  // Genesis 10:4 additions (sons of Javan)
+  elishah: {
+    hebrew: 'אֱלִישָׁה',
+    transliteration: 'elishah',
+    englishLiteral: 'God_helps (Elishah)',
+    englishNatural: 'God-helps (Elishah)',
+    type: 'noun',
+    description:
+      'proper name, Elishah, son of Javan; folk gloss from אל + help/save',
+    related: ['yasha'],
+  },
+  kittim: {
+    hebrew: 'כִּתִּים',
+    transliteration: 'kittim',
+    englishLiteral: 'Bruisers (Kittim)',
+    englishNatural: 'Bruisers (Kittim)',
+    type: 'noun',
+    description:
+      'proper name / ethnonym, Kittim, sons of Javan; etymology uncertain (placeholder)',
+  },
+  dodanim: {
+    hebrew: 'דֹדָנִים',
+    transliteration: 'dodanim',
+    englishLiteral: 'Beloveds (Dodanim)',
+    englishNatural: 'Beloveds (Dodanim)',
+    type: 'noun',
+    description:
+      'proper name / ethnonym, Dodanim, sons of Javan; speculative from דוד; Chronicles has Rodanim',
+  },
+  // Genesis 10:6–7 additions (sons of Ham / Kush / Raamah)
+  put: {
+    hebrew: 'פּוּט',
+    transliteration: 'put',
+    englishLiteral: 'Bow (Put)',
+    englishNatural: 'Bow (Put)',
+    type: 'noun',
+    description:
+      'proper name, Put, son of Ham; traditionally Libya; etymology uncertain (archery folk link)',
+  },
+  seba: {
+    hebrew: 'סְבָא',
+    transliteration: 'seba',
+    englishLiteral: 'Drunkard (Seba)',
+    englishNatural: 'Drunkard (Seba)',
+    type: 'noun',
+    description:
+      'proper name, Seba, son of Kush; speculative from סבא "to drink heavily"; distinct from Sheba',
+  },
+  sabtah: {
+    hebrew: 'סַבְתָּה',
+    transliteration: 'sabtah',
+    englishLiteral: 'Striking (Sabtah)',
+    englishNatural: 'Striking (Sabtah)',
+    type: 'noun',
+    description: 'proper name, Sabtah, son of Kush; etymology obscure (placeholder)',
+    related: ['sabteca'],
+  },
+  raamah: {
+    hebrew: 'רַעְמָה',
+    transliteration: 'raamah',
+    englishLiteral: 'Thunder (Raamah)',
+    englishNatural: 'Thunder (Raamah)',
+    type: 'noun',
+    description: 'proper name, Raamah, son of Kush; from רעם "thunder"',
+  },
+  sabteca: {
+    hebrew: 'סַבְתְּכָא',
+    transliteration: 'sabteca',
+    englishLiteral: 'Striking_you (Sabteca)',
+    englishNatural: 'Striking-you (Sabteca)',
+    type: 'noun',
+    description:
+      'proper name, Sabteca, son of Kush; etymology obscure (placeholder parallel to Sabtah)',
+    related: ['sabtah'],
+  },
+  sheba: {
+    hebrew: 'שְׁבָא',
+    transliteration: 'sheba',
+    englishLiteral: 'Oath (Sheba)',
+    englishNatural: 'Oath (Sheba)',
+    type: 'noun',
+    description:
+      'proper name, Sheba, son of Raamah; folk link to oath/seven; distinct from sheva "seven"',
+    related: ['sheva'],
+  },
+  dedan: {
+    hebrew: 'דְדָן',
+    transliteration: 'dedan',
+    englishLiteral: 'Lowland (Dedan)',
+    englishNatural: 'Lowland (Dedan)',
+    type: 'noun',
+    description: 'proper name, Dedan, son of Raamah; etymology uncertain (placeholder)',
+  },
+  // Genesis 10:13–14 additions (sons of Mizraim)
+  ludim: {
+    hebrew: 'לוּדִים',
+    transliteration: 'ludim',
+    englishLiteral: 'Luds (Ludim)',
+    englishNatural: 'Luds (Ludim)',
+    type: 'noun',
+    description:
+      'ethnonym, Ludim, descendants of Mizraim; distinct from Lud son of Shem; etymology obscure (placeholder)',
+  },
+  anamim: {
+    hebrew: 'עֲנָמִים',
+    transliteration: 'anamim',
+    englishLiteral: 'Ans (Anamim)',
+    englishNatural: 'Ans (Anamim)',
+    type: 'noun',
+    description:
+      'ethnonym, Anamim, descendants of Mizraim; possibly Delta region; etymology obscure (placeholder)',
+  },
+  lehabim: {
+    hebrew: 'לְהָבִים',
+    transliteration: 'lehabim',
+    englishLiteral: 'Flames (Lehabim)',
+    englishNatural: 'Flames (Lehabim)',
+    type: 'noun',
+    description:
+      'ethnonym, Lehabim, descendants of Mizraim; traditionally Libyans; folk link to lahav "flame"',
+    related: ['lahav'],
+  },
+  naphtuhim: {
+    hebrew: 'נַפְתֻּחִים',
+    transliteration: 'naphtuhim',
+    englishLiteral: 'Of_Ptah (Naphtuhim)',
+    englishNatural: 'Of-Ptah (Naphtuhim)',
+    type: 'noun',
+    description:
+      'ethnonym, Naphtuhim, descendants of Mizraim; likely Memphites / followers of Ptah (placeholder)',
+  },
+  pathrusim: {
+    hebrew: 'פַּתְרֻסִים',
+    transliteration: 'pathrusim',
+    englishLiteral: 'Southerners (Pathrusim)',
+    englishNatural: 'Southerners (Pathrusim)',
+    type: 'noun',
+    description:
+      'ethnonym, Pathrusim, people of Pathros / Upper Egypt; from Egyptian p3 t3 rsy "south land"',
+  },
+  casluhim: {
+    hebrew: 'כַּסְלֻחִים',
+    transliteration: 'casluhim',
+    englishLiteral: 'Loiners (Casluhim)',
+    englishNatural: 'Loiners (Casluhim)',
+    type: 'noun',
+    description:
+      'ethnonym, Casluhim, descendants of Mizraim; possibly Lower Egypt; folk link to kasal "loin" (placeholder)',
+  },
+  pelishtim: {
+    hebrew: 'פְּלִשְׁתִּים',
+    transliteration: 'pelishtim',
+    englishLiteral: 'Wallowers (Philistines)',
+    englishNatural: 'Wallowers (Philistines)',
+    type: 'noun',
+    description:
+      'ethnonym, Philistines; plural of Peleshet; from palash "to wallow"',
+    related: ['Peleshet', 'palash'],
+  },
+  kaphtorim: {
+    hebrew: 'כַּפְתֹּרִים',
+    transliteration: 'kaphtorim',
+    englishLiteral: 'Palm_knobs (Caphtorim)',
+    englishNatural: 'Palm-knobs (Caphtorim)',
+    type: 'noun',
+    description:
+      'ethnonym, Caphtorim; traditionally Cretans; folk link to kaphtor "palm knob" (placeholder)',
+  },
   kenaan: {
     hebrew: 'כְנָעַן',
     transliteration: 'kenaan',
@@ -4539,6 +4805,434 @@ const ROOTS = {
     englishNatural: 'Low (Canaan)',
     type: 'noun',
     description: 'proper name, Canaan, from kna "to be low, subdued"',
+    related: ['kenaani'],
+  },
+  // Genesis 10:15–20 additions (sons of Canaan / Ham summary)
+  tsidon: {
+    hebrew: 'צִידֹן',
+    transliteration: 'tsidon',
+    englishLiteral: 'Fishery (Sidon)',
+    englishNatural: 'Fishery (Sidon)',
+    type: 'noun',
+    description:
+      'proper name, Sidon, firstborn of Canaan; from tsud "to hunt/fish"',
+    related: ['tsayid'],
+  },
+  chet: {
+    hebrew: 'חֵת',
+    transliteration: 'chet',
+    englishLiteral: 'Heth (Heth)',
+    englishNatural: 'Heth (Heth)',
+    type: 'noun',
+    description:
+      'proper name, Heth, son of Canaan; ancestor of Hittites; etymology obscure (opaque)',
+  },
+  yebusi: {
+    hebrew: 'יְבוּסִי',
+    transliteration: 'yebusi',
+    englishLiteral: 'Jebusite',
+    englishNatural: 'Jebusite',
+    type: 'noun',
+    description: 'gentilic, Jebusite; Canaanite people of Jerusalem area',
+  },
+  girgashi: {
+    hebrew: 'גִּרְגָּשִׁי',
+    transliteration: 'girgashi',
+    englishLiteral: 'Girgashite',
+    englishNatural: 'Girgashite',
+    type: 'noun',
+    description: 'gentilic, Girgashite; Canaanite people; etymology obscure',
+  },
+  chivi: {
+    hebrew: 'חִוִּי',
+    transliteration: 'chivi',
+    englishLiteral: 'Hivite',
+    englishNatural: 'Hivite',
+    type: 'noun',
+    description: 'gentilic, Hivite; Canaanite people; etymology obscure',
+  },
+  arqi: {
+    hebrew: 'עַרְקִי',
+    transliteration: 'arqi',
+    englishLiteral: 'Arkite',
+    englishNatural: 'Arkite',
+    type: 'noun',
+    description: 'gentilic, Arkite; from Phoenician city Arqa',
+  },
+  sini: {
+    hebrew: 'סִינִי',
+    transliteration: 'sini',
+    englishLiteral: 'Sinite',
+    englishNatural: 'Sinite',
+    type: 'noun',
+    description: 'gentilic, Sinite; Canaanite/Phoenician people; etymology obscure',
+  },
+  arvadi: {
+    hebrew: 'אַרְוָדִי',
+    transliteration: 'arvadi',
+    englishLiteral: 'Arvadite',
+    englishNatural: 'Arvadite',
+    type: 'noun',
+    description: 'gentilic, Arvadite; from island city Arvad',
+  },
+  tsemari: {
+    hebrew: 'צְמָרִי',
+    transliteration: 'tsemari',
+    englishLiteral: 'Zemarite',
+    englishNatural: 'Zemarite',
+    type: 'noun',
+    description: 'gentilic, Zemarite; from Phoenician Sumur/Simyra',
+  },
+  chamathi: {
+    hebrew: 'חֲמָתִי',
+    transliteration: 'chamathi',
+    englishLiteral: 'Hamathite',
+    englishNatural: 'Hamathite',
+    type: 'noun',
+    description: 'gentilic, Hamathite; from city Hamath on the Orontes',
+  },
+  kenaani: {
+    hebrew: 'כְּנַעֲנִי',
+    transliteration: 'kenaani',
+    englishLiteral: 'Canaanite',
+    englishNatural: 'Canaanite',
+    type: 'noun',
+    description: 'gentilic, Canaanite; inhabitant of Canaan',
+    related: ['kenaan'],
+  },
+  gevul: {
+    hebrew: 'גְּבוּל',
+    transliteration: 'gevul',
+    englishLiteral: 'border',
+    englishNatural: 'border',
+    type: 'noun',
+    description: 'border, boundary, territory limit',
+  },
+  gerar: {
+    hebrew: 'גְּרָר',
+    transliteration: 'gerar',
+    englishLiteral: 'Gerar (Gerar)',
+    englishNatural: 'Gerar (Gerar)',
+    type: 'noun',
+    description: 'place name, Gerar; south of Gaza; etymology obscure (opaque)',
+  },
+  azzah: {
+    hebrew: 'עַזָּה',
+    transliteration: 'azzah',
+    englishLiteral: 'Strong (Gaza)',
+    englishNatural: 'Strong (Gaza)',
+    type: 'noun',
+    description: 'place name, Gaza; from azaz "to be strong"',
+    related: ['azaz'],
+  },
+  amorah: {
+    hebrew: 'עֲמֹרָה',
+    transliteration: 'amorah',
+    englishLiteral: 'Gomorrah (Gomorrah)',
+    englishNatural: 'Gomorrah (Gomorrah)',
+    type: 'noun',
+    description:
+      'place name, Gomorrah; city of the plain; etymology obscure (opaque)',
+    related: ['sedom'],
+  },
+  admah: {
+    hebrew: 'אַדְמָה',
+    transliteration: 'admah',
+    englishLiteral: 'Earth (Admah)',
+    englishNatural: 'Earth (Admah)',
+    type: 'noun',
+    description:
+      'place name, Admah; city of the plain; folk link to adamah "earth"',
+    related: ['adamah', 'sedom'],
+  },
+  tsevoyim: {
+    hebrew: 'צְבֹיִם',
+    transliteration: 'tsevoyim',
+    englishLiteral: 'Gazelles (Zeboim)',
+    englishNatural: 'Gazelles (Zeboim)',
+    type: 'noun',
+    description:
+      'place name, Zeboim; city of the plain; folk link to tsevi "gazelle"',
+    related: ['sedom'],
+  },
+  lasha: {
+    hebrew: 'לָשַׁע',
+    transliteration: 'lasha',
+    englishLiteral: 'Lasha (Lasha)',
+    englishNatural: 'Lasha (Lasha)',
+    type: 'noun',
+    description:
+      'place name, Lasha; terminus of Canaanite border; etymology obscure (opaque)',
+  },
+  // Genesis 10:21–32 additions (sons of Shem / Joktan)
+  eber: {
+    hebrew: 'עֵבֶר',
+    transliteration: 'eber',
+    englishLiteral: 'Crossing (Eber)',
+    englishNatural: 'Crossing (Eber)',
+    type: 'noun',
+    description:
+      'proper name, Eber; ancestor of Hebrews; from avar "to pass through/cross"',
+    related: ['avar'],
+  },
+  elam: {
+    hebrew: 'עֵילָם',
+    transliteration: 'elam',
+    englishLiteral: 'Hidden (Elam)',
+    englishNatural: 'Hidden (Elam)',
+    type: 'noun',
+    description:
+      'proper name, Elam, son of Shem; folk link to alam/tsaphan "conceal/hidden"',
+    related: ['tsaphan'],
+  },
+  aram: {
+    hebrew: 'אֲרָם',
+    transliteration: 'aram',
+    englishLiteral: 'High (Aram)',
+    englishNatural: 'High (Aram)',
+    type: 'noun',
+    description: 'proper name, Aram, son of Shem; folk link to rum "high"',
+    related: ['rum'],
+  },
+  lud: {
+    hebrew: 'לוּד',
+    transliteration: 'lud',
+    englishLiteral: 'Lud (Lud)',
+    englishNatural: 'Lud (Lud)',
+    type: 'noun',
+    description:
+      'proper name, Lud, son of Shem; distinct from Ludim of Mizraim; etymology obscure',
+    related: ['ludim'],
+  },
+  arpachshad: {
+    hebrew: 'אַרְפַּכְשַׁד',
+    transliteration: 'arpachshad',
+    englishLiteral: 'Heal_Shaddai (Arpachshad)',
+    englishNatural: 'Heal-Shaddai (Arpachshad)',
+    type: 'noun',
+    description:
+      'proper name, Arpachshad, son of Shem; folk parse rafa + Shaddai (placeholder)',
+  },
+  chul: {
+    hebrew: 'חוּל',
+    transliteration: 'chul',
+    englishLiteral: 'Writhe (Hul)',
+    englishNatural: 'Writhe (Hul)',
+    type: 'noun',
+    description:
+      'proper name, Hul, son of Aram; folk link to chul "to writhe/dance"',
+  },
+  gether: {
+    hebrew: 'גֶתֶר',
+    transliteration: 'gether',
+    englishLiteral: 'Gether (Gether)',
+    englishNatural: 'Gether (Gether)',
+    type: 'noun',
+    description: 'proper name, Gether, son of Aram; etymology obscure (opaque)',
+  },
+  mash_person: {
+    hebrew: 'מַשׁ',
+    transliteration: 'mash',
+    englishLiteral: 'Feel (Mash)',
+    englishNatural: 'Feel (Mash)',
+    type: 'noun',
+    description:
+      'proper name, Mash, son of Aram; folk link to mash "to feel"; distinct from mash verb',
+    related: ['mash'],
+  },
+  shelach: {
+    hebrew: 'שֶׁלַח',
+    transliteration: 'shelach',
+    englishLiteral: 'Sent (Shelah)',
+    englishNatural: 'Sent (Shelah)',
+    type: 'noun',
+    description:
+      'proper name, Shelah, son of Arpachshad; from shalach "to send"',
+    related: ['shalach'],
+  },
+  // Genesis 11:10–26 genealogy additions
+  reu: {
+    hebrew: 'רְעוּ',
+    transliteration: 'reu',
+    englishLiteral: 'Friend (Reu)',
+    englishNatural: 'Friend (Reu)',
+    type: 'noun',
+    description:
+      'proper name, Reu, son of Peleg; folk link to reeh "friend/companion"',
+  },
+  serug: {
+    hebrew: 'שְׂרוּג',
+    transliteration: 'serug',
+    englishLiteral: 'Intertwined (Serug)',
+    englishNatural: 'Intertwined (Serug)',
+    type: 'noun',
+    description:
+      'proper name, Serug, son of Reu; folk link to sarag "to intertwine"',
+  },
+  nachor: {
+    hebrew: 'נָחוֹר',
+    transliteration: 'nachor',
+    englishLiteral: 'Snorting (Nahor)',
+    englishNatural: 'Snorting (Nahor)',
+    type: 'noun',
+    description:
+      'proper name, Nahor (son of Serug / brother of Abram); folk link to nachar "to snort"',
+  },
+  terach: {
+    hebrew: 'תֶּרַח',
+    transliteration: 'terach',
+    englishLiteral: 'Delay (Terah)',
+    englishNatural: 'Delay (Terah)',
+    type: 'noun',
+    description:
+      'proper name, Terah, father of Abram; folk link to delay/wander (placeholder)',
+  },
+  haran: {
+    hebrew: 'הָרָן',
+    transliteration: 'haran',
+    englishLiteral: 'Mountaineer (Haran)',
+    englishNatural: 'Mountaineer (Haran)',
+    type: 'noun',
+    description:
+      'proper name, Haran, son of Terah; folk link to har "mountain"',
+    related: ['har'],
+  },
+  palag: {
+    hebrew: 'פָּלַג',
+    transliteration: 'palag',
+    englishLiteral: 'to divide',
+    englishNatural: 'to divide',
+    type: 'verb',
+    description: 'to divide, split, separate; related to peleg "channel"',
+    related: ['peleg'],
+  },
+  yoqtan: {
+    hebrew: 'יָקְטָן',
+    transliteration: 'yoqtan',
+    englishLiteral: 'Small (Joktan)',
+    englishNatural: 'Small (Joktan)',
+    type: 'noun',
+    description: 'proper name, Joktan, son of Eber; from qatan "small"',
+    related: ['qatan'],
+  },
+  almodad: {
+    hebrew: 'אַלְמוֹדָד',
+    transliteration: 'almodad',
+    englishLiteral: 'Almodad (Almodad)',
+    englishNatural: 'Almodad (Almodad)',
+    type: 'noun',
+    description: 'proper name, Almodad, son of Joktan; etymology obscure (opaque)',
+  },
+  shalef: {
+    hebrew: 'שָׁלֶף',
+    transliteration: 'shalef',
+    englishLiteral: 'Drawn (Sheleph)',
+    englishNatural: 'Drawn (Sheleph)',
+    type: 'noun',
+    description:
+      'proper name, Sheleph, son of Joktan; folk link to shalaf "to draw (a sword)"',
+  },
+  chatsarmavet: {
+    hebrew: 'חֲצַרְמָוֶת',
+    transliteration: 'chatsarmavet',
+    englishLiteral: 'Court_of_Death (Hazarmaveth)',
+    englishNatural: 'Court-of-Death (Hazarmaveth)',
+    type: 'noun',
+    description:
+      'proper name, Hazarmaveth; Hadramaut; from chatser "court" + mavet "death"',
+    related: ['mavet'],
+  },
+  yarach: {
+    hebrew: 'יָרַח',
+    transliteration: 'yarach',
+    englishLiteral: 'Moon_cycle (Jerah)',
+    englishNatural: 'Moon-cycle (Jerah)',
+    type: 'noun',
+    description: 'proper name, Jerah, son of Joktan; from yerach "moon/month"',
+    related: ['yerach'],
+  },
+  hadoram: {
+    hebrew: 'הֲדוֹרָם',
+    transliteration: 'hadoram',
+    englishLiteral: 'Honor (Hadoram)',
+    englishNatural: 'Honor (Hadoram)',
+    type: 'noun',
+    description:
+      'proper name, Hadoram, son of Joktan; folk link to hadar "honor/majesty"',
+    related: ['hadar'],
+  },
+  uzal: {
+    hebrew: 'אוּזָל',
+    transliteration: 'uzal',
+    englishLiteral: 'Uzal (Uzal)',
+    englishNatural: 'Uzal (Uzal)',
+    type: 'noun',
+    description:
+      'proper name, Uzal, son of Joktan; traditionally Sanaa; etymology obscure (opaque)',
+  },
+  diqlah: {
+    hebrew: 'דִּקְלָה',
+    transliteration: 'diqlah',
+    englishLiteral: 'Palm (Diklah)',
+    englishNatural: 'Palm (Diklah)',
+    type: 'noun',
+    description:
+      'proper name, Diklah, son of Joktan; folk link to date-palm',
+  },
+  oval: {
+    hebrew: 'עוֹבָל',
+    transliteration: 'oval',
+    englishLiteral: 'Obal (Obal)',
+    englishNatural: 'Obal (Obal)',
+    type: 'noun',
+    description: 'proper name, Obal, son of Joktan; etymology obscure (opaque)',
+  },
+  avimael: {
+    hebrew: 'אֲבִימָאֵל',
+    transliteration: 'avimael',
+    englishLiteral: 'Father_is_God (Abimael)',
+    englishNatural: 'Father-is-God (Abimael)',
+    type: 'noun',
+    description:
+      'proper name, Abimael, son of Joktan; from av "father" + el "God"',
+    related: ['av', 'eloah'],
+  },
+  ophir: {
+    hebrew: 'אוֹפִר',
+    transliteration: 'ophir',
+    englishLiteral: 'Ophir (Ophir)',
+    englishNatural: 'Ophir (Ophir)',
+    type: 'noun',
+    description:
+      'proper name / land of gold, Ophir, son of Joktan; etymology obscure (opaque)',
+  },
+  yovav: {
+    hebrew: 'יוֹבָב',
+    transliteration: 'yovav',
+    englishLiteral: 'Howler (Jobab)',
+    englishNatural: 'Howler (Jobab)',
+    type: 'noun',
+    description:
+      'proper name, Jobab, son of Joktan; folk link to cry/howl',
+  },
+  mesha: {
+    hebrew: 'מֵשָׁא',
+    transliteration: 'mesha',
+    englishLiteral: 'Freedom (Mesha)',
+    englishNatural: 'Freedom (Mesha)',
+    type: 'noun',
+    description:
+      'place name, Mesha; border of Joktanites; folk link to withdraw/free (placeholder)',
+  },
+  sefar: {
+    hebrew: 'סְפָר',
+    transliteration: 'sefar',
+    englishLiteral: 'Counting (Sephar)',
+    englishNatural: 'Counting (Sephar)',
+    type: 'noun',
+    description:
+      'place name, Sephar; eastern hill of Joktanites; from safar "to count"',
+    related: ['safar'],
   },
   // Genesis 5:8 additions
   esreh: {
@@ -6571,6 +7265,7 @@ const ROOTS = {
     englishNatural: 'to sink',
     type: 'verb',
     description: 'to sink, to let drop, to let hang down, to relax',
+    related: ['riphath'],
   },
   sappir: {
     hebrew: 'ספיר',
@@ -7004,6 +7699,7 @@ const ROOTS = {
     englishNatural: 'to be-strong',
     type: 'verb',
     description: 'to be strong, to prevail, to strengthen',
+    related: ['azzah'],
   },
   mosed: {
     hebrew: 'מוֹסָד',
@@ -7329,7 +8025,7 @@ const ROOTS = {
     englishNatural: 'to count',
     type: 'verb',
     description: 'to count, number, recount; to tell or declare',
-    related: ['sepher'],
+    related: ['sepher', 'sefar'],
   },
   // Genesis 15:6 additions
   tsedaqah: {
@@ -7555,6 +8251,7 @@ const ROOTS = {
     englishNatural: 'Devastation (Sodom)',
     type: 'noun',
     description: 'Sodom; city destroyed by fire',
+    related: ['amorah', 'admah', 'tsevoyim'],
   },
   kedarlaomer: {
     hebrew: 'כדרלעמר',
@@ -8349,6 +9046,7 @@ const ROOTS = {
     englishNatural: 'to feel',
     type: 'verb',
     description: 'to feel, to touch, to grope; to handle by touch',
+    related: ['mash_person'],
   },
   // Exodus 10:22 additions
   afelah: {
@@ -8986,7 +9684,7 @@ const ROOTS = {
     englishNatural: 'to save',
     type: 'verb',
     description: 'to save, deliver, rescue, bring salvation',
-    related: ['yeshuah', 'shua'],
+    related: ['yeshuah', 'shua', 'elishah'],
   },
   lechi: {
     hebrew: 'לְחִי',
@@ -9717,6 +10415,15 @@ const ROOTS = {
     type: 'noun',
     description: 'heap, ruin-heap, rubble mound',
   },
+  // Genesis 10:5 — אִי (island); distinct from iy (עי, heap)
+  i: {
+    hebrew: 'אִי',
+    transliteration: 'i',
+    englishLiteral: 'island',
+    englishNatural: 'island',
+    type: 'noun',
+    description: 'island, coastland, maritime region',
+  },
   matta: {
     hebrew: 'מטע',
     transliteration: 'matta',
@@ -9995,7 +10702,7 @@ const ROOTS = {
     englishNatural: 'to wallow',
     type: 'verb',
     description: 'to wallow or roll (in dust); root of פלשת (Philistia/Wallowers)',
-    related: ['Peleshet'],
+    related: ['Peleshet', 'pelishtim'],
   },
   // --- Micah 1:13 additions ---
   ratam: {

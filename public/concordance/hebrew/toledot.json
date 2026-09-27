@@ -102,6 +102,31 @@
         "englishLiteral": "And-these **birthings-of** sons-of- Rest (Noah):",
         "englishNatural": "And these **are the birthings of** the sons of Rest (Noah):"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "תּוֹלְדֹת",
+        "transliteration": "toledot",
+        "englishLiteral": "birthings-of",
+        "englishNatural": "are the birthings of",
+        "root": "toledot",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֵלֶּה **תּוֹלְדֹת** שֵׁם שֵׁם",
+        "transliteration": "eleh **toledot** Shem Shem",
+        "englishLiteral": "These **birthings-of** Name (Shem); Name (Shem),",
+        "englishNatural": "These **are the birthings of** Name (Shem); Name (Shem),"
+      }
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "root": "togarmah",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 3
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְתֹגַרְמָה",
+        "transliteration": "veTogarmah",
+        "englishLiteral": "and-Bone_all (Togarmah)",
+        "englishNatural": "and Bone-all (Togarmah)",
+        "root": "togarmah",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אַשְׁכְּנַז וְרִיפַת **וְתֹגַרְמָה**",
+        "transliteration": "Ashkenaz veRiphath **veTogarmah**",
+        "englishLiteral": "Fire_scatter (Ashkenaz), and-Sink (Riphath), **and-Bone_all (Togarmah).**",
+        "englishNatural": "Fire-scatter (Ashkenaz), and Sink (Riphath), **and Bone-all (Togarmah).**"
+      }
+    }
+  ]
+}

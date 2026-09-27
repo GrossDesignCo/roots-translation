@@ -1,0 +1,32 @@
+{
+  "key": "yovav",
+  "language": "hebrew",
+  "root": "yovav",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "יוֹבָב",
+        "transliteration": "Yovav",
+        "englishLiteral": "Howler (Jobab)",
+        "englishNatural": "Howler (Jobab)",
+        "root": "yovav",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חֲוִילָה וְאֶת־ **יוֹבָב** כָּל־ אֵלֶּה",
+        "transliteration": "Chavilah veEt- **Yovav** kol- eleh",
+        "englishLiteral": "Strength (Havilah), and-↳ **Howler (Jobab);** all- these",
+        "englishNatural": "Strength (Havilah), and **Howler (Jobab);** all these"
+      }
+    }
+  ]
+}

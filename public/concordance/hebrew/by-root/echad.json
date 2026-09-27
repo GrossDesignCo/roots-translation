@@ -255,6 +255,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "הָאֶחָד",
+        "transliteration": "haEchad",
+        "englishLiteral": "the-one",
+        "englishNatural": "the one",
+        "root": "echad",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "בָנִים שֵׁם **הָאֶחָד** פֶּלֶג כִּי",
+        "transliteration": "banim shem **haEchad** Peleg ki",
+        "englishLiteral": "sons; name-of **the-one** Channel (Peleg), that",
+        "englishNatural": "sons; the name of **the one** Channel (Peleg), that"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 1
       },

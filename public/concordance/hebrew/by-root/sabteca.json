@@ -1,0 +1,31 @@
+{
+  "root": "sabteca",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 7
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "וְסַבְתְּכָא",
+        "transliteration": "veSabteca",
+        "englishLiteral": "and-Striking_you (Sabteca)",
+        "englishNatural": "and Striking-you (Sabteca)",
+        "root": "sabteca",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְסַבְתָּה וְרַעְמָה **וְסַבְתְּכָא** וּבְנֵי רַעְמָה",
+        "transliteration": "veSabtah veRaamah **veSabteca** uBeney Raamah",
+        "englishLiteral": "and-Striking (Sabtah), and-Thunder (Raamah), **and-Striking_you (Sabteca);** and-sons-of Thunder (Raamah):",
+        "englishNatural": "and Striking (Sabtah), and Thunder (Raamah), **and Striking-you (Sabteca);** and the sons of Thunder (Raamah):"
+      }
+    }
+  ]
+}

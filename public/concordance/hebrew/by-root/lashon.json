@@ -4,6 +4,81 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 5
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "לִלְשֹׁנוֹ",
+        "transliteration": "liLeshono",
+        "englishLiteral": "to-tongue-his",
+        "englishNatural": "to his tongue",
+        "root": "lashon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְּאַרְצֹתָם אִישׁ **לִלְשֹׁנוֹ** לְמִשְׁפְּחֹתָם בְּגוֹיֵהֶם",
+        "transliteration": "beArtzotam ish **liLeshono** leMishpechotam beGoyeihem",
+        "englishLiteral": "in-lands-their; man **to-tongue-his,** to-families-their, in-nations-their.",
+        "englishNatural": "in their lands; a man **to his tongue,** to their families, in their nations."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 20
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לִלְשֹׁנֹתָם",
+        "transliteration": "liLeshonotam",
+        "englishLiteral": "to-tongues-their",
+        "englishNatural": "to their tongues",
+        "root": "lashon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "חָם לְמִשְׁפְּחֹתָם **לִלְשֹׁנֹתָם** בְּאַרְצֹתָם בְּגוֹיֵהֶם",
+        "transliteration": "Cham leMishpechotam **liLeshonotam** beArtzotam beGoyeihem",
+        "englishLiteral": "Hot (Ham), to-families-their, **to-tongues-their,** in-lands-their, in-nations-their.",
+        "englishNatural": "Hot (Ham), to their families, **to their tongues,** in their lands, in their nations."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 31
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "לִלְשֹׁנֹתָם",
+        "transliteration": "liLeshonotam",
+        "englishLiteral": "to-tongues-their",
+        "englishNatural": "to their tongues",
+        "root": "lashon",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם לְמִשְׁפְּחֹתָם **לִלְשֹׁנֹתָם** בְּאַרְצֹתָם לְגוֹיֵהֶם",
+        "transliteration": "Shem leMishpechotam **liLeshonotam** beArtzotam leGoyeihem",
+        "englishLiteral": "Name (Shem), to-families-their, **to-tongues-their,** in-lands-their, to-nations-their.",
+        "englishNatural": "Name (Shem), to their families, **to their tongues,** in their lands, to their nations."
+      }
+    },
+    {
+      "location": {
         "book": "Exodus",
         "chapter": 11,
         "verse": 7

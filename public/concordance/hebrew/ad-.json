@@ -131,6 +131,56 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "עַד־",
+        "transliteration": "ad-",
+        "englishLiteral": "until-",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "בֹּאֲכָה גְרָרָה **עַד־** עַזָּה בֹּאֲכָה",
+        "transliteration": "boakhah Gerarah **ad-** Azzah boakhah",
+        "englishLiteral": "coming-you toward-Gerar (Gerar) **until-** Strong (Gaza); coming-you",
+        "englishNatural": "as you come toward Gerar (Gerar) **until** Strong (Gaza); as you come"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 19
+      },
+      "wordIndex": 13,
+      "sourceOrder": 13,
+      "word": {
+        "originalScript": "עַד־",
+        "transliteration": "ad-",
+        "englishLiteral": "until-",
+        "englishNatural": "until",
+        "root": "ad",
+        "morphology": {
+          "type": "preposition"
+        }
+      },
+      "context": {
+        "hebrew": "וְאַדְמָה וּצְבֹיִם **עַד־** לָשַׁע",
+        "transliteration": "veAdmah uTsevoyim **ad-** Lasha",
+        "englishLiteral": "and-Earth (Admah), and-Gazelles (Zeboim) **until-** Lasha (Lasha).",
+        "englishNatural": "and Earth (Admah), and Gazelles (Zeboim) **until** Lasha (Lasha)."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 16
       },

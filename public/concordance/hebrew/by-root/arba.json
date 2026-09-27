@@ -55,6 +55,106 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 11,
+        "verse": 13
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וְאַרְבַּע",
+        "transliteration": "veArba",
+        "englishLiteral": "and-four",
+        "englishNatural": "and four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁלֹשׁ שָׁנִים **וְאַרְבַּע** מֵאוֹת שָׁנָה",
+        "transliteration": "shalosh shanim **veArba** meot shanah",
+        "englishLiteral": "three years **and-four** hundreds year,",
+        "englishNatural": "three years **and four** hundred years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 15
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וְאַרְבַּע",
+        "transliteration": "veArba",
+        "englishLiteral": "and-four",
+        "englishNatural": "and four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שָׁלֹשׁ שָׁנִים **וְאַרְבַּע** מֵאוֹת שָׁנָה",
+        "transliteration": "shalosh shanim **veArba** meot shanah",
+        "englishLiteral": "three years **and-four** hundreds year,",
+        "englishNatural": "three years **and four** hundred years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 16
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "אַרְבַּע",
+        "transliteration": "arba",
+        "englishLiteral": "four",
+        "englishNatural": "four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי־ עֵבֶר **אַרְבַּע** וּשְׁלֹשִׁים שָׁנָה",
+        "transliteration": "vaYechi- Eber **arba** uShloshim shanah",
+        "englishLiteral": "and-lived Crossing (Eber) **four** and-thirty year,",
+        "englishNatural": "And Crossing (Eber) lived **four** and thirty years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 17
+      },
+      "wordIndex": 8,
+      "sourceOrder": 8,
+      "word": {
+        "originalScript": "וְאַרְבַּע",
+        "transliteration": "veArba",
+        "englishLiteral": "and-four",
+        "englishNatural": "and four",
+        "root": "arba",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "שְׁלֹשִׁים שָׁנָה **וְאַרְבַּע** מֵאוֹת שָׁנָה",
+        "transliteration": "shloshim shanah **veArba** meot shanah",
+        "englishLiteral": "thirty year **and-four** hundreds year,",
+        "englishNatural": "thirty years **and four** hundred years,"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 13
       },

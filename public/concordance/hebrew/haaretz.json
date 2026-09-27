@@ -1556,6 +1556,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הָאָרֶץ",
+        "transliteration": "haAretz",
+        "englishLiteral": "the-land",
+        "englishNatural": "the land",
+        "root": "eretz",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "בְיָמָיו נִפְלְגָה **הָאָרֶץ** וְשֵׁם אָחִיו",
+        "transliteration": "beYamav niphlagah **haAretz** veShem achiv",
+        "englishLiteral": "in-days-his has-been-divided **the-land;** and-name-of brother-his",
+        "englishNatural": "that in his days **the land** has been divided; and the name of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 11,
         "verse": 1
       },

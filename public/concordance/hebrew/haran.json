@@ -1,0 +1,32 @@
+{
+  "key": "haran",
+  "language": "hebrew",
+  "root": "haran",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 26
+      },
+      "wordIndex": 10,
+      "sourceOrder": 10,
+      "word": {
+        "originalScript": "הָרָן",
+        "transliteration": "Haran",
+        "englishLiteral": "Mountaineer (Haran)",
+        "englishNatural": "Mountaineer (Haran)",
+        "root": "haran",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "נָחוֹר וְאֶת־ **הָרָן**",
+        "transliteration": "Nachor veEt- **Haran**",
+        "englishLiteral": "Snorting (Nahor) and-↳ **Mountaineer (Haran).**",
+        "englishNatural": "Snorting (Nahor), and **Mountaineer (Haran).**"
+      }
+    }
+  ]
+}

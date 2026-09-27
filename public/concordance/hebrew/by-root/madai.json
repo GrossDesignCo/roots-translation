@@ -1,0 +1,31 @@
+{
+  "root": "madai",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 2
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וּמָדַי",
+        "transliteration": "uMadai",
+        "englishLiteral": "and-Measure (Madai)",
+        "englishNatural": "and Measure (Madai)",
+        "root": "madai",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "גֹּמֶר וּמָגוֹג **וּמָדַי** וְיָוָן וְתֻבָל",
+        "transliteration": "Gomer uMagog **uMadai** veYavan veTuval",
+        "englishLiteral": "Complete (Gomer), and-From_Gog (Magog), **and-Measure (Madai),** and-Mire (Javan), and-World (Tubal),",
+        "englishNatural": "Complete (Gomer), and From-Gog (Magog), **and Measure (Madai),** and Mire (Javan), and World (Tubal),"
+      }
+    }
+  ]
+}

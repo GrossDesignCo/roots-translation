@@ -1,0 +1,31 @@
+{
+  "root": "arvadi",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 18
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "הָאַרְוָדִי",
+        "transliteration": "haArvadi",
+        "englishLiteral": "the-Arvadite",
+        "englishNatural": "the Arvadite",
+        "root": "arvadi",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וְאֶת־ **הָאַרְוָדִי** וְאֶת־ הַצְּמָרִי",
+        "transliteration": "veEt- **haArvadi** veEt- haTsemari",
+        "englishLiteral": "and-↳ **the-Arvadite,** and-↳ the-Zemarite,",
+        "englishNatural": "and **the Arvadite,** and the Zemarite,"
+      }
+    }
+  ]
+}

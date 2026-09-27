@@ -4,6 +4,131 @@
   "occurrences": [
     {
       "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 25
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "פֶּלֶג",
+        "transliteration": "Peleg",
+        "englishLiteral": "Channel (Peleg)",
+        "englishNatural": "Channel (Peleg)",
+        "root": "peleg",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "שֵׁם הָאֶחָד **פֶּלֶג** כִּי בְיָמָיו",
+        "transliteration": "shem haEchad **Peleg** ki beYamav",
+        "englishLiteral": "name-of the-one **Channel (Peleg),** that in-days-his",
+        "englishNatural": "the name of the one **Channel (Peleg),** that in his days"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 16
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "פֶּלֶג",
+        "transliteration": "Peleg",
+        "englishLiteral": "Channel (Peleg)",
+        "englishNatural": "Channel (Peleg)",
+        "root": "peleg",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיּוֹלֶד אֶת־ **פֶּלֶג**",
+        "transliteration": "vaYoled et- **Peleg**",
+        "englishLiteral": "and-he-birthed ↳ **Channel (Peleg).**",
+        "englishNatural": "and birthed ↳ **Channel (Peleg).**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 17
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "פֶּלֶג",
+        "transliteration": "Peleg",
+        "englishLiteral": "Channel (Peleg)",
+        "englishNatural": "Channel (Peleg)",
+        "root": "peleg",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוֹלִידוֹ אֶת־ **פֶּלֶג** שְׁלֹשִׁים שָׁנָה",
+        "transliteration": "holido et- **Peleg** shloshim shanah",
+        "englishLiteral": "his-begetting ↳ **Channel (Peleg),** thirty year",
+        "englishNatural": "he begot ↳ **Channel (Peleg),** thirty years"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 18
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "פֶלֶג",
+        "transliteration": "Peleg",
+        "englishLiteral": "Channel (Peleg)",
+        "englishNatural": "And Channel (Peleg)",
+        "root": "peleg",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי־ **פֶלֶג** שְׁלֹשִׁים שָׁנָה",
+        "transliteration": "vaYechi- **Peleg** shloshim shanah",
+        "englishLiteral": "and-lived **Channel (Peleg)** thirty year,",
+        "englishNatural": "**And Channel (Peleg)** lived thirty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 19
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "פֶלֶג",
+        "transliteration": "Peleg",
+        "englishLiteral": "Channel (Peleg)",
+        "englishNatural": "And Channel (Peleg)",
+        "root": "peleg",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי־ **פֶלֶג** אַחֲרֵי הוֹלִידוֹ",
+        "transliteration": "vaYechi- **Peleg** acharey holido",
+        "englishLiteral": "and-lived- **Channel (Peleg)** after his-begetting",
+        "englishNatural": "**And Channel (Peleg)** lived after"
+      }
+    },
+    {
+      "location": {
         "book": "Psalms",
         "chapter": 1,
         "verse": 3

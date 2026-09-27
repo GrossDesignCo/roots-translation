@@ -1,0 +1,32 @@
+{
+  "key": "haqedem",
+  "language": "hebrew",
+  "root": "qedem",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 30
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "הַקֶּדֶם",
+        "transliteration": "haQedem",
+        "englishLiteral": "the-east",
+        "englishNatural": "the east",
+        "root": "qedem",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "סְפָרָה הַר **הַקֶּדֶם**",
+        "transliteration": "Sefarah har **haQedem**",
+        "englishLiteral": "toward-Counting (Sephar), mountain-of **the-east.**",
+        "englishNatural": "toward Counting (Sephar), the mountain of **the east.**"
+      }
+    }
+  ]
+}

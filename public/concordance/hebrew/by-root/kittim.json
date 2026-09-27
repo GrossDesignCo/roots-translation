@@ -1,0 +1,31 @@
+{
+  "root": "kittim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 4
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "כִּתִּים",
+        "transliteration": "Kittim",
+        "englishLiteral": "Bruisers (Kittim)",
+        "englishNatural": "Bruisers (Kittim)",
+        "root": "kittim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֱלִישָׁה וְתַרְשִׁישׁ **כִּתִּים** וְדֹדָנִים",
+        "transliteration": "Elishah veTarshish **Kittim** veDodanim",
+        "englishLiteral": "God_helps (Elishah), and-golden_stone (Tarshish); **Bruisers (Kittim),** and-Beloveds (Dodanim).",
+        "englishNatural": "God-helps (Elishah), and golden-stone (Tarshish); **Bruisers (Kittim),** and Beloveds (Dodanim)."
+      }
+    }
+  ]
+}

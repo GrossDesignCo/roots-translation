@@ -1,0 +1,156 @@
+{
+  "root": "shelach",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 24
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "שָׁלַח",
+        "transliteration": "Shelach",
+        "englishLiteral": "Sent (Shelah)",
+        "englishNatural": "Sent (Shelah)",
+        "root": "shelach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָלַד אֶת־ **שָׁלַח** וְשֶׁלַח יָלַד",
+        "transliteration": "yalad et- **Shelach** veShelach yalad",
+        "englishLiteral": "he-birthed ↳ **Sent (Shelah);** and-Sent (Shelah) he-birthed",
+        "englishNatural": "birthed ↳ **Sent (Shelah);** and Sent (Shelah) birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 24
+      },
+      "wordIndex": 4,
+      "sourceOrder": 4,
+      "word": {
+        "originalScript": "וְשֶׁלַח",
+        "transliteration": "veShelach",
+        "englishLiteral": "and-Sent (Shelah)",
+        "englishNatural": "and Sent (Shelah)",
+        "root": "shelach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ שָׁלַח **וְשֶׁלַח** יָלַד אֶת־",
+        "transliteration": "et- Shelach **veShelach** yalad et-",
+        "englishLiteral": "↳ Sent (Shelah); **and-Sent (Shelah)** he-birthed ↳",
+        "englishNatural": "↳ Sent (Shelah); **and Sent (Shelah)** birthed ↳"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 12
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "שָׁלַח",
+        "transliteration": "Shelach",
+        "englishLiteral": "Sent (Shelah)",
+        "englishNatural": "Sent (Shelah)",
+        "root": "shelach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיּוֹלֶד אֶת־ **שָׁלַח**",
+        "transliteration": "vaYoled et- **Shelach**",
+        "englishLiteral": "and-he-birthed ↳ **Sent (Shelah).**",
+        "englishNatural": "and birthed ↳ **Sent (Shelah).**"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 13
+      },
+      "wordIndex": 5,
+      "sourceOrder": 5,
+      "word": {
+        "originalScript": "שֶׁלַח",
+        "transliteration": "Shelach",
+        "englishLiteral": "Sent (Shelah)",
+        "englishNatural": "Sent (Shelah)",
+        "root": "shelach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "הוֹלִידוֹ אֶת־ **שֶׁלַח** שָׁלֹשׁ שָׁנִים",
+        "transliteration": "holido et- **Shelach** shalosh shanim",
+        "englishLiteral": "his-birthing ↳ **Sent (Shelah),** three years",
+        "englishNatural": "he birthed ↳ **Sent (Shelah),** three years"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 14
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "וְשֶׁלַח",
+        "transliteration": "veShelach",
+        "englishLiteral": "And-Sent (Shelah)",
+        "englishNatural": "And Sent (Shelah)",
+        "root": "shelach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "**וְשֶׁלַח** חַי שְׁלֹשִׁים",
+        "transliteration": "**veShelach** chai shloshim",
+        "englishLiteral": "**And-Sent (Shelah)** he-lived thirty",
+        "englishNatural": "**And Sent (Shelah)** lived thirty"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 15
+      },
+      "wordIndex": 1,
+      "sourceOrder": 1,
+      "word": {
+        "originalScript": "שֶׁלַח",
+        "transliteration": "Shelach",
+        "englishLiteral": "Sent (Shelah)",
+        "englishNatural": "And Sent (Shelah)",
+        "root": "shelach",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי־ **שֶׁלַח** אַחֲרֵי הוֹלִידוֹ",
+        "transliteration": "vaYechi- **Shelach** acharey holido",
+        "englishLiteral": "and-lived **Sent (Shelah)** after his-begetting",
+        "englishNatural": "**And Sent (Shelah)** lived after"
+      }
+    }
+  ]
+}

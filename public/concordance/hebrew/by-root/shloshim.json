@@ -101,6 +101,181 @@
         "englishLiteral": "cubit breadth-her, **and-thirty** cubit height-her.",
         "englishNatural": "cubits its breadth, **and thirty** cubits its height."
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 12
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וּשְׁלֹשִׁים",
+        "transliteration": "uShloshim",
+        "englishLiteral": "and-thirty",
+        "englishNatural": "and thirty",
+        "root": "shloshim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "חַי חָמֵשׁ **וּשְׁלֹשִׁים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "chai chamesh **uShloshim** shanah vaYoled",
+        "englishLiteral": "he-lived five **and-thirty** year, and-he-birthed",
+        "englishNatural": "lived five **and thirty** years, and birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 14
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שְׁלֹשִׁים",
+        "transliteration": "shloshim",
+        "englishLiteral": "thirty",
+        "englishNatural": "thirty",
+        "root": "shloshim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וְשֶׁלַח חַי **שְׁלֹשִׁים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "veShelach chai **shloshim** shanah vaYoled",
+        "englishLiteral": "And-Sent (Shelah) he-lived **thirty** year, and-he-birthed",
+        "englishNatural": "And Sent (Shelah) lived **thirty** years, and birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 16
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וּשְׁלֹשִׁים",
+        "transliteration": "uShloshim",
+        "englishLiteral": "and-thirty",
+        "englishNatural": "and thirty",
+        "root": "shloshim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "עֵבֶר אַרְבַּע **וּשְׁלֹשִׁים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "Eber arba **uShloshim** shanah vaYoled",
+        "englishLiteral": "Crossing (Eber) four **and-thirty** year, and-he-birthed",
+        "englishNatural": "lived four **and thirty** years, and birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 17
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "שְׁלֹשִׁים",
+        "transliteration": "shloshim",
+        "englishLiteral": "thirty",
+        "englishNatural": "thirty",
+        "root": "shloshim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ פֶּלֶג **שְׁלֹשִׁים** שָׁנָה וְאַרְבַּע",
+        "transliteration": "et- Peleg **shloshim** shanah veArba",
+        "englishLiteral": "↳ Channel (Peleg), **thirty** year and-four",
+        "englishNatural": "↳ Channel (Peleg), **thirty** years and four"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 18
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שְׁלֹשִׁים",
+        "transliteration": "shloshim",
+        "englishLiteral": "thirty",
+        "englishNatural": "thirty",
+        "root": "shloshim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי־ פֶלֶג **שְׁלֹשִׁים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "vaYechi- Peleg **shloshim** shanah vaYoled",
+        "englishLiteral": "and-lived Channel (Peleg) **thirty** year, and-he-birthed",
+        "englishNatural": "And Channel (Peleg) lived **thirty** years, and birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 20
+      },
+      "wordIndex": 3,
+      "sourceOrder": 3,
+      "word": {
+        "originalScript": "וּשְׁלֹשִׁים",
+        "transliteration": "uShloshim",
+        "englishLiteral": "and-thirty",
+        "englishNatural": "and thirty",
+        "root": "shloshim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "רְעוּ שְׁתַּיִם **וּשְׁלֹשִׁים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "Reu shtayim **uShloshim** shanah vaYoled",
+        "englishLiteral": "Friend (Reu) two **and-thirty** year, and-he-birthed",
+        "englishNatural": "lived two **and thirty** years, and birthed"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 22
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "שְׁלֹשִׁים",
+        "transliteration": "shloshim",
+        "englishLiteral": "thirty",
+        "englishNatural": "thirty",
+        "root": "shloshim",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי שְׂרוּג **שְׁלֹשִׁים** שָׁנָה וַיּוֹלֶד",
+        "transliteration": "vaYechi Serug **shloshim** shanah vaYoled",
+        "englishLiteral": "and-lived Intertwined (Serug) **thirty** year, and-he-birthed",
+        "englishNatural": "And Intertwined (Serug) lived **thirty** years, and birthed"
+      }
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "root": "pelishtim",
+  "language": "hebrew",
+  "occurrences": [
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 14
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "פְּלִשְׁתִּים",
+        "transliteration": "Pelishtim",
+        "englishLiteral": "Wallowers (Philistines)",
+        "englishNatural": "Wallowers (Philistines)",
+        "root": "pelishtim",
+        "morphology": {
+          "type": "noun"
+        }
+      },
+      "context": {
+        "hebrew": "יָצְאוּ מִשָּׁם **פְּלִשְׁתִּים** וְאֶת־ כַּפְתֹּרִים",
+        "transliteration": "yatsau miSham **Pelishtim** veEt- Kaphtorim",
+        "englishLiteral": "they-have-brought_out from-there **Wallowers (Philistines),** and-↳ Palm_knobs (Caphtorim).",
+        "englishNatural": "they have brought-out from there **Wallowers (Philistines),** and Palm-knobs (Caphtorim)."
+      }
+    }
+  ]
+}

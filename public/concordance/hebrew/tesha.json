@@ -77,6 +77,56 @@
         "englishLiteral": "days-of- Rest (Noah) **nine** hundreds year",
         "englishNatural": "Rest (Noah) were **nine** hundred years"
       }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 19
+      },
+      "wordIndex": 6,
+      "sourceOrder": 6,
+      "word": {
+        "originalScript": "תֵּשַׁע",
+        "transliteration": "tesha",
+        "englishLiteral": "nine",
+        "englishNatural": "nine",
+        "root": "tesha",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "אֶת־ רְעוּ **תֵּשַׁע** שָׁנִים וּמָאתַיִם",
+        "transliteration": "et- Reu **tesha** shanim uMatayim",
+        "englishLiteral": "↳ Friend (Reu), **nine** years and-two-hundred",
+        "englishNatural": "↳ Friend (Reu), **nine** years and two hundred"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 24
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "תֵּשַׁע",
+        "transliteration": "tesha",
+        "englishLiteral": "nine",
+        "englishNatural": "nine",
+        "root": "tesha",
+        "morphology": {
+          "type": "numeral"
+        }
+      },
+      "context": {
+        "hebrew": "וַיְחִי נָחוֹר **תֵּשַׁע** וְעֶשְׂרִים שָׁנָה",
+        "transliteration": "vaYechi Nachor **tesha** veEsrim shanah",
+        "englishLiteral": "and-lived Snorting (Nahor) **nine** and-twenty year,",
+        "englishNatural": "And Snorting (Nahor) lived **nine** and twenty years,"
+      }
     }
   ]
 }

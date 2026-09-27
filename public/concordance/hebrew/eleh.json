@@ -81,6 +81,131 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 20
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "אֵלֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "These",
+        "englishNatural": "These",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**אֵלֶּה** בְנֵי־ חָם",
+        "transliteration": "**eleh** benei- Cham",
+        "englishLiteral": "**These** sons-of- Hot (Ham),",
+        "englishNatural": "**These** are the sons of Hot (Ham),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 29
+      },
+      "wordIndex": 7,
+      "sourceOrder": 7,
+      "word": {
+        "originalScript": "אֵלֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "these",
+        "englishNatural": "these",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "יוֹבָב כָּל־ **אֵלֶּה** בְּנֵי יָקְטָן",
+        "transliteration": "Yovav kol- **eleh** benei Yoqtan",
+        "englishLiteral": "Howler (Jobab); all- **these** sons-of Small (Joktan).",
+        "englishNatural": "Howler (Jobab); all **these** are the sons of Small (Joktan)."
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 31
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "אֵלֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "These",
+        "englishNatural": "These",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**אֵלֶּה** בְנֵי־ שֵׁם",
+        "transliteration": "**eleh** benei- Shem",
+        "englishLiteral": "**These** sons-of- Name (Shem),",
+        "englishNatural": "**These** are the sons of Name (Shem),"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 10,
+        "verse": 32
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "אֵלֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "These",
+        "englishNatural": "These",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**אֵלֶּה** מִשְׁפְּחֹת בְּנֵי־",
+        "transliteration": "**eleh** mishpechot benei-",
+        "englishLiteral": "**These** families-of sons-of-",
+        "englishNatural": "**These** are the families of the sons of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
+        "chapter": 11,
+        "verse": 10
+      },
+      "wordIndex": 0,
+      "sourceOrder": 0,
+      "word": {
+        "originalScript": "אֵלֶּה",
+        "transliteration": "eleh",
+        "englishLiteral": "These",
+        "englishNatural": "These",
+        "root": "eleh",
+        "morphology": {
+          "type": "pronoun"
+        }
+      },
+      "context": {
+        "hebrew": "**אֵלֶּה** תּוֹלְדֹת שֵׁם",
+        "transliteration": "**eleh** toledot Shem",
+        "englishLiteral": "**These** birthings-of Name (Shem);",
+        "englishNatural": "**These** are the birthings of Name (Shem);"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 10
       },

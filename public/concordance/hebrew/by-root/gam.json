@@ -180,6 +180,31 @@
     {
       "location": {
         "book": "Genesis",
+        "chapter": 10,
+        "verse": 21
+      },
+      "wordIndex": 2,
+      "sourceOrder": 2,
+      "word": {
+        "originalScript": "גַּם־",
+        "transliteration": "gam-",
+        "englishLiteral": "also-",
+        "englishNatural": "also",
+        "root": "gam",
+        "morphology": {
+          "type": "adverb"
+        }
+      },
+      "context": {
+        "hebrew": "וּלְשֵׁם יֻלַּד **גַּם־** הוּא אֲבִי",
+        "transliteration": "uleShem yulad **gam-** hu avi",
+        "englishLiteral": "And-to-Name (Shem) was-birthed **also-** he, father-of",
+        "englishNatural": "And to Name (Shem) was birthed **also** he, father of"
+      }
+    },
+    {
+      "location": {
+        "book": "Genesis",
         "chapter": 15,
         "verse": 14
       },
