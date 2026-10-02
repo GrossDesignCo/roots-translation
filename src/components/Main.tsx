@@ -4,14 +4,14 @@ import { ScriptureReader } from './scripture/ScriptureReader';
 import styles from './Main.module.css';
 import { useMediaBreakpoints } from '@/hooks/useMediaBreakpoints';
 import { useSelection } from '@/context/SelectionContext';
-import { useViewPanels } from '@/context/ViewPanelsContext';
+import { SecondaryPanelKey, useViewPanels } from '@/context/ViewPanelsContext';
 import LexiconEntryReader from './lexicon/LexiconEntryReader';
-import { Button, Sheet } from '@/design-system';
+import { Button } from '@/design-system';
 import { formatWord } from '@/utils/formatWord';
 import { sortWords } from '@/utils/sortWords';
 import Settings from './Settings';
 import { LanguageKey } from '@/types';
-import { useEffect } from 'react';
+import { useEffect, ViewTransition } from 'react';
 import { X } from '@phosphor-icons/react';
 import { ScriptureNav } from './scripture/nav';
 
@@ -27,96 +27,93 @@ export const Main = () => {
   const { selectedWords } = useSelection();
   const { secondaryPanel, setSecondaryPanel } = useViewPanels();
 
-  const possibleTitles = {
+  const titles: Record<SecondaryPanelKey, string> = {
     settings: 'Settings',
     lexicon:
       selectedWords.length > 0
         ? languages
-            .map((language) => {
-              const sortedWords = sortWords(selectedWords, language);
-
-              return sortedWords
-                .map((word) => {
-                  const { formattedWordText } = formatWord(word, language);
-                  return formattedWordText;
-                })
-                .join(' ');
-            })
+            .map((language) =>
+              sortWords(selectedWords, language)
+                .map((word) => formatWord(word, language).formattedWordText)
+                .join(' '),
+            )
             .join(' → ')
         : 'Lexicon',
     scriptureNav: 'Navigate',
   };
-
-  // @ts-expect-error - ts doesn't see that null won't be made a key here
-  const secondaryPanelTitle = possibleTitles[secondaryPanel || ''];
-
-  const secondaryPanelContent = (
-    <>
-      {secondaryPanel === 'lexicon' && <LexiconEntryReader />}
-      {secondaryPanel === 'settings' && <Settings />}
-      {secondaryPanel === 'scriptureNav' && (
-        <ScriptureNav
-          onChapterChange={isDesktop ? () => {} : () => setSecondaryPanel(null)}
-        />
-      )}
-    </>
-  );
-
   useEffect(() => {
-    const minWidths = {
-      settings: '40ch',
-      lexicon: 'min(50vw, 80ch)',
-      scriptureNav: '40ch',
+    if (!secondaryPanel) return;
+
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === 'Escape') setSecondaryPanel(null);
     };
 
-    // @ts-expect-error - ts doesn't see that null won't be made a key here
-    const minWidth = minWidths[secondaryPanel || ''] || '0';
-    const body = document.querySelector('body');
-
-    body?.style.setProperty('--main-secondary-panel-width', minWidth);
-  }, [secondaryPanel, isDesktop]);
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [secondaryPanel, setSecondaryPanel]);
 
   return (
-    <>
-      <main className={styles.main}>
-        {/* Fades scrolling text under the status bar / notch (does not inset or clip content) */}
-        <div className={styles.safeAreaTopFade} aria-hidden />
-        <div className={styles.primaryPanel}>
-          <ScriptureReader />
+    <main className={styles.main}>
+      {/* Fades scrolling text under the status bar / notch (does not inset or clip content) */}
+      <div className={styles.safeAreaTopFade} aria-hidden />
+      <div className={styles.primaryPanel}>
+        <ScriptureReader />
 
-          <Header />
-        </div>
+        <Header />
+      </div>
 
-        {/* On mobile by default, just render the secondary panel items as sheets */}
-        {isDesktop ? (
-          <div className={styles.secondaryPanel}>
-            <h2 className={styles.secondaryPanelTitle}>
-              <span className={styles.secondaryPanelTitleText}>
-                {secondaryPanelTitle}
-              </span>
+      <aside
+        className={styles.secondaryPanel}
+        data-panel={secondaryPanel ?? undefined}
+        aria-label={secondaryPanel ? titles[secondaryPanel] : undefined}
+      >
+        {secondaryPanel && (
+          <ViewTransition default="none" enter="panel-in" exit="panel-out">
+            <div className={styles.panelFrame}>
               <Button
                 variant="ghost"
                 size="sm"
+                aria-label="Close panel"
+                className={styles.closeButton}
                 onClick={() => setSecondaryPanel(null)}
               >
                 <X size={16} weight="regular" />
               </Button>
-            </h2>
-            {secondaryPanelContent}
-          </div>
-        ) : (
-          <Sheet
-            open={Boolean(secondaryPanel)}
-            onOpenChange={(open) => {
-              if (!open) setSecondaryPanel(null);
-            }}
-            title={secondaryPanelTitle}
-            expanded
-          >
-            {secondaryPanelContent}
-          </Sheet>
+
+              <ViewTransition
+                key={secondaryPanel}
+                default="none"
+                enter={{
+                  'panel-forward': 'view-from-end',
+                  'panel-back': 'view-from-start',
+                  default: 'none',
+                }}
+                exit={{
+                  'panel-forward': 'view-to-start',
+                  'panel-back': 'view-to-end',
+                  'panel-widen': 'view-ride-widen',
+                  'panel-narrow': 'view-ride-narrow',
+                  default: 'none',
+                }}
+              >
+                <div className={styles.view} data-panel={secondaryPanel}>
+                  <h2 className={styles.title}>{titles[secondaryPanel]}</h2>
+
+                  {secondaryPanel === 'lexicon' && <LexiconEntryReader />}
+                  {secondaryPanel === 'settings' && <Settings />}
+                  {secondaryPanel === 'scriptureNav' && (
+                    <ScriptureNav
+                      onChapterChange={
+                        isDesktop ? () => {} : () => setSecondaryPanel(null)
+                      }
+                    />
+                  )}
+                </div>
+              </ViewTransition>
+            </div>
+          </ViewTransition>
         )}
-      </main>
-    </>
+      </aside>
+    </main>
   );
 };

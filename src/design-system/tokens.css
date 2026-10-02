@@ -39,6 +39,15 @@
   --ds-radius-2xl: 1rem;
   --ds-radius-full: 9999px;
 
+  /* Base Scale - Motion: duration grows with the size of what moves */
+  --ds-motion-ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ds-motion-duration-sm: 120ms; /* controls */
+  --ds-motion-duration-md-exit: 600ms; /* content within a panel */
+  --ds-motion-duration-md-enter: 750ms;
+  --ds-motion-duration-lg-exit: 800ms; /* whole panels */
+  --ds-motion-duration-lg-enter: 1000ms;
+  --ds-motion-stagger: 150ms;
+
   /* Semantic Tokens - Typography */
   --ds-font-family-sans-serif:
     'Google Sans Hebrew', var(--font-noto-sans), 'Noto Sans', sans-serif;
@@ -149,100 +158,4 @@
   /* Since color is usually inherited rather than explicitly set,
   ensure we reset it whenever the given theme is different than the ancestor theme */
   color: var(--ds-fg-default);
-}
-
-/* Indexes for animation delays, allows items within the list to delay intro animations in sequence */
-li {
-  --index: 0;
-}
-
-li:nth-child(1) {
-  --index: 1;
-}
-li:nth-child(2) {
-  --index: 2;
-}
-li:nth-child(3) {
-  --index: 3;
-}
-li:nth-child(4) {
-  --index: 4;
-}
-li:nth-child(5) {
-  --index: 5;
-}
-li:nth-child(6) {
-  --index: 6;
-}
-li:nth-child(7) {
-  --index: 7;
-}
-li:nth-child(8) {
-  --index: 8;
-}
-li:nth-child(9) {
-  --index: 9;
-}
-li:nth-child(10) {
-  --index: 10;
-}
-li:nth-child(11) {
-  --index: 11;
-}
-li:nth-child(12) {
-  --index: 12;
-}
-li:nth-child(13) {
-  --index: 13;
-}
-li:nth-child(14) {
-  --index: 14;
-}
-li:nth-child(15) {
-  --index: 15;
-}
-li:nth-child(16) {
-  --index: 16;
-}
-li:nth-child(17) {
-  --index: 17;
-}
-li:nth-child(18) {
-  --index: 18;
-}
-li:nth-child(19) {
-  --index: 19;
-}
-li:nth-child(20) {
-  --index: 20;
-}
-li:nth-child(21) {
-  --index: 21;
-}
-li:nth-child(22) {
-  --index: 22;
-}
-li:nth-child(23) {
-  --index: 23;
-}
-li:nth-child(24) {
-  --index: 24;
-}
-li:nth-child(25) {
-  --index: 25;
-}
-li:nth-child(26) {
-  --index: 26;
-}
-li:nth-child(27) {
-  --index: 27;
-}
-li:nth-child(28) {
-  --index: 28;
-}
-li:nth-child(29) {
-  --index: 29;
-}
-li:nth-child(30) {
-  --index: 30;
 }

@@ -13,41 +13,14 @@
   color: var(--ds-bg-default);
   border: 1px solid transparent;
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition-property: background-color, border-color, color, outline-color,
+    scale;
+  transition-duration: var(--ds-motion-duration-sm);
+  transition-timing-function: var(--ds-motion-ease-out);
   min-height: 2rem;
   min-width: 2rem;
   outline: 2px solid transparent;
   outline-offset: 2px;
-  transform: scale(0);
-  animation: scale-in 0.33s ease forwards;
-}
-
-@keyframes scale-in {
-  from {
-    transform: scale(0);
-  }
-  to {
-    transform: scale(1);
-  }
-}
-
-.ds-button-intro-down {
-  transform: scale(0) translateY(-33%);
-  transform-origin: top center;
-  animation: scale-in-down 0.33s ease forwards;
-}
-
-@keyframes scale-in-down {
-  from {
-    transform: scale(0) translateY(-33%);
-  }
-  to {
-    transform: scale(1) translateY(0);
-  }
-}
-
-li > .ds-button {
-  animation-delay: calc(var(--index) * 0.05s);
 }
 
 .ds-button:hover {
@@ -58,6 +31,13 @@ li > .ds-button {
 .ds-button:active {
   background: var(--ds-fg-high-contrast);
   border-color: var(--ds-fg-high-contrast);
+  scale: 0.97;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ds-button:active {
+    scale: none;
+  }
 }
 
 /* Icon-only variant - automatically applied when only an icon is present */

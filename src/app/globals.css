@@ -2,6 +2,8 @@
 :root {
   --header-max-height: 3rem;
   --text-content-max-width: 80ch;
+  --panel-width-wide: min(50vw, 80ch);
+  --panel-width-narrow: 40ch;
 }
 
 html,
@@ -9,10 +11,15 @@ body {
   max-width: 100vw;
 }
 
+/* On html, not body: view-transition pseudo-elements inherit from html and
+   must resolve the panel widths' ch units in the same font as the panel */
+html {
+  font-family: var(--ds-font-family-sans-serif);
+}
+
 body {
   color: var(--ds-fg-default);
   background: var(--ds-bg-page);
-  font-family: var(--ds-font-family-sans-serif);
   font-size: 1rem;
   font-weight: 400;
   line-height: var(--ds-line-height-normal);
@@ -114,4 +121,197 @@ blockquote + blockquote {
 
 .markdown-text :is(ol, ul) {
   padding-inline-start: var(--ds-space-6);
+}
+
+/**
+ * View transitions for the secondary panel (Main.tsx). These must stay in a
+ * global stylesheet: CSS Modules would scope the class names inside
+ * ::view-transition-*(), and there is no :global() escape for them.
+ */
+
+/* Only the panel animates; the rest of the page stays live and clickable */
+::view-transition {
+  pointer-events: none;
+}
+
+::view-transition-old(root) {
+  display: none;
+}
+
+::view-transition-new(root) {
+  animation: none;
+}
+
+@keyframes vt-fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+@keyframes vt-fade-out {
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes vt-slide-in {
+  from {
+    translate: var(--vt-offset);
+  }
+}
+
+@keyframes vt-slide-out {
+  to {
+    translate: var(--vt-offset);
+  }
+}
+
+/* Snapshots never paint outside the panel, or over the toolbar it rests on */
+:root {
+  --vt-panel-clip-end: 0px;
+}
+
+@media (width < 80ch) {
+  :root {
+    --vt-panel-clip-end: var(--ds-radius-xl);
+  }
+}
+
+::view-transition-image-pair(.panel-in),
+::view-transition-image-pair(.panel-out),
+::view-transition-image-pair(.view-from-start),
+::view-transition-image-pair(.view-from-end),
+::view-transition-image-pair(.view-to-start),
+::view-transition-image-pair(.view-to-end) {
+  clip-path: inset(0 0 var(--vt-panel-clip-end) 0);
+}
+
+/**
+ * Open and close: enter from, and exit toward, the edge the panel lives on.
+ * On desktop the panel rides the aside's width transition: the entering frame
+ * tracks the moving edge live, and the exiting snapshot slides its own width.
+ */
+::view-transition-new(.panel-in) {
+  --vt-offset: 0 0;
+}
+
+::view-transition-old(.panel-out) {
+  --vt-offset: 100% 0;
+}
+
+@media (width < 80ch) {
+  ::view-transition-new(.panel-in),
+  ::view-transition-old(.panel-out) {
+    --vt-offset: 0 var(--ds-space-6);
+  }
+}
+
+::view-transition-new(.panel-in) {
+  animation:
+    var(--ds-motion-duration-lg-enter) var(--ds-motion-ease-out) both vt-fade-in,
+    var(--ds-motion-duration-lg-enter) var(--ds-motion-ease-out) both
+      vt-slide-in;
+}
+
+::view-transition-old(.panel-out) {
+  animation:
+    var(--ds-motion-duration-lg-exit) var(--ds-motion-ease-out) both vt-fade-out,
+    var(--ds-motion-duration-lg-exit) var(--ds-motion-ease-out) both
+      vt-slide-out;
+}
+
+/* On mobile the panel covers the reader, so it stays opaque for most of its travel */
+@media (width < 80ch) {
+  ::view-transition-new(.panel-in) {
+    animation-duration:
+      var(--ds-motion-duration-sm), var(--ds-motion-duration-lg-enter);
+  }
+
+  ::view-transition-old(.panel-out) {
+    animation-duration:
+      var(--ds-motion-duration-sm), var(--ds-motion-duration-lg-exit);
+    animation-delay:
+      calc(var(--ds-motion-duration-lg-exit) - var(--ds-motion-duration-sm)), 0s;
+  }
+}
+
+/**
+ * Switch: views slide along the toolbar's order, by a fraction of their width.
+ * Each view has its own fixed width, so neither snapshot reflows, while the
+ * aside's width transitions live (Main.module.css). The frame is deliberately
+ * not captured: WebKit renders a new snapshot nested inside another captured
+ * element as blank.
+ */
+::view-transition-old(.view-to-start),
+::view-transition-new(.view-from-start) {
+  --vt-offset: -8% 0;
+}
+
+::view-transition-old(.view-to-end),
+::view-transition-new(.view-from-end) {
+  --vt-offset: 8% 0;
+}
+
+::view-transition-old(.view-to-start),
+::view-transition-old(.view-to-end) {
+  animation:
+    var(--ds-motion-duration-md-exit) var(--ds-motion-ease-out) both vt-fade-out,
+    var(--ds-motion-duration-md-exit) var(--ds-motion-ease-out) both
+      vt-slide-out;
+}
+
+::view-transition-new(.view-from-start),
+::view-transition-new(.view-from-end) {
+  animation:
+    var(--ds-motion-duration-md-enter) var(--ds-motion-ease-out)
+      var(--ds-motion-stagger) both vt-fade-in,
+    var(--ds-motion-duration-md-enter) var(--ds-motion-ease-out)
+      var(--ds-motion-stagger) both vt-slide-in;
+}
+
+/**
+ * When the aside's width changes, the entering view rides its moving edge
+ * live. The exiting snapshot is static, so it travels the same distance on
+ * the aside's timing.
+ */
+@keyframes vt-ride {
+  to {
+    translate: var(--vt-ride-offset);
+  }
+}
+
+@media (width >= 80ch) {
+  ::view-transition-image-pair(.view-ride-widen) {
+    --vt-ride-offset: calc(var(--panel-width-narrow) - var(--panel-width-wide))
+      0;
+    animation: var(--ds-motion-duration-lg-enter) var(--ds-motion-ease-out) both
+      vt-ride;
+  }
+
+  ::view-transition-image-pair(.view-ride-narrow) {
+    --vt-ride-offset: calc(var(--panel-width-wide) - var(--panel-width-narrow))
+      0;
+    animation: var(--ds-motion-duration-lg-exit) var(--ds-motion-ease-out) both
+      vt-ride;
+  }
+}
+
+::view-transition-group(panel-close) {
+  z-index: 1;
+}
+
+/* Lexicon entry arriving after its fetch */
+::view-transition-new(.entry-in) {
+  animation: var(--ds-motion-duration-md-enter) var(--ds-motion-ease-out) both
+    vt-fade-in;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-old(*),
+  ::view-transition-new(*),
+  ::view-transition-image-pair(*),
+  ::view-transition-group(*) {
+    animation-duration: 0s !important;
+    animation-delay: 0s !important;
+  }
 }

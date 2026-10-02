@@ -5,7 +5,7 @@
       "dom",
       "esnext"
     ],
-    "types": ["node", "jest", "mdx"],
+    "types": ["node", "jest", "mdx", "react/canary"],
     "rootDir": ".",
     "allowJs": true,
     "skipLibCheck": true,

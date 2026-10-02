@@ -5,7 +5,6 @@ export * from './components/Checkbox';
 export * from './components/Link';
 export * from './components/Radio';
 export * from './components/RadioGroup';
-export * from './components/Sheet';
 export * from './components/Tooltip';
 export * from './components/ToggleGroup';
 export * from './components/Tabs';

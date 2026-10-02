@@ -7,8 +7,9 @@ import { useSettings } from '@/context/SettingsContext';
 import { scripture } from '@/data/scripture';
 import cx from 'classnames';
 import { CTACard } from '../CTACard';
+import { memo } from 'react';
 
-export const ScriptureReader = () => {
+export const ScriptureReader = memo(function ScriptureReader() {
   const { font } = useSettings();
   const { filterVerses, filteredStructure } = useSelection();
 
@@ -54,4 +55,4 @@ export const ScriptureReader = () => {
       </div>
     </div>
   );
-};
+});

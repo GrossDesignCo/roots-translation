@@ -19,13 +19,76 @@
   -webkit-mask-image: linear-gradient(to bottom, black 25%, transparent 100%);
 }
 
+.secondaryPanel:empty {
+  display: none;
+}
+
+/* Mobile: a panel resting on the toolbar, tucked under its rounded corners */
+.secondaryPanel {
+  position: fixed;
+  z-index: 40;
+  inset-inline: 0;
+  inset-block-start: calc(
+    env(safe-area-inset-top, 0px) + var(--header-max-height)
+  );
+  inset-block-end: calc(var(--header-max-height) - var(--ds-radius-xl));
+}
+
+@media (display-mode: standalone) {
+  .secondaryPanel {
+    inset-block-end: calc(var(--header-max-height) + 1em - var(--ds-radius-xl));
+  }
+}
+
+.panelFrame {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  background-color: var(--ds-bg-page);
+  border: 1px solid var(--ds-bg-container);
+  border-bottom: none;
+  border-radius: var(--ds-radius-xl) var(--ds-radius-xl) 0 0;
+}
+
+.view {
+  height: 100%;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: var(--ds-space-4) var(--ds-space-6)
+    calc(var(--ds-space-6) + var(--ds-radius-xl));
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  min-height: 2rem;
+  padding-inline-end: var(--ds-space-7);
+  margin-block-end: var(--ds-space-4);
+  font-size: var(--ds-font-size-base);
+}
+
+.panelFrame .closeButton {
+  position: absolute;
+  z-index: 1;
+  inset-block-start: calc(var(--ds-space-4) + 0.25rem);
+  inset-inline-end: var(--ds-space-4);
+  background-color: var(--ds-bg-page);
+}
+
+.panelFrame .closeButton:hover {
+  background-color: var(--ds-bg-low-contrast);
+}
+
+/* Captured during switches so it stays above the views sliding beneath it */
+:global(html:active-view-transition-type(panel-switch)) .closeButton {
+  view-transition-name: panel-close;
+}
+
 @media (min-width: 80ch) {
   .safeAreaTopFade {
     display: none;
   }
-}
 
-@media (min-width: 80ch) {
   .main {
     display: flex;
   }
@@ -38,24 +101,56 @@
     padding: var(--ds-space-4) var(--ds-space-4) 0;
   }
 
+  /**
+   * Desktop: a column whose width transitions on open, close, and switch, so
+   * the reader slides with it. Each view keeps its own fixed width and rides
+   * the column's moving edge, so its text never reflows mid-transition.
+   */
   .secondaryPanel {
-    overflow: auto;
-    max-height: 100dvh;
-    max-width: min(80ch, 50vw);
-    width: var(--main-secondary-panel-width);
-    padding-block-end: var(--header-max-height);
-    transition: 0.3s ease width;
+    position: static;
+    flex: none;
+    height: 100dvh;
+    inline-size: var(--panel-width-narrow);
+    transition: inline-size var(--ds-motion-duration-lg-exit)
+      var(--ds-motion-ease-out);
   }
 
-  .secondaryPanel > * {
-    padding: var(--ds-space-4);
+  .secondaryPanel:not([data-panel]) {
+    display: block;
+    inline-size: 0;
   }
 
-  .secondaryPanelTitle {
-    /* font-size: 1rem; */
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: var(--ds-space-2);
+  .secondaryPanel[data-panel='lexicon'],
+  :global(html:active-view-transition-type(panel-open)) .secondaryPanel {
+    transition-duration: var(--ds-motion-duration-lg-enter);
+  }
+
+  .secondaryPanel[data-panel='lexicon'] {
+    inline-size: var(--panel-width-wide);
+  }
+
+  .panelFrame {
+    border: none;
+    border-radius: 0;
+  }
+
+  .view {
+    inline-size: var(--panel-width-narrow);
+    padding: var(--ds-space-4) var(--ds-space-4)
+      calc(var(--ds-space-4) + var(--header-max-height));
+  }
+
+  .view[data-panel='lexicon'] {
+    inline-size: var(--panel-width-wide);
+  }
+
+  .title {
+    font-size: revert;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .secondaryPanel {
+    transition: none;
   }
 }
